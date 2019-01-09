@@ -12,6 +12,15 @@
 * Search for the shortest path between two entries
 * Multiple query parameters supported
 
+## Demo
+
+![](presentation/demo1.png)
+
+![](presentation/demo2.png)
+
+![](presentation/demo3.png)
+
+![](presentation/demo4.png)
 
 ## Goals
 

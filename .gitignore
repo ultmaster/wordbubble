@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+built/
+presentation/*.aux
+presentation/*.log
+presentation/*.nav
+presentation/*.out
+presentation/*.snm
+presentation/*.gz
+presentation/*.toc
