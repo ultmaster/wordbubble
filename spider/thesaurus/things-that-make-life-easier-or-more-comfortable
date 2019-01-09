@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "comment": "something that [make_1]{makes} it [comfortable]{comfortable} or [enjoyable]{enjoyable} to [live_1]{live} or [work_1]{work} somewhere",
+      "entry": "amenity",
+      "id": "amenity#amenity__1"
+    },
+    {
+      "comment": "something that you do to [make_1]{make} [thing]{things} [easy_1]{easier} for yourself or that is [intended_1]{intended} to [make_1]{make} [thing]{things} [easy_1]{easier} for you",
+      "entry": "convenience",
+      "id": "convenience#convenience__6"
+    },
+    {
+      "comment": "[thing]{things} that [make_1]{make} your [life]{life} [easy_1]{easier} and more [pleasant]{pleasant}",
+      "entry": "comforts",
+      "id": "comfort_1#comfort_1__17"
+    },
+    {
+      "comment": "all the [thing]{things} that you [need_1]{need} to [feel_1]{feel} [happy_1]{happy} and [comfortable]{comfortable}",
+      "entry": "creature comforts",
+      "id": "creature-comforts#creature-comforts__1"
+    }
+  ],
+  "thesaurus": "Things that make life easier or more comfortable",
+  "type": "Synonyms"
+}

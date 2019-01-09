@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [large_1]{large} in [size_1]{size}, amount, or [number_1]{number}",
+      "entry": "small",
+      "id": "small_1#small_1__1"
+    },
+    {
+      "comment": "[small_1]{small} in [size_1]{size} or [number_1]{number}",
+      "entry": "little",
+      "id": "little_2#little_2__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [small_1]{small}",
+      "entry": "tiny",
+      "id": "tiny#tiny__1"
+    },
+    {
+      "comment": "[small_1]{small} in [size_1]{size}, amount, or [degree]{degree}",
+      "entry": "slight",
+      "id": "slight_1#slight_1__1"
+    },
+    {
+      "comment": "very [small_1]{small}",
+      "entry": "minute",
+      "id": "minute_3#minute_3__1"
+    },
+    {
+      "comment": "very [small_1]{small}",
+      "entry": "microscopic",
+      "id": "microscopic#microscopic__1"
+    },
+    {
+      "comment": "[small_1]{smaller} than the [usual]{usual} [size_1]{size}",
+      "entry": "midget",
+      "id": "midget_2#midget_2__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [small_1]{small} in [size_1]{size} or amount",
+      "entry": "minuscule",
+      "id": "minuscule#minuscule__1"
+    },
+    {
+      "comment": "[small_1]{small} and not very [noticeable]{noticeable}",
+      "entry": "discreet",
+      "id": "discreet#discreet__5"
+    },
+    {
+      "comment": "very [short_1]{short} or [small_1]{small}",
+      "entry": "diminutive",
+      "id": "diminutive_1#diminutive_1__1"
+    }
+  ],
+  "thesaurus": "Small in size",
+  "type": "Synonyms"
+}

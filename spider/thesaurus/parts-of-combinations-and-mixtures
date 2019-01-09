@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "something that [combine_1]{combines} well with something else",
+      "entry": "complement",
+      "id": "complement_2#complement_2__3"
+    },
+    {
+      "comment": "one of the [part_1]{parts} that form something when they [combine_1]{combine}",
+      "entry": "constituent",
+      "id": "constituent_1#constituent_1__1"
+    },
+    {
+      "comment": "the [combination]{combination} of [feature_1]{features} that [make_1]{make} something what it is",
+      "entry": "DNA",
+      "id": "dna#dna__2"
+    },
+    {
+      "comment": "one of the substances that are combined to make something. The active ingredient of a drug or medicine is the thing that makes it effective",
+      "entry": "ingredient",
+      "id": "ingredient#ingredient__4"
+    },
+    {
+      "comment": "the [people_1]{people} or [thing]{things} that [combine_1]{combine} to form a [single_1]{single} [group_1]{group} or whole",
+      "entry": "makeup",
+      "id": "makeup#makeup__3"
+    },
+    {
+      "comment": "a thing that [form_1]{forms} an [attractive]{attractive} [combination]{combination} with something else",
+      "entry": "match",
+      "id": "match_1#match_1__4"
+    }
+  ],
+  "thesaurus": "Parts of combinations and mixtures",
+  "type": "Related words"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "push back",
+  "senses": [
+    {
+      "def": "to [arrange]{arrange} a [later_1]{later} time for something",
+      "examples": [
+        "The [deadline]{deadline} has been [pushed]{pushed} back two [week]{weeks}.",
+        "Can I [push_1]{push} our [meeting]{meeting} back to May 27?"
+      ],
+      "id": "push-back__1"
+    },
+    {
+      "def": "to [resist]{resist} a [change_1]{change} that has been [introduce]{introduced}",
+      "examples": [
+        "[large_1]{Large} [bank_1]{banks} are [push_1]{pushing} back against [regulator]{regulators}\u2019 [plan_1]{plans} to [toughen]{toughen} [rule_1]{rules} on these [loan_1]{loans}."
+      ],
+      "id": "push-back__6"
+    }
+  ]
+}

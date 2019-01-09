@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "make up for",
+  "senses": [
+    {
+      "def": "to take the [place_1]{place} of something that has been [lost_1]{lost} or [damage_2]{damaged}",
+      "examples": [
+        "Nothing can [make_1]{make} up for the [loss]{loss} of a [child]{child}."
+      ],
+      "id": "make-up-for__1"
+    },
+    {
+      "def": "to [provide]{provide} something [good_1]{good}, so that something [bad_1]{bad} seems less [important]{important}",
+      "examples": [
+        "The [good_1]{good} [weather_1]{weather} made up for the [bad_1]{bad} [organization]{organization}.",
+        "He [bought]{bought} her some [flower_1]{flowers} to [make_1]{make} up for being [late_1]{late}."
+      ],
+      "id": "make-up-for__3"
+    }
+  ]
+}

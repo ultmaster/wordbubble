@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "throw together",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something [quickly]{quickly} because you do not have much time",
+      "examples": [
+        "I can [easily]{easily} [throw_1]{throw} together some [lunch_1]{lunch}."
+      ],
+      "id": "throw-together__1"
+    },
+    {
+      "def": "if a [particular_1]{particular} [situation]{situation} or [event]{event} [throw_1]{throws} [people_1]{people} together, it [cause_1]{causes} them to [meet_1]{meet} and get to [know_1]{know} one another",
+      "examples": [
+        "They were [thrown]{thrown} together by [chance_1]{chance}."
+      ],
+      "id": "throw-together__3"
+    }
+  ]
+}

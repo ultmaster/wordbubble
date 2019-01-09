@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "relative to",
+  "senses": [
+    {
+      "def": "[compared]{compared} with",
+      "examples": [
+        "How [did]{did} the [control_1]{control} [group_1]{group} [student]{students} do [relative_1]{relative} to the whole [class_1]{class}?"
+      ],
+      "id": "relative-to__1"
+    },
+    {
+      "def": "[concerning_1]{concerning}, or in [relation]{relation} to",
+      "examples": [
+        "[question_1]{Questions} have been [raised]{raised} [relative_1]{relative} to your [testimony]{testimony}."
+      ],
+      "id": "relative-to__3"
+    }
+  ]
+}

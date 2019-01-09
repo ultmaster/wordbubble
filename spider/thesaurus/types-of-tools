@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} [tool_1]{tool} or [piece_1]{piece} of [equipment]{equipment} that [does]{does} something [useful]{useful} or [impressive]{impressive}",
+      "entry": "gadget",
+      "id": "gadget#gadget__1"
+    },
+    {
+      "comment": "[small_1]{small} [tool_1]{tools} or [piece_1]{pieces} of [equipment]{equipment} that do [useful]{useful} or [impressive]{impressive} [thing]{things}",
+      "entry": "gadgetry",
+      "id": "gadgetry#gadgetry__1"
+    },
+    {
+      "comment": "a [simple]{simple} [machine_1]{machine} for [shape_2]{shaping} [metal_1]{metal} or [wood]{wood} [object_1]{objects}",
+      "entry": "machine tool",
+      "id": "machine-tool#machine-tool__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} that [use_1]{uses} [electricity]{electricity} or a [motor_1]{motor}",
+      "entry": "power tool",
+      "id": "power-tool#power-tool__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment}, [usually]{usually} one that you [hold_1]{hold} in your hand, that is [design_2]{designed} to do a [particular_1]{particular} [type_1]{type} of [work_1]{work}",
+      "entry": "tool",
+      "id": "tool_1#tool_1__1"
+    }
+  ],
+  "thesaurus": "Types of tools",
+  "type": "Related words"
+}

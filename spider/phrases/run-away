@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "run away",
+  "senses": [
+    {
+      "def": "to [secretly]{secretly} [leave_1]{leave} a [place_1]{place} where you should [stay_1]{stay}, because you are not [happy_1]{happy} there",
+      "examples": [
+        "When I was 13, I [ran]{ran} [away_1]{away} from [home_1]{home}."
+      ],
+      "id": "run-away__1"
+    },
+    {
+      "def": "to [try_1]{try} to [avoid]{avoid} [dealing]{dealing} with a [difficult]{difficult} or [unpleasant]{unpleasant} [situation]{situation}",
+      "examples": [
+        "You can\u2019t keep [running_1]{running} [away_1]{away} from the [problem]{problem}."
+      ],
+      "id": "run-away__3"
+    }
+  ]
+}

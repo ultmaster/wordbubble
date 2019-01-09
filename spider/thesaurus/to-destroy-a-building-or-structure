@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [destroy]{destroy} a [building]{building}, [especially]{especially} because it is very [old]{old} or [dangerous]{dangerous}",
+      "entry": "pull down",
+      "id": "pull-down#pull-down__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} or [remove]{remove} a [structure_1]{structure} or part of a [structure_1]{structure}",
+      "entry": "tear down",
+      "id": "tear-down#tear-down__1"
+    },
+    {
+      "comment": "to [severely]{severely} [damage_1]{damage} or [destroy]{destroy} a [vehicle]{vehicle} or [building]{building}",
+      "entry": "wreck",
+      "id": "wreck_1#wreck_1__1"
+    },
+    {
+      "comment": "to [completely]{completely} [destroy]{destroy} a [building]{building} or [town]{town}",
+      "entry": "raze",
+      "id": "raze#raze__1"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [destroy]{destroy} a [building]{building}",
+      "entry": "demolish",
+      "id": "demolish#demolish__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} a [building]{building} or other [structure_1]{structure} by [accident]{accident}",
+      "entry": "demolish",
+      "id": "demolish#demolish__3"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [destroy]{destroy} a [building]{building} or [wall_1]{wall}",
+      "entry": "knock down",
+      "id": "knock-down#knock-down__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} a [building]{building} or [group_1]{group} of [building]{buildings}",
+      "entry": "level",
+      "id": "level_3#level_3__3"
+    },
+    {
+      "comment": "to [destroy]{destroy} the [inside_1]{inside} of a [building]{building} or [vehicle]{vehicle}",
+      "entry": "gut",
+      "id": "gut_2#gut_2__2"
+    },
+    {
+      "comment": "to [order_1]{order} something such as a [building]{building} or [machine_1]{machine} to be [destroy]{destroyed} because it is not [safe_1]{safe}",
+      "entry": "condemn",
+      "id": "condemn#condemn__9"
+    }
+  ],
+  "thesaurus": "To destroy a building or structure",
+  "type": "Synonyms"
+}

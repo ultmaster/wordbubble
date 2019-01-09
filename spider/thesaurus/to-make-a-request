@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} that you [want_1]{want} someone to come and [speak_1]{speak} to you",
+      "entry": "ask for",
+      "id": "ask-for#ask-for__3"
+    },
+    {
+      "comment": "to [formally]{formally} [ask_1]{ask} someone to do something or go somewhere",
+      "entry": "invite",
+      "id": "invite_1#invite_1__6"
+    },
+    {
+      "comment": "to ask a musician or DJ to play a piece of music",
+      "entry": "request",
+      "id": "request_2#request_2__6"
+    },
+    {
+      "comment": "to keep [ask_1]{asking} someone to do something in a way that [show_1]{shows} you are [worried]{worried} and serious",
+      "entry": "entreat",
+      "id": "entreat#entreat__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone to do something, in a very [emotional]{emotional} way, because you [want_1]{want} it very much",
+      "entry": "implore",
+      "id": "implore#implore__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone to [leave_1]{leave} a [place_1]{place}, [usually]{usually} by [telephone_2]{telephoning} them or [send_1]{sending} them a [message_1]{message}",
+      "entry": "call away",
+      "id": "call-away#call-away__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone to do something, [provide]{provide} something, or [deliver]{deliver} something",
+      "entry": "order up",
+      "id": "order-up#order-up__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} for someone to come to you",
+      "entry": "send for",
+      "id": "send-for#send-for__1"
+    },
+    {
+      "comment": "to [say_1]{say} very [firm_1#firm_1__28]{firmly} that something must [happen]{happen} or must be done",
+      "entry": "insist",
+      "id": "insist#insist__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} for someone because you would [like_1]{like} to see or [speak_1]{speak} to them",
+      "entry": "want",
+      "id": "want_1#want_1__12"
+    }
+  ],
+  "thesaurus": "To make a request",
+  "type": "Synonyms"
+}

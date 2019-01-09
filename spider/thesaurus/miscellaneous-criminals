@@ -1,0 +1,251 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [abduct]{abducts} someone",
+      "entry": "abductor",
+      "id": "abductor#abductor__1"
+    },
+    {
+      "comment": "someone who [help_1]{helps} another [person]{person} [commit]{commit} a [crime_1]{crime}",
+      "entry": "abettor",
+      "id": "abettor#abettor__1"
+    },
+    {
+      "comment": "someone who helps a criminal, for example by hiding them from the police. An accessory before the fact helps before the crime. An accessory after the fact helps after the crime",
+      "entry": "accessory",
+      "id": "accessory#accessory__5"
+    },
+    {
+      "comment": "someone who [deliberately]{deliberately} [start_1]{starts} [fire_1]{fires}, [especially]{especially} in [building]{buildings}",
+      "entry": "arsonist",
+      "id": "arsonist#arsonist__1"
+    },
+    {
+      "comment": "someone who [hurt_1]{hurts} a [child]{child} by [touching_1]{touching} them in a [sexual]{sexual} way or [force_2]{forcing} them to do [sexual]{sexual} [act_1]{acts}",
+      "entry": "child molester",
+      "id": "child-molester#child-molester__1"
+    },
+    {
+      "comment": "someone who [lie_1]{lies} in [order_1]{order} to [make_1]{make} [people_1]{people} give him [money]{money}",
+      "entry": "con artist",
+      "id": "con-artist#con-artist__1"
+    },
+    {
+      "comment": "a man who [trick_1]{tricks} other [people_1]{people}, [especially]{especially} in [order_1]{order} to get their [money]{money}",
+      "entry": "conman",
+      "id": "conman#conman__1"
+    },
+    {
+      "comment": "a [woman]{woman} who [trick_1]{tricks} other [people_1]{people}, [especially]{especially} in [order_1]{order} to get their [money]{money}",
+      "entry": "con woman",
+      "id": "con-woman#con-woman__1"
+    },
+    {
+      "comment": "someone who [commit]{commits} [crime_1]{crime} [use_1]{using} the [internet]{internet}",
+      "entry": "cybercriminal",
+      "id": "cybercriminal#cybercriminal__1"
+    },
+    {
+      "comment": "a [drug_1]{drug} [lord_1]{lord}",
+      "entry": "drug baron",
+      "id": "drug-baron#drug-baron__1"
+    },
+    {
+      "comment": "a [powerful]{powerful} [person]{person} in an [organization]{organization} that [deal_1]{deals} in [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "drug lord",
+      "id": "drug-lord#drug-lord__1"
+    },
+    {
+      "comment": "someone who [buy_1]{buys} and [sell_1]{sells} [stolen]{stolen} [property]{property}",
+      "entry": "fence",
+      "id": "fence_1#fence_1__3"
+    },
+    {
+      "comment": "someone who [deliberately]{deliberately} [start_1]{starts} [fire_1]{fires}",
+      "entry": "firebug",
+      "id": "firebug#firebug__1"
+    },
+    {
+      "comment": "a first [offender]{offender}",
+      "entry": "first-time offender",
+      "id": "first-time-offender#first-time-offender__1"
+    },
+    {
+      "comment": "a man who [commit]{commits} the [crime_1]{crime} of [showing]{showing} his [sex_1]{sex} [organ]{organs} in [public_1]{public} in [order_1]{order} to [frighten]{frighten} or [upset_1]{upset} someone",
+      "entry": "flasher",
+      "id": "flasher#flasher__2"
+    },
+    {
+      "comment": "a criminal who makes copies of valuable documents or works of art, and sells the copies illegally to people who think they are original. Someone who copies money is called a counterfeiter.",
+      "entry": "forger",
+      "id": "forger#forger__1"
+    },
+    {
+      "comment": "someone who [commit]{commits} the [crime_1]{crime} of [fraud]{fraud}",
+      "entry": "fraudster",
+      "id": "fraudster#fraudster__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [hide_1]{hide} an [illegal_1]{illegal} or [secret_1]{secret} [activity]{activity} for another [person]{person} or [organization]{organization}",
+      "entry": "front man",
+      "id": "front-man#front-man__3"
+    },
+    {
+      "comment": "someone who has done something [illegal_1]{illegal} and is [trying]{trying} to [avoid]{avoid} being [caught_1]{caught} by the [police_1]{police}",
+      "entry": "fugitive",
+      "id": "fugitive#fugitive__1"
+    },
+    {
+      "comment": "someone who [use_1]{uses} a [gun_1]{gun} when [fighting]{fighting} or [commit]{committing} a [crime_1]{crime}",
+      "entry": "gunman",
+      "id": "gunman#gunman__1"
+    },
+    {
+      "comment": "someone who [take_1]{takes} [guns]{guns} into a [country]{country} [secretly]{secretly} and [illegal_1#illegal_1__6]{illegally}",
+      "entry": "gunrunner",
+      "id": "gunrunner#gunrunner__1"
+    },
+    {
+      "comment": "a [hoodlum]{hoodlum}",
+      "entry": "hood",
+      "id": "hood_1#hood_1__10"
+    },
+    {
+      "comment": "a [young_1]{young} [person]{person} who [show_1]{shows} no [respect_1]{respect} for the [law]{law}",
+      "entry": "hoodlum",
+      "id": "hoodlum#hoodlum__1"
+    },
+    {
+      "comment": "a [criminal_1]{criminal}, [especially]{especially} a [violent]{violent} one",
+      "entry": "hoodlum",
+      "id": "hoodlum#hoodlum__2"
+    },
+    {
+      "comment": "someone who is [noisy]{noisy} or [violent]{violent} in [public_1]{public} [place_1]{places}",
+      "entry": "hooligan",
+      "id": "hooligan#hooligan__1"
+    },
+    {
+      "comment": "someone who [enter]{enters} a [place_1]{place} where they are not [allow]{allowed} to go, [especially]{especially} to [commit]{commit} a [crime_1]{crime}",
+      "entry": "intruder",
+      "id": "intruder#intruder__1"
+    },
+    {
+      "comment": "a man who is very [important]{important} and [powerful]{powerful}. This is often [used]{used} [humorous#humorous__5]{humorously} about a [criminal_1]{criminal} [leader]{leader}.",
+      "entry": "Mr. Big",
+      "id": "mr-big#mr-big__1"
+    },
+    {
+      "comment": "a [criminal_1]{criminal} who is [violent]{violent} and often not very [clever]{clever}",
+      "entry": "mug",
+      "id": "mug_1#mug_1__7"
+    },
+    {
+      "comment": "someone who is [paid_1]{paid} to [bring]{bring} [illegal_1]{illegal} [drug_1]{drugs} into a [country]{country} by [hiding]{hiding} them on or in their body",
+      "entry": "mule",
+      "id": "mule#mule__3"
+    },
+    {
+      "comment": "someone who [listen_1]{listens} [illegal_1#illegal_1__6]{illegally} to the [call_1]{calls} or [message_1]{messages} on another [person]{person's} [phone_1]{phone}, [especially]{especially} by [access_2]{accessing} the [voicemail]{voicemail} without their [knowledge]{knowledge} or [consent_1]{consent}. [phone_1]{Phone} [hacker]{hackers} are often [simply]{simply} [call_1]{called} [hacker]{hackers}",
+      "entry": "phone hacker",
+      "id": "phone-hacker#phone-hacker__1"
+    },
+    {
+      "comment": "someone who [illegal_1#illegal_1__6]{illegally} [make_1]{makes} and [sell_1]{sells} [copy_1]{copies} of computer [program_1]{programs}, [book_1]{books}, [video_1]{videos}, or CDs",
+      "entry": "pirate",
+      "id": "pirate_1#pirate_1__2"
+    },
+    {
+      "comment": "someone who [illegal_1#illegal_1__6]{illegally} [catch_1]{catches} or [kill_1]{kills} [animal_1]{animals}, [bird]{birds}, or [fish_1]{fish} on someone else\u2019s [property]{property}",
+      "entry": "poacher",
+      "id": "poacher#poacher__1"
+    },
+    {
+      "comment": "someone who [go_1]{goes} around [quietly]{quietly} and [secretly]{secretly} [look_1]{looking} for an [opportunity]{opportunity} to [commit]{commit} a [crime_1]{crime}, [especially]{especially} at [night_1]{night}",
+      "entry": "prowler",
+      "id": "prowler#prowler__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} [money]{money} from [illegal_1]{illegal} [activity]{activities}",
+      "entry": "racketeer",
+      "id": "racketeer#racketeer__1"
+    },
+    {
+      "comment": "someone who [force_1]{forces} someone else to have [sex_1]{sex} with them",
+      "entry": "rapist",
+      "id": "rapist#rapist__1"
+    },
+    {
+      "comment": "someone who is [violent]{violent} and [commit]{commits} [crime_1]{crimes}",
+      "entry": "rough",
+      "id": "rough_3#rough_3__3"
+    },
+    {
+      "comment": "someone who [carry_1]{carries} [drug_1]{drugs} or [weapon]{weapons} [illegal_1#illegal_1__6]{illegally} from one [place_1]{place} to another",
+      "entry": "runner",
+      "id": "runner#runner__8"
+    },
+    {
+      "comment": "someone who [does]{does} not [obey]{obey} [law]{laws}",
+      "entry": "scofflaw",
+      "id": "scofflaw#scofflaw__1"
+    },
+    {
+      "comment": "someone who has [committed]{committed} a [crime_1]{crime} [involve]{involving} [sex_1]{sex}",
+      "entry": "sex offender",
+      "id": "sex-offender#sex-offender__1"
+    },
+    {
+      "comment": "someone who [secretly]{secretly} and [illegal_1#illegal_1__6]{illegally} [take_1]{takes} [goods]{goods} or [people_1]{people} into or out of a [country]{country}, [especially]{especially} as a way of [earn]{earning} [money]{money}",
+      "entry": "smuggler",
+      "id": "smuggler#smuggler__1"
+    },
+    {
+      "comment": "someone whose [personality]{personality} [make_1]{makes} them [behave]{behave} in ways that are [dangerous]{dangerous} to other [people_1]{people}",
+      "entry": "sociopath",
+      "id": "sociopath#sociopath__1"
+    },
+    {
+      "comment": "someone who [develop]{develops} an [extremely]{extremely} [strong]{strong} interest in another [person]{person} and [follow]{follows} and [watch_1]{watches} them all the time in a [threatening]{threatening} way",
+      "entry": "stalker",
+      "id": "stalker#stalker__1"
+    },
+    {
+      "comment": "someone who [illegal_1#illegal_1__6]{illegally} [avoid]{avoids} [pay_1]{paying} something such as a [tax_1]{tax} or a [rail_1]{rail} or [bus_1]{bus} [fare_1]{fare}",
+      "entry": "tax/fare etc. dodger",
+      "id": "dodger#dodger__2"
+    },
+    {
+      "comment": "a man who is [violent]{violent}, [especially]{especially} a [criminal_1]{criminal}",
+      "entry": "thug",
+      "id": "thug#thug__1"
+    },
+    {
+      "comment": "a [person]{person} who [commit]{commits} a [tort]{tort}",
+      "entry": "tortfeasor",
+      "id": "tortfeasor#tortfeasor__1"
+    },
+    {
+      "comment": "a [violent]{violent} man, [especially]{especially} a [violent]{violent} [criminal_1]{criminal}",
+      "entry": "tough",
+      "id": "tough_4#tough_4__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} or [company]{companies} that [work_1]{work} together to [illegal_1#illegal_1__6]{illegally} [control_1]{control} [price_1]{prices} and [limit_1]{limit} [competition]{competition} in an [industry]{industry}",
+      "entry": "trust",
+      "id": "trust_1#trust_1__18"
+    },
+    {
+      "comment": "someone who [deliberately]{deliberately} [damage_2]{damages} [property]{property}",
+      "entry": "vandal",
+      "id": "vandal#vandal__1"
+    },
+    {
+      "comment": "an [evil_1]{evil} [person]{person}, or a [criminal_1]{criminal}",
+      "entry": "villain",
+      "id": "villain#villain__3"
+    }
+  ],
+  "thesaurus": "Miscellaneous criminals",
+  "type": "Related words"
+}

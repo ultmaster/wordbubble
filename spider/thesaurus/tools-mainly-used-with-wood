@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [shape_2]{shaping} or [cutting_1]{cutting} [wood]{wood}. It has a [sharp_1]{sharp} [blade]{blade} at an [angle_1]{angle} of 90 [degree]{degrees} to the [handle_1]{handle}.",
+      "entry": "adz",
+      "id": "adz#adz__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [making]{making} [hole_1]{holes} in [wood]{wood} or in the [ground_1]{ground}",
+      "entry": "auger",
+      "id": "auger#auger__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [cutting_1]{cutting} down [tree]{trees} and [cutting_1]{cutting} up [large_1]{large} [piece_1]{pieces} of [wood]{wood}, [consist]{consisting} of a long [wooden]{wooden} [handle_1]{handle} and a [heavy_1]{heavy} [metal_1]{metal} [blade]{blade}",
+      "entry": "ax",
+      "id": "ax_1#ax_1__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [cutting_1]{cutting} down [tree]{trees}, with a [blade]{blade} [consist]{consisting} of a [set_1]{set} of [connected]{connected} [metal_1]{metal} [point_1]{points} that are [driven_1]{driven} around very [fast_1]{fast} by a [motor_1]{motor}",
+      "entry": "chainsaw",
+      "id": "chainsaw#chainsaw__1"
+    },
+    {
+      "comment": "an electrical saw with a round metal blade",
+      "entry": "circular saw",
+      "id": "circular-saw#circular-saw__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [cutting_1]{cutting} a [design_1]{design} into thin [wood]{wood}. It [consist]{consists} of a thin [blade]{blade} on a [frame_1]{frame}.",
+      "entry": "fretsaw",
+      "id": "fretsaw#fretsaw__1"
+    },
+    {
+      "comment": "a type of saw that cuts when you push and pull it with your hand",
+      "entry": "handsaw",
+      "id": "handsaw#handsaw__1"
+    },
+    {
+      "comment": "a tool used for cutting wood, consisting of a short wooden handle and a sharp blade. It is similar to a small ax.",
+      "entry": "hatchet",
+      "id": "hatchet#hatchet__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [making]{making} [wooden]{wooden} [surface_1]{surfaces} [smooth_1]{smooth}, that has a [flat_1]{flat} bottom with a [sharp_1]{sharp} [blade]{blade} in it",
+      "entry": "plane",
+      "id": "plane_1#plane_1__8"
+    },
+    {
+      "comment": "an [electric]{electric} [tool_1]{tool} [used]{used} for [making]{making} [wooden]{wooden} [surface_1]{surfaces} [smooth_1]{smooth}",
+      "entry": "planer",
+      "id": "planer#planer__1"
+    }
+  ],
+  "thesaurus": "Tools mainly used with wood",
+  "type": "Related words"
+}

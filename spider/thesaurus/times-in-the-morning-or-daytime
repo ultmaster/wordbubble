@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "the time when it [begin]{begins} to get [light_1]{light} in the [morning_1]{morning}",
+      "entry": "break of day",
+      "id": "break-of-day#break-of-day__1"
+    },
+    {
+      "comment": "the very [early_1]{early} [morning_1]{morning} when it [begin]{begins} to get [light_1]{light}",
+      "entry": "cockcrow",
+      "id": "cockcrow#cockcrow__1"
+    },
+    {
+      "comment": "the [beginning]{beginning} of the [day]{day}, when it [begin]{begins} to get [light_1]{light}",
+      "entry": "dawn",
+      "id": "dawn_1#dawn_1__1"
+    },
+    {
+      "comment": "the time when [light_1]{light} first [appear]{appears} in the [morning_1]{morning}",
+      "entry": "daybreak",
+      "id": "daybreak#daybreak__1"
+    },
+    {
+      "comment": "the time when many [people_1]{people} are [driving]{driving} to or from [work_1]{work} and [listen_1]{listen} to the [radio_1]{radio} in their [car]{cars}, [especially]{especially} in the [afternoon_1]{afternoon}",
+      "entry": "drivetime",
+      "id": "drivetime#drivetime__1"
+    },
+    {
+      "comment": "the time in the [morning_1]{morning} when the [sun_1]{sun} is [rising]{rising}",
+      "entry": "first light",
+      "id": "first-light#first-light__1"
+    },
+    {
+      "comment": "the [morning_1]{morning}",
+      "entry": "the forenoon",
+      "id": "the-forenoon#the-forenoon__1"
+    },
+    {
+      "comment": "[exactly]{exactly} noon, when the [sun_1]{sun} is at its [high_1]{highest} [point_1]{point} in the [sky_1]{sky}",
+      "entry": "high noon",
+      "id": "high-noon#high-noon__1"
+    },
+    {
+      "comment": "the time in the [middle_1]{middle} of the [day]{day} when [people_1]{people} [usually]{usually} [eat]{eat} [lunch_1]{lunch}",
+      "entry": "lunchtime",
+      "id": "lunchtime#lunchtime__1"
+    },
+    {
+      "comment": "twelve o\u2019[clock_1]{clock}, when the [morning_1]{morning} [end_1]{ends} and the [afternoon_1]{afternoon} [begin]{begins}",
+      "entry": "midday",
+      "id": "midday#midday__1"
+    },
+    {
+      "comment": "twelve o\u2019[clock_1]{clock} in the [middle_1]{middle} of the [day]{day}",
+      "entry": "noon",
+      "id": "noon#noon__1"
+    },
+    {
+      "comment": "the time of [day]{day} that a [store_1]{store}, [business]{business}, etc. [open_2]{opens}",
+      "entry": "opening time",
+      "id": "opening-time#opening-time__1"
+    },
+    {
+      "comment": "a piece of music traditionally played on the bugle in the morning to wake up soldiers, or the time when it is played",
+      "entry": "reveille",
+      "id": "reveille#reveille__1"
+    },
+    {
+      "comment": "the time of [day]{day} when there are a [lot_1]{lot} of [car]{cars} on the [road]{road} because most [people_1]{people} are [traveling]{traveling} to or from [work_1]{work}",
+      "entry": "rush hour",
+      "id": "rush-hour#rush-hour__1"
+    },
+    {
+      "comment": "the time in the [early_1]{early} [morning_1]{morning} when the [sun_1]{sun} first [appear]{appears} in the [sky_1]{sky} with the [light_1]{light} of a [new]{new} [day]{day}",
+      "entry": "sunrise",
+      "id": "sunrise#sunrise__1"
+    },
+    {
+      "comment": "[sunrise]{sunrise}",
+      "entry": "sunup",
+      "id": "sunup#sunup__1"
+    },
+    {
+      "comment": "a time of [day]{day}, [especially]{especially} very [early_1]{early}, that is not a [reasonable]{reasonable} time to [speak_1]{speak} to or see someone",
+      "entry": "unearthly hour",
+      "id": "unearthly-hour#unearthly-hour__1"
+    },
+    {
+      "comment": "a time of [day]{day} when it is very [early_1]{early} or very [late_1]{late}, and not [reasonable]{reasonable} to [speak_1]{speak} to or see someone",
+      "entry": "ungodly hour",
+      "id": "ungodly-hour#ungodly-hour__1"
+    }
+  ],
+  "thesaurus": "Times in the morning or daytime",
+  "type": "Related words"
+}

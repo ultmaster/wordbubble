@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "the part of a [building]{building} that is [partly]{partly} or [completely]{completely} below the [level_1]{level} of the [ground_1]{ground}",
+      "entry": "basement",
+      "id": "basement#basement__1"
+    },
+    {
+      "comment": "to or on a [lower_1]{lower} [floor_1]{floor} of a [building]{building}, [especially]{especially} the [floor_1]{floor} at [ground_1]{ground} [level_1]{level}",
+      "entry": "downstairs",
+      "id": "downstairs_1#downstairs_1__1"
+    },
+    {
+      "comment": "the [floor_1]{floor} of a [building]{building} that is at [ground_1]{ground} [level_1]{level}",
+      "entry": "downstairs",
+      "id": "downstairs_2#downstairs_2__1"
+    },
+    {
+      "comment": "the floor of a building which is at the same level as the ground outside. The British word is ground floor",
+      "entry": "the first floor",
+      "id": "the-first-floor#the-first-floor__1"
+    },
+    {
+      "comment": "the [second_1]{second} [floor_1]{floor} of a [building]{building}",
+      "entry": "the first floor",
+      "id": "the-first-floor#the-first-floor__3"
+    },
+    {
+      "comment": "one of the [level_1]{levels} in a [building]{building}",
+      "entry": "floor",
+      "id": "floor_1#floor_1__8"
+    },
+    {
+      "comment": "an [upper_1]{upper} [level_1]{level} in a [building]{building} such as a [church]{church}, [court_1]{court}, etc.",
+      "entry": "gallery",
+      "id": "gallery#gallery__8"
+    },
+    {
+      "comment": "the [floor_1]{floor} of a [building]{building} that is at or [near_1]{near} the [level_1]{level} of the [ground_1]{ground}",
+      "entry": "ground floor",
+      "id": "ground-floor#ground-floor__1"
+    },
+    {
+      "comment": "one of the [floor_1]{floors} in a [building]{building}",
+      "entry": "level",
+      "id": "level_1#level_1__28"
+    },
+    {
+      "comment": "a small floor, platform, or balcony above the main floor in a room",
+      "entry": "loft",
+      "id": "loft_1#loft_1__7"
+    },
+    {
+      "comment": "the [low_1]{lowest} [level_1]{level} of a [building]{building}, below the [surface_1]{surface} of the [ground_1]{ground}",
+      "entry": "lower ground floor",
+      "id": "lower-ground-floor#lower-ground-floor__1"
+    },
+    {
+      "comment": "an [area]{area} between two [level_1]{levels} of a [building]{building}",
+      "entry": "mezzanine",
+      "id": "mezzanine#mezzanine__1"
+    },
+    {
+      "comment": "the [place_1]{place} in a [courtroom]{courtroom} or another [building]{building} where the [public_1]{public} can [sit]{sit} to [watch_1]{watch}",
+      "entry": "public gallery",
+      "id": "public-gallery#public-gallery__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [story]{story}",
+      "entry": "storey",
+      "id": "storey#storey__2"
+    },
+    {
+      "comment": "a level in a building. The British word is storey",
+      "entry": "story",
+      "id": "story#story__27"
+    },
+    {
+      "comment": "on an [upper_1]{upper} [level_1]{level} of a [building]{building} with [stair]{stairs}",
+      "entry": "upstairs",
+      "id": "upstairs_1#upstairs_1__1"
+    },
+    {
+      "comment": "up a [set_1]{set} of [stair]{stairs} to an [upper_1]{upper} [level_1]{level} of a [building]{building}",
+      "entry": "upstairs",
+      "id": "upstairs_1#upstairs_1__4"
+    },
+    {
+      "comment": "the [upper_1]{upper} [level_1]{level} or [level_1]{levels} of a [building]{building}",
+      "entry": "upstairs",
+      "id": "upstairs_2#upstairs_2__1"
+    },
+    {
+      "comment": "[covering]{covering} the whole [floor_1]{floor} of a [room_1]{room}",
+      "entry": "wall-to-wall",
+      "id": "wall-to-wall#wall-to-wall__1"
+    }
+  ],
+  "thesaurus": "Floors and levels of buildings",
+  "type": "Related words"
+}

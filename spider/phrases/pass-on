@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "pass on",
+  "senses": [
+    {
+      "def": "to give someone something that someone else has [given_1]{given} you",
+      "examples": [
+        "When you\u2019ve read this [message_1]{message}, please [pass_1]{pass} it on.",
+        "I\u2019ll [pass_1]{pass} these [clothes]{clothes} on to my [nephew]{nephew} when my [lad_1]{lads} have [outgrown]{outgrown} them."
+      ],
+      "id": "pass-on__1"
+    },
+    {
+      "def": "to [make_1]{make} someone who is [buy_1]{buying} something from you [pay_1]{pay} for the [cost_1]{cost} of something",
+      "examples": [
+        "The [retailer]{retailer} is [forced]{forced} to [pass_1]{pass} these [extra_1]{extra} [cost_1]{costs} on to the [customer]{customer}."
+      ],
+      "id": "pass-on__4"
+    },
+    {
+      "def": "to give someone an [infectious]{infectious} [illness]{illness}",
+      "examples": [
+        "I [took]{took} the [day]{day} off [work_1]{work} because I didn\u2019t [want_1]{want} to [pass_1]{pass} on my [flu]{flu} to everyone in the [office]{office}.",
+        "[women]{Women} can\u2019t get this [condition_1]{condition} although they can [pass_1]{pass} it on."
+      ],
+      "id": "pass-on__6"
+    },
+    {
+      "def": "to [arrange]{arrange} for a [customer]{customer} to [speak_1]{speak} to someone else who can give them the [information]{information} or [service_1]{service} that they have [ask_1]{asked} you for, because you cannot [provide]{provide} it for them",
+      "examples": [
+        "I\u2019ll [pass_1]{pass} you on to our [claim_1]{claims} [department]{department}."
+      ],
+      "id": "pass-on__10"
+    }
+  ]
+}

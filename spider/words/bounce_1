@@ -1,0 +1,50 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [ball_1]{ball} or other [object_1]{object} [bounce_1]{bounces}, or if you bounce it, it [hit_1]{hits} a [surface_1]{surface} then [immediately]{immediately} [move_1]{moves} [away_1]{away} from it",
+      "examples": [
+        "The [ball_1]{ball} [bounce_1]{bounced} [twice_1]{twice} before [hit_1]{hitting} the [net_1]{net}.",
+        "[hailstone]{Hailstones} were [bouncing]{bouncing} off the [roof_1]{roof}.",
+        "[josh]{Josh} [bounce_1]{bounced} the [ball_1]{ball} down the [street_1]{street}."
+      ],
+      "id": "bounce_1__1"
+    },
+    {
+      "def": "if a [person]{person} or [vehicle]{vehicle} [bounce_1]{bounces} or is [bounce_1]{bounced}, they move up and down as if they are on [spring_1]{springs}",
+      "examples": [
+        "She [sat_1]{sat} [bouncing]{bouncing} a [baby_1]{baby} on her [knee_1]{knee}.",
+        "The [kid_1]{kids} [love_1]{love} [bouncing]{bouncing} on the [bed_1]{bed}.",
+        "Our [jeep]{jeep} [bounce_1]{bounced} along the rough [track_1]{track}.",
+        "We were [bounce_1]{bounced} around in the back of the [van]{van}."
+      ],
+      "id": "bounce_1__5"
+    },
+    {
+      "def": "if a [check_1]{check} [bounce_1]{bounces}, or if a [bank_1]{bank} [bounce_1]{bounces} it, the [bank_1]{bank} [refuse_1]{refuses} to [pay_1]{pay} it because there is not enough [money]{money} in the [account_1]{account} of the [person]{person} who [wrote]{wrote} it",
+      "examples": [],
+      "id": "bounce_1__10"
+    },
+    {
+      "def": "to move [quickly]{quickly} and with a [lot_1]{lot} of [energy]{energy}, as if you are very [happy_1]{happy}",
+      "examples": [
+        "The [band_1]{band} came [bouncing]{bouncing} onto the [stage_1]{stage}."
+      ],
+      "id": "bounce_1__11"
+    },
+    {
+      "def": "if an e-[mail_1]{mail} [message_1]{message} [bounce_1]{bounces}, it is [sent]{sent} back to you without [reach_1]{reaching} the [person]{person} you [sent]{sent} it to",
+      "examples": [],
+      "id": "bounce_1__13"
+    },
+    {
+      "def": "to [leave_1]{leave}",
+      "examples": [
+        "[let_1]{Let's} bounce."
+      ],
+      "id": "bounce_1__15"
+    }
+  ],
+  "word": "bounce"
+}

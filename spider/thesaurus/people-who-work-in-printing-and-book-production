@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a [person]{person} or [machine_1]{machine} that [put]{puts} the [part_1]{parts} of a [book_1]{book} together",
+      "entry": "binder",
+      "id": "binder#binder__4"
+    },
+    {
+      "comment": "someone who [operate]{operates} a [printing]{printing} [press_1]{press}",
+      "entry": "pressman",
+      "id": "pressman#pressman__1"
+    },
+    {
+      "comment": "someone whose job is to operate a printing press",
+      "entry": "printer",
+      "id": "printer#printer__4"
+    },
+    {
+      "comment": "a [person]{person} or [machine_1]{machine} that [arrange]{arranges} [word_1]{words} and [letter_1]{letters} for [printing]{printing}",
+      "entry": "typesetter",
+      "id": "typesetter#typesetter__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [arrange]{arrange} the [appearance]{appearance} of the [word_1]{words} and [letter_1]{letters} in a [print_1]{printed} [document_1]{document}, [book_1]{book}, etc.",
+      "entry": "typographer",
+      "id": "typographer#typographer__1"
+    }
+  ],
+  "thesaurus": "People who work in printing and book production",
+  "type": "Related words"
+}

@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "you know",
+  "senses": [
+    {
+      "def": "[used]{used} while you [think_1]{think} about what to [say_1]{say} next",
+      "examples": [
+        "My whole [leg_1]{leg} was, you [know_1]{know}, [soaked]{soaked} in [blood_1]{blood}."
+      ],
+      "id": "you-know__1"
+    },
+    {
+      "def": "[used]{used} when you are [give_1]{giving} [extra_1]{extra} [information]{information} about something",
+      "examples": [
+        "Have you [seen]{seen} that [bowl_1]{bowl}, you [know_1]{know}, the [blue_1]{blue} one?"
+      ],
+      "id": "you-know__3"
+    },
+    {
+      "def": "[used]{used} for [emphasis]{emphasis}",
+      "examples": [
+        "[thing]{Things} are [different]{different} now, you [know_1]{know}."
+      ],
+      "id": "you-know__5"
+    },
+    {
+      "def": "[used]{used} before you [start_1]{start} to [talk_1]{talk} about a [particular_1]{particular} [person]{person} or thing",
+      "examples": [
+        "You [know_1]{know} the [woman]{woman} next [door_1]{door}? Well, she\u2019s [expect]{expecting} a [baby_1]{baby}."
+      ],
+      "id": "you-know__7"
+    }
+  ]
+}

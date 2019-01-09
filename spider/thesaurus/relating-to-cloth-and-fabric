@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[material_1]{material} [used]{used} for [making]{making} [clothes]{clothes}, [curtain]{curtains}, etc. that is made by [weave_1]{weaving} [fiber]{fibers} together",
+      "entry": "cloth",
+      "id": "cloth#cloth__1"
+    },
+    {
+      "comment": "[cloth]{cloth}",
+      "entry": "material",
+      "id": "material_1#material_1__1"
+    },
+    {
+      "comment": "[cloth]{cloth}, [especially]{especially} when it is [used]{used} for [making]{making} [thing]{things} such as [clothes]{clothes} or [curtain]{curtains}",
+      "entry": "fabric",
+      "id": "fabric#fabric__1"
+    },
+    {
+      "comment": "woven or knitted cloth",
+      "entry": "textile",
+      "id": "textile#textile__1"
+    },
+    {
+      "comment": "cotton, wool, or other fibers in the form of thick thread  (=a substance like string)",
+      "entry": "yarn",
+      "id": "yarn#yarn__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [cloth]{cloth} or [similar]{similar} [material_1]{material} made of [fiber]{fibers}",
+      "entry": "fiber",
+      "id": "fiber#fiber__6"
+    },
+    {
+      "comment": "a [curved]{curved} [piece_1]{piece} of [cloth]{cloth} that [hang_1]{hangs} in a [loose_1]{loose} way",
+      "entry": "fold",
+      "id": "fold_2#fold_2__4"
+    },
+    {
+      "comment": "a [small_1]{small} [fold_1]{fold} that has been made in [cloth]{cloth}, [usually]{usually} [sewn]{sewn} in [place_1]{place}",
+      "entry": "gather",
+      "id": "gather_2#gather_2__1"
+    },
+    {
+      "comment": "a [fold_1]{fold} in a [piece_1]{piece} of [cloth]{cloth}, for [example]{example} in a [woman]{woman}\u2019s [skirt_1]{skirt}",
+      "entry": "pleat",
+      "id": "pleat_1#pleat_1__1"
+    },
+    {
+      "comment": "the way in which [cloth]{cloth} has been [cut_1]{cut} that [give_1]{gives} it a [particular_1]{particular} [style_1]{style} or [shape_1]{shape}",
+      "entry": "cut",
+      "id": "cut_2#cut_2__16"
+    }
+  ],
+  "thesaurus": "Relating to cloth and fabric",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "knock together",
+  "senses": [
+    {
+      "def": "to [make_1]{make} two [room_1]{rooms} or [building]{buildings} into one [room_1]{room} or [building]{building} by [remove]{removing} a [wall_1]{wall} that [separates]{separates} them",
+      "examples": [
+        "The two [cottage]{cottages} had been [knock_1]{knocked} together."
+      ],
+      "id": "knock-together__1"
+    },
+    {
+      "def": "to [produce_1]{produce} something [quickly]{quickly} and [easily]{easily}",
+      "examples": [
+        "While you get [dressed]{dressed}, I\u2019ll [knock_1]{knock} together a [quick_1]{quick} [dinner]{dinner}."
+      ],
+      "id": "knock-together__3"
+    }
+  ]
+}

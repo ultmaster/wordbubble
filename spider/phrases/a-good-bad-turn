@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "a good/bad turn",
+  "senses": [
+    {
+      "def": "an [action_1]{action} that [help_1]{helps}/[harm_2]{harms} someone",
+      "examples": [
+        "He had done her a [good_1]{good} [turn_1]{turn}."
+      ],
+      "id": "a-good-bad-turn__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you should be [kind_1]{kind} to someone who has been [kind_1]{kind} to you",
+      "examples": [],
+      "id": "a-good-bad-turn__3"
+    }
+  ]
+}

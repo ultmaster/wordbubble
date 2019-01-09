@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "if [children]{children} [act_1]{act} up, they [behave]{behave} [badly]{badly}",
+      "entry": "act up",
+      "id": "act-up#act-up__1"
+    },
+    {
+      "comment": "if [children]{children} [grow]{grow} into [clothes]{clothes}, they become the [right_1]{right} [size_1]{size} to [wear_1]{wear} [clothes]{clothes} that were too [big_1]{big}",
+      "entry": "grow into",
+      "id": "grow-into#grow-into__4"
+    },
+    {
+      "comment": "if [children]{children} [grow]{grow} out of [clothes]{clothes}, they [grow]{grow} [big_1]{bigger} and the [clothes]{clothes} become too [small_1]{small} for them",
+      "entry": "grow out of",
+      "id": "grow-out-of#grow-out-of__1"
+    },
+    {
+      "comment": "if a [child]{child} [misbehave]{misbehaves}, or if they [misbehave]{misbehave} themselves, they [behave]{behave} [badly]{badly} and [annoy]{annoy} or [upset_1]{upset} [people_1]{people}",
+      "entry": "misbehave",
+      "id": "misbehave#misbehave__1"
+    },
+    {
+      "comment": "if [children]{children} [play_1]{play} or [play_1]{play} something, they do [thing]{things} that they [enjoy]{enjoy}, for [example]{example} [use_1]{using} [toy_1]{toys} and [take_1]{taking} part in [game_1]{games}",
+      "entry": "play",
+      "id": "play_1#play_1__31"
+    },
+    {
+      "comment": "if a [small_1]{small} [child]{child} [ride_1]{rides} on your [shoulder_1]{shoulders} or back, they [sit]{sit} there as you move along",
+      "entry": "ride on someone\u2019s shoulders/back",
+      "id": "ride-on-someone-s-shoulders-back#ride-on-someone-s-shoulders-back__1"
+    }
+  ],
+  "thesaurus": "Child behavior",
+  "type": "Related words"
+}

@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "an [old]{old} [type_1]{type} of [record_1]{record}, [usually]{usually} with only one [song]{song} on each side",
+      "entry": "45",
+      "id": "45_1#45_1__1"
+    },
+    {
+      "comment": "a [collection]{collection} of several [song]{songs} or [piece_1]{pieces} of [music]{music} [record_2]{recorded} as an MP3 [file_1]{file}, on a CD , etc.",
+      "entry": "album",
+      "id": "album#album__1"
+    },
+    {
+      "comment": "a CD or [record_1]{record} that has been [record_2]{recorded} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "bootleg",
+      "id": "bootleg_3#bootleg_3__1"
+    },
+    {
+      "comment": "a small flat plastic case containing audiotape used in the past for playing and recording music and other sounds",
+      "entry": "cassette",
+      "id": "cassette#cassette__1"
+    },
+    {
+      "comment": "a CD of [popular]{popular} [music]{music} on which all the [song]{songs} are about the same [subject_1]{subject} or [tell_1]{tell} a [single_1]{single} [story]{story}",
+      "entry": "concept album",
+      "id": "concept-album#concept-album__1"
+    },
+    {
+      "comment": "a [list_1]{list} of all the [record_1]{records} made by a [particular_1]{particular} [singer]{singer}, [musician]{musician}, or [group_1]{group}",
+      "entry": "discography",
+      "id": "discography#discography__1"
+    },
+    {
+      "comment": "a record  (=large flat circular piece of plastic on which music is recorded)",
+      "entry": "disk",
+      "id": "disk#disk__7"
+    },
+    {
+      "comment": "the side of a [record_1]{record} that has the less [popular]{popular} [song]{song} on it",
+      "entry": "flip side",
+      "id": "flip-side#flip-side__3"
+    },
+    {
+      "comment": "[information]{information} about a [recording]{recording} that is [inside_1]{inside} its [case_1]{case} or is [print_1]{printed} on its [cover_1]{cover}",
+      "entry": "liner notes",
+      "id": "liner-notes#liner-notes__1"
+    },
+    {
+      "comment": "an LP",
+      "entry": "long-playing record",
+      "id": "long-playing-record#long-playing-record__1"
+    },
+    {
+      "comment": "long-playing [record_1]{record}: a [record_1]{record} that [turn_1]{turns} 33 times a [minute_1]{minute}",
+      "entry": "LP",
+      "id": "lp#lp__1"
+    },
+    {
+      "comment": "in [popular]{popular} [music]{music}, the [record_1]{record} that has [sold]{sold} the most [copy_1]{copies} in a [particular_1]{particular} [week]{week}",
+      "entry": "number one",
+      "id": "number-one_1#number-one_1__3"
+    },
+    {
+      "comment": "[platinum_1]{platinum} CDs, [record_1]{records}, etc. are so [popular]{popular} that more than 300,000 [copy_1]{copies} have been [sold]{sold}",
+      "entry": "platinum",
+      "id": "platinum_2#platinum_2__3"
+    },
+    {
+      "comment": "a [record_1]{record} that [music]{music} has been [record_2]{recorded} on",
+      "entry": "platter",
+      "id": "platter#platter__4"
+    },
+    {
+      "comment": "a [large_1]{large} round [black_1]{black} [piece_1]{piece} of [plastic_1]{plastic} [contain]{containing} [music]{music} or other [sound_1]{sounds}",
+      "entry": "record",
+      "id": "record_1#record_1__11"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} [recording]{recordings}",
+      "entry": "recording",
+      "id": "recording#recording__3"
+    },
+    {
+      "comment": "[relate]{relating} to the [process_1]{process} of [recording]{recording} [music]{music}",
+      "entry": "recording",
+      "id": "recording#recording__5"
+    },
+    {
+      "comment": "a [musical_1]{musical} [record_1]{record} with only one [song]{song} or [piece_1]{piece} of [music]{music} on each side",
+      "entry": "single",
+      "id": "single_2#single_2__1"
+    },
+    {
+      "comment": "[liner]{liner} [note_1]{notes}",
+      "entry": "sleeve note",
+      "id": "sleeve-note#sleeve-note__1"
+    },
+    {
+      "comment": "the [music]{music} that is [play_1]{played} during a [movie]{movie} or [television]{television} [program_1]{program}, or a CD of this [music]{music}",
+      "entry": "soundtrack",
+      "id": "soundtrack#soundtrack__1"
+    },
+    {
+      "comment": "the [song]{song} that has the same name as the [collection]{collection} of [song]{songs} that it is [record_2]{recorded} with",
+      "entry": "title track",
+      "id": "title-track#title-track__1"
+    },
+    {
+      "comment": "one of the sections of a tape that records different sounds that can be mixed together",
+      "entry": "track",
+      "id": "track_1#track_1__25"
+    },
+    {
+      "comment": "[record_1]{records}, [used]{used} for [listen_1]{listening} to [music]{music} before CDs were [invent]{invented}",
+      "entry": "vinyl",
+      "id": "vinyl#vinyl__3"
+    }
+  ],
+  "thesaurus": "Records and other musical recordings",
+  "type": "Related words"
+}

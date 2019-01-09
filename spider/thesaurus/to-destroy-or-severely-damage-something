@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [damage_1]{damage} something so [severely]{severely} that it no [long_1]{longer} [exist]{exists} or can never [return_1]{return} to its [normal_1]{normal} [state_1]{state}",
+      "entry": "destroy",
+      "id": "destroy#destroy__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} or [severely]{severely} [damage_1]{damage} something",
+      "entry": "ruin",
+      "id": "ruin_1#ruin_1__1"
+    },
+    {
+      "comment": "to [seriously]{seriously} [damage_1]{damage} or [completely]{completely} [destroy]{destroy} something",
+      "entry": "devastate",
+      "id": "devastate#devastate__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} something [completely]{completely}",
+      "entry": "obliterate",
+      "id": "obliterate#obliterate__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} something or [damage_1]{damage} it very [badly]{badly}",
+      "entry": "ravage",
+      "id": "ravage#ravage__1"
+    },
+    {
+      "comment": "to [damage_1]{damage} something [seriously]{seriously}, or to [spoil]{spoil} it [completely]{completely}, [especially]{especially} by [remove]{removing} part of it",
+      "entry": "mutilate",
+      "id": "mutilate#mutilate__3"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [damage_1]{damage} or [destroy]{destroy} [thing]{things}, [especially]{especially} [public_1]{public} [property]{property}",
+      "entry": "vandalize",
+      "id": "vandalize#vandalize__1"
+    },
+    {
+      "comment": "to [gradually]{gradually} [destroy]{destroy} something",
+      "entry": "eat away",
+      "id": "eat-away#eat-away__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} or [seriously]{seriously} [damage_1]{damage} something",
+      "entry": "shatter",
+      "id": "shatter#shatter__6"
+    },
+    {
+      "comment": "to [damage_1]{damage} or [destroy]{destroy} something, either [deliberately]{deliberately} or because you [did]{did} not take [good_1]{good} [care_1]{care} of it",
+      "entry": "trash",
+      "id": "trash_2#trash_2__1"
+    }
+  ],
+  "thesaurus": "To destroy or severely damage something",
+  "type": "Synonyms"
+}

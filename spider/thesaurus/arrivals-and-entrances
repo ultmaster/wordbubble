@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the time when someone or something [arrive]{arrives} at a [place_1]{place} from somewhere else",
+      "entry": "arrivals",
+      "id": "arrival#arrival__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [enter]{entering} a [place_1]{place}",
+      "entry": "entry",
+      "id": "entry#entry__9"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone [return_1]{returns} to a [place_1]{place} where they [used]{used} to [live_1]{live}, [work_1]{work}, or [study_1]{study}",
+      "entry": "homecoming",
+      "id": "homecoming#homecoming__2"
+    },
+    {
+      "comment": "[activity]{activity} [consist]{consisting} of [people_1]{people} [arrive]{arriving} and [leave_1]{leaving} many times",
+      "entry": "comings and goings",
+      "id": "comings-and-goings#comings-and-goings__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [going_1]{going} into a [place_1]{place}",
+      "entry": "entrance",
+      "id": "entrance_1#entrance_1__4"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things} come to a [place_1]{place} at the same time, [especially]{especially} in an [annoying]{annoying} way",
+      "entry": "invasion",
+      "id": "invasion#invasion__4"
+    },
+    {
+      "comment": "the [rate_1]{rate} at which [people_1]{people} [leave_1]{leave} a [place_1]{place} and [new]{new} [people_1]{people} [arrive]{arrive}",
+      "entry": "turnover",
+      "id": "turnover#turnover__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone or something [enter]{enters} an [area]{area} where they do not [belong]{belong}",
+      "entry": "incursion",
+      "id": "incursion#incursion__2"
+    },
+    {
+      "comment": "the [action_1]{action} of [enter]{entering} a [place_1]{place}, or the [right_1]{right} to [enter]{enter} a [place_1]{place}",
+      "entry": "ingress",
+      "id": "ingress#ingress__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone [return_1]{returns} to something such as a [place_1]{place} or [activity]{activity}",
+      "entry": "reentry",
+      "id": "reentry#reentry__1"
+    }
+  ],
+  "thesaurus": "Arrivals and entrances",
+  "type": "Synonyms"
+}

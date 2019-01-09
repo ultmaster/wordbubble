@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[affected]{affected} by an [allergy]{allergy}",
+      "examples": [
+        "I\u2019m allergic to [nuts_1]{nuts}.",
+        "an allergic [reaction]{reaction}"
+      ],
+      "id": "allergic__1"
+    },
+    {
+      "def": "if you are allergic to something, you do not [like_1]{like} it at all",
+      "examples": [
+        "I\u2019m allergic to Monday [morning_1]{morning}."
+      ],
+      "id": "allergic__5"
+    }
+  ],
+  "word": "allergic"
+}

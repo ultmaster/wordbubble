@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [express_1]{expressing} something [directly_1]{directly}",
+      "examples": [
+        "an oblique [reference_1]{reference} to his [past_1]{past}"
+      ],
+      "id": "oblique__1"
+    },
+    {
+      "def": "not [look_1]{looking} or [pointing]{pointing} [directly_1]{directly} at someone or something",
+      "examples": [
+        "He was [give_1]{giving} her oblique [look_1]{looks}."
+      ],
+      "id": "oblique__3"
+    },
+    {
+      "def": "an oblique [line_1]{line} is [slope_2#slope_2__5]{sloping}",
+      "examples": [],
+      "id": "oblique__5"
+    },
+    {
+      "def": "an oblique [angle_1]{angle} is any [angle_1]{angle} that is not 90\u00b0, 180\u00b0, or 270\u00b0",
+      "examples": [],
+      "id": "oblique__6"
+    }
+  ],
+  "word": "oblique"
+}

@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "to [allow]{allow} someone to [enter]{enter} a [house_1]{house}, [room_1]{room}, etc.",
+      "entry": "let in",
+      "id": "let-in#let-in__1"
+    },
+    {
+      "comment": "to [allow]{allow} someone to [enter]{enter} a [house_1]{house}, [room_1]{room}, etc.",
+      "entry": "let into",
+      "id": "let-into#let-into__1"
+    },
+    {
+      "comment": "to [allow]{allow} someone to [enter]{enter} a [place_1]{place}, [especially]{especially} a [public_1]{public} [place_1]{place} such as a [theater]{theater} or [museum]{museum}",
+      "entry": "admit",
+      "id": "admit#admit__16"
+    },
+    {
+      "comment": "if a [building]{building}, [organization]{organization}, or [country]{country} [open_2]{opens} its [door_1]{doors}, it [allow]{allows} [people_1]{people} to [enter]{enter}, [especially]{especially} for the first time",
+      "entry": "open its/the doors",
+      "id": "open-its-the-doors#open-its-the-doors__1"
+    },
+    {
+      "comment": "to allow someone to enter a door that is controlled by an electric buzzer",
+      "entry": "buzz in",
+      "id": "buzz-in#buzz-in__1"
+    },
+    {
+      "comment": "to [allow]{allow} someone to [enter]{enter} a [place_1]{place} again",
+      "entry": "readmit",
+      "id": "readmit#readmit__1"
+    }
+  ],
+  "thesaurus": "To allow someone to enter a place",
+  "type": "Synonyms"
+}

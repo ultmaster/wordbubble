@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a man whose [job_1]{job} is to [create]{create} [advertisement]{advertisements}",
+      "entry": "adman",
+      "id": "adman#adman__1"
+    },
+    {
+      "comment": "someone who [advertise]{advertises} something",
+      "entry": "advertiser",
+      "id": "advertiser#advertiser__1"
+    },
+    {
+      "comment": "all the [people_1]{people} who [watch_1]{watch} a [television]{television} [program_1]{program}, [listen_1]{listen} to a [radio_1]{radio} [broadcast_1]{broadcast}, or are [reach_1]{reached} by [advertising]{advertising}",
+      "entry": "audience",
+      "id": "audience#audience__6"
+    },
+    {
+      "comment": "someone who [stick_1]{sticks} [advertisement]{advertisements} on [wall_1]{walls}",
+      "entry": "billposter",
+      "id": "billposter#billposter__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [write]{write} the [word_1]{words} for [advertisement]{advertisements}",
+      "entry": "copywriter",
+      "id": "copywriter#copywriter__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to have [new]{new} [idea]{ideas}, [especially]{especially} in [advertising]{advertising}",
+      "entry": "creative",
+      "id": "creative_2#creative_2__1"
+    },
+    {
+      "comment": "a senior employee in an advertising agency, who has responsibility for the words and images used in a series of advertisements",
+      "entry": "creative director",
+      "id": "creative-director#creative-director__1"
+    },
+    {
+      "comment": "a [famous_1]{famous} [person]{person} who is [associate_1]{associated} with a [particular_1]{particular} [product]{product}, [brand_1]{brand}, [advertising]{advertising} [campaign_1]{campaign}, etc.",
+      "entry": "face",
+      "id": "face_1#face_1__12"
+    },
+    {
+      "comment": "a man whose [job_1]{job} is to [represent]{represent} an [organization]{organization} by [talk_1]{talking} to [reporter]{reporters} or other [people_1]{people}, [especially]{especially} in [order_1]{order} to [improve_1]{improve} the [organization]{organization}\u2019s [reputation]{reputation}",
+      "entry": "front man",
+      "id": "front-man#front-man__1"
+    },
+    {
+      "comment": "the [advertising]{advertising} [industry]{industry} in the U.S.",
+      "entry": "Madison Avenue",
+      "id": "madison-avenue#madison-avenue__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} [involve]{involves} [encouraging]{encouraging} [people_1]{people} to [buy_1]{buy} a [particular_1]{particular} [company]{company}\u2019s [product]{products}, by [deciding]{deciding} the [price_1]{price}, [type_1]{type} of [customer]{customer}, and [advertising]{advertising} [policy]{policy}",
+      "entry": "marketer",
+      "id": "marketer#marketer__1"
+    },
+    {
+      "comment": "a [famous_1]{famous} [person]{person} who [support_1]{supports} an [organization]{organization} and [allow]{allows} it to use their name in its [advertising]{advertising}",
+      "entry": "patron",
+      "id": "patron#patron__5"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [arrange]{arrange} and [advertise]{advertise} [concert]{concerts} and [sport_1]{sports} [event]{events}",
+      "entry": "promoter",
+      "id": "promoter#promoter__1"
+    },
+    {
+      "comment": "someone who [try_1]{tries} to [make_1]{make} a [product]{product} more [popular]{popular}",
+      "entry": "promoter",
+      "id": "promoter#promoter__5"
+    },
+    {
+      "comment": "someone who [spread_1]{spreads} [idea]{ideas}, [belief]{beliefs}, etc. to a [lot_1]{lot} of [people_1]{people}",
+      "entry": "propagator",
+      "id": "propagator#propagator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to use [newspaper]{newspapers}, [television]{television}, etc. in [order_1]{order} to [make_1]{make} [people_1]{people} [notice_1]{notice} a [person]{person}, [organization]{organization}, or [product]{product}",
+      "entry": "publicist",
+      "id": "publicist#publicist__1"
+    },
+    {
+      "comment": "a [person]{person} or [business]{business} that [pay_1]{pays} [money]{money} to [support_1]{support} an [event]{event}, a [television]{television} or [radio_1]{radio} [program_1]{program}, a [website]{website}, etc. as a way to [advertise]{advertise} their [product]{products} or [service_1]{services}",
+      "entry": "sponsor",
+      "id": "sponsor_2#sponsor_2__1"
+    }
+  ],
+  "thesaurus": "People involved in advertising and promotion",
+  "type": "Related words"
+}

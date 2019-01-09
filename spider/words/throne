@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [special_1]{special} [chair_1]{chair} that a [king]{king} or [queen_1]{queen} [sit]{sits} on",
+      "examples": [],
+      "id": "throne__1"
+    },
+    {
+      "def": "the [position_1]{position} of being a [king]{king} or [queen_1]{queen}",
+      "examples": [
+        "an heir to the throne",
+        "[queen_1]{Queen} Victoria was still on the throne then."
+      ],
+      "id": "throne__2"
+    },
+    {
+      "def": "the [toilet]{toilet}",
+      "examples": [],
+      "id": "throne__5"
+    }
+  ],
+  "word": "throne"
+}

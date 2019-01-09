@@ -1,0 +1,31 @@
+{
+  "part": "phrase",
+  "phrase": "come on",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [working]{working} by being [switch_1]{switched} on",
+      "examples": [
+        "I [saw_1]{saw} a [light_1]{light} come on in an [upstairs_1]{upstairs} [window]{window}.",
+        "We all had to be [quiet_1]{quiet} when the [news]{news} came on."
+      ],
+      "id": "come-on_1__1"
+    },
+    {
+      "def": "to [appear]{appear} on a [stage_1]{stage}",
+      "examples": [
+        "When he came on, the [audience]{audience} [finally]{finally} [began]{began} to show some interest.",
+        "Then the [president_1]{president} comes on and [tell_1]{tells} everyone to [spend]{spend} more [money]{money}.",
+        "He came on as a [substitute_1]{substitute}.",
+        "[miller]{Miller} came on for his [injured]{injured} [teammate]{teammate} with only two [minute_1]{minutes} [left_1]{left} in the [game_1]{game}."
+      ],
+      "id": "come-on_1__5"
+    },
+    {
+      "def": "if an [illness]{illness} comes on, it [start_1]{starts} to [affect_1]{affect} you",
+      "examples": [
+        "I can [feel_1]{feel} another [headache]{headache} coming on."
+      ],
+      "id": "come-on_1__12"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [word_1]{word} for [clothes]{clothes}, [used]{used} [especially]{especially} in [store_1]{stores} or other [business]{businesses}",
+      "entry": "apparel",
+      "id": "apparel#apparel__1"
+    },
+    {
+      "comment": "the [clothes]{clothes} someone is [wearing]{wearing}, [especially]{especially} [unusual]{unusual} or [formal_1]{formal} [clothes]{clothes}",
+      "entry": "apparel",
+      "id": "apparel#apparel__3"
+    },
+    {
+      "comment": "the [clothes]{clothes} that someone is [wearing]{wearing}",
+      "entry": "attire",
+      "id": "attire#attire__1"
+    },
+    {
+      "comment": "the [thing]{things} that you [wear_1]{wear} such as [shirt]{shirts}, [dress_1]{dresses}, [pants]{pants}, etc.",
+      "entry": "clothes",
+      "id": "clothes#clothes__1"
+    },
+    {
+      "comment": "[clothes]{clothes} [worn_1]{worn} for a [particular_1]{particular} [activity]{activity} or [event]{event}, a [particular_1]{particular} time of [year]{year}, or by a [particular_1]{particular} [type_1]{type} of [person]{person}",
+      "entry": "clothes",
+      "id": "clothes#clothes__6"
+    },
+    {
+      "comment": "[clothes]{clothes} in [general_1]{general}",
+      "entry": "clothing",
+      "id": "clothing#clothing__1"
+    },
+    {
+      "comment": "[clothes]{clothes} of a [particular_1]{particular} [type_1]{type}",
+      "entry": "clothing",
+      "id": "clothing#clothing__5"
+    },
+    {
+      "comment": "the [clothes]{clothes} that someone [usually]{usually} [wear_1]{wears}",
+      "entry": "dress",
+      "id": "dress_2#dress_2__4"
+    },
+    {
+      "comment": "[clothes]{clothes}",
+      "entry": "duds",
+      "id": "duds#duds__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing}. This [word_1]{word} is [used]{used} [especially]{especially} when [talk_1]{talking} about the [production]{production} and [sale]{sale} of [clothes]{clothes}",
+      "entry": "garment",
+      "id": "garment#garment__1"
+    },
+    {
+      "comment": "the [clothes]{clothes} that someone is [wearing]{wearing}, [used]{used} [especially]{especially} when you [think_1]{think} they [look_1]{look} [silly_1]{silly}",
+      "entry": "get-up",
+      "id": "get-up_2#get-up_2__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [clothes]{clothes} that are [worn_1]{worn} together",
+      "entry": "outfit",
+      "id": "outfit_1#outfit_1__1"
+    },
+    {
+      "comment": "[clothing]{clothing}",
+      "entry": "raiment",
+      "id": "raiment#raiment__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [clothes]{clothes}, or a [uniform_1]{uniform}",
+      "entry": "rig",
+      "id": "rig_1#rig_1__8"
+    },
+    {
+      "comment": "[clothes]{clothes}",
+      "entry": "threads",
+      "id": "thread_1#thread_1__14"
+    },
+    {
+      "comment": "[clothes]{clothes}, [especially]{especially} the [clothes]{clothes} that you [wear_1]{wear} for a [particular_1]{particular} [activity]{activity}",
+      "entry": "togs",
+      "id": "tog_1#tog_1__1"
+    },
+    {
+      "comment": "the [clothes]{clothes} that someone has",
+      "entry": "wardrobe",
+      "id": "wardrobe#wardrobe__4"
+    },
+    {
+      "comment": "the [clothes]{clothes} that someone has for a [particular_1]{particular} [activity]{activity} or time of [year]{year}",
+      "entry": "wardrobe",
+      "id": "wardrobe#wardrobe__6"
+    }
+  ],
+  "thesaurus": "General words for clothes",
+  "type": "Related words"
+}

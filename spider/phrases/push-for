@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "push for",
+  "senses": [
+    {
+      "def": "to [try_1]{try} [hard_1]{hard} to get or [achieve]{achieve} something",
+      "examples": [
+        "They [continue]{continue} to [push_1]{push} for more [pay_1]{pay}.",
+        "We are [push_1]{pushing} for a [ban_1]{ban} on [nuclear]{nuclear} [testing_1]{testing}."
+      ],
+      "id": "push-for__1"
+    },
+    {
+      "def": "to [try_1]{try} to [make_1]{make} someone give you something or do something for you",
+      "examples": [
+        "He\u2019s [push_1]{pushing} us for a [decision_1]{decision} by [tomorrow_1]{tomorrow}."
+      ],
+      "id": "push-for__4"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to put [paint_1]{paint} onto something to [change_1]{change} its [color_1]{color}",
+      "entry": "paint",
+      "id": "paint_1#paint_1__1"
+    },
+    {
+      "comment": "to [add_1]{add} [color_1]{color} to something to [make_1]{make} it a [different]{different} [color_1]{color}",
+      "entry": "color",
+      "id": "color_2#color_2__1"
+    },
+    {
+      "comment": "to [change_1]{change} the [color_1]{color} of something such as [clothing]{clothing} or your [hair]{hair} [use_1]{using} [dye_1]{dye}",
+      "entry": "dye",
+      "id": "dye_2#dye_2__1"
+    },
+    {
+      "comment": "to remove the color from something with a chemical or through the action of sunlight",
+      "entry": "bleach",
+      "id": "bleach_2#bleach_2__1"
+    },
+    {
+      "comment": "to give something more [color_1]{color} or [light_1]{light}",
+      "entry": "brighten",
+      "id": "brighten#brighten__3"
+    },
+    {
+      "comment": "to become [black_1]{black}, or to [make_1]{make} something become [black_1]{black}",
+      "entry": "blacken",
+      "id": "blacken#blacken__1"
+    },
+    {
+      "comment": "to put a [small_1]{small} amount of a [particular_1]{particular} [color_1]{color} in something",
+      "entry": "tint",
+      "id": "tint_2#tint_2__2"
+    },
+    {
+      "comment": "to become red, or to [make_1]{make} something become red",
+      "entry": "redden",
+      "id": "redden#redden__1"
+    },
+    {
+      "comment": "to change the color of something, especially a car, by spraying new paint on it",
+      "entry": "respray",
+      "id": "respray#respray__1"
+    },
+    {
+      "comment": "if the [color_1]{color} of something [fade]{fades}, or if something [fade]{fades} it, it [gradually]{gradually} becomes [pale_1]{paler}",
+      "entry": "fade",
+      "id": "fade#fade__2"
+    }
+  ],
+  "thesaurus": "To change the color of something",
+  "type": "Synonyms"
+}

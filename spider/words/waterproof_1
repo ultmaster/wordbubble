@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "waterproof [clothes]{clothes} keep you [dry_1]{dry} because they do not [let_1]{let} [rain_1]{rain} [pass_1]{pass} through them",
+      "examples": [
+        "a waterproof [jacket]{jacket}",
+        "All of our [boot_1]{boots} are 100% waterproof.",
+        "waterproof [tape_1]{tape}"
+      ],
+      "id": "waterproof_1__1"
+    },
+    {
+      "def": "something that is waterproof [does]{does} not get [damage_2]{damaged} by [water_1]{water}",
+      "examples": [
+        "a waterproof [camera]{camera}"
+      ],
+      "id": "waterproof_1__6"
+    }
+  ],
+  "word": "waterproof"
+}

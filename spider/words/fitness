@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [state_1]{state} of being [physically]{physically} [healthy]{healthy} and [strong]{strong}",
+      "examples": [
+        "She [need_1]{needs} to [improve_1]{improve} her fitness.",
+        "The [striker]{striker} is [certain_1]{certain} to [pass_1]{pass} his fitness [test_1]{test}."
+      ],
+      "id": "fitness__1"
+    },
+    {
+      "def": "how [suitable]{suitable} someone or something is",
+      "examples": [
+        "There are [question_1]{questions} as to his fitness for [office]{office}.",
+        "The [director]{director} has to [monitor_1]{monitor} their fitness to [hold_1]{hold} a [license_1]{license}."
+      ],
+      "id": "fitness__4"
+    }
+  ],
+  "word": "fitness"
+}

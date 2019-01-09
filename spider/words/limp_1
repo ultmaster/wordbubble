@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [walk_1]{walk} with [difficulty]{difficulty} because of an [injured]{injured} [leg_1]{leg} or [foot_1]{foot}",
+      "examples": [
+        "Ewing [limp_1]{limped} off the [court_1]{court} with an [ankle]{ankle} [injury]{injury}.",
+        "He was [limp_1]{limping} [slightly]{slightly} and he [look_1]{looked} [tired]{tired}."
+      ],
+      "id": "limp_1__1"
+    },
+    {
+      "def": "to move or [continue]{continue} [existing]{existing} with [difficulty]{difficulty}",
+      "examples": [
+        "The [yacht]{yacht} is [limp_1]{limping} toward the [island]{island}.",
+        "The [company]{company} will have to limp along until [new]{new} [capital_1]{capital} can be [raised]{raised}."
+      ],
+      "id": "limp_1__4"
+    }
+  ],
+  "word": "limp"
+}

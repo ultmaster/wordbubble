@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [sink_1]{sink} under [water_1]{water} and [die_1]{die}",
+      "examples": [
+        "He [fell_1]{fell} [overboard]{overboard} and [nearly]{nearly} [drown]{drowned}."
+      ],
+      "id": "drown__1"
+    },
+    {
+      "def": "to [cover_1]{cover} something [completely]{completely} with a [liquid_1]{liquid}, [especially]{especially} in a way that [spoils]{spoils} it",
+      "examples": [
+        "He [drown]{drowned} his [cornflakes]{cornflakes} in [milk_1]{milk}.",
+        "[shellfish]{shellfish} [drown]{drowned} in a [spicy]{spicy} [sauce]{sauce}"
+      ],
+      "id": "drown__4"
+    },
+    {
+      "def": "to [prevent]{prevent} a [sound_1]{sound} from being [heard]{heard} by [making]{making} a [loud_1]{louder} [noise]{noise}",
+      "examples": [
+        "The [music]{music} almost [drown]{drowned} the [sound_1]{sound} of his [voice_1]{voice}."
+      ],
+      "id": "drown__7"
+    }
+  ],
+  "word": "drown"
+}

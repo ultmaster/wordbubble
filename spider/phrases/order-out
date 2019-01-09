@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "order out",
+  "senses": [
+    {
+      "def": "to [order_1]{order} [food]{food} from a [restaurant]{restaurant} and [ask_1]{ask} for it to be [deliver]{delivered} to you",
+      "examples": [
+        "We [got_1]{got} back [late_1]{late} and [decided]{decided} to [order_1]{order} out."
+      ],
+      "id": "order-out__1"
+    }
+  ]
+}

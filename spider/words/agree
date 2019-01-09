@@ -1,0 +1,36 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to have the same [opinion]{opinion} as someone else",
+      "examples": [
+        "Doreen [thought_1]{thought} that the [house_1]{house} was too [small_1]{small}, and Jim [agreed]{agreed}.",
+        "I agree with my [mother_1]{mother} about most [thing]{things}.",
+        "I [entirely]{entirely} agree with the [comment_1]{comments} you made about [public_1]{public} [transportation]{transportation}.",
+        "We all agree that we should [celebrate]{celebrate} this [event]{event}.",
+        "The [committee]{committee} [member]{members} all agree on the [need_1]{need} for more [information]{information}."
+      ],
+      "id": "agree__1"
+    },
+    {
+      "def": "to [say_1]{say} that you will do something that someone else [want_1]{wants} or [suggest]{suggests}",
+      "examples": [
+        "I [ask_1]{asked} her to [marry]{marry} me, and she [agreed]{agreed}.",
+        "The [school_1]{school} [agreed]{agreed} to [send_1]{send} the [student]{students} on the [field_1]{field} [trip_1]{trip}.",
+        "We have [agreed]{agreed} to their [request_1]{request} for a full [investigation]{investigation}.",
+        "We [need_1]{need} to agree on a [date_1]{date} for our next [meeting]{meeting}.",
+        "[yesterday_1]{Yesterday} [management]{management} and [union]{unions} [agreed]{agreed} to a [pay_1]{pay} [deal_1]{deal}."
+      ],
+      "id": "agree__7"
+    },
+    {
+      "def": "if two [piece_1]{pieces} of [information]{information} agree, they are the same or [suggest]{suggest} the same thing",
+      "examples": [
+        "The [statement_1]{statements} [given_1]{given} by the two [witness_1]{witnesses} [did]{did} not agree.",
+        "The [observation]{observations} agree with the [prediction]{predictions} we made [earlier_1]{earlier}."
+      ],
+      "id": "agree__14"
+    }
+  ],
+  "word": "agree"
+}

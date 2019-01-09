@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "round down",
+  "senses": [
+    {
+      "def": "to [reduce]{reduce} a [number_1]{number} to the nearest whole [number_1]{number}, or the nearest [number_1]{number} [ending]{ending} in [zero_1]{zero}",
+      "examples": [
+        "The [total_1]{total} came to $10.04, but she [rounded]{rounded} it down to $10."
+      ],
+      "id": "round-down__1"
+    }
+  ]
+}

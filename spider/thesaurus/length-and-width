@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [measurement]{measurement} of how long something is in [size_1]{size}",
+      "entry": "length",
+      "id": "length#length__1"
+    },
+    {
+      "comment": "the [distance_1]{distance} from one side of something to the other",
+      "entry": "width",
+      "id": "width#width__1"
+    },
+    {
+      "comment": "the [distance_1]{distance} from the front to the back of something, for [example]{example} a [cupboard]{cupboard} or [drawer]{drawer}",
+      "entry": "depth",
+      "id": "depth#depth__5"
+    },
+    {
+      "comment": "the [distance_1]{distance} from one side of an [object_1]{object} to the other",
+      "entry": "breadth",
+      "id": "breadth#breadth__1"
+    },
+    {
+      "comment": "the [width]{width} of something",
+      "entry": "span",
+      "id": "span_1#span_1__5"
+    },
+    {
+      "comment": "the [width]{width} of something",
+      "entry": "spread",
+      "id": "spread_2#spread_2__19"
+    },
+    {
+      "comment": "the [distance_1]{distance} around something thick and round, for [example]{example} a [tree]{tree}",
+      "entry": "girth",
+      "id": "girth#girth__1"
+    },
+    {
+      "comment": "the [distance_1]{distance} from one [end_1]{end} of something to the other",
+      "entry": "length",
+      "id": "length#length__14"
+    },
+    {
+      "comment": "a way of [saying]{saying} how thick something is, [especially]{especially} something made of [metal_1]{metal}, [wire_1]{wire}, or [plastic_1]{plastic}",
+      "entry": "gauge",
+      "id": "gauge_1#gauge_1__6"
+    },
+    {
+      "comment": "the [measurement]{measurement} of how thick something is",
+      "entry": "thickness",
+      "id": "thickness#thickness__1"
+    }
+  ],
+  "thesaurus": "Length and width",
+  "type": "Synonyms"
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if an [engine]{engine} [idle_2]{idles}, it [run_1]{runs} [slowly]{slowly} and [does]{does} not [produce_1]{produce} any [movement]{movement}",
+      "examples": [
+        "The [taxi_1]{taxi} [hum_1]{hummed} in the [road]{road}, [engine]{engine} [idle_2]{idling}, [meter_1]{meter} [ticking]{ticking} over."
+      ],
+      "id": "idle_2__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [use_1]{using} [factory]{factories} or [employ_1]{employing} [people_1]{people}, [usually]{usually} for a [short_1]{short} [period_1]{period} of time",
+      "examples": [
+        "[plant_1]{Plant} [closure]{closures} have [led_1]{led} to [skilled]{skilled} [worker]{workers} being [idle_2]{idled}."
+      ],
+      "id": "idle_2__3"
+    }
+  ],
+  "word": "idle"
+}

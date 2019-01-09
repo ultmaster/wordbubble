@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "wish for",
+  "senses": [
+    {
+      "def": "to [want_1]{want} something",
+      "examples": [
+        "They do not [wish_1]{wish} for [pity_1]{pity}.",
+        "What more could anyone [wish_1]{wish} for?"
+      ],
+      "id": "wish-for__1"
+    },
+    {
+      "def": "to [hope_1]{hope} that something that you [want_1]{want} will [happen]{happen} by [magic_1]{magic} or by the [power_1]{power} of your [thought_1]{thoughts}",
+      "examples": [
+        "We [know_1]{know} what she\u2019ll be [wish_1]{wishing} for on her [birthday]{birthday}."
+      ],
+      "id": "wish-for__4"
+    }
+  ]
+}

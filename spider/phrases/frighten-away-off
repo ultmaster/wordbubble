@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "frighten away/off",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a [person]{person} or [animal_1]{animal} so [afraid]{afraid} that they [run_1]{run} [away_1]{away}",
+      "examples": [],
+      "id": "frighten-away-off__1"
+    },
+    {
+      "def": "to [make_1]{make} someone so [worried]{worried} or [nervous]{nervous} that they [decide]{decide} not to become [involved]{involved} with something",
+      "examples": [
+        "The [fall_1]{fall} in [share_1]{share} [price_1]{prices} has [frightened]{frightened} off [possible_1]{possible} [investor]{investors}."
+      ],
+      "id": "frighten-away-off__2"
+    }
+  ]
+}

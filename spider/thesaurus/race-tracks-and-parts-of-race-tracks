@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [track_1]{track} around which [car]{cars}, [bicycle]{bicycles}, etc. [race_1]{race}",
+      "entry": "circuit",
+      "id": "circuit#circuit__6"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} or [water_1]{water} where [race_1]{races} take [place_1]{place}",
+      "entry": "course",
+      "id": "course_1#course_1__21"
+    },
+    {
+      "comment": "the last part of a [trip_1]{trip} or [race_1]{race}",
+      "entry": "the home stretch",
+      "id": "the-home-stretch#the-home-stretch__1"
+    },
+    {
+      "comment": "an [inside_1]{inside} [track_1]{track} for a [race_1]{race}",
+      "entry": "inside lane",
+      "id": "inside-lane#inside-lane__1"
+    },
+    {
+      "comment": "the part of a [circular_1]{circular} [track_1]{track} for [sport_1]{sports} [race_1]{races} that is nearest the [center_1]{center} and is the [short_1]{shortest} [distance_1]{distance} around the [track_1]{track}",
+      "entry": "inside track",
+      "id": "inside-track#inside-track__3"
+    },
+    {
+      "comment": "a long thin [mark_1]{mark} on the [ground_1]{ground} [used]{used} in [sport_1]{sports} for [marking]{marking} an [area]{area} in which a [game_1]{game} is [play_1]{played}, or for [showing]{showing} where a [race_1]{race} [start_1]{starts} or [finish_1]{finishes}",
+      "entry": "line",
+      "id": "line_1#line_1__4"
+    },
+    {
+      "comment": "if someone in a [race_1]{race} is on the [inside_1]{inside}, they are on the part of a [circular_1]{circular} [track_1]{track} that is nearest the [center_1]{center}",
+      "entry": "on the inside",
+      "id": "on-the-inside#on-the-inside__4"
+    },
+    {
+      "comment": "the [place_1]{place} where a [race_1]{race} [begin]{begins}",
+      "entry": "start",
+      "id": "start_2#start_2__18"
+    },
+    {
+      "comment": "the [line_1]{line} or [point_1]{point} where a [race_1]{race} [start_1]{starts}",
+      "entry": "starting line",
+      "id": "starting-line#starting-line__1"
+    },
+    {
+      "comment": "a [straightaway_1]{straightaway}",
+      "entry": "straight",
+      "id": "straight_3#straight_3__4"
+    },
+    {
+      "comment": "a [straight_1]{straight} part of a [race_1]{race} [track_1]{track}",
+      "entry": "straightaway",
+      "id": "straightaway_1#straightaway_1__1"
+    },
+    {
+      "comment": "a [straight_1]{straight} [section_1]{section} of [highway]{highway}",
+      "entry": "straightway",
+      "id": "straightway#straightway__1"
+    },
+    {
+      "comment": "the [straight_1]{straight} last part of the [track_1]{track} in a [race_1]{race}",
+      "entry": "stretch",
+      "id": "stretch_2#stretch_2__4"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [ground_1]{ground} [used]{used} for [racing_1]{racing}",
+      "entry": "track",
+      "id": "track_1#track_1__7"
+    }
+  ],
+  "thesaurus": "Race tracks and parts of race tracks",
+  "type": "Related words"
+}

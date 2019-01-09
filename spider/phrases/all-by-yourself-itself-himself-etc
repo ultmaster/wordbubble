@@ -1,0 +1,24 @@
+{
+  "part": "phrase",
+  "phrase": "(all) by yourself/itself/himself etc.",
+  "senses": [
+    {
+      "def": "alone",
+      "examples": [
+        "The [child]{child} had [wander_1]{wandered} off by [herself]{herself} into the [wood]{woods}.",
+        "Her [story]{story} by [itself]{itself} is not enough to [convict_1]{convict} him.",
+        "It was [miserable]{miserable} [spending]{spending} Christmas all by [myself]{myself}."
+      ],
+      "id": "all-by-yourself-itself-himself-etc__1"
+    },
+    {
+      "def": "without being [help_1]{helped} by anyone else",
+      "examples": [
+        "He couldn\u2019t have [plan_2]{planned} the whole thing by [himself]{himself}.",
+        "As she [watch_1]{watched}, the [chair_1]{chairs} seemed to [slide_1]{slide} across the [kitchen]{kitchen} [floor_1]{floor} by themselves.",
+        "You can\u2019t [carry_1]{carry} that [big_1]{big} [table_1]{table} all by yourself."
+      ],
+      "id": "all-by-yourself-itself-himself-etc__5"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something you do, [especially]{especially} something that seems [wrong_1]{wrong} or [unusual]{unusual} to other [people_1]{people}",
+      "entry": "action",
+      "id": "action#action__10"
+    },
+    {
+      "comment": "an [action_1]{action}, or an [activity]{activity}",
+      "entry": "thing",
+      "id": "thing#thing__11"
+    },
+    {
+      "comment": "an [action_1]{action} or [set_1]{set} of [action_1]{actions} that is [necessary_1]{necessary} to [achieve]{achieve} something",
+      "entry": "operation",
+      "id": "operation#operation__5"
+    },
+    {
+      "comment": "an [action_1]{action} that [show_1]{shows} how you [feel_1]{feel}",
+      "entry": "demonstration",
+      "id": "demonstration#demonstration__9"
+    },
+    {
+      "comment": "the [thing]{things} that you [choose]{choose} to do in a [particular_1]{particular} [situation]{situation}",
+      "entry": "course",
+      "id": "course_1#course_1__7"
+    },
+    {
+      "comment": "something that you do in [order_1]{order} to [achieve]{achieve} a [goal]{goal} or [solve]{solve} a [problem]{problem}, often one of a [series]{series} of [thing]{things}",
+      "entry": "move",
+      "id": "move_2#move_2__1"
+    },
+    {
+      "comment": "something that someone [does]{does}",
+      "entry": "deed",
+      "id": "deed#deed__2"
+    },
+    {
+      "comment": "a [new]{new} [business]{business} or [activity]{activity}",
+      "entry": "venture",
+      "id": "venture_1#venture_1__1"
+    },
+    {
+      "comment": "a [single_1]{single} thing that someone [does]{does}",
+      "entry": "act",
+      "id": "act_1#act_1__1"
+    },
+    {
+      "comment": "[thing]{things} that [people_1]{people} do",
+      "entry": "activity",
+      "id": "activity#activity__1"
+    }
+  ],
+  "thesaurus": "General words for actions and activities",
+  "type": "Synonyms"
+}

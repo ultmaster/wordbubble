@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not at all [interesting]{interesting}, and [making]{making} you [feel_1]{feel} [impatient]{impatient} or [dissatisfied]{dissatisfied}",
+      "entry": "boring",
+      "id": "boring#boring__1"
+    },
+    {
+      "comment": "[boring_1]{boring}, or not [interesting]{interesting}",
+      "entry": "dull",
+      "id": "dull_1#dull_1__1"
+    },
+    {
+      "comment": "[boring_1]{boring} and [continuing]{continuing} for too long",
+      "entry": "tedious",
+      "id": "tedious#tedious__1"
+    },
+    {
+      "comment": "not very [important]{important}, serious, or [valuable]{valuable}",
+      "entry": "trivial",
+      "id": "trivial#trivial__1"
+    },
+    {
+      "comment": "not [interesting]{interesting}",
+      "entry": "uninteresting",
+      "id": "uninteresting#uninteresting__1"
+    },
+    {
+      "comment": "[boring_1]{boring} because nothing [new]{new} or [interesting]{interesting} ever [happen]{happens}",
+      "entry": "humdrum",
+      "id": "humdrum#humdrum__1"
+    },
+    {
+      "comment": "not [interesting]{interesting} or [exciting]{exciting}",
+      "entry": "uninspired",
+      "id": "uninspired#uninspired__1"
+    },
+    {
+      "comment": "not [interesting]{interesting} or [exciting]{exciting}",
+      "entry": "unexciting",
+      "id": "unexciting#unexciting__1"
+    },
+    {
+      "comment": "[making]{making} you [feel_1]{feel} [bored]{bored} or [unhappy]{unhappy}",
+      "entry": "dreary",
+      "id": "dreary#dreary__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [boring_1]{boring}",
+      "entry": "mind-numbing",
+      "id": "mind-numbing#mind-numbing__1"
+    }
+  ],
+  "thesaurus": "Not interesting or exciting",
+  "type": "Synonyms"
+}

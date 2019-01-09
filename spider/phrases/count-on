@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "count on",
+  "senses": [
+    {
+      "def": "to [depend]{depend} on someone to do what you [want_1]{want} or [expect]{expect} them to do for you",
+      "examples": [
+        "The whole [team_1]{team} was [count_1]{counting} on me, and I [let_1]{let} them down.",
+        "You can always [count_1]{count} on him for [good_1]{good} [advice]{advice}.",
+        "I [knew]{knew} I could [count_1]{count} on you to be on time.",
+        "I was [count_1]{counting} on Jane [driving]{driving} me [home_1]{home}.",
+        "You can always [count_1]{count} on Ted to [make_1]{make} a [mess_1]{mess} of the [cooking_1]{cooking}."
+      ],
+      "id": "count-on__1"
+    },
+    {
+      "def": "to [hope_1]{hope} or [expect]{expect} that something will [happen]{happen} or that someone will do something",
+      "examples": [
+        "[tournament]{Tournament} [director]{directors} are [count_1]{counting} on [good_1]{good} [weather_1]{weather}.",
+        "We\u2019re [count_1]{counting} on about 20 [people_1]{people} coming to the [party_1]{party}.",
+        "She hadn\u2019t [count_1]{counted} on it [rain_2]{raining}."
+      ],
+      "id": "count-on__8"
+    }
+  ]
+}

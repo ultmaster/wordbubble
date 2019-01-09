@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if a [building]{building} or other [structure_1]{structure} [collapse_1]{collapses}, it [suddenly]{suddenly} [fall_1]{falls} down",
+      "entry": "collapse",
+      "id": "collapse_1#collapse_1__1"
+    },
+    {
+      "comment": "if a [building]{building} is [fall_1]{falling} down, it is in very [bad_1]{bad} [condition_1]{condition}",
+      "entry": "fall down",
+      "id": "fall-down#fall-down__6"
+    },
+    {
+      "comment": "if a [building]{building} [subside]{subsides}, it becomes [damage_2]{damaged} because the [land_1]{land} it is on has [sunk]{sunk}",
+      "entry": "subside",
+      "id": "subside#subside__6"
+    },
+    {
+      "comment": "if a [roof_1]{roof} or [wall_1]{wall} [cave_1]{caves} in, it [fall_1]{falls} down or [inward_1]{inward}",
+      "entry": "cave in",
+      "id": "cave_2#cave_2__2"
+    },
+    {
+      "comment": "if a [roof_1]{roof} or [wall_1]{wall} [fall_1]{falls} in, it [fall_1]{falls} to the [ground_1]{ground}",
+      "entry": "fall in",
+      "id": "fall-in#fall-in__3"
+    },
+    {
+      "comment": "to [stop_1]{stop} being [steady_1]{steady} and [fall_1]{fall}, or to [make_1]{make} someone or something do this",
+      "entry": "topple",
+      "id": "topple#topple__1"
+    },
+    {
+      "comment": "if a [building]{building} or part of it comes down, it is [destroy]{destroyed} and [fall_1]{falls} to the [ground_1]{ground}",
+      "entry": "come down",
+      "id": "come-down#come-down__7"
+    },
+    {
+      "comment": "if a [building]{building} or other [structure_1]{structure} [tumble_1]{tumbles}, it [fall_1]{falls} to the [ground_1]{ground}",
+      "entry": "tumble",
+      "id": "tumble_1#tumble_1__3"
+    },
+    {
+      "comment": "to [lose]{lose} the [air_1]{air} that is [inside_1]{inside} and become [flat_1]{flat}, or to [make_1]{make} this [happen]{happen}",
+      "entry": "collapse",
+      "id": "collapse_1#collapse_1__15"
+    },
+    {
+      "comment": "if something [give_1]{gives} way, it [break_1]{breaks} or [fall_1]{falls} down because there is too much [weight_1]{weight} or [pressure_1]{pressure} on it",
+      "entry": "give way",
+      "id": "give-way#give-way__1"
+    }
+  ],
+  "thesaurus": "To collapse or fall down",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [opinion]{opinion} that someone [give_1]{gives} you about the [best_1]{best} thing to do in a [particular_1]{particular} [situation]{situation}",
+      "entry": "advice",
+      "id": "advice#advice__1"
+    },
+    {
+      "comment": "[advice]{advice} about what you should do or how you should [behave]{behave}",
+      "entry": "guidance",
+      "id": "guidance#guidance__1"
+    },
+    {
+      "comment": "a [suggestion]{suggestion} or [piece_1]{piece} of [advice]{advice} about how to [solve]{solve} a [problem]{problem}, [deal_1]{deal} with a [situation]{situation}, etc.",
+      "entry": "recommendation",
+      "id": "recommendation#recommendation__1"
+    },
+    {
+      "comment": "an [explanation]{explanation} or [piece_1]{piece} of [advice]{advice} that [help_1]{helps} someone to [feel_1]{feel} less [worried]{worried}",
+      "entry": "reassurance",
+      "id": "reassurance#reassurance__1"
+    },
+    {
+      "comment": "a [useful]{useful} [suggestion]{suggestion}",
+      "entry": "tip",
+      "id": "tip_1#tip_1__9"
+    },
+    {
+      "comment": "a [useful]{useful} [suggestion]{suggestion} or [piece_1]{piece} of [advice]{advice}",
+      "entry": "hint",
+      "id": "hint_1#hint_1__17"
+    },
+    {
+      "comment": "[official_1]{official} [instruction]{instructions} or [advice]{advice} about how to do something",
+      "entry": "guidelines",
+      "id": "guidelines#guidelines__1"
+    },
+    {
+      "comment": "[help_1]{help} in the form of [idea]{ideas}, [advice]{advice}, or [information]{information}, [used]{used} in a [process_1]{process} or in [making]{making} a [decision_1]{decision}",
+      "entry": "input",
+      "id": "input_1#input_1__1"
+    },
+    {
+      "comment": "[advice]{advice} and [help_1]{help}",
+      "entry": "counsel",
+      "id": "counsel_2#counsel_2__4"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [advice]{advice} or [information]{information}",
+      "entry": "pointer",
+      "id": "pointer#pointer__1"
+    }
+  ],
+  "thesaurus": "Advice",
+  "type": "Synonyms"
+}

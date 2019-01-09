@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "send out",
+  "senses": [
+    {
+      "def": "to [send_1]{send} a [lot_1]{lot} of [copy_1]{copies} of the same [document_1]{document} to a [large_1]{large} [number_1]{number} of [people_1]{people}",
+      "examples": [
+        "We [sent]{sent} out 300 [invitation]{invitations} to our [gallery]{gallery} [opening_1]{opening}."
+      ],
+      "id": "send-out__1"
+    },
+    {
+      "def": "to [allow]{allow} a [substance]{substance} such as [smoke_1]{smoke} or [chemical_1]{chemicals} to [escape_1]{escape} into the [atmosphere]{atmosphere}",
+      "examples": [
+        "The [factory]{factory} [send_1]{sends} out [toxic]{toxic} [gas_1]{gases} into the [surrounding]{surrounding} [countryside]{countryside}."
+      ],
+      "id": "send-out__3"
+    },
+    {
+      "def": "to [send_1]{send} someone to a [place_1]{place} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "We [sent]{sent} out a [search_1]{search} [party_1]{party} to [look_1]{look} for the [missing]{missing} [climber]{climbers}."
+      ],
+      "id": "send-out__5"
+    }
+  ]
+}

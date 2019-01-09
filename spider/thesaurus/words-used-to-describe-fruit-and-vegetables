@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "[candied]{candied} [fruit_1]{fruit} has been [boil_1]{boiled} in [sugar_1]{sugar} to [preserve_1]{preserve} it",
+      "entry": "candied",
+      "id": "candied#candied__1"
+    },
+    {
+      "comment": "a [fleshy]{fleshy} [plant_1]{plant}, [fruit_1]{fruit}, [vegetable]{vegetable}, etc. is [soft]{soft} and thick",
+      "entry": "fleshy",
+      "id": "fleshy#fleshy__5"
+    },
+    {
+      "comment": "made from [fruit_1]{fruit}, or [relate]{relating} to [fruit_1]{fruit}",
+      "entry": "fruit",
+      "id": "fruit_1#fruit_1__7"
+    },
+    {
+      "comment": "[glace]{glac\u00e9} [fruit_1]{fruit} is [covered_1]{covered} with a [sugar_1]{sugar} [mixture]{mixture} and [look_1]{looks} [smooth_1]{smooth} and [shiny]{shiny}",
+      "entry": "glac\u00e9",
+      "id": "glace#glace__1"
+    },
+    {
+      "comment": "not yet ready to be [eaten]{eaten}",
+      "entry": "green",
+      "id": "green_1#green_1__6"
+    },
+    {
+      "comment": "[fruit_1]{fruit} and [vegetable]{vegetables} that are in [season_1]{season} are [growing]{growing} now and are [available]{available} in [large_1]{large} [amount_1]{amounts}",
+      "entry": "in season",
+      "id": "in-season#in-season__1"
+    },
+    {
+      "comment": "[mealy]{mealy} [fruit_1]{fruit} or [vegetable]{vegetables} are [soft]{soft} and [feel_1]{feel} rough, [dry_1]{dry}, and [unpleasant]{unpleasant} in your [mouth_1]{mouth}",
+      "entry": "mealy",
+      "id": "mealy#mealy__1"
+    },
+    {
+      "comment": "not [grown_1]{grown} at the [normal_1]{normal} time or under [normal_1]{normal} [condition_1]{conditions}",
+      "entry": "out of season",
+      "id": "out-of-season#out-of-season__5"
+    },
+    {
+      "comment": "[overripe]{overripe} [fruit_1]{fruit} is too [soft]{soft} and [does]{does} not [taste_1]{taste} very [good_1]{good}",
+      "entry": "overripe",
+      "id": "overripe#overripe__1"
+    },
+    {
+      "comment": "a [pitted]{pitted} [fruit_1]{fruit} has had the [seed_1]{seed} [taken_1]{taken} out of it",
+      "entry": "pitted",
+      "id": "pitted#pitted__3"
+    },
+    {
+      "comment": "[ripe]{ripe} [fruit_1]{fruit} or [crop_1]{crops} have [grown_1]{grown} to their full [size_1]{size} and are ready to [eat]{eat} or use",
+      "entry": "ripe",
+      "id": "ripe#ripe__1"
+    },
+    {
+      "comment": "[used]{used} about [fruit_1]{fruit} and [vegetable]{vegetables} that are [available]{available} now, at this time of [year]{year}",
+      "entry": "seasonal",
+      "id": "seasonal#seasonal__3"
+    },
+    {
+      "comment": "not [contain]{containing} any [seed_1]{seeds}",
+      "entry": "seedless",
+      "id": "seedless#seedless__1"
+    },
+    {
+      "comment": "[stoned]{stoned} [fruit_1]{fruit} has had its [seed_1]{seed} [removed]{removed}",
+      "entry": "stoned",
+      "id": "stoned#stoned__3"
+    },
+    {
+      "comment": "[sun-dried]{sun-dried} [fruit_1]{fruit} and [vegetable]{vegetables} have been put in the [sun_1]{sun} to [dry_1]{dry} in [order_1]{order} to [preserve_1]{preserve} them and give them a [strong]{strong} [flavor_1]{flavor}",
+      "entry": "sun-dried",
+      "id": "sun-dried#sun-dried__1"
+    },
+    {
+      "comment": "[unripe]{unripe} [fruit_1]{fruit} is [hard_1]{hard} and not yet ready to [eat]{eat}",
+      "entry": "unripe",
+      "id": "unripe#unripe__1"
+    },
+    {
+      "comment": "[vine-ripened]{vine-ripened} [fruit_1]{fruits} or [vegetable]{vegetables} [taste_1]{taste} [better_1]{better} than other [fruit_1]{fruits} and [vegetable]{vegetables} because they [stay_1]{stayed} on the [vine]{vine} for [long_1]{longer}",
+      "entry": "vine-ripened",
+      "id": "vine-ripened#vine-ripened__1"
+    }
+  ],
+  "thesaurus": "Words used to describe fruit and vegetables",
+  "type": "Related words"
+}

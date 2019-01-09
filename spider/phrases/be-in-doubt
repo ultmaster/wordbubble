@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "be in doubt",
+  "senses": [
+    {
+      "def": "if you are in [doubt_1]{doubt} about something, you do not [know_1]{know} what to do about it",
+      "examples": [
+        "He is still in some [doubt_1]{doubt} about whether to go or not."
+      ],
+      "id": "be-in-doubt__1"
+    },
+    {
+      "def": "if something is in [doubt_1]{doubt}, it is not [certain_1]{certain} whether it will [succeed]{succeed} or [continue]{continue} to [exist]{exist}",
+      "examples": [
+        "The [future_1]{future} of the [company]{company} is still in [doubt_1]{doubt}."
+      ],
+      "id": "be-in-doubt__3"
+    }
+  ]
+}

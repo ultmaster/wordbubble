@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to do something [later_1]{later} than is [plan_2]{planned} or [expected]{expected}",
+      "entry": "delay",
+      "id": "delay_1#delay_1__1"
+    },
+    {
+      "comment": "to [delay_1]{delay} [doing]{doing} something until someone [arrive]{arrives} or until something else [happen]{happens}",
+      "entry": "wait",
+      "id": "wait_1#wait_1__7"
+    },
+    {
+      "comment": "to [pause_1]{pause} before [doing]{doing} something, or to do something very [slowly]{slowly}, [usually]{usually} because you are [nervous]{nervous}, [embarrassed]{embarrassed}, or [worried]{worried}",
+      "entry": "hesitate",
+      "id": "hesitate#hesitate__1"
+    },
+    {
+      "comment": "to [delay_1]{delay} [doing]{doing} something, [especially]{especially} because you do not [want_1]{want} to do it",
+      "entry": "put off",
+      "id": "put-off#put-off__1"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [delay_1]{delay} [doing]{doing} something",
+      "entry": "hold off",
+      "id": "hold-off#hold-off__1"
+    },
+    {
+      "comment": "to [delay_1]{delay} [dealing]{dealing} with something",
+      "entry": "sit on",
+      "id": "sit-on#sit-on__1"
+    },
+    {
+      "comment": "to [delay_1]{delay} [doing]{doing} something until [later_1]{later}, [usually]{usually} something that you do not [want_1]{want} to do",
+      "entry": "procrastinate",
+      "id": "procrastinate#procrastinate__1"
+    },
+    {
+      "comment": "to [delay_1]{delay} [doing]{doing} something in [order_1]{order} to gain time",
+      "entry": "temporize",
+      "id": "temporize#temporize__1"
+    },
+    {
+      "comment": "to do nothing because you are [expect]{expecting} something to [happen]{happen}, and you cannot do anything until it [does]{does}",
+      "entry": "wait around",
+      "id": "wait-around#wait-around__1"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [delay_1]{delay} [doing]{doing} something, or to do it more [slowly]{slowly} than [usual]{usual}, so that you have more time to [decide]{decide} what to do",
+      "entry": "play for time",
+      "id": "play-for-time#play-for-time__1"
+    }
+  ],
+  "thesaurus": "To delay action, wait or hesitate",
+  "type": "Synonyms"
+}

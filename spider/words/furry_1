@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[covered_1]{covered} with fur",
+      "examples": [
+        "[kitten]{kittens} with [soft]{soft} furry [body]{bodies}"
+      ],
+      "id": "furry_1__1"
+    },
+    {
+      "def": "[covered_1]{covered} with a [substance]{substance} that [look_1]{looks} and [feels]{feels} [like_1]{like} fur",
+      "examples": [
+        "furry [toy_1]{toys}"
+      ],
+      "id": "furry_1__3"
+    },
+    {
+      "def": "a furry [tongue_1]{tongue} [feels]{feels} rough and is [covered_1]{covered} with a [white_1]{white} or [yellow_1]{yellow} [substance]{substance}",
+      "examples": [],
+      "id": "furry_1__5"
+    }
+  ],
+  "word": "furry"
+}

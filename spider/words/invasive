@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "invasive [medical_1]{medical} [treatment]{treatment} [involve]{involves} [put]{putting} something into someone\u2019s body or [cutting_1]{cutting} into someone\u2019s body",
+      "examples": [
+        "invasive [diagnostic]{diagnostic} [technique]{techniques}"
+      ],
+      "id": "invasive__1"
+    },
+    {
+      "def": "an invasive [disease]{disease} [spread_1]{spreads} within the body and is [difficult]{difficult} to [treat_1]{treat}",
+      "examples": [
+        "invasive [bladder]{bladder} [cancer_1]{cancer}"
+      ],
+      "id": "invasive__3"
+    },
+    {
+      "def": "[annoying]{annoying} because of being too [close_1]{close}, too [noisy]{noisy}, or too [involved]{involved} in [people_1]{people}\u2019s [personal_1]{personal} [lives]{lives}",
+      "examples": [],
+      "id": "invasive__5"
+    }
+  ],
+  "word": "invasive"
+}

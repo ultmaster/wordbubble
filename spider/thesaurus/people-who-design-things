@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "someone whose [job_1]{job} is to [design_1]{design} [building]{buildings}",
+      "entry": "architect",
+      "id": "architect#architect__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [design_1]{design} and [build_1]{build} [road]{roads}, [bridge_1]{bridges}, etc.",
+      "entry": "civil engineer",
+      "id": "civil-engineer#civil-engineer__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [decide]{decide} how to [make_1]{make} [thing]{things} or to [decide]{decide} their [shape_1]{shape} or [appearance]{appearance}",
+      "entry": "designer",
+      "id": "designer_1#designer_1__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [draw_1]{draw} the [plan_1]{plans} for something that someone is [going_1]{going} to [make_1]{make} or [build_1]{build}",
+      "entry": "draftsman",
+      "id": "draftsman#draftsman__1"
+    },
+    {
+      "comment": "someone who [design_1]{designs} or [build_1]{builds} [thing]{things} such as [road]{roads}, [railroad_1]{railroads}, [bridge_1]{bridges}, or [machine_1]{machines}",
+      "entry": "engineer",
+      "id": "engineer_1#engineer_1__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [design_1]{design} the way that the [inside_1]{inside} of a [room_1]{room} or [building]{building} [look_1]{looks}, for [example]{example} by [choose]{choosing} the [color_1]{colors} of the [wall_1]{walls} and [carpet_1]{carpets} and the [style_1]{style} of the [furniture]{furniture}",
+      "entry": "interior designer",
+      "id": "interior-designer#interior-designer__1"
+    },
+    {
+      "comment": "a very [famous_1]{famous} [architect_1]{architect}, [especially]{especially} one who has [recently]{recently} [design_2]{designed} a [famous_1]{famous} [building]{building}",
+      "entry": "starchitect",
+      "id": "starchitect#starchitect__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [plan_1]{plan} [large_1]{large} [building]{building} [project_1]{projects} such as [road]{roads}, [bridge_1]{bridges}, or [factory]{factories}",
+      "entry": "structural engineer",
+      "id": "structural-engineer#structural-engineer__1"
+    }
+  ],
+  "thesaurus": "People who design things",
+  "type": "Related words"
+}

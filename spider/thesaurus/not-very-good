@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is not as [good_1]{good} as it should be",
+      "entry": "poor",
+      "id": "poor_1#poor_1__10"
+    },
+    {
+      "comment": "not very [good_1]{good}",
+      "entry": "average",
+      "id": "average_2#average_2__8"
+    },
+    {
+      "comment": "not very [good_1]{good}, or not very [great_1]{great} in amount",
+      "entry": "limited",
+      "id": "limited#limited__5"
+    },
+    {
+      "comment": "if something is [inferior_1]{inferior}, its [quality_1]{quality} is not [good_1]{good}",
+      "entry": "inferior",
+      "id": "inferior_1#inferior_1__5"
+    },
+    {
+      "comment": "not as [good_1]{good} as you had [hope_1]{hoped} for or [expected]{expected}",
+      "entry": "disappointing",
+      "id": "disappointing#disappointing__1"
+    },
+    {
+      "comment": "not enough, or not [good_1]{good} enough for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "inadequate",
+      "id": "inadequate#inadequate__1"
+    },
+    {
+      "comment": "not very [good_1]{good} or [special_1]{special}",
+      "entry": "undistinguished",
+      "id": "undistinguished#undistinguished__1"
+    },
+    {
+      "comment": "not as [good_1]{good} as you would [normally]{normally} [expect]{expect}, or not [good_1]{good} enough to be [accepted]{accepted}",
+      "entry": "substandard",
+      "id": "substandard#substandard__1"
+    },
+    {
+      "comment": "[unsatisfying]{unsatisfying}",
+      "entry": "unsatisfactory",
+      "id": "unsatisfactory#unsatisfactory__3"
+    },
+    {
+      "comment": "not [acceptable]{acceptable} or not [good_1]{good} enough",
+      "entry": "ordinary",
+      "id": "ordinary#ordinary__11"
+    },
+    {
+      "comment": "below a [normal_1]{normal} or [expected]{expected} [level_1]{level}",
+      "entry": "subpar",
+      "id": "subpar#subpar__1"
+    },
+    {
+      "comment": "not as [good_1]{good} as [people_1]{people} [think_1]{think} or [expect]{expect} something or someone to be",
+      "entry": "not all/everything it's cracked up to be",
+      "id": "not-all-everything-it-s-cracked-up-to-be#not-all-everything-it-s-cracked-up-to-be__1"
+    },
+    {
+      "comment": "something that is of [bad_1]{bad} [quality_1]{quality} or [disappointing]{disappointing}",
+      "entry": "weak sauce",
+      "id": "weak-sauce#weak-sauce__1"
+    }
+  ],
+  "thesaurus": "Not very good",
+  "type": "Synonyms"
+}

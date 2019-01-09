@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [glue_1]{glue} [paper_1]{paper} onto a [surface_1]{surface} [use_1]{using} paste",
+      "examples": [
+        "She was [pasting]{pasting} [picture_1]{pictures} of [farm_1]{farm} [animal_1]{animals} into the [scrapbook]{scrapbook}."
+      ],
+      "id": "paste_2__1"
+    },
+    {
+      "def": "to move [word_1]{words}, [picture_1]{pictures}, etc. on a computer [screen_1]{screen} from one [place_1]{place} to another",
+      "examples": [
+        "Then you can paste the [picture_1]{picture} into your [document_1]{document}."
+      ],
+      "id": "paste_2__3"
+    }
+  ],
+  "word": "paste"
+}

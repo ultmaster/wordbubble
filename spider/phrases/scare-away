@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "scare away",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} so [frightened]{frightened} or [worried]{worried} that they do not do something that they had [plan_2]{planned} to do",
+      "examples": [
+        "The [city]{city}\u2019s [high_1]{high} [murder_1]{murder} [rate_1]{rate} has [scared]{scared} [away_1]{away} [tourist]{tourists}."
+      ],
+      "id": "scare-away__1"
+    },
+    {
+      "def": "to [make_1]{make} someone so [frightened]{frightened} that they [run_1]{run} [away_1]{away}",
+      "examples": [
+        "The [attacker]{attacker} was [scared]{scared} [away_1]{away} when the [woman]{woman} [start_1]{started} to [scream_1]{scream}."
+      ],
+      "id": "scare-away__3"
+    }
+  ]
+}

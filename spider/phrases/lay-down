@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "lay down",
+  "senses": [
+    {
+      "def": "to put something down in [order_1]{order} to show you are not [going_1]{going} to use it again, for [example]{example} a [weapon]{weapon} or [tool_1]{tool}",
+      "examples": [
+        "Please [stop_1]{stop} [writing]{writing} and [lay_1]{lay} down your [pencil_1]{pencils}."
+      ],
+      "id": "lay-down__1"
+    },
+    {
+      "def": "to [state_1]{state} [officially]{officially} what someone must do or how they must do it",
+      "examples": [
+        "The [natural_1]{Natural} [resource_1]{Resources} [department]{Department} has [laid]{laid} down [tough_1]{tough} [standard_1]{standards} for [water_1]{water} [quality_1]{quality}."
+      ],
+      "id": "lay-down__3"
+    },
+    {
+      "def": "to form a [layer_1]{layer} of something such as [soil_1]{soil} or [mud]{mud} that [gradually]{gradually} becomes [hard_1]{hard} and [develop]{develops} into [rock_1]{rock}",
+      "examples": [],
+      "id": "lay-down__5"
+    },
+    {
+      "def": "a way of [saying]{saying} \u201c[lie_1]{lie} down\u201d that many [people_1]{people} [think_1]{think} is [incorrect]{incorrect}",
+      "examples": [],
+      "id": "lay-down__6"
+    }
+  ]
+}

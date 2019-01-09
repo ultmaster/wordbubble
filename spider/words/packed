@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[extremely]{extremely} [crowded]{crowded}",
+      "examples": [
+        "The [movie]{movie} [theater]{theater} was packed on Friday.",
+        "a packed [flight]{flight}",
+        "a [beach_1]{beach} packed with [tourist]{tourists}"
+      ],
+      "id": "packed__1"
+    },
+    {
+      "def": "[contain]{containing} a [lot_1]{lot} of something",
+      "examples": [
+        "This [new]{new} [series]{series} is packed with [drama]{drama} and [excitement]{excitement}.",
+        "a [wholesome]{wholesome} [drink_1]{drink} packed with [vitamin]{vitamins} and [mineral]{minerals}"
+      ],
+      "id": "packed__5"
+    },
+    {
+      "def": "if you are packed, you have put your [possession]{possessions} into [bag_1]{bags}, [suitcase]{suitcases}, or [box_1]{boxes} so that you can take or [send_1]{send} them somewhere",
+      "examples": [],
+      "id": "packed__8"
+    },
+    {
+      "def": "packed [snow_1]{snow}, [sugar_1]{sugar}, or [soil_1]{soil} has been [pressed]{pressed} together [firm_1#firm_1__28]{firmly} to form a [hard_1]{hard} [mass_1]{mass}",
+      "examples": [
+        "2/3 [cup_1]{cup} of packed [brown_1]{brown} [sugar_1]{sugar}"
+      ],
+      "id": "packed__9"
+    }
+  ],
+  "word": "packed"
+}

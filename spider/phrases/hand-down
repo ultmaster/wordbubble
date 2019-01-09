@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "hand down",
+  "senses": [
+    {
+      "def": "to give [knowledge]{knowledge} or [skill]{skill} to someone who is [younger]{younger} than you and will [live_1]{live} after you have [die_1]{died}",
+      "examples": [
+        "These [skill]{skills} have been [hand_2]{handed} down from [generation]{generation} to [generation]{generation}."
+      ],
+      "id": "hand-down__1"
+    },
+    {
+      "def": "to give [clothes]{clothes}, [toy_1]{toys}, etc. to a [younger]{younger} [child]{child} when an [old]{older} [child]{child} no [long_1]{longer} [need_1]{needs} them",
+      "examples": [],
+      "id": "hand-down__3"
+    },
+    {
+      "def": "to [say_1]{say} [officially]{officially} that someone will [receive]{receive} a [particular_1]{particular} [punishment]{punishment}",
+      "examples": [
+        "The [family_1]{family} [believe]{believes} that the [sentence_1]{sentence} [hand_2]{handed} down by the [judge_1]{judge} is too [lenient]{lenient}."
+      ],
+      "id": "hand-down__4"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[extremely]{extremely} [appropriate_1]{appropriate}",
+      "examples": [],
+      "id": "tailor-made__1"
+    },
+    {
+      "def": "[tailor_1]{tailor}-made [clothes]{clothes} are made by a [tailor_1]{tailor} to [fit_1]{fit} a [particular_1]{particular} [customer]{customer}",
+      "examples": [],
+      "id": "tailor-made__2"
+    },
+    {
+      "def": "[design_2]{designed} for a [particular_1]{particular} [person]{person} or [group_1]{group} of [people_1]{people}",
+      "examples": [
+        "a [company]{company} [specialize]{specializing} in tailor-made [vacation_1]{vacations}"
+      ],
+      "id": "tailor-made__3"
+    }
+  ],
+  "word": "tailor-made"
+}

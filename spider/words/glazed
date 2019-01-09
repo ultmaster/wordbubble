@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "made of [glass]{glass} or [decorate]{decorated} with [glass]{glass}",
+      "examples": [
+        "glazed [door_1]{doors}"
+      ],
+      "id": "glazed__1"
+    },
+    {
+      "def": "[decorate]{decorated} or [protected]{protected} by a [smooth_1]{smooth} [shiny]{shiny} top [layer_1]{layer}",
+      "examples": [
+        "glazed [pastry]{pastries}"
+      ],
+      "id": "glazed__3"
+    },
+    {
+      "def": "a glazed [look_1]{look} or [expression]{expression} [show_1]{shows} no interest or [emotion]{emotion}",
+      "examples": [],
+      "id": "glazed__5"
+    }
+  ],
+  "word": "glazed"
+}

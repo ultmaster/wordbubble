@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "give way",
+  "senses": [
+    {
+      "def": "if something [give_1]{gives} way, it [break_1]{breaks} or [fall_1]{falls} down because there is too much [weight_1]{weight} or [pressure_1]{pressure} on it",
+      "examples": [
+        "The [bridge_1]{bridge} [threaten]{threatened} to give way as the [flood_1]{flood} [water_1]{waters} [rose_1]{rose}."
+      ],
+      "id": "give-way__1"
+    },
+    {
+      "def": "to [agree]{agree} to something that someone else [want_1]{wants} [instead]{instead} of what you [want_1]{want}",
+      "examples": [
+        "The [ambassador]{ambassador} [finally]{finally} [gave]{gave} way and [accepted]{accepted} the [proposal]{proposals}.",
+        "We will not give way to [terrorism]{terrorism}."
+      ],
+      "id": "give-way__3"
+    },
+    {
+      "def": "to [allow]{allow} another [vehicle]{vehicle} to go before you when you are [driving]{driving}. The [usual]{usual} [american_1]{American} [word_1]{word} is [yield_1]{yield}",
+      "examples": [
+        "[driver]{Drivers} must give way to [cyclist]{cyclists}."
+      ],
+      "id": "give-way__6"
+    },
+    {
+      "def": "to be [replace]{replaced} by something, [especially]{especially} something [new]{newer} or [better_1]{better}",
+      "examples": [
+        "Over the next few [year]{years}, the [city]{city}\u2019s [bus_1]{buses} will give way to a [new]{new} [light_1]{light} [rail_1]{rail} system."
+      ],
+      "id": "give-way__8"
+    }
+  ]
+}

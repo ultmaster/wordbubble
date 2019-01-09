@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[mention_1]{mentioned} or [describe]{described} in a [legend]{legend}",
+      "examples": [
+        "There was a [real_1]{real} Arthur on whom the legendary [king]{king} was [base_2]{based}."
+      ],
+      "id": "legendary__1"
+    },
+    {
+      "def": "very [famous_1]{famous} or well [known_1]{known} for a long time",
+      "examples": [
+        "the legendary [bad_1]{bad} [boy_1]{boy} of [rock_1]{rock}, [mick]{Mick} Jagger",
+        "the legendary [polite#polite__8]{politeness} of the British"
+      ],
+      "id": "legendary__3"
+    }
+  ],
+  "word": "legendary"
+}

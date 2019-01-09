@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something [look_1]{look} more [attractive]{attractive} by [put]{putting} [nice]{nice} [thing]{things} on it or in it",
+      "entry": "decorate",
+      "id": "decorate#decorate__1"
+    },
+    {
+      "comment": "to [decorate]{decorate} something",
+      "entry": "adorn",
+      "id": "adorn#adorn__1"
+    },
+    {
+      "comment": "to [improve_1]{improve} something, or to [make_1]{make} it more [attractive]{attractive} or more [valuable]{valuable}",
+      "entry": "enhance",
+      "id": "enhance#enhance__1"
+    },
+    {
+      "comment": "to [make_1]{make} something more [beautiful]{beautiful} by [decorate]{decorating} it",
+      "entry": "embellish",
+      "id": "embellish#embellish__2"
+    },
+    {
+      "comment": "to [make_1]{make} something [look_1]{look} more [beautiful]{beautiful}",
+      "entry": "beautify",
+      "id": "beautify#beautify__1"
+    },
+    {
+      "comment": "to [decorate]{decorate} something by [put]{putting} or [shining]{shining} [bright_1]{bright} [light_1]{lights} on it",
+      "entry": "illuminate",
+      "id": "illuminate#illuminate__4"
+    },
+    {
+      "comment": "to [change_1]{change} or [improve_1]{improve} the [appearance]{appearance} of someone or something",
+      "entry": "make over",
+      "id": "make-over#make-over__1"
+    },
+    {
+      "comment": "to [add_1]{add} something to something else to [make_1]{make} it more [beautiful]{beautiful}",
+      "entry": "ornament",
+      "id": "ornament_2#ornament_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone or something [completely]{completely} [different]{different}, [usually]{usually} in a way that [make_1]{makes} them more [attractive]{attractive}, [easy_1]{easier} to use, etc.",
+      "entry": "transform",
+      "id": "transform#transform__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [surface_1]{surface} [look_1]{look} [better_1]{better} with [small_1]{small} [improvement]{improvements}",
+      "entry": "touch up",
+      "id": "touch-up#touch-up__1"
+    }
+  ],
+  "thesaurus": "To make someone or something more attractive",
+  "type": "Synonyms"
+}

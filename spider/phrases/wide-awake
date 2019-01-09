@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "wide awake",
+  "senses": [
+    {
+      "def": "[completely]{completely} [awake_1]{awake}",
+      "examples": [
+        "I was already [wide_1]{wide} [awake_1]{awake} before the [alarm_1]{alarm} went off."
+      ],
+      "id": "wide-awake__1"
+    },
+    {
+      "def": "[able_1]{able} to [think_1]{think} [clearly]{clearly} and [react]{react} [quickly]{quickly}",
+      "examples": [
+        "I [want_1]{want} to be [wide_1]{wide} [awake_1]{awake} for the [board_1]{board} [meeting]{meeting} at ten."
+      ],
+      "id": "wide-awake__3"
+    }
+  ]
+}

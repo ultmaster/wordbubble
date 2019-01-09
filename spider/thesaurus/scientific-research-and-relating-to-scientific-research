@@ -1,0 +1,176 @@
+{
+  "entries": [
+    {
+      "comment": "to [cut_1]{cut} up the body of an [animal_1]{animal} or [plant_1]{plant} in [order_1]{order} to [examine]{examine} it",
+      "entry": "anatomize",
+      "id": "anatomize#anatomize__1"
+    },
+    {
+      "comment": "a [belief]{belief} that [animal_1]{animals} should be [treat_1]{treated} well by [people_1]{people} and not [kill_1]{killed} or [used]{used} for [scientific]{scientific} [experiment_1]{experiments}",
+      "entry": "animal rights",
+      "id": "animal-rights#animal-rights__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [use_1]{using} [plant_1]{plant} or [animal_1]{animal} [gene]{genes} for [scientific]{scientific} [research_1]{research} without [have]{having} the [legal]{legal} [right_1]{right} to do this",
+      "entry": "biopiracy",
+      "id": "biopiracy#biopiracy__1"
+    },
+    {
+      "comment": "a method of finding out which different gases or liquids are included in a mixture by passing it through or over substances that absorb the different parts at different rates",
+      "entry": "chromatography",
+      "id": "chromatography#chromatography__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} or [thing]{things} that is [compared]{compared} with the [people_1]{people} or [thing]{things} being [used]{used} in a [scientific]{scientific} [test_1]{test} in [order_1]{order} to show whether the [test_1]{test} has an [effect_1]{effect} or not",
+      "entry": "control",
+      "id": "control_1#control_1__27"
+    },
+    {
+      "comment": "to [prove]{prove} that something is [present_1]{present} [use_1]{using} [scientific]{scientific} [method]{methods}",
+      "entry": "detect",
+      "id": "detect#detect__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [detect]{detecting} someone or something",
+      "entry": "detection",
+      "id": "detection#detection__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} the body of a [dead_1]{dead} [person]{person} or [animal_1]{animal} into [part_1]{parts} in [order_1]{order} to [examine]{examine} them",
+      "entry": "dissect",
+      "id": "dissect#dissect__1"
+    },
+    {
+      "comment": "a [double-blind]{double-blind} [test_1]{test} [involve]{involves} two [group_1]{groups} of [people_1]{people}, only one of which is [really]{really} being [test_2]{tested}. None of the [people_1]{people} in the two [group_1]{groups} and none of the [scientist]{scientists} [perform]{performing} the [test_1]{test} [know_1]{knows} which [people_1]{people} [belong]{belong} to each [group_1]{group}.",
+      "entry": "double-blind",
+      "id": "double-blind#double-blind__1"
+    },
+    {
+      "comment": "[base_2]{based} on [real_1]{real} [experience_1]{experience} or [scientific]{scientific} [experiment_1]{experiments} rather than on [theory]{theory}",
+      "entry": "empirical",
+      "id": "empirical#empirical__1"
+    },
+    {
+      "comment": "a [scientific]{scientific} [test_1]{test} to find out what [happen]{happens} to someone or something in [particular_1]{particular} [condition_1]{conditions}",
+      "entry": "experiment",
+      "id": "experiment_1#experiment_1__1"
+    },
+    {
+      "comment": "to [perform]{perform} [scientific]{scientific} [test_1]{tests} in [order_1]{order} to find out what [happen]{happens} to someone or something in [particular_1]{particular} [condition_1]{conditions}",
+      "entry": "experiment",
+      "id": "experiment_2#experiment_2__4"
+    },
+    {
+      "comment": "[relate]{relating} to, [base_2]{based} on, or [used]{used} in [scientific]{scientific} [experiment_1]{experiments}",
+      "entry": "experimental",
+      "id": "experimental#experimental__4"
+    },
+    {
+      "comment": "the result of a medical, chemical, or biological test that shows something such as a particular substance exists but is incorrect",
+      "entry": "false positive",
+      "id": "false-positive#false-positive__1"
+    },
+    {
+      "comment": "an [incorrect]{incorrect} [result_1]{result} of a [scientific]{scientific} [test_1]{test}",
+      "entry": "false positive/negative",
+      "id": "false-positive-negative#false-positive-negative__1"
+    },
+    {
+      "comment": "someone who is [used]{used} in an [experiment_1]{experiment}",
+      "entry": "guinea pig",
+      "id": "guinea-pig#guinea-pig__1"
+    },
+    {
+      "comment": "in [condition_1]{conditions} that you find in the [real_1]{real} [world]{world}, not in a [laboratory]{laboratory} or [classroom]{classroom}",
+      "entry": "in the field",
+      "id": "in-the-field#in-the-field__1"
+    },
+    {
+      "comment": "done or [produce_1]{produced} in a [laboratory]{laboratory}",
+      "entry": "in vitro",
+      "id": "in-vitro#in-vitro__1"
+    },
+    {
+      "comment": "a [laboratory]{laboratory}",
+      "entry": "lab",
+      "id": "lab#lab__1"
+    },
+    {
+      "comment": "[working]{working} in, [used]{used} in, or done in a [laboratory]{laboratory}",
+      "entry": "lab",
+      "id": "lab#lab__3"
+    },
+    {
+      "comment": "a [building]{building} or [large_1]{large} [room_1]{room} where [people_1]{people} do [scientific]{scientific} and [medical_1]{medical} [experiment_1]{experiments} or [research_1]{research}",
+      "entry": "laboratory",
+      "id": "laboratory#laboratory__1"
+    },
+    {
+      "comment": "[working]{working} in, [used]{used} in, or done in a [laboratory]{laboratory}",
+      "entry": "laboratory",
+      "id": "laboratory#laboratory__3"
+    },
+    {
+      "comment": "a [substance]{substance} that is not a [medicine]{medicine}, [used]{used} as a [standard_1]{standard} of [comparison]{comparison} in [testing_1]{testing} the [effectiveness]{effectiveness} of a [new]{new} [medicine]{medicine}",
+      "entry": "placebo",
+      "id": "placebo#placebo__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [collect_1]{collecting} and [examine]{examining} [information]{information} about someone or something in [order_1]{order} to get an [accurate]{accurate} [idea]{idea} of what they are [like_1]{like}",
+      "entry": "profiling",
+      "id": "profiling#profiling__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [rule_1]{rules} for the [correct_1]{correct} way to [provide]{provide} a [medical_1]{medical} [treatment]{treatment} or do a [scientific]{scientific} [experiment_1]{experiment}",
+      "entry": "protocol",
+      "id": "protocol#protocol__3"
+    },
+    {
+      "comment": "a [place_1]{place} for [doing]{doing} [scientific]{scientific} [test_1]{tests}, [especially]{especially} [test_1]{tests} of [military]{military} [weapon]{weapons} and [equipment]{equipment}",
+      "entry": "proving ground",
+      "id": "proving-ground#proving-ground__2"
+    },
+    {
+      "comment": "the [collection]{collection} of [information]{information} by [watch_1]{watching} or [recording]{recording} something from [space_1]{space} or from an [airplane]{airplane}",
+      "entry": "remote sensing",
+      "id": "remote-sensing#remote-sensing__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of a [substance]{substance} that is [used]{used} for [scientific]{scientific} or [medical_1]{medical} [test_1]{tests}",
+      "entry": "sample",
+      "id": "sample_1#sample_1__8"
+    },
+    {
+      "comment": "a thin [piece_1]{piece} [cut_1]{cut} from an [animal_1]{animal} or [plant_1]{plant} and [examine]{examined}",
+      "entry": "section",
+      "id": "section_1#section_1__24"
+    },
+    {
+      "comment": "to [cut_1]{cut} [piece_1]{pieces} from an [animal_1]{animal} or [plant_1]{plant} for [scientific]{scientific} [examination]{examination}",
+      "entry": "section",
+      "id": "section_2#section_2__2"
+    },
+    {
+      "comment": "a small amount of blood, urine, or another liquid taken from your body so that it can be examined",
+      "entry": "specimen",
+      "id": "specimen#specimen__1"
+    },
+    {
+      "comment": "a [person]{person} or [animal_1]{animal} that is [used]{used} in a [medical_1]{medical} or [scientific]{scientific} [test_1]{test}",
+      "entry": "subject",
+      "id": "subject_1#subject_1__12"
+    },
+    {
+      "comment": "the [activity]{activity} of [perform]{performing} [operation]{operations} on [living_1]{living} [animal_1]{animals} for [scientific]{scientific} [experiment_1]{experiments}",
+      "entry": "vivisection",
+      "id": "vivisection#vivisection__1"
+    },
+    {
+      "comment": "to take a [picture_1]{picture} of the [inside_1]{inside} of something [use_1]{using} X-rays",
+      "entry": "X-ray",
+      "id": "x-ray_2#x-ray_2__1"
+    }
+  ],
+  "thesaurus": "Scientific research and relating to scientific research",
+  "type": "Related words"
+}

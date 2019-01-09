@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} that you [think_1]{think} you will [win_1]{win} a [particular_1]{particular} [number_1]{number} of [point_1]{points} in a [card_1]{card} [game_1]{game}",
+      "entry": "bid",
+      "id": "bid_1#bid_1__6"
+    },
+    {
+      "comment": "to say which of the four suits of cards will be trump  (=cards with a higher value) in a card game",
+      "entry": "call",
+      "id": "call_1#call_1__62"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone that they must show their [card_1]{cards} in some [card_1]{card} [game_1]{games}",
+      "entry": "call",
+      "id": "call_1#call_1__63"
+    },
+    {
+      "comment": "to [divide_1]{divide} a [set_1]{set} of [play_1]{playing} [card_1]{cards} into two [pile_1]{piles}",
+      "entry": "cut",
+      "id": "cut_1#cut_1__41"
+    },
+    {
+      "comment": "to [choose]{choose} a [card_1]{card} or [ticket_1]{ticket} in a [game_1]{game}, without [seeing]{seeing} what is on it",
+      "entry": "draw",
+      "id": "draw_1#draw_1__24"
+    },
+    {
+      "comment": "to [begin]{begin} a part of a [card_1]{card} [game_1]{game} by [play_1]{playing} a [particular_1]{particular} [card_1]{card}",
+      "entry": "lead",
+      "id": "lead_1#lead_1__33"
+    },
+    {
+      "comment": "to not play a card or not make a bid in a card game",
+      "entry": "pass",
+      "id": "pass_1#pass_1__68"
+    },
+    {
+      "comment": "to increase the value of a bet in a card game",
+      "entry": "raise",
+      "id": "raise_1#raise_1__16"
+    },
+    {
+      "comment": "in a card game, to bet the same amount of money as another player",
+      "entry": "see",
+      "id": "see_1#see_1__59"
+    },
+    {
+      "comment": "to bet the same [money]{money} as another [player]{player} and to [make_1]{make} them show their [card_1]{cards}",
+      "entry": "see",
+      "id": "see_1#see_1__61"
+    },
+    {
+      "comment": "to put cards into a different order in the deck before you deal them to players at the beginning of a game",
+      "entry": "shuffle",
+      "id": "shuffle_1#shuffle_1__4"
+    },
+    {
+      "comment": "to [decide]{decide} that you do not [want_1]{want} any more [card_1]{cards} in some [card_1]{card} [game_1]{games}",
+      "entry": "stick",
+      "id": "stick_1#stick_1__29"
+    },
+    {
+      "comment": "to [win_1]{win} against another [card_1]{card} in a [game_1]{game} by [play_1]{playing} a [trump_1]{trump}",
+      "entry": "trump",
+      "id": "trump_2#trump_2__1"
+    }
+  ],
+  "thesaurus": "To perform an action in a card game",
+  "type": "Related words"
+}

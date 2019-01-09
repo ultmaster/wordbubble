@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "like hell",
+  "senses": [
+    {
+      "def": "with a [lot_1]{lot} of [speed_1]{speed} or [effort]{effort}",
+      "examples": [
+        "I [got_1]{got} out of the [truck_1]{truck} and [ran]{ran} [like_1]{like} [hell_1]{hell}."
+      ],
+      "id": "like-hell__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you [doubt_1]{doubt} something or do not [believe]{believe} it",
+      "examples": [
+        "\u201cHe\u2019ll [change_1]{change} his [mind_1]{mind}.\u201d \u201c[like_1]{Like} [hell_1]{hell} he will!\u201d"
+      ],
+      "id": "like-hell__3"
+    }
+  ]
+}

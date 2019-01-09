@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [repair_1]{repair} a [tear_1]{tear} or hole in a [piece_1]{piece} of [clothing]{clothing}",
+      "examples": [
+        "These [sock_1]{socks} [need_1]{need} to be [mend_1]{mended}.",
+        "The [gate_1]{gate} [need_1]{needs} to be [mend_1]{mended} so it [close_1]{closes} [properly]{properly}."
+      ],
+      "id": "mend_1__1"
+    },
+    {
+      "def": "to do something to [end_1]{end} an [argument]{argument} or [disagreement]{disagreement}",
+      "examples": [
+        "The [secretary]{Secretary} of [state_1]{State} and Chinese [foreign]{Foreign} [minister_1]{Minister} met [briefly]{briefly} in an [attempt_1]{attempt} to mend [strained]{strained} [relation]{relations}."
+      ],
+      "id": "mend_1__5"
+    },
+    {
+      "def": "if a [bone_1]{bone} [mend_1]{mends}, or if something [mend_1]{mends} it after it has [broken_1]{broken}, it [grow]{grows} back together and becomes [healthy]{healthy} again",
+      "examples": [],
+      "id": "mend_1__7"
+    }
+  ],
+  "word": "mend"
+}

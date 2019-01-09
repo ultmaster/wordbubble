@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} where [natural_1]{natural} [pressure_1]{pressure} under the [ground_1]{ground} [force_1]{forces} [water_1]{water} to the [earth]{earth}\u2019s [surface_1]{surface}",
+      "entry": "artesian well",
+      "id": "artesian-well#artesian-well__1"
+    },
+    {
+      "comment": "a [small_1]{small} [stream_1]{stream}",
+      "entry": "beck",
+      "id": "beck#beck__1"
+    },
+    {
+      "comment": "a [small_1]{small} [river]{river}",
+      "entry": "brook",
+      "id": "brook_1#brook_1__1"
+    },
+    {
+      "comment": "an [artificial]{artificial} [river]{river}",
+      "entry": "canal",
+      "id": "canal#canal__1"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [stream_1]{stream}",
+      "entry": "creek",
+      "id": "creek#creek__1"
+    },
+    {
+      "comment": "a [small_1]{small} [stream_1]{stream} that [flow_1]{flows} into a [large_1]{larger} [river]{river}",
+      "entry": "feeder",
+      "id": "feeder_1#feeder_1__9"
+    },
+    {
+      "comment": "[hot]{hot} [water_1]{water} and [steam_1]{steam} that [shoot_1]{shoot} up out of the [earth]{earth}",
+      "entry": "geyser",
+      "id": "geyser#geyser__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [hot]{hot} [water_1]{water} comes up out of the [ground_1]{ground} and [form_1]{forms} a [pool_1]{pool} that [people_1]{people} can [relax]{relax} in",
+      "entry": "hot spring",
+      "id": "hot-spring#hot-spring__1"
+    },
+    {
+      "comment": "a little stream or brook",
+      "entry": "rill",
+      "id": "rill#rill__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [water_1]{water} that [flow_1]{flows} toward the [ocean]{ocean}",
+      "entry": "river",
+      "id": "river#river__1"
+    },
+    {
+      "comment": "a river or canal that is wide enough and deep enough for ships from the ocean to travel along",
+      "entry": "seaway",
+      "id": "seaway#seaway__1"
+    },
+    {
+      "comment": "[water_1]{water} that [flow_1]{flows} up from under the [ground_1]{ground} and [form_1]{forms} a [small_1]{small} [stream_1]{stream} or [pool_1]{pool}",
+      "entry": "spring",
+      "id": "spring_1#spring_1__7"
+    },
+    {
+      "comment": "a [small_1]{small} [narrow_1]{narrow} [river]{river}",
+      "entry": "stream",
+      "id": "stream_1#stream_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [river]{river} that [flow_1]{flows} into a [large_1]{larger} [river]{river}",
+      "entry": "tributary",
+      "id": "tributary_1#tributary_1__1"
+    },
+    {
+      "comment": "a river, canal, or stream",
+      "entry": "watercourse",
+      "id": "watercourse#watercourse__1"
+    },
+    {
+      "comment": "a river or canal that boats use for traveling from one place to another",
+      "entry": "waterway",
+      "id": "waterway#waterway__1"
+    }
+  ],
+  "thesaurus": "Rivers, streams and springs",
+  "type": "Related words"
+}

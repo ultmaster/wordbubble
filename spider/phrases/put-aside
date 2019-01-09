@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "put aside",
+  "senses": [
+    {
+      "def": "to [save_1]{save} an amount of [money]{money} so that you can [buy_1]{buy} or [pay_1]{pay} for something in the [future_1]{future}",
+      "examples": [
+        "Each [month]{month} she [put]{puts} some [money]{money} [aside_1]{aside} for her [retirement]{retirement}."
+      ],
+      "id": "put-aside__1"
+    },
+    {
+      "def": "to not [allow]{allow} yourself to be [affected]{affected} by a [problem]{problem}, [argument]{argument}, etc. so that you can [achieve]{achieve} something more [important]{important}",
+      "examples": [
+        "Laura put [aside_1]{aside} her [concern_1]{concerns} and went [ahead]{ahead} with the [job_1]{job}.",
+        "Both sides [need_1]{need} to put [aside_1]{aside} their [difference]{differences} and [continue]{continue} the [peace]{peace} [talk_1]{talks}."
+      ],
+      "id": "put-aside__3"
+    },
+    {
+      "def": "to keep something so that it can be [used]{used} or [taken_1]{taken} [away_1]{away} [later_1]{later}",
+      "examples": [
+        "The [store_1]{store} [offer_1]{offered} to put the [dress_1]{dress} [aside_1]{aside} while I went to the [bank_1]{bank}."
+      ],
+      "id": "put-aside__6"
+    },
+    {
+      "def": "to keep a [period_1]{period} of time [free_1]{free} so that you can use it for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "I put [aside_1]{aside} a [day]{day} at the [end_1]{end} of each [month]{month} for [pay_1]{paying} my [bill_1]{bills}."
+      ],
+      "id": "put-aside__8"
+    }
+  ]
+}

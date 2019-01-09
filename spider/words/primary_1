@@ -1,0 +1,31 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "most [important]{important}",
+      "examples": [
+        "[dealing]{Dealing} with [crime_1]{crime} is our primary [concern_1]{concern}.",
+        "The primary [objective_1]{objective} is to [ensure]{ensure} [improvement]{improvements} in [animal_1]{animal} [welfare]{welfare}."
+      ],
+      "id": "primary_1__1"
+    },
+    {
+      "def": "coming or [happening_1]{happening} before other [thing]{things}",
+      "examples": [
+        "primary [source_1]{sources} of [information]{information}",
+        "a primary [tumor]{tumor}",
+        "the primary [visual_1]{visual} [cortex]{cortex}"
+      ],
+      "id": "primary_1__4"
+    },
+    {
+      "def": "[relate]{relating} to the [education]{education} of [children]{children} between the [age_1]{ages} of about five and eleven",
+      "examples": [
+        "a primary [teacher]{teacher}",
+        "primary [education]{education}"
+      ],
+      "id": "primary_1__9"
+    }
+  ],
+  "word": "primary"
+}

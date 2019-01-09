@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a temperate [climate]{climate} or [region]{region} is never [extremely]{extremely} [hot]{hot} or [extremely]{extremely} [cold_1]{cold}",
+      "examples": [
+        "temperate [country]{countries}/[region]{regions}/[zone_1]{zones}",
+        "temperate [weather_1]{weather}",
+        "temperate [forest]{forests}/[bird]{birds}"
+      ],
+      "id": "temperate__1"
+    },
+    {
+      "def": "not [extreme_1]{extreme} in [behavior]{behavior} or [language]{language}",
+      "examples": [
+        "He was [patient_1]{patient}, [self-controlled]{self-controlled}, and temperate in his [habit]{habits}."
+      ],
+      "id": "temperate__6"
+    }
+  ],
+  "word": "temperate"
+}

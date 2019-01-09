@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "behind the scenes",
+  "senses": [
+    {
+      "def": "[secretly]{secretly} [instead]{instead} of [publicly]{publicly}",
+      "examples": [
+        "These [agreement]{agreements} have been [draft_2]{drafted} by [official_2]{officials} behind the [scene]{scenes}.",
+        "behind-the-scenes [negotiation]{negotiations}"
+      ],
+      "id": "behind-the-scenes__1"
+    },
+    {
+      "def": "not [seen]{seen} or [heard]{heard} by the [audience]{audience} of a [movie]{movie}, [play_1]{play}, etc.",
+      "examples": [
+        "He [prefer]{prefers} to [work_1]{work} behind the [scene]{scenes} as a [director]{director}."
+      ],
+      "id": "behind-the-scenes__4"
+    }
+  ]
+}

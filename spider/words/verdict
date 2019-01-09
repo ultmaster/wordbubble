@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [official_1]{official} [judgment]{judgment} made in a [court_1]{court} about whether someone is [guilty]{guilty} of a [crime_1]{crime}",
+      "examples": [
+        "a [unanimous]{unanimous} verdict",
+        "The [jury]{jury} [took]{took} 16 [hour]{hours} to [reach_1]{reach} a verdict.",
+        "The [jury]{jury} [return_1]{returned} a verdict of not [guilty]{guilty}.",
+        "The [coroner]{coroner} [record_2]{recorded} a verdict of [accidental]{accidental} [death]{death}."
+      ],
+      "id": "verdict__1"
+    },
+    {
+      "def": "an [opinion]{opinion} that you have or a [decision_1]{decision} that you [make_1]{make}",
+      "examples": [
+        "\u201cSo, what\u2019s the verdict?\u201d Anne [ask_1]{asked} [cheery#cheery__4]{cheerily}.",
+        "His verdict on the [lunch_1]{lunch} was \u201ca [disaster]{disaster}.\u201d"
+      ],
+      "id": "verdict__7"
+    }
+  ],
+  "word": "verdict"
+}

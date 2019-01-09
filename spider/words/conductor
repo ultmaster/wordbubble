@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [direct_2]{directs} the [musician]{musicians} of an [orchestra]{orchestra} or other [musical_1]{musical} [group_1]{group}",
+      "examples": [],
+      "id": "conductor__1"
+    },
+    {
+      "def": "someone on a [train_1]{train}, [bus_1]{bus}, etc. who [check_1]{checks} [passenger]{passengers}\u2019 [ticket_1]{tickets} and [collect_1]{collects} [money]{money}",
+      "examples": [],
+      "id": "conductor__2"
+    },
+    {
+      "def": "a [substance]{substance} that [allow]{allows} [heat_1]{heat} or [electricity]{electricity} to [pass_1]{pass} through it",
+      "examples": [
+        "[metal_1]{Metals} are [good_1]{good} [conductor]{conductors} of [electricity]{electricity} and [heat_1]{heat}."
+      ],
+      "id": "conductor__3"
+    }
+  ],
+  "word": "conductor"
+}

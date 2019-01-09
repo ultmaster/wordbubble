@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "last out",
+  "senses": [
+    {
+      "def": "to [manage]{manage} to [stay_1]{stay} [alive]{alive} for a [particular_1]{particular} [period_1]{period} of time",
+      "examples": [
+        "It doesn\u2019t [look_1]{look} [like_1]{like} she\u2019ll last out the [night_1]{night}."
+      ],
+      "id": "last-out__1"
+    },
+    {
+      "def": "to [continue]{continue} to be enough for what [people_1]{people} [need_1]{need}",
+      "examples": [
+        "I [doubt_1]{doubt} whether our [money]{money} is [going_1]{going} to last out."
+      ],
+      "id": "last-out__3"
+    }
+  ]
+}

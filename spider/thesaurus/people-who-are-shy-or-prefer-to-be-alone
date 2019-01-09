@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [like_2]{likes} to be alone and has few [friend_1]{friends}",
+      "entry": "loner",
+      "id": "loner#loner__1"
+    },
+    {
+      "comment": "someone who [choose]{chooses} to [live_1]{live} alone or [spend]{spend} most of their time alone",
+      "entry": "hermit",
+      "id": "hermit#hermit__1"
+    },
+    {
+      "comment": "someone who [lives]{lives} alone and [avoid]{avoids} [seeing]{seeing} other [people_1]{people}",
+      "entry": "recluse",
+      "id": "recluse#recluse__1"
+    },
+    {
+      "comment": "someone who [tend]{tends} to [concentrate_1]{concentrate} on their own [thought_1]{thoughts} and [feeling_1]{feelings} [instead]{instead} of [communicate]{communicating} with other [people_1]{people}",
+      "entry": "introvert",
+      "id": "introvert#introvert__1"
+    },
+    {
+      "comment": "someone who is [quiet_1]{quiet} and [prefer]{prefers} not to be [notice_1]{noticed}",
+      "entry": "mouse",
+      "id": "mouse_1#mouse_1__5"
+    },
+    {
+      "comment": "someone at a [social_1]{social} [event]{event} who has no one to [dance_1]{dance} with or [talk_1]{talk} to, often because they are [shy_1]{shy}",
+      "entry": "wallflower",
+      "id": "wallflower#wallflower__1"
+    },
+    {
+      "comment": "someone who [like_2]{likes} to be or [work_1]{work} alone",
+      "entry": "lone wolf",
+      "id": "lone-wolf#lone-wolf__1"
+    },
+    {
+      "comment": "someone who is very [shy_1]{shy}",
+      "entry": "shrinking violet",
+      "id": "shrinking-violet#shrinking-violet__1"
+    },
+    {
+      "comment": "someone who [like_2]{likes} to [spend]{spend} most of their time at [home_1]{home}",
+      "entry": "homebody",
+      "id": "homebody#homebody__1"
+    }
+  ],
+  "thesaurus": "People who are shy or prefer to be alone",
+  "type": "Synonyms"
+}

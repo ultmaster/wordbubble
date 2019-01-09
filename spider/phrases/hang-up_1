@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "hang up",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [use_1]{using} a [telephone_1]{telephone} at the [end_1]{end} of a [conversation]{conversation}",
+      "examples": [
+        "Greg [hung_1]{hung} up and [sat_1]{sat} back in his [chair_1]{chair}.",
+        "\u201cGet [lost_1]{lost}!\u201d she [shout_1]{shouted}, and [hung_1]{hung} up on me."
+      ],
+      "id": "hang-up_1__1"
+    },
+    {
+      "def": "to [hang_1]{hang} a [piece_1]{piece} of [clothing]{clothing} on something",
+      "examples": [
+        "The [women]{women} [hung_1]{hung} up their [coat_1]{coats} and [sat_1]{sat} down."
+      ],
+      "id": "hang-up_1__4"
+    },
+    {
+      "def": "to [stop_1]{stop} [use_1]{using} something because you are no [long_1]{longer} [doing]{doing} a [particular_1]{particular} [sport_1]{sport} or [activity]{activity}",
+      "examples": [
+        "Nicola has [decided]{decided} it\u2019s time to [hang_1]{hang} up her [dancing]{dancing} [shoe_1]{shoes}."
+      ],
+      "id": "hang-up_1__6"
+    }
+  ]
+}

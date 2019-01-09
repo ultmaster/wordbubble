@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [dry_1]{dry} has no [water_1]{water} in it or on it",
+      "entry": "dry",
+      "id": "dry_1#dry_1__1"
+    },
+    {
+      "comment": "thin and [dry_1]{dry} [like_1]{like} [paper_1]{paper}",
+      "entry": "papery",
+      "id": "papery#papery__1"
+    },
+    {
+      "comment": "[scaly]{scaly} [skin_1]{skin} is so [dry_1]{dry} that [small_1]{small} [piece_1]{pieces} of it [fall_1]{fall} off",
+      "entry": "scaly",
+      "id": "scaly#scaly__2"
+    },
+    {
+      "comment": "dry hair or skin feels rough because it does not have enough moisture in it",
+      "entry": "dry",
+      "id": "dry_1#dry_1__13"
+    },
+    {
+      "comment": "something that is [desiccated]{desiccated} is much [drier]{drier} than it should be",
+      "entry": "desiccated",
+      "id": "desiccated#desiccated__3"
+    },
+    {
+      "comment": "[used]{used} about a [liquid_1]{liquid} such as [paint_1]{paint} when it has become [hard_1]{hard} or [solid_1]{solid}",
+      "entry": "dry",
+      "id": "dry_1#dry_1__5"
+    },
+    {
+      "comment": "[completely]{completely} [dry_1]{dry}",
+      "entry": "bone-dry",
+      "id": "bone-dry#bone-dry__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [dry_1]{dry} and [easy_1]{easy} to [start_1]{start} a fire with",
+      "entry": "tinder-dry",
+      "id": "tinder-dry#tinder-dry__1"
+    },
+    {
+      "comment": "[completely]{completely} [dry_1]{dry}",
+      "entry": "as dry as a bone",
+      "id": "as-dry-as-a-bone#as-dry-as-a-bone__1"
+    }
+  ],
+  "thesaurus": "Dry to the touch",
+  "type": "Synonyms"
+}

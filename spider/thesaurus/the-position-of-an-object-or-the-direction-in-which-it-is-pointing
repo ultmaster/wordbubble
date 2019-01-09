@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "containing information about location: used to make verbs, nouns and adjectives",
+      "entry": "geo-",
+      "id": "geo#geo__4"
+    },
+    {
+      "comment": "the way that an [object_1]{object} is [place_2]{placed}",
+      "entry": "position",
+      "id": "position_1#position_1__4"
+    },
+    {
+      "comment": "the way that someone or something [face_1]{faces} or [point_1]{points} toward",
+      "entry": "direction",
+      "id": "direction#direction__9"
+    },
+    {
+      "comment": "the [position_1]{position} that something is in when it is [straight_1]{straight} or in the [correct_1]{correct} [place_1]{place} in [relation]{relation} to other [thing]{things}",
+      "entry": "alignment",
+      "id": "alignment#alignment__1"
+    },
+    {
+      "comment": "the [position_1]{position} of an [object_1]{object}, or the [direction]{direction} in which it is [pointing]{pointing}",
+      "entry": "orientation",
+      "id": "orientation#orientation__10"
+    },
+    {
+      "comment": "the [direction]{direction} from which something comes, or the [direction]{direction} from which you [look_1]{look} at something, [especially]{especially} when it is not [directly_1]{directly} in front of you",
+      "entry": "angle",
+      "id": "angle_1#angle_1__4"
+    },
+    {
+      "comment": "the [direction]{direction} in which something is [standing_1]{standing} or [moving]{moving}",
+      "entry": "way",
+      "id": "way_1#way_1__24"
+    },
+    {
+      "comment": "the [direction]{direction} in which a [building]{building} or [window]{window} [face_1]{faces}",
+      "entry": "aspect",
+      "id": "aspect#aspect__5"
+    },
+    {
+      "comment": "the [direction]{direction} in which a [room_1]{room}, [building]{building}, [hill]{hill}, etc. [face_1]{faces}",
+      "entry": "exposure",
+      "id": "exposure#exposure__16"
+    },
+    {
+      "comment": "[used]{used} for [state_2]{stating} the [direction]{direction} in which you [look_1]{look}, [point_1]{point}, or [aim_1]{aim} something",
+      "entry": "at",
+      "id": "at_1#at_1__47"
+    }
+  ],
+  "thesaurus": "The position of an object or the direction in which it is pointing",
+  "type": "Synonyms"
+}

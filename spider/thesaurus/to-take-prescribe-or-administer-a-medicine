@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "to give someone a [drug_1]{drug} or [medical_1]{medical} [treatment]{treatment}",
+      "entry": "administer",
+      "id": "administer#administer__6"
+    },
+    {
+      "comment": "the [action_1]{action} of [give_1]{giving} someone a [drug_1]{drug}",
+      "entry": "administration",
+      "id": "administration#administration__13"
+    },
+    {
+      "comment": "to [stop_1]{stop} [take_1]{taking} something such as a [medicine]{medicine} or [drug_1]{drug}",
+      "entry": "come off",
+      "id": "come-off#come-off__8"
+    },
+    {
+      "comment": "to [prepare]{prepare} [medicine]{medicines} and give them to [people_1]{people}",
+      "entry": "dispense",
+      "id": "dispense#dispense__4"
+    },
+    {
+      "comment": "to give someone a [drug_1]{drug} to take [away_1]{away} their [pain_1]{pain} or to [make_1]{make} them [sleep_1]{sleep}",
+      "entry": "dope",
+      "id": "dope_2#dope_2__1"
+    },
+    {
+      "comment": "to give a [measured]{measured} amount of a [drug_1]{drug} to someone",
+      "entry": "dose",
+      "id": "dose_2#dose_2__1"
+    },
+    {
+      "comment": "to give a [drug_1]{drug} to someone so that they will go to [sleep_1]{sleep} or will become [unconscious_1]{unconscious}",
+      "entry": "drug",
+      "id": "drug_2#drug_2__1"
+    },
+    {
+      "comment": "to put a [drug_1]{drug} in [food]{food} or a [drink_1]{drink} so that someone will [swallow_1]{swallow} it without [knowing]{knowing}",
+      "entry": "drug",
+      "id": "drug_2#drug_2__4"
+    },
+    {
+      "comment": "to give someone a [lot_1]{lot} of [drug_1]{drugs} or [medicine]{medicine} with the [result_1]{result} that they cannot [behave]{behave} [normally]{normally}",
+      "entry": "drug up",
+      "id": "drug-up#drug-up__1"
+    },
+    {
+      "comment": "to put [medicine]{medicine} into someone\u2019s body [use_1]{using} a [particular_1]{particular} [method]{method}",
+      "entry": "give",
+      "id": "give_1#give_1__13"
+    },
+    {
+      "comment": "to [start_1]{start} [take_1]{taking} a [particular_1]{particular} [medicine]{medicine} or [drug_1]{drug}",
+      "entry": "go on",
+      "id": "go-on#go-on__13"
+    },
+    {
+      "comment": "to put a drug or another substance into your body through the skin, using a needle and a syringe",
+      "entry": "inject",
+      "id": "inject#inject__1"
+    },
+    {
+      "comment": "to protect someone against a particular disease by injecting a medicine containing a small amount of the disease into them, so that their body becomes immune to it",
+      "entry": "inoculate",
+      "id": "inoculate#inoculate__1"
+    },
+    {
+      "comment": "to take too much of a [drug_1]{drug} at one time",
+      "entry": "overdose",
+      "id": "overdose_2#overdose_2__1"
+    },
+    {
+      "comment": "if you [pop_1]{pop} [pill]{pills}, you take them too often",
+      "entry": "pop",
+      "id": "pop_1#pop_1__12"
+    },
+    {
+      "comment": "to put a [lot_1]{lot} of a [substance]{substance}, [especially]{especially} a [drug_1]{drug}, into someone\u2019s body",
+      "entry": "pump someone full of something",
+      "id": "pump-someone-full-of-something#pump-someone-full-of-something__1"
+    },
+    {
+      "comment": "to put a [drug_1]{drug} or [medicine]{medicine} into your body",
+      "entry": "take",
+      "id": "take_1#take_1__108"
+    },
+    {
+      "comment": "to [treat_1]{treat} a [person]{person} or an [animal_1]{animal} with a [vaccine]{vaccine} to [protect]{protect} them against a [disease]{disease}",
+      "entry": "vaccinate",
+      "id": "vaccinate#vaccinate__1"
+    }
+  ],
+  "thesaurus": "To take, prescribe or administer a medicine",
+  "type": "Related words"
+}

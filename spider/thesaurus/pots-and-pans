@@ -1,0 +1,171 @@
+{
+  "entries": [
+    {
+      "comment": "a [container]{container} [used]{used} for [cooking_1]{cooking} [food]{food} over a fire",
+      "entry": "billy",
+      "id": "billy#billy__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [container]{container} [used]{used} for [bake_1]{baking} a [cake]{cake}",
+      "entry": "cake pan",
+      "id": "cake-pan#cake-pan__1"
+    },
+    {
+      "comment": "a [cake]{cake} [pan_1]{pan}",
+      "entry": "cake tin",
+      "id": "cake-tin#cake-tin__2"
+    },
+    {
+      "comment": "a [large_1]{large} round [metal_1]{metal} [container]{container} [used]{used} for [cooking_1]{cooking} over a fire",
+      "entry": "caldron",
+      "id": "caldron#caldron__1"
+    },
+    {
+      "comment": "a [deep_1]{deep} [dish_1]{dish} with a [lid]{lid}, [used]{used} for [cooking_1]{cooking} a [mixture]{mixture} of [meat]{meat}, [vegetable]{vegetables}, etc. in the [oven]{oven}",
+      "entry": "casserole",
+      "id": "casserole#casserole__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [caldron]{caldron}",
+      "entry": "cauldron",
+      "id": "cauldron#cauldron__1"
+    },
+    {
+      "comment": "a [container]{container} in which [milk_1]{milk} or [cream_1]{cream} is [mixed]{mixed} to [make_1]{make} [butter_1]{butter}",
+      "entry": "churn",
+      "id": "churn_2#churn_2__1"
+    },
+    {
+      "comment": "a [container]{container} for [making]{making} or [serving]{serving} [coffee]{coffee}",
+      "entry": "coffeepot",
+      "id": "coffeepot#coffeepot__1"
+    },
+    {
+      "comment": "a metal sheet used for baking cookies or other food on",
+      "entry": "cookie sheet",
+      "id": "cookie-sheet#cookie-sheet__1"
+    },
+    {
+      "comment": "a [large_1]{large} [deep_1]{deep} [pan_1]{pan} [used]{used} for [cooking_1]{cooking} [food]{food} in [oil_1]{oil}",
+      "entry": "deep fryer",
+      "id": "deep-fryer#deep-fryer__1"
+    },
+    {
+      "comment": "a [deep_1]{deep} [pan_1]{pan} with a [second_1]{second} [pan_1]{pan} on top of it. You [boil_1]{boil} [water_1]{water} in the [lower_1]{lower} [pan_1]{pan} in [order_1]{order} to [heat_1]{heat} or [cook_1]{cook} the [food]{food} in the [pan_1]{pan} above it.",
+      "entry": "double boiler",
+      "id": "double-boiler#double-boiler__1"
+    },
+    {
+      "comment": "a [large_1]{large} [metal_1]{metal} [pan_1]{pan} [used]{used} [especially]{especially} for [cooking_1]{cooking} [meat]{meat} and [sauce]{sauces}",
+      "entry": "Dutch oven",
+      "id": "dutch-oven#dutch-oven__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [metal_1]{metal} [pan_1]{pan} with a long [handle_1]{handle}, [used]{used} for [cooking_1]{cooking} [food]{food} in [hot]{hot} [oil_1]{oil} or [fat_1]{fat}",
+      "entry": "frying pan",
+      "id": "frying-pan#frying-pan__1"
+    },
+    {
+      "comment": "a round [flat_1]{flat} [iron_1]{iron} [pan_1]{pan} [used]{used} on top of a [hot]{hot} [surface_1]{surface} for [cooking_1]{cooking}",
+      "entry": "griddle",
+      "id": "griddle_1#griddle_1__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} or [plastic_1]{plastic} [container]{container} that [use_1]{uses} [electricity]{electricity} to [cook_1]{cook} [food]{food} [inside_1]{inside}",
+      "entry": "hotpot",
+      "id": "hotpot#hotpot__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [container]{container}, [usually]{usually} with a [cover_1]{cover}, [used]{used} for [cooking_1]{cooking}",
+      "entry": "kettle",
+      "id": "kettle_1#kettle_1__2"
+    },
+    {
+      "comment": "[nonstick]{nonstick} [cooking_1]{cooking} [pan_1]{pans} and [paper_1]{paper} have a [surface_1]{surface} that [food]{food} will not [stick_1]{stick} to",
+      "entry": "nonstick",
+      "id": "nonstick#nonstick__1"
+    },
+    {
+      "comment": "a round metal container used for cooking, with a handle and usually a lid. A saucepan has tall sides and a frying pan is wider with shorter sides and usually no lid",
+      "entry": "pan",
+      "id": "pan_1#pan_1__1"
+    },
+    {
+      "comment": "a metal container used for baking. The British word is tin",
+      "entry": "pan",
+      "id": "pan_1#pan_1__6"
+    },
+    {
+      "comment": "a [special_1]{special} [pan_1]{pan} [design_2]{designed} for [poach]{poaching} [egg_1]{eggs}",
+      "entry": "poacher",
+      "id": "poacher#poacher__2"
+    },
+    {
+      "comment": "a deep round metal container used for cooking food in on a stove",
+      "entry": "pot",
+      "id": "pot_1#pot_1__1"
+    },
+    {
+      "comment": "a [container]{container} [used]{used} for [making]{making} or [serving]{serving} [hot]{hot} [drink_1]{drinks}",
+      "entry": "pot",
+      "id": "pot_1#pot_1__3"
+    },
+    {
+      "comment": "a [deep_1]{deep} [cooking_1]{cooking} [pan_1]{pan} with a [tight_1]{tight} [lid]{lid} that [allow]{allows} the [pressure_1]{pressure} of [steam_1]{steam} to [cook_1]{cook} [food]{food} [quickly]{quickly}",
+      "entry": "pressure cooker",
+      "id": "pressure-cooker#pressure-cooker__1"
+    },
+    {
+      "comment": "a [large_1]{large} [metal_1]{metal} [container]{container} on [short_1]{short} [legs]{legs}, [used]{used} in Russia for [making]{making} [tea]{tea}",
+      "entry": "samovar",
+      "id": "samovar#samovar__1"
+    },
+    {
+      "comment": "a round deep metal container with a long handle, used for cooking food on a stove",
+      "entry": "saucepan",
+      "id": "saucepan#saucepan__1"
+    },
+    {
+      "comment": "a [fry_1]{frying} [pan_1]{pan}",
+      "entry": "skillet",
+      "id": "skillet#skillet__1"
+    },
+    {
+      "comment": "a [container]{container} [used]{used} for [cooking_1]{cooking} [food]{food} with [steam_1]{steam}",
+      "entry": "steamer",
+      "id": "steamer#steamer__2"
+    },
+    {
+      "comment": "a pan that is used for cooking meat or vegetables to make a liquid called stock that you use for making soups, sauces, etc.",
+      "entry": "stockpot",
+      "id": "stockpot#stockpot__1"
+    },
+    {
+      "comment": "the [traditional]{traditional} [pot_1]{pot} in which a [tagine]{tagine} is [cooked]{cooked}",
+      "entry": "tagine",
+      "id": "tagine#tagine__2"
+    },
+    {
+      "comment": "a [large_1]{large} [metal_1]{metal} [container]{container} for [hot]{hot} [tea]{tea}, or for [hot]{hot} [water_1]{water} for [making]{making} [tea]{tea}, for a [large_1]{large} [group_1]{group} of [people_1]{people}",
+      "entry": "tea urn",
+      "id": "tea-urn#tea-urn__1"
+    },
+    {
+      "comment": "a [pan_1]{pan} [used]{used} for [cooking_1]{cooking} [food]{food} in an [oven]{oven}",
+      "entry": "tin",
+      "id": "tin_1#tin_1__6"
+    },
+    {
+      "comment": "a [large_1]{large} [metal_1]{metal} [container]{container} for [making]{making} [tea]{tea} or [coffee]{coffee}",
+      "entry": "urn",
+      "id": "urn#urn__2"
+    },
+    {
+      "comment": "a [metal_1]{metal} [pan_1]{pan} [shaped_1]{shaped} [like_1]{like} a [large_1]{large} [bowl_1]{bowl}, [used]{used} for [cooking_1]{cooking} Chinese [food]{food}",
+      "entry": "wok",
+      "id": "wok#wok__1"
+    }
+  ],
+  "thesaurus": "Pots and pans",
+  "type": "Related words"
+}

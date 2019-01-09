@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "nowhere/not anywhere near",
+  "senses": [
+    {
+      "def": "[far]{far} from a [particular_1]{particular} [point_1]{point} or [place_1]{place}",
+      "examples": [
+        "The [photographer]{photographers} were nowhere [near_1]{near} the [crash_1]{crash} when it [happen]{happened}."
+      ],
+      "id": "nowhere-not-anywhere-near__1"
+    },
+    {
+      "def": "not [nearly]{nearly}",
+      "examples": [
+        "Ithaca is nowhere [near_1]{near} as [large_1]{large} as Pittsburgh; it\u2019s a [college]{college} [town]{town}.",
+        "She doesn\u2019t [look_1]{look} anywhere [near_1]{near} as [old]{old} as Rebecca."
+      ],
+      "id": "nowhere-not-anywhere-near__3"
+    }
+  ]
+}

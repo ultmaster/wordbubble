@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "a function of something",
+  "senses": [
+    {
+      "def": "the [result_1]{result} of a [change_1]{change} in something",
+      "examples": [
+        "[decrease_1]{Decreased} [gas_1]{gas} [mileage]{mileage} is [largely]{largely} a [function_1]{function} of [today_1]{today}\u2019s [big_1]{bigger} [engine]{engines}."
+      ],
+      "id": "a-function-of-something__1"
+    },
+    {
+      "def": "if one [mathematical]{mathematical} [quantity]{quantity} is a [function_1]{function} of another, it [change_1]{changes} [accord_2]{according} to how the [second_1]{second} [quantity]{quantity} [change_1]{changes}",
+      "examples": [],
+      "id": "a-function-of-something__3"
+    }
+  ]
+}

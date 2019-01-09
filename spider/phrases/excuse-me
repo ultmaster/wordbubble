@@ -1,0 +1,51 @@
+{
+  "part": "phrase",
+  "phrase": "excuse me",
+  "senses": [
+    {
+      "def": "[used]{used} for [politely]{politely} [get]{getting} someone\u2019s [attention]{attention}",
+      "examples": [
+        "[excuse_1]{Excuse} me, do you [know_1]{know} what time it is?"
+      ],
+      "id": "excuse-me__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} you are [sorry]{sorry} for [interrupt]{interrupting} someone",
+      "examples": [
+        "[excuse_1]{Excuse} me, but there\u2019s a [phone_1]{phone} call for you."
+      ],
+      "id": "excuse-me__3"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} something",
+      "examples": [
+        "\u201cHow [old]{old} are you?\u201d \u201c[excuse_1]{Excuse} me?\u201d"
+      ],
+      "id": "excuse-me__5"
+    },
+    {
+      "def": "[used]{used} for [politely]{politely} [ask_1]{asking} someone to move so that you can get [past_1]{past} them",
+      "examples": [],
+      "id": "excuse-me__7"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} you are [sorry]{sorry} because your body has made a [rude]{rude} [noise]{noise}",
+      "examples": [],
+      "id": "excuse-me__8"
+    },
+    {
+      "def": "[used]{used} for [politely]{politely} [telling]{telling} someone you are [leave_1]{leaving}",
+      "examples": [
+        "[excuse_1]{Excuse} me for a [moment]{moment} \u2013 I have to [make_1]{make} a [phone_1]{phone} call."
+      ],
+      "id": "excuse-me__9"
+    },
+    {
+      "def": "[used]{used} for [politely]{politely} [disagree]{disagreeing} with someone",
+      "examples": [
+        "[excuse_1]{Excuse} me, but I never [said_1]{said} I\u2019d [pay_1]{pay} for everything."
+      ],
+      "id": "excuse-me__11"
+    }
+  ]
+}

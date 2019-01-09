@@ -1,0 +1,61 @@
+{
+  "phrase": "thing",
+  "senses": [
+    {
+      "def": "an [object_1]{object}, or an item. This word is used when you cannot or do not want to refer to the object or item in a more specific way",
+      "examples": [
+        "What\u2019s that thing over there on the table?"
+      ],
+      "id": "thing__1"
+    },
+    {
+      "def": "an [action_1]{action}, or an [activity]{activity}",
+      "examples": [
+        "I have a lot of things to do today."
+      ],
+      "id": "thing__11"
+    },
+    {
+      "def": "a [situation]{situation}, or an [event]{event}",
+      "examples": [
+        "A funny thing happened to me today."
+      ],
+      "id": "thing__15"
+    },
+    {
+      "def": "a [fact]{fact} or a [condition_1]{condition} [related_1]{related} to a [particular_1]{particular} [situation]{situation}, [activity]{activity}, [person]{person}, etc.",
+      "examples": [
+        "The first thing I want is a hot bath."
+      ],
+      "id": "thing__22"
+    },
+    {
+      "def": "an [aspect]{aspect} of [life]{life}",
+      "examples": [
+        "I\u2019ve become less concerned about material things."
+      ],
+      "id": "thing__40"
+    },
+    {
+      "def": "an [idea]{idea}, a [comment_1]{comment}, or a [piece_1]{piece} of [information]{information}",
+      "examples": [
+        "There are some interesting things in your report."
+      ],
+      "id": "thing__43"
+    },
+    {
+      "def": "[used]{used} for [refer]{referring} to other [example]{examples} or [detail_1]{details}, [especially]{especially} when you cannot or do not [want_1]{want} to [refer]{refer} to them in a more [specific]{specific} way",
+      "examples": [
+        "What other things did he say to you?"
+      ],
+      "id": "thing__49"
+    },
+    {
+      "def": "a [young_1]{young} [person]{person} or [animal_1]{animal} that you [like_1]{like}. This word is used for saying something nice to them or about them",
+      "examples": [
+        "You poor thing, you cut your finger."
+      ],
+      "id": "thing__55"
+    }
+  ]
+}

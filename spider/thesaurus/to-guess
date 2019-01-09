@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} or [decide]{decide} what you [think_1]{think} is [true_1]{true}, without being [certain_1]{certain} about it",
+      "entry": "guess",
+      "id": "guess_1#guess_1__1"
+    },
+    {
+      "comment": "to [say_1]{say} what you [think_1]{think} an amount or [value_1]{value} will be, either by [guess_1]{guessing} or by [use_1]{using} [available]{available} [information]{information} to [calculate]{calculate} it",
+      "entry": "estimate",
+      "id": "estimate_1#estimate_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [judgment]{judgment} or [guess_1]{guess} about a [situation]{situation}, [action_1]{action}, or [person]{person} [base_2]{based} on the [information]{information} that you have",
+      "entry": "gauge",
+      "id": "gauge_2#gauge_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [guess_1]{guess} or [suggestion]{suggestion} about something when you are not [sure_1]{sure} if it is [true_1]{true}",
+      "entry": "hazard",
+      "id": "hazard_2#hazard_2__1"
+    },
+    {
+      "comment": "to [guess_1]{guess} that something is [true_1]{true}, when you do not have enough [information]{information} to [prove]{prove} that it is [true_1]{true}",
+      "entry": "surmise",
+      "id": "surmise#surmise__1"
+    },
+    {
+      "comment": "to form an [opinion]{opinion} about an amount, [distance_1]{distance}, [size_1]{size}, etc. by [guess_1]{guessing}",
+      "entry": "judge",
+      "id": "judge_2#judge_2__11"
+    },
+    {
+      "comment": "to [make_1]{make} a [mistake_1]{mistake} by [guess_1]{guessing} an amount, [number_1]{number}, etc. that is too [high_1]{high}",
+      "entry": "overestimate",
+      "id": "overestimate_1#overestimate_1__2"
+    },
+    {
+      "comment": "to [think_1]{think} or [guess_1]{guess} that something is [small_1]{smaller}, less [important]{important}, etc. than it [really]{really} is",
+      "entry": "underestimate",
+      "id": "underestimate_1#underestimate_1__3"
+    },
+    {
+      "comment": "to [guess_1]{guess} something that is not [express_1]{expressed} [directly_1]{directly}",
+      "entry": "read between the lines",
+      "id": "read-between-the-lines#read-between-the-lines__1"
+    },
+    {
+      "comment": "to [guess_1]{guess} what is [happening_1]{happening} or what something [means]{means} as a [result_1]{result} of what you have [seen]{seen} or [heard]{heard}",
+      "entry": "put two and two together",
+      "id": "put-two-and-two-together#put-two-and-two-together__1"
+    }
+  ],
+  "thesaurus": "To guess",
+  "type": "Synonyms"
+}

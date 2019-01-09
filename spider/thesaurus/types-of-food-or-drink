@@ -1,0 +1,231 @@
+{
+  "entries": [
+    {
+      "comment": "with all [available]{available} [topping]{toppings} or [sauce]{sauces} and [flavoring]{flavorings}",
+      "entry": "all-dressed",
+      "id": "all-dressed#all-dressed__1"
+    },
+    {
+      "comment": "[all-dressed]{all-dressed} [potato]{potato} [chip_1]{chips} have several [different]{different} [flavor_1]{flavors} together, [including]{including} [ketchup]{ketchup}, [salt_1]{salt}, [vinegar]{vinegar}, [sour_1]{sour} [cream_1]{cream} and [onion]{onion}",
+      "entry": "all-dressed",
+      "id": "all-dressed#all-dressed__4"
+    },
+    {
+      "comment": "a [food]{food}, [drink_1]{drink}, or [drug_1]{drug} that [make_1]{makes} [people_1]{people} [want_1]{want} to have [sex_1]{sex}",
+      "entry": "aphrodisiac",
+      "id": "aphrodisiac#aphrodisiac__1"
+    },
+    {
+      "comment": "[special_1]{special} [food]{food} for [baby_1]{babies} that has been [cut_1]{cut} into [small_1]{small} [piece_1]{pieces} and [cooked]{cooked} so that it is [soft]{soft} and [smooth_1]{smooth}",
+      "entry": "baby food",
+      "id": "baby-food#baby-food__1"
+    },
+    {
+      "comment": "a [food]{food} or [substance]{substance} that is the [main_1]{main} [food]{food} or [substance]{substance} to which other [thing]{things} are [added]{added}",
+      "entry": "base",
+      "id": "base_1#base_1__25"
+    },
+    {
+      "comment": "[carbohydrate]{carbohydrate}",
+      "entry": "carb",
+      "id": "carb#carb__1"
+    },
+    {
+      "comment": "a [food]{food} that [contain]{contains} [carbohydrate]{carbohydrates}",
+      "entry": "carbohydrate",
+      "id": "carbohydrate#carbohydrate__2"
+    },
+    {
+      "comment": "[clean_1]{clean} [food]{food} or [clean_1]{clean} [eat]{eating} [involve]{involves} [eat]{eating} only [food]{foods} that are [believe]{believed} to be [good_1]{good} for you, [especially]{especially} [raw_1]{raw} [food]{foods} and wholefoods",
+      "entry": "clean",
+      "id": "clean_1#clean_1__33"
+    },
+    {
+      "comment": "[food]{food} that you [enjoy]{enjoy} very much and often [eat]{eat} when you are [feeling_1]{feeling} [sad_1]{sad}",
+      "entry": "comfort food",
+      "id": "comfort-food#comfort-food__1"
+    },
+    {
+      "comment": "[sweet_1]{sweet} [food]{foods} such as [cake]{cakes}",
+      "entry": "confectionery",
+      "id": "confectionery#confectionery__2"
+    },
+    {
+      "comment": "food that is quick and easy to prepare such as food that has already been cooked and only needs to be heated. Fast food is food that you can get quickly in a restaurant.",
+      "entry": "convenience food",
+      "id": "convenience-food#convenience-food__1"
+    },
+    {
+      "comment": "[creole_1]{creole} [food]{food} has the [typical]{typical} [strong]{strong} [flavor_1]{flavor} of [food]{food} from the [southern]{southern} U.S. and [usually]{usually} [contain]{contains} [tomato]{tomatoes}, [pepper_1]{peppers}, [onion]{onions}, and [rice]{rice}",
+      "entry": "creole",
+      "id": "creole_2#creole_2__1"
+    },
+    {
+      "comment": "[dairy_1]{dairy} [product]{products}",
+      "entry": "dairy",
+      "id": "dairy_1#dairy_1__3"
+    },
+    {
+      "comment": "[dairy_1]{dairy} [product]{products} [include]{include} [milk_1]{milk} and [food]{foods} that are made from [milk_1]{milk}, for [example]{example} [butter_1]{butter} and [cheese]{cheese}",
+      "entry": "dairy",
+      "id": "dairy_2#dairy_2__1"
+    },
+    {
+      "comment": "a [rare]{rare} or [expensive]{expensive} [type_1]{type} of [food]{food}",
+      "entry": "delicacy",
+      "id": "delicacy#delicacy__1"
+    },
+    {
+      "comment": "[goods]{goods} such as [tea]{tea}, [coffee]{coffee}, and [flour_1]{flour} that [contain]{contain} no [liquid_1]{liquid}",
+      "entry": "dry goods",
+      "id": "dry-goods#dry-goods__2"
+    },
+    {
+      "comment": "food that is made and served very quickly, especially food such as a burger that you can take away with you",
+      "entry": "fast food",
+      "id": "fast-food#fast-food__1"
+    },
+    {
+      "comment": "food that has been genetically modified",
+      "entry": "Frankenfood",
+      "id": "frankenfood#frankenfood__1"
+    },
+    {
+      "comment": "something that you [add_1]{add} to a [dish_1]{dish} of [food]{food} to [make_1]{make} it [look_1]{look} more [attractive]{attractive}",
+      "entry": "garnish",
+      "id": "garnish_2#garnish_2__1"
+    },
+    {
+      "comment": "[thing]{things} that are [nice]{nice} to [eat]{eat}, such as [cake]{cake} and [chocolate]{chocolates}",
+      "entry": "goodies",
+      "id": "goodies#goodies__1"
+    },
+    {
+      "comment": "[food]{food} that is [good_1]{good} for you because it [does]{does} not [contain]{contain} [artificial]{artificial} [substance]{substances}",
+      "entry": "health food",
+      "id": "health-food#health-food__1"
+    },
+    {
+      "comment": "a [supply_1]{supply} of [emergency_1]{emergency} [food]{food}, [especially]{especially} [food]{food} for the [military]{military}",
+      "entry": "iron rations",
+      "id": "iron-rations#iron-rations__1"
+    },
+    {
+      "comment": "[food]{food} that is not [healthy]{healthy} because it [contain]{contains} a [lot_1]{lot} of [fat_1]{fat}, [salt_1]{salt}, and [sugar_1]{sugar}",
+      "entry": "junk food",
+      "id": "junk-food#junk-food__1"
+    },
+    {
+      "comment": "[macrobiotic]{macrobiotic} [food]{foods} are [considered]{considered} [healthy]{healthy} because they [consist]{consist} of [grain]{grains}, [seed_1]{seeds}, [fruit_1]{fruits}, and [vegetable]{vegetables} [produce_1]{produced} without [add_1]{adding} [chemical_1]{chemicals}",
+      "entry": "macrobiotic",
+      "id": "macrobiotic#macrobiotic__1"
+    },
+    {
+      "comment": "the [flesh_1]{flesh} of an [animal_1]{animal} or [bird]{bird} [eaten]{eaten} as [food]{food}",
+      "entry": "meat",
+      "id": "meat#meat__1"
+    },
+    {
+      "comment": "[small_1]{small} [thing]{things} to [eat]{eat}",
+      "entry": "munchies",
+      "id": "munchies#munchies__1"
+    },
+    {
+      "comment": "small pieces of food eaten at social events with drinks, for example potato chips and nuts",
+      "entry": "nibbles",
+      "id": "nibble_2#nibble_2__3"
+    },
+    {
+      "comment": "[non-dairy]{non-dairy} [food]{foods} are not made from [milk_1]{milk} or [cream_1]{cream}",
+      "entry": "non-dairy",
+      "id": "non-dairy#non-dairy__1"
+    },
+    {
+      "comment": "[non-vegetarian]{non-vegetarian} [food]{foods} [contain]{contain} [meat]{meat} or other [part_1]{parts} of [animal_1]{animals}",
+      "entry": "non-vegetarian",
+      "id": "non-vegetarian#non-vegetarian__1"
+    },
+    {
+      "comment": "a type of food that has not been eaten before, including genetically modified substances and products that lower cholesterol: used especially in government documents",
+      "entry": "novel food",
+      "id": "novel-food#novel-food__1"
+    },
+    {
+      "comment": "a [food]{food} or [natural_1]{natural} [substance]{substance} that [people_1]{people} [eat]{eat} in [order_1]{order} to [feel_1]{feel} more [healthy]{healthy}",
+      "entry": "nutraceutical",
+      "id": "nutraceutical#nutraceutical__1"
+    },
+    {
+      "comment": "very [soft]{soft} [food]{food} for [baby_1]{babies} or [people_1]{people} who are too [sick_1]{sick} to [eat]{eat} [ordinary]{ordinary} [food]{food}",
+      "entry": "pap",
+      "id": "pap_1#pap_1__1"
+    },
+    {
+      "comment": "[fruit_1]{fruit}, [vegetable]{vegetables}, and other [thing]{things} that [farmer]{farmers} [grow]{grow}",
+      "entry": "produce",
+      "id": "produce_2#produce_2__1"
+    },
+    {
+      "comment": "a small piece of food that tastes of salt or spices and is not sweet. Savories are usually served at parties as snacks.",
+      "entry": "savory",
+      "id": "savory_2#savory_2__1"
+    },
+    {
+      "comment": "fish and shellfish that you can eat",
+      "entry": "seafood",
+      "id": "seafood#seafood__1"
+    },
+    {
+      "comment": "[food]{food} that is not thick or [solid_1]{solid} enough and has no [taste_1]{taste}",
+      "entry": "slop",
+      "id": "slop_2#slop_2__4"
+    },
+    {
+      "comment": "[meal]{meals} which are [careful#careful__20]{carefully} [prepared]{prepared} [use_1]{using} [traditional]{traditional} [cooking_1]{cooking} [method]{methods} and [good_1]{good} [quality_1]{quality} [food]{food} and are [intended_1]{intended} to be [eaten]{eaten} and [enjoy]{enjoyed} [slowly]{slowly}",
+      "entry": "slow food",
+      "id": "slow-food#slow-food__1"
+    },
+    {
+      "comment": "[suitable]{suitable} or [design_2]{designed} for [eat]{eating} in [small_1]{small} [quantity]{quantities}, not as part of a [meal]{meal}",
+      "entry": "snackable",
+      "id": "snackable#snackable__1"
+    },
+    {
+      "comment": "food that is traditionally eaten by black people in the southern U.S., for example chitterlings, corn bread, and collard greens",
+      "entry": "soul food",
+      "id": "soul-food#soul-food__1"
+    },
+    {
+      "comment": "an [important]{important} [product]{product}, [especially]{especially} a [food]{food}, that [people_1]{people} [eat]{eat} or use [regularly]{regularly}",
+      "entry": "staple",
+      "id": "staple_1#staple_1__3"
+    },
+    {
+      "comment": "the [main_1]{main} [food]{food} or [food]{foods} that a [person]{person} or [animal_1]{animal} [eats]{eats} [regularly]{regularly}",
+      "entry": "staple diet",
+      "id": "staple-diet#staple-diet__3"
+    },
+    {
+      "comment": "a [food]{food} that is [considered]{considered} to be very [good_1]{good} for your [health]{health} and that may even [help_1]{help} some [medical_1]{medical} [condition_1]{conditions}",
+      "entry": "superfood",
+      "id": "superfood#superfood__1"
+    },
+    {
+      "comment": "a part of a plant used as food, for example a potato, bean, or cabbage",
+      "entry": "vegetable",
+      "id": "vegetable#vegetable__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [produce_1]{produced} from [vegetable]{vegetables}",
+      "entry": "vegetable",
+      "id": "vegetable#vegetable__5"
+    },
+    {
+      "comment": "a [vegetable]{vegetable}",
+      "entry": "veggie",
+      "id": "veggie_2#veggie_2__1"
+    }
+  ],
+  "thesaurus": "Types of food or drink",
+  "type": "Related words"
+}

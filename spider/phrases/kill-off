@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "kill off",
+  "senses": [
+    {
+      "def": "to [destroy]{destroy} [living_1]{living} [thing]{things} so that most or all of them are [dead_1]{dead}",
+      "examples": [
+        "[antibiotic]{Antibiotics} may [kill_1]{kill} off [beneficial]{beneficial} [bacteria]{bacteria}."
+      ],
+      "id": "kill-off__1"
+    },
+    {
+      "def": "to [stop_1]{stop}, get [rid_1]{rid} of, or [destroy]{destroy} something",
+      "examples": [
+        "In an [unexpected]{unexpected} [action_1]{action}, the [corporation]{corporation} [announce]{announced} that it would [kill_1]{kill} off its two least [productive]{productive} [subsidiary_1]{subsidiaries}."
+      ],
+      "id": "kill-off__3"
+    },
+    {
+      "def": "if a [writer]{writer} [kill_1]{kills} off someone in a [book_1]{book}, [play_1]{play}, [movie]{movie}, or [television]{television} [program_1]{program}, they [make_1]{make} them [die_1]{die} in the [story]{story}",
+      "examples": [
+        "She was [kill_1]{killed} off at the [end_1]{end} of the [second_1]{second} [series]{series}."
+      ],
+      "id": "kill-off__5"
+    }
+  ]
+}

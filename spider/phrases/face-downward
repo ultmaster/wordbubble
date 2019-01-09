@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "face downward",
+  "senses": [
+    {
+      "def": "[lying]{lying} on the front of your body",
+      "examples": [
+        "He found her [lying]{lying} [face_1]{face} [downward_1]{downward} on her [bed_1]{bed}."
+      ],
+      "id": "face-downward__1"
+    },
+    {
+      "def": "[lying]{lying} on the side that [normally]{normally} [face_1]{faces} up",
+      "examples": [
+        "She [place_2]{placed} the [photo_1]{photo} [face_1]{face} [downward_1]{downward} on the [table_1]{table}."
+      ],
+      "id": "face-downward__3"
+    }
+  ]
+}

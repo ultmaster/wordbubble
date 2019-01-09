@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [expensive]{expensive}",
+      "entry": "cheap",
+      "id": "cheap_1#cheap_1__1"
+    },
+    {
+      "comment": "not [costing]{costing} or [spending]{spending} much [money]{money}",
+      "entry": "economic",
+      "id": "economic#economic__10"
+    },
+    {
+      "comment": "[competitive]{competitive} [price_1]{prices} are [lower_1]{lower} than many others",
+      "entry": "competitive",
+      "id": "competitive#competitive__7"
+    },
+    {
+      "comment": "[economy_1]{economy} [goods]{goods} are less [expensive]{expensive} than [normal_1]{normal} [goods]{goods}, [usually]{usually} because you are [buy_1]{buying} [large_1]{larger} [quantity]{quantities}",
+      "entry": "economy",
+      "id": "economy_2#economy_2__1"
+    },
+    {
+      "comment": "a [favorable]{favorable} [price_1]{price} is [inexpensive]{inexpensive} or [reasonable]{reasonable}",
+      "entry": "favorable",
+      "id": "favorable#favorable__9"
+    },
+    {
+      "comment": "[inexpensive]{inexpensive} enough for [ordinary]{ordinary} [people_1]{people} to [afford]{afford}",
+      "entry": "affordable",
+      "id": "affordable#affordable__1"
+    },
+    {
+      "comment": "something that is [inexpensive]{inexpensive} [does]{does} not [cost_1]{cost} much [money]{money}",
+      "entry": "inexpensive",
+      "id": "inexpensive#inexpensive__1"
+    },
+    {
+      "comment": "not [costing]{costing} or [spending]{spending} much [money]{money}",
+      "entry": "economical",
+      "id": "economical#economical__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that something is [worth_1]{worth} more than it [cost_1]{costs}",
+      "entry": "cheap at the price",
+      "id": "cheap-at-the-price#cheap-at-the-price__1"
+    },
+    {
+      "comment": "less [expensive]{expensive} and less [advanced]{advanced} than other [similar]{similar} [goods]{goods} and [service_1]{services}",
+      "entry": "low-end",
+      "id": "low-end#low-end__1"
+    }
+  ],
+  "thesaurus": "Cheap and inexpensive",
+  "type": "Synonyms"
+}

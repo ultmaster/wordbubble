@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [occasion_1]{occasion} when one [country]{country}\u2019s [army]{army} [go_1]{goes} into another [country]{country} to take [control_1]{control} of it by [force_1]{force}",
+      "examples": [
+        "the Roman invasion of Britain under Julius Caesar",
+        "an invasion [force_1]{force}"
+      ],
+      "id": "invasion__1"
+    },
+    {
+      "def": "a [situation]{situation} in which a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things} come to a [place_1]{place} at the same time, [especially]{especially} in an [annoying]{annoying} way",
+      "examples": [
+        "The [store_1]{stores} [prepared]{prepared} for an invasion of [last-minute]{last-minute} Christmas [shopper]{shoppers}.",
+        "the [annual_1]{annual} [summer]{summer} invasion of [tourist]{tourists}"
+      ],
+      "id": "invasion__4"
+    },
+    {
+      "def": "the [movement]{movement} of a [disease]{disease} or of the [cell]{cells} that cause it from one [area]{area} to another",
+      "examples": [
+        "an invasion of [cancer_1]{cancer} [cell]{cells}"
+      ],
+      "id": "invasion__7"
+    }
+  ],
+  "word": "invasion"
+}

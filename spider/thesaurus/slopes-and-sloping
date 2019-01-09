@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [straight_1]{straight} [surface_1]{surface} that has one [end_1]{end} [higher_1]{higher} than the other",
+      "entry": "slope",
+      "id": "slope_1#slope_1__1"
+    },
+    {
+      "comment": "a [slope_2#slope_2__5]{sloping} [position_1]{position}, or the amount by which something [slope_1]{slopes}",
+      "entry": "tilt",
+      "id": "tilt_2#tilt_2__1"
+    },
+    {
+      "comment": "a [slope_1]{slope}",
+      "entry": "incline",
+      "id": "incline_2#incline_2__1"
+    },
+    {
+      "comment": "the [angle_1]{angle} at which something [slope_1]{slopes}",
+      "entry": "slant",
+      "id": "slant_2#slant_2__1"
+    },
+    {
+      "comment": "a [slope_1]{slope}, or the [angle_1]{angle} of a [slope_1]{slope}",
+      "entry": "inclination",
+      "id": "inclination#inclination__7"
+    },
+    {
+      "comment": "the [slope_1]{slope} of something such as a [roof_1]{roof}",
+      "entry": "pitch",
+      "id": "pitch_1#pitch_1__16"
+    },
+    {
+      "comment": "the [downward_1]{downward} [slope_1]{slope} or [movement]{movement} of something",
+      "entry": "fall",
+      "id": "fall_2#fall_2__16"
+    },
+    {
+      "comment": "the [degree]{degree} of [slope_1]{slope} in a [surface_1]{surface}, for [example]{example} in the [stage_1]{stage} of a [theater]{theater}",
+      "entry": "rake",
+      "id": "rake_1#rake_1__3"
+    },
+    {
+      "comment": "a [diagonal_1]{diagonal} [line_1]{line} is [straight_1]{straight} and [slope_2#slope_2__5]{sloping} and [connect]{connects} [opposite_1]{opposite} [corner_1]{corners} of a [flat_1]{flat} [shape_1]{shape}",
+      "entry": "diagonal",
+      "id": "diagonal_1#diagonal_1__1"
+    },
+    {
+      "comment": "at an [angle_1]{angle} that is not 90 [degree]{degrees}",
+      "entry": "at/on a slant",
+      "id": "at-on-a-slant#at-on-a-slant__1"
+    }
+  ],
+  "thesaurus": "Slopes and sloping",
+  "type": "Synonyms"
+}

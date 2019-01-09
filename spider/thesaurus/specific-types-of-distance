@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "the [distance_1]{distance} that a [ball_1]{ball}, [bullet]{bullet}, or [missile]{missile} [flies]{flies} through the [air_1]{air}",
+      "entry": "carry",
+      "id": "carry_2#carry_2__3"
+    },
+    {
+      "comment": "a [distance_1]{distance} that you have to [climb_1]{climb} to get somewhere",
+      "entry": "climb",
+      "id": "climb_2#climb_2__5"
+    },
+    {
+      "comment": "if a [picture_1]{picture} has [depth]{depth}, it [does]{does} not [look_1]{look} [flat_1]{flat} but [look_1]{looks} as if there is a [distance_1]{distance} between the [thing]{things} at the front and the [background]{background}",
+      "entry": "depth",
+      "id": "depth#depth__21"
+    },
+    {
+      "comment": "a [place_1]{place} that is very [far]{far} [away_1]{away} or very [far]{far} [inside_1]{inside} an [area]{area}",
+      "entry": "the depths of something",
+      "id": "the-depths-of-something#the-depths-of-something__1"
+    },
+    {
+      "comment": "a [distance_1]{distance} down to the [ground_1]{ground} from a [high_1]{high} [place_1]{place}",
+      "entry": "drop",
+      "id": "drop_2#drop_2__11"
+    },
+    {
+      "comment": "the [small_1]{smallest} [possible_1]{possible} [distance_1]{distance}, amount, or [degree]{degree}",
+      "entry": "hairsbreadth",
+      "id": "hairsbreadth#hairsbreadth__1"
+    },
+    {
+      "comment": "a [short_1]{short} [distance_1]{distance}",
+      "entry": "piece",
+      "id": "piece_1#piece_1__29"
+    },
+    {
+      "comment": "a [particular_1]{particular} [distance_1]{distance} in all [direction]{directions} from a [central]{central} [point_1]{point}",
+      "entry": "radius",
+      "id": "radius#radius__2"
+    },
+    {
+      "comment": "the [distance_1]{distance} within which you can see, [hear]{hear}, or [reach_1]{reach} something",
+      "entry": "range",
+      "id": "range_1#range_1__15"
+    },
+    {
+      "comment": "the [distance_1]{distance} between a [weapon]{weapon} that someone [fire_1]{fires} and the [person]{person} or thing that they are [aim_1]{aiming} at",
+      "entry": "range",
+      "id": "range_1#range_1__21"
+    },
+    {
+      "comment": "the [distance_1]{distance} within which you can [touch_1]{touch} something or [pick_1]{pick} it up by [stretch_1]{stretching} out your hand, [arm_1]{arm}, [leg_1]{leg}, etc.",
+      "entry": "reach",
+      "id": "reach_2#reach_2__1"
+    },
+    {
+      "comment": "the [distance_1]{distance} that you [travel_1]{travel} to get somewhere",
+      "entry": "reach",
+      "id": "reach_2#reach_2__4"
+    },
+    {
+      "comment": "the [short_1]{short} [distance_1]{distance} that your [feet]{feet} move while you are [walking_1]{walking}",
+      "entry": "step",
+      "id": "step_1#step_1__7"
+    },
+    {
+      "comment": "the [trip_1]{trip} or [distance_1]{distance} from one [place_1]{place} to another",
+      "entry": "way",
+      "id": "way_1#way_1__29"
+    }
+  ],
+  "thesaurus": "Specific types of distance",
+  "type": "Related words"
+}

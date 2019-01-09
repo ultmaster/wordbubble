@@ -1,0 +1,171 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [play_1]{plays} the [supporting]{supporting} [music]{music} while someone else [sing_1]{sings} or [play_1]{plays} the [main_1]{main} [tune_1]{tune}",
+      "entry": "accompanist",
+      "id": "accompanist#accompanist__1"
+    },
+    {
+      "comment": "someone who plays an instrument in a military or brass band",
+      "entry": "bandsman",
+      "id": "bandsman#bandsman__1"
+    },
+    {
+      "comment": "someone who plays a bass guitar or a double bass",
+      "entry": "bassist",
+      "id": "bassist#bassist__1"
+    },
+    {
+      "comment": "someone who [perform]{performs} [music]{music} in the [street_1]{streets} and other [public_1]{public} [place_1]{places} for [money]{money}",
+      "entry": "busker",
+      "id": "busker#busker__1"
+    },
+    {
+      "comment": "someone who [play_1]{plays} the [cello]{cello}",
+      "entry": "cellist",
+      "id": "cellist#cellist__1"
+    },
+    {
+      "comment": "someone who [write]{writes} [music]{music}, [especially]{especially} [classical]{classical} [music]{music}",
+      "entry": "composer",
+      "id": "composer#composer__1"
+    },
+    {
+      "comment": "the most important violin player in an orchestra",
+      "entry": "concertmaster",
+      "id": "concertmaster#concertmaster__1"
+    },
+    {
+      "comment": "the leader of a military marching band",
+      "entry": "drum major",
+      "id": "drum-major#drum-major__1"
+    },
+    {
+      "comment": "someone who [play_1]{plays} [drum_1]{drums} in a [band_1]{band}",
+      "entry": "drummer",
+      "id": "drummer#drummer__1"
+    },
+    {
+      "comment": "someone who plays the violin, especially someone who plays folk music",
+      "entry": "fiddler",
+      "id": "fiddler#fiddler__1"
+    },
+    {
+      "comment": "a musician who plays the violin in an orchestra and belongs to the most important group of violinists",
+      "entry": "first violin",
+      "id": "first-violin#first-violin__1"
+    },
+    {
+      "comment": "a [flutist]{flutist}",
+      "entry": "flautist",
+      "id": "flautist#flautist__1"
+    },
+    {
+      "comment": "someone who plays the flute. The British word is flautist.",
+      "entry": "flutist",
+      "id": "flutist#flutist__1"
+    },
+    {
+      "comment": "a composer who writes music in the style of Impressionism",
+      "entry": "Impressionist",
+      "id": "impressionist_2#impressionist_2__2"
+    },
+    {
+      "comment": "someone who [play_1]{plays} a [musical_1]{musical} [instrument]{instrument}",
+      "entry": "instrumentalist",
+      "id": "instrumentalist#instrumentalist__1"
+    },
+    {
+      "comment": "a [musician]{musician} who [play_1]{plays} an [instrument]{instrument} with a [keyboard_1]{keyboard}, [especially]{especially} an [electric]{electric} [piano_1]{piano}",
+      "entry": "keyboardist",
+      "id": "keyboardist#keyboardist__1"
+    },
+    {
+      "comment": "the [concertmaster]{concertmaster} of an [orchestra]{orchestra}",
+      "entry": "leader",
+      "id": "leader#leader__15"
+    },
+    {
+      "comment": "the [guitar]{guitar} that is the most [important]{important} [instrument]{instrument} in a [band_1]{band} and [play_1]{plays} the [main_1]{main} [tune_1]{tune}, or the [person]{person} [play_1]{playing} the [guitar]{guitar}",
+      "entry": "lead guitar",
+      "id": "lead-guitar#lead-guitar__1"
+    },
+    {
+      "comment": "a musician who people admire and respect a lot, especially an orchestra conductor",
+      "entry": "maestro",
+      "id": "maestro#maestro__1"
+    },
+    {
+      "comment": "a [musician]{musician} who [play_1]{plays} [mariachi]{mariachi}",
+      "entry": "mariachi",
+      "id": "mariachi#mariachi__2"
+    },
+    {
+      "comment": "someone who [perform]{performs} or [write]{writes} [music]{music}, [especially]{especially} as their [job_1]{job}",
+      "entry": "musician",
+      "id": "musician#musician__1"
+    },
+    {
+      "comment": "a [musician]{musician} who [play_1]{plays} several [instrument]{instruments} at the same time",
+      "entry": "one-man band",
+      "id": "one-man-band#one-man-band__1"
+    },
+    {
+      "comment": "someone who [play_1]{plays} the [organ]{organ}, [especially]{especially} as their [job_1]{job}",
+      "entry": "organist",
+      "id": "organist#organist__1"
+    },
+    {
+      "comment": "someone who [play_1]{plays} the [piano_1]{piano}, [especially]{especially} as their [job_1]{job}",
+      "entry": "pianist",
+      "id": "pianist#pianist__1"
+    },
+    {
+      "comment": "a musician who plays a musical pipe or the bagpipes",
+      "entry": "piper",
+      "id": "piper#piper__1"
+    },
+    {
+      "comment": "someone who [play_1]{plays} a [musical_1]{musical} [instrument]{instrument}",
+      "entry": "player",
+      "id": "player#player__8"
+    },
+    {
+      "comment": "the [leader]{leader} of a [section_1]{section} of an [orchestra]{orchestra}",
+      "entry": "principal",
+      "id": "principal_2#principal_2__7"
+    },
+    {
+      "comment": "someone who [play_1]{plays} the [saxophone]{saxophone}",
+      "entry": "saxophonist",
+      "id": "saxophonist#saxophonist__1"
+    },
+    {
+      "comment": "a musician who plays the violin in an orchestra and belongs to the group of violinists that is less important than the first violins",
+      "entry": "second violin",
+      "id": "second-violin#second-violin__1"
+    },
+    {
+      "comment": "someone who [perform]{performs} a [musical_1]{musical} [solo_1]{solo}",
+      "entry": "soloist",
+      "id": "soloist#soloist__1"
+    },
+    {
+      "comment": "someone who [play_1]{plays} the [timpani]{timpani} in an [orchestra]{orchestra}",
+      "entry": "timpanist",
+      "id": "timpanist#timpanist__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} [small_1]{small} [change_1]{changes} to [musical_1]{musical} [instrument]{instruments}, [especially]{especially} [piano_1]{pianos}",
+      "entry": "tuner",
+      "id": "tuner#tuner__3"
+    },
+    {
+      "comment": "someone who is very [good_1]{good} at a [particular_1]{particular} [activity]{activity}, [especially]{especially} [play_1]{playing} a [musical_1]{musical} [instrument]{instrument}",
+      "entry": "virtuoso",
+      "id": "virtuoso#virtuoso__1"
+    }
+  ],
+  "thesaurus": "People who play musical instruments or write music",
+  "type": "Related words"
+}

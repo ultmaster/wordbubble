@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [large_1]{large} [building]{building} with a [lot_1]{lot} of [different]{different} [level_1]{levels}",
+      "entry": "block",
+      "id": "block_1#block_1__18"
+    },
+    {
+      "comment": "something that has been [built_1]{built} or the [act_1]{act} of [building]{building} something",
+      "entry": "build",
+      "id": "build_2#build_2__4"
+    },
+    {
+      "comment": "a [structure_1]{structure} made of a [strong]{strong} [material_1]{material} such as [stone_1]{stone} or [wood]{wood} that has a [roof_1]{roof} and [wall_1]{walls}, for [example]{example} a [house_1]{house}",
+      "entry": "building",
+      "id": "building#building__1"
+    },
+    {
+      "comment": "all the [structure_1]{structures} [people_1]{people} have [built_1]{built} when [considered]{considered} as [separate_1]{separate} from the [natural_1]{natural} [environment]{environment}",
+      "entry": "the built environment",
+      "id": "the-built-environment#the-built-environment__1"
+    },
+    {
+      "comment": "a [building]{building} or other [large_1]{large} [structure_1]{structure}",
+      "entry": "construction",
+      "id": "construction#construction__9"
+    },
+    {
+      "comment": "a [large_1]{large} [impressive]{impressive} [building]{building}",
+      "entry": "edifice",
+      "id": "edifice#edifice__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} such as a [building]{building}, [wall_1]{wall}, or [bridge_1]{bridge}",
+      "entry": "erection",
+      "id": "erection#erection__4"
+    },
+    {
+      "comment": "an [area]{area} or [building]{building} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "facility",
+      "id": "facility#facility__9"
+    },
+    {
+      "comment": "a [building]{building} or [project_1]{project} that [cost_1]{costs} a [lot_1]{lot} of [money]{money} and is not [useful]{useful}",
+      "entry": "folly",
+      "id": "folly#folly__7"
+    },
+    {
+      "comment": "[new]{new} [building]{buildings} that are [built_1]{built} in the [space_1]{spaces} between other [building]{buildings}",
+      "entry": "infill",
+      "id": "infill#infill__1"
+    },
+    {
+      "comment": "a [building]{building} or [structure_1]{structure}, [especially]{especially} one that is [important]{important} for an [army]{army}, [industry]{industry}, or [government]{government}",
+      "entry": "installation",
+      "id": "installation#installation__7"
+    },
+    {
+      "comment": "a very [large_1]{large} [building]{building} or [structure_1]{structure} made of [stone_1]{stone} or a [similar]{similar} [substance]{substance}",
+      "entry": "monolith",
+      "id": "monolith#monolith__2"
+    },
+    {
+      "comment": "the [building]{buildings} and [land_1]{land} that a [business]{business} or [organization]{organization} [use_1]{uses}",
+      "entry": "premises",
+      "id": "premises#premises__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} that [support_1]{supports} something such as a [building]{building}",
+      "entry": "skeleton",
+      "id": "skeleton#skeleton__6"
+    },
+    {
+      "comment": "something [large_1]{large} such as a [building]{building} or a [bridge_1]{bridge} that is [built_1]{built} from [different]{different} [part_1]{parts}",
+      "entry": "structure",
+      "id": "structure_1#structure_1__1"
+    }
+  ],
+  "thesaurus": "General words for buildings and structures",
+  "type": "Related words"
+}

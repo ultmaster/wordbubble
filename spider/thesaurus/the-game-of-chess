@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "a piece in the game of chess, shaped like a bishop\u2019s hat",
+      "entry": "bishop",
+      "id": "bishop#bishop__3"
+    },
+    {
+      "comment": "in a game such as chess, to win the right to remove one of your opponent\u2019s pieces",
+      "entry": "capture",
+      "id": "capture_1#capture_1__18"
+    },
+    {
+      "comment": "one of the pieces used in the game of chess",
+      "entry": "castle",
+      "id": "castle#castle__2"
+    },
+    {
+      "comment": "the position of the king in the game of chess when it is threatened by another piece",
+      "entry": "check",
+      "id": "check_2#check_2__24"
+    },
+    {
+      "comment": "in chess, an attack that your opponent\u2019s king cannot escape from, so that you win the game",
+      "entry": "checkmate",
+      "id": "checkmate#checkmate__1"
+    },
+    {
+      "comment": "a game for two people, played on a board with black and white squares, using different shaped pieces, including two kings. The aim is to get the other player\u2019s king into a position where it cannot move",
+      "entry": "chess",
+      "id": "chess#chess__1"
+    },
+    {
+      "comment": "a [square_1]{square} [board_1]{board} [used]{used} for [play_1]{playing} [chess]{chess}",
+      "entry": "chessboard",
+      "id": "chessboard#chessboard__1"
+    },
+    {
+      "comment": "one of the pieces used for playing chess",
+      "entry": "chessman",
+      "id": "chessman#chessman__1"
+    },
+    {
+      "comment": "the [moment]{moment} when the [clock_1]{clock} for one [player]{player} [stop_1]{stops} in a [game_1]{game} of [chess]{chess}, [indicate]{indicating} that the [player]{player} has no more time [left_1]{left}",
+      "entry": "flagfall",
+      "id": "flagfall#flagfall__2"
+    },
+    {
+      "comment": "a series of moves that you can make at the beginning of a game of chess when you offer a piece, usually a pawn, in order to get an advantage",
+      "entry": "gambit",
+      "id": "gambit#gambit__4"
+    },
+    {
+      "comment": "a player who has reached the highest levels in competitions in the game of chess",
+      "entry": "grand master",
+      "id": "grand-master#grand-master__1"
+    },
+    {
+      "comment": "one of the two most important pieces in the game of chess. The player who stops the other player\u2019s king from being able to move wins the game.",
+      "entry": "king",
+      "id": "king#king__10"
+    },
+    {
+      "comment": "a piece in the game of chess shaped like a horse\u2019s head",
+      "entry": "knight",
+      "id": "knight_1#knight_1__3"
+    },
+    {
+      "comment": "one of the small objects used for playing a game such as chess",
+      "entry": "man",
+      "id": "man_1#man_1__43"
+    },
+    {
+      "comment": "checkmate in the game of chess",
+      "entry": "mate",
+      "id": "mate_1#mate_1__8"
+    },
+    {
+      "comment": "to [checkmate]{checkmate} an [opponent]{opponent}",
+      "entry": "mate",
+      "id": "mate_2#mate_2__2"
+    },
+    {
+      "comment": "one of the eight small pieces that each player has in a game of chess",
+      "entry": "pawn",
+      "id": "pawn_1#pawn_1__3"
+    },
+    {
+      "comment": "a piece that can move in any direction in a game of chess",
+      "entry": "queen",
+      "id": "queen_1#queen_1__15"
+    },
+    {
+      "comment": "to move a chesspiece back to a previous position during a game of chess",
+      "entry": "retreat",
+      "id": "retreat_1#retreat_1__9"
+    },
+    {
+      "comment": "a piece in the shape of a tower used in the game of chess",
+      "entry": "rook",
+      "id": "rook#rook__1"
+    },
+    {
+      "comment": "one of the small sections that the board is divided into in games such as chess and checkers",
+      "entry": "square",
+      "id": "square_1#square_1__6"
+    },
+    {
+      "comment": "the situation in chess when the game ends because neither player can make a legal move or win the game",
+      "entry": "stalemate",
+      "id": "stalemate#stalemate__4"
+    }
+  ],
+  "thesaurus": "The game of chess",
+  "type": "Related words"
+}

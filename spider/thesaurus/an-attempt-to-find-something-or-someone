@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [attempt_1]{attempt} to find something",
+      "entry": "search",
+      "id": "search_1#search_1__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [look_1]{looking} for a [particular_1]{particular} thing that you [want_1]{want} or [need_1]{need}",
+      "entry": "hunting",
+      "id": "hunting#hunting__8"
+    },
+    {
+      "comment": "a [search_1]{search} for someone",
+      "entry": "hunt",
+      "id": "hunt_2#hunt_2__1"
+    },
+    {
+      "comment": "a [search_1]{search} for something that you have [lost_1]{lost}, [need_1]{need}, or [want_1]{want}",
+      "entry": "hunt",
+      "id": "hunt_2#hunt_2__3"
+    },
+    {
+      "comment": "the [act_1]{act} of [following_1]{following} or [look_1]{looking} for a [person]{person}, [animal_1]{animal}, or thing",
+      "entry": "tracking",
+      "id": "tracking#tracking__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [prowl_1]{prowling}",
+      "entry": "prowl",
+      "id": "prowl_2#prowl_2__1"
+    },
+    {
+      "comment": "a [search_1]{search} for something among a [lot_1]{lot} of other [thing]{things}",
+      "entry": "rummage",
+      "id": "rummage_2#rummage_2__1"
+    },
+    {
+      "comment": "an [attempt_1]{attempt} to find something that [does]{does} not [exist]{exist} or that you are very [unlikely]{unlikely} to [discover]{discover}",
+      "entry": "wild-goose chase",
+      "id": "wild-goose-chase#wild-goose-chase__1"
+    },
+    {
+      "comment": "a [careful]{careful} [search_1]{search} for someone or something",
+      "entry": "trawl",
+      "id": "trawl_2#trawl_2__2"
+    },
+    {
+      "comment": "the [activity]{activity} of [look_1]{looking} around an [area]{area}",
+      "entry": "scouting",
+      "id": "scouting#scouting__2"
+    }
+  ],
+  "thesaurus": "An attempt to find something or someone",
+  "type": "Synonyms"
+}

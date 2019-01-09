@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "for all",
+  "senses": [
+    {
+      "def": "in [spite_1]{spite} of something",
+      "examples": [
+        "For all his [complain]{complaining}, I [think_1]{think} he [actually]{actually} [enjoy]{enjoyed} the [day]{day}."
+      ],
+      "id": "for-all__1"
+    },
+    {
+      "def": "[considering]{considering} how [large_1]{large} or [small_1]{small} an amount is",
+      "examples": [
+        "For all the [trouble_1]{trouble} he\u2019s [cause_2]{caused} her, you\u2019d [think_1]{think} she\u2019d be [happy_1]{happy} to see him go."
+      ],
+      "id": "for-all__3"
+    }
+  ]
+}

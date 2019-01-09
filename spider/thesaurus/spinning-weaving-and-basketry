@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "[basket]{baskets} and [similar]{similar} [object_1]{objects} made by [weave_1]{weaving} together thin [piece_1]{pieces} of [plastic_1]{plastic}, [wire_1]{wire}, or [wood]{wood}",
+      "entry": "basketry",
+      "id": "basketry#basketry__1"
+    },
+    {
+      "comment": "the art of [weave_1]{weaving} [basket]{baskets}",
+      "entry": "basketry",
+      "id": "basketry#basketry__2"
+    },
+    {
+      "comment": "the [stem_1]{stems} of some [plant_1]{plants} [dried]{dried} and [woven_1]{woven} together to [make_1]{make} [furniture]{furniture}",
+      "entry": "cane",
+      "id": "cane_1#cane_1__2"
+    },
+    {
+      "comment": "a small stick used in the past for winding wool around when spinning",
+      "entry": "distaff",
+      "id": "distaff#distaff__1"
+    },
+    {
+      "comment": "to [weave_1]{weave} [thing]{things} together by [making]{making} them [pass_1]{pass} under and over each other, or to be [woven_1]{woven} together in this way",
+      "entry": "interlace",
+      "id": "interlace#interlace__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [weave_1]{weaving} [cloth]{cloth}",
+      "entry": "loom",
+      "id": "loom_2#loom_2__1"
+    },
+    {
+      "comment": "the part of a loom that pulls the thread from side to side to make cloth",
+      "entry": "shuttle",
+      "id": "shuttle_1#shuttle_1__4"
+    },
+    {
+      "comment": "to twist fibers of a material such as cotton or wool into thread in order to make cloth",
+      "entry": "spin",
+      "id": "spin_1#spin_1__14"
+    },
+    {
+      "comment": "the part of a spinning wheel that is shaped like a stick and has the new thread spinning round it",
+      "entry": "spindle",
+      "id": "spindle#spindle__1"
+    },
+    {
+      "comment": "someone who uses a spinning wheel to make thread from wool or cotton",
+      "entry": "spinner",
+      "id": "spinner#spinner__1"
+    },
+    {
+      "comment": "a piece of equipment used in the past for making thread from wool or cotton. It has a large wheel that spins round.",
+      "entry": "spinning wheel",
+      "id": "spinning-wheel#spinning-wheel__1"
+    },
+    {
+      "comment": "a long thin [fiber]{fiber} [used]{used} for [sewing]{sewing} [piece_1]{pieces} of [cloth]{cloth} together or for [weave_1]{weaving}",
+      "entry": "thread",
+      "id": "thread_1#thread_1__1"
+    },
+    {
+      "comment": "the strings that go up and down the length of a piece of cloth that someone is weaving. The strings that go across the width are called the weft.",
+      "entry": "warp",
+      "id": "warp_2#warp_2__1"
+    },
+    {
+      "comment": "to make cloth by crossing long threads over and under each other on a machine called a loom",
+      "entry": "weave",
+      "id": "weave_1#weave_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} [clothes]{clothes} or other [material_1]{material} by [weave_1]{weaving} [cloth]{cloth}",
+      "entry": "weave",
+      "id": "weave_1#weave_1__4"
+    },
+    {
+      "comment": "to [create]{create} an [object_1]{object} by [weave_1]{weaving}",
+      "entry": "weave",
+      "id": "weave_1#weave_1__6"
+    },
+    {
+      "comment": "the [pattern_1]{pattern} that is [form_2]{formed} in a [cloth]{cloth} when it is [woven_1]{woven}",
+      "entry": "weave",
+      "id": "weave_2#weave_2__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [weave_1]{weave} [cloth]{cloth}",
+      "entry": "weaver",
+      "id": "weaver#weaver__1"
+    },
+    {
+      "comment": "the fibers that lie across a piece of cloth when it is woven. The fibers that run down the cloth are called the warp.",
+      "entry": "weft",
+      "id": "weft#weft__1"
+    },
+    {
+      "comment": "long thin [piece_1]{pieces} of [wood]{wood} that are [woven_1]{woven} together to [make_1]{make} [furniture]{furniture} or [basket]{baskets}",
+      "entry": "wicker",
+      "id": "wicker#wicker__1"
+    },
+    {
+      "comment": "[object_1]{objects} made of [wicker]{wicker}",
+      "entry": "wickerwork",
+      "id": "wickerwork#wickerwork__1"
+    }
+  ],
+  "thesaurus": "Spinning, weaving and basketry",
+  "type": "Related words"
+}

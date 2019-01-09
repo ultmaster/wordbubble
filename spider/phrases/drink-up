@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "drink up",
+  "senses": [
+    {
+      "def": "to [drink_1]{drink} all of your [drink_1]{drink}",
+      "examples": [
+        "[drink_1]{Drink} up, everyone, it\u2019s time to go.",
+        "I [gave]{gave} the [cat]{cat} some [milk_1]{milk} and she [drank]{drank} it all up."
+      ],
+      "id": "drink-up__1"
+    }
+  ]
+}

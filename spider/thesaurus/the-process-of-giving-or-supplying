@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [act_1]{act} or [process_1]{process} of [providing]{providing} something that is [need_1]{needed}",
+      "entry": "supply",
+      "id": "supply_1#supply_1__8"
+    },
+    {
+      "comment": "the [act_1]{act} of [providing]{providing} something that someone [need_1]{needs}",
+      "entry": "provision",
+      "id": "provision#provision__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [give_1]{giving} something such as [food]{food}, [clothes]{clothes}, or [money]{money} to a [group_1]{group} of [people_1]{people}, [especially]{especially} so that each [person]{person} [get]{gets} an [equal_1]{equal} [share_1]{share}",
+      "entry": "distribution",
+      "id": "distribution#distribution__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [providing]{providing} a [service_1]{service}",
+      "entry": "delivery",
+      "id": "delivery#delivery__8"
+    },
+    {
+      "comment": "the [process_1]{process} of [deciding]{deciding} to give an amount or [share_1]{share} of something to someone",
+      "entry": "allocation",
+      "id": "allocation#allocation__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [deciding]{deciding} to give someone part of an amount of something, [especially]{especially} [money]{money} or time",
+      "entry": "allotment",
+      "id": "allotment#allotment__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [making]{making} something [available]{available}",
+      "entry": "release",
+      "id": "release_2#release_2__8"
+    },
+    {
+      "comment": "the [process_1]{process} of [offering]{offering} something for [people_1]{people} to [consider]{consider} or [judge_1]{judge}",
+      "entry": "presentation",
+      "id": "presentation#presentation__11"
+    },
+    {
+      "comment": "the [process_1]{process} of [give_1]{giving} [responsibility]{responsibility} for something to someone else",
+      "entry": "handover",
+      "id": "handover#handover__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [officially]{officially} [give_1]{giving} something to someone",
+      "entry": "issue",
+      "id": "issue_1#issue_1__16"
+    }
+  ],
+  "thesaurus": "The process of giving or supplying",
+  "type": "Synonyms"
+}

@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} [information]{information} from being [publish]{published} or [publicly]{publicly} [discuss]{discussed}",
+      "entry": "suppress",
+      "id": "suppress#suppress__5"
+    },
+    {
+      "comment": "to [officially]{officially} [prevent]{prevent} a [person]{person}, [newspaper]{newspaper}, etc. from [talk_1]{talking} about or [publishing]{publishing} something",
+      "entry": "gag",
+      "id": "gag_1#gag_1__5"
+    },
+    {
+      "comment": "to [decide]{decide} not to [publish]{publish} or [broadcast_1]{broadcast} a [news]{news} [story]{story}",
+      "entry": "kill",
+      "id": "kill_1#kill_1__9"
+    },
+    {
+      "comment": "to [refuse_1]{refuse} to [publish]{publish} something in a [newspaper]{newspaper} or [magazine]{magazine}",
+      "entry": "spike",
+      "id": "spike_2#spike_2__5"
+    },
+    {
+      "comment": "a [government]{government} [order_1]{order} [prevent]{preventing} a [piece_1]{piece} of [information]{information} from being [publish]{published} until a [particular_1]{particular} time",
+      "entry": "embargo",
+      "id": "embargo_1#embargo_1__4"
+    },
+    {
+      "comment": "an [official_1]{official} [order_1]{order} that [prevent]{prevents} a [person]{person}, [newspaper]{newspaper}, etc. from [talk_1]{talking} about or [publishing]{publishing} something",
+      "entry": "gag",
+      "id": "gag_2#gag_2__3"
+    },
+    {
+      "comment": "to [order_1]{order} [officially]{officially} that a [piece_1]{piece} of [information]{information} should not be [publish]{published} until a [particular_1]{particular} time",
+      "entry": "embargo",
+      "id": "embargo_2#embargo_2__2"
+    }
+  ],
+  "thesaurus": "To stop something from being published",
+  "type": "Synonyms"
+}

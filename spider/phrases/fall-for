@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fall for",
+  "senses": [
+    {
+      "def": "to be very [attract]{attracted} to someone and to [start_1]{start} to [love_1]{love} them",
+      "examples": [
+        "He [fell_1]{fell} for Rosie when he was in the [hospital]{hospital} and she was his [nurse_1]{nurse}."
+      ],
+      "id": "fall-for__1"
+    },
+    {
+      "def": "to [believe]{believe} that a [trick_1]{trick} or a [joke_1]{joke} is [true_1]{true}",
+      "examples": [
+        "How could you [fall_1]{fall} for such an [obvious]{obvious} [trick_1]{trick}?"
+      ],
+      "id": "fall-for__3"
+    }
+  ]
+}

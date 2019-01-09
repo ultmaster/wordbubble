@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [speak_1]{speak} or [write]{write} to someone because you [want_1]{want} them to give you something",
+      "entry": "ask for",
+      "id": "ask-for#ask-for__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} for something, or to [ask_1]{ask} someone to do something, in a [polite]{polite} or [formal_1]{formal} way",
+      "entry": "request",
+      "id": "request_2#request_2__1"
+    },
+    {
+      "comment": "to [say_1]{say} that you must have something",
+      "entry": "insist on something",
+      "id": "insist-on-something#insist-on-something__1"
+    },
+    {
+      "comment": "to [make_1]{make} an [urgent]{urgent} [request_1]{request} for [people_1]{people} to give you something that you [need_1]{need} such as [help_1]{help}, [money]{money}, or [information]{information}",
+      "entry": "appeal",
+      "id": "appeal_1#appeal_1__1"
+    },
+    {
+      "comment": "to [say_1]{say} in a very [firm_1]{firm} way that you [want_1]{want} something",
+      "entry": "demand",
+      "id": "demand_1#demand_1__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} for a [product]{product} to be made for you or [deliver]{delivered} to you",
+      "entry": "order",
+      "id": "order_2#order_2__5"
+    },
+    {
+      "comment": "to [say_1]{say} [formally]{formally} that you would [like_1]{like} to [receive]{receive} something from someone",
+      "entry": "invite",
+      "id": "invite_1#invite_1__9"
+    },
+    {
+      "comment": "to [officially]{officially} [ask_1]{ask} for something as a [right_1]{right}",
+      "entry": "claim",
+      "id": "claim_1#claim_1__13"
+    },
+    {
+      "comment": "to [ask_1]{ask} for something in a way that [show_1]{shows} you are not [proud]{proud}",
+      "entry": "beg",
+      "id": "beg#beg__7"
+    },
+    {
+      "comment": "to [officially]{officially} [ask_1]{ask} for something",
+      "entry": "put in for",
+      "id": "put-in-for#put-in-for__1"
+    }
+  ],
+  "thesaurus": "To ask someone to give you something",
+  "type": "Synonyms"
+}

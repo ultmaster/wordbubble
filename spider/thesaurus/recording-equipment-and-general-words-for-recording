@@ -1,0 +1,186 @@
+{
+  "entries": [
+    {
+      "comment": "[magnetic]{magnetic} [tape_1]{tape} on which [sound_1]{sound} can be [record_2]{recorded}",
+      "entry": "audiotape",
+      "id": "audiotape#audiotape__1"
+    },
+    {
+      "comment": "[use_1]{using} both [record_2]{recorded} [sound_1]{sounds} and [image_1]{images}",
+      "entry": "audiovisual",
+      "id": "audiovisual#audiovisual__1"
+    },
+    {
+      "comment": "[compact_1]{compact} [disk]{disk}: a [small_1]{small} round [piece_1]{piece} of [hard_1]{hard} [plastic_1]{plastic} with [sound_1]{sound} [record_2]{recorded} on it or computer [information]{information} [store_2]{stored} on it",
+      "entry": "CD",
+      "id": "cd#cd__1"
+    },
+    {
+      "comment": "[celluloid]{celluloid} [used]{used} for [making]{making} [movie]{movies}",
+      "entry": "celluloid",
+      "id": "celluloid#celluloid__2"
+    },
+    {
+      "comment": "digital audio tape: a type of audiotape used for recording sound or information",
+      "entry": "DAT",
+      "id": "dat#dat__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that you [speak_1]{speak} into to [make_1]{make} a [record_2]{recorded} [document_1]{document} that someone can [listen_1]{listen} to and [type_1]{type} [later_1]{later}",
+      "entry": "Dictaphone",
+      "id": "dictaphone#dictaphone__1"
+    },
+    {
+      "comment": "to record something in writing or on film",
+      "entry": "document",
+      "id": "document_2#document_2__1"
+    },
+    {
+      "comment": "to change an existing tape or recording by adding new sound to it",
+      "entry": "dub",
+      "id": "dub_1#dub_1__3"
+    },
+    {
+      "comment": "to replace the soundtrack of a movie with one in a different language, so that the actors seem to be speaking the other language",
+      "entry": "dub",
+      "id": "dub_1#dub_1__4"
+    },
+    {
+      "comment": "to [change_1]{change} part of the [original_1]{original} [sound_1]{sound} of a [recording]{recording}, [especially]{especially} a [movie]{movie}, by [add_1]{adding} [new]{new} [sound_1]{sound} to it",
+      "entry": "dub in",
+      "id": "dub-in#dub-in__1"
+    },
+    {
+      "comment": "to [remove]{remove} part of the [original_1]{original} [sound_1]{sound} from a [recording]{recording}, [especially]{especially} a [movie]{movie}",
+      "entry": "dub out",
+      "id": "dub-out#dub-out__1"
+    },
+    {
+      "comment": "to replace the original soundtrack of a movie with one in a different language, so that the actors seem to be speaking the other language",
+      "entry": "dub over",
+      "id": "dub-over#dub-over__1"
+    },
+    {
+      "comment": "the [process_1]{process} by which you [make_1]{make} a [recording]{recording} go [forward_1]{forward} [quickly]{quickly}",
+      "entry": "fast forward",
+      "id": "fast-forward_1#fast-forward_1__2"
+    },
+    {
+      "comment": "to [make_1]{make} a [recording]{recording} go [forward_1]{forward} [quickly]{quickly}",
+      "entry": "fast-forward",
+      "id": "fast-forward_2#fast-forward_2__1"
+    },
+    {
+      "comment": "the very [clear_1]{clear} [quality_1]{quality} of [sound_1]{sound} that is [produce_1]{produced} by [electronic]{electronic} [equipment]{equipment} when it [play_1]{plays}, [record_1]{records}, or [broadcast_1]{broadcasts} [music]{music} and [sound_1]{sounds}",
+      "entry": "high fidelity",
+      "id": "high-fidelity#high-fidelity__1"
+    },
+    {
+      "comment": "a piece at the start or end of a film or tape with nothing recorded on it",
+      "entry": "leader",
+      "id": "leader#leader__10"
+    },
+    {
+      "comment": "a piece of film or tape on which images or sounds are repeated again and again",
+      "entry": "loop",
+      "id": "loop_1#loop_1__9"
+    },
+    {
+      "comment": "a long narrow flat piece of plastic covered with a magnetic substance and used for recording sounds, images, or computer information",
+      "entry": "magnetic tape",
+      "id": "magnetic-tape#magnetic-tape__1"
+    },
+    {
+      "comment": "a disc like a small CD, used for recording music or computer information",
+      "entry": "minidisc",
+      "id": "minidisc#minidisc__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [mix_1]{mixes} together [different]{different} [sound_1]{sounds} or [image_1]{images}",
+      "entry": "mixer",
+      "id": "mixer#mixer__6"
+    },
+    {
+      "comment": "a system for recording or broadcasting sound in which all the sound goes through one speaker",
+      "entry": "mono",
+      "id": "mono_1#mono_1__1"
+    },
+    {
+      "comment": "capable of carrying sound, pictures, and moving images that are sent at slow speeds, usually between 50 bps and 64 Kbps",
+      "entry": "narrowband",
+      "id": "narrowband#narrowband__1"
+    },
+    {
+      "comment": "while a [camera]{camera} is [recording]{recording}/not [recording]{recording} what is [happening_1]{happening}",
+      "entry": "on/off camera",
+      "id": "on-off-camera#on-off-camera__1"
+    },
+    {
+      "comment": "[capable]{capable} of being [used]{used} in a [machine_1]{machine} such as a computer or a DVD [player]{player}",
+      "entry": "playable",
+      "id": "playable#playable__1"
+    },
+    {
+      "comment": "the use of a [machine_1]{machine} to show [picture_1]{pictures} or [play_1]{play} [sound_1]{sounds} that were [record_2]{recorded} [earlier_1]{earlier}",
+      "entry": "playback",
+      "id": "playback#playback__1"
+    },
+    {
+      "comment": "to [play_1]{play} a [message_1]{message} or [film_1]{film} that has been [record_2]{recorded} in [order_1]{order} to [listen_1]{listen} to or [watch_1]{watch} it",
+      "entry": "play back",
+      "id": "play-back#play-back__1"
+    },
+    {
+      "comment": "[prerecorded]{prerecorded} [message_1]{messages}, [music]{music}, or [television]{television} or [radio_1]{radio} [program_1]{programs} have been [record_2]{recorded} so that they can be [used]{used} [later_1]{later}",
+      "entry": "prerecorded",
+      "id": "prerecorded#prerecorded__1"
+    },
+    {
+      "comment": "to [make_1]{make} an [electronic]{electronic} [copy_1]{copy} of [sound_1]{sounds} or [image_1]{images}",
+      "entry": "record",
+      "id": "record_2#record_2__5"
+    },
+    {
+      "comment": "if you rewind a video or a cassette tape, or if it rewinds, it goes backward to the beginning or to an earlier place",
+      "entry": "rewind",
+      "id": "rewind_1#rewind_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} that is [used]{used} for [recording]{recording} [sample_1]{samples}",
+      "entry": "sampler",
+      "id": "sampler#sampler__3"
+    },
+    {
+      "comment": "a [room_1]{room} or [room_1]{rooms} where [music]{music} or a [movie]{movie}, [television]{television} show, or [radio_1]{radio} show is [record_2]{recorded}",
+      "entry": "studio",
+      "id": "studio#studio__1"
+    },
+    {
+      "comment": "a long thin [plastic_1]{plastic} [band_1]{band} on which you can [record_1]{record} [sound_1]{sounds}, [picture_1]{pictures}, or [information]{information}",
+      "entry": "tape",
+      "id": "tape_1#tape_1__1"
+    },
+    {
+      "comment": "a plastic case called a cassette containing tape that you can use for recording something or on which something has been recorded",
+      "entry": "tape",
+      "id": "tape_1#tape_1__3"
+    },
+    {
+      "comment": "to [record_1]{record} [sound_1]{sounds} or [picture_1]{pictures} [use_1]{using} [tape_1]{tape}",
+      "entry": "tape",
+      "id": "tape_2#tape_2__1"
+    },
+    {
+      "comment": "to [copy_1]{copy} or [record_1]{record} [music]{music}",
+      "entry": "transcribe",
+      "id": "transcribe#transcribe__4"
+    },
+    {
+      "comment": "an [unrecorded]{unrecorded} [conversation]{conversation} or [performance]{performance} has not been [record_2]{recorded}",
+      "entry": "unrecorded",
+      "id": "unrecorded#unrecorded__2"
+    }
+  ],
+  "thesaurus": "Recording equipment and general words for recording",
+  "type": "Related words"
+}

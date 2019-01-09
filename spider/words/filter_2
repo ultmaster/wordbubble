@@ -1,0 +1,42 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [pass_1]{pass} something through a filter to [remove]{remove} [particular_1]{particular} [thing]{things} [contain]{contained} in it",
+      "examples": [
+        "All [e-mail_1]{e-mails} are [automatically]{automatically} [filter_2]{filtered} through our [virus]{virus} [software]{software}."
+      ],
+      "id": "filter_2__1"
+    },
+    {
+      "def": "if [light_1]{light} or [sound_1]{sound} [filter_1]{filters} into a [place_1]{place}, only a [little_1]{little} of it [enter]{enters} that [place_1]{place}",
+      "examples": [
+        "The [august_1]{August} [sunlight]{sunlight} [filter_2]{filtered} in through the [blind_2]{blinds}.",
+        "The [noise]{noise} of the [traffic_1]{traffic} [filter_2]{filtered} through the [heavy_1]{heavy} [curtain]{curtains}."
+      ],
+      "id": "filter_2__3"
+    },
+    {
+      "def": "if [news]{news} or [information]{information} [filter_1]{filters} out or through to [people_1]{people}, they [receive]{receive} it [gradually]{gradually} or after a [period_1]{period} of time",
+      "examples": [
+        "[news]{News} of the [decision_1]{decision} [filter_2]{filtered} out to [reporter]{reporters}.",
+        "These [new]{new} [idea]{ideas} have not yet [filter_2]{filtered} down to the [salesperson]{salespeople}."
+      ],
+      "id": "filter_2__6"
+    },
+    {
+      "def": "if [people_1]{people} filter somewhere, they [gradually]{gradually} go there",
+      "examples": [
+        "At 7:00 [people_1]{people} [began]{began} to filter into the [theater]{theater}."
+      ],
+      "id": "filter_2__9"
+    },
+    {
+      "def": "if [traffic_1]{traffic} [filter_1]{filters} somewhere, it [turn_1]{turns} [right_1]{right} or [left_1]{left} when a [separate_1]{separate} [traffic_1]{traffic} [light_1]{light} [give_1]{gives} it the [signal_1]{signal} to go",
+      "examples": [],
+      "id": "filter_2__11"
+    }
+  ],
+  "word": "filter"
+}

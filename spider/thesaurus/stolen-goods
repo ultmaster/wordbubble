@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[valuable]{valuable} [thing]{things} [taken_1]{taken} from a [place_1]{place} [use_1]{using} [force_1]{force}",
+      "entry": "plunder",
+      "id": "plunder_2#plunder_2__1"
+    },
+    {
+      "comment": "[goods]{goods} that are [brought]{brought} into or [taken_1]{taken} out of a [country]{country} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "contraband",
+      "id": "contraband#contraband__1"
+    },
+    {
+      "comment": "an amount of [thing]{things} that are [stolen]{stolen} at the same time",
+      "entry": "haul",
+      "id": "haul_2#haul_2__3"
+    },
+    {
+      "comment": "something [stolen]{stolen} or [illegal_1]{illegal} that is put on someone without their [knowledge]{knowledge}, or is [hidden_1]{hidden} in other [possession]{possessions} so that they [appear]{appear} [guilty]{guilty} when it is found",
+      "entry": "plant",
+      "id": "plant_1#plant_1__10"
+    },
+    {
+      "comment": "[valuable]{valuable} [goods]{goods} that are [taken_1]{taken} [illegal_1#illegal_1__6]{illegally} or by [force_1]{force}, [especially]{especially} in a war",
+      "entry": "booty",
+      "id": "booty#booty__1"
+    },
+    {
+      "comment": "[money]{money} or [property]{property} that someone [obtain]{obtained} in an [illegal_1]{illegal} or [dishonest]{dishonest} way",
+      "entry": "ill-gotten gains",
+      "id": "ill-gotten-gains#ill-gotten-gains__1"
+    },
+    {
+      "comment": "[stolen]{stolen} [money]{money} or [goods]{goods}",
+      "entry": "loot",
+      "id": "loot_1#loot_1__2"
+    },
+    {
+      "comment": "[stolen]{stolen} [goods]{goods}",
+      "entry": "swag",
+      "id": "swag#swag__1"
+    }
+  ],
+  "thesaurus": "Stolen goods",
+  "type": "Synonyms"
+}

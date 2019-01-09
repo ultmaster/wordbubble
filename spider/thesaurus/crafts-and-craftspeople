@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [worker]{worker} who has [special_1]{special} [skill]{skill} and [training]{training}, [especially]{especially} one who [make_1]{makes} [thing]{things}",
+      "entry": "artisan",
+      "id": "artisan_1#artisan_1__1"
+    },
+    {
+      "comment": "someone who [carve]{carves} [object_1]{objects} from [stone_1]{stone} or [wood]{wood}",
+      "entry": "carver",
+      "id": "carver#carver__1"
+    },
+    {
+      "comment": "a [traditional]{traditional} [skill]{skill} of [making]{making} [thing]{things} by hand, for [example]{example} [furniture]{furniture} or [jewelry]{jewelry}",
+      "entry": "craft",
+      "id": "craft_1#craft_1__1"
+    },
+    {
+      "comment": "something [produce_1]{produced} [skillful#skillful__5]{skillfully} by hand, for [example]{example} a [plate_1]{plate} or a [piece_1]{piece} of [furniture]{furniture}",
+      "entry": "craft",
+      "id": "craft_1#craft_1__4"
+    },
+    {
+      "comment": "a man who [make_1]{makes} [beautiful]{beautiful} or [practical]{practical} [object_1]{objects} [use_1]{using} his [hand_1]{hands}",
+      "entry": "craftsman",
+      "id": "craftsman#craftsman__1"
+    },
+    {
+      "comment": "the [skill]{skill} [involved]{involved} in [making]{making} something [beautiful]{beautiful} or [practical]{practical} [use_1]{using} your [hand_1]{hands}",
+      "entry": "craftsmanship",
+      "id": "craftsmanship#craftsmanship__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} [beautiful]{beautiful} or [practical]{practical} [object_1]{objects} [use_1]{using} their [hand_1]{hands}",
+      "entry": "craftsperson",
+      "id": "craftsperson#craftsperson__1"
+    },
+    {
+      "comment": "a [woman]{woman} who [make_1]{makes} [beautiful]{beautiful} or [practical]{practical} [object_1]{objects} [use_1]{using} her [hand_1]{hands}",
+      "entry": "craftswoman",
+      "id": "craftswoman#craftswoman__1"
+    },
+    {
+      "comment": "an [activity]{activity} in which [people_1]{people} [make_1]{make} [beautiful]{beautiful} [object_1]{objects} [use_1]{using} their [hand_1]{hands}",
+      "entry": "handicrafts",
+      "id": "handicraft#handicraft__1"
+    },
+    {
+      "comment": "[beautiful]{beautiful} [object_1]{objects} made by [people_1]{people} [use_1]{using} their [hand_1]{hands}",
+      "entry": "handicrafts",
+      "id": "handicraft#handicraft__2"
+    },
+    {
+      "comment": "the [activity]{activity} of [making]{making} [model_1]{models} of [object_1]{objects} such as [vehicle]{vehicles} or [building]{buildings}",
+      "entry": "modeling",
+      "id": "modeling#modeling__3"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [modeling]{modeling}",
+      "entry": "modelling",
+      "id": "modelling#modelling__1"
+    },
+    {
+      "comment": "a person who makes, repairs, or sells saddles and other leather products",
+      "entry": "saddler",
+      "id": "saddler#saddler__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [cut_1]{cut} [stone_1]{stone} for [building]{building} or [decoration]{decoration}",
+      "entry": "stonemason",
+      "id": "stonemason#stonemason__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [make_1]{make} [animal_1]{animal} [skin_1]{skins} into [leather]{leather}",
+      "entry": "tanner",
+      "id": "tanner#tanner__1"
+    }
+  ],
+  "thesaurus": "Crafts and craftspeople",
+  "type": "Related words"
+}

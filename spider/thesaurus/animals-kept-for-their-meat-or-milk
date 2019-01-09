@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "a [male_1]{male} [pig_1]{pig}",
+      "entry": "boar",
+      "id": "boar#boar__1"
+    },
+    {
+      "comment": "a [broiler]{broiler} [chicken_1]{chicken}",
+      "entry": "broiler",
+      "id": "broiler#broiler__2"
+    },
+    {
+      "comment": "a young chicken that is suitable for broiling",
+      "entry": "broiler chicken",
+      "id": "broiler-chicken#broiler-chicken__1"
+    },
+    {
+      "comment": "cows and bulls kept by farmers for their milk or meat. A group of cattle is called a herd",
+      "entry": "cattle",
+      "id": "cattle#cattle__1"
+    },
+    {
+      "comment": "a bird kept for its eggs and meat. The sound it makes is called clucking. The female chicken is called a hen and the male is called a rooster. A baby chicken is called a chick.",
+      "entry": "chicken",
+      "id": "chicken_1#chicken_1__1"
+    },
+    {
+      "comment": "an animal kept by farmers for its milk or meat. A male cow is called a bull, a female is a cow, and a young cow is a calf. Their meat is called beef. The sound a cow makes is written as moo.",
+      "entry": "cow",
+      "id": "cow_1#cow_1__1"
+    },
+    {
+      "comment": "a bird that is kept on a farm for its eggs and meat, for example a chicken or a duck",
+      "entry": "fowl",
+      "id": "fowl#fowl__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [fryer]{fryer}",
+      "entry": "frier",
+      "id": "frier#frier__2"
+    },
+    {
+      "comment": "a Holstein [cow_1]{cow}",
+      "entry": "Friesian",
+      "id": "friesian#friesian__1"
+    },
+    {
+      "comment": "a [small_1]{small} [young_1]{young} [chicken_1]{chicken} that you [fry_1]{fry} in a [pan_1]{pan}",
+      "entry": "fryer",
+      "id": "fryer#fryer__1"
+    },
+    {
+      "comment": "a [brown_1]{brown} and [white_1]{white} [cow_1]{cow} that [produce_1]{produces} [milk_1]{milk}",
+      "entry": "guernsey",
+      "id": "guernsey#guernsey__1"
+    },
+    {
+      "comment": "a [large_1]{large} [gray_1]{gray} [bird]{bird}, [originally]{originally} from Africa, that is [kept]{kept} for its [meat]{meat}",
+      "entry": "guinea fowl",
+      "id": "guinea-fowl#guinea-fowl__1"
+    },
+    {
+      "comment": "a [pig_1]{pig}",
+      "entry": "hog",
+      "id": "hog_1#hog_1__1"
+    },
+    {
+      "comment": "a [male_1]{male} [pig_1]{pig} whose [sex_1]{sex} [organ]{organs} have been [removed]{removed}",
+      "entry": "hog",
+      "id": "hog_1#hog_1__3"
+    },
+    {
+      "comment": "a [type_1]{type} of [black_1]{black} and [white_1]{white} [cow_1]{cow} that [produce_1]{produces} a [lot_1]{lot} of [milk_1]{milk}",
+      "entry": "Holstein",
+      "id": "holstein#holstein__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [cow_1]{cow} that is [white_1]{white} with [large_1]{large} [brown_1]{brown} [spot_1]{spots} and is [kept]{kept} by [farmer]{farmers} for its [milk_1]{milk}",
+      "entry": "jersey",
+      "id": "jersey#jersey__3"
+    },
+    {
+      "comment": "[animal_1]{animals} such as [cow_1]{cows}, [sheep]{sheep}, and [pig_1]{pigs} that are [kept]{kept} on [farm_1]{farms}",
+      "entry": "livestock",
+      "id": "livestock#livestock__1"
+    },
+    {
+      "comment": "an animal with no fur and a curly tail kept by farmers for its meat. A female pig is called a sow and a young pig is called a piglet. The meat from a pig is called pork.",
+      "entry": "pig",
+      "id": "pig_1#pig_1__1"
+    },
+    {
+      "comment": "a young pig that has been made fat so that it can be eaten as pork",
+      "entry": "porker",
+      "id": "porker#porker__1"
+    },
+    {
+      "comment": "[bird]{birds} such as [chicken_1]{chickens} that are [used]{used} for [meat]{meat} or [egg_1]{eggs}",
+      "entry": "poultry",
+      "id": "poultry#poultry__1"
+    },
+    {
+      "comment": "an animal kept by farmers for its wool or meat. The male sheep is called a ram and the female is a ewe. A young sheep is called a lamb. Meat from a young sheep is called lamb and from an older sheep is called mutton.",
+      "entry": "sheep",
+      "id": "sheep#sheep__1"
+    },
+    {
+      "comment": "an [adult_1]{adult} [female_1]{female} [pig_1]{pig}",
+      "entry": "sow",
+      "id": "sow_2#sow_2__1"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} a \u201c[pig_1]{pig}\u201d",
+      "entry": "swine",
+      "id": "swine#swine__2"
+    }
+  ],
+  "thesaurus": "Animals kept for their meat or milk",
+  "type": "Related words"
+}

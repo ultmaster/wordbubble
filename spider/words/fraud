@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [crime_1]{crime} of [obtain]{obtaining} [money]{money} from someone by [trick_2]{tricking} them",
+      "examples": [
+        "[police_1]{Police} are [investigate]{investigating} a [complex_1]{complex} fraud [involve]{involving} several [bogus]{bogus} [contractor]{contractors}.",
+        "[tax_1]{tax}/[insurance]{insurance}/[benefit_1]{benefit} fraud",
+        "fraud [trial_1]{trials}/[case_1]{cases}"
+      ],
+      "id": "fraud__1"
+    },
+    {
+      "def": "the [action_1]{action} of [produce_1]{producing} [false]{false} [document_1]{documents} or [information]{information} in [order_1]{order} to get what you [want_1]{want}",
+      "examples": [
+        "[electoral]{electoral} fraud"
+      ],
+      "id": "fraud__6"
+    },
+    {
+      "def": "someone who [pretend_1]{pretends} to be an [official_1]{official} or [professional_1]{professional} [person]{person} in [order_1]{order} to [trick_1]{trick} [people_1]{people}",
+      "examples": [
+        "The whole [research_1]{research} [program_1]{program} was an [elaborate_1]{elaborate} fraud."
+      ],
+      "id": "fraud__8"
+    }
+  ],
+  "word": "fraud"
+}

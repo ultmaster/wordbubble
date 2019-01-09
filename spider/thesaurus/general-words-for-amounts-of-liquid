@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} amount of one [liquid_1]{liquid} that is [added]{added} to another",
+      "entry": "splash",
+      "id": "splash_2#splash_2__4"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [liquid_1]{liquid} [taken_1]{taken} into your [mouth_1]{mouth}",
+      "entry": "sip",
+      "id": "sip_2#sip_2__1"
+    },
+    {
+      "comment": "a very [small_1]{small} amount of [liquid_1]{liquid} with a round [shape_1]{shape}",
+      "entry": "drop",
+      "id": "drop_2#drop_2__1"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [liquid_1]{liquid} that [flow_1]{flows} somewhere",
+      "entry": "river",
+      "id": "river#river__7"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [water_1]{water} or another [liquid_1]{liquid} in the [air_1]{air}, on the [surface_1]{surface} of something, or in a [substance]{substance}",
+      "entry": "moisture",
+      "id": "moisture#moisture__1"
+    },
+    {
+      "comment": "the [water_1]{water} on [window]{windows} or [wall_1]{walls} that [form_1]{forms} when [steam_1]{steam} or [warm_1]{warm} [air_1]{air} [change_1]{changes} into [liquid_1]{liquid}",
+      "entry": "condensation",
+      "id": "condensation#condensation__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of a [liquid_1]{liquid} or other [substance]{substance} that [flow_1]{flows} [slowly]{slowly}",
+      "entry": "trickle",
+      "id": "trickle_2#trickle_2__1"
+    },
+    {
+      "comment": "a [stream_1]{stream} of [liquid_1]{liquid} that comes out of something very [quickly]{quickly} and with a [lot_1]{lot} of [force_1]{force}",
+      "entry": "jet",
+      "id": "jet_1#jet_1__5"
+    },
+    {
+      "comment": "an amount of [liquid_1]{liquid} or [gas_1]{gas} that comes out of a hole or [crack_1]{crack} in something",
+      "entry": "leak",
+      "id": "leak_2#leak_2__3"
+    }
+  ],
+  "thesaurus": "General words for amounts of liquid",
+  "type": "Synonyms"
+}

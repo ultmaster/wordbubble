@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an extinct [animal_1]{animal}, [plant_1]{plant}, or [language]{language} no [long_1]{longer} [exist]{exists}",
+      "examples": [
+        "The Tasmanian [tiger]{tiger} was [declared]{declared} extinct in 1936.",
+        "Many [job_1]{jobs} have become extinct with the [advent_1]{advent} of [computer]{computers}."
+      ],
+      "id": "extinct__1"
+    },
+    {
+      "def": "an extinct [volcano]{volcano} no [long_1]{longer} [erupt]{erupts}",
+      "examples": [],
+      "id": "extinct__5"
+    }
+  ],
+  "word": "extinct"
+}

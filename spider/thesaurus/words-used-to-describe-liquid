@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "containing many small bubbles of air",
+      "entry": "aerated",
+      "id": "aerated#aerated__1"
+    },
+    {
+      "comment": "a boiling liquid has become so hot that there are bubbles in it and it is becoming a gas",
+      "entry": "boiling",
+      "id": "boiling#boiling__4"
+    },
+    {
+      "comment": "[brackish]{brackish} [water_1]{water} has a [slight_1]{slight} [taste_1]{taste} of [salt_1]{salt} and is therefore not [pure]{pure}",
+      "entry": "brackish",
+      "id": "brackish#brackish__1"
+    },
+    {
+      "comment": "[chlorinated]{chlorinated} [water_1]{water} has had [chlorine]{chlorine} [added]{added} to it in [order_1]{order} to [kill_1]{kill} [bacteria]{bacteria}",
+      "entry": "chlorinated",
+      "id": "chlorinated#chlorinated__1"
+    },
+    {
+      "comment": "a [dilute_1]{dilute} [liquid_1]{liquid} has been [mixed]{mixed} with [water_1]{water} or another [liquid_1]{liquid} to [make_1]{make} it less [strong]{strong}",
+      "entry": "dilute",
+      "id": "dilute_2#dilute_2__1"
+    },
+    {
+      "comment": "[flowing]{flowing} [water_1]{water} is [moving]{moving} along",
+      "entry": "flowing",
+      "id": "flowing#flowing__3"
+    },
+    {
+      "comment": "hard water does not mix easily with soap because it contains a lot of minerals",
+      "entry": "hard",
+      "id": "hard_1#hard_1__24"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} [large_1]{large} [area]{areas} of [water_1]{water}",
+      "entry": "rolling",
+      "id": "rolling#rolling__3"
+    },
+    {
+      "comment": "[contain]{containing} [salt_1]{salt}",
+      "entry": "saline",
+      "id": "saline_1#saline_1__1"
+    },
+    {
+      "comment": "soft water does not contain many natural minerals and is easy to use with soap",
+      "entry": "soft",
+      "id": "soft#soft__27"
+    },
+    {
+      "comment": "[standing_1]{standing} [water_1]{water} is very still and [does]{does} not [flow_1]{flow}",
+      "entry": "standing",
+      "id": "standing_2#standing_2__3"
+    },
+    {
+      "comment": "[turbulent]{turbulent} [air_1]{air} or [water_1]{water} [move_1]{moves} [suddenly]{suddenly} and [violently]{violently} in [different]{different} [direction]{directions}",
+      "entry": "turbulent",
+      "id": "turbulent#turbulent__1"
+    },
+    {
+      "comment": "[contain]{containing} or [fill_1]{filled} with [water_1]{water}",
+      "entry": "watery",
+      "id": "watery#watery__1"
+    }
+  ],
+  "thesaurus": "Words used to describe liquid",
+  "type": "Related words"
+}

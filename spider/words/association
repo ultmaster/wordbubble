@@ -1,0 +1,30 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [group_1]{group} of [people_1]{people} who have [join_1]{joined} together because they have [similar]{similar} [interest_1]{interests} or [goals]{goals}",
+      "examples": [
+        "a [professional_1]{professional} association of [engineer_1]{engineers}",
+        "the [parent]{Parent} [teacher]{Teacher} [association]{Association}"
+      ],
+      "id": "association__1"
+    },
+    {
+      "def": "a [connection]{connection} between two [thing]{things}",
+      "examples": [
+        "Some [study_1]{studies} show a [strong]{strong} association between [pesticide]{pesticide} use and [certain_1]{certain} [disease]{diseases}.",
+        "[smoking]{Smoking} has a [close_1]{close} association with [lung]{lung} [cancer_1]{cancer}.",
+        "The [town]{town} has many [happy_1]{happy} [childhood]{childhood} [association]{associations} for me."
+      ],
+      "id": "association__4"
+    },
+    {
+      "def": "a [connection]{connection} with a [person]{person}, [group_1]{group}, or [organization]{organization}",
+      "examples": [
+        "The [police_1]{police} [knew]{knew} all about his [association]{associations} with [organized]{organized} [crime_1]{crime}."
+      ],
+      "id": "association__9"
+    }
+  ],
+  "word": "association"
+}

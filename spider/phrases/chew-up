@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "chew up",
+  "senses": [
+    {
+      "def": "to [chew_1]{chew} something for a long time, until it is very [soft]{soft} or in very [small_1]{small} [piece_1]{pieces} and [easy_1]{easy} to [swallow_1]{swallow}",
+      "examples": [],
+      "id": "chew-up__1"
+    },
+    {
+      "def": "if something [get]{gets} [chew_1]{chewed} up, it becomes [torn_1]{torn} [apart]{apart} and [destroy]{destroyed}",
+      "examples": [
+        "The [legs]{legs} of my [new]{new} [pants]{pants} [got_1]{got} [chew_1]{chewed} up in my [bike_1]{bike} [chain_1]{chain}."
+      ],
+      "id": "chew-up__2"
+    }
+  ]
+}

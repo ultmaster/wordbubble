@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "mark as",
+  "senses": [
+    {
+      "def": "to [decide]{decide} that you [think_1]{think} someone or something is a [particular_1]{particular} [type_1]{type} of [person]{person} or thing",
+      "examples": [
+        "She [immediately]{immediately} [marked]{marked} him as a [troublemaker]{troublemaker}."
+      ],
+      "id": "mark-as__1"
+    },
+    {
+      "def": "to show that someone or something is a [particular_1]{particular} [type_1]{type} of [person]{person} or thing",
+      "examples": [
+        "The [glasses]{glasses} and the [book_1]{books} [marked]{marked} him as a [student]{student}."
+      ],
+      "id": "mark-as__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "in the shadow of",
+  "senses": [
+    {
+      "def": "[feeling_1]{feeling} the [negative_1]{negative} [influence_1]{influence} of someone or something [powerful]{powerful} or [famous_1]{famous}",
+      "examples": [
+        "[aide]{aides} [working]{working} in the [shadow_1]{shadow} of [senior_1]{senior} [official_2]{officials}"
+      ],
+      "id": "in-the-shadow-of__1"
+    },
+    {
+      "def": "[near_1]{near} in time or [space_1]{space} to something",
+      "examples": [
+        "in the [shadow_1]{shadow} of a [new]{new} [millennium]{millennium}",
+        "The [farm_1]{farm} [sit]{sits} in the [shadow_1]{shadow} of the [rocky]{Rocky} [mountain]{Mountains}."
+      ],
+      "id": "in-the-shadow-of__3"
+    }
+  ]
+}

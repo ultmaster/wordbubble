@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "one of a [set_1]{set} of [small_1]{small} [box_1]{boxes} with [open_1]{open} [front_1]{fronts} on a [desk]{desk} or [shelf]{shelf}, [used]{used} for [store_2]{storing} [letter_1]{letters} or [paper_1]{papers}",
+      "entry": "cubbyhole",
+      "id": "cubbyhole#cubbyhole__2"
+    },
+    {
+      "comment": "a [container]{container} [kept]{kept} on top of a [desk]{desk}, [used]{used} for [holding]{holding} [pen_1]{pens} and other [small_1]{small} [piece_1]{pieces} of [office]{office} [equipment]{equipment}",
+      "entry": "desk organizer",
+      "id": "desk-organizer#desk-organizer__1"
+    },
+    {
+      "comment": "a [container]{container} where you can [leave_1]{leave} [letter_1]{letters}, [document_1]{documents}, or [package_1]{packages} when an [office]{office} is [closed]{closed}, to be [dealt]{dealt} with when it [open_2]{opens} again",
+      "entry": "drop-box",
+      "id": "drop-box#drop-box__1"
+    },
+    {
+      "comment": "a [box_1]{box} or [container]{container} in which [paper_1]{papers} are [kept]{kept} together",
+      "entry": "file",
+      "id": "file_1#file_1__9"
+    },
+    {
+      "comment": "a flat open container on your desk where you put documents you still have to deal with. The British word is in tray.",
+      "entry": "in box",
+      "id": "in-box#in-box__1"
+    },
+    {
+      "comment": "an in [box_1]{box} on an [office]{office} [desk]{desk}",
+      "entry": "in tray",
+      "id": "in-tray#in-tray__1"
+    },
+    {
+      "comment": "a flat open container on your desk where you put letters, documents, etc. that are ready to be sent or put somewhere else. The British word is out tray.",
+      "entry": "out box",
+      "id": "out-box#out-box__1"
+    },
+    {
+      "comment": "an out [box_1]{box} on an [office]{office} [desk]{desk}",
+      "entry": "out tray",
+      "id": "out-tray#out-tray__1"
+    },
+    {
+      "comment": "one of the [section_1]{sections} of an [open_1]{open} [structure_1]{structure} in a [desk]{desk} or on a [wall_1]{wall} where you can put [paper_1]{papers}, [letter_1]{letters}, [message_1]{messages}, etc.",
+      "entry": "pigeonhole",
+      "id": "pigeonhole_1#pigeonhole_1__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [open_1]{open} [container]{container} with [raised]{raised} [edge_1]{edges} [used]{used} for [holding]{holding} [paper_1]{papers}, [document_1]{documents}, etc.",
+      "entry": "tray",
+      "id": "tray#tray__6"
+    },
+    {
+      "comment": "a [large_1]{large} [container]{container} [shaped_1]{shaped} [like_1]{like} a [tube]{tube} [used]{used} for [store_2]{storing} [thing]{things} [like_1]{like} [paper_1]{papers}, [map_1]{maps}, and [picture_1]{pictures}",
+      "entry": "tube",
+      "id": "tube#tube__7"
+    }
+  ],
+  "thesaurus": "Containers for letters, documents and office equipment",
+  "type": "Related words"
+}

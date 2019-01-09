@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is [paid_1]{paid} by other [people_1]{people} to find out [information]{information}",
+      "entry": "detective",
+      "id": "detective#detective__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [officially]{officially} find out the [fact]{facts} about something, [especially]{especially} a [crime_1]{crime} or an [accident]{accident}",
+      "entry": "investigator",
+      "id": "investigator#investigator__1"
+    },
+    {
+      "comment": "someone who is [paid_1]{paid} to [follow]{follow} [people_1]{people} [secretly]{secretly} or to find out [information]{information} about their [lives]{lives}",
+      "entry": "private detective",
+      "id": "private-detective#private-detective__1"
+    },
+    {
+      "comment": "a [private_1]{private} [detective]{detective}",
+      "entry": "private investigator",
+      "id": "private-investigator#private-investigator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [stop_1]{stop} [people_1]{people} from [steal_1]{stealing} [thing]{things} from a [store_1]{store}",
+      "entry": "store detective",
+      "id": "store-detective#store-detective__1"
+    },
+    {
+      "comment": "someone who [try_1]{tries} to [solve]{solve} [crime_1]{crimes} or [mystery_1]{mysteries}",
+      "entry": "sleuth",
+      "id": "sleuth#sleuth__1"
+    },
+    {
+      "comment": "a [private_1]{private} [detective]{detective}",
+      "entry": "dick",
+      "id": "dick#dick__3"
+    },
+    {
+      "comment": "a [detective]{detective}",
+      "entry": "gumshoe",
+      "id": "gumshoe#gumshoe__1"
+    },
+    {
+      "comment": "a [private_1]{private} [detective]{detective}",
+      "entry": "private eye",
+      "id": "private-eye#private-eye__1"
+    },
+    {
+      "comment": "a very clever detective in stories by Sir Arthur Conan Doyle. He wears a special hat called a deerstalker.",
+      "entry": "Sherlock Holmes",
+      "id": "sherlock-holmes#sherlock-holmes__1"
+    }
+  ],
+  "thesaurus": "Private investigators",
+  "type": "Synonyms"
+}

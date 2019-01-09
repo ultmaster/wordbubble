@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[fighting]{fighting} during a war",
+      "examples": [
+        "[fear_1]{fears} of [escalate]{escalating} combat",
+        "[soldier_1]{soldiers} [kill_1]{killed} in combat",
+        "unarmed combat  (=without weapons)",
+        "combat [force_1]{forces}/[troop_1]{troops}/[aircraft]{aircraft}",
+        "a combat [mission]{mission}/[zone_1]{zone}",
+        "combat [fatigues]{fatigues}/[jacket]{jackets}"
+      ],
+      "id": "combat_1__1"
+    },
+    {
+      "def": "an [attempt_1]{attempt} to [stop_1]{stop} something [bad_1]{bad} or to [solve]{solve} a [difficult]{difficult} [problem]{problem}",
+      "examples": [
+        "These [enzyme]{enzymes} are [important]{important} in the combat against [bacteria]{bacteria}."
+      ],
+      "id": "combat_1__11"
+    }
+  ],
+  "word": "combat"
+}

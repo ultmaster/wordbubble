@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[connected]{connected} with [religion]{religion}",
+      "examples": [
+        "a sacred [holiday_1]{holiday}"
+      ],
+      "id": "sacred__1"
+    },
+    {
+      "def": "[considered]{considered} to be [holy]{holy} or [connected]{connected} with [god_2]{God} in a [special_1]{special} way",
+      "examples": [
+        "Jerusalem is sacred to Christians, Muslims, and Jews.",
+        "sacred [ground_1]{ground}"
+      ],
+      "id": "sacred__3"
+    },
+    {
+      "def": "so [important]{important} that you should not [change_1]{change}, [question_1]{question}, or [criticize]{criticize} it",
+      "examples": [
+        "the sacred [rule_1]{rules} of the [legal]{legal} [profession]{profession}",
+        "We [make_1]{make} [joke_1]{jokes} about everything \u2013 nothing is sacred."
+      ],
+      "id": "sacred__6"
+    }
+  ],
+  "word": "sacred"
+}

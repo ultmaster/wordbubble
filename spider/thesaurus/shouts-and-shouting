@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [sound_1]{sound} of someone [shout_1]{shouting}, or the [word_1]{words} that they [shout_1]{shout}",
+      "entry": "shout",
+      "id": "shout_2#shout_2__1"
+    },
+    {
+      "comment": "a [loud_1]{loud} [shout_1]{shout} to someone who is not [near_1]{near} you",
+      "entry": "call",
+      "id": "call_2#call_2__1"
+    },
+    {
+      "comment": "a [loud_1]{loud} [shout_1]{shout} of [happiness]{happiness} or [approval]{approval}",
+      "entry": "cheer",
+      "id": "cheer_2#cheer_2__1"
+    },
+    {
+      "comment": "a [loud_1]{loud} [noise]{noise} that someone [make_1]{makes} because they [feel_1]{feel} a [strong]{strong} [emotion]{emotion}",
+      "entry": "yell",
+      "id": "yell_2#yell_2__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [shout_1]{shout} of [happiness]{happiness} or [excitement]{excitement}",
+      "entry": "whoop",
+      "id": "whoop_2#whoop_2__1"
+    },
+    {
+      "comment": "a [loud_1]{loud} [shout_1]{shout} made by [soldier_1]{soldiers} before or during a [battle_1]{battle} to [frighten]{frighten} the [enemy]{enemy} or to [encourage]{encourage} their own side",
+      "entry": "war cry",
+      "id": "war-cry#war-cry__1"
+    },
+    {
+      "comment": "a [loud_1]{loud} [shout_1]{shout} [given_1]{given} by [soldier_1]{soldiers} to [frighten]{frighten} the [enemy]{enemy} or to [encourage]{encourage} their own side",
+      "entry": "battle cry",
+      "id": "battle-cry#battle-cry__2"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [loud_1]{loud} [remark_1]{remark} or [shout_1]{shout}",
+      "entry": "ejaculation",
+      "id": "ejaculation#ejaculation__2"
+    },
+    {
+      "comment": "something that someone [shout_1]{shouts}",
+      "entry": "cry",
+      "id": "cry_2#cry_2__4"
+    },
+    {
+      "comment": "a [loud_1]{loud} [noise]{noise} that someone [make_1]{makes} as a way of [showing]{showing} that they [support_1]{support} someone, [usually]{usually} a [sport_1]{sports} [team_1]{team}",
+      "entry": "yell",
+      "id": "yell_2#yell_2__4"
+    }
+  ],
+  "thesaurus": "Shouts and shouting",
+  "type": "Synonyms"
+}

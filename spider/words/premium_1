@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an amount of [money]{money} that you [pay_1]{pay} [regularly]{regularly} for an [insurance]{insurance} [policy]{policy}",
+      "examples": [
+        "Your [monthly_1]{monthly} premium will be $50.",
+        "[insurance]{Insurance} [premium_1]{premiums} will [increase_1]{increase} again next [year]{year}."
+      ],
+      "id": "premium_1__1"
+    },
+    {
+      "def": "an amount of [money]{money} [paid_1]{paid} in [addition]{addition} to the [usual]{usual} amount",
+      "examples": [
+        "[customer]{Customers} are [require]{required} to [pay_1]{pay} a premium for this [cable_1]{cable} [package_1]{package}."
+      ],
+      "id": "premium_1__4"
+    },
+    {
+      "def": "the amount by which the [price_1]{price} of a [share_1]{share} is [higher_1]{higher} than its [original_1]{original} [price_1]{price}",
+      "examples": [],
+      "id": "premium_1__6"
+    },
+    {
+      "def": "something [offer_1]{offered} for [free_1]{free} or at a [reduce]{reduced} [price_1]{price} in [order_1]{order} to get someone to [buy_1]{buy} something else",
+      "examples": [],
+      "id": "premium_1__7"
+    }
+  ],
+  "word": "premium"
+}

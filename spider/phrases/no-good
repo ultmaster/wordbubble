@@ -1,0 +1,42 @@
+{
+  "part": "phrase",
+  "phrase": "no good",
+  "senses": [
+    {
+      "def": "of a low [quality_1]{quality} or [standard_1]{standard}",
+      "examples": [
+        "Most of the [picture_1]{pictures} I [took]{took} weren\u2019t any [good_1]{good}."
+      ],
+      "id": "no-good__1"
+    },
+    {
+      "def": "not [able_1]{able} to do something well",
+      "examples": [
+        "I\u2019m no [good_1]{good} at [chemistry]{chemistry}."
+      ],
+      "id": "no-good__3"
+    },
+    {
+      "def": "not [able_1]{able} to [deal_1]{deal} with someone or something well or to use something well",
+      "examples": [
+        "[ken_1]{Ken}\u2019s not much [good_1]{good} with [kid_1]{kids}."
+      ],
+      "id": "no-good__5"
+    },
+    {
+      "def": "not [useful]{useful} or [effective]{effective}",
+      "examples": [
+        "My [shoe_1]{shoes} are no [good_1]{good} for [hiking]{hiking}.",
+        "It\u2019s no [good_1]{good} [trying]{trying} to [persuade]{persuade} her to come with us."
+      ],
+      "id": "no-good__7"
+    },
+    {
+      "def": "not [appropriate_1]{appropriate} or [convenient]{convenient}",
+      "examples": [
+        "[tomorrow_1]{Tomorrow}\u2019s no [good_1]{good} \u2013 I\u2019m [busy_1]{busy}."
+      ],
+      "id": "no-good__10"
+    }
+  ]
+}

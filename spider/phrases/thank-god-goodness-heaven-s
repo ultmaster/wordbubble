@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "thank God/goodness/heaven(s)",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you are [happy_1]{happy} that something [unpleasant]{unpleasant} has [stop_1]{stopped} or has not [happen]{happened}",
+      "examples": [
+        "[thank]{Thank} [heaven]{heaven} nobody was [injured]{injured} in the [crash_1]{crash}."
+      ],
+      "id": "thank-god-goodness-heaven-s__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you are [lucky]{lucky} to have something",
+      "examples": [
+        "[look_1]{Look} at all these [dish_1]{dishes} \u2013 [thank]{thank} [goodness_1]{goodness} for [dishwasher]{dishwashers}."
+      ],
+      "id": "thank-god-goodness-heaven-s__3"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is gone is no [long_1]{longer} [present_1]{present} in a [place_1]{place}",
+      "examples": [
+        "I\u2019ll be gone for about [half]{half} an [hour]{hour}.",
+        "[bob_1]{Bob} and his [family_1]{family} have been gone about six [month]{months} now.",
+        "[sadly]{Sadly}, those [day]{days} are gone now.",
+        "The [milk_1]{milk}\u2019s all gone."
+      ],
+      "id": "gone_1__1"
+    },
+    {
+      "def": "no [long_1]{longer} [able_1]{able} to [behave]{behave} or [think_1]{think} [normally]{normally}, [usually]{usually} because of [alcohol]{alcohol} or [drug_1]{drugs}",
+      "examples": [],
+      "id": "gone_1__7"
+    },
+    {
+      "def": "not [alive]{alive} [anymore]{anymore}; [dead_1]{dead}",
+      "examples": [
+        "Both his [parent]{parents} are gone."
+      ],
+      "id": "gone_1__8"
+    }
+  ],
+  "word": "gone"
+}

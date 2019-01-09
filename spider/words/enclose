@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [surround_1]{surround} someone or something",
+      "examples": [
+        "Her [arms]{arms} [enclosed]{enclosed} him.",
+        "The [swimming]{swimming} [pool_1]{pool} was [enclosed]{enclosed} by a [high_1]{high} [fence_1]{fence}.",
+        "[expression]{Expressions} are [enclosed]{enclosed} in [bracket_1]{brackets}."
+      ],
+      "id": "enclose__1"
+    },
+    {
+      "def": "to [send_1]{send} something such as a [document_1]{document} with a [letter_1]{letter}. If you [send_1]{send} a [document_1]{document} with an e-[mail_1]{mail} [message_1]{message}, you [attach]{attach} it",
+      "examples": [
+        "I enclose my [completed]{completed} [application]{application} form."
+      ],
+      "id": "enclose__5"
+    }
+  ],
+  "word": "enclose"
+}

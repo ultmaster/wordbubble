@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "crop up",
+  "senses": [
+    {
+      "def": "to [happen]{happen} [suddenly]{suddenly} or [unexpected#unexpected__4]{unexpectedly}",
+      "examples": [
+        "Ben had to go back to [work_1]{work} \u2013 a [problem]{problem}\u2019s [crop_2]{cropped} up."
+      ],
+      "id": "crop-up__1"
+    },
+    {
+      "def": "if a name or [subject_1]{subject} [crop_1]{crops} up, someone [mention_1]{mentions} it",
+      "examples": [
+        "Alice\u2019s name [keep_1]{keeps} [crop_2]{cropping} up in our [conversation]{conversations}."
+      ],
+      "id": "crop-up__3"
+    }
+  ]
+}

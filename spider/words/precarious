@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[likely_1]{likely} to [change_1]{change} or become [dangerous]{dangerous} without [warning]{warning}",
+      "examples": [
+        "a precarious [future_1]{future}/[situation]{situation}/[position_1]{position}/[existence]{existence}",
+        "For the [refugee]{refugees} [life]{life} was always precarious."
+      ],
+      "id": "precarious__1"
+    },
+    {
+      "def": "not [safe_1]{safe} or [likely_1]{likely} to [fall_1]{fall}",
+      "examples": [
+        "Her [position_1]{position} on the [ledge]{ledge} was [somewhat]{somewhat} precarious.",
+        "a precarious [chimney]{chimney}"
+      ],
+      "id": "precarious__4"
+    }
+  ],
+  "word": "precarious"
+}

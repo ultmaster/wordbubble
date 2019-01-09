@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "send off",
+  "senses": [
+    {
+      "def": "to [mail_1]{mail} something to someone",
+      "examples": [
+        "I have to get the [package_1]{package} [sent]{sent} off [tomorrow_1]{tomorrow}."
+      ],
+      "id": "send-off__1"
+    },
+    {
+      "def": "to [arrange]{arrange} for someone to go somewhere",
+      "examples": [
+        "We\u2019ve [sent]{sent} the [children]{children} off to the [zoo]{zoo} for the [afternoon_1]{afternoon}."
+      ],
+      "id": "send-off__3"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a [broken_1]{broken} [pattern_1]{pattern} or [sound_1]{sound} has [space_1]{spaces} in it",
+      "entry": "broken",
+      "id": "broken_1#broken_1__19"
+    },
+    {
+      "comment": "[making]{making} a [sound_1]{sound} of one [hard_1]{hard} thing [moving]{moving} against another",
+      "entry": "grinding",
+      "id": "grinding#grinding__3"
+    },
+    {
+      "comment": "[difficult]{difficult} or [impossible]{impossible} to [hear]{hear}",
+      "entry": "inaudible",
+      "id": "inaudible#inaudible__1"
+    },
+    {
+      "comment": "a [rhythmic]{rhythmic} [movement]{movement} or [sound_1]{sound} has a [clear_1]{clear} and [regular_1]{regular} [pattern_1]{pattern}",
+      "entry": "rhythmic",
+      "id": "rhythmic#rhythmic__1"
+    },
+    {
+      "comment": "with each [word_1]{word} or [sound_1]{sound} [clearly]{clearly} [separate_1]{separate}",
+      "entry": "staccato",
+      "id": "staccato#staccato__1"
+    },
+    {
+      "comment": "a [two-tone]{two-tone} [sound_1]{sound} has two [note_1]{notes}",
+      "entry": "two-tone",
+      "id": "two-tone#two-tone__2"
+    }
+  ],
+  "thesaurus": "Miscellaneous words used to describe sounds",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[object_1]{objects} [produce_1]{produced} for [sale]{sale}",
+      "examples": [
+        "a [store_1]{store} [specialize]{specializing} in [leather]{leather} goods",
+        "Wilkins was found in [possession]{possession} of $8,000 [worth_1]{worth} of [stolen]{stolen} goods.",
+        "The [cost_1]{cost} of [household_1]{household} goods and [service_1]{services} [fell_1]{fell}."
+      ],
+      "id": "goods__1"
+    },
+    {
+      "def": "[object_1]{objects} that someone [own_2]{owns} that can be [move_1]{moved} from one [place_1]{place} to another",
+      "examples": [],
+      "id": "goods__5"
+    }
+  ],
+  "word": "goods"
+}

@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "someone in a [car]{car} who [keep_1]{keeps} [telling]{telling} the [driver]{driver} what to do and how to [drive_1]{drive}",
+      "entry": "back seat driver",
+      "id": "back-seat-driver#back-seat-driver__2"
+    },
+    {
+      "comment": "someone who [hitchhike]{hitchhikes}",
+      "entry": "hitcher",
+      "id": "hitcher#hitcher__1"
+    },
+    {
+      "comment": "a [ride_1]{ride} in someone\u2019s [car]{car}",
+      "entry": "lift",
+      "id": "lift_2#lift_2__4"
+    },
+    {
+      "comment": "someone who [travel_1]{travels} in a [motor_1]{motor} [vehicle]{vehicle}, [aircraft]{aircraft}, [train_1]{train}, or [ship_1]{ship} but is not the [driver]{driver} or one of the [people_1]{people} who [work_1]{works} on it",
+      "entry": "passenger",
+      "id": "passenger#passenger__1"
+    },
+    {
+      "comment": "someone you [sit]{sit} next to or [share_1]{share} a [seat_1]{seat} with on an [airplane]{airplane}, [train_1]{train}, [bus_1]{bus}, etc.",
+      "entry": "seatmate",
+      "id": "seatmate#seatmate__1"
+    },
+    {
+      "comment": "someone who stows away in a vehicle, ship, or airplane",
+      "entry": "stowaway",
+      "id": "stowaway#stowaway__1"
+    },
+    {
+      "comment": "a [traveler]{traveler} who is [change_1]{changing} from one [plane_1]{plane}, [train_1]{train}, or [bus_1]{bus} to another, or to another form of [transportation]{transportation}",
+      "entry": "transfer passenger",
+      "id": "transfer-passenger#transfer-passenger__1"
+    },
+    {
+      "comment": "a passenger at an airport who is there to change flights and therefore does not have to go through customs or immigration",
+      "entry": "transit passenger",
+      "id": "transit-passenger#transit-passenger__1"
+    }
+  ],
+  "thesaurus": "Passengers and riding in vehicles",
+  "type": "Related words"
+}

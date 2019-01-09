@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "number",
+  "senses": [
+    {
+      "def": "the [number_1]{number} 1,000,000,000,000",
+      "examples": [
+        "[sixteen]{sixteen} trillion [dollar]{dollars}",
+        "over a trillion [dollar]{dollars} in [profit_1]{profit}"
+      ],
+      "id": "trillion__1"
+    },
+    {
+      "def": "a very [large_1]{large} [number_1]{number} or amount of something",
+      "examples": [
+        "We have a trillion [thing]{things} to do this [morning_1]{morning}."
+      ],
+      "id": "trillion__4"
+    }
+  ],
+  "word": "trillion"
+}

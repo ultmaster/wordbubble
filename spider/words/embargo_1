@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [government]{government} [order_1]{order} [prevent]{preventing} [trade_1]{trade} with another [country]{country}",
+      "examples": [
+        "an [arms]{arms}/[oil_1]{oil}/[trade_1]{trade} embargo",
+        "The [senate]{Senate} [vote_1]{voted} to [lift_1]{lift} the [economic]{economic} embargo on Vietnam."
+      ],
+      "id": "embargo_1__1"
+    },
+    {
+      "def": "a [government]{government} [order_1]{order} [prevent]{preventing} a [piece_1]{piece} of [information]{information} from being [publish]{published} until a [particular_1]{particular} time",
+      "examples": [],
+      "id": "embargo_1__4"
+    }
+  ],
+  "word": "embargo"
+}

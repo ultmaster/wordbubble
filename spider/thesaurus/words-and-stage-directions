@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "to [appear]{appear} on a [stage_1]{stage}",
+      "entry": "come on",
+      "id": "come-on_1#come-on_1__5"
+    },
+    {
+      "comment": "something that an [actor]{actor} [does]{does} or [say_1]{says} as a [signal_1]{signal} to another [actor]{actor} to do or [say_1]{say} something",
+      "entry": "cue",
+      "id": "cue_1#cue_1__1"
+    },
+    {
+      "comment": "to give someone, [usually]{usually} an [actor]{actor} or other [performer]{performer}, a [signal_1]{signal} to do or [say_1]{say} something",
+      "entry": "cue",
+      "id": "cue_2#cue_2__1"
+    },
+    {
+      "comment": "[used]{used} as a [written_1]{written} [instruction]{instruction} that [tell_1]{tells} two or more [actor]{actors} to [leave_1]{leave} the [stage_1]{stage} at a [particular_1]{particular} time in a [play_1]{play}",
+      "entry": "exeunt",
+      "id": "exeunt#exeunt__1"
+    },
+    {
+      "comment": "[used]{used} as a [written_1]{written} [instruction]{instruction} that [tell_1]{tells} an [actor]{actor} to [leave_1]{leave} the [stage_1]{stage} at a [particular_1]{particular} time in a [play_1]{play}",
+      "entry": "exit",
+      "id": "exit_2#exit_2__4"
+    },
+    {
+      "comment": "the [word_1]{words} that an [actor]{actor} [say_1]{says} in a [performance]{performance}",
+      "entry": "line",
+      "id": "line_1#line_1__48"
+    },
+    {
+      "comment": "the [word_1]{words} [spoken_1]{spoken} by an [actor]{actor} [play_1]{playing} a [particular_1]{particular} [person]{person} in a [movie]{movie}, [play_1]{play}, or [television]{television} [program_1]{program}",
+      "entry": "part",
+      "id": "part_1#part_1__30"
+    },
+    {
+      "comment": "to [remind]{remind} an [actor]{actor} which [word_1]{words} to [say_1]{say} next",
+      "entry": "prompt",
+      "id": "prompt_1#prompt_1__7"
+    },
+    {
+      "comment": "a [word_1]{word} or [word_1]{words} [said_1]{said} to [remind]{remind} an [actor]{actor} what to [say_1]{say} next",
+      "entry": "prompt",
+      "id": "prompt_4#prompt_4__2"
+    },
+    {
+      "comment": "an [instruction]{instruction} about what will [happen]{happen} in a [play_1]{play} or other show",
+      "entry": "stage direction",
+      "id": "stage-direction#stage-direction__1"
+    },
+    {
+      "comment": "the [work_1]{work} of [give_1]{giving} [stage_1]{stage} [direction]{directions}",
+      "entry": "stage direction",
+      "id": "stage-direction#stage-direction__2"
+    },
+    {
+      "comment": "on the [left_1]{left} side of the [stage_1]{stage} for an [actor]{actor} who is [look_1]{looking} toward the [audience]{audience}",
+      "entry": "stage left",
+      "id": "stage-left#stage-left__1"
+    },
+    {
+      "comment": "on the [right_1]{right} side of the [stage_1]{stage} for an [actor]{actor} who is [look_1]{looking} toward the [audience]{audience}",
+      "entry": "stage right",
+      "id": "stage-right#stage-right__1"
+    }
+  ],
+  "thesaurus": "Words and stage directions",
+  "type": "Related words"
+}

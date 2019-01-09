@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "shave off",
+  "senses": [
+    {
+      "def": "to [cut_1]{cut} [hair]{hair} from part of your body [use_1]{using} a [razor]{razor} or a [shaver]{shaver}",
+      "examples": [
+        "You\u2019ve [shave_1]{shaved} off your [beard]{beard}."
+      ],
+      "id": "shave-off__1"
+    },
+    {
+      "def": "to [reduce]{reduce} an amount",
+      "examples": [
+        "He [managed]{managed} to [shave_1]{shave} [nearly]{nearly} a [second_1]{second} off the [world]{world} [record_1]{record}."
+      ],
+      "id": "shave-off__3"
+    },
+    {
+      "def": "to [cut_1]{cut} thin [piece_1]{pieces} from the [surface_1]{surface} of something",
+      "examples": [
+        "She [shave_1]{shaved} off some [slice_1]{slices} of Parmesan [cheese]{cheese} for the [salad]{salad}."
+      ],
+      "id": "shave-off__5"
+    }
+  ]
+}

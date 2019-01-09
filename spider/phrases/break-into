@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "break into",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [doing]{doing} something",
+      "examples": [
+        "The [kid_1]{kids} [saw_1]{saw} the [beach_1]{beach} and [broke_1]{broke} into a [run_1]{run}.",
+        "I almost [expected]{expected} him to [break_1]{break} into [song]{song}.",
+        "My [legs]{legs} were [shake_1]{shaking} with [exhaustion]{exhaustion}, but Phil hadn\u2019t even [broken_1]{broken} into a [sweat_1]{sweat}."
+      ],
+      "id": "break-into__1"
+    },
+    {
+      "def": "to [start_1]{start} to have [success]{success} in your [career_1]{career} or an [area]{area} of [activity]{activity}",
+      "examples": [
+        "It\u2019s always been his [ambition]{ambition} to [break_1]{break} into [broadcast_1#broadcast_1__6]{broadcasting}."
+      ],
+      "id": "break-into__5"
+    },
+    {
+      "def": "to [start_1]{start} to use an amount of [money]{money}",
+      "examples": [
+        "We had to [break_1]{break} into our [saving_1]{savings} to [pay_1]{pay} the [fine_1]{fine}."
+      ],
+      "id": "break-into__7"
+    },
+    {
+      "def": "to [interrupt]{interrupt} someone when they are [talk_1]{talking} or [thinking_1]{thinking}",
+      "examples": [
+        "Christopher\u2019s [voice_1]{voice} [broke_1]{broke} into her [thought_1]{thoughts}."
+      ],
+      "id": "break-into__9"
+    }
+  ]
+}

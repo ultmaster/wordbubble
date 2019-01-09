@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "close the book on something",
+  "senses": [
+    {
+      "def": "to [end_1]{end} something [unpleasant]{unpleasant} that has been [continuing]{continuing} for a long time",
+      "examples": [
+        "It\u2019s time to [close_1]{close} the [book_1]{book} on this [unfortunate_1]{unfortunate} [period_1]{period} in our [history]{history}."
+      ],
+      "id": "close-the-book-on-something__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [working]{working} on something because you do not [believe]{believe} that you will [achieve]{achieve} your [aim_1]{aim}",
+      "examples": [
+        "It can be [difficult]{difficult} to [close_1]{close} the [book_1]{book} on something you\u2019ve [work_1]{worked} on for so long."
+      ],
+      "id": "close-the-book-on-something__3"
+    }
+  ]
+}

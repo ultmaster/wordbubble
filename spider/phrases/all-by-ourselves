@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "(all) by ourselves",
+  "senses": [
+    {
+      "def": "alone",
+      "examples": [
+        "We had [dinner]{dinner} by ourselves in our [hotel]{hotel} [room_1]{room}."
+      ],
+      "id": "all-by-ourselves__1"
+    },
+    {
+      "def": "without [help_1]{help} from anyone",
+      "examples": [
+        "We [knew]{knew} that we couldn\u2019t [organize]{organize} such a [big_1]{big} [event]{event} all by ourselves."
+      ],
+      "id": "all-by-ourselves__3"
+    }
+  ]
+}

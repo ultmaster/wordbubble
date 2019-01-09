@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "stand back",
+  "senses": [
+    {
+      "def": "to move [away_1]{away} from something, or to [stand_1]{stand} at a [distance_1]{distance} from something, [especially]{especially} something [dangerous]{dangerous}",
+      "examples": [
+        "The [children]{children} were [told]{told} to [stand_1]{stand} back from the fire."
+      ],
+      "id": "stand-back__1"
+    },
+    {
+      "def": "to not [let_1]{let} yourself be [influence_2]{influenced} by your [feeling_1]{feelings} about a [situation]{situation} so that you can [think_1]{think} about it more [clearly]{clearly}",
+      "examples": [
+        "I [forced]{forced} [myself]{myself} to [stand_1]{stand} back and [assess]{assess} the [situation]{situation}."
+      ],
+      "id": "stand-back__3"
+    },
+    {
+      "def": "if a [building]{building} [stand_1]{stands} back from a [road]{road}, it is a [short_1]{short} [distance_1]{distance} [away_1]{away} from it",
+      "examples": [
+        "The [house_1]{house} [stand_1]{stands} back around twenty [yard]{yards} from the [curb_1]{curb}."
+      ],
+      "id": "stand-back__5"
+    }
+  ]
+}

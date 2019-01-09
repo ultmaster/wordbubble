@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} as a [greeting]{greeting} when you [meet_1]{meet} someone or [begin]{begin} to [talk_1]{talk} to someone on the [telephone_1]{telephone}",
+      "entry": "hello",
+      "id": "hello#hello__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} [hello]{hello} or [goodbye_1]{goodbye} to someone in the [morning_1]{morning}",
+      "entry": "good morning",
+      "id": "good-morning#good-morning__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} [hello]{hello} or [goodbye_1]{goodbye} to someone in the [afternoon_1]{afternoon}",
+      "entry": "good afternoon",
+      "id": "good-afternoon#good-afternoon__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} [hello]{hello} to someone in the [evening_1]{evening}",
+      "entry": "good evening",
+      "id": "good-evening#good-evening__1"
+    },
+    {
+      "comment": "[hello]{hello}",
+      "entry": "hi",
+      "id": "hi_1#hi_1__1"
+    },
+    {
+      "comment": "used for saying hello to someone in the morning or afternoon. Good day is often written \u201cg\u2019day\u201d to show how it sounds in informal conversation.",
+      "entry": "good day",
+      "id": "good-day#good-day__1"
+    },
+    {
+      "comment": "[used]{used} as a [polite]{polite} way of [greeting]{greeting} someone when you [meet_1]{meet} them for the first time",
+      "entry": "pleased to meet you",
+      "id": "pleased-to-meet-you#pleased-to-meet-you__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} [hello]{hello} to someone",
+      "entry": "all right",
+      "id": "all-right_2#all-right_2__19"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} \u201c[hello]{hello}\u201d to someone you [know_1]{know} well",
+      "entry": "hiya",
+      "id": "hiya#hiya__1"
+    },
+    {
+      "comment": "[hello]{hello}",
+      "entry": "hey",
+      "id": "hey#hey__4"
+    }
+  ],
+  "thesaurus": "Ways of saying hello",
+  "type": "Synonyms"
+}

@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "to [help_1]{help} [customer]{customers} to [buy_1]{buy} [goods]{goods} in a [store_1]{store}, [especially]{especially} by [bring]{bringing} them [thing]{things} or [helping]{helping} them to [choose]{choose} what they [need_1]{need}",
+      "entry": "serve",
+      "id": "serve_1#serve_1__33"
+    },
+    {
+      "comment": "to [serve_1]{serve} [people_1]{people} in a [store_1]{store} or [restaurant]{restaurant}",
+      "entry": "wait on someone hand and foot",
+      "id": "wait-on#wait-on__1"
+    },
+    {
+      "comment": "to record an amount of money by pressing buttons on a cash register",
+      "entry": "ring up",
+      "id": "ring-up#ring-up__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone to [pay_1]{pay} more [money]{money} than is [reasonable]{reasonable}, or more [money]{money} than the [real_1]{real} [price_1]{price}",
+      "entry": "overcharge",
+      "id": "overcharge#overcharge__1"
+    },
+    {
+      "comment": "to [work_1]{work} as a [clerk_1]{clerk} in a [hotel]{hotel}, [store_1]{store}, or a [judge_1]{judge}\u2019s or [lawyer]{lawyer}\u2019s [office]{office}",
+      "entry": "clerk",
+      "id": "clerk_2#clerk_2__1"
+    },
+    {
+      "comment": "to [sell_1]{sell} something to someone for too low a [price_1]{price}, or to [accidentally]{accidentally} not [ask_1]{ask} them for enough [money]{money} in a [store_1]{store}, etc.",
+      "entry": "undercharge",
+      "id": "undercharge#undercharge__1"
+    }
+  ],
+  "thesaurus": "To serve customers in a shop",
+  "type": "Synonyms"
+}

@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "a [curved]{curved} [area]{area} at one [end_1]{end} of a [church]{church}",
+      "entry": "apse",
+      "id": "apse#apse__1"
+    },
+    {
+      "comment": "a small room where a monk or a nun sleeps in a religious community",
+      "entry": "cell",
+      "id": "cell#cell__5"
+    },
+    {
+      "comment": "the part of a church where the priests and choir sit during a religious ceremony",
+      "entry": "chancel",
+      "id": "chancel#chancel__1"
+    },
+    {
+      "comment": "a [separate_1]{separate} [room_1]{room} or [area]{area} within a [church]{church} where [people_1]{people} can go to [pray_1]{pray} or [worship_1]{worship} on their own",
+      "entry": "chapel",
+      "id": "chapel#chapel__3"
+    },
+    {
+      "comment": "the part of a [church]{church} where the [choir]{choir} [sit]{sits}",
+      "entry": "choir",
+      "id": "choir#choir__5"
+    },
+    {
+      "comment": "the area upstairs in a church where a choir sings during services",
+      "entry": "choir loft",
+      "id": "choir-loft#choir-loft__1"
+    },
+    {
+      "comment": "the seats in a church where the choir sits",
+      "entry": "choir stalls",
+      "id": "choir-stalls#choir-stalls__1"
+    },
+    {
+      "comment": "an [underground_1]{underground} [room_1]{room} where the [body]{bodies} of [dead_1]{dead} [people_1]{people} are [bury]{buried}, [usually]{usually} under a [church]{church}",
+      "entry": "crypt",
+      "id": "crypt#crypt__1"
+    },
+    {
+      "comment": "the central and most holy part of a Jewish temple  (=a building where God is worshiped)",
+      "entry": "holy of holies",
+      "id": "holy-of-holies#holy-of-holies__1"
+    },
+    {
+      "comment": "an [upper_1]{upper} [floor_1]{floor} [built_1]{built} out from the [wall_1]{wall} in a [church]{church}, where the [organ]{organ} is often found",
+      "entry": "loft",
+      "id": "loft_1#loft_1__5"
+    },
+    {
+      "comment": "the long [central]{central} part of a [church]{church} where [people_1]{people} [sit]{sit}",
+      "entry": "nave",
+      "id": "nave#nave__1"
+    },
+    {
+      "comment": "the part of a [church]{church} where the [priest]{priests} or other [official_2]{officials} [sit]{sit}",
+      "entry": "presbytery",
+      "id": "presbytery#presbytery__3"
+    },
+    {
+      "comment": "the [place_1]{place} where a [priest]{priest} [stand_1]{stands} to [talk_1]{talk} to [people_1]{people} in a [church]{church}",
+      "entry": "pulpit",
+      "id": "pulpit#pulpit__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [church]{church} where [holy]{holy} [object_1]{objects} and [special_1]{special} [clothes]{clothes} for [ceremony]{ceremonies} are [kept]{kept}",
+      "entry": "sacristy",
+      "id": "sacristy#sacristy__1"
+    },
+    {
+      "comment": "the most [holy]{holy} part of a [religious]{religious} [building]{building}",
+      "entry": "sanctuary",
+      "id": "sanctuary#sanctuary__1"
+    },
+    {
+      "comment": "an inner room in a holy place such as a temple",
+      "entry": "sanctum",
+      "id": "sanctum#sanctum__1"
+    },
+    {
+      "comment": "a [seat_1]{seat} in a [church]{church} in which a [priest]{priest} or [singer]{singer} [sit]{sits}",
+      "entry": "stall",
+      "id": "stall_1#stall_1__8"
+    },
+    {
+      "comment": "one of the two [part_1]{parts} of a [church]{church} that are [built_1]{built} across the [main_1]{main} part and [make_1]{make} the [church]{church} form the [shape_1]{shape} of a cross",
+      "entry": "transept",
+      "id": "transept#transept__1"
+    },
+    {
+      "comment": "an [underground_1]{underground} [room_1]{room} where [people_1]{people}\u2019s [body]{bodies} are [bury]{buried}, [especially]{especially} under a [church]{church}",
+      "entry": "vault",
+      "id": "vault_1#vault_1__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [church]{church} [used]{used} for [store_2]{storing} [thing]{things}",
+      "entry": "vestry",
+      "id": "vestry#vestry__1"
+    }
+  ],
+  "thesaurus": "Rooms and areas in religious buildings",
+  "type": "Related words"
+}

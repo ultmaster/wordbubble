@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [ability_1]{ability} of a [product]{product} or [service_1]{service} to be found by [people_1]{people} who [want_1]{want} it or might [like_1]{like} it",
+      "entry": "discoverability",
+      "id": "discoverability#discoverability__1"
+    },
+    {
+      "comment": "the [existence]{existence} of someone or something in a [particular_1]{particular} [place_1]{place}",
+      "entry": "presence",
+      "id": "presence#presence__1"
+    },
+    {
+      "comment": "the [fact]{fact} of being [present_1]{present} at an [event]{event} or of [going_1]{going} [regularly]{regularly} to [school_1]{school}, [church]{church}, etc.",
+      "entry": "attendance",
+      "id": "attendance#attendance__4"
+    },
+    {
+      "comment": "the [state_1]{state} of being [able_1]{able} to be [obtain]{obtained} or [used]{used}",
+      "entry": "availability",
+      "id": "availability#availability__1"
+    },
+    {
+      "comment": "at an [event]{event}, or in a [place_1]{place}",
+      "entry": "present",
+      "id": "present_1#present_1__8"
+    },
+    {
+      "comment": "in or to the [place_1]{place} where you are",
+      "entry": "here",
+      "id": "here#here__2"
+    },
+    {
+      "comment": "[present_1]{present} somewhere, often at an [important]{important} or [official_1]{official} [event]{event}",
+      "entry": "in attendance",
+      "id": "in-attendance#in-attendance__1"
+    },
+    {
+      "comment": "in the [exact_1]{exact} [place_1]{place} where something is [happening_1]{happening}",
+      "entry": "on the spot",
+      "id": "on-the-spot_2#on-the-spot_2__1"
+    },
+    {
+      "comment": "[present_1]{present} here and now, [instead]{instead} of by [television]{television}, [telephone_1]{telephone}, [radio_1]{radio}, etc.",
+      "entry": "in the flesh",
+      "id": "in-the-flesh#in-the-flesh__1"
+    },
+    {
+      "comment": "if you are [bodily_1]{bodily} [present_1]{present}, you are [physically]{physically} in a [place_1]{place}",
+      "entry": "bodily",
+      "id": "bodily_2#bodily_2__1"
+    }
+  ],
+  "thesaurus": "General words for presence",
+  "type": "Synonyms"
+}

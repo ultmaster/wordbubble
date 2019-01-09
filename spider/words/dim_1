@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "dim [light_1]{light} is not [bright_1]{bright}",
+      "examples": [
+        "the dim [glow_1]{glow} of the [streetlamp]{streetlamp}",
+        "The [room_1]{room} was very dim.",
+        "She [caught_1]{caught} a [glimpse_1]{glimpse} of a dim [figure_1]{figure} in the [dark_1]{dark} [kitchen]{kitchen}."
+      ],
+      "id": "dim_1__1"
+    },
+    {
+      "def": "a dim [memory]{memory} is something that you cannot [remember]{remember} very well because it [happen]{happened} a long time [ago]{ago}",
+      "examples": [
+        "I had a dim [recollection]{recollection} of a [visit_1]{visit} to a [big_1]{big} [dark_1]{dark} [house_1]{house}.",
+        "He only had a dim [awareness]{awareness} of the [issue_1]{issues} [involved]{involved}."
+      ],
+      "id": "dim_1__7"
+    },
+    {
+      "def": "if the [chance_1]{chances} of something [good_1]{good} [happening_1]{happening} are dim, it is not [likely_1]{likely} to [happen]{happen}",
+      "examples": [
+        "Their [chance_1]{chances} of [victory]{victory} were [start_1]{starting} to [look_1]{look} dim."
+      ],
+      "id": "dim_1__11"
+    },
+    {
+      "def": "not [intelligent]{intelligent}",
+      "examples": [],
+      "id": "dim_1__13"
+    }
+  ],
+  "word": "dim"
+}

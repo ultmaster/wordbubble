@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fit out",
+  "senses": [
+    {
+      "def": "to put [equipment]{equipment} into a [room_1]{room} or [building]{building} so that it can be [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "The [kitchen]{kitchen} has been [fitted]{fitted} out with [pine_1]{pine} [cabinet]{cabinets} and [marble]{marble} [countertop]{countertops}."
+      ],
+      "id": "fit-out__1"
+    },
+    {
+      "def": "to [measure_1]{measure} part of someone\u2019s body in [order_1]{order} to give them the [right_1]{right} [shoe_1]{shoes} or [clothing]{clothing}",
+      "examples": [
+        "We [fitted]{fitted} them out with [wet_1]{wet} [suit_1]{suits} and [surf_1]{surf} [board_1]{boards}."
+      ],
+      "id": "fit-out__3"
+    }
+  ]
+}

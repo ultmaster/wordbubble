@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [feeling_1]{feeling} of [happiness]{happiness}, [enjoyment]{enjoyment}, or [satisfaction]{satisfaction}",
+      "entry": "pleasure",
+      "id": "pleasure#pleasure__1"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} of being [excited]{excited}",
+      "entry": "excitement",
+      "id": "excitement#excitement__1"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} of being very [interested]{interested} in something or [excited]{excited} by it",
+      "entry": "enthusiasm",
+      "id": "enthusiasm#enthusiasm__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [great_1]{great} [happiness]{happiness} and [pleasure]{pleasure}",
+      "entry": "delight",
+      "id": "delight_1#delight_1__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [excitement]{excitement} about something [enjoyable]{enjoyable} that is [going_1]{going} to [happen]{happen} [soon]{soon}",
+      "entry": "anticipation",
+      "id": "anticipation#anticipation__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [great_1]{great} [happiness]{happiness} and [pleasure]{pleasure}, often [sexual]{sexual} [pleasure]{pleasure}",
+      "entry": "ecstasy",
+      "id": "ecstasy_1#ecstasy_1__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [excitement]{excitement} or [pleasure]{pleasure}",
+      "entry": "kick",
+      "id": "kick_2#kick_2__10"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [pleasure]{pleasure} and [excitement]{excitement} that comes from [enjoy]{enjoying} [life]{life}",
+      "entry": "joie de vivre",
+      "id": "joie-de-vivre#joie-de-vivre__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [surprise_1]{surprise}, [admiration]{admiration}, or [pleasure]{pleasure} that you get, for [example]{example} when you have [seen]{seen} something very [unusual]{unusual} or [beautiful]{beautiful}",
+      "entry": "wonder",
+      "id": "wonder_2#wonder_2__1"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} of [pleasure]{pleasure} that you get when you [achieve]{achieve} or [obtain]{obtain} something that you [want_1]{want}",
+      "entry": "satisfaction",
+      "id": "satisfaction#satisfaction__1"
+    }
+  ],
+  "thesaurus": "Feelings of pleasure and excitement",
+  "type": "Synonyms"
+}

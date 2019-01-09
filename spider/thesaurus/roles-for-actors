@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} before the name of a [person]{person} in a [movie]{movie} or TV or [radio_1]{radio} show that an [actor]{actor} is [famous_1]{famous} for [play_1]{playing}",
+      "entry": "alias",
+      "id": "alias_2#alias_2__3"
+    },
+    {
+      "comment": "a [bad_1]{bad} [guy]{guy}",
+      "entry": "baddy",
+      "id": "baddy#baddy__1"
+    },
+    {
+      "comment": "someone who [does]{does} [cruel]{cruel} or [illegal_1]{illegal} [thing]{things}, [especially]{especially} in a [book_1]{book} or [movie]{movie}",
+      "entry": "bad guy",
+      "id": "bad-guy#bad-guy__1"
+    },
+    {
+      "comment": "a [job_1]{job} as a [minor_1]{minor} [actor]{actor} in a [play_1]{play} or [movie]{movie}",
+      "entry": "bit part",
+      "id": "bit-part#bit-part__1"
+    },
+    {
+      "comment": "a [small_1]{small} part [play_1]{played} by a [well-known]{well-known} [actor]{actor} in a [movie]{movie} or [play_1]{play}",
+      "entry": "cameo",
+      "id": "cameo#cameo__1"
+    },
+    {
+      "comment": "in [ancient]{ancient} Greek [play_1]{plays}, a [group_1]{group} of [actor]{actors} who all [speak_1]{speak} the same [word_1]{words}, [describe]{describing} the [action_1]{action} and [making]{making} [comment_1]{comments} about it",
+      "entry": "chorus",
+      "id": "chorus_1#chorus_1__8"
+    },
+    {
+      "comment": "a [movie]{movie}, [television]{television} show, [play_1]{play}, etc. that a [particular_1]{particular} [person]{person} has [work_1]{worked} on",
+      "entry": "credit",
+      "id": "credit_1#credit_1__16"
+    },
+    {
+      "comment": "someone who has a very [small_1]{small} part in a [movie]{movie}, for [example]{example} as a [member]{member} of a [crowd_1]{crowd}",
+      "entry": "extra",
+      "id": "extra_2#extra_2__4"
+    },
+    {
+      "comment": "someone who [does]{does} what is [morally]{morally} [right_1]{right}, [especially]{especially} a [character]{character} in a [movie]{movie}",
+      "entry": "good guy",
+      "id": "good-guy#good-guy__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [goody_1]{goody}",
+      "entry": "goodie",
+      "id": "goodie#goodie__1"
+    },
+    {
+      "comment": "someone who is [morally]{morally} [good_1]{good}, [especially]{especially} someone in a [movie]{movie} or [book_1]{book}",
+      "entry": "goody",
+      "id": "goody_1#goody_1__1"
+    },
+    {
+      "comment": "the [main_1]{main} part for an [actor]{actor} in a [play_1]{play}, [movie]{movie}, or [television]{television} show",
+      "entry": "lead",
+      "id": "lead_2#lead_2__10"
+    },
+    {
+      "comment": "the [person]{person} [play_1]{played} by an [actor]{actor} in a [movie]{movie}, [play_1]{play}, or [television]{television} [program_1]{program}",
+      "entry": "part",
+      "id": "part_1#part_1__27"
+    },
+    {
+      "comment": "the [character]{character} [play_1]{played} by a [particular_1]{particular} [actor]{actor} in a [movie]{movie}, [play_1]{play}, etc.",
+      "entry": "role",
+      "id": "role#role__8"
+    },
+    {
+      "comment": "a [main_1]{main} part for an [actor]{actor} in a [movie]{movie}, [play_1]{play}, [television]{television} [program_1]{program}, etc.",
+      "entry": "starring role",
+      "id": "starring-role#starring-role__1"
+    },
+    {
+      "comment": "[used]{used} about a part in a [play_1]{play} or [movie]{movie} that is [important]{important} but is not the [main_1]{main} part",
+      "entry": "supporting",
+      "id": "supporting#supporting__1"
+    },
+    {
+      "comment": "the [main_1]{main} part for someone in a [movie]{movie}, [play_1]{play}, [opera]{opera}, etc. that has the same name as its [title]{title}",
+      "entry": "title role",
+      "id": "title-role#title-role__1"
+    },
+    {
+      "comment": "the main bad character in a story, play, movie, etc. The main good character is the hero or heroine",
+      "entry": "villain",
+      "id": "villain#villain__1"
+    },
+    {
+      "comment": "a [small_1]{small} [acting_1]{acting} part in a [movie]{movie} or a [play_1]{play}, [especially]{especially} one with no [word_1]{words} to [say_1]{say}",
+      "entry": "walk-on",
+      "id": "walk-on_2#walk-on_2__1"
+    }
+  ],
+  "thesaurus": "Roles for actors",
+  "type": "Related words"
+}

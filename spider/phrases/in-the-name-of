@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in the name of",
+  "senses": [
+    {
+      "def": "[represent]{representing} someone or something",
+      "examples": [
+        "They [said_1]{said} they came in the name of [peace]{peace}."
+      ],
+      "id": "in-the-name-of__1"
+    },
+    {
+      "def": "[use_1]{using} the [authority]{authority} [given_1]{given} by someone or something",
+      "examples": [
+        "She [claim_1]{claimed} to be [acting_1]{acting} in the name of the [heir]{heirs} to the [estate]{estate}."
+      ],
+      "id": "in-the-name-of__3"
+    }
+  ]
+}

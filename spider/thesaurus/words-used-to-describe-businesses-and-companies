@@ -1,0 +1,276 @@
+{
+  "entries": [
+    {
+      "comment": "an [accredited]{accredited} [organization]{organization}, [worker]{worker}, or [course_1]{course} of [study_1]{study} has [official_1]{official} [approval]{approval}",
+      "entry": "accredited",
+      "id": "accredited#accredited__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [involve]{involving} a way of [manage]{managing} [project_1]{projects} [base_2]{based} on [divide_1]{dividing} the [work_1]{work} into a [series]{series} of [small_1]{small} [task_1]{tasks} and [use_1]{using} [regular_1]{regular} [feedback]{feedback} at each [stage_1]{stage} to [make_1]{make} [change_1]{changes} to how [work_1]{work} in [later_1]{later} [stage_1]{stages} is done",
+      "entry": "agile",
+      "id": "agile#agile__5"
+    },
+    {
+      "comment": "an [all-night]{all-night} [store_1]{store}, [restaurant]{restaurant}, [bus_1]{bus} [service_1]{service}, etc. [continue]{continues} to [operate]{operate} for the whole [night_1]{night}",
+      "entry": "all-night",
+      "id": "all-night#all-night__4"
+    },
+    {
+      "comment": "[intended_1]{intended} to [prevent]{prevent} [people_1]{people} from [competing]{competing} against each other [fairly]{fairly}, [especially]{especially} in [business]{business}",
+      "entry": "anticompetitive",
+      "id": "anticompetitive#anticompetitive__1"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to [large_1]{large} and [powerful]{powerful} [industry]{industries} that are [considered]{considered} to have a [lot_1]{lot} of [political]{political} [influence_1]{influence}",
+      "entry": "big",
+      "id": "big_1#big_1__22"
+    },
+    {
+      "comment": "a [bloated]{bloated} [organization]{organization} or system is not [effective]{effective} because it is too [large_1]{large} or has too many [worker]{workers}",
+      "entry": "bloated",
+      "id": "bloated#bloated__4"
+    },
+    {
+      "comment": "a [brick-and-mortar]{brick-and-mortar} [business]{business} is a [traditional]{traditional} [business]{business} that [does]{does} not [operate]{operate} on the [internet]{Internet}",
+      "entry": "brick-and-mortar",
+      "id": "brick-and-mortar#brick-and-mortar__1"
+    },
+    {
+      "comment": "if [business]{business} is [brisk]{brisk}, a [lot_1]{lot} of [thing]{things} are being [sold]{sold} [quickly]{quickly}",
+      "entry": "brisk",
+      "id": "brisk#brisk__6"
+    },
+    {
+      "comment": "[connected]{connected} with [business]{business}, or with [people_1]{people} who [work_1]{work} in [business]{business}",
+      "entry": "business",
+      "id": "business#business__24"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a [type_1]{type} of [business]{business} [activity]{activity} in which [company]{companies} use the [internet]{Internet} to [trade_1]{trade} with each other",
+      "entry": "business-to-business",
+      "id": "business-to-business#business-to-business__1"
+    },
+    {
+      "comment": "[own_2]{owned} by the [government]{government} and [run_1]{run} by a [group_1]{group} of [worker]{workers}",
+      "entry": "collective",
+      "id": "collective_1#collective_1__3"
+    },
+    {
+      "comment": "[relate]{relating} to [business]{business}",
+      "entry": "commercial",
+      "id": "commercial_1#commercial_1__1"
+    },
+    {
+      "comment": "[produce_1]{producing} [goods]{goods} or [service_1]{services} to [sell_1]{sell}",
+      "entry": "commercial",
+      "id": "commercial_1#commercial_1__4"
+    },
+    {
+      "comment": "[offering]{offering} [goods]{goods} or [service_1]{services} at [lower_1]{lower} [price_1]{prices} than other [company]{companies}",
+      "entry": "competitive",
+      "id": "competitive#competitive__9"
+    },
+    {
+      "comment": "[dealing]{dealing} [directly_1]{directly} with [people_1]{people} who [buy_1]{buy} [product]{products} or [service_1]{services}",
+      "entry": "consumer-facing",
+      "id": "consumer-facing#consumer-facing__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a [type_1]{type} of [business]{business} [activity]{activity} in which a [customer]{customer} [deal_1]{deals} with a [company]{company} [use_1]{using} the [internet]{Internet}",
+      "entry": "consumer-to-business",
+      "id": "consumer-to-business#consumer-to-business__1"
+    },
+    {
+      "comment": "a [cooperative_1]{cooperative} [business]{business} or other [organization]{organization} is [own_2]{owned} by the [people_1]{people} who [work_1]{work} in it who also [share_1]{share} the [profit_1]{profits}",
+      "entry": "cooperative",
+      "id": "cooperative_1#cooperative_1__5"
+    },
+    {
+      "comment": "[relate]{relating} to [large_1]{large} [company]{companies}, or to a [particular_1]{particular} [large_1]{large} [company]{company}",
+      "entry": "corporate",
+      "id": "corporate_1#corporate_1__1"
+    },
+    {
+      "comment": "consumer-to-consumer: [used]{used} for [describe]{describing} a [type_1]{type} of [business]{business} [activity]{activity} in which a [customer]{customer} [deal_1]{deals} with another [customer]{customer} [use_1]{using} the [internet]{Internet}",
+      "entry": "C-to-C",
+      "id": "c-to-c#c-to-c__1"
+    },
+    {
+      "comment": "a [drive-through_1]{drive-through} [restaurant]{restaurant}, [bank_1]{bank}, etc. is one where you are [serve_1]{served} through a [window]{window} without [leave_1]{leaving} your [car]{car}",
+      "entry": "drive-through",
+      "id": "drive-through_1#drive-through_1__1"
+    },
+    {
+      "comment": "[willing]{willing} to [work_1]{work} [hard_1]{hard} and take [risk_1]{risks} in [order_1]{order} to [build_1]{build} up a [business]{business}",
+      "entry": "entrepreneurial",
+      "id": "entrepreneurial#entrepreneurial__1"
+    },
+    {
+      "comment": "a [fly-by-night]{fly-by-night} [company]{company} or [businessman]{businessman} cannot be [trust_2]{trusted} because they are [dishonest]{dishonest} or may [fail_1]{fail}",
+      "entry": "fly-by-night",
+      "id": "fly-by-night#fly-by-night__1"
+    },
+    {
+      "comment": "a highly/well capitalized business has a lot of money invested in it",
+      "entry": "highly/well capitalized",
+      "id": "highly-well-capitalized#highly-well-capitalized__1"
+    },
+    {
+      "comment": "an [incorporated]{incorporated} [company]{company} has the [legal]{legal} [status]{status} of a [corporation]{corporation}",
+      "entry": "incorporated",
+      "id": "incorporated#incorporated__1"
+    },
+    {
+      "comment": "an [infant_1]{infant} [organization]{organization} or [company]{company} is very [new]{new}",
+      "entry": "infant",
+      "id": "infant_2#infant_2__1"
+    },
+    {
+      "comment": "a [labor-intensive]{labor-intensive} [industry]{industry} or [process_1]{process} [need_1]{needs} a [lot_1]{lot} of [people_1]{people}, so that a [large_1]{large} [proportion]{proportion} of its [cost_1]{costs} are [salary]{salaries} rather than [new]{new} [machine_1]{machines} or the [material_1]{materials} to [make_1]{make} [thing]{things} with",
+      "entry": "labor-intensive",
+      "id": "labor-intensive#labor-intensive__1"
+    },
+    {
+      "comment": "[existing]{existing} in a [physical_1]{physical} [place_1]{place} rather than as a [website]{website}",
+      "entry": "land-based",
+      "id": "land-based#land-based__1"
+    },
+    {
+      "comment": "a [large_1]{large} [company]{company} or [organization]{organization} is one that [employ_1]{employs} a [lot_1]{lot} of [people_1]{people} in many [place_1]{places} and has many [activity]{activities}",
+      "entry": "large",
+      "id": "large#large__10"
+    },
+    {
+      "comment": "a [lean_1]{lean} [business]{business} [spend]{spends} as [little_1]{little} [money]{money} and [employ_1]{employs} as few [worker]{workers} as [possible_1]{possible} so that it will [make_1]{make} a [good_1]{good} [profit_1]{profit}",
+      "entry": "lean",
+      "id": "lean_2#lean_2__5"
+    },
+    {
+      "comment": "[used]{used} after the name of a [company]{company} to show that it is a [limited]{limited} [company]{company}",
+      "entry": "limited",
+      "id": "limited#limited__8"
+    },
+    {
+      "comment": "[controlled_1]{controlled} by what and how much [people_1]{people} [want_1]{want} to [buy_1]{buy}",
+      "entry": "market-driven",
+      "id": "market-driven#market-driven__1"
+    },
+    {
+      "comment": "[market-driven]{market-driven}",
+      "entry": "market-led",
+      "id": "market-led#market-led__1"
+    },
+    {
+      "comment": "[relate]{relating} to [trade_1]{trade}",
+      "entry": "mercantile",
+      "id": "mercantile#mercantile__1"
+    },
+    {
+      "comment": "a [mom-and-pop]{mom-and-pop} [business]{business} is [own_2]{owned} by a [single_1]{single} [family_1]{family} that also [does]{does} most or all of the [work_1]{work}",
+      "entry": "mom-and-pop",
+      "id": "mom-and-pop#mom-and-pop__1"
+    },
+    {
+      "comment": "relating to a monopoly in business",
+      "entry": "monopolistic",
+      "id": "monopolistic#monopolistic__1"
+    },
+    {
+      "comment": "[involve]{involving} several [different]{different} [organization]{organizations} that [work_1]{work} together",
+      "entry": "multiagency",
+      "id": "multiagency#multiagency__1"
+    },
+    {
+      "comment": "a [multinational_1]{multinational} [company]{company} or [business]{business} has [office]{offices}, [store_1]{stores}, or [factory]{factories} in several [country]{countries}",
+      "entry": "multinational",
+      "id": "multinational_1#multinational_1__1"
+    },
+    {
+      "comment": "a [nonprofit_1]{nonprofit} [organization]{organization} has [goals]{goals} that do not [include]{include} [making]{making} a [profit_1]{profit}",
+      "entry": "nonprofit",
+      "id": "nonprofit_1#nonprofit_1__1"
+    },
+    {
+      "comment": "a [not-for-profit]{not-for-profit} [organization]{organization} [exist]{exists} in [order_1]{order} to [help_1]{help} [people_1]{people} and [provide]{provide} a [service_1]{service}, rather than to [make_1]{make} [money]{money}",
+      "entry": "not-for-profit",
+      "id": "not-for-profit#not-for-profit__1"
+    },
+    {
+      "comment": "an [offshore_1]{offshore} [bank_1]{bank} or [company]{company} is not in your own [country]{country}, but in a [country]{country} where you [pay_1]{pay} less [tax_1]{tax} or where it is more [private_1]{private}",
+      "entry": "offshore",
+      "id": "offshore_1#offshore_1__8"
+    },
+    {
+      "comment": "[providing]{providing} a [range_1]{range} of [product]{products} or [service_1]{services} in one [place_1]{place}",
+      "entry": "one-stop",
+      "id": "one-stop#one-stop__1"
+    },
+    {
+      "comment": "a [business]{business} that is [overstaffed]{overstaffed} has more [worker]{workers} than it [need_1]{needs}",
+      "entry": "overstaffed",
+      "id": "overstaffed#overstaffed__1"
+    },
+    {
+      "comment": "[store_2]{storing} and [communicate]{communicating} [information]{information} in [electronic]{electronic} form [instead]{instead} of on [paper_1]{paper}",
+      "entry": "paperless",
+      "id": "paperless#paperless__1"
+    },
+    {
+      "comment": "[relate]{relating} to [company]{companies} that are [look_1]{looking} for other [company]{companies} to [buy_1]{buy}, or are [showing]{showing} this [type_1]{type} of [behavior]{behavior}",
+      "entry": "predatory",
+      "id": "predatory#predatory__4"
+    },
+    {
+      "comment": "a [self-financing]{self-financing} [organization]{organization}, [business]{business}, etc. [earn]{earns} all the [money]{money} that it [need_1]{needs} to [pay_1]{pay} its own [cost_1]{costs}",
+      "entry": "self-financing",
+      "id": "self-financing#self-financing__1"
+    },
+    {
+      "comment": "a [self-service]{self-service} [restaurant]{restaurant} or [gas_1]{gas} [station_1]{station} is one where the [customer]{customers} have to [serve_1]{serve} themselves",
+      "entry": "self-service",
+      "id": "self-service#self-service__1"
+    },
+    {
+      "comment": "[providing]{providing} [help_1]{help}, [information]{information}, or [advice]{advice} for the [public_1]{public} in [exchange_1]{exchange} for [payment]{payment}",
+      "entry": "service",
+      "id": "service_3#service_3__5"
+    },
+    {
+      "comment": "without enough [worker]{workers}",
+      "entry": "short-staffed",
+      "id": "short-staffed#short-staffed__1"
+    },
+    {
+      "comment": "[providing]{providing} [service_1]{services} [instead]{instead} of [selling]{selling} or [making]{making} [product]{products}",
+      "entry": "tertiary",
+      "id": "tertiary#tertiary__6"
+    },
+    {
+      "comment": "a [company]{company} or [organization]{organization} that is [top-heavy]{top-heavy} has too many [worker]{workers} at [higher_1]{higher} [level_1]{levels} and not enough at [lower_1]{lower} [level_1]{levels}",
+      "entry": "top-heavy",
+      "id": "top-heavy#top-heavy__2"
+    },
+    {
+      "comment": "not [have]{having} enough [worker]{workers} to do a [job_1]{job} [quickly]{quickly} or [effectively]{effectively}",
+      "entry": "undermanned",
+      "id": "undermanned#undermanned__1"
+    },
+    {
+      "comment": "not [have]{having} enough [worker]{workers} to do a [job_1]{job} [quickly]{quickly} or [effectively]{effectively}",
+      "entry": "understaffed",
+      "id": "understaffed#understaffed__1"
+    },
+    {
+      "comment": "an unlisted company is not on the official list of a particular stock exchange, so that you cannot buy or sell its stock there",
+      "entry": "unlisted",
+      "id": "unlisted#unlisted__1"
+    },
+    {
+      "comment": "an [upstart_1]{upstart} [company]{company} is one that has [quickly]{quickly} become very [successful]{successful}",
+      "entry": "upstart",
+      "id": "upstart_2#upstart_2__1"
+    }
+  ],
+  "thesaurus": "Words used to describe businesses and companies",
+  "type": "Related words"
+}

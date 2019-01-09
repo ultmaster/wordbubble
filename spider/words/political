@@ -1,0 +1,30 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to [politics]{politics}",
+      "examples": [
+        "the [importance]{importance} of political [stability]{stability}",
+        "the political system in the U.S.",
+        "political [leader]{leaders}/[opponent]{opponents}"
+      ],
+      "id": "political__1"
+    },
+    {
+      "def": "[interested]{interested} or [involved]{involved} in [politics]{politics}",
+      "examples": [
+        "This was an [event]{event} [organized]{organized} by [ordinary]{ordinary} [citizen]{citizens}, not political [activist]{activists}.",
+        "I\u2019m not [really]{really} a political [animal_1]{animal}."
+      ],
+      "id": "political__5"
+    },
+    {
+      "def": "[relate]{relating} to [relationship]{relationships} of [power_1]{power} that [exist]{exist} between [people_1]{people} in an [organization]{organization}",
+      "examples": [
+        "Everything in our [company]{company} is so political that you never [know_1]{know} who you can [trust_1]{trust}."
+      ],
+      "id": "political__8"
+    }
+  ],
+  "word": "political"
+}

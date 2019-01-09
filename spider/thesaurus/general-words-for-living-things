@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "any [living_1]{living} [creature]{creature}, [including]{including} [human_2]{humans}",
+      "entry": "animal",
+      "id": "animal_1#animal_1__6"
+    },
+    {
+      "comment": "anything that [lives]{lives} except [plant_1]{plants}",
+      "entry": "creature",
+      "id": "creature#creature__1"
+    },
+    {
+      "comment": "a [living_1]{living} thing such as a [person]{person}, [animal_1]{animal}, or [plant_1]{plant}, [especially]{especially} an [extremely]{extremely} [small_1]{small} [living_1]{living} thing",
+      "entry": "organism",
+      "id": "organism#organism__1"
+    },
+    {
+      "comment": "a [living_1]{living} [creature]{creature}",
+      "entry": "being",
+      "id": "being_2#being_2__3"
+    },
+    {
+      "comment": "any [living_1]{living} thing that is not a [human_1]{human}, a [plant_1]{plant}, an [insect]{insect}, a [bird]{bird}, or a [fish_1]{fish}",
+      "entry": "animal",
+      "id": "animal_1#animal_1__3"
+    },
+    {
+      "comment": "[living_1]{living} [thing]{things} such as [plant_1]{plants} and [animal_1]{animals}",
+      "entry": "life",
+      "id": "life#life__32"
+    },
+    {
+      "comment": "all the animals that live in a particular area. The plants in an area are called the flora.",
+      "entry": "fauna",
+      "id": "fauna#fauna__1"
+    },
+    {
+      "comment": "all the [animal_1]{animals} or [plant_1]{plants} that [exist]{exist} in the [world]{world}",
+      "entry": "the animal/plant kingdom",
+      "id": "the-animal-plant-kingdom#the-animal-plant-kingdom__1"
+    },
+    {
+      "comment": "all of the [people_1]{people} of the [world]{world} when [considered]{considered} as a [single_1]{single} [group_1]{group}",
+      "entry": "the human race",
+      "id": "the-human-race#the-human-race__1"
+    },
+    {
+      "comment": "a [living_1]{living} thing [considered]{considered} as the [set_1]{set} of [gene]{genes} that it has, rather than what it [look_1]{looks} [like_1]{like}, how [big_1]{big} it is etc.",
+      "entry": "genotype",
+      "id": "genotype#genotype__1"
+    }
+  ],
+  "thesaurus": "General words for living things",
+  "type": "Synonyms"
+}

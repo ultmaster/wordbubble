@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} the [supply_1]{supply} of [gas_1]{gas}, [water_1]{water}, or [electricity]{electricity}, or the [telephone_1]{telephone} [service_1]{service} to a [building]{building}",
+      "examples": [
+        "They [arrive]{arrived} to find that the [water_1]{water} had been [disconnected]{disconnected}."
+      ],
+      "id": "disconnect_1__1"
+    },
+    {
+      "def": "to [stop_1]{stop} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} from being [connected]{connected} to a [supply_1]{supply} of [electricity]{electricity}, [water_1]{water}, or [gas_1]{gas}",
+      "examples": [
+        "[disconnect_1]{Disconnect} all [electrical_1]{electrical} [appliance]{appliances} before [attempt_2]{attempting} to [clean_1]{clean} them."
+      ],
+      "id": "disconnect_1__3"
+    },
+    {
+      "def": "to [stop_1]{stop} the [telephone_1]{telephone} [connection]{connection} between two [people_1]{people} or [computer]{computers}",
+      "examples": [
+        "Many [people_1]{people} [complain]{complained} they were [disconnected]{disconnected} before even [reach_1]{reaching} the [operator]{operator}.",
+        "[click_1]{Click} \u201c[work_1]{Work} [offline_1]{Offline}\u201d to disconnect from the [internet]{Internet}."
+      ],
+      "id": "disconnect_1__5"
+    }
+  ],
+  "word": "disconnect"
+}

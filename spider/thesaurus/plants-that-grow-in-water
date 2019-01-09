@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[plant_1]{plants} that have no [root_1]{roots}, [stem_1]{stems}, or [leaves]{leaves} and [grow]{grow} in [water_1]{water} or in other [wet_1]{wet} [place_1]{places}",
+      "entry": "algae",
+      "id": "algae#algae__1"
+    },
+    {
+      "comment": "a plant that grows in rivers and ponds",
+      "entry": "duckweed",
+      "id": "duckweed#duckweed__1"
+    },
+    {
+      "comment": "a large brown type of seaweed  (=a plant that grows in the ocean)",
+      "entry": "kelp",
+      "id": "kelp#kelp__1"
+    },
+    {
+      "comment": "a tall thin plant that grows near water. Its stems can be used to make things. A place where a lot of reeds grow is called a reed bed.",
+      "entry": "reed",
+      "id": "reed#reed__1"
+    },
+    {
+      "comment": "a tall plant that looks like grass and grows in water. It is used for making baskets and covering floors.",
+      "entry": "rush",
+      "id": "rush_2#rush_2__29"
+    },
+    {
+      "comment": "a [plant_1]{plant} with [fleshy]{fleshy} [leaves]{leaves} that [grow]{grows} by the [sea_1]{sea} and can be [eaten]{eaten} as a [vegetable]{vegetable}",
+      "entry": "samphire",
+      "id": "samphire#samphire__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [plant_1]{plant} with very long [root_1]{roots} that [live_1]{live} under the [sea_1]{sea}, [usually]{usually} in [water_1]{water} that is not very [deep_1]{deep}",
+      "entry": "seagrass",
+      "id": "seagrass#seagrass__1"
+    },
+    {
+      "comment": "a [green_1]{green} or [brown_1]{brown} [plant_1]{plant} that [grow]{grows} in the [ocean]{ocean}",
+      "entry": "seaweed",
+      "id": "seaweed#seaweed__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} [like_1]{like} [grass]{grass} that [grow]{grows} in [wet_1]{wet} [area]{areas}",
+      "entry": "sedge",
+      "id": "sedge#sedge__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [grow]{grows} in [water_1]{water} and has [leaves]{leaves} that are [eaten]{eaten} in [salad]{salads} and [sandwich_1]{sandwiches}",
+      "entry": "watercress",
+      "id": "watercress#watercress__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [grow]{grows} in [water_1]{water} and has very [big_1]{big} [flat_1]{flat} [leaves]{leaves} that [float_1]{float} on the [surface_1]{surface}",
+      "entry": "water lily",
+      "id": "water-lily#water-lily__1"
+    }
+  ],
+  "thesaurus": "Plants that grow in water",
+  "type": "Related words"
+}

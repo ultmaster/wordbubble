@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [series]{series} of [action_1]{actions} that someone must [perform]{perform} to show how well they can do a [particular_1]{particular} [activity]{activity}",
+      "entry": "test",
+      "id": "test_1#test_1__7"
+    },
+    {
+      "comment": "the [process_1]{process} of [testing_1]{testing} a [product]{product}, [plan_1]{plan}, or [person]{person} over a [period_1]{period} of time",
+      "entry": "trial",
+      "id": "trial_1#trial_1__10"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [test_1]{test} a [new]{new} [idea]{idea}, [method]{method}, or [activity]{activity} to find out what the [result_1]{result} will be",
+      "entry": "experiment",
+      "id": "experiment_1#experiment_1__6"
+    },
+    {
+      "comment": "the [process_1]{process} of [testing_1]{testing} [various]{various} [idea]{ideas}, [method]{methods}, or [activity]{activities} to see what [effect_1]{effect} they have",
+      "entry": "experimentation",
+      "id": "experimentation#experimentation__1"
+    },
+    {
+      "comment": "a [test_1]{test} in which a [new]{new} computer [product]{product} is [given_1]{given} [free_1]{free} to [customer]{customers} to use so that they can find [mistake_1]{mistakes}",
+      "entry": "beta test",
+      "id": "beta-test#beta-test__1"
+    },
+    {
+      "comment": "a [fact]{fact}, [event]{event}, or [situation]{situation} that [prove]{proves} something, for [example]{example} whether a [plan_1]{plan} will [work_1]{work}",
+      "entry": "acid test",
+      "id": "acid-test#acid-test__1"
+    },
+    {
+      "comment": "a [test_1]{test} of something in which you [practice_1]{practice} [use_1]{using} or [doing]{doing} it before [use_1]{using} or [doing]{doing} it in a [real_1]{real} [situation]{situation}",
+      "entry": "dummy run",
+      "id": "dummy-run#dummy-run__1"
+    },
+    {
+      "comment": "a [test_1]{test} of something such as [new]{new} [equipment]{equipment} that [involve]{involves} [use_1]{using} it in [real_1]{real} [condition_1]{conditions}, rather than in a [laboratory]{laboratory}",
+      "entry": "field test",
+      "id": "field-test_1#field-test_1__1"
+    },
+    {
+      "comment": "a [test_1]{test} of something [new]{new}, for [example]{example} a [new]{new} system, [vehicle]{vehicle}, or [machine_1]{machine}",
+      "entry": "shakedown",
+      "id": "shakedown#shakedown__2"
+    },
+    {
+      "comment": "a way of [find_1]{finding} a [good_1]{good} [method]{method} that [involve]{involves} [trying]{trying} several [possibility]{possibilities} and [learning]{learning} from your [mistake_1]{mistakes}",
+      "entry": "trial and error",
+      "id": "trial-and-error#trial-and-error__1"
+    },
+    {
+      "comment": "[evidence_1]{evidence}, [usually]{usually} [obtain]{obtained} from a [pilot_1]{pilot} [project_1]{project}, that an [idea]{idea}, [plan_1]{plan} or [project_1]{project} is [likely_1]{likely} to [succeed]{succeed}",
+      "entry": "proof of concept",
+      "id": "proof-of-concept#proof-of-concept__1"
+    }
+  ],
+  "thesaurus": "General words for tests and testing",
+  "type": "Synonyms"
+}

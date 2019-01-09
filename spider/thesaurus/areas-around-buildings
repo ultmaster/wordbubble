@@ -1,0 +1,231 @@
+{
+  "entries": [
+    {
+      "comment": "a [narrow_1]{narrow} [street_1]{street} or [passage]{passage} between or behind [building]{buildings}",
+      "entry": "alley",
+      "id": "alley#alley__1"
+    },
+    {
+      "comment": "an [alley]{alley}",
+      "entry": "alleyway",
+      "id": "alleyway#alleyway__1"
+    },
+    {
+      "comment": "a [covered_1]{covered} [passage]{passage} at the side of a [building]{building}",
+      "entry": "arcade",
+      "id": "arcade#arcade__2"
+    },
+    {
+      "comment": "an [outside]{outside} [area]{area} behind a [house_1]{house} or other [building]{building}",
+      "entry": "back",
+      "id": "back_3#back_3__11"
+    },
+    {
+      "comment": "an [area]{area} behind a [house_1]{house} [covered_1]{covered} with a [hard_1]{hard} [brick_1]{brick} or [stone_1]{stone} [surface_1]{surface}",
+      "entry": "backyard",
+      "id": "backyard#backyard__3"
+    },
+    {
+      "comment": "the [area]{area} behind a [house_1]{house}, often [used]{used} to [construct_1]{construct} a [small_1]{small} [simple]{simple} [building]{building} for [people_1]{people} to [live_1]{live} in",
+      "entry": "backyard",
+      "id": "backyard#backyard__4"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [path]{path} between or behind [building]{buildings}, that is [closed]{closed} at one [end_1]{end}",
+      "entry": "blind alley",
+      "id": "blind-alley#blind-alley__3"
+    },
+    {
+      "comment": "an [area]{area} [surround_1]{surrounded} by a [fence_1]{fence} and sometimes [covered_1]{covered} with a [dry_1]{dry} [grass]{grass} [roof_1]{roof}, [used]{used} for [outdoor]{outdoor} [meal]{meals} and [party_1]{parties}",
+      "entry": "boma",
+      "id": "boma#boma__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [contain]{containing} all the [main_1]{main} [building]{buildings} of a [university]{university}, [school_1]{school}, or other [organization]{organization} such as a [hospital]{hospital}",
+      "entry": "campus",
+      "id": "campus#campus__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [contain]{containing} all the [main_1]{main} [building]{buildings} of a [large_1]{large} [company]{company} or [organization]{organization}",
+      "entry": "campus",
+      "id": "campus#campus__6"
+    },
+    {
+      "comment": "a parking lot or parking garage",
+      "entry": "car park",
+      "id": "car-park#car-park__1"
+    },
+    {
+      "comment": "a covered path around an open area in the center of a large building such as a cathedral or monastery",
+      "entry": "cloister",
+      "id": "cloister_1#cloister_1__1"
+    },
+    {
+      "comment": "the area around a cathedral including the buildings belonging to it",
+      "entry": "close",
+      "id": "close_5#close_5__1"
+    },
+    {
+      "comment": "a [courtyard]{courtyard}",
+      "entry": "court",
+      "id": "court_1#court_1__27"
+    },
+    {
+      "comment": "a [square_1]{square} [area]{area} that is [surround_1]{surrounded} by [building]{buildings} or [wall_1]{walls}",
+      "entry": "courtyard",
+      "id": "courtyard#courtyard__1"
+    },
+    {
+      "comment": "a [wooden]{wooden} [floor_1]{floor} that is [built_1]{built} onto the [outside]{outside} of the back of a [house_1]{house}",
+      "entry": "deck",
+      "id": "deck_1#deck_1__7"
+    },
+    {
+      "comment": "a [wooden]{wooden} [floor_1]{floor} that is [built_1]{built} [outside]{outside} a [house_1]{house} or in a [garden_1]{garden}",
+      "entry": "decking",
+      "id": "decking#decking__1"
+    },
+    {
+      "comment": "a [wide_1]{wide} [path]{path} for a [car]{car} that [join_1]{joins} someone\u2019s [house_1]{house} to a [street_1]{street}",
+      "entry": "driveway",
+      "id": "driveway#driveway__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [area]{area} of [land_1]{land} that [belong]{belongs} to one [person]{person}, [usually]{usually} with a very [big_1]{big} [house_1]{house} on it",
+      "entry": "estate",
+      "id": "estate#estate__5"
+    },
+    {
+      "comment": "an [open_1]{open} [area]{area} in front of a [large_1]{large} [building]{building} or [gas_1]{gas} [station_1]{station}",
+      "entry": "forecourt",
+      "id": "forecourt#forecourt__1"
+    },
+    {
+      "comment": "the [area]{area} [outside]{outside} the part of a [building]{building} that [face_1]{faces} [forward_1]{forward}",
+      "entry": "front",
+      "id": "front_1#front_1__8"
+    },
+    {
+      "comment": "the [area]{area} in front of something such as a [building]{building} or [street_1]{street}",
+      "entry": "frontage",
+      "id": "frontage#frontage__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} next to or [near_1]{near} a [house_1]{house} that is [used]{used} for [growing]{growing} [flower_1]{flowers} or [vegetable]{vegetables}",
+      "entry": "garden",
+      "id": "garden_1#garden_1__1"
+    },
+    {
+      "comment": "a [yard]{yard}",
+      "entry": "garden",
+      "id": "garden_1#garden_1__2"
+    },
+    {
+      "comment": "an area that someone owns, often including the buildings on it. You can also refer to someone\u2019s lands, and this has the same meaning",
+      "entry": "land",
+      "id": "land_1#land_1__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [contain]{containing} a [manor]{manor}",
+      "entry": "manor",
+      "id": "manor#manor__4"
+    },
+    {
+      "comment": "an [enclosed]{enclosed} [area]{area} of [grass]{grass} and [tree]{trees} [surrounding]{surrounding} a [large_1]{large} [country]{country} [house_1]{house}",
+      "entry": "park",
+      "id": "park_1#park_1__7"
+    },
+    {
+      "comment": "a [flat_1]{flat} [area]{area} [covered_1]{covered} with [stone_1]{stone}, [brick_1]{brick}, etc. at the back of a [house_1]{house}, where [people_1]{people} can [sit]{sit} [outside]{outside}",
+      "entry": "patio",
+      "id": "patio#patio__1"
+    },
+    {
+      "comment": "in architecture, a line of columns that surrounds an outdoor space such as a garden inside a building, or the space surrounded by these columns",
+      "entry": "peristyle",
+      "id": "peristyle#peristyle__1"
+    },
+    {
+      "comment": "the area around an important building, especially a college or cathedral",
+      "entry": "precincts",
+      "id": "precinct#precinct__6"
+    },
+    {
+      "comment": "a [square_1]{square} [outdoor]{outdoor} [area]{area} [surround_1]{surrounded} by [building]{buildings}, [especially]{especially} at a [school_1]{school} or [university]{university}",
+      "entry": "quad",
+      "id": "quad_1#quad_1__2"
+    },
+    {
+      "comment": "a [quad_1]{quad}",
+      "entry": "quadrangle",
+      "id": "quadrangle#quadrangle__1"
+    },
+    {
+      "comment": "the kind of area that surrounds a place, used especially by people who sell houses or property. A more usual word is location",
+      "entry": "situation",
+      "id": "situation#situation__9"
+    },
+    {
+      "comment": "an open area of land in the shape of a square, usually with buildings around it. \u201cSquare\u201d is often used in the names of roads and can be written Sq.",
+      "entry": "square",
+      "id": "square_1#square_1__9"
+    },
+    {
+      "comment": "a veranda or series of wooden steps leading up to a house",
+      "entry": "stoep",
+      "id": "stoep#stoep__1"
+    },
+    {
+      "comment": "a [raised]{raised} [area]{area} [outside]{outside} the front [door_1]{door} of a [house_1]{house}, [especially]{especially} a [house_1]{house} in the [city]{city}",
+      "entry": "stoop",
+      "id": "stoop_1#stoop_1__2"
+    },
+    {
+      "comment": "a [wooden]{wooden} [structure_1]{structure} around a [house_1]{house} where you can [sit]{sit} and [enjoy]{enjoy} the [sun_1]{sun}",
+      "entry": "sun deck",
+      "id": "sun-deck#sun-deck__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [area]{area} [outside]{outside} a [house_1]{house}, [restaurant]{restaurant}, [hotel]{hotel}, etc. [used]{used} for [sitting]{sitting} and [eat]{eating} [meal]{meals}",
+      "entry": "terrace",
+      "id": "terrace#terrace__1"
+    },
+    {
+      "comment": "a [covered_1]{covered} [area]{area} along the [outside]{outside} of a [house_1]{house}, often [enclosed]{enclosed} by a low [wall_1]{wall}",
+      "entry": "veranda",
+      "id": "veranda#veranda__1"
+    },
+    {
+      "comment": "a [path]{path} that has been [built_1]{built} for [people_1]{people} to [walk_1]{walk} along, [especially]{especially} one that is above [ground_1]{ground} [level_1]{level} and [connect]{connects} two [building]{buildings}",
+      "entry": "walkway",
+      "id": "walkway#walkway__1"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [place_1]{place} [surround_1]{surrounded} by [high_1]{high} [building]{buildings} where there is always a [lot_1]{lot} of [wind_1]{wind}",
+      "entry": "wind tunnel",
+      "id": "wind-tunnel#wind-tunnel__2"
+    },
+    {
+      "comment": "an area around a house that is used for sitting, playing, and growing plants in. The British word is garden.",
+      "entry": "yard",
+      "id": "yard#yard__1"
+    },
+    {
+      "comment": "an [enclosed]{enclosed} [area]{area} around a [large_1]{large} [building]{building} where [people_1]{people} can do [activity]{activities} [outside]{outside}",
+      "entry": "yard",
+      "id": "yard#yard__2"
+    },
+    {
+      "comment": "a [large_1]{large} [open_1]{open} [area]{area} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "yard",
+      "id": "yard#yard__4"
+    },
+    {
+      "comment": "an [area]{area} without [grass]{grass} at the back of a [small_1]{small} [house_1]{house}",
+      "entry": "yard",
+      "id": "yard#yard__6"
+    }
+  ],
+  "thesaurus": "Areas around buildings",
+  "type": "Related words"
+}

@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a very [slow_1]{slow} [speed_1]{speed} at which a [vehicle]{vehicle} [move_1]{moves} [forward_1]{forward}",
+      "entry": "crawl",
+      "id": "crawl_2#crawl_2__1"
+    },
+    {
+      "comment": "a [gradual]{gradual} [movement]{movement} to a [higher_1]{higher} [position_1]{position} by someone who is [walking_1]{walking} or [climbing]{climbing}",
+      "entry": "climb",
+      "id": "climb_2#climb_2__1"
+    },
+    {
+      "comment": "a [slow_1]{slow} [rate_1]{rate} at which [people_1]{people} or [thing]{things} move",
+      "entry": "trickle",
+      "id": "trickle_2#trickle_2__4"
+    },
+    {
+      "comment": "a [slow_1]{slow} and [gradual]{gradual} [change_1]{change} or [movement]{movement}",
+      "entry": "creep",
+      "id": "creep_2#creep_2__3"
+    },
+    {
+      "comment": "a [gradual]{gradual} [movement]{movement} of [people_1]{people} from one [place_1]{place} to another",
+      "entry": "drift",
+      "id": "drift_2#drift_2__8"
+    }
+  ],
+  "thesaurus": "Slow and gradual movements",
+  "type": "Synonyms"
+}

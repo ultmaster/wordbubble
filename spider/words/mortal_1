@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[human_1]{human} and not [able_1]{able} to [live_1]{live} for ever",
+      "examples": [
+        "His [heart_1]{heart} [attack_1]{attack} made him [realize]{realize} that he is mortal."
+      ],
+      "id": "mortal_1__1"
+    },
+    {
+      "def": "serious enough to cause [death]{death}",
+      "examples": [
+        "a mortal [wound_1]{wound}/[blow_1]{blow}/[injury]{injury}",
+        "mortal [combat_1]{combat}/[struggle_1]{struggle}"
+      ],
+      "id": "mortal_1__3"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that a [particular_1]{particular} [feeling_1]{feeling} is [extremely]{extremely} [strong]{strong}",
+      "examples": [
+        "He [live_1]{lived} in mortal [fear_1]{fear} that they would find out about his [past_1]{past}."
+      ],
+      "id": "mortal_1__7"
+    }
+  ],
+  "word": "mortal"
+}

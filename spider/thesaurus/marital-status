@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "not [married]{married} or [involved]{involved} in a [romantic_1]{romantic} [relationship]{relationship} and therefore [able_1]{able} to [start_1]{start} a [new]{new} [relationship]{relationship}",
+      "entry": "available",
+      "id": "available#available__12"
+    },
+    {
+      "comment": "[involved]{involved} in a [relationship]{relationship} that has [continued]{continued} long enough to be [considered]{considered} a [marriage]{marriage}, even though it is not [official_1]{official}",
+      "entry": "common law",
+      "id": "common-law_2#common-law_2__3"
+    },
+    {
+      "comment": "a de facto [relationship]{relationship} is between two [people_1]{people} who are [officially]{officially} [recognize]{recognized} as [partner_1]{partners} without being [legally]{legally} [married]{married} to each other",
+      "entry": "de facto",
+      "id": "de-facto_1#de-facto_1__3"
+    },
+    {
+      "comment": "no [long_1]{longer} [married]{married} because the [marriage]{marriage} has been [legally]{legally} [end_2]{ended}",
+      "entry": "divorced",
+      "id": "divorced#divorced__1"
+    },
+    {
+      "comment": "if two [people_1]{people} are [engaged]{engaged}, they have [formally]{formally} [agreed]{agreed} to get [married]{married}",
+      "entry": "engaged",
+      "id": "engaged#engaged__3"
+    },
+    {
+      "comment": "an [estranged]{estranged} [husband]{husband} or [wife]{wife} is no [long_1]{longer} [living_1]{living} with their [partner_1]{partner}",
+      "entry": "estranged",
+      "id": "estranged#estranged__1"
+    },
+    {
+      "comment": "[able_1]{able} to [behave]{behave} as you [like_1]{like} because you are not [married]{married} or [involved]{involved} in a [relationship]{relationship} with anyone",
+      "entry": "fancy-free",
+      "id": "fancy-free#fancy-free__1"
+    },
+    {
+      "comment": "not [married]{married} or [involved]{involved} in a [relationship]{relationship} with anyone",
+      "entry": "footloose",
+      "id": "footloose#footloose__1"
+    },
+    {
+      "comment": "[able_1]{able} to [travel_1]{travel} around and [behave]{behave} as you [like_1]{like} because you are not [married]{married} or [involved]{involved} in a [relationship]{relationship} with anyone",
+      "entry": "footloose and fancy-free",
+      "id": "footloose-and-fancy-free#footloose-and-fancy-free__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that two [people_1]{people} are not [have]{having} a [romantic_1]{romantic} [relationship]{relationship}. [people_1]{People} sometimes use this [expression]{expression} to [suggest]{suggest} that two [people_1]{people} [really]{really} are [have]{having} a [romantic_1]{romantic} [relationship]{relationship}, even though they [claim_1]{claim} they are not.",
+      "entry": "just (good) friends",
+      "id": "just-good-friends#just-good-friends__1"
+    },
+    {
+      "comment": "[living_1]{living} with someone and [have]{having} a [sexual]{sexual} [relationship]{relationship} with them, but not [married]{married}",
+      "entry": "live-in",
+      "id": "live-in_2#live-in_2__3"
+    },
+    {
+      "comment": "without a [husband]{husband}, [wife]{wife}, or [partner_1]{partner}",
+      "entry": "lone",
+      "id": "lone#lone__5"
+    },
+    {
+      "comment": "[married]{married}",
+      "entry": "m.",
+      "id": "m_3#m_3__5"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} [officially]{officially} whether you are [married]{married} or not",
+      "entry": "marital status",
+      "id": "marital-status#marital-status__1"
+    },
+    {
+      "comment": "someone who is [married]{married} has been [formally]{formally} [join_1]{joined} in [marriage]{marriage} with another [person]{person}",
+      "entry": "married",
+      "id": "married#married__1"
+    },
+    {
+      "comment": "[unlikely]{unlikely} to find a [partner_1]{partner} or get [married]{married}, [usually]{usually} because of being too [old]{old}",
+      "entry": "on the shelf",
+      "id": "on-the-shelf#on-the-shelf__3"
+    },
+    {
+      "comment": "no [long_1]{longer} [living_1]{living} with your [husband]{husband}, [wife]{wife}, or [sexual]{sexual} [partner_1]{partner}",
+      "entry": "separated",
+      "id": "separated#separated__1"
+    },
+    {
+      "comment": "not [married]{married}, or not in a [romantic_1]{romantic} [relationship]{relationship}",
+      "entry": "single",
+      "id": "single_1#single_1__4"
+    },
+    {
+      "comment": "[married]{married}, or in a serious [relationship]{relationship}",
+      "entry": "spoken for",
+      "id": "spoken-for#spoken-for__3"
+    },
+    {
+      "comment": "not [married]{married} or not [have]{having} a [boyfriend_1]{boyfriend} or [girlfriend]{girlfriend}",
+      "entry": "unattached",
+      "id": "unattached#unattached__1"
+    },
+    {
+      "comment": "not in a [romantic_1]{romantic} or [sexual]{sexual} [relationship]{relationship} with another [person]{person}",
+      "entry": "uninvolved",
+      "id": "uninvolved#uninvolved__2"
+    },
+    {
+      "comment": "not [married]{married}",
+      "entry": "unmarried",
+      "id": "unmarried#unmarried__1"
+    },
+    {
+      "comment": "[married]{married}, or [legally]{legally} [related_1]{related} by [marriage]{marriage}",
+      "entry": "wedded",
+      "id": "wedded#wedded__1"
+    },
+    {
+      "comment": "if someone is [widowed]{widowed}, their [husband]{husband} or [wife]{wife} has [die_1]{died}",
+      "entry": "widowed",
+      "id": "widowed#widowed__1"
+    },
+    {
+      "comment": "the state of being a widow or a widower",
+      "entry": "widowhood",
+      "id": "widowhood#widowhood__1"
+    }
+  ],
+  "thesaurus": "Marital status",
+  "type": "Related words"
+}

@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a very [large_1]{large} [rock_1]{rock} or [piece_1]{piece} of [stone_1]{stone}",
+      "entry": "boulder",
+      "id": "boulder#boulder__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [flint]{flint}",
+      "entry": "flint",
+      "id": "flint#flint__2"
+    },
+    {
+      "comment": "[small_1]{small} [piece_1]{pieces} of [stone_1]{stone} [used]{used} for [making]{making} [path]{paths} and [road]{roads}",
+      "entry": "gravel",
+      "id": "gravel#gravel__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [rock_1]{rock} that has [fallen_1]{fallen} from [space_1]{space} and [landed]{landed} on the [ground_1]{ground}",
+      "entry": "meteorite",
+      "id": "meteorite#meteorite__1"
+    },
+    {
+      "comment": "a [small_1]{small} [stone_1]{stone}, [especially]{especially} one that has been made [smooth_1]{smooth} by [water_1]{water}",
+      "entry": "pebble",
+      "id": "pebble#pebble__1"
+    },
+    {
+      "comment": "a [tall]{tall} thin [pointed]{pointed} [piece_1]{piece} of [stone_1]{stone} or [rock_1]{rock}",
+      "entry": "pinnacle",
+      "id": "pinnacle#pinnacle__4"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [stone_1]{stone} [lying]{lying} on the [ground_1]{ground}",
+      "entry": "rock",
+      "id": "rock_1#rock_1__4"
+    },
+    {
+      "comment": "a [small_1]{small} [stone_1]{stone}",
+      "entry": "rock",
+      "id": "rock_1#rock_1__6"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [stone_1]{stone} that [rise_1]{rises} up from the [ground_1]{ground} or from under the [ocean]{ocean}",
+      "entry": "rock",
+      "id": "rock_1#rock_1__8"
+    },
+    {
+      "comment": "[small_1]{small} [loose_1]{loose} [piece_1]{pieces} of [broken_1]{broken} [rock_1]{rock} at the bottom of a [cliff]{cliff} or along the [slope_1]{slopes} of a [mountain]{mountain}",
+      "entry": "scree",
+      "id": "scree#scree__1"
+    },
+    {
+      "comment": "[small_1]{small} [stone_1]{stones} on a [beach_1]{beach}",
+      "entry": "shingle",
+      "id": "shingle#shingle__1"
+    },
+    {
+      "comment": "a long thin piece of rock or a mineral",
+      "entry": "spar",
+      "id": "spar_2#spar_2__2"
+    },
+    {
+      "comment": "a long pointed piece of rock that hangs down from the roof of a cave, formed by chemicals in water drops that have fallen over many years",
+      "entry": "stalactite",
+      "id": "stalactite#stalactite__1"
+    },
+    {
+      "comment": "a long pointed piece of rock that rises up from the floor of a cave, formed by chemicals in water drops that have fallen from the roof over many years",
+      "entry": "stalagmite",
+      "id": "stalagmite#stalagmite__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [rock_1]{rock}",
+      "entry": "stone",
+      "id": "stone_1#stone_1__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [rock_1]{rock} that has been [cut_1]{cut} into a [shape_1]{shape} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "stone",
+      "id": "stone_1#stone_1__7"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [stone_1]{stone}, [clay]{clay}, etc. with [writing]{writing} [cut_1]{cut} into it",
+      "entry": "tablet",
+      "id": "tablet#tablet__10"
+    }
+  ],
+  "thesaurus": "Pieces of stone or rock",
+  "type": "Related words"
+}

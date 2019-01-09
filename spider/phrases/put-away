@@ -1,0 +1,46 @@
+{
+  "part": "phrase",
+  "phrase": "put away",
+  "senses": [
+    {
+      "def": "to put something in the [place_1]{place} where you [usually]{usually} keep it when you are not [use_1]{using} it",
+      "examples": [
+        "He put the [notebook]{notebook} [away_1]{away} and [stood]{stood} up."
+      ],
+      "id": "put-away__1"
+    },
+    {
+      "def": "to [eat]{eat} or [drink_1]{drink} a [lot_1]{lot} of something",
+      "examples": [
+        "They put [away_1]{away} [vast]{vast} [quantity]{quantities} of [hot]{hot} [dog_1]{dogs} between them."
+      ],
+      "id": "put-away__3"
+    },
+    {
+      "def": "to put someone in a [prison]{prison} or a [mental]{mental} [hospital]{hospital}",
+      "examples": [
+        "He [ought]{ought} to be put [away_1]{away} for a very long time."
+      ],
+      "id": "put-away__5"
+    },
+    {
+      "def": "to [save_1]{save} an amount of [money]{money}",
+      "examples": [
+        "[try_1]{Try} and put [away_1]{away} a [little_1]{little} each [month]{month}."
+      ],
+      "id": "put-away__7"
+    },
+    {
+      "def": "to [kill_1]{kill} someone",
+      "examples": [],
+      "id": "put-away__9"
+    },
+    {
+      "def": "to [score_1]{score} a [goal]{goal} by [kick_1]{kicking} or [hit_1]{hitting} the [ball_1]{ball} into the [net_1]{net}",
+      "examples": [
+        "The [fourth]{fourth} [goal]{goal} was put [away_1]{away} by Hamm."
+      ],
+      "id": "put-away__10"
+    }
+  ]
+}

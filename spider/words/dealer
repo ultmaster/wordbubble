@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [person]{person} or [company]{company} that [buy_1]{buys} and [sell_1]{sells} a [particular_1]{particular} [product]{product}",
+      "examples": [
+        "a used-car dealer",
+        "one of the [large_1]{largest} [new]{New} York art [dealer]{dealers}",
+        "a dealer in [expensive]{expensive} [leather]{leather} [goods]{goods}"
+      ],
+      "id": "dealer__1"
+    },
+    {
+      "def": "someone who [sell_1]{sells} [illegal_1]{illegal} [drug_1]{drugs}, [especially]{especially} on the [street_1]{street}",
+      "examples": [],
+      "id": "dealer__5"
+    },
+    {
+      "def": "the [person]{person} who [give_1]{gives} [card_1]{cards} to the [people_1]{people} [play_1]{playing} a [game_1]{game} of [card_1]{cards}",
+      "examples": [],
+      "id": "dealer__6"
+    }
+  ],
+  "word": "dealer"
+}

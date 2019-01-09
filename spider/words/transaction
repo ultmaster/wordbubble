@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [action_1]{action} or [process_1]{process} of [buy_1]{buying} or [selling]{selling} something",
+      "examples": [
+        "She had been [involved]{involved} in several [suspicious]{suspicious} [transaction]{transactions}.",
+        "The [sale]{sale} of [goods]{goods} is the most [common_1]{common} form of [commercial_1]{commercial} transaction.",
+        "[investor]{Investors} [feel_1]{feel} the [company]{company} is [enter]{entering} into too many [risky]{risky} [transaction]{transactions}."
+      ],
+      "id": "transaction__1"
+    },
+    {
+      "def": "the [process_1]{process} or [activity]{activity} of [doing]{doing} something, [usually]{usually} something [related_1]{related} to [business]{business}",
+      "examples": [
+        "the transaction of [business]{business}/[loan_1]{loans}"
+      ],
+      "id": "transaction__5"
+    },
+    {
+      "def": "a [discussion]{discussion} between two or more [people_1]{people} at a [meeting]{meeting}",
+      "examples": [],
+      "id": "transaction__7"
+    }
+  ],
+  "word": "transaction"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "roll in",
+  "senses": [
+    {
+      "def": "to [arrive]{arrive} in [large_1]{large} [number_1]{numbers} or [amount_1]{amounts}",
+      "examples": [
+        "[thousand#thousand__2]{Thousands} of [dollar]{dollars} [roll_1]{rolled} in on the first [day]{day} of our [fundraiser]{fundraiser}."
+      ],
+      "id": "roll-in__1"
+    },
+    {
+      "def": "to [arrive]{arrive} in a [relaxed]{relaxed} way [despite]{despite} being [late_1]{late}",
+      "examples": [
+        "Susan [roll_1]{rolled} in a [half]{half} [hour]{hour} after [rehearsal]{rehearsal} [began]{began}."
+      ],
+      "id": "roll-in__3"
+    }
+  ]
+}

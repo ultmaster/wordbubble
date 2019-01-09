@@ -1,0 +1,41 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if the [light_1]{light} [fade]{fades}, it [get]{gets} [dark_1]{dark}",
+      "examples": [
+        "The [sun_1]{sun} had [fade#fade__17]{faded} the red [curtain]{curtains}.",
+        "Marie\u2019s [smile_1]{smile} [slowly]{slowly} [fade#fade__17]{faded}.",
+        "His [bruise_1]{bruises} are [start_1]{starting} to fade now.",
+        "The [laughter]{laughter} [fade#fade__17]{faded} when they [saw_1]{saw} Karl\u2019s [face_1]{face}.",
+        "They [heard]{heard} [footstep]{footsteps} go [past_1]{past} the [room_1]{room}, then fade into the [distance_1]{distance}.",
+        "[hope_1]{Hopes} that he will be found [alive]{alive} are [fade]{fading}."
+      ],
+      "id": "fade__1"
+    },
+    {
+      "def": "to become less [famous_1]{famous} or less [important]{important}",
+      "examples": [
+        "After one hit [record_1]{record} he [rapid#rapid__6]{rapidly} [fade#fade__17]{faded} into [obscurity]{obscurity}."
+      ],
+      "id": "fade__12"
+    },
+    {
+      "def": "if a [flower_1]{flower} [fade]{fades}, it [start_1]{starts} to [die_1]{die}",
+      "examples": [],
+      "id": "fade__14"
+    },
+    {
+      "def": "if someone [fade]{fades}, they [lose]{lose} their [strength]{strength} and become [sick_1]{sick} or [die_1]{die}",
+      "examples": [],
+      "id": "fade__15"
+    },
+    {
+      "def": "if a [player]{player} or [team_1]{team} [fade]{fades}, they [stop_1]{stop} [perform]{performing} well and do not [win_1]{win}",
+      "examples": [],
+      "id": "fade__16"
+    }
+  ],
+  "word": "fade"
+}

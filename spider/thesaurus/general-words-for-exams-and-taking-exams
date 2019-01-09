@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [work_1]{work} or an [exam]{exam} done by a [student]{student} so that [teacher]{teachers} can [judge_1]{judge} their [level_1]{level} or [progress_1]{progress}",
+      "entry": "assessment",
+      "id": "assessment#assessment__6"
+    },
+    {
+      "comment": "not [good_1]{good} enough to [definitely]{definitely} [pass_1]{pass} an [examination]{examination}",
+      "entry": "borderline",
+      "id": "borderline_1#borderline_1__1"
+    },
+    {
+      "comment": "someone who is [take_1]{taking} an [examination]{examination}",
+      "entry": "candidate",
+      "id": "candidate#candidate__12"
+    },
+    {
+      "comment": "an [official_1]{official} [document_1]{document} [state_2]{stating} that you have [pass_1]{passed} an [examination]{examination}, [successful#successful__11]{successfully} [completed]{completed} a [course_1]{course}, or [achieve]{achieved} the [necessary_1]{necessary} [qualification]{qualifications} to [work_1]{work} in a [particular_1]{particular} [profession]{profession}",
+      "entry": "certificate",
+      "id": "certificate#certificate__2"
+    },
+    {
+      "comment": "a crib [note_1]{note}",
+      "entry": "cheat sheet",
+      "id": "cheat-sheet#cheat-sheet__1"
+    },
+    {
+      "comment": "a crib [note_1]{note}",
+      "entry": "crib",
+      "id": "crib_1#crib_1__5"
+    },
+    {
+      "comment": "a [sheet]{sheet} of [paper_1]{paper} [contain]{containing} [information]{information} that a [student]{student} [use_1]{uses} [dishonest#dishonest__3]{dishonestly} in an [examination]{examination}",
+      "entry": "crib note",
+      "id": "crib-note#crib-note__1"
+    },
+    {
+      "comment": "an [important]{important} [test_1]{test} of your [knowledge]{knowledge}, [especially]{especially} one that you take at [school_1]{school}",
+      "entry": "exam",
+      "id": "exam#exam__1"
+    },
+    {
+      "comment": "the [paper_1]{paper} on which [exam]{exam} [question_1]{questions} are [print_1]{printed} or on which you [write]{write} your [answer_1]{answers}",
+      "entry": "exam",
+      "id": "exam#exam__5"
+    },
+    {
+      "comment": "[relate]{relating} to an [exam]{exam} or [exam]{exams}",
+      "entry": "exam",
+      "id": "exam#exam__7"
+    },
+    {
+      "comment": "an [exam]{exam}",
+      "entry": "examination",
+      "id": "examination#examination__8"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [test_1]{test} [people_1]{people}\u2019s [knowledge]{knowledge} or [ability_1]{ability}",
+      "entry": "examiner",
+      "id": "examiner#examiner__1"
+    },
+    {
+      "comment": "a [mock_1]{mock} [test_1]{test}, [interview_1]{interview}, etc. is one that you do in [order_1]{order} to [practice_1]{practice} for a [real_1]{real} one",
+      "entry": "mock",
+      "id": "mock_2#mock_2__6"
+    },
+    {
+      "comment": "[give_1]{giving} you several [answer_1]{answers} from which you have to [choose]{choose} the one that you [think_1]{think} is [correct_1]{correct}",
+      "entry": "multiple-choice",
+      "id": "multiple-choice#multiple-choice__1"
+    },
+    {
+      "comment": "an [examination]{examination}, or the [answer_1]{answers} that a [student]{student} has [written_1]{written}",
+      "entry": "paper",
+      "id": "paper_1#paper_1__19"
+    },
+    {
+      "comment": "someone who is in [charge_1]{charge} of a [group_1]{group} of [student]{students} who are [take_1]{taking} an [examination]{examination}",
+      "entry": "proctor",
+      "id": "proctor#proctor__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [instruction]{instructions} at the [beginning]{beginning} of a [document_1]{document}",
+      "entry": "rubric",
+      "id": "rubric#rubric__3"
+    },
+    {
+      "comment": "a [set_1]{set} of [paper_1]{papers} that a [student]{student} [write]{writes} their [answer_1]{answers} on in an [examination]{examination}",
+      "entry": "script",
+      "id": "script_1#script_1__7"
+    },
+    {
+      "comment": "to [produce_1]{produce} [question_1]{questions} or an [examination]{examination} [paper_1]{paper} for [student]{students} to [answer_1]{answer}",
+      "entry": "set",
+      "id": "set_1#set_1__40"
+    },
+    {
+      "comment": "a set of written or spoken questions used for finding out how much someone knows about a subject. A test is less formal than an exam, and more formal than a quiz.",
+      "entry": "test",
+      "id": "test_1#test_1__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [give_1]{giving} someone or something an [examination]{examination}, or of [check_1]{checking} something to find out if it [work_1]{works}",
+      "entry": "testing",
+      "id": "testing_1#testing_1__1"
+    },
+    {
+      "comment": "if you get through an [examination]{examination} or [test_1]{test}, you [succeed]{succeed} in [passing_1]{passing} it",
+      "entry": "through",
+      "id": "through#through__52"
+    }
+  ],
+  "thesaurus": "General words for exams and taking exams",
+  "type": "Related words"
+}

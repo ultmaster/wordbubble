@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [plastic_1]{plastic} [cup_1]{cup} with [straight_1]{straight} sides [used]{used} for [drinking]{drinking}",
+      "entry": "beaker",
+      "id": "beaker#beaker__1"
+    },
+    {
+      "comment": "a large cup for wine, especially one used during the Christian ceremony of Holy Communion",
+      "entry": "chalice",
+      "id": "chalice#chalice__1"
+    },
+    {
+      "comment": "a [small_1]{small} round [container]{container} for a [drink_1]{drink}, [usually]{usually} with a [handle_1]{handle}",
+      "entry": "cup",
+      "id": "cup_1#cup_1__1"
+    },
+    {
+      "comment": "a tall narrow glass, especially one for drinking champagne",
+      "entry": "flute",
+      "id": "flute#flute__2"
+    },
+    {
+      "comment": "a [small_1]{small} [container]{container} made of [glass]{glass} [used]{used} for a [drink_1]{drink}",
+      "entry": "glass",
+      "id": "glass#glass__8"
+    },
+    {
+      "comment": "a [large_1]{large} [wine_1]{wine} [glass]{glass} with a [tall]{tall} stem",
+      "entry": "goblet",
+      "id": "goblet#goblet__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} or [glass]{glass} [cup_1]{cup} [used]{used} in the [past_1]{past} for [drinking]{drinking} [wine_1]{wine}",
+      "entry": "goblet",
+      "id": "goblet#goblet__2"
+    },
+    {
+      "comment": "a large cup with two or more handles that people drank from in turn at formal dinners in the past, sometimes used as a prize for a sports competition",
+      "entry": "loving cup",
+      "id": "loving-cup#loving-cup__1"
+    },
+    {
+      "comment": "a cup with straight sides and no saucer, used mainly for hot drinks",
+      "entry": "mug",
+      "id": "mug_1#mug_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [glass]{glass} with a [handle_1]{handle} [used]{used} for [drinking]{drinking} [beer]{beer}",
+      "entry": "mug",
+      "id": "mug_1#mug_1__3"
+    },
+    {
+      "comment": "a [large_1]{large} [glass]{glass} for [beer]{beer}",
+      "entry": "schooner",
+      "id": "schooner#schooner__2"
+    },
+    {
+      "comment": "a large glass for sherry  (=a type of strong wine)",
+      "entry": "schooner",
+      "id": "schooner#schooner__3"
+    },
+    {
+      "comment": "a glass shaped like a bowl used for drinking brandy",
+      "entry": "snifter",
+      "id": "snifter#snifter__1"
+    },
+    {
+      "comment": "a [large_1]{large} [cup_1]{cup} for [beer]{beer}, often with a [lid]{lid}",
+      "entry": "stein",
+      "id": "stein#stein__1"
+    },
+    {
+      "comment": "the long thin part of a [wine_1]{wine} [glass]{glass} that [join_1]{joins} the [bowl_1]{bowl} to the [base_1]{base}",
+      "entry": "stem",
+      "id": "stem_1#stem_1__3"
+    },
+    {
+      "comment": "a [large_1]{large} [metal_1]{metal} or [glass]{glass} [cup_1]{cup} for [drinking]{drinking} [beer]{beer} with a [handle_1]{handle} and sometimes with a [lid]{lid}",
+      "entry": "tankard",
+      "id": "tankard#tankard__1"
+    },
+    {
+      "comment": "a [cup_1]{cup} for [drinking]{drinking} [tea]{tea}",
+      "entry": "teacup",
+      "id": "teacup#teacup__1"
+    },
+    {
+      "comment": "a drinking glass without a handle or stem",
+      "entry": "tumbler",
+      "id": "tumbler#tumbler__1"
+    },
+    {
+      "comment": "a [glass]{glass} with a thin stem and a [base_1]{base}, [used]{used} for [drinking]{drinking} [wine_1]{wine}",
+      "entry": "wine glass",
+      "id": "wine-glass#wine-glass__1"
+    }
+  ],
+  "thesaurus": "Types of cup or glass",
+  "type": "Related words"
+}

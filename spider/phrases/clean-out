@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "clean out",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a [place_1]{place} or [container]{container} [clean_1]{clean} or [neat]{neat} by [remove]{removing} [object_1]{objects} that are not [wanted]{wanted} and [get]{getting} [rid_1]{rid} of any [dirt]{dirt} or [dust_1]{dust} in it",
+      "examples": [
+        "They [spent_1]{spent} the [day]{day} [cleaning]{cleaning} out the [garage_1]{garage}.",
+        "I\u2019ve [clean_2]{cleaned} out all the [junk_1]{junk} from the [cellar]{cellar}."
+      ],
+      "id": "clean-out__1"
+    },
+    {
+      "def": "to empty a [place_1]{place} of [object_1]{objects} or [goods]{goods}, [especially]{especially} by [steal_1]{stealing} or [buy_1]{buying} them in [large_1]{large} [quantity]{quantities}",
+      "examples": [
+        "[government]{Government} [soldier_1]{soldiers} [move_1]{moved} in and [clean_2]{cleaned} the [village_1]{village} out.",
+        "The [supermarket]{supermarkets} were [clean_2]{cleaned} out by [panic_2]{panicking} [shopper]{shoppers}."
+      ],
+      "id": "clean-out__5"
+    },
+    {
+      "def": "to use all of someone\u2019s [money]{money}",
+      "examples": [
+        "This will [clean_1]{clean} me out. I\u2019ll have to [sell_1]{sell} the [house_1]{house}."
+      ],
+      "id": "clean-out__8"
+    }
+  ]
+}

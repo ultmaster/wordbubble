@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "fight back",
+  "senses": [
+    {
+      "def": "to hit or [kick_1]{kick} someone who is [attack_2]{attacking} you",
+      "examples": [
+        "The [course_1]{course} [teach]{teaches} [women]{women} how to [fight_1]{fight} back if [attack_2]{attacked}."
+      ],
+      "id": "fight-back__1"
+    },
+    {
+      "def": "to [try_1]{try} to [stop_1]{stop} someone who has [criticize]{criticized} you, or something that has [harm_2]{harmed} you",
+      "examples": [
+        "The [concert]{concert} [organizer]{organizers} have [fought]{fought} back against their [critic]{critics}."
+      ],
+      "id": "fight-back__3"
+    },
+    {
+      "def": "if you [fight_1]{fight} back an [emotion]{emotion}, you [try_1]{try} very [hard_1]{hard} not to show it",
+      "examples": [
+        "Mary [bit_1]{bit} her [lip]{lip} and [fought]{fought} back her [tear_1]{tears}."
+      ],
+      "id": "fight-back__5"
+    }
+  ]
+}

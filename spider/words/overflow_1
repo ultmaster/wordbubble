@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [flow_1]{flow} over the top of a [container]{container} because it is too full",
+      "examples": [
+        "The [bathtub]{bathtub}\u2019s [overflow_1]{overflowing}!",
+        "[ashtray]{ashtrays} [overflow_1]{overflowing} with [cigarette]{cigarette} [end_1]{ends}",
+        "The [river]{river} has [overflow_1]{overflowed} its [bank_1]{banks}."
+      ],
+      "id": "overflow_1__1"
+    },
+    {
+      "def": "if a [place_1]{place} [overflow_1]{overflows} with [people_1]{people}, or if [people_1]{people} overflow a [place_1]{place}, there are too many of them to [fit_1]{fit} into it",
+      "examples": [
+        "The [crowd_1]{crowd} [began]{began} to overflow the [hall]{hall}.",
+        "[hospital]{hospitals} [overflow_1]{overflowing} with [victim]{victims} of the [earthquake]{earthquake}"
+      ],
+      "id": "overflow_1__6"
+    },
+    {
+      "def": "to [feel_1]{feel} an [emotion]{emotion} very [strongly]{strongly}",
+      "examples": [
+        "Her [heart_1]{heart} was [overflow_1]{overflowing} with [joy]{joy}."
+      ],
+      "id": "overflow_1__9"
+    }
+  ],
+  "word": "overflow"
+}

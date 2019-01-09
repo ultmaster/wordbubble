@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "[feeling_1]{feeling} [strong]{strong}, [healthy]{healthy}, full of [energy]{energy}, or [happy_1]{happy} again",
+      "entry": "restored",
+      "id": "restored#restored__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [healthy]{healthy}, [strong]{strong}, or full of [energy]{energy} again because you have had a rest",
+      "entry": "rested",
+      "id": "rested#rested__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [healthy]{healthy}, [relaxed]{relaxed}, and full of [energy]{energy} again after an [illness]{illness} or a [period_1]{period} of being [tired]{tired}",
+      "entry": "renewed",
+      "id": "renewed#renewed__4"
+    },
+    {
+      "comment": "[feeling_1]{feeling} more [lively]{lively} and [comfortable]{comfortable} after you have [rested]{rested}, [wash_1]{washed}, [eaten]{eaten}, etc.",
+      "entry": "refreshed",
+      "id": "refreshed#refreshed__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone is not as [sick_1]{sick} as they were before, or that something is not as [painful]{painful} as it was before",
+      "entry": "better",
+      "id": "better_1#better_1__10"
+    },
+    {
+      "comment": "out of [bed_1]{bed}, for [example]{example} after an [illness]{illness}, and [able_1]{able} to [live_1]{live} a [normal_1]{normal} [life]{life}",
+      "entry": "up and about",
+      "id": "up-and-about#up-and-about__1"
+    }
+  ],
+  "thesaurus": "Feeling better",
+  "type": "Synonyms"
+}

@@ -1,0 +1,40 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an amount of something such as a [feeling_1]{feeling} or a [quality_1]{quality}",
+      "examples": [
+        "The [job_1]{job} [require]{requires} a [high_1]{high} degree of [skill]{skill}.",
+        "The [school_1]{schools} have had [varying]{varying} [degree]{degrees} of [success]{success} in [improve_1]{improving} their [test_1]{test} [score_1]{scores}.",
+        "The [project_1]{project} has had some degree of [success]{success}.",
+        "What you [say_1]{say} is [true_1]{true} to some degree.",
+        "To a [large_1]{large} degree it is [parent]{parents} who should take the [blame_1]{blame}."
+      ],
+      "id": "degree__1"
+    },
+    {
+      "def": "a [qualification]{qualification} that you get after [complete_2]{completing} a [course_1]{course} at a [college]{college} or [university]{university}",
+      "examples": [
+        "a [biology]{biology} degree",
+        "a [master_1]{master}\u2019s degree in English [literature]{literature}"
+      ],
+      "id": "degree__7"
+    },
+    {
+      "def": "a [unit]{unit} for [measure_2]{measuring} [temperature]{temperature}. Measurements are often expressed as a number followed by the symbol \u00b0",
+      "examples": [
+        "It will [probably]{probably} be a few [degree]{degrees} [cold_1]{colder} by the [weekend_1]{weekend}.",
+        "82\u00b0 Fahrenheit"
+      ],
+      "id": "degree__10"
+    },
+    {
+      "def": "a [unit]{unit} for [measure_2]{measuring} [angle_1]{angles}. Measurements are often expressed as a number followed by the symbol \u00b0",
+      "examples": [
+        "The two [lines]{lines} [meet_1]{meet} at a 90\u00b0 [angle_1]{angle}."
+      ],
+      "id": "degree__13"
+    }
+  ],
+  "word": "degree"
+}

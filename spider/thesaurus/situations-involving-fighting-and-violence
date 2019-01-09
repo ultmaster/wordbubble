@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [situation]{situation} in which one [country]{country} [attack_1]{attacks} another",
+      "entry": "aggression",
+      "id": "aggression#aggression__1"
+    },
+    {
+      "comment": "[fighting]{fighting} between [country]{countries} or [group_1]{groups}",
+      "entry": "conflict",
+      "id": "conflict_1#conflict_1__7"
+    },
+    {
+      "comment": "[extreme_1]{extreme} [violence]{violence}, [especially]{especially} when it is [deliberately]{deliberately} [cruel]{cruel}",
+      "entry": "brutalities",
+      "id": "brutality#brutality__1"
+    },
+    {
+      "comment": "[fighting]{fighting}, [violence]{violence}, or [bad_1]{bad} [behavior]{behavior}",
+      "entry": "trouble",
+      "id": "trouble_1#trouble_1__42"
+    },
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people} are [kill_1]{killed} or [injured]{injured}, [especially]{especially} during [fighting]{fighting}",
+      "entry": "bloodshed",
+      "id": "bloodshed#bloodshed__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which many [people_1]{people} are [kill_1]{killed} and [injured]{injured} in [fighting]{fighting}",
+      "entry": "bloodletting",
+      "id": "bloodletting#bloodletting__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [fighting]{fighting} in which a [lot_1]{lot} of [people_1]{people} are [kill_1]{killed} or [injured]{injured}",
+      "entry": "bloodbath",
+      "id": "bloodbath#bloodbath__1"
+    },
+    {
+      "comment": "[used]{used} as a way of [refer]{referring} to [violence]{violence} and [death]{death}",
+      "entry": "blood",
+      "id": "blood#blood__8"
+    },
+    {
+      "comment": "[exciting]{exciting} [action_1]{action}, [including]{including} [violence]{violence}",
+      "entry": "blood and guts",
+      "id": "blood-and-guts#blood-and-guts__1"
+    }
+  ],
+  "thesaurus": "Situations involving fighting and violence",
+  "type": "Synonyms"
+}

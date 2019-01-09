@@ -1,0 +1,171 @@
+{
+  "entries": [
+    {
+      "comment": "the amount of information that can be sent each second over a network connection. A broadband Internet connection has high bandwidth.",
+      "entry": "bandwidth",
+      "id": "bandwidth#bandwidth__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} the [speed_1]{speed} at which [information]{information} is [sent]{sent} to or from a computer",
+      "entry": "baud",
+      "id": "baud#baud__1"
+    },
+    {
+      "comment": "the most [basic_1]{basic} [unit]{unit} of [information]{information} that can be [store_2]{stored} in a computer",
+      "entry": "bit",
+      "id": "bit_1#bit_1__10"
+    },
+    {
+      "comment": "an amount of [information]{information} [considered]{considered} as one [unit]{unit}, [used]{used} when [writing]{writing} computer [program_1]{programs}",
+      "entry": "block",
+      "id": "block_1#block_1__12"
+    },
+    {
+      "comment": "a [proposed]{proposed} [unit]{unit} for [measure_2]{measuring} computer [information]{information}, [equal_1]{equal} to 10 to the [power_1]{power} of 27, or [roughly]{roughly} 1000 [yottabyte]{yottabytes}",
+      "entry": "brontobyte",
+      "id": "brontobyte#brontobyte__1"
+    },
+    {
+      "comment": "a basic unit for storing computer information, used for measuring the size of a document. A byte is usually made up of eight bits. The written abbreviation is B.",
+      "entry": "byte",
+      "id": "byte#byte__1"
+    },
+    {
+      "comment": "the amount of information that can be stored on a computer or on a CD or floppy disk",
+      "entry": "capacity",
+      "id": "capacity#capacity__5"
+    },
+    {
+      "comment": "the [speed_1]{speed} at which a computer [work_1]{works}",
+      "entry": "clock speed",
+      "id": "clock-speed#clock-speed__1"
+    },
+    {
+      "comment": "[character]{characters} per [second_1]{second}: a [measure_1]{measure} of how [fast_1]{fast} [information]{information} [move_1]{moves} from one computer or [file_1]{file} to another",
+      "entry": "cps",
+      "id": "cps#cps__1"
+    },
+    {
+      "comment": "[dot_1]{dots} per [inch_1]{inch}: a [measurement]{measurement} of the [ability_1]{ability} of a computer [screen_1]{screen} or [printer]{printer} to [produce_1]{produce} a [clear_1]{clear} [image_1]{image}",
+      "entry": "dpi",
+      "id": "dpi#dpi__1"
+    },
+    {
+      "comment": "a unit for measuring the capacity of a computer system, equivalent to 1018 bytes. The written abbreviation is EB.",
+      "entry": "exabyte",
+      "id": "exabyte#exabyte__1"
+    },
+    {
+      "comment": "[gigahertz]{gigahertz}",
+      "entry": "GHz",
+      "id": "ghz#ghz__1"
+    },
+    {
+      "comment": "a unit for measuring computer information, equal to 1,024 megabytes. The written abbreviation is GB.",
+      "entry": "gigabyte",
+      "id": "gigabyte#gigabyte__1"
+    },
+    {
+      "comment": "a unit for measuring sound waves, radio waves, and computer speed",
+      "entry": "gigahertz",
+      "id": "gigahertz#gigahertz__1"
+    },
+    {
+      "comment": "[kilobyte]{kilobyte}",
+      "entry": "K",
+      "id": "k_2#k_2__1"
+    },
+    {
+      "comment": "[kilobyte]{kilobyte}",
+      "entry": "kb",
+      "id": "kb#kb__1"
+    },
+    {
+      "comment": "kilobits per second: a unit for measuring the speed of a modem",
+      "entry": "kbps",
+      "id": "kbps#kbps__1"
+    },
+    {
+      "comment": "a unit for measuring computer information, containing 1024 bits",
+      "entry": "kilobit",
+      "id": "kilobit#kilobit__1"
+    },
+    {
+      "comment": "a unit for measuring computer information, containing 1024 bytes. The written abbreviation is kB.",
+      "entry": "kilobyte",
+      "id": "kilobyte#kilobyte__1"
+    },
+    {
+      "comment": "megabyte: a unit for measuring the size of a computer\u2019s memory, equal to just over one million bytes",
+      "entry": "Mb",
+      "id": "mb_1#mb_1__1"
+    },
+    {
+      "comment": "megabits per second: a unit for measuring the speed of a modem",
+      "entry": "mbps",
+      "id": "mbps#mbps__1"
+    },
+    {
+      "comment": "a [megabyte]{megabyte}",
+      "entry": "meg",
+      "id": "meg#meg__1"
+    },
+    {
+      "comment": "a million bits  (=the smallest unit of information that can be used by a computer)",
+      "entry": "megabit",
+      "id": "megabit#megabit__1"
+    },
+    {
+      "comment": "a unit for measuring the size of a computer\u2019s memory, equal to just over one million bytes. The written abbreviation is MB.",
+      "entry": "megabyte",
+      "id": "megabyte#megabyte__1"
+    },
+    {
+      "comment": "a unit most often used for measuring the speed of a computer\u2019s processor or memory, equal to one million hertz",
+      "entry": "megahertz",
+      "id": "megahertz#megahertz__1"
+    },
+    {
+      "comment": "a unit for measuring the speed at which images can be sent from one computer to another or the amount of detail you can see on a computer screen, equal to just over one million pixels",
+      "entry": "megapixel",
+      "id": "megapixel#megapixel__1"
+    },
+    {
+      "comment": "[megahertz]{megahertz}",
+      "entry": "MHz",
+      "id": "mhz#mhz__1"
+    },
+    {
+      "comment": "[million]{million} [instruction]{instructions} per [second_1]{second}: a [unit]{unit} for [measure_2]{measuring} computer [speed_1]{speed}",
+      "entry": "mips",
+      "id": "mips#mips__1"
+    },
+    {
+      "comment": "a unit for measuring the capacity of a computer system, equivalent to 1015 bytes. The written abbreviation is PB.",
+      "entry": "petabyte",
+      "id": "petabyte#petabyte__1"
+    },
+    {
+      "comment": "the [small_1]{smallest} [unit]{unit} of an [image_1]{image} on a computer [screen_1]{screen}",
+      "entry": "pixel",
+      "id": "pixel#pixel__1"
+    },
+    {
+      "comment": "a unit for measuring the capacity of a computer system, equivalent to 1012 bytes. The written abbreviation is TB.",
+      "entry": "terabyte",
+      "id": "terabyte#terabyte__1"
+    },
+    {
+      "comment": "a unit for measuring the capacity of a computer system, equivalent to 1024 bytes. The written abbreviation is YB.",
+      "entry": "yottabyte",
+      "id": "yottabyte#yottabyte__1"
+    },
+    {
+      "comment": "a unit for measuring the capacity of a computer system, equivalent to 1021 bytes. The written abbreviation is ZB.",
+      "entry": "zettabyte",
+      "id": "zettabyte#zettabyte__1"
+    }
+  ],
+  "thesaurus": "Units for measuring computer information or speed",
+  "type": "Related words"
+}

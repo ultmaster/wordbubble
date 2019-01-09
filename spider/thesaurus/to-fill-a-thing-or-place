@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something full",
+      "entry": "fill",
+      "id": "fill_1#fill_1__1"
+    },
+    {
+      "comment": "if [people_1]{people} [cram]{cram} a [place_1]{place}, they fill it [completely]{completely}",
+      "entry": "cram",
+      "id": "cram#cram__5"
+    },
+    {
+      "comment": "to fill a [container]{container} or [space_1]{space} with something, [especially]{especially} something [soft]{soft}",
+      "entry": "stuff",
+      "id": "stuff_2#stuff_2__3"
+    },
+    {
+      "comment": "if a [group_1]{group} of [people_1]{people} [crowd_1]{crowd} a [place_1]{place}, they [make_1]{make} it full by being in it",
+      "entry": "crowd",
+      "id": "crowd_2#crowd_2__4"
+    },
+    {
+      "comment": "to fill a [place_1]{place} with [thing]{things} that you will [need_1]{need}",
+      "entry": "stock",
+      "id": "stock_2#stock_2__3"
+    },
+    {
+      "comment": "to fill a [place_1]{place} [completely]{completely}",
+      "entry": "pack",
+      "id": "pack_1#pack_1__12"
+    },
+    {
+      "comment": "to fill a [place_1]{place} so that it is [difficult]{difficult} to move",
+      "entry": "choke",
+      "id": "choke_1#choke_1__8"
+    },
+    {
+      "comment": "if [people_1]{people} or [thing]{things} [jam_1]{jam} a [place_1]{place}, there are so many of them that it is [difficult]{difficult} to move",
+      "entry": "jam",
+      "id": "jam_2#jam_2__5"
+    },
+    {
+      "comment": "to fill something [completely]{completely} with a [large_1]{large} [number_1]{number} of [thing]{things} or with a [large_1]{large} amount of something",
+      "entry": "saturate",
+      "id": "saturate#saturate__3"
+    },
+    {
+      "comment": "to fill something with a [lot_1]{lot} of [people_1]{people} or [thing]{things}",
+      "entry": "pack in",
+      "id": "pack-in#pack-in__3"
+    }
+  ],
+  "thesaurus": "To fill a thing or place",
+  "type": "Synonyms"
+}

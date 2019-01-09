@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[able_1]{able} to [speak_1]{speak} a [foreign]{foreign} [language]{language} very well",
+      "examples": [
+        "I\u2019m fluent in three [language]{languages}.",
+        "Steve [speak_1]{speaks} fluent Japanese."
+      ],
+      "id": "fluent__1"
+    },
+    {
+      "def": "[express_1]{expressing} yourself in a [clear_1]{clear} and [confident]{confident} way, without seeming to [make_1]{make} an [effort]{effort}",
+      "examples": [
+        "As a [lecturer]{lecturer}, she is fluent, [witty]{witty}, but also [scholarly]{scholarly}.",
+        "his fluent [uncomplicated]{uncomplicated} [style_1]{style} of [writing]{writing}"
+      ],
+      "id": "fluent__5"
+    },
+    {
+      "def": "a fluent [reader]{reader} can read without any [difficulty]{difficulties}",
+      "examples": [],
+      "id": "fluent__8"
+    },
+    {
+      "def": "fluent [movement]{movements} are [smooth_1]{smooth} and seem to be done without any [effort]{effort}",
+      "examples": [],
+      "id": "fluent__9"
+    }
+  ],
+  "word": "fluent"
+}

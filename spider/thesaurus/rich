@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is [cash-rich]{cash-rich} has a [lot_1]{lot} of [money]{money}, but very [little_1]{little} time to [spend]{spend} it, [making]{making} them [time-poor]{time-poor}",
+      "entry": "cash-rich",
+      "id": "cash-rich#cash-rich__1"
+    },
+    {
+      "comment": "a [cash-rich]{cash-rich} [person]{person}, [business]{business} or [economy_1]{economy} has a [lot_1]{lot} of [money]{money} [available]{available} to [spend]{spend} and [invest]{invest}",
+      "entry": "cash-rich",
+      "id": "cash-rich#cash-rich__3"
+    },
+    {
+      "comment": "someone who is [time-poor]{time-poor} has very [little_1]{little} [free_1]{free} time, and so even though they may have [plenty]{plenty} of [money]{money} they do not have much [leisure]{leisure} time to [spend]{spend} it",
+      "entry": "time-poor",
+      "id": "time-poor#time-poor__1"
+    },
+    {
+      "comment": "[own_2]{owning} a [lot_1]{lot} of [money]{money}, [property]{property}, or [valuable]{valuable} [possession]{possessions}",
+      "entry": "the rich",
+      "id": "rich_1#rich_1__1"
+    },
+    {
+      "comment": "a [wealthy]{wealthy} [person]{person}, [organization]{organization}, or [country]{country} is one that has a [large_1]{large} amount of [money]{money}, [land_1]{land}, and other [valuable]{valuable} [thing]{things}",
+      "entry": "the wealthy",
+      "id": "wealthy#wealthy__1"
+    },
+    {
+      "comment": "[rich_1]{rich} and [successful]{successful}",
+      "entry": "prosperous",
+      "id": "prosperous#prosperous__1"
+    },
+    {
+      "comment": "[rich_1]{rich} enough to [buy_1]{buy} [thing]{things} for [pleasure]{pleasure}",
+      "entry": "affluent",
+      "id": "affluent#affluent__1"
+    },
+    {
+      "comment": "[rich_1]{rich}",
+      "entry": "well-to-do",
+      "id": "well-to-do#well-to-do__1"
+    },
+    {
+      "comment": "[rich_1]{rich} enough to [pay_1]{pay} for everything you [need_1]{need}",
+      "entry": "comfortably off",
+      "id": "comfortably-off#comfortably-off__1"
+    },
+    {
+      "comment": "[rich_1]{rich}, or [have]{having} enough [money]{money} to [live_1]{live} well",
+      "entry": "well-off",
+      "id": "well-off#well-off__1"
+    }
+  ],
+  "thesaurus": "Rich",
+  "type": "Synonyms"
+}

@@ -1,0 +1,16 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [hold_1]{hold} something in [position_1]{position} by [put]{putting} something under or against it, or by [leaning]{leaning} it against something else",
+      "examples": [
+        "I [notice_1]{noticed} a red [bicycle]{bicycle} [prop_2]{propped} against the [wall_1]{wall}.",
+        "She [look_1]{looked} at me [sleepy#sleepy__5]{sleepily}, [head_1]{head} [prop_2]{propped} on her [hand_1]{hands}.",
+        "[prop_1]{Prop} the [door_1]{door} [open_1]{open} behind you so we don\u2019t get [lock_1]{locked} out."
+      ],
+      "id": "prop_2__1"
+    }
+  ],
+  "word": "prop"
+}

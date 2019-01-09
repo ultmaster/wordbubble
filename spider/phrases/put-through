@@ -1,0 +1,39 @@
+{
+  "part": "phrase",
+  "phrase": "put through",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone do or [experience_1]{experience} something [difficult]{difficult} or [unpleasant]{unpleasant}",
+      "examples": [
+        "[children]{Children} shouldn\u2019t be put through the [ordeal]{ordeal} of [give_1]{giving} [evidence_1]{evidence} in [court_1]{court}.",
+        "The [player]{players} are put through a [daily_1]{daily} [exercise_1]{exercise} [program_1]{program}.",
+        "He [really]{really} put [jones_1]{Jones} through it when the [report_1]{reports} were [late_1]{late}."
+      ],
+      "id": "put-through__1"
+    },
+    {
+      "def": "to [test_1]{test} someone or something in [order_1]{order} to [make_1]{make} [sure_1]{sure} everything is [working]{working} [correctly]{correctly}",
+      "examples": [
+        "He was put through a [series]{series} of [test_1]{tests} to [discover]{discover} what was [wrong_1]{wrong} with him.",
+        "The [drug_1]{drug} has been put through several [trial_1]{trials}."
+      ],
+      "id": "put-through__5"
+    },
+    {
+      "def": "to [make_1]{make} it [certain_1]{certain} that something is [accepted]{accepted}, [approved]{approved}, or [successful#successful__11]{successfully} [completed]{completed}",
+      "examples": [
+        "Their [huge]{huge} [majority]{majority} [means]{means} they can put through [virtually]{virtually} any [legislation]{legislation} they [want_1]{want}.",
+        "A [string_1]{string} of [similar]{similar} [measure_1]{measures} had already been put through the [city]{city} [council]{council}."
+      ],
+      "id": "put-through__8"
+    },
+    {
+      "def": "if you put a [person]{person} or call through, you [connect]{connect} someone to the [person]{person} they [want_1]{want} to [speak_1]{speak} to on the [telephone_1]{telephone}",
+      "examples": [
+        "The [switchboard]{switchboard} [operator]{operator} [refuse_1]{refused} to put the call through.",
+        "Can you put me through to the [accounting]{accounting} [department]{department}, please?"
+      ],
+      "id": "put-through__11"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fall back",
+  "senses": [
+    {
+      "def": "to move so that you are behind someone or something",
+      "examples": [
+        "Oliver and Sara [fell_1]{fell} back and [start_1]{started} [talk_1]{talking}."
+      ],
+      "id": "fall-back__1"
+    },
+    {
+      "def": "to become [small_1]{smaller} or [lower_1]{lower} in amount, [level_1]{level}, [value_1]{value}, etc.",
+      "examples": [
+        "[profit_1]{Profits} [fell_1]{fell} back [slightly]{slightly} this [month]{month}."
+      ],
+      "id": "fall-back__3"
+    }
+  ]
+}

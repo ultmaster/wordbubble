@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "in the background",
+  "senses": [
+    {
+      "def": "behind the [main_1]{main} [person]{person} or thing you are [look_1]{looking} at",
+      "examples": [
+        "a [picture_1]{picture} of [palm_1]{palm} [tree]{trees} with [mountain]{mountains} in the [background]{background}"
+      ],
+      "id": "in-the-background__1"
+    },
+    {
+      "def": "a [sound_1]{sound} in the [background]{background} can be [heard]{heard} in [addition]{addition} to the [main_1]{main} thing you are [listen_1]{listening} to",
+      "examples": [
+        "I could [hear]{hear} a TV in the [background]{background}."
+      ],
+      "id": "in-the-background__3"
+    },
+    {
+      "def": "in a [place_1]{place} or [situation]{situation} in which [people_1]{people} do not [notice_1]{notice} you",
+      "examples": [
+        "Jo [does]{does} the [publicity]{publicity} [work_1]{work}, while Ed [stay_1]{stays} [pretty_1]{pretty} much in the [background]{background}."
+      ],
+      "id": "in-the-background__5"
+    }
+  ]
+}

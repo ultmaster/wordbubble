@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [bread]{bread}, [cake]{cakes}, etc. [use_1]{using} an [oven]{oven}",
+      "entry": "bake",
+      "id": "bake#bake__1"
+    },
+    {
+      "comment": "a [building]{building} where [bread]{bread}, [cake]{cakes}, etc. are made or [sold]{sold}",
+      "entry": "bakery",
+      "id": "bakery#bakery__1"
+    },
+    {
+      "comment": "the hard brown outer part of a loaf of bread",
+      "entry": "crust",
+      "id": "crust#crust__1"
+    },
+    {
+      "comment": "crusty bread is covered with a hard crust",
+      "entry": "crusty",
+      "id": "crusty#crusty__1"
+    },
+    {
+      "comment": "a mixture of flour, water, shortening, etc. that is baked to make bread or pastry",
+      "entry": "dough",
+      "id": "dough#dough__1"
+    },
+    {
+      "comment": "to prepare dough or clay by pressing it continuously",
+      "entry": "knead",
+      "id": "knead#knead__1"
+    },
+    {
+      "comment": "to add yeast to a bread mixture so that it will contain air and will be bigger and lighter",
+      "entry": "leaven",
+      "id": "leaven_1#leaven_1__1"
+    },
+    {
+      "comment": "a substance such as yeast that is added to a bread mixture so that it will contain air and will be bigger and lighter",
+      "entry": "leaven",
+      "id": "leaven_2#leaven_2__1"
+    },
+    {
+      "comment": "leavened bread is made with a substance such as yeast so that it contains air and is bigger and lighter",
+      "entry": "leavened",
+      "id": "leavened#leavened__1"
+    },
+    {
+      "comment": "small black seeds from poppy flowers that are put on the surface of some types of bread or cakes",
+      "entry": "poppyseed",
+      "id": "poppyseed#poppyseed__1"
+    },
+    {
+      "comment": "if bread proves, it increases in size before it is baked because of the yeast it contains",
+      "entry": "prove",
+      "id": "prove#prove__11"
+    },
+    {
+      "comment": "if something such as bread or a cake rises, it increases in size and height when it is cooked or when yeast is added",
+      "entry": "rise",
+      "id": "rise_1#rise_1__28"
+    },
+    {
+      "comment": "unleavened bread is flat or heavy because it contains no yeast",
+      "entry": "unleavened",
+      "id": "unleavened#unleavened__1"
+    },
+    {
+      "comment": "a [white_1]{white} [substance]{substance} [used]{used} for [making]{making} [bread]{bread} [rise_1]{rise} or for [making]{making} [beer]{beer}",
+      "entry": "yeast",
+      "id": "yeast#yeast__1"
+    }
+  ],
+  "thesaurus": "Bread baking and ingredients",
+  "type": "Related words"
+}

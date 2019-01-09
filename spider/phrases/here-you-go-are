@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "here you go/are",
+  "senses": [
+    {
+      "def": "[used]{used} when you are [give_1]{giving} someone something that they have [ask_1]{asked} for or that they have [just_1]{just} [bought]{bought}",
+      "examples": [
+        "Here you go [sir]{sir}. I\u2019m [sure_1]{sure} she will [love_1]{love} these.",
+        "Here you are, [help_1]{help} yourself."
+      ],
+      "id": "here-you-go-are__1"
+    },
+    {
+      "def": "[used]{used} to show that you are about to [tell_1]{tell} someone something",
+      "examples": [
+        "So here you go, the top 5 [thing]{things} you [need_1]{need} to [know_1]{know}."
+      ],
+      "id": "here-you-go-are__4"
+    }
+  ]
+}

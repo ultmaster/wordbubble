@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [year]{years} from 1980 to 1989",
+      "examples": [
+        "The [club_1]{club} went through a [bad_1]{bad} [period_1]{period} in the eighties.",
+        "eighties [pop_1]{pop} [music]{music}"
+      ],
+      "id": "eighties__1"
+    },
+    {
+      "def": "a [temperature]{temperature} in the eighties is between 80 and 89 [degree]{degrees} [fahrenheit_1]{Fahrenheit}",
+      "examples": [
+        "It\u2019s [going_1]{going} to be another [scorcher]{scorcher} [tomorrow_1]{tomorrow}, with [temperature]{temperatures} in the eighties."
+      ],
+      "id": "eighties__4"
+    }
+  ],
+  "word": "eighties"
+}

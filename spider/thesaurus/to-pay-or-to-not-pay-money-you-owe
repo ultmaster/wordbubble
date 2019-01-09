@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "to [pay_1]{pay} back [money]{money} that you owe by [making]{making} [payment]{payments} at [regular_1]{regular} times",
+      "entry": "amortize",
+      "id": "amortize#amortize__1"
+    },
+    {
+      "comment": "to pay back all of the money that you owe to the person you borrowed it from",
+      "entry": "clear",
+      "id": "clear_2#clear_2__29"
+    },
+    {
+      "comment": "to [pay_1]{pay} interest both on an amount of [money]{money} as well as on the interest that has been [added]{added} to it",
+      "entry": "compound",
+      "id": "compound_3#compound_3__1"
+    },
+    {
+      "comment": "to [fail_1]{fail} to [pay_1]{pay} [money]{money} that you owe",
+      "entry": "default",
+      "id": "default_2#default_2__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} what you owe to someone",
+      "entry": "discharge",
+      "id": "discharge_1#discharge_1__14"
+    },
+    {
+      "comment": "the [payment]{payment} of [money]{money} that you owe",
+      "entry": "discharge",
+      "id": "discharge_2#discharge_2__13"
+    },
+    {
+      "comment": "if a country or bank forgives a debt, they decide that the debt does not have to be paid back",
+      "entry": "forgive",
+      "id": "forgive#forgive__6"
+    },
+    {
+      "comment": "to [lose]{lose} [money]{money}, owe [money]{money}, or have to [pay_1]{pay} [money]{money} as a [result_1]{result} of [doing]{doing} something",
+      "entry": "incur",
+      "id": "incur#incur__5"
+    },
+    {
+      "comment": "to [pay_1]{pay} [money]{money} that you owe",
+      "entry": "liquidate",
+      "id": "liquidate#liquidate__2"
+    },
+    {
+      "comment": "the [payment]{payment} of [money]{money} that is [owe]{owed}",
+      "entry": "liquidation",
+      "id": "liquidation#liquidation__3"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [business]{business} has [money]{money} or [property]{property} that it can [sell_1]{sell} in [order_1]{order} to [pay_1]{pay} [money]{money} that it [owe]{owes}",
+      "entry": "liquidity",
+      "id": "liquidity#liquidity__1"
+    },
+    {
+      "comment": "to do or [pay_1]{pay} what you have [said_1]{said} you would",
+      "entry": "make good (on) a promise/threat/debt etc.",
+      "id": "make-good-on-a-promise-threat-debt-etc#make-good-on-a-promise-threat-debt-etc__1"
+    },
+    {
+      "comment": "if you [buy_1]{buy} something on [account_1]{account}, you take it now and [pay_1]{pay} for it [later_1]{later}",
+      "entry": "on account",
+      "id": "on-account#on-account__1"
+    },
+    {
+      "comment": "if you [pay_1]{pay} an amount of [money]{money} on [account_1]{account}, you [pay_1]{pay} part of what you owe now and you [pay_1]{pay} the rest [later_1]{later}",
+      "entry": "on account",
+      "id": "on-account#on-account__2"
+    },
+    {
+      "comment": "to [pay_1]{pay} more [money]{money} than you owe",
+      "entry": "overpay",
+      "id": "overpay#overpay__1"
+    },
+    {
+      "comment": "to give a [company]{company}, [institution]{institution}, etc. [money]{money} that you owe them",
+      "entry": "pay",
+      "id": "pay_1#pay_1__15"
+    },
+    {
+      "comment": "to give someone the same amount of [money]{money} that you [borrow]{borrowed} from them",
+      "entry": "pay back",
+      "id": "pay-back#pay-back__1"
+    },
+    {
+      "comment": "to pay a debt  (=an amount of money you owe) in small amounts over a long period of time",
+      "entry": "pay down",
+      "id": "pay-down#pay-down__1"
+    },
+    {
+      "comment": "to give someone all the [money]{money} that you have [borrow]{borrowed} from them to [buy_1]{buy} something",
+      "entry": "pay off",
+      "id": "pay-off#pay-off__7"
+    },
+    {
+      "comment": "to [pay_1]{pay} [money]{money} that you owe, [especially]{especially} when you are [unwilling]{unwilling} to [pay_1]{pay}",
+      "entry": "pay up",
+      "id": "pay-up#pay-up__1"
+    },
+    {
+      "comment": "to give all the [money]{money} that you have [borrow]{borrowed} to the [person]{person} who you [borrow]{borrowed} it from",
+      "entry": "redeem",
+      "id": "redeem#redeem__8"
+    },
+    {
+      "comment": "to give someone [money]{money} that you have [borrow]{borrowed} from them",
+      "entry": "repay",
+      "id": "repay#repay__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [pay_1]{paying} someone [money]{money} that you have [borrow]{borrowed} from them",
+      "entry": "repayment",
+      "id": "repayment#repayment__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that you [pay_1]{pay} to the [person]{person}, [bank_1]{bank}, etc. that you have [borrow]{borrowed} it from",
+      "entry": "repayment",
+      "id": "repayment#repayment__2"
+    },
+    {
+      "comment": "to [arrange]{arrange} to [pay_1]{pay} back [money]{money} that you owe at a [date_1]{date} that is [later_1]{later} than [originally]{originally} [agreed]{agreed}",
+      "entry": "reschedule",
+      "id": "reschedule#reschedule__3"
+    },
+    {
+      "comment": "to [pay_1]{pay} interest on [money]{money} that you have [borrow]{borrowed} from someone",
+      "entry": "service",
+      "id": "service_2#service_2__5"
+    },
+    {
+      "comment": "to [pay_1]{pay} all the [money]{money} that you owe to a [particular_1]{particular} [person]{person} or [company]{company}",
+      "entry": "settle",
+      "id": "settle_1#settle_1__14"
+    },
+    {
+      "comment": "to [pay_1]{pay} all of an amount of [money]{money} that you owe to a [particular_1]{particular} [person]{person} or [company]{company}",
+      "entry": "settle up",
+      "id": "settle-up#settle-up__1"
+    },
+    {
+      "comment": "to divide an amount of money that you owe into parts and pay it in several installments instead of all at one time",
+      "entry": "spread",
+      "id": "spread_1#spread_1__22"
+    },
+    {
+      "comment": "if two [people_1]{people} [square_1]{square} up, one [pay_1]{pays} what they owe so that both [people_1]{people} are [equal_1]{equal}",
+      "entry": "square up",
+      "id": "square-up#square-up__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} someone what you owe them by [doing]{doing} a [job_1]{job} for them [instead]{instead} of [give_1]{giving} them [money]{money}",
+      "entry": "work off",
+      "id": "work-off#work-off__1"
+    }
+  ],
+  "thesaurus": "To pay, or to not pay money you owe",
+  "type": "Related words"
+}

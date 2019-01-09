@@ -1,0 +1,33 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if something [cost_1]{costs} an amount of [money]{money}, that amount is [need_1]{needed} in [order_1]{order} to [buy_1]{buy} it, [pay_1]{pay} for it, or do it",
+      "examples": [
+        "A [new]{new} computer [cost_1]{costs} between $500 and $3,000.",
+        "[unemployment]{Unemployment} [cost_1]{costs} the [taxpayer]{taxpayer} [billion#billion__2]{billions} each [year]{year}.",
+        "[call_1]{Calls} cost 36 [cent]{cents} per [minute_1]{minute}.",
+        "[dinner]{Dinner} cost $35 per [person]{person} [including]{including} [wine_1]{wine}.",
+        "How much [does]{does} it cost to [rent_1]{rent} a [bike_1]{bike}?"
+      ],
+      "id": "cost_2__1"
+    },
+    {
+      "def": "to cause someone to [lose]{lose} something [good_1]{good} or [valuable]{valuable}",
+      "examples": [
+        "The [merger]{merger} will cost [job_1]{jobs}.",
+        "His [decision_1]{decision} to take the [car]{car} cost him his [life]{life}.",
+        "We made two [mistake_1]{mistakes} that cost us [dearly]{dearly}."
+      ],
+      "id": "cost_2__7"
+    },
+    {
+      "def": "to [calculate]{calculate} [exactly]{exactly} how much something will cost",
+      "examples": [
+        "All your [proposal]{proposals} must be costed before we can [consider]{consider} them."
+      ],
+      "id": "cost_2__11"
+    }
+  ],
+  "word": "cost"
+}

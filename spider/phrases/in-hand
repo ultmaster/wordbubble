@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "in hand",
+  "senses": [
+    {
+      "def": "if something is in hand, you are already [dealing]{dealing} with it",
+      "examples": [
+        "[work_1]{Work} is in hand on [identify]{identifying} [information]{information} [need_1]{needs}."
+      ],
+      "id": "in-hand__1"
+    },
+    {
+      "def": "if you have something in hand, you are [manage]{managing} it well so that it [happen]{happens} in the way that it should",
+      "examples": [
+        "At [half]{half} time, they had the [game_1]{game} well in hand."
+      ],
+      "id": "in-hand__3"
+    },
+    {
+      "def": "if a [player]{player} or [team_1]{team} has a [game_1]{game} in hand, they have [play_1]{played} one [game_1]{game} less than an [opponent]{opponent}",
+      "examples": [
+        "They have a four-point [advantage]{advantage} but we have two [game_1]{games} in hand."
+      ],
+      "id": "in-hand__5"
+    }
+  ]
+}

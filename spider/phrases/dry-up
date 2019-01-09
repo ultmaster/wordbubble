@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "dry up",
+  "senses": [
+    {
+      "def": "if something [dry_2]{dries} up or is [dried]{dried} up, all the [water_1]{water} comes out of it",
+      "examples": [
+        "The [land_1]{land} had [dried]{dried} up and no [crop_1]{crops} would [grow]{grow}."
+      ],
+      "id": "dry-up__1"
+    },
+    {
+      "def": "to [stop_1]{stop} being [available]{available}",
+      "examples": [
+        "What will [happen]{happen} to the [project_1]{project} when the [money]{money} [dry_2]{dries} up?"
+      ],
+      "id": "dry-up__3"
+    },
+    {
+      "def": "to [stop_1]{stop} [talk_1]{talking} because you do not [know_1]{know} what to [say_1]{say}",
+      "examples": [],
+      "id": "dry-up__5"
+    }
+  ]
+}

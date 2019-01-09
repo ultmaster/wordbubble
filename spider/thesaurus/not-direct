@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "not [use_1]{using} the [short_1]{shortest} way",
+      "entry": "indirect",
+      "id": "indirect#indirect__6"
+    },
+    {
+      "comment": "not [direct_1]{direct}, [simple]{simple}, or [short_1]{short}",
+      "entry": "roundabout",
+      "id": "roundabout_1#roundabout_1__1"
+    },
+    {
+      "comment": "[twist_1]{twisting} and [turning]{turning} around many [bend_1]{bends}",
+      "entry": "tortuous",
+      "id": "tortuous#tortuous__1"
+    },
+    {
+      "comment": "with a [lot_1]{lot} of [bend_1]{bends} or [curve_1]{curves}",
+      "entry": "twisty",
+      "id": "twisty#twisty__1"
+    },
+    {
+      "comment": "not [direct_1]{direct}",
+      "entry": "devious",
+      "id": "devious#devious__5"
+    },
+    {
+      "comment": "[following_1]{following} or [making]{making} a [line_1]{line} with [sharp_1]{sharp} [angle_1]{angles} that [change_1]{changes} [suddenly]{suddenly} from one [direction]{direction} to another",
+      "entry": "zigzag",
+      "id": "zigzag_2#zigzag_2__1"
+    }
+  ],
+  "thesaurus": "Not direct",
+  "type": "Synonyms"
+}

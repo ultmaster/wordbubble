@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "let something loose",
+  "senses": [
+    {
+      "def": "to do something in a [sudden_1]{sudden} [uncontrolled]{uncontrolled} way",
+      "examples": [
+        "She [let_1]{let} [loose_1]{loose} a [piercing_1]{piercing} [scream_1]{scream}."
+      ],
+      "id": "let-something-loose__1"
+    },
+    {
+      "def": "to [let_1]{let} something [damaging]{damaging} [develop]{develop} or [spread_1]{spread} in an [uncontrolled]{uncontrolled} way",
+      "examples": [
+        "A [wave_1]{wave} of [violent]{violent} [hysteria]{hysteria} was [let_1]{let} [loose_1]{loose} in the [capital_1]{capital} [city]{city}."
+      ],
+      "id": "let-something-loose__3"
+    }
+  ]
+}

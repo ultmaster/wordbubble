@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[going_1]{going} [straight_1]{straight} to a [place_1]{place} and not [stop_1]{stopping} or [change_1]{changing} [direction]{direction} on the way there",
+      "entry": "direct",
+      "id": "direct_1#direct_1__7"
+    },
+    {
+      "comment": "[moving]{moving} [forward_1]{forward} or [progress_2]{progressing}",
+      "entry": "advancing",
+      "id": "advancing#advancing__1"
+    },
+    {
+      "comment": "[moving]{moving} toward you",
+      "entry": "oncoming",
+      "id": "oncoming#oncoming__1"
+    },
+    {
+      "comment": "[moving]{moving}, [pointing]{pointing}, or [look_1]{looking} toward a [place_1]{place} in front of you",
+      "entry": "ahead",
+      "id": "ahead#ahead__7"
+    },
+    {
+      "comment": "[moving]{moving} [near_1]{near} to someone or something and then [stop_1]{stopping}",
+      "entry": "up",
+      "id": "up_1#up_1__26"
+    },
+    {
+      "comment": "[moving]{moving} in the [direction]{direction} in front of you",
+      "entry": "forward",
+      "id": "forward_1#forward_1__2"
+    },
+    {
+      "comment": "[moving]{moving} toward something and [hit_1]{hitting} it",
+      "entry": "into",
+      "id": "into#into__13"
+    },
+    {
+      "comment": "[moving]{moving} or [look_1]{looking} from one side of a [place_1]{place}, [space_1]{space}, or [line_1]{line} to the other",
+      "entry": "across",
+      "id": "across#across__2"
+    },
+    {
+      "comment": "[traveling]{traveling} toward a [place_1]{place}",
+      "entry": "bound for something",
+      "id": "bound-for-something#bound-for-something__1"
+    },
+    {
+      "comment": "from all [direction]{directions} toward one [object_1]{object} or [person]{person}",
+      "entry": "from all sides",
+      "id": "from-all-sides#from-all-sides__1"
+    }
+  ],
+  "thesaurus": "Describing movement towards a place or person",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in any case",
+  "senses": [
+    {
+      "def": "whatever the [situation]{situation} is or will be",
+      "examples": [
+        "[traffic_1]{Traffic} may be [bad_1]{bad}, but in any [case_1]{case} we\u2019ll be there in time for [dinner]{dinner}."
+      ],
+      "id": "in-any-case__1"
+    },
+    {
+      "def": "[used]{used} for [add_1]{adding} [information]{information} to [support_1]{support} a [statement_1]{statement} or [make_1]{make} it [clear_1]{clearer}",
+      "examples": [
+        "Nobody [saw_1]{saw} her on the [train_1]{train}. In any [case_1]{case}, she [probably]{probably} didn\u2019t have enough [money]{money} for a [ticket_1]{ticket}."
+      ],
+      "id": "in-any-case__3"
+    }
+  ]
+}

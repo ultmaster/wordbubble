@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "at peace",
+  "senses": [
+    {
+      "def": "not [fighting]{fighting} a war",
+      "examples": [],
+      "id": "at-peace__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that someone is [dead_1]{dead} and therefore has no more [worry_1]{worries}",
+      "examples": [],
+      "id": "at-peace__2"
+    },
+    {
+      "def": "if you are at [peace]{peace}, you do not [feel_1]{feel} [angry]{angry}, [unhappy]{unhappy}, etc.",
+      "examples": [
+        "At 70, she was at [peace]{peace} with [herself]{herself} and the [world]{world}."
+      ],
+      "id": "at-peace__3"
+    }
+  ]
+}

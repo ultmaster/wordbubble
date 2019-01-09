@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in question",
+  "senses": [
+    {
+      "def": "the [person]{person}, thing, time, etc. in [question_1]{question} is the one that you are [talk_1]{talking} about at the [present_1]{present} time",
+      "examples": [
+        "The [photograph_1]{photograph} in [question_1]{question} was [taken_1]{taken} long before I met you."
+      ],
+      "id": "in-question__1"
+    },
+    {
+      "def": "if something is in [question_1]{question}, there are [doubt_1]{doubts} about it",
+      "examples": [
+        "Are you [saying]{saying} that the [validity]{validity} of the [test_1]{test} is in [question_1]{question}?"
+      ],
+      "id": "in-question__3"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "relating to a musical scale that uses half steps  (=notes that are next to each other on a piano)",
+      "entry": "chromatic",
+      "id": "chromatic#chromatic__1"
+    },
+    {
+      "comment": "based on a major or minor musical scale",
+      "entry": "diatonic",
+      "id": "diatonic#diatonic__1"
+    },
+    {
+      "comment": "a B flat, E flat etc. is a musical note that is one halftone lower than B, E etc.",
+      "entry": "flat",
+      "id": "flat_1#flat_1__29"
+    },
+    {
+      "comment": "[slightly]{slightly} [lower_1]{lower} than the [musical_1]{musical} [note_1]{note} that should be [play_1]{played} or [sung]{sung}",
+      "entry": "flat",
+      "id": "flat_1#flat_1__30"
+    },
+    {
+      "comment": "relating to a musical scale  (=fixed series of musical notes) with half steps between the third and fourth and the seventh and eighth musical notes",
+      "entry": "major",
+      "id": "major_1#major_1__11"
+    },
+    {
+      "comment": "relating to a musical scale  (=fixed series of musical notes) in which the third note is a half step lower than that of the related major scale",
+      "entry": "minor",
+      "id": "minor_1#minor_1__8"
+    },
+    {
+      "comment": "[sing_1]{singing} or [play_1]{playing} [musical_1]{musical} [note_1]{notes} that are [slightly]{slightly} [higher_1]{higher} than they should be",
+      "entry": "sharp",
+      "id": "sharp_2#sharp_2__5"
+    },
+    {
+      "comment": "relating to the first note in a musical scale",
+      "entry": "tonic",
+      "id": "tonic_2#tonic_2__3"
+    }
+  ],
+  "thesaurus": "Describing or relating to notes in the musical scale",
+  "type": "Related words"
+}

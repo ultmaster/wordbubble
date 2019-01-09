@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [document_1]{document} [sign_2]{signed} by many [people_1]{people} that [ask_1]{asks} someone in [authority]{authority} to do something",
+      "examples": [
+        "More than 300 [villager]{villagers} have [sign_2]{signed} a petition against the [construction]{construction} [project_1]{project}."
+      ],
+      "id": "petition_1__1"
+    },
+    {
+      "def": "an [official_1]{official} [document_1]{document} in which you [ask_1]{ask} a [court_1]{court} to take [legal]{legal} [action_1]{action}",
+      "examples": [
+        "a petition for [divorce_1]{divorce}",
+        "Her [lawyer]{lawyer} has already [file_2]{filed} a petition for her [immediate]{immediate} [release_1]{release} from [prison]{prison}."
+      ],
+      "id": "petition_1__3"
+    },
+    {
+      "def": "a [request_1]{request} made to [god_2]{God} or to someone such as a [king]{king}",
+      "examples": [],
+      "id": "petition_1__6"
+    }
+  ],
+  "word": "petition"
+}

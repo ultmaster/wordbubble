@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [medicine]{medicine} or [treatment]{treatment} that [make_1]{makes} a [sick_1]{sick} [person]{person} [healthy]{healthy}",
+      "entry": "cure",
+      "id": "cure_1#cure_1__1"
+    },
+    {
+      "comment": "something that [cure_1]{cures} every [illness]{illness} or [solve]{solves} every [problem]{problem}",
+      "entry": "cure-all",
+      "id": "cure-all#cure-all__1"
+    },
+    {
+      "comment": "a [substance]{substance} that you take to [treat_1]{treat} a [disease]{disease} or [medical_1]{medical} [problem]{problem}",
+      "entry": "drug",
+      "id": "drug_1#drug_1__8"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} for [treat_1]{treating} an [illness]{illness} or [injury]{injury}",
+      "entry": "medicament",
+      "id": "medicament#medicament__1"
+    },
+    {
+      "comment": "a [drug_1]{drug} that you take to [treat_1]{treat} or [cure_1]{cure} an [illness]{illness}",
+      "entry": "medication",
+      "id": "medication#medication__1"
+    },
+    {
+      "comment": "a [substance]{substance} that you take to [treat_1]{treat} an [illness]{illness}, [especially]{especially} a [liquid_1]{liquid} that you [drink_1]{drink}",
+      "entry": "medicine",
+      "id": "medicine#medicine__1"
+    },
+    {
+      "comment": "a [medicine]{medicine} that is [unlikely]{unlikely} to be [effective]{effective}, [usually]{usually} one [prepared]{prepared} by someone who is not a [doctor_1]{doctor}",
+      "entry": "nostrum",
+      "id": "nostrum#nostrum__2"
+    },
+    {
+      "comment": "a [medicine]{medicine} that can [cure_1]{cure} any [illness]{illness}",
+      "entry": "panacea",
+      "id": "panacea#panacea__2"
+    },
+    {
+      "comment": "[medicine]{medicines} and [drug_1]{drugs} [used]{used} for [treat_1]{treating} [medical_1]{medical} [condition_1]{conditions}",
+      "entry": "pharmaceuticals",
+      "id": "pharmaceuticals#pharmaceuticals__1"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} \u201c[medicine]{medicine}\u201d",
+      "entry": "physic",
+      "id": "physic#physic__1"
+    },
+    {
+      "comment": "a [substance]{substance} that is not [medicine]{medicine} but that a [patient_1]{patient} who is [take_1]{taking} it [believe]{believes} is [medicine]{medicine}, and so they get [better_1]{better}",
+      "entry": "placebo",
+      "id": "placebo#placebo__1"
+    },
+    {
+      "comment": "a [mixture]{mixture} that has been made [especially]{especially} for use as a [medicine]{medicine}, [food]{food}, or [treatment]{treatment} for your [skin_1]{skin}",
+      "entry": "preparation",
+      "id": "preparation#preparation__12"
+    },
+    {
+      "comment": "a [particular_1]{particular} [medication]{medication} that a [doctor_1]{doctor} has [told]{told} you to take",
+      "entry": "prescription",
+      "id": "prescription#prescription__3"
+    },
+    {
+      "comment": "a [cure_1]{cure} for [pain_1]{pain} or a [minor_1]{minor} [illness]{illness}",
+      "entry": "remedy",
+      "id": "remedy_1#remedy_1__6"
+    }
+  ],
+  "thesaurus": "General words for medicines",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[need_1]{needing} [immediate]{immediate} [help_1]{help} or [action_1]{action}",
+      "entry": "exigent",
+      "id": "exigent#exigent__1"
+    },
+    {
+      "comment": "[urgent]{urgent} [thing]{things} are [thing]{things} that you [need_1]{need} to [deal_1]{deal} with [immediately]{immediately}",
+      "entry": "urgent",
+      "id": "urgent#urgent__1"
+    },
+    {
+      "comment": "[immediate]{immediate} [aim_1]{aims}, [wish_1]{wishes}, or [need_1]{needs} are of the [great_1]{greatest} [importance]{importance} and are [dealt]{dealt} with first",
+      "entry": "immediate",
+      "id": "immediate#immediate__19"
+    },
+    {
+      "comment": "very [important]{important} and [urgent]{urgent}",
+      "entry": "pressing",
+      "id": "pressing#pressing__1"
+    },
+    {
+      "comment": "more [important]{important} or [urgent]{urgent} than anything else in a [particular_1]{particular} [situation]{situation}",
+      "entry": "uppermost",
+      "id": "uppermost#uppermost__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [important]{important} and [urgent]{urgent}",
+      "entry": "imperative",
+      "id": "imperative_1#imperative_1__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something must be [dealt]{dealt} with [immediately]{immediately}, before [dealing]{dealing} with anything else",
+      "entry": "as a matter of urgency/priority",
+      "id": "as-a-matter-of-urgency-priority#as-a-matter-of-urgency-priority__1"
+    },
+    {
+      "comment": "it is [important]{important} not to [delay_1]{delay} or [waste_1]{waste} time",
+      "entry": "every minute counts",
+      "id": "every-minute-counts#every-minute-counts__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that if something is not done [immediately]{immediately}, there will not be another [chance_1]{chance} to do it in the [future_1]{future}",
+      "entry": "it\u2019s now or never",
+      "id": "it-s-now-or-never#it-s-now-or-never__1"
+    },
+    {
+      "comment": "[considered]{considered} very [important]{important} and [urgent]{urgent}",
+      "entry": "on the front burner",
+      "id": "front-burner#front-burner__2"
+    }
+  ],
+  "thesaurus": "Urgent",
+  "type": "Synonyms"
+}

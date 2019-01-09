@@ -1,0 +1,43 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [insect]{insect}",
+      "examples": [
+        "There were [bug_1]{bugs} [crawl_1]{crawling} all over the [kitchen]{kitchen} [floor_1]{floor}."
+      ],
+      "id": "bug_1__1"
+    },
+    {
+      "def": "an [infectious]{infectious} but [usually]{usually} [minor_1]{minor} [illness]{illness}",
+      "examples": [
+        "a [flu]{flu} bug",
+        "You must have [pick_1]{picked} up a bug on [vacation_1]{vacation}."
+      ],
+      "id": "bug_1__3"
+    },
+    {
+      "def": "a [minor_1]{minor} [fault_1]{fault} in a computer system or in a computer [program_1]{program}",
+      "examples": [
+        "The [new]{new} [program_1]{program} still has some [bug_1]{bugs} in it."
+      ],
+      "id": "bug_1__6"
+    },
+    {
+      "def": "a [small_1]{small} [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} [used]{used} for [secretly]{secretly} [listen_1]{listening} to what [people_1]{people} are [saying]{saying}",
+      "examples": [
+        "Detectives had planted  (=put) a bug in his hotel room."
+      ],
+      "id": "bug_1__8"
+    },
+    {
+      "def": "a [sudden_1]{sudden} [strong]{strong} [enthusiasm]{enthusiasm} for [doing]{doing} something",
+      "examples": [
+        "I\u2019d been [bitten]{bitten} by the [backpacking]{backpacking} bug."
+      ],
+      "id": "bug_1__10"
+    }
+  ],
+  "word": "bug"
+}

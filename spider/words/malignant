@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a malignant [tumor]{tumor} [consist]{consists} of [cancer_1]{cancer} [cell]{cells} that can [spread_1]{spread} in the body",
+      "examples": [
+        "a malignant [growth]{growth}/[tumor]{tumor}"
+      ],
+      "id": "malignant__1"
+    },
+    {
+      "def": "[showing]{showing} that you [want_1]{want} to do something [bad_1]{bad} to someone",
+      "examples": [
+        "a malignant [glare_1]{glare}"
+      ],
+      "id": "malignant__3"
+    }
+  ],
+  "word": "malignant"
+}

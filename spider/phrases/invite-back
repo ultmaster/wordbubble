@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "invite back",
+  "senses": [
+    {
+      "def": "to [invite_1]{invite} someone to your [house_1]{house} after you have been to their [house_1]{house}",
+      "examples": [
+        "We had them over for [dinner]{dinner} a [couple_1]{couple} of times, but they never [invite_1]{invited} us back."
+      ],
+      "id": "invite-back__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone to come to your [house_1]{house} after you have been somewhere with them",
+      "examples": [],
+      "id": "invite-back__3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "one of the [piece_1]{pieces}, [section_1]{sections}, [aspect]{aspects}, etc. that something [consist]{consists} of",
+      "entry": "part",
+      "id": "part_1#part_1__1"
+    },
+    {
+      "comment": "an [individual_1]{individual} thing that is part of something [large_1]{larger}",
+      "entry": "unit",
+      "id": "unit#unit__1"
+    },
+    {
+      "comment": "a part of an [object_1]{object}",
+      "entry": "section",
+      "id": "section_1#section_1__9"
+    },
+    {
+      "comment": "a part that you [fit_1]{fit} together with other [part_1]{parts} to [make_1]{make} something",
+      "entry": "piece",
+      "id": "piece_1#piece_1__14"
+    },
+    {
+      "comment": "a [separate_1]{separate} part of anything",
+      "entry": "segment",
+      "id": "segment#segment__1"
+    },
+    {
+      "comment": "a part of anything",
+      "entry": "portion",
+      "id": "portion_1#portion_1__4"
+    },
+    {
+      "comment": "a part of something",
+      "entry": "bit",
+      "id": "bit_1#bit_1__7"
+    },
+    {
+      "comment": "a [small_1]{small} part of something such as a [painting]{painting} or [photograph_1]{photograph}, [especially]{especially} when [shown]{shown} [separate_1#separate_1__13]{separately} from the rest of it",
+      "entry": "detail",
+      "id": "detail_1#detail_1__16"
+    },
+    {
+      "comment": "one [small_1]{small} part of something that has already been [divided]{divided} into several [large_1]{larger} [part_1]{parts}",
+      "entry": "subdivision",
+      "id": "subdivision#subdivision__3"
+    },
+    {
+      "comment": "a [structure_1]{structure} or an [organization]{organization} that [form_1]{forms} the most [basic_1]{basic} part of something",
+      "entry": "substructure",
+      "id": "substructure#substructure__2"
+    }
+  ],
+  "thesaurus": "General words for parts",
+  "type": "Synonyms"
+}

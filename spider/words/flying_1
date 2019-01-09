@@ -1,0 +1,28 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[able_1]{able} to [fly_1]{fly}",
+      "examples": [
+        "a flying [insect]{insect}"
+      ],
+      "id": "flying_1__1"
+    },
+    {
+      "def": "done by [throw_1]{throwing} yourself through the [air_1]{air}",
+      "examples": [
+        "a flying [jump_1]{jump}/[leap_1]{leap}/[kick_1]{kick}"
+      ],
+      "id": "flying_1__3"
+    },
+    {
+      "def": "[moving]{moving} [fast_1]{fast} through the [air_1]{air} as a [result_1]{result} of an [explosion]{explosion} or of being [thrown]{thrown}",
+      "examples": [
+        "He was [knock_1]{knocked} [unconscious_1]{unconscious} by a flying [bottle_1]{bottle}.",
+        "About 20 [people_1]{people} were [injured]{injured} by flying [glass]{glass}."
+      ],
+      "id": "flying_1__5"
+    }
+  ],
+  "word": "flying"
+}

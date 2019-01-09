@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "[able_1]{able} to [pay_1]{pay} the [money]{money} that you owe",
+      "entry": "afloat",
+      "id": "afloat#afloat__4"
+    },
+    {
+      "comment": "if two [people_1]{people} are even, neither of them [owe]{owes} the other anything",
+      "entry": "be even",
+      "id": "be-even#be-even__1"
+    },
+    {
+      "comment": "a situation in which you have enough money to pay your bills and other debts",
+      "entry": "solvency",
+      "id": "solvency#solvency__1"
+    },
+    {
+      "comment": "if you are solvent, you have enough money to pay your bills and other debts",
+      "entry": "solvent",
+      "id": "solvent_2#solvent_2__1"
+    },
+    {
+      "comment": "if two [people_1]{people} are [square_1]{square}, neither [person]{person} [owe]{owes} the other anything",
+      "entry": "square",
+      "id": "square_2#square_2__12"
+    },
+    {
+      "comment": "if two [people_1]{people} are [straight_1]{straight}, neither of them [owe]{owes} the other any [money]{money}",
+      "entry": "straight",
+      "id": "straight_1#straight_1__33"
+    }
+  ],
+  "thesaurus": "Not in debt",
+  "type": "Related words"
+}

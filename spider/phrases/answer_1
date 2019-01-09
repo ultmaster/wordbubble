@@ -1,0 +1,40 @@
+{
+  "phrase": "answer",
+  "senses": [
+    {
+      "def": "to give a [spoken_1]{spoken} [reply_1]{reply} to a [question_1]{question}",
+      "examples": [
+        "I want you to answer one simple question."
+      ],
+      "id": "answer_1__1"
+    },
+    {
+      "def": "to [try_1]{try} to give the [correct_1]{correct} [reply_1]{reply} to a [question_1]{question} in a [test_1]{test} or [competition]{competition}",
+      "examples": [
+        "Answer one question from each section."
+      ],
+      "id": "answer_1__12"
+    },
+    {
+      "def": "to [explain]{explain} your [action_1]{actions} to someone who has [accuse]{accused} you of something",
+      "examples": [
+        "How would you answer charges that your company puts profit before safety?"
+      ],
+      "id": "answer_1__15"
+    },
+    {
+      "def": "to [provide]{provide} what is [need_1]{needed}, [wanted]{wanted}, or [ask_1]{asked} for, [especially]{especially} in [order_1]{order} to [deal_1]{deal} with a [bad_1]{bad} [situation]{situation}",
+      "examples": [
+        "Their request for help was answered by the Red Cross."
+      ],
+      "id": "answer_1__18"
+    },
+    {
+      "def": "to do something as a [reaction]{reaction} to what someone else has done",
+      "examples": [
+        "He answered her look with a smile."
+      ],
+      "id": "answer_1__22"
+    }
+  ]
+}

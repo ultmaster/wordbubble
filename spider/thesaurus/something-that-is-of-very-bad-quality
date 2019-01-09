@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [useless]{useless}, of no [value_1]{value}, or of very low [quality_1]{quality}",
+      "entry": "rubbish",
+      "id": "rubbish_1#rubbish_1__6"
+    },
+    {
+      "comment": "someone or something that is not [accepted]{accepted} because they have not [reach_1]{reached} the [necessary_1]{necessary} [standard_1]{standard}",
+      "entry": "reject",
+      "id": "reject_2#reject_2__1"
+    },
+    {
+      "comment": "something that you [think_1]{think} is of very [bad_1]{bad} [quality_1]{quality}, [especially]{especially} something such as a [movie]{movie}, [television]{television} [program_1]{program}, or [book_1]{book}",
+      "entry": "trash",
+      "id": "trash_1#trash_1__5"
+    },
+    {
+      "comment": "something that is of very [poor_1]{poor} [quality_1]{quality}",
+      "entry": "dross",
+      "id": "dross#dross__1"
+    },
+    {
+      "comment": "something done so [badly]{badly} that it seems [like_1]{like} a [parody_1]{parody}",
+      "entry": "parody",
+      "id": "parody_1#parody_1__3"
+    },
+    {
+      "comment": "something that is of [bad_1]{bad} [quality_1]{quality} or very [unsuccessful]{unsuccessful}",
+      "entry": "dog",
+      "id": "dog_1#dog_1__11"
+    },
+    {
+      "comment": "something that is of very [bad_1]{bad} [quality_1]{quality}",
+      "entry": "an apology for something",
+      "id": "an-apology-for-something#an-apology-for-something__1"
+    },
+    {
+      "comment": "someone or something that is of very [bad_1]{bad} [quality_1]{quality}",
+      "entry": "a pathetic/poor/sad excuse for something",
+      "id": "a-pathetic-poor-sad-excuse-for-something#a-pathetic-poor-sad-excuse-for-something__1"
+    },
+    {
+      "comment": "something that is of [bad_1]{bad} [quality_1]{quality}",
+      "entry": "crap",
+      "id": "crap_1#crap_1__5"
+    },
+    {
+      "comment": "something that you do not [like_1]{like} or [think_1]{think} is of very [bad_1]{bad} [quality_1]{quality}",
+      "entry": "shit",
+      "id": "shit_1#shit_1__3"
+    }
+  ],
+  "thesaurus": "Something that is of very bad quality",
+  "type": "Synonyms"
+}

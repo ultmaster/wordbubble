@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "only just",
+  "senses": [
+    {
+      "def": "a very [short_1]{short} time [ago]{ago}",
+      "examples": [
+        "The [movie]{movie}\u2019s only [just_1]{just} [start_1]{started}, so you [haven]{haven}\u2019t [miss_1]{missed} much."
+      ],
+      "id": "only-just__1"
+    },
+    {
+      "def": "by a [small_1]{small} [degree]{degree}, or by a [small_1]{small} amount",
+      "examples": [
+        "At [present_1]{present} we are only [just_1]{just} [manage]{managing} to [satisfy]{satisfy} the [demand_1]{demands} of our [customer]{customers}."
+      ],
+      "id": "only-just__3"
+    }
+  ]
+}

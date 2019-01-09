@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "one of the [standard_1]{standards} of [service_1]{service} [available]{available} to someone [traveling]{traveling} by [train_1]{train}, [airplane]{airplane}, etc.",
+      "entry": "class",
+      "id": "class_1#class_1__25"
+    },
+    {
+      "comment": "a less [expensive]{expensive} [type_1]{type} of [seat_1]{seat} on an [airplane]{airplane} or a [train_1]{train}",
+      "entry": "coach",
+      "id": "coach_1#coach_1__1"
+    },
+    {
+      "comment": "the best and most expensive seats on an airplane or train, or the best and most expensive accommodation  (=place to sleep) on a ship",
+      "entry": "first class",
+      "id": "first-class_1#first-class_1__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} on a [train_1]{train} without [pay_1]{paying}, although you should [pay_1]{pay}",
+      "entry": "jump a train",
+      "id": "jump-a-train#jump-a-train__1"
+    },
+    {
+      "comment": "someone who [travel_1]{travels} in a [motor_1]{motor} [vehicle]{vehicle}, [aircraft]{aircraft}, [train_1]{train}, or [ship_1]{ship} but is not the [driver]{driver} or one of the [people_1]{people} who [work_1]{works} on it",
+      "entry": "passenger",
+      "id": "passenger#passenger__1"
+    },
+    {
+      "comment": "the system of [traveling]{traveling} by [train_1]{train}",
+      "entry": "rail",
+      "id": "rail_1#rail_1__6"
+    },
+    {
+      "comment": "[relate]{relating} to [train_1]{train} [travel_1]{travel}",
+      "entry": "rail",
+      "id": "rail_1#rail_1__8"
+    },
+    {
+      "comment": "a [train_1]{train} [ticket_1]{ticket} that you [buy_1]{buy} that [allow]{allows} you to [travel_1]{travel} anywhere in a [particular_1]{particular} [area]{area} during a [particular_1]{particular} [period_1]{period} of time",
+      "entry": "railpass",
+      "id": "railpass#railpass__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} on a [train_1]{train} that [carry_1]{carries} [goods]{goods} without [pay_1]{paying}",
+      "entry": "ride the rails",
+      "id": "ride-the-rails#ride-the-rails__1"
+    },
+    {
+      "comment": "the [ordinary]{ordinary} [seat_1]{seats} and [service_1]{service} on a [train_1]{train} or [ship_1]{ship}",
+      "entry": "second class",
+      "id": "second-class_1#second-class_1__2"
+    },
+    {
+      "comment": "to move a [train_1]{train} to a [different]{different} [track_1]{track}",
+      "entry": "shunt",
+      "id": "shunt_1#shunt_1__6"
+    },
+    {
+      "comment": "[standing_1]{standing} on a [crowded]{crowded} [bus_1]{bus} or [train_1]{train}",
+      "entry": "straphanging",
+      "id": "straphanging#straphanging__1"
+    }
+  ],
+  "thesaurus": "Rail passengers and rail travel",
+  "type": "Related words"
+}

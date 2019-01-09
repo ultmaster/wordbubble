@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "false positive/negative",
+  "senses": [
+    {
+      "def": "an [incorrect]{incorrect} [result_1]{result} of a [scientific]{scientific} [test_1]{test}",
+      "examples": [
+        "One of the [big_1]{biggest} [complaint]{complaints} about [current_1]{current} [test_1]{tests} is that they give [false]{false} [positive_1]{positive} [result_1]{results}."
+      ],
+      "id": "false-positive-negative__1"
+    }
+  ]
+}

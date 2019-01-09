@@ -1,0 +1,436 @@
+{
+  "entries": [
+    {
+      "comment": "a common blood type in the ABO system",
+      "entry": "A",
+      "id": "a_1#a_1__4"
+    },
+    {
+      "comment": "the system that [divide_1]{divides} [human_1]{human} [blood_1]{blood} into four [main_1]{main} [group_1]{groups}, A, B, AB, and O",
+      "entry": "ABO system",
+      "id": "abo-system#abo-system__1"
+    },
+    {
+      "comment": "a substance that prevents blood from coagulating  (=becoming more solid)",
+      "entry": "anticoagulant",
+      "id": "anticoagulant#anticoagulant__1"
+    },
+    {
+      "comment": "the main artery that carries blood with a high oxygen level from your heart to other parts of your body",
+      "entry": "aorta",
+      "id": "aorta#aorta__1"
+    },
+    {
+      "comment": "one of the tubes in your body that carries blood from your heart to the rest of your body. A tube that returns blood to your heart is called a vein.",
+      "entry": "artery",
+      "id": "artery#artery__1"
+    },
+    {
+      "comment": "an amount of cholesterol and other substances that gradually form on the inside wall of an artery and can block the flow of blood",
+      "entry": "atheroma",
+      "id": "atheroma#atheroma__1"
+    },
+    {
+      "comment": "each of the two upper spaces in your heart, which force blood into your ventricles  (=lower spaces)",
+      "entry": "atrium",
+      "id": "atrium#atrium__2"
+    },
+    {
+      "comment": "a common blood type",
+      "entry": "B",
+      "id": "b_1#b_1__6"
+    },
+    {
+      "comment": "a type of cholesterol that can gradually turn hard and stop your blood flowing properly, sometimes causing heart disease. The technical name is LDL.",
+      "entry": "bad cholesterol",
+      "id": "bad-cholesterol#bad-cholesterol__1"
+    },
+    {
+      "comment": "one of the [regular_1]{regular} [sound_1]{sounds} or [movement]{movements} of your [heart_1]{heart}",
+      "entry": "beat",
+      "id": "beat_2#beat_2__1"
+    },
+    {
+      "comment": "the [series]{series} of [regular_1]{regular} [sound_1]{sounds} or [movement]{movements} as your [heart_1]{heart} [pump_1]{pumps} [blood_1]{blood} around your body",
+      "entry": "beat",
+      "id": "beat_2#beat_2__4"
+    },
+    {
+      "comment": "the [process_1]{process} of [lose]{losing} [blood_1]{blood} from your body, for [example]{example} from a [cut_1]{cut}",
+      "entry": "bleeding",
+      "id": "bleeding#bleeding__1"
+    },
+    {
+      "comment": "the red [liquid_1]{liquid} that [flow_1]{flows} around [inside_1]{inside} your body",
+      "entry": "blood",
+      "id": "blood#blood__1"
+    },
+    {
+      "comment": "the cells that move around in your blood. The two main groups of blood cells are called red blood cells and white blood cells.",
+      "entry": "blood cells",
+      "id": "blood-cells#blood-cells__1"
+    },
+    {
+      "comment": "a [soft]{soft} [mass_1]{mass} of almost [solid_1]{solid} [blood_1]{blood} that [block_1]{blocks} a [tube]{tube} in your body",
+      "entry": "blood clot",
+      "id": "blood-clot#blood-clot__1"
+    },
+    {
+      "comment": "the [process_1]{process} by which [blood_1]{blood} becomes thick and [stop_1]{stops} [flowing]{flowing}, [form_2]{forming} a [solid_1]{solid} [cover_1]{cover} over any [place_1]{place} where your [skin_1]{skin} has been [cut_1]{cut} or [broken_1]{broken}",
+      "entry": "blood clotting",
+      "id": "blood-clotting#blood-clotting__1"
+    },
+    {
+      "comment": "the number of red or white cells in your blood, or a test to measure this, for example in order to find out the state of your immune system",
+      "entry": "blood count",
+      "id": "blood-count#blood-count__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [increase_1]{increasing} the [number_1]{number} of red [blood_1]{blood} [cell]{cells} in an [athlete]{athlete's} [bloodstream]{bloodstream} in [order_1]{order} to [improve_1]{improve} their [performance]{performance} by [allow]{allowing} the body to [transport_1]{transport} more [oxygen]{oxygen} to the [muscle_1]{muscles}",
+      "entry": "blood doping",
+      "id": "blood-doping#blood-doping__1"
+    },
+    {
+      "comment": "blood type",
+      "entry": "blood group",
+      "id": "blood-group#blood-group__1"
+    },
+    {
+      "comment": "the pressure at which blood flows from your heart around your body. Blood pressure that is either very high or very low can be dangerous to your health.",
+      "entry": "blood pressure",
+      "id": "blood-pressure#blood-pressure__1"
+    },
+    {
+      "comment": "[substance]{substances} that can be [taken_1]{taken} from the [blood_1]{blood} of one [person]{person} and [used]{used} in the [medical_1]{medical} [treatment]{treatment} of someone else",
+      "entry": "blood product",
+      "id": "blood-product#blood-product__1"
+    },
+    {
+      "comment": "the [blood_1]{blood} that [move_1]{moves} around your body",
+      "entry": "bloodstream",
+      "id": "bloodstream#bloodstream__1"
+    },
+    {
+      "comment": "sugars such as glucose that are present in healthy blood",
+      "entry": "blood sugar",
+      "id": "blood-sugar#blood-sugar__1"
+    },
+    {
+      "comment": "one of the groups that human blood can be divided into. The four main groups are A, B, AB, and O.",
+      "entry": "blood type",
+      "id": "blood-type#blood-type__1"
+    },
+    {
+      "comment": "a [tube]{tube} that [carry_1]{carries} [blood_1]{blood} around your body, such as a [vein]{vein} or [artery]{artery}",
+      "entry": "blood vessel",
+      "id": "blood-vessel#blood-vessel__1"
+    },
+    {
+      "comment": "the smallest type of blood vessel, with a wall that is only one cell thick. It carries blood to and from individual cells in your body.",
+      "entry": "capillary",
+      "id": "capillary#capillary__1"
+    },
+    {
+      "comment": "a [heart_1]{heart} [attack_1]{attack}",
+      "entry": "cardiac arrest",
+      "id": "cardiac-arrest#cardiac-arrest__1"
+    },
+    {
+      "comment": "relating to the heart: used with some adjectives and nouns",
+      "entry": "cardio-",
+      "id": "cardio#cardio__1"
+    },
+    {
+      "comment": "the [area]{area} of [medicine]{medicine} that [deal_1]{deals} with the [heart_1]{heart} and the [disease]{diseases} that [affect_1]{affect} it",
+      "entry": "cardiology",
+      "id": "cardiology#cardiology__1"
+    },
+    {
+      "comment": "one of the two main arteries on each side of your neck that carry blood from your heart to your head",
+      "entry": "carotid artery",
+      "id": "carotid-artery#carotid-artery__1"
+    },
+    {
+      "comment": "a substance that is found in the blood and the cells of the body. It can cause diseases of the heart and the arteries if there is too much of it",
+      "entry": "cholesterol",
+      "id": "cholesterol#cholesterol__1"
+    },
+    {
+      "comment": "the [continuous]{continuous} [movement]{movement} of [blood_1]{blood} around your body",
+      "entry": "circulation",
+      "id": "circulation#circulation__1"
+    },
+    {
+      "comment": "a [lump_1]{lump} [consist]{consisting} of [blood_1]{blood} or another [liquid_1]{liquid} that has become thick",
+      "entry": "clot",
+      "id": "clot_2#clot_2__1"
+    },
+    {
+      "comment": "a [heart_1]{heart} [attack_1]{attack}",
+      "entry": "coronary",
+      "id": "coronary_2#coronary_2__1"
+    },
+    {
+      "comment": "either of the two arteries that carry blood to the heart",
+      "entry": "coronary artery",
+      "id": "coronary-artery#coronary-artery__1"
+    },
+    {
+      "comment": "a [heart_1]{heart} [attack_1]{attack} in which the [blood_1]{blood} [supply_1]{supply} to the [heart_1]{heart} is [block_2]{blocked}",
+      "entry": "coronary thrombosis",
+      "id": "coronary-thrombosis#coronary-thrombosis__1"
+    },
+    {
+      "comment": "one of the [white_1]{white} or red [cell]{cells} in your [blood_1]{blood}",
+      "entry": "corpuscle",
+      "id": "corpuscle#corpuscle__1"
+    },
+    {
+      "comment": "[electrocardiogram]{electrocardiogram}: a [record_2]{recorded} [measurement]{measurement} that [show_1]{shows} how [fast_1]{fast} your [heart_1]{heart} is [beating]{beating}",
+      "entry": "EKG",
+      "id": "ekg#ekg__1"
+    },
+    {
+      "comment": "something such as a blood clot  (=a mass of blood cells) that blocks a blood vessel in your body",
+      "entry": "embolism",
+      "id": "embolism#embolism__1"
+    },
+    {
+      "comment": "a [series]{series} of [quick_1]{quick} [movement]{movements} of the [heart_1]{heart}, [cause_2]{caused} by [excitement]{excitement} or [nervous#nervous__18]{nervousness}",
+      "entry": "flutter",
+      "id": "flutter_2#flutter_2__6"
+    },
+    {
+      "comment": "a medical condition in which your heart beats faster than normal",
+      "entry": "flutter",
+      "id": "flutter_2#flutter_2__8"
+    },
+    {
+      "comment": "a [natural_1]{natural} [protein]{protein} [substance]{substance} that is part of [blood_1]{blood}, and that [protect]{protects} you against some [type_1]{types} of [disease]{disease}",
+      "entry": "gamma globulin",
+      "id": "gamma-globulin#gamma-globulin__1"
+    },
+    {
+      "comment": "a type of cholesterol that carries harmful cholesterol away from your arteries and back to your liver, helping to prevent heart disease. The technical name is HDL.",
+      "entry": "good cholesterol",
+      "id": "good-cholesterol#good-cholesterol__1"
+    },
+    {
+      "comment": "[blood_1]{blood} from an [injured]{injured} [person]{person} that is thick because it is [partly]{partly} [dried]{dried}",
+      "entry": "gore",
+      "id": "gore_1#gore_1__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [hemo]{hemo-}",
+      "entry": "haemo-",
+      "id": "haemo#haemo__2"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [hemoglobin]{hemoglobin}",
+      "entry": "haemoglobin",
+      "id": "haemoglobin#haemoglobin__1"
+    },
+    {
+      "comment": "high-density lipoprotein: a [type_1]{type} of [cholesterol]{cholesterol} that [carry_1]{carries} [harmful]{harmful} [cholesterol]{cholesterol} [away_1]{away} from your [artery]{arteries} and back to your [liver]{liver}, [helping]{helping} to [prevent]{prevent} [heart_1]{heart} [disease]{disease}; also [call_1]{called} [good_1]{good} [cholesterol]{cholesterol}",
+      "entry": "HDL",
+      "id": "hdl#hdl__1"
+    },
+    {
+      "comment": "the [organ]{organ} in your [chest]{chest} that [make_1]{makes} [blood_1]{blood} [flow_1]{flow} around your body",
+      "entry": "heart",
+      "id": "heart_1#heart_1__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone [suddenly]{suddenly} has a [lot_1]{lot} of [pain_1]{pain} in their [chest]{chest} and their [heart_1]{heart} [stop_1]{stops} [working]{working}",
+      "entry": "heart attack",
+      "id": "heart-attack#heart-attack__1"
+    },
+    {
+      "comment": "the [movement]{movement} or [sound_1]{sound} of your [heart_1]{heart} as it [make_1]{makes} [blood_1]{blood} [flow_1]{flow} around your body",
+      "entry": "heartbeat",
+      "id": "heartbeat#heartbeat__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone\u2019s [heart_1]{heart} [stop_1]{stops} [working]{working} and they [die_1]{die}",
+      "entry": "heart failure",
+      "id": "heart-failure#heart-failure__2"
+    },
+    {
+      "comment": "relating to blood: used with some nouns and adjectives",
+      "entry": "hemo-",
+      "id": "hemo#hemo__1"
+    },
+    {
+      "comment": "the [substance]{substance} in [blood_1]{blood} that [contain]{contains} the [oxygen]{oxygen}",
+      "entry": "hemoglobin",
+      "id": "hemoglobin#hemoglobin__1"
+    },
+    {
+      "comment": "a condition in which your blood pressure is extremely high",
+      "entry": "hypertension",
+      "id": "hypertension#hypertension__1"
+    },
+    {
+      "comment": "a situation in which blood cannot get to an area of tissue so that the tissue dies",
+      "entry": "infarction",
+      "id": "infarction#infarction__1"
+    },
+    {
+      "comment": "a major vein in your neck that carries blood from your head to your heart. The jugular is also called the jugular vein.",
+      "entry": "jugular",
+      "id": "jugular#jugular__1"
+    },
+    {
+      "comment": "low-density lipoprotein: a [type_1]{type} of [cholesterol]{cholesterol} that can [gradually]{gradually} [turn_1]{turn} [hard_1]{hard} and [stop_1]{stop} your [blood_1]{blood} [flowing]{flowing} [properly]{properly}, sometimes [cause_2]{causing} [heart_1]{heart} [disease]{disease}; also [call_1]{called} [bad_1]{bad} [cholesterol]{cholesterol}",
+      "entry": "LDL",
+      "id": "ldl#ldl__1"
+    },
+    {
+      "comment": "a [white_1]{white} [blood_1]{blood} [cell]{cell}",
+      "entry": "leucocyte",
+      "id": "leucocyte#leucocyte__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [leucocyte]{leucocyte}",
+      "entry": "leukocyte",
+      "id": "leukocyte#leukocyte__1"
+    },
+    {
+      "comment": "someone\u2019s [blood_1]{blood}",
+      "entry": "lifeblood",
+      "id": "lifeblood#lifeblood__3"
+    },
+    {
+      "comment": "one of several [small_1]{small} [organ]{organs} in your body that [help_1]{help} to [remove]{remove} [harmful]{harmful} [bacteria]{bacteria} from your [blood_1]{blood}",
+      "entry": "lymph node",
+      "id": "lymph-node#lymph-node__1"
+    },
+    {
+      "comment": "a white blood cell that attacks antigens  (=harmful substances that the body reacts to)",
+      "entry": "lymphocyte",
+      "id": "lymphocyte#lymphocyte__1"
+    },
+    {
+      "comment": "an [unusual]{unusual} [quiet_1]{quiet} [sound_1]{sound} made by your [heart_1]{heart} that may be a [sign_1]{sign} of [disease]{disease} or [damage_1]{damage}",
+      "entry": "murmur",
+      "id": "murmur_2#murmur_2__9"
+    },
+    {
+      "comment": "the [technical]{technical} name for a [heart_1]{heart} [attack_1]{attack}",
+      "entry": "myocardial infarction",
+      "id": "myocardial-infarction#myocardial-infarction__1"
+    },
+    {
+      "comment": "a [common_1]{common} [blood_1]{blood} [type_1]{type} in the ABO system",
+      "entry": "O",
+      "id": "o_1#o_1__2"
+    },
+    {
+      "comment": "the movements of your heart when it beats faster than usual",
+      "entry": "palpitations",
+      "id": "palpitations#palpitations__1"
+    },
+    {
+      "comment": "the [yellowish]{yellowish} [liquid_1]{liquid} that is part of [blood_1]{blood}",
+      "entry": "plasma",
+      "id": "plasma#plasma__1"
+    },
+    {
+      "comment": "a small piece of a cell in your blood that helps it to clot  (=form a thick mass)",
+      "entry": "platelet",
+      "id": "platelet#platelet__1"
+    },
+    {
+      "comment": "a [place_1]{place} on your body where you [press_1]{press} to [stop_1]{stop} your [blood_1]{blood} from [flowing]{flowing}",
+      "entry": "pressure point",
+      "id": "pressure-point#pressure-point__1"
+    },
+    {
+      "comment": "one of two arteries  (=tubes) that carry blood from the right ventricle of your heart to your lungs",
+      "entry": "pulmonary artery",
+      "id": "pulmonary-artery#pulmonary-artery__1"
+    },
+    {
+      "comment": "one of four veins  (=tubes) that carry blood from your lungs to the left atrium of your heart",
+      "entry": "pulmonary vein",
+      "id": "pulmonary-vein#pulmonary-vein__1"
+    },
+    {
+      "comment": "a [strong]{strong} [regular_1]{regular} [movement]{movement} [like_1]{like} that of your [heart_1]{heart}",
+      "entry": "pulsation",
+      "id": "pulsation#pulsation__1"
+    },
+    {
+      "comment": "the [regular_1]{regular} [movement]{movement} of [blood_1]{blood} as the [heart_1]{heart} [pump_1]{pumps} it around the body",
+      "entry": "pulse",
+      "id": "pulse_1#pulse_1__1"
+    },
+    {
+      "comment": "the [rate_1]{rate} of someone\u2019s [pulse_1]{pulse}, [especially]{especially} the [number_1]{number} of [movement]{movements} that you can [feel_1]{feel} in a [minute_1]{minute}",
+      "entry": "pulse",
+      "id": "pulse_1#pulse_1__3"
+    },
+    {
+      "comment": "a blood cell that carries oxygen",
+      "entry": "red blood cell",
+      "id": "red-blood-cell#red-blood-cell__1"
+    },
+    {
+      "comment": "Rh [factor_1]{factor}",
+      "entry": "Rhesus factor",
+      "id": "rhesus-factor#rhesus-factor__1"
+    },
+    {
+      "comment": "a substance found in the red blood cells of most people. People who have it are called RH positive and cannot share blood with people who do not, who are called RH negative.",
+      "entry": "Rh factor",
+      "id": "rh-factor#rh-factor__1"
+    },
+    {
+      "comment": "the thin yellow liquid that is part of blood and that separates from it when it clots  (=becomes thick and hard)",
+      "entry": "serum",
+      "id": "serum#serum__2"
+    },
+    {
+      "comment": "the [organ]{organ} in your body that [remove]{removes} [dead_1]{dead} red [cell]{cells} from your [blood_1]{blood} and [produce_1]{produces} [white_1]{white} [cell]{cells}",
+      "entry": "spleen",
+      "id": "spleen#spleen__1"
+    },
+    {
+      "comment": "your [heart_1]{heart}",
+      "entry": "ticker",
+      "id": "ticker#ticker__1"
+    },
+    {
+      "comment": "one of the tubes in your body that carry blood to your heart. A tube that carries blood away from your heart is an artery.",
+      "entry": "vein",
+      "id": "vein#vein__1"
+    },
+    {
+      "comment": "one of the two large veins  (=tubes) that carry blood into the right side of your heart",
+      "entry": "vena cava",
+      "id": "vena-cava#vena-cava__1"
+    },
+    {
+      "comment": "one of the two [lower_1]{lower} [part_1]{parts} of your [heart_1]{heart} that [move_1]{moves} [blood_1]{blood} to the rest of your body",
+      "entry": "ventricle",
+      "id": "ventricle#ventricle__1"
+    },
+    {
+      "comment": "the amount of a virus that someone has in their blood",
+      "entry": "viral load",
+      "id": "viral-load#viral-load__1"
+    },
+    {
+      "comment": "the signs that show you are alive, for example your breathing or your heartbeat",
+      "entry": "vital signs",
+      "id": "vital-signs#vital-signs__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [blood_1]{blood} [cell]{cell} that [protect]{protects} your body against [infection]{infection}",
+      "entry": "white blood cell",
+      "id": "white-blood-cell#white-blood-cell__1"
+    }
+  ],
+  "thesaurus": "The heart, blood and circulation",
+  "type": "Related words"
+}

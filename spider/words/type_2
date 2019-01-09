@@ -1,0 +1,22 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [write]{write} something [use_1]{using} a [keyboard_1]{keyboard}",
+      "examples": [
+        "I didn\u2019t [know_1]{know} you could type.",
+        "He can type 40 [word_1]{words} a [minute_1]{minute}.",
+        "She [hand_2]{handed} me a [type_2]{typed} [letter_1]{letter} from her [employer]{employer}."
+      ],
+      "id": "type_2__1"
+    },
+    {
+      "def": "to find out what [group_1]{group} a [person]{person} or thing [belong]{belongs} to, [especially]{especially} by [means]{means} of [medical_1]{medical} or [scientific]{scientific} [test_1]{tests}",
+      "examples": [
+        "This [test_1]{test} [help_1]{helps} in [typing]{typing} the [organism]{organism} that [cause_1]{causes} the [disease]{disease}."
+      ],
+      "id": "type_2__5"
+    }
+  ],
+  "word": "type"
+}

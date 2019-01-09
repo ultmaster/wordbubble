@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "the [gauge_1]{gauge} of a [gun_1]{gun}",
+      "entry": "bore",
+      "id": "bore_2#bore_2__6"
+    },
+    {
+      "comment": "a unit for measuring length in the metric system. There are 100 centimeters in one meter.",
+      "entry": "centimeter",
+      "id": "centimeter#centimeter__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [centimeter]{centimeter}",
+      "entry": "centimetre",
+      "id": "centimetre#centimetre__2"
+    },
+    {
+      "comment": "[centimeter]{centimeter}",
+      "entry": "cm.",
+      "id": "cm_2#cm_2__1"
+    },
+    {
+      "comment": "an [old]{old} [unit]{unit} for [measure_2]{measuring} [length]{length}, [equal_1]{equal} to the [distance_1]{distance} from your [elbow_1]{elbow} to your [wrist]{wrist}",
+      "entry": "cubit",
+      "id": "cubit#cubit__1"
+    },
+    {
+      "comment": "a unit used for measuring length, containing 12 inches and equal to about 30 centimeters",
+      "entry": "foot",
+      "id": "foot_1#foot_1__12"
+    },
+    {
+      "comment": "[foot_1]{foot} or [feet]{feet}",
+      "entry": "ft.",
+      "id": "ft_2#ft_2__1"
+    },
+    {
+      "comment": "[inch_1]{inch}: or [inch_1]{inches}",
+      "entry": "in.",
+      "id": "in_4#in_4__1"
+    },
+    {
+      "comment": "a unit for measuring length. An inch is equal to 2.54 centimeters. There are 12 inches in one foot",
+      "entry": "inch",
+      "id": "inch_1#inch_1__1"
+    },
+    {
+      "comment": "a [measurement]{measurement} of how [big_1]{big} a [book_1]{book} or [piece_1]{piece} of [writing]{writing} is",
+      "entry": "length",
+      "id": "length#length__12"
+    },
+    {
+      "comment": "[meter_1]{meter}",
+      "entry": "m.",
+      "id": "m_3#m_3__2"
+    },
+    {
+      "comment": "a unit for measuring length in the metric system, containing 100 centimeters",
+      "entry": "meter",
+      "id": "meter_1#meter_1__5"
+    },
+    {
+      "comment": "a unit for measuring very small lengths in the metric system. There are one million microns in a meter.",
+      "entry": "micron",
+      "id": "micron#micron__1"
+    },
+    {
+      "comment": "a unit for measuring length in the metric system. There are 1,000 millimeters in a meter.",
+      "entry": "millimeter",
+      "id": "millimeter#millimeter__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [millimeter]{millimeter}",
+      "entry": "millimetre",
+      "id": "millimetre#millimetre__1"
+    },
+    {
+      "comment": "a unit for measuring length in the metric system. There are one billion  (=one thousand million) nanometers in a meter.",
+      "entry": "nanometer",
+      "id": "nanometer#nanometer__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [distance_1]{distance} [base_2]{based} on the [length]{length} of a [single_1]{single} [step_1]{step} when you [walk_1]{walk}",
+      "entry": "pace",
+      "id": "pace_1#pace_1__10"
+    },
+    {
+      "comment": "a unit for measuring length. There are three feet or 36 inches in a yard. One yard is equal to 0.91 meters.",
+      "entry": "yard",
+      "id": "yard#yard__7"
+    },
+    {
+      "comment": "a distance or size of something measured in yards or square yards",
+      "entry": "yardage",
+      "id": "yardage#yardage__2"
+    },
+    {
+      "comment": "[yard]{yard}",
+      "entry": "yd.",
+      "id": "yd#yd__1"
+    }
+  ],
+  "thesaurus": "Units for measuring length or width",
+  "type": "Related words"
+}

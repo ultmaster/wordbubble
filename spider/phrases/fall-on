@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "fall on",
+  "senses": [
+    {
+      "def": "if something [fall_1]{falls} on someone, it is their [responsibility]{responsibility} to do it",
+      "examples": [
+        "The [burden_1]{burden} of [caring]{caring} for [elderly]{elderly} [parent]{parents} often [fall_1]{falls} on [women]{women}."
+      ],
+      "id": "fall-on__1"
+    },
+    {
+      "def": "to take [hold_1]{hold} of someone [suddenly]{suddenly}, either to [attack_1]{attack} them or to [hug_1]{hug} them",
+      "examples": [
+        "She was so [grateful]{grateful} she [fell_1]{fell} on him and [kiss_1]{kissed} him."
+      ],
+      "id": "fall-on__3"
+    },
+    {
+      "def": "to [start_1]{start} [eat]{eating} [food]{food} or [start_1]{start} [use_1]{using} something as [soon]{soon} as it [arrive]{arrives}, in a way that [show_1]{shows} you [want_1]{want} it very much",
+      "examples": [],
+      "id": "fall-on__5"
+    }
+  ]
+}

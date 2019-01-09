@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "a [person]{person} whose [job_1]{job} is to [make_1]{make} [coffee]{coffee} in a [cafe]{caf\u00e9}",
+      "entry": "barista",
+      "id": "barista#barista__1"
+    },
+    {
+      "comment": "a [bartender]{bartender}",
+      "entry": "barkeeper",
+      "id": "barkeeper#barkeeper__1"
+    },
+    {
+      "comment": "a woman whose job is to serve drinks in a bar. Some people might find this word offensive.",
+      "entry": "barmaid",
+      "id": "barmaid#barmaid__1"
+    },
+    {
+      "comment": "a man whose [job_1]{job} is to [serve_1]{serve} [drink_1]{drinks} in a [bar_1]{bar}",
+      "entry": "barman",
+      "id": "barman#barman__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [serve_1]{serve} [drink_1]{drinks} in a [bar_1]{bar}",
+      "entry": "bartender",
+      "id": "bartender#bartender__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [make_1]{make} [certain_1]{certain} that no one [cause_1]{causes} [trouble_1]{trouble} in a [bar_1]{bar} or [club_1]{club}, for [example]{example} by not [allow]{allowing} [particular_1]{particular} [people_1]{people} to come in",
+      "entry": "bouncer",
+      "id": "bouncer#bouncer__1"
+    },
+    {
+      "comment": "a [boy_1]{boy} or man who [remove]{removes} [dirty_1]{dirty} [dish_1]{dishes} from the [table_1]{tables} in a [restaurant]{restaurant}",
+      "entry": "busboy",
+      "id": "busboy#busboy__1"
+    },
+    {
+      "comment": "a [busboy]{busboy}",
+      "entry": "busser",
+      "id": "busser#busser__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [wash_1]{wash} [dish_1]{dishes} in a [restaurant]{restaurant}",
+      "entry": "dishwasher",
+      "id": "dishwasher#dishwasher__2"
+    },
+    {
+      "comment": "the senior waiter in a restaurant, who is in charge of all the other people who serve food",
+      "entry": "head waiter",
+      "id": "head-waiter#head-waiter__1"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [welcome_1]{welcome} [customer]{customers} in a [restaurant]{restaurant} and take them to their [table_1]{table}",
+      "entry": "hostess",
+      "id": "hostess#hostess__4"
+    },
+    {
+      "comment": "a woman who owns or manages a bar or a small hotel",
+      "entry": "landlady",
+      "id": "landlady#landlady__2"
+    },
+    {
+      "comment": "a man who [own_2]{owns} or [manage]{manages} a [bar_1]{bar} or a [small_1]{small} [hotel]{hotel}",
+      "entry": "landlord",
+      "id": "landlord#landlord__2"
+    },
+    {
+      "comment": "the person in a restaurant who is in charge of the waiters",
+      "entry": "maitre d\u2019",
+      "id": "maitre-d#maitre-d__1"
+    },
+    {
+      "comment": "someone who owns or manages a pub or bar",
+      "entry": "publican",
+      "id": "publican#publican__1"
+    },
+    {
+      "comment": "someone who [own_2]{owns} or [manage]{manages} a [restaurant]{restaurant}",
+      "entry": "restaurateur",
+      "id": "restaurateur#restaurateur__1"
+    },
+    {
+      "comment": "someone who [bring]{brings} you your [food]{food} in a [restaurant]{restaurant}",
+      "entry": "server",
+      "id": "server#server__2"
+    },
+    {
+      "comment": "a [waiter]{waiter} who [recommend]{recommends} and [serve_1]{serves} [wine_1]{wine}",
+      "entry": "sommelier",
+      "id": "sommelier#sommelier__1"
+    },
+    {
+      "comment": "a man whose [job_1]{job} is to [provide]{provide} [food]{food} and [drink_1]{drink} in a [club_1]{club}, [college]{college}, etc.",
+      "entry": "steward",
+      "id": "steward#steward__2"
+    },
+    {
+      "comment": "a man or [boy_1]{boy} who [bring]{brings} [food]{food} and [drink_1]{drink} to your [table_1]{table} in a [restaurant]{restaurant} or [bar_1]{bar}",
+      "entry": "waiter",
+      "id": "waiter#waiter__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [bring]{bring} [food]{food} and [drink_1]{drink} to your [table_1]{table} in a [restaurant]{restaurant} or [bar_1]{bar}",
+      "entry": "waiting staff",
+      "id": "waiting-staff#waiting-staff__1"
+    },
+    {
+      "comment": "a waiter or waitress. This word is used by people who think it is sexist to say waiter or waitress.",
+      "entry": "waitperson",
+      "id": "waitperson#waitperson__1"
+    },
+    {
+      "comment": "a [woman]{woman} or [girl]{girl} who [bring]{brings} [food]{food} and [drink_1]{drink} to your [table_1]{table} in a [restaurant]{restaurant} or [bar_1]{bar}",
+      "entry": "waitress",
+      "id": "waitress#waitress__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [bring]{bring} [food]{food} and [drink_1]{drink} to your [table_1]{table} in a [restaurant]{restaurant} or [bar_1]{bar}",
+      "entry": "waitstaff",
+      "id": "waitstaff#waitstaff__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [bring]{bring} [food]{food} and [drink_1]{drink} to your [table_1]{table} in a [restaurant]{restaurant} or [cafe]{caf\u00e9}",
+      "entry": "wait staff",
+      "id": "wait-staff#wait-staff__1"
+    }
+  ],
+  "thesaurus": "People who work in restaurants, cafes and bars",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is not [clear_1]{clear} because it has more than one [possible_1]{possible} [meaning_1]{meaning}",
+      "entry": "ambiguity",
+      "id": "ambiguity#ambiguity__1"
+    },
+    {
+      "comment": "not [clear_1]{clear} and therefore [capable]{capable} of being [understood]{understood} in more than one way",
+      "entry": "ambiguous",
+      "id": "ambiguous#ambiguous__1"
+    },
+    {
+      "comment": "without a [clear_1]{clear} [meaning_1]{meaning}",
+      "entry": "meaningless",
+      "id": "meaningless#meaningless__3"
+    },
+    {
+      "comment": "[express_1]{expressing} something in a [mysterious]{mysterious} or [indirect]{indirect} way so that it is [difficult]{difficult} to [understand]{understand}",
+      "entry": "cryptic",
+      "id": "cryptic#cryptic__1"
+    },
+    {
+      "comment": "a [double-edged]{double-edged} [comment_1]{comment} or [remark_1]{remark} can have two [completely]{completely} [different]{different} [meaning_1]{meanings}",
+      "entry": "double-edged",
+      "id": "double-edged#double-edged__2"
+    },
+    {
+      "comment": "an [equivocal]{equivocal} [statement_1]{statement} has more than one [possible_1]{possible} [meaning_1]{meaning} and is made in [order_1]{order} to [avoid]{avoid} [saying]{saying} something [clearly]{clearly}",
+      "entry": "equivocal",
+      "id": "equivocal#equivocal__1"
+    },
+    {
+      "comment": "[capable]{capable} of being [understood]{understood} in two [different]{different} ways or of [have]{having} both [good_1]{good} and [bad_1]{bad} [effect_1]{effects}",
+      "entry": "two-edged",
+      "id": "two-edged#two-edged__2"
+    },
+    {
+      "comment": "with no [real_1]{real} [meaning_1]{meaning}",
+      "entry": "hollow",
+      "id": "hollow_1#hollow_1__6"
+    },
+    {
+      "comment": "[nonsense]{nonsense} [word_1]{words} or [sound_1]{sounds} seem [like_1]{like} [ordinary]{ordinary} [word_1]{words} but they have no [meaning_1]{meaning}",
+      "entry": "nonsense",
+      "id": "nonsense#nonsense__11"
+    },
+    {
+      "comment": "not [clear_1]{clear}",
+      "entry": "ill-defined",
+      "id": "ill-defined#ill-defined__1"
+    }
+  ],
+  "thesaurus": "Not having a clear meaning",
+  "type": "Synonyms"
+}

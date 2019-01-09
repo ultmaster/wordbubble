@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "be seated",
+  "senses": [
+    {
+      "def": "to be [sitting]{sitting} down",
+      "examples": [
+        "When she [enter]{entered} the [room_1]{room} they were already [seat_2]{seated}.",
+        "Mrs. [summer]{Summer} was [seat_2]{seated} at the [table_1]{table} [directly_1]{directly} [opposite_1]{opposite} her [husband]{husband}.",
+        "The [emperor]{emperor} is [shown]{shown} [seat_2]{seated} on a [throne]{throne}."
+      ],
+      "id": "be-seated__1"
+    },
+    {
+      "def": "[used]{used} for [politely]{politely} [ask_1]{asking} someone to [sit]{sit} down",
+      "examples": [
+        "Please be [seat_2]{seated}."
+      ],
+      "id": "be-seated__5"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [word_1]{word} or [phrase_1]{phrase} that [means]{means} one thing and is [used]{used} for [refer]{referring} to another thing in [order_1]{order} to [emphasize]{emphasize} their [similar]{similar} [quality_1]{qualities}",
+      "examples": [
+        "He [use_1]{uses} the metaphor of the [family_1]{family} to describe the [role]{role} of the [state_1]{state}."
+      ],
+      "id": "metaphor__1"
+    },
+    {
+      "def": "something that is [intended_1]{intended} to [represent]{represent} another [situation]{situation} or [idea]{idea}",
+      "examples": [
+        "It is [easy_1]{easy} to see the [crumble]{crumbling} [building]{building} as a metaphor for the [society]{society} of the time."
+      ],
+      "id": "metaphor__4"
+    }
+  ],
+  "word": "metaphor"
+}

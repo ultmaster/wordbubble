@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "call in",
+  "senses": [
+    {
+      "def": "to [ask_1]{ask} a [person]{person} or [organization]{organization} that [provide]{provides} a [service_1]{service} to come and [deal_1]{deal} with something",
+      "examples": [
+        "The [company]{company} has [call_1]{called} in the [police_1]{police} to [investigate]{investigate}."
+      ],
+      "id": "call-in_1__1"
+    },
+    {
+      "def": "to [telephone_1]{telephone} a [radio_1]{radio} or [television]{television} [program_1]{program} with a [comment_1]{comment} or [question_1]{question}",
+      "examples": [
+        "It\u2019s a [hot]{hot} [topic]{topic}, and [people_1]{people} have been [calling]{calling} in all [morning_1]{morning}."
+      ],
+      "id": "call-in_1__3"
+    },
+    {
+      "def": "to [ask_1]{ask} or [tell_1]{tell} someone to come to a [place_1]{place}, [usually]{usually} so that you can [talk_1]{talk} to them",
+      "examples": [
+        "The [manager]{manager} [call_1]{called} me in and [demand_1]{demanded} an [explanation]{explanation}."
+      ],
+      "id": "call-in_1__5"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [pay_1]{pay} out [money]{money} from a [fund_1]{fund}",
+      "entry": "disburse",
+      "id": "disburse#disburse__1"
+    },
+    {
+      "comment": "to use [money]{money} to [pay_1]{pay} for [thing]{things}",
+      "entry": "spend",
+      "id": "spend#spend__1"
+    },
+    {
+      "comment": "to give [money]{money} in [order_1]{order} to [buy_1]{buy} something",
+      "entry": "pay",
+      "id": "pay_1#pay_1__1"
+    },
+    {
+      "comment": "to [spend]{spend} or [pay_1]{pay} [money]{money}, [especially]{especially} a [lot_1]{lot} of [money]{money}",
+      "entry": "pay out",
+      "id": "pay-out#pay-out__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} for something such as a [large_1]{large} [project_1]{project}",
+      "entry": "finance",
+      "id": "finance_2#finance_2__1"
+    },
+    {
+      "comment": "to [provide]{provide} the [money]{money} for something that [cost_1]{costs} a [lot_1]{lot}",
+      "entry": "fund",
+      "id": "fund_2#fund_2__1"
+    },
+    {
+      "comment": "to [spend]{spend} [money]{money} on something in [order_1]{order} to [improve_1]{improve} it or [make_1]{make} it more [successful]{successful}",
+      "entry": "invest in",
+      "id": "invest-in#invest-in__1"
+    },
+    {
+      "comment": "to [provide]{provide} a [large_1]{large} amount of [money]{money} for something",
+      "entry": "put up",
+      "id": "put-up#put-up__9"
+    },
+    {
+      "comment": "to [pay_1]{pay} for something",
+      "entry": "bear the cost/expense etc.",
+      "id": "bear-the-cost-expense-etc#bear-the-cost-expense-etc__1"
+    },
+    {
+      "comment": "to pay a lot for something: used for emphasizing that you spent a lot, especially when it has not been worth it",
+      "entry": "pay good money for something",
+      "id": "pay-good-money-for-something#pay-good-money-for-something__1"
+    }
+  ],
+  "thesaurus": "To spend or to pay money",
+  "type": "Synonyms"
+}

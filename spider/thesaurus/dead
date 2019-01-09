@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "no [long_1]{longer} [alive]{alive}",
+      "entry": "the dead",
+      "id": "dead_1#dead_1__1"
+    },
+    {
+      "comment": "[dead_1]{dead}",
+      "entry": "deceased",
+      "id": "deceased#deceased__1"
+    },
+    {
+      "comment": "not [alive]{alive}",
+      "entry": "inanimate",
+      "id": "inanimate#inanimate__1"
+    },
+    {
+      "comment": "someone who is [lifeless]{lifeless} is [dead_1]{dead} or [look_1]{looks} [dead_1]{dead}",
+      "entry": "lifeless",
+      "id": "lifeless#lifeless__2"
+    },
+    {
+      "comment": "[unconscious_1]{unconscious}, or [dead_1]{dead}",
+      "entry": "unresponsive",
+      "id": "unresponsive#unresponsive__3"
+    },
+    {
+      "comment": "[kill_1]{killed}, [especially]{especially} while [fighting]{fighting} in the [military]{military}",
+      "entry": "lost",
+      "id": "lost_1#lost_1__16"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone is [dead_1]{dead} and therefore has no more [worry_1]{worries}",
+      "entry": "at peace",
+      "id": "at-peace#at-peace__2"
+    },
+    {
+      "comment": "an [expression]{expression} [meaning_1]{meaning} \u201c[dead_1]{dead},\u201d [used]{used} in [situation]{situations} where the [word_1]{word} \u201c[dead_1]{dead}\u201d might [upset_1]{upset} someone",
+      "entry": "at rest",
+      "id": "at-rest#at-rest__3"
+    },
+    {
+      "comment": "[dead_1]{dead}",
+      "entry": "the departed",
+      "id": "departed#departed__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about someone who has [die_1]{died}, [especially]{especially} [recently]{recently}",
+      "entry": "late",
+      "id": "late_1#late_1__21"
+    }
+  ],
+  "thesaurus": "Dead",
+  "type": "Synonyms"
+}

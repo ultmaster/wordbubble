@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "a [particular_1]{particular} [position_1]{position} of the [finger_1]{fingers} on the [guitar]{guitar}, [produce_1]{producing} a [particular_1]{particular} [sound_1]{sound}",
+      "entry": "chord",
+      "id": "chord#chord__2"
+    },
+    {
+      "comment": "the [loud_1]{loudest} part of a [piece_1]{piece} of [music]{music}",
+      "entry": "crescendo",
+      "id": "crescendo#crescendo__2"
+    },
+    {
+      "comment": "a [strange_1]{strange} [sound_1]{sound} in a [piece_1]{piece} of [music]{music}, made by [play_1]{playing} an [unusual]{unusual} [combination]{combination} of [note_1]{notes} at the same time",
+      "entry": "discord",
+      "id": "discord#discord__2"
+    },
+    {
+      "comment": "an unpleasant sound created when musical notes played together are not in harmony",
+      "entry": "dissonance",
+      "id": "dissonance#dissonance__2"
+    },
+    {
+      "comment": "the [action_1]{action} or [sound_1]{sound} of [play_1]{playing} [drum_1]{drums}",
+      "entry": "drumming",
+      "id": "drumming#drumming__3"
+    },
+    {
+      "comment": "a continuous series of beats of a drum that shows that something exciting or important is going to happen",
+      "entry": "drumroll",
+      "id": "drumroll#drumroll__1"
+    },
+    {
+      "comment": "[musical_1]{musical} [note_1]{notes} that are [sung]{sung} or [play_1]{played} at the same time, [making]{making} a [pleasant]{pleasant} [sound_1]{sound}",
+      "entry": "harmony",
+      "id": "harmony#harmony__5"
+    },
+    {
+      "comment": "a [pleasant]{pleasant} [rising]{rising} and [fall_1]{falling} [pattern_1]{pattern} of [sound_1]{sounds} in the way that someone [talk_1]{talks} or in a [piece_1]{piece} of [music]{music}",
+      "entry": "lilt",
+      "id": "lilt#lilt__1"
+    },
+    {
+      "comment": "one of the [system]{systems} [available]{available} for [arrange]{arranging} [musical_1]{musical} [note_1]{notes} into [tune_1]{tunes}",
+      "entry": "mode",
+      "id": "mode#mode__9"
+    },
+    {
+      "comment": "[sound_1]{sounds} made by [voice_1]{voices} or [instrument]{instruments} [arrange]{arranged} in a way that is [pleasant]{pleasant} to [listen_1]{listen} to",
+      "entry": "music",
+      "id": "music#music__1"
+    },
+    {
+      "comment": "a musical effect produced by a piece of electronic equipment in which a sound is repeated like an echo",
+      "entry": "reverb",
+      "id": "reverb#reverb__1"
+    },
+    {
+      "comment": "a [regular_1]{regular} [pattern_1]{pattern} of [sound_1]{sounds} in [music]{music} that you can show by [moving]{moving}, [hit_1]{hitting} your [hand_1]{hands} together, or [hit_1]{hitting} a [drum_1]{drum} or other [surface_1]{surface}",
+      "entry": "rhythm",
+      "id": "rhythm#rhythm__1"
+    },
+    {
+      "comment": "a continuous low sound made by drums or thunder",
+      "entry": "roll",
+      "id": "roll_2#roll_2__18"
+    },
+    {
+      "comment": "the [particular_1]{particular} [musical_1]{musical} [style_1]{style} of a [person]{person}, [band_1]{band}, or [place_1]{place}",
+      "entry": "sound",
+      "id": "sound_1#sound_1__11"
+    },
+    {
+      "comment": "the [sound_1]{sound} of some [music]{music}",
+      "entry": "strains",
+      "id": "strain_1#strain_1__14"
+    },
+    {
+      "comment": "the [emphasis]{emphasis} that you put on a [particular_1]{particular} [musical_1]{musical} [note_1]{note} or [sound_1]{sound} by [play_1]{playing} or [sing_1]{singing} it more [loud_1#loud_1__12]{loudly} or with [great_1]{greater} [force_1]{force} than other [note_1]{notes} or [sound_1]{sounds}",
+      "entry": "stress",
+      "id": "stress_1#stress_1__16"
+    },
+    {
+      "comment": "a signal that tells soldiers to return to their buildings at night, played on a drum or a bugle",
+      "entry": "tattoo",
+      "id": "tattoo_1#tattoo_1__3"
+    },
+    {
+      "comment": "the [quality_1]{quality} of [sound_1]{sound} that a [particular_1]{particular} [voice_1]{voice} or [musical_1]{musical} [instrument]{instrument} has",
+      "entry": "timbre",
+      "id": "timbre#timbre__1"
+    },
+    {
+      "comment": "the [quality_1]{quality} of the [sound_1]{sound} made by a [musical_1]{musical} [instrument]{instrument}, [voice_1]{voice}, or [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment}",
+      "entry": "tone",
+      "id": "tone_1#tone_1__14"
+    },
+    {
+      "comment": "the sound that a musical instrument such as a horn, trumpet, or trombone makes",
+      "entry": "toot",
+      "id": "toot_1#toot_1__2"
+    },
+    {
+      "comment": "a [musical_1]{musical} [sound_1]{sound} made by [sing_1]{singing} or [play_1]{playing} two [similar]{similar} [note_1]{notes} one after the other very [quickly]{quickly}",
+      "entry": "trill",
+      "id": "trill_1#trill_1__1"
+    }
+  ],
+  "thesaurus": "Musical sounds",
+  "type": "Related words"
+}

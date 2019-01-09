@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[happening_1]{happening} [frequently]{frequently}, or [existing]{existing} in [large_1]{large} [amount_1]{amounts} or [number_1]{numbers}",
+      "entry": "common",
+      "id": "common_1#common_1__1"
+    },
+    {
+      "comment": "[existing]{existing} in [large_1]{large} [number_1]{numbers}",
+      "entry": "numerous",
+      "id": "numerous#numerous__1"
+    },
+    {
+      "comment": "[prevailing]{prevailing} [attitude]{attitudes} or [type_1]{types} of [behavior]{behavior} are the ones that are most [common_1]{common} or have most [influence_1]{influence}",
+      "entry": "prevailing",
+      "id": "prevailing#prevailing__3"
+    },
+    {
+      "comment": "a [familiar]{familiar} [sight_1]{sight}, [problem]{problem}, etc. is [common_1]{common} and [happen]{happens} a [lot_1]{lot}",
+      "entry": "familiar",
+      "id": "familiar#familiar__6"
+    },
+    {
+      "comment": "very [common_1]{common} in a [particular_1]{particular} [place_1]{place} or among a [particular_1]{particular} [group_1]{group}",
+      "entry": "prevalent",
+      "id": "prevalent#prevalent__1"
+    },
+    {
+      "comment": "the most [common_1]{common} or [great_1]{greatest} in [number_1]{number} or amount",
+      "entry": "predominant",
+      "id": "predominant#predominant__1"
+    },
+    {
+      "comment": "[existing]{existing} over a [large_1]{large} [area]{area} or in many [area]{areas}",
+      "entry": "diffuse",
+      "id": "diffuse_2#diffuse_2__1"
+    },
+    {
+      "comment": "[existing]{existing} in [large_1]{large} [number_1]{numbers}",
+      "entry": "prolific",
+      "id": "prolific#prolific__7"
+    },
+    {
+      "comment": "if something [bad_1]{bad} or [unpleasant]{unpleasant} is [rife]{rife}, there is a [lot_1]{lot} of it",
+      "entry": "rife",
+      "id": "rife#rife__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is very [common_1]{common}",
+      "entry": "be everywhere",
+      "id": "be-everywhere#be-everywhere__1"
+    }
+  ],
+  "thesaurus": "Common and existing in large numbers",
+  "type": "Synonyms"
+}

@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "meet up",
+  "senses": [
+    {
+      "def": "to come together with someone, either [unexpected#unexpected__4]{unexpectedly} or as [plan_2]{planned}",
+      "examples": [
+        "We [usually]{usually} [meet_1]{meet} up for a [quick_1]{quick} [sandwich_1]{sandwich} in the [morning_1]{morning}.",
+        "I met up with him as I [left_1]{left} the [building]{building}."
+      ],
+      "id": "meet-up__1"
+    },
+    {
+      "def": "if [road]{roads}, [street_1]{streets}, etc. [meet_1]{meet} up, they [join_1]{join} or cross each other",
+      "examples": [
+        "The [street_1]{streets} [meet_1]{meet} up at the next [intersection]{intersection}.",
+        "The [track_1]{track} [meet_1]{meets} up with the [main_1]{main} [road]{road} [ahead]{ahead}."
+      ],
+      "id": "meet-up__4"
+    }
+  ]
+}

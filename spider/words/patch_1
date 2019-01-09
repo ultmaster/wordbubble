@@ -1,0 +1,52 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [cloth]{cloth} that you sew over a hole in [clothes]{clothes}, or over a part where [hole_1]{holes} might form",
+      "examples": [
+        "She [wore]{wore} a [sweater]{sweater} with [patch_1]{patches} on the [elbow_1]{elbows}.",
+        "an [eye_1]{eye} patch",
+        "She had [sewn]{sewn} [colorful]{colorful} [patch_1]{patches} on her [jeans]{jeans}."
+      ],
+      "id": "patch_1__1"
+    },
+    {
+      "def": "an [area]{area} that is [different]{different} from what [surround_1]{surrounds} it",
+      "examples": [
+        "[icy]{Icy} [patch_1]{patches} are [likely_1]{likely} on some [road]{roads}.",
+        "The [male_1]{male} has a [distinctive]{distinctive} [white_1]{white} patch on its tail.",
+        "There were [damp_1]{damp} [patch_1]{patches} on the [ceiling]{ceiling}.",
+        "We [sat_1]{sat} down in a patch of [shade_1]{shade}."
+      ],
+      "id": "patch_1__7"
+    },
+    {
+      "def": "a [piece_1]{piece} of [ground_1]{ground}, [especially]{especially} one where you [grow]{grow} [fruit_1]{fruit} or [vegetable]{vegetables}, or where a [particular_1]{particular} [plant_1]{plant} [grow]{grows}",
+      "examples": [
+        "the [carrot]{carrot} patch",
+        "a patch of [nettle_1]{nettles}/[grass]{grass}/[scrub_1]{scrub}",
+        "The \u201c[lawn]{lawn}\u201d was [just_1]{just} a [tiny]{tiny} patch of [grass]{grass}."
+      ],
+      "id": "patch_1__12"
+    },
+    {
+      "def": "an [area]{area} that someone [think_1]{thinks} of as [belong]{belonging} to them, for [example]{example} because they [live_1]{live} or [work_1]{work} there",
+      "examples": [],
+      "id": "patch_1__16"
+    },
+    {
+      "def": "a [piece_1]{piece} of [software]{software} that you [add_1]{add} to a computer [program_1]{program} in [order_1]{order} to [improve_1]{improve} it or [remove]{remove} a [fault_1]{fault}",
+      "examples": [
+        "You can [download_1]{download} this patch from our [website]{website}."
+      ],
+      "id": "patch_1__17"
+    },
+    {
+      "def": "a [nicotine-patch]{nicotine patch}",
+      "examples": [],
+      "id": "patch_1__19"
+    }
+  ],
+  "word": "patch"
+}

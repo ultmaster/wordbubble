@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to have a [job_1]{job}, [usually]{usually} one that you are [paid_1]{paid} to do",
+      "entry": "work",
+      "id": "work_1#work_1__1"
+    },
+    {
+      "comment": "to do a [job_1]{job} or to [perform]{perform} [duty]{duties} for a [person]{person} or [organization]{organization}",
+      "entry": "serve",
+      "id": "serve_1#serve_1__13"
+    },
+    {
+      "comment": "to [work_1]{work} with someone in [order_1]{order} to [produce_1]{produce} something",
+      "entry": "collaborate",
+      "id": "collaborate#collaborate__1"
+    },
+    {
+      "comment": "to do some [work_1]{work} without [get]{getting} [paid_1]{paid}",
+      "entry": "volunteer",
+      "id": "volunteer_2#volunteer_2__5"
+    },
+    {
+      "comment": "to be a [worker]{worker} in an [organization]{organization}",
+      "entry": "staff",
+      "id": "staff_2#staff_2__3"
+    },
+    {
+      "comment": "to do someone\u2019s [work_1]{work} while they are [sick_1]{sick} or not there",
+      "entry": "cover for",
+      "id": "cover-for#cover-for__1"
+    },
+    {
+      "comment": "to do the [job_1]{job} that someone [used]{used} to do",
+      "entry": "fill someone\u2019s shoes",
+      "id": "fill-someone-s-shoes#fill-someone-s-shoes__1"
+    },
+    {
+      "comment": "to have another use or [job_1]{job} as something",
+      "entry": "double as",
+      "id": "double-as#double-as__1"
+    },
+    {
+      "comment": "to do [work_1]{work} for someone else in your [home_1]{home}",
+      "entry": "take in",
+      "id": "take-in#take-in__13"
+    },
+    {
+      "comment": "to [work_1]{work} for yourself and not be [employ_1]{employed} by someone else",
+      "entry": "be your own boss",
+      "id": "be-your-own-boss#be-your-own-boss__1"
+    }
+  ],
+  "thesaurus": "To work, and to work in a particular way",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [decide]{decide} the [date_1]{date} when something will [happen]{happen}",
+      "entry": "fix",
+      "id": "fix_1#fix_1__18"
+    },
+    {
+      "comment": "to [arrange]{arrange} something so that it [happen]{happens} at a [particular_1]{particular} time",
+      "entry": "time",
+      "id": "time_2#time_2__5"
+    },
+    {
+      "comment": "to [plan_1]{plan} for something to [happen]{happen} at a [particular_1]{particular} time",
+      "entry": "schedule",
+      "id": "schedule_2#schedule_2__1"
+    },
+    {
+      "comment": "to [change_1]{change} the time or [date_1]{date} of an [event]{event}, [meeting]{meeting}, [activity]{activity}, etc.",
+      "entry": "move",
+      "id": "move_1#move_1__26"
+    },
+    {
+      "comment": "to [make_1]{make} something [happen]{happen} [later_1]{later} than it should [happen]{happen}",
+      "entry": "put back",
+      "id": "put-back#put-back__7"
+    },
+    {
+      "comment": "to [change_1]{change} the [date_1]{date} or time of an [event]{event} so that it [happen]{happens} [earlier_1]{earlier}",
+      "entry": "bring forward",
+      "id": "bring-forward#bring-forward__1"
+    },
+    {
+      "comment": "to [decide]{decide} that something will not be done at the time when it was [plan_2]{planned} for, but at a [later_1]{later} time",
+      "entry": "postpone",
+      "id": "postpone#postpone__1"
+    },
+    {
+      "comment": "to [change_1]{change} the time when something is [plan_2]{planned} to [happen]{happen}",
+      "entry": "reschedule",
+      "id": "reschedule#reschedule__1"
+    },
+    {
+      "comment": "to [change_1]{change} the time or [date_1]{date} of something so that it [happen]{happens} [later_1]{later} than [originally]{originally} [plan_2]{planned}, [especially]{especially} because of a [problem]{problem}",
+      "entry": "put off",
+      "id": "put-off#put-off__5"
+    },
+    {
+      "comment": "to [arrange]{arrange} for an [event]{event}, [meeting]{meeting}, etc. to take [place_1]{place} at a [different]{different} time",
+      "entry": "rearrange",
+      "id": "rearrange#rearrange__1"
+    }
+  ],
+  "thesaurus": "To choose, or to change the timing of something",
+  "type": "Synonyms"
+}

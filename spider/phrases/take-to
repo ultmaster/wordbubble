@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "take to",
+  "senses": [
+    {
+      "def": "to [begin]{begin} to [like_1]{like} someone or something",
+      "examples": [
+        "I [took]{took} to [john]{John} [immediately]{immediately}."
+      ],
+      "id": "take-to__1"
+    },
+    {
+      "def": "to [start_1]{start} [doing]{doing} something as a [habit]{habit}",
+      "examples": [
+        "[recently]{Recently} he\u2019s [taken_1]{taken} to [wearing]{wearing} a hat."
+      ],
+      "id": "take-to__3"
+    },
+    {
+      "def": "to go to a [place_1]{place}, [especially]{especially} your [bed_1]{bed}",
+      "examples": [
+        "Joanne [say_1]{says} she\u2019s [sick_1]{sick}, and she\u2019s [taken_1]{taken} to her [bed_1]{bed}."
+      ],
+      "id": "take-to__5"
+    }
+  ]
+}

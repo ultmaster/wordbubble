@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "talk through",
+  "senses": [
+    {
+      "def": "to [explain]{explain} to someone in detail how something should be done",
+      "examples": [
+        "He [talk_1]{talked} me through the whole [process_1]{process}."
+      ],
+      "id": "talk-through__1"
+    },
+    {
+      "def": "to [discuss]{discuss} a [plan_1]{plan} or a [situation]{situation} in a [detailed]{detailed} way",
+      "examples": [
+        "The [president_1]{president} [talk_1]{talked} through all the [military]{military} [option]{options}."
+      ],
+      "id": "talk-through__3"
+    }
+  ]
+}

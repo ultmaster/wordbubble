@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "within a [short_1]{short} time from now",
+      "entry": "soon",
+      "id": "soon#soon__1"
+    },
+    {
+      "comment": "[soon]{soon}, or [happening_1]{happening} only a [short_1]{short} [period_1]{period} of time after something",
+      "entry": "shortly",
+      "id": "shortly#shortly__1"
+    },
+    {
+      "comment": "[soon]{soon}, or at a [particular_1]{particular} time",
+      "entry": "just",
+      "id": "just_1#just_1__2"
+    },
+    {
+      "comment": "[likely_1]{likely} or [certain_1]{certain} to [happen]{happen} very [soon]{soon}",
+      "entry": "imminent",
+      "id": "imminent#imminent__1"
+    },
+    {
+      "comment": "very [soon]{soon}, or very [quickly]{quickly}",
+      "entry": "in no time (at all)",
+      "id": "in-no-time-at-all#in-no-time-at-all__1"
+    },
+    {
+      "comment": "as [soon]{soon} as [possible_1]{possible}",
+      "entry": "at the earliest/first opportunity",
+      "id": "at-the-earliest-first-opportunity#at-the-earliest-first-opportunity__1"
+    },
+    {
+      "comment": "only a [short_1]{short} time [away_1]{away}, or [separated]{separated} by only a [short_1]{short} time",
+      "entry": "close",
+      "id": "close_2#close_2__8"
+    },
+    {
+      "comment": "very [soon]{soon}",
+      "entry": "any day/moment etc. now",
+      "id": "any-day-moment-etc-now#any-day-moment-etc-now__1"
+    },
+    {
+      "comment": "during the [period_1]{period} of time that is not very [far]{far} into the [future_1]{future}",
+      "entry": "in the short run/term",
+      "id": "in-the-short-run-term#in-the-short-run-term__1"
+    },
+    {
+      "comment": "coming very [soon]{soon}",
+      "entry": "around the corner",
+      "id": "around-the-corner#around-the-corner__3"
+    }
+  ],
+  "thesaurus": "Soon and as soon as possible",
+  "type": "Synonyms"
+}

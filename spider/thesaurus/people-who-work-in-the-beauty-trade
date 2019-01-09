@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "someone whose [job_1]{job} is to [cut_1]{cut} [men]{men}\u2019s [hair]{hair}.",
+      "entry": "barber",
+      "id": "barber#barber__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to give [people_1]{people} [beauty_1]{beauty} [treatment]{treatments} or [cut_1]{cut} and [style_1]{style} [women]{women}\u2019s [hair]{hair}",
+      "entry": "beautician",
+      "id": "beautician#beautician__1"
+    },
+    {
+      "comment": "someone whose job is to cut people\u2019s hair. The place they work in is called a hairdresser\u2019s.",
+      "entry": "hairdresser",
+      "id": "hairdresser#hairdresser__1"
+    },
+    {
+      "comment": "someone whose job is to give people manicures",
+      "entry": "manicurist",
+      "id": "manicurist#manicurist__1"
+    },
+    {
+      "comment": "someone whose job is to give people massages",
+      "entry": "masseur",
+      "id": "masseur#masseur__1"
+    },
+    {
+      "comment": "a woman whose job is to give people massages",
+      "entry": "masseuse",
+      "id": "masseuse#masseuse__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to do [pedicure]{pedicures}",
+      "entry": "pedicurist",
+      "id": "pedicurist#pedicurist__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [cut_1]{cut} and [arrange]{arrange} someone\u2019s [hair]{hair} in an [attractive]{attractive} way",
+      "entry": "stylist",
+      "id": "stylist#stylist__1"
+    }
+  ],
+  "thesaurus": "People who work in the beauty trade",
+  "type": "Related words"
+}

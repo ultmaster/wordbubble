@@ -1,0 +1,27 @@
+{
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "in a way that is [related_1]{related} to the [appearance]{appearance} of something",
+      "examples": [
+        "It\u2019s a visually [stunning]{stunning} [movie]{movie}."
+      ],
+      "id": "visually__1"
+    },
+    {
+      "def": "in a way that is [related_1]{related} to [sight_1]{sight}",
+      "examples": [
+        "visually [handicapped]{handicapped}/[impaired]{impaired}"
+      ],
+      "id": "visually__3"
+    },
+    {
+      "def": "in a way that [involve]{involves} [look_1]{looking} at something",
+      "examples": [
+        "The [filter_1]{filters} are [inspect]{inspected} visually every [month]{month}."
+      ],
+      "id": "visually__5"
+    }
+  ],
+  "word": "visually"
+}

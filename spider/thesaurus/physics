@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a measurement of how much space a particular amount of a substance takes up. It is found by dividing its mass by its volume.",
+      "entry": "density",
+      "id": "density#density__3"
+    },
+    {
+      "comment": "the distance from the center of a lens or mirror to its focal point",
+      "entry": "focal length",
+      "id": "focal-length#focal-length__1"
+    },
+    {
+      "comment": "the point where light rays meet after being reflected by a mirror or passing through a lens, or the point from which they seem to start to spread",
+      "entry": "focal point",
+      "id": "focal-point#focal-point__3"
+    },
+    {
+      "comment": "a [focal]{focal} [point_1]{point}",
+      "entry": "focus",
+      "id": "focus_2#focus_2__23"
+    },
+    {
+      "comment": "a theory that is intended to explain how subatomic particles behave",
+      "entry": "grand unified theory",
+      "id": "grand-unified-theory#grand-unified-theory__1"
+    },
+    {
+      "comment": "an area that the power of a magnet affects",
+      "entry": "magnetic field",
+      "id": "magnetic-field#magnetic-field__1"
+    },
+    {
+      "comment": "either end of a magnet, where its force is strongest",
+      "entry": "magnetic pole",
+      "id": "magnetic-pole#magnetic-pole__2"
+    },
+    {
+      "comment": "the weight of something divided by the weight of the same volume of water",
+      "entry": "specific gravity",
+      "id": "specific-gravity#specific-gravity__1"
+    }
+  ],
+  "thesaurus": "Physics",
+  "type": "Related words"
+}

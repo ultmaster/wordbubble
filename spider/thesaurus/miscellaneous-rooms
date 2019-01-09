@@ -1,0 +1,141 @@
+{
+  "entries": [
+    {
+      "comment": "a small room with controlled air pressure that you use to move between two places with different air pressure",
+      "entry": "airlock",
+      "id": "airlock#airlock__1"
+    },
+    {
+      "comment": "an [anteroom]{anteroom}",
+      "entry": "antechamber",
+      "id": "antechamber#antechamber__1"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} that [lead_1]{leads} to a [large_1]{larger} and more [important]{important} [room_1]{room}",
+      "entry": "anteroom",
+      "id": "anteroom#anteroom__1"
+    },
+    {
+      "comment": "a [large_1]{large} [open_1]{open} [hall]{hall} that [go_1]{goes} up through all the [level_1]{levels} of a [building]{building} to the [roof_1]{roof}, which is [usually]{usually} made of [glass]{glass}",
+      "entry": "atrium",
+      "id": "atrium#atrium__1"
+    },
+    {
+      "comment": "an area or room that contains one or more boilers for producing power or hot water",
+      "entry": "boiler room",
+      "id": "boiler-room#boiler-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} from which [people_1]{people} [try_1]{try} to [sell_1]{sell} [product]{products} or [service_1]{services} of [little_1]{little} or no [value_1]{value}, [usually]{usually} by [telephone_1]{telephone}, and often by [use_1]{using} [unfair]{unfair} or [illegal_1]{illegal} [method]{methods}",
+      "entry": "boiler room",
+      "id": "boiler-room#boiler-room__2"
+    },
+    {
+      "comment": "an [enclosed]{enclosed} [space_1]{space}, [big_1]{big} enough for one [person]{person}, where you can do something without other [people_1]{people} [seeing]{seeing} or [hearing]{hearing} you, [especially]{especially} [vote_1]{vote} or [make_1]{make} a [phone_1]{phone} call",
+      "entry": "booth",
+      "id": "booth#booth__1"
+    },
+    {
+      "comment": "a [room_1]{room} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "chamber",
+      "id": "chamber#chamber__4"
+    },
+    {
+      "comment": "a [room_1]{room} in which [people_1]{people} can [change_1]{change} their [clothes]{clothes} before and after [play_1]{playing} a [sport_1]{sport}",
+      "entry": "changing room",
+      "id": "changing-room#changing-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} that [contain]{contains} [equipment]{equipment} [used]{used} for [operate]{operating} [machine_1]{machines} or [organize]{organizing} an [activity]{activity} that [involve]{involves} a [lot_1]{lot} of [people_1]{people}",
+      "entry": "control room",
+      "id": "control-room#control-room__1"
+    },
+    {
+      "comment": "a [small_1]{small} [enclosed]{enclosed} [area]{area} in a [room_1]{room}, [separated]{separated} from the rest of the [room_1]{room} by thin [wall_1]{walls} or [curtain]{curtains}",
+      "entry": "cubicle",
+      "id": "cubicle#cubicle__1"
+    },
+    {
+      "comment": "a [small_1]{small} [separate_1]{separate} [building]{building} where [food]{food} is [prepared]{prepared} and [cooked]{cooked} in [order_1]{order} to [prevent]{prevent} [smell_1]{smells} from [enter]{entering} the [house_1]{house}",
+      "entry": "dirty kitchen",
+      "id": "dirty-kitchen#dirty-kitchen__1"
+    },
+    {
+      "comment": "a [room_1]{room} [used]{used} by a [performer]{performer} or [sport_1]{sports} [player]{players} for [prepare]{preparing} for a [performance]{performance} or [game_1]{game}",
+      "entry": "dressing room",
+      "id": "dressing-room#dressing-room__2"
+    },
+    {
+      "comment": "a [room_1]{room} that you [pass_1]{pass} through to go into the [main_1]{main} part of a [building]{building}",
+      "entry": "entryway",
+      "id": "entryway#entryway__1"
+    },
+    {
+      "comment": "an [extra_1]{extra} [room_1]{room} or [room_1]{rooms} [added]{added} to a [building]{building}",
+      "entry": "extension",
+      "id": "extension#extension__12"
+    },
+    {
+      "comment": "a [place_1]{place} or [room_1]{room} where only a few [people_1]{people} are [allow]{allowed} to go",
+      "entry": "holy of holies",
+      "id": "holy-of-holies#holy-of-holies__2"
+    },
+    {
+      "comment": "a [room_1]{room} where you [prepare]{prepare} and [cook_1]{cook} [food]{food}, and [wash_1]{wash} [dish_1]{dishes}",
+      "entry": "kitchen",
+      "id": "kitchen#kitchen__1"
+    },
+    {
+      "comment": "a [small_1]{small} [area]{area} [used]{used} as a [kitchen]{kitchen}",
+      "entry": "kitchenette",
+      "id": "kitchenette#kitchenette__1"
+    },
+    {
+      "comment": "the [room_1]{room} or [home_1]{home} of a [frightening]{frightening} or [dangerous]{dangerous} [person]{person}",
+      "entry": "lair",
+      "id": "lair#lair__4"
+    },
+    {
+      "comment": "a room at the top of a lighthouse that contains the light",
+      "entry": "lantern",
+      "id": "lantern#lantern__2"
+    },
+    {
+      "comment": "a round building or room, especially one that has a dome  (=a curved roof)",
+      "entry": "rotunda",
+      "id": "rotunda#rotunda__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [house_1]{house} or [room_1]{room}",
+      "entry": "shoebox",
+      "id": "shoebox#shoebox__2"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} or [area]{area} with a [shower_1]{shower}",
+      "entry": "shower",
+      "id": "shower_1#shower_1__3"
+    },
+    {
+      "comment": "a room in which an artist such as a painter or sculptor works",
+      "entry": "studio",
+      "id": "studio#studio__7"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about the [room_1]{room} that you are in",
+      "entry": "these four walls",
+      "id": "these-four-walls#these-four-walls__1"
+    },
+    {
+      "comment": "a [room_1]{room} between the [outside]{outside} [door_1]{door} and the [main_1]{main} part of a [building]{building} or [house_1]{house}",
+      "entry": "vestibule",
+      "id": "vestibule#vestibule__1"
+    },
+    {
+      "comment": "a [room_1]{room} with [washing]{washing} and [toilet]{toilet} [facility]{facilities} in a [factory]{factory} or [office]{office} [block_1]{block}",
+      "entry": "washroom",
+      "id": "washroom#washroom__2"
+    }
+  ],
+  "thesaurus": "Miscellaneous rooms",
+  "type": "Related words"
+}

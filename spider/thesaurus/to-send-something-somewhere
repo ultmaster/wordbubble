@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [mail_1]{mail} a [letter_1]{letter} or [package_1]{package} to someone",
+      "entry": "send",
+      "id": "send#send__1"
+    },
+    {
+      "comment": "to [arrange]{arrange} for something to be [taken_1]{taken} to a [place_1]{place}",
+      "entry": "send",
+      "id": "send#send__6"
+    },
+    {
+      "comment": "to [send_1]{send} [goods]{goods} or [people_1]{people} somewhere by [ship_1]{ship}",
+      "entry": "ship",
+      "id": "ship_2#ship_2__1"
+    },
+    {
+      "comment": "to [send_1]{send} a [lot_1]{lot} of [copy_1]{copies} of the same [document_1]{document} to a [large_1]{large} [number_1]{number} of [people_1]{people}",
+      "entry": "send out",
+      "id": "send-out#send-out__1"
+    },
+    {
+      "comment": "to [send_1]{send} something to all the [member]{members} of a [group_1]{group} of [people_1]{people}",
+      "entry": "circulate",
+      "id": "circulate#circulate__5"
+    },
+    {
+      "comment": "to [send_1]{send} something, for [example]{example} in the [mail_1]{mail}",
+      "entry": "get off",
+      "id": "get-off#get-off__9"
+    },
+    {
+      "comment": "to [send_1]{send} someone or something somewhere",
+      "entry": "dispatch",
+      "id": "dispatch_1#dispatch_1__1"
+    },
+    {
+      "comment": "to [quickly]{quickly} [send_1]{send} a [message_1]{message} or give [instruction]{instructions}",
+      "entry": "fire off",
+      "id": "fire-off#fire-off__1"
+    },
+    {
+      "comment": "to [send_1]{send} a [copy_1]{copy} of a [message_1]{message} or [letter_1]{letter} to someone",
+      "entry": "copy to",
+      "id": "copy-to#copy-to__1"
+    },
+    {
+      "comment": "to [send_1]{send} something to a [person]{person} or [place_1]{place}",
+      "entry": "get",
+      "id": "get#get__93"
+    }
+  ],
+  "thesaurus": "To send something somewhere",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} in the [period_1]{period} of time that has [just_1]{just} [finished]{finished}",
+      "entry": "past",
+      "id": "past_3#past_3__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} how much time has [pass_1]{passed} since something [happen]{happened}",
+      "entry": "ago",
+      "id": "ago#ago__1"
+    },
+    {
+      "comment": "at a time in the [past_1]{past}",
+      "entry": "before",
+      "id": "before#before__9"
+    },
+    {
+      "comment": "before the [present_1]{present} time, or before the time you are [discuss]{discussing}",
+      "entry": "previously",
+      "id": "previously#previously__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something has [happen]{happened} before now or before another [point_1]{point} in time",
+      "entry": "already",
+      "id": "already#already__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something [happen]{happened} at some time in the [past_1]{past}",
+      "entry": "once",
+      "id": "once#once__10"
+    },
+    {
+      "comment": "in the [past_1]{past}, but not now",
+      "entry": "at one time",
+      "id": "at-one-time#at-one-time__1"
+    },
+    {
+      "comment": "on a [day]{day} in the [past_1]{past}",
+      "entry": "one day",
+      "id": "one-day#one-day__3"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about a [situation]{situation} that [exist]{existed} in the [past_1]{past} but no [long_1]{longer} [exist]{exists}, [especially]{especially} when it was [better_1]{better} than the [situation]{situation} now",
+      "entry": "once upon a time",
+      "id": "once-upon-a-time#once-upon-a-time__3"
+    },
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} at any [earlier_1]{earlier} time",
+      "entry": "past",
+      "id": "past_3#past_3__5"
+    }
+  ],
+  "thesaurus": "Existing, happening in or relating to a time in the past",
+  "type": "Synonyms"
+}

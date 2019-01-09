@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to [state_1]{state} a [fact]{fact} that is [inaccurate]{inaccurate}",
+      "entry": "misspeak",
+      "id": "misspeak#misspeak__1"
+    },
+    {
+      "comment": "if something [deceive]{deceives} you, it [give_1]{gives} you a [false]{false} [idea]{idea} about something else",
+      "entry": "deceive",
+      "id": "deceive#deceive__5"
+    },
+    {
+      "comment": "to [invent]{invent} an [explanation]{explanation} for something, [especially]{especially} in [order_1]{order} to [avoid]{avoid} being [punish]{punished} or [embarrassed]{embarrassed}",
+      "entry": "make up",
+      "id": "make-up#make-up__1"
+    },
+    {
+      "comment": "to [make_1]{make} up a [story]{story}, [excuse_1]{excuse}, etc. that is not [true_1]{true}",
+      "entry": "invent",
+      "id": "invent#invent__6"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [say_1]{say} something that is not [true_1]{true}",
+      "entry": "lie",
+      "id": "lie_1#lie_1__25"
+    },
+    {
+      "comment": "to [invent]{invent} a [false]{false} [explanation]{explanation} or [false]{false} [information]{information}, [especially]{especially} for a [dishonest]{dishonest} [purpose]{purpose}",
+      "entry": "concoct",
+      "id": "concoct#concoct__1"
+    },
+    {
+      "comment": "to [make_1]{make} up a [story]{story} or [piece_1]{piece} of [information]{information} in [order_1]{order} to [make_1]{make} someone [believe]{believe} something that is not [true_1]{true}",
+      "entry": "fabricate",
+      "id": "fabricate#fabricate__1"
+    },
+    {
+      "comment": "to [make_1]{make} up a [story]{story} that is not [true_1]{true}",
+      "entry": "manufacture",
+      "id": "manufacture_1#manufacture_1__5"
+    },
+    {
+      "comment": "to [make_1]{make} someone [believe]{believe} something that is [incorrect]{incorrect} or not [true_1]{true}",
+      "entry": "mislead",
+      "id": "mislead#mislead__1"
+    }
+  ],
+  "thesaurus": "To tell lies and deceive people",
+  "type": "Synonyms"
+}

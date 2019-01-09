@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [senior_1]{senior} [official_1]{official} at a [college]{college} or [university]{university}",
+      "examples": [],
+      "id": "dean__1"
+    },
+    {
+      "def": "a [senior_1]{senior} [christian_1]{Christian} [priest]{priest} in a [cathedral]{cathedral} or other [important]{important} [church]{church}",
+      "examples": [],
+      "id": "dean__2"
+    },
+    {
+      "def": "the most [important]{important} [person]{person} in a [particular_1]{particular} [group_1]{group}",
+      "examples": [
+        "He [saw_1]{saw} [himself]{himself} as the dean of the [local_1]{local} [business]{business} [community]{community}."
+      ],
+      "id": "dean__3"
+    }
+  ],
+  "word": "dean"
+}

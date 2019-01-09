@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to the amount of [money]{money} that you [earn]{earn}, or [calculated]{calculated} [accord_2]{according} to the amount of [money]{money} that you [earn]{earn}",
+      "entry": "earnings-related",
+      "id": "earnings-related#earnings-related__1"
+    },
+    {
+      "comment": "a [gross_1]{gross} amount of [money]{money} is the [total_1]{total} amount before [tax_1]{taxes} or [cost_1]{costs} have been [taken_1]{taken} out",
+      "entry": "gross",
+      "id": "gross_1#gross_1__1"
+    },
+    {
+      "comment": "someone who is [paid_1]{paid} [hourly_1]{hourly} is [paid_1]{paid} an amount of [money]{money} for each [hour]{hour} of [work_1]{work}",
+      "entry": "hourly",
+      "id": "hourly_2#hourly_2__3"
+    },
+    {
+      "comment": "not [receive]{receiving} or [offering]{offering} much [pay_1]{pay}",
+      "entry": "low-paid",
+      "id": "low-paid#low-paid__1"
+    },
+    {
+      "comment": "a [net_1]{net} amount of [money]{money} is the [total_1]{total} amount after [tax_1]{taxes} or [cost_1]{costs} have been [removed]{removed}",
+      "entry": "net",
+      "id": "net_2#net_2__1"
+    },
+    {
+      "comment": "being [paid_1]{paid} more [money]{money} than you [deserve]{deserve} for the [work_1]{work} that you do",
+      "entry": "overpaid",
+      "id": "overpaid_1#overpaid_1__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} someone more [money]{money} than they [deserve]{deserve} for the [work_1]{work} that they do",
+      "entry": "overpay",
+      "id": "overpay#overpay__2"
+    },
+    {
+      "comment": "[earn]{earning} a [particular_1]{particular} amount of [money]{money}",
+      "entry": "paid",
+      "id": "paid_1#paid_1__9"
+    },
+    {
+      "comment": "to give someone their [salary]{salary}",
+      "entry": "pay",
+      "id": "pay_1#pay_1__13"
+    },
+    {
+      "comment": "if a [job_1]{job} [pay_1]{pays} a [particular_1]{particular} amount of [money]{money}, you get that amount for [doing]{doing} it",
+      "entry": "pay",
+      "id": "pay_1#pay_1__18"
+    },
+    {
+      "comment": "[used]{used} after an amount of [money]{money} to mean \u201cfor each [day]{day}\u201d",
+      "entry": "per diem",
+      "id": "per-diem#per-diem__1"
+    },
+    {
+      "comment": "[providing]{providing} [payment]{payment} or other [reward_1]{rewards} for [work_1]{work} that has been done",
+      "entry": "remunerative",
+      "id": "remunerative#remunerative__1"
+    },
+    {
+      "comment": "[paid_1]{paid} a [particular_1]{particular} amount of [money]{money} for your [job_1]{job}, for [example]{example} each [month]{month} or [year]{year}",
+      "entry": "salaried",
+      "id": "salaried#salaried__1"
+    },
+    {
+      "comment": "[unpaid]{unpaid} [work_1]{work} is [work_1]{work} that you are not [paid_1]{paid} for",
+      "entry": "unpaid",
+      "id": "unpaid#unpaid__1"
+    },
+    {
+      "comment": "a [well-paid]{well-paid} [person]{person} [receive]{receives} a [good_1]{good} amount of [money]{money} for [work_1]{work}",
+      "entry": "well-paid",
+      "id": "well-paid#well-paid__1"
+    },
+    {
+      "comment": "a [well-paid]{well-paid} [job_1]{job} [pay_1]{pays} a [lot_1]{lot} of [money]{money}",
+      "entry": "well-paid",
+      "id": "well-paid#well-paid__3"
+    }
+  ],
+  "thesaurus": "Words used to describe wages and salaries",
+  "type": "Related words"
+}

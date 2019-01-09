@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "a [public_1]{public} [occasion_1]{occasion} when [thing]{things} are [sold]{sold} to the [people_1]{people} who [offer_1]{offer} the most [money]{money} for them",
+      "entry": "auction",
+      "id": "auction_1#auction_1__1"
+    },
+    {
+      "comment": "[connected]{connected} with an [auction_1]{auction} or [bought]{bought} at an [auction_1]{auction}",
+      "entry": "auction",
+      "id": "auction_1#auction_1__4"
+    },
+    {
+      "comment": "to [sell_1]{sell} something at an [auction_1]{auction}",
+      "entry": "auction",
+      "id": "auction_2#auction_2__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [sell_1]{sell} [thing]{things} at an [auction_1]{auction}",
+      "entry": "auctioneer",
+      "id": "auctioneer#auctioneer__1"
+    },
+    {
+      "comment": "to offer a particular amount of money for something, for example at an auction  (=an event where things are sold to the person who offers the most money)",
+      "entry": "bid",
+      "id": "bid_1#bid_1__1"
+    },
+    {
+      "comment": "an offer to give a particular amount of money for something, for example at an auction  (=an event where things are sold to the person who offers the most money)",
+      "entry": "bid",
+      "id": "bid_2#bid_2__1"
+    },
+    {
+      "comment": "someone who makes bids for something, for example at an auction  (=an event where things are sold to the person who offers the most money)",
+      "entry": "bidder",
+      "id": "bidder#bidder__1"
+    },
+    {
+      "comment": "the process of making bids for things, for example at an auction  (=an event where things are sold to the person who offers the most money)",
+      "entry": "bidding",
+      "id": "bidding#bidding__1"
+    },
+    {
+      "comment": "to [offer_1]{offer} [money]{money} for something in [order_1]{order} to [increase_1]{increase} its [price_1]{price}, and not because you [want_1]{want} to [buy_1]{buy} it",
+      "entry": "bid up",
+      "id": "bid-up#bid-up__1"
+    },
+    {
+      "comment": "to be sold at an auction  (=a public sale in which objects are sold to the person who offers the most money)",
+      "entry": "come/go under the hammer",
+      "id": "come-go-under-the-hammer#come-go-under-the-hammer__1"
+    },
+    {
+      "comment": "a [sale]{sale} in which the [price_1]{price} of something [gradually]{gradually} [go_1]{goes} down until someone [agree]{agrees} to [buy_1]{buy} it",
+      "entry": "Dutch auction",
+      "id": "dutch-auction#dutch-auction__1"
+    },
+    {
+      "comment": "a website where people buy and sell things by auctioning them  (=selling them to the person who offers most money)",
+      "entry": "eBay",
+      "id": "ebay#ebay__1"
+    },
+    {
+      "comment": "used by an auctioneer for saying that an object has just been sold",
+      "entry": "going, going, gone",
+      "id": "going-going-gone#going-going-gone__1"
+    },
+    {
+      "comment": "a thing or group of things that are to be sold, especially in an auction",
+      "entry": "lot",
+      "id": "lot_2#lot_2__4"
+    },
+    {
+      "comment": "for sale at an auction  (=a public sale where people offer money to buy things)",
+      "entry": "on the block",
+      "id": "on-the-block#on-the-block__1"
+    },
+    {
+      "comment": "to offer to pay more than someone else for something that you want to buy, especially at an auction",
+      "entry": "outbid",
+      "id": "outbid#outbid__1"
+    },
+    {
+      "comment": "to [offer_1]{offer} more [money]{money} than something is [worth_1]{worth}",
+      "entry": "overbid",
+      "id": "overbid#overbid__1"
+    },
+    {
+      "comment": "the lowest price that someone will accept when they sell something at an auction",
+      "entry": "reserve price",
+      "id": "reserve-price#reserve-price__1"
+    },
+    {
+      "comment": "a room or building where things are sold in an auction",
+      "entry": "saleroom",
+      "id": "saleroom#saleroom__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [bidding]{bidding} for something that you are [selling]{selling} in an [auction_1]{auction} in [order_1]{order} to [increase_1]{increase} the [selling]{selling} [price_1]{price}",
+      "entry": "shill bidding",
+      "id": "shill-bidding#shill-bidding__1"
+    },
+    {
+      "comment": "a way of [selling]{selling} something in which [people_1]{people} put an [offer_1]{offer} of a [particular_1]{particular} amount of [money]{money} [inside_1]{inside} an [envelope]{envelope}, the [envelope]{envelopes} are [open_2]{opened} when the [sale]{sale} [take_1]{takes} [place_1]{place}, and the [person]{person} who [offer_1]{offers} the most [money]{money} [buy_1]{buys} the [object_1]{object}",
+      "entry": "silent auction",
+      "id": "silent-auction#silent-auction__1"
+    },
+    {
+      "comment": "a place in London and New York where old, rare, or valuable objects are sold in auctions",
+      "entry": "Sotheby\u2019s",
+      "id": "sotheby-s#sotheby-s__1"
+    },
+    {
+      "comment": "the price that something is given at the beginning of an auction",
+      "entry": "starting price",
+      "id": "starting-price#starting-price__1"
+    }
+  ],
+  "thesaurus": "Auctions and auctioning",
+  "type": "Related words"
+}

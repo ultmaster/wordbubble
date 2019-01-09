@@ -1,0 +1,29 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [look_1]{look} at something [careful#careful__20]{carefully} in [order_1]{order} to find out about it or see what it is [like_1]{like}",
+      "examples": [
+        "She [open_2]{opened} the [suitcase]{suitcase} and [examine]{examined} the [content_2]{contents}.",
+        "He [pick_1]{picks} up each [item]{item} and [examine]{examines} it [careful#careful__20]{carefully}.",
+        "I [think_1]{think} you should be [examine]{examined} by a [doctor_1]{doctor}.",
+        "[scientist]{Scientists} are [examine]{examining} the [impact_1]{impact} of [global]{global} [warming_1]{warming} on [local_1]{local} [climate]{climates}.",
+        "The [committee]{committee} will examine four [proposal]{proposals}."
+      ],
+      "id": "examine__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone [question_1]{questions} in a [legal]{legal} [trial_1]{trial}",
+      "examples": [],
+      "id": "examine__9"
+    },
+    {
+      "def": "to give [student]{students} an [examination]{examination} to [test_1]{test} their [knowledge]{knowledge}",
+      "examples": [
+        "[candidate]{Candidates} will be [examine]{examined} on their [written_1]{written} and [oral_1]{oral} [language]{language} [skill]{skills}."
+      ],
+      "id": "examine__10"
+    }
+  ],
+  "word": "examine"
+}

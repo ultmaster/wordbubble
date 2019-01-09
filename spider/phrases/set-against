@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "set against",
+  "senses": [
+    {
+      "def": "to cause two [people_1]{people} or [group_1]{groups} to [fight_1]{fight} each other although they were in a [friendly_1]{friendly} [relationship]{relationship} before",
+      "examples": [
+        "a [bitter_1]{bitter} [industrial]{industrial} [dispute_1]{dispute} that had [set_1]{set} [worker]{worker} against [worker]{worker}"
+      ],
+      "id": "set-against__1"
+    },
+    {
+      "def": "to [compare_1]{compare} one thing with another",
+      "examples": [
+        "The [advantage]{advantages} of the [new]{new} system must be [set_1]{set} against its [disadvantage_1]{disadvantages}."
+      ],
+      "id": "set-against__3"
+    }
+  ]
+}

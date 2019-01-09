@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "pull into",
+  "senses": [
+    {
+      "def": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} into a [place_1]{place}, they [stop_1]{stop} there",
+      "examples": [
+        "The [train_1]{train} [pull_1]{pulled} into [grand_1]{Grand} [central]{Central} [station_1]{Station}.",
+        "He [pull_1]{pulled} the [car]{car} into the [parking]{parking} [lot_1]{lot}."
+      ],
+      "id": "pull-into__1"
+    }
+  ]
+}

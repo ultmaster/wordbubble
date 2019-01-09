@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to put [food]{food} into your [mouth_1]{mouth} and [swallow_1]{swallow} it",
+      "entry": "eat",
+      "id": "eat#eat__1"
+    },
+    {
+      "comment": "to [make_1]{make} [food]{food} or [drink_1]{drink} go from your [mouth_1]{mouth} down through your [throat]{throat} and into your [stomach_1]{stomach}",
+      "entry": "swallow",
+      "id": "swallow_1#swallow_1__1"
+    },
+    {
+      "comment": "to eat or drink something. This word is often used in polite offers and requests",
+      "entry": "have",
+      "id": "have#have__59"
+    },
+    {
+      "comment": "to [eat]{eat} or [drink_1]{drink} something",
+      "entry": "consume",
+      "id": "consume#consume__1"
+    },
+    {
+      "comment": "to [eat]{eat} or [drink_1]{drink} something and to [experience_1]{experience} its [flavor_1]{flavor}",
+      "entry": "taste",
+      "id": "taste_2#taste_2__7"
+    },
+    {
+      "comment": "to [eat]{eat} or [drink_1]{drink} a [particular_1]{particular} thing",
+      "entry": "touch",
+      "id": "touch_1#touch_1__26"
+    },
+    {
+      "comment": "if you [try_1]{try} a [food]{food} or [drink_1]{drink}, you [taste_1]{taste} it in [order_1]{order} to find out whether you [like_1]{like} it",
+      "entry": "try",
+      "id": "try_1#try_1__20"
+    },
+    {
+      "comment": "to [succeed]{succeed} in [eat]{eating} or [drinking]{drinking} something",
+      "entry": "manage",
+      "id": "manage#manage__11"
+    },
+    {
+      "comment": "[used]{used} in [particular_1]{particular} [phrase_1]{phrases} [meaning_1]{meaning} to [eat]{eat} or [drink_1]{drink} something, [especially]{especially} [regularly]{regularly}",
+      "entry": "take",
+      "id": "take_1#take_1__105"
+    },
+    {
+      "comment": "to take [food]{food} or [drink_1]{drink} into the body",
+      "entry": "ingest",
+      "id": "ingest#ingest__1"
+    }
+  ],
+  "thesaurus": "General words meaning to eat",
+  "type": "Synonyms"
+}

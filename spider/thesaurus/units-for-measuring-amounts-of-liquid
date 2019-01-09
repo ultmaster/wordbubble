@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "cubic centimeter: used for measuring the amount of a liquid or the size of an engine",
+      "entry": "cc",
+      "id": "cc#cc__1"
+    },
+    {
+      "comment": "a unit for measuring an amount of liquid or gas in the metric system. There are 100 centiliters in one liter.",
+      "entry": "centiliter",
+      "id": "centiliter#centiliter__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [centiliter]{centiliter}",
+      "entry": "centilitre",
+      "id": "centilitre#centilitre__2"
+    },
+    {
+      "comment": "[centiliter]{centiliter}",
+      "entry": "cl.",
+      "id": "cl#cl__1"
+    },
+    {
+      "comment": "a unit for measuring an amount of liquid or gas in the metric system. There are 10 deciliters in one liter.",
+      "entry": "deciliter",
+      "id": "deciliter#deciliter__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [deciliter]{deciliter}",
+      "entry": "decilitre",
+      "id": "decilitre#decilitre__1"
+    },
+    {
+      "comment": "[fluid_1]{fluid} [ounce]{ounce}",
+      "entry": "fl. oz.",
+      "id": "fl-oz#fl-oz__1"
+    },
+    {
+      "comment": "a unit for measuring an amount of liquid, equal to .02957 liters. There are 16 fluid ounces in a pint.",
+      "entry": "fluid ounce",
+      "id": "fluid-ounce#fluid-ounce__1"
+    },
+    {
+      "comment": "[gallon]{gallon}",
+      "entry": "gal.",
+      "id": "gal_2#gal_2__1"
+    },
+    {
+      "comment": "a unit for measuring an amount of liquid, especially gas or water. In the U.S., a gallon is equal to 3.79 liters. In the U.K., a gallon is equal to 4.55 liters. A gallon contains 8 pints or 4 quarts",
+      "entry": "gallon",
+      "id": "gallon#gallon__1"
+    },
+    {
+      "comment": "a unit for measuring liquids equal to one quarter of a pint",
+      "entry": "gill",
+      "id": "gill_2#gill_2__1"
+    },
+    {
+      "comment": "[liter]{liter}",
+      "entry": "l",
+      "id": "l_2#l_2__1"
+    },
+    {
+      "comment": "a unit for measuring an amount of liquid or gas in the metric system, containing 1000 milliliters",
+      "entry": "liter",
+      "id": "liter#liter__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [liter]{liter}",
+      "entry": "litre",
+      "id": "litre#litre__1"
+    },
+    {
+      "comment": "a unit for measuring an amount of liquid in the metric system. There are 1,000 milliliters in a liter.",
+      "entry": "milliliter",
+      "id": "milliliter#milliliter__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [milliliter]{milliliter}",
+      "entry": "millilitre",
+      "id": "millilitre#millilitre__1"
+    },
+    {
+      "comment": "[milliliter]{milliliter}",
+      "entry": "ml",
+      "id": "ml#ml__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [liquid_1]{liquid}. In the U.K. a [pint]{pint} is [equal_1]{equal} to 0.57 [liter]{liters} and in the U.S. it is [equal_1]{equal} to 0.48 [liter]{liters}",
+      "entry": "pint",
+      "id": "pint#pint__1"
+    },
+    {
+      "comment": "[pint]{pint}",
+      "entry": "pt.",
+      "id": "pt_1#pt_1__1"
+    },
+    {
+      "comment": "[quart]{quart}",
+      "entry": "qt.",
+      "id": "qt#qt__1"
+    },
+    {
+      "comment": "a unit for measuring an amount of liquid, containing two pints",
+      "entry": "quart",
+      "id": "quart#quart__1"
+    }
+  ],
+  "thesaurus": "Units for measuring amounts of liquid",
+  "type": "Related words"
+}

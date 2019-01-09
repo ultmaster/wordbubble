@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "there you are/go",
+  "senses": [
+    {
+      "def": "[used]{used} when you are [give_1]{giving} someone something that they have [ask_1]{asked} for or that they have [just_1]{just} [bought]{bought}",
+      "examples": [
+        "\u201cCan I have another [slice_1]{slice}?\u201d \u201cThere you go.\u201d"
+      ],
+      "id": "there-you-are-go__1"
+    },
+    {
+      "def": "[used]{used} to [say_1]{say} that something [show_1]{shows} that you are [right_1]{right}",
+      "examples": [
+        "There you go, I [told]{told} you he\u2019d [love_1]{love} it!"
+      ],
+      "id": "there-you-are-go__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "elegant [place_1]{places} and [thing]{things} are [attractive]{attractive} because they are [beautiful]{beautiful} in a [simple]{simple} way",
+      "examples": [
+        "an elegant [silk]{silk} [dress_1]{dress}",
+        "an elegant [room_1]{room}/[house_1]{house}/[restaurant]{restaurant}"
+      ],
+      "id": "elegant__1"
+    },
+    {
+      "def": "an elegant [theory]{theory} or [solution]{solution} is [impressive]{impressive} because it is [simple]{simple} and [effective]{effective}",
+      "examples": [
+        "Their [solution]{solution} was much more elegant than mine."
+      ],
+      "id": "elegant__5"
+    }
+  ],
+  "word": "elegant"
+}

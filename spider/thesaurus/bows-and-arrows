@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a weapon in the form of a thin straight stick with a sharp point at one end and feathers at the other. Arrows are shot through the air using a bow.",
+      "entry": "arrow",
+      "id": "arrow#arrow__1"
+    },
+    {
+      "comment": "the [sharp_1]{sharp} [pointed]{pointed} part of an [arrow]{arrow}",
+      "entry": "arrowhead",
+      "id": "arrowhead#arrowhead__1"
+    },
+    {
+      "comment": "a short heavy pointed stick that you shoot from a crossbow",
+      "entry": "bolt",
+      "id": "bolt_1#bolt_1__6"
+    },
+    {
+      "comment": "a weapon made from a long curved piece of wood, used for shooting arrows",
+      "entry": "bow",
+      "id": "bow_3#bow_3__1"
+    },
+    {
+      "comment": "a container for arrows that you wear on your back",
+      "entry": "quiver",
+      "id": "quiver_2#quiver_2__3"
+    },
+    {
+      "comment": "an arrow",
+      "entry": "shaft",
+      "id": "shaft_1#shaft_1__11"
+    }
+  ],
+  "thesaurus": "Bows and arrows",
+  "type": "Related words"
+}

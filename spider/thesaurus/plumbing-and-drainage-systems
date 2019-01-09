@@ -1,0 +1,331 @@
+{
+  "entries": [
+    {
+      "comment": "an air bubble that stops liquid from flowing through a pipe",
+      "entry": "airlock",
+      "id": "airlock#airlock__2"
+    },
+    {
+      "comment": "if a toilet, sink, or drain backs up, or if it is backed up, water cannot flow through it because something is blocking it",
+      "entry": "back up",
+      "id": "back-up#back-up__9"
+    },
+    {
+      "comment": "something that [block_1]{blocks} a [tube]{tube} or [pipe_1]{pipe}",
+      "entry": "blockage",
+      "id": "blockage#blockage__1"
+    },
+    {
+      "comment": "if a [road]{road}, [pipe_1]{pipe}, or [wire_1]{wire} [carry_1]{carries} something along it, that thing [move_1]{moves} or [flow_1]{flows} along it",
+      "entry": "carry",
+      "id": "carry_1#carry_1__14"
+    },
+    {
+      "comment": "a [cesspool]{cesspool}",
+      "entry": "cesspit",
+      "id": "cesspit#cesspit__1"
+    },
+    {
+      "comment": "to [block_1]{block} something such as a [pipe_1]{pipe}, [tube]{tube}, or [passage]{passage}, or to become [block_2]{blocked}, so that nothing can get through",
+      "entry": "clog",
+      "id": "clog_1#clog_1__1"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} or [passage]{passage} that [water_1]{water} [flow_1]{flows} through to go from one [place_1]{place} to another",
+      "entry": "conduit",
+      "id": "conduit#conduit__1"
+    },
+    {
+      "comment": "a very [wide_1]{wide} [pipe_1]{pipe} that [carry_1]{carries} [water_1]{water} under a [road]{road} or [railroad_1]{railroad} [line_1]{line}",
+      "entry": "culvert",
+      "id": "culvert#culvert__1"
+    },
+    {
+      "comment": "a part of a [pipe_1]{pipe} that can be [closed]{closed} to [stop_1]{stop} a [gas_1]{gas} or [liquid_1]{liquid} [flowing]{flowing}",
+      "entry": "cutoff",
+      "id": "cutoff#cutoff__3"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} on the side of a [building]{building} that [carry_1]{carries} [rain_1]{rain} [water_1]{water} down from the [roof_1]{roof} to the [ground_1]{ground}",
+      "entry": "downspout",
+      "id": "downspout#downspout__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [take_1]{taking} [away_1]{away} [water_1]{water} or [waste_1]{waste} [liquid_1]{liquid} from somewhere",
+      "entry": "drainage",
+      "id": "drainage#drainage__1"
+    },
+    {
+      "comment": "a system of [pipe_1]{pipes} and [passage]{passages} that take [away_1]{away} [water_1]{water} or [waste_1]{waste} [liquid_1]{liquid} from an [area]{area}",
+      "entry": "drainage",
+      "id": "drainage#drainage__2"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} that [take_1]{takes} [away_1]{away} [waste_1]{waste} [water_1]{water} or [liquid_1]{liquid} from [inside_1]{inside} a [building]{building}",
+      "entry": "drainpipe",
+      "id": "drainpipe#drainpipe__1"
+    },
+    {
+      "comment": "a pipe on the side of a building that carries rainwater down from the roof to the ground",
+      "entry": "drainpipe",
+      "id": "drainpipe#drainpipe__2"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} or [passage]{passage} through which [water_1]{water} or [waste_1]{waste} [liquid_1]{liquid} [flow_1]{flows} [away_1]{away}",
+      "entry": "the drains",
+      "id": "drain_2#drain_2__1"
+    },
+    {
+      "comment": "the system of [pipe_1]{pipes} and [passage]{passages} that take [away_1]{away} [water_1]{water} or [waste_1]{waste} [liquid_1]{liquid} in a [town]{town} or [city]{city}",
+      "entry": "the drains",
+      "id": "drain_2#drain_2__3"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} or [tube]{tube} in a [building]{building} that [carry_1]{carries} something such as [air_1]{air} or [protect]{protects} [wire_1]{wires}",
+      "entry": "duct",
+      "id": "duct#duct__1"
+    },
+    {
+      "comment": "a system of [duct]{ducts} in a [building]{building}",
+      "entry": "ducting",
+      "id": "ducting#ducting__1"
+    },
+    {
+      "comment": "an [open_1]{open} [piece_1]{piece} of [pipe_1]{pipe} that is [attached]{attached} to the [edge_1]{edge} of a [roof_1]{roof} to [carry_1]{carry} [rainwater]{rainwater} [away_1]{away}",
+      "entry": "eavestrough",
+      "id": "eavestrough#eavestrough__1"
+    },
+    {
+      "comment": "a metal piece of equipment that you turn to control the flow of water or other liquid from a pipe, especially on a sink or bathtub. The British word is tap.",
+      "entry": "faucet",
+      "id": "faucet#faucet__1"
+    },
+    {
+      "comment": "if a [pipe_1]{pipe} [freeze_1]{freezes}, or if the [weather_1]{weather} [freeze_1]{freezes} it, the [water_1]{water} [inside_1]{inside} it becomes [ice_1]{ice}",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__8"
+    },
+    {
+      "comment": "if a pipe or container for water furs up or is furred up, it becomes covered inside with limescale  (=a hard white substance)",
+      "entry": "fur up",
+      "id": "fur_2#fur_2__3"
+    },
+    {
+      "comment": "an [open_1]{open} [piece_1]{piece} of [pipe_1]{pipe} that is [attached]{attached} to the [edge_1]{edge} of a [roof_1]{roof} to [carry_1]{carry} [rain_1]{rain} [water_1]{water} [away_1]{away}",
+      "entry": "gutter",
+      "id": "gutter_1#gutter_1__1"
+    },
+    {
+      "comment": "a pipeline that carries gas from one country to another",
+      "entry": "interconnector",
+      "id": "interconnector#interconnector__1"
+    },
+    {
+      "comment": "an [artificial]{artificial} [pool_1]{pool} for [waste_1]{waste} [water_1]{water}",
+      "entry": "lagoon",
+      "id": "lagoon#lagoon__3"
+    },
+    {
+      "comment": "a [large_1]{large} [pipe_1]{pipe} or [wire_1]{wire} [used]{used} for [carry_1]{carrying} [water_1]{water}, [gas_1]{gas}, or [electricity]{electricity}",
+      "entry": "main",
+      "id": "main_2#main_2__1"
+    },
+    {
+      "comment": "the [point_1]{point} where the [supply_1]{supply} of [water_1]{water}, [gas_1]{gas}, or [electricity]{electricity} [enter]{enters} a [building]{building} or [room_1]{room}",
+      "entry": "main",
+      "id": "main_2#main_2__4"
+    },
+    {
+      "comment": "the [public_1]{public} [supply_1]{supply} of [water_1]{water}, [gas_1]{gas}, or [electricity]{electricity}",
+      "entry": "the mains",
+      "id": "main_2#main_2__3"
+    },
+    {
+      "comment": "if [beer]{beer} is on [tap_1]{tap}, it can be [serve_1]{served} from a [large_1]{large} [container]{container} with a [tap_1]{tap}, [instead]{instead} of from a [bottle_1]{bottle}",
+      "entry": "on tap",
+      "id": "on-tap#on-tap__1"
+    },
+    {
+      "comment": "the [place_1]{place} where [water_1]{water} or [liquid_1]{liquid} [waste_1]{waste} [flow_1]{flows} out of a [pipe_1]{pipe}",
+      "entry": "outfall",
+      "id": "outfall#outfall__1"
+    },
+    {
+      "comment": "a [flow_1]{flow} of [water_1]{water}, [gas_1]{gas}, etc. out of a [pipe_1]{pipe}",
+      "entry": "outflow",
+      "id": "outflow#outflow__4"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} or hole through which [gas_1]{gas} or [liquid_1]{liquid} [flow_1]{flows} out",
+      "entry": "outlet",
+      "id": "outlet#outlet__7"
+    },
+    {
+      "comment": "a [tube]{tube} that [carry_1]{carries} [liquid_1]{liquid} or [gas_1]{gas} from one [place_1]{place} to another",
+      "entry": "pipe",
+      "id": "pipe_1#pipe_1__1"
+    },
+    {
+      "comment": "to [send_1]{send} [liquid_1]{liquid} or [gas_1]{gas} through a [pipe_1]{pipe} from one [place_1]{place} to another",
+      "entry": "pipe",
+      "id": "pipe_2#pipe_2__1"
+    },
+    {
+      "comment": "a long [underground_1]{underground} [pipe_1]{pipe} that [carry_1]{carries} [water_1]{water}, [gas_1]{gas}, etc. from one [place_1]{place} to another",
+      "entry": "pipeline",
+      "id": "pipeline#pipeline__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [pipe_1]{pipes} that [carry_1]{carry} [water_1]{water}, [gas_1]{gas}, etc. around a [building]{building}",
+      "entry": "pipework",
+      "id": "pipework#pipework__1"
+    },
+    {
+      "comment": "to block pipes of a sink, toilet, etc. so that water or waste cannot flow normally down the pipes",
+      "entry": "plug",
+      "id": "plug_1#plug_1__3"
+    },
+    {
+      "comment": "to [connect]{connect} the [water_1]{water} [pipe_1]{pipes} in a [room_1]{room} or [building]{building}",
+      "entry": "plumb",
+      "id": "plumb_1#plumb_1__3"
+    },
+    {
+      "comment": "the job of fitting and repairing pipes, water tanks, and other equipment used for supplying and storing water",
+      "entry": "plumbing",
+      "id": "plumbing#plumbing__1"
+    },
+    {
+      "comment": "the system of pipes, water tanks, and other equipment used for supplying and storing water in a building",
+      "entry": "plumbing",
+      "id": "plumbing#plumbing__2"
+    },
+    {
+      "comment": "to push a plunger into a toilet, sink, or bathtub in order to stop a pipe from being blocked",
+      "entry": "plunge",
+      "id": "plunge_1#plunge_1__12"
+    },
+    {
+      "comment": "[water_1]{water} that is [supply_2]{supplied} by [pipe_1]{pipes} into a [building]{building}",
+      "entry": "running water",
+      "id": "running-water#running-water__1"
+    },
+    {
+      "comment": "[relate]{relating} to [people_1]{people}\u2019s [health]{health}, [especially]{especially} to the system of [supply_2]{supplying} [water_1]{water} and [dealing]{dealing} with [human_1]{human} [waste_1]{waste}",
+      "entry": "sanitary",
+      "id": "sanitary#sanitary__1"
+    },
+    {
+      "comment": "[condition_1]{conditions} and [process_1]{processes} [relate]{relating} to [people_1]{people}\u2019s [health]{health}, [especially]{especially} the [system]{systems} that [supply_1]{supply} [water_1]{water} and [deal_1]{deal} with [human_1]{human} [waste_1]{waste}",
+      "entry": "sanitation",
+      "id": "sanitation#sanitation__1"
+    },
+    {
+      "comment": "a [double_1]{double} [curve_1]{curve} in a [road]{road} that [form_1]{forms} a [shape_1]{shape} [similar]{similar} to an \u201cs\u201d",
+      "entry": "S-curve",
+      "id": "s-curve#s-curve__1"
+    },
+    {
+      "comment": "a [large_1]{large} [container]{container} [bury]{buried} under the [ground_1]{ground} and [used]{used} for [collect_1]{collecting} [waste_1]{waste} from [toilet]{toilets}",
+      "entry": "septic tank",
+      "id": "septic-tank#septic-tank__1"
+    },
+    {
+      "comment": "waste substances, especially waste from people\u2019s bodies, removed from houses and other buildings by a system of large underground pipes called sewers",
+      "entry": "sewage",
+      "id": "sewage#sewage__1"
+    },
+    {
+      "comment": "an underground pipe or passage that carries sewage",
+      "entry": "sewer",
+      "id": "sewer#sewer__1"
+    },
+    {
+      "comment": "[waste_1]{waste} and [used]{used} [water_1]{water} that is [carry_1]{carried} [away_1]{away} from [building]{buildings} through [passage]{passages} and [pipe_1]{pipes}",
+      "entry": "sewerage",
+      "id": "sewerage#sewerage__1"
+    },
+    {
+      "comment": "a system of pipes and passages that carry sewage",
+      "entry": "sewerage",
+      "id": "sewerage#sewerage__2"
+    },
+    {
+      "comment": "a passage that water flows along, with a gate called a sluice gate that can be opened or closed to control the flow",
+      "entry": "sluice",
+      "id": "sluice_2#sluice_2__1"
+    },
+    {
+      "comment": "a faucet on an outdoor water pipe",
+      "entry": "spigot",
+      "id": "spigot#spigot__1"
+    },
+    {
+      "comment": "an upright water pipe in a street that a faucet can be attached to so that people can get water from it when there is a problem with the supply to their houses",
+      "entry": "standpipe",
+      "id": "standpipe#standpipe__1"
+    },
+    {
+      "comment": "to [block_1]{block} something such as a [pipe_1]{pipe} or hole so that [water_1]{water} or another [substance]{substance} cannot go through it",
+      "entry": "stop",
+      "id": "stop_1#stop_1__30"
+    },
+    {
+      "comment": "something on a [pipe_1]{pipe} that you [turn_1]{turn} to [stop_1]{stop} or to [start_1]{start} the [flow_1]{flow} of [liquid_1]{liquid}",
+      "entry": "stopcock",
+      "id": "stopcock#stopcock__1"
+    },
+    {
+      "comment": "if a sink or bathtub stops up, water will not empty out because the pipes are full of something that should not be there",
+      "entry": "stop up",
+      "id": "stop-up#stop-up__1"
+    },
+    {
+      "comment": "a low [open_1]{open} [area]{area} in the [ground_1]{ground} that [waste_1]{waste} [liquid_1]{liquid} [flow_1]{flows} into",
+      "entry": "sump",
+      "id": "sump#sump__1"
+    },
+    {
+      "comment": "an [object_1]{object} [used]{used} for [control_2]{controlling} how much [liquid_1]{liquid} or [gas_1]{gas} comes out of a [pipe_1]{pipe} or [container]{container}",
+      "entry": "tap",
+      "id": "tap_2#tap_2__4"
+    },
+    {
+      "comment": "a [faucet]{faucet} that [control_1]{controls} the [water_1]{water} coming out of a [pipe_1]{pipe}",
+      "entry": "tap",
+      "id": "tap_2#tap_2__6"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [object_1]{object} [similar]{similar} to a [pipe_1]{pipe} that [liquid_1]{liquid} or [gas_1]{gas} can move through",
+      "entry": "tube",
+      "id": "tube#tube__1"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} [used]{used} for [carry_1]{carrying} [used]{used} [water_1]{water} and [waste_1]{waste} from a [building]{building}",
+      "entry": "waste pipe",
+      "id": "waste-pipe#waste-pipe__1"
+    },
+    {
+      "comment": "the [supply_1]{supply} of [water_1]{water} to [home_1]{homes} and [building]{buildings}",
+      "entry": "water",
+      "id": "water_1#water_1__7"
+    },
+    {
+      "comment": "a [large_1]{large} [underground_1]{underground} [pipe_1]{pipe} that [supply_1]{supplies} [water_1]{water} to a [particular_1]{particular} [area]{area}",
+      "entry": "water main",
+      "id": "water-main#water-main__1"
+    },
+    {
+      "comment": "a [pipe_1]{pipe} that [take_1]{takes} [water_1]{water} from one [place_1]{place} to another",
+      "entry": "water pipe",
+      "id": "water-pipe#water-pipe__1"
+    },
+    {
+      "comment": "a system for [store_2]{storing} and [cleaning]{cleaning} [water_1]{water} and [supply_2]{supplying} it to a [community]{community}",
+      "entry": "waterworks",
+      "id": "waterworks#waterworks__1"
+    }
+  ],
+  "thesaurus": "Plumbing and drainage systems",
+  "type": "Related words"
+}

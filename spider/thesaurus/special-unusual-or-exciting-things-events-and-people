@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something [new]{new} and [unusual]{unusual}",
+      "entry": "novelty",
+      "id": "novelty#novelty__1"
+    },
+    {
+      "comment": "something [unusual]{unusual} and [interesting]{interesting}",
+      "entry": "curiosity",
+      "id": "curiosity#curiosity__5"
+    },
+    {
+      "comment": "an [event]{event} that is [unusual]{unusual} or [important]{important}",
+      "entry": "happening",
+      "id": "happening_1#happening_1__1"
+    },
+    {
+      "comment": "an [unusual]{unusual}, [exciting]{exciting}, or [impressive]{impressive} [event]{event} or [sight_1]{sight}",
+      "entry": "spectacle",
+      "id": "spectacle#spectacle__1"
+    },
+    {
+      "comment": "someone or something that is [different]{different} in some way from other [people_1]{people} or [thing]{things} and so cannot be [included]{included} in a [general_1]{general} [statement_1]{statement}",
+      "entry": "exception",
+      "id": "exception#exception__1"
+    },
+    {
+      "comment": "a [special_1]{special} or [important]{important} time or [event]{event}",
+      "entry": "occasion",
+      "id": "occasion_1#occasion_1__10"
+    },
+    {
+      "comment": "an [unexpected]{unexpected} but [important]{important} [event]{event} or [action_1]{action}",
+      "entry": "stroke",
+      "id": "stroke_1#stroke_1__3"
+    },
+    {
+      "comment": "a [person]{person}, thing, or [situation]{situation} that is [strange_1]{strange} because they have [feature_1]{features} or [quality_1]{qualities} that do not [normally]{normally} [exist]{exist} together",
+      "entry": "paradox",
+      "id": "paradox#paradox__1"
+    },
+    {
+      "comment": "something that is not [normal_1]{normal} or not what you would [usually]{usually} [expect]{expect}",
+      "entry": "aberration",
+      "id": "aberration#aberration__1"
+    },
+    {
+      "comment": "someone or something that is [unusual]{unusual} or [attractive]{attractive}",
+      "entry": "number",
+      "id": "number_1#number_1__21"
+    }
+  ],
+  "thesaurus": "Special, unusual or exciting things, events and people",
+  "type": "Synonyms"
+}

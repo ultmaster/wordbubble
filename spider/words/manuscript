@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [writer]{writer}\u2019s [original_1]{original} [page_1]{pages} of a [book_1]{book}, [article]{article}, or [document_1]{document} before it is [publish]{published}",
+      "examples": [
+        "Please [send_1]{send} me a [copy_1]{copy} of your manuscript when it\u2019s [finished]{finished}."
+      ],
+      "id": "manuscript__1"
+    },
+    {
+      "def": "a very [old]{old} [book_1]{book} or [document_1]{document} [written_1]{written} by hand before [book_1]{books} [began]{began} to be [print_1]{printed}",
+      "examples": [
+        "the [conservation]{conservation} of [ancient]{ancient} [manuscript]{manuscripts}",
+        "a manuscript [collection]{collection}"
+      ],
+      "id": "manuscript__3"
+    }
+  ],
+  "word": "manuscript"
+}

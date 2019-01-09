@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [path]{path} that is [taken_1]{taken} by an [object_1]{object} [moving]{moving} around a [large_1]{larger} [object_1]{object} in [space_1]{space}",
+      "examples": [
+        "the [planet]{planet}\u2019s orbit around the [sun_1]{sun}",
+        "[space_1]{Space} [station_1]{stations} are [design_2]{designed} to [remain]{remain} in orbit for [year]{years}."
+      ],
+      "id": "orbit_1__1"
+    },
+    {
+      "def": "an [area]{area} in which someone or something has [power_1]{power} or [influence_1]{influence}",
+      "examples": [
+        "For many [year]{years} the [region]{region} [remain]{remained} within the orbit of [imperial]{imperial} Rome."
+      ],
+      "id": "orbit_1__4"
+    }
+  ],
+  "word": "orbit"
+}

@@ -1,0 +1,32 @@
+{
+  "part": "phrase",
+  "phrase": "pass out",
+  "senses": [
+    {
+      "def": "to [suddenly]{suddenly} become [unconscious_1]{unconscious}, for [example]{example} because you are too [hot]{hot}",
+      "examples": [
+        "[people_1]{People} everywhere were [passing_1]{passing} out from the [heat_1]{heat}."
+      ],
+      "id": "pass-out__1"
+    },
+    {
+      "def": "to give something to each [member]{member} of a [group_1]{group}",
+      "examples": [
+        "The [hall]{hall} was [silent]{silent} as the [examination]{examination} was [pass_1]{passed} out."
+      ],
+      "id": "pass-out__3"
+    },
+    {
+      "def": "to [officially]{officially} [complete_1]{complete} a [course_1]{course} at a [military]{military} or a [police_1]{police} [college]{college}",
+      "examples": [],
+      "id": "pass-out__5"
+    },
+    {
+      "def": "to [graduate_1]{graduate} or [complete_1]{complete} your [education]{education}",
+      "examples": [
+        "I [pass_1]{passed} out from AIIMS, [new]{New} Delhi in 2008."
+      ],
+      "id": "pass-out__6"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something is burning, it is being destroyed or damaged by fire. You can also say that it is on fire",
+      "entry": "burn",
+      "id": "burn_1#burn_1__4"
+    },
+    {
+      "comment": "[burning]{burning} very [strongly]{strongly}",
+      "entry": "blazing",
+      "id": "blazing#blazing__1"
+    },
+    {
+      "comment": "[burning]{burning} [bright_1#bright_1__20]{brightly} with [flame_1]{flames}",
+      "entry": "flaming",
+      "id": "flaming#flaming__1"
+    },
+    {
+      "comment": "a [roaring]{roaring} fire [burn_1]{burns} very [bright_1#bright_1__20]{brightly} and [produce_1]{produces} a [lot_1]{lot} of [heat_1]{heat}",
+      "entry": "roaring",
+      "id": "roaring#roaring__1"
+    },
+    {
+      "comment": "[burning]{burning} [gently]{gently} with an [orange_1]{orange} or red [color_1]{color}",
+      "entry": "glowing",
+      "id": "glowing#glowing__4"
+    },
+    {
+      "comment": "[burning]{burning}",
+      "entry": "alight",
+      "id": "alight_1#alight_1__3"
+    },
+    {
+      "comment": "[burning]{burning} or full of [flame_1]{flames}",
+      "entry": "fiery",
+      "id": "fiery#fiery__7"
+    },
+    {
+      "comment": "being [destroy]{destroyed} by fire",
+      "entry": "burning",
+      "id": "burning#burning__1"
+    },
+    {
+      "comment": "[burning]{burning} with a [lot_1]{lot} of [flame_1]{flames}",
+      "entry": "ablaze",
+      "id": "ablaze#ablaze__1"
+    },
+    {
+      "comment": "[burning]{burning}",
+      "entry": "on fire",
+      "id": "on-fire#on-fire__1"
+    }
+  ],
+  "thesaurus": "Burning",
+  "type": "Synonyms"
+}

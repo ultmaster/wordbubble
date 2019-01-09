@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "think twice/again",
+  "senses": [
+    {
+      "def": "to [careful#careful__20]{carefully} [consider]{consider} whether what you are [planning]{planning} to do is a [good_1]{good} [idea]{idea}",
+      "examples": [
+        "I\u2019d [think_1]{think} [twice_1]{twice} before [buy_1]{buying} that [car]{car} if I were you.",
+        "A [visible]{visible} [alarm_1]{alarm} [make_1]{makes} [burglar]{burglars} [think_1]{think} [twice_1]{twice}."
+      ],
+      "id": "think-twice-again__1"
+    },
+    {
+      "def": "to do something [immediately]{immediately}, without [considering]{considering} whether it is a [good_1]{good} [idea]{idea}",
+      "examples": [
+        "I didn\u2019t [think_1]{think} [twice_1]{twice} \u2013 I [accepted]{accepted} the [job_1]{job} [straight_1]{straight} [away_1]{away}."
+      ],
+      "id": "think-twice-again__4"
+    }
+  ]
+}

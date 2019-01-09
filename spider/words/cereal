@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [food]{food} made from [grain]{grain}, for [example]{example} [wheat]{wheat}, [oats]{oats}, or [corn]{corn}, [mainly]{mainly} [eaten]{eaten} with [milk_1]{milk} for [breakfast_1]{breakfast}",
+      "examples": [
+        "a [bowl_1]{bowl} of cereal"
+      ],
+      "id": "cereal__1"
+    },
+    {
+      "def": "a [plant_1]{plant} that [produce_1]{produces} [grain]{grain}, [used]{used} as [food]{food} for [people_1]{people} and [animal_1]{animals}",
+      "examples": [
+        "cereal [crop_1]{crops}"
+      ],
+      "id": "cereal__3"
+    }
+  ],
+  "word": "cereal"
+}

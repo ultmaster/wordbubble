@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "take your place",
+  "senses": [
+    {
+      "def": "to go to a [particular_1]{particular} [position_1]{position} so that you are ready to do something",
+      "examples": [
+        "Bjorn [took]{took} his [place_1]{place} at the [microphone]{microphone}."
+      ],
+      "id": "take-your-place__1"
+    },
+    {
+      "def": "to become part of a [particular_1]{particular} [group_1]{group} of [people_1]{people} or [thing]{things}",
+      "examples": [
+        "The [restaurant]{restaurant} has [taken_1]{taken} its [place_1]{place} among the [fine_1]{finest} [eat]{eating} [establishment]{establishments} in the [city]{city}."
+      ],
+      "id": "take-your-place__3"
+    }
+  ]
+}

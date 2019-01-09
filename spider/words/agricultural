@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to [farming]{farming}",
+      "examples": [
+        "agricultural [produce_1]{produce}/[product]{products}",
+        "The [land_1]{land} is only to be [used]{used} for agricultural [purpose]{purposes}.",
+        "agricultural [worker]{workers}/[machinery]{machinery}"
+      ],
+      "id": "agricultural__1"
+    },
+    {
+      "def": "[clumsy]{clumsy}; not very [skilful]{skilful} ([used]{used} [especially]{especially} about [bat_2]{batting} in [cricket]{cricket})",
+      "examples": [
+        "The [icing]{icing} was a [bit_1]{bit} agricultural, but the [cake]{cake} [taste_2]{tasted} [good_1]{good}.",
+        "That was an agricultural [shot_1]{shot} from Harmison."
+      ],
+      "id": "agricultural__6"
+    }
+  ],
+  "word": "agricultural"
+}

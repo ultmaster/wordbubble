@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to give a [person]{person} or [organization]{organization} the [legal]{legal} [authority]{authority} to do something",
+      "examples": [
+        "a [court_1]{court} [empower]{empowered} to [review_1]{review} the [decision_1]{decisions} of a [lower_1]{lower} [court_1]{court}"
+      ],
+      "id": "empower__1"
+    },
+    {
+      "def": "to give someone more [control_1]{control} over their [life]{life} or more [power_1]{power} to do something",
+      "examples": [
+        "Our [goal]{goal} is to empower everyone on our [staff_1]{staff}."
+      ],
+      "id": "empower__3"
+    }
+  ],
+  "word": "empower"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [sleep_1]{sleeping}",
+      "entry": "awake",
+      "id": "awake_1#awake_1__1"
+    },
+    {
+      "comment": "[awake_1]{awake} and [able_1]{able} to see, [hear]{hear}, and [think_1]{think}",
+      "entry": "conscious",
+      "id": "conscious_1#conscious_1__5"
+    },
+    {
+      "comment": "[relate]{relating} to all the time that you are [awake_1]{awake}",
+      "entry": "waking",
+      "id": "waking#waking__1"
+    },
+    {
+      "comment": "without [sleep_1]{sleep}, or [unable]{unable} to [sleep_1]{sleep}",
+      "entry": "sleepless",
+      "id": "sleepless#sleepless__1"
+    },
+    {
+      "comment": "not [able_1]{able} to [sleep_1]{sleep}",
+      "entry": "wakeful",
+      "id": "wakeful#wakeful__1"
+    },
+    {
+      "comment": "[awake_1]{awake} and out of [bed_1]{bed}",
+      "entry": "up",
+      "id": "up_1#up_1__44"
+    },
+    {
+      "comment": "[completely]{completely} [awake_1]{awake}",
+      "entry": "wide awake",
+      "id": "wide-awake#wide-awake__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you have [difficulty]{difficulty} [sleep_1]{sleeping}",
+      "entry": "insomnia",
+      "id": "insomnia#insomnia__1"
+    },
+    {
+      "comment": "a [night_1]{night} during which you do not get much rest",
+      "entry": "bad night",
+      "id": "bad-night#bad-night__1"
+    },
+    {
+      "comment": "to be [unable]{unable} to [sleep_1]{sleep}, or to [sleep_1]{sleep} [badly]{badly}, [especially]{especially} because something is [worrying]{worrying} you",
+      "entry": "toss and turn",
+      "id": "toss-and-turn#toss-and-turn__1"
+    }
+  ],
+  "thesaurus": "Being awake and not sleeping",
+  "type": "Synonyms"
+}

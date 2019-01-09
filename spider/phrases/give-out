@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "give out",
+  "senses": [
+    {
+      "def": "to give something to several [people_1]{people}",
+      "examples": [
+        "The [office]{office} [give_1]{gives} out [financial]{financial} [advice]{advice} to [student]{students}."
+      ],
+      "id": "give-out__1"
+    },
+    {
+      "def": "if something such as a [machine_1]{machine} or a part of your body [give_1]{gives} out, it [stop_1]{stops} [working]{working}",
+      "examples": [
+        "His [heart_1]{heart} [finally]{finally} [gave]{gave} out under the [strain_1]{strain}."
+      ],
+      "id": "give-out__3"
+    },
+    {
+      "def": "if a [supply_1]{supply} of something has [given_1]{given} out, all of it has been [used]{used}",
+      "examples": [
+        "Their [water_1]{water} [gave]{gave} out two [day]{days} [ago]{ago}."
+      ],
+      "id": "give-out__5"
+    },
+    {
+      "def": "to [produce_1]{produce} something such as a [sound_1]{sound} or [light_1]{light}",
+      "examples": [
+        "The [quiet_1]{quietest} [device]{devices} give out only a low, almost [inaudible]{inaudible} [hum_1]{hum}."
+      ],
+      "id": "give-out__7"
+    }
+  ]
+}

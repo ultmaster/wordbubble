@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "by way of something",
+  "senses": [
+    {
+      "def": "[intended_1]{intended} to be a [particular_1]{particular} thing, or to have a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "\u201cIt\u2019s a [nice]{nice} [day]{day}\u201d, she [said_1]{said}, [merely]{merely} by way of [conversation]{conversation}.",
+        "He didn\u2019t have much to [offer_1]{offer} by way of [explanation]{explanation}."
+      ],
+      "id": "by-way-of-something__1"
+    },
+    {
+      "def": "if you [travel_1]{travel} somewhere by way of a [place_1]{place}, you go through that [place_1]{place} on your [trip_1]{trip}",
+      "examples": [
+        "They [travel_1]{traveled} through the [mountain]{mountains} by way of an [ancient]{ancient} [walled]{walled} [city]{city}."
+      ],
+      "id": "by-way-of-something__4"
+    }
+  ]
+}

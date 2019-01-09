@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [pay_1]{pay} someone [regularly]{regularly} to do a [job_1]{job} for you or to [work_1]{work} as a [member]{member} of your [organization]{organization}",
+      "entry": "employ",
+      "id": "employ_1#employ_1__1"
+    },
+    {
+      "comment": "to [choose]{choose} someone to do a [particular_1]{particular} [job_1]{job} or have a [particular_1]{particular} [position_1]{position}",
+      "entry": "appoint",
+      "id": "appoint#appoint__1"
+    },
+    {
+      "comment": "to [start_1]{start} to [employ_1]{employ} someone",
+      "entry": "take on",
+      "id": "take-on#take-on__1"
+    },
+    {
+      "comment": "to [officially]{officially} [employ_1]{employ} someone to [work_1]{work} for a [particular_1]{particular} [organization]{organization}",
+      "entry": "sign",
+      "id": "sign_2#sign_2__13"
+    },
+    {
+      "comment": "to get someone to [work_1]{work} in a [company]{company} or [join_1]{join} an [organization]{organization}",
+      "entry": "recruit",
+      "id": "recruit_1#recruit_1__1"
+    },
+    {
+      "comment": "to [start_1]{start} to [employ_1]{employ} someone or use their [service_1]{services}",
+      "entry": "engage",
+      "id": "engage#engage__3"
+    },
+    {
+      "comment": "to [pay_1]{pay} someone to [work_1]{work} for you",
+      "entry": "hire",
+      "id": "hire_1#hire_1__1"
+    },
+    {
+      "comment": "to [employ_1]{employ} someone to do a [job_1]{job}",
+      "entry": "sign on",
+      "id": "sign-on#sign-on__6"
+    },
+    {
+      "comment": "to [formally]{formally} [accept]{accept} someone [new]{new} in an [important]{important} [position_1]{position}",
+      "entry": "confirm",
+      "id": "confirm#confirm__17"
+    },
+    {
+      "comment": "to employ a professional person such as a lawyer or doctor by paying an amount of money called a retainer before the work is done",
+      "entry": "retain",
+      "id": "retain#retain__7"
+    }
+  ],
+  "thesaurus": "To employ someone",
+  "type": "Synonyms"
+}

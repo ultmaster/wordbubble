@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "tap out",
+  "senses": [
+    {
+      "def": "to use all the [money]{money} that someone or something has [available]{available}",
+      "examples": [
+        "How can we [buy_1]{buy} a [new]{new} [house_1]{house} without [tap_1]{tapping} out our [saving_1]{savings} [account_1]{account}?"
+      ],
+      "id": "tap-out__1"
+    },
+    {
+      "def": "to [create]{create} a [particular_1]{particular} [pattern_1]{pattern} of [sound_1]{sounds} by [hit_1]{hitting} a [surface_1]{surface} [gently]{gently} with your [finger_1]{fingers}",
+      "examples": [
+        "I could [hear]{hear} him [tap_1]{tapping} out another [job_1]{job} [application]{application}."
+      ],
+      "id": "tap-out__3"
+    },
+    {
+      "def": "to [make_1]{make} you [feel_1]{feel} very [tired]{tired}",
+      "examples": [
+        "We were [tap_1]{tapped} out after a long [day]{day} of [skiing]{skiing}."
+      ],
+      "id": "tap-out__6"
+    }
+  ]
+}

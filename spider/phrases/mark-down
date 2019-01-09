@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "mark down",
+  "senses": [
+    {
+      "def": "to [write]{write} something in [order_1]{order} to have a [record_1]{record} of it",
+      "examples": [
+        "Use this [column]{column} to [mark_1]{mark} down how much each [item]{item} [cost_1]{costs}."
+      ],
+      "id": "mark-down__1"
+    },
+    {
+      "def": "to [reduce]{reduce} the [price_1]{price} of something",
+      "examples": [
+        "All [shoe_1]{shoes} are [marked]{marked} down 20 [percent_1]{percent} for this [week]{week} only."
+      ],
+      "id": "mark-down__3"
+    },
+    {
+      "def": "to give a [student]{student} a [lower_1]{lower} [grade_1]{grade} for their [work_1]{work} for a [particular_1]{particular} [reason_1]{reason}",
+      "examples": [
+        "They\u2019ll [mark_1]{mark} you down for [poor_1]{poor} [spelling]{spelling}."
+      ],
+      "id": "mark-down__5"
+    },
+    {
+      "def": "to [intend]{intend} or [plan_1]{plan} that a [particular_1]{particular} thing should [happen]{happen} to someone or something",
+      "examples": [
+        "The [museum]{museum} has been [marked]{marked} down for [closure]{closure}."
+      ],
+      "id": "mark-down__7"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "you never know",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that something may [happen]{happen} at some time in the [future_1]{future}",
+      "examples": [
+        "You\u2019d [better_1]{better} be [nice]{nice} , you never [know_1]{know} when you might [need_1]{need} his [help_1]{help}."
+      ],
+      "id": "you-never-know__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something might be [possible_1]{possible} even though it [does]{does} not seem [likely_1]{likely}",
+      "examples": [
+        "You never [know_1]{know} \u2013 he might [offer_1]{offer} you a part in his [movie]{movie}."
+      ],
+      "id": "you-never-know__3"
+    }
+  ]
+}

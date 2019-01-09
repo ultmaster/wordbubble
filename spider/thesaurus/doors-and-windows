@@ -1,0 +1,181 @@
+{
+  "entries": [
+    {
+      "comment": "a [door_1]{door} at the back or side of a [building]{building}",
+      "entry": "back door",
+      "id": "back-door#back-door__1"
+    },
+    {
+      "comment": "a [large_1]{large} [window]{window} that [stick_1]{sticks} out from the [main_1]{main} [wall_1]{wall} of a [house_1]{house}",
+      "entry": "bay window",
+      "id": "bay-window#bay-window__1"
+    },
+    {
+      "comment": "a [window]{window} that [swing_1]{swings} [open_2]{opens} [like_1]{like} a [door_1]{door}",
+      "entry": "casement",
+      "id": "casement#casement__1"
+    },
+    {
+      "comment": "a [large_1]{large} [flat_1]{flat} [object_1]{object} that you [open_1]{open} when you [want_1]{want} to [enter]{enter} or [leave_1]{leave} a [building]{building}, [room_1]{room}, or [vehicle]{vehicle}",
+      "entry": "door",
+      "id": "door#door__1"
+    },
+    {
+      "comment": "an [upright_1]{upright} [window]{window} in a [slope_2#slope_2__5]{sloping} [roof_1]{roof}",
+      "entry": "dormer",
+      "id": "dormer#dormer__1"
+    },
+    {
+      "comment": "[window]{windows} or [door_1]{doors} that have two [layer_1]{layers} of [glass]{glass}, so that the [building]{building} will be [warmer]{warmer} and [quiet_1]{quieter}",
+      "entry": "double glazing",
+      "id": "double-glazing#double-glazing__1"
+    },
+    {
+      "comment": "a [door_1]{door} that [lead_1]{leads} out of a [public_1]{public} [place_1]{place} such as a [room_1]{room} or [building]{building}",
+      "entry": "exit",
+      "id": "exit_1#exit_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [window]{window} in the [shape_1]{shape} of a [half]{half} [circle_1]{circle}, [built_1]{built} above a [door_1]{door} or another [window]{window}",
+      "entry": "fanlight",
+      "id": "fanlight#fanlight__1"
+    },
+    {
+      "comment": "a very [strong]{strong} [door_1]{door} that you [close_1]{close} to [prevent]{prevent} fire from [spread_1]{spreading} from one [room_1]{room} to another",
+      "entry": "fire door",
+      "id": "fire-door#fire-door__1"
+    },
+    {
+      "comment": "if a [window]{window} or [mirror_1]{mirror} [fog_2]{fogs}, or if you [fog_1]{fog} it, it becomes [covered_1]{covered} with [steam_1]{steam} so that you cannot see through it or in it",
+      "entry": "fog",
+      "id": "fog_2#fog_2__1"
+    },
+    {
+      "comment": "a [pair_1]{pair} of [door_1]{doors} made mostly of [glass]{glass} that both [open_1]{open} from the [middle_1]{middle}",
+      "entry": "French doors",
+      "id": "french-doors#french-doors__1"
+    },
+    {
+      "comment": "a [pair_1]{pair} of [glass]{glass} [door_1]{doors} that [lead_1]{lead} to a [garden_1]{garden}",
+      "entry": "French windows",
+      "id": "french-windows#french-windows__1"
+    },
+    {
+      "comment": "the [main_1]{main} [door_1]{door} at the front of a [house_1]{house}",
+      "entry": "front door",
+      "id": "front-door#front-door__1"
+    },
+    {
+      "comment": "a [door_1]{door} [cut_1]{cut} into the [floor_1]{floor} or [ceiling]{ceiling} of a [ship_1]{ship}, [airplane]{airplane}, or [building]{building} that [people_1]{people} or [thing]{things} can move through",
+      "entry": "hatch",
+      "id": "hatch_2#hatch_2__1"
+    },
+    {
+      "comment": "a [small_1]{small} hole in the [wall_1]{wall} between two [room_1]{rooms} in a [house_1]{house}, or a [small_1]{small} [door_1]{door} that [cover_1]{covers} it",
+      "entry": "hatch",
+      "id": "hatch_2#hatch_2__2"
+    },
+    {
+      "comment": "a [hatch_1]{hatch}",
+      "entry": "hatchway",
+      "id": "hatchway#hatchway__1"
+    },
+    {
+      "comment": "in [architecture]{architecture}, a [tall]{tall} thin [pointed]{pointed} [window]{window} or [space_1]{space} in a [wall_1]{wall}",
+      "entry": "lancet",
+      "id": "lancet#lancet__2"
+    },
+    {
+      "comment": "a [structure_1]{structure} at the top of a [building]{building} with [window]{windows} on all sides to [let_1]{let} [light_1]{light} into the [building]{building}",
+      "entry": "lantern",
+      "id": "lantern#lantern__3"
+    },
+    {
+      "comment": "a [window]{window} that [stick_1]{sticks} out from a [wall_1]{wall}",
+      "entry": "oriel window",
+      "id": "oriel-window#oriel-window__1"
+    },
+    {
+      "comment": "a [large_1]{large} [window]{window} [consist]{consisting} of a [single_1]{single} [piece_1]{piece} of [glass]{glass}",
+      "entry": "picture window",
+      "id": "picture-window#picture-window__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [door_1]{doors} that [spin_1]{spin} around a [central]{central} [post_1]{post}",
+      "entry": "revolving door",
+      "id": "revolving-door#revolving-door__1"
+    },
+    {
+      "comment": "a round [window]{window} in a [church]{church} with a [pattern_1]{pattern} in the [shape_1]{shape} of a [rose_1]{rose}",
+      "entry": "rose window",
+      "id": "rose-window#rose-window__1"
+    },
+    {
+      "comment": "a [window]{window} that is made with two [piece_1]{pieces} of [glass]{glass}, each in a [separate_1]{separate} [frame_1]{frame}, that [fit_1]{fit} together so that one [frame_1]{frame} [slide_1]{slides} [past_1]{past} the other when you [want_1]{want} to [open_1]{open} or [close_1]{close} the [window]{window}",
+      "entry": "sash window",
+      "id": "sash-window#sash-window__1"
+    },
+    {
+      "comment": "a [door_1]{door} with [wire_1]{wire} or [plastic_1]{plastic} [net_1]{net} in it that [let_1]{lets} [air_1]{air} into a [building]{building} but [keep_1]{keeps} [insect]{insects} out",
+      "entry": "screen door",
+      "id": "screen-door#screen-door__1"
+    },
+    {
+      "comment": "a [window]{window} in a [roof_1]{roof} or [ceiling]{ceiling}",
+      "entry": "skylight",
+      "id": "skylight#skylight__1"
+    },
+    {
+      "comment": "a [door_1]{door} that you [open_1]{open} and [close_1]{close} by [slide_2]{sliding} it",
+      "entry": "sliding door",
+      "id": "sliding-door#sliding-door__1"
+    },
+    {
+      "comment": "a [door_1]{door} on a [stable_1]{stable}",
+      "entry": "stable door",
+      "id": "stable-door#stable-door__1"
+    },
+    {
+      "comment": "a [door_1]{door} in two [halves]{halves}, with a top part that can be [left_1]{left} [open_1]{open} when the bottom part is [shut_1]{shut}",
+      "entry": "stable door",
+      "id": "stable-door#stable-door__2"
+    },
+    {
+      "comment": "a [swinging]{swinging} [door_1]{door}",
+      "entry": "swing door",
+      "id": "swing-door#swing-door__1"
+    },
+    {
+      "comment": "a [door_1]{door} without a [handle_1]{handle} that you can [push_1]{push} [open_1]{open} from either side and that [close_1]{closes} [automatically]{automatically}",
+      "entry": "swinging door",
+      "id": "swinging-door#swinging-door__1"
+    },
+    {
+      "comment": "a small window over a door or larger window. The British word is fanlight.",
+      "entry": "transom",
+      "id": "transom#transom__1"
+    },
+    {
+      "comment": "a [small_1]{small} [door_1]{door} that [cover_1]{covers} an [opening_1]{opening} in a [floor_1]{floor}, [ceiling]{ceiling}, or [wall_1]{wall}",
+      "entry": "trapdoor",
+      "id": "trapdoor#trapdoor__1"
+    },
+    {
+      "comment": "an [exit_1]{exit} from a [place_1]{place}",
+      "entry": "way out",
+      "id": "way-out_1#way-out_1__3"
+    },
+    {
+      "comment": "to [roll_1]{roll} the [window]{window} of a [vehicle]{vehicle} up or down",
+      "entry": "wind",
+      "id": "wind_3#wind_3__9"
+    },
+    {
+      "comment": "a [frame_1]{frame} in a [wall_1]{wall} with [glass]{glass} in it that [let_1]{lets} [light_1]{light} and [air_1]{air} into a [room_1]{room} and [let_1]{lets} you see what is [outside]{outside}",
+      "entry": "window",
+      "id": "window#window__1"
+    }
+  ],
+  "thesaurus": "Doors and windows",
+  "type": "Related words"
+}

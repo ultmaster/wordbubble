@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "an [act_1]{act} of [telephone_2]{telephoning} someone",
+      "entry": "call",
+      "id": "call_2#call_2__3"
+    },
+    {
+      "comment": "an [unexpected]{unexpected} [telephone_1]{telephone} call or [visit_1]{visit} by someone [trying]{trying} to [sell_1]{sell} something",
+      "entry": "cold call",
+      "id": "cold-call#cold-call__1"
+    },
+    {
+      "comment": "a phone call that the person you are calling agrees to pay for. The British word is reverse-charge call.",
+      "entry": "collect call",
+      "id": "collect-call#collect-call__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} call in which three or more [people_1]{people} use [special_1]{special} [equipment]{equipment} that [allow]{allows} each of them to [hear]{hear} and [speak_1]{speak} with the others",
+      "entry": "conference call",
+      "id": "conference-call#conference-call__1"
+    },
+    {
+      "comment": "a [visit_1]{visit} or [telephone_1]{telephone} call that you [make_1]{make} to a [customer]{customer} in [order_1]{order} to be [polite]{polite}",
+      "entry": "courtesy call",
+      "id": "courtesy-call#courtesy-call__1"
+    },
+    {
+      "comment": "the [half]{half} of a [cell]{cell} [phone_1]{phone} [conversation]{conversation} that you can [hear]{hear} when you are [near_1]{near} someone who is [talk_1]{talking} on one",
+      "entry": "halfalogue",
+      "id": "halfalogue#halfalogue__1"
+    },
+    {
+      "comment": "a [long-distance]{long-distance} [phone_1]{phone} call is one that you [make_1]{make} to someone [far]{far} [away_1]{away}",
+      "entry": "long-distance",
+      "id": "long-distance#long-distance__4"
+    },
+    {
+      "comment": "a telephone line/call that is connected to people in other places or organizations",
+      "entry": "outside line/call",
+      "id": "outside-line-call#outside-line-call__1"
+    },
+    {
+      "comment": "[person-to-person]{person-to-person}",
+      "entry": "P2P",
+      "id": "p2p#p2p__3"
+    },
+    {
+      "comment": "a person-to-person call is a telephone call that you ask the operator to arrange with a specific person, so that you do not have to pay for the call if they are not available",
+      "entry": "person-to-person",
+      "id": "person-to-person#person-to-person__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [telephone_2]{telephoning} someone",
+      "entry": "phone call",
+      "id": "phone-call#phone-call__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} call in which the [caller]{caller} [lie_1]{lies} to or [trick_1]{tricks} the [person]{person} they [call_1]{called}",
+      "entry": "prank call",
+      "id": "prank-call#prank-call__1"
+    },
+    {
+      "comment": "a [collect_1]{collect} call",
+      "entry": "reverse-charge call",
+      "id": "reverse-charge-call#reverse-charge-call__1"
+    },
+    {
+      "comment": "an [automatic_1]{automatic} [telephone_1]{telephone} call that [play_1]{plays} a [record_2]{recorded} [message_1]{message}. In the U.K. the call is often an [attempt_1]{attempt} to [sell_1]{sell} something, while in the U.S. the [call_1]{calls} are often made by [political]{political} [party_1]{parties}.",
+      "entry": "robocall",
+      "id": "robocall#robocall__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [speak_1]{speak} to someone on the [telephone_1]{telephone}",
+      "entry": "telephone call",
+      "id": "telephone-call#telephone-call__1"
+    }
+  ],
+  "thesaurus": "Telephone calls and types of telephone call",
+  "type": "Related words"
+}

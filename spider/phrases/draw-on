@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "draw on",
+  "senses": [
+    {
+      "def": "to use something that you have [gradually]{gradually} [gain_1]{gained} or [save_1]{saved}",
+      "examples": [
+        "As an [actor]{actor}, you often [draw_1]{draw} on your own [life]{life} [experience_1]{experiences}.",
+        "Your body [draw_1]{draws} on its [reserve_1]{reserves} of [fat_1]{fat} during the times when you are [fast_3]{fasting}."
+      ],
+      "id": "draw-on__1"
+    },
+    {
+      "def": "to [breathe]{breathe} in [smoke_1]{smoke} from a [cigarette]{cigarette}",
+      "examples": [
+        "She [shook]{shook} her [head_1]{head} as she [drew]{drew} on her [cigarette]{cigarette}."
+      ],
+      "id": "draw-on__5"
+    },
+    {
+      "def": "to take [money]{money} from a [bank_1]{bank} [account_1]{account} by [writing]{writing} a [check_1]{check}",
+      "examples": [
+        "He [paid_1]{paid} with a [check_1]{check} [drawn_1]{drawn} on his [company]{company}\u2019s [account_1]{account}."
+      ],
+      "id": "draw-on__7"
+    },
+    {
+      "def": "to put on a [particular_1]{particular} [piece_1]{piece} of [clothing]{clothing}",
+      "examples": [],
+      "id": "draw-on__9"
+    }
+  ]
+}

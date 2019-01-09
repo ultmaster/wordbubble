@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [measurement]{measurement} of how [good_1]{good} or [popular]{popular} someone or something is",
+      "examples": [
+        "The [guide_1]{guide} [give_1]{gives} [restaurant]{restaurants} a rating from 1 to 10.",
+        "The [president_1]{president}\u2019s [popularity]{popularity} rating [fell_1]{fell} for the first time since the [election]{election}.",
+        "The [university]{university} [consistently]{consistently} [receive]{receives} a [high_1]{high} rating for the [quality_1]{quality} of its [research_1]{research}."
+      ],
+      "id": "rating__1"
+    },
+    {
+      "def": "a [letter_1]{letter} or [letter_1]{letters} and sometimes a [number_1]{number} that show how [old]{old} someone [need_1]{needs} to be before they are [allow]{allowed} to see a [particular_1]{particular} [movie]{movie}",
+      "examples": [
+        "A \u201cG\u201d rating [means]{means} the [movie]{movie} is [appropriate_1]{appropriate} for anyone."
+      ],
+      "id": "rating__5"
+    },
+    {
+      "def": "the [number_1]{number} that [tell_1]{tells} how many [people_1]{people} [watch_1]{watched} or [listen_1]{listened} to a [particular_1]{particular} [television]{television} or [radio_1]{radio} show",
+      "examples": [
+        "[regional]{Regional} [news]{news} [program_1]{programs} [need_1]{need} to [improve_1]{improve} their [rating]{ratings}.",
+        "Her [new]{new} [series]{series} had [high_1]{high} [rating]{ratings} [right_1]{right} from the [start_1]{start}.",
+        "[quiz_1]{Quiz} [show_1]{shows} were top of the [rating]{ratings} that [year]{year}."
+      ],
+      "id": "rating__7"
+    }
+  ],
+  "word": "rating"
+}

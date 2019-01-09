@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} and [vehicle]{vehicles} or [animal_1]{animals} [traveling]{traveling} together, [especially]{especially} in a [desert_1]{desert}",
+      "entry": "caravan",
+      "id": "caravan#caravan__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} that form a [line_1]{line}",
+      "entry": "chain",
+      "id": "chain_1#chain_1__12"
+    },
+    {
+      "comment": "a long [line_1]{line} of [people_1]{people} or [vehicle]{vehicles} [moving]{moving} together",
+      "entry": "column",
+      "id": "column#column__12"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people}, [especially]{especially} [police_1]{police} [officer]{officers} or [soldier_1]{soldiers}, that [stop_1]{stops} other [people_1]{people} from [going_1]{going} somewhere",
+      "entry": "cordon",
+      "id": "cordon_1#cordon_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [children]{children} [walking_1]{walking} in [pair_1]{pairs} in a [line_1]{line}",
+      "entry": "crocodile",
+      "id": "crocodile#crocodile__3"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people} [walking_1]{walking} or [standing_1]{standing} behind each other",
+      "entry": "file",
+      "id": "file_1#file_1__11"
+    },
+    {
+      "comment": "the [continuous]{continuous} [movement]{movement} of a [line_1]{line} of [vehicle]{vehicles} or [people_1]{people}",
+      "entry": "flow",
+      "id": "flow_1#flow_1__4"
+    },
+    {
+      "comment": "a [row_1]{row} of [people_1]{people} or [thing]{things}",
+      "entry": "line",
+      "id": "line_1#line_1__25"
+    },
+    {
+      "comment": "a [row_1]{row} of [people_1]{people} who are [wait_1]{waiting} for something",
+      "entry": "line",
+      "id": "line_1#line_1__31"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} or [thing]{things} [standing_1]{standing} or [place_2]{placed} [close_1]{close} together",
+      "entry": "phalanx",
+      "id": "phalanx#phalanx__1"
+    },
+    {
+      "comment": "[used]{used} about [people_1]{people} or [vehicle]{vehicles} that are [moving]{moving} in a [line_1]{line}",
+      "entry": "procession",
+      "id": "procession#procession__4"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people} [wait_1]{waiting} for something",
+      "entry": "queue",
+      "id": "queue_1#queue_1__2"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people} or [thing]{things} in which one is [directly_1]{directly} behind the other",
+      "entry": "single file",
+      "id": "single-file#single-file__1"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people}, [animal_1]{animals}, or [vehicle]{vehicles} that move [slowly]{slowly} together",
+      "entry": "train",
+      "id": "train_1#train_1__10"
+    }
+  ],
+  "thesaurus": "Lines of people or their vehicles",
+  "type": "Related words"
+}

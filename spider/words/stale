@@ -1,0 +1,37 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "stale [food]{food} such as [bread]{bread} is [old]{old} and no [long_1]{longer} [fresh_1]{fresh}",
+      "examples": [
+        "a [package_1]{package} of stale [crackers]{crackers}",
+        "[wrap_1]{Wrap} the [bread]{bread} up well or it\u2019ll get stale."
+      ],
+      "id": "stale__1"
+    },
+    {
+      "def": "[used]{used} for [describe]{describing} something that [does]{does} not [smell_1]{smell} [fresh_1]{fresh} or [pleasant]{pleasant}",
+      "examples": [
+        "stale [air_1]{air}",
+        "stale [cigarette]{cigarette} [smoke_1]{smoke}"
+      ],
+      "id": "stale__4"
+    },
+    {
+      "def": "not [new]{new}, [original_1]{original}, or [interesting]{interesting}",
+      "examples": [
+        "stale [news]{news}/[joke_1]{jokes}/[idea]{ideas}"
+      ],
+      "id": "stale__7"
+    },
+    {
+      "def": "if you are stale, you have done something so often that you can no [long_1]{longer} do it well or be [interested]{interested} in it",
+      "examples": [
+        "He was [get]{getting} stale and [wanted]{wanted} a [new]{new} [job_1]{job}."
+      ],
+      "id": "stale__9"
+    }
+  ],
+  "word": "stale"
+}

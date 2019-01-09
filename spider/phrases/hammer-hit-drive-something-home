@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "hammer/hit/drive something home",
+  "senses": [
+    {
+      "def": "to [tell_1]{tell} [people_1]{people} about something in a way that [make_1]{makes} them [understand]{understand} and [accept]{accept} it, [especially]{especially} by [repeat_1]{repeating} it many times",
+      "examples": [
+        "He [hammered]{hammered} [home_1]{home} the [message_1]{message} that his [party_1]{party} would be [tough_1]{tough} on [crime_1]{crime}."
+      ],
+      "id": "hammer-hit-drive-something-home__1"
+    },
+    {
+      "def": "to [score_1]{score} a [goal]{goal} or [point_1]{point} with a very [powerful]{powerful} [kick_1]{kick} or hit",
+      "examples": [
+        "Jonathan de Guzman [hammered]{hammered} the [ball_1]{ball} [home_1]{home} to [make_1]{make} it 2\u20130."
+      ],
+      "id": "hammer-hit-drive-something-home__3"
+    }
+  ]
+}

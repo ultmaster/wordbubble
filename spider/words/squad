@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [department]{department} in a [police_1]{police} [force_1]{force} that [deal_1]{deals} with a [particular_1]{particular} [type_1]{type} of [crime_1]{crime}",
+      "examples": [
+        "the [drug_1]{drugs} squad"
+      ],
+      "id": "squad__1"
+    },
+    {
+      "def": "a [small_1]{small} [group_1]{group} of [soldier_1]{soldiers} who do a [particular_1]{particular} [job_1]{job}",
+      "examples": [
+        "the [bomb_1]{bomb} squad"
+      ],
+      "id": "squad__3"
+    },
+    {
+      "def": "a [sport_1]{sports} [team_1]{team}",
+      "examples": [],
+      "id": "squad__5"
+    },
+    {
+      "def": "a [group_1]{group} of [friend_1]{friends}",
+      "examples": [
+        "The first [rule_1]{rule} of Taylor [swift_2]{Swift's} squad is that you do not [talk_1]{talk} about Taylor [swift_2]{Swift's} squad."
+      ],
+      "id": "squad__7"
+    }
+  ],
+  "word": "squad"
+}

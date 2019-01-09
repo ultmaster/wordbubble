@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "the [light_1]{light} from a [burning]{burning} [candle]{candle}",
+      "entry": "candlelight",
+      "id": "candlelight#candlelight__1"
+    },
+    {
+      "comment": "the [light_1]{light} [outside]{outside} that you see during the [day]{day}",
+      "entry": "daylight",
+      "id": "daylight#daylight__1"
+    },
+    {
+      "comment": "the [light_1]{light} that [burning]{burning} [gas_1]{gas} [produce_1]{produces}",
+      "entry": "gaslight",
+      "id": "gaslight#gaslight__1"
+    },
+    {
+      "comment": "the red or [orange_1]{orange} [light_1]{light} coming from something that [produce_1]{produces} [heat_1]{heat}",
+      "entry": "glow",
+      "id": "glow_2#glow_2__4"
+    },
+    {
+      "comment": "the [light_1]{light} from something such as a [television]{television} or computer [screen_1]{screen}",
+      "entry": "glow",
+      "id": "glow_2#glow_2__6"
+    },
+    {
+      "comment": "a ray of light that hits a surface",
+      "entry": "incident ray",
+      "id": "incident-ray#incident-ray__1"
+    },
+    {
+      "comment": "the [light_1]{light} from a [lamp_1]{lamp}",
+      "entry": "lamplight",
+      "id": "lamplight#lamplight__1"
+    },
+    {
+      "comment": "[bright_1#bright_1__21]{brightness} from the [sun_1]{sun} during the [day]{day}",
+      "entry": "the light",
+      "id": "light_1#light_1__10"
+    },
+    {
+      "comment": "an amount of [light_1]{light} or [heat_1]{heat} from the [sun_1]{sun}",
+      "entry": "ray",
+      "id": "ray#ray__1"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [line_1]{line} of [light_1]{light} that you can see coming from the [sun_1]{sun} or a [lamp_1]{lamp}",
+      "entry": "ray",
+      "id": "ray#ray__4"
+    },
+    {
+      "comment": "the [light_1]{light} from a [spotlight_1]{spotlight}",
+      "entry": "spotlight",
+      "id": "spotlight_1#spotlight_1__2"
+    },
+    {
+      "comment": "the [light_1]{light} and [warmth]{warmth} that you [feel_1]{feel} from the [sun_1]{sun}",
+      "entry": "sun",
+      "id": "sun_1#sun_1__2"
+    },
+    {
+      "comment": "a ray  (=bright line) of light that shines down from the sun",
+      "entry": "sunbeam",
+      "id": "sunbeam#sunbeam__1"
+    },
+    {
+      "comment": "the [light_1]{light} from the [sun_1]{sun}",
+      "entry": "sunlight",
+      "id": "sunlight#sunlight__1"
+    },
+    {
+      "comment": "light from the sun. This word is used especially to mean that the light is warm and pleasant",
+      "entry": "sunshine",
+      "id": "sunshine#sunshine__1"
+    },
+    {
+      "comment": "the [light_1]{light} from one or more [torch_1]{torches}",
+      "entry": "torchlight",
+      "id": "torchlight#torchlight__1"
+    }
+  ],
+  "thesaurus": "Specific types of light",
+  "type": "Related words"
+}

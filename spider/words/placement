@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [process_1]{process} of [find_1]{finding} someone a [place_1]{place} where they can [live_1]{live}, [work_1]{work}, or [study_1]{study}",
+      "examples": [
+        "[job_1]{job} placement [program_1]{programs}",
+        "Our first [concern_1]{concern} is to find [placement]{placements} for [abandoned]{abandoned} [children]{children}."
+      ],
+      "id": "placement__1"
+    },
+    {
+      "def": "the [act_1]{act} of [put]{putting} something into a [position_1]{position}",
+      "examples": [],
+      "id": "placement__5"
+    },
+    {
+      "def": "an [internship]{internship}",
+      "examples": [],
+      "id": "placement__6"
+    }
+  ],
+  "word": "placement"
+}

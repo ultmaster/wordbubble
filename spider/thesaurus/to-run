@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to move [quickly]{quickly} to a [place_1]{place} [use_1]{using} your [legs]{legs} and [feet]{feet}",
+      "entry": "run",
+      "id": "run_1#run_1__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [running_1]{running} for [pleasure]{pleasure} or in a [sport_1]{sport}",
+      "entry": "run",
+      "id": "run_2#run_2__1"
+    },
+    {
+      "comment": "to [run_1]{run} in a [race_1]{race}",
+      "entry": "run",
+      "id": "run_1#run_1__6"
+    },
+    {
+      "comment": "to [run_1]{run} a [particular_1]{particular} [distance_1]{distance}",
+      "entry": "run",
+      "id": "run_1#run_1__11"
+    },
+    {
+      "comment": "someone who [run_1]{runs} for [pleasure]{pleasure} or as a [sport_1]{sport}",
+      "entry": "runner",
+      "id": "runner#runner__3"
+    },
+    {
+      "comment": "the [activity]{activity} of [running_1]{running} for [pleasure]{pleasure} or as a [sport_1]{sport}",
+      "entry": "running",
+      "id": "running_2#running_2__1"
+    },
+    {
+      "comment": "to [run_1]{run} or go somewhere very [quickly]{quickly} because you are in a [hurry_1]{hurry}",
+      "entry": "dash",
+      "id": "dash_1#dash_1__1"
+    },
+    {
+      "comment": "to [run_1]{run} or [jump_1]{jump} [take_1]{taking} [large_1]{large} [step_1]{steps} when you are full of [energy]{energy} or [excitement]{excitement}",
+      "entry": "bound",
+      "id": "bound_2#bound_2__1"
+    },
+    {
+      "comment": "to [run_1]{run} at a [slow_1]{slow} [steady_1]{steady} [speed_1]{speed}, [usually]{usually} for [exercise_1]{exercise} or [pleasure]{pleasure}",
+      "entry": "jog",
+      "id": "jog_1#jog_1__1"
+    },
+    {
+      "comment": "to [walk_1]{walk} or [run_1]{run} with [heavy_1]{heavy} and [regular_1]{regular} [step_1]{steps}",
+      "entry": "pound",
+      "id": "pound_2#pound_2__5"
+    }
+  ],
+  "thesaurus": "To run",
+  "type": "Synonyms"
+}

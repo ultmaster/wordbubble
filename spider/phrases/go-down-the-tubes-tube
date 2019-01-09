@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go down the tubes/tube",
+  "senses": [
+    {
+      "def": "to [fail_1]{fail} [completely]{completely}",
+      "examples": [
+        "This [company]{company} is [going_1]{going} down the [tube]{tubes}."
+      ],
+      "id": "go-down-the-tubes-tube__1"
+    },
+    {
+      "def": "to be [wasted]{wasted}",
+      "examples": [
+        "Theresa could see all her [good_1]{good} [work_1]{work} [going_1]{going} down the [tube]{tubes}."
+      ],
+      "id": "go-down-the-tubes-tube__3"
+    }
+  ]
+}

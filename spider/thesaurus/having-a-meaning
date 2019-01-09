@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "with a [clear_1]{clear} [meaning_1]{meaning}",
+      "entry": "meaningful",
+      "id": "meaningful#meaningful__4"
+    },
+    {
+      "comment": "[clear_1]{clear} and with only one [possible_1]{possible} [meaning_1]{meaning}",
+      "entry": "unambiguous",
+      "id": "unambiguous#unambiguous__1"
+    },
+    {
+      "comment": "[have]{having} a [special_1]{special} [meaning_1]{meaning} that only some [people_1]{people} [understand]{understand}",
+      "entry": "significant",
+      "id": "significant#significant__8"
+    },
+    {
+      "comment": "[clearly]{clearly} [shown]{shown} or [explain]{explained}",
+      "entry": "well-defined",
+      "id": "well-defined#well-defined__1"
+    },
+    {
+      "comment": "[represent]{representing} something [important]{important}",
+      "entry": "symbolic",
+      "id": "symbolic#symbolic__3"
+    },
+    {
+      "comment": "[showing]{showing} or [suggest]{suggesting} the [truth]{truth} about a [situation]{situation}, often in a way that was not [intended_1]{intended}",
+      "entry": "telling",
+      "id": "telling#telling__3"
+    },
+    {
+      "comment": "[relate]{relating} to [representation]{representation}",
+      "entry": "representational",
+      "id": "representational#representational__2"
+    },
+    {
+      "comment": "[showing]{showing} that something will [happen]{happen}, is [true_1]{true}, or [exist]{exists}",
+      "entry": "indicative",
+      "id": "indicative_1#indicative_1__1"
+    },
+    {
+      "comment": "[showing]{showing} the [essential_1]{essential} [feature_1]{features} of an [emotion]{emotion}, [idea]{idea}, or [quality_1]{quality}",
+      "entry": "expressive",
+      "id": "expressive#expressive__5"
+    },
+    {
+      "comment": "[relate]{relating} to an [action_1]{action} that you [perform]{perform} by [saying]{saying} something, for [example]{example} when you [threaten]{threaten} or [warn]{warn} someone, or when you [promise_1]{promise} to do something for them",
+      "entry": "illocutionary",
+      "id": "illocutionary#illocutionary__1"
+    }
+  ],
+  "thesaurus": "Having a meaning",
+  "type": "Synonyms"
+}

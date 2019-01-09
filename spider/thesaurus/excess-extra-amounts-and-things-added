@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that you [add_1]{add} to something else",
+      "entry": "addition",
+      "id": "addition#addition__1"
+    },
+    {
+      "comment": "something that you have in [addition]{addition} to other [similar]{similar} [thing]{things} and can use if you [need_1]{need} another one",
+      "entry": "spare",
+      "id": "spare_3#spare_3__1"
+    },
+    {
+      "comment": "something [extra_1]{extra} that you [add_1]{add} to [make_1]{make} something [better_1]{better}",
+      "entry": "supplement",
+      "id": "supplement_2#supplement_2__1"
+    },
+    {
+      "comment": "a [large_1]{larger} amount of something than is [usual]{usual} or [necessary_1]{necessary}",
+      "entry": "excess",
+      "id": "excess_1#excess_1__1"
+    },
+    {
+      "comment": "something that is [added]{added} to something else",
+      "entry": "complement",
+      "id": "complement_2#complement_2__1"
+    },
+    {
+      "comment": "an [extra_1]{extra} amount of [people_1]{people} or [thing]{things} that do not [fit_1]{fit} into a [particular_1]{particular} [space_1]{space}",
+      "entry": "overflow",
+      "id": "overflow_2#overflow_2__1"
+    },
+    {
+      "comment": "more of something than is [need_1]{needed} or [wanted]{wanted}",
+      "entry": "overkill",
+      "id": "overkill#overkill__1"
+    },
+    {
+      "comment": "an amount of time or [money]{money} that is more than was [plan_2]{planned} or [intended_1]{intended}",
+      "entry": "overrun",
+      "id": "overrun_2#overrun_2__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which you have a [large_1]{larger} amount of something than you can use or [sell_1]{sell}",
+      "entry": "overcapacity",
+      "id": "overcapacity#overcapacity__1"
+    },
+    {
+      "comment": "more of something than is [necessary_1]{necessary}",
+      "entry": "surplus",
+      "id": "surplus_1#surplus_1__1"
+    }
+  ],
+  "thesaurus": "Excess, extra amounts and things added",
+  "type": "Synonyms"
+}

@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "run out/sell out",
+  "senses": [
+    {
+      "def": "if a [supply_1]{supply} of something runs out/sells out, there is none [left_1]{left}",
+      "examples": [
+        "The first [edition]{edition} of the [book_1]{book} [sold]{sold} out within 24 [hour]{hours}.",
+        "[supply_1]{Supplies} of [uranium]{uranium} will have [run_1]{run} out by the [end_1]{end} of the [decade]{decade}."
+      ],
+      "id": "run-out-sell-out__1"
+    }
+  ]
+}

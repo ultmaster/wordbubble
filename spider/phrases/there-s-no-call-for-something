@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "there\u2019s no call for something",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} someone is [behave]{behaving} in an [unreasonable]{unreasonable} or [rude]{rude} way",
+      "examples": [
+        "There\u2019s no call for [sarcasm]{sarcasm}!"
+      ],
+      "id": "there-s-no-call-for-something__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} something is not [necessary_1]{necessary} or [appropriate_1]{appropriate}",
+      "examples": [
+        "There\u2019s no call for [regret_1]{regret}."
+      ],
+      "id": "there-s-no-call-for-something__3"
+    }
+  ]
+}

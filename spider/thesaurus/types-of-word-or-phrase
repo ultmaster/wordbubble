@@ -1,0 +1,331 @@
+{
+  "entries": [
+    {
+      "comment": "a number of lines of writing, for example a poem or a word puzzle, in which particular letters from each line form a word or phrase",
+      "entry": "acrostic",
+      "id": "acrostic#acrostic__1"
+    },
+    {
+      "comment": "a [sequence_1]{sequence} of two [turn_1]{turns} in [conversation]{conversation} such as a [question_1]{question} and an [answer_1]{answer}, where the first [item]{item} [lead_1]{leads} to the [second_1]{second}",
+      "entry": "adjacency pair",
+      "id": "adjacency-pair#adjacency-pair__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} [used]{used} in U.S. English",
+      "entry": "Americanism",
+      "id": "americanism#americanism__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that you can [make_1]{make} from another [word_1]{word} or [phrase_1]{phrase} by [put]{putting} the [letter_1]{letters} in a [different]{different} [order_1]{order}. For [example]{example} \u201cmean\u201d is an [anagram]{anagram} of \u201cname.\u201d",
+      "entry": "anagram",
+      "id": "anagram#anagram__1"
+    },
+    {
+      "comment": "a [word_1]{word} that is [used]{used} in British English but not in other [type_1]{types} of English",
+      "entry": "anglicism",
+      "id": "anglicism#anglicism__1"
+    },
+    {
+      "comment": "an English [word_1]{word} that is [used]{used} in another [language]{language}",
+      "entry": "anglicism",
+      "id": "anglicism#anglicism__2"
+    },
+    {
+      "comment": "an Arabic [word_1]{word} or [phrase_1]{phrase}",
+      "entry": "Arabism",
+      "id": "arabism#arabism__3"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} or [phrase_1]{phrase} that is no [long_1]{longer} [used]{used}",
+      "entry": "archaism",
+      "id": "archaism#archaism__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that comes from another [language]{language}",
+      "entry": "borrowing",
+      "id": "borrowing#borrowing__5"
+    },
+    {
+      "comment": "a [word_1]{word} or [expression]{expression} [used]{used} in a [language]{language} that has been [translate]{translated} from another [language]{language}",
+      "entry": "calque",
+      "id": "calque#calque__1"
+    },
+    {
+      "comment": "a [word_1]{word}, [phrase_1]{phrase}, or [group_1]{group} that [include]{includes} a [lot_1]{lot} of [different]{different} [thing]{things}",
+      "entry": "catch-all",
+      "id": "catch-all_2#catch-all_2__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that [people_1]{people} keep [shout_1]{shouting} or [sing_1]{singing} many times",
+      "entry": "chant",
+      "id": "chant_1#chant_1__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} in which you [repeat_1]{repeat} a [phrase_1]{phrase} in a [sentence_1]{sentence} but with the [word_1]{words} in the [opposite_1]{opposite} [order_1]{order}. For [example]{example} \u2019some [people_1]{people} [eat]{eat} to [live_1]{live}, and others [live_1]{live} to [eat]{eat}\u2019.",
+      "entry": "chiasmus",
+      "id": "chiasmus#chiasmus__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that [help_1]{helps} you to [guess_1]{guess} another [word_1]{word} or [phrase_1]{phrase}",
+      "entry": "clue",
+      "id": "clue_1#clue_1__9"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that has [recently]{recently} been [used]{used} for the first time",
+      "entry": "coinage",
+      "id": "coinage#coinage__2"
+    },
+    {
+      "comment": "a [colloquial]{colloquial} [word_1]{word} or [expression]{expression}",
+      "entry": "colloquialism",
+      "id": "colloquialism#colloquialism__1"
+    },
+    {
+      "comment": "the [word_1]{words} [surrounding]{surrounding} a [particular_1]{particular} [word_1]{word} that [help_1]{help} to give it its [meaning_1]{meaning}",
+      "entry": "context",
+      "id": "context#context__5"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that you use [deliberately]{deliberately}, [knowing]{knowing} that it has two [meaning_1]{meanings}, one of which is [usually]{usually} [rude]{rude} or [funny]{funny} because it [refer]{refers} to [sex_1]{sex}",
+      "entry": "double entendre",
+      "id": "double-entendre#double-entendre__1"
+    },
+    {
+      "comment": "a [sentence_1]{sentence} in which two [negative_1]{negative} [word_1]{words} such as \u201cnot,\u201d \u201cdon\u2019t,\u201d or \u201cno one\u201d are [used]{used} when only one would be [correct_1]{correct}, for [example]{example} in the [sentence_1]{sentence} \u201cI don\u2019t [want_1]{want} no [dinner]{dinner}.\u201d",
+      "entry": "double negative",
+      "id": "double-negative#double-negative__1"
+    },
+    {
+      "comment": "a word or phrase that you say to someone you love, for example darling or sweetheart",
+      "entry": "endearment",
+      "id": "endearment#endearment__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that [describe]{describes} the [main_1]{main} [quality_1]{quality} of someone or something",
+      "entry": "epithet",
+      "id": "epithet#epithet__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [expression]{expression} that [people_1]{people} use when they [want_1]{want} to [talk_1]{talk} about something [unpleasant]{unpleasant} or [embarrassing]{embarrassing} without [mention_1]{mentioning} the thing [itself]{itself}",
+      "entry": "euphemism",
+      "id": "euphemism#euphemism__1"
+    },
+    {
+      "comment": "something that you [say_1]{say} [suddenly]{suddenly} and [loud_1#loud_1__12]{loudly} because you are [surprised]{surprised}, [impressed]{impressed}, [angry]{angry}, etc.",
+      "entry": "exclamation",
+      "id": "exclamation#exclamation__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase}",
+      "entry": "expression",
+      "id": "expression#expression__14"
+    },
+    {
+      "comment": "something someone [say_1]{says}, for [example]{example} \"[uh]{uh}\", \"well\", or \"[sort_1]{sort} of,\" to fill a [pause_1]{pause} while [speak_1]{speaking}; also [call_1]{called} a [pause_1]{pause} [filler]{filler}",
+      "entry": "filler",
+      "id": "filler#filler__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [language]{language} that is [used]{used} to [perform]{perform} a [language]{language} [function_1]{function}. For [example]{example}, \"Can you...\" and \"Would you [mind_1]{mind}...\" are [functional]{functional} [exponent]{exponents} [used]{used} for [making]{making} [request_1]{requests}.",
+      "entry": "functional exponent",
+      "id": "functional-exponent#functional-exponent__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that [give_1]{gives} a [general_1]{general} [description]{description} of a [type_1]{type} of [person]{person} or thing",
+      "entry": "heading",
+      "id": "heading#heading__3"
+    },
+    {
+      "comment": "[word_1]{words} that are [repeated]{repeated} together several times because they are [thought_1]{thought} to have [special_1]{special} [power_1]{power}",
+      "entry": "incantation",
+      "id": "incantation#incantation__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [saying]{saying} these [word_1]{words}",
+      "entry": "incantation",
+      "id": "incantation#incantation__3"
+    },
+    {
+      "comment": "an [interrogative_1]{interrogative} [word_1]{word} or [phrase_1]{phrase} is one that you use for [ask_1]{asking} a [question_1]{question}",
+      "entry": "interrogative",
+      "id": "interrogative_1#interrogative_1__3"
+    },
+    {
+      "comment": "[special_1]{special} [word_1]{words} and [phrase_1]{phrases} that are only [understood]{understood} by [people_1]{people} who do the same [kind_1]{kind} of [work_1]{work}",
+      "entry": "jargon",
+      "id": "jargon#jargon__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that is [used]{used} to describe someone or something, [especially]{especially} one that is not [completely]{completely} [fair_1]{fair} or [true_1]{true}",
+      "entry": "label",
+      "id": "label_1#label_1__4"
+    },
+    {
+      "comment": "a [word_1]{word}, [phrase_1]{phrase}, or [idea]{idea} that is [repeated]{repeated} several times in something such as a [speech]{speech} or [book_1]{book} and is [important]{important} for [understanding_1]{understanding} the [speech]{speech} or [book_1]{book} [correctly]{correctly}",
+      "entry": "leitmotif",
+      "id": "leitmotif#leitmotif__2"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that you [say_1]{say} when you [wish_1]{wish} that something [bad_1]{bad} will [happen]{happen} to someone",
+      "entry": "malediction",
+      "id": "malediction#malediction__1"
+    },
+    {
+      "comment": "something [repeated]{repeated} again and again",
+      "entry": "mantra",
+      "id": "mantra#mantra__2"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that [means]{means} one thing and is [used]{used} for [refer]{referring} to another thing in [order_1]{order} to [emphasize]{emphasize} their [similar]{similar} [quality_1]{qualities}",
+      "entry": "metaphor",
+      "id": "metaphor#metaphor__1"
+    },
+    {
+      "comment": "a combination of metaphors that sounds silly because it creates a strange image in your mind",
+      "entry": "mixed metaphor",
+      "id": "mixed-metaphor#mixed-metaphor__1"
+    },
+    {
+      "comment": "a [sentence_1]{sentence} or [short_1]{short} [poem]{poem} that you use for [helping]{helping} you to [remember]{remember} something",
+      "entry": "mnemonic",
+      "id": "mnemonic#mnemonic__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that is very long or [hard_1]{hard} to [pronounce]{pronounce}",
+      "entry": "mouthful",
+      "id": "mouthful#mouthful__3"
+    },
+    {
+      "comment": "a [new]{new} [word_1]{word} or [expression]{expression}, or an [existing]{existing} [word_1]{word} [used]{used} with a [new]{new} [meaning_1]{meaning}",
+      "entry": "neologism",
+      "id": "neologism#neologism__1"
+    },
+    {
+      "comment": "the use of [word_1]{words} such as \u201c[buzz_1]{buzz}\u201d and \u201c[thud_1]{thud}\u201d that [sound_1]{sound} [like_1]{like} the [sound_1]{sound} which they [refer]{refer} to",
+      "entry": "onomatopoeia",
+      "id": "onomatopoeia#onomatopoeia__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that is the same whether you read it [forward_1]{forward} or [backward_1]{backward}, such as \u201cnoon\u201d or \u201cnot a [ton]{ton}\u201d",
+      "entry": "palindrome",
+      "id": "palindrome#palindrome__1"
+    },
+    {
+      "comment": "a [word_1]{word}, [phrase_1]{phrase}, or [sentence_1]{sentence} that is not [directly_1]{directly} [related_1]{related} to what you are [saying]{saying} or [writing]{writing} but is [added]{added} to give more [information]{information}",
+      "entry": "parenthesis",
+      "id": "parenthesis#parenthesis__3"
+    },
+    {
+      "comment": "a [secret_1]{secret} [word_1]{word} or [phrase_1]{phrase} that you [need_1]{need} in [order_1]{order} to get into a [room_1]{room}, [building]{building}, or [area]{area}",
+      "entry": "password",
+      "id": "password#password__1"
+    },
+    {
+      "comment": "something someone says, for example \"um,\" \"well,\" or \"sort of,\" to fill a pause while speaking. Pause fillers are also called fillers.",
+      "entry": "pause filler",
+      "id": "pause-filler#pause-filler__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [word_1]{word} or [phrase_1]{phrase} that you use for [refer]{referring} to an [issue_1]{issue} or [situation]{situation} in [order_1]{order} to [make_1]{make} [people_1]{people} [want_1]{want} to take [action_1]{action}",
+      "entry": "rallying cry",
+      "id": "rallying-cry#rallying-cry__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that comes from a [book_1]{book} or a [poem]{poem}",
+      "entry": "reference",
+      "id": "reference_1#reference_1__12"
+    },
+    {
+      "comment": "a [standard_1]{standard} [word_1]{word} or [phrase_1]{phrase} that is [used]{used} at the [beginning]{beginning} of a [letter_1]{letter}, for [example]{example} \u201c[dear_1]{Dear} Sirs\u201d or \u201c[dear_1]{Dear} Julia\u201d",
+      "entry": "salutation",
+      "id": "salutation#salutation__1"
+    },
+    {
+      "comment": "a [phrase_1]{phrase} that [describe]{describes} something by [compare_1]{comparing} it to something else [use_1]{using} the [word_1]{word} \u201c[like_1]{like}\u201d or \u201cas,\u201d for [example]{example} \u201cHe [eats]{eats} [like_1]{like} a [pig_1]{pig}\u201d",
+      "entry": "simile",
+      "id": "simile#simile__1"
+    },
+    {
+      "comment": "[word_1]{words} or [expression]{expressions} that are very [informal]{informal} and are not [considered]{considered} [appropriate_1]{appropriate} for more [formal_1]{formal} [situation]{situations}. Some [slang]{slang} is [used]{used} only by a [particular_1]{particular} [group_1]{group} of [people_1]{people}",
+      "entry": "slang",
+      "id": "slang#slang__1"
+    },
+    {
+      "comment": "[thing]{things} that [people_1]{people} [say_1]{say}, not [thing]{things} that they [write]{write}",
+      "entry": "the spoken word",
+      "id": "the-spoken-word#the-spoken-word__1"
+    },
+    {
+      "comment": "an [expression]{expression} or [word_1]{word} [used]{used} for [saying]{saying} that something is [extremely]{extremely} [good_1]{good}",
+      "entry": "superlative",
+      "id": "superlative_2#superlative_2__1"
+    },
+    {
+      "comment": "[romantic_1]{romantic} [word_1]{words}",
+      "entry": "sweet nothings",
+      "id": "sweet-nothings#sweet-nothings__1"
+    },
+    {
+      "comment": "the use of a [word_1]{word} or [phrase_1]{phrase}, when a part of something is [used]{used} in [order_1]{order} to [refer]{refer} to the whole of it. For [example]{example}, you can use the [word_1]{word} \u201c[wheel_1]{wheels}\u201d to mean a [car]{car}.",
+      "entry": "synecdoche",
+      "id": "synecdoche#synecdoche__1"
+    },
+    {
+      "comment": "a name or [phrase_1]{phrase} that is [used]{used} as a way of [describe]{describing} someone",
+      "entry": "tag",
+      "id": "tag_1#tag_1__7"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} [used]{used} for [refer]{referring} to something",
+      "entry": "term",
+      "id": "term_1#term_1__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} [used]{used} as a name or for [describe]{describing} someone",
+      "entry": "term",
+      "id": "term_1#term_1__6"
+    },
+    {
+      "comment": "the [separation]{separation} of a [word_1]{word} or [phrase_1]{phrase} into two [part_1]{parts}, with another [word_1]{word} being [said_1]{said} between it, [used]{used} [mainly]{mainly} in [informal]{informal} [speech]{speech} for [emphasis]{emphasis}, for [example]{example} \u2019any [old]{old} how\u2019, in which the [word_1]{word} \u2019[old]{old}\u2019 comes in the [middle_1]{middle} of the [word_1]{word} \u2019anyhow\u2019",
+      "entry": "tmesis",
+      "id": "tmesis#tmesis__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that is [difficult]{difficult} to [say_1]{say} because it [contain]{contains} many [difficult]{difficult} [sound_1]{sounds}, [especially]{especially} ones that are very [similar]{similar}",
+      "entry": "tongue twister",
+      "id": "tongue-twister#tongue-twister__1"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that [means]{means} the same thing as a [word_1]{word} or [phrase_1]{phrase} in a [different]{different} [language]{language}",
+      "entry": "translation",
+      "id": "translation#translation__7"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that someone [speak_1]{speaks}",
+      "entry": "utterance",
+      "id": "utterance#utterance__3"
+    },
+    {
+      "comment": "a [word_1]{word} or [phrase_1]{phrase} that [express_1]{expresses} someone\u2019s [attitude]{attitude} or [intention]{intention}",
+      "entry": "watchword",
+      "id": "watchword#watchword__1"
+    },
+    {
+      "comment": "a [question_1]{question} that [begin]{begins} with any of the [word_1]{words} \u201cwho,\u201d \u201cwhere,\u201d \u201cwhen,\u201d \u201cwhat,\u201d \u201cwhy,\u201d or \u201chow\u201d",
+      "entry": "wh-question",
+      "id": "wh-question#wh-question__1"
+    },
+    {
+      "comment": "someone\u2019s [word_1]{words} are [thing]{things} that they [say_1]{say}",
+      "entry": "words",
+      "id": "word_1#word_1__17"
+    },
+    {
+      "comment": "the use of a [single_1]{single} [word_1]{word} in [relation]{relation} to two other [part_1]{parts} of a [sentence_1]{sentence} although [grammatical#grammatical__7]{grammatically} or [logical#logical__6]{logically} the [word_1]{word} [apply]{applies} to only one of them. The [sentence_1]{sentence} \"She went [home_1]{home} in a [taxi_1]{taxi} and a [bad_1]{bad} [mood]{mood}\" is an [example]{example} of [zeugma]{zeugma}",
+      "entry": "zeugma",
+      "id": "zeugma#zeugma__1"
+    }
+  ],
+  "thesaurus": "Types of word or phrase",
+  "type": "Related words"
+}

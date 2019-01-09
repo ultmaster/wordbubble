@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "pay your respects (to someone)",
+  "senses": [
+    {
+      "def": "to [visit_1]{visit} someone, or to [send_1]{send} them a [greeting]{greeting}",
+      "examples": [
+        "Please [pay_1]{pay} my [respect_1]{respects} to your [mother_1]{mother}."
+      ],
+      "id": "pay-your-respects-to-someone__1"
+    },
+    {
+      "def": "to go to someone\u2019s [funeral]{funeral}",
+      "examples": [
+        "[thousand#thousand__2]{Thousands} [turn_1]{turned} up to [pay_1]{pay} their last [respect_1]{respects} to a [great_1]{great} [leader]{leader}."
+      ],
+      "id": "pay-your-respects-to-someone__3"
+    }
+  ]
+}

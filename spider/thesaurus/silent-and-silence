@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [silent]{silent} [person]{person} or [group_1]{group} of [people_1]{people} [does]{does} not [talk_1]{talk}, [laugh_1]{laugh}, or [make_1]{make} any [noise]{noise}",
+      "entry": "silent",
+      "id": "silent#silent__1"
+    },
+    {
+      "comment": "[complete_1]{complete} [quiet_1]{quiet}",
+      "entry": "silence",
+      "id": "silence_1#silence_1__1"
+    },
+    {
+      "comment": "[used]{used} about [place_1]{places} in which there is [little_1]{little} [noise]{noise}",
+      "entry": "quiet",
+      "id": "quiet_1#quiet_1__8"
+    },
+    {
+      "comment": "not [speak_1]{speaking}, or not [willing]{willing} to [speak_1]{speak}",
+      "entry": "mute",
+      "id": "mute_1#mute_1__1"
+    },
+    {
+      "comment": "[difficult]{difficult} or [impossible]{impossible} to [hear]{hear}",
+      "entry": "inaudible",
+      "id": "inaudible#inaudible__1"
+    },
+    {
+      "comment": "[silent]{silent}",
+      "entry": "soundless",
+      "id": "soundless#soundless__1"
+    },
+    {
+      "comment": "not [making]{making} any [sound_1]{sound}",
+      "entry": "noiseless",
+      "id": "noiseless#noiseless__1"
+    },
+    {
+      "comment": "not [making]{making} any [movement]{movements} or [noise]{noises}",
+      "entry": "quiescent",
+      "id": "quiescent#quiescent__1"
+    },
+    {
+      "comment": "very [quiet_1]{quiet}",
+      "entry": "quiet as a mouse",
+      "id": "quiet-as-a-mouse#quiet-as-a-mouse__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} how [quiet_1]{quiet} a [place_1]{place} is when no one is [talk_1]{talking}",
+      "entry": "you could hear a pin drop",
+      "id": "you-could-hear-a-pin-drop#you-could-hear-a-pin-drop__1"
+    }
+  ],
+  "thesaurus": "Silent and silence",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "dig deep",
+  "senses": [
+    {
+      "def": "to [manage]{manage} to find a [lot_1]{lot} of [money]{money} for something",
+      "examples": [
+        "We are [ask_1]{asking} [people_1]{people} to [dig_1]{dig} [deep_1]{deep} to [help_1]{help} the [victim]{victims} of the war."
+      ],
+      "id": "dig-deep__1"
+    },
+    {
+      "def": "to [try_1]{try} very [hard_1]{hard} to find out [information]{information} about someone",
+      "examples": [
+        "If I\u2019d [dug]{dug} [deep_1]{deeper}, I might have found out what [happen]{happened} to his [wife]{wife}."
+      ],
+      "id": "dig-deep__3"
+    }
+  ]
+}

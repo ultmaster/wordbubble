@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [carpet_1]{carpet} that [cover_1]{covers} part of the [floor_1]{floor} in a [room_1]{room}",
+      "entry": "area rug",
+      "id": "area-rug#area-rug__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of thick [cloth]{cloth} that you [stand_1]{stand} on while you [dry_1]{dry} yourself after a [bath_1]{bath} or [shower_1]{shower}",
+      "entry": "bath mat",
+      "id": "bath-mat#bath-mat__1"
+    },
+    {
+      "comment": "a thick [soft]{soft} [cover_1]{cover} for a [floor_1]{floor}",
+      "entry": "carpet",
+      "id": "carpet_1#carpet_1__1"
+    },
+    {
+      "comment": "thick [woven_1]{woven} [material_1]{material} [used]{used} for [making]{making} [carpet_1]{carpets}",
+      "entry": "carpeting",
+      "id": "carpeting#carpeting__1"
+    },
+    {
+      "comment": "a piece of material on which you clean the soles  (=bottoms) of your shoes before you go into a building",
+      "entry": "doormat",
+      "id": "doormat#doormat__1"
+    },
+    {
+      "comment": "materials such as wood or tiles that are used for making or covering a floor",
+      "entry": "flooring",
+      "id": "flooring#flooring__1"
+    },
+    {
+      "comment": "a small thick piece of carpet placed on the floor in front of a fireplace",
+      "entry": "hearthrug",
+      "id": "hearthrug#hearthrug__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [flat_1]{flat} [substance]{substance} with a [shiny]{shiny} [surface_1]{surface} [used]{used} for [covering]{covering} [floor_1]{floors}",
+      "entry": "linoleum",
+      "id": "linoleum#linoleum__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of thick rough [cloth]{cloth} that is put on a [floor_1]{floor} to [protect]{protect} it or for [decoration]{decoration}",
+      "entry": "mat",
+      "id": "mat_1#mat_1__1"
+    },
+    {
+      "comment": "[strong]{strong} rough [material_1]{material} that is [woven_1]{woven} from [natural_1]{natural} [fiber]{fibers}, [used]{used} as a [floor_1]{floor} [cover_1]{cover}",
+      "entry": "matting",
+      "id": "matting#matting__1"
+    },
+    {
+      "comment": "a [small_1]{small} [carpet_1]{carpet} that [cover_1]{covers} part of a [floor_1]{floor}",
+      "entry": "rug",
+      "id": "rug#rug__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [carpet_1]{carpet}, [especially]{especially} in a [hall]{hall} or on [stair]{stairs}",
+      "entry": "runner",
+      "id": "runner#runner__12"
+    },
+    {
+      "comment": "a [type_1]{type} of [carpet_1]{carpet} made from [seagrass]{seagrass}",
+      "entry": "seagrass",
+      "id": "seagrass#seagrass__2"
+    },
+    {
+      "comment": "a rough [carpet_1]{carpet} [surface_1]{surface} made of many long [piece_1]{pieces} of [wool]{wool} or other [material_1]{material}",
+      "entry": "shag",
+      "id": "shag_1#shag_1__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [carpet_1]{carpet} made from the [dried]{dried} [stem_1]{stems} of [plant_1]{plants}, [used]{used} in [traditional]{traditional} Japanese [building]{buildings}",
+      "entry": "tatami",
+      "id": "tatami#tatami__1"
+    },
+    {
+      "comment": "a [small_1]{small} [carpet_1]{carpet} that can be [move_1]{moved} [easily]{easily} from [room_1]{room} to [room_1]{room}",
+      "entry": "throw rug",
+      "id": "throw-rug#throw-rug__1"
+    },
+    {
+      "comment": "a small rug on the floor outside a door that people step on before they enter",
+      "entry": "welcome mat",
+      "id": "welcome-mat#welcome-mat__1"
+    }
+  ],
+  "thesaurus": "Floor coverings",
+  "type": "Related words"
+}

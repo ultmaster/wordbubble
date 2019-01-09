@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[test_1]{tests} done to [check_1]{check} someone for a [particular_1]{particular} [disease]{disease}",
+      "examples": [
+        "The [lump_1]{lump} was [discover]{discovered} during [routine_1]{routine} [breast_1]{breast} screening.",
+        "the [mass_1]{mass} screening of [people_1]{people} in [susceptible]{susceptible} [group_1]{groups}"
+      ],
+      "id": "screening__1"
+    },
+    {
+      "def": "an [occasion_1]{occasion} when a [movie]{movie} is [shown]{shown} or a [television]{television} [program_1]{program} is [broadcast_1]{broadcast}",
+      "examples": [
+        "the screening of her first [film_1]{film} at the Cannes [film_1]{Film} [festival]{Festival}"
+      ],
+      "id": "screening__4"
+    },
+    {
+      "def": "[check_1]{checks} that an [employer]{employer} [make_1]{makes} in [order_1]{order} to be [sure_1]{sure} that someone they [want_1]{want} to [employ_1]{employ} is [appropriate_1]{appropriate} for a [particular_1]{particular} [job_1]{job}",
+      "examples": [],
+      "id": "screening__6"
+    }
+  ],
+  "word": "screening"
+}

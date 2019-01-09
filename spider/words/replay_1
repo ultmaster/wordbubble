@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [action_1]{action} in a [broadcast_1]{broadcast} of a [sport_1]{sports} [game_1]{game} that is [shown]{shown} again",
+      "examples": [],
+      "id": "replay_1__1"
+    },
+    {
+      "def": "a [game_1]{game} that is [play_1]{played} again because neither [team_1]{team} or [player]{player} [won]{won} the first time",
+      "examples": [],
+      "id": "replay_1__2"
+    },
+    {
+      "def": "something that [happen]{happens} again in the same way as before",
+      "examples": [
+        "[let_1]{Let}\u2019s not have a replay of [yesterday_1]{yesterday}\u2019s [argument]{argument}."
+      ],
+      "id": "replay_1__3"
+    }
+  ],
+  "word": "replay"
+}

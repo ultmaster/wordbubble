@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "[earlier_1]{earlier} than [expected]{expected}",
+      "examples": [
+        "My [prediction]{prediction} has come [true_1]{true} sooner than I [thought_1]{thought}.",
+        "a [new]{new} [test_1]{test} for [detect]{detecting} [certain_1]{certain} [cancer_1]{cancers} much sooner than before"
+      ],
+      "id": "sooner__1"
+    },
+    {
+      "def": "[used]{used} [instead]{instead} of '[soon]{soon} enough'",
+      "examples": [
+        "Friday can't come sooner."
+      ],
+      "id": "sooner__4"
+    }
+  ],
+  "word": "sooner"
+}

@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [provide]{provide} [furniture]{furniture} for a [room_1]{room} or [house_1]{house}",
+      "examples": [
+        "[furnish]{Furnishing} a [new]{new} [home_1]{home} can be very [expensive]{expensive}.",
+        "Her [study_1]{study} was [furnished]{furnished} with an [antique_1]{antique} [desk]{desk} and [chair_1]{chair}."
+      ],
+      "id": "furnish__1"
+    },
+    {
+      "def": "to [provide]{provide} someone with something that they [need_1]{need}, [especially]{especially} [information]{information}",
+      "examples": [
+        "Lyall\u2019s [evidence_1]{evidence} may have [furnished]{furnished} the [police_1]{police} with a [vital]{vital} [clue_1]{clue}.",
+        "[basic_1]{Basic} [equipment]{equipment} will be [furnished]{furnished} to all [new]{new} [recruit_1]{recruits}."
+      ],
+      "id": "furnish__4"
+    }
+  ],
+  "word": "furnish"
+}

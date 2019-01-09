@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "the [hot]{hottest} [day]{days} of the [year]{year}",
+      "entry": "dog days",
+      "id": "dog-days#dog-days__1"
+    },
+    {
+      "comment": "very [hot]{hot} [weather_1]{weather}",
+      "entry": "the heat",
+      "id": "heat_1#heat_1__8"
+    },
+    {
+      "comment": "a [continuous]{continuous} [period_1]{period} of [hot]{hot} [weather_1]{weather}",
+      "entry": "heat wave",
+      "id": "heat-wave#heat-wave__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [warm_1]{warm} [weather_1]{weather} in [fall_1]{fall}",
+      "entry": "Indian summer",
+      "id": "indian-summer#indian-summer__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [hot]{hot} [day]{day}",
+      "entry": "scorcher",
+      "id": "scorcher#scorcher__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [warmer]{warmer} [weather_1]{weather} that [cause_1]{causes} [ice_1]{ice} and [snow_1]{snow} to [turn_1]{turn} into [water_1]{water}",
+      "entry": "thaw",
+      "id": "thaw_2#thaw_2__1"
+    }
+  ],
+  "thesaurus": "Warm and hot weather",
+  "type": "Synonyms"
+}

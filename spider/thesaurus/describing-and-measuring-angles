@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "if one thing is at [right_1]{right} [angle_1]{angles} to another thing, they form an [angle_1]{angle} of 90 [degree]{degrees} at the [point_1]{point} where they [meet_1]{meet}",
+      "entry": "at right angles to/at a right angle to",
+      "id": "at-right-angles-to-at-a-right-angle-to#at-right-angles-to-at-a-right-angle-to__1"
+    },
+    {
+      "comment": "[cosine]{cosine}",
+      "entry": "cos",
+      "id": "cos#cos__1"
+    },
+    {
+      "comment": "in a right triangle, the measurement of an acute angle that is equal to the length of the side between the angle and the right angle divided by the length of the hypotenuse",
+      "entry": "cosine",
+      "id": "cosine#cosine__1"
+    },
+    {
+      "comment": "in a right triangle, the measurement of an acute angle that is equal to the length of the side between the angle and the right angle divided by the length of the side opposite the angle",
+      "entry": "cotangent",
+      "id": "cotangent#cotangent__1"
+    },
+    {
+      "comment": "a unit for measuring angles. Measurements are often expressed as a number followed by the symbol \u00b0",
+      "entry": "degree",
+      "id": "degree#degree__13"
+    },
+    {
+      "comment": "a line drawn from one of the points of a triangle to the opposite side",
+      "entry": "median",
+      "id": "median_1#median_1__5"
+    },
+    {
+      "comment": "one of the 60 parts of a degree  (=a unit used in the measurement of angles)",
+      "entry": "minute",
+      "id": "minute_1#minute_1__15"
+    },
+    {
+      "comment": "an [oblique]{oblique} [angle_1]{angle} is any [angle_1]{angle} that is not 90\u00b0, 180\u00b0, or 270\u00b0",
+      "entry": "oblique",
+      "id": "oblique#oblique__6"
+    },
+    {
+      "comment": "an [obtuse]{obtuse} [angle_1]{angle} is between 90\u00ba and 180\u00ba",
+      "entry": "obtuse",
+      "id": "obtuse#obtuse__3"
+    },
+    {
+      "comment": "[form_2]{forming} an [angle_1]{angle} of 90\u00b0 at the [point_1]{point} of [meeting]{meeting}",
+      "entry": "orthogonal",
+      "id": "orthogonal#orthogonal__1"
+    },
+    {
+      "comment": "[form_2]{forming} a 90\u00b0 [angle_1]{angle} with another [surface_1]{surface} or [line_1]{line}",
+      "entry": "perpendicular",
+      "id": "perpendicular_1#perpendicular_1__3"
+    },
+    {
+      "comment": "[sine]{sine}",
+      "entry": "sin.",
+      "id": "sin_3#sin_3__1"
+    },
+    {
+      "comment": "in a right triangle, the measurement of an acute angle that is equal to the length of the side that is opposite the angle divided by the length of the hypotenuse",
+      "entry": "sine",
+      "id": "sine#sine__1"
+    },
+    {
+      "comment": "in a right triangle, the measurement of an acute angle that is equal to the length of the side opposite the angle divided by the length of the side between the angle and the right angle",
+      "entry": "tangent",
+      "id": "tangent#tangent__2"
+    },
+    {
+      "comment": "a [tight_1]{tight} [angle_1]{angle} is a very [small_1]{small} [angle_1]{angle} that [give_1]{gives} you very [little_1]{little} [space_1]{space} to do something",
+      "entry": "tight",
+      "id": "tight_1#tight_1__28"
+    }
+  ],
+  "thesaurus": "Describing and measuring angles",
+  "type": "Related words"
+}

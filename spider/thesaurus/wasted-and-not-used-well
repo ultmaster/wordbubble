@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "something such as time or [money]{money} that is [wasted]{wasted} is not [used]{used} [effectively]{effectively}",
+      "entry": "wasted",
+      "id": "wasted#wasted__1"
+    },
+    {
+      "comment": "not [used]{used} enough, so that [people_1]{people} do not get all the [benefit_1]{benefits} that they could",
+      "entry": "underused",
+      "id": "underused#underused__1"
+    },
+    {
+      "comment": "[wasted]{wasted} or [used]{used} [badly]{badly}",
+      "entry": "misspent",
+      "id": "misspent#misspent__1"
+    },
+    {
+      "comment": "[lost_1]{lost} time or [chance_1]{chances} have been [wasted]{wasted}",
+      "entry": "lost",
+      "id": "lost_1#lost_1__9"
+    },
+    {
+      "comment": "[underused]{underused}",
+      "entry": "underutilized",
+      "id": "underutilized#underutilized__1"
+    },
+    {
+      "comment": "[completely]{completely} [lost_1]{lost} or [wasted]{wasted}",
+      "entry": "down the drain",
+      "id": "down-the-drain#down-the-drain__1"
+    }
+  ],
+  "thesaurus": "Wasted and not used well",
+  "type": "Synonyms"
+}

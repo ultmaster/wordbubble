@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "get away",
+  "senses": [
+    {
+      "def": "to [escape_1]{escape} from a [person]{person} or [place_1]{place}",
+      "examples": [
+        "A [police_1]{police} [officer]{officer} [grab_1]{grabbed} him, but he [got_1]{got} [away_1]{away}.",
+        "The [dog_1]{dog} [got_1]{got} [away_1]{away} from me in the [park_1]{park}."
+      ],
+      "id": "get-away__1"
+    },
+    {
+      "def": "to [manage]{manage} to [leave_1]{leave} a [place_1]{place}, [especially]{especially} your [work_1]{work}",
+      "examples": [
+        "He [said_1]{said} he\u2019d [meet_1]{meet} me for [lunch_1]{lunch} if he could get [away_1]{away}."
+      ],
+      "id": "get-away__4"
+    },
+    {
+      "def": "to go somewhere [different]{different} from where you [live_1]{live} in [order_1]{order} to have a rest or a [vacation_1]{vacation}",
+      "examples": [
+        "On [day]{days} [like_1]{like} [today_1]{today}, I [just_1]{just} [want_1]{want} to get [away_1]{away} from it all."
+      ],
+      "id": "get-away__6"
+    }
+  ]
+}

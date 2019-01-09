@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "[money]{money} that you owe because you have [failed]{failed} to [make_1]{make} [payment]{payments} at the [correct_1]{correct} time",
+      "entry": "arrears",
+      "id": "arrears#arrears__1"
+    },
+    {
+      "comment": "[money]{money} that someone [owe]{owes} but will never [pay_1]{pay}",
+      "entry": "bad debt",
+      "id": "bad-debt#bad-debt__1"
+    },
+    {
+      "comment": "the amount of [money]{money} that you owe after [pay_1]{paying} part of the [cost_1]{cost} of something",
+      "entry": "balance",
+      "id": "balance_1#balance_1__19"
+    },
+    {
+      "comment": "a [written_1]{written} [statement_1]{statement} [showing]{showing} how much [money]{money} you owe someone for [goods]{goods} or [service_1]{services} you have [received]{received}",
+      "entry": "bill",
+      "id": "bill_1#bill_1__1"
+    },
+    {
+      "comment": "[money]{money} [owe]{owed} by a [business]{business}, [country]{country}, or [organization]{organization}",
+      "entry": "borrowings",
+      "id": "borrowing#borrowing__3"
+    },
+    {
+      "comment": "an amount of money that you owe, especially when it is recorded in a company\u2019s accounts or on a bank statement",
+      "entry": "debit",
+      "id": "debit_1#debit_1__2"
+    },
+    {
+      "comment": "an amount of [money]{money} that you owe",
+      "entry": "debt",
+      "id": "debt#debt__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which you owe [money]{money} to other [people_1]{people}",
+      "entry": "debt",
+      "id": "debt#debt__7"
+    },
+    {
+      "comment": "if [money]{money} is due, it is time for it to be [paid_1]{paid}",
+      "entry": "due",
+      "id": "due_1#due_1__13"
+    },
+    {
+      "comment": "an amount of [money]{money} that a [bank_1]{bank} [lend_1]{lends} someone to [buy_1]{buy} a [house_1]{house}",
+      "entry": "home loan",
+      "id": "home-loan#home-loan__1"
+    },
+    {
+      "comment": "the amount of [money]{money} that a [company]{company} [owe]{owes}",
+      "entry": "liability",
+      "id": "liability#liability__4"
+    },
+    {
+      "comment": "an amount of [money]{money} that a [person]{person}, [business]{business}, or [country]{country} [borrow]{borrows}, [especially]{especially} from a [bank_1]{bank}",
+      "entry": "loan",
+      "id": "loan_1#loan_1__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that is [outstanding]{outstanding} has not yet been [paid_1]{paid}",
+      "entry": "outstanding",
+      "id": "outstanding#outstanding__7"
+    },
+    {
+      "comment": "[money]{money} that is [owing]{owing} has not been [paid_1]{paid} to someone yet",
+      "entry": "owing",
+      "id": "owing#owing__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that is [payable]{payable} must be [paid_1]{paid}",
+      "entry": "payable",
+      "id": "payable#payable__1"
+    },
+    {
+      "comment": "a bill or something that is [owe]{owed} to someone",
+      "entry": "reckoning",
+      "id": "reckoning#reckoning__3"
+    },
+    {
+      "comment": "the [process_1]{process} by which someone is [allow]{allowed} not to [pay_1]{pay} [money]{money} that they owe",
+      "entry": "remission",
+      "id": "remission#remission__3"
+    },
+    {
+      "comment": "[money]{money} that is [repayable]{repayable} over a [particular_1]{particular} [period_1]{period} of time, or by a [particular_1]{particular} [person]{person}, must be [paid_1]{paid} back by the [end_1]{end} of that [period_1]{period} or by that [person]{person}",
+      "entry": "repayable",
+      "id": "repayable#repayable__1"
+    },
+    {
+      "comment": "[money]{money} that a [bank_1]{bank} or an [institution]{institution} [lend_1]{lends} to a [student]{student} so that they can [pay_1]{pay} to go to a [college]{college} or [university]{university}, and that they must [pay_1]{pay} back after they [finish_1]{finish} their [study_1]{studies}",
+      "entry": "student loan",
+      "id": "student-loan#student-loan__1"
+    },
+    {
+      "comment": "an amount that you owe, for [example]{example} the [cost_1]{cost} of a [hotel]{hotel} [room_1]{room}, [restaurant]{restaurant} [meal]{meals}, and [service_1]{services}",
+      "entry": "tab",
+      "id": "tab_1#tab_1__7"
+    }
+  ],
+  "thesaurus": "Money that you owe",
+  "type": "Related words"
+}

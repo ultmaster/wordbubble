@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "shoestring [food]{foods} have been made into long thin [piece_1]{pieces} [like_1]{like} [string_1]{string}",
+      "examples": [
+        "shoestring [potato]{potatoes}"
+      ],
+      "id": "shoestring_1__1"
+    },
+    {
+      "def": "[have]{having} or [use_1]{using} a very [small_1]{small} amount of [money]{money}",
+      "examples": [
+        "a shoestring [budget_1]{budget}"
+      ],
+      "id": "shoestring_1__3"
+    }
+  ],
+  "word": "shoestring"
+}

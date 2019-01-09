@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "a [structure_1]{structure} [like_1]{like} a [fence_1]{fence} along the [edge_1]{edge} of [stair]{stairs}, [design_2]{designed} to keep you from [fall_1]{falling} off the [edge_1]{edge}",
+      "entry": "banister",
+      "id": "banister#banister__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [banister]{banister}",
+      "entry": "bannister",
+      "id": "bannister#bannister__1"
+    },
+    {
+      "comment": "a piece of equipment like a small elevator used for moving food and dishes up and down between the floors of a restaurant",
+      "entry": "dumbwaiter",
+      "id": "dumbwaiter#dumbwaiter__1"
+    },
+    {
+      "comment": "a machine that carries people up and down between the levels of a tall building. The British word is lift.",
+      "entry": "elevator",
+      "id": "elevator#elevator__1"
+    },
+    {
+      "comment": "a set of moving stairs that take people from one level to another in a large building. A machine that you ride in to move between levels is an elevator.",
+      "entry": "escalator",
+      "id": "escalator#escalator__1"
+    },
+    {
+      "comment": "a metal staircase on the outside wall of a building that people use to get out of the building when there is a fire inside",
+      "entry": "fire escape",
+      "id": "fire-escape#fire-escape__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [stair]{stairs} [going_1]{going} from one [level_1]{level} to another",
+      "entry": "flight",
+      "id": "flight#flight__19"
+    },
+    {
+      "comment": "a long [bar_1]{bar} that you can [hold_1]{hold} on to for [support_1]{support}, for [example]{example} at the side of [stair]{stairs}",
+      "entry": "handrail",
+      "id": "handrail#handrail__1"
+    },
+    {
+      "comment": "a piece of equipment for reaching high places that consists of two long pieces of wood or metal joined by smaller pieces called rungs",
+      "entry": "ladder",
+      "id": "ladder#ladder__1"
+    },
+    {
+      "comment": "the [area]{area} at the top of a [set_1]{set} of [stair]{stairs} or between the [section_1]{sections} of a [set_1]{set} of [stair]{stairs}",
+      "entry": "landing",
+      "id": "landing#landing__6"
+    },
+    {
+      "comment": "an [elevator_1]{elevator}",
+      "entry": "lift",
+      "id": "lift_2#lift_2__7"
+    },
+    {
+      "comment": "the [upright_1]{upright} part of a [stair]{stair}",
+      "entry": "riser",
+      "id": "riser#riser__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [stair]{stairs} for a [group_1]{group} of [people_1]{people} to [stand_1]{stand} on, which can be [move_1]{moved}",
+      "entry": "riser",
+      "id": "riser#riser__2"
+    },
+    {
+      "comment": "a ladder made mainly or completely of rope",
+      "entry": "rope ladder",
+      "id": "rope-ladder#rope-ladder__1"
+    },
+    {
+      "comment": "one of the narrow bars across a ladder, that you put your feet on when you climb up",
+      "entry": "rung",
+      "id": "rung_1#rung_1__1"
+    },
+    {
+      "comment": "a set of stairs shaped like a spiral",
+      "entry": "spiral staircase",
+      "id": "spiral-staircase#spiral-staircase__1"
+    },
+    {
+      "comment": "one of the [step_1]{steps} in a [set_1]{set} of [stair]{stairs}",
+      "entry": "stair",
+      "id": "stair#stair__8"
+    },
+    {
+      "comment": "a [staircase]{staircase}",
+      "entry": "stair",
+      "id": "stair#stair__10"
+    },
+    {
+      "comment": "a set of stairs in a building, including the banister that you hold onto when you go up or down",
+      "entry": "staircase",
+      "id": "staircase#staircase__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [step_1]{steps} that [allow]{allow} you to go from one [level_1]{level} of a [building]{building} to another",
+      "entry": "stairs",
+      "id": "stair#stair__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [stair]{stairs} [inside_1]{inside} or [outside]{outside} a [building]{building}",
+      "entry": "stairway",
+      "id": "stairway#stairway__1"
+    },
+    {
+      "comment": "the [area]{area} [contain]{containing} the [set_1]{sets} of [stair]{stairs} in a [building]{building} from the bottom to the top [level_1]{level}",
+      "entry": "stairwell",
+      "id": "stairwell#stairwell__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [wood]{wood} or [stone_1]{stone}, [usually]{usually} one in a [series]{series}, that you [walk_1]{walk} up or down in [order_1]{order} to move to a [different]{different} [level_1]{level}",
+      "entry": "step",
+      "id": "step_1#step_1__19"
+    },
+    {
+      "comment": "a short ladder consisting of two sloping parts that are attached at the top so that it can be folded and carried",
+      "entry": "stepladder",
+      "id": "stepladder#stepladder__1"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [travolator]{travolator}",
+      "entry": "travelator",
+      "id": "travelator#travelator__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [floor_1]{floor} that [move_1]{moves} [forward_1]{forward} and [carry_1]{carries} [people_1]{people} along, [used]{used} in [place_1]{places} such as [airport]{airports}",
+      "entry": "travolator",
+      "id": "travolator#travolator__1"
+    }
+  ],
+  "thesaurus": "Stairways, ladders and lifts",
+  "type": "Related words"
+}

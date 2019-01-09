@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [need_1]{needed}",
+      "entry": "unnecessary",
+      "id": "unnecessary#unnecessary__6"
+    },
+    {
+      "comment": "not [need_1]{needed}",
+      "entry": "redundant",
+      "id": "redundant#redundant__1"
+    },
+    {
+      "comment": "if something is [unwanted]{unwanted}, you do not [want_1]{want} it",
+      "entry": "unwanted",
+      "id": "unwanted#unwanted__1"
+    },
+    {
+      "comment": "not [need_1]{needed} or [wanted]{wanted}",
+      "entry": "superfluous",
+      "id": "superfluous#superfluous__1"
+    },
+    {
+      "comment": "not [ask_1]{asked} for or [wanted]{wanted}",
+      "entry": "uninvited",
+      "id": "uninvited#uninvited__1"
+    },
+    {
+      "comment": "not [wanted]{wanted} or [invite_1]{invited}",
+      "entry": "unasked for",
+      "id": "unasked-for#unasked-for__1"
+    },
+    {
+      "comment": "[unsolicited]{unsolicited} [offer_1]{offers}, [advice]{advice}, [present_2]{presents}, or other [thing]{things} are [thing]{things} you [receive]{receive} that you do not [ask_1]{ask} for, and may not [want_1]{want}",
+      "entry": "unsolicited",
+      "id": "unsolicited#unsolicited__1"
+    },
+    {
+      "comment": "not [expected]{expected}",
+      "entry": "unlooked-for",
+      "id": "unlooked-for#unlooked-for__1"
+    },
+    {
+      "comment": "if someone or something is [dispensable]{dispensable}, you do not [need_1]{need} them and can get [rid_1]{rid} of them if you [want_1]{want} to",
+      "entry": "dispensable",
+      "id": "dispensable#dispensable__1"
+    },
+    {
+      "comment": "[used]{used} about something that you no [long_1]{longer} [need_1]{need}",
+      "entry": "unwanted",
+      "id": "unwanted#unwanted__4"
+    }
+  ],
+  "thesaurus": "Not wanted or needed",
+  "type": "Synonyms"
+}

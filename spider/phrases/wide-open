@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "wide open",
+  "senses": [
+    {
+      "def": "[open_2]{opened} as much as [possible_1]{possible}",
+      "examples": [
+        "He [step_2]{stepped} [forward_1]{forward} and [pushed]{pushed} the [door_1]{door} [wide_1]{wide} [open_1]{open}."
+      ],
+      "id": "wide-open__1"
+    },
+    {
+      "def": "not [protected]{protected} against something",
+      "examples": [
+        "[politician]{Politicians} [claim_1]{claim} that the [country]{country} is [wide_1]{wide} [open_1]{open} to [terrorist]{terrorist} [attack_1]{attack}."
+      ],
+      "id": "wide-open__3"
+    },
+    {
+      "def": "[consist]{consisting} of a [large_1]{large} [area]{area} with no [building]{buildings} on it",
+      "examples": [
+        "The [region]{region} [offer_1]{offers} [wide_1]{wide} [open_1]{open} [space_1]{spaces} and no [crowd_1]{crowds}."
+      ],
+      "id": "wide-open__5"
+    },
+    {
+      "def": "with no [obvious]{obvious} [winner]{winner} yet",
+      "examples": [
+        "With the [championship]{championship} [wide_1]{wide} [open_1]{open}, this [weekend_1]{weekend}\u2019s [game_1]{games} are [crucial]{crucial}."
+      ],
+      "id": "wide-open__7"
+    }
+  ]
+}

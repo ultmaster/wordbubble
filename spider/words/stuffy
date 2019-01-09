@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a stuffy [room_1]{room} is too [warm_1]{warm} and has an [unpleasant]{unpleasant} [smell_1]{smell} because there is no [fresh_1]{fresh} [air_1]{air} in it",
+      "examples": [],
+      "id": "stuffy__1"
+    },
+    {
+      "def": "if you have a stuffy [nose_1]{nose} or [head_1]{head}, you cannot [breathe]{breathe} well because of a [cold_1]{cold} or [similar]{similar} [illness]{illness}",
+      "examples": [],
+      "id": "stuffy__2"
+    },
+    {
+      "def": "[criticize]{criticizing} anyone whose [behavior]{behavior} is [unusual]{unusual}",
+      "examples": [
+        "My [parent]{parents} are being stuffy about my [boyfriend_1]{boyfriend}."
+      ],
+      "id": "stuffy__3"
+    }
+  ],
+  "word": "stuffy"
+}

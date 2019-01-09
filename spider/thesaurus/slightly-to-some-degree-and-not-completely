@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not very much, only a [little_1]{little}",
+      "entry": "slightly",
+      "id": "slightly#slightly__1"
+    },
+    {
+      "comment": "to some [degree]{degree}, but not [completely]{completely} or [extremely]{extremely}",
+      "entry": "fairly",
+      "id": "fairly#fairly__1"
+    },
+    {
+      "comment": "to some [degree]{degree}, but not [completely]{completely}",
+      "entry": "partly",
+      "id": "partly#partly__1"
+    },
+    {
+      "comment": "to some [degree]{degree} but not to a [large_1]{large} [degree]{degree}",
+      "entry": "somewhat",
+      "id": "somewhat#somewhat__1"
+    },
+    {
+      "comment": "[fairly]{fairly} but not very",
+      "entry": "quite",
+      "id": "quite#quite__1"
+    },
+    {
+      "comment": "to a [small_1]{small} [degree]{degree}",
+      "entry": "a little",
+      "id": "a-little#a-little__9"
+    },
+    {
+      "comment": "[slightly]{slightly} but not very",
+      "entry": "mildly",
+      "id": "mildly#mildly__1"
+    },
+    {
+      "comment": "[slightly]{slightly}",
+      "entry": "vaguely",
+      "id": "vaguely#vaguely__4"
+    },
+    {
+      "comment": "[fairly]{fairly}",
+      "entry": "pretty",
+      "id": "pretty_1#pretty_1__1"
+    },
+    {
+      "comment": "[slightly]{slightly} or a [little_1]{little}",
+      "entry": "a bit",
+      "id": "bit_2#bit_2__2"
+    }
+  ],
+  "thesaurus": "Slightly, to some degree and not completely",
+  "type": "Synonyms"
+}

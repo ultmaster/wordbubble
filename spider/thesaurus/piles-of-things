@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [number_1]{number} of [thing]{things} put on top of each other",
+      "entry": "pile",
+      "id": "pile_1#pile_1__1"
+    },
+    {
+      "comment": "an amount of something in a [pile_1]{pile}",
+      "entry": "mound",
+      "id": "mound#mound__4"
+    },
+    {
+      "comment": "a [large_1]{large} [pile_1]{pile} of something, [especially]{especially} a [messy]{messy} [pile_1]{pile}",
+      "entry": "heap",
+      "id": "heap_1#heap_1__1"
+    },
+    {
+      "comment": "a [pile_1]{pile} of [thing]{things} [standing_1]{standing} or [lying]{lying} together",
+      "entry": "stack",
+      "id": "stack_1#stack_1__4"
+    },
+    {
+      "comment": "a [large_1]{large} [number_1]{number} of [thing]{things} that form an [upright_1]{upright} [structure_1]{structure} [like_1]{like} a [wall_1]{wall}",
+      "entry": "wall",
+      "id": "wall_1#wall_1__18"
+    },
+    {
+      "comment": "a [large_1]{large} [pile_1]{pile} or amount of something",
+      "entry": "mountain",
+      "id": "mountain#mountain__5"
+    },
+    {
+      "comment": "a [pile_1]{pile} of [thing]{things} [arrange]{arranged} in the [shape_1]{shape} of a [pyramid]{pyramid}",
+      "entry": "pyramid",
+      "id": "pyramid#pyramid__3"
+    },
+    {
+      "comment": "a long [pile_1]{pile} of [earth]{earth}, [snow_1]{snow}, or [sand_1]{sand}",
+      "entry": "bank",
+      "id": "bank_1#bank_1__13"
+    },
+    {
+      "comment": "a [large_1]{large} [pile_1]{pile} of [snow_1]{snow} or [sand_1]{sand} [form_2]{formed} by the [wind_1]{wind}",
+      "entry": "drift",
+      "id": "drift_2#drift_2__1"
+    },
+    {
+      "comment": "a thick [pile_1]{pile} or [ball_1]{ball} of [paper_1]{papers}, [money]{money}, or thin [cloth]{cloth}",
+      "entry": "wad",
+      "id": "wad#wad__1"
+    }
+  ],
+  "thesaurus": "Piles of things",
+  "type": "Synonyms"
+}

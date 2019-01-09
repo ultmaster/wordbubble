@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "the way in which two or more [people_1]{people} or [thing]{things} are [connected]{connected} with or [involve]{involve} each other",
+      "entry": "relationship",
+      "id": "relationship#relationship__1"
+    },
+    {
+      "comment": "a [connection]{connection} between two or more [people_1]{people}, [place_1]{places}, [fact]{facts}, or [event]{events}, [especially]{especially} when one is [affected]{affected} or [cause_2]{caused} by the other",
+      "entry": "link",
+      "id": "link_2#link_2__1"
+    },
+    {
+      "comment": "a [connection]{connection} between two [thing]{things}",
+      "entry": "association",
+      "id": "association#association__4"
+    },
+    {
+      "comment": "a [situation]{situation} in which [different]{different} [aspect]{aspects} or [feature_1]{features} are [treat_1]{treated} [equally]{equally} or [exist]{exist} in the [correct_1]{correct} [relationship]{relationship} to each other",
+      "entry": "balance",
+      "id": "balance_1#balance_1__6"
+    },
+    {
+      "comment": "a [connection]{connection} made between two or more [thing]{things}",
+      "entry": "linkage",
+      "id": "linkage#linkage__1"
+    },
+    {
+      "comment": "a [connection]{connection} between two or more [similar]{similar} [thing]{things}",
+      "entry": "affinity",
+      "id": "affinity#affinity__5"
+    },
+    {
+      "comment": "a [connection]{connection} between two or more [people_1]{people} or [thing]{things}",
+      "entry": "relation",
+      "id": "relation#relation__9"
+    },
+    {
+      "comment": "a connection or relationship between two or more things that is not caused by chance. A positive correlation means that two things are likely to exist together; a negative correlation means that they are not",
+      "entry": "correlation",
+      "id": "correlation#correlation__1"
+    }
+  ],
+  "thesaurus": "A connection or relation between things",
+  "type": "Synonyms"
+}

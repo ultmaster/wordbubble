@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in order",
+  "senses": [
+    {
+      "def": "[official_1]{official} [document_1]{documents} that are in [order_1]{order} are [complete_1]{complete}, [correct_1]{correct}, and [legal]{legal}",
+      "examples": [
+        "All your [paper_1]{papers} seem to be in [order_1]{order}."
+      ],
+      "id": "in-order__1"
+    },
+    {
+      "def": "[action_1]{actions} or [statement_1]{statements} that are in [order_1]{order} are [appropriate_1]{appropriate} for a [particular_1]{particular} [situation]{situation}",
+      "examples": [
+        "[congratulation#congratulation__1]{Congratulations}! I [think_1]{think} a [glass]{glass} of [champagne]{champagne} is in [order_1]{order}, don\u2019t you?"
+      ],
+      "id": "in-order__3"
+    }
+  ]
+}

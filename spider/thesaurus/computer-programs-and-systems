@@ -1,0 +1,336 @@
+{
+  "entries": [
+    {
+      "comment": "a computer [program_1]{program} or a [piece_1]{piece} of computer [equipment]{equipment} that you can [add_1]{add} to a computer in [order_1]{order} to [increase_1]{increase} the [number_1]{number} of [thing]{things} it is [able_1]{able} to do",
+      "entry": "add-on",
+      "id": "add-on_2#add-on_2__3"
+    },
+    {
+      "comment": "a simple computer program designed to run from a webpage",
+      "entry": "applet",
+      "id": "applet#applet__1"
+    },
+    {
+      "comment": "the [design_1]{design} and [structure_1]{structure} of a computer system or [program_1]{program} and the way that it [work_1]{works} in [relation]{relation} to other [system]{systems} and [program_1]{programs}",
+      "entry": "architecture",
+      "id": "architecture#architecture__5"
+    },
+    {
+      "comment": "a computer program that changes assembly language into machine language",
+      "entry": "assembler",
+      "id": "assembler#assembler__1"
+    },
+    {
+      "comment": "the [loss]{loss} of [electronic]{electronic} [information]{information} because the [software]{software} or [device]{devices} [need_1]{needed} to read it are no [long_1]{longer} [available]{available}",
+      "entry": "bit rot",
+      "id": "bit-rot#bit-rot__1"
+    },
+    {
+      "comment": "a program that makes a computer\u2019s operating system start working",
+      "entry": "bootstrap program",
+      "id": "bootstrap-program#bootstrap-program__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [work_1]{works} [automatically]{automatically}, [especially]{especially} one that can find [information]{information} for you on the [internet]{Internet}",
+      "entry": "bot",
+      "id": "bot#bot__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [allow]{allows} you to [look_1]{look} at and [search_1]{search} through [information]{information} on the [internet]{Internet}",
+      "entry": "browser",
+      "id": "browser#browser__1"
+    },
+    {
+      "comment": "a [version]{version} of a computer [program_1]{program}",
+      "entry": "build",
+      "id": "build_2#build_2__9"
+    },
+    {
+      "comment": "a computer, program, or piece of equipment that takes and uses information from a server",
+      "entry": "client",
+      "id": "client#client__5"
+    },
+    {
+      "comment": "a computer program that changes a set of instructions in a programming language into a form that can be used directly by a computer",
+      "entry": "compiler",
+      "id": "compiler#compiler__2"
+    },
+    {
+      "comment": "a set of instructions stored inside a computer that allows the user to do a particular thing, for example produce a document or play a game. Someone who writes computer programs is called a computer programmer.",
+      "entry": "computer program",
+      "id": "computer-program#computer-program__1"
+    },
+    {
+      "comment": "a [program_1]{program} that [enter]{enters} your computer and [damage_2]{damages} or [destroy]{destroys} [information]{information} that you have [store_2]{stored}",
+      "entry": "computer virus",
+      "id": "computer-virus#computer-virus__1"
+    },
+    {
+      "comment": "a way of [use_1]{using} [computer]{computers} to [model_1]{model} how the [brain_1]{brain} [process_1]{processes} and [learn]{learns} [information]{information}",
+      "entry": "connectionism",
+      "id": "connectionism#connectionism__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [collect_1]{collects} [document_1]{documents} and [links]{links} from the [internet]{Internet}",
+      "entry": "crawler",
+      "id": "crawler#crawler__2"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [look_1]{looks} for and [remove]{removes} [mistake_1]{mistakes} from another [program_1]{program} so that it [work_1]{works} [correctly]{correctly}",
+      "entry": "debugger",
+      "id": "debugger#debugger__1"
+    },
+    {
+      "comment": "a type of search engine that collects information about users in order to provide them with relevant results for their searches",
+      "entry": "decision engine",
+      "id": "decision-engine#decision-engine__1"
+    },
+    {
+      "comment": "a computer program used for writing or editing documents, files, or programs",
+      "entry": "editor",
+      "id": "editor#editor__11"
+    },
+    {
+      "comment": "the system that a computer or computer [program_1]{program} [operate]{operates} in",
+      "entry": "environment",
+      "id": "environment#environment__9"
+    },
+    {
+      "comment": "a [combination]{combination} of [letter_1]{letters} and [number_1]{numbers} on a computer [screen_1]{screen} that [show_1]{shows} that there is a [particular_1]{particular} [problem]{problem} with a [program_1]{program}",
+      "entry": "error code",
+      "id": "error-code#error-code__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [organize]{organizes} computer [file_1]{files} into [group_1]{groups} and [show_1]{shows} you where they are when you [need_1]{need} to find them again",
+      "entry": "file manager",
+      "id": "file-manager#file-manager__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [prevent]{prevents} some [type_1]{types} of [information]{information} from [appear]{appearing} on your computer when you [search_1]{search} the [internet]{Internet}",
+      "entry": "filter",
+      "id": "filter_1#filter_1__4"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [prevent]{prevents} [people_1]{people} from [enter]{entering} a computer system [illegal_1#illegal_1__6]{illegally} and [steal_1]{stealing} [information]{information} or [cause_2]{causing} [damage_1]{damage}",
+      "entry": "firewall",
+      "id": "firewall#firewall__2"
+    },
+    {
+      "comment": "a hypertext system that includes images, sound, and video as well as written words",
+      "entry": "hypermedia",
+      "id": "hypermedia#hypermedia__1"
+    },
+    {
+      "comment": "a computer system in which you can click on a word or image in order to move to a related document, word, or image",
+      "entry": "hypertext",
+      "id": "hypertext#hypertext__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} [used]{used} in [put]{putting} a [piece_1]{piece} of [software]{software} or [hardware]{hardware} on a computer",
+      "entry": "installation program",
+      "id": "installation-program#installation-program__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [change_1]{changes} [instruction]{instructions} in one computer [language]{language} into another so that a computer can [understand]{understand} and [perform]{perform} them",
+      "entry": "interpreter",
+      "id": "interpreter#interpreter__2"
+    },
+    {
+      "comment": "a [new]{new} form of a computer [program_1]{program}",
+      "entry": "iteration",
+      "id": "iteration#iteration__2"
+    },
+    {
+      "comment": "a system or [program_1]{program} made [quickly]{quickly} in [order_1]{order} to [provide]{provide} a [temporary]{temporary} [solution]{solution}",
+      "entry": "kludge",
+      "id": "kludge#kludge__1"
+    },
+    {
+      "comment": "a type of computer operating system  (=the main program in a computer that manages all the other programs) that is available free on the Internet",
+      "entry": "Linux",
+      "id": "linux#linux__1"
+    },
+    {
+      "comment": "a short computer program containing a series of actions that you can start by pressing a particular key or typing a particular command",
+      "entry": "macro",
+      "id": "macro_1#macro_1__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} for [send_1]{sending} [e-mail_1]{e-mail}",
+      "entry": "mailer",
+      "id": "mailer#mailer__3"
+    },
+    {
+      "comment": "a computer [program_1]{program} that can [automatically]{automatically} [add_1]{add} [name_1]{names} and [address_1]{addresses} to [copy_1]{copies} of a [letter_1]{letter}",
+      "entry": "Mail Merge",
+      "id": "mail-merge#mail-merge__1"
+    },
+    {
+      "comment": "modular object-oriented dynamic learning environment: an open source computer system for creating online courses",
+      "entry": "moodle",
+      "id": "moodle#moodle__1"
+    },
+    {
+      "comment": "a computer system or other [electrical_1]{electrical} system that is [design_2]{designed} to [work_1]{work} in the same way as the [human_1]{human} [brain_1]{brain}",
+      "entry": "neural net",
+      "id": "neural-net#neural-net__1"
+    },
+    {
+      "comment": "a [neural]{neural} [net_1]{net}",
+      "entry": "neural network",
+      "id": "neural-network#neural-network__2"
+    },
+    {
+      "comment": "a simple word-processing program, used for writing notes",
+      "entry": "notepad",
+      "id": "notepad#notepad__2"
+    },
+    {
+      "comment": "a computer program in binary form that is used by the computer to run the program",
+      "entry": "object code",
+      "id": "object-code#object-code__1"
+    },
+    {
+      "comment": "a computer system that is [design_2]{designed} to [work_1]{work} with [part_1]{parts} or [system]{systems} made by other [company]{companies}",
+      "entry": "open system",
+      "id": "open-system#open-system__1"
+    },
+    {
+      "comment": "[operate]{operating} system",
+      "entry": "OS",
+      "id": "os#os__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [examine]{examines} and [describe]{describes} the [structure_1]{structure} of a [sentence_1]{sentence}, and [check_1]{checks} whether there are any [mistake_1]{mistakes}",
+      "entry": "parser",
+      "id": "parser#parser__1"
+    },
+    {
+      "comment": "Pretty Good Privacy: a program that puts information into a coded form to make it safe when sending it over the Internet",
+      "entry": "PGP",
+      "id": "pgp#pgp__1"
+    },
+    {
+      "comment": "the [type_1]{type} of computer system that you have and the [program_1]{programs} that you can use with it",
+      "entry": "platform",
+      "id": "platform#platform__11"
+    },
+    {
+      "comment": "a [series]{series} of [instruction]{instructions} that [make_1]{makes} a computer [perform]{perform} an [action_1]{action} or a [particular_1]{particular} [type_1]{type} of [work_1]{work}",
+      "entry": "program",
+      "id": "program_1#program_1__13"
+    },
+    {
+      "comment": "a program used to copy digital music from a CD onto a computer before changing it into a form that can be stored as a computer file",
+      "entry": "ripper",
+      "id": "ripper#ripper__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [make_1]{makes} the [screen_1]{screen} [black_1]{black} or that [show_1]{shows} a [picture_1]{picture} when the computer is on but not being [used]{used}. It is [design_2]{designed} to [protect]{protect} the [screen_1]{screen} from [damage_1]{damage}.",
+      "entry": "screen saver",
+      "id": "screen-saver#screen-saver__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} [used]{used} for [searching]{searching} for [information]{information} on the [internet]{Internet}",
+      "entry": "search engine",
+      "id": "search-engine#search-engine__1"
+    },
+    {
+      "comment": "a [program_1]{program} that [help_1]{helps} a [user]{user} to [start_1]{start} [use_1]{using} their [new]{new} computer or [new]{new} [software]{software}",
+      "entry": "setup program",
+      "id": "setup-program#setup-program__1"
+    },
+    {
+      "comment": "a program that searches for new websites on the Internet and builds them into a database that users can use to find documents containing a particular word, phrase or subject",
+      "entry": "spider",
+      "id": "spider#spider__2"
+    },
+    {
+      "comment": "a [set_1]{set} of computer [program_1]{programs}",
+      "entry": "suite",
+      "id": "suite#suite__7"
+    },
+    {
+      "comment": "a [set_1]{set} of [piece_1]{pieces} of [equipment]{equipment} or computer [program_1]{programs} that [work_1]{work} together",
+      "entry": "system",
+      "id": "system#system__7"
+    },
+    {
+      "comment": "a [software]{software} [program_1]{program} for [get]{getting} [information]{information} [store_2]{stored} on another computer on the [internet]{Internet} by [typing]{typing} [instruction]{instructions} into the other computer",
+      "entry": "Telnet",
+      "id": "telnet#telnet__1"
+    },
+    {
+      "comment": "a computer program that allows you to create and edit written documents",
+      "entry": "text editor",
+      "id": "text-editor#text-editor__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} or a computer [program_1]{program} that [change_1]{changes} one [language]{language} into another",
+      "entry": "translator",
+      "id": "translator#translator__3"
+    },
+    {
+      "comment": "a Trojan [horse_1]{horse}",
+      "entry": "Trojan",
+      "id": "trojan#trojan__2"
+    },
+    {
+      "comment": "a [program_1]{program} that seems [useful]{useful} but is [design_2]{designed} to be [harmful]{harmful}, for [example]{example} by [destroy]{destroying} [information]{information}",
+      "entry": "Trojan horse",
+      "id": "trojan-horse#trojan-horse__2"
+    },
+    {
+      "comment": "a [book_1]{book} or a computer [program_1]{program} that [give_1]{gives} [instruction]{instructions} on how to do something",
+      "entry": "tutorial",
+      "id": "tutorial_1#tutorial_1__1"
+    },
+    {
+      "comment": "a computer [operate]{operating} system that can be [used]{used} by several [people_1]{people} at the same time",
+      "entry": "Unix",
+      "id": "unix#unix__1"
+    },
+    {
+      "comment": "a [utility]{utility} [program_1]{program}",
+      "entry": "utility",
+      "id": "utility#utility__6"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [does]{does} a [basic_1]{basic} [job_1]{job} such as [copy_2]{copying} or [saving_1]{saving} [information]{information}",
+      "entry": "utility program",
+      "id": "utility-program#utility-program__1"
+    },
+    {
+      "comment": "[video_1]{video} [graphics]{graphics} [array_1]{array}: a [standard_1]{standard} system for [showing]{showing} [picture_1]{pictures} and [video_1]{videos} on computer [screen_1]{screens}",
+      "entry": "VGA",
+      "id": "vga#vga__1"
+    },
+    {
+      "comment": "a [type_1]{type} of computer [technology]{technology} that [allow]{allows} you to [look_1]{look} at [information]{information} from a computer on a [television]{television} [screen_1]{screen}",
+      "entry": "viewdata",
+      "id": "viewdata#viewdata__1"
+    },
+    {
+      "comment": "a [program_1]{program} that [enter]{enters} your computer and [damage_2]{damages} or [destroy]{destroys} [information]{information} that you have [store_2]{stored}",
+      "entry": "virus",
+      "id": "virus#virus__7"
+    },
+    {
+      "comment": "a [program_1]{program} [used]{used} for [searching]{searching} through [website]{websites} on the [internet]{Internet} for [document_1]{documents} [contain]{containing} a [particular_1]{particular} [word_1]{word}, [phrase_1]{phrase}, or [subject_1]{subject}",
+      "entry": "web crawler",
+      "id": "web-crawler#web-crawler__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that is [used]{used} for [create]{creating} and [store_2]{storing} [written_1]{written} [document_1]{documents}",
+      "entry": "word processor",
+      "id": "word-processor#word-processor__1"
+    },
+    {
+      "comment": "a [program_1]{program} that is [design_2]{designed} to [damage_1]{damage} computer [system]{systems} by [making]{making} [copy_1]{copies} of [itself]{itself} and [prevent]{preventing} the computer from [working]{working} [correctly]{correctly}",
+      "entry": "worm",
+      "id": "worm_1#worm_1__5"
+    }
+  ],
+  "thesaurus": "Computer programs and systems",
+  "type": "Related words"
+}

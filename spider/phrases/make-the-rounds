@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make the rounds",
+  "senses": [
+    {
+      "def": "to be [pass_1]{passed} from one [person]{person} to another",
+      "examples": [
+        "There is a [rumor]{rumor} [making]{making} the [round_2]{rounds} that he has been [fire_2]{fired}."
+      ],
+      "id": "make-the-rounds__1"
+    },
+    {
+      "def": "to go from one [person]{person} or [place_1]{place} to another",
+      "examples": [
+        "I made the [round_2]{rounds} of all the [talk_1]{talk} [show_1]{shows} [yesterday_1]{yesterday}."
+      ],
+      "id": "make-the-rounds__3"
+    }
+  ]
+}

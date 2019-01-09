@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [allow]{allowed} [accord_2]{according} to a [rule_1]{rule}, [law]{law}, or [custom_1]{custom}",
+      "examples": [
+        "[smoking]{Smoking} is forbidden in all [part_1]{parts} of the [building]{building}.",
+        "The use of [cell]{cell} [phone_1]{phones} in the [library]{library} is [strictly]{strictly} forbidden."
+      ],
+      "id": "forbidden__1"
+    },
+    {
+      "def": "a forbidden [place_1]{place} is one that most [people_1]{people} are not [allow]{allowed} to [enter]{enter}",
+      "examples": [
+        "An [electrified]{electrified} [fence_1]{fence} [mark_1]{marks} the forbidden [border_1]{border} [zone_1]{zone}."
+      ],
+      "id": "forbidden__4"
+    },
+    {
+      "def": "forbidden [activity]{activities} or [subject_1]{subjects} are [thing]{things} you should not do, [talk_1]{talk} about, or [know_1]{know} about, for [example]{example} because they are [considered]{considered} [morally]{morally} [bad_1]{bad}",
+      "examples": [
+        "forbidden [book_1]{books}/[secret_1]{secrets}",
+        "a forbidden [romance_1]{romance}"
+      ],
+      "id": "forbidden__6"
+    }
+  ],
+  "word": "forbidden"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[big_1]{bigger} than [usual]{usual} in [size_1]{size}",
+      "entry": "large",
+      "id": "large#large__1"
+    },
+    {
+      "comment": "[large_1]{large} in [size_1]{size}",
+      "entry": "big",
+      "id": "big_1#big_1__1"
+    },
+    {
+      "comment": "[large_1]{large} in [size_1]{size} from the top to the [ground_1]{ground}",
+      "entry": "high",
+      "id": "high_1#high_1__1"
+    },
+    {
+      "comment": "very [large_1]{large} in [size_1]{size} or [quantity]{quantity}",
+      "entry": "enormous",
+      "id": "enormous#enormous__1"
+    },
+    {
+      "comment": "[big_1]{bigger} or more than is [usual]{usual}",
+      "entry": "great",
+      "id": "great_1#great_1__11"
+    },
+    {
+      "comment": "[extremely]{extremely} [large_1]{large} in [size_1]{size}",
+      "entry": "huge",
+      "id": "huge#huge__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [large_1]{large}",
+      "entry": "vast",
+      "id": "vast#vast__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [large_1]{large}",
+      "entry": "immense",
+      "id": "immense#immense__1"
+    },
+    {
+      "comment": "very [large_1]{large}",
+      "entry": "wide",
+      "id": "wide_1#wide_1__15"
+    },
+    {
+      "comment": "very [large_1]{large}",
+      "entry": "king-size",
+      "id": "king-size#king-size__3"
+    }
+  ],
+  "thesaurus": "Large in size",
+  "type": "Synonyms"
+}

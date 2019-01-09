@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [railroad_1]{railroad} [station_1]{station} or a [bus_1]{bus} [station_1]{station}",
+      "examples": [],
+      "id": "depot__1"
+    },
+    {
+      "def": "a [large_1]{large} [building]{building} where [thing]{things} can be [store_2]{stored} until they are [need_1]{needed}",
+      "examples": [
+        "an [oil_1]{oil} depot"
+      ],
+      "id": "depot__2"
+    },
+    {
+      "def": "a [place_1]{place} where [bus_1]{buses} or [train_1]{train} [engine]{engines} are [kept]{kept} when they are not being [used]{used}",
+      "examples": [],
+      "id": "depot__4"
+    }
+  ],
+  "word": "depot"
+}

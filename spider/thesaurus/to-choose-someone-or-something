@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [decide]{decide} which you [want_1]{want} from a [number_1]{number} of [people_1]{people} or [thing]{things}",
+      "entry": "choose",
+      "id": "choose#choose__1"
+    },
+    {
+      "comment": "to [choose]{choose} someone or something from a [group_1]{group}",
+      "entry": "pick",
+      "id": "pick_1#pick_1__1"
+    },
+    {
+      "comment": "to [choose]{choose} someone or something from a [number_1]{number} of [possible_1]{possible} [choice_1]{choices}",
+      "entry": "decide on",
+      "id": "decide-on#decide-on__1"
+    },
+    {
+      "comment": "to [choose]{choose} someone or something from a [group_1]{group}",
+      "entry": "select",
+      "id": "select_1#select_1__1"
+    },
+    {
+      "comment": "to [choose]{choose} something or someone to [win_1]{win} a [prize_1]{prize} or an [honor_1]{honor}",
+      "entry": "vote",
+      "id": "vote_1#vote_1__11"
+    },
+    {
+      "comment": "to [make_1]{make} a [choice_1]{choice} or [decision_1]{decision} from a [range_1]{range} of [possibility]{possibilities}",
+      "entry": "opt",
+      "id": "opt#opt__1"
+    },
+    {
+      "comment": "to [formally]{formally} [choose]{choose} someone or something for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "designate",
+      "id": "designate_1#designate_1__1"
+    },
+    {
+      "comment": "to choose people or things for a test or experiment in a random way",
+      "entry": "randomize",
+      "id": "randomize#randomize__1"
+    },
+    {
+      "comment": "to have the [chance_1]{chance} to [choose]{choose} the [thing]{things} that you [prefer]{prefer}, rather than [simply]{simply} [accepting]{accepting} what someone [give_1]{gives} you",
+      "entry": "pick and choose (something)",
+      "id": "pick-and-choose-something#pick-and-choose-something__1"
+    },
+    {
+      "comment": "to [choose]{choose} someone or something",
+      "entry": "take your pick",
+      "id": "take-your-pick#take-your-pick__1"
+    }
+  ],
+  "thesaurus": "To choose someone or something",
+  "type": "Synonyms"
+}

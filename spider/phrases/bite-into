@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "bite into",
+  "senses": [
+    {
+      "def": "to [press_1]{press} [hard_1]{hard} into a [surface_1]{surface}",
+      "examples": [
+        "The [metal_1]{metal} [collar_1]{collar} [bit_1]{bit} into his [neck_1]{neck}."
+      ],
+      "id": "bite-into__1"
+    },
+    {
+      "def": "to [reduce]{reduce} the [number_1]{number} or amount of something",
+      "examples": [
+        "I [love_1]{love} [watch_1]{watching} TV, but it [does]{does} [bite_1]{bite} into my [free_1]{free} time."
+      ],
+      "id": "bite-into__3"
+    }
+  ]
+}

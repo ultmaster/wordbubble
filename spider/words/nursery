@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [place_1]{place} where [plant_1]{plants} and [young_1]{young} [tree]{trees} are [grown_1]{grown} either for [sale]{sale} or for [scientific]{scientific} [purpose]{purposes}",
+      "examples": [],
+      "id": "nursery__1"
+    },
+    {
+      "def": "a [nursery-school]{nursery school}",
+      "examples": [
+        "She [go_1]{goes} to nursery every [day]{day} now.",
+        "a nursery [teacher]{teacher}",
+        "nursery [education]{education}",
+        "a nursery [class_1]{class}"
+      ],
+      "id": "nursery__2"
+    },
+    {
+      "def": "an [area]{area} in a [hospital]{hospital} where [new]{new} [baby_1]{babies} are [taken_1]{taken} [care_1]{care} of until they go [home_1]{home}",
+      "examples": [
+        "The [children]{children} [usually]{usually} have [tea]{tea} in the nursery."
+      ],
+      "id": "nursery__8"
+    }
+  ],
+  "word": "nursery"
+}

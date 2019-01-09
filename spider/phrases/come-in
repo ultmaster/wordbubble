@@ -1,0 +1,81 @@
+{
+  "part": "phrase",
+  "phrase": "come in",
+  "senses": [
+    {
+      "def": "to [enter]{enter} a [room_1]{room}, [building]{building}, or other [place_1]{place}",
+      "examples": [
+        "Come in and [sit]{sit} down."
+      ],
+      "id": "come-in__1"
+    },
+    {
+      "def": "to [arrive]{arrive} somewhere",
+      "examples": [
+        "What time [does]{does} his [train_1]{train} come in?"
+      ],
+      "id": "come-in__3"
+    },
+    {
+      "def": "if something such as a [message_1]{message} comes in, it is [received]{received} by someone",
+      "examples": [
+        "[report_1]{Reports} are coming in of a [major_1]{major} [air_1]{air} [accident]{accident}.",
+        "We\u2019ve [got_1]{got} [absolutely]{absolutely} no [money]{money} coming in at the [moment]{moment}."
+      ],
+      "id": "come-in__5"
+    },
+    {
+      "def": "to go to [work_1]{work}",
+      "examples": [
+        "He\u2019s too [sick_1]{sick} to come in [today_1]{today}."
+      ],
+      "id": "come-in__9"
+    },
+    {
+      "def": "if someone comes in, they come to your [house_1]{house} in [order_1]{order} to do [work_1]{work}",
+      "examples": [
+        "I\u2019ve [got_1]{got} the [plumber]{plumber} coming in [tomorrow_1]{tomorrow}."
+      ],
+      "id": "come-in__11"
+    },
+    {
+      "def": "if something such as a [law]{law} or [practice_1]{practice} comes in, it [start_1]{starts} to be [used]{used} or done",
+      "examples": [],
+      "id": "come-in__13"
+    },
+    {
+      "def": "when the [tide_1]{tide} comes in, the [sea_1]{sea} [move_1]{moves} [higher_1]{higher} up the [beach_1]{beach}",
+      "examples": [],
+      "id": "come-in__14"
+    },
+    {
+      "def": "to [join_1]{join} a [conversation]{conversation} or [discussion]{discussion} by [saying]{saying} something",
+      "examples": [
+        "I\u2019d [like_1]{like} to come in here and [make_1]{make} a [suggestion]{suggestion}."
+      ],
+      "id": "come-in__15"
+    },
+    {
+      "def": "to [join_1]{join} other [people_1]{people} who are [involved]{involved} in something such as a [business]{business} [project_1]{project}",
+      "examples": [
+        "If your [friend_1]{friend} [want_1]{wants} to come in on the [deal_1]{deal}, he\u2019ll [need_1]{need} to put a [lot_1]{lot} of [money]{money} on the [table_1]{table}.",
+        "I\u2019m [look_1]{looking} for [people_1]{people} to come in with me on a [new]{new} [restaurant]{restaurant} [venture_1]{venture}."
+      ],
+      "id": "come-in__17"
+    },
+    {
+      "def": "to become [fashionable]{fashionable} at a [particular_1]{particular} time",
+      "examples": [
+        "It was a time when [short_1]{short} [hair]{hair} for [men]{men} was [just_1]{just} coming in."
+      ],
+      "id": "come-in__20"
+    },
+    {
+      "def": "to [finish_1]{finish} a [race_1]{race} in a [particular_1]{particular} [position_1]{position}",
+      "examples": [
+        "My [horse_1]{horse} came in third."
+      ],
+      "id": "come-in__22"
+    }
+  ]
+}

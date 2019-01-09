@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "sit up",
+  "senses": [
+    {
+      "def": "to go from a [lying]{lying} [position_1]{position} to a [sitting]{sitting} [position_1]{position}, or to [help_1]{help} someone to do this",
+      "examples": [
+        "Would you [like_1]{like} to [sit]{sit} up and read for a while?",
+        "We [sat_1]{sat} her up in a [chair_1]{chair}."
+      ],
+      "id": "sit-up_1__1"
+    },
+    {
+      "def": "to [sit]{sit} [straight_1]{straight} and not [bend_1]{bend} or [lean_1]{lean}",
+      "examples": [
+        "You\u2019ve [got_1]{got} to [stop_1]{stop} [slouch_1]{slouching} and [sit]{sit} up [straight_1]{straight}."
+      ],
+      "id": "sit-up_1__4"
+    },
+    {
+      "def": "to go to [bed_1]{bed} [later_1]{later} than [usual]{usual}",
+      "examples": [
+        "We [sat_1]{sat} up very [late_1]{late} [talk_1]{talking} last [night_1]{night}."
+      ],
+      "id": "sit-up_1__6"
+    }
+  ]
+}

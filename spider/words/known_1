@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} for [describe]{describing} something that [people_1]{people} [know_1]{know} about or have [discover]{discovered}",
+      "examples": [
+        "a [theory]{theory} that [fit_1]{fits} the known [fact]{facts}",
+        "The [document_1]{documents} were [deliver]{delivered} to his last known [address_1]{address}.",
+        "a [disease]{disease} with no known [cure_1]{cure}",
+        "He was a [violent]{violent} man and a known [drug_1]{drug} [user]{user}.",
+        "[known_1]{Known} [pollutant]{pollutants} had been [tip_2]{tipped} into the [water_1]{water}."
+      ],
+      "id": "known_1__1"
+    },
+    {
+      "def": "[famous_1]{famous}",
+      "examples": [
+        "They were known for their [artistic]{artistic} [achievement]{achievements}.",
+        "[nationally]{nationally} and [internationally]{internationally} known TV [personality]{personalities}",
+        "Diana Spencer, or [princess]{Princess} Di as she became known"
+      ],
+      "id": "known_1__7"
+    }
+  ],
+  "word": "known"
+}

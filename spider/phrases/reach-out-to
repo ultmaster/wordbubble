@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "reach out to",
+  "senses": [
+    {
+      "def": "to [offer_1]{offer} [help_1]{help} to someone",
+      "examples": [
+        "We are [reach_1]{reaching} out to the most [vulnerable]{vulnerable} [member]{members} of the [community]{community}."
+      ],
+      "id": "reach-out-to__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone for [help_1]{help}",
+      "examples": [
+        "She [urge_1]{urged} him to [reach_1]{reach} out to his [family_1]{family}."
+      ],
+      "id": "reach-out-to__3"
+    }
+  ]
+}

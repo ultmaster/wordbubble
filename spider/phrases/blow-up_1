@@ -1,0 +1,42 @@
+{
+  "part": "phrase",
+  "phrase": "blow up",
+  "senses": [
+    {
+      "def": "if something [blow_1]{blows} up, or if someone [blow_1]{blows} something up, it [explode]{explodes} and is [destroy]{destroyed}",
+      "examples": [
+        "[terrorist]{Terrorists} had [threaten]{threatened} to [blow_1]{blow} up the [embassy]{embassy}.",
+        "The [boiler]{boiler} [blew]{blew} up, [wreck_1]{wrecking} the [entire]{entire} [building]{building}."
+      ],
+      "id": "blow-up_1__1"
+    },
+    {
+      "def": "to fill something with [air_1]{air} or [gas_1]{gas}",
+      "examples": [
+        "We [blew]{blew} up [lot_2]{lots} of [balloon_1]{balloons} and [hung_1]{hung} them around the [room_1]{room}."
+      ],
+      "id": "blow-up_1__4"
+    },
+    {
+      "def": "to [make_1]{make} a [photograph_1]{photograph} [big_1]{bigger}",
+      "examples": [
+        "They had [blown]{blown} up the [picture_1]{picture} to [make_1]{make} a [huge]{huge} [poster]{poster} of his [face_1]{face}."
+      ],
+      "id": "blow-up_1__6"
+    },
+    {
+      "def": "to [suddenly]{suddenly} become [angry]{angry} and [shout_1]{shout} at someone",
+      "examples": [
+        "She [just_1]{just} [blew]{blew} up at me."
+      ],
+      "id": "blow-up_1__8"
+    },
+    {
+      "def": "if a [storm_1]{storm} or [strong]{strong} [wind_1]{wind} [blow_1]{blows} up, it [suddenly]{suddenly} [start_1]{starts}",
+      "examples": [
+        "The [race_1]{race} had to be [cancel]{canceled} when the [storm_1]{storm} [blew]{blew} up."
+      ],
+      "id": "blow-up_1__10"
+    }
+  ]
+}

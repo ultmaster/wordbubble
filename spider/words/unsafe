@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[dangerous]{dangerous}",
+      "examples": [
+        "The [heating]{heating} [system]{systems} were unsafe to use.",
+        "unsafe [level_1]{levels} of [radiation]{radiation}",
+        "I [feel_1]{feel} unsafe [walking_1]{walking} around this [neighborhood]{neighborhood}."
+      ],
+      "id": "unsafe__1"
+    },
+    {
+      "def": "[involve]{involving} [great_1]{great} [risk_1]{risk}, for [example]{example} the [risk_1]{risk} of [lose]{losing} something or of being [harm_2]{harmed}",
+      "examples": [
+        "an unsafe [investment]{investment}"
+      ],
+      "id": "unsafe__5"
+    },
+    {
+      "def": "unsafe [sex_1]{sex} is [sex_1]{sex} that [people_1]{people} have without [protect]{protecting} themselves against [disease]{diseases} or the [possibility]{possibility} of becoming [pregnant]{pregnant}",
+      "examples": [],
+      "id": "unsafe__7"
+    }
+  ],
+  "word": "unsafe"
+}

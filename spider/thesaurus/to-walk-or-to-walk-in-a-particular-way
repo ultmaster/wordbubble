@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "to move [forward_1]{forward} by [put]{putting} one [foot_1]{foot} in front of the other",
+      "entry": "walk",
+      "id": "walk_1#walk_1__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} from [place_1]{place} to [place_1]{place}, [especially]{especially} on [foot_1]{foot}, without a [particular_1]{particular} [direction]{direction} or [purpose]{purpose}",
+      "entry": "wander",
+      "id": "wander_1#wander_1__1"
+    },
+    {
+      "comment": "to [walk_1]{walk} without [hurry_1]{hurrying}, often for [pleasure]{pleasure}",
+      "entry": "stroll",
+      "id": "stroll_1#stroll_1__1"
+    },
+    {
+      "comment": "to [walk_1]{walk} with [energy]{energy} and [confidence]{confidence}",
+      "entry": "stride",
+      "id": "stride_2#stride_2__1"
+    },
+    {
+      "comment": "to move around without [thinking_1]{thinking}",
+      "entry": "stray",
+      "id": "stray_1#stray_1__1"
+    },
+    {
+      "comment": "to [walk_1]{walk} somewhere [slowly]{slowly} and with no [enthusiasm]{enthusiasm}, for [example]{example} because you are [tired]{tired}",
+      "entry": "trek",
+      "id": "trek_1#trek_1__1"
+    },
+    {
+      "comment": "to [walk_1]{walk} in a [slow_1]{slow} [relaxed]{relaxed} way",
+      "entry": "amble",
+      "id": "amble#amble__1"
+    },
+    {
+      "comment": "to [walk_1]{walk} in a [slow_1]{slow} and [relaxed]{relaxed} way",
+      "entry": "saunter",
+      "id": "saunter#saunter__1"
+    },
+    {
+      "comment": "to go for a long [walk_1]{walk} in the [countryside]{countryside}",
+      "entry": "hike",
+      "id": "hike_2#hike_2__1"
+    },
+    {
+      "comment": "to move by [put]{putting} one [foot_1]{foot} down in front of or behind the other",
+      "entry": "step",
+      "id": "step_2#step_2__1"
+    },
+    {
+      "comment": "to [walk_1]{walk} [fast_1]{fast} over [difficult]{difficult} [ground_1]{ground}",
+      "entry": "yomp",
+      "id": "yomp_1#yomp_1__4"
+    }
+  ],
+  "thesaurus": "To walk, or to walk in a particular way",
+  "type": "Synonyms"
+}

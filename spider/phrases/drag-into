@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "drag into",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [talk_1]{talking} about someone who is not [connected]{connected} with what you are [discuss]{discussing}",
+      "examples": [
+        "How [dare_1]{dare} you [drag_1]{drag} my [mother_1]{mother} into this."
+      ],
+      "id": "drag-into__1"
+    },
+    {
+      "def": "to [make_1]{make} someone become [involved]{involved} in a [situation]{situation} when they do not [want_1]{want} to",
+      "examples": [
+        "The U.S. was [afraid]{afraid} of being [drag_1]{dragged} into the war."
+      ],
+      "id": "drag-into__3"
+    }
+  ]
+}

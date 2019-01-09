@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make up for lost time",
+  "senses": [
+    {
+      "def": "to [spend]{spend} a [lot_1]{lot} of time [doing]{doing} something because you [did]{did} not have the [chance_1]{chance} to do it before",
+      "examples": [
+        "After 30 [year]{years} [apart]{apart} the [sister]{sisters} were [eager]{eager} to [make_1]{make} up for [lost_1]{lost} time."
+      ],
+      "id": "make-up-for-lost-time__1"
+    },
+    {
+      "def": "to do something more [quickly]{quickly} or more often because something [prevent]{prevented} you from [making]{making} [progress_1]{progress} before",
+      "examples": [
+        "The [project_1]{project} was [delay_1]{delayed} for two [week]{weeks} so we\u2019re [trying]{trying} to [make_1]{make} up for [lost_1]{lost} time."
+      ],
+      "id": "make-up-for-lost-time__3"
+    }
+  ]
+}

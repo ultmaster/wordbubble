@@ -1,0 +1,40 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [particular_1]{particular} [subject_1]{subject}, [type_1]{type} of [activity]{activity}, etc.",
+      "examples": [
+        "[mathematics]{Mathematics} is a [subject_1]{subject} that has [links]{links} with all other [curriculum]{curriculum} [area]{areas}.",
+        "What is your [main_1]{main} area of [concern_1]{concern}?",
+        "His [particular_1]{particular} area of [expertise]{expertise} is [engineering]{engineering}."
+      ],
+      "id": "area__1"
+    },
+    {
+      "def": "a part of a [city]{city}, [town]{town}, [country]{country}, etc.",
+      "examples": [
+        "[bus_1]{Bus} [service_1]{service} in [rural]{rural} [area]{areas} is not very [good_1]{good}.",
+        "I went on a [tour_1]{tour} of Vancouver and the [surrounding]{surrounding} area.",
+        "My [family_1]{family} has [live_1]{lived} in this area of [new]{New} England for [year]{years}.",
+        "You can park only in designated areas  (=places available for this purpose).",
+        "[visitor]{Visitors} should [wait_1]{wait} in the [reception]{reception} area."
+      ],
+      "id": "area__5"
+    },
+    {
+      "def": "a [place_1]{place} on the [surface_1]{surface} of something such as a part of your body",
+      "examples": [
+        "Be [sure_1]{sure} to [apply]{apply} [sunblock]{sunblock} to [sensitive]{sensitive} [area]{areas} of your [skin_1]{skin}."
+      ],
+      "id": "area__12"
+    },
+    {
+      "def": "the amount of [space_1]{space} that the [surface_1]{surface} of a [place_1]{place} or [shape_1]{shape} [cover_1]{covers}. Area is [express_1]{expressed} in [square_1]{square} [unit]{units}, such as [square_1]{square} [kilometer]{kilometers} or [square_1]{square} [mile]{miles}",
+      "examples": [
+        "The [surface_1]{surface} area of the [screen_1]{screen} should be at least one [square_1]{square} [meter_1]{meter}."
+      ],
+      "id": "area__14"
+    }
+  ],
+  "word": "area"
+}

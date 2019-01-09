@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "stay down",
+  "senses": [
+    {
+      "def": "to [remain]{remain} under [water_1]{water}",
+      "examples": [
+        "Even with [breathing]{breathing} [apparatus]{apparatus}, you couldn\u2019t [stay_1]{stay} down for an [hour]{hour}."
+      ],
+      "id": "stay-down__1"
+    },
+    {
+      "def": "if [food]{food} that you have [eaten]{eaten} [stay_1]{stays} down, it [stay_1]{stays} in your [stomach_1]{stomach} and you are not [sick_1]{sick}",
+      "examples": [
+        "She had a [piece_1]{piece} of [toast_1]{toast} and that [stay_1]{stayed} down."
+      ],
+      "id": "stay-down__3"
+    }
+  ]
+}

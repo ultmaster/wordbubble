@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if two or more [thing]{things} are related, there is a [connection]{connection} between them",
+      "examples": [
+        "We [think_1]{think} the two [crime_1]{crimes} are related in some way.",
+        "[environmentally]{environmentally} related [disease]{diseases}",
+        "[occupation]{Occupation} and [social_1]{social} [class_1]{class} are [closely]{closely} related.",
+        "Harcourt\u2019s [lawyer]{lawyer} [claim_1]{claims} that his [client]{client}\u2019s [health]{health} [problem]{problems} are [directly_1]{directly} related to his [work_1]{work} in the mine."
+      ],
+      "id": "related_1__1"
+    },
+    {
+      "def": "[belong]{belonging} to the same [family_1]{family}",
+      "examples": [
+        "I didn\u2019t [know_1]{know} you two were related.",
+        "Annie\u2019s related to the [director]{director}.",
+        "[joe_2]{Joe}\u2019s [father_1]{father} and my [mother_1]{mother} are [distantly]{distantly} related."
+      ],
+      "id": "related_1__6"
+    },
+    {
+      "def": "[have]{having} the same [origin]{origins} and [belong]{belonging} to the same [group_1]{group}",
+      "examples": [
+        "The [word_1]{word} \u201cimfundo\u201d [means]{means} \u201c[education]{education}\u201d in Zulu and several related [language]{languages}."
+      ],
+      "id": "related_1__10"
+    }
+  ],
+  "word": "related"
+}

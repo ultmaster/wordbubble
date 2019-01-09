@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a transatlantic [flight]{flight} or [trip_1]{trip} [involve]{involves} [crossing]{crossing} the Atlantic Ocean",
+      "examples": [
+        "a transatlantic [yacht]{yacht} [race_1]{race}"
+      ],
+      "id": "transatlantic__1"
+    },
+    {
+      "def": "between [country]{countries} on both sides of the Atlantic Ocean",
+      "examples": [
+        "a transatlantic [business]{business} [venture_1]{venture}",
+        "transatlantic [market_1]{markets}"
+      ],
+      "id": "transatlantic__3"
+    }
+  ],
+  "word": "transatlantic"
+}

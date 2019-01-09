@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [large_1]{large} low [container]{container} that is [fill_1]{filled} with [sand_1]{sand} for [children]{children} to [play_1]{play} in",
+      "examples": [],
+      "id": "sandbox__1"
+    },
+    {
+      "def": "in [software]{software} and [web]{web} [development]{development}, an [environment]{environment} where [new]{new} [product]{products} can be [test_2]{tested} without [affecting]{affecting} the [live_1]{live} [server]{server} or [damaging]{damaging} [data]{data}",
+      "examples": [
+        "[sandbox]{Sandbox} [mode]{mode} [let_1]{lets} you [test_1]{test} the [integration]{integration} of Magento Go with the PayPal [payment]{payment} system."
+      ],
+      "id": "sandbox__2"
+    }
+  ],
+  "word": "sandbox"
+}

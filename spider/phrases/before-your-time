@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "before your time",
+  "senses": [
+    {
+      "def": "[used]{used} for [talk_1]{talking} about [thing]{things} that [happen]{happen} at an [earlier_1]{earlier} [stage_1]{stage} than they should",
+      "examples": [
+        "Such a [modern]{modern} [design_1]{design} may [look_1]{look} [outdated]{outdated} before its time."
+      ],
+      "id": "before-your-time__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something [happen]{happened} or [exist]{existed} before you were [born]{born}",
+      "examples": [
+        "These [style_1]{styles} were a [bit_1]{bit} before my time."
+      ],
+      "id": "before-your-time__3"
+    },
+    {
+      "def": "[used]{used} for [talk_1]{talking} about [thing]{things} that [exist]{existed} in a [place_1]{place} before you [live_1]{lived} or [work_1]{worked} there",
+      "examples": [
+        "She was a [manager]{manager} here, before your time."
+      ],
+      "id": "before-your-time__5"
+    }
+  ]
+}

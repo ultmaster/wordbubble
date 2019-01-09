@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [quality_1]{quality} that [make_1]{makes} something [funny]{funny}",
+      "examples": [
+        "a [novel_1]{novel} full of humor",
+        "They [laugh_1]{laughed} at [thing]{things} she didn\u2019t see the humor in.",
+        "He made a [hopeless]{hopeless} [attempt_1]{attempt} at humor.",
+        "His [colleague]{colleagues} [remember]{remember} him for his humor and his [loyalty]{loyalty}.",
+        "Lynne is a [friendly_1]{friendly} [person]{person} with a [great_1]{great} [sense_1]{sense} of humor."
+      ],
+      "id": "humor_1__1"
+    },
+    {
+      "def": "someone\u2019s [mood]{mood}",
+      "examples": [
+        "Fred\u2019s [comment_1]{comments} [did]{did} nothing to [improve_1]{improve} Jo\u2019s humor.",
+        "He [laugh_1]{laughed} again, [obviously]{obviously} in a [good_1]{good} humor."
+      ],
+      "id": "humor_1__10"
+    }
+  ],
+  "word": "humor"
+}

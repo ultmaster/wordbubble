@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to the most [basic_1]{basic} and [important]{important} part of something",
+      "examples": [
+        "They [clearly]{clearly} [failed]{failed} to take even the most elementary [precaution]{precautions}.",
+        "a [course_1]{course} in elementary German",
+        "elementary [reading]{reading} [skill]{skills}"
+      ],
+      "id": "elementary__1"
+    },
+    {
+      "def": "[easy_1]{easy}",
+      "examples": [
+        "elementary [task_1]{tasks}"
+      ],
+      "id": "elementary__6"
+    },
+    {
+      "def": "[relate]{relating} to the first [year]{years} of [school_1]{school}",
+      "examples": [
+        "elementary [education]{education}"
+      ],
+      "id": "elementary__8"
+    }
+  ],
+  "word": "elementary"
+}

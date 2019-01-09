@@ -1,0 +1,27 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[likely_1]{likely} to [harm_1]{harm} or [kill_1]{kill} someone, or to [damage_1]{damage} or [destroy]{destroy} something",
+      "examples": [
+        "a dangerous [dog_1]{dog}",
+        "a dangerous [stretch_1]{stretch} of [road]{road}",
+        "[air_1]{Air} [pollution]{pollution} has [reach_1]{reached} dangerous [level_1]{levels} in some [city]{cities}.",
+        "an [exciting]{exciting} but [highly]{highly} dangerous [sport_1]{sport}",
+        "It is not yet [known_1]{known} whether these [chemical_1]{chemicals} are dangerous to [human_2]{humans}.",
+        "It\u2019s dangerous to [walk_1]{walk} around here on your own at [night_1]{night}."
+      ],
+      "id": "dangerous__1"
+    },
+    {
+      "def": "[likely_1]{likely} to have a [bad_1]{bad} [effect_1]{effect} or to cause a [problem]{problem}",
+      "examples": [
+        "Mr. Ashley is [play_1]{playing} a dangerous [game_1]{game}, [pretend_1]{pretending} to [support_1]{support} [warring]{warring} [faction]{factions}.",
+        "It is [extremely]{extremely} dangerous for you to get [involved]{involved} in this.",
+        "The [fire_2]{firing} of Mr. Nolan could [set_1]{set} a dangerous [precedent]{precedent}."
+      ],
+      "id": "dangerous__8"
+    }
+  ],
+  "word": "dangerous"
+}

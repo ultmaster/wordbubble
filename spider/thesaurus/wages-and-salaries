@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an amount of [money]{money} that you [earn]{earn} for [working]{working}, [usually]{usually} [accord_2]{according} to how many [hour]{hours} or [day]{days} you [work_1]{work} each [week]{week} or [month]{month}",
+      "entry": "wage",
+      "id": "wage_1#wage_1__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} amount of [money]{money} that you [earn]{earn} each [month]{month} or [year]{year} from your [job_1]{job}",
+      "entry": "salary",
+      "id": "salary#salary__1"
+    },
+    {
+      "comment": "[money]{money} that you [receive]{receive} for [doing]{doing} your [job_1]{job}",
+      "entry": "pay",
+      "id": "pay_2#pay_2__1"
+    },
+    {
+      "comment": "[money]{money} that someone [get]{gets} from [working]{working} or from [invest]{investing} [money]{money}",
+      "entry": "income",
+      "id": "income#income__1"
+    },
+    {
+      "comment": "the amount of [money]{money} that you [earn]{earn}",
+      "entry": "earnings",
+      "id": "earnings#earnings__1"
+    },
+    {
+      "comment": "[money]{money} that you [earn]{earn} to [live_1]{live} on",
+      "entry": "living",
+      "id": "living_2#living_2__1"
+    },
+    {
+      "comment": "the [small_1]{smallest} amount of [money]{money} that an [employer]{employer} is [legally]{legally} [allow]{allowed} to [pay_1]{pay} a [worker]{worker}",
+      "entry": "minimum wage",
+      "id": "minimum-wage#minimum-wage__1"
+    },
+    {
+      "comment": "[pay_1]{pay} that [increase_1]{increases} when you are [successful]{successful} at your [job_1]{job} and that [go_1]{goes} down when you are not [successful]{successful}",
+      "entry": "performance-related pay",
+      "id": "performance-related-pay#performance-related-pay__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [money]{money} that someone [earn]{earns} that is not enough for [ordinary]{ordinary} [living_1]{living}",
+      "entry": "starvation wages",
+      "id": "starvation-wages#starvation-wages__1"
+    },
+    {
+      "comment": "a [raise_1]{raise} in [pay_1]{pay}",
+      "entry": "rise",
+      "id": "rise_2#rise_2__7"
+    }
+  ],
+  "thesaurus": "Wages and salaries",
+  "type": "Synonyms"
+}

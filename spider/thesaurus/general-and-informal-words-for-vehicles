@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "a [vehicle]{vehicle} or [aircraft]{aircraft} that can [operate]{operate} both on [water_1]{water} and on [land_1]{land}",
+      "entry": "amphibian",
+      "id": "amphibian#amphibian__2"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} or [ship_1]{ship} [used]{used} for [moving]{moving} [goods]{goods} or [people_1]{people}, [especially]{especially} [soldier_1]{soldiers}",
+      "entry": "carrier",
+      "id": "carrier#carrier__3"
+    },
+    {
+      "comment": "something that [coast_1]{coasts}, [especially]{especially} a [small_1]{small} [vehicle]{vehicle}",
+      "entry": "coaster",
+      "id": "coaster#coaster__2"
+    },
+    {
+      "comment": "a [vehicle]{vehicle}",
+      "entry": "conveyance",
+      "id": "conveyance#conveyance__2"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} that [use_1]{uses} [diesel]{diesel} as [fuel_1]{fuel} [instead]{instead} of [gas_1]{gas}",
+      "entry": "diesel",
+      "id": "diesel#diesel__2"
+    },
+    {
+      "comment": "a [person]{person} or a [group_1]{group} of [people_1]{people}, [vehicle]{vehicles}, [ship_1]{ships}, etc. that go somewhere with another [person]{person}, [vehicle]{vehicle}, [ship_1]{ship}, etc. in [order_1]{order} to [protect]{protect} them or to [prevent]{prevent} them from [escape_1]{escaping}",
+      "entry": "escort",
+      "id": "escort_2#escort_2__1"
+    },
+    {
+      "comment": "[electric]{electric} [vehicle]{vehicle}: a [vehicle]{vehicle} that has an [electric]{electric} [motor_1]{motor} [power_2]{powered} by a [recharge#recharge__3]{rechargeable} [battery]{battery}",
+      "entry": "EV",
+      "id": "ev#ev__1"
+    },
+    {
+      "comment": "a [person]{person}, [animal_1]{animal}, or [vehicle]{vehicle} that can go very [fast_1]{fast}",
+      "entry": "flier",
+      "id": "flier#flier__11"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} that [use_1]{uses} two or more [kind_1]{kinds} of [power_1]{power}, for [example]{example} a [car]{car} that can [run_1]{run} [use_1]{using} either [gas_1]{gas} or [electricity]{electricity}",
+      "entry": "hybrid vehicle",
+      "id": "hybrid#hybrid__3"
+    },
+    {
+      "comment": "a vehicle, especially a motorcycle",
+      "entry": "machine",
+      "id": "machine_1#machine_1__25"
+    },
+    {
+      "comment": "a [type_1]{type} of [vehicle]{vehicle}, [machine_1]{machine}, etc. with [slightly]{slightly} [different]{different} [feature_1]{features} from those of an [earlier_1]{earlier} or [later_1]{later} [type_1]{type} that has the same name and is made by the same [company]{company}",
+      "entry": "Mark 1/2/3 etc.",
+      "id": "mark-1-2-3-etc#mark-1-2-3-etc__1"
+    },
+    {
+      "comment": "a [road]{road} [vehicle]{vehicle} that has an [engine]{engine}, for [example]{example} a [car]{car} or a [truck_1]{truck}",
+      "entry": "motor vehicle",
+      "id": "motor-vehicle#motor-vehicle__1"
+    },
+    {
+      "comment": "a small vehicle with a motor that is designed for one person, for example a vehicle with two wheels similar to a child\u2019s scooter that is designed to be ridden while standing",
+      "entry": "personal transporter",
+      "id": "personal-transporter#personal-transporter__1"
+    },
+    {
+      "comment": "a [boat]{boat}, [car]{car}, or other [vehicle]{vehicle} that is [design_2]{designed} for [racing_1]{racing} and [move_1]{moves} very [quickly]{quickly}",
+      "entry": "racer",
+      "id": "racer#racer__2"
+    },
+    {
+      "comment": "a large vehicle, especially a spacecraft",
+      "entry": "ship",
+      "id": "ship_1#ship_1__5"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} that has three [wheel_1]{wheels}",
+      "entry": "three-wheeler",
+      "id": "three-wheeler#three-wheeler__1"
+    },
+    {
+      "comment": "an [airplane]{airplane}, [ship_1]{ship}, or [vehicle]{vehicle} [used]{used} for [moving]{moving} [people_1]{people} or [equipment]{equipment}, [especially]{especially} in the [military]{military}",
+      "entry": "transport",
+      "id": "transport_2#transport_2__6"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} or [piece_1]{piece} of [furniture]{furniture} with [seat_1]{seats} for only two [people_1]{people}",
+      "entry": "two-seater",
+      "id": "two-seater#two-seater__1"
+    },
+    {
+      "comment": "ultra-low-emissions [vehicle]{vehicle}: a [vehicle]{vehicle} that [produce_1]{produces} less than 75 [gram]{grams} of [carbon]{carbon} dioxide per [kilometer]{kilometer}",
+      "entry": "ULEV",
+      "id": "ulev#ulev__1"
+    },
+    {
+      "comment": "a machine that you travel in or on, especially one with an engine that travels on roads, for example a car, bus, van, truck, or motorcycle",
+      "entry": "vehicle",
+      "id": "vehicle#vehicle__1"
+    }
+  ],
+  "thesaurus": "General and informal words for vehicles",
+  "type": "Related words"
+}

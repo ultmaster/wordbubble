@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to give someone something in [return_1]{return} for something that they give you",
+      "entry": "exchange",
+      "id": "exchange_2#exchange_2__1"
+    },
+    {
+      "comment": "to give someone something that someone else has [given_1]{given} you",
+      "entry": "pass on",
+      "id": "pass-on#pass-on__1"
+    },
+    {
+      "comment": "to give something [old]{old} as part of the [payment]{payment} for something [new]{new}",
+      "entry": "trade in",
+      "id": "trade-in_1#trade-in_1__1"
+    },
+    {
+      "comment": "to give something to someone in [exchange_1]{exchange} for something else",
+      "entry": "swap",
+      "id": "swap_1#swap_1__1"
+    },
+    {
+      "comment": "if something [change_1]{changes} [hand_1]{hands}, it [get]{gets} a [new]{new} [owner]{owner}",
+      "entry": "change hands",
+      "id": "change-hands#change-hands__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which one [person]{person} [give_1]{gives} another [person]{person} something and [receive]{receives} something else of a [similar]{similar} [type_1]{type} or [value_1]{value} in [return_1]{return}",
+      "entry": "exchange",
+      "id": "exchange_1#exchange_1__1"
+    },
+    {
+      "comment": "something that you get in [exchange_1]{exchange} for something else",
+      "entry": "swap",
+      "id": "swap_2#swap_2__3"
+    },
+    {
+      "comment": "the [exchange_1]{exchange} of one thing for another, [usually]{usually} of the same [value_1]{value}",
+      "entry": "trade",
+      "id": "trade_1#trade_1__10"
+    },
+    {
+      "comment": "if you give someone something in [exchange_1]{exchange} for something else, you give them something and they give you something else of a [similar]{similar} [type_1]{type} or [value_1]{value}",
+      "entry": "in exchange",
+      "id": "in-exchange#in-exchange__1"
+    },
+    {
+      "comment": "in [exchange_1]{exchange} for something, or as a [payment]{payment} for something",
+      "entry": "in consideration of something",
+      "id": "in-consideration-of-something#in-consideration-of-something__1"
+    }
+  ],
+  "thesaurus": "To exchange and exchanging",
+  "type": "Synonyms"
+}

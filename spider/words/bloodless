@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[lacking]{lacking} [emotion]{emotion}, [energy]{energy}, or [effectiveness]{effectiveness}",
+      "examples": [
+        "[cold_1]{cold} bloodless [logic]{logic}"
+      ],
+      "id": "bloodless__1"
+    },
+    {
+      "def": "not [involve]{involving} [violence]{violence} or [killing]{killing}, in a [situation]{situation} where there often is [violence]{violence}",
+      "examples": [
+        "a bloodless [revolution]{revolution}"
+      ],
+      "id": "bloodless__3"
+    },
+    {
+      "def": "a bloodless [face_1]{face} or [skin_1]{skin} is very [pale_1]{pale}",
+      "examples": [],
+      "id": "bloodless__5"
+    },
+    {
+      "def": "without [give_1]{giving} someone [blood_1]{blood} during a [medical_1]{medical} [operation]{operation}",
+      "examples": [
+        "bloodless [surgery]{surgery}"
+      ],
+      "id": "bloodless__6"
+    }
+  ],
+  "word": "bloodless"
+}

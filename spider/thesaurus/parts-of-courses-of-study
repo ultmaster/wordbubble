@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "[work_1]{work} that you must do as part of a [course_1]{course} of [study_1]{study} or as part of your [job_1]{job}",
+      "entry": "assignment",
+      "id": "assignment#assignment__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when an [expert_1]{expert} [teach]{teaches} a [class_1]{class} on their [subject_1]{subject}",
+      "entry": "clinic",
+      "id": "clinic#clinic__6"
+    },
+    {
+      "comment": "[school_1]{school} [work_1]{work} that a [student]{student} must do as part of a [course_1]{course} of [study_1]{study}, with the [grade_1]{grade} that they [achieve]{achieve} [form_2]{forming} part of their [final_1]{final} [grade_1]{grade}",
+      "entry": "coursework",
+      "id": "coursework#coursework__1"
+    },
+    {
+      "comment": "a part of a [college]{college} or [university]{university} [program_1]{program} that you have [completed]{completed} [successful#successful__11]{successfully}",
+      "entry": "credit",
+      "id": "credit_1#credit_1__11"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [writing]{writing} on a [particular_1]{particular} [subject_1]{subject} that you do as part of a [university]{university} [degree]{degree}",
+      "entry": "dissertation",
+      "id": "dissertation#dissertation__1"
+    },
+    {
+      "comment": "the act of receiving a diploma or degree after finishing a course of study at a school such as a high school, college, or university",
+      "entry": "graduation",
+      "id": "graduation#graduation__1"
+    },
+    {
+      "comment": "a [lesson]{lesson} for [advanced]{advanced} [student]{students} [given_1]{given} by someone who is an [expert_1]{expert}",
+      "entry": "master class",
+      "id": "master-class#master-class__1"
+    },
+    {
+      "comment": "one of the [separate_1]{separate} [unit]{units} of a [course_1]{course} of [study_1]{study}",
+      "entry": "module",
+      "id": "module#module__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} that is done as part of a [course_1]{course} at [school_1]{school} or [college]{college}",
+      "entry": "paper",
+      "id": "paper_1#paper_1__16"
+    },
+    {
+      "comment": "an internship",
+      "entry": "placement",
+      "id": "placement#placement__6"
+    },
+    {
+      "comment": "a [class_1]{class} at a [college]{college} or [university]{university} in which a [small_1]{small} [group_1]{group} of [student]{students} [discuss]{discuss} a [subject_1]{subject} with a [teacher]{teacher}",
+      "entry": "seminar",
+      "id": "seminar#seminar__4"
+    },
+    {
+      "comment": "a [list_1]{list} of the [main_1]{main} [subject_1]{subjects} in a [course_1]{course} of [study_1]{study}",
+      "entry": "syllabus",
+      "id": "syllabus#syllabus__1"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [writing]{writing} on a [particular_1]{particular} [subject_1]{subject} that you do as part of a [course_1]{course} in [high_1]{high} [school_1]{school} or [college]{college}",
+      "entry": "term paper",
+      "id": "term-paper#term-paper__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} such as a [book_1]{book} or [play_1]{play} that you [study_1]{study} for an [examination]{examination} or for [research_1]{research}",
+      "entry": "text",
+      "id": "text_1#text_1__5"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [writing]{writing} that you [discuss]{discuss} or [answer_1]{answer} [question_1]{questions} about",
+      "entry": "text",
+      "id": "text_1#text_1__7"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [writing]{writing} that is the [final_1]{final} part of an [advanced]{advanced} [university]{university} [degree]{degree}",
+      "entry": "thesis",
+      "id": "thesis#thesis__1"
+    },
+    {
+      "comment": "a [class_1]{class} in which a [student]{student} or a [small_1]{small} [group_1]{group} of [student]{students} [discuss]{discusses} a [subject_1]{subject} with a [tutor_1]{tutor}, [especially]{especially} at a [university]{university} or [college]{college}",
+      "entry": "tutorial",
+      "id": "tutorial_1#tutorial_1__3"
+    },
+    {
+      "comment": "one of the [part_1]{parts} that an [educational]{educational} [book_1]{book} or a [school_1]{school} [course_1]{course} is [divided]{divided} into",
+      "entry": "unit",
+      "id": "unit#unit__3"
+    },
+    {
+      "comment": "an [internship]{internship} that you do as a [student]{student} in [order_1]{order} to get [practical]{practical} [training]{training} and [experience_1]{experience}",
+      "entry": "work placement",
+      "id": "work-placement#work-placement__1"
+    }
+  ],
+  "thesaurus": "Parts of courses of study",
+  "type": "Related words"
+}

@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "if a fire [burn_1]{burns} out, or if it [burn_1]{burns} [itself]{itself} out, it [stop_1]{stops} [burning]{burning}",
+      "entry": "burn out",
+      "id": "burn-out#burn-out__1"
+    },
+    {
+      "comment": "if a fire or [flame_1]{flame} [burn_1]{burns} down, it becomes [small_1]{smaller} and less [hot]{hot}",
+      "entry": "burn down",
+      "id": "burn-down#burn-down__4"
+    },
+    {
+      "comment": "to [stop_1]{stop} [burning]{burning} or [shining]{shining}",
+      "entry": "go out",
+      "id": "go-out#go-out__13"
+    },
+    {
+      "comment": "to [stop_1]{stop} [burning]{burning} or [shining]{shining}",
+      "entry": "die",
+      "id": "die_1#die_1__12"
+    },
+    {
+      "comment": "no [long_1]{longer} [burning]{burning}",
+      "entry": "out",
+      "id": "out_1#out_1__73"
+    },
+    {
+      "comment": "not [burning]{burning} yet",
+      "entry": "unlit",
+      "id": "unlit#unlit__3"
+    },
+    {
+      "comment": "a [dying_1]{dying} [light_1]{light} or fire has almost [stop_1]{stopped} [burning]{burning} or [shining]{shining}",
+      "entry": "dying",
+      "id": "dying_1#dying_1__6"
+    }
+  ],
+  "thesaurus": "To stop burning and not burning",
+  "type": "Synonyms"
+}

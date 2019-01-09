@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "shoot down",
+  "senses": [
+    {
+      "def": "to [kill_1]{kill} someone with a [gun_1]{gun}",
+      "examples": [
+        "He had been [walking_1]{walking} down the [street_1]{street} on his way to a [club_1]{club} when he was [shot_1]{shot} down.",
+        "The [airliner]{airliner} was [shot_1]{shot} down by [mistake_1]{mistake}."
+      ],
+      "id": "shoot-down__1"
+    },
+    {
+      "def": "to [refuse_1]{refuse} even to [consider]{consider} something such as an [idea]{idea} or a [plan_1]{plan}",
+      "examples": [
+        "Each [proposal]{proposal} was [shot_1]{shot} down in [flame_1]{flames}."
+      ],
+      "id": "shoot-down__5"
+    }
+  ]
+}

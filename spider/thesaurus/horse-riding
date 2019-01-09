@@ -1,0 +1,291 @@
+{
+  "entries": [
+    {
+      "comment": "riding a horse without a saddle",
+      "entry": "bareback",
+      "id": "bareback#bareback__1"
+    },
+    {
+      "comment": "to be [riding]{riding} a [horse_1]{horse}",
+      "entry": "be in the saddle",
+      "id": "be-in-the-saddle#be-in-the-saddle__3"
+    },
+    {
+      "comment": "to [train_1]{train} a [horse_1]{horse} that is [young_1]{young} or [wild_1]{wild}",
+      "entry": "break in",
+      "id": "break-in_1#break-in_1__8"
+    },
+    {
+      "comment": "to put a [bridle_1]{bridle} on a [horse_1]{horse}",
+      "entry": "bridle",
+      "id": "bridle_2#bridle_2__3"
+    },
+    {
+      "comment": "if a horse canters, it runs fairly fast. If it runs slowly, it trots, and if it runs as fast as it can, it gallops.",
+      "entry": "canter",
+      "id": "canter_1#canter_1__1"
+    },
+    {
+      "comment": "the way a [horse_1]{horse} [run_1]{runs} when it [canter_1]{canters}",
+      "entry": "canter",
+      "id": "canter_2#canter_2__1"
+    },
+    {
+      "comment": "a [ride_1]{ride} on a [horse_1]{horse} that is [canter_1]{cantering}",
+      "entry": "canter",
+      "id": "canter_2#canter_2__2"
+    },
+    {
+      "comment": "to get off something such as a [horse_1]{horse} or [bicycle]{bicycle}",
+      "entry": "dismount",
+      "id": "dismount#dismount__1"
+    },
+    {
+      "comment": "[relate]{relating} to [riding]{riding} [horse_1]{horses}",
+      "entry": "equestrian",
+      "id": "equestrian#equestrian__1"
+    },
+    {
+      "comment": "if a [horse_1]{horse} [gallop_1]{gallops}, it [run_1]{runs} at its [fast_1]{fastest} [speed_1]{speed}",
+      "entry": "gallop",
+      "id": "gallop_1#gallop_1__1"
+    },
+    {
+      "comment": "to [ride_1]{ride} a [horse_1]{horse} very [fast_1]{fast}",
+      "entry": "gallop",
+      "id": "gallop_1#gallop_1__3"
+    },
+    {
+      "comment": "the [fast_1]{fastest} [speed_1]{speed} of a [horse_1]{horse}",
+      "entry": "gallop",
+      "id": "gallop_2#gallop_2__1"
+    },
+    {
+      "comment": "a [fast_1]{fast} [ride_1]{ride} on a [horse_1]{horse}",
+      "entry": "gallop",
+      "id": "gallop_2#gallop_2__4"
+    },
+    {
+      "comment": "someone who [take_1]{takes} [care_1]{care} of [horse_1]{horses}",
+      "entry": "groom",
+      "id": "groom_1#groom_1__2"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} how [tall]{tall} a [horse_1]{horse} is",
+      "entry": "hand",
+      "id": "hand_1#hand_1__26"
+    },
+    {
+      "comment": "the [activity]{activity} of [riding]{riding} a [horse_1]{horse}, for [enjoyment]{enjoyment}, for [exercise_1]{exercise}, or in [competition]{competitions}",
+      "entry": "horseback riding",
+      "id": "horseback-riding#horseback-riding__1"
+    },
+    {
+      "comment": "a man who [ride_1]{rides} [horse_1]{horses} for [pleasure]{pleasure} or [sport_1]{sport}, [especially]{especially} someone who is [good_1]{good} at [riding]{riding}",
+      "entry": "horseman",
+      "id": "horseman#horseman__1"
+    },
+    {
+      "comment": "the [skill]{skill} of [riding]{riding} [horse_1]{horses}",
+      "entry": "horsemanship",
+      "id": "horsemanship#horsemanship__1"
+    },
+    {
+      "comment": "horseback riding",
+      "entry": "horse-riding",
+      "id": "horse-riding#horse-riding__1"
+    },
+    {
+      "comment": "a [woman]{woman} who [ride_1]{rides} [horse_1]{horses} for [pleasure]{pleasure} or [sport_1]{sport}, [especially]{especially} someone who is [good_1]{good} at [riding]{riding}",
+      "entry": "horsewoman",
+      "id": "horsewoman#horsewoman__1"
+    },
+    {
+      "comment": "[enthusiastic]{enthusiastic} about [horse_1]{horses} and [sport_1]{sports} [involve]{involving} [horse_1]{horses}",
+      "entry": "horsey",
+      "id": "horsey#horsey__2"
+    },
+    {
+      "comment": "a [horse_1]{horse} that is in [harness_1]{harness} is [wearing]{wearing} a [harness_1]{harness}",
+      "entry": "in harness",
+      "id": "in-harness#in-harness__3"
+    },
+    {
+      "comment": "if two people riding horses joust, they fight by riding toward each other and trying to hit each other with a lance  (=long stick)",
+      "entry": "joust",
+      "id": "joust#joust__2"
+    },
+    {
+      "comment": "to hit a [horse_1]{horse}\u2019s sides with your [heel_1]{heels} in [order_1]{order} to [make_1]{make} it move [forward_1]{forward}",
+      "entry": "kick",
+      "id": "kick_1#kick_1__12"
+    },
+    {
+      "comment": "the white mass of bubbles that form on a horse\u2019s skin when it is sweating",
+      "entry": "lather",
+      "id": "lather_1#lather_1__2"
+    },
+    {
+      "comment": "to get on a [horse_1]{horse}",
+      "entry": "mount",
+      "id": "mount_1#mount_1__7"
+    },
+    {
+      "comment": "[riding]{riding} on a [horse_1]{horse}",
+      "entry": "mounted",
+      "id": "mounted#mounted__1"
+    },
+    {
+      "comment": "[riding]{riding} on a [horse_1]{horse}",
+      "entry": "on horseback",
+      "id": "horseback#horseback__2"
+    },
+    {
+      "comment": "a particular way that a horse walks or runs such as a walk, trot, canter, or gallop",
+      "entry": "pace",
+      "id": "pace_1#pace_1__17"
+    },
+    {
+      "comment": "to [make_1]{make} a [horse_1]{horse} [stop_1]{stop} or go more [slowly]{slowly} by [pull_1]{pulling} its [rein_1]{reins}",
+      "entry": "rein in",
+      "id": "rein_2#rein_2__4"
+    },
+    {
+      "comment": "to get back on a [horse_1]{horse} or [bicycle]{bicycle} after you have [gotten]{gotten} off or [fallen_1]{fallen} off",
+      "entry": "remount",
+      "id": "remount#remount__1"
+    },
+    {
+      "comment": "to [sit]{sit} on an [animal_1]{animal}, [especially]{especially} a [horse_1]{horse}, and [control_1]{control} its [movement]{movements} as it [move_1]{moves} along",
+      "entry": "ride",
+      "id": "ride_1#ride_1__1"
+    },
+    {
+      "comment": "a trip on a horse or other animal, on a bicycle or motorcycle, or in a vehicle",
+      "entry": "ride",
+      "id": "ride_2#ride_2__1"
+    },
+    {
+      "comment": "someone who rides on an animal such as a horse, or on a vehicle such as a bicycle or motorcycle",
+      "entry": "rider",
+      "id": "rider#rider__1"
+    },
+    {
+      "comment": "the [activity]{activity} or [sport_1]{sport} of [riding]{riding} a [horse_1]{horse} or other [animal_1]{animal}",
+      "entry": "riding",
+      "id": "riding#riding__1"
+    },
+    {
+      "comment": "[used]{used} for [riding]{riding} [horse_1]{horses}",
+      "entry": "riding",
+      "id": "riding#riding__3"
+    },
+    {
+      "comment": "to put a [saddle_1]{saddle} on a [horse_1]{horse}",
+      "entry": "saddle",
+      "id": "saddle_2#saddle_2__1"
+    },
+    {
+      "comment": "a sore place on your legs or buttocks that you get from riding a horse or a bicycle",
+      "entry": "saddle sore",
+      "id": "saddle-sore_1#saddle-sore_1__1"
+    },
+    {
+      "comment": "a sore place on a horse that it gets from wearing a saddle that does not fit correctly",
+      "entry": "saddle sore",
+      "id": "saddle-sore_1#saddle-sore_1__2"
+    },
+    {
+      "comment": "to put a [saddle_1]{saddle} on a [horse_1]{horse}",
+      "entry": "saddle up",
+      "id": "saddle-up#saddle-up__1"
+    },
+    {
+      "comment": "to [train_1]{train} a [horse_1]{horse} so that someone can [ride_1]{ride} it, [especially]{especially} in [competition]{competitions}",
+      "entry": "school",
+      "id": "school_2#school_2__5"
+    },
+    {
+      "comment": "the [position_1]{position} in which someone [sit]{sits} on a [horse_1]{horse}",
+      "entry": "seat",
+      "id": "seat_1#seat_1__22"
+    },
+    {
+      "comment": "to put a horseshoe on a horse\u2019s foot",
+      "entry": "shoe",
+      "id": "shoe_2#shoe_2__1"
+    },
+    {
+      "comment": "[sitting]{sitting} on a [horse_1]{horse} with both your [legs]{legs} on the same side of the [horse_1]{horse}",
+      "entry": "sidesaddle",
+      "id": "sidesaddle#sidesaddle__1"
+    },
+    {
+      "comment": "[used]{used} about [horse_1]{horses} that are [nervous]{nervous} and may do something [suddenly]{suddenly}",
+      "entry": "skittish",
+      "id": "skittish#skittish__4"
+    },
+    {
+      "comment": "a [fall_1]{fall} from a [horse_1]{horse}, [bicycle]{bicycle}, etc.",
+      "entry": "spill",
+      "id": "spill_2#spill_2__3"
+    },
+    {
+      "comment": "to use [spur_1]{spurs} to [make_1]{make} a [horse_1]{horse} go [fast_1]{faster}",
+      "entry": "spur",
+      "id": "spur_2#spur_2__8"
+    },
+    {
+      "comment": "to keep [horse_1]{horses} in a [particular_1]{particular} [set_1]{set} of [stable_2]{stables}",
+      "entry": "stable",
+      "id": "stable_3#stable_3__1"
+    },
+    {
+      "comment": "to take [care_1]{care} of a [horse_1]{horse} after it has been [ridden_1]{ridden} and to put it in a [stable_1]{stable}",
+      "entry": "stable",
+      "id": "stable_3#stable_3__2"
+    },
+    {
+      "comment": "a [boy_1]{boy} or man whose [job_1]{job} is to take [care_1]{care} of [horse_1]{horses} in a [stable_1]{stable}",
+      "entry": "stable boy",
+      "id": "stable-boy#stable-boy__1"
+    },
+    {
+      "comment": "a girl or woman whose job is to take care of horses in a stable",
+      "entry": "stable girl",
+      "id": "stable-girl#stable-girl__1"
+    },
+    {
+      "comment": "if a [horse_1]{horse} [throw_1]{throws} you, you [fall_1]{fall} off when it [make_1]{makes} a [sudden_1]{sudden} [violent]{violent} [movement]{movement}",
+      "entry": "throw",
+      "id": "throw_1#throw_1__9"
+    },
+    {
+      "comment": "to [ride_1]{ride} on a [horse_1]{horse} that is [trot_1]{trotting}",
+      "entry": "trot",
+      "id": "trot_1#trot_1__3"
+    },
+    {
+      "comment": "the [speed_1]{speed} of a [horse_1]{horse} or other [animal_1]{animal} when it [move_1]{moves} more [quickly]{quickly} than when [walking_1]{walking} but [does]{does} not [run_1]{run}",
+      "entry": "trot",
+      "id": "trot_2#trot_2__1"
+    },
+    {
+      "comment": "a [ride_1]{ride} on a [horse_1]{horse} that is [trot_1]{trotting}",
+      "entry": "trot",
+      "id": "trot_2#trot_2__3"
+    },
+    {
+      "comment": "if a [horse_1]{horse} [unseat]{unseats} its [rider]{rider}, it [throw_1]{throws} them off its back",
+      "entry": "unseat",
+      "id": "unseat#unseat__2"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} a [horse_1]{horse} to [walk_1]{walk} more [slowly]{slowly} or to [stop_1]{stop}",
+      "entry": "whoa",
+      "id": "whoa#whoa__1"
+    }
+  ],
+  "thesaurus": "Horse riding",
+  "type": "Related words"
+}

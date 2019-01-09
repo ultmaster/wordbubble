@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "be meant for",
+  "senses": [
+    {
+      "def": "to be [intended_1]{intended} or [design_2]{designed} for someone or something",
+      "examples": [
+        "The [big_1]{bigger} [office]{offices} on the [ground_1]{ground} [floor_1]{floor} are [meant]{meant} for top [management]{management} only.",
+        "These [book_1]{books} are not [meant]{meant} for [grade_1]{grade} [school_1]{school} [student]{students}."
+      ],
+      "id": "be-meant-for__1"
+    },
+    {
+      "def": "to be [appropriate_1]{appropriate} for something",
+      "examples": [
+        "I don\u2019t [think_1]{think} she\u2019s [meant]{meant} to be a [teacher]{teacher}."
+      ],
+      "id": "be-meant-for__4"
+    },
+    {
+      "def": "if two [people_1]{people} are [meant]{meant} for each other, they are [suitable]{suitable} for each other as [romantic_1]{romantic} [partner_1]{partners}",
+      "examples": [],
+      "id": "be-meant-for__6"
+    }
+  ]
+}

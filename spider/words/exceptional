@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[extremely]{extremely} [good_1]{good} or [impressive]{impressive} in a way that is [unusual]{unusual}",
+      "examples": [
+        "The [children]{children} had [shown]{shown} exceptional [courage]{courage}.",
+        "Her [score_1]{scores} were exceptional."
+      ],
+      "id": "exceptional__1"
+    },
+    {
+      "def": "[unusual]{unusual} and not [likely_1]{likely} to [happen]{happen} or [exist]{exist} very often",
+      "examples": [
+        "We have to [accept]{accept} that this is an exceptional [situation]{situation}.",
+        "[financial]{Financial} [assistance]{assistance} may be made [available]{available} in exceptional [circumstance]{circumstances}."
+      ],
+      "id": "exceptional__4"
+    },
+    {
+      "def": "much more or [great_1]{greater} than [usual]{usual}",
+      "examples": [
+        "These [ancient]{ancient} [work_1]{works} of art must be [handle_1]{handled} with exceptional [care_1]{care}."
+      ],
+      "id": "exceptional__7"
+    }
+  ],
+  "word": "exceptional"
+}

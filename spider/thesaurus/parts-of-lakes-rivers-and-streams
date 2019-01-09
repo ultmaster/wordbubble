@@ -1,0 +1,171 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area} of [water_1]{water} that is [connected]{connected} to a [river]{river} but is not [affected]{affected} by its [current_1]{current}",
+      "entry": "backwater",
+      "id": "backwater#backwater__3"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [water_1]{water} that [flow_1]{flows} very [slowly]{slowly} and has a [lot_1]{lot} of [water_1]{water} [plant_1]{plants} and [animal_1]{animals} [living_1]{living} in it",
+      "entry": "bayou",
+      "id": "bayou#bayou__1"
+    },
+    {
+      "comment": "the [ground_1]{ground} at the bottom of an [ocean]{ocean} or [river]{river}",
+      "entry": "bed",
+      "id": "bed_1#bed_1__11"
+    },
+    {
+      "comment": "an [area]{area} in a [river]{river}, [lake]{lake}, or [ocean]{ocean} where there are a [lot_1]{lot} of [plant_1]{plants} or [animal_1]{animals} of a [particular_1]{particular} [kind_1]{kind}",
+      "entry": "bed",
+      "id": "bed_1#bed_1__13"
+    },
+    {
+      "comment": "a long [curved]{curved} part of the [coast_1]{coast} or a [large_1]{large} [river]{river}",
+      "entry": "bight",
+      "id": "bight#bight__1"
+    },
+    {
+      "comment": "the [deep_1]{deepest} part of the [ocean]{ocean} or of a [pool_1]{pool}, [lake]{lake}, or [river]{river}",
+      "entry": "bottom",
+      "id": "bottom_1#bottom_1__9"
+    },
+    {
+      "comment": "a part of a [river]{river} that [lead_1]{leads} [away_1]{away} from the [main_1]{main} part",
+      "entry": "branch",
+      "id": "branch_1#branch_1__17"
+    },
+    {
+      "comment": "a [small_1]{small} [waterfall]{waterfall}",
+      "entry": "cascade",
+      "id": "cascade_1#cascade_1__1"
+    },
+    {
+      "comment": "a large waterfall",
+      "entry": "cataract",
+      "id": "cataract#cataract__2"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [area]{area} of [deep_1]{deeper} [water_1]{water} in a [river]{river}, [port]{port}, etc. that [ship_1]{ships} can use",
+      "entry": "channel",
+      "id": "channel_1#channel_1__14"
+    },
+    {
+      "comment": "a [place_1]{place} where two [river]{rivers} [join_1]{join}",
+      "entry": "confluence",
+      "id": "confluence#confluence__1"
+    },
+    {
+      "comment": "a [current_1]{current} that [flow_1]{flows} across the [main_1]{main} [current_1]{current} in a [river]{river} or [ocean]{ocean}",
+      "entry": "crosscurrent",
+      "id": "crosscurrent#crosscurrent__1"
+    },
+    {
+      "comment": "the part of a [large_1]{large} [river]{river} where it becomes [wide_1]{wide} and [flow_1]{flows} into the [ocean]{ocean}",
+      "entry": "estuary",
+      "id": "estuary#estuary__1"
+    },
+    {
+      "comment": "a [waterfall]{waterfall}",
+      "entry": "falls",
+      "id": "fall_2#fall_2__18"
+    },
+    {
+      "comment": "in Scotland, the mouth of a river, where it meets the ocean",
+      "entry": "firth",
+      "id": "firth#firth__1"
+    },
+    {
+      "comment": "a [gate_1]{gate} that [control_1]{controls} a [flow_1]{flow} of [water_1]{water} in a [river]{river} or [lake]{lake}",
+      "entry": "floodgate",
+      "id": "floodgate#floodgate__1"
+    },
+    {
+      "comment": "a [place_1]{place} in a [stream_1]{stream} or [river]{river} where the [water_1]{water} is not [deep_1]{deep} and you can [walk_1]{walk} or [drive_1]{drive} across",
+      "entry": "ford",
+      "id": "ford_2#ford_2__1"
+    },
+    {
+      "comment": "one of the [part_1]{parts} that a [road]{road}, [path]{path}, or [river]{river} [divide_1]{divides} into",
+      "entry": "fork",
+      "id": "fork_1#fork_1__6"
+    },
+    {
+      "comment": "the [beginning]{beginning} of a [river]{river}, where the [water_1]{water} comes from",
+      "entry": "head",
+      "id": "head_1#head_1__21"
+    },
+    {
+      "comment": "the [place_1]{place} where a [stream_1]{stream} [start_1]{starts} before it [flow_1]{flows} into a [river]{river}",
+      "entry": "headwaters",
+      "id": "headwaters#headwaters__1"
+    },
+    {
+      "comment": "a place on a river or canal with a set of gates which open and close to allow boats in. The water can then be moved to a lower or higher level.",
+      "entry": "lock",
+      "id": "lock_2#lock_2__9"
+    },
+    {
+      "comment": "the middle part of a river, where the current is usually the strongest",
+      "entry": "midstream",
+      "id": "midstream#midstream__1"
+    },
+    {
+      "comment": "the [place_1]{place} where a [river]{river} is [wide_1]{widest} and [join_1]{joins} the [ocean]{ocean}",
+      "entry": "mouth",
+      "id": "mouth_1#mouth_1__11"
+    },
+    {
+      "comment": "a part of a [river]{river} or [lake]{lake} where there is no [ice_1]{ice}, or the time when the [ice_1]{ice} on a [river]{river}, etc. becomes [water_1]{water}",
+      "entry": "open water",
+      "id": "open-water#open-water__2"
+    },
+    {
+      "comment": "a part of a [river]{river} where the [water_1]{water} [move_1]{moves} [extremely]{extremely} [quickly]{quickly} over [rock_1]{rocks} and is [usually]{usually} [dangerous]{dangerous}",
+      "entry": "rapids",
+      "id": "rapids#rapids__1"
+    },
+    {
+      "comment": "the [ground_1]{ground} at the bottom of a [river]{river}",
+      "entry": "riverbed",
+      "id": "riverbed#riverbed__1"
+    },
+    {
+      "comment": "a part of a [river]{river}, [ocean]{ocean}, or other [area]{area} of [water_1]{water} where the [water_1]{water} is not very [deep_1]{deep}",
+      "entry": "shallows",
+      "id": "shallows#shallows__1"
+    },
+    {
+      "comment": "the [beginning]{beginning} of a [river]{river} or [stream_1]{stream}",
+      "entry": "source",
+      "id": "source_1#source_1__10"
+    },
+    {
+      "comment": "a particular part of a river that is near to/far from where it begins",
+      "entry": "the upper/lower reaches of something",
+      "id": "the-upper-lower-reaches-of-something#the-upper-lower-reaches-of-something__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [water_1]{water} [flow_1]{flows} over the [edge_1]{edge} of a [cliff]{cliff}, [rock_1]{rock}, or other [steep_1]{steep} [place_1]{place} onto another [level_1]{level} below",
+      "entry": "waterfall",
+      "id": "waterfall#waterfall__1"
+    },
+    {
+      "comment": "a [place_1]{place} in a [river]{river} or [stream_1]{stream} where a [wall_1]{wall} has been [built_1]{built} across it to [control_1]{control} the [flow_1]{flow} of [water_1]{water}",
+      "entry": "weir",
+      "id": "weir#weir__1"
+    },
+    {
+      "comment": "a [strong]{strong} [movement]{movement} in a [river]{river} or [stream_1]{stream} that [make_1]{makes} the [water_1]{water} move around and [pull_1]{pulls} [thing]{things} under",
+      "entry": "whirlpool",
+      "id": "whirlpool#whirlpool__1"
+    },
+    {
+      "comment": "a part of a [river]{river} where the [water_1]{water} [flow_1]{flows} so [fast_1]{fast} that it [look_1]{looks} [white_1]{white}",
+      "entry": "white water",
+      "id": "white-water#white-water__1"
+    }
+  ],
+  "thesaurus": "Parts of lakes, rivers and streams",
+  "type": "Related words"
+}

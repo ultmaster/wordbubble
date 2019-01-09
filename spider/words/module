@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "one of several [part_1]{parts} made [separate_1#separate_1__13]{separately} then [join_1]{joined} together to [make_1]{make} a [building]{building} or other [structure_1]{structure}",
+      "examples": [],
+      "id": "module__1"
+    },
+    {
+      "def": "a [section_1]{section} of a computer [program_1]{program}",
+      "examples": [],
+      "id": "module__4"
+    },
+    {
+      "def": "one of the [separate_1]{separate} [unit]{units} of a [course_1]{course} of [study_1]{study}",
+      "examples": [
+        "a teacher-training module"
+      ],
+      "id": "module__5"
+    }
+  ],
+  "word": "module"
+}

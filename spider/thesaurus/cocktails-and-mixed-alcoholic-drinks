@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "an alcoholic drink made by mixing vodka and tomato juice",
+      "entry": "Bloody Mary",
+      "id": "bloody-mary#bloody-mary__1"
+    },
+    {
+      "comment": "an alcoholic drink made by mixing rum, lime juice, and sugar",
+      "entry": "daiquiri",
+      "id": "daiquiri#daiquiri__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} made from [egg_1]{eggs} [mixed]{mixed} with [milk_1]{milk}, [sugar_1]{sugar}, and [alcohol]{alcohol}",
+      "entry": "eggnog",
+      "id": "eggnog#eggnog__1"
+    },
+    {
+      "comment": "an alcoholic drink made with gin or vodka and lime juice",
+      "entry": "gimlet",
+      "id": "gimlet#gimlet__2"
+    },
+    {
+      "comment": "a strong hot alcoholic drink made from red wine, brandy, fruit, and nuts, drunk in winter",
+      "entry": "glogg",
+      "id": "glogg#glogg__1"
+    },
+    {
+      "comment": "an alcoholic drink made with rum, water, sugar, and lemon juice, often served hot",
+      "entry": "grog",
+      "id": "grog#grog__1"
+    },
+    {
+      "comment": "an alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass",
+      "entry": "highball",
+      "id": "highball#highball__1"
+    },
+    {
+      "comment": "an alcoholic drink made of whiskey with hot water and sugar",
+      "entry": "hot toddy",
+      "id": "hot-toddy#hot-toddy__1"
+    },
+    {
+      "comment": "[piece_1]{pieces} of [ice_1]{ice} [used]{used} for [making]{making} [drink_1]{drinks} [cold_1]{cold}",
+      "entry": "ice",
+      "id": "ice_1#ice_1__5"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [ice_1]{ice} that you put in a [drink_1]{drink} to [make_1]{make} it [cold_1]{cold}",
+      "entry": "ice cube",
+      "id": "ice-cube#ice-cube__1"
+    },
+    {
+      "comment": "a hot drink made with coffee, Irish whiskey, and cream",
+      "entry": "Irish coffee",
+      "id": "irish-coffee#irish-coffee__1"
+    },
+    {
+      "comment": "an alcoholic drink made from tequila and fruit juice, or a glass of this drink. A margarita is a cocktail.",
+      "entry": "margarita",
+      "id": "margarita#margarita__1"
+    },
+    {
+      "comment": "a strong alcoholic drink made with gin and vermouth",
+      "entry": "martini",
+      "id": "martini#martini__1"
+    },
+    {
+      "comment": "a [glass]{glass} of this [drink_1]{drink}",
+      "entry": "martini",
+      "id": "martini#martini__2"
+    },
+    {
+      "comment": "an alcoholic drink made by mixing champagne and orange juice. The British word is Buck\u2019s Fizz.",
+      "entry": "mimosa",
+      "id": "mimosa#mimosa__2"
+    },
+    {
+      "comment": "an alcoholic drink made from whiskey, sugar, ice, and mint leaves",
+      "entry": "mint julep",
+      "id": "mint-julep#mint-julep__1"
+    },
+    {
+      "comment": "an alcoholic drink made from rum or vodka and lime juice, or a glass of this drink. A mojito is a cocktail..",
+      "entry": "mojito",
+      "id": "mojito#mojito__1"
+    },
+    {
+      "comment": "an alcoholic drink made with whiskey and limes and decorated with fruit",
+      "entry": "old-fashioned",
+      "id": "old-fashioned_2#old-fashioned_2__1"
+    },
+    {
+      "comment": "an alcoholic drink made by mixing rum with pineapple juice and coconut",
+      "entry": "pina colada",
+      "id": "pina-colada#pina-colada__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [alcoholic_1]{alcoholic} [drink_1]{drink} from Spain that is made with red [wine_1]{wine}, [fruit_1]{fruit}, and [fruit_1]{fruit} [juice_1]{juice}",
+      "entry": "sangria",
+      "id": "sangria#sangria__1"
+    },
+    {
+      "comment": "an alcoholic drink made from vodka and orange juice",
+      "entry": "screwdriver",
+      "id": "screwdriver#screwdriver__2"
+    },
+    {
+      "comment": "a drink made from white wine and sparkling water  (=water with gas in it)",
+      "entry": "spritzer",
+      "id": "spritzer#spritzer__1"
+    },
+    {
+      "comment": "a small plastic stick used for mixing drinks, especially cocktails",
+      "entry": "swizzle stick",
+      "id": "swizzle-stick#swizzle-stick__1"
+    },
+    {
+      "comment": "a [hot]{hot} [toddy]{toddy}",
+      "entry": "toddy",
+      "id": "toddy#toddy__1"
+    },
+    {
+      "comment": "an alcoholic drink made by mixing wine, fruit juice, and carbonated water",
+      "entry": "wine cooler",
+      "id": "wine-cooler#wine-cooler__1"
+    }
+  ],
+  "thesaurus": "Cocktails and mixed alcoholic drinks",
+  "type": "Related words"
+}

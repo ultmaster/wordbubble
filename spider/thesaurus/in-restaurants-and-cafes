@@ -1,0 +1,176 @@
+{
+  "entries": [
+    {
+      "comment": "an \u00e0 la carte menu has foods that have separate prices instead of combined into a meal that costs a fixed price",
+      "entry": "\u00e0 la carte",
+      "id": "a-la-carte#a-la-carte__1"
+    },
+    {
+      "comment": "a restaurant that serves all-you-can-eat food will continue serving you as much of that food as you want for a fixed price  (=price that will not increase or decrease)",
+      "entry": "all-you-can-eat",
+      "id": "all-you-can-eat#all-you-can-eat__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that [show_1]{shows} how much [money]{money} you owe after [eat]{eating} in a [restaurant]{restaurant}",
+      "entry": "bill",
+      "id": "bill_1#bill_1__7"
+    },
+    {
+      "comment": "a [menu]{menu} in a [restaurant]{restaurant}",
+      "entry": "bill of fare",
+      "id": "bill-of-fare#bill-of-fare__1"
+    },
+    {
+      "comment": "a [table_1]{table} in a [restaurant]{restaurant} [enclosed]{enclosed} by two long [seat_1]{seats} with [high_1]{high} [back_3]{backs}",
+      "entry": "booth",
+      "id": "booth#booth__4"
+    },
+    {
+      "comment": "to [bring]{bring} your own [alcoholic_1]{alcoholic} [drink_1]{drinks} with you to a [restaurant]{restaurant} that [does]{does} not [serve_1]{serve} [alcohol]{alcohol}",
+      "entry": "brown-bag",
+      "id": "brown-bag#brown-bag__3"
+    },
+    {
+      "comment": "to [remove]{remove} [dirty_1]{dirty} [dish_1]{dishes} from the [table_1]{tables} in a [restaurant]{restaurant}",
+      "entry": "bus",
+      "id": "bus_2#bus_2__4"
+    },
+    {
+      "comment": "[bring]{bring} your own: [used]{used} by [restaurant]{restaurants} to show that they do not [sell_1]{sell} [alcohol]{alcohol} but that [people_1]{people} can [bring]{bring} their own",
+      "entry": "BYO",
+      "id": "byo#byo__1"
+    },
+    {
+      "comment": "[money]{money} that some [restaurant]{restaurants} [charge_1]{charge} you if you [bring]{bring} your own [cake]{cake}",
+      "entry": "cakeage",
+      "id": "cakeage#cakeage__1"
+    },
+    {
+      "comment": "a [collection]{collection} of [wine_1]{wines} in a [restaurant]{restaurant} or someone\u2019s [home_1]{home}",
+      "entry": "cellar",
+      "id": "cellar#cellar__2"
+    },
+    {
+      "comment": "a piece of paper that you are given in a restaurant showing you how much money you owe. Another word for this is bill, which is the usual British word",
+      "entry": "check",
+      "id": "check_2#check_2__18"
+    },
+    {
+      "comment": "[money]{money} that some [restaurant]{restaurants} [charge_1]{charge} you if you [bring]{bring} your own [wine_1]{wine}",
+      "entry": "corkage",
+      "id": "corkage#corkage__1"
+    },
+    {
+      "comment": "a [cover_1]{cover} [charge_1]{charge}",
+      "entry": "cover",
+      "id": "cover_2#cover_2__21"
+    },
+    {
+      "comment": "a [place_1]{place} for one [person]{person} at a [table_1]{table} in a [restaurant]{restaurant}",
+      "entry": "cover",
+      "id": "cover_2#cover_2__22"
+    },
+    {
+      "comment": "[money]{money} [added]{added} to the bill in a [restaurant]{restaurant} in [addition]{addition} to the [cost_1]{cost} of the [food]{food} and [service_1]{service}",
+      "entry": "cover charge",
+      "id": "cover-charge#cover-charge__1"
+    },
+    {
+      "comment": "someone who is [eat]{eating} a [meal]{meal} at a [restaurant]{restaurant}",
+      "entry": "diner",
+      "id": "diner#diner__2"
+    },
+    {
+      "comment": "a [bag_1]{bag} or [box_1]{box} that you take [home_1]{home} from a [restaurant]{restaurant}, [contain]{containing} the [food]{food} that you [did]{did} not [finish_1]{finish} [eat]{eating}",
+      "entry": "doggy bag",
+      "id": "doggy-bag#doggy-bag__1"
+    },
+    {
+      "comment": "[offer_1]{offered} or [serve_1]{served} [today_1]{today}. This [word_1]{word} is [used]{used} [especially]{especially} on [menu]{menus}.",
+      "entry": "du jour",
+      "id": "du-jour#du-jour__1"
+    },
+    {
+      "comment": "a piece of equipment like a small elevator used for moving food and dishes up and down between the floors of a restaurant",
+      "entry": "dumbwaiter",
+      "id": "dumbwaiter#dumbwaiter__1"
+    },
+    {
+      "comment": "a [list_1]{list} of the [food]{food} that is [available]{available} in a [restaurant]{restaurant}, [cafe]{caf\u00e9}, etc.",
+      "entry": "menu",
+      "id": "menu#menu__1"
+    },
+    {
+      "comment": "[serve_1]{served} on a [particular_1]{particular} [day]{day} in a [restaurant]{restaurant}",
+      "entry": "of the day",
+      "id": "of-the-day#of-the-day__3"
+    },
+    {
+      "comment": "[food]{food}, [drink_1]{drink}, or a [product]{product} that a [customer]{customer} has [ask_1]{asked} for",
+      "entry": "order",
+      "id": "order_1#order_1__15"
+    },
+    {
+      "comment": "to [ask_1]{ask} for [food]{food} or [drink_1]{drink} in a [restaurant]{restaurant} or [hotel]{hotel}",
+      "entry": "order",
+      "id": "order_2#order_2__1"
+    },
+    {
+      "comment": "a [service_1]{service} [charge_1]{charge} in a [restaurant]{restaurant}",
+      "entry": "service",
+      "id": "service_1#service_1__23"
+    },
+    {
+      "comment": "an amount of money added to your check in a restaurant to help to pay the waiter",
+      "entry": "service charge",
+      "id": "service-charge#service-charge__3"
+    },
+    {
+      "comment": "a formal way of serving food, usually in a restaurant. The waiter serves food from dishes onto people\u2019s plates.",
+      "entry": "silver service",
+      "id": "silver-service#silver-service__1"
+    },
+    {
+      "comment": "a bill for the [cost_1]{cost} of a [meal]{meal} or for [drink_1]{drinks} that you have [bought]{bought}",
+      "entry": "tab",
+      "id": "tab_1#tab_1__6"
+    },
+    {
+      "comment": "a [table_1]{table} in a [restaurant]{restaurant}",
+      "entry": "table",
+      "id": "table_1#table_1__4"
+    },
+    {
+      "comment": "a menu in a restaurant that offers a fixed price for meals. A menu on which each dish has a separate price is an \u00e0 la carte menu.",
+      "entry": "table d\u2019h\u00f4te",
+      "id": "table-d-hote#table-d-hote__1"
+    },
+    {
+      "comment": "if you [order_1]{order} [food]{food} to go from a [restaurant]{restaurant}, you take it and [eat]{eat} it somewhere else",
+      "entry": "to go",
+      "id": "to-go_1#to-go_1__5"
+    },
+    {
+      "comment": "an [unlicensed]{unlicensed} [restaurant]{restaurant} is not [allow]{allowed} to [sell_1]{sell} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "unlicensed",
+      "id": "unlicensed#unlicensed__3"
+    },
+    {
+      "comment": "to [serve_1]{serve} [people_1]{people} in a [store_1]{store} or [restaurant]{restaurant}",
+      "entry": "wait on someone hand and foot",
+      "id": "wait-on#wait-on__1"
+    },
+    {
+      "comment": "to [serve_1]{serve} [food]{food} to [people_1]{people} in a [restaurant]{restaurant} or [cafe]{caf\u00e9}",
+      "entry": "wait tables",
+      "id": "wait-tables#wait-tables__1"
+    },
+    {
+      "comment": "a [list_1]{list} of the [wine_1]{wines} [available]{available} in a [restaurant]{restaurant}",
+      "entry": "wine list",
+      "id": "wine-list#wine-list__1"
+    }
+  ],
+  "thesaurus": "In restaurants and cafes",
+  "type": "Related words"
+}

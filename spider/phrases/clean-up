@@ -1,0 +1,45 @@
+{
+  "part": "phrase",
+  "phrase": "clean up",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a [place_1]{place} [completely]{completely} [clean_1]{clean} and [neat]{neat}",
+      "examples": [
+        "We [really]{really} [ought]{ought} to [make_1]{make} a [start_1]{start} on [get]{getting} this [place_1]{place} [clean_2]{cleaned} up.",
+        "I\u2019m [going_1]{going} to [clean_1]{clean} up in here this [afternoon_1]{afternoon}.",
+        "[joe_2]{Joe} can [clean_1]{clean} up the [mess_1]{mess}."
+      ],
+      "id": "clean-up__1"
+    },
+    {
+      "def": "to [wash_1]{wash} someone who is [dirty_1]{dirty}",
+      "examples": [
+        "Come into the [bathroom]{bathroom} and I\u2019ll get you [clean_2]{cleaned} up.",
+        "I [clean_2]{cleaned} [myself]{myself} up and [got_1]{got} ready for [dinner]{dinner}."
+      ],
+      "id": "clean-up__6"
+    },
+    {
+      "def": "to [make_1]{make} a [lot_1]{lot} of [money]{money}",
+      "examples": [
+        "He [really]{really} [clean_2]{cleaned} up on the [stock_1]{stock} [market_1]{market}."
+      ],
+      "id": "clean-up__9"
+    },
+    {
+      "def": "to [stop_1]{stop} [bad_1]{bad}, [unfair]{unfair}, or [criminal_1]{criminal} [behavior]{behavior} in a [place_1]{place} or [activity]{activity}",
+      "examples": [
+        "Is there the [political]{political} will to [clean_1]{clean} up the [banking]{banking} system?",
+        "a [campaign_1]{campaign} to [clean_1]{clean} up the [city]{city}\u2019s [street_1]{streets}"
+      ],
+      "id": "clean-up__11"
+    },
+    {
+      "def": "to [remove]{remove} [pollution]{pollution} from a [place_1]{place} or an [industrial]{industrial} [process_1]{process}",
+      "examples": [
+        "We [need_1]{need} a [systematic]{systematic} [plan_1]{plan} for [identify]{identifying} and [cleaning]{cleaning} up [waste_1]{waste} [site_1]{sites}."
+      ],
+      "id": "clean-up__14"
+    }
+  ]
+}

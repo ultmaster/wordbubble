@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to a [president_1]{president}",
+      "examples": [
+        "a presidential [election]{election}/[campaign_1]{campaign}/[candidate]{candidate}",
+        "presidential [candidate]{candidates}",
+        "A [large_1]{large} [crowd_1]{crowd} [converge]{converged} on the presidential [palace]{palace}."
+      ],
+      "id": "presidential__1"
+    },
+    {
+      "def": "[like_1]{like} a [president_1]{president}, [especially]{especially} in seeming very [confident]{confident} and [experienced]{experienced}",
+      "examples": [
+        "[gore_1]{Gore} [tried_1]{tried} to [look_1]{look} presidential, [host_2]{hosting} the German [chancellor]{chancellor} on Capitol [hill]{Hill}."
+      ],
+      "id": "presidential__5"
+    }
+  ],
+  "word": "presidential"
+}

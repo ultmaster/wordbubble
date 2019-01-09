@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "to move at a [particular_1]{particular} [speed_1]{speed}",
+      "entry": "travel",
+      "id": "travel_1#travel_1__19"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [distance_1]{distance} by which you are [ahead]{ahead} of someone or something",
+      "entry": "leave behind",
+      "id": "leave-behind#leave-behind__1"
+    },
+    {
+      "comment": "to move at the same [speed_1]{speed} as someone or something else",
+      "entry": "keep pace (with)",
+      "id": "keep-pace-with#keep-pace-with__1"
+    },
+    {
+      "comment": "to move at the same [speed_1]{speed} as someone or something",
+      "entry": "keep up",
+      "id": "keep-up#keep-up__8"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} what [speed_1]{speed} someone or something [achieve]{achieves}",
+      "entry": "do",
+      "id": "do_1#do_1__78"
+    }
+  ],
+  "thesaurus": "To move at a particular speed",
+  "type": "Synonyms"
+}

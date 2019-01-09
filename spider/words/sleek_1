@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "sleek fur or [hair]{hair} is [smooth_1]{smooth} and [shiny]{shiny}",
+      "examples": [
+        "a [young_1]{young} man with sleek [dark_1]{dark} [hair]{hair}",
+        "a sleek [black_1]{black} [cat]{cat}"
+      ],
+      "id": "sleek_1__1"
+    },
+    {
+      "def": "[fashionable]{fashionable} and [attractive]{attractive} in [design_1]{design}",
+      "examples": [
+        "a sleek [limousine]{limousine}",
+        "a sleek [gray_1]{gray} [pant]{pant} [suit_1]{suit}"
+      ],
+      "id": "sleek_1__4"
+    },
+    {
+      "def": "[look_1]{looking} or [sounding]{sounding} [good_1]{good} in a way that is not sincere",
+      "examples": [
+        "a sleek and [ambitious]{ambitious} [young_1]{young} [politician]{politician}",
+        "a sleek [smile_1]{smile}"
+      ],
+      "id": "sleek_1__7"
+    }
+  ],
+  "word": "sleek"
+}

@@ -1,0 +1,24 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [important]{important} [test_1]{test} of your [knowledge]{knowledge}, [especially]{especially} one that you take at [school_1]{school}",
+      "examples": [
+        "Dave\u2019s [take_1]{taking} his [final_1]{final} [exam]{exams} next [week]{week}.",
+        "If she [pass_1]{passes} the [entrance_1]{entrance} exam, she\u2019ll [start_1]{start} [school_1]{school} there in September.",
+        "How [did]{did} you do on the exam?",
+        "I\u2019m [going_1]{going} to [return_1]{return} your [exam]{exams} [tomorrow_1]{tomorrow}.",
+        "The [school_1]{school} had some [excellent]{excellent} exam [result_1]{results} last [year]{year}."
+      ],
+      "id": "exam__1"
+    },
+    {
+      "def": "a [medical_1]{medical} [examination#examination__1]{examination}",
+      "examples": [
+        "an [eye_1]{eye} exam"
+      ],
+      "id": "exam__9"
+    }
+  ],
+  "word": "exam"
+}

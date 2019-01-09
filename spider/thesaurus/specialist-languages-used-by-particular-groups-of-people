@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "[word_1]{words} that are [used]{used} by a [particular_1]{particular} [group_1]{group} of [people_1]{people}",
+      "entry": "argot",
+      "id": "argot#argot__1"
+    },
+    {
+      "comment": "[used]{used} with [noun_1]{nouns} and [adjective]{adjectives} to [make_1]{make} [noun_1]{nouns} that [refer]{refer} to a [style_1]{style} of [language]{language} that is [typical]{typical} of a [particular_1]{particular} [group_1]{group} of [people_1]{people}",
+      "entry": "-ese",
+      "id": "ese#ese__1"
+    },
+    {
+      "comment": "very [complicated]{complicated} or [technical]{technical} [language]{language} that you cannot [understand]{understand}",
+      "entry": "gobbledegook",
+      "id": "gobbledegook#gobbledegook__1"
+    },
+    {
+      "comment": "a [style_1]{style} of [writing]{writing} that is [used]{used} [mainly]{mainly} by [reporter]{reporters}",
+      "entry": "journalese",
+      "id": "journalese#journalese__1"
+    },
+    {
+      "comment": "a form of written English used for example in chatrooms in which letters are replaced by numbers or other symbols",
+      "entry": "leet",
+      "id": "leet#leet__1"
+    },
+    {
+      "comment": "[formal_1]{formal} [language]{language} [used]{used} by [lawyer]{lawyers} and in [legal]{legal} [document_1]{documents} that [ordinary]{ordinary} [people_1]{people} find [difficult]{difficult} to [understand]{understand}",
+      "entry": "legalese",
+      "id": "legalese#legalese__1"
+    },
+    {
+      "comment": "the [word_1]{words} that are [mainly]{mainly} [used]{used} by [people_1]{people} who do a [particular_1]{particular} [activity]{activity} or [job_1]{job}",
+      "entry": "lingo",
+      "id": "lingo#lingo__3"
+    },
+    {
+      "comment": "the [special_1]{special} [language]{language}, [abbreviation]{abbreviations}, and [expression]{expressions} [used]{used} by [people_1]{people} when [communicate]{communicating} [use_1]{using} the [internet]{Internet}",
+      "entry": "netspeak",
+      "id": "netspeak#netspeak__1"
+    },
+    {
+      "comment": "the way of [speak_1]{speaking} and [writing]{writing} [used]{used} by [people_1]{people} who [work_1]{work} in [government]{government} [office]{offices}, [especially]{especially} when [ordinary]{ordinary} [people_1]{people} cannot [understand]{understand} it",
+      "entry": "officialese",
+      "id": "officialese#officialese__1"
+    },
+    {
+      "comment": "the [word_1]{words} and [phrase_1]{phrases} [used]{used} in a [particular_1]{particular} [profession]{profession} or [activity]{activity}",
+      "entry": "phraseology",
+      "id": "phraseology#phraseology__1"
+    },
+    {
+      "comment": "the [word_1]{words} and [phrase_1]{phrases} [used]{used} in a [particular_1]{particular} [business]{business}, [science]{science}, or [profession]{profession}",
+      "entry": "terminology",
+      "id": "terminology#terminology__1"
+    },
+    {
+      "comment": "the [word_1]{words} [used]{used} for [talk_1]{talking} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "vocabulary",
+      "id": "vocabulary#vocabulary__8"
+    }
+  ],
+  "thesaurus": "Specialist languages used by particular groups of people",
+  "type": "Related words"
+}

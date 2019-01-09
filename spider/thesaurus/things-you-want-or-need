@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[thing]{things} that you [want_1]{want} or [need_1]{need}",
+      "entry": "wants",
+      "id": "want_2#want_2__6"
+    },
+    {
+      "comment": "the thing that you [want_1]{want} to have or do",
+      "entry": "wish",
+      "id": "wish_2#wish_2__6"
+    },
+    {
+      "comment": "[exactly]{exactly} what is [need_1]{needed} or [wanted]{wanted}",
+      "entry": "the goods",
+      "id": "the-goods#the-goods__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone\u2019s [need_1]{needs} or [request_1]{requests} are [reasonable]{reasonable}",
+      "entry": "all someone wants",
+      "id": "all-someone-wants#all-someone-wants__1"
+    },
+    {
+      "comment": "the thing that someone [really]{really} [want_1]{wants}",
+      "entry": "someone\u2019s heart\u2019s desire",
+      "id": "someone-s-heart-s-desire#someone-s-heart-s-desire__1"
+    },
+    {
+      "comment": "all the [thing]{things} that you would [like_1]{like} to be [given_1]{given} or would [like_1]{like} to [happen]{happen}",
+      "entry": "wish list",
+      "id": "wish-list#wish-list__1"
+    },
+    {
+      "comment": "something that someone [want_1]{wants} very much to have or to [achieve]{achieve}",
+      "entry": "the Holy Grail",
+      "id": "the-holy-grail#the-holy-grail__2"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that [people_1]{people} [need_1]{need} more than [food]{food}, [money]{money}, and [possession]{possessions} in [order_1]{order} to have a [good_1]{good} [life]{life}",
+      "entry": "man cannot live by bread alone",
+      "id": "man-cannot-live-by-bread-alone#man-cannot-live-by-bread-alone__1"
+    }
+  ],
+  "thesaurus": "Things you want or need",
+  "type": "Synonyms"
+}

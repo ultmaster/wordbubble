@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "Doctor of Dental Surgery: used after someone\u2019s name to show that they are a dentist",
+      "entry": "D.D.S.",
+      "id": "d-d-s#d-d-s__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [clean_1]{clean} [people_1]{people}\u2019s [teeth]{teeth} and give them [advice]{advice} on how to [care_1]{care} for their [teeth]{teeth}",
+      "entry": "dental hygienist",
+      "id": "dental-hygienist#dental-hygienist__1"
+    },
+    {
+      "comment": "a [dentist]{dentist}",
+      "entry": "dental surgeon",
+      "id": "dental-surgeon#dental-surgeon__1"
+    },
+    {
+      "comment": "someone whose job is to examine and treat people\u2019s teeth. You can refer to the place where a dentist works as the dentist or the dentist\u2019s",
+      "entry": "dentist",
+      "id": "dentist#dentist__1"
+    },
+    {
+      "comment": "a [dental]{dental} [hygienist]{hygienist}",
+      "entry": "hygienist",
+      "id": "hygienist#hygienist__1"
+    },
+    {
+      "comment": "a dentist whose job is to perform operations on people\u2019s mouths and teeth",
+      "entry": "oral surgeon",
+      "id": "oral-surgeon#oral-surgeon__1"
+    },
+    {
+      "comment": "a dentist whose job is to make teeth straight",
+      "entry": "orthodontist",
+      "id": "orthodontist#orthodontist__1"
+    }
+  ],
+  "thesaurus": "Dentists and dental health professionals",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a very [firm_1]{firm} [statement_1]{statement} that you [want_1]{want} something",
+      "entry": "demand",
+      "id": "demand_2#demand_2__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [ask_1]{asking} for something in a [polite]{polite} or [formal_1]{formal} way",
+      "entry": "request",
+      "id": "request_1#request_1__1"
+    },
+    {
+      "comment": "an [urgent]{urgent} [request_1]{request} for [people_1]{people} to give you something that you [need_1]{need} such as [help_1]{help}, [money]{money}, or [information]{information}",
+      "entry": "appeal",
+      "id": "appeal_2#appeal_2__1"
+    },
+    {
+      "comment": "a [request_1]{request} for a [product]{product} to be made for you or [deliver]{delivered} to you",
+      "entry": "order",
+      "id": "order_1#order_1__8"
+    },
+    {
+      "comment": "an [urgent]{urgent} or [emotional]{emotional} [request_1]{request} for something",
+      "entry": "plea",
+      "id": "plea#plea__1"
+    },
+    {
+      "comment": "an [urgent]{urgent} [request_1]{request} or [order_1]{order} for someone to go somewhere or do something",
+      "entry": "summons",
+      "id": "summons_1#summons_1__4"
+    },
+    {
+      "comment": "a [strong]{strong} serious [request_1]{request} that you [make_1]{make} to someone about something that is [worrying]{worrying} you",
+      "entry": "entreaty",
+      "id": "entreaty#entreaty__1"
+    },
+    {
+      "comment": "a [request_1]{request} for [people_1]{people} to do something or to [behave]{behave} in a [particular_1]{particular} way",
+      "entry": "appeal",
+      "id": "appeal_2#appeal_2__4"
+    },
+    {
+      "comment": "a [formal_1]{formal} [request_1]{request} for [permission]{permission} to do or have something",
+      "entry": "application",
+      "id": "application#application__1"
+    },
+    {
+      "comment": "an [urgent]{urgent} [request_1]{request} for [help_1]{help} from someone in [trouble_1]{trouble}",
+      "entry": "SOS",
+      "id": "sos#sos__2"
+    }
+  ],
+  "thesaurus": "Requests and demands",
+  "type": "Synonyms"
+}

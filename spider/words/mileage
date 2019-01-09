@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [number_1]{number} of [mile]{miles} that a [vehicle]{vehicle} has [travel_1]{traveled} since it was made, or in a [particular_1]{particular} [period_1]{period} of time",
+      "examples": [
+        "What [kind_1]{kind} of mileage [does]{does} the [car]{car} have on it?",
+        "a [car]{car} with [high_1]{high} mileage",
+        "[employee]{Employees} get a mileage [allowance]{allowance} for [business]{business} [travel_1]{travel}."
+      ],
+      "id": "mileage__1"
+    },
+    {
+      "def": "an [advantage]{advantage} or [opportunity]{opportunity} that you get from something",
+      "examples": [
+        "He has [gotten]{gotten} a [lot_1]{lot} of mileage out of his [friendship]{friendship} with the [mayor]{mayor}.",
+        "They had [tried_1]{tried} to gain some [political]{political} mileage out of a [tragedy]{tragedy}."
+      ],
+      "id": "mileage__6"
+    }
+  ],
+  "word": "mileage"
+}

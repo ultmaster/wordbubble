@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "know better",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that someone should not [make_1]{make} a [mistake_1]{mistake}, because they are [sensible]{sensible} or [experienced]{experienced}",
+      "examples": [
+        "She should [know_1]{know} [better_1]{better} than to [try_1]{try} to [fool_1]{fool} him."
+      ],
+      "id": "know-better__1"
+    },
+    {
+      "def": "to [know_1]{know} that what someone else [say_1]{says} or [think_1]{thinks} is [wrong_1]{wrong}",
+      "examples": [
+        "Everyone [thought_1]{thought} it was an [innocent_1]{innocent} [mistake_1]{mistake}, but I [knew]{knew} [better_1]{better}."
+      ],
+      "id": "know-better__3"
+    }
+  ]
+}

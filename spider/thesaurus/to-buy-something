@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to get something by [pay_1]{paying} [money]{money} for it",
+      "entry": "buy",
+      "id": "buy_1#buy_1__1"
+    },
+    {
+      "comment": "to [buy_1]{buy} something",
+      "entry": "get",
+      "id": "get#get__11"
+    },
+    {
+      "comment": "to [buy_1]{buy} something",
+      "entry": "purchase",
+      "id": "purchase_1#purchase_1__1"
+    },
+    {
+      "comment": "to [buy_1]{buy} something, [especially]{especially} something that you [need_1]{need} and will use a [lot_1]{lot}",
+      "entry": "invest in",
+      "id": "invest-in#invest-in__5"
+    },
+    {
+      "comment": "to [buy_1]{buy} [large_1]{large} [amount_1]{amounts} of something or all of it that is [available]{available}",
+      "entry": "buy up",
+      "id": "buy-up#buy-up__1"
+    },
+    {
+      "comment": "to [buy_1]{buy} a [product]{product} from another [country]{country} and [bring]{bring} it to your [country]{country}",
+      "entry": "import",
+      "id": "import_2#import_2__1"
+    },
+    {
+      "comment": "if you [place_1]{place} an [order_1]{order}, you [ask_1]{ask} a [company]{company} to [sell_1]{sell} you something and [send_1]{send} it to you",
+      "entry": "place",
+      "id": "place_2#place_2__35"
+    },
+    {
+      "comment": "to [buy_1]{buy} or [collect_1]{collect} [thing]{things} that you [need_1]{need}",
+      "entry": "get in",
+      "id": "get-in#get-in__17"
+    },
+    {
+      "comment": "to [buy_1]{buy} something as [soon]{soon} as it becomes [available]{available}",
+      "entry": "snap up",
+      "id": "snap-up#snap-up__1"
+    },
+    {
+      "comment": "to get something, for [example]{example} by [buy_1]{buying} it or being [given_1]{given} it",
+      "entry": "acquire",
+      "id": "acquire#acquire__1"
+    }
+  ],
+  "thesaurus": "To buy something",
+  "type": "Synonyms"
+}

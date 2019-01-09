@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "at the same time",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that two or more [thing]{things} [happen]{happen} together",
+      "examples": [
+        "The show will [make_1]{make} you [laugh_1]{laugh} and cry at the same time.",
+        "I can\u2019t [understand]{understand} what you\u2019re [saying]{saying} if you all [talk_1]{talk} at the same time."
+      ],
+      "id": "at-the-same-time__1"
+    },
+    {
+      "def": "[used]{used} for [introduce]{introducing} another [fact]{fact} or [opinion]{opinion} that [need_1]{needs} to be [considered]{considered} as well as the one that has [just_1]{just} been [state_2]{stated}",
+      "examples": [
+        "He [wanted]{wanted} to [support_1]{support} his [wife]{wife}, but at the same time he [did]{did} not [want_1]{want} to further [anger_1]{anger} his [mother_1]{mother}."
+      ],
+      "id": "at-the-same-time__4"
+    }
+  ]
+}

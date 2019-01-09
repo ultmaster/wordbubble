@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "with a [surface_1]{surface} that is not [smooth_1]{smooth}",
+      "entry": "rough",
+      "id": "rough_1#rough_1__1"
+    },
+    {
+      "comment": "not [smooth_1]{smooth} or [level_1]{level}",
+      "entry": "uneven",
+      "id": "uneven#uneven__1"
+    },
+    {
+      "comment": "a [coarse]{coarse} [substance]{substance} or [surface_1]{surface} [feels]{feels} rough and [hard_1]{hard}",
+      "entry": "coarse",
+      "id": "coarse#coarse__1"
+    },
+    {
+      "comment": "not even, [smooth_1]{smooth}, or [straight_1]{straight} in [shape_1]{shape} or [appearance]{appearance}",
+      "entry": "irregular",
+      "id": "irregular_1#irregular_1__6"
+    },
+    {
+      "comment": "not [smooth_1]{smooth} or [flat_1]{flat}",
+      "entry": "rugged",
+      "id": "rugged#rugged__1"
+    },
+    {
+      "comment": "with a [surface_1]{surface} that is not [smooth_1]{smooth} but that has a [pattern_1]{pattern} you can [feel_1]{feel}",
+      "entry": "textured",
+      "id": "textured#textured__1"
+    },
+    {
+      "comment": "with [edge_1]{edges} that are not [straight_1]{straight} or [smooth_1]{smooth}",
+      "entry": "ragged",
+      "id": "ragged#ragged__6"
+    },
+    {
+      "comment": "[have]{having} a rough [surface_1]{surface} that can be [used]{used} to [rub_1]{rub} and [clean_1]{clean} other [surface_1]{surfaces}",
+      "entry": "abrasive",
+      "id": "abrasive_1#abrasive_1__3"
+    },
+    {
+      "comment": "rough and [making]{making} your [skin_1]{skin} [feel_1]{feel} [uncomfortable]{uncomfortable}",
+      "entry": "prickly",
+      "id": "prickly#prickly__3"
+    },
+    {
+      "comment": "a [jagged]{jagged} [surface_1]{surface} or [edge_1]{edge} has a [lot_1]{lot} of rough [pointed]{pointed} [part_1]{parts} that [make_1]{make} it [look_1]{look} [broken_1]{broken} or [torn_1]{torn}",
+      "entry": "jagged",
+      "id": "jagged#jagged__1"
+    }
+  ],
+  "thesaurus": "Not smooth",
+  "type": "Synonyms"
+}

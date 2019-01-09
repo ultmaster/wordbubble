@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "but for",
+  "senses": [
+    {
+      "def": "except for something",
+      "examples": [
+        "The [work_1]{work} was now [complete_1]{complete}, but for a [final_1]{final} [coat_1]{coat} of [paint_1]{paint}."
+      ],
+      "id": "but-for__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something would have [happen]{happened} if something else or someone had not [prevent]{prevented} it",
+      "examples": [
+        "[lee]{Lee} would [certainly]{certainly} have been the [start_1]{starting} [quarterback_1]{quarterback}, but for his [recent]{recent} [injury]{injury}.",
+        "But for your [timely]{timely} [warning]{warning}, we would have been [unaware]{unaware} of the [danger]{danger}."
+      ],
+      "id": "but-for__3"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "a [layer_1]{layer} of something such as [paint_1]{paint} that you put onto a [surface_1]{surface}",
+      "entry": "coat",
+      "id": "coat_1#coat_1__6"
+    },
+    {
+      "comment": "a thick [brown_1]{brown} [liquid_1]{liquid} that you [paint_1]{paint} on [wood]{wood} to [protect]{protect} it from the [weather_1]{weather}",
+      "entry": "creosote",
+      "id": "creosote#creosote__1"
+    },
+    {
+      "comment": "thick [paint_1]{paint} [used]{used} for [painting]{painting} [wall_1]{walls}",
+      "entry": "distemper",
+      "id": "distemper#distemper__2"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [cloth]{cloth} that [cover_1]{covers} the [floor_1]{floor} and [furniture]{furniture} in a [room_1]{room} while you are [painting]{painting}",
+      "entry": "drop cloth",
+      "id": "drop-cloth#drop-cloth__1"
+    },
+    {
+      "comment": "[gloss_1]{gloss} [paint_1]{paint}",
+      "entry": "gloss",
+      "id": "gloss_1#gloss_1__10"
+    },
+    {
+      "comment": "[paint_1]{paint} for [wood]{wood} and [furniture]{furniture} that is [shiny]{shiny} when it is [dry_1]{dry}",
+      "entry": "gloss paint",
+      "id": "gloss-paint#gloss-paint__1"
+    },
+    {
+      "comment": "a substance used for filling the spaces between tiles",
+      "entry": "grout",
+      "id": "grout_1#grout_1__1"
+    },
+    {
+      "comment": "[narrow_1]{narrow} [sticky]{sticky} [paper_1]{paper} [used]{used} for [protect]{protecting} something such as a [window]{window} when you are [painting]{painting} the [area]{area} next to it",
+      "entry": "masking tape",
+      "id": "masking-tape#masking-tape__1"
+    },
+    {
+      "comment": "a [colored_1]{colored} [liquid_1]{liquid} that you put on a [surface_1]{surface} to [change_1]{change} its [color_1]{color} or that you use for [making]{making} a [picture_1]{picture}",
+      "entry": "paint",
+      "id": "paint_2#paint_2__1"
+    },
+    {
+      "comment": "a [brush_1]{brush} [used]{used} for [put]{putting} [paint_1]{paint} on a [surface_1]{surface} or for [making]{making} a [picture_1]{picture} with [paint_1]{paints}",
+      "entry": "paintbrush",
+      "id": "paintbrush#paintbrush__1"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} for [remove]{removing} [paint_1]{paint} from [surface_1]{surfaces} such as [door_1]{doors} and [furniture]{furniture}",
+      "entry": "paint stripper",
+      "id": "paint-stripper#paint-stripper__1"
+    },
+    {
+      "comment": "[wallpaper_1]{wallpaper} for the [wall_1]{walls} of a [room_1]{room}",
+      "entry": "paper",
+      "id": "paper_1#paper_1__18"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} for [prepare]{preparing} a [surface_1]{surface} for [paint_1]{paint}",
+      "entry": "primer",
+      "id": "primer#primer__1"
+    },
+    {
+      "comment": "a [substance]{substance} that is [paint_1]{painted} on a [surface_1]{surface} to [protect]{protect} it from [air_1]{air}, [water_1]{water}, etc.",
+      "entry": "sealant",
+      "id": "sealant#sealant__1"
+    },
+    {
+      "comment": "a sealant",
+      "entry": "sealer",
+      "id": "sealer#sealer__1"
+    },
+    {
+      "comment": "a [sticky]{sticky} [substance]{substance} that you use to [make_1]{make} a [wall_1]{wall} [smooth_1]{smooth} before [painting]{painting} it",
+      "entry": "Spackle",
+      "id": "spackle#spackle__1"
+    },
+    {
+      "comment": "paint that you put on a surface using a spray can or a spray gun",
+      "entry": "spray paint",
+      "id": "spray-paint#spray-paint__1"
+    },
+    {
+      "comment": "a tool or a chemical used for removing paint, wallpaper, etc.",
+      "entry": "stripper",
+      "id": "stripper#stripper__2"
+    },
+    {
+      "comment": "the [final_1]{final} [layer_1]{layer} of [paint_1]{paint} that you put on a [surface_1]{surface}",
+      "entry": "topcoat",
+      "id": "topcoat#topcoat__2"
+    },
+    {
+      "comment": "the first [layer_1]{layer} of [paint_1]{paint} that you put on a [surface_1]{surface}",
+      "entry": "undercoat",
+      "id": "undercoat#undercoat__1"
+    },
+    {
+      "comment": "thick [paper_1]{paper} that you [stick_1]{stick} on [wall_1]{walls} [inside_1]{inside} a [house_1]{house} to [decorate]{decorate} them",
+      "entry": "wallpaper",
+      "id": "wallpaper_1#wallpaper_1__1"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} for [painting]{painting} [wall_1]{walls} or [building]{buildings} [white_1]{white}",
+      "entry": "whitewash",
+      "id": "whitewash_1#whitewash_1__2"
+    }
+  ],
+  "thesaurus": "Materials and substances used in painting and decorating",
+  "type": "Related words"
+}

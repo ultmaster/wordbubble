@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "water. This word is used mainly on the labels of containers of food, medicine, and toiletries to show how much water they contain.",
+      "entry": "aqua",
+      "id": "aqua#aqua__2"
+    },
+    {
+      "comment": "[water_1]{water} that [contain]{contains} a [lot_1]{lot} of [salt_1]{salt}",
+      "entry": "brine",
+      "id": "brine#brine__1"
+    },
+    {
+      "comment": "[water_1]{water} that has been made very [pure]{pure} by [remove]{removing} [various]{various} [substance]{substances} from it through a [process_1]{process} in which it is [heated]{heated} until it becomes a [gas_1]{gas} and then it is made [cold_1]{colder} so that it becomes a [liquid_1]{liquid} again",
+      "entry": "distilled water",
+      "id": "distilled-water#distilled-water__1"
+    },
+    {
+      "comment": "a liquid containing ions that electricity can pass through",
+      "entry": "electrolyte",
+      "id": "electrolyte#electrolyte__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid}",
+      "entry": "fluid",
+      "id": "fluid_1#fluid_1__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} or [gas_1]{gas}",
+      "entry": "fluid",
+      "id": "fluid_1#fluid_1__4"
+    },
+    {
+      "comment": "[water_1]{water}",
+      "entry": "H2O",
+      "id": "h2o#h2o__1"
+    },
+    {
+      "comment": "the [extent]{extent} to which [water_1]{water} [contain]{contains} a [lot_1]{lot} of [mineral]{minerals}",
+      "entry": "hardness",
+      "id": "hardness#hardness__6"
+    },
+    {
+      "comment": "[water_1]{water} that has [frozen_1]{frozen} and become [solid_1]{solid}",
+      "entry": "ice",
+      "id": "ice_1#ice_1__1"
+    },
+    {
+      "comment": "water that contains a lot of calcium carbonate or calcium sulfate",
+      "entry": "limewater",
+      "id": "limewater#limewater__2"
+    },
+    {
+      "comment": "a [substance]{substance} that can [flow_1]{flow}, has no [fixed]{fixed} [shape_1]{shape}, and is not a [solid_1]{solid} or a [gas_1]{gas}",
+      "entry": "liquid",
+      "id": "liquid_1#liquid_1__1"
+    },
+    {
+      "comment": "[water_1]{water} that is [moving]{moving}, for [example]{example} in a [river]{river}",
+      "entry": "running water",
+      "id": "running-water#running-water__3"
+    },
+    {
+      "comment": "[water_1]{water} [contain]{containing} [salt_1]{salt}, [especially]{especially} [water_1]{water} from the [ocean]{ocean}",
+      "entry": "salt water",
+      "id": "salt-water#salt-water__1"
+    },
+    {
+      "comment": "[water_1]{water} from the [ocean]{ocean}",
+      "entry": "seawater",
+      "id": "seawater#seawater__1"
+    },
+    {
+      "comment": "water that comes out of a faucet in a building",
+      "entry": "tap water",
+      "id": "tap-water#tap-water__1"
+    },
+    {
+      "comment": "[water_1]{water} that is [available]{available} for [people_1]{people} to use in a [particular_1]{particular} [area]{area}",
+      "entry": "water supply",
+      "id": "water-supply#water-supply__1"
+    }
+  ],
+  "thesaurus": "General words for water and types of liquid",
+  "type": "Related words"
+}

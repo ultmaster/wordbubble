@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [group_1]{group} of [people_1]{people} [meeting]{meeting} together",
+      "examples": [
+        "a [large_1]{large} [social_1]{social} gathering",
+        "the [great_1]{greatest} ever gathering of [world]{world} [leader]{leaders} in one [place_1]{place} at one time",
+        "Easter is one of the [best_1]{best} times for a [family_1]{family} gathering."
+      ],
+      "id": "gathering_1__1"
+    },
+    {
+      "def": "the [process_1]{process} or [activity]{activity} of [collect_1]{collecting} [information]{information}",
+      "examples": [
+        "a [secret_1]{secret} [intelligence]{intelligence} gathering [operation]{operation}"
+      ],
+      "id": "gathering_1__5"
+    }
+  ],
+  "word": "gathering"
+}

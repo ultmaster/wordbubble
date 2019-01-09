@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to fill something with [air_1]{air} or [gas_1]{gas} so that it becomes the [right_1]{right} [shape_1]{shape} and [size_1]{size} for [use_1]{using}",
+      "entry": "inflate",
+      "id": "inflate#inflate__1"
+    },
+    {
+      "comment": "to fill something with [air_1]{air} [use_1]{using} a [pump_1]{pump}",
+      "entry": "pump up",
+      "id": "pump-up#pump-up__1"
+    },
+    {
+      "comment": "to fill something with [air_1]{air} or [gas_1]{gas}",
+      "entry": "blow up",
+      "id": "blow-up_1#blow-up_1__4"
+    },
+    {
+      "comment": "if [water_1]{water} [flood_1]{floods} a [place_1]{place}, it [cover_1]{covers} it",
+      "entry": "flood",
+      "id": "flood_1#flood_1__1"
+    },
+    {
+      "comment": "to fill or [cover_1]{cover} something with [water_1]{water}",
+      "entry": "swamp",
+      "id": "swamp_1#swamp_1__7"
+    },
+    {
+      "comment": "to fill a bath or other container with water from a faucet",
+      "entry": "run",
+      "id": "run_1#run_1__35"
+    },
+    {
+      "comment": "to fill a [glass]{glass} [completely]{completely}",
+      "entry": "charge",
+      "id": "charge_2#charge_2__27"
+    },
+    {
+      "comment": "to [completely]{completely} fill a [container]{container} that is already [partly]{partly} full",
+      "entry": "top off",
+      "id": "top-off#top-off__3"
+    },
+    {
+      "comment": "to become [covered_1]{covered} or [fill_1]{filled} with [water_1]{water}",
+      "entry": "flood",
+      "id": "flood_1#flood_1__4"
+    },
+    {
+      "comment": "the process of inflating something with air or gas",
+      "entry": "inflation",
+      "id": "inflation#inflation__7"
+    }
+  ],
+  "thesaurus": "To fill a thing or place with liquid or air",
+  "type": "Synonyms"
+}

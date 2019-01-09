@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "best guess",
+  "senses": [
+    {
+      "def": "an [opinion]{opinion} about the thing that is most [likely_1]{likely} to [happen]{happen}",
+      "examples": [
+        "We don\u2019t have enough [information]{information} even to give a [best_1]{best} [guess_1]{guess}."
+      ],
+      "id": "best-guess__1"
+    },
+    {
+      "def": "an [opinion]{opinion} about the [best_1]{best} thing that could [happen]{happen}",
+      "examples": [
+        "Our [best_1]{best} [guess_1]{guess} is that we\u2019ll be ready in two [week]{weeks}."
+      ],
+      "id": "best-guess__3"
+    }
+  ]
+}

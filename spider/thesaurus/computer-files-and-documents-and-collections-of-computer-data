@@ -1,0 +1,356 @@
+{
+  "entries": [
+    {
+      "comment": "[information]{information} [kept]{kept} on a computer that [give_1]{gives} [detail_1]{details} about a [user]{user}, for [example]{example} their name, [password]{password}, and the [part_1]{parts} of the system they are [allow]{allowed} to use",
+      "entry": "access profile",
+      "id": "access-profile#access-profile__1"
+    },
+    {
+      "comment": "a copy of a computer file that you save on a disk or tape",
+      "entry": "archive",
+      "id": "archive_1#archive_1__4"
+    },
+    {
+      "comment": "a [copy_1]{copy} of [information]{information} that is put on the [internet]{Internet} so that other [people_1]{people} can use it",
+      "entry": "archive",
+      "id": "archive_1#archive_1__5"
+    },
+    {
+      "comment": "a collection of computer files that have been saved together in compressed form",
+      "entry": "archive",
+      "id": "archive_1#archive_1__6"
+    },
+    {
+      "comment": "a computer [file_1]{file} that [contain]{contains} only ASCII [character]{characters}",
+      "entry": "ASCII file",
+      "id": "ascii-file#ascii-file__1"
+    },
+    {
+      "comment": "a [copy_1]{copy} of [information]{information} on your computer that you [make_1]{make} in [case_1]{case} you [lose]{lose} the [information]{information}",
+      "entry": "backup",
+      "id": "backup#backup__1"
+    },
+    {
+      "comment": "a [file_1]{file} [contain]{containing} a [series]{series} of [instruction]{instructions} that the computer will [perform]{perform} in [order_1]{order}, without the [user]{user} [have]{having} to do anything",
+      "entry": "batch file",
+      "id": "batch-file#batch-file__1"
+    },
+    {
+      "comment": "the [data]{data} [generate]{generated} by [online]{online} [activity]{activity}, the [quantity]{quantities} of which are so [large_1]{large} that [new]{new} [tool_1]{tools} and [method]{methods} are [need_1]{needed} to [analyse]{analyse} it",
+      "entry": "big data",
+      "id": "big-data#big-data__1"
+    },
+    {
+      "comment": "a computer [image_1]{image} made up of many [small_1]{small} [point_1]{points} on the [screen_1]{screen}",
+      "entry": "bitmap",
+      "id": "bitmap#bitmap__1"
+    },
+    {
+      "comment": "a set of data sent in binary form",
+      "entry": "bitstream",
+      "id": "bitstream#bitstream__1"
+    },
+    {
+      "comment": "a flow of computer information, measured in bits",
+      "entry": "bitstream",
+      "id": "bitstream#bitstream__2"
+    },
+    {
+      "comment": "a [set_1]{set} of [electronic]{electronic} [file_1]{files} [contain]{containing} one or more [series]{series} of a TV [program_1]{program} that can be [download_1]{downloaded} for [watch_1]{watching} at [home_1]{home}",
+      "entry": "box set",
+      "id": "box-set#box-set__3"
+    },
+    {
+      "comment": "a number that is the total of the digits in a piece of data that has been stored or sent in digital form. It is used to check that nothing has gone wrong with the data.",
+      "entry": "checksum",
+      "id": "checksum#checksum__1"
+    },
+    {
+      "comment": "a [file_1]{file} that [contain]{contains} [information]{information} about how a [particular_1]{particular} [software]{software} [program_1]{program} or [piece_1]{piece} of [equipment]{equipment} has been [arrange]{arranged}",
+      "entry": "configuration file",
+      "id": "configuration-file#configuration-file__1"
+    },
+    {
+      "comment": "a [small_1]{small} [file_1]{file} that a [website]{website} [automatically]{automatically} [send_1]{sends} to your computer when you [connect]{connect} to the [website]{website}, [contain]{containing} [information]{information} about your use of the [internet]{Internet}",
+      "entry": "cookie",
+      "id": "cookie#cookie__3"
+    },
+    {
+      "comment": "[cascade_2]{cascading} [style_1]{style} [sheet]{sheets}: a [set_1]{set} of [instruction]{instructions} [used]{used} to describe the way a [document_1]{document} [written_1]{written} on a computer, for [example]{example} a [website]{website}, should [look_1]{look} when it is [publish]{published}",
+      "entry": "CSS",
+      "id": "css#css__1"
+    },
+    {
+      "comment": "[information]{information} in a form that a computer can use",
+      "entry": "data",
+      "id": "data#data__3"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [data]{data}, [especially]{especially} when it is [used]{used} by [computer]{computers}",
+      "entry": "data bank",
+      "id": "data-bank#data-bank__1"
+    },
+    {
+      "comment": "a [database]{database}",
+      "entry": "data bank",
+      "id": "data-bank#data-bank__2"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [information]{information} [store_2]{stored} in a computer in an [organized]{organized} way that [allow]{allows} [individual_1]{individual} [piece_1]{pieces} of [information]{information} to be found [quickly]{quickly}",
+      "entry": "database",
+      "id": "database#database__1"
+    },
+    {
+      "comment": "a [movement]{movement} that [focus_1]{focusses} on [produce_1]{producing}, [capture_1]{capturing} and [developing]{developing} [data]{data} to [improve_1]{improve} the way it is [used]{used} to [facilitate]{facilitate} [change_1]{change}",
+      "entry": "the data revolution",
+      "id": "the-data-revolution#the-data-revolution__1"
+    },
+    {
+      "comment": "a [collection]{collection} of [separate_1]{separate} [set_1]{sets} of [related_1]{related} [data]{data} that can be [dealt]{dealt} with as a [single_1]{single} [unit]{unit} by a computer",
+      "entry": "dataset",
+      "id": "dataset#dataset__1"
+    },
+    {
+      "comment": "an amount of [information]{information} [store_2]{stored} as a [file_1]{file} on a computer",
+      "entry": "data set",
+      "id": "data-set#data-set__1"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [information]{information} from a [corporation]{corporation} [store_2]{stored} on a computer and [used]{used} for [making]{making} [business]{business} [decision_1]{decisions}",
+      "entry": "data warehouse",
+      "id": "data-warehouse#data-warehouse__1"
+    },
+    {
+      "comment": "a singular form of data",
+      "entry": "datum",
+      "id": "datum#datum__1"
+    },
+    {
+      "comment": "a computer [file_1]{file} that [contain]{contains} other [file_1]{files}, [document_1]{documents}, or [program_1]{programs}",
+      "entry": "directory",
+      "id": "directory#directory__5"
+    },
+    {
+      "comment": "a computer [file_1]{file} that you can [write]{write} in",
+      "entry": "document",
+      "id": "document_1#document_1__5"
+    },
+    {
+      "comment": "[written_1]{written} [instruction]{instructions} about how to use a computer or computer [program_1]{program}",
+      "entry": "documentation",
+      "id": "documentation#documentation__3"
+    },
+    {
+      "comment": "a [download_1]{downloaded} computer [file_1]{file}",
+      "entry": "download",
+      "id": "download_2#download_2__3"
+    },
+    {
+      "comment": "the last part of the name of a computer file. For example, \u201cexe\u201d and \u201cdoc\u201d are extensions.",
+      "entry": "extension",
+      "id": "extension#extension__28"
+    },
+    {
+      "comment": "a [set_1]{set} of [information]{information} on a computer",
+      "entry": "file",
+      "id": "file_1#file_1__6"
+    },
+    {
+      "comment": "the [second_1]{second} part of the name of a computer [file_1]{file}, which [tell_1]{tells} you what [kind_1]{kind} of [file_1]{file} it is",
+      "entry": "file extension",
+      "id": "file-extension#file-extension__1"
+    },
+    {
+      "comment": "the name that someone [give_1]{gives} to a [particular_1]{particular} computer [file_1]{file}",
+      "entry": "filename",
+      "id": "filename#filename__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [program_1]{programs} or [document_1]{documents} [store_2]{stored} in a computer, [shown]{shown} by a [picture_1]{picture} of a [folder]{folder} on the [screen_1]{screen}",
+      "entry": "folder",
+      "id": "folder#folder__2"
+    },
+    {
+      "comment": "the [structure_1]{structure} and [design_1]{design} of a [written_1]{written} [document_1]{document}, [especially]{especially} a computer [file_1]{file}, for [example]{example} the [size_1]{size} and [type_1]{type} of the [letter_1]{letters} and the [width]{width} of the [written_1]{written} [area]{area} of the [page_1]{page}",
+      "entry": "format",
+      "id": "format_1#format_1__8"
+    },
+    {
+      "comment": "the way that information is arranged and organized on a computer disk",
+      "entry": "format",
+      "id": "format_1#format_1__9"
+    },
+    {
+      "comment": "[graphic_1]{Graphic} [interchange_1]{Interchange} [format_1]{Format}: a [type_1]{type} of computer [file_1]{file} that [contain]{contains} an [image_1]{image}. GIF is also [used]{used} as part of a [file_1]{file} name.",
+      "entry": "GIF",
+      "id": "gif#gif__1"
+    },
+    {
+      "comment": "[picture_1]{pictures} [produce_1]{produced} by [computer]{computers}",
+      "entry": "graphics",
+      "id": "graphics#graphics__1"
+    },
+    {
+      "comment": "a [print_1]{printed} [copy_1]{copy} of [information]{information} on a computer",
+      "entry": "hard copy",
+      "id": "hard-copy#hard-copy__1"
+    },
+    {
+      "comment": "a word or image in a computer document that you can click on in order to move to a related document, word, or image",
+      "entry": "hyperlink",
+      "id": "hyperlink#hyperlink__1"
+    },
+    {
+      "comment": "information that is put into a computer or a piece of electronic equipment using another machine such as a keyboard or microphone",
+      "entry": "input",
+      "id": "input_1#input_1__5"
+    },
+    {
+      "comment": "a [file_1]{file} that is [produce_1]{produced} by this [method]{method}",
+      "entry": "JPEG",
+      "id": "jpeg#jpeg__2"
+    },
+    {
+      "comment": "details of the information contained in a large computer database, for example who wrote the information and what format it is in",
+      "entry": "metadata",
+      "id": "metadata#metadata__1"
+    },
+    {
+      "comment": "a [file_1]{file} [produce_1]{produced} by this [method]{method}",
+      "entry": "MP3",
+      "id": "mp3#mp3__2"
+    },
+    {
+      "comment": "a [file_1]{file} [produce_1]{produced} by this [method]{method}",
+      "entry": "MP4",
+      "id": "mp4#mp4__2"
+    },
+    {
+      "comment": "a [file_1]{file} that is [produce_1]{produced} by this [method]{method}",
+      "entry": "MPEG",
+      "id": "mpeg#mpeg__2"
+    },
+    {
+      "comment": "the [information]{information} [shown]{shown} on a [screen_1]{screen} or [print_1]{printed} on [paper_1]{paper} by a computer",
+      "entry": "output",
+      "id": "output_1#output_1__4"
+    },
+    {
+      "comment": "a small amount of computer information that has been divided up so that it can be sent across a computer network",
+      "entry": "packet",
+      "id": "packet#packet__7"
+    },
+    {
+      "comment": "the [place_1]{place} in a computer [document_1]{document} where one [page_1]{page} [end_1]{ends} and another one [begin]{begins}",
+      "entry": "page break",
+      "id": "page-break#page-break__1"
+    },
+    {
+      "comment": "[portable_1]{Portable} [document_1]{Document} [format_1]{Format}: a [type_1]{type} of computer [file_1]{file} that can [contain]{contain} [word_1]{words}, [image_1]{images}, etc. and can be [sent]{sent} on the [internet]{Internet} and read on any computer",
+      "entry": "PDF",
+      "id": "pdf#pdf__1"
+    },
+    {
+      "comment": "writing in a computer file that has no special codes and can therefore be used easily by other computer programs",
+      "entry": "plain text",
+      "id": "plain-text#plain-text__1"
+    },
+    {
+      "comment": "a multimedia file, such as a radio program or video, that can be downloaded or streamed from the Internet onto a computer or mobile device. The method of publishing files that can be used in this way is called podcasting.",
+      "entry": "podcast",
+      "id": "podcast#podcast__1"
+    },
+    {
+      "comment": "[paper_1]{paper} [print_1]{printed} with [information]{information} from a computer [file_1]{file}",
+      "entry": "printout",
+      "id": "printout#printout__1"
+    },
+    {
+      "comment": "a [file_1]{file} that [contain]{contains} [information]{information} about a [piece_1]{piece} of [software]{software}",
+      "entry": "README file",
+      "id": "readme-file#readme-file__1"
+    },
+    {
+      "comment": "a [record_1]{record} of [information]{information} [produce_1]{produced} by a computer or other [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment}, [shown]{shown} on a [screen_1]{screen} or [print_1]{printed} on [paper_1]{paper}",
+      "entry": "read-out",
+      "id": "read-out_2#read-out_2__1"
+    },
+    {
+      "comment": "a database on the Internet that records the population of plants and animals throughout the world, in order to learn which ones may be becoming extinct",
+      "entry": "Red List",
+      "id": "red-list#red-list__1"
+    },
+    {
+      "comment": "a computer database that allows information to be stored and found in various ways",
+      "entry": "relational database",
+      "id": "relational-database#relational-database__1"
+    },
+    {
+      "comment": "documents that include codes that show how the writing should look, for example to show bold and italic",
+      "entry": "rich text",
+      "id": "rich-text#rich-text__1"
+    },
+    {
+      "comment": "a [temporary]{temporary} computer [file_1]{file} that is [create]{created} to [hold_1]{hold} [information]{information} while a [program_1]{program} is being [used]{used}",
+      "entry": "scratch file",
+      "id": "scratch-file#scratch-file__1"
+    },
+    {
+      "comment": "a computer [file_1]{file} that [contain]{contains} [information]{information} about the [person]{person} who [sent]{sent} an [e-mail_1]{e-mail}",
+      "entry": "signature file",
+      "id": "signature-file#signature-file__1"
+    },
+    {
+      "comment": "[information]{information} that is [store_2]{stored} in a computer and can be read on a [screen_1]{screen}, and is not [print_1]{printed} on [paper_1]{paper}",
+      "entry": "soft copy",
+      "id": "soft-copy#soft-copy__1"
+    },
+    {
+      "comment": "a [short_1]{short} [period_1]{period} that you [spend]{spend} [doing]{doing} a [particular_1]{particular} [activity]{activity}, [especially]{especially} something [enjoyable]{enjoyable} such as [spending]{spending} [money]{money} or [drinking]{drinking} [alcohol]{alcohol}",
+      "entry": "spree",
+      "id": "spree#spree__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [instruction]{instructions} on what a [particular_1]{particular} [type_1]{type} of computer [document_1]{document} should [look_1]{look} [like_1]{like}",
+      "entry": "style sheet",
+      "id": "style-sheet#style-sheet__1"
+    },
+    {
+      "comment": "a [plastic_1]{plastic} [card_1]{card} that you [pass_1]{pass} through a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} that [read_1]{reads} the [information]{information} [store_2]{stored} on the [card_1]{card}, for [example]{example} in [order_1]{order} to [open_1]{open} a [door_1]{door} or to [pay_1]{pay} for something",
+      "entry": "swipe card",
+      "id": "swipe-card#swipe-card__1"
+    },
+    {
+      "comment": "a computer [file_1]{file} that [copy_1]{copies} are made from because its [basic_1]{basic} form can be [used]{used} again and again",
+      "entry": "template",
+      "id": "template#template__3"
+    },
+    {
+      "comment": "a file that contains only words and numbers and no codes to show how the document should look",
+      "entry": "text file",
+      "id": "text-file#text-file__1"
+    },
+    {
+      "comment": "a [document_1]{document} that [tell_1]{tells} you how to do something, for [example]{example} how to use a computer [program_1]{program}",
+      "entry": "user guide",
+      "id": "user-guide#user-guide__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [instruction]{instructions} on how to use a [piece_1]{piece} of [software]{software} or how to [complete_1]{complete} a computer [game_1]{game}",
+      "entry": "walkthrough",
+      "id": "walkthrough#walkthrough__1"
+    },
+    {
+      "comment": "a [file_1]{file} that [contain]{contains} [sound_1]{sound}",
+      "entry": "wave file",
+      "id": "wave-file#wave-file__1"
+    },
+    {
+      "comment": "a computer document that has been compressed so that it fills less space and can be stored more easily or sent by e-mail more quickly",
+      "entry": "Zip file",
+      "id": "zip-file#zip-file__1"
+    }
+  ],
+  "thesaurus": "Computer files and documents and collections of computer data",
+  "type": "Related words"
+}

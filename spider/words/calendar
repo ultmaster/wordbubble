@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [set_1]{set} of [page_1]{pages} [showing]{showing} the [day]{days}, [week]{weeks}, and [month]{months} of a [particular_1]{particular} [year]{year}",
+      "examples": [
+        "a [wall_1]{wall}/[desk]{desk} calendar"
+      ],
+      "id": "calendar__1"
+    },
+    {
+      "def": "a system for [measure_2]{measuring} the [length]{length} of a [year]{year} and [divide_1]{dividing} it into [period_1]{periods} such as [week]{weeks} and [month]{months}",
+      "examples": [
+        "the Jewish/Roman calendar"
+      ],
+      "id": "calendar__3"
+    },
+    {
+      "def": "a [list_1]{list} of [important]{important} [event]{events} and the [date_1]{dates} they take [place_1]{place}",
+      "examples": [
+        "the [college]{college} [football]{football} calendar"
+      ],
+      "id": "calendar__5"
+    },
+    {
+      "def": "a [book_1]{book} or a [piece_1]{piece} of [software]{software} on a computer, [mobile_1]{mobile} [device]{device}, etc. where you can [make_1]{make} a [note_1]{note} of [thing]{things} you [plan_1]{plan} to do",
+      "examples": [
+        "I don\u2019t see how we can [fit_1]{fit} this into the [mayor]{mayor}\u2019s [busy_1]{busy} calendar."
+      ],
+      "id": "calendar__7"
+    }
+  ],
+  "word": "calendar"
+}

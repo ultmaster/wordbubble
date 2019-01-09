@@ -1,0 +1,371 @@
+{
+  "entries": [
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that your [arm_1]{arm} [fit_1]{fits} into",
+      "entry": "arm",
+      "id": "arm_1#arm_1__8"
+    },
+    {
+      "comment": "one of the [hole_1]{holes} for your [arms]{arms} in a [shirt]{shirt}, [jacket]{jacket}, etc.",
+      "entry": "armhole",
+      "id": "armhole#armhole__1"
+    },
+    {
+      "comment": "a [square_1]{square} part above the [waist]{waist} of some [type_1]{types} of [skirt_1]{skirt} or [pants]{pants} that [cover_1]{covers} your [chest]{chest}",
+      "entry": "bib",
+      "id": "bib#bib__2"
+    },
+    {
+      "comment": "the part of a [dress_1]{dress} that [cover_1]{covers} a [woman]{woman}\u2019s body from the [waist]{waist} up",
+      "entry": "bodice",
+      "id": "bodice#bodice__1"
+    },
+    {
+      "comment": "the top front part of a [jacket]{jacket} or [coat_1]{coat}",
+      "entry": "breast",
+      "id": "breast#breast__11"
+    },
+    {
+      "comment": "a [pocket_1]{pocket} on the front of a [shirt]{shirt} or [jacket]{jacket}, over your [chest]{chest}",
+      "entry": "breast pocket",
+      "id": "breast-pocket#breast-pocket__1"
+    },
+    {
+      "comment": "a [small_1]{small} hole in a [piece_1]{piece} of [clothing]{clothing} through which you [push_1]{push} a [button_1]{button} to [fasten]{fasten} it",
+      "entry": "buttonhole",
+      "id": "buttonhole_1#buttonhole_1__1"
+    },
+    {
+      "comment": "a [label_1]{label} [inside_1]{inside} a [piece_1]{piece} of [clothing]{clothing} that [tell_1]{tells} you how you should [wash_1]{wash} and [dry_1]{dry} it",
+      "entry": "care label",
+      "id": "care-label#care-label__1"
+    },
+    {
+      "comment": "the two long [piece_1]{pieces} that form the bottom part of the back of a man\u2019s [formal_1]{formal} [jacket]{jacket}",
+      "entry": "coattails",
+      "id": "coattails#coattails__1"
+    },
+    {
+      "comment": "the part of a [coat_1]{coat}, [shirt]{shirt}, or [dress_1]{dress} that [go_1]{goes} around your [neck_1]{neck}",
+      "entry": "collar",
+      "id": "collar_1#collar_1__1"
+    },
+    {
+      "comment": "a tight round neck on a sweater",
+      "entry": "crew neck",
+      "id": "crew-neck#crew-neck__1"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} this [area]{area}",
+      "entry": "crotch",
+      "id": "crotch#crotch__2"
+    },
+    {
+      "comment": "a [crotch]{crotch}",
+      "entry": "crutch",
+      "id": "crutch#crutch__5"
+    },
+    {
+      "comment": "the part of a [sleeve]{sleeve} that [fit_1]{fits} around your [wrist]{wrist}",
+      "entry": "cuff",
+      "id": "cuff_1#cuff_1__1"
+    },
+    {
+      "comment": "the bottom [edge_1]{edge} of the [leg_1]{leg} of a [pair_1]{pair} of [pants]{pants} that is [fold_1]{folded} up",
+      "entry": "cuff",
+      "id": "cuff_1#cuff_1__2"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [pointed]{pointed} [fold_1]{fold} made in a [piece_1]{piece} of [clothing]{clothing} by [sewing]{sewing} so that it has a [better_1]{better} [shape_1]{shape} or [fit_1]{fits} [better_1]{better}",
+      "entry": "dart",
+      "id": "dart_1#dart_1__6"
+    },
+    {
+      "comment": "the part of a [sleeve]{sleeve} that [cover_1]{covers} your [elbow_1]{elbow}",
+      "entry": "elbow",
+      "id": "elbow_1#elbow_1__3"
+    },
+    {
+      "comment": "[cloth]{cloth} [fasten]{fastened} to the [inside_1]{inside} [edge_1]{edges} of a [piece_1]{piece} of [clothing]{clothing} to [make_1]{make} it [strong]{stronger}",
+      "entry": "facing",
+      "id": "facing#facing__2"
+    },
+    {
+      "comment": "the collar or cuffs of a jacket or coat when they are made in a different cloth or color from the rest",
+      "entry": "facings",
+      "id": "facing#facing__3"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} one of your [finger_1]{fingers}",
+      "entry": "finger",
+      "id": "finger_1#finger_1__4"
+    },
+    {
+      "comment": "the fly on a pair of pants",
+      "entry": "flies",
+      "id": "flies#flies__1"
+    },
+    {
+      "comment": "the opening at the front of a pair of pants that is fastened with buttons or a zipper. The British word is flies",
+      "entry": "fly",
+      "id": "fly_2#fly_2__5"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} your [foot_1]{foot}",
+      "entry": "foot",
+      "id": "foot_1#foot_1__7"
+    },
+    {
+      "comment": "a [row_1]{row} of [fiber]{fibers} or thin [piece_1]{pieces} of [cloth]{cloth} that [hang_1]{hangs} down from a [piece_1]{piece} of [cloth]{cloth} or [clothing]{clothing}",
+      "entry": "fringe",
+      "id": "fringe_1#fringe_1__11"
+    },
+    {
+      "comment": "a [metal_1]{metal} or [plastic_1]{plastic} ring that [surround_1]{surrounds} a hole in [cloth]{cloth} to [prevent]{prevent} it from [tear_3]{tearing}",
+      "entry": "grommet",
+      "id": "grommet#grommet__1"
+    },
+    {
+      "comment": "a [small_1]{small} [extra_1]{extra} [piece_1]{piece} of [cloth]{cloth} [sewn]{sewn} into a [piece_1]{piece} of [clothing]{clothing}, [especially]{especially} [underwear]{underwear}, to [make_1]{make} it [strong]{stronger} or more [comfortable]{comfortable}",
+      "entry": "gusset",
+      "id": "gusset#gusset__1"
+    },
+    {
+      "comment": "the part of a sock, etc. that goes over the back of your foot. The other end is called the toe.",
+      "entry": "heel",
+      "id": "heel_1#heel_1__7"
+    },
+    {
+      "comment": "the bottom [edge_1]{edge} of something such as a [dress_1]{dress} or [curtain]{curtain} that is [fold_1]{folded} and [sewn]{sewn} in [place_1]{place}",
+      "entry": "hem",
+      "id": "hem_1#hem_1__1"
+    },
+    {
+      "comment": "the bottom [edge_1]{edge} of a [dress_1]{dress} or [skirt_1]{skirt} which has been [turn_1]{turned} up and [sewn]{sewn} in [place_1]{place}",
+      "entry": "hemline",
+      "id": "hemline#hemline__1"
+    },
+    {
+      "comment": "the [length]{length} of [women]{women}\u2019s [skirt_1]{skirts} and [dress_1]{dresses} as this [change_1]{changes} [accord_2]{according} to [fashion_1]{fashion}",
+      "entry": "hemline",
+      "id": "hemline#hemline__2"
+    },
+    {
+      "comment": "a pocket near your hip in a pair of pants or a skirt",
+      "entry": "hip pocket",
+      "id": "hip-pocket#hip-pocket__1"
+    },
+    {
+      "comment": "a piece of colored cloth worn over the shoulders as part of some academic gowns",
+      "entry": "hood",
+      "id": "hood_1#hood_1__5"
+    },
+    {
+      "comment": "the [length]{length} of your [leg_1]{leg} [measured]{measured} on the [inside_1]{inside} from the top to the [foot_1]{foot}",
+      "entry": "inseam",
+      "id": "inseam#inseam__1"
+    },
+    {
+      "comment": "your [inseam]{inseam}",
+      "entry": "inside leg",
+      "id": "inside-leg#inside-leg__1"
+    },
+    {
+      "comment": "the part of a [pants]{pants} [leg_1]{leg} that [cover_1]{covers} your [knee_1]{knee}",
+      "entry": "knee",
+      "id": "knee_1#knee_1__9"
+    },
+    {
+      "comment": "a long thin hole in stockings or pantyhose. The American word is run.",
+      "entry": "ladder",
+      "id": "ladder#ladder__7"
+    },
+    {
+      "comment": "one of the two [part_1]{parts} at the front of a [coat_1]{coat} or [jacket]{jacket} that are [fold_1]{folded} back on each side below the [collar_1]{collar}",
+      "entry": "lapel",
+      "id": "lapel#lapel__1"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} one of your [legs]{legs}",
+      "entry": "leg",
+      "id": "leg_1#leg_1__10"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [touch_1]{touches} or [lie_1]{lies} [just_1]{just} below your [neck_1]{neck}",
+      "entry": "neck",
+      "id": "neck_1#neck_1__4"
+    },
+    {
+      "comment": "the [shape_1]{shape} of a [piece_1]{piece} of [clothing]{clothing} around your [neck_1]{neck}",
+      "entry": "neckline",
+      "id": "neckline#neckline__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [material_1]{material} that [form_1]{forms} part of a [piece_1]{piece} of [clothing]{clothing}",
+      "entry": "panel",
+      "id": "panel_1#panel_1__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [cloth]{cloth} that you sew over a hole in [clothes]{clothes}, or over a part where [hole_1]{holes} might form",
+      "entry": "patch",
+      "id": "patch_1#patch_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [cloth]{cloth} with a [design_1]{design} on it that you sew onto [clothes]{clothes} for [decoration]{decoration}",
+      "entry": "patch",
+      "id": "patch_1#patch_1__5"
+    },
+    {
+      "comment": "a [square_1]{square} [pocket_1]{pocket} that is [sewn]{sewn} onto a [piece_1]{piece} of [clothing]{clothing}",
+      "entry": "patch pocket",
+      "id": "patch-pocket#patch-pocket__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bag_1]{bag} that [form_1]{forms} part of a [piece_1]{piece} of [clothing]{clothing} and is [used]{used} for [holding]{holding} [small_1]{small} [object_1]{objects}",
+      "entry": "pocket",
+      "id": "pocket_1#pocket_1__1"
+    },
+    {
+      "comment": "a long thin hole in stockings or pantyhose",
+      "entry": "run",
+      "id": "run_2#run_2__33"
+    },
+    {
+      "comment": "a round low [neck_1]{neck} on a [piece_1]{piece} of [women]{women}\u2019s [clothing]{clothing}",
+      "entry": "scoop neck",
+      "id": "scoop-neck#scoop-neck__1"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} your bottom",
+      "entry": "seat",
+      "id": "seat_1#seat_1__20"
+    },
+    {
+      "comment": "the front part of a man\u2019s [shirt]{shirt}",
+      "entry": "shirtfront",
+      "id": "shirtfront#shirtfront__1"
+    },
+    {
+      "comment": "the [sleeve]{sleeves} of a [shirt]{shirt}",
+      "entry": "shirtsleeves",
+      "id": "shirtsleeves#shirtsleeves__1"
+    },
+    {
+      "comment": "the bottom part of a man\u2019s [shirt]{shirt} that is [worn_1]{worn} [inside_1]{inside} his [pants]{pants}, [especially]{especially} the [long_1]{longer} part at the back",
+      "entry": "shirttail",
+      "id": "shirttail#shirttail__1"
+    },
+    {
+      "comment": "the part of a [shirt]{shirt}, [jacket]{jacket}, or other [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} your [shoulder_1]{shoulder}",
+      "entry": "shoulder",
+      "id": "shoulder_1#shoulder_1__5"
+    },
+    {
+      "comment": "a thick [soft]{soft} [piece_1]{piece} of [material_1]{material} [inside_1]{inside} the [shoulder_1]{shoulders} of a [piece_1]{piece} of [clothing]{clothing} such as a [jacket]{jacket}",
+      "entry": "shoulder pad",
+      "id": "shoulder-pad#shoulder-pad__1"
+    },
+    {
+      "comment": "a thin [piece_1]{piece} of [cloth]{cloth} or other [material_1]{material} that [go_1]{goes} over the [shoulder_1]{shoulder} on [clothes]{clothes} such as [dress_1]{dresses}",
+      "entry": "shoulder strap",
+      "id": "shoulder-strap#shoulder-strap__1"
+    },
+    {
+      "comment": "a [cut_1]{cut} in the side of a [piece_1]{piece} of [clothing]{clothing} such as a [skirt_1]{skirt}, [used]{used} [mainly]{mainly} for [decoration]{decoration}",
+      "entry": "side split",
+      "id": "side-split#side-split__3"
+    },
+    {
+      "comment": "the part of a [dress_1]{dress} or [coat_1]{coat} that is below the [waist]{waist}",
+      "entry": "skirt",
+      "id": "skirt_1#skirt_1__4"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} your [arm_1]{arm}",
+      "entry": "sleeve",
+      "id": "sleeve#sleeve__1"
+    },
+    {
+      "comment": "a short piece of bone, wire, or plastic used inside a corset or shirt collar to keep it stiff",
+      "entry": "stay",
+      "id": "stay_2#stay_2__5"
+    },
+    {
+      "comment": "a [band_1]{band} of [cloth]{cloth} that [go_1]{goes} under your [foot_1]{foot} on some [pants]{pants}",
+      "entry": "stirrup",
+      "id": "stirrup#stirrup__3"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [piece_1]{piece} of [material_1]{material} that [hold_1]{holds} a [piece_1]{piece} of [clothing]{clothing} on your body",
+      "entry": "strap",
+      "id": "strap_1#strap_1__5"
+    },
+    {
+      "comment": "a [label_1]{label} [attached]{attached} to [clothing]{clothing} or other [material_1]{material} and that [give_1]{gives} [information]{information} about it",
+      "entry": "tab",
+      "id": "tab_1#tab_1__4"
+    },
+    {
+      "comment": "the bottom part of your [shirt]{shirt} that you put [inside_1]{inside} your [pants]{pants}",
+      "entry": "tail",
+      "id": "tail_1#tail_1__10"
+    },
+    {
+      "comment": "the part of a [shoe_1]{shoe} or [sock_1]{sock} that [cover_1]{covers} your [toe_1]{toes}",
+      "entry": "toe",
+      "id": "toe_1#toe_1__5"
+    },
+    {
+      "comment": "a long part at the back of a [dress_1]{dress}, [especially]{especially} a [wedding]{wedding} [dress_1]{dress}, that [spread_1]{spreads} over the [ground_1]{ground}",
+      "entry": "train",
+      "id": "train_1#train_1__12"
+    },
+    {
+      "comment": "a [fold_1]{fold} in [clothing]{clothing} that you sew for [decoration]{decoration} or to [make_1]{make} the [clothing]{clothing} [tight_1]{tighter}",
+      "entry": "tuck",
+      "id": "tuck_2#tuck_2__1"
+    },
+    {
+      "comment": "a [cuff_1]{cuff}",
+      "entry": "turn-up",
+      "id": "turn-up_2#turn-up_2__1"
+    },
+    {
+      "comment": "a high neck that folds over on a sweater",
+      "entry": "turtleneck",
+      "id": "turtleneck#turtleneck__1"
+    },
+    {
+      "comment": "a [straight_1]{straight} [cut_1]{cut} at the bottom of a [jacket]{jacket}, [dress_1]{dress}, etc. that [allow]{allows} you to move more [easily]{easily}",
+      "entry": "vent",
+      "id": "vent_1#vent_1__3"
+    },
+    {
+      "comment": "an [opening_1]{opening} for the [neck_1]{neck} in a [piece_1]{piece} of [clothing]{clothing}, in the [shape_1]{shape} of a \u201cV\u201d",
+      "entry": "V-neck",
+      "id": "v-neck#v-neck__1"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} the [middle_1]{middle} part of your body",
+      "entry": "waist",
+      "id": "waist#waist__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [cloth]{cloth} on a [pair_1]{pair} of [pants]{pants} or a [skirt_1]{skirt} that [go_1]{goes} around your [waist]{waist}",
+      "entry": "waistband",
+      "id": "waistband#waistband__1"
+    },
+    {
+      "comment": "the [place_1]{place} where the [upper_1]{upper} and [lower_1]{lower} [piece_1]{pieces} of [clothing]{clothing} [meet_1]{meet}, [usually]{usually} [near_1]{near} the [waist]{waist}",
+      "entry": "waistline",
+      "id": "waistline#waistline__2"
+    },
+    {
+      "comment": "a [stiff_1]{stiff} [collar_1]{collar} [fold_1]{folded} over at the [corner_1]{corners} on a man\u2019s [formal_1]{formal} [shirt]{shirt}",
+      "entry": "wing collar",
+      "id": "wing-collar#wing-collar__1"
+    }
+  ],
+  "thesaurus": "Parts of clothes",
+  "type": "Related words"
+}

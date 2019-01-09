@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "wait/just a minute",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone to [wait_1]{wait} or be [patient_1]{patient}",
+      "examples": [
+        "[just_1]{Just} a [minute_1]{minute}, [sir]{sir}, and I\u2019ll take your [order_1]{order}."
+      ],
+      "id": "wait-just-a-minute__1"
+    },
+    {
+      "def": "[used]{used} when you are about to [disagree]{disagree} with what someone has [said_1]{said}",
+      "examples": [
+        "[wait_1]{Wait} a [minute_1]{minute} \u2013 that can\u2019t be [right_1]{right}."
+      ],
+      "id": "wait-just-a-minute__3"
+    }
+  ]
+}

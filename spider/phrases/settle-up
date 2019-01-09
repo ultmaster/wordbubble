@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "settle up",
+  "senses": [
+    {
+      "def": "to [pay_1]{pay} all of an amount of [money]{money} that you owe to a [particular_1]{particular} [person]{person} or [company]{company}",
+      "examples": [
+        "[let_1]{Let}\u2019s [settle_1]{settle} up with the [waiter]{waiter} and get out of here."
+      ],
+      "id": "settle-up__1"
+    },
+    {
+      "def": "to [agree]{agree} how much each [person]{person} or [group_1]{group} should [pay_1]{pay}",
+      "examples": [
+        "I\u2019ll [pay_1]{pay} \u2013 we can [settle_1]{settle} up [later_1]{later}."
+      ],
+      "id": "settle-up__3"
+    }
+  ]
+}

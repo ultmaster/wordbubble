@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [train_1]{trains} a [sport_1]{sports} [player]{player} or [team_1]{team}",
+      "entry": "coach",
+      "id": "coach_1#coach_1__4"
+    },
+    {
+      "comment": "to [train_1]{train} a [sport_1]{sports} [player]{player} or [team_1]{team}",
+      "entry": "coach",
+      "id": "coach_2#coach_2__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [training]{training} a [person]{person} or [team_1]{team} in the [skill]{skills} [need_1]{needed} to [play_1]{play} a [particular_1]{particular} [sport_1]{sport} well",
+      "entry": "coaching",
+      "id": "coaching#coaching__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [training]{training} in more than one [sport_1]{sport}",
+      "entry": "cross-training",
+      "id": "cross-training#cross-training__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [make_1]{make} you [fit_1]{fit} by [showing]{showing} you how to [exercise_1]{exercise} [effectively]{effectively}",
+      "entry": "personal trainer",
+      "id": "personal-trainer#personal-trainer__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [teach]{teach} [tennis]{tennis} or [golf]{golf} to the [member]{members} of a [club_1]{club}",
+      "entry": "pro",
+      "id": "pro_1#pro_1__3"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [teach]{teach} [people_1]{people} to [play_1]{play} a [sport_1]{sport} at a [club_1]{club}",
+      "entry": "professional",
+      "id": "professional_2#professional_2__5"
+    },
+    {
+      "comment": "to watch someone doing a sports activity such as weight training or gymnastics in order to help them, and to make sure that they do not get injured",
+      "entry": "spot",
+      "id": "spot_2#spot_2__8"
+    },
+    {
+      "comment": "someone whose job is to watch someone doing a sports activity such as weight training or gymnastics in order to help them, and to make sure that they do not get injured",
+      "entry": "spotter",
+      "id": "spotter#spotter__1"
+    },
+    {
+      "comment": "to [practice_1]{practice} a [sport_1]{sport} [regularly]{regularly} before a [game_1]{game} or [competition]{competition}",
+      "entry": "train",
+      "id": "train_2#train_2__11"
+    },
+    {
+      "comment": "to [help_1]{help} someone to [practice_1]{practice} a [sport_1]{sport} [regularly]{regularly} before a [game_1]{game} or [competition]{competition}",
+      "entry": "train",
+      "id": "train_2#train_2__14"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [train_1]{train} someone in a [sport_1]{sport}",
+      "entry": "trainer",
+      "id": "trainer#trainer__1"
+    },
+    {
+      "comment": "the [period_1]{period} of time that a [sport_1]{sports} [team_1]{team} [spend]{spends} [practicing]{practicing} together before the [season_1]{season} [begin]{begins} or before a [game_1]{game}",
+      "entry": "training",
+      "id": "training#training__10"
+    },
+    {
+      "comment": "a [place_1]{place} where [people_1]{people} [live_1]{live} [temporarily]{temporarily} and [learn]{learn} or [develop]{develop} their [skill]{skills} in a [sport_1]{sport}",
+      "entry": "training camp",
+      "id": "training-camp#training-camp__1"
+    }
+  ],
+  "thesaurus": "Sports coaching and training",
+  "type": "Related words"
+}

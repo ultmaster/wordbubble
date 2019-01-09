@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "run on",
+  "senses": [
+    {
+      "def": "to [continue]{continue} for [long_1]{longer} than [expected]{expected} or [plan_2]{planned}",
+      "examples": [
+        "I [hope_1]{hope} this [meeting]{meeting} doesn\u2019t [run_1]{run} on too long."
+      ],
+      "id": "run-on__1"
+    },
+    {
+      "def": "to [talk_1]{talk} for a long time about something in a way that is [boring_1]{boring}",
+      "examples": [
+        "[bobby]{Bobby} [ran]{ran} on for [hour]{hours} about her [relationship]{relationship} [problem]{problems}."
+      ],
+      "id": "run-on__3"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[completely]{completely} [clean_1]{clean}, with no [bacteria]{bacteria}",
+      "examples": [
+        "[make_1]{Make} [sure_1]{sure} that the [needle_1]{needles} are sterile."
+      ],
+      "id": "sterile__1"
+    },
+    {
+      "def": "someone who is sterile is not [able_1]{able} to [produce_1]{produce} [children]{children}",
+      "examples": [
+        "He was sterile due to a [childhood]{childhood} [illness]{illness}."
+      ],
+      "id": "sterile__3"
+    },
+    {
+      "def": "a sterile [room_1]{room} or [environment]{environment} [lack_2]{lacks} [color_1]{color}, is not very [interesting]{interesting} or [comfortable]{comfortable}, and is very [clean_1]{clean}",
+      "examples": [
+        "her sterile [little_1]{little} [office]{office} in the [city]{city}",
+        "They [wasted]{wasted} [month]{months} in sterile [legal]{legal} [debate_1]{debate}."
+      ],
+      "id": "sterile__5"
+    },
+    {
+      "def": "[land_1]{land} that is sterile cannot have any [crop_1]{crops} [grown_1]{grown} on it",
+      "examples": [],
+      "id": "sterile__10"
+    }
+  ],
+  "word": "sterile"
+}

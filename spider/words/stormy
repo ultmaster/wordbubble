@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "with a [lot_1]{lot} of [rain_1]{rain} and [strong]{strong} [wind_1]{winds}",
+      "examples": [
+        "stormy [weather_1]{weather}/[sea_1]{seas}",
+        "a stormy [night_1]{night}"
+      ],
+      "id": "stormy__1"
+    },
+    {
+      "def": "[involve]{involving} a [lot_1]{lot} of [anger_1]{anger} or [argument]{arguments}",
+      "examples": [
+        "a stormy [relationship]{relationship}"
+      ],
+      "id": "stormy__4"
+    }
+  ],
+  "word": "stormy"
+}

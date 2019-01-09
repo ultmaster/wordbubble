@@ -1,0 +1,336 @@
+{
+  "entries": [
+    {
+      "comment": "the [total_1]{total} [score_1]{scored} in a [set_1]{set} of [game_1]{games}",
+      "entry": "aggregate",
+      "id": "aggregate_2#aggregate_2__3"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} the [score_1]{score} in a [game_1]{game} when each of the two [player]{players} or [team_1]{teams} has [score_1]{scored} an [equal_1]{equal} [number_1]{number} of [point_1]{points}",
+      "entry": "all",
+      "id": "all_1#all_1__37"
+    },
+    {
+      "comment": "if a [game_1]{game} is all [square_1]{square}, both [team_1]{teams} or [player]{players} have the same [number_1]{number} of [point_1]{points}",
+      "entry": "all square",
+      "id": "all-square#all-square__1"
+    },
+    {
+      "comment": "something done by a [player]{player} that [help_1]{helps} another [player]{player} in the same [team_1]{team} to [score_1]{score} a [point_1]{point} or [goal]{goal}",
+      "entry": "assist",
+      "id": "assist_2#assist_2__1"
+    },
+    {
+      "comment": "an [attempt_1]{attempt} to [score_1]{score} [point_1]{points} against an [opponent]{opponent} in a [game_1]{game} or [sport_1]{sport}",
+      "entry": "attack",
+      "id": "attack_1#attack_1__22"
+    },
+    {
+      "comment": "to [try_1]{try} to [score_1]{score} [point_1]{points} against an [opponent]{opponent} in a [game_1]{game} or [sport_1]{sport}",
+      "entry": "attack",
+      "id": "attack_2#attack_2__18"
+    },
+    {
+      "comment": "to [kick_1]{kick} the [ball_1]{ball} [hard_1]{hard} in [soccer]{soccer} into the back of the [net_1]{net}, [score_1]{scoring} a [goal]{goal}",
+      "entry": "bury",
+      "id": "bury#bury__16"
+    },
+    {
+      "comment": "to [score_1]{score} [point_1]{points}, or to [achieve]{achieve} [success]{success} in a [game_1]{game}",
+      "entry": "chalk something up",
+      "id": "chalk-something-up#chalk-something-up__1"
+    },
+    {
+      "comment": "if you [concede]{concede} a [goal]{goal}, [point_1]{point}, or [game_1]{game}, the [person]{person} or [team_1]{team} you are [play_1]{playing} [score_1]{scores} a [goal]{goal} or [point_1]{point} or [win_1]{wins} a [game_1]{game}",
+      "entry": "concede",
+      "id": "concede#concede__10"
+    },
+    {
+      "comment": "a [number_1]{number} of [point_1]{points} or [goals]{goals} by which you are [winning]{winning} during a [game_1]{game} or [competition]{competition}",
+      "entry": "cushion",
+      "id": "cushion_1#cushion_1__6"
+    },
+    {
+      "comment": "a [tie_1]{tie} in a [game_1]{game} or [competition]{competition}",
+      "entry": "deadlock",
+      "id": "deadlock#deadlock__4"
+    },
+    {
+      "comment": "if a [player]{player} or [team_1]{team} is a [certain_1]{certain} [number_1]{number} of [point_1]{points} down, that is the [number_1]{number} of [point_1]{points} they [need_1]{need} in [order_1]{order} to [reach_1]{reach} their [opponent]{opponent}\u2019s [score_1]{score}",
+      "entry": "down",
+      "id": "down_1#down_1__77"
+    },
+    {
+      "comment": "to [fail_1]{fail} to [win_1]{win} [point_1]{points} in a [game_1]{game}, [competition]{competition}, or [test_1]{test}",
+      "entry": "drop",
+      "id": "drop_1#drop_1__59"
+    },
+    {
+      "comment": "to [score_1]{score} a [goal]{goal} or [win_1]{win} a [point_1]{point} in a [game_1]{game} that [give_1]{gives} you the same [score_1]{score} as the [opposing]{opposing} [team_1]{team}",
+      "entry": "equalize",
+      "id": "equalize#equalize__3"
+    },
+    {
+      "comment": "a [goal]{goal} or [point_1]{point} that [give_1]{gives} you the same [score_1]{score} as the [opposing]{opposing} [team_1]{team}",
+      "entry": "equalizer",
+      "id": "equalizer#equalizer__4"
+    },
+    {
+      "comment": "to [make_1]{make} the [score_1]{scores} of two [player]{players} or [team_1]{teams} the same in a [game_1]{game} or [competition]{competition}",
+      "entry": "even",
+      "id": "even_3#even_3__1"
+    },
+    {
+      "comment": "in a [game_1]{game} such as [tennis]{tennis}, a [situation]{situation} in which a [player]{player} will [win_1]{win} the [game_1]{game} if they [win_1]{win} the next [point_1]{point}",
+      "entry": "game point",
+      "id": "game-point#game-point__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [put]{putting} a [ball_1]{ball} into a [goal]{goal}",
+      "entry": "goal",
+      "id": "goal#goal__8"
+    },
+    {
+      "comment": "the [point_1]{point} or [point_1]{points} that you [score_1]{score} by [put]{putting} a [ball_1]{ball} into a [goal]{goal}",
+      "entry": "goal",
+      "id": "goal#goal__11"
+    },
+    {
+      "comment": "the [difference]{difference} between the [number_1]{number} of [goals]{goals} that a [team_1]{team} has [score_1]{scored} and the [number_1]{number} of [goals]{goals} that other [team_1]{teams} have [score_1]{scored} against them",
+      "entry": "goal difference",
+      "id": "goal-difference#goal-difference__1"
+    },
+    {
+      "comment": "the [job_1]{job} or [skill]{skills} of a [goalkeeper]{goalkeeper}",
+      "entry": "goalkeeping",
+      "id": "goalkeeping#goalkeeping__1"
+    },
+    {
+      "comment": "with no [goals]{goals} [score_1]{scored}",
+      "entry": "goalless",
+      "id": "goalless#goalless__1"
+    },
+    {
+      "comment": "[goalkeeping]{goalkeeping}",
+      "entry": "goaltending",
+      "id": "goaltending#goaltending__1"
+    },
+    {
+      "comment": "to [score_1]{score} a [goal]{goal} or [point_1]{point} with a very [powerful]{powerful} [kick_1]{kick} or hit",
+      "entry": "hammer/hit/drive something home",
+      "id": "hammer-hit-drive-something-home#hammer-hit-drive-something-home__3"
+    },
+    {
+      "comment": "three goals scored by the same person in one game of a sport such as soccer or hockey",
+      "entry": "hat trick",
+      "id": "hat-trick#hat-trick__1"
+    },
+    {
+      "comment": "a [score_1]{score} that a [judge_1]{judge} [give_1]{gives} a [performance]{performance} in a [competition]{competition}",
+      "entry": "mark",
+      "id": "mark_1#mark_1__20"
+    },
+    {
+      "comment": "the [place_1]{place} that you [try_1]{try} to hit",
+      "entry": "mark",
+      "id": "mark_1#mark_1__21"
+    },
+    {
+      "comment": "a [failure]{failure} to hit or [catch_1]{catch} something, or to [score_1]{score} in a [game_1]{game}",
+      "entry": "miss",
+      "id": "miss_2#miss_2__1"
+    },
+    {
+      "comment": "something that you are [trying]{trying} to [attack_1]{attack} that is [moving]{moving}, for [example]{example} an [airplane]{airplane}",
+      "entry": "moving target",
+      "id": "moving-target#moving-target__1"
+    },
+    {
+      "comment": "in [sport_1]{sport}, to hit or [throw_1]{throw} a [ball_1]{ball} into a [net_1]{net}",
+      "entry": "net",
+      "id": "net_3#net_3__8"
+    },
+    {
+      "comment": "the [number_1]{number} 0 in the [score_1]{score} of a [game_1]{game}",
+      "entry": "nil",
+      "id": "nil#nil__3"
+    },
+    {
+      "comment": "the first [goal]{goal} [score_1]{scored} in a [game_1]{game}",
+      "entry": "opener",
+      "id": "opener#opener__5"
+    },
+    {
+      "comment": "a [goal]{goal} that you [accidentally]{accidentally} [score_1]{score} against your own [team_1]{team}",
+      "entry": "own goal",
+      "id": "own-goal#own-goal__1"
+    },
+    {
+      "comment": "a [small_1]{small} [board_1]{board} with [hole_1]{holes} in it where you put [peg_1]{pegs} for [recording]{recording} a [player]{player}\u2019s [score_1]{score} in some [game_1]{games}",
+      "entry": "pegboard",
+      "id": "pegboard#pegboard__2"
+    },
+    {
+      "comment": "a [unit]{unit} for [count_1]{counting} the [score_1]{score} in a [game_1]{game} or [sport_1]{sport}",
+      "entry": "point",
+      "id": "point_1#point_1__28"
+    },
+    {
+      "comment": "[used]{used} about a [person]{person} or [team_1]{team} that [start_1]{starts} to [win_1]{win}",
+      "entry": "pull away",
+      "id": "pull-away#pull-away__5"
+    },
+    {
+      "comment": "to [score_1]{score} a [goal]{goal} by [kick_1]{kicking} or [hit_1]{hitting} the [ball_1]{ball} into the [net_1]{net}",
+      "entry": "put away",
+      "id": "put-away#put-away__10"
+    },
+    {
+      "comment": "in [sport_1]{sports}, to get a [large_1]{large} [number_1]{number} of [point_1]{points} or [goals]{goals}",
+      "entry": "rack up",
+      "id": "rack-up#rack-up__5"
+    },
+    {
+      "comment": "in [soccer]{soccer} and [similar]{similar} [sport_1]{sports}, to [kick_1]{kick} or hit the [ball_1]{ball} very [hard_1]{hard} and [score_1]{score} a [point_1]{point}",
+      "entry": "ram home",
+      "id": "ram-home#ram-home__3"
+    },
+    {
+      "comment": "to [score_1]{score} a [particular_1]{particular} amount very [quickly]{quickly} in a [game_1]{game} or [competition]{competition}",
+      "entry": "rattle up",
+      "id": "rattle-up#rattle-up__1"
+    },
+    {
+      "comment": "if a goalkeeper saves a ball in a sport such as soccer, they prevent the ball from going into the net",
+      "entry": "save",
+      "id": "save_1#save_1__31"
+    },
+    {
+      "comment": "an action by a goalkeeper that prevents a ball from going into the net in a sport such as soccer",
+      "entry": "save",
+      "id": "save_2#save_2__1"
+    },
+    {
+      "comment": "to get a [point_1]{point} in a [game_1]{game} or [sport_1]{sport}",
+      "entry": "score",
+      "id": "score_1#score_1__1"
+    },
+    {
+      "comment": "to be [worth_1]{worth} a [particular_1]{particular} [number_1]{number} of [point_1]{points}",
+      "entry": "score",
+      "id": "score_1#score_1__8"
+    },
+    {
+      "comment": "the [number_1]{number} of [point_1]{points} that someone gains in a [game_1]{game}",
+      "entry": "score",
+      "id": "score_2#score_2__1"
+    },
+    {
+      "comment": "the [result_1]{result} of a [game_1]{game}, or the [number_1]{number} of [point_1]{points} [gain_1]{gained} by everyone [play_1]{playing} up to a [particular_1]{particular} [moment]{moment}",
+      "entry": "score",
+      "id": "score_2#score_2__2"
+    },
+    {
+      "comment": "a [number_1]{number} that [represent]{represents} how well someone [did]{did} on a [test_1]{test}",
+      "entry": "score",
+      "id": "score_2#score_2__5"
+    },
+    {
+      "comment": "a [large_1]{large} [board_1]{board} that [show_1]{shows} the [score_1]{scores} in a [game_1]{game} or [sport_1]{sports} [event]{event}",
+      "entry": "scoreboard",
+      "id": "scoreboard#scoreboard__1"
+    },
+    {
+      "comment": "a [card_1]{card} on which you [record_1]{record} the [score_1]{score} in a [game_1]{game} or [sport_1]{sports} [event]{event} while it is being [play_1]{played}",
+      "entry": "scorecard",
+      "id": "scorecard#scorecard__1"
+    },
+    {
+      "comment": "a [scoreless]{scoreless} [game_1]{game} or part of a [game_1]{game} has had no [point_1]{points} [score_1]{scored} in it",
+      "entry": "scoreless",
+      "id": "scoreless#scoreless__1"
+    },
+    {
+      "comment": "the final score in a soccer, rugby, or tennis game",
+      "entry": "scoreline",
+      "id": "scoreline#scoreline__1"
+    },
+    {
+      "comment": "to be the [difference]{difference} between the [winner]{winner} and the others in a [competition]{competition}",
+      "entry": "separate",
+      "id": "separate_2#separate_2__15"
+    },
+    {
+      "comment": "to [score_1]{score} the same [number_1]{number} of [point_1]{points} as another [player]{player} or [team_1]{team}, so that no one [win_1]{wins} a [match_1]{match} or [series]{series} of [match_1]{matches}",
+      "entry": "square",
+      "id": "square_3#square_3__3"
+    },
+    {
+      "comment": "to [make_1]{make} a [successful]{successful} [attack_1]{attack} in a [competition]{competition}, [especially]{especially} by [score_1]{scoring} a [goal]{goal} or [point_1]{point}",
+      "entry": "strike",
+      "id": "strike_1#strike_1__22"
+    },
+    {
+      "comment": "a hit or [kick_1]{kick} of a [ball_1]{ball}, [especially]{especially} one with which you [score_1]{score} a [goal]{goal} or a [point_1]{point}",
+      "entry": "strike",
+      "id": "strike_2#strike_2__11"
+    },
+    {
+      "comment": "to [make_1]{make} a [successful]{successful} [attack_1]{attack} in a [competition]{competition} after being [attack_2]{attacked} yourself, [especially]{especially} by [score_1]{scoring} a [point_1]{point} or [goal]{goal}",
+      "entry": "strike back",
+      "id": "strike-back#strike-back__5"
+    },
+    {
+      "comment": "an [object_1]{object} that you have to hit in a [game_1]{game} or a [sport_1]{sport}",
+      "entry": "target",
+      "id": "target_1#target_1__1"
+    },
+    {
+      "comment": "if two [player]{players} or [team_1]{teams} in a [game_1]{game} [tie_1]{tie}, they both have the same [number_1]{number} of [point_1]{points}",
+      "entry": "tie",
+      "id": "tie_1#tie_1__16"
+    },
+    {
+      "comment": "a [result_1]{result} of a [game_1]{game} or [competition]{competition} in which each [person]{person} or [team_1]{team} has the same [number_1]{number} of [point_1]{points}, [vote_1]{votes}, etc.",
+      "entry": "tie",
+      "id": "tie_2#tie_2__9"
+    },
+    {
+      "comment": "in [tennis]{tennis} and other [sport_1]{sports}, an [extra_1]{extra} [game_1]{game} [play_1]{played} to [decide]{decide} who will [win_1]{win} when both [player]{players} or [team_1]{teams} have the same [number_1]{number} of [point_1]{points}",
+      "entry": "tiebreaker",
+      "id": "tiebreaker#tiebreaker__1"
+    },
+    {
+      "comment": "if a [game_1]{game} is [tight_1]{tight}, both [player]{players} or [team_1]{teams} [play_1]{play} well and it is [difficult]{difficult} to [know_1]{know} who will [win_1]{win}",
+      "entry": "tight",
+      "id": "tight_1#tight_1__27"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} what the [score_1]{score} is in a [game_1]{game}",
+      "entry": "to",
+      "id": "to#to__91"
+    },
+    {
+      "comment": "if a [team_1]{team}, [player]{player}, etc. is [unbeaten]{unbeaten}, they have never been [defeat_2]{defeated} in a [competition]{competition}",
+      "entry": "unbeaten",
+      "id": "unbeaten#unbeaten__1"
+    },
+    {
+      "comment": "an [undecided]{undecided} [game_1]{game} or [competition]{competition} has no [winner]{winner} at the [end_1]{end}",
+      "entry": "undecided",
+      "id": "undecided#undecided__4"
+    },
+    {
+      "comment": "[involve]{involving} one [person]{person}, [team_1]{team}, [army]{army}, etc. that is much [strong]{stronger} than the other",
+      "entry": "unequal",
+      "id": "unequal#unequal__6"
+    },
+    {
+      "comment": "the [goal]{goal} or [shot_1]{shot} that [win_1]{wins} a [game_1]{game}",
+      "entry": "winner",
+      "id": "winner#winner__6"
+    }
+  ],
+  "thesaurus": "Scoring points and goals",
+  "type": "Related words"
+}

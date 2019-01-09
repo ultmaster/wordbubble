@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "put together",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something by [join_1]{joining} all its [part_1]{parts}",
+      "examples": [
+        "Will you [help_1]{help} me put this [desk]{desk} together?"
+      ],
+      "id": "put-together__1"
+    },
+    {
+      "def": "to [produce_1]{produce} or [organize]{organize} something [use_1]{using} many [different]{different} [thing]{things}",
+      "examples": [
+        "[initially]{Initially}, they [simply]{simply} put together a [series]{series} of [guidelines]{guidelines}.",
+        "The [exhibit_1]{exhibit} has been put together by a [group_1]{group} of [young_1]{young} [artist]{artists}."
+      ],
+      "id": "put-together__3"
+    },
+    {
+      "def": "to [choose]{choose} [people_1]{people} or [thing]{things} to form a [team_1]{team} or [group_1]{group}",
+      "examples": [
+        "A [team_1]{team} of [expert_1]{experts} has been put together to [examine]{examine} the [effect_1]{effects} of [global]{global} [warming_1]{warming}."
+      ],
+      "id": "put-together__6"
+    }
+  ]
+}

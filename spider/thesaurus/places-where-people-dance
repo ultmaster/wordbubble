@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} you go to in the [evening_1]{evening} to [dance_1]{dance} and [drink_1]{drink}",
+      "entry": "club",
+      "id": "club_1#club_1__13"
+    },
+    {
+      "comment": "an [area]{area} in a [club_1]{club}, [restaurant]{restaurant}, etc. [design_2]{designed} for [people_1]{people} to [dance_1]{dance} on",
+      "entry": "dance floor",
+      "id": "dance-floor#dance-floor__1"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} or [building]{building} where [people_1]{people} [paid_1]{paid} to go and [dance_1]{dance} to [popular]{popular} [music]{music} in the [past_1]{past}",
+      "entry": "dance hall",
+      "id": "dance-hall#dance-hall__1"
+    },
+    {
+      "comment": "a [place_1]{place} or [event]{event} where [people_1]{people} [dance_1]{dance} to [popular]{popular} [music]{music}",
+      "entry": "disco",
+      "id": "disco_1#disco_1__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [area]{area} for [dancing]{dancing}",
+      "entry": "floor",
+      "id": "floor_1#floor_1__4"
+    },
+    {
+      "comment": "a [tall]{tall} [pole_1]{pole} with long thin [piece_1]{pieces} of [cloth]{cloth} [attached]{attached} to the top that [people_1]{people} [traditionally]{traditionally} [dance_1]{danced} around in England, [especially]{especially} on May [day]{Day}",
+      "entry": "maypole",
+      "id": "maypole#maypole__1"
+    },
+    {
+      "comment": "a place where people go in the evening to dance, drink alcohol, or watch entertainers. Nightclubs often stay open very late.",
+      "entry": "nightclub",
+      "id": "nightclub#nightclub__1"
+    },
+    {
+      "comment": "a [nightclub]{nightclub}",
+      "entry": "nightspot",
+      "id": "nightspot#nightspot__1"
+    },
+    {
+      "comment": "a [place_1]{place} where the [audience]{audience} is [entertain]{entertained} by [performer]{performers} who take off their [clothes]{clothes} while [dancing]{dancing} to [music]{music}",
+      "entry": "strip club",
+      "id": "strip-club#strip-club__1"
+    },
+    {
+      "comment": "a [strip_1]{strip} [club_1]{club}",
+      "entry": "strip joint",
+      "id": "strip-joint#strip-joint__1"
+    }
+  ],
+  "thesaurus": "Places where people dance",
+  "type": "Related words"
+}

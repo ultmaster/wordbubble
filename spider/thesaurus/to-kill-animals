@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "to [catch_1]{catch} and [kill_1]{kill} an [animal_1]{animal} that you are [hunting]{hunting}",
+      "entry": "bag",
+      "id": "bag_2#bag_2__5"
+    },
+    {
+      "comment": "to [kill_1]{kill} an [animal_1]{animal} and [cut_1]{cut} it up so that it can be [eaten]{eaten}",
+      "entry": "butcher",
+      "id": "butcher_2#butcher_2__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} [animal_1]{animals} [deliberately]{deliberately}, [especially]{especially} in [order_1]{order} to [stop_1]{stop} the [population]{population} from becoming too [large_1]{large}",
+      "entry": "cull",
+      "id": "cull_1#cull_1__3"
+    },
+    {
+      "comment": "to [officially]{officially} [kill_1]{kill} an [animal_1]{animal} because it is [dangerous]{dangerous} or very [sick_1]{sick}",
+      "entry": "destroy",
+      "id": "destroy#destroy__6"
+    },
+    {
+      "comment": "to [kill_1]{kill} all the [insect]{insects} or [animal_1]{animals} of a [particular_1]{particular} [type_1]{type} in an [area]{area}",
+      "entry": "exterminate",
+      "id": "exterminate#exterminate__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} [animal_1]{animals} for [food]{food} or for their [skin_1]{skin} or other [part_1]{parts}, or for [sport_1]{sport}",
+      "entry": "hunt",
+      "id": "hunt_1#hunt_1__1"
+    },
+    {
+      "comment": "to [look_1]{look} for and [kill_1]{kill} a [type_1]{type} of [animal_1]{animal} until there are no more or very few [left_1]{left}",
+      "entry": "hunt out",
+      "id": "hunt-out#hunt-out__1"
+    },
+    {
+      "comment": "to [illegal_1#illegal_1__6]{illegally} [catch_1]{catch} or [kill_1]{kill} an [animal_1]{animal}, [bird]{bird}, or [fish_1]{fish} on someone else\u2019s [property]{property}",
+      "entry": "poach",
+      "id": "poach#poach__4"
+    },
+    {
+      "comment": "to [shoot_1]{shoot} and [kill_1]{kill} an [animal_1]{animal}",
+      "entry": "pot",
+      "id": "pot_2#pot_2__3"
+    },
+    {
+      "comment": "to [kill_1]{kill} an [animal_1]{animal} [use_1]{using} a [drug_1]{drug} because it is very [old]{old}, ill, or [dangerous]{dangerous}",
+      "entry": "put down",
+      "id": "put-down#put-down__16"
+    },
+    {
+      "comment": "to [end_1]{end} the [life]{life} of an [animal_1]{animal} that is [suffering]{suffering}",
+      "entry": "put something out of its misery",
+      "id": "put-something-out-of-its-misery#put-something-out-of-its-misery__1"
+    },
+    {
+      "comment": "the [killing]{killing} of [animal_1]{animals}, [usually]{usually} for their [meat]{meat}",
+      "entry": "slaughter",
+      "id": "slaughter_1#slaughter_1__3"
+    },
+    {
+      "comment": "to [kill_1]{kill} [animal_1]{animals}, [usually]{usually} for their [meat]{meat}",
+      "entry": "slaughter",
+      "id": "slaughter_2#slaughter_2__3"
+    },
+    {
+      "comment": "to [kill_1]{kill} an [animal_1]{animal} by [squeeze_1]{squeezing} and [twist_1]{twisting} its [neck_1]{neck}",
+      "entry": "wring something\u2019s neck",
+      "id": "wring-something-s-neck#wring-something-s-neck__1"
+    }
+  ],
+  "thesaurus": "To kill animals",
+  "type": "Related words"
+}

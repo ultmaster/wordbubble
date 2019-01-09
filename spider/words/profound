@@ -1,0 +1,38 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "very [great_1]{great}",
+      "examples": [
+        "a profound [change_1]{change} in the [climate]{climate} of the [earth]{Earth}",
+        "The [difference]{difference} between the [beginner]{beginners} and the [intermediate_1]{intermediate} [class_1]{class} was profound.",
+        "This is a [scientific]{scientific} [discovery]{discovery} of profound [significance]{significance}.",
+        "My [grandfather_1]{grandfather}\u2019s [death]{death} had a profound [effect_1]{effect} on my [father_1]{father}.",
+        "Most of the [divorced]{divorced} [parent]{parents} we [interview_2]{interviewed} [said_1]{said} they had [experienced]{experienced} [guilt_1]{guilt} and a profound [sense_1]{sense} of [failure]{failure}."
+      ],
+      "id": "profound__1"
+    },
+    {
+      "def": "[showing]{showing} serious [thought_1]{thought} and wise [idea]{ideas}",
+      "examples": [
+        "Kafka\u2019s profound [insight]{insights} into [human_1]{human} [experience_1]{experience}",
+        "profound [question_1]{questions}"
+      ],
+      "id": "profound__8"
+    },
+    {
+      "def": "very [severe]{severe}",
+      "examples": [
+        "profound [deaf#deaf__4]{deafness}"
+      ],
+      "id": "profound__12"
+    },
+    {
+      "def": "[deep_1]{deep}",
+      "examples": [],
+      "id": "profound__14"
+    }
+  ],
+  "word": "profound"
+}

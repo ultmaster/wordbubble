@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "up and down",
+  "senses": [
+    {
+      "def": "[rising]{rising} and [fall_1]{falling}, or from bottom to top",
+      "examples": [
+        "The [children]{children} were [jump_1]{jumping} up and down with [excitement]{excitement}."
+      ],
+      "id": "up-and-down__1"
+    },
+    {
+      "def": "[backward_1]{backward} and [forward_1]{forward}",
+      "examples": [
+        "He [kept]{kept} [walking_1]{walking} up and down the [hallway]{hallway} all [night_1]{night} long."
+      ],
+      "id": "up-and-down__3"
+    },
+    {
+      "def": "sometimes [happy_1]{happy} and well and sometimes not",
+      "examples": [
+        "\u201cHow are [thing]{things} [going_1]{going}?\u201d \u201c[kind_1]{Kind} of up and down.\u201d"
+      ],
+      "id": "up-and-down__5"
+    }
+  ]
+}

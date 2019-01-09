@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fold in",
+  "senses": [
+    {
+      "def": "to use a [spoon_1]{spoon} or [knife_1]{knife} to [add_1]{add} something [slowly]{slowly} and [gently]{gently} to a [mixture]{mixture}",
+      "examples": [
+        "[fold_1]{Fold} the [cocoa]{cocoa} into the [cake]{cake} [batter_1]{batter}."
+      ],
+      "id": "fold-in__1"
+    },
+    {
+      "def": "to [combine_1]{combine} [thing]{things} that were [previously]{previously} [separate_1]{separate} so they can be [dealt]{dealt} with together",
+      "examples": [
+        "The bill would [fold_1]{fold} three [agency]{agencies} into the [state_1]{State} [department]{Department} in a cost-saving [plan_1]{plan}."
+      ],
+      "id": "fold-in__3"
+    }
+  ]
+}

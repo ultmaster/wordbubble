@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[large_1]{large} in amount or [degree]{degree}",
+      "entry": "substantial",
+      "id": "substantial#substantial__1"
+    },
+    {
+      "comment": "[large_1]{large} in [size_1]{size}, amount, or [degree]{degree}",
+      "entry": "considerable",
+      "id": "considerable#considerable__1"
+    },
+    {
+      "comment": "very [large_1]{large} in amount or [degree]{degree}",
+      "entry": "extensive",
+      "id": "extensive#extensive__1"
+    },
+    {
+      "comment": "very [large_1]{large} in [size_1]{size} or [quantity]{quantity}",
+      "entry": "enormous",
+      "id": "enormous#enormous__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [large_1]{large} in [number_1]{number}, amount, or [degree]{degree}",
+      "entry": "huge",
+      "id": "huge#huge__3"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things}",
+      "entry": "great",
+      "id": "great_1#great_1__19"
+    },
+    {
+      "comment": "[big_1]{bigger} than [usual]{usual} in [number_1]{number} or amount",
+      "entry": "large",
+      "id": "large#large__6"
+    },
+    {
+      "comment": "[large_1]{large} in amount",
+      "entry": "high",
+      "id": "high_1#high_1__14"
+    },
+    {
+      "comment": "very [big_1]{big} or [great_1]{great}",
+      "entry": "maha",
+      "id": "maha#maha__1"
+    },
+    {
+      "comment": "very [large_1]{large} or [impressive]{impressive}",
+      "entry": "mondo",
+      "id": "mondo#mondo__1"
+    }
+  ],
+  "thesaurus": "Words used to describe large amounts and quantities",
+  "type": "Synonyms"
+}

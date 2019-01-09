@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "take a pull",
+  "senses": [
+    {
+      "def": "to [drink_1]{drink} something, [especially]{especially} an [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "examples": [
+        "[john]{John} [took]{took} a long [pull_1]{pull} on his [beer]{beer}."
+      ],
+      "id": "take-a-pull__1"
+    },
+    {
+      "def": "to take [smoke_1]{smoke} from a [cigarette]{cigarette}, etc. into your [lung]{lungs}",
+      "examples": [
+        "He [took]{took} a [pull_1]{pull} at his [cigar]{cigar}."
+      ],
+      "id": "take-a-pull__3"
+    }
+  ]
+}

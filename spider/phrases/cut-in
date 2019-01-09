@@ -1,0 +1,44 @@
+{
+  "part": "phrase",
+  "phrase": "cut in",
+  "senses": [
+    {
+      "def": "if someone [cut_1]{cuts} in when you are [dancing]{dancing} with someone, they [start_1]{start} [dancing]{dancing} with the [person]{person} you were [dancing]{dancing} with",
+      "examples": [],
+      "id": "cut-in__1"
+    },
+    {
+      "def": "if a [piece_1]{piece} of [equipment]{equipment} [cut_1]{cuts} in, it [start_1]{starts} [operate]{operating} [automatically]{automatically} when it is [need_1]{needed}",
+      "examples": [
+        "The [cool_2]{cooling} system [cut_1]{cuts} in when the [temperature]{temperature} [get]{gets} too [high_1]{high}."
+      ],
+      "id": "cut-in__2"
+    },
+    {
+      "def": "to [drive_1]{drive} [past_1]{past} a [vehicle]{vehicle} and move [quickly]{quickly} in front of it in a [dangerous]{dangerous} way",
+      "examples": [],
+      "id": "cut-in__4"
+    },
+    {
+      "def": "to [interrupt]{interrupt} someone who is [speak_1]{speaking}",
+      "examples": [
+        "\u201cThat\u2019s [ridiculous]{ridiculous},\u201d [sue]{Sue} [cut_1]{cut} in."
+      ],
+      "id": "cut-in__5"
+    },
+    {
+      "def": "to [allow]{allow} someone to get part of the [profit_1]{profits} of something",
+      "examples": [
+        "They wouldn\u2019t [cut_1]{cut} me in on the [deal_1]{deal}."
+      ],
+      "id": "cut-in__7"
+    },
+    {
+      "def": "to move into a [line_1]{line} of [people_1]{people} or [thing]{things} out of [turn_1]{turn}",
+      "examples": [
+        "The [customer]{customers} [queue_2]{queuing} at the check-out would not [let_1]{let} anyone [cut_1]{cut} in [just_1]{just} because they had only a few [item]{items}."
+      ],
+      "id": "cut-in__9"
+    }
+  ]
+}

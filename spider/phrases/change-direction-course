@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "change direction/course",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [doing]{doing} something [completely]{completely} [new]{new} or [different]{different}",
+      "examples": [
+        "Most [student]{students} [change_1]{change} [direction]{direction} during their first [year]{year}."
+      ],
+      "id": "change-direction-course__1"
+    },
+    {
+      "def": "to [start_1]{start} [moving]{moving} in a [different]{different} [direction]{direction}",
+      "examples": [
+        "I [felt_1]{felt} the [boat]{boat} [change_1]{change} [direction]{direction}."
+      ],
+      "id": "change-direction-course__3"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [area]{area} of [land_1]{land} [contain]{containing} all the [main_1]{main} [building]{buildings} of a [university]{university}, [school_1]{school}, or other [organization]{organization} such as a [hospital]{hospital}",
+      "examples": [
+        "a [tour_1]{tour} of the campus",
+        "We have [room_1]{rooms} for 2,000 [student]{students} on campus.",
+        "campus [politics]{politics}/[newspaper]{newspapers}"
+      ],
+      "id": "campus__1"
+    },
+    {
+      "def": "an [area]{area} of [land_1]{land} [contain]{containing} all the [main_1]{main} [building]{buildings} of a [large_1]{large} [company]{company} or [organization]{organization}",
+      "examples": [
+        "the [national_1]{National} [security]{Security} [agency]{Agency}\u2019s [sprawling]{sprawling} campus at Fort Meade"
+      ],
+      "id": "campus__6"
+    }
+  ],
+  "word": "campus"
+}

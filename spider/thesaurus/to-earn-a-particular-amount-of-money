@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [money]{money}",
+      "entry": "generate",
+      "id": "generate#generate__1"
+    },
+    {
+      "comment": "to [earn]{earn} or [receive]{receive} an amount of [money]{money}",
+      "entry": "get",
+      "id": "get#get__19"
+    },
+    {
+      "comment": "if you get your [money]{money} back, the [money]{money} that you [paid_1]{paid} for something is [given_1]{given} back to you",
+      "entry": "get back",
+      "id": "get-back#get-back__7"
+    },
+    {
+      "comment": "to [earn]{earn} a [particular_1]{particular} amount of [money]{money} before [tax_1]{taxes} or [cost_1]{costs} have been [taken_1]{taken} out",
+      "entry": "gross",
+      "id": "gross_3#gross_3__1"
+    },
+    {
+      "comment": "to [earn]{earn} a [particular_1]{particular} amount of [money]{money} after [tax_1]{taxes} or other [cost_1]{costs} have been [removed]{removed}",
+      "entry": "net",
+      "id": "net_3#net_3__5"
+    },
+    {
+      "comment": "to [obtain]{obtain} an amount of [money]{money} by [selling]{selling} something",
+      "entry": "realize",
+      "id": "realize#realize__16"
+    },
+    {
+      "comment": "to [obtain]{obtain} an amount of [money]{money} that you [need_1]{need}",
+      "entry": "get together",
+      "id": "get-together_1#get-together_1__12"
+    },
+    {
+      "comment": "to [earn]{earn} or get [money]{money}",
+      "entry": "make",
+      "id": "make_1#make_1__43"
+    },
+    {
+      "comment": "to [make_1]{make} a [particular_1]{particular} amount of [money]{money} in a [particular_1]{particular} time",
+      "entry": "turn over",
+      "id": "turn-over#turn-over__14"
+    },
+    {
+      "comment": "to [receive]{receive} an amount of [money]{money} [regularly]{regularly}",
+      "entry": "draw",
+      "id": "draw_1#draw_1__44"
+    }
+  ],
+  "thesaurus": "To earn a particular amount of money",
+  "type": "Synonyms"
+}

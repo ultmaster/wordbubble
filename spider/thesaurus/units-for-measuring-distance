@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [distance_1]{distance} in [space_1]{space}",
+      "entry": "astronomical unit",
+      "id": "astronomical-unit#astronomical-unit__1"
+    },
+    {
+      "comment": "a [measure_1]{measure} of the [distance_1]{distance} [travel_1]{traveled} by [food]{foods} between the [place_1]{place} where they are [produce_1]{produced} and the [place_1]{place} where they are [eaten]{eaten}. Long [distance_1]{distances} are [considered]{considered} [bad_1]{bad} because the [quality_1]{quality} of the [food]{food} is [worse_1]{worse} and [energy]{energy} is [wasted]{wasted} in [transport_1]{transporting} it.",
+      "entry": "food mile",
+      "id": "food-mile#food-mile__1"
+    },
+    {
+      "comment": "[kilometer]{kilometer}",
+      "entry": "K",
+      "id": "k_2#k_2__2"
+    },
+    {
+      "comment": "a unit for measuring distance in the metric system, containing 1000 meters. The written abbreviation is km.",
+      "entry": "kilometer",
+      "id": "kilometer#kilometer__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [kilometer]{kilometer}",
+      "entry": "kilometre",
+      "id": "kilometre#kilometre__1"
+    },
+    {
+      "comment": "[kilometer]{kilometer}",
+      "entry": "km",
+      "id": "km#km__1"
+    },
+    {
+      "comment": "an [old]{old} [unit]{unit} for [measure_2]{measuring} [distance_1]{distance}, [equal_1]{equal} to about five [kilometer]{kilometers}",
+      "entry": "league",
+      "id": "league_1#league_1__12"
+    },
+    {
+      "comment": "the [distance_1]{distance} that [light_1]{light} [travel_1]{travels} in a [year]{year}, [used]{used} as a [unit]{unit} for [measure_2]{measuring} [distance_1]{distances} in [space_1]{space}",
+      "entry": "light year",
+      "id": "light-year#light-year__1"
+    },
+    {
+      "comment": "[mile]{mile}",
+      "entry": "m.",
+      "id": "m_3#m_3__1"
+    },
+    {
+      "comment": "[mile]{mile}",
+      "entry": "mi.",
+      "id": "mi_3#mi_3__1"
+    },
+    {
+      "comment": "a unit for measuring distance, equal to 1,760 yards or 1.609 kilometers",
+      "entry": "mile",
+      "id": "mile#mile__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [mile]{miles} that a [vehicle]{vehicle} has [travel_1]{traveled} since it was made, or in a [particular_1]{particular} [period_1]{period} of time",
+      "entry": "mileage",
+      "id": "mileage#mileage__1"
+    },
+    {
+      "comment": "the [distance_1]{distance} that you can [travel_1]{travel} in a [minute_1]{minute}",
+      "entry": "minute",
+      "id": "minute_1#minute_1__9"
+    },
+    {
+      "comment": "miles per gallon: the distance in miles that a vehicle can travel using one gallon of gas",
+      "entry": "mpg",
+      "id": "mpg#mpg__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [distance_1]{distances} on the [ocean]{ocean}, [equal_1]{equal} to 6080 [feet]{feet} or 1852 [meter_1]{meters}",
+      "entry": "nautical mile",
+      "id": "nautical-mile#nautical-mile__1"
+    },
+    {
+      "comment": "a [nautical]{nautical} [mile]{mile}",
+      "entry": "sea mile",
+      "id": "sea-mile#sea-mile__1"
+    }
+  ],
+  "thesaurus": "Units for measuring distance",
+  "type": "Related words"
+}

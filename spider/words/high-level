@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[involve]{involving} [people_1]{people} in [important]{important} or [powerful]{powerful} [position_1]{positions}",
+      "examples": [
+        "high-level [government]{government} [official_2]{officials}",
+        "a high-level [meeting]{meeting}"
+      ],
+      "id": "high-level__1"
+    },
+    {
+      "def": "at a more [extreme_1]{extreme} or [advanced]{advanced} [level_1]{level} than [usual]{usual}",
+      "examples": [
+        "The [health]{health} [effect_1]{effects} of high-level [radiation]{radiation} are [extreme_1]{extreme}.",
+        "We [need_1]{need} someone with high-level [training]{training} in [graphic_1]{graphic} [design_1]{design}."
+      ],
+      "id": "high-level__4"
+    },
+    {
+      "def": "[used]{used} for [describe]{describing} a computer [language]{language} that is made as [similar]{similar} as [possible_1]{possible} to a [human_1]{human} [language]{language}",
+      "examples": [],
+      "id": "high-level__7"
+    }
+  ],
+  "word": "high-level"
+}

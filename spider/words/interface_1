@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [point_1]{point} in a computer system where [information]{information} [pass_1]{passes} from one part of the system to another or from the computer to the [person]{person} [use_1]{using} it",
+      "examples": [
+        "The [point-and-click]{point-and-click} interface made [life]{life} [easy_1]{easier} for [user]{users}."
+      ],
+      "id": "interface_1__1"
+    },
+    {
+      "def": "a [place_1]{place} where [people_1]{people} or [thing]{things} [meet_1]{meet} each other, or a thing that [connect]{connects} them",
+      "examples": [
+        "the interface between the [federal]{Federal} [reserve_1]{Reserve} and other [sector]{sectors} of the [economy_1]{economy}"
+      ],
+      "id": "interface_1__4"
+    }
+  ],
+  "word": "interface"
+}

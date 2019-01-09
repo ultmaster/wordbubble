@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is very [badly]{badly} [organized]{organized} and a [failure]{failure} in every way [possible_1]{possible}",
+      "entry": "omnishambles",
+      "id": "omnishambles#omnishambles__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [place_1]{place} is [dirty_1]{dirty} or not [neat]{neat}",
+      "entry": "mess",
+      "id": "mess_1#mess_1__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which everything is [confused]{confused} and in a [mess_1]{mess}",
+      "entry": "chaos",
+      "id": "chaos#chaos__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [thing]{things} are [messy]{messy}, [badly]{badly} [organized]{organized}, or not [clear_1]{clear}",
+      "entry": "confusion",
+      "id": "confusion#confusion__6"
+    },
+    {
+      "comment": "[dirty_1]{dirty} and [unpleasant]{unpleasant} [condition_1]{conditions} that [people_1]{people} [live_1]{live} or [work_1]{work} in",
+      "entry": "squalor",
+      "id": "squalor#squalor__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [thing]{things} are not [neat]{neat}",
+      "entry": "disorder",
+      "id": "disorder#disorder__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [clothes]{clothes} or [object_1]{objects} are very [messy]{messy}",
+      "entry": "disarray",
+      "id": "disarray#disarray__2"
+    },
+    {
+      "comment": "the [mess_1]{mess} [create]{created} when there are too many [thing]{things} in a [place_1]{place}",
+      "entry": "clutter",
+      "id": "clutter_1#clutter_1__1"
+    },
+    {
+      "comment": "the [messy]{messy} [shape_1]{shape} that [thing]{things} [make_1]{make} when they are [twisted]{twisted} around each other or around something else",
+      "entry": "tangle",
+      "id": "tangle_1#tangle_1__1"
+    },
+    {
+      "comment": "a very [messy]{messy} [place_1]{place} or [room_1]{room}",
+      "entry": "bomb site",
+      "id": "bomb-site#bomb-site__2"
+    }
+  ],
+  "thesaurus": "Untidiness and untidy situations",
+  "type": "Synonyms"
+}

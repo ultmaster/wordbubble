@@ -1,0 +1,39 @@
+{
+  "part": "phrase",
+  "phrase": "catch up",
+  "senses": [
+    {
+      "def": "to go [fast_1]{faster} so that you [reach_1]{reach} the [person]{person} or [vehicle]{vehicle} in front of you",
+      "examples": [
+        "We [left_1]{left} first, but they [caught_1]{caught} up with us."
+      ],
+      "id": "catch-up_1__1"
+    },
+    {
+      "def": "to [improve_1]{improve} in [order_1]{order} to [reach_1]{reach} the same [standard_1]{standard} or [rate_1]{rate} as someone or something",
+      "examples": [
+        "He\u2019s [miss_1]{missed} so much [school_1]{school} that he\u2019s [going_1]{going} to find it very [hard_1]{hard} to [catch_1]{catch} up.",
+        "[pressure_1]{Pressure} [grew]{grew} for [salary]{salaries} to [catch_1]{catch} up with [inflation]{inflation}."
+      ],
+      "id": "catch-up_1__3"
+    },
+    {
+      "def": "to do something that should have been done before",
+      "examples": [
+        "The [deadline]{deadline}\u2019s [tomorrow_1]{tomorrow}. How are we ever [going_1]{going} to [catch_1]{catch} up in time?",
+        "I [just_1]{just} [want_1]{want} to go [home_1]{home} and [catch_1]{catch} up on some [sleep_1]{sleep}.",
+        "[employee]{Employees} are [struggling]{struggling} to [catch_1]{catch} up with the [backlog]{backlog}."
+      ],
+      "id": "catch-up_1__6"
+    },
+    {
+      "def": "to [talk_1]{talk} to someone you have not [seen]{seen} for some time and find out what they have been [doing]{doing}",
+      "examples": [
+        "Come over [tomorrow_1]{tomorrow} and we can [catch_1]{catch} up.",
+        "I\u2019ll [catch_1]{catch} up with you another time, Kevin.",
+        "It\u2019ll give them a [chance_1]{chance} to [talk_1]{talk} and [catch_1]{catch} up with all their [news]{news}."
+      ],
+      "id": "catch-up_1__10"
+    }
+  ]
+}

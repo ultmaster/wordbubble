@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "come and go",
+  "senses": [
+    {
+      "def": "to [arrive]{arrive} at a [place_1]{place} and then [leave_1]{leave} it",
+      "examples": [
+        "The [woman]{woman} in the [apartment]{apartment} [downstairs_1]{downstairs} has [people_1]{people} coming and [going_1]{going} at all [hour]{hours}."
+      ],
+      "id": "come-and-go__1"
+    },
+    {
+      "def": "to be [present_1]{present} or [happen]{happen} for a [limited]{limited} time and then [stop_1]{stop}",
+      "examples": [
+        "Over the [century]{centuries} we have [seen]{seen} many [civilization]{civilizations} come and go."
+      ],
+      "id": "come-and-go__3"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a chronic [illness]{illness} or chronic [pain_1]{pain} is serious and [last_2]{lasts} for a long time. [a_3]{A} serious [illness]{illness} or [pain_1]{pain} that [last_2]{lasts} only for a [short_1]{short} time is [describe]{described} as [acute]{acute}",
+      "examples": [
+        "chronic back [pain_1]{pain}"
+      ],
+      "id": "chronic__1"
+    },
+    {
+      "def": "a chronic [problem]{problem} is always [happening_1]{happening} or [return_1]{returning} and is very [difficult]{difficult} to [solve]{solve}",
+      "examples": [
+        "a chronic shortage of food/money/resources"
+      ],
+      "id": "chronic__3"
+    },
+    {
+      "def": "[doing]{doing} something again and again, [especially]{especially} something [harmful]{harmful} that you are [unable]{unable} or [unwilling]{unwilling} to [stop_1]{stop} [doing]{doing}",
+      "examples": [
+        "a chronic liar/smoker/workaholic"
+      ],
+      "id": "chronic__5"
+    },
+    {
+      "def": "very [bad_1]{bad}",
+      "examples": [
+        "The [movie]{movie} was [pretty_1]{pretty} chronic, but we had a [good_1]{good} [laugh_1]{laugh}."
+      ],
+      "id": "chronic__7"
+    }
+  ],
+  "word": "chronic"
+}

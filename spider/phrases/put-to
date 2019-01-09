@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "put to",
+  "senses": [
+    {
+      "def": "to [explain]{explain} a [plan_1]{plan} or [suggestion]{suggestion} to a [group_1]{group} of [people_1]{people} so that they can [discuss]{discuss} it and [decide]{decide} whether to [accept]{accept} it or not",
+      "examples": [
+        "I put the [resolution]{resolution} to the [meeting]{meeting}.",
+        "I put it to her that their [relationship]{relationship} may not have been as [good_1]{good} as she [thought_1]{thought}."
+      ],
+      "id": "put-to__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone a [question_1]{question}",
+      "examples": [
+        "The [question_1]{questions} they put to me were [quite]{quite} [difficult]{difficult} to [answer_1]{answer}."
+      ],
+      "id": "put-to__4"
+    }
+  ]
+}

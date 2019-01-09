@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "everything that you can see behind the [main_1]{main} thing you are [look_1]{looking} at",
+      "examples": [
+        "The [lake]{lake} and [mountain]{mountains} [provided]{provided} a [dazzling]{dazzling} backdrop for the [ceremony]{ceremony}."
+      ],
+      "id": "backdrop__1"
+    },
+    {
+      "def": "the [situation]{situation} or [place_1]{place} in which something [happen]{happens}",
+      "examples": [
+        "Her [new]{new} [novel_1]{novel} has 19th-century [china_1]{China} as its backdrop.",
+        "[negotiation]{Negotiations} were [carry_1]{carried} out against a backdrop of [continued]{continued} [fighting]{fighting}."
+      ],
+      "id": "backdrop__4"
+    }
+  ],
+  "word": "backdrop"
+}

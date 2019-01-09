@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "build in",
+  "senses": [
+    {
+      "def": "to [build_1]{build} something such as a [piece_1]{piece} of [furniture]{furniture} so that it becomes part of a [wall_1]{wall} or [room_1]{room}",
+      "examples": [
+        "They had [built_1]{built} in a [closet_1]{closet} with [mirrored]{mirrored} [door_1]{doors}."
+      ],
+      "id": "build-in__1"
+    },
+    {
+      "def": "to [make_1]{make} something part of a [plan_1]{plan}, system, [calculation]{calculation} etc.",
+      "examples": [
+        "The [cost_1]{cost} of [rent_2]{renting} [equipment]{equipment} is [built_1]{built} into the [price_1]{price}."
+      ],
+      "id": "build-in__3"
+    }
+  ]
+}

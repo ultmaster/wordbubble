@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[own_2]{owned} or [used]{used} by someone else before you",
+      "examples": [
+        "secondhand [book_1]{books}/[clothing]{clothing}"
+      ],
+      "id": "secondhand__1"
+    },
+    {
+      "def": "[heard]{heard} from someone who was not [directly_1]{directly} [involved]{involved} in a [situation]{situation}",
+      "examples": [
+        "We [haven]{haven}\u2019t [seen]{seen} Joyce since the [accident]{accident}. All our [information]{information} is secondhand."
+      ],
+      "id": "secondhand__3"
+    }
+  ],
+  "word": "secondhand"
+}

@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to become [tired]{tired}, or to [make_1]{make} someone [feel_1]{feel} [tired]{tired}",
+      "entry": "tire",
+      "id": "tire_2#tire_2__1"
+    },
+    {
+      "comment": "to become [tired]{tired} or [weak]{weak}, or to [begin]{begin} to [lack_1]{lack} [enthusiasm]{enthusiasm}",
+      "entry": "flag",
+      "id": "flag_2#flag_2__1"
+    },
+    {
+      "comment": "to become [tired]{tired}, [weak]{weak}, or [unhappy]{unhappy}",
+      "entry": "droop",
+      "id": "droop#droop__3"
+    },
+    {
+      "comment": "to [feel_1]{feel}/be [tired]{tired} and [unable]{unable} to [think_1]{think} [clearly]{clearly}",
+      "entry": "feel/be slow",
+      "id": "feel-be-slow#feel-be-slow__1"
+    },
+    {
+      "comment": "to be so [tired]{tired} that you cannot [continue]{continue}",
+      "entry": "be done for",
+      "id": "do-for#do-for__8"
+    },
+    {
+      "comment": "to [lose]{lose} [energy]{energy}, [enthusiasm]{enthusiasm}, or [importance]{importance}",
+      "entry": "run out of/lose steam",
+      "id": "run-out-of-lose-steam#run-out-of-lose-steam__1"
+    },
+    {
+      "comment": "to no [long_1]{longer} have the [energy]{energy} to [continue]{continue} or [finish_1]{finish} something",
+      "entry": "run out of gas",
+      "id": "run-out-of-gas#run-out-of-gas__1"
+    },
+    {
+      "comment": "to become too [tired]{tired} to [continue]{continue} with something",
+      "entry": "run out of gas/steam",
+      "id": "run-out-of-gas-steam#run-out-of-gas-steam__1"
+    },
+    {
+      "comment": "to [feel_1]{feel} [weary_1]{weary}, or to [make_1]{make} someone [feel_1]{feel} [weary_1]{weary}",
+      "entry": "weary",
+      "id": "weary_2#weary_2__1"
+    }
+  ],
+  "thesaurus": "To be, or to become tired",
+  "type": "Synonyms"
+}

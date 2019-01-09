@@ -1,0 +1,21 @@
+{
+  "part": "suffix",
+  "senses": [
+    {
+      "def": "[used]{used} with some [name_1]{names} of [place_1]{places} to [make_1]{make} [adjective]{adjectives} [meaning_1]{meaning} [happening_1]{happening} or [working]{working} in a [particular_1]{particular} [place_1]{place}",
+      "examples": [
+        "a Chicago-based [company]{company}"
+      ],
+      "id": "based__1"
+    },
+    {
+      "def": "[used]{used} with some [name_1]{names} to [make_1]{make} [adjective]{adjectives} [describe]{describing} the [main_1]{main} [substance]{substance} in a [product]{product}",
+      "examples": [
+        "[pasta]{pasta} and other wheat-based [product]{products}",
+        "nitrogen-based [fertilizer]{fertilizer}"
+      ],
+      "id": "based__3"
+    }
+  ],
+  "word": "-based"
+}

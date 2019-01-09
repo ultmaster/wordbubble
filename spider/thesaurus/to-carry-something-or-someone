@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to have something with you, [usually]{usually} in your [pocket_1]{pocket} or [bag_1]{bag}",
+      "entry": "carry",
+      "id": "carry_1#carry_1__5"
+    },
+    {
+      "comment": "to [carry_1]{carry} something [use_1]{using} your [hand_1]{hands} or [arms]{arms}",
+      "entry": "hold",
+      "id": "hold_1#hold_1__1"
+    },
+    {
+      "comment": "to have something with you so that you can give it to someone when you [arrive]{arrive}",
+      "entry": "bring",
+      "id": "bring#bring__5"
+    },
+    {
+      "comment": "to [pull_1]{pull} or [carry_1]{carry} something [heavy_1]{heavy} from one [place_1]{place} to another with a [lot_1]{lot} of [effort]{effort}",
+      "entry": "haul",
+      "id": "haul_1#haul_1__1"
+    },
+    {
+      "comment": "to [carry_1]{carry} or [hold_1]{hold} something, for [example]{example} a [weapon]{weapon}",
+      "entry": "bear",
+      "id": "bear_1#bear_1__29"
+    },
+    {
+      "comment": "to take something in your [hand_1]{hands} and move it from one [place_1]{place} to another",
+      "entry": "lift",
+      "id": "lift_1#lift_1__4"
+    },
+    {
+      "comment": "to [lift_1]{lift} or [carry_1]{carry} something on your [shoulder_1]{shoulder}",
+      "entry": "shoulder",
+      "id": "shoulder_2#shoulder_2__4"
+    },
+    {
+      "comment": "to be [carry_1]{carrying} something [heavy_1]{heavy}",
+      "entry": "be burdened with something",
+      "id": "be-burdened-with-something#be-burdened-with-something__1"
+    },
+    {
+      "comment": "to [carry_1]{carry} something [heavy_1]{heavy} [slowly]{slowly} and with [difficulty]{difficulty}",
+      "entry": "hump",
+      "id": "hump_2#hump_2__2"
+    },
+    {
+      "comment": "to [carry_1]{carry} something [heavy_1]{heavy}",
+      "entry": "schlep",
+      "id": "schlep_1#schlep_1__1"
+    }
+  ],
+  "thesaurus": "To carry something or someone",
+  "type": "Synonyms"
+}

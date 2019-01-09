@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "burn down",
+  "senses": [
+    {
+      "def": "to [destroy]{destroy} a [building]{building} or something [large_1]{large} with fire, or to be [destroy]{destroyed} in this way",
+      "examples": [
+        "The [entire]{entire} [house_1]{house} [burn_1]{burned} down in 20 [minute_1]{minutes}.",
+        "There are [law]{laws} against [burning]{burning} down [forest]{forests}."
+      ],
+      "id": "burn-down__1"
+    },
+    {
+      "def": "if a fire or [flame_1]{flame} [burn_1]{burns} down, it becomes [small_1]{smaller} and less [hot]{hot}",
+      "examples": [
+        "The fire in the [grate_1]{grate} [gradually]{gradually} [burnt_1]{burnt} down."
+      ],
+      "id": "burn-down__4"
+    }
+  ]
+}

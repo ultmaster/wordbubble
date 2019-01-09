@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the part of a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} that [open_2]{opens} and [close_1]{closes} in [order_1]{order} to [control_1]{control} the [flow_1]{flow} of [air_1]{air} or [liquid_1]{liquid}",
+      "examples": [],
+      "id": "valve__1"
+    },
+    {
+      "def": "the part of an [organ]{organ} or [tube]{tube} in your body that [open_2]{opens} and [close_1]{closes} to keep [liquid_1]{liquid} [flowing]{flowing} in the [right_1]{right} [direction]{direction}",
+      "examples": [
+        "[heart_1]{heart} [valve]{valves}"
+      ],
+      "id": "valve__2"
+    },
+    {
+      "def": "the part of some [musical_1]{musical} [instrument]{instruments} that [open_2]{opens} and [close_1]{closes} to [change_1]{change} the [sound_1]{sound} of the [note_1]{note}",
+      "examples": [],
+      "id": "valve__4"
+    }
+  ],
+  "word": "valve"
+}

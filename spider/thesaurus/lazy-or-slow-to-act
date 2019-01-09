@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [willing]{willing} to [work_1]{work} or do any [activity]{activity} that [need_1]{needs} [effort]{effort}",
+      "entry": "lazy",
+      "id": "lazy#lazy__1"
+    },
+    {
+      "comment": "[lazy]{lazy}",
+      "entry": "idle",
+      "id": "idle_1#idle_1__6"
+    },
+    {
+      "comment": "[lazy]{lazy}",
+      "entry": "indolent",
+      "id": "indolent#indolent__1"
+    },
+    {
+      "comment": "[lazy]{lazy} and not [interested]{interested} in anything",
+      "entry": "shiftless",
+      "id": "shiftless#shiftless__1"
+    },
+    {
+      "comment": "not [take_1]{taking} enough [care_1]{care} to [make_1]{make} [sure_1]{sure} that something is done well",
+      "entry": "slack",
+      "id": "slack_1#slack_1__5"
+    },
+    {
+      "comment": "too [lazy]{lazy} or [afraid]{afraid} to [deal_1]{deal} with a [problem]{problem} that [need_1]{needs} your [attention]{attention}",
+      "entry": "supine",
+      "id": "supine#supine__2"
+    },
+    {
+      "comment": "someone who is [inert]{inert} [does]{does} nothing when they should be [take_1]{taking} [action_1]{action}",
+      "entry": "inert",
+      "id": "inert#inert__1"
+    },
+    {
+      "comment": "[lazy]{lazy}",
+      "entry": "slothful",
+      "id": "slothful#slothful__1"
+    },
+    {
+      "comment": "[doing]{doing} something in a [lazy]{lazy} or [careless]{careless} way that [show_1]{shows} that you are not [really]{really} [interested]{interested} in it",
+      "entry": "lackadaisical",
+      "id": "lackadaisical#lackadaisical__1"
+    },
+    {
+      "comment": "done in a [careless]{careless} or [lazy]{lazy} way",
+      "entry": "half-assed",
+      "id": "half-assed#half-assed__1"
+    }
+  ],
+  "thesaurus": "Lazy or slow to act",
+  "type": "Synonyms"
+}

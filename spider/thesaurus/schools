@@ -1,0 +1,296 @@
+{
+  "entries": [
+    {
+      "comment": "a [school_1]{school} or [college]{college} that [teach]{teaches} a [particular_1]{particular} [subject_1]{subject} or [skill]{skill}",
+      "entry": "academy",
+      "id": "academy#academy__1"
+    },
+    {
+      "comment": "in the U.S., a [private_1]{private} [school_1]{school} that [prepare]{prepares} [student]{students} for [college]{college}",
+      "entry": "academy",
+      "id": "academy#academy__3"
+    },
+    {
+      "comment": "in England, a [school_1]{school} that is [fund_2]{funded} [mainly]{mainly} by the [state_1]{state} and [partly]{partly} by other [organization]{organizations}, and [controlled_1]{controlled} [directly_1]{directly} by [central]{central} [government]{government} rather than by [local_1]{local} [education]{education} [authority]{authorities}",
+      "entry": "academy",
+      "id": "academy#academy__4"
+    },
+    {
+      "comment": "a [school_1]{school} in which most or all of the [student]{students} [live_1]{live} during the part of the [year]{year} that they have [course_1]{courses}",
+      "entry": "boarding school",
+      "id": "boarding-school#boarding-school__1"
+    },
+    {
+      "comment": "a [school_1]{school} where [young_1]{young} [women]{women} [learn]{learn} to [behave]{behave} [politely]{politely} and [make_1]{make} themselves [physically]{physically} [attractive]{attractive}",
+      "entry": "charm school",
+      "id": "charm-school#charm-school__1"
+    },
+    {
+      "comment": "a [private_1]{private} [school_1]{school} where [young_1]{young} [women]{women} are [taught]{taught} to how to [behave]{behave} in a [pleasant]{pleasant} way in [social_1]{social} [situation]{situations}, how to move in a [graceful]{graceful} way, and how to [look_1]{look} [attractive]{attractive}",
+      "entry": "charm school",
+      "id": "charm-school#charm-school__2"
+    },
+    {
+      "comment": "a [school_1]{school} that is [connected]{connected} with a [church]{church} and [include]{includes} [religious]{religious} [education]{education} in its [course_1]{course} of [study_1]{study}",
+      "entry": "church school",
+      "id": "church-school#church-school__1"
+    },
+    {
+      "comment": "used in the names of some British private schools",
+      "entry": "College",
+      "id": "college#college__16"
+    },
+    {
+      "comment": "in the U.K., a secondary school that the local community can use for classes in the evening",
+      "entry": "community college",
+      "id": "community-college#community-college__3"
+    },
+    {
+      "comment": "a [comprehensive]{comprehensive} [school_1]{school}",
+      "entry": "comp",
+      "id": "comp_1#comp_1__3"
+    },
+    {
+      "comment": "a U.K. school for students of different levels of ability between the ages of 11 and 18. A comprehensive school is often simply called a comprehensive.",
+      "entry": "comprehensive school",
+      "id": "comprehensive-school#comprehensive-school__1"
+    },
+    {
+      "comment": "a [school_1]{school} where [student]{students} [study_1]{study} to become [professional_1]{professional} [musician]{musicians} or [actor]{actors}",
+      "entry": "conservatory",
+      "id": "conservatory#conservatory__2"
+    },
+    {
+      "comment": "a school for girls where all the teachers are nuns  (=women members of a religious organization)",
+      "entry": "convent school",
+      "id": "convent-school#convent-school__1"
+    },
+    {
+      "comment": "a [private_1]{private} [school_1]{school} for [student]{students} who [live_1]{live} at [home_1]{home} [instead]{instead} of at the [school_1]{school}",
+      "entry": "day school",
+      "id": "day-school#day-school__1"
+    },
+    {
+      "comment": "in the U.S., a [school_1]{school} for [children]{children} between the [age_1]{ages} of five and about eleven",
+      "entry": "elementary school",
+      "id": "elementary-school#elementary-school__1"
+    },
+    {
+      "comment": "an [expensive]{expensive} [private_1]{private} [school_1]{school} that [teach]{teaches} [young_1]{young} [women]{women} the [skill]{skills} [need_1]{needed} to be [successful]{successful} in [upper_1]{upper} [class_1]{class} [society]{society}",
+      "entry": "finishing school",
+      "id": "finishing-school#finishing-school__1"
+    },
+    {
+      "comment": "in the English [education]{education} system, a [school_1]{school} which is [fund_2]{funded} by the [government]{government} and [does]{does} not [cost_1]{cost} anything to [attend]{attend}, but which is under the [direct_1]{direct} [control_1]{control} of the [government]{government} [minister_1]{minister} for [education]{education}, rather than being [controlled_1]{controlled} by a [local_1]{local} [education]{education} [authority]{authority}",
+      "entry": "free school",
+      "id": "free-school#free-school__1"
+    },
+    {
+      "comment": "an [elementary]{elementary} [school_1]{school}",
+      "entry": "grade school",
+      "id": "grade-school#grade-school__1"
+    },
+    {
+      "comment": "an [elementary]{elementary} [school_1]{school}",
+      "entry": "grammar school",
+      "id": "grammar-school#grammar-school__1"
+    },
+    {
+      "comment": "a [school_1]{school} in the U.K. for [children]{children} between the [age_1]{ages} of 11 and 18 who have [pass_1]{passed} a [special_1]{special} [examination]{examination} to be [allow]{allowed} to go there",
+      "entry": "grammar school",
+      "id": "grammar-school#grammar-school__2"
+    },
+    {
+      "comment": "used in the names of high schools",
+      "entry": "High",
+      "id": "high_3#high_3__11"
+    },
+    {
+      "comment": "in the U.S., a [school_1]{school} for [children]{children} between the [age_1]{ages} of 14 and 18. [high_1]{High} [school_1]{schools} [usually]{usually} have a four-year [program_1]{program} [divided]{divided} into [grade_1]{grades} 9 through 12",
+      "entry": "high school",
+      "id": "high-school#high-school__1"
+    },
+    {
+      "comment": "in the U.K., a [school_1]{school} for [children]{children} between the [age_1]{ages} of 11 and 18",
+      "entry": "high school",
+      "id": "high-school#high-school__6"
+    },
+    {
+      "comment": "in some [traditional]{traditional} African [society]{societies}, a [place_1]{place} where [teenage]{teenage} [boy_1]{boys} [spend]{spend} time as part of the [process_1]{process} of becoming [adult_1]{adults}, [including]{including} being [circumcise]{circumcised}",
+      "entry": "initiation school",
+      "id": "initiation-school#initiation-school__1"
+    },
+    {
+      "comment": "a [middle_1]{middle} [school_1]{school} or [junior_1]{junior} [high_1]{high} [school_1]{school}",
+      "entry": "intermediate school",
+      "id": "intermediate-school#intermediate-school__1"
+    },
+    {
+      "comment": "a school in the U.S. for children between the ages of twelve and fifteen. A junior high school is sometimes simply called a junior high",
+      "entry": "junior high school",
+      "id": "junior-high-school#junior-high-school__1"
+    },
+    {
+      "comment": "a U.K. [school_1]{school} for [children]{children} between the [age_1]{ages} of [seven]{seven} and eleven",
+      "entry": "junior school",
+      "id": "junior-school#junior-school__1"
+    },
+    {
+      "comment": "kindergarten through twelfth: used for talking about the 13 years of school before your college education",
+      "entry": "K-12",
+      "id": "k-12#k-12__1"
+    },
+    {
+      "comment": "a [school_1]{school} that [provide]{provides} [special_1]{special} [course_1]{courses} in a [particular_1]{particular} [subject_1]{subject} such as [music]{music} or [technology]{technology} in [order_1]{order} to [attract]{attract} [student]{students} from [outside]{outside} its [local_1]{local} [area]{area}",
+      "entry": "magnet school",
+      "id": "magnet-school#magnet-school__1"
+    },
+    {
+      "comment": "a school in the U.S. for children between the ages of 11 and 14, after they leave elementary school",
+      "entry": "middle school",
+      "id": "middle-school#middle-school__1"
+    },
+    {
+      "comment": "a school in the U.K. for children between the ages of 8 and 12, after they leave infant school",
+      "entry": "middle school",
+      "id": "middle-school#middle-school__2"
+    },
+    {
+      "comment": "a [public_1]{public} [school_1]{school} in [south_1]{South} Africa that [used]{used} to be for [white_1]{white} [children]{children} only and is now [mixed]{mixed}. [model_1]{Model} C [school_1]{schools} are [generally]{generally} [considered]{considered} [better_1]{better} than [township]{township} [school_1]{schools}.",
+      "entry": "Model C",
+      "id": "model-c#model-c__1"
+    },
+    {
+      "comment": "a system in which [people_1]{people} who have been to the same [school_1]{school} or [university]{university} use their [influence_1]{influence} to [help_1]{help} each other, for [example]{example} in [get]{getting} a [good_1]{good} [job_1]{job}",
+      "entry": "the old school tie",
+      "id": "the-old-school-tie#the-old-school-tie__1"
+    },
+    {
+      "comment": "a [school_1]{school} [connected]{connected} with a [particular_1]{particular} [church]{church} that [usually]{usually} [provide]{provides} [religious]{religious} [education]{education} as well as [general_1]{general} [education]{education}",
+      "entry": "parochial school",
+      "id": "parochial-school#parochial-school__1"
+    },
+    {
+      "comment": "a [prep_1]{prep} [school_1]{school}",
+      "entry": "preparatory school",
+      "id": "preparatory-school#preparatory-school__1"
+    },
+    {
+      "comment": "in the U.S., a [private_1]{private} [school_1]{school} for [children]{children} over the [age_1]{age} of 11 that [prepare]{prepares} them for [college]{college}",
+      "entry": "prep school",
+      "id": "prep-school#prep-school__1"
+    },
+    {
+      "comment": "in the U.K., a [private_1]{private} [school_1]{school} for [children]{children} between the [age_1]{ages} of 7 or 8 and 11 or 13",
+      "entry": "prep school",
+      "id": "prep-school#prep-school__2"
+    },
+    {
+      "comment": "an [elementary]{elementary} [school_1]{school}",
+      "entry": "primary school",
+      "id": "primary-school#primary-school__1"
+    },
+    {
+      "comment": "a school providing education that the children\u2019s parents pay for directly. A public school provides education that is paid for by the government.",
+      "entry": "private school",
+      "id": "private-school#private-school__1"
+    },
+    {
+      "comment": "a [school_1]{school} that is [controlled_1]{controlled} and [paid_1]{paid} for by the [government]{government}",
+      "entry": "public school",
+      "id": "public-school#public-school__1"
+    },
+    {
+      "comment": "an [expensive]{expensive} [private_1]{private} [school_1]{school} where [student]{students} [usually]{usually} [live_1]{live} as well as [study_1]{study}",
+      "entry": "public school",
+      "id": "public-school#public-school__2"
+    },
+    {
+      "comment": "a [reform_1]{reform} [school_1]{school}",
+      "entry": "reformatory",
+      "id": "reformatory#reformatory__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [young_1]{young} [people_1]{people} are [sent]{sent} to [live_1]{live} when they have [committed]{committed} a [crime_1]{crime}",
+      "entry": "reform school",
+      "id": "reform-school#reform-school__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [children]{children} go to be [taught]{taught}",
+      "entry": "school",
+      "id": "school_1#school_1__1"
+    },
+    {
+      "comment": "[belong]{belonging} to or [connected]{connected} with a [school_1]{school}",
+      "entry": "school",
+      "id": "school_1#school_1__14"
+    },
+    {
+      "comment": "a [private_1]{private} [institution]{institution} that [teach]{teaches} a [particular_1]{particular} [skill]{skill}",
+      "entry": "school",
+      "id": "school_1#school_1__28"
+    },
+    {
+      "comment": "in Australia, an [education]{education} [service_1]{service} for [children]{children} who [live_1]{live} in [area]{areas} [far]{far} from [town]{towns} or [city]{cities}. Its [teacher]{teachers} use [electronic]{electronic} [device]{devices} to [communicate]{communicate} with their [student]{students}.",
+      "entry": "School of the Air",
+      "id": "school-of-the-air#school-of-the-air__1"
+    },
+    {
+      "comment": "a [school_1]{school} for [children]{children} between the [age_1]{ages} of 11 and 16 or 18",
+      "entry": "secondary school",
+      "id": "secondary-school#secondary-school__1"
+    },
+    {
+      "comment": "a [school_1]{school}",
+      "entry": "seminary",
+      "id": "seminary#seminary__2"
+    },
+    {
+      "comment": "a [school_1]{school} in the U.S. for [children]{children} between the [age_1]{ages} of 14 and 18",
+      "entry": "senior high school",
+      "id": "senior-high-school#senior-high-school__1"
+    },
+    {
+      "comment": "a [school_1]{school} in England, Wales or [northern]{Northern} Ireland for [student]{students} between the [age_1]{ages} of 16 and 18",
+      "entry": "sixth form college",
+      "id": "sixth-form-college#sixth-form-college__1"
+    },
+    {
+      "comment": "a [school_1]{school} for [student]{students} who have [physical_1]{physical}, [educational]{educational}, or [emotional]{emotional} [problem]{problems}",
+      "entry": "special school",
+      "id": "special-school#special-school__1"
+    },
+    {
+      "comment": "in the U.K., a [school_1]{school} that is [support_1]{supported} with [money]{money} from the [government]{government} and that [provide]{provides} a [free_1]{free} [education]{education} for [children]{children}",
+      "entry": "state school",
+      "id": "state-school#state-school__2"
+    },
+    {
+      "comment": "[religious]{religious} [class_1]{classes} for [children]{children} that are [given_1]{given} in a [church]{church} on Sundays",
+      "entry": "Sunday school",
+      "id": "sunday-school#sunday-school__1"
+    },
+    {
+      "comment": "in the U.K., the part of a [school_1]{school} for [student]{students} between the [age_1]{ages} of 14 and 18",
+      "entry": "upper school",
+      "id": "upper-school#upper-school__1"
+    },
+    {
+      "comment": "a [school_1]{school} that [train_1]{trains} [people_1]{people} for [job_1]{jobs} that [need_1]{need} [particular_1]{particular} [skill]{skills}",
+      "entry": "vocational school",
+      "id": "vocational-school#vocational-school__1"
+    },
+    {
+      "comment": "a school for Orthodox Jewish students where they can train to become rabbis  (=Jewish religious leaders)",
+      "entry": "yeshiva",
+      "id": "yeshiva#yeshiva__1"
+    },
+    {
+      "comment": "an [elementary]{elementary} and [high_1]{high} [school_1]{school} for Jewish [boy_1]{boys} that [teach]{teaches} both [religious]{religious} and other [subject_1]{subjects}",
+      "entry": "yeshiva",
+      "id": "yeshiva#yeshiva__2"
+    }
+  ],
+  "thesaurus": "Schools",
+  "type": "Related words"
+}

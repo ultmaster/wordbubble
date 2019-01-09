@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [equipment]{equipment} for [measure_2]{measuring} how much of something such as [gas_1]{gas}, [electricity]{electricity}, or [water_1]{water} you have [used]{used}",
+      "examples": [
+        "an [electricity]{electricity} meter",
+        "Someone from the gas company came to read the meter  (=to check how much gas has been used)."
+      ],
+      "id": "meter_1__1"
+    },
+    {
+      "def": "a [parking-meter]{parking meter}",
+      "examples": [],
+      "id": "meter_1__4"
+    },
+    {
+      "def": "a [unit]{unit} for [measure_2]{measuring} [length]{length} in the metric system, [contain]{containing} 100 [centimeter]{centimeters}",
+      "examples": [],
+      "id": "meter_1__5"
+    },
+    {
+      "def": "the [pattern_1]{patterns} of [sound_1]{sounds} and [rhythm]{rhythms} in [poetry]{poetry}",
+      "examples": [],
+      "id": "meter_1__6"
+    }
+  ],
+  "word": "meter"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "deal in",
+  "senses": [
+    {
+      "def": "to [buy_1]{buy} and [sell_1]{sell} something",
+      "examples": [
+        "a [small_1]{small} [company]{company} that [deal_1]{deals} in [rare]{rare} [book_1]{books}",
+        "The [police_1]{police} [said_1]{said} she was [dealing]{dealing} in [stolen]{stolen} [goods]{goods}."
+      ],
+      "id": "deal-in_1__1"
+    },
+    {
+      "def": "to be [interested]{interested} in something",
+      "examples": [
+        "Lawrence was not a man who [dealt]{dealt} in [rumor]{rumors}."
+      ],
+      "id": "deal-in_1__4"
+    }
+  ]
+}

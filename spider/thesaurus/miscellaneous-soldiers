@@ -1,0 +1,306 @@
+{
+  "entries": [
+    {
+      "comment": "a man in a [country]{country}\u2019s [air_1]{air} [force_1]{force}, [especially]{especially} one of low [rank_1]{rank} in the U.S. or U.K. [air_1]{air} [force_1]{force}",
+      "entry": "airman",
+      "id": "airman#airman__1"
+    },
+    {
+      "comment": "a [woman]{woman} in a [country]{country}\u2019s [air_1]{air} [force_1]{force}, [especially]{especially} one of low [rank_1]{rank} in the U.S. or U.K. [air_1]{air} [force_1]{force}",
+      "entry": "airwoman",
+      "id": "airwoman#airwoman__1"
+    },
+    {
+      "comment": "someone in the U.S. [air_1]{Air} [force_1]{Force} whose [job_1]{job} is to [drop_1]{drop} [bomb_1]{bombs} from a [military]{military} [airplane]{airplane}",
+      "entry": "bombardier",
+      "id": "bombardier#bombardier__1"
+    },
+    {
+      "comment": "[regular_1]{regular} [soldier_1]{soldiers} whose [lives]{lives} are not [considered]{considered} [important]{important} during war",
+      "entry": "cannon fodder",
+      "id": "cannon-fodder#cannon-fodder__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} [trained]{trained} to [attack_1]{attack} in [area]{areas} [controlled_1]{controlled} by an [enemy]{enemy}",
+      "entry": "commando",
+      "id": "commando#commando__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [work_1]{work} on a [military]{military} [ship_1]{ship} or [aircraft]{aircraft}, not [including]{including} the [officer]{officers}",
+      "entry": "crew",
+      "id": "crew_1#crew_1__3"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who [fight_1]{fights} on [foot_1]{foot}, not on a [horse_1]{horse} or in a [vehicle]{vehicle}",
+      "entry": "foot soldier",
+      "id": "foot-soldier#foot-soldier__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} in [uniform_1]{uniform}, [especially]{especially} one who is not an [officer]{officer}",
+      "entry": "GI",
+      "id": "gi#gi__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who is a [member]{member} of a [team_1]{team} [trained]{trained} to do very [dangerous]{dangerous} [work_1]{work}",
+      "entry": "Green Beret",
+      "id": "green-beret#green-beret__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who [belong]{belongs} to an [important]{important} [section_1]{section} of the [army]{army} of the U.K.",
+      "entry": "grenadier",
+      "id": "grenadier#grenadier__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} of low [rank_1]{rank}",
+      "entry": "grunt",
+      "id": "grunt_2#grunt_2__4"
+    },
+    {
+      "comment": "a [member]{member} of the U.S. [national_1]{National} [guard_1]{Guard}",
+      "entry": "guardsman",
+      "id": "guardsman#guardsman__1"
+    },
+    {
+      "comment": "a soldier in a Guards regiment of the British army",
+      "entry": "guardsman",
+      "id": "guardsman#guardsman__2"
+    },
+    {
+      "comment": "a [member]{member} of the [military]{military} whose [job_1]{job} is to fire a [large_1]{large} [gun_1]{gun}",
+      "entry": "gunner",
+      "id": "gunner#gunner__1"
+    },
+    {
+      "comment": "a soldier in a European cavalry  (=group that rides horses)",
+      "entry": "hussar",
+      "id": "hussar#hussar__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who [fight_1]{fights} on [foot_1]{foot}",
+      "entry": "infantryman",
+      "id": "infantryman#infantryman__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who [does]{does} not [belong]{belong} to the [official_1]{official} [army]{army} of a [country]{country}",
+      "entry": "irregular",
+      "id": "irregular_2#irregular_2__1"
+    },
+    {
+      "comment": "a soldier in a legion",
+      "entry": "legionary",
+      "id": "legionary_2#legionary_2__1"
+    },
+    {
+      "comment": "a man of low [rank_1]{rank} in the [military]{military}",
+      "entry": "man",
+      "id": "man_1#man_1__25"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} whose [job_1]{job} is to [fight_1]{fight} on both [land_1]{land} and [sea_1]{sea}",
+      "entry": "Marine",
+      "id": "marine_2#marine_2__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} in the British [royal_1]{Royal} [marine_2]{Marines}",
+      "entry": "Marine",
+      "id": "marine_2#marine_2__2"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} in the [marine_1]{Marine} [corps]{Corps}",
+      "entry": "Marine",
+      "id": "marine_2#marine_2__3"
+    },
+    {
+      "comment": "someone in the [military]{military} or in an [emergency_1]{emergency} [situation]{situation} who [give_1]{gives} [people_1]{people} [medical_1]{medical} [treatment]{treatment}",
+      "entry": "medic",
+      "id": "medic#medic__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who [fight_1]{fights} for any [army]{army} that will [pay_1]{pay} him or her",
+      "entry": "mercenary",
+      "id": "mercenary_2#mercenary_2__1"
+    },
+    {
+      "comment": "[missing]{missing} in [action_1]{action}: a [soldier_1]{soldier} who has [disappear]{disappeared} during a [military]{military} [operation]{operation} and who may be [alive]{alive} or [dead_1]{dead}",
+      "entry": "MIA",
+      "id": "mia_2#mia_2__1"
+    },
+    {
+      "comment": "a [member]{member} of a [militia]{militia}",
+      "entry": "militiaman",
+      "id": "militiaman#militiaman__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} whose [job_1]{job} is to [help_1]{help} an [officer]{officer} by [perform]{performing} [minor_1]{minor} [duty]{duties}",
+      "entry": "orderly",
+      "id": "orderly_2#orderly_2__2"
+    },
+    {
+      "comment": "a [member]{member} of a [paramilitary_1]{paramilitary} [organization]{organization}",
+      "entry": "paramilitary",
+      "id": "paramilitary_2#paramilitary_2__1"
+    },
+    {
+      "comment": "a soldier trained to jump out of airplanes wearing a parachute",
+      "entry": "paratrooper",
+      "id": "paratrooper#paratrooper__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} in a [military]{military} [force_1]{force} that has been [sent]{sent} to a [place_1]{place} in [order_1]{order} to [prevent]{prevent} war, [especially]{especially} between [group_1]{groups} who have been [fighting]{fighting} there",
+      "entry": "peacekeeper",
+      "id": "peacekeeper#peacekeeper__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} or [group_1]{group} of [soldier_1]{soldiers} who are [guard_2]{guarding} a [place_1]{place}",
+      "entry": "picket",
+      "id": "picket_1#picket_1__4"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} [sent]{sent} [ahead]{ahead} of others to [make_1]{make} [certain_1]{certain} it is [safe_1]{safe} for them to [continue]{continue} in that [direction]{direction}",
+      "entry": "point man",
+      "id": "point-man#point-man__1"
+    },
+    {
+      "comment": "someone, [usually]{usually} a [soldier_1]{soldier}, who is [held]{held} as a [prisoner]{prisoner} by the [enemy]{enemy} during a war",
+      "entry": "prisoner of war",
+      "id": "prisoner-of-war#prisoner-of-war__1"
+    },
+    {
+      "comment": "the [low_1]{lowest} [rank_1]{rank} of [soldier_1]{soldier} in the [army]{army}",
+      "entry": "private",
+      "id": "private_2#private_2__1"
+    },
+    {
+      "comment": "[private_1]{Private}: [used]{used} before the name of a [soldier_1]{soldier} of the [low_1]{lowest} [rank_1]{rank}",
+      "entry": "Pvt.",
+      "id": "pvt_1#pvt_1__1"
+    },
+    {
+      "comment": "in the U.S. [army]{army}, a [soldier_1]{soldier} [trained]{trained} for [quick_1]{quick} [unexpected]{unexpected} [attack_1]{attacks} against an [enemy]{enemy}",
+      "entry": "ranger",
+      "id": "ranger#ranger__3"
+    },
+    {
+      "comment": "all the [member]{members} of a [military]{military} [organization]{organization} who are not [officer]{officers}",
+      "entry": "the ranks",
+      "id": "rank_1#rank_1__19"
+    },
+    {
+      "comment": "a [new]{new} [member]{member} in the [military]{military}",
+      "entry": "recruit",
+      "id": "recruit_2#recruit_2__1"
+    },
+    {
+      "comment": "a [regular_1]{regular} [soldier_1]{soldier}, or a [member]{member} of the [regular_1]{regular} [military]{military}",
+      "entry": "regular",
+      "id": "regular_2#regular_2__4"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} or a [group_1]{group} of [soldier_1]{soldiers} who are not [fighting]{fighting} but who are [available]{available} to [fight_1]{fight}",
+      "entry": "reserve",
+      "id": "reserve_1#reserve_1__10"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who is not part of a [country]{country}\u2019s [permanent_1]{permanent} [army]{army}, but who is [trained]{trained} to [fight_1]{fight} with the [army]{army} if [necessary_1]{necessary}",
+      "entry": "reservist",
+      "id": "reservist#reservist__1"
+    },
+    {
+      "comment": "someone who [deliberately]{deliberately} [damage_2]{damages} or [destroy]{destroys} the [property]{property} of an [enemy]{enemy} or [opponent]{opponent}",
+      "entry": "saboteur",
+      "id": "saboteur#saboteur__1"
+    },
+    {
+      "comment": "a [person]{person} or [vehicle]{vehicle} [sent]{sent} out by an [army]{army} to get [information]{information} about the [position_1]{position} and [movement]{movements} of the [enemy]{enemy}",
+      "entry": "scout",
+      "id": "scout_1#scout_1__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} [removed]{removed} from the U.S. [military]{military} because of a serious [mental]{mental} [problem]{problem}",
+      "entry": "Section Eight",
+      "id": "section-eight#section-eight__2"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who [stand_1]{stands} at the [entrance_1]{entrance} to a [place_1]{place} and [guard_1]{guards} it",
+      "entry": "sentry",
+      "id": "sentry#sentry__1"
+    },
+    {
+      "comment": "a man who is a [member]{member} of the [military]{military}",
+      "entry": "serviceman",
+      "id": "serviceman#serviceman__1"
+    },
+    {
+      "comment": "a [serviceman]{serviceman} or [servicewoman]{servicewoman}",
+      "entry": "serviceperson",
+      "id": "serviceperson#serviceperson__2"
+    },
+    {
+      "comment": "a [woman]{woman} who is a [member]{member} of the [military]{military}",
+      "entry": "servicewoman",
+      "id": "servicewoman#servicewoman__1"
+    },
+    {
+      "comment": "[soldier_1]{soldiers} who are [trained]{trained} in [method]{methods} of [sudden_1]{sudden} [attack_1]{attack}",
+      "entry": "shock troops",
+      "id": "shock-troops#shock-troops__1"
+    },
+    {
+      "comment": "a [member]{member} of the [army]{army} or [navy]{navy} whose [job_1]{job} is to [send_1]{send} and [receive]{receive} [message_1]{messages} [use_1]{using} [signal_1]{signals}",
+      "entry": "signalman",
+      "id": "signalman#signalman__1"
+    },
+    {
+      "comment": "someone who is a [member]{member} of an [army]{army}",
+      "entry": "soldier",
+      "id": "soldier_1#soldier_1__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who is not an [officer]{officer}",
+      "entry": "soldier",
+      "id": "soldier_1#soldier_1__2"
+    },
+    {
+      "comment": "someone who is [willing]{willing} to [fight_1]{fight} as a [soldier_1]{soldier} in any [army]{army} that [pay_1]{pays} them",
+      "entry": "soldier of fortune",
+      "id": "soldier-of-fortune#soldier-of-fortune__1"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who [marches]{marches} at the front of an [army]{army} [carry_1]{carrying} its [flag_1]{flag}",
+      "entry": "standard-bearer",
+      "id": "standard-bearer#standard-bearer__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to take [care_1]{care} of [supply_1]{supplies} in the [military]{military}",
+      "entry": "storekeeper",
+      "id": "storekeeper#storekeeper__1"
+    },
+    {
+      "comment": "someone of low rank in the army who fights on a horse or in an armored vehicle",
+      "entry": "trooper",
+      "id": "trooper#trooper__2"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who has been [given_1]{given} this [medal_1]{medal}",
+      "entry": "VC",
+      "id": "vc#vc__3"
+    },
+    {
+      "comment": "someone who [join_1]{joins} the [military]{military} without being [forced]{forced}",
+      "entry": "volunteer",
+      "id": "volunteer_1#volunteer_1__10"
+    },
+    {
+      "comment": "the [leader]{leader} of any [group_1]{group} [involved]{involved} in [fighting]{fighting}",
+      "entry": "warlord",
+      "id": "warlord#warlord__2"
+    },
+    {
+      "comment": "a [soldier_1]{soldier} who is not [allow]{allowed} to [leave_1]{leave} a [particular_1]{particular} [area]{area}, or who has to do [boring_1]{boring} [work_1]{work} as a [punishment]{punishment}",
+      "entry": "yardbird",
+      "id": "yardbird#yardbird__2"
+    }
+  ],
+  "thesaurus": "Miscellaneous soldiers",
+  "type": "Related words"
+}

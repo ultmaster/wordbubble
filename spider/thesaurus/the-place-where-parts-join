@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} where two [part_1]{parts} of something are [connected]{connected}",
+      "entry": "joint",
+      "id": "joint_2#joint_2__4"
+    },
+    {
+      "comment": "the [place_1]{place} where two [object_1]{objects} have been [connected]{connected} together",
+      "entry": "join",
+      "id": "join_2#join_2__1"
+    },
+    {
+      "comment": "the [place_1]{place} where two [thing]{things} have been [splice_1]{spliced} together",
+      "entry": "splice",
+      "id": "splice_2#splice_2__1"
+    },
+    {
+      "comment": "a [line_1]{line} where two [piece_1]{pieces} of [metal_1]{metal}, [wood]{wood}, etc. have been [join_1]{joined}",
+      "entry": "seam",
+      "id": "seam#seam__3"
+    },
+    {
+      "comment": "a [line_1]{line} [form_2]{formed} where two [slope_2#slope_2__5]{sloping} [surface_1]{surfaces} [join_1]{join}, [especially]{especially} at the top of a [roof_1]{roof}",
+      "entry": "ridge",
+      "id": "ridge#ridge__5"
+    },
+    {
+      "comment": "a [place_1]{place} where two [thing]{things} [join_1]{join}",
+      "entry": "connection",
+      "id": "connection#connection__16"
+    },
+    {
+      "comment": "the [place_1]{place} where two [part_1]{parts} of a [structure_1]{structure} [meet_1]{meet}",
+      "entry": "node",
+      "id": "node#node__4"
+    },
+    {
+      "comment": "the [point_1]{point} where two [lines]{lines} [join_1]{join} at an [angle_1]{angle}",
+      "entry": "vertex",
+      "id": "vertex#vertex__2"
+    }
+  ],
+  "thesaurus": "The place where parts join",
+  "type": "Synonyms"
+}

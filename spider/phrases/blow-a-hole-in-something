@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "blow a hole in something",
+  "senses": [
+    {
+      "def": "to [destroy]{destroy} part of something in an [explosion]{explosion}",
+      "examples": [
+        "The [bomb_1]{bomb} [exploded]{exploded}, [blow_1]{blowing} a hole in the side of the [airplane]{airplane}."
+      ],
+      "id": "blow-a-hole-in-something__1"
+    },
+    {
+      "def": "to [damage_1]{damage} a [plan_1]{plan} or [idea]{idea} so that it cannot [succeed]{succeed}, or so that [people_1]{people} no [long_1]{longer} [believe]{believe} it",
+      "examples": [
+        "The [new]{new} [research_1]{research} [blow_1]{blows} a hole in [theory]{theories} about the [evolution]{evolution} of [bird]{birds}."
+      ],
+      "id": "blow-a-hole-in-something__3"
+    }
+  ]
+}

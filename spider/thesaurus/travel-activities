@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "the activity of traveling around an area without spending much money, often on foot and carrying a backpack",
+      "entry": "backpacking",
+      "id": "backpacking#backpacking__1"
+    },
+    {
+      "comment": "[travel_1]{travel} in which you [organize]{organize} [thing]{things} yourself, rather than [use_1]{using} a [company]{company} who will [arrange]{arrange} [flight]{flights}, [hotel]{hotels}, etc.",
+      "entry": "independent travel",
+      "id": "independent-travel#independent-travel__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [driving]{driving} a [car]{car}",
+      "entry": "motoring",
+      "id": "motoring_1#motoring_1__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [traveling]{traveling} around a [place_1]{place} to see the [interesting]{interesting} [thing]{things} in it",
+      "entry": "sightseeing",
+      "id": "sightseeing#sightseeing__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [traveling]{traveling}",
+      "entry": "travel",
+      "id": "travel_2#travel_2__1"
+    },
+    {
+      "comment": "[involve]{involving} [travel_1]{travel}",
+      "entry": "travel",
+      "id": "travel_2#travel_2__4"
+    },
+    {
+      "comment": "the [activity]{activity} of [traveling]{traveling} to [youth]{youth} [hostel]{hostels} in [different]{different} [place_1]{places}",
+      "entry": "youth hosteling",
+      "id": "youth-hosteling#youth-hosteling__1"
+    }
+  ],
+  "thesaurus": "Travel activities",
+  "type": "Related words"
+}

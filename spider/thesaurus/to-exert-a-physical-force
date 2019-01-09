@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to take in a [gas_1]{gas}, [liquid_1]{liquid}, or other [substance]{substance}",
+      "entry": "absorb",
+      "id": "absorb#absorb__1"
+    },
+    {
+      "comment": "to take in [heat_1]{heat}, [light_1]{light}, or some other form of [energy]{energy}, [instead]{instead} of [reflect]{reflecting} it",
+      "entry": "absorb",
+      "id": "absorb#absorb__4"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [harmful]{harmful} [effect_1]{effects} of a [physical_1]{physical} [force_1]{force}",
+      "entry": "absorb",
+      "id": "absorb#absorb__15"
+    },
+    {
+      "comment": "if something [conduct_1]{conducts} [heat_1]{heat} or [electricity]{electricity}, [heat_1]{heat} or [electricity]{electricity} can move through it",
+      "entry": "conduct",
+      "id": "conduct_1#conduct_1__7"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [pressure_1]{pressure} on something, [especially]{especially} [air_1]{air} [pressure_1]{pressure}",
+      "entry": "decompress",
+      "id": "decompress#decompress__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [piece_1]{piece} of [metal_1]{metal} [able_1]{able} to [make_1]{make} [iron_1]{iron} or [steel_1]{steel} [object_1]{objects} come to it so that they seem to [stick_1]{stick} to it",
+      "entry": "magnetize",
+      "id": "magnetize#magnetize__1"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [pressurize]{pressurize}",
+      "entry": "pressurise",
+      "id": "pressurise#pressurise__1"
+    },
+    {
+      "comment": "to [make_1]{make} the [pressure_1]{pressure} [inside_1]{inside} something such as a [container]{container} [different]{different} from the [pressure_1]{pressure} [outside]{outside}",
+      "entry": "pressurize",
+      "id": "pressurize#pressurize__1"
+    },
+    {
+      "comment": "if one thing repels another, an electrical or magnetic force makes them move away from each other",
+      "entry": "repel",
+      "id": "repel#repel__5"
+    }
+  ],
+  "thesaurus": "To exert a physical force",
+  "type": "Related words"
+}

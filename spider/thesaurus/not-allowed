@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [allow]{allowed} [accord_2]{according} to a [rule_1]{rule}, [law]{law}, or [custom_1]{custom}",
+      "entry": "forbidden",
+      "id": "forbidden#forbidden__1"
+    },
+    {
+      "comment": "not [allow]{allowed} by the [law]{law}",
+      "entry": "illegal",
+      "id": "illegal_1#illegal_1__1"
+    },
+    {
+      "comment": "not allowed or not legal according to the constitution  (=set of official rules or principles) of a particular country or organization",
+      "entry": "unconstitutional",
+      "id": "unconstitutional#unconstitutional__1"
+    },
+    {
+      "comment": "not [officially]{officially} or [legally]{legally} [allow]{allowed} or [approved]{approved} of",
+      "entry": "unauthorized",
+      "id": "unauthorized#unauthorized__1"
+    },
+    {
+      "comment": "without a license  (=an official document that allows you to do something)",
+      "entry": "unlicensed",
+      "id": "unlicensed#unlicensed__1"
+    },
+    {
+      "comment": "[impossible]{impossible}, not [working]{working} well, or not [allow]{allowed}",
+      "entry": "no-go",
+      "id": "no-go#no-go__1"
+    },
+    {
+      "comment": "something that is [taboo_1]{taboo} is not [allow]{allowed} by a [particular_1]{particular} [religion]{religion} or [culture_1]{culture}",
+      "entry": "taboo",
+      "id": "taboo_1#taboo_1__4"
+    },
+    {
+      "comment": "not [allow]{allowed} by the [rule_1]{rules} or [law]{laws}",
+      "entry": "illegitimate",
+      "id": "illegitimate#illegitimate__3"
+    },
+    {
+      "comment": "if a [subject_1]{subject} is out of [bound_2]{bounds}, you are not [allow]{allowed} to [talk_1]{talk} about it, [know_1]{know} about it, etc.",
+      "entry": "out of bounds",
+      "id": "out-of-bounds#out-of-bounds__3"
+    },
+    {
+      "comment": "in a way that is not [allow]{allowed} by a [rule_1]{rule}, [law]{law}, or [agreement]{agreement}",
+      "entry": "in contravention of something",
+      "id": "in-contravention-of-something#in-contravention-of-something__1"
+    }
+  ],
+  "thesaurus": "Not allowed",
+  "type": "Synonyms"
+}

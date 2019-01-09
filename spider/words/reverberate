@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [sound_1]{sound} [reverberate]{reverberates}, it is [repeated]{repeated} many times as it [hit_1]{hits} two [opposite_1]{opposite} [surface_1]{surfaces}",
+      "examples": [
+        "A [loud_1]{loud} [knock_1]{knocking} on the [door_1]{door} [suddenly]{suddenly} [reverberate]{reverberated} around the [apartment]{apartment}."
+      ],
+      "id": "reverberate__1"
+    },
+    {
+      "def": "if something such as a [room_1]{room} [reverberate]{reverberates}, it seems to [shake_1]{shake} [slightly]{slightly} because of a [loud_1]{loud} [sound_1]{sound} that is [repeated]{repeated} many times",
+      "examples": [
+        "The [room_1]{room} [reverberate]{reverberated} with the [sound_1]{sound} of her [laughter]{laughter}."
+      ],
+      "id": "reverberate__3"
+    },
+    {
+      "def": "to have an [effect_1]{effect} that [spread_1]{spreads} over a [wide_1]{wide} [area]{area} or [last_2]{lasts} for a long time",
+      "examples": [
+        "The [country]{country}\u2019s [financial]{financial} [problem]{problems} could reverberate throughout the [global]{global} [economy_1]{economy}."
+      ],
+      "id": "reverberate__5"
+    }
+  ],
+  "word": "reverberate"
+}

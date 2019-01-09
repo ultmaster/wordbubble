@@ -1,0 +1,37 @@
+{
+  "part": "phrase",
+  "phrase": "cut down",
+  "senses": [
+    {
+      "def": "to [cut_1]{cut} through the [trunk]{trunk} of a [tree]{tree} in [order_1]{order} to [make_1]{make} it [fall_1]{fall} to the [ground_1]{ground}",
+      "examples": [],
+      "id": "cut-down__1"
+    },
+    {
+      "def": "to [reduce]{reduce} an amount of something",
+      "examples": [
+        "How can you [cut_1]{cut} down the [risk_1]{risk} of [cancer_1]{cancer}?",
+        "These [improvement]{improvements} will [cut_1]{cut} down on [traffic_1]{traffic} [noise]{noise}."
+      ],
+      "id": "cut-down__2"
+    },
+    {
+      "def": "to [start_1]{start} [doing]{doing} less of something, [especially]{especially} because it is [bad_1]{bad} for your [health]{health}",
+      "examples": [
+        "The [doctor_1]{doctor} [advise]{advised} him to [cut_1]{cut} down his [working]{working} [hour]{hours}.",
+        "I\u2019m [trying]{trying} to [cut_1]{cut} down on [salt_1]{salt}."
+      ],
+      "id": "cut-down__5"
+    },
+    {
+      "def": "to [make_1]{make} something such as a [speech]{speech} or [piece_1]{piece} of [writing]{writing} [short_1]{shorter}",
+      "examples": [],
+      "id": "cut-down__8"
+    },
+    {
+      "def": "if a [weapon]{weapon}, [bullet]{bullet}, or [illness]{illness} [cut_1]{cuts} someone down, it [kill_1]{kills} or [injure]{injures} them",
+      "examples": [],
+      "id": "cut-down__9"
+    }
+  ]
+}

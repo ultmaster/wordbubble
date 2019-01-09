@@ -1,0 +1,236 @@
+{
+  "entries": [
+    {
+      "comment": "to put [thing]{things} into [bag_1]{bags}",
+      "entry": "bag",
+      "id": "bag_2#bag_2__1"
+    },
+    {
+      "comment": "to put something [firm_1#firm_1__28]{firmly} into a [base_1]{base} or into the [ground_1]{ground}",
+      "entry": "bed",
+      "id": "bed_2#bed_2__1"
+    },
+    {
+      "comment": "to put a [liquid_1]{liquid} into [bottle_1]{bottles} in [order_1]{order} to [sell_1]{sell} it or [store_1]{store} it",
+      "entry": "bottle",
+      "id": "bottle_2#bottle_2__1"
+    },
+    {
+      "comment": "to put something into a [box_1]{box}",
+      "entry": "box",
+      "id": "box_2#box_2__2"
+    },
+    {
+      "comment": "to [push_1]{push} one thing into another very [hard_1]{hard}",
+      "entry": "bury",
+      "id": "bury#bury__9"
+    },
+    {
+      "comment": "to [place_1]{place} something in the [center_1]{center} of a [space_1]{space} or [area]{area}",
+      "entry": "center",
+      "id": "center_2#center_2__1"
+    },
+    {
+      "comment": "to put [people_1]{people} or [thing]{things} into a [space_1]{space} that is too [small_1]{small}",
+      "entry": "cram",
+      "id": "cram#cram__1"
+    },
+    {
+      "comment": "to put something into a [crate_1]{crate} in [order_1]{order} to move or [store_1]{store} it",
+      "entry": "crate",
+      "id": "crate_2#crate_2__1"
+    },
+    {
+      "comment": "to [fix_1]{fix} something [firm_1#firm_1__28]{firmly} in a [surface_1]{surface} or [object_1]{object}",
+      "entry": "embed",
+      "id": "embed_1#embed_1__1"
+    },
+    {
+      "comment": "to put someone or something in or under something so that they cannot [escape_1]{escape}",
+      "entry": "entomb",
+      "id": "entomb#entomb__1"
+    },
+    {
+      "comment": "to [push_1]{push} something into a [machine_1]{machine}, [especially]{especially} [slowly]{slowly} and [gently]{gently}",
+      "entry": "feed",
+      "id": "feed_1#feed_1__21"
+    },
+    {
+      "comment": "to put something in a [particular_1]{particular} [place_1]{place} or [group_1]{group} because it [belong]{belongs} there",
+      "entry": "fit",
+      "id": "fit_1#fit_1__17"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [embed_1]{embed}",
+      "entry": "imbed",
+      "id": "imbed#imbed__1"
+    },
+    {
+      "comment": "to put something into something else, or into a hole or [space_1]{space}",
+      "entry": "insert",
+      "id": "insert_1#insert_1__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [put]{putting} something into something else",
+      "entry": "insertion",
+      "id": "insertion#insertion__1"
+    },
+    {
+      "comment": "something that is put in something else",
+      "entry": "inset",
+      "id": "inset_1#inset_1__2"
+    },
+    {
+      "comment": "to put [small_1]{small} [jewel]{jewels}, [stone_1]{stones}, [piece_1]{pieces} of [glass]{glass}, etc. in the [surface_1]{surface} of something as a [decoration]{decoration}",
+      "entry": "inset",
+      "id": "inset_2#inset_2__2"
+    },
+    {
+      "comment": "to put something between other [thing]{things}",
+      "entry": "interleave",
+      "id": "interleave#interleave__1"
+    },
+    {
+      "comment": "to put someone or something in a [position_1]{position} between two other [people_1]{people} or [thing]{things}",
+      "entry": "interpose",
+      "id": "interpose#interpose__1"
+    },
+    {
+      "comment": "to put something in [various]{various} [place_1]{places} in or among something else",
+      "entry": "intersperse",
+      "id": "intersperse#intersperse__1"
+    },
+    {
+      "comment": "to put a [load_1]{load} onto or into something such as a [vehicle]{vehicle} or [container]{container}",
+      "entry": "load",
+      "id": "load_2#load_2__1"
+    },
+    {
+      "comment": "to put something into a [piece_1]{piece} of [equipment]{equipment} so that it is ready to use",
+      "entry": "load",
+      "id": "load_2#load_2__6"
+    },
+    {
+      "comment": "to put something in a [place_1]{place} or [container]{container} which you [fasten]{fasten} with a [lock_1]{lock}",
+      "entry": "lock away",
+      "id": "lock-away#lock-away__1"
+    },
+    {
+      "comment": "to put more of something in a [container]{container} than it will [hold_1]{hold}",
+      "entry": "overfill",
+      "id": "overfill#overfill__1"
+    },
+    {
+      "comment": "to put too many [people_1]{people} or [thing]{things} in or on something",
+      "entry": "overload",
+      "id": "overload#overload__1"
+    },
+    {
+      "comment": "to put your [possession]{possessions} into a [bag_1]{bag}, [suitcase]{suitcase}, or [box_1]{box} so that you can take or [send_1]{send} them somewhere",
+      "entry": "pack",
+      "id": "pack_1#pack_1__1"
+    },
+    {
+      "comment": "to put [goods]{goods} into [container]{containers} so that they can be [sent]{sent} somewhere and [sold]{sold}",
+      "entry": "pack",
+      "id": "pack_1#pack_1__10"
+    },
+    {
+      "comment": "to put [thing]{things} into [box_1]{boxes} or [wrap_1]{wrap} them so that they can be [sold]{sold}",
+      "entry": "package",
+      "id": "package_2#package_2__1"
+    },
+    {
+      "comment": "to put something back into the [container]{container} where it is [store_2]{stored}, after you have [finished]{finished} [use_1]{using} it",
+      "entry": "pack away",
+      "id": "pack-away#pack-away__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [put]{putting} your [possession]{possessions} into [bag_1]{bags}, [suitcase]{suitcases}, or [box_1]{boxes} so that you can take or [send_1]{send} them somewhere",
+      "entry": "packing",
+      "id": "packing#packing__1"
+    },
+    {
+      "comment": "to [fit_1]{fit} a [lot_1]{lot} of [people_1]{people} or [thing]{things} into a [place_1]{place} in [large_1]{large} [number_1]{numbers} or [quantity]{quantities}",
+      "entry": "pack into",
+      "id": "pack-into#pack-into__1"
+    },
+    {
+      "comment": "to put [thing]{things} into a [bag_1]{bag}, [suitcase]{suitcase}, or [box_1]{box} so that you can take or [send_1]{send} them somewhere",
+      "entry": "pack up",
+      "id": "pack-up#pack-up__1"
+    },
+    {
+      "comment": "to put something into your [pocket_1]{pocket}",
+      "entry": "pocket",
+      "id": "pocket_3#pocket_3__1"
+    },
+    {
+      "comment": "to put something into or through a [small_1]{small} [space_1]{space} or hole",
+      "entry": "poke",
+      "id": "poke_1#poke_1__5"
+    },
+    {
+      "comment": "to [push_1]{push} something into a [place_1]{place} with [great_1]{great} [force_1]{force}",
+      "entry": "ram",
+      "id": "ram_1#ram_1__4"
+    },
+    {
+      "comment": "to [fit_1]{fit} one part of something [firm_1#firm_1__28]{firmly} into another",
+      "entry": "seat",
+      "id": "seat_2#seat_2__8"
+    },
+    {
+      "comment": "to [try_1]{try} to [make_1]{make} something [fit_1]{fit} into a [place_1]{place} that is too [small_1]{small} or not [appropriate_1]{appropriate}",
+      "entry": "shoehorn",
+      "id": "shoehorn_2#shoehorn_2__1"
+    },
+    {
+      "comment": "to [fit_1]{fit} into a [narrow_1]{narrow} [space_1]{space}, or to [fit_1]{fit} something into a [narrow_1]{narrow} [space_1]{space}",
+      "entry": "slot in",
+      "id": "slot_2#slot_2__2"
+    },
+    {
+      "comment": "to [fit_1]{fit} something into a [narrow_1]{narrow} [space_1]{space}, or to [fit_1]{fit} into a [narrow_1]{narrow} [space_1]{space}",
+      "entry": "slot into",
+      "id": "slot_2#slot_2__9"
+    },
+    {
+      "comment": "to [fit_1]{fit} [exactly]{exactly} in a [space_1]{space}, or to [fit_1]{fit} something [exactly]{exactly} into a [space_1]{space}",
+      "entry": "slot into place",
+      "id": "slot_2#slot_2__14"
+    },
+    {
+      "comment": "to [push_1]{push} someone or something so that they [fit_1]{fit} into a [small_1]{small} [space_1]{space}",
+      "entry": "squash",
+      "id": "squash_2#squash_2__3"
+    },
+    {
+      "comment": "to [fit_1]{fit} into a [small_1]{small} [space_1]{space}",
+      "entry": "squash",
+      "id": "squash_2#squash_2__5"
+    },
+    {
+      "comment": "to [fit_1]{fit} or move someone or something through or into a [small_1]{small} [space_1]{space}",
+      "entry": "squeeze",
+      "id": "squeeze_1#squeeze_1__12"
+    },
+    {
+      "comment": "to [push_1]{push} something [soft]{soft} into a [space_1]{space} or [container]{container}",
+      "entry": "stuff",
+      "id": "stuff_2#stuff_2__1"
+    },
+    {
+      "comment": "to put something long and thin through a hole or [space_1]{space}",
+      "entry": "thread",
+      "id": "thread_2#thread_2__1"
+    },
+    {
+      "comment": "to [fix_1]{fix} something [tight_1#tight_1__40]{tightly} or in a [small_1]{small} [space_1]{space}",
+      "entry": "wedge",
+      "id": "wedge_2#wedge_2__3"
+    }
+  ],
+  "thesaurus": "To put something inside something",
+  "type": "Related words"
+}

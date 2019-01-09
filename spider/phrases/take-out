@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "take out",
+  "senses": [
+    {
+      "def": "to [remove]{remove} something from a [pocket_1]{pocket}, [bag_1]{bag}, etc.",
+      "examples": [
+        "Henry [took]{took} out his [wallet]{wallet}.",
+        "The [officer]{officer} [start_1]{started} to take her [notebook]{notebook} out."
+      ],
+      "id": "take-out__1"
+    },
+    {
+      "def": "to take someone to a [place_1]{place} [like_1]{like} a [theater]{theater} or a [restaurant]{restaurant} and [usually]{usually} [pay_1]{pay} for them",
+      "examples": [
+        "She\u2019s [take_1]{taking} her [parent]{parents} out for [dinner]{dinner}."
+      ],
+      "id": "take-out__4"
+    },
+    {
+      "def": "to get something [officially]{officially}, [especially]{especially} from an [insurance]{insurance} [company]{company}, [bank_1]{bank}, or [law]{law} [court_1]{court}",
+      "examples": [
+        "They\u2019ve [taken_1]{taken} out a [huge]{huge} ad in the [newspaper]{newspaper}.",
+        "When you take out an [insurance]{insurance} [policy]{policy}, read the [small_1]{small} [print_1]{print}."
+      ],
+      "id": "take-out__6"
+    },
+    {
+      "def": "to [kill_1]{kill} someone",
+      "examples": [
+        "The [night_1]{night} [bombing]{bombing} [raid_1]{raid} [took]{took} out the [bridge_1]{bridge}."
+      ],
+      "id": "take-out__9"
+    }
+  ]
+}

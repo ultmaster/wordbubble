@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "turn down",
+  "senses": [
+    {
+      "def": "to not [accept]{accept} an [offer_1]{offer} or [request_1]{request}",
+      "examples": [
+        "How could you [turn_1]{turn} down such a [fantastic]{fantastic} [job_1]{job}?",
+        "I don\u2019t [believe]{believe} it: he [turn_1]{turned} me down [flat_1]{flat}!"
+      ],
+      "id": "turn-down__1"
+    },
+    {
+      "def": "to [reduce]{reduce} the amount of [sound_1]{sound}, [heat_1]{heat}, or [light_1]{light} [produce_1]{produced} by a [piece_1]{piece} of [equipment]{equipment} by [pressing]{pressing} a [button_1]{button} or [moving]{moving} a [switch_1]{switch}",
+      "examples": [
+        "The [light_1]{lights} were [turn_1]{turned} down low.",
+        "Could you [turn_1]{turn} the [music]{music} down a [little_1]{little}?"
+      ],
+      "id": "turn-down__4"
+    },
+    {
+      "def": "to [fold_1]{fold} the [edge_1]{edge} of something",
+      "examples": [
+        "The top [sheet]{sheet} had been [neat#neat__17]{neatly} [turn_1]{turned} down.",
+        "I hate [people_1]{people} who [turn_1]{turn} down the [corner_1]{corners} of [page_1]{pages} in a [book_1]{book}."
+      ],
+      "id": "turn-down__7"
+    }
+  ]
+}

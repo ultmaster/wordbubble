@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is in [charge_1]{charge} of [financial]{financial} [matter_1]{matters} in a [school_1]{school}, [college]{college}, or [university]{university}",
+      "entry": "bursar",
+      "id": "bursar#bursar__1"
+    },
+    {
+      "comment": "someone who is the [official_1]{official} [leader]{leader} of a [university]{university}",
+      "entry": "chancellor",
+      "id": "chancellor#chancellor__1"
+    },
+    {
+      "comment": "a [senior_1]{senior} [official_1]{official} at a [college]{college} or [university]{university}",
+      "entry": "dean",
+      "id": "dean#dean__1"
+    },
+    {
+      "comment": "an [official_1]{official} [organization]{organization} that is [responsible]{responsible} for [making]{making} the [rule_1]{rules} for an [organization]{organization} such as a [school_1]{school}, [university]{university}, or [sport_1]{sport}, and for [making]{making} [sure_1]{sure} that [people_1]{people} [follow]{follow} the [rule_1]{rules}",
+      "entry": "governing body",
+      "id": "governing-body#governing-body__1"
+    },
+    {
+      "comment": "a [member]{member} of a [group_1]{group} that has [responsibility]{responsibility} for an [institution]{institution} [like_1]{like} a [school_1]{school} or [university]{university}",
+      "entry": "governor",
+      "id": "governor#governor__5"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [help_1]{help} [student]{students} with their [school_1]{school} or [personal_1]{personal} [problem]{problems}, or to [advise]{advise} them about [making]{making} [career_1]{career} [choice_1]{choices}",
+      "entry": "guidance counselor",
+      "id": "guidance-counselor#guidance-counselor__1"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [serve_1]{serve} [meal]{meals} to [children]{children} at [school_1]{school}",
+      "entry": "lunch lady",
+      "id": "lunch-lady#lunch-lady__1"
+    },
+    {
+      "comment": "a man who is in [charge_1]{charge} of a [college]{college} in some British [university]{universities} or of a [building]{building} where [people_1]{people} [live_1]{live} in some [college]{colleges} in the U.S.",
+      "entry": "master",
+      "id": "master_1#master_1__15"
+    },
+    {
+      "comment": "the [person]{person} in [charge_1]{charge} of a [business]{business} or [university]{university}",
+      "entry": "president",
+      "id": "president#president__8"
+    },
+    {
+      "comment": "the [head_1]{head} of a [college]{college} or [university]{university}",
+      "entry": "principal",
+      "id": "principal_2#principal_2__4"
+    },
+    {
+      "comment": "an [important]{important} [official_1]{official} in a U.S. [university]{university}",
+      "entry": "provost",
+      "id": "provost#provost__1"
+    },
+    {
+      "comment": "someone in [charge_1]{charge} of a [college]{college} in a British [university]{university}",
+      "entry": "provost",
+      "id": "provost#provost__2"
+    },
+    {
+      "comment": "the [person]{person} in [charge_1]{charge} in some [school_1]{schools}, [college]{colleges}, and [university]{universities}",
+      "entry": "rector",
+      "id": "rector#rector__2"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who are [elect_1]{elected} to [make_1]{make} [decision_1]{decisions} about how to [manage]{manage} a [school_1]{school}",
+      "entry": "school board",
+      "id": "school-board#school-board__1"
+    },
+    {
+      "comment": "a member of a school\u2019s governing body  (=a group elected to make management decisions)",
+      "entry": "school governor",
+      "id": "school-governor#school-governor__1"
+    },
+    {
+      "comment": "a [group_1]{group} that [govern]{governs} some [university]{universities}",
+      "entry": "senate",
+      "id": "senate#senate__4"
+    },
+    {
+      "comment": "someone whose job is immediately below the position of chancellor in a university in the U.S.",
+      "entry": "vice chancellor",
+      "id": "vice-chancellor#vice-chancellor__1"
+    },
+    {
+      "comment": "someone who is in [charge_1]{charge} of a [university]{university} in the U.K.",
+      "entry": "vice chancellor",
+      "id": "vice-chancellor#vice-chancellor__2"
+    }
+  ],
+  "thesaurus": "Non-teaching staff of schools and colleges",
+  "type": "Related words"
+}

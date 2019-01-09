@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "an [aggressive]{aggressive} [cancer_1]{cancer} [spread_1]{spreads} very [quickly]{quickly}",
+      "entry": "aggressive",
+      "id": "aggressive#aggressive__10"
+    },
+    {
+      "comment": "a serious illness caused by a group of cells in the body increasing in an uncontrolled way. Cancer is often treated by chemotherapy  (=special drugs) or by radiation",
+      "entry": "cancer",
+      "id": "cancer_1#cancer_1__1"
+    },
+    {
+      "comment": "a [substance]{substance} that can cause [cancer_1]{cancer}",
+      "entry": "carcinogen",
+      "id": "carcinogen#carcinogen__1"
+    },
+    {
+      "comment": "[likely_1]{likely} or [able_1]{able} to cause [cancer_1]{cancer}",
+      "entry": "carcinogenic",
+      "id": "carcinogenic#carcinogenic__1"
+    },
+    {
+      "comment": "a cancer that is found on the skin or on the lining of organs inside the body",
+      "entry": "carcinoma",
+      "id": "carcinoma#carcinoma__1"
+    },
+    {
+      "comment": "the [study_1]{study} of how [cell]{cells} [grow]{grow} and [change_1]{change}, for [example]{example} [cell]{cells} that cause [cancer_1]{cancer}",
+      "entry": "cytology",
+      "id": "cytology#cytology__1"
+    },
+    {
+      "comment": "a serious [illness]{illness} that is a [type_1]{type} of [cancer_1]{cancer}",
+      "entry": "Hodgkin\u2019s disease",
+      "id": "hodgkin-s-disease#hodgkin-s-disease__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [leukemia]{leukemia}",
+      "entry": "leukaemia",
+      "id": "leukaemia#leukaemia__2"
+    },
+    {
+      "comment": "the [type_1]{type} of [cancer_1]{cancer} that [people_1]{people} get in their [blood_1]{blood}",
+      "entry": "leukemia",
+      "id": "leukemia#leukemia__1"
+    },
+    {
+      "comment": "a [cancer_1]{cancer} that [affect_1]{affects} the [lymph]{lymph} [node]{nodes}",
+      "entry": "lymphoma",
+      "id": "lymphoma#lymphoma__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [malignant]{malignant}",
+      "entry": "malignancy",
+      "id": "malignancy#malignancy__1"
+    },
+    {
+      "comment": "a malignant tumor",
+      "entry": "malignancy",
+      "id": "malignancy#malignancy__2"
+    },
+    {
+      "comment": "a serious [type_1]{type} of [skin_1]{skin} [cancer_1]{cancer} [cause_2]{caused} [especially]{especially} by the [light_1]{light} of the [sun_1]{sun}",
+      "entry": "melanoma",
+      "id": "melanoma#melanoma__1"
+    },
+    {
+      "comment": "the [spread_1]{spread} of [cancer_1]{cancer} to a [new]{new} [place_1]{place} in your body",
+      "entry": "metastasis",
+      "id": "metastasis#metastasis__1"
+    },
+    {
+      "comment": "a [new]{new} [area]{area} of [cancer_1]{cancer} that [grow]{grows} from an [old]{older} one in your body",
+      "entry": "metastasis",
+      "id": "metastasis#metastasis__2"
+    },
+    {
+      "comment": "[certain_1]{certain} to [develop]{develop} into [cancer_1]{cancer} if the [patient_1]{patient} [does]{does} not get [medical_1]{medical} [treatment]{treatment}",
+      "entry": "precancerous",
+      "id": "precancerous#precancerous__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [damage_2]{damaged} [cell]{cells} in your body that can [grow]{grow} and [spread_1]{spread} very [quickly]{quickly} and will cause serious [illness]{illness} or [death]{death} if they are not [removed]{removed}",
+      "entry": "sarcoma",
+      "id": "sarcoma#sarcoma__1"
+    },
+    {
+      "comment": "a mass of cells in your body that grow in a way that is not normal. A benign tumor is harmless and a malignant tumor can cause death",
+      "entry": "tumor",
+      "id": "tumor#tumor__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [tumor]{tumor}",
+      "entry": "tumour",
+      "id": "tumour#tumour__1"
+    }
+  ],
+  "thesaurus": "Cancer and relating to cancer",
+  "type": "Related words"
+}

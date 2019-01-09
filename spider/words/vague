@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [clearly]{clearly} or [fully]{fully} [explain]{explained}",
+      "examples": [
+        "Some [aspect]{aspects} of the [law]{law} were [somewhat]{somewhat} vague and [ill-defined]{ill-defined}.",
+        "[witness_1]{Witnesses} [gave]{gave} only a vague [description]{description} of the [driver]{driver}.",
+        "The [politician]{politicians} made vague [promise_1]{promises} about [independence]{independence}.",
+        "He was always vague when I [ask_1]{asked} about [deadline]{deadlines}.",
+        "She was rather vague about the [detail_1]{details} of the [incident]{incident}."
+      ],
+      "id": "vague__1"
+    },
+    {
+      "def": "a vague [feeling_1]{feeling}, [memory]{memory}, etc. is not [complete_1]{complete}, [accurate]{accurate}, or [fully]{fully} [form_2]{formed}",
+      "examples": [
+        "Simon had only a vague [idea]{idea} of where she [work_1]{worked}.",
+        "I have a vague [memory]{memory} of the [hotel]{hotel}.",
+        "She had a vague [suspicion]{suspicion} that something was [wrong_1]{wrong}."
+      ],
+      "id": "vague__8"
+    },
+    {
+      "def": "a vague [shape_1]{shape} is not [clear_1]{clear} or not [easy_1]{easy} to see",
+      "examples": [
+        "the vague [outline_1]{outline} of a [large_1]{large} [animal_1]{animal}"
+      ],
+      "id": "vague__13"
+    }
+  ],
+  "word": "vague"
+}

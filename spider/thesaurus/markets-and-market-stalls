@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [market_1]{market}, [especially]{especially} in the [middle_1]{Middle} East and [south_1]{South} Asia",
+      "entry": "bazaar",
+      "id": "bazaar#bazaar__1"
+    },
+    {
+      "comment": "a temporary place for selling books, for example in a market or at a rummage sale",
+      "entry": "bookstall",
+      "id": "bookstall#bookstall__2"
+    },
+    {
+      "comment": "a [cattle]{cattle} [market_1]{market}",
+      "entry": "cattle auction",
+      "id": "cattle-auction#cattle-auction__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [cow_1]{cows} are [bought]{bought} and [sold]{sold}",
+      "entry": "cattle market",
+      "id": "cattle-market#cattle-market__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [grain]{grain} was [bought]{bought} and [sold]{sold} in the [past_1]{past}",
+      "entry": "corn exchange",
+      "id": "corn-exchange#corn-exchange__1"
+    },
+    {
+      "comment": "a [market_1]{market} where [farmer]{farmers} [sell_1]{sell} their [produce_1]{produce} [directly_1]{directly} to [customer]{customers}",
+      "entry": "farmers\u2019 market",
+      "id": "farmers-market#farmers-market__1"
+    },
+    {
+      "comment": "a [market_1]{market} where [old]{old} [thing]{things} are [sold]{sold} at low [price_1]{prices}",
+      "entry": "flea market",
+      "id": "flea-market#flea-market__1"
+    },
+    {
+      "comment": "a public building or place where people sell goods on tables called stalls",
+      "entry": "market",
+      "id": "market_1#market_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [table_1]{table} or [temporary]{temporary} [structure_1]{structure} [used]{used} for [selling]{selling} [thing]{things}, [especially]{especially} [food]{food} or [drink_1]{drink}",
+      "entry": "stand",
+      "id": "stand_2#stand_2__7"
+    }
+  ],
+  "thesaurus": "Markets and market stalls",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [movement]{movement} in a [circle_1]{circle} made by an [object_1]{object}",
+      "entry": "turn",
+      "id": "turn_2#turn_2__14"
+    },
+    {
+      "comment": "a [quick_1]{quick} [turning]{turning} [movement]{movement} around and around",
+      "entry": "spin",
+      "id": "spin_2#spin_2__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [turning]{turning} your whole body [quickly]{quickly} so that you are [facing]{facing} in the [opposite_1]{opposite} [direction]{direction}. This is often an [instruction]{instruction} [given_1]{given} to [soldier_1]{soldiers}.",
+      "entry": "about-face",
+      "id": "about-face#about-face__4"
+    },
+    {
+      "comment": "a [fast_1]{fast} [circular_1]{circular} [movement]{movement}",
+      "entry": "swirl",
+      "id": "swirl_2#swirl_2__1"
+    },
+    {
+      "comment": "a [quick_1]{quick} [movement]{movement} in a [circle_1]{circle}",
+      "entry": "twirl",
+      "id": "twirl_2#twirl_2__1"
+    },
+    {
+      "comment": "a [movement]{movement} in which you [turn_1]{turn} a part of your body around so that it is out of its [normal_1]{normal} [position_1]{position}",
+      "entry": "twist",
+      "id": "twist_2#twist_2__1"
+    },
+    {
+      "comment": "a [single_1]{single} [movement]{movement} in a [circle_1]{circle} around a [central]{central} [point_1]{point}",
+      "entry": "rotation",
+      "id": "rotation#rotation__3"
+    },
+    {
+      "comment": "a [spinning]{spinning} [movement]{movement}",
+      "entry": "whirl",
+      "id": "whirl_2#whirl_2__4"
+    },
+    {
+      "comment": "one [complete_1]{complete} [turn_1]{turn} made by something [moving]{moving} in a [circle_1]{circle} around a [fixed]{fixed} [point_1]{point}",
+      "entry": "revolution",
+      "id": "revolution#revolution__9"
+    },
+    {
+      "comment": "a [short_1]{short} [quick_1]{quick} [twist_1]{twisting} and [turning]{turning} [movement]{movement}",
+      "entry": "wriggle",
+      "id": "wriggle_2#wriggle_2__1"
+    }
+  ],
+  "thesaurus": "Circular and turning movements and about-turns",
+  "type": "Synonyms"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "on the telephone",
+  "senses": [
+    {
+      "def": "[use_1]{using} the [telephone_1]{telephone} to [talk_1]{talk} to someone",
+      "examples": [
+        "He\u2019s been on the [telephone_1]{telephone} for the [past_1]{past} two [hour]{hours}.",
+        "You\u2019re wanted on the telephone  (=someone wants to speak to you)."
+      ],
+      "id": "on-the-telephone__1"
+    },
+    {
+      "def": "[provided]{provided} with a [telephone_1]{telephone} in your [home_1]{home}, [office]{office} etc.",
+      "examples": [
+        "At that time very few [people_1]{people} were on the [telephone_1]{telephone}."
+      ],
+      "id": "on-the-telephone__4"
+    }
+  ]
+}

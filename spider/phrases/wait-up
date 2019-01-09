@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "wait up",
+  "senses": [
+    {
+      "def": "to not go to [sleep_1]{sleep} until someone comes [home_1]{home}",
+      "examples": [
+        "Don\u2019t [wait_1]{wait} up for me, I\u2019ll be very [late_1]{late} [tonight_1]{tonight}."
+      ],
+      "id": "wait-up__1"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} or [telling]{telling} someone to [stop_1]{stop} so that you can [speak_1]{speak} or [walk_1]{walk} with them",
+      "examples": [
+        "Sharon, [just_1]{just} [wait_1]{wait} up a [second_1]{second} please."
+      ],
+      "id": "wait-up__3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "float around",
+  "senses": [
+    {
+      "def": "if something is [floating]{floating} around, you have [seen]{seen} it somewhere but you are not [certain_1]{certain} where it is",
+      "examples": [
+        "There\u2019s a [pen_1]{pen} [floating]{floating} around here somewhere."
+      ],
+      "id": "float-around__1"
+    },
+    {
+      "def": "if an [idea]{idea} is [floating]{floating} around, it has been [suggest]{suggested} but not yet [considered]{considered}",
+      "examples": [
+        "We have [various]{various} [issue_1]{issues} [floating]{floating} around that we [need_1]{need} to [discuss]{discuss}."
+      ],
+      "id": "float-around__3"
+    }
+  ]
+}

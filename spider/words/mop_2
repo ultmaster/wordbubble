@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [wash_1]{wash} a [floor_1]{floor} [use_1]{using} a mop",
+      "examples": [
+        "Don\u2019t go in the [kitchen]{kitchen}, I\u2019ve [just_1]{just} [finished]{finished} [mop_2]{mopping} the [floor_1]{floor}."
+      ],
+      "id": "mop_2__1"
+    },
+    {
+      "def": "to [wipe_1]{wipe} [sweat_1]{sweat} from your [face_1]{face} with a [cloth]{cloth} when you are very [hot]{hot} or [sick_1]{sick}",
+      "examples": [
+        "He [pull_1]{pulled} a [handkerchief]{handkerchief} from his [pocket_1]{pocket} and [mop_2]{mopped} his [brow]{brow}."
+      ],
+      "id": "mop_2__3"
+    },
+    {
+      "def": "to [clean_1]{clean} [liquid_1]{liquid} or [dirt]{dirt} from a [surface_1]{surface} [use_1]{using} a mop, [cloth]{cloth}, or something [soft]{soft}",
+      "examples": [
+        "I [need_1]{need} a [cloth]{cloth} to mop this [wine_1]{wine}."
+      ],
+      "id": "mop_2__5"
+    }
+  ],
+  "word": "mop"
+}

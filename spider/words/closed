@@ -1,0 +1,54 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if a [door_1]{door}, [window]{window}, [lid]{lid}, etc. is closed, it is [covering]{covering} an [open_1]{open} [area]{area}, [passage]{passage}, or hole",
+      "examples": [
+        "closed [curtain]{curtains}",
+        "All the [door_1]{doors} are closed and [lock_1]{locked}.",
+        "Keep your [eye_1]{eyes} [tight_1#tight_1__40]{tightly} closed."
+      ],
+      "id": "closed__1"
+    },
+    {
+      "def": "not [operate]{operating} or [doing]{doing} [business]{business}, [especially]{especially} for the [night_1]{night} or [weekend_1]{weekend}",
+      "examples": [
+        "All the [store_1]{stores} were closed.",
+        "This part of the [museum]{museum} is closed to the [public_1]{public}."
+      ],
+      "id": "closed__5"
+    },
+    {
+      "def": "[held]{held} in [private_1]{private}, with no [reporter]{reporters} or [member]{members} of the [public_1]{public} [allow]{allowed}",
+      "examples": [
+        "[case_1]{Cases} of this [type_1]{type} are [tried_1]{tried} in a closed [military]{military} [court_1]{court}.",
+        "The [meeting]{meeting} was [held]{held} in closed [session_1]{session}."
+      ],
+      "id": "closed__8"
+    },
+    {
+      "def": "not [willing]{willing} to [consider]{consider} the [idea]{ideas}, [opinion]{opinions}, or [belief]{beliefs} of other [people_1]{people} or [group_1]{groups}",
+      "examples": [
+        "a closed [society]{society}",
+        "You can\u2019t [approach_1]{approach} these [kind_1]{kind} of [situation]{situations} with a closed [mind_1]{mind}."
+      ],
+      "id": "closed__11"
+    },
+    {
+      "def": "with a [fixed]{fixed} or [limited]{limited} [number_1]{number} of [part_1]{parts}, [member]{members}, or [answer_1]{answers}",
+      "examples": [
+        "a closed [question_1]{question}",
+        "The [law]{law} is not a closed [set_1]{set} of [rule_1]{rules} and [principle]{principles}."
+      ],
+      "id": "closed__14"
+    },
+    {
+      "def": "[form_2]{forming} a [complete_1]{complete} [circle_1]{circle}",
+      "examples": [
+        "a closed [loop_1]{loop} of [wire_1]{wire}"
+      ],
+      "id": "closed__17"
+    }
+  ],
+  "word": "closed"
+}

@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "pay off",
+  "senses": [
+    {
+      "def": "if something that you do [pay_1]{pays} off, it [bring]{brings} you some [benefit_1]{benefit}",
+      "examples": [
+        "All those [week]{weeks} of [study_2]{studying} will [pay_1]{pay} off when you take the [exam]{exam}."
+      ],
+      "id": "pay-off__1"
+    },
+    {
+      "def": "to give someone [money]{money} so that they will do something [bad_1]{bad} or [dishonest]{dishonest} for you",
+      "examples": [
+        "There were [suspicion]{suspicions} that [official_2]{officials} had been [paid_1]{paid} off.",
+        "They [threaten]{threatened} to [tell_1]{tell} [reporter]{reporters} about him [unless]{unless} he [paid_1]{paid} them off."
+      ],
+      "id": "pay-off__3"
+    },
+    {
+      "def": "to give someone all the [money]{money} that you have [borrow]{borrowed} from them to [buy_1]{buy} something",
+      "examples": [
+        "Only another six [month]{months} and the [house_1]{house} will be [paid_1]{paid} off."
+      ],
+      "id": "pay-off__7"
+    },
+    {
+      "def": "to [stop_1]{stop} [employ_1]{employing} a [worker]{worker} and give them any [money]{money} that they are [owe]{owed}",
+      "examples": [
+        "Over 1,000 [worker]{workers} will be [paid_1]{paid} off if this [factory]{factory} [close_1]{closes}."
+      ],
+      "id": "pay-off__9"
+    }
+  ]
+}

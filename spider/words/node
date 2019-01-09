@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [place_1]{place} where [lines]{lines} cross or [meet_1]{meet}, for [example]{example} on a [graph_1]{graph}",
+      "examples": [],
+      "id": "node__1"
+    },
+    {
+      "def": "a round [lump_1]{lump} in your body [form_2]{formed} from [cell]{cells} or [tissue]{tissue}",
+      "examples": [],
+      "id": "node__2"
+    },
+    {
+      "def": "the [swollen_1]{swollen} part of the stem of a [plant_1]{plant} where a [leaf_1]{leaf} [grow]{grows}",
+      "examples": [],
+      "id": "node__3"
+    },
+    {
+      "def": "the [place_1]{place} where two [part_1]{parts} of a [structure_1]{structure} [meet_1]{meet}",
+      "examples": [],
+      "id": "node__4"
+    },
+    {
+      "def": "a [point_1]{point} on a computer [network_1]{network} where a [message_1]{message} can be [create]{created} or [received]{received}",
+      "examples": [],
+      "id": "node__5"
+    }
+  ],
+  "word": "node"
+}

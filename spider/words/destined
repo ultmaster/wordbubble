@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[certain_1]{certain} to do something,or [certain_1]{certain} to [happen]{happen} in the [future_1]{future}",
+      "examples": [
+        "That [boy_1]{boy} is destined for [greatness]{greatness}.",
+        "We both [felt_1]{felt} that we were destined to [meet_1]{meet}."
+      ],
+      "id": "destined__1"
+    },
+    {
+      "def": "[traveling]{traveling} or being [sent]{sent} to a [particular_1]{particular} [place_1]{place}",
+      "examples": [
+        "[cargo]{cargo} destined for [western_1]{Western} Europe"
+      ],
+      "id": "destined__4"
+    },
+    {
+      "def": "[intended_1]{intended} for a [particular_1]{particular} [purpose]{purpose} or [person]{person}",
+      "examples": [
+        "a [book_1]{book} destined for the Christmas [market_1]{market}"
+      ],
+      "id": "destined__6"
+    }
+  ],
+  "word": "destined"
+}

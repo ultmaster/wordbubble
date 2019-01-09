@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "the [increase_1]{increase} in [speed_1]{speed} of a [moving]{moving} [object_1]{object}",
+      "entry": "acceleration",
+      "id": "acceleration#acceleration__6"
+    },
+    {
+      "comment": "a unit for measuring the speed of ships, aircraft, and wind, equal to one nautical mile per hour",
+      "entry": "knot",
+      "id": "knot_1#knot_1__7"
+    },
+    {
+      "comment": "[kilometer]{kilometers} per [hour]{hour}",
+      "entry": "kph",
+      "id": "kph#kph__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} the [speed_1]{speed} of an [object_1]{object} such as an [aircraft]{aircraft} in [comparison]{comparison} with the [speed_1]{speed} of [sound_1]{sound}. For [example]{example}, Mach 5 is five times the [speed_1]{speed} of [sound_1]{sound}.",
+      "entry": "Mach",
+      "id": "mach#mach__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [mile]{miles} that a [vehicle]{vehicle} [travel_1]{travels} in an [hour]{hour}",
+      "entry": "miles an/per hour",
+      "id": "miles-an-per-hour#miles-an-per-hour__1"
+    },
+    {
+      "comment": "[mile]{miles} per [hour]{hour}: a [unit]{unit} for [measure_2]{measuring} the [speed_1]{speed} at which a [vehicle]{vehicle} is [traveling]{traveling}",
+      "entry": "mph",
+      "id": "mph#mph__1"
+    },
+    {
+      "comment": "[revolution]{revolution}: a [complete_1]{complete} [circular_1]{circular} [movement]{movement} in an [engine]{engine}, [used]{used} as a [unit]{unit} for [measure_2]{measuring} the [speed_1]{speed} of an [engine]{engine}",
+      "entry": "rev",
+      "id": "rev_2#rev_2__1"
+    },
+    {
+      "comment": "[revolution]{revolutions} per [minute_1]{minute}: a [unit]{unit} for [measure_2]{measuring} the [speed_1]{speed} at which something [go_1]{goes} around in a [circle_1]{circle}",
+      "entry": "rpm",
+      "id": "rpm#rpm__1"
+    }
+  ],
+  "thesaurus": "Units for measuring speed of movement",
+  "type": "Related words"
+}

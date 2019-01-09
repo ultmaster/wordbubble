@@ -1,0 +1,27 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [covered_1]{covered} or [hidden_1]{hidden} and therefore [able_1]{able} to be [seen]{seen}",
+      "examples": [
+        "an exposed [brick_1]{brick} [wall_1]{wall}"
+      ],
+      "id": "exposed__1"
+    },
+    {
+      "def": "not [protected]{protected} from the [weather_1]{weather}",
+      "examples": [
+        "an exposed [site_1]{site} on the [hill]{hill}"
+      ],
+      "id": "exposed__3"
+    },
+    {
+      "def": "not [protected]{protected} from [attack_1]{attack}",
+      "examples": [
+        "an exposed [left_1]{left} [flank_1]{flank}"
+      ],
+      "id": "exposed__5"
+    }
+  ],
+  "word": "exposed"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to get [rid_1]{rid} of someone or something, and to put a [new]{new} [person]{person} or thing in their [place_1]{place}",
+      "entry": "replace",
+      "id": "replace#replace__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of something that you no [long_1]{longer} [want_1]{want}, for [example]{example} by [put]{putting} it in a [garbage]{garbage} [container]{container}",
+      "entry": "throw away",
+      "id": "throw-away#throw-away__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of something that is not [wanted]{wanted} or is no [long_1]{longer} [necessary_1]{necessary}",
+      "entry": "shed",
+      "id": "shed_1#shed_1__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of something that you no [long_1]{longer} [need_1]{need} or [want_1]{want}",
+      "entry": "dispose of",
+      "id": "dispose#dispose__2"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of something",
+      "entry": "do away with",
+      "id": "do-away-with#do-away-with__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of something that is not [wanted]{wanted} or [need_1]{needed}",
+      "entry": "eliminate",
+      "id": "eliminate#eliminate__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of someone or something that you no [long_1]{longer} [want_1]{want} or [need_1]{need}",
+      "entry": "dump",
+      "id": "dump_1#dump_1__3"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of something [completely]{completely}, [especially]{especially} something [bad_1]{bad}",
+      "entry": "eradicate",
+      "id": "eradicate#eradicate__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of something that you no [long_1]{longer} [want_1]{want} or [need_1]{need}",
+      "entry": "discard",
+      "id": "discard#discard__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of a [problem]{problem}, [difficulty]{difficulty}, or something that [annoy]{annoys} you",
+      "entry": "remove",
+      "id": "remove#remove__6"
+    }
+  ],
+  "thesaurus": "To get rid of something or someone",
+  "type": "Synonyms"
+}

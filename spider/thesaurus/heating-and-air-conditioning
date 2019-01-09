@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "[air_1]{air} [conditioning]{conditioning}",
+      "entry": "a/c",
+      "id": "a-c#a-c__1"
+    },
+    {
+      "comment": "if you [air_1]{air} a [place_1]{place} or it [air_1]{airs}, you [open_1]{open} the [door_1]{doors} and [window]{windows} to [let_1]{let} [fresh_1]{fresh} [air_1]{air} in",
+      "entry": "air",
+      "id": "air_2#air_2__8"
+    },
+    {
+      "comment": "[provided]{provided} with a system that [make_1]{makes} the [air_1]{air} [cold_1]{colder}",
+      "entry": "air-conditioned",
+      "id": "air-conditioned#air-conditioned__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [make_1]{makes} the [air_1]{air} [inside_1]{inside} a [building]{building}, [room_1]{room}, or [vehicle]{vehicle} [cold_1]{colder}",
+      "entry": "air conditioner",
+      "id": "air-conditioner#air-conditioner__1"
+    },
+    {
+      "comment": "a system that [make_1]{makes} the [air_1]{air} [inside_1]{inside} a [building]{building}, [room_1]{room}, or [vehicle]{vehicle} [cold_1]{colder}, or the [effect_1]{effect} that the [machine_1]{machines} [produce_1]{produce}",
+      "entry": "air conditioning",
+      "id": "air-conditioning#air-conditioning__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [heat_1]{heats} [water_1]{water} and [provide]{provides} [hot]{hot} [water_1]{water} for a [heating]{heating} system in a [house_1]{house}",
+      "entry": "boiler",
+      "id": "boiler#boiler__1"
+    },
+    {
+      "comment": "an [object_1]{object} [used]{used} for [heating]{heating} or [burning]{burning} something",
+      "entry": "burner",
+      "id": "burner#burner__1"
+    },
+    {
+      "comment": "a system for [heating]{heating} a whole [building]{building} by [send_1]{sending} [hot]{hot} [air_1]{air} or [water_1]{water} through [pipe_1]{pipes} to all the [room_1]{rooms}",
+      "entry": "central heating",
+      "id": "central-heating#central-heating__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} [used]{used} for [heating]{heating} a [room_1]{room} by [moving]{moving} [warm_1]{warm} [air_1]{air} around it",
+      "entry": "convector",
+      "id": "convector#convector__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [remove]{removes} [water_1]{water} from the [atmosphere]{atmosphere}",
+      "entry": "dehumidifier",
+      "id": "dehumidifier#dehumidifier__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} with [blade]{blades} that [turn_1]{turn} and move the [air_1]{air} in a [room_1]{room} to [make_1]{make} it [feel_1]{feel} less [hot]{hot}",
+      "entry": "fan",
+      "id": "fan_1#fan_1__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [blow_1]{blows} out [hot]{hot} [air_1]{air}, [used]{used} for [heating]{heating} a [room_1]{room}",
+      "entry": "fan heater",
+      "id": "fan-heater#fan-heater__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [use_1]{uses} [electricity]{electricity} or [gas_1]{gas} to [heat_1]{heat} a [room_1]{room}",
+      "entry": "fire",
+      "id": "fire_1#fire_1__19"
+    },
+    {
+      "comment": "a [metal_1]{metal} [tube]{tube} that [take_1]{takes} [smoke_1]{smoke} and [heat_1]{heat} from a fire to the [outside]{outside} of a [building]{building}",
+      "entry": "flue",
+      "id": "flue#flue__1"
+    },
+    {
+      "comment": "a [large_1]{large} [enclosed]{enclosed} [container]{container} in which you [burn_1]{burn} [fuel_1]{fuel}, [used]{used} for [heating]{heating} a [building]{building} or for an [industrial]{industrial} [process_1]{process} such as [making]{making} [metal_1]{metal} [liquid_1]{liquid}",
+      "entry": "furnace",
+      "id": "furnace#furnace__1"
+    },
+    {
+      "comment": "a piece of equipment like a fireplace or stove that makes a room warm by burning gas",
+      "entry": "gas fire",
+      "id": "gas-fire#gas-fire__1"
+    },
+    {
+      "comment": "the system in a [building]{building} that [keep_1]{keeps} it [warm_1]{warm}",
+      "entry": "heat",
+      "id": "heat_1#heat_1__27"
+    },
+    {
+      "comment": "the amount of [heat_1]{heat} [produce_1]{produced} by an [oven]{oven} or a [heating]{heating} system",
+      "entry": "the heat",
+      "id": "heat_1#heat_1__12"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [making]{making} a [place_1]{place} [warm_1]{warm} or for [heating]{heating} [water_1]{water}",
+      "entry": "heater",
+      "id": "heater#heater__1"
+    },
+    {
+      "comment": "the [heat_1]{heat} [used]{used} for [warming_1]{warming} a [building]{building}",
+      "entry": "heating",
+      "id": "heating#heating__4"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [heat_1]{heats} [water_1]{water} for use in the [home_1]{home}",
+      "entry": "immersion heater",
+      "id": "immersion-heater#immersion-heater__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [improve_1]{improving} the [quality_1]{quality} of the [air_1]{air} in a [room_1]{room}",
+      "entry": "ionizer",
+      "id": "ionizer#ionizer__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} [water_1]{water} [pipe_1]{pipes} with a [special_1]{special} [material_1]{material} that [stop_1]{stops} the [water_1]{water} from [freezing_1]{freezing} in [cold_1]{cold} [weather_1]{weather}",
+      "entry": "lag",
+      "id": "lag_1#lag_1__6"
+    },
+    {
+      "comment": "a [large_1]{large} [metal_1]{metal} [object_1]{object} on a [wall_1]{wall} that is [used]{used} for [heating]{heating} a [room_1]{room}",
+      "entry": "radiator",
+      "id": "radiator#radiator__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [metal_1]{metal} that you can [open_1]{open} and [close_1]{close} to [control_1]{control} the [flow_1]{flow} of [air_1]{air} in a [heating]{heating} system",
+      "entry": "register",
+      "id": "register_2#register_2__9"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [equipment]{equipment} that you use for [heating]{heating} a [particular_1]{particular} [area]{area}",
+      "entry": "space heater",
+      "id": "space-heater#space-heater__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} or a [piece_1]{piece} of [equipment]{equipment} that [provide]{provides} [heat_1]{heat} for [cooking_1]{cooking} or [heating]{heating} a [room_1]{room}",
+      "entry": "stove",
+      "id": "stove#stove__1"
+    },
+    {
+      "comment": "to [allow]{allow} [fresh_1]{fresh} [air_1]{air} to [enter]{enter} a [room_1]{room} or [building]{building}",
+      "entry": "ventilate",
+      "id": "ventilate#ventilate__1"
+    },
+    {
+      "comment": "the [movement]{movement} of [fresh_1]{fresh} [air_1]{air} around a [room_1]{room} or [building]{building}, or a system that [allow]{allows} this to [happen]{happen}",
+      "entry": "ventilation",
+      "id": "ventilation#ventilation__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [bring]{brings} [fresh_1]{fresh} [air_1]{air} into a [room_1]{room} or [building]{building} and [move_1]{moves} it around",
+      "entry": "ventilator",
+      "id": "ventilator#ventilator__2"
+    },
+    {
+      "comment": "something that [keep_1]{keeps} another thing [warm_1]{warm}",
+      "entry": "warmer",
+      "id": "warmer#warmer__3"
+    }
+  ],
+  "thesaurus": "Heating and air-conditioning",
+  "type": "Related words"
+}

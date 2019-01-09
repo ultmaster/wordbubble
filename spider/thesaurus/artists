@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "someone who makes paintings, sculptures, etc.",
+      "entry": "artist",
+      "id": "artist#artist__1"
+    },
+    {
+      "comment": "someone who [write]{writes}, [make_1]{makes} [movie]{movies}, or [write]{writes} [music]{music} with [great_1]{great} [skill]{skill}",
+      "entry": "artist",
+      "id": "artist#artist__5"
+    },
+    {
+      "comment": "the [people_1]{people} who [produce_1]{produce} [avant-garde]{avant-garde} [music]{music}, art, etc., or their [style_1]{style} and [attitude]{attitudes}",
+      "entry": "the avant-garde",
+      "id": "the-avant-garde#the-avant-garde__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [writer]{writers} and [artist]{artists}, [including]{including} Virginia Woolf, who [live_1]{lived} and [work_1]{worked} in the [early_1]{early} part of the 20th [century]{century}",
+      "entry": "the Bloomsbury Group",
+      "id": "the-bloomsbury-group#the-bloomsbury-group__1"
+    },
+    {
+      "comment": "someone who [draw_1]{draws} or [write]{writes} [caricature_1]{caricatures}",
+      "entry": "caricaturist",
+      "id": "caricaturist#caricaturist__1"
+    },
+    {
+      "comment": "someone who [draw_1]{draws} [cartoon]{cartoons}, [especially]{especially} as their [job_1]{job}",
+      "entry": "cartoonist",
+      "id": "cartoonist#cartoonist__1"
+    },
+    {
+      "comment": "an [artist]{artist} or [writer]{writer} whose [work_1]{work} is [base_2]{based} on the [principle]{principles} of [classicism]{classicism}",
+      "entry": "classicist",
+      "id": "classicist#classicist__2"
+    },
+    {
+      "comment": "someone who [draw_1]{draws} [thing]{things}",
+      "entry": "draftsman",
+      "id": "draftsman#draftsman__2"
+    },
+    {
+      "comment": "a [writer]{writer} or [artist]{artist} who was part of the [futurism]{futurism} [movement]{movement}",
+      "entry": "futurist",
+      "id": "futurist#futurist__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [draw_1]{draw} [picture_1]{pictures} for [book_1]{books} or [magazine]{magazines}",
+      "entry": "illustrator",
+      "id": "illustrator#illustrator__1"
+    },
+    {
+      "comment": "a [painter]{painter} who [work_1]{works} in the [style_1]{style} of Impressionism",
+      "entry": "Impressionist",
+      "id": "impressionist_2#impressionist_2__1"
+    },
+    {
+      "comment": "a [famous_1]{famous} [artist]{artist}",
+      "entry": "master",
+      "id": "master_1#master_1__4"
+    },
+    {
+      "comment": "an [artist]{artist} who [paint_1]{paints} very [small_1]{small} [picture_1]{pictures}",
+      "entry": "miniaturist",
+      "id": "miniaturist#miniaturist__1"
+    },
+    {
+      "comment": "a [person]{person} who [use_1]{uses} [minimalism]{minimalism}",
+      "entry": "minimalist",
+      "id": "minimalist_2#minimalist_2__1"
+    },
+    {
+      "comment": "an [artist]{artist}, [painter]{painter}, [writer]{writer}, etc. who [practice_1]{practices} [modernism]{modernism}",
+      "entry": "modernist",
+      "id": "modernist#modernist__1"
+    },
+    {
+      "comment": "the [painter]{painter} of an [old]{old} [master_1]{master}",
+      "entry": "old master",
+      "id": "old-master#old-master__2"
+    },
+    {
+      "comment": "an [artist]{artist} who [paint_1]{paints} [picture_1]{pictures}",
+      "entry": "painter",
+      "id": "painter#painter__1"
+    },
+    {
+      "comment": "an [artist]{artist} from the [period_1]{period} before the [renaissance]{Renaissance}",
+      "entry": "primitive",
+      "id": "primitive_2#primitive_2__1"
+    },
+    {
+      "comment": "an [artist]{artist} who [produce_1]{produces} very [simple]{simple} [work_1]{works} of art, or their [work_1]{work}",
+      "entry": "primitive",
+      "id": "primitive_2#primitive_2__2"
+    },
+    {
+      "comment": "an [artist]{artist} or [writer]{writer} whose [work_1]{work} [show_1]{shows} [life]{life} as it [really]{really} is",
+      "entry": "realist",
+      "id": "realist#realist__3"
+    },
+    {
+      "comment": "a writer, artist, or composer whose work is based on the tradition of Romanticism",
+      "entry": "Romantic",
+      "id": "romantic_2#romantic_2__4"
+    },
+    {
+      "comment": "a [group_1]{group} of [writer]{writers}, [artist]{artists}, etc. whose [work_1]{work} or [idea]{ideas} are [similar]{similar}",
+      "entry": "school",
+      "id": "school_1#school_1__31"
+    },
+    {
+      "comment": "an artist who makes sculptures",
+      "entry": "sculptor",
+      "id": "sculptor#sculptor__1"
+    },
+    {
+      "comment": "someone who draws pictures on a sidewalk and hopes to get money from people who walk past. The British word is pavement artist.",
+      "entry": "sidewalk artist",
+      "id": "sidewalk-artist#sidewalk-artist__1"
+    }
+  ],
+  "thesaurus": "Artists",
+  "type": "Related words"
+}

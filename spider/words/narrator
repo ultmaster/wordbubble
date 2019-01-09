@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [tell_1]{tells} the [story]{story} in a [novel_1]{novel} or [movie]{movie}",
+      "examples": [
+        "Marcel is the first [person]{person} narrator of the [novel_1]{novel}."
+      ],
+      "id": "narrator__1"
+    },
+    {
+      "def": "someone whose [voice_1]{voice} [explain]{explains} what is [happening_1]{happening} in a [television]{television} [program_1]{program} or [movie]{movie}, but who you do not see",
+      "examples": [
+        "His [voice_1]{voice} is [familiar]{familiar} as the narrator of [hundred_2]{hundreds} of [movie]{movie} [preview_1]{previews}."
+      ],
+      "id": "narrator__3"
+    }
+  ],
+  "word": "narrator"
+}

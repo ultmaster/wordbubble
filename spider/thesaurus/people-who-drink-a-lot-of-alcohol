@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [frequently]{frequently} [drink_1]{drinks} too much [alcohol]{alcohol}",
+      "entry": "sot",
+      "id": "sot#sot__1"
+    },
+    {
+      "comment": "someone who [find_1]{finds} it [difficult]{difficult} to [control_1]{control} the amount of [alcohol]{alcohol} they [drink_1]{drink}",
+      "entry": "alcoholic",
+      "id": "alcoholic_2#alcoholic_2__1"
+    },
+    {
+      "comment": "someone who often [drink_1]{drinks} [alcohol]{alcohol}",
+      "entry": "drinker",
+      "id": "drinker#drinker__1"
+    },
+    {
+      "comment": "someone who cannot [control_1]{control} their [feeling_1]{feeling} of [wanting]{wanting} to [drink_1]{drink} [alcohol]{alcohol}",
+      "entry": "dipsomaniac",
+      "id": "dipsomaniac#dipsomaniac__1"
+    },
+    {
+      "comment": "someone who [regularly]{regularly} [drink_1]{drinks} [alcohol]{alcohol}",
+      "entry": "tippler",
+      "id": "tippler#tippler__1"
+    },
+    {
+      "comment": "an [insulting]{insulting} [word_1]{word} for someone who [drink_1]{drinks} a [lot_1]{lot} of [alcohol]{alcohol}, [especially]{especially} someone who [lives]{lives} on the [street_1]{streets}",
+      "entry": "wino",
+      "id": "wino#wino__1"
+    },
+    {
+      "comment": "someone who becomes [drunk_1]{drunk} very [easily]{easily}",
+      "entry": "lightweight",
+      "id": "lightweight_2#lightweight_2__5"
+    },
+    {
+      "comment": "someone who has [drunk_1]{drunk} too much [alcohol]{alcohol}, or who [regularly]{regularly} [drink_1]{drinks} too much [alcohol]{alcohol}",
+      "entry": "drunk",
+      "id": "drunk_2#drunk_2__1"
+    },
+    {
+      "comment": "someone who [frequently]{frequently} [drink_1]{drinks} too much [alcohol]{alcohol}",
+      "entry": "drunkard",
+      "id": "drunkard#drunkard__1"
+    },
+    {
+      "comment": "someone who [spend]{spends} a [lot_1]{lot} of time in [bar_1]{bars} [drinking]{drinking} [alcohol]{alcohol}",
+      "entry": "barfly",
+      "id": "barfly#barfly__1"
+    }
+  ],
+  "thesaurus": "People who drink a lot of alcohol",
+  "type": "Synonyms"
+}

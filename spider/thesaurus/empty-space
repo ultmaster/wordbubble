@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "an empty [space_1]{space} or [state_1]{state}",
+      "entry": "emptiness",
+      "id": "emptiness#emptiness__1"
+    },
+    {
+      "comment": "an empty or [available]{available} [area]{area}",
+      "entry": "space",
+      "id": "space_1#space_1__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [large_1]{large} empty [space_1]{space}",
+      "entry": "void",
+      "id": "void_1#void_1__3"
+    },
+    {
+      "comment": "a [space_1]{space} that has had all the [air_1]{air} and any other [gas_1]{gases} [removed]{removed} from it",
+      "entry": "vacuum",
+      "id": "vacuum_1#vacuum_1__1"
+    },
+    {
+      "comment": "empty [space_1]{space}",
+      "entry": "nothingness",
+      "id": "nothingness#nothingness__2"
+    },
+    {
+      "comment": "an empty [space_1]{space} where something is [missing]{missing}, for [example]{example} from a [piece_1]{piece} of [writing]{writing}",
+      "entry": "lacuna",
+      "id": "lacuna#lacuna__1"
+    }
+  ],
+  "thesaurus": "Empty space",
+  "type": "Synonyms"
+}

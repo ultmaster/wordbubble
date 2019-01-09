@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[physical_1]{physical} [harm_1]{harm} [cause_2]{caused} to something so that it is [broken_1]{broken}, [spoiled]{spoiled}, or [injured]{injured}",
+      "entry": "damage",
+      "id": "damage_1#damage_1__1"
+    },
+    {
+      "comment": "[damage_1]{damage} that is so [severe]{severe} that something [stop_1]{stops} [existing]{existing} or can never [return_1]{return} to its [normal_1]{normal} [state_1]{state}",
+      "entry": "destruction",
+      "id": "destruction#destruction__1"
+    },
+    {
+      "comment": "[injury]{injury}, [damage_1]{damage}, or [problem]{problems} [cause_2]{caused} by something that you do",
+      "entry": "harm",
+      "id": "harm_1#harm_1__1"
+    },
+    {
+      "comment": "the [deliberate_1]{deliberate} [destruction]{destruction} of a [building]{building}",
+      "entry": "demolition",
+      "id": "demolition#demolition__1"
+    },
+    {
+      "comment": "the [gradual]{gradual} [destruction]{destruction} of something as a [result_1]{result} of a [natural_1]{natural} [process_1]{process} of [change_1]{change}",
+      "entry": "decay",
+      "id": "decay_2#decay_2__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which there is a [lot_1]{lot} of [damage_1]{damage} or [destruction]{destruction}, or in which something cannot [continue]{continue} in its [normal_1]{normal} way because of [problem]{problems}",
+      "entry": "havoc",
+      "id": "havoc#havoc__1"
+    },
+    {
+      "comment": "[damage_1]{damage} or [destruction]{destruction} [affecting]{affecting} a [large_1]{large} [area]{area} or a [lot_1]{lot} of [people_1]{people}",
+      "entry": "devastation",
+      "id": "devastation#devastation__1"
+    },
+    {
+      "comment": "[deliberate_1]{deliberate} [damage_1]{damage} that is done to the [property]{property} of an [enemy]{enemy} or [opponent]{opponent}",
+      "entry": "sabotage",
+      "id": "sabotage_1#sabotage_1__1"
+    },
+    {
+      "comment": "the [state_1]{state} of something that has been [destroy]{destroyed} or [severely]{severely} [damage_2]{damaged}",
+      "entry": "ruin",
+      "id": "ruin_2#ruin_2__1"
+    },
+    {
+      "comment": "the [damage_1]{damage} or [destruction]{destruction} [cause_2]{caused} by something such as war, [disease]{disease}, or [weather_1]{weather}",
+      "entry": "the ravages of something",
+      "id": "ravages#ravages__2"
+    }
+  ],
+  "thesaurus": "Destruction and damage",
+  "type": "Synonyms"
+}

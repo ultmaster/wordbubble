@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "if time [crawl_1]{crawls} by, it seems to [pass_1]{pass} very [slowly]{slowly}",
+      "entry": "crawl",
+      "id": "crawl_1#crawl_1__10"
+    },
+    {
+      "comment": "if time [drag_1]{drags} by, it seems to [pass_1]{pass} very [slowly]{slowly}",
+      "entry": "drag by",
+      "id": "drag-by#drag-by__1"
+    },
+    {
+      "comment": "if something [creep_1]{creeps} up on you, it [happen]{happens} [slowly]{slowly} or [gradually]{gradually} so that you do not [notice_1]{notice} it [happening_1]{happening}",
+      "entry": "creep up on",
+      "id": "creep-up-on#creep-up-on__1"
+    },
+    {
+      "comment": "if time [drag_1]{drags}, it seems to [pass_1]{pass} very [slowly]{slowly}, [usually]{usually} because you are [bored]{bored}",
+      "entry": "drag",
+      "id": "drag_1#drag_1__16"
+    },
+    {
+      "comment": "[happening_1]{happening} very [slowly]{slowly} so that [people_1]{people} do not [notice_1]{notice}",
+      "entry": "creeping",
+      "id": "creeping#creeping__1"
+    }
+  ],
+  "thesaurus": "To happen, or to pass by slowly",
+  "type": "Synonyms"
+}

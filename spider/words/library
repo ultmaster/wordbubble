@@ -1,0 +1,26 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [place_1]{place} where [book_1]{books}, [document_1]{documents}, [cd]{CDs}, etc. are [available]{available} for you to [look_1]{look} at or [borrow]{borrow}",
+      "examples": [
+        "the [university]{university}/[school_1]{school} library",
+        "You can [borrow]{borrow} a [copy_1]{copy} from any [public_1]{public} library."
+      ],
+      "id": "library__1"
+    },
+    {
+      "def": "a [collection]{collection} of [book_1]{books}, [record_1]{records}, etc. that [belong]{belong} to one [person]{person} or are [related_1]{related} to one [particular_1]{particular} [subject_1]{subject}",
+      "examples": [
+        "the [national_1]{National} [library]{Library} of [medicine]{Medicine}"
+      ],
+      "id": "library__4"
+    },
+    {
+      "def": "a [room_1]{room} in a [house_1]{house} [used]{used} for [keeping]{keeping} and [reading]{reading} [book_1]{books}",
+      "examples": [],
+      "id": "library__7"
+    }
+  ],
+  "word": "library"
+}

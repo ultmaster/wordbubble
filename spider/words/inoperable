@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an inoperable [medical_1]{medical} [condition_1]{condition} cannot be [cure_2]{cured} or [treat_1]{treated} by an [operation]{operation}",
+      "examples": [
+        "an inoperable [tumor]{tumor}"
+      ],
+      "id": "inoperable__1"
+    },
+    {
+      "def": "not [working]{working} or [capable]{capable} of being [used]{used} [successful#successful__11]{successfully}",
+      "examples": [
+        "The [law]{law} was [changed]{changed} because it [prove]{proved} to be inoperable."
+      ],
+      "id": "inoperable__3"
+    }
+  ],
+  "word": "inoperable"
+}

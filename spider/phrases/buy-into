@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "buy into",
+  "senses": [
+    {
+      "def": "to [buy_1]{buy} part of a [business]{business}, [especially]{especially} in [order_1]{order} to get [control_1]{control} of it",
+      "examples": [
+        "[move_1]{Moves} to [buy_1]{buy} into other [company]{companies} have [failed]{failed}."
+      ],
+      "id": "buy-into__1"
+    },
+    {
+      "def": "to [start_1]{start} to do something that a [lot_1]{lot} of other [people_1]{people} are [doing]{doing}, or to [believe]{believe} something that a [lot_1]{lot} of other [people_1]{people} [believe]{believe}",
+      "examples": [
+        "You don\u2019t [buy_1]{buy} into all this [garbage]{garbage}, do you?"
+      ],
+      "id": "buy-into__3"
+    }
+  ]
+}

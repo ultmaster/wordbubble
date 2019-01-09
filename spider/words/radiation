@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a form of [energy]{energy} [produce_1]{produced} during a [nuclear]{nuclear} [reaction]{reaction} that is [used]{used} for [making]{making} [electrical_1]{electrical} [power_1]{power} but can also [kill_1]{kill} or [harm_1]{harm} [human_2]{humans} who [receive]{receive} too much of it",
+      "examples": [
+        "There is a [clear_1]{clear} [link_1]{link} between [exposure]{exposure} to radiation and some [form_1]{forms} of [cancer_1]{cancer}.",
+        "Some [worker]{workers} at the [power_1]{power} [station_1]{station} were [exposed]{exposed} to [high_1]{high} [level_1]{levels} of radiation.",
+        "a radiation [leak_1]{leak}"
+      ],
+      "id": "radiation__1"
+    },
+    {
+      "def": "a [type_1]{type} of [energy]{energy} that is [sent]{sent} out in the form of electromagnetic waves, for [example]{example}, [heat_1]{heat}, [light_1]{light}, or radio waves",
+      "examples": [
+        "[ultraviolet]{ultraviolet} radiation from the [sun_1]{sun}"
+      ],
+      "id": "radiation__6"
+    }
+  ],
+  "word": "radiation"
+}

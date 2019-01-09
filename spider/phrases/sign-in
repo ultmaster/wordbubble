@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "sign in",
+  "senses": [
+    {
+      "def": "to [write]{write} your name on an [official_1]{official} [list_1]{list} when you [arrive]{arrive} at a [place_1]{place}",
+      "examples": [
+        "All [visitor]{visitors} must [sign_1]{sign} in at the front [desk]{desk}.",
+        "He\u2019s [sign_2]{signed} you in and is [wait_1]{waiting} for you [inside_1]{inside}."
+      ],
+      "id": "sign-in__1"
+    },
+    {
+      "def": "if you [sign_1]{sign} in something that you have [borrow]{borrowed}, you [write]{write} your name on an [official_1]{official} [list_1]{list} to show that you have [return_1]{returned} it",
+      "examples": [],
+      "id": "sign-in__4"
+    }
+  ]
+}

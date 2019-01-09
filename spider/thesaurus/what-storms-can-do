@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "if a [storm_1]{storm} [blow_1]{blows} [itself]{itself} out, it [end_1]{ends}",
+      "entry": "blow itself out",
+      "id": "blow-out#blow-out__9"
+    },
+    {
+      "comment": "if a [storm_1]{storm} [blow_1]{blows} over, it [end_1]{ends}",
+      "entry": "blow over",
+      "id": "blow-over#blow-over__4"
+    },
+    {
+      "comment": "if a [storm_1]{storm} or [strong]{strong} [wind_1]{wind} [blow_1]{blows} up, it [suddenly]{suddenly} [start_1]{starts}",
+      "entry": "blow up",
+      "id": "blow-up_1#blow-up_1__10"
+    },
+    {
+      "comment": "if a [storm_1]{storm} [break_1]{breaks}, it [start_1]{starts}",
+      "entry": "break",
+      "id": "break_1#break_1__51"
+    },
+    {
+      "comment": "if lightning strikes something such as a tree or a building, it hits it and damages or destroys it",
+      "entry": "strike",
+      "id": "strike_1#strike_1__8"
+    },
+    {
+      "comment": "if it [thunder_2]{thunders}, you [hear]{hear} [thunder_1]{thunder} in the [sky_1]{sky}",
+      "entry": "thunder",
+      "id": "thunder_2#thunder_2__1"
+    }
+  ],
+  "thesaurus": "What storms can do",
+  "type": "Related words"
+}

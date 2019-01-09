@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [feeling_1]{feeling} of being [unhappy]{unhappy}, [especially]{especially} because something [bad_1]{bad} has [happen]{happened}",
+      "entry": "sadness",
+      "id": "sadness#sadness__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of being [extremely]{extremely} [unhappy]{unhappy}",
+      "entry": "depression",
+      "id": "depression#depression__1"
+    },
+    {
+      "comment": "a [strong]{strong} [feeling_1]{feeling} of [sadness]{sadness}, [usually]{usually} because someone has [die_1]{died}",
+      "entry": "grief",
+      "id": "grief#grief__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [extremely]{extremely} [unhappy]{unhappy} or [uncomfortable]{uncomfortable}",
+      "entry": "misery",
+      "id": "misery#misery__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [sadness]{sadness} about something that has [happen]{happened}",
+      "entry": "regret",
+      "id": "regret_2#regret_2__1"
+    },
+    {
+      "comment": "[great_1]{great} [sadness]{sadness}",
+      "entry": "sorrow",
+      "id": "sorrow_1#sorrow_1__1"
+    },
+    {
+      "comment": "a [strong]{strong} [sad_1]{sad} and [guilty]{guilty} [feeling_1]{feeling} about something that you have done [wrong_1]{wrong}",
+      "entry": "remorse",
+      "id": "remorse#remorse__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} that you have when you are very [unhappy]{unhappy}, [worried]{worried}, or [upset_1]{upset}",
+      "entry": "distress",
+      "id": "distress_1#distress_1__1"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} of being [unhappy]{unhappy} because something that you [hope_1]{hoped} for or [expected]{expected} [did]{did} not [happen]{happen} or because someone or something was not as [good_1]{good} as you [expected]{expected}",
+      "entry": "disappointment",
+      "id": "disappointment#disappointment__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} of [great_1]{great} [sadness]{sadness} and [lonely#lonely__8]{loneliness}",
+      "entry": "desolation",
+      "id": "desolation#desolation__1"
+    }
+  ],
+  "thesaurus": "Sadness and unhappiness",
+  "type": "Synonyms"
+}

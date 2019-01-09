@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [heavy_1]{heavy} [smell_1]{smell} is [sweet_1]{sweet} and [strong]{strong}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__34"
+    },
+    {
+      "comment": "[cheese]{cheese} or [meat]{meat} that is [high_1]{high} has [developed]{developed} a very [strong]{strong} [flavor_1]{flavor} and [smell_1]{smell}",
+      "entry": "high",
+      "id": "high_1#high_1__60"
+    },
+    {
+      "comment": "[air_1]{air} that is [laden]{laden} with a [particular_1]{particular} [smell_1]{smell}, [smell_1]{smells} very [strongly]{strongly} of that thing",
+      "entry": "laden",
+      "id": "laden#laden__4"
+    },
+    {
+      "comment": "with a [strong]{strong} [smell_1]{smell}",
+      "entry": "odoriferous",
+      "id": "odoriferous#odoriferous__1"
+    },
+    {
+      "comment": "without a [smell_1]{smell}",
+      "entry": "odorless",
+      "id": "odorless#odorless__1"
+    },
+    {
+      "comment": "with a [strong]{strong} [smell_1]{smell}",
+      "entry": "odorous",
+      "id": "odorous#odorous__1"
+    },
+    {
+      "comment": "very [loud_1]{loud} or [bright_1]{bright}, or with a [strong]{strong} [smell_1]{smell}",
+      "entry": "powerful",
+      "id": "powerful#powerful__16"
+    },
+    {
+      "comment": "[smell_2]{smelling} of something",
+      "entry": "redolent",
+      "id": "redolent#redolent__3"
+    }
+  ],
+  "thesaurus": "Describing smells and lack of smell",
+  "type": "Related words"
+}

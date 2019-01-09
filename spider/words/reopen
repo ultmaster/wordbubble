@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [process_1]{process} [reopen]{reopens}, or if someone [reopen]{reopens} it, it [begin]{begins} again after a [pause_1]{pause}",
+      "examples": [
+        "The two sides have [decided]{decided} to reopen [negotiation]{negotiations}."
+      ],
+      "id": "reopen__1"
+    },
+    {
+      "def": "if a [store_1]{store}, [restaurant]{restaurant}, [theater]{theater}, etc. [reopen]{reopens}, or if someone [reopen]{reopens} it, it [open_2]{opens} again to [customer]{customers} after being [closed]{closed} for a [period_1]{period} of time",
+      "examples": [
+        "The theater will reopen next week with a production of Hamlet."
+      ],
+      "id": "reopen__3"
+    }
+  ],
+  "word": "reopen"
+}

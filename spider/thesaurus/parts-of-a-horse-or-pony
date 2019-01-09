@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "the bottom part of a [horse_1]{horse}\u2019s [leg_1]{leg}",
+      "entry": "fetlock",
+      "id": "fetlock#fetlock__1"
+    },
+    {
+      "comment": "the front part of a horse\u2019s mane that falls forward between its ears",
+      "entry": "forelock",
+      "id": "forelock#forelock__1"
+    },
+    {
+      "comment": "the [hard_1]{hard} part of a [horse_1]{horse}\u2019s [foot_1]{foot}",
+      "entry": "hoof",
+      "id": "hoof_1#hoof_1__1"
+    },
+    {
+      "comment": "a curved piece of iron fastened to the bottom of a horse\u2019s hoof",
+      "entry": "horseshoe",
+      "id": "horseshoe#horseshoe__1"
+    },
+    {
+      "comment": "the long [hair]{hair} on the [neck_1]{neck} of a [horse_1]{horse} or [lion]{lion}",
+      "entry": "mane",
+      "id": "mane#mane__1"
+    },
+    {
+      "comment": "a [horseshoe]{horseshoe}",
+      "entry": "shoe",
+      "id": "shoe_1#shoe_1__7"
+    },
+    {
+      "comment": "the [upper_1]{upper} part of a [horse_1]{horse}\u2019s back, between its [shoulder_1]{shoulders}",
+      "entry": "withers",
+      "id": "withers#withers__1"
+    }
+  ],
+  "thesaurus": "Parts of a horse or pony",
+  "type": "Related words"
+}

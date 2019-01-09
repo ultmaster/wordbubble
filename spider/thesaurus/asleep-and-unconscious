@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [awake_1]{awake}",
+      "entry": "asleep",
+      "id": "asleep#asleep__1"
+    },
+    {
+      "comment": "in a [condition_1]{condition} [similar]{similar} to [sleep_1]{sleep} in which you do not see, [feel_1]{feel}, or [think_1]{think}, [usually]{usually} because you are [injured]{injured}",
+      "entry": "unconscious",
+      "id": "unconscious_1#unconscious_1__1"
+    },
+    {
+      "comment": "[unconscious_1]{unconscious} or in a [coma]{coma}",
+      "entry": "comatose",
+      "id": "comatose#comatose__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone is [unconscious_1]{unconscious} or is made [unconscious_1]{unconscious}",
+      "entry": "out",
+      "id": "out_1#out_1__63"
+    },
+    {
+      "comment": "[unconscious_1]{unconscious} after being [given_1]{given} a [drug_1]{drug} to [prevent]{prevent} you from [feeling_1]{feeling} [pain_1]{pain}",
+      "entry": "under",
+      "id": "under_1#under_1__58"
+    },
+    {
+      "comment": "[sleep_1]{sleeping} very well",
+      "entry": "sound asleep",
+      "id": "sound_4#sound_4__2"
+    },
+    {
+      "comment": "[sleep_1]{sleeping} in a way that [make_1]{makes} it [difficult]{difficult} to [wake_1]{wake} you",
+      "entry": "fast asleep",
+      "id": "fast-asleep#fast-asleep__1"
+    },
+    {
+      "comment": "someone who is [semiconscious]{semiconscious} is only [partly]{partly} [conscious_1]{conscious}",
+      "entry": "semiconscious",
+      "id": "semiconscious#semiconscious__1"
+    },
+    {
+      "comment": "[completely]{completely} [unconscious_1]{unconscious}",
+      "entry": "out cold",
+      "id": "out-cold#out-cold__1"
+    },
+    {
+      "comment": "[unconscious_1]{unconscious}, or [sleep_1]{sleeping} and not [likely_1]{likely} to [wake_1]{wake} up",
+      "entry": "out for the count",
+      "id": "out-for-the-count#out-for-the-count__1"
+    }
+  ],
+  "thesaurus": "Asleep and unconscious",
+  "type": "Synonyms"
+}

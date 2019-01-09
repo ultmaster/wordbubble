@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in line/out of line with",
+  "senses": [
+    {
+      "def": "similar to/different from someone or something",
+      "examples": [
+        "The [cost_1]{costs} were very much in [line_1]{line} with what we [expected]{expected}."
+      ],
+      "id": "in-line-out-of-line-with__1"
+    },
+    {
+      "def": "[change_1]{changing}/not changing in the same way as another thing",
+      "examples": [
+        "[social_1]{Social} [security]{Security} [recipient]{recipients} are [granted]{granted} an [annual_1]{annual} [increase_1]{increase} in [line_1]{line} with the [cost_1]{cost} of [living_1]{living}."
+      ],
+      "id": "in-line-out-of-line-with__3"
+    }
+  ]
+}

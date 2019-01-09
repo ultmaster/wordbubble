@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "let off",
+  "senses": [
+    {
+      "def": "to [allow]{allow} someone not to do something that they were [expect]{expecting} to have to do",
+      "examples": [
+        "When we were in [port]{port}, he [let_1]{let} me off [work_1]{work} and [allow]{allowed} me to go [ashore]{ashore}."
+      ],
+      "id": "let-off__1"
+    },
+    {
+      "def": "to give someone [little_1]{little} or no [punishment]{punishment} for something that they [did]{did} [wrong_1]{wrong}",
+      "examples": [
+        "I was [pull_1]{pulled} over for [speeding_1]{speeding}, but I was [let_1]{let} off with a [warning]{warning}.",
+        "They [let_1]{let} her off [lightly]{lightly} because she\u2019s only [sixteen]{sixteen}."
+      ],
+      "id": "let-off__3"
+    },
+    {
+      "def": "to [allow]{allow} a [passenger]{passenger} to get out of a [car]{car} or off a [bus_1]{bus}",
+      "examples": [
+        "You can [let_1]{let} me off at the [corner_1]{corner}."
+      ],
+      "id": "let-off__6"
+    },
+    {
+      "def": "to fire a [gun_1]{gun} or [bullet]{bullet}",
+      "examples": [],
+      "id": "let-off__8"
+    }
+  ]
+}

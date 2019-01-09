@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "express yourself",
+  "senses": [
+    {
+      "def": "to [talk_1]{talk} in a way that other [people_1]{people} can [understand]{understand}",
+      "examples": [
+        "She [find_1]{finds} it [difficult]{difficult} to [express_1]{express} [herself]{herself} in English."
+      ],
+      "id": "express-yourself__1"
+    },
+    {
+      "def": "to show your [feeling_1]{feelings} in a [particular_1]{particular} way",
+      "examples": [
+        "[student]{students} who [express_1]{express} themselves through art"
+      ],
+      "id": "express-yourself__3"
+    }
+  ]
+}

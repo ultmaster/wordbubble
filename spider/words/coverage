@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[news]{news} about something on [television]{television} or [radio_1]{radio} or in the [newspaper]{newspapers}",
+      "examples": [
+        "You can see [live_1]{live} coverage of all the [main_1]{main} Olympic [event]{events}.",
+        "The [murder_1]{murder} has [received]{received} [extensive]{extensive} [media]{media} coverage.",
+        "Their coverage of the [riot_1]{riot} was [criticize]{criticized} for [ignore]{ignoring} its [cause_1]{causes}."
+      ],
+      "id": "coverage__1"
+    },
+    {
+      "def": "the amount and [type_1]{type} of [protection]{protection} that an [insurance]{insurance} [agreement]{agreement} [give_1]{gives} you",
+      "examples": [
+        "a [policy]{policy} that [aim_1]{aims} to give you more [comprehensive]{comprehensive} coverage"
+      ],
+      "id": "coverage__6"
+    },
+    {
+      "def": "[information]{information} about a [range_1]{range} of [thing]{things}, for [example]{example} in a [book_1]{book} or [course_1]{course} of [education]{education}",
+      "examples": [
+        "The [course_1]{course} [offer_1]{offers} [good_1]{good} coverage of the [subject_1]{subject}."
+      ],
+      "id": "coverage__8"
+    }
+  ],
+  "word": "coverage"
+}

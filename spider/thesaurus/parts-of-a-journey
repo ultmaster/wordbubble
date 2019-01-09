@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a part of a [trip_1]{trip} when you [leave_1]{leave} one [airplane]{airplane}, [train_1]{train}, [bus_1]{bus}, etc. to get on another",
+      "entry": "change",
+      "id": "change_2#change_2__25"
+    },
+    {
+      "comment": "the time when an [airplane]{airplane}, [bus_1]{bus}, or [train_1]{train} [leaves]{leaves}",
+      "entry": "departure",
+      "id": "departure#departure__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [people_1]{people} such as [passenger]{passengers} are [let_1]{let} out of [vehicle]{vehicles}",
+      "entry": "drop-off",
+      "id": "drop-off_2#drop-off_2__3"
+    },
+    {
+      "comment": "the last part of a [trip_1]{trip} or [race_1]{race}",
+      "entry": "the home stretch",
+      "id": "the-home-stretch#the-home-stretch__1"
+    },
+    {
+      "comment": "the [place_1]{place} where a [trip_1]{trip} [begin]{begins}",
+      "entry": "jumping-off point",
+      "id": "jumping-off-point#jumping-off-point__1"
+    },
+    {
+      "comment": "the first time that you see or [arrive]{arrive} on [land_1]{land} after a long [trip_1]{trip} in a [ship_1]{ship}, or the [place_1]{place} where you do this",
+      "entry": "landfall",
+      "id": "landfall#landfall__1"
+    },
+    {
+      "comment": "a part of a long [trip_1]{trip}, [especially]{especially} after a [stop_1]{stop}",
+      "entry": "lap",
+      "id": "lap_1#lap_1__6"
+    },
+    {
+      "comment": "a [short_1]{short} [stop_1]{stop} in a long [trip_1]{trip}, [especially]{especially} one between [airplane]{airplane} [flight]{flights}",
+      "entry": "layover",
+      "id": "layover#layover__1"
+    },
+    {
+      "comment": "a part of a [trip_1]{trip}",
+      "entry": "leg",
+      "id": "leg_1#leg_1__17"
+    },
+    {
+      "comment": "a [stay_1]{stay} of one [night_1]{night} on a [journey_1]{journey} to somewhere else",
+      "entry": "night halt",
+      "id": "night-halt#night-halt__1"
+    },
+    {
+      "comment": "a [place_1]{place} on [land_1]{land} where a [ship_1]{ship} [stop_1]{stops} before [continuing]{continuing} its [trip_1]{trip}",
+      "entry": "port of call",
+      "id": "port-of-call#port-of-call__1"
+    },
+    {
+      "comment": "one of the [place_1]{places} that you [visit_1]{visit} on a [trip_1]{trip}",
+      "entry": "port of call",
+      "id": "port-of-call#port-of-call__2"
+    },
+    {
+      "comment": "a part of a [trip_1]{trip} that has several [different]{different} [part_1]{parts}",
+      "entry": "stage",
+      "id": "stage_1#stage_1__19"
+    },
+    {
+      "comment": "the [beginning]{beginning} of a [trip_1]{trip}",
+      "entry": "start",
+      "id": "start_2#start_2__14"
+    },
+    {
+      "comment": "a [place_1]{place} where a [trip_1]{trip} [begin]{begins}",
+      "entry": "starting point",
+      "id": "starting-point#starting-point__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you [stop_1]{stop} on a [trip_1]{trip}",
+      "entry": "stop",
+      "id": "stop_2#stop_2__1"
+    },
+    {
+      "comment": "a [period_1]{period} when you [stop_1]{stop} on a [trip_1]{trip}",
+      "entry": "stop",
+      "id": "stop_2#stop_2__5"
+    },
+    {
+      "comment": "a [stopover]{stopover}",
+      "entry": "stop-off",
+      "id": "stop-off_2#stop-off_2__1"
+    },
+    {
+      "comment": "a [stop_1]{stop} during a [trip_1]{trip}, [especially]{especially} during a [flight]{flight}",
+      "entry": "stopover",
+      "id": "stopover#stopover__1"
+    }
+  ],
+  "thesaurus": "Parts of a journey",
+  "type": "Related words"
+}

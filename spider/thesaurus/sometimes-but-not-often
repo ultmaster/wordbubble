@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "on some [occasion_1]{occasions} or in some [situation]{situations}, but not always",
+      "entry": "sometimes",
+      "id": "sometimes#sometimes__1"
+    },
+    {
+      "comment": "sometimes, but not [frequently]{frequently} or [regularly]{regularly}",
+      "entry": "occasionally",
+      "id": "occasionally#occasionally__1"
+    },
+    {
+      "comment": "[happening_1]{happening} sometimes but not [regularly]{regularly} or often",
+      "entry": "intermittent",
+      "id": "intermittent#intermittent__1"
+    },
+    {
+      "comment": "not [happening_1]{happening} very often, or not [doing]{doing} something very often",
+      "entry": "infrequent",
+      "id": "infrequent#infrequent__1"
+    },
+    {
+      "comment": "not [regular_1]{regular} or [frequent_1]{frequent}",
+      "entry": "sporadic",
+      "id": "sporadic#sporadic__1"
+    },
+    {
+      "comment": "[happening_1]{happening} for [short_1]{short} [period_1]{periods} and not often",
+      "entry": "spasmodic",
+      "id": "spasmodic#spasmodic__1"
+    },
+    {
+      "comment": "[happening_1]{happening} sometimes, but not [frequently]{frequently} or [regularly]{regularly}",
+      "entry": "occasional",
+      "id": "occasional#occasional__1"
+    },
+    {
+      "comment": "sometimes, but not [frequently]{frequently}",
+      "entry": "every so often",
+      "id": "every-so-often#every-so-often__1"
+    },
+    {
+      "comment": "sometimes, but not [regularly]{regularly} or often",
+      "entry": "(every) now and then/again",
+      "id": "every-now-and-then-again#every-now-and-then-again__1"
+    },
+    {
+      "comment": "sometimes, but not often",
+      "entry": "from time to time",
+      "id": "from-time-to-time#from-time-to-time__1"
+    }
+  ],
+  "thesaurus": "Sometimes, but not often",
+  "type": "Synonyms"
+}

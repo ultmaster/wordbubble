@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [open_1]{open} has no [cover_1]{cover} or has its [edge_1]{edges} [separated]{separated} so that you can see or take out what is [inside_1]{inside}",
+      "entry": "open",
+      "id": "open_1#open_1__7"
+    },
+    {
+      "comment": "in a [position_1]{position} that [allow]{allows} someone or something to [pass_1]{pass} through",
+      "entry": "open",
+      "id": "open_1#open_1__12"
+    },
+    {
+      "comment": "a [door_1]{door} that is [ajar]{ajar} is [slightly]{slightly} [open_1]{open}",
+      "entry": "ajar",
+      "id": "ajar#ajar__1"
+    },
+    {
+      "comment": "if a [road]{road} or [passage]{passage} is [open_1]{open}, it is [possible_1]{possible} for [thing]{things} to move from one [end_1]{end} to the other",
+      "entry": "open",
+      "id": "open_1#open_1__23"
+    },
+    {
+      "comment": "as [open_1]{open} or [large_1]{large} as [possible_1]{possible}",
+      "entry": "wide",
+      "id": "wide_1#wide_1__7"
+    },
+    {
+      "comment": "if [flower_1]{flowers} are out, they have [open_2]{opened}",
+      "entry": "out",
+      "id": "out_1#out_1__91"
+    },
+    {
+      "comment": "[open_2]{opened} as much as [possible_1]{possible}",
+      "entry": "wide open",
+      "id": "wide-open#wide-open__1"
+    }
+  ],
+  "thesaurus": "Open",
+  "type": "Synonyms"
+}

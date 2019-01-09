@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [right_1]{right} to do something that is [given_1]{given} to you by someone in [authority]{authority}",
+      "entry": "permission",
+      "id": "permission#permission__1"
+    },
+    {
+      "comment": "[permission]{permission} to do something",
+      "entry": "consent",
+      "id": "consent_1#consent_1__1"
+    },
+    {
+      "comment": "[official_1]{official} [agreement]{agreement} or [permission]{permission}, [given_1]{given} by someone in [authority]{authority}",
+      "entry": "approval",
+      "id": "approval#approval__7"
+    },
+    {
+      "comment": "[official_1]{official} [permission]{permission} for [take_1]{taking} [action_1]{action}",
+      "entry": "sanction",
+      "id": "sanction_1#sanction_1__6"
+    },
+    {
+      "comment": "[official_1]{official} [permission]{permission} that [allow]{allows} someone to do something, to go to a [particular_1]{particular} [country]{country}, or to be [told]{told} [particular_1]{particular} [information]{information}",
+      "entry": "clearance",
+      "id": "clearance#clearance__1"
+    },
+    {
+      "comment": "[official_1]{official} [permission]{permission} to do something",
+      "entry": "authorization",
+      "id": "authorization#authorization__1"
+    },
+    {
+      "comment": "[permission]{permission} to [ignore]{ignore} something such as a [rule_1]{rule}, [obligation]{obligation}, or [payment]{payment}",
+      "entry": "exemption",
+      "id": "exemption#exemption__1"
+    },
+    {
+      "comment": "[permission]{permission}",
+      "entry": "leave",
+      "id": "leave_2#leave_2__6"
+    },
+    {
+      "comment": "[official_1]{official} [permission]{permission} to do something",
+      "entry": "authority",
+      "id": "authority#authority__21"
+    },
+    {
+      "comment": "[official_1]{official} [permission]{permission} to do something that [people_1]{people} are not [normally]{normally} [allow]{allowed} to do, [especially]{especially} from a [religious]{religious} [authority]{authority}",
+      "entry": "dispensation",
+      "id": "dispensation#dispensation__1"
+    }
+  ],
+  "thesaurus": "General words for permission",
+  "type": "Synonyms"
+}

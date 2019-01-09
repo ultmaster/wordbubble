@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "[area]{areas} of [land_1]{land} where nothing [grow]{grows} and there are only [rock_1]{rocks}, [especially]{especially} in [north_1]{North} America",
+      "entry": "badlands",
+      "id": "badlands#badlands__1"
+    },
+    {
+      "comment": "a way across Australia that passes through some of the driest and most dangerous parts of the country, often referred to as a symbol of the dangers of traveling in the Australian outback  (=areas that are far from towns or cities)",
+      "entry": "Birdsville Track",
+      "id": "birdsville-track#birdsville-track__1"
+    },
+    {
+      "comment": "an [area]{area} where there [used]{used} to be a [river]{river} or [lake]{lake}",
+      "entry": "bottomland",
+      "id": "bottomland#bottomland__1"
+    },
+    {
+      "comment": "an [area]{area} of [desert_1]{desert} [covering]{covering} [part_1]{parts} of California and Nevada, [famous_1]{famous} for being one of the [hot]{hottest} [place_1]{places} in the [world]{world}",
+      "entry": "Death Valley",
+      "id": "death-valley#death-valley__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} with few [plant_1]{plants} and [little_1]{little} [water_1]{water} and where the [weather_1]{weather} is always [dry_1]{dry}",
+      "entry": "desert",
+      "id": "desert_1#desert_1__1"
+    },
+    {
+      "comment": "a region where there are a lot of dust storms because the earth has become dry because of a lack of rain",
+      "entry": "dust bowl",
+      "id": "dust-bowl#dust-bowl__1"
+    },
+    {
+      "comment": "a [strange_1]{strange} [effect_1]{effect} in a [desert_1]{desert} or on the [ocean]{ocean} in which you see something that is not [really]{really} there",
+      "entry": "mirage",
+      "id": "mirage#mirage__1"
+    },
+    {
+      "comment": "an empty [area]{area} of [land_1]{land} that [look_1]{looks} [like_1]{like} the [surface_1]{surface} of the [moon_1]{moon}",
+      "entry": "moonscape",
+      "id": "moonscape#moonscape__1"
+    },
+    {
+      "comment": "a [place_1]{place} in a [desert_1]{desert} where there is [water_1]{water} and [plant_1]{plants} and [tree]{trees} [grow]{grow}",
+      "entry": "oasis",
+      "id": "oasis#oasis__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [flat_1]{flat} [land_1]{land} [naturally]{naturally} [covered_1]{covered} with [salt_1]{salt}",
+      "entry": "salt flats",
+      "id": "salt-flats#salt-flats__1"
+    },
+    {
+      "comment": "an [area]{area} of [sand_1]{sand}",
+      "entry": "sands",
+      "id": "sand_1#sand_1__4"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} where [people_1]{people} do not [live_1]{live} or [grow]{grow} [crop_1]{crops} and where there are no [building]{buildings}",
+      "entry": "wilderness",
+      "id": "wilderness#wilderness__1"
+    }
+  ],
+  "thesaurus": "Deserts and dry land",
+  "type": "Related words"
+}

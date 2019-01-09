@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "set back",
+  "senses": [
+    {
+      "def": "to [delay_1]{delay} the [progress_1]{progress} of someone or something",
+      "examples": [
+        "The [spending]{spending} [cut_1]{cuts} have [set_1]{set} the [research_1]{research} [project_1]{project} back several [year]{years}."
+      ],
+      "id": "set-back__1"
+    },
+    {
+      "def": "to [cost_1]{cost} someone a [particular_1]{particular} amount of [money]{money}, [especially]{especially} a [large_1]{large} amount",
+      "examples": [
+        "Jim\u2019s [new]{new} [car]{car} must have [set_1]{set} him back a [bundle_1]{bundle}."
+      ],
+      "id": "set-back__3"
+    }
+  ]
+}

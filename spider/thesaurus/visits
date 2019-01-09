@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [occasion_1]{occasion} when you [visit_1]{visit} a [person]{person} or a [place_1]{place}",
+      "entry": "visit",
+      "id": "visit_2#visit_2__1"
+    },
+    {
+      "comment": "a [series]{series} of [visit_1]{visits} to [different]{different} [people_1]{people} or [place_1]{places} that are made as part of someone\u2019s [job_1]{job}",
+      "entry": "round",
+      "id": "round_2#round_2__11"
+    },
+    {
+      "comment": "a very [short_1]{short} [visit_1]{visit}",
+      "entry": "flying visit",
+      "id": "flying-visit#flying-visit__1"
+    },
+    {
+      "comment": "a [visit_1]{visit} or [telephone_1]{telephone} call that you [make_1]{make} to a [customer]{customer} in [order_1]{order} to be [polite]{polite}",
+      "entry": "courtesy call",
+      "id": "courtesy-call#courtesy-call__1"
+    },
+    {
+      "comment": "a [short_1]{short} [visit_1]{visit} to someone, [especially]{especially} to their [home_1]{home}",
+      "entry": "call",
+      "id": "call_2#call_2__18"
+    },
+    {
+      "comment": "a [series]{series} of [place_1]{places} that are [regularly]{regularly} [visit_1]{visited} by someone [involved]{involved} in a [particular_1]{particular} [activity]{activity}",
+      "entry": "circuit",
+      "id": "circuit#circuit__3"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [visit_1]{visit} a [lot_1]{lot} of [place_1]{places} in a [short_1]{short} [period_1]{period} of time",
+      "entry": "whistle-stop tour",
+      "id": "whistle-stop-tour#whistle-stop-tour__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when [people_1]{people} are [encourage]{encouraged} to [visit_1]{visit} a [place_1]{place}",
+      "entry": "open house",
+      "id": "open-house#open-house__1"
+    },
+    {
+      "comment": "a [guide_2]{guided} [tour_1]{tour}",
+      "entry": "conducted tour",
+      "id": "conducted-tour#conducted-tour__1"
+    },
+    {
+      "comment": "a [short_1]{short} [visit_1]{visit} to a [person]{person} or [place_1]{place}",
+      "entry": "look-in",
+      "id": "look-in_2#look-in_2__1"
+    }
+  ],
+  "thesaurus": "Visits",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that you have to do, often something that is [difficult]{difficult} or [unpleasant]{unpleasant}",
+      "entry": "task",
+      "id": "task_1#task_1__1"
+    },
+    {
+      "comment": "a serious or [difficult]{difficult} [responsibility]{responsibility} that you have to [deal_1]{deal} with",
+      "entry": "burden",
+      "id": "burden_1#burden_1__1"
+    },
+    {
+      "comment": "something that is [difficult]{difficult} or [unpleasant]{unpleasant} but cannot be [avoid]{avoided}",
+      "entry": "necessity",
+      "id": "necessity#necessity__6"
+    },
+    {
+      "comment": "an [unpleasant]{unpleasant}, [boring_1]{boring}, or [difficult]{difficult} thing that must be done",
+      "entry": "chore",
+      "id": "chore#chore__3"
+    },
+    {
+      "comment": "something that [take_1]{takes} a [lot_1]{lot} of [physical_1]{physical} or [mental]{mental} [effort]{effort}",
+      "entry": "struggle",
+      "id": "struggle_2#struggle_2__11"
+    },
+    {
+      "comment": "something that [cause_1]{causes} you a [lot_1]{lot} of [problem]{problems}",
+      "entry": "headache",
+      "id": "headache#headache__4"
+    },
+    {
+      "comment": "something that is [impossible]{impossible} or very [difficult]{difficult} to do",
+      "entry": "the impossible",
+      "id": "the-impossible#the-impossible__1"
+    },
+    {
+      "comment": "something very [difficult]{difficult} that someone [expect]{expects} you to do",
+      "entry": "a tall order",
+      "id": "a-tall-order#a-tall-order__1"
+    },
+    {
+      "comment": "something that is [difficult]{difficult} to [understand]{understand} or [solve]{solve}",
+      "entry": "puzzler",
+      "id": "puzzler#puzzler__1"
+    },
+    {
+      "comment": "the [difficult]{difficult} and [unpleasant]{unpleasant} [aspect]{aspects} of a [situation]{situation}",
+      "entry": "the rigors of something",
+      "id": "the-rigors-of-something#the-rigors-of-something__1"
+    }
+  ],
+  "thesaurus": "Something that is difficult or unpleasant to do or deal with",
+  "type": "Synonyms"
+}

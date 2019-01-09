@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "pour out",
+  "senses": [
+    {
+      "def": "to put some [drink_1]{drink} into a [glass]{glass} or [cup_1]{cup} from another [container]{container}",
+      "examples": [
+        "She [pour]{poured} out the rest of the [tea]{tea} and [hand_2]{handed} it to me.",
+        "Would you [pour]{pour} some [water_1]{water} out for me, please?"
+      ],
+      "id": "pour-out__1"
+    },
+    {
+      "def": "to [tell_1]{tell} someone everything that you are [feeling_1]{feeling}",
+      "examples": [
+        "She [began]{began} [pour]{pouring} out her [fear_1]{fears} about the [future_1]{future}.",
+        "She [wrote]{wrote} him a long [letter_1]{letter}, [pour]{pouring} her [heart_1]{heart} out."
+      ],
+      "id": "pour-out__4"
+    }
+  ]
+}

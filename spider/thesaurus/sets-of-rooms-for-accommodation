@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "[accommodations]{accommodations}",
+      "entry": "accommodation",
+      "id": "accommodation#accommodation__3"
+    },
+    {
+      "comment": "a place to live, especially a temporary place such as a hotel room. The British word is accommodation",
+      "entry": "accommodations",
+      "id": "accommodations#accommodations__1"
+    },
+    {
+      "comment": "a set of rooms for living in, usually on one floor of a large building. The usual British word is flat.",
+      "entry": "apartment",
+      "id": "apartment#apartment__1"
+    },
+    {
+      "comment": "a [small_1]{small} [apartment]{apartment}, [consist]{consisting} of a [main_1]{main} [room_1]{room} for [living_1]{living} in, a [kitchen]{kitchen}, and a [bathroom]{bathroom}, [suitable]{suitable} for a [person]{person} who is not [married]{married}",
+      "entry": "bachelor apartment",
+      "id": "bachelor-apartment#bachelor-apartment__1"
+    },
+    {
+      "comment": "an [apartment]{apartment} where a man who is not [married]{married} [lives]{lives}",
+      "entry": "bachelor pad",
+      "id": "bachelor-pad#bachelor-pad__1"
+    },
+    {
+      "comment": "a [room_1]{room} that you [rent_1]{rent} that is [used]{used} for both [living_1]{living} and [sleep_1]{sleeping} in",
+      "entry": "bedsit",
+      "id": "bedsit#bedsit__1"
+    },
+    {
+      "comment": "a [condominium]{condominium}",
+      "entry": "condo",
+      "id": "condo#condo__1"
+    },
+    {
+      "comment": "an [apartment]{apartment} in a [condominium]{condominium}",
+      "entry": "condominium",
+      "id": "condominium#condominium__2"
+    },
+    {
+      "comment": "an [apartment]{apartment} or other [place_1]{place} to [live_1]{live}",
+      "entry": "digs",
+      "id": "digs#digs__1"
+    },
+    {
+      "comment": "an [apartment]{apartment} that has [room_1]{rooms} on two [level_1]{levels}",
+      "entry": "duplex",
+      "id": "duplex#duplex__2"
+    },
+    {
+      "comment": "an [efficiency]{efficiency} [apartment]{apartment}",
+      "entry": "efficiency",
+      "id": "efficiency#efficiency__5"
+    },
+    {
+      "comment": "a [small_1]{small} [apartment]{apartment} that [usually]{usually} already has [furniture]{furniture} and has no [separate_1]{separate} [bedroom]{bedroom}, and only a very [small_1]{small} [bathroom]{bathroom} and [kitchen]{kitchen}",
+      "entry": "efficiency apartment",
+      "id": "efficiency-apartment#efficiency-apartment__1"
+    },
+    {
+      "comment": "an [apartment]{apartment}",
+      "entry": "flat",
+      "id": "flat_3#flat_3__6"
+    },
+    {
+      "comment": "an [apartment]{apartment} that is on the [low_1]{lowest} [floor_1]{floor} of a [building]{building} and that [lead_1]{leads} [directly_1]{directly} to a [yard]{yard}",
+      "entry": "garden apartment",
+      "id": "garden-apartment#garden-apartment__1"
+    },
+    {
+      "comment": "the [room_1]{rooms} where [people_1]{people} [live_1]{live}, for [example]{example} in a [ship_1]{ship} or [large_1]{large} [institution]{institution}",
+      "entry": "living quarters",
+      "id": "living-quarters#living-quarters__1"
+    },
+    {
+      "comment": "a [room_1]{room} or a [set_1]{set} of [room_1]{rooms} in someone\u2019s [house_1]{house} that you [pay_1]{pay} to [live_1]{live} in",
+      "entry": "lodgings",
+      "id": "lodging#lodging__3"
+    },
+    {
+      "comment": "an [upper_1]{upper} [floor_1]{floor} in a [factory]{factory} or [similar]{similar} [building]{building} that has been made into [apartment]{apartments}",
+      "entry": "loft",
+      "id": "loft_1#loft_1__1"
+    },
+    {
+      "comment": "an [apartment]{apartment} with two [level_1]{levels} in a [building]{building}",
+      "entry": "maisonette",
+      "id": "maisonette#maisonette__1"
+    },
+    {
+      "comment": "the [place_1]{place} where someone [lives]{lives}, [especially]{especially} an [apartment]{apartment}",
+      "entry": "pad",
+      "id": "pad_1#pad_1__15"
+    },
+    {
+      "comment": "an [expensive]{expensive} [apartment]{apartment} at the top of a [tall]{tall} [building]{building} in a [fashionable]{fashionable} [area]{area} of a [city]{city}",
+      "entry": "penthouse",
+      "id": "penthouse#penthouse__1"
+    },
+    {
+      "comment": "a [house_1]{house} or other [place_1]{place} where someone [lives]{lives}, [especially]{especially} a [large_1]{large} [house_1]{house} [used]{used} by an [important]{important} [person]{person}",
+      "entry": "residence",
+      "id": "residence#residence__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [room_1]{rooms} that you [rent_1]{rent}, [usually]{usually} in another [person]{person}\u2019s [house_1]{house} or in a [college]{college}",
+      "entry": "rooms",
+      "id": "room_1#room_1__10"
+    },
+    {
+      "comment": "a [small_1]{small} [apartment]{apartment} that has only one [main_1]{main} [room_1]{room}",
+      "entry": "studio",
+      "id": "studio#studio__6"
+    },
+    {
+      "comment": "a [set_1]{set} of [room_1]{rooms}",
+      "entry": "suite",
+      "id": "suite#suite__1"
+    },
+    {
+      "comment": "one of the [apartment]{apartments} that a [building]{building} or [group_1]{group} of [building]{buildings} is [divided]{divided} into",
+      "entry": "unit",
+      "id": "unit#unit__17"
+    },
+    {
+      "comment": "an apartment or office in a tall building that has no elevator",
+      "entry": "walk-up",
+      "id": "walk-up#walk-up__2"
+    }
+  ],
+  "thesaurus": "Sets of rooms for accommodation",
+  "type": "Related words"
+}

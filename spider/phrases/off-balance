@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "off balance",
+  "senses": [
+    {
+      "def": "not [steady_1]{steady} or [upright_1]{upright}, for [example]{example} because more [weight_1]{weight} is on one side",
+      "examples": [
+        "That [wheel_1]{wheel} is off [balance_1]{balance}.",
+        "He [kept]{kept} [pull_1]{pulling} my [arm_1]{arm}, [throw_1]{throwing} me off [balance_1]{balance}."
+      ],
+      "id": "off-balance__1"
+    },
+    {
+      "def": "[surprised]{surprised}, [upset_1]{upset}, or [confused]{confused} by something",
+      "examples": [
+        "I was [thrown]{thrown} [completely]{completely} off [balance_1]{balance} by Anna\u2019s [reply_1]{reply}."
+      ],
+      "id": "off-balance__4"
+    }
+  ]
+}

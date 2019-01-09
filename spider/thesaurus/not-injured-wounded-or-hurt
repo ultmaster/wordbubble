@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [hurt_1]{hurt} or [damage_2]{damaged}",
+      "entry": "unharmed",
+      "id": "unharmed#unharmed__1"
+    },
+    {
+      "comment": "not [injured]{injured}",
+      "entry": "unhurt",
+      "id": "unhurt#unhurt__1"
+    },
+    {
+      "comment": "not [harm_2]{harmed} or [damage_2]{damaged} by something [bad_1]{bad} that has [happen]{happened}",
+      "entry": "unscathed",
+      "id": "unscathed#unscathed__1"
+    },
+    {
+      "comment": "not [damage_2]{damaged}, [hurt_1]{hurt}, or [lost_1]{lost}",
+      "entry": "safe",
+      "id": "safe_1#safe_1__13"
+    },
+    {
+      "comment": "not [hurt_1]{hurt} or [sick_1]{sick}",
+      "entry": "all right",
+      "id": "all-right_1#all-right_1__13"
+    },
+    {
+      "comment": "not [injured]{injured}, [damage_2]{damaged}, [sick_1]{sick}, or [upset_1]{upset}",
+      "entry": "OK",
+      "id": "ok_2#ok_2__8"
+    },
+    {
+      "comment": "not [badly]{badly} [damage_2]{damaged} or [injured]{injured}",
+      "entry": "in one piece",
+      "id": "in-one-piece#in-one-piece__1"
+    },
+    {
+      "comment": "not ill or [injured]{injured} in any way",
+      "entry": "(as) right as rain",
+      "id": "as-right-as-rain#as-right-as-rain__1"
+    },
+    {
+      "comment": "without being [damage_2]{damaged}, [hurt_1]{hurt}, or [lost_1]{lost}",
+      "entry": "safely",
+      "id": "safely#safely__6"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that someone is not [hurt_1]{hurt} at all or that something is not [damage_2]{damaged} at all",
+      "entry": "scratch",
+      "id": "scratch_2#scratch_2__5"
+    }
+  ],
+  "thesaurus": "Not injured, wounded or hurt",
+  "type": "Synonyms"
+}

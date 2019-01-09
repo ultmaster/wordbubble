@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "block out",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [light_1]{light} or [sound_1]{sound} from [reach_1]{reaching} something",
+      "examples": [
+        "That [tree]{tree} in the [neighbor]{neighbor}\u2019s [yard]{yard} [block_1]{blocks} out a [lot_1]{lot} of [light_1]{light}."
+      ],
+      "id": "block-out__1"
+    },
+    {
+      "def": "to [stop_1]{stop} yourself from [thinking_1]{thinking} about or [remember]{remembering} something",
+      "examples": [
+        "He had always [managed]{managed} to [block_1]{block} out the [incident]{incident}."
+      ],
+      "id": "block-out__3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} an [area]{area}, for [example]{example} a [room_1]{room}, [building]{building}, or [aircraft]{aircraft}",
+      "examples": [
+        "[exit_1]{Exit} the [building]{building} to your [left_1]{left}, please.",
+        "[passenger]{Passengers} are [request_2]{requested} to exit from the [aircraft]{aircraft} by the [emergency_1]{emergency} [door_1]{doors}.",
+        "[exit_1]{Exit} [stage_1]{stage} [left_1]{left}."
+      ],
+      "id": "exit_2__1"
+    },
+    {
+      "def": "to [end_1]{end} a computer [program_1]{program} that you are [use_1]{using}",
+      "examples": [
+        "[type_1]{Type} \u201cX\u201d to exit the [program_1]{program}."
+      ],
+      "id": "exit_2__6"
+    }
+  ],
+  "word": "exit"
+}

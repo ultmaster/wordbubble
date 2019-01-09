@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to become [connected]{connected} at a [particular_1]{particular} [point_1]{point}",
+      "entry": "join",
+      "id": "join_1#join_1__5"
+    },
+    {
+      "comment": "if two [thing]{things} [touch_1]{touch}, or if something [touch_1]{touches} something else, there is no [space_1]{space} between them",
+      "entry": "touch",
+      "id": "touch_1#touch_1__10"
+    },
+    {
+      "comment": "if two [object_1]{objects} [overlap_1]{overlap}, or if one [overlap_1]{overlaps} the other, the [edge_1]{edge} of one [fit_1]{fits} over the [edge_1]{edge} of the other",
+      "entry": "overlap",
+      "id": "overlap_1#overlap_1__1"
+    },
+    {
+      "comment": "to [connect]{connect} two [thing]{things} to or with each other, or to be [connected]{connected} to or with each other",
+      "entry": "interconnect",
+      "id": "interconnect#interconnect__1"
+    },
+    {
+      "comment": "to be [near_1]{near} someone all the time",
+      "entry": "surround",
+      "id": "surround_1#surround_1__11"
+    },
+    {
+      "comment": "to be [right_1]{right} next to and [connected]{connected} to another [building]{building}, [room_1]{room}, [area]{area}, etc.",
+      "entry": "adjoin",
+      "id": "adjoin#adjoin__1"
+    },
+    {
+      "comment": "if [lines]{lines} or [road]{roads} [intersect]{intersect}, they [join_1]{join} or cross each other",
+      "entry": "intersect",
+      "id": "intersect#intersect__1"
+    },
+    {
+      "comment": "to be at the side of something or someone",
+      "entry": "flank",
+      "id": "flank_1#flank_1__1"
+    },
+    {
+      "comment": "to [join_1]{join} [thing]{things} together by [means]{means} of [part_1]{parts} that [fit_1]{fit} into other [part_1]{parts}, or to be [join_1]{joined} together in this way",
+      "entry": "interlock",
+      "id": "interlock#interlock__1"
+    },
+    {
+      "comment": "if [thing]{things} or [people_1]{people} [interface_1]{interface}, they are [connected]{connected} to each other or they [join_1]{join} each other in some way",
+      "entry": "interface",
+      "id": "interface_2#interface_2__1"
+    }
+  ],
+  "thesaurus": "To be near to or connected to something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [place_1]{place} where [people_1]{people} go to [receive]{receive} a [particular_1]{particular} [type_1]{type} of [medical_1]{medical} [treatment]{treatment} or [advice]{advice}",
+      "examples": [
+        "[ask_1]{Ask} for [advice]{advice} at your [local_1]{local} [family_1]{family} [planning]{planning} clinic.",
+        "a clinic for the [homeless]{homeless}"
+      ],
+      "id": "clinic__1"
+    },
+    {
+      "def": "a [group_1]{group} of [doctor_1]{doctors} who [work_1]{work} together in one [building]{building}",
+      "examples": [],
+      "id": "clinic__5"
+    },
+    {
+      "def": "an [occasion_1]{occasion} when an [expert_1]{expert} [teach]{teaches} a [class_1]{class} on their [subject_1]{subject}",
+      "examples": [
+        "a [coaching]{coaching} clinic"
+      ],
+      "id": "clinic__6"
+    }
+  ],
+  "word": "clinic"
+}

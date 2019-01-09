@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "what\u2019s wrong?",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone who [look_1]{looks} [sick_1]{sick} or [sad_1]{sad} to [tell_1]{tell} you what [problem]{problem} they have",
+      "examples": [
+        "You [look_1]{look} [terrible]{terrible} \u2013 what\u2019s [wrong_1]{wrong}?"
+      ],
+      "id": "what-s-wrong__1"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} why something such as a [machine_1]{machine} is not [working]{working}",
+      "examples": [
+        "What\u2019s [wrong_1]{wrong} with the TV? It [sound_1]{sounds} all [crackly]{crackly}."
+      ],
+      "id": "what-s-wrong__3"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone why they do not [approve]{approve} of something you are [doing]{doing}",
+      "examples": [
+        "What\u2019s [wrong_1]{wrong} with [have]{having} a [little_1]{little} [fun_1]{fun}?"
+      ],
+      "id": "what-s-wrong__5"
+    }
+  ]
+}

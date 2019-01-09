@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "in a very [firm_1]{firm} and [direct_1]{direct} way",
+      "examples": [
+        "Polly [declared]{declared} point-blank that she would never go there again.",
+        "When I [ask_1]{asked} him point-blank how much [money]{money} was [left_1]{left}, he wouldn\u2019t [answer_1]{answer} me."
+      ],
+      "id": "point-blank__1"
+    },
+    {
+      "def": "with the [gun_1]{gun} [held]{held} very [close_1]{close} to the [person]{person} who is [shot_1]{shot}",
+      "examples": [
+        "The [thief]{thieves} [shot_1]{shot} the [store_1]{store} [clerk_1]{clerk} point-blank."
+      ],
+      "id": "point-blank__4"
+    }
+  ],
+  "word": "point-blank"
+}

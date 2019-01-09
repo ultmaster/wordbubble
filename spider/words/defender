@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [player]{player} whose [job_1]{job} is to [stop_1]{stop} the other [team_1]{team} from [score_1]{scoring} in a [game_1]{game} such as [soccer]{soccer}",
+      "examples": [],
+      "id": "defender__1"
+    },
+    {
+      "def": "someone who [support_1]{supports} something or who [work_1]{works} to [prevent]{prevent} it from being [lost_1]{lost} or [taken_1]{taken} [away_1]{away}",
+      "examples": [
+        "a defender of [human_1]{human} [right_3]{rights}"
+      ],
+      "id": "defender__2"
+    }
+  ],
+  "word": "defender"
+}

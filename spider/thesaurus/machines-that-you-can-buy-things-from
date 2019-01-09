@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a [machine_1]{machine} that you put [money]{money} into in [order_1]{order} to get a [hot]{hot} [drink_1]{drink}",
+      "entry": "coffee machine",
+      "id": "coffee-machine#coffee-machine__1"
+    },
+    {
+      "comment": "a [vend]{vending} [machine_1]{machine}",
+      "entry": "machine",
+      "id": "machine_1#machine_1__11"
+    },
+    {
+      "comment": "a [machine_1]{machine} that you put [money]{money} into in [order_1]{order} to [buy_1]{buy} [thing]{things} such as [drink_1]{drinks} or [chocolate]{chocolate}",
+      "entry": "slot machine",
+      "id": "slot-machine#slot-machine__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [metal_1]{metal} [shaped_1]{shaped} [like_1]{like} a [coin_1]{coin} that is [used]{used} to get something, for [example]{example} [food]{food} or [cigarette]{cigarettes}, from a [machine_1]{machine} without [pay_1]{paying}",
+      "entry": "slug",
+      "id": "slug_1#slug_1__5"
+    },
+    {
+      "comment": "a [small_1]{small} [flat_1]{flat} round [piece_1]{piece} of [metal_1]{metal} or [plastic_1]{plastic} that you use [instead]{instead} of [money]{money} in some [machine_1]{machines}",
+      "entry": "token",
+      "id": "token_1#token_1__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that you can [buy_1]{buy} [thing]{things} from, for [example]{example} [cigarette]{cigarettes}, [candy]{candy}, or [drink_1]{drinks}",
+      "entry": "vending machine",
+      "id": "vending-machine#vending-machine__1"
+    }
+  ],
+  "thesaurus": "Machines that you can buy things from",
+  "type": "Related words"
+}

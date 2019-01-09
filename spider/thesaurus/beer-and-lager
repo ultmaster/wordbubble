@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "a type of dark-colored beer without bubbles",
+      "entry": "ale",
+      "id": "ale#ale__1"
+    },
+    {
+      "comment": "a [glass]{glass} of [ale]{ale}",
+      "entry": "ale",
+      "id": "ale#ale__2"
+    },
+    {
+      "comment": "a yellow or brown alcoholic drink made from malt  (=grain that has been left in water and then dried) and hops  (=a type of plant). You make or brew beer",
+      "entry": "beer",
+      "id": "beer#beer__1"
+    },
+    {
+      "comment": "a [glass]{glass} or [bottle_1]{bottle} of this [drink_1]{drink}",
+      "entry": "beer",
+      "id": "beer#beer__4"
+    },
+    {
+      "comment": "a [type_1]{type} of [dark_1]{dark} [beer]{beer} that [taste_1]{tastes} [bitter_1]{bitter}, or a [glass]{glass} of this [beer]{beer}",
+      "entry": "bitter",
+      "id": "bitter_2#bitter_2__1"
+    },
+    {
+      "comment": "[beer]{beer}, or a [drink_1]{drink} of [beer]{beer}",
+      "entry": "brew",
+      "id": "brew_2#brew_2__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [beer]{beer}",
+      "entry": "brew",
+      "id": "brew_2#brew_2__2"
+    },
+    {
+      "comment": "a [dark_1]{dark} [beer]{beer} with a [sweet_1]{sweet} [taste_1]{taste}, or a [glass]{glass} or [bottle_1]{bottle} of this",
+      "entry": "brown ale",
+      "id": "brown-ale#brown-ale__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [beer]{beer} that a [bar_1]{bar} [sell_1]{sells} for a [short_1]{short} [period_1]{period} of time, in [addition]{addition} to its [usual]{usual} [beer]{beers}",
+      "entry": "guest beer",
+      "id": "guest-beer#guest-beer__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [strong]{strong} [dark_1]{dark} [beer]{beer} [originally]{originally} made in Ireland",
+      "entry": "Guinness",
+      "id": "guinness#guinness__1"
+    },
+    {
+      "comment": "[beer]{beer} that [people_1]{people} [make_1]{make} at [home_1]{home}",
+      "entry": "home brew",
+      "id": "home-brew#home-brew__1"
+    },
+    {
+      "comment": "[beer]{beer} [serve_1]{served} from [keg]{kegs}",
+      "entry": "keg",
+      "id": "keg#keg__2"
+    },
+    {
+      "comment": "a [type_1]{type} of light-colored [beer]{beer}, or a [glass]{glass} of this [beer]{beer}",
+      "entry": "lager",
+      "id": "lager#lager__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [strong]{strong} [beer]{beer}",
+      "entry": "malt liquor",
+      "id": "malt-liquor#malt-liquor__1"
+    },
+    {
+      "comment": "a [type_1]{type} of light-colored [beer]{beer}",
+      "entry": "pale ale",
+      "id": "pale-ale#pale-ale__1"
+    },
+    {
+      "comment": "a [glass]{glass} of [pale_1]{pale} [ale]{ale}",
+      "entry": "pale ale",
+      "id": "pale-ale#pale-ale__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [dark_1]{dark} [bitter_1]{bitter} [beer]{beer}",
+      "entry": "porter",
+      "id": "porter#porter__4"
+    },
+    {
+      "comment": "a [beer]{beer} that is [fairly]{fairly} low in [alcohol]{alcohol} so that you can [drink_1]{drink} several [glasses]{glasses} of it over a [period_1]{period} of time without [get]{getting} [drunk_1]{drunk}",
+      "entry": "session beer",
+      "id": "session-beer#session-beer__1"
+    },
+    {
+      "comment": "an alcoholic drink made by mixing beer and lemonade",
+      "entry": "shandy",
+      "id": "shandy#shandy__1"
+    },
+    {
+      "comment": "a [glass]{glass} of this [drink_1]{drink}",
+      "entry": "shandy",
+      "id": "shandy#shandy__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [dark_1]{dark} [beer]{beer}",
+      "entry": "stout",
+      "id": "stout_2#stout_2__1"
+    },
+    {
+      "comment": "a [case_1]{case} of [beer]{beer} that [contain]{contains} twenty-four [bottle_1]{bottles} or [can_2]{cans}",
+      "entry": "two-four",
+      "id": "two-four#two-four__1"
+    }
+  ],
+  "thesaurus": "Beer and lager",
+  "type": "Related words"
+}

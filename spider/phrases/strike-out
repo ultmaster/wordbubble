@@ -1,0 +1,62 @@
+{
+  "part": "phrase",
+  "phrase": "strike out",
+  "senses": [
+    {
+      "def": "a [batter_1]{batter} [strike_1]{strikes} out in [baseball]{baseball} by [missing]{missing} the [ball_1]{ball} three times, [ending]{ending} their [turn_1]{turn} at [trying]{trying} to hit it",
+      "examples": [],
+      "id": "strike-out__1"
+    },
+    {
+      "def": "to be [unsuccessful]{unsuccessful} in [trying]{trying} to do something",
+      "examples": [
+        "[look_1]{Looks} [like_1]{like} we\u2019ve [struck]{struck} out again."
+      ],
+      "id": "strike-out__3"
+    },
+    {
+      "def": "to [try_1]{try} to hit or [attack_1]{attack} someone or something",
+      "examples": [
+        "Without [warning]{warning}, he [struck]{struck} out at Holmes with his [right_1]{right} hand."
+      ],
+      "id": "strike-out__5"
+    },
+    {
+      "def": "to [criticize]{criticize} someone or something, [especially]{especially} in a [speech]{speech}, [interview_1]{interview}, or [article]{article}",
+      "examples": [
+        "He [struck]{struck} out at [supporter]{supporters} of the bill in his [speech]{speech} [yesterday_1]{yesterday}."
+      ],
+      "id": "strike-out__7"
+    },
+    {
+      "def": "to [walk_1]{walk} or [swim_1]{swim} in a [particular_1]{particular} [direction]{direction} in a way that [show_1]{shows} [energy]{energy} or [determination]{determination}",
+      "examples": [
+        "We [decided]{decided} to [strike_1]{strike} out on [foot_1]{foot} into the [wood]{woods}.",
+        "Rostov [surface_2]{surfaced}, then [struck]{struck} out for the nearest [shore_1]{shore}."
+      ],
+      "id": "strike-out__9"
+    },
+    {
+      "def": "to [start_1]{start} [doing]{doing} something [new]{new} or [different]{different}, [especially]{especially} in [order_1]{order} to become more [independent_1]{independent}",
+      "examples": [
+        "O\u2019Connor [quit]{quit} his [job_1]{job} and [decided]{decided} to [strike_1]{strike} out on his own.",
+        "It was an [opportunity]{opportunity} to [strike_1]{strike} out for [herself]{herself}."
+      ],
+      "id": "strike-out__12"
+    },
+    {
+      "def": "to [remove]{remove} [word_1]{words} from a [document_1]{document}, for [example]{example} by [drawing]{drawing} a [line_1]{line} through them",
+      "examples": [
+        "[strike_1]{Strike} out [lines]{lines} 5 to 18."
+      ],
+      "id": "strike-out__15"
+    },
+    {
+      "def": "to [stop_1]{stop} the [continuation]{continuation} of a [court_1]{court} [case_1]{case}",
+      "examples": [
+        "The judge struck out the case for want of cause  (=because it was not justified)."
+      ],
+      "id": "strike-out__17"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "happy birthday",
+  "senses": [
+    {
+      "def": "a [greeting]{greeting} you use when it is someone\u2019s [birthday]{birthday}",
+      "examples": [
+        "[happy_1]{Happy} [birthday]{birthday}, [jimmy_1]{Jimmy}!",
+        "I [just_1]{just} [wanted]{wanted} to [wish_1]{wish} you a [happy_1]{happy} [birthday]{birthday}."
+      ],
+      "id": "happy-birthday__1"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "entries": [
+    {
+      "comment": "a style of house music that developed in the U.S. in the middle of the 1980s and became very popular in the U.K. in the late 1980s when it was played at rave parties",
+      "entry": "acid house",
+      "id": "acid-house#acid-house__1"
+    },
+    {
+      "comment": "a type of music that mixes various styles such as funk, disco, and latin, and combines electronic production with acoustic instruments and sometimes singing",
+      "entry": "acid jazz",
+      "id": "acid-jazz#acid-jazz__1"
+    },
+    {
+      "comment": "a type of music that developed as a reaction against disco and dance music and that uses relaxing electronic sounds, usually without strong beats or voices",
+      "entry": "ambient",
+      "id": "ambient_2#ambient_2__1"
+    },
+    {
+      "comment": "[quiet_1]{quiet} [music]{music} that [play_1]{plays} in a [public_1]{public} [place_1]{place}",
+      "entry": "background music",
+      "id": "background-music#background-music__1"
+    },
+    {
+      "comment": "the [music]{music} [used]{used} in a [movie]{movie} to [create]{create} a [particular_1]{particular} [mood]{mood}",
+      "entry": "background music",
+      "id": "background-music#background-music__2"
+    },
+    {
+      "comment": "[music]{music} that is [play_1]{played} or [sung]{sung} to [add_1]{add} to the [main_1]{main} [singer]{singer}\u2019s [voice_1]{voice}",
+      "entry": "backing",
+      "id": "backing#backing__5"
+    },
+    {
+      "comment": "[music]{music} that is [play_1]{played} or [sung]{sung} to [add_1]{add} to the [main_1]{main} [singer]{singer}\u2019s [voice_1]{voice}",
+      "entry": "backup",
+      "id": "backup#backup__11"
+    },
+    {
+      "comment": "a [type_1]{type} of [jazz_1]{jazz} [music]{music} that [developed]{developed} in the U.S. during the 1940s among [musician]{musicians} who [emphasize]{emphasized} the [complicated]{complicated} [structure_1]{structure} of the [music]{music}, [instead]{instead} of the [tune_1]{tune}",
+      "entry": "bebop",
+      "id": "bebop#bebop__1"
+    },
+    {
+      "comment": "a type of dance music that combines traditional music from the Punjab region of India and Pakistan with Western styles such as reggae and jungle",
+      "entry": "bhangra",
+      "id": "bhangra#bhangra__1"
+    },
+    {
+      "comment": "a type of music from the southern U.S. that is played on musical instruments such as violins and banjos",
+      "entry": "bluegrass",
+      "id": "bluegrass#bluegrass__1"
+    },
+    {
+      "comment": "a type of slow and sad music that developed from the songs of black slaves in the southern U.S.",
+      "entry": "blues",
+      "id": "blues#blues__1"
+    },
+    {
+      "comment": "a type of disco music that was popular in the late 1970s",
+      "entry": "boogie",
+      "id": "boogie_2#boogie_2__2"
+    },
+    {
+      "comment": "an [early_1]{early} [style_1]{style} of [jazz_1]{jazz} [play_1]{played} on the [piano_1]{piano}, with a [strong]{strong} [fast_1]{fast} [beat_1]{beat}",
+      "entry": "boogie-woogie",
+      "id": "boogie-woogie#boogie-woogie__1"
+    },
+    {
+      "comment": "[bebop]{bebop}",
+      "entry": "bop",
+      "id": "bop_1#bop_1__3"
+    },
+    {
+      "comment": "any [type_1]{type} of [dance_1]{dance} [music]{music} that [use_1]{uses} [breakbeat]{breakbeats}",
+      "entry": "breakbeat",
+      "id": "breakbeat#breakbeat__2"
+    },
+    {
+      "comment": "[country]{country} and [western_1]{western} [music]{music}",
+      "entry": "C&W",
+      "id": "c-w#c-w__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [music]{music} in which [different]{different} [instrument]{instruments} or [voice_1]{voices} [start_1]{start} the same [series]{series} of [note_1]{notes}, one after another",
+      "entry": "canon",
+      "id": "canon#canon__7"
+    },
+    {
+      "comment": "a [type_1]{type} of [classical]{classical} [music]{music} [play_1]{played} by a [small_1]{small} [group_1]{group} of [musician]{musicians}",
+      "entry": "chamber music",
+      "id": "chamber-music#chamber-music__1"
+    },
+    {
+      "comment": "[ambient_1]{ambient} [music]{music}",
+      "entry": "chillout",
+      "id": "chillout#chillout__1"
+    },
+    {
+      "comment": "[music]{music} [written_1]{written} [accord_2]{according} to [standard_1]{standard} European [form_1]{forms} or [structure_1]{structures} by [people_1]{people} such as Mozart and Beethoven",
+      "entry": "classical music",
+      "id": "classical-music#classical-music__1"
+    },
+    {
+      "comment": "[country]{country} [music]{music}",
+      "entry": "country",
+      "id": "country#country__13"
+    },
+    {
+      "comment": "[country]{country} [music]{music}",
+      "entry": "country and western",
+      "id": "country-and-western#country-and-western__1"
+    },
+    {
+      "comment": "a type of popular music based on the traditional music of the southern U.S., usually containing singing, guitars, and violins",
+      "entry": "country music",
+      "id": "country-music#country-music__1"
+    },
+    {
+      "comment": "[ragga]{ragga}",
+      "entry": "dancehall",
+      "id": "dancehall#dancehall__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [music]{music} with a [strong]{strong} [beat_1]{beat} for [dancing]{dancing} to in [club_1]{clubs}, often [involve]{involving} a [lot_1]{lot} of [electronic]{electronic} [production]{production}",
+      "entry": "dance music",
+      "id": "dance-music#dance-music__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [music]{music} with a [strong]{strong} [beat_1]{beat} that is [easy_1]{easy} to [dance_1]{dance} to, [popular]{popular} [especially]{especially} in the 1970s",
+      "entry": "disco",
+      "id": "disco_1#disco_1__2"
+    },
+    {
+      "comment": "a type of jazz with a strong beat, originally developed in New Orleans in the early 1900s and usually involving a large group of musicians who improvise together",
+      "entry": "Dixieland",
+      "id": "dixieland#dixieland__1"
+    },
+    {
+      "comment": "a type of rock and roll consisting of small groups of singers singing in harmony and often without musical instruments",
+      "entry": "doo-wop",
+      "id": "doo-wop#doo-wop__1"
+    },
+    {
+      "comment": "any [type_1]{type} of [electronic]{electronic} [music]{music} that is for [listen_1]{listening} to [instead]{instead} of [dancing]{dancing} to",
+      "entry": "downbeat",
+      "id": "downbeat_2#downbeat_2__2"
+    },
+    {
+      "comment": "[downbeat_1]{downbeat} [music]{music}",
+      "entry": "downtempo",
+      "id": "downtempo#downtempo__1"
+    },
+    {
+      "comment": "jungle music, especially a style influenced by jazz or ambient",
+      "entry": "drum \u2019n\u2019 bass",
+      "id": "drum-n-bass#drum-n-bass__1"
+    },
+    {
+      "comment": "an [electronic]{electronic} [type_1]{type} of [music]{music} [base_2]{based} on [reggae]{reggae} [music]{music}",
+      "entry": "dub",
+      "id": "dub_2#dub_2__1"
+    },
+    {
+      "comment": "a [kind_1]{kind} of [electronic]{electronic} [dance_1]{dance} [music]{music} with a [strong]{strong} [beat_1]{beat} and a [lot_1]{lot} of [bass_1]{bass}",
+      "entry": "dubstep",
+      "id": "dubstep#dubstep__1"
+    },
+    {
+      "comment": "[relaxing]{relaxing} [music]{music} without [complicated]{complicated} [tune_1]{tunes} or a [strong]{strong} [beat_1]{beat}",
+      "entry": "easy listening",
+      "id": "easy-listening#easy-listening__1"
+    },
+    {
+      "comment": "a type of African-American electronic music that developed in the 1980s and often includes rap",
+      "entry": "electro",
+      "id": "electro#electro__1"
+    },
+    {
+      "comment": "[music]{music} that is [produce_1]{produced} [use_1]{using} [electronic]{electronic} [instrument]{instruments}",
+      "entry": "electronica",
+      "id": "electronica#electronica__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [quiet_1]{quiet} [record_2]{recorded} [music]{music} that is [play_1]{played} in [public_1]{public} [place_1]{places} such as [airport]{airports}",
+      "entry": "elevator music",
+      "id": "elevator-music#elevator-music__1"
+    },
+    {
+      "comment": "a type of punk music with words which are often personal and emotional",
+      "entry": "emo",
+      "id": "emo_1#emo_1__1"
+    },
+    {
+      "comment": "relating to a type of punk music with words which are often personal and emotional or the people who like this music",
+      "entry": "emo",
+      "id": "emo_2#emo_2__1"
+    },
+    {
+      "comment": "[folk_1]{folk} [music]{music}",
+      "entry": "folk",
+      "id": "folk_1#folk_1__12"
+    },
+    {
+      "comment": "[traditional]{traditional} [music]{music} from a [particular_1]{particular} [country]{country}, [region]{region}, or [community]{community}, [especially]{especially} [music]{music} [developed]{developed} by [people_1]{people} who were not [professional_1]{professional} [musician]{musicians}",
+      "entry": "folk music",
+      "id": "folk-music#folk-music__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [modern]{modern} [popular]{popular} [music]{music} [developed]{developed} from [traditional]{traditional} [folk_1]{folk} [music]{music}, [play_1]{played} on [guitar]{guitars} and [consist]{consisting} of [short_1]{short} [song]{songs} about [personal_1]{personal} or [social_1]{social} [subject_1]{subjects}",
+      "entry": "folk music",
+      "id": "folk-music#folk-music__2"
+    },
+    {
+      "comment": "a type of music that developed in the late 1960s from soul and early rock and roll, containing lively drum beats, repeated electric bass lines, and often singing",
+      "entry": "funk",
+      "id": "funk#funk__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [modern]{modern} [music]{music} that is a [mixture]{mixture} of [different]{different} [style_1]{styles}",
+      "entry": "fusion",
+      "id": "fusion#fusion__6"
+    },
+    {
+      "comment": "[gangsta]{gangsta} [rap_1]{rap}",
+      "entry": "gangsta",
+      "id": "gangsta#gangsta__2"
+    },
+    {
+      "comment": "a type of black U.S. rap music that talks about life in the city, especially about guns, violence, and sex",
+      "entry": "gangsta rap",
+      "id": "gangsta-rap#gangsta-rap__1"
+    },
+    {
+      "comment": "a type of U.S. dance music that developed from house music in the 1980s and is influenced by disco music",
+      "entry": "garage",
+      "id": "garage_1#garage_1__7"
+    },
+    {
+      "comment": "a type of U.S. rock music that developed in the 1960s and is influenced by British rock and roll. It was mainly played by people who were not professional musicians.",
+      "entry": "garage",
+      "id": "garage_1#garage_1__8"
+    },
+    {
+      "comment": "a [lively]{lively} [style_1]{style} of [music]{music} that [start_1]{started} in the Malay [community]{communities} of [cape]{Cape} [town]{Town} in [south_1]{South} Africa",
+      "entry": "goema",
+      "id": "goema#goema__1"
+    },
+    {
+      "comment": "a type of Christian music influenced by soul and R and B that developed in the churches that black people went to in the south of the U.S. in the past. It is sung by groups of singers who have powerful voices",
+      "entry": "gospel",
+      "id": "gospel#gospel__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [modern]{modern} [popular]{popular} [music]{music} that is [loud_1]{loud} and has a [strong]{strong} [beat_1]{beat}",
+      "entry": "Goth",
+      "id": "goth#goth__2"
+    },
+    {
+      "comment": "a type of rock music played on electric guitars that developed in the late 1980s and was influenced by punk and heavy metal",
+      "entry": "grunge",
+      "id": "grunge#grunge__1"
+    },
+    {
+      "comment": "a type of British dance music with a very fast beat that developed as part of rave culture in the early 1990s",
+      "entry": "hardcore",
+      "id": "hardcore#hardcore__1"
+    },
+    {
+      "comment": "electronic music that is loud and fast and sounds aggressive",
+      "entry": "hardcore",
+      "id": "hardcore#hardcore__2"
+    },
+    {
+      "comment": "a type of rock music that is loud and has a strong beat",
+      "entry": "hard rock",
+      "id": "hard-rock#hard-rock__1"
+    },
+    {
+      "comment": "a type of loud rock music that developed in the 1970s, played on drums and electric guitars",
+      "entry": "heavy metal",
+      "id": "heavy-metal#heavy-metal__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [dance_1]{dance} [music]{music} that [developed]{developed} in [west_1]{West} Africa from [jazz_1]{jazz}",
+      "entry": "highlife",
+      "id": "highlife#highlife__1"
+    },
+    {
+      "comment": "a type of music that developed among African-American musicians using rap and samples  (=short pieces of recorded music or sound) that are repeated and combined with musical instruments",
+      "entry": "hip hop",
+      "id": "hip-hop#hip-hop__1"
+    },
+    {
+      "comment": "a simple style of country music that developed in the 1950s, using guitars, violins, and singing",
+      "entry": "honky-tonk",
+      "id": "honky-tonk_1#honky-tonk_1__1"
+    },
+    {
+      "comment": "a type of modern electronic music that developed in the 1980s, replacing disco as the most popular form of dance music. It combines deep bass sounds with parts that are sung or played on a synthesizer.",
+      "entry": "house",
+      "id": "house_1#house_1__16"
+    },
+    {
+      "comment": "a style of music that uses sound to produce feelings and moods, rather than concentrating on the structure of the music. Impressionism developed in France at the end of the 19th century.",
+      "entry": "Impressionism",
+      "id": "impressionism#impressionism__2"
+    },
+    {
+      "comment": "[music]{music} that is [play_1]{played} in the [background]{background} of a [movie]{movie}, [play_1]{play}, or [television]{television} [program_1]{program} and [help_1]{helps} to [create]{create} a [particular_1]{particular} [feeling_1]{feeling} or [mood]{mood}",
+      "entry": "incidental music",
+      "id": "incidental-music#incidental-music__1"
+    },
+    {
+      "comment": "[music]{music} that is [produce_1]{produced} by [small_1]{small} [independent_1]{independent} [record_1]{record} [company]{companies}",
+      "entry": "indie",
+      "id": "indie_2#indie_2__2"
+    },
+    {
+      "comment": "a type of rock music that developed in the 1990s, usually influenced by punk and produced by small independent record companies",
+      "entry": "indie",
+      "id": "indie_2#indie_2__3"
+    },
+    {
+      "comment": "a type of music that developed in the late 19th century in which there is a strong lively beat and the players often improvise  (=make up the music as they play)",
+      "entry": "jazz",
+      "id": "jazz_1#jazz_1__1"
+    },
+    {
+      "comment": "a type of music that developed in the 1970s, combining jazz styles with rock music and using electronic instruments such as guitars and synthesizers",
+      "entry": "jazz fusion",
+      "id": "jazz-fusion#jazz-fusion__1"
+    },
+    {
+      "comment": "a type of dance music that developed in the 1990s from hardcore and ragga and uses fast complicated beats and deep electronic sounds",
+      "entry": "jungle",
+      "id": "jungle#jungle__10"
+    },
+    {
+      "comment": "a [type_1]{type} of [popular]{popular} [music]{music} that [start_1]{started} in the [township]{townships} of [south_1]{South} Africa in the 1990s, and is [base_2]{based} [loosely]{loosely} on [house_1]{house} [music]{music}, with African [rhythm]{rhythms} and [lyric_2]{lyrics}",
+      "entry": "kwaito",
+      "id": "kwaito#kwaito__1"
+    },
+    {
+      "comment": "a type of popular music developed by black people in South Africa",
+      "entry": "kwela",
+      "id": "kwela#kwela__1"
+    },
+    {
+      "comment": "a type of music from Latin America or influenced by music from Latin America, especially dance music such as salsa",
+      "entry": "latin",
+      "id": "latin_1#latin_1__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [traditional]{traditional} Mexican [music]{music} [play_1]{played} by a [small_1]{small} [group_1]{group} of [musician]{musicians}",
+      "entry": "mariachi",
+      "id": "mariachi#mariachi__1"
+    },
+    {
+      "comment": "a [popular]{popular} form of [traditional]{traditional} Zulu [music]{music} [play_1]{played} on [western_1]{western} [instrument]{instruments}",
+      "entry": "maskanda",
+      "id": "maskanda#maskanda__1"
+    },
+    {
+      "comment": "[heavy_1]{heavy} [metal_1]{metal}",
+      "entry": "metal",
+      "id": "metal#metal__7"
+    },
+    {
+      "comment": "a style of music that developed in the 1960s and uses simple repeated rhythms and patterns of musical notes",
+      "entry": "minimalism",
+      "id": "minimalism#minimalism__2"
+    },
+    {
+      "comment": "[music]{music} that is [intended_1]{intended} to [help_1]{help} you [feel_1]{feel} a [particular_1]{particular} way, [especially]{especially} [relaxed]{relaxed}",
+      "entry": "mood music",
+      "id": "mood-music#mood-music__1"
+    },
+    {
+      "comment": "[middle-of-the-road]{middle-of-the-road}: [used]{used} for [describe]{describing} [music]{music} that is [pleasant]{pleasant} but not very [interesting]{interesting} or [exciting]{exciting}",
+      "entry": "MOR",
+      "id": "mor#mor__1"
+    },
+    {
+      "comment": "a [type_1]{type} of African-American [soul]{soul} [music]{music} from the U.S. [city]{city} of Detroit, [popular]{popular} in the 1960s and 1970s",
+      "entry": "Motown",
+      "id": "motown#motown__1"
+    },
+    {
+      "comment": "[quiet_1]{quiet} [music]{music} [play_1]{played} in [store_1]{stores}, [restaurant]{restaurants}, and other [public_1]{public} [place_1]{places}",
+      "entry": "Muzak",
+      "id": "muzak#muzak__1"
+    },
+    {
+      "comment": "a type of music that uses relaxing electronic sounds and sounds from nature to encourage meditation",
+      "entry": "new age",
+      "id": "new-age_1#new-age_1__1"
+    },
+    {
+      "comment": "a type of music that developed in the early 1980s from punk, combining popular styles with the use of electronic synthesizers",
+      "entry": "new wave",
+      "id": "new-wave#new-wave__3"
+    },
+    {
+      "comment": "a [type_1]{type} of [music]{music} that [combine_1]{combines} several [different]{different} [tune_1]{tunes} at the same time",
+      "entry": "polyphony",
+      "id": "polyphony#polyphony__1"
+    },
+    {
+      "comment": "[pop_1]{pop} [music]{music}",
+      "entry": "pop",
+      "id": "pop_2#pop_2__3"
+    },
+    {
+      "comment": "a type of music, usually played on electronic instruments, that is popular with many people because it consists of short songs with a strong beat and simple tunes that are easy to remember. Pop music is often simply called pop.",
+      "entry": "pop music",
+      "id": "pop-music#pop-music__1"
+    },
+    {
+      "comment": "any [music]{music} that is [popular]{popular} at a [particular_1]{particular} time",
+      "entry": "pop music",
+      "id": "pop-music#pop-music__2"
+    },
+    {
+      "comment": "[music]{music} that [describe]{describes} a [picture_1]{picture}, a [story]{story}, or an [idea]{idea}",
+      "entry": "program music",
+      "id": "program-music#program-music__1"
+    },
+    {
+      "comment": "a type of music that developed in the 1970s from rock and roll, consisting of simple tunes played quickly and loudly on electronic instruments and words that often express anger against society",
+      "entry": "punk",
+      "id": "punk#punk__1"
+    },
+    {
+      "comment": "a type of popular music that developed in the 1980s from reggae and uses a singing style similar to rap",
+      "entry": "ragga",
+      "id": "ragga#ragga__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [piano_1]{piano} [music]{music} that is [influence_2]{influenced} by [jazz_1]{jazz} and was [popular]{popular} in the U.S. in the [early_1]{early} 20th [century]{century}",
+      "entry": "ragtime",
+      "id": "ragtime#ragtime__1"
+    },
+    {
+      "comment": "a type of popular North African folk music that has been mixed with various styles such as rock, funk, and reggae since the 1960s",
+      "entry": "rai",
+      "id": "rai#rai__1"
+    },
+    {
+      "comment": "rhythm and blues: a type of music that combines blues and soul styles with modern beats and production methods",
+      "entry": "R & B",
+      "id": "r-b#r-b__1"
+    },
+    {
+      "comment": "a way of talking using rhythm and rhyme, usually over a strong musical beat",
+      "entry": "rap",
+      "id": "rap_1#rap_1__1"
+    },
+    {
+      "comment": "music that uses rap, especially styles of hip hop",
+      "entry": "rap",
+      "id": "rap_1#rap_1__3"
+    },
+    {
+      "comment": "the type of music played at raves, especially forms of techno and hardcore",
+      "entry": "rave",
+      "id": "rave_2#rave_2__2"
+    },
+    {
+      "comment": "a type of music that developed in Jamaica in the 1960s with songs about social and political subjects and heavy bass sounds",
+      "entry": "reggae",
+      "id": "reggae#reggae__1"
+    },
+    {
+      "comment": "a type of popular music that African-American musicians developed from blues and jazz. Rhythm and blues is often called R and B.",
+      "entry": "rhythm and blues",
+      "id": "rhythm-and-blues#rhythm-and-blues__1"
+    },
+    {
+      "comment": "[rock_1]{rock} [music]{music}",
+      "entry": "rock",
+      "id": "rock_1#rock_1__12"
+    },
+    {
+      "comment": "a type of music that is a mixture of early rock \u2019n\u2019 roll and traditional country music",
+      "entry": "rockabilly",
+      "id": "rockabilly#rockabilly__1"
+    },
+    {
+      "comment": "[rock_1]{rock} \u2019n\u2019 [roll_1]{roll}",
+      "entry": "rock and roll",
+      "id": "rock-and-roll_1#rock-and-roll_1__1"
+    },
+    {
+      "comment": "a type of music that developed from rock \u2019n\u2019 roll and uses a heavy regular beat, electric guitars, singing, and a tune that is easy to remember",
+      "entry": "rock music",
+      "id": "rock-music#rock-music__1"
+    },
+    {
+      "comment": "a type of music that was popular in the 1950s and combined simple blues structures played on guitars with strong regular beats",
+      "entry": "rock \u2019n\u2019 roll",
+      "id": "rock-n-roll#rock-n-roll__1"
+    },
+    {
+      "comment": "a type of music that developed in Jamaica in the 1950s, combining U.S. styles of jazz, rock, and R & B with traditional Jamaican mento",
+      "entry": "ska",
+      "id": "ska#ska__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [music]{music} [popular]{popular} in the 1950s, often [play_1]{played} with [unusual]{unusual} [instrument]{instruments}",
+      "entry": "skiffle",
+      "id": "skiffle#skiffle__1"
+    },
+    {
+      "comment": "[soul]{soul} [music]{music}",
+      "entry": "soul",
+      "id": "soul#soul__17"
+    },
+    {
+      "comment": "a type of African-American music that developed in the 1960s, combining R & B with pop, rock \u2019n\u2019 roll, and gospel styles. Soul music usually has a strong beat and places emphasis on singing. It is often simply called soul.",
+      "entry": "soul music",
+      "id": "soul-music#soul-music__1"
+    },
+    {
+      "comment": "[tune_1]{tunes}",
+      "entry": "sounds",
+      "id": "sound_1#sound_1__15"
+    },
+    {
+      "comment": "a type of jazz dance music that was popular in the 1930s and 1940s, played by large groups of musicians and combining simple tunes with more complicated improvisation",
+      "entry": "swing",
+      "id": "swing_2#swing_2__13"
+    },
+    {
+      "comment": "a type of musical rhythm in which the weak beats are emphasized instead of the strong beats",
+      "entry": "syncopation",
+      "id": "syncopation#syncopation__1"
+    },
+    {
+      "comment": "the production of sounds using a piece of equipment called a synthesizer",
+      "entry": "synthesis",
+      "id": "synthesis#synthesis__5"
+    },
+    {
+      "comment": "a type of dance music that developed in the 1980s, consisting of hard repeated beats, heavy drum sounds, and funk influences",
+      "entry": "techno",
+      "id": "techno_1#techno_1__1"
+    },
+    {
+      "comment": "a type of music developed in the 1980s that combines punk and speed metal",
+      "entry": "thrash",
+      "id": "thrash_2#thrash_2__1"
+    },
+    {
+      "comment": "a type of jazz that was popular between the 1920s and the 1940s, or jazz influenced by styles such as Dixieland",
+      "entry": "trad jazz",
+      "id": "trad-jazz#trad-jazz__1"
+    },
+    {
+      "comment": "a type of dance music with fast regular beats and electronic sounds that developed from techno in the early 1990s",
+      "entry": "trance",
+      "id": "trance#trance__5"
+    },
+    {
+      "comment": "a type of dance music influenced by hip hop in its speed and style of beats but using more instruments",
+      "entry": "trip hop",
+      "id": "trip-hop#trip-hop__1"
+    },
+    {
+      "comment": "a type of British dance music that combines garage beats and R & B singing",
+      "entry": "two-step",
+      "id": "two-step_2#two-step_2__2"
+    },
+    {
+      "comment": "in [western_1]{western} Europe and [north_1]{North} America, [music]{music} from other [culture_1]{cultures}",
+      "entry": "world music",
+      "id": "world-music#world-music__1"
+    }
+  ],
+  "thesaurus": "Types of music",
+  "type": "Related words"
+}

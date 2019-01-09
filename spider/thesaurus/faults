@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [feature_1]{feature} of something that [make_1]{makes} it less [good_1]{good}",
+      "entry": "fault",
+      "id": "fault_1#fault_1__9"
+    },
+    {
+      "comment": "a [fault_1]{fault} in someone or something",
+      "entry": "defect",
+      "id": "defect_1#defect_1__1"
+    },
+    {
+      "comment": "a [fault_1]{fault} or [problem]{problem} that [make_1]{makes} something or someone less [effective]{effective} or [attractive]{attractive}",
+      "entry": "weakness",
+      "id": "weakness#weakness__5"
+    },
+    {
+      "comment": "a [fault_1]{fault} in someone or something that [make_1]{makes} them not [good_1]{good} enough",
+      "entry": "deficiency",
+      "id": "deficiency#deficiency__3"
+    },
+    {
+      "comment": "a [fault_1]{fault} or a [weak]{weak} [point_1]{point} that [make_1]{makes} someone or something less [effective]{effective}",
+      "entry": "failing",
+      "id": "failing_1#failing_1__1"
+    },
+    {
+      "comment": "a [fault_1]{fault} or [problem]{problem} that [make_1]{makes} someone or something less [effective]{effective}",
+      "entry": "shortcoming",
+      "id": "shortcoming#shortcoming__1"
+    },
+    {
+      "comment": "a [fault_1]{fault}, or a [bad_1]{bad} [quality_1]{quality}",
+      "entry": "imperfection",
+      "id": "imperfection#imperfection__1"
+    },
+    {
+      "comment": "a [mistake_1]{mistake} or [fault_1]{fault} in something that [make_1]{makes} it [useless]{useless} or less [effective]{effective}",
+      "entry": "flaw",
+      "id": "flaw#flaw__1"
+    },
+    {
+      "comment": "a [fault_1]{fault} in someone or something that [prevent]{prevents} them from [reach_1]{reaching} the [standard_1]{standard} that is [need_1]{needed} or [expected]{expected}",
+      "entry": "inadequacy",
+      "id": "inadequacy#inadequacy__3"
+    }
+  ],
+  "thesaurus": "Faults",
+  "type": "Synonyms"
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [turn_1]{turn} over the [soil_1]{soil} before [plant_2]{planting} [seed_1]{seeds} [use_1]{using} a plow",
+      "examples": [
+        "The [field_1]{fields} were being [plow_1]{plowed} for [winter_1]{winter} [wheat]{wheat}."
+      ],
+      "id": "plow_1__1"
+    },
+    {
+      "def": "to move [snow_1]{snow} to the side of a [street_1]{street} [use_1]{using} a snow plow so that [people_1]{people} can [walk_1]{walk} or [drive_1]{drive} [easily]{easily}",
+      "examples": [
+        "[city]{City} [worker]{workers} were out [plow_1]{plowing} the [street_1]{streets} as [soon]{soon} as the [snow_1]{snow} [began]{began} to [fall_1]{fall}."
+      ],
+      "id": "plow_1__3"
+    }
+  ],
+  "word": "plow"
+}

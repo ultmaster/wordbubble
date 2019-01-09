@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the amount of [money]{money} that you have to [pay_1]{pay} in [order_1]{order} to [buy_1]{buy} something",
+      "entry": "price",
+      "id": "price_1#price_1__1"
+    },
+    {
+      "comment": "the amount of [money]{money} that is [need_1]{needed} in [order_1]{order} to [buy_1]{buy}, [pay_1]{pay} for, or do something",
+      "entry": "cost",
+      "id": "cost_1#cost_1__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that you have to [pay_1]{pay}, [especially]{especially} when you [visit_1]{visit} a [place_1]{place} or when someone [does]{does} something for you",
+      "entry": "charge",
+      "id": "charge_1#charge_1__1"
+    },
+    {
+      "comment": "the amount of [money]{money} you have to [pay_1]{pay} for something",
+      "entry": "bill",
+      "id": "bill_1#bill_1__5"
+    },
+    {
+      "comment": "[money]{money} that you [pay_1]{pay} to a [professional_1]{professional} [person]{person} or [institution]{institution} for their [work_1]{work}",
+      "entry": "fee",
+      "id": "fee#fee__1"
+    },
+    {
+      "comment": "a [price_1]{price} that you [say_1]{say} you will [pay_1]{pay} for something",
+      "entry": "offer",
+      "id": "offer_2#offer_2__6"
+    },
+    {
+      "comment": "the amount of [money]{money} that you must [spend]{spend} in [order_1]{order} to [buy_1]{buy} something or to [start_1]{start} a [new]{new} [business]{business} or [project_1]{project}",
+      "entry": "outlay",
+      "id": "outlay#outlay__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that is [paid_1]{paid} or [charged]{charged}",
+      "entry": "rate",
+      "id": "rate_1#rate_1__13"
+    },
+    {
+      "comment": "an amount [measured]{measured} by the [financial]{financial} [value_1]{value} that it has",
+      "entry": "worth",
+      "id": "worth_2#worth_2__5"
+    },
+    {
+      "comment": "an amount of [money]{money} that you [spend]{spend} in [order_1]{order} to [buy_1]{buy} or do something",
+      "entry": "expense",
+      "id": "expense_1#expense_1__1"
+    }
+  ],
+  "thesaurus": "Prices and costs",
+  "type": "Synonyms"
+}

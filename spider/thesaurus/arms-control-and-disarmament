@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [period_1]{period} of time during which [people_1]{people} can give something [illegal_1]{illegal} such as a [weapon]{weapon} to someone in [authority]{authority} or can [admit]{admit} that they have been [involved]{involved} in something [illegal_1]{illegal}, without being [punish]{punished}",
+      "entry": "amnesty",
+      "id": "amnesty#amnesty__3"
+    },
+    {
+      "comment": "[agreement]{agreements} between [country]{countries} to [reduce]{reduce} or [limit_1]{limit} the [number_1]{number} of [weapon]{weapons} in the [world]{world}",
+      "entry": "arms control",
+      "id": "arms-control#arms-control__1"
+    },
+    {
+      "comment": "[competition]{competition} between [country]{countries} to [increase_1]{increase} the [number_1]{number} or [power_1]{power} of their war [weapon]{weapons}",
+      "entry": "arms race",
+      "id": "arms-race#arms-race__1"
+    },
+    {
+      "comment": "the [job_1]{job} of [dealing]{dealing} with [bomb_1]{bombs} that have not [exploded]{exploded} and [making]{making} [certain_1]{certain} that they are [safe_1]{safe}",
+      "entry": "bomb disposal",
+      "id": "bomb-disposal#bomb-disposal__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [use_1]{using} something such as a [weapon]{weapon}, [ship_1]{ship}, or [nuclear]{nuclear} [power_1]{power} [station_1]{station}",
+      "entry": "decommission",
+      "id": "decommission#decommission__1"
+    },
+    {
+      "comment": "the [idea]{idea} that the [possession]{possession} of a [particular_1]{particular} [weapon]{weapon} will [make_1]{make} other [country]{countries} [afraid]{afraid} to [attack_1]{attack} the [country]{country} that [own_2]{owns} it",
+      "entry": "deterrence",
+      "id": "deterrence#deterrence__2"
+    },
+    {
+      "comment": "to take someone\u2019s [weapon]{weapons} so that they can no [long_1]{longer} use them",
+      "entry": "disarm",
+      "id": "disarm#disarm__1"
+    },
+    {
+      "comment": "if a [country]{country} or [organization]{organization} [disarm]{disarms}, it [reduce]{reduces} or [get]{gets} [rid_1]{rid} of its [weapon]{weapons} or [military]{military}",
+      "entry": "disarm",
+      "id": "disarm#disarm__3"
+    },
+    {
+      "comment": "a [process_1]{process} by which a [country]{country} [reduce]{reduces} or [get]{gets} [rid_1]{rid} of its [weapon]{weapons} or [military]{military}",
+      "entry": "disarmament",
+      "id": "disarmament#disarmament__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [military]{military} [equipment]{equipment} such as [weapon]{weapons} are [store_2]{stored} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "dump",
+      "id": "dump_2#dump_2__3"
+    },
+    {
+      "comment": "a [policy]{policy} of [prevent]{preventing} any [increase_1]{increase} in the [number_1]{number} of [nuclear]{nuclear} or [chemical_1]{chemical} [weapon]{weapons} that [country]{countries} have",
+      "entry": "nonproliferation",
+      "id": "nonproliferation#nonproliferation__1"
+    },
+    {
+      "comment": "[money]{money} that a [government]{government} [save_1]{saves} by [reduce]{reducing} the amount [spent_1]{spent} on [weapon]{weapons} and [military]{military} [force_1]{forces}",
+      "entry": "peace dividend",
+      "id": "peace-dividend#peace-dividend__1"
+    },
+    {
+      "comment": "a [group_1]{group} or [organization]{organization} whose [aim_1]{aim} is to [bring]{bring} an [end_1]{end} to war, [especially]{especially} by [get]{getting} [rid_1]{rid} of [nuclear]{nuclear} [weapon]{weapons}",
+      "entry": "peace movement",
+      "id": "peace-movement#peace-movement__1"
+    },
+    {
+      "comment": "an [agreement]{agreement} between [country]{countries} not to [test_1]{test} [nuclear]{nuclear} [weapon]{weapons}",
+      "entry": "test ban",
+      "id": "test-ban#test-ban__1"
+    }
+  ],
+  "thesaurus": "Arms control and disarmament",
+  "type": "Related words"
+}

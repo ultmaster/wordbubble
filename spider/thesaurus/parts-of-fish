@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a thin [flat_1]{flat} part on the body of a [fish_1]{fish} that [stick_1]{sticks} out",
+      "entry": "fin",
+      "id": "fin#fin__1"
+    },
+    {
+      "comment": "one of the [organ]{organs} behind the [head_1]{head} of a [fish_1]{fish} that [allow]{allows} it to [breathe]{breathe}",
+      "entry": "gill",
+      "id": "gill_1#gill_1__1"
+    },
+    {
+      "comment": "the [lower_1]{lower} [jaw_1]{jaw} of a [person]{person}, [animal_1]{animal}, or [fish_1]{fish}",
+      "entry": "mandible",
+      "id": "mandible#mandible__1"
+    },
+    {
+      "comment": "a fin on each side of a fish just behind its head that controls the direction it moves in",
+      "entry": "pectoral fin",
+      "id": "pectoral-fin#pectoral-fin__1"
+    },
+    {
+      "comment": "one of the [small_1]{small} [hard_1]{hard} [flat_1]{flat} [piece_1]{pieces} of [skin_1]{skin} on the body of a [fish_1]{fish}, [snake_1]{snake}, or [similar]{similar} [animal_1]{animal}",
+      "entry": "scale",
+      "id": "scale_1#scale_1__29"
+    },
+    {
+      "comment": "a [small_1]{small} hole in the body of a [fish_1]{fish} or [bird]{bird} through which [waste_1]{waste} or [egg_1]{eggs} come out",
+      "entry": "vent",
+      "id": "vent_1#vent_1__4"
+    }
+  ],
+  "thesaurus": "Parts of fish",
+  "type": "Related words"
+}

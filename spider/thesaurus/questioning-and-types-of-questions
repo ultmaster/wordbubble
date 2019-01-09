@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that someone [ask_1]{asks} you when they [want_1]{want} [information]{information}",
+      "entry": "question",
+      "id": "question_1#question_1__1"
+    },
+    {
+      "comment": "a [question_1]{question} [intended_1]{intended} to get [information]{information} about someone or something",
+      "entry": "inquiry",
+      "id": "inquiry#inquiry__1"
+    },
+    {
+      "comment": "a [question_1]{question} that you [ask_1]{ask} because you [want_1]{want} [information]{information} or because you are not [certain_1]{certain} about something",
+      "entry": "query",
+      "id": "query_1#query_1__1"
+    },
+    {
+      "comment": "a [question_1]{question} [ask_1]{asked} in such a way that it [trick_1]{tricks} or [force_1]{forces} someone to give you the [answer_1]{answer} that you [want_1]{want}",
+      "entry": "leading question",
+      "id": "leading-question#leading-question__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [question_1]{questions} that you [ask_1]{ask} a [large_1]{large} [number_1]{number} of [people_1]{people} or [organization]{organizations}",
+      "entry": "survey",
+      "id": "survey_1#survey_1__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [lot_1]{lot} of [people_1]{people} are [ask_1]{asked} what they [feel_1]{feel} about something, [usually]{usually} by a [company]{company} [paid_1]{paid} by a [political]{political} [party_1]{party}, [television]{television} [program_1]{program}, etc.",
+      "entry": "poll",
+      "id": "poll_1#poll_1__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [question_1]{questions} that a [lot_1]{lot} of [people_1]{people} are [ask_1]{asked} as a way of [get]{getting} [information]{information} about what [people_1]{people} [think_1]{think} or do [generally]{generally}",
+      "entry": "questionnaire",
+      "id": "questionnaire#questionnaire__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [ask_1]{asking} someone a [lot_1]{lot} of [question_1]{questions} in an [angry]{angry} or [threatening]{threatening} way, in [order_1]{order} to get [information]{information}",
+      "entry": "interrogation",
+      "id": "interrogation#interrogation__1"
+    },
+    {
+      "comment": "a [question_1]{question} that you [ask_1]{ask} without [expect]{expecting} or [wanting]{wanting} an [answer_1]{answer}",
+      "entry": "rhetorical question",
+      "id": "rhetorical-question#rhetorical-question__1"
+    },
+    {
+      "comment": "a [question_1]{question} that is the most [important]{important} and most [difficult]{difficult} to [answer_1]{answer} [concerning_1]{concerning} a [particular_1]{particular} [problem]{problem} or [situation]{situation}",
+      "entry": "the $64,000 question",
+      "id": "the-64-000-question#the-64-000-question__1"
+    }
+  ],
+  "thesaurus": "Questioning and types of questions",
+  "type": "Synonyms"
+}

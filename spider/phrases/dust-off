@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "dust off",
+  "senses": [
+    {
+      "def": "to get something ready to use that you have not [used]{used} for a long time",
+      "examples": [
+        "I\u2019m [dust_2]{dusting} off my [old]{old} [skill]{skills} and [return_1]{returning} to [work_1]{work}."
+      ],
+      "id": "dust-off__1"
+    },
+    {
+      "def": "to [wipe_1]{wipe} [dust_1]{dust} or [dirt]{dirt} off the [surface_1]{surface} of something",
+      "examples": [
+        "Would you [dust_1]{dust} off the [shelves]{shelves}?"
+      ],
+      "id": "dust-off__3"
+    }
+  ]
+}

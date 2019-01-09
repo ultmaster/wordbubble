@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "the [ability_1]{ability} to do something well, [usually]{usually} as a [result_1]{result} of [experience_1]{experience} and [training]{training}",
+      "entry": "skill",
+      "id": "skill#skill__1"
+    },
+    {
+      "comment": "a [natural_1]{natural} [ability_1]{ability} for being [good_1]{good} at a [particular_1]{particular} [activity]{activity}",
+      "entry": "talent",
+      "id": "talent#talent__1"
+    },
+    {
+      "comment": "the [fact]{fact} of being [able_1]{able} to do something",
+      "entry": "ability",
+      "id": "ability_1#ability_1__1"
+    },
+    {
+      "comment": "[knowledge]{knowledge} and [skill]{skill} that is [gain_1]{gained} through time [spent_1]{spent} [doing]{doing} a [job_1]{job} or [activity]{activity}",
+      "entry": "experience",
+      "id": "experience_1#experience_1__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to do something in a [satisfactory]{satisfactory} or [effective]{effective} way",
+      "entry": "competence",
+      "id": "competence#competence__1"
+    },
+    {
+      "comment": "[great_1]{great} [knowledge]{knowledge} or [skill]{skill}",
+      "entry": "mastery",
+      "id": "mastery#mastery__1"
+    },
+    {
+      "comment": "[great_1]{great} [skill]{skill} or [ability_1]{ability}",
+      "entry": "prowess",
+      "id": "prowess#prowess__1"
+    },
+    {
+      "comment": "[natural_1]{natural} [ability_1]{ability} that [make_1]{makes} it [easy_1]{easy} for you to do something well",
+      "entry": "aptitude",
+      "id": "aptitude#aptitude__1"
+    },
+    {
+      "comment": "a [high_1]{high} [degree]{degree} of [ability_1]{ability} or [skill]{skill} in something",
+      "entry": "proficiency",
+      "id": "proficiency#proficiency__1"
+    },
+    {
+      "comment": "a [special_1]{special} [power_1]{power} or [ability_1]{ability} that a [fictional]{fictional} [character]{character} has",
+      "entry": "superpower",
+      "id": "superpower#superpower__5"
+    },
+    {
+      "comment": "[skill]{skills} that [enable]{enable} someone to [work_1]{work} well with other [people_1]{people}, for [example]{example} being [able_1]{able} to [communicate]{communicate} [effectively]{effectively}, or to [work_1]{work} in or [lead_1]{lead} a [team_1]{team}",
+      "entry": "soft skills",
+      "id": "soft-skills#soft-skills__1"
+    }
+  ],
+  "thesaurus": "Skill, talent and ability",
+  "type": "Synonyms"
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if something is [litter_2]{littered} with [thing]{things}, there are many of them in it",
+      "examples": [
+        "The [history]{history} of [pop_1]{pop} [music]{music} is [litter_2]{littered} with [dispute_1]{disputes} between songwriting [partner_1]{partners}."
+      ],
+      "id": "litter_2__1"
+    },
+    {
+      "def": "to be [spread_1]{spread} around a [place_1]{place} in [large_1]{large} [number_1]{numbers}",
+      "examples": [
+        "[paper_1]{Paper} [cup_1]{cups} [litter_2]{littered} the [ground_1]{ground}.",
+        "The [room_1]{room} was [litter_2]{littered} with [broken_1]{broken} [glass]{glass}."
+      ],
+      "id": "litter_2__3"
+    }
+  ],
+  "word": "litter"
+}

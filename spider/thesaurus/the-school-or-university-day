@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "[happening_1]{happening} after [school_1]{school}, in the [afternoon_1]{afternoon}",
+      "entry": "after-school",
+      "id": "after-school#after-school__1"
+    },
+    {
+      "comment": "a [regular_1]{regular} [meeting]{meeting} of [student]{students} and [teacher]{teachers} in a [school_1]{school}",
+      "entry": "assembly",
+      "id": "assembly#assembly__14"
+    },
+    {
+      "comment": "a [period_1]{period} of time during which a [group_1]{group} of [student]{students} is [taught]{taught} together",
+      "entry": "class",
+      "id": "class_1#class_1__4"
+    },
+    {
+      "comment": "a [program_1]{program} of [care_1]{care}, [education]{education}, and [activity]{activities} [given_1]{given} to [children]{children} after [school_1]{school} while their [parent]{parents} are still at [work_1]{work}",
+      "entry": "extended school",
+      "id": "extended-school#extended-school__1"
+    },
+    {
+      "comment": "a part of the [school_1]{school} [day]{day} when a [student]{student} or [teacher]{teacher} [does]{does} not have a [class_1]{class}",
+      "entry": "free period",
+      "id": "free-period#free-period__1"
+    },
+    {
+      "comment": "a [day]{day} when you [work_1]{work} or go to [school_1]{school} only in the [morning_1]{morning} or the [afternoon_1]{afternoon}",
+      "entry": "half-day",
+      "id": "half-day#half-day__1"
+    },
+    {
+      "comment": "a [class_1]{class} in [school_1]{school} on a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "lesson",
+      "id": "lesson#lesson__4"
+    },
+    {
+      "comment": "the time at [night_1]{night} when [people_1]{people} in a [prison]{prison}, [camp_1]{camp}, [school_1]{school}, etc. must [turn_1]{turn} off the [light_1]{lights} and go to [sleep_1]{sleep}",
+      "entry": "lights out",
+      "id": "lights-out_1#lights-out_1__1"
+    },
+    {
+      "comment": "a [division]{division} in a [school_1]{school} [day]{day} when a [particular_1]{particular} [subject_1]{subject} is [taught]{taught}",
+      "entry": "period",
+      "id": "period_1#period_1__9"
+    },
+    {
+      "comment": "[recess_1]{recess} at [school_1]{school}",
+      "entry": "playtime",
+      "id": "playtime#playtime__1"
+    },
+    {
+      "comment": "a period between school classes when students can eat, rest, or play. The British word is break.",
+      "entry": "recess",
+      "id": "recess_1#recess_1__4"
+    },
+    {
+      "comment": "the time that [children]{children} [spend]{spend} at [school_1]{school} during a [day]{day}",
+      "entry": "school",
+      "id": "school_1#school_1__7"
+    },
+    {
+      "comment": "a [day]{day} when [student]{students} must go to [school_1]{school}",
+      "entry": "school day",
+      "id": "school-day#school-day__1"
+    },
+    {
+      "comment": "a [meal]{meal} that a [school_1]{school} [provide]{provides} for [student]{students} to [buy_1]{buy} in the [middle_1]{middle} of the [day]{day}",
+      "entry": "school lunch",
+      "id": "school-lunch#school-lunch__1"
+    },
+    {
+      "comment": "the [night_1]{night} before a [day]{day} that [student]{students} must go to [school_1]{school}",
+      "entry": "school night",
+      "id": "school-night#school-night__1"
+    },
+    {
+      "comment": "a [period_1]{period} during the [school_1]{school} [day]{day} when [student]{students} [study_1]{study} [quietly]{quietly} without being [taught]{taught}",
+      "entry": "study hall",
+      "id": "study-hall#study-hall__1"
+    },
+    {
+      "comment": "a [schedule_1]{schedule} of the times of a [student]{student}\u2019s [class_1]{classes}",
+      "entry": "timetable",
+      "id": "timetable_1#timetable_1__5"
+    }
+  ],
+  "thesaurus": "The school or university day",
+  "type": "Related words"
+}

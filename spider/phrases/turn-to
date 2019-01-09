@@ -1,0 +1,37 @@
+{
+  "part": "phrase",
+  "phrase": "turn to",
+  "senses": [
+    {
+      "def": "to go to someone for [help_1]{help} when you are [have]{having} [difficulty]{difficulty} [dealing]{dealing} with a [situation]{situation}",
+      "examples": [
+        "I\u2019m [sorry]{sorry}, but I had no one else to [turn_1]{turn} to.",
+        "There are [plenty]{plenty} of [people_1]{people} you can [turn_1]{turn} to for [advice]{advice}.",
+        "He [turn_1]{turned} to [drug_1]{drugs} after his [wife]{wife} [left_1]{left} him."
+      ],
+      "id": "turn-to__1"
+    },
+    {
+      "def": "to [direct_1]{direct} your [attention]{attention}, [thought_1]{thoughts}, etc. toward someone or something",
+      "examples": [
+        "It is time he [turn_1]{turned} his [mind_1]{mind} to more serious [problem]{problems}.",
+        "[let_1]{Let}\u2019s [turn_1]{turn} to more [important]{important} [matter_1]{matters} now."
+      ],
+      "id": "turn-to__8"
+    },
+    {
+      "def": "to [start_1]{start} [doing]{doing} something [new]{new} or [different]{different} from what you were [doing]{doing} before",
+      "examples": [
+        "Karras, the ex-football [star_1]{star} who [later_1]{later} [turn_1]{turned} to [acting_1]{acting}"
+      ],
+      "id": "turn-to__12"
+    },
+    {
+      "def": "to [look_1]{look} for a [particular_1]{particular} [page_1]{page} in a [book_1]{book}",
+      "examples": [
+        "[turn_1]{Turn} to [page_1]{page} 17 for our [price_1]{prices}."
+      ],
+      "id": "turn-to__14"
+    }
+  ]
+}

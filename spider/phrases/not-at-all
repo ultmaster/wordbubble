@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "not at all",
+  "senses": [
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} a [negative_1]{negative} [statement_1]{statement}",
+      "examples": [
+        "My [parent]{parents} were not at all [pleased]{pleased} with my [test_1]{test} [result_1]{results}."
+      ],
+      "id": "not-at-all__1"
+    },
+    {
+      "def": "[used]{used} as a [polite]{polite} [reply_1]{reply} when someone has [thank]{thanked} you for something",
+      "examples": [
+        "\u201c[thank]{Thank} you for all your [help_1]{help}.\u201d \u201cNot at all.\u201d"
+      ],
+      "id": "not-at-all__3"
+    }
+  ]
+}

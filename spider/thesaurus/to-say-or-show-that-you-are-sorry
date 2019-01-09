@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to [tell_1]{tell} someone that you are [sorry]{sorry} for [doing]{doing} something [wrong_1]{wrong} or for [cause_2]{causing} a [problem]{problem}",
+      "entry": "apologize",
+      "id": "apologize#apologize__1"
+    },
+    {
+      "comment": "to show that you are [sorry]{sorry} for [doing]{doing} something [bad_1]{bad} or [wrong_1]{wrong}",
+      "entry": "atone",
+      "id": "atone#atone__1"
+    },
+    {
+      "comment": "to [try_1]{try} to [make_1]{make} a [situation]{situation} [better_1]{better} after you have done something [wrong_1]{wrong}",
+      "entry": "make amends",
+      "id": "amends#amends__2"
+    },
+    {
+      "comment": "to do something [good_1]{good} that [help_1]{helps} someone to [feel_1]{feel} [better_1]{better} after you [did]{did} something [bad_1]{bad} to them",
+      "entry": "make it up to someone",
+      "id": "make-up-to#make-up-to__3"
+    },
+    {
+      "comment": "to do something [good_1]{good} because you have [behave]{behaved} [badly]{badly}, so that [people_1]{people} will [think_1]{think} you are a [good_1]{good} [person]{person} again",
+      "entry": "redeem yourself",
+      "id": "redeem-yourself#redeem-yourself__1"
+    },
+    {
+      "comment": "to show that you are [sorry]{sorry} for something [bad_1]{bad} you have done by [doing]{doing} something [good_1]{good}",
+      "entry": "expiate",
+      "id": "expiate#expiate__1"
+    },
+    {
+      "comment": "to [behave]{behave} in a way that [show_1]{shows} you are [extremely]{extremely} [sorry]{sorry} about something that you [did]{did}",
+      "entry": "wear sackcloth and ashes",
+      "id": "wear-sackcloth-and-ashes#wear-sackcloth-and-ashes__1"
+    },
+    {
+      "comment": "to [behave]{behave} in a way that [show_1]{shows} you [feel_1]{feel} very [sorry]{sorry} and [guilty]{guilty} about something you have done [wrong_1]{wrong}",
+      "entry": "put on/wear a hair shirt",
+      "id": "put-on-wear-a-hair-shirt#put-on-wear-a-hair-shirt__1"
+    },
+    {
+      "comment": "to [make_1]{make} it [obvious]{obvious} by your [action_1]{actions} that you are very [upset_1]{upset} or [sorry]{sorry} about something",
+      "entry": "beat your breast",
+      "id": "beat-your-breast#beat-your-breast__1"
+    }
+  ],
+  "thesaurus": "To say or show that you are sorry",
+  "type": "Synonyms"
+}

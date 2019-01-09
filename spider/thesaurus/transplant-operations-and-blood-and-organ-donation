@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} where [blood_1]{blood} is [store_2]{stored} so that it can be [given_1]{given} to [people_1]{people} during [medical_1]{medical} [operation]{operations}",
+      "entry": "blood bank",
+      "id": "blood-bank#blood-bank__1"
+    },
+    {
+      "comment": "someone who [allow]{allows} some of their [blood_1]{blood} to be [taken_1]{taken} from them so that it can be [used]{used} in the [medical_1]{medical} [treatment]{treatment} of someone else",
+      "entry": "blood donor",
+      "id": "blood-donor#blood-donor__1"
+    },
+    {
+      "comment": "to allow blood to be taken from your body for use in blood transfusions",
+      "entry": "donate",
+      "id": "donate#donate__5"
+    },
+    {
+      "comment": "to allow sperm or eggs to be taken from your body and used in fertility treatments for other people",
+      "entry": "donate",
+      "id": "donate#donate__6"
+    },
+    {
+      "comment": "to [allow]{allow} an [organ]{organ} to be [taken_1]{taken} from your body and [used]{used} to [treat_1]{treat} someone else or for [medical_1]{medical} [research_1]{research}",
+      "entry": "donate",
+      "id": "donate#donate__7"
+    },
+    {
+      "comment": "the process of giving blood, sperm, or a part of your body to help someone who needs it",
+      "entry": "donation",
+      "id": "donation#donation__5"
+    },
+    {
+      "comment": "someone who gives blood, sperm, eggs or a part of their body to be used in the medical treatment of someone else. The usual word is donor.",
+      "entry": "donator",
+      "id": "donator#donator__3"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [blood_1]{blood}, [sperm]{sperm}, [egg_1]{eggs}, or a part of their body to be [used]{used} in the [medical_1]{medical} [treatment]{treatment} of someone else",
+      "entry": "donor",
+      "id": "donor#donor__1"
+    },
+    {
+      "comment": "[used]{used} about a body part that a [donor]{donor} has [given_1]{given}",
+      "entry": "donor",
+      "id": "donor#donor__4"
+    },
+    {
+      "comment": "a [card_1]{card} that you keep with you [give_1]{giving} [permission]{permission} for your [organ]{organs} to be [used]{used} after you [die_1]{die} to [help_1]{help} someone else",
+      "entry": "donor card",
+      "id": "donor-card#donor-card__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [skin_1]{skin}, [bone_1]{bone}, etc. from one part of your body [used]{used} to [replace]{replace} or [repair_1]{repair} a [damage_2]{damaged} part of your body",
+      "entry": "graft",
+      "id": "graft_1#graft_1__3"
+    },
+    {
+      "comment": "if someone\u2019s body rejects an organ after a transplant operation, they become sick because their body has a bad reaction to the organ",
+      "entry": "reject",
+      "id": "reject_1#reject_1__13"
+    },
+    {
+      "comment": "the failure of someone\u2019s body to accept a new organ in a transplant operation",
+      "entry": "rejection",
+      "id": "rejection#rejection__11"
+    },
+    {
+      "comment": "a medical operation in which a new organ is put into someone\u2019s body. The organ is taken from the body of another person, especially someone who has just died, who is called a donor",
+      "entry": "transplant",
+      "id": "transplant_1#transplant_1__1"
+    },
+    {
+      "comment": "an [organ]{organ} that has been [transplant_2]{transplanted}",
+      "entry": "transplant",
+      "id": "transplant_1#transplant_1__4"
+    },
+    {
+      "comment": "to take an [organ]{organ} from one [person]{person}\u2019s body and put it into another [person]{person}\u2019s body",
+      "entry": "transplant",
+      "id": "transplant_2#transplant_2__2"
+    },
+    {
+      "comment": "a transplant operation in which a part of an animal\u2019s body is put into a person\u2019s body",
+      "entry": "xenotransplant",
+      "id": "xenotransplant#xenotransplant__1"
+    },
+    {
+      "comment": "an animal organ that is put into a person\u2019s body as a transplant",
+      "entry": "xenotransplant",
+      "id": "xenotransplant#xenotransplant__2"
+    }
+  ],
+  "thesaurus": "Transplant operations and blood and organ donation",
+  "type": "Related words"
+}

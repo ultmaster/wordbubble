@@ -1,0 +1,32 @@
+{
+  "part": "phrase",
+  "phrase": "set down",
+  "senses": [
+    {
+      "def": "to [state_1]{state} [officially]{officially} how something should be done",
+      "examples": [
+        "These [condition_1]{conditions} were [set_1]{set} down by the [united]{United} [nation]{Nations}."
+      ],
+      "id": "set-down__1"
+    },
+    {
+      "def": "to [write]{write} something on a [piece_1]{piece} of [paper_1]{paper} so that it will not be [forgotten_1]{forgotten} and can be [look_1]{looked} at [later_1]{later}",
+      "examples": [
+        "She [set_1]{set} all these [event]{events} down in her [diary]{diary}."
+      ],
+      "id": "set-down__3"
+    },
+    {
+      "def": "to [consider]{consider} something in a [particular_1]{particular} way",
+      "examples": [
+        "He [set_1]{set} the whole [experience_1]{experience} down as a [failure]{failure}."
+      ],
+      "id": "set-down__5"
+    },
+    {
+      "def": "to [stop_1]{stop} a [vehicle]{vehicle} so that a [passenger]{passenger} can get out",
+      "examples": [],
+      "id": "set-down__7"
+    }
+  ]
+}

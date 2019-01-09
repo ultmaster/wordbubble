@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "to or onto [land_1]{land} from the [water_1]{water} or a [ship_1]{ship}",
+      "examples": [
+        "He [quickly]{quickly} [row_3]{rowed} ashore.",
+        "All the [crew_1]{crew} have come ashore."
+      ],
+      "id": "ashore__1"
+    },
+    {
+      "def": "on [land_1]{land}, and not on the [sea_1]{sea}",
+      "examples": [
+        "After two [week]{weeks} on the [rig_1]{rig}, they had three [day]{days} ashore."
+      ],
+      "id": "ashore__4"
+    }
+  ],
+  "word": "ashore"
+}

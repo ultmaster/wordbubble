@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "a one-way/two-way street",
+  "senses": [
+    {
+      "def": "a [street_1]{street} in which [car]{cars} may [travel_1]{travel} in one direction/in both directions",
+      "examples": [],
+      "id": "a-one-way-two-way-street__1"
+    },
+    {
+      "def": "an [action_1]{action}, [decision_1]{decision}, etc. [involve]{involving} two [people_1]{people} or [group_1]{groups} that [affect_1]{affects} only one/both of them",
+      "examples": [
+        "[survey_1]{Surveys} of [employer]{employers} show that [discrimination]{discrimination} is a [two-way]{two-way} [street_1]{street}."
+      ],
+      "id": "a-one-way-two-way-street__2"
+    }
+  ]
+}

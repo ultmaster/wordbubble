@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "the depths of something",
+  "senses": [
+    {
+      "def": "a [place_1]{place} that is very [far]{far} [away_1]{away} or very [far]{far} [inside_1]{inside} an [area]{area}",
+      "examples": [
+        "a [tiny]{tiny} [stream_1]{stream} in the [depth]{depths} of the [forest]{forest}"
+      ],
+      "id": "the-depths-of-something__1"
+    },
+    {
+      "def": "the most [severe]{severe} part of an [unpleasant]{unpleasant} time, [feeling_1]{feeling}, or [situation]{situation}",
+      "examples": [
+        "She was in the [depth]{depths} of [despair_1]{despair}.",
+        "the [depth]{depths} of [winter_1]{winter}"
+      ],
+      "id": "the-depths-of-something__3"
+    }
+  ]
+}

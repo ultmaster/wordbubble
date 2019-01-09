@@ -1,0 +1,22 @@
+{
+  "part": "prefix",
+  "senses": [
+    {
+      "def": "[used]{used} with [noun_1]{nouns} [describe]{describing} [old]{older} [relative_2]{relatives} to [make_1]{make} other [noun_1]{nouns} [meaning_1]{meaning} the [grandfather_1]{grandfather}, [grandmother]{grandmother}, etc. of your [parent]{parent}",
+      "examples": [
+        "my great-grandfather  (=the grandfather of one of my parents)",
+        "my great-aunt  (=the aunt of one of my parents)"
+      ],
+      "id": "great_4__1"
+    },
+    {
+      "def": "[used]{used} with [noun_1]{nouns} [describe]{describing} [younger]{younger} [relative_2]{relatives} to [make_1]{make} other [noun_1]{nouns} [meaning_1]{meaning} the [child]{child} of your [grandson]{grandson}, [granddaughter]{granddaughter}, etc.",
+      "examples": [
+        "my great-granddaughter  (=the daughter of my grandchild)",
+        "my great-nephew  (=the son of my nephew)"
+      ],
+      "id": "great_4__4"
+    }
+  ],
+  "word": "great-"
+}

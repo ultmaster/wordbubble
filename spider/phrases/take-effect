@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "take effect",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to [produce_1]{produce} the [result_1]{results} that were [intended_1]{intended}",
+      "examples": [
+        "[try_1]{Try} to [relax]{relax} for a [couple_1]{couple} of [hour]{hours} until the [pill]{pills} take [effect_1]{effect}.",
+        "[measure_1]{Measures} to [reduce]{reduce} [cost_1]{costs} are [beginning]{beginning} to take [effect_1]{effect}."
+      ],
+      "id": "take-effect__1"
+    },
+    {
+      "def": "if a [new]{new} [rule_1]{rule} or [law]{law} [take_1]{takes} [effect_1]{effect}, it [start_1]{starts} to be [used]{used}",
+      "examples": [
+        "The [new]{new} [schedule_1]{schedule} will take [effect_1]{effect} from the [beginning]{beginning} of May."
+      ],
+      "id": "take-effect__4"
+    }
+  ]
+}

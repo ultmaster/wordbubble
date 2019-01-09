@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [fix_1]{fix} one thing to another [use_1]{using} something such as [string_1]{string} or [nail_1]{nails} so that it is [held]{held} [firm_1#firm_1__28]{firmly} in [position_1]{position}",
+      "entry": "fasten",
+      "id": "fasten#fasten__6"
+    },
+    {
+      "comment": "to [fasten]{fasten} something somewhere so that it cannot move",
+      "entry": "fix",
+      "id": "fix_1#fix_1__11"
+    },
+    {
+      "comment": "to [fasten]{fasten} or [join_1]{join} one thing to another",
+      "entry": "attach",
+      "id": "attach#attach__1"
+    },
+    {
+      "comment": "to [fasten]{fasten} one thing to another [use_1]{using} a [small_1]{small} [object_1]{object}",
+      "entry": "clip",
+      "id": "clip_1#clip_1__1"
+    },
+    {
+      "comment": "to [join_1]{join} two [thing]{things} together",
+      "entry": "connect",
+      "id": "connect#connect__1"
+    },
+    {
+      "comment": "to use something such as [string_1]{string} to [fasten]{fasten} several [thing]{things} together",
+      "entry": "tie",
+      "id": "tie_1#tie_1__8"
+    },
+    {
+      "comment": "to [connect]{connect} two [thing]{things}",
+      "entry": "join",
+      "id": "join_1#join_1__1"
+    },
+    {
+      "comment": "to [hold_1]{hold} something [firm_1#firm_1__28]{firmly} in [place_1]{place} by [tying]{tying} or [fastener]{fastening} it",
+      "entry": "secure",
+      "id": "secure_1#secure_1__8"
+    },
+    {
+      "comment": "to [fasten]{fasten} something, or to [hold_1]{hold} it in [place_1]{place} [use_1]{using} [pin_1]{pins}",
+      "entry": "pin",
+      "id": "pin_2#pin_2__1"
+    },
+    {
+      "comment": "to [fasten]{fasten} one thing to another [use_1]{using} [screw_1]{screws}",
+      "entry": "screw",
+      "id": "screw_2#screw_2__1"
+    }
+  ],
+  "thesaurus": "To fasten or join one thing to another",
+  "type": "Synonyms"
+}

@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "repeat business/customers",
+  "senses": [
+    {
+      "def": "[customer]{customers} who [buy_1]{buy} [product]{products} or [service_1]{services} from a [particular_1]{particular} [business]{business} more than one time",
+      "examples": [
+        "We [offer_1]{offer} [special_1]{special} [discount_1]{discounts} to our [repeat_1]{repeat} [customer]{customers}."
+      ],
+      "id": "repeat-business-customers__1"
+    }
+  ]
+}

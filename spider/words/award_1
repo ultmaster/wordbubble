@@ -1,0 +1,21 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [prize_1]{prize} or other [reward_1]{reward} that is [given_1]{given} to someone who has [achieve]{achieved} something",
+      "examples": [
+        "She [won]{won} the [player]{Player} of the [year]{Year} award.",
+        "an award for [outstanding]{outstanding} [service_1]{services} to the [industry]{industry}"
+      ],
+      "id": "award_1__1"
+    },
+    {
+      "def": "an amount of [money]{money} or a [judgment]{judgment} [given_1]{given} by a [court_1]{court} of [law]{law}",
+      "examples": [
+        "an award for [damage_2]{damages}/[compensation]{compensation}"
+      ],
+      "id": "award_1__4"
+    }
+  ],
+  "word": "award"
+}

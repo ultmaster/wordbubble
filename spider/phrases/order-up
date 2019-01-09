@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "order up",
+  "senses": [
+    {
+      "def": "to [tell_1]{tell} someone to do something, [provide]{provide} something, or [deliver]{deliver} something",
+      "examples": [
+        "The [pentagon]{Pentagon} [ordered]{ordered} up [cruise_1]{cruise} [missile]{missile} [attack_1]{attacks}.",
+        "We [ordered]{ordered} up FBI [report_1]{reports} on the [men]{men}."
+      ],
+      "id": "order-up__1"
+    },
+    {
+      "def": "in a [hotel]{hotel}, to [choose]{choose} [food]{food} or [drink_1]{drinks} and [ask_1]{ask} for them to be [deliver]{delivered} to your [room_1]{room}",
+      "examples": [
+        "I [decided]{decided} to [order_1]{order} up [breakfast_1]{breakfast}."
+      ],
+      "id": "order-up__4"
+    }
+  ]
+}

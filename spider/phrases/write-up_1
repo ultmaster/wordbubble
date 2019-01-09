@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "write up",
+  "senses": [
+    {
+      "def": "to [write]{write} a [report_1]{report}, [article]{article}, etc. [use_1]{using} [note_1]{notes} that you [wrote]{wrote} [earlier_1]{earlier}",
+      "examples": [
+        "The [police_1]{police} [officer]{officers} [wrote]{wrote} up the [accident]{accident} at the [station_1]{station}.",
+        "Now the [experiment_1]{experiments} are [completed]{completed}, he [just_1]{just} has to [write]{write} up his [findings]{findings}."
+      ],
+      "id": "write-up_1__1"
+    },
+    {
+      "def": "to [report_1]{report} [officially]{officially} that someone has done something [wrong_1]{wrong}",
+      "examples": [
+        "The [traffic_1]{traffic} [cop_1]{cop} [wrote]{wrote} him up for [speeding_1]{speeding}."
+      ],
+      "id": "write-up_1__4"
+    }
+  ]
+}

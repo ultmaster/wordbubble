@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a credit card from a credit card company that gives some money to a particular charity every time you pay for something with the card",
+      "entry": "affinity card",
+      "id": "affinity-card#affinity-card__1"
+    },
+    {
+      "comment": "a [small_1]{small} [plastic_1]{plastic} [card_1]{card} that you use for [making]{making} [payment]{payments} or for [get]{getting} [money]{money} from the [bank_1]{bank}",
+      "entry": "bank card",
+      "id": "bank-card#bank-card__1"
+    },
+    {
+      "comment": "a [debit_1]{debit} [card_1]{card}",
+      "entry": "check card",
+      "id": "check-card#check-card__1"
+    },
+    {
+      "comment": "a small plastic card that you use to buy things now and pay for them later. A similar card that you use to pay for things directly from your bank account is called a debit card.",
+      "entry": "credit card",
+      "id": "credit-card#credit-card__1"
+    },
+    {
+      "comment": "a plastic card given by a bank that you use for paying for things. It moves money automatically from your bank account to the account of the person you are paying.",
+      "entry": "debit card",
+      "id": "debit-card#debit-card__1"
+    },
+    {
+      "comment": "a type of credit card that allows you to spend a lot of money",
+      "entry": "gold card",
+      "id": "gold-card#gold-card__1"
+    },
+    {
+      "comment": "a [small_1]{small} [plastic_1]{plastic} [card_1]{card} that you can use [instead]{instead} of [money]{money}",
+      "entry": "plastic",
+      "id": "plastic_1#plastic_1__4"
+    },
+    {
+      "comment": "a [credit_1]{credit} [card_1]{card} for use at only one [business]{business}",
+      "entry": "private label card",
+      "id": "private-label-card#private-label-card__1"
+    },
+    {
+      "comment": "a credit card that you can use in a particular store",
+      "entry": "store card",
+      "id": "store-card#store-card__1"
+    }
+  ],
+  "thesaurus": "Bank and credit cards",
+  "type": "Related words"
+}

@@ -1,0 +1,28 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "something that [show_1]{shows} you what [condition_1]{condition} something is in",
+      "examples": [
+        "[economic]{economic} [indicator]{indicators} such as the [inflation]{inflation} [rate_1]{rate} or the [exchange_1]{exchange} [rate_1]{rate}",
+        "Time [spent_1]{spent} in [education]{education} is a [good_1]{good} indicator of [social_1]{social} and [economic]{economic} [position_1]{position}.",
+        "The [test_1]{test} is a [reliable]{reliable} indicator of [performance]{performance} if it is [carry_1]{carried} out [correctly]{correctly}."
+      ],
+      "id": "indicator__1"
+    },
+    {
+      "def": "a [piece_1]{piece} of [equipment]{equipment} that [show_1]{shows} [information]{information}",
+      "examples": [
+        "the air-speed indicator",
+        "The [copier]{copier} is ready when the [green_1]{green} indicator [light_1]{light} is on."
+      ],
+      "id": "indicator__5"
+    },
+    {
+      "def": "a [turn-signal]{turn signal} on a [car]{car}",
+      "examples": [],
+      "id": "indicator__8"
+    }
+  ],
+  "word": "indicator"
+}

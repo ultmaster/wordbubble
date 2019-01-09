@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "start out",
+  "senses": [
+    {
+      "def": "to [begin]{begin} as one thing and [develop]{develop} into something else",
+      "examples": [
+        "Some [business]{businesses} [start_1]{start} out as [hobby]{hobbies}.",
+        "He [start_1]{started} out as a [salesperson]{salesperson} before [turning]{turning} to [poetry]{poetry}."
+      ],
+      "id": "start-out__1"
+    },
+    {
+      "def": "to [begin]{begin} a [trip_1]{trip}",
+      "examples": [
+        "We [start_1]{started} out at five o\u2019[clock_1]{clock} and [got_1]{got} there at eight."
+      ],
+      "id": "start-out__5"
+    },
+    {
+      "def": "to [intend]{intend} to do or be something",
+      "examples": [
+        "She didn\u2019t [start_1]{start} out to be a [model_1]{model}."
+      ],
+      "id": "start-out__7"
+    }
+  ]
+}

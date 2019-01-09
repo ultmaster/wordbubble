@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "what do you mean?",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone to [explain]{explain} what they have [said_1]{said}",
+      "examples": [],
+      "id": "what-do-you-mean__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you are [shocked]{shocked} or [annoyed]{annoyed} about something that someone has [told]{told} you",
+      "examples": [
+        "What do you mean you can\u2019t find the [key_1]{keys}?"
+      ],
+      "id": "what-do-you-mean__2"
+    }
+  ]
+}

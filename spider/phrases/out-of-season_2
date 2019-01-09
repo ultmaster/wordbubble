@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "out of season",
+  "senses": [
+    {
+      "def": "at a time of the [year]{year} when most [people_1]{people} do not go to a [place_1]{place}",
+      "examples": [
+        "Out of [season_1]{season} Taos is very [popular]{popular} with [writer]{writers} and [artist]{artists}."
+      ],
+      "id": "out-of-season_2__1"
+    },
+    {
+      "def": "at a time when [catching]{catching} or [killing]{killing} an [animal_1]{animal} is not [allow]{allowed}",
+      "examples": [
+        "He [admit]{admitted} [killing]{killing} a [deer]{deer} out of [season_1]{season}."
+      ],
+      "id": "out-of-season_2__3"
+    },
+    {
+      "def": "not [grown_1]{grown} at the [normal_1]{normal} time or under [normal_1]{normal} [condition_1]{conditions}",
+      "examples": [
+        "I don\u2019t [like_1]{like} to use [food]{food} that is out of [season_1]{season}."
+      ],
+      "id": "out-of-season_2__5"
+    }
+  ]
+}

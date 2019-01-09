@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "to [provide]{provide} a [place_1]{place} or [room_1]{room} for someone to [stay_1]{stay} in",
+      "entry": "accommodate",
+      "id": "accommodate#accommodate__1"
+    },
+    {
+      "comment": "to [provide]{provide} [food]{food} and [drink_1]{drink} for someone to [eat]{eat} at a [meal]{meal}",
+      "entry": "serve",
+      "id": "serve_1#serve_1__1"
+    },
+    {
+      "comment": "to [provide]{provide} [food]{food} and [drink_1]{drinks} at an [event]{event}",
+      "entry": "cater",
+      "id": "cater#cater__1"
+    },
+    {
+      "comment": "to [provide]{provide} [people_1]{people} with [food]{food} so that they can [live_1]{live}",
+      "entry": "feed",
+      "id": "feed_1#feed_1__6"
+    },
+    {
+      "comment": "to give a [person]{person}, [animal_1]{animal}, or [plant_1]{plant} the [food]{food} and [care_1]{care} that they [need_1]{need} to [live_1]{live}, [grow]{grow}, and be [healthy]{healthy}",
+      "entry": "nourish",
+      "id": "nourish#nourish__1"
+    },
+    {
+      "comment": "to give someone a [place_1]{place} to [live_1]{live}",
+      "entry": "house",
+      "id": "house_2#house_2__1"
+    },
+    {
+      "comment": "to [provide]{provide} [money]{money}, [food]{food}, [shelter_1]{shelter}, or other [thing]{things} that someone [need_1]{needs} in [order_1]{order} to [live_1]{live}",
+      "entry": "support",
+      "id": "support_1#support_1__13"
+    },
+    {
+      "comment": "to keep [give_1]{giving} someone a [lot_1]{lot} of [present_2]{presents}, [food]{food}, or [drink_1]{drinks}",
+      "entry": "ply with",
+      "id": "ply-with#ply-with__1"
+    },
+    {
+      "comment": "to [allow]{allow} someone to [stay_1]{stay} in your [house_1]{house} or your [country]{country}",
+      "entry": "take in",
+      "id": "take-in#take-in__3"
+    },
+    {
+      "comment": "to [provide]{provide} something such as [food]{food}, [entertainment]{entertainment}, or a [service_1]{service}, [especially]{especially} without [charge_2]{charging} for it",
+      "entry": "lay on",
+      "id": "lay-on#lay-on__3"
+    },
+    {
+      "comment": "to give too much [food]{food} to",
+      "entry": "overfeed",
+      "id": "overfeed#overfeed__1"
+    }
+  ],
+  "thesaurus": "To provide food or accommodation",
+  "type": "Synonyms"
+}

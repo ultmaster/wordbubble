@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "run checks/tests on",
+  "senses": [
+    {
+      "def": "to [examine]{examine} someone or something in [order_1]{order} to get [information]{information}, for [example]{example} to find out what something is or whether there is a [problem]{problem}",
+      "examples": [
+        "The [doctor_1]{doctor} [wanted]{wanted} to [run_1]{run} a few [test_1]{tests} on him."
+      ],
+      "id": "run-checks-tests-on__1"
+    },
+    {
+      "def": "to find out [information]{information} about someone in [order_1]{order} to be [certain_1]{certain} that they have not done anything [illegal_1]{illegal}",
+      "examples": [
+        "He was [stop_1]{stopped} by the [police_1]{police} in his [car]{car} and they [ran]{ran} a [check_1]{check} on him."
+      ],
+      "id": "run-checks-tests-on__3"
+    }
+  ]
+}

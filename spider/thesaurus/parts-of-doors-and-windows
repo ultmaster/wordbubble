@@ -1,0 +1,221 @@
+{
+  "entries": [
+    {
+      "comment": "a [curved]{curved} [structure_1]{structure} at the top of a [door_1]{door}, [window]{window}, or [gate_1]{gate}",
+      "entry": "arch",
+      "id": "arch_1#arch_1__1"
+    },
+    {
+      "comment": "the [space_1]{space} [create]{created} when you [open_1]{open} a [door_1]{door}",
+      "entry": "door",
+      "id": "door#door__14"
+    },
+    {
+      "comment": "a [button_1]{button} [near_1]{near} the front [door_1]{door} of a [house_1]{house} that you [press_1]{press} to [make_1]{make} a [sound_1]{sound} to [tell_1]{tell} the [person]{person} in the [house_1]{house} that you are there",
+      "entry": "doorbell",
+      "id": "doorbell#doorbell__1"
+    },
+    {
+      "comment": "a [doorpost]{doorpost}",
+      "entry": "doorjamb",
+      "id": "doorjamb#doorjamb__1"
+    },
+    {
+      "comment": "a round [handle_1]{handle} on a [door_1]{door} that you [turn_1]{turn} to [open_1]{open} and [close_1]{close} the [door_1]{door}",
+      "entry": "doorknob",
+      "id": "doorknob#doorknob__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} ring or [bar_1]{bar} on the [door_1]{door} of a [house_1]{house} that you use for [knock_1]{knocking} when you [want_1]{want} someone to [open_1]{open} the [door_1]{door}",
+      "entry": "doorknocker",
+      "id": "doorknocker#doorknocker__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [metal_1]{metal} with someone\u2019s name on it that is [attached]{attached} to a [door_1]{door} to show who [lives]{lives} or [work_1]{works} there",
+      "entry": "doorplate",
+      "id": "doorplate#doorplate__1"
+    },
+    {
+      "comment": "one of the two [upright_1]{upright} [piece_1]{pieces} of [wood]{wood} at the sides of a [door_1]{door}",
+      "entry": "doorpost",
+      "id": "doorpost#doorpost__1"
+    },
+    {
+      "comment": "a [small_1]{small} [step_1]{step} [outside]{outside} the [main_1]{main} [door_1]{door} to a [house_1]{house} or [building]{building}",
+      "entry": "doorstep",
+      "id": "doorstep#doorstep__1"
+    },
+    {
+      "comment": "a [heavy_1]{heavy} [object_1]{object} that you put against a [door_1]{door} to keep it [open_1]{open}",
+      "entry": "doorstop",
+      "id": "doorstop#doorstop__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [rubber]{rubber} or [plastic_1]{plastic} [attached]{attached} to a [wall_1]{wall} that [stop_1]{stops} a [door_1]{door} from [hit_1]{hitting} the [wall_1]{wall} when you [open_1]{open} it",
+      "entry": "doorstop",
+      "id": "doorstop#doorstop__2"
+    },
+    {
+      "comment": "the [space_1]{space} [create]{created} when you [open_1]{open} a [door_1]{door}",
+      "entry": "doorway",
+      "id": "doorway#doorway__1"
+    },
+    {
+      "comment": "a [border_1]{border} around a [door_1]{door} or [window]{window}",
+      "entry": "frame",
+      "id": "frame_1#frame_1__3"
+    },
+    {
+      "comment": "thin [flat_1]{flat} [piece_1]{pieces} of [glass]{glass} in [door_1]{doors} and [window]{windows}",
+      "entry": "glazing",
+      "id": "glazing#glazing__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [frame_1]{frame} with [bar_1]{bars} across it, [used]{used} for [covering]{covering} a hole or [window]{window}",
+      "entry": "grating",
+      "id": "grating_1#grating_1__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [frame_1]{frame} with [bar_1]{bars} or [wire_1]{wire} across it that is [used]{used} for [protect]{protecting} a [door_1]{door} or a [window]{window}",
+      "entry": "grille",
+      "id": "grille#grille__1"
+    },
+    {
+      "comment": "the part of a [door_1]{door} or [window]{window} that you use for [opening_1]{opening} it",
+      "entry": "handle",
+      "id": "handle_2#handle_2__1"
+    },
+    {
+      "comment": "an [object_1]{object}, [usually]{usually} made of [metal_1]{metal}, that [fasten]{fastens} a [door_1]{door} to a [wall_1]{wall}, or a [lid]{lid} to a [container]{container}, and [allow]{allows} it to [open_1]{open} and [shut_1]{shut}",
+      "entry": "hinge",
+      "id": "hinge_1#hinge_1__1"
+    },
+    {
+      "comment": "the [upright_1]{upright} side of an [opening_1]{opening} such as a [door_1]{door} or [window]{window}",
+      "entry": "jamb",
+      "id": "jamb#jamb__1"
+    },
+    {
+      "comment": "a round [handle_1]{handle} on a [door_1]{door} or [drawer]{drawer}",
+      "entry": "knob",
+      "id": "knob#knob__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [metal_1]{metal} on a [door_1]{door} that you use for [knock_1]{knocking}",
+      "entry": "knocker",
+      "id": "knocker#knocker__1"
+    },
+    {
+      "comment": "[small_1]{small} [narrow_1]{narrow} [piece_1]{pieces} of [lead_1]{lead} [used]{used} as [frame_1]{frames} for [small_1]{small} [piece_1]{pieces} of [glass]{glass} in a [window]{window}",
+      "entry": "leads",
+      "id": "lead_3#lead_3__4"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [shelf]{shelf} at the bottom of a [window]{window}",
+      "entry": "ledge",
+      "id": "ledge#ledge__3"
+    },
+    {
+      "comment": "a [mail_1]{mail} [slot_1]{slot} in a [door_1]{door}",
+      "entry": "letterbox",
+      "id": "letterbox#letterbox__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [stone_1]{stone} or [wood]{wood} that [support_1]{supports} the [wall_1]{wall} above a [door_1]{door} or [window]{window}",
+      "entry": "lintel",
+      "id": "lintel#lintel__1"
+    },
+    {
+      "comment": "a [small_1]{small} [decorate]{decorated} [area]{area} of [stone_1]{stone} or [wood]{wood} at the [edge_1]{edge} of a [wall_1]{wall} or around a [door_1]{door}, [picture_1]{picture} [frame_1]{frame}, etc.",
+      "entry": "molding",
+      "id": "molding#molding__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [molding]{molding}",
+      "entry": "moulding",
+      "id": "moulding#moulding__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [metal_1]{metal}, [wood]{wood}, or [stone_1]{stone} [used]{used} for [separate_2]{separating} the [piece_1]{pieces} of [glass]{glass} in a [window]{window}",
+      "entry": "mullion",
+      "id": "mullion#mullion__1"
+    },
+    {
+      "comment": "a [small_1]{small} [sign_1]{sign} that [show_1]{shows} someone\u2019s name and is [usually]{usually} [attached]{attached} to the [door_1]{door} of their [office]{office} or is on their [desk]{desk}",
+      "entry": "nameplate",
+      "id": "nameplate#nameplate__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [glass]{glass} in a [window]{window} or [door_1]{door}",
+      "entry": "pane",
+      "id": "pane#pane__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [wood]{wood}, [glass]{glass}, or other [material_1]{material} that [form_1]{forms} part of something such as a [door_1]{door} or [wall_1]{wall}",
+      "entry": "panel",
+      "id": "panel_1#panel_1__1"
+    },
+    {
+      "comment": "a decoration shaped like a triangle built over the top of a door, window, etc.",
+      "entry": "pediment",
+      "id": "pediment#pediment__1"
+    },
+    {
+      "comment": "a [small_1]{small} hole or [crack_1]{crack} in a [door_1]{door}, [wall_1]{wall}, etc. that you can see through",
+      "entry": "peephole",
+      "id": "peephole#peephole__1"
+    },
+    {
+      "comment": "a piece of glass in a wooden frame that forms part of a sash window",
+      "entry": "sash",
+      "id": "sash#sash__3"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [shelf]{shelf} at the bottom of a [window]{window} in a [house_1]{house} or [building]{building}",
+      "entry": "sill",
+      "id": "sill#sill__1"
+    },
+    {
+      "comment": "a [small_1]{small} hole in a [door_1]{door} or [wall_1]{wall} that you can [look_1]{look} through [secretly]{secretly} to see who or what is on the other side",
+      "entry": "spyhole",
+      "id": "spyhole#spyhole__1"
+    },
+    {
+      "comment": "a [bar_1]{bar} of [wood]{wood} or [stone_1]{stone} across a [window]{window} that [divide_1]{divides} the [window]{window} into two [part_1]{parts}",
+      "entry": "transom",
+      "id": "transom#transom__2"
+    },
+    {
+      "comment": "a [bar_1]{bar} of [wood]{wood} or [stone_1]{stone} across the top of a [door_1]{door} that [separates]{separates} the [door_1]{door} from the [window]{window} above it",
+      "entry": "transom",
+      "id": "transom#transom__3"
+    },
+    {
+      "comment": "the [frame_1]{frame} around the [edge_1]{edge} of a [window]{window}",
+      "entry": "window frame",
+      "id": "window-frame#window-frame__1"
+    },
+    {
+      "comment": "a [windowsill]{windowsill}",
+      "entry": "window ledge",
+      "id": "window-ledge#window-ledge__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [glass]{glass} [used]{used} in a [window]{window}",
+      "entry": "window pane",
+      "id": "window-pane#window-pane__1"
+    },
+    {
+      "comment": "a [shelf]{shelf} under a [window]{window}",
+      "entry": "windowsill",
+      "id": "windowsill#windowsill__1"
+    },
+    {
+      "comment": "the [wooden]{wooden} [part_1]{parts} of a [house_1]{house} or [room_1]{room}, for [example]{example} the [door_1]{doors}, the [frame_1]{frames} around [window]{windows}, etc.",
+      "entry": "woodwork",
+      "id": "woodwork#woodwork__1"
+    }
+  ],
+  "thesaurus": "Parts of doors and windows",
+  "type": "Related words"
+}

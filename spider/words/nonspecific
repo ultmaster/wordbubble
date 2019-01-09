@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [relate]{relating} to or [cause_2]{caused} by one [particular_1]{particular} thing",
+      "examples": [],
+      "id": "nonspecific__1"
+    },
+    {
+      "def": "a nonspecific [illness]{illness} or [medical_1]{medical} [condition_1]{condition} may have more than one cause",
+      "examples": [
+        "[patient_1]{patients} with nonspecific [abdominal]{abdominal} [pain_1]{pain}",
+        "There was [little_1]{little} to [offer_1]{offer} [migraine]{migraine} [patient_1]{patients} besides nonspecific [painkiller]{painkillers}."
+      ],
+      "id": "nonspecific__2"
+    }
+  ],
+  "word": "nonspecific"
+}

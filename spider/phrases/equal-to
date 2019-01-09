@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "equal to",
+  "senses": [
+    {
+      "def": "[have]{having} the [ability_1]{ability} and [determination]{determination} [need_1]{needed} to do something [difficult]{difficult}",
+      "examples": [
+        "Patricia would be [equal_1]{equal} to the [task_1]{task} of [running_1]{running} a [large_1]{large} [department]{department}."
+      ],
+      "id": "equal-to__1"
+    },
+    {
+      "def": "as [good_1]{good} as another thing or [person]{person}",
+      "examples": [
+        "They were [facing]{facing} [soldier_1]{soldiers} whose [skill]{skill} was at least [equal_1]{equal} to their own."
+      ],
+      "id": "equal-to__3"
+    }
+  ]
+}

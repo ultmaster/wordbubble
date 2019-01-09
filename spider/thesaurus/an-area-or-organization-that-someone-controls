@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "something that someone [control_1]{controls} as if they were a [king]{king} or [queen_1]{queen}",
+      "entry": "kingdom",
+      "id": "kingdom#kingdom__5"
+    },
+    {
+      "comment": "an [area]{area} of [activity]{activity} [considered]{considered} as [belong]{belonging} to or [controlled_1]{controlled} by a [particular_1]{particular} [person]{person} or [group_1]{group}",
+      "entry": "domain",
+      "id": "domain#domain__3"
+    },
+    {
+      "comment": "an [area]{area} in which someone or something has [power_1]{power} or [influence_1]{influence}",
+      "entry": "orbit",
+      "id": "orbit_1#orbit_1__4"
+    },
+    {
+      "comment": "a [place_1]{place} or [activity]{activity} that is [considered]{considered} to [belong]{belong} to a [particular_1]{particular} [person]{person} or [group_1]{group}",
+      "entry": "preserve",
+      "id": "preserve_2#preserve_2__1"
+    },
+    {
+      "comment": "an [area]{area} or [organization]{organization} that someone [control_1]{controls} [completely]{completely}",
+      "entry": "fiefdom",
+      "id": "fiefdom#fiefdom__1"
+    }
+  ],
+  "thesaurus": "An area or organization that someone controls",
+  "type": "Synonyms"
+}

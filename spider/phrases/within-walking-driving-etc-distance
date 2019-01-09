@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "within walking/driving etc. distance",
+  "senses": [
+    {
+      "def": "[possible_1]{possible} to [reach_1]{reach} by [walking_1]{walking}/[driving]{driving}, etc.",
+      "examples": [
+        "The [house_1]{house} was within [walking_1]{walking} [distance_1]{distance} of the [university]{university}.",
+        "The [village_1]{village} is within [commute_1]{commuting} [distance_1]{distance} of [new]{New} York."
+      ],
+      "id": "within-walking-driving-etc-distance__1"
+    }
+  ]
+}

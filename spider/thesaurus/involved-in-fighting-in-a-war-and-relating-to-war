@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[use_1]{using} an [army]{army} or [soldier_1]{soldiers} to [achieve]{achieve} something",
+      "entry": "military",
+      "id": "military#military__3"
+    },
+    {
+      "comment": "[experienced]{experienced} at [fighting]{fighting} in [war]{wars}",
+      "entry": "warlike",
+      "id": "warlike#warlike__2"
+    },
+    {
+      "comment": "[involve]{involving} [military]{military} [tactic]{tactics}",
+      "entry": "tactical",
+      "id": "tactical#tactical__4"
+    },
+    {
+      "comment": "[relate]{relating} to war, [fighting]{fighting}, or the [military]{military}",
+      "entry": "martial",
+      "id": "martial#martial__1"
+    },
+    {
+      "comment": "[involved]{involved} in [fighting]{fighting}, [especially]{especially} by being [surround_1]{surrounded} by [enemy]{enemy} [soldier_1]{soldiers}",
+      "entry": "embattled",
+      "id": "embattled#embattled__3"
+    },
+    {
+      "comment": "a [militarized]{militarized} [group_1]{group}, such as the [police_1]{police}, is one that [use_1]{uses} [weapon]{weapons} and is [organized]{organized} [like_1]{like} an [army]{army}",
+      "entry": "militarized",
+      "id": "militarized#militarized__2"
+    },
+    {
+      "comment": "[organized]{organized} and [operate]{operating} [like_1]{like} an [army]{army}",
+      "entry": "paramilitary",
+      "id": "paramilitary_1#paramilitary_1__1"
+    },
+    {
+      "comment": "[directly_1]{directly} [involved]{involved} in [fighting]{fighting} during a war",
+      "entry": "front-line",
+      "id": "front-line_2#front-line_2__1"
+    },
+    {
+      "comment": "at war with someone",
+      "entry": "belligerent",
+      "id": "belligerent_1#belligerent_1__3"
+    },
+    {
+      "comment": "in a [battle_1]{battle} or war",
+      "entry": "in the field",
+      "id": "in-the-field#in-the-field__3"
+    }
+  ],
+  "thesaurus": "Involved in fighting in a war and relating to war",
+  "type": "Synonyms"
+}

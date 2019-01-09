@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [own_2]{owns} something",
+      "entry": "owner",
+      "id": "owner#owner__1"
+    },
+    {
+      "comment": "a [situation]{situation} where one [person]{person} or [group_1]{group} [enjoy]{enjoys} the [benefit_1]{benefits} of [own_2]{owning} an [asset]{asset} even though another [person]{person} or [group_1]{group} is the [legal]{legal} [owner]{owner}",
+      "entry": "beneficial ownership",
+      "id": "beneficial-ownership#beneficial-ownership__1"
+    },
+    {
+      "comment": "the [person]{person} or [people_1]{people} that [enjoy]{enjoy} the [benefit_1]{benefits} of [own_2]{owning} an [asset]{asset}, who may be [different]{different} from the [person]{person} or [people_1]{people} whose name the [asset]{asset} is [held]{held} in",
+      "entry": "beneficial owner",
+      "id": "beneficial-owner#beneficial-owner__1"
+    },
+    {
+      "comment": "the [idea]{idea} that [property]{property} [own_2]{owned} by either a [husband]{husband} or [wife]{wife} is [considered]{considered} to be [own_2]{owned} [equally]{equally} by both",
+      "entry": "community property",
+      "id": "community-property#community-property__1"
+    },
+    {
+      "comment": "someone who [own_2]{owns} something or who has been [given_1]{given} something",
+      "entry": "holder",
+      "id": "holder#holder__1"
+    },
+    {
+      "comment": "someone who [own_2]{owns} a [business]{business}",
+      "entry": "proprietor",
+      "id": "proprietor#proprietor__1"
+    },
+    {
+      "comment": "someone who [own_2]{owns} or has something",
+      "entry": "possessor",
+      "id": "possessor#possessor__1"
+    },
+    {
+      "comment": "the [bearer]{bearer} of a [title]{title} or [official_1]{official} [document_1]{document} is the [person]{person} who it [belong]{belongs} to or who has the [right_1]{right} to have it",
+      "entry": "bearer",
+      "id": "bearer#bearer__4"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone should have something, or that it is [suitable]{suitable} for them",
+      "entry": "something has someone\u2019s name on it",
+      "id": "something-has-someone-s-name-on-it#something-has-someone-s-name-on-it__1"
+    },
+    {
+      "comment": "[legal]{legal} [possession]{possession} of something, [usually]{usually} something [big_1]{big} and [valuable]{valuable}",
+      "entry": "ownership",
+      "id": "ownership#ownership__1"
+    },
+    {
+      "comment": "[used]{used} about [thing]{things} that you own",
+      "entry": "personal",
+      "id": "personal_1#personal_1__7"
+    },
+    {
+      "comment": "[typical]{typical} of an [owner]{owner}",
+      "entry": "proprietorial",
+      "id": "proprietorial#proprietorial__1"
+    }
+  ],
+  "thesaurus": "Owners and ownership",
+  "type": "Synonyms"
+}

@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "bear witness",
+  "senses": [
+    {
+      "def": "to [speak_1]{speak} or [write]{write} about what you have [seen]{seen}, [especially]{especially} as [evidence_1]{evidence} that something is [true_1]{true}",
+      "examples": [],
+      "id": "bear-witness__1"
+    },
+    {
+      "def": "to show [sign_1]{signs} that [prove]{prove} that something [happen]{happened} or was [true_1]{true}",
+      "examples": [
+        "This [landscape_1]{landscape} [bear_1]{bears} [silent]{silent} [witness_1]{witness} to one of the [great_1]{greatest} [tragedy]{tragedies} in [history]{history}."
+      ],
+      "id": "bear-witness__2"
+    }
+  ]
+}

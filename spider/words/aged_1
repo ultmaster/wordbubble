@@ -1,0 +1,21 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is aged 18, 35, 70, etc. is 18, 35, 70, etc. [year]{years} [old]{old}",
+      "examples": [
+        "A [woman]{woman} aged 50 has [given_1]{given} [birth]{birth} to [twin_1]{twins}.",
+        "[men]{Men} aged between 18 and 35 are most at [risk_1]{risk} from [violent]{violent} [crime_1]{crime}."
+      ],
+      "id": "aged_1__1"
+    },
+    {
+      "def": "aged [wine_1]{wine}, [cheese]{cheese}, etc. has been [left_1]{left} to [develop]{develop} a [pleasant]{pleasant} [strong]{strong} [flavor_1]{flavor}",
+      "examples": [
+        "aged [cheddar]{cheddar}"
+      ],
+      "id": "aged_1__4"
+    }
+  ],
+  "word": "aged"
+}

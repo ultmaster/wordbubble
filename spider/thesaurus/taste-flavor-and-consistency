@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a pleasant savory taste found in foods such as meat, cheese, and tomatoes. It is not sweet, sour, bitter, or salty.",
+      "entry": "umami",
+      "id": "umami#umami__1"
+    },
+    {
+      "comment": "the [flavor_1]{flavor} that something [create]{creates} in your [mouth_1]{mouth} when you [eat]{eat} or [drink_1]{drink} it",
+      "entry": "taste",
+      "id": "taste_1#taste_1__1"
+    },
+    {
+      "comment": "a [pleasant]{pleasant} or [strong]{strong} [taste_1]{taste}",
+      "entry": "flavor",
+      "id": "flavor_1#flavor_1__6"
+    },
+    {
+      "comment": "a [taste_1]{taste} or [smell_1]{smell} that is [strong]{strong} and [bitter_1]{bitter} in a [pleasant]{pleasant} way",
+      "entry": "tang",
+      "id": "tang#tang__1"
+    },
+    {
+      "comment": "a [flavor_1]{flavor} or [smell_1]{smell}, [especially]{especially} a [pleasant]{pleasant} one",
+      "entry": "savor",
+      "id": "savor_2#savor_2__1"
+    },
+    {
+      "comment": "the [sweet_1]{sweet} [smell_1]{smell} or [taste_1]{taste} of something",
+      "entry": "sweetness",
+      "id": "sweetness#sweetness__3"
+    },
+    {
+      "comment": "a [pleasant]{pleasant} [bitter_1]{bitter} or [strong]{strong} [taste_1]{taste}",
+      "entry": "bite",
+      "id": "bite_2#bite_2__17"
+    },
+    {
+      "comment": "the [strong]{strong} [flavor_1]{flavor} of [wine_1]{wine} or another [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "body",
+      "id": "body#body__31"
+    },
+    {
+      "comment": "the way that [food]{food} [feels]{feels} when you are [eat]{eating} it",
+      "entry": "texture",
+      "id": "texture#texture__5"
+    },
+    {
+      "comment": "a [taste_1]{taste}, [usually]{usually} one that is [unpleasant]{unpleasant}, that [remains]{remains} in your [mouth_1]{mouth} after you [eat]{eat} or [drink_1]{drink} something",
+      "entry": "aftertaste",
+      "id": "aftertaste#aftertaste__1"
+    }
+  ],
+  "thesaurus": "Taste, flavor and consistency",
+  "type": "Synonyms"
+}

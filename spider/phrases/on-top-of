@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "on top of",
+  "senses": [
+    {
+      "def": "[covering]{covering} someone or something",
+      "examples": [
+        "His [bike_1]{bike} [fell_1]{fell} on top of him."
+      ],
+      "id": "on-top-of__1"
+    },
+    {
+      "def": "in [addition]{addition} to something else",
+      "examples": [
+        "On top of all his [financial]{financial} [problem]{problems}, his [wife]{wife} [left_1]{left} him."
+      ],
+      "id": "on-top-of__3"
+    },
+    {
+      "def": "in [control_1]{control} of what is [happening_1]{happening}",
+      "examples": [
+        "I [try_1]{try} to [stay_1]{stay} on top of [thing]{things}."
+      ],
+      "id": "on-top-of__5"
+    },
+    {
+      "def": "very [close_1]{close} to someone or something",
+      "examples": [
+        "The [truck_1]{truck} was almost on top of me."
+      ],
+      "id": "on-top-of__7"
+    }
+  ]
+}

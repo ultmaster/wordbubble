@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} that someone has done something [wrong_1]{wrong} or [committed]{committed} a [crime_1]{crime}",
+      "entry": "accuse",
+      "id": "accuse#accuse__1"
+    },
+    {
+      "comment": "to [say_1]{say} that something is [true_1]{true} or that someone has done something [wrong_1]{wrong} or [illegal_1]{illegal}, even though this has not been [prove]{proved}",
+      "entry": "allege",
+      "id": "allege#allege__1"
+    },
+    {
+      "comment": "to [accuse]{accuse} someone [officially]{officially} of [commit]{committing} a [crime_1]{crime}",
+      "entry": "charge",
+      "id": "charge_2#charge_2__11"
+    },
+    {
+      "comment": "to [officially]{officially} [accuse]{accuse} someone of a [crime_1]{crime} and [ask_1]{ask} a [court_1]{court} of [law]{law} to [judge_1]{judge} them",
+      "entry": "prosecute",
+      "id": "prosecute#prosecute__1"
+    },
+    {
+      "comment": "to [accuse]{accuse} someone [officially]{officially} of a serious [crime_1]{crime}",
+      "entry": "indict",
+      "id": "indict#indict__1"
+    },
+    {
+      "comment": "to [officially]{officially} [accuse]{accuse} someone of a [crime_1]{crime}",
+      "entry": "prefer charges (against someone)",
+      "id": "prefer-charges-against-someone#prefer-charges-against-someone__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone go to [court_1]{court} because they have been [accuse]{accused} of [doing]{doing} something [wrong_1]{wrong}",
+      "entry": "bring someone up on charges of something",
+      "id": "bring-up#bring-up__14"
+    },
+    {
+      "comment": "to [formally]{formally} [accuse]{accuse} a [public_1]{public} [official_1]{official} of a serious [crime_1]{crime} [relate]{relating} to their [job_1]{job}",
+      "entry": "impeach",
+      "id": "impeach#impeach__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone go to [court_1]{court} because they have been [accuse]{accused} of [doing]{doing} something [wrong_1]{wrong}",
+      "entry": "bring before",
+      "id": "bring-before#bring-before__1"
+    },
+    {
+      "comment": "to show or [suggest]{suggest} that someone is [involved]{involved} in something [illegal_1]{illegal} or [morally]{morally} [wrong_1]{wrong}",
+      "entry": "implicate",
+      "id": "implicate#implicate__1"
+    }
+  ],
+  "thesaurus": "To accuse someone of a crime",
+  "type": "Synonyms"
+}

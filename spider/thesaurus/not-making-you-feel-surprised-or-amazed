@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "something [unsurprising]{unsurprising} is what you [expected]{expected}",
+      "entry": "unsurprising",
+      "id": "unsurprising#unsurprising__1"
+    },
+    {
+      "comment": "if something is [predictable]{predictable}, it [happen]{happens} in the way that you would [expect]{expect}",
+      "entry": "predictable",
+      "id": "predictable#predictable__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [completely]{completely} [normal_1]{normal}",
+      "entry": "it\u2019s (only) to be expected",
+      "id": "it-s-only-to-be-expected#it-s-only-to-be-expected__1"
+    },
+    {
+      "comment": "someone who is [predictable]{predictable} always [behave]{behaves} or [react]{reacts} in the same way",
+      "entry": "predictable",
+      "id": "predictable#predictable__4"
+    },
+    {
+      "comment": "in a way that you [expected]{expected}",
+      "entry": "unsurprisingly",
+      "id": "unsurprisingly#unsurprisingly__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone\u2019s [behavior]{behavior} was what could [normally]{normally} be [expected]{expected} in that [situation]{situation}",
+      "entry": "not unnaturally",
+      "id": "not-unnaturally#not-unnaturally__1"
+    }
+  ],
+  "thesaurus": "Not making you feel surprised or amazed",
+  "type": "Synonyms"
+}

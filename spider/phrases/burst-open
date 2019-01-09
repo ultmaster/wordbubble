@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "burst open",
+  "senses": [
+    {
+      "def": "if a [door_1]{door} or [container]{container} [burst_1]{bursts} [open_1]{open}, it [open_2]{opens} [quickly]{quickly} and [suddenly]{suddenly}",
+      "examples": [
+        "The [door_1]{door} [burst_1]{burst} [open_1]{open} and in came Samuel."
+      ],
+      "id": "burst-open__1"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [situation]{situation} in which the [financial]{financial} [affair]{affairs} of a [business]{business} that cannot [pay_1]{pay} its [debt]{debts} are [taken_1]{taken} over by an [administrator]{administrator}",
+      "entry": "administration",
+      "id": "administration#administration__15"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [take_1]{takes} over the [financial]{financial} [affair]{affairs} of a [company]{company} that cannot [pay_1]{pay} its [debt]{debts}",
+      "entry": "administrator",
+      "id": "administrator#administrator__2"
+    },
+    {
+      "comment": "a [person]{person} or [business]{business} that is [bankrupt_1]{bankrupt} has [officially]{officially} [admit]{admitted} that they have no [money]{money} and cannot [pay_1]{pay} what they owe",
+      "entry": "bankrupt",
+      "id": "bankrupt_1#bankrupt_1__1"
+    },
+    {
+      "comment": "a [country]{country} or [state_1]{state} that is [bankrupt_1]{bankrupt} [owe]{owes} more [money]{money} than it can ever [pay_1]{pay} back",
+      "entry": "bankrupt",
+      "id": "bankrupt_1#bankrupt_1__4"
+    },
+    {
+      "comment": "without any [good_1]{good} [quality_1]{qualities} at all",
+      "entry": "bankrupt",
+      "id": "bankrupt_1#bankrupt_1__6"
+    },
+    {
+      "comment": "to [make_1]{make} a [person]{person}, [business]{business}, or [country]{country} [bankrupt_1]{bankrupt} or very [poor_1]{poor}",
+      "entry": "bankrupt",
+      "id": "bankrupt_2#bankrupt_2__1"
+    },
+    {
+      "comment": "someone who has [officially]{officially} [admit]{admitted} that they have no [money]{money} and cannot [pay_1]{pay} what they owe",
+      "entry": "bankrupt",
+      "id": "bankrupt_3#bankrupt_3__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [person]{person} or [business]{business} becomes [bankrupt_1]{bankrupt}",
+      "entry": "bankruptcy",
+      "id": "bankruptcy#bankruptcy__1"
+    },
+    {
+      "comment": "a [company]{company} or [organization]{organization} that is [bust_1]{bust} has [lost_1]{lost} all its [money]{money} and can no [long_1]{longer} [continue]{continue} to [operate]{operate}",
+      "entry": "bust",
+      "id": "bust_3#bust_3__1"
+    },
+    {
+      "comment": "to no longer have any money and be unable to pay what you owe. Go bankrupt is a less informal expression",
+      "entry": "go broke",
+      "id": "broke_1#broke_1__5"
+    },
+    {
+      "comment": "someone whose job is to liquidate a company so that it can pay money that it owes",
+      "entry": "liquidator",
+      "id": "liquidator#liquidator__1"
+    },
+    {
+      "comment": "in some countries someone whose job is to manage the property of a person or company that is bankrupt  (=cannot pay what they owe)",
+      "entry": "official receiver",
+      "id": "official-receiver#official-receiver__1"
+    },
+    {
+      "comment": "an [official_1]{official} put in [charge_1]{charge} of a [business]{business} that has [financial]{financial} [problem]{problems} by a [court_1]{court}",
+      "entry": "receiver",
+      "id": "receiver#receiver__4"
+    },
+    {
+      "comment": "someone whose job is to take cars away from people who no longer have enough money to make regular payments. Repo is short for \u201crepossession.\u201d",
+      "entry": "repo man",
+      "id": "repo-man#repo-man__1"
+    }
+  ],
+  "thesaurus": "Bankruptcy",
+  "type": "Related words"
+}

@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "blow out",
+  "senses": [
+    {
+      "def": "if you [blow_1]{blow} out a [flame_1]{flame}, or if it [blow_1]{blows} out, it [stop_1]{stops} [burning]{burning} because you [blow_1]{blow} on it or because of the [wind_1]{wind}",
+      "examples": [
+        "He [blew]{blew} out all 60 [candle]{candles} on his [birthday]{birthday} [cake]{cake}."
+      ],
+      "id": "blow-out__1"
+    },
+    {
+      "def": "if a [window]{window} [blow_1]{blows} out, or if something [blow_1]{blows} it out, it [break_1]{breaks} into [piece_1]{pieces} that [fall_1]{fall} [outside]{outside} the [building]{building}",
+      "examples": [
+        "The [bomb_1]{bomb} [blew]{blew} out all the [window]{windows} on the [bus_1]{bus}."
+      ],
+      "id": "blow-out__3"
+    },
+    {
+      "def": "to [defeat_1]{defeat} someone [easily]{easily}",
+      "examples": [
+        "They\u2019ve [blown]{blown} out every [team_1]{team} they\u2019ve [play_1]{played} this [season_1]{season}."
+      ],
+      "id": "blow-out__7"
+    }
+  ]
+}

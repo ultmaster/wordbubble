@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "pitch in",
+  "senses": [
+    {
+      "def": "to [join_1]{join} with other [people_1]{people} in [doing]{doing} a [job_1]{job}",
+      "examples": [
+        "If we all [pitch_1]{pitch} in, we can [finish_1]{finish} [today_1]{today}."
+      ],
+      "id": "pitch-in__1"
+    },
+    {
+      "def": "to give your [opinion]{opinion}, [idea]{ideas}, etc. during a [conversation]{conversation}",
+      "examples": [
+        "My [brother_1]{brother} [pitched]{pitched} in with an [offer_1]{offer} to [loan_1]{loan} us some [money]{money}."
+      ],
+      "id": "pitch-in__3"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "stand aside",
+  "senses": [
+    {
+      "def": "to move to one side in [order_1]{order} to [let_1]{let} someone go [past_1]{past} you",
+      "examples": [
+        "They [quickly]{quickly} [stood]{stood} [aside_1]{aside} to [let_1]{let} me [pass_1]{pass}."
+      ],
+      "id": "stand-aside__1"
+    },
+    {
+      "def": "to [let_1]{let} someone else have your [job_1]{job} or [position_1]{position}",
+      "examples": [],
+      "id": "stand-aside__3"
+    },
+    {
+      "def": "to not [involve]{involve} yourself in a [situation]{situation}, [especially]{especially} one that you should be [trying]{trying} to [prevent]{prevent}",
+      "examples": [],
+      "id": "stand-aside__4"
+    }
+  ]
+}

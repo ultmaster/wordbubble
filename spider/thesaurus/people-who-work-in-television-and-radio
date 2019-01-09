@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [present_2]{presents} a [television]{television} or [radio_1]{radio} [program_1]{program}, [especially]{especially} the [news]{news}",
+      "entry": "anchor",
+      "id": "anchor_1#anchor_1__4"
+    },
+    {
+      "comment": "a [male_1]{male} [anchor_1]{anchor} on [television]{television} or [radio_1]{radio}",
+      "entry": "anchorman",
+      "id": "anchorman#anchorman__1"
+    },
+    {
+      "comment": "a [female_1]{female} [anchor_1]{anchor} on [television]{television} or [radio_1]{radio}",
+      "entry": "anchorwoman",
+      "id": "anchorwoman#anchorwoman__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to give [information]{information} or describe a [sport_1]{sports} [event]{event} on TV or [radio_1]{radio}",
+      "entry": "announcer",
+      "id": "announcer#announcer__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [speak_1]{speak} on [radio_1]{radio} or [television]{television} [program_1]{programs}",
+      "entry": "broadcaster",
+      "id": "broadcaster#broadcaster__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to give a [description]{description} of an [event]{event} or [sport_1]{sports} [competition]{competition} on [television]{television} or [radio_1]{radio} as it [happen]{happens}",
+      "entry": "commentator",
+      "id": "commentator#commentator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [write]{write} about a [particular_1]{particular} [subject_1]{subject} or [discuss]{discuss} it on [television]{television} or [radio_1]{radio}",
+      "entry": "commentator",
+      "id": "commentator#commentator__3"
+    },
+    {
+      "comment": "a [newspaper]{newspaper} or [television]{television} [reporter]{reporter}, [especially]{especially} one who [deal_1]{deals} with a [particular_1]{particular} [subject_1]{subject} or [area]{area}",
+      "entry": "correspondent",
+      "id": "correspondent_1#correspondent_1__1"
+    },
+    {
+      "comment": "someone who [introduce]{introduces} and [play_1]{plays} [music]{music} on the [radio_1]{radio}",
+      "entry": "DJ",
+      "id": "dj_1#dj_1__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to move [camera]{cameras} around while [television]{television} [program_1]{programs} or [movie]{movies} are being made",
+      "entry": "grip",
+      "id": "grip_1#grip_1__11"
+    },
+    {
+      "comment": "someone who [appear]{appears} on a [television]{television} or [radio_1]{radio} show that they do not [regularly]{regularly} [appear]{appear} on",
+      "entry": "guest",
+      "id": "guest_1#guest_1__10"
+    },
+    {
+      "comment": "someone who [introduce]{introduces} and [talk_1]{talks} to the [people_1]{people} [take_1]{taking} part in a [television]{television} or [radio_1]{radio} [program_1]{program}",
+      "entry": "host",
+      "id": "host_1#host_1__3"
+    },
+    {
+      "comment": "a [woman]{woman} who [introduce]{introduces} and [talk_1]{talks} to the [people_1]{people} [take_1]{taking} part in a [television]{television} or [radio_1]{radio} [program_1]{program}",
+      "entry": "hostess",
+      "id": "hostess#hostess__2"
+    },
+    {
+      "comment": "someone whose [voice_1]{voice} [explain]{explains} what is [happening_1]{happening} in a [television]{television} [program_1]{program} or [movie]{movie}, but who you do not see",
+      "entry": "narrator",
+      "id": "narrator#narrator__3"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to read the [news]{news} on [television]{television} or [radio_1]{radio}",
+      "entry": "newsreader",
+      "id": "newsreader#newsreader__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [well-known]{well-known} [people_1]{people} who [discuss]{discuss} [subject_1]{subjects} on [television]{television} or [radio_1]{radio} [program_1]{programs}",
+      "entry": "panel",
+      "id": "panel_1#panel_1__6"
+    },
+    {
+      "comment": "the [host_1]{host} or [announcer]{announcer} on a [television]{television} or [radio_1]{radio} [program_1]{program}",
+      "entry": "presenter",
+      "id": "presenter#presenter__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [control_1]{control} all the [different]{different} [sound_1]{sounds} in a [movie]{movie}, or in a [radio_1]{radio} or [television]{television} show",
+      "entry": "sound engineer",
+      "id": "sound-engineer#sound-engineer__1"
+    },
+    {
+      "comment": "an actor or host on a television program who speaks directly to the audience and who is usually shown only from the shoulders up",
+      "entry": "talking head",
+      "id": "talking-head#talking-head__1"
+    },
+    {
+      "comment": "someone who [talk_1]{talks} about [religion]{religion} on [television]{television} in [order_1]{order} to [persuade]{persuade} [people_1]{people} to become Christians and to give [money]{money} to their [organization]{organization}",
+      "entry": "televangelist",
+      "id": "televangelist#televangelist__1"
+    },
+    {
+      "comment": "someone who [introduce]{introduces} [music]{music} [video_1]{videos} on [television]{television}",
+      "entry": "video jockey",
+      "id": "video-jockey#video-jockey__1"
+    }
+  ],
+  "thesaurus": "People who work in television and radio",
+  "type": "Related words"
+}

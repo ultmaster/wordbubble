@@ -1,0 +1,77 @@
+{
+  "part": "conjunction",
+  "senses": [
+    {
+      "def": "[used]{used} between [word_1]{words}, [phrase_1]{phrases}, etc. in [order_1]{order} to [connect]{connect} them together",
+      "examples": [
+        "the [lake]{lakes} and [mountain]{mountains} of Scotland",
+        "Everyone was [sing_1]{singing} and [dancing]{dancing}.",
+        "You [make_1]{make} [lunch_1]{lunch}, and I\u2019ll take [care_1]{care} of the [children]{children}."
+      ],
+      "id": "and__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that one thing [happen]{happens} after another",
+      "examples": [
+        "He [turn_1]{turned} off the [television]{television} and went to [bed_1]{bed}."
+      ],
+      "id": "and__5"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} what your [intention]{intention} or [purpose]{purpose} is after [verb_1]{verbs} such as \u201cgo,\u201d \u201ccome,\u201d \u201c[try_1]{try},\u201d or \u201c[wait_1]{wait}\u201d",
+      "examples": [
+        "I\u2019ll [try_1]{try} and find out where we can [buy_1]{buy} [ticket_1]{tickets}.",
+        "Come and see our [new]{new} [kitchen]{kitchen}."
+      ],
+      "id": "and__7"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that one thing [cause_1]{causes} another",
+      "examples": [
+        "The [director]{directors} lied to us in the [past_1]{past} and now no one will [believe]{believe} them."
+      ],
+      "id": "and__10"
+    },
+    {
+      "def": "[used]{used} for [connect]{connecting} [word_1]{words} that are [repeated]{repeated} for [emphasis]{emphasis}",
+      "examples": [
+        "The [situation]{situation} is [get]{getting} more and more [complicated]{complicated} all the time.",
+        "I\u2019ve [tried_1]{tried} and [tried_1]{tried}, but I can\u2019t [persuade]{persuade} him to [change_1]{change} his [mind_1]{mind}.",
+        "It\u2019s [going_1]{going} to take [year]{years} and [year]{years} to [repair_1]{repair} all the [damage_1]{damage}."
+      ],
+      "id": "and__12"
+    },
+    {
+      "def": "[used]{used} in [calculation]{calculations} for [showing]{showing} that [number_1]{numbers} are [added]{added} together",
+      "examples": [
+        "Two and two is four."
+      ],
+      "id": "and__16"
+    },
+    {
+      "def": "[used]{used} for [introduce]{introducing} a [sentence_1]{sentence} when you are [making]{making} an [announcement]{announcement}, [ask_1]{asking} a [question_1]{question}, or [change_1]{changing} the [subject_1]{subject}",
+      "examples": [
+        "And now, here with the [sport_1]{sports} [news]{news} is Kevin Leary.",
+        "And so what have you been [doing]{doing} [lately]{lately}?"
+      ],
+      "id": "and__18"
+    },
+    {
+      "def": "[used]{used} when you [pause_1]{pause} to [make_1]{make} a [remark_1]{remark} in the [middle_1]{middle} of a [sentence_1]{sentence}",
+      "examples": [
+        "Two thirds of the [student]{students} \u2013 and I [swear_1]{swear} this is [true_1]{true} \u2013 couldn\u2019t name a [single_1]{single} [country]{country} in Asia."
+      ],
+      "id": "and__21"
+    },
+    {
+      "def": "[used]{used} in [number_1]{numbers} after the [word_1]{word} \u201chundred\u201d or \u201c[thousand]{thousand}\u201d when it is [follow]{followed} by [word_1]{words} for [number_1]{numbers} less than 100",
+      "examples": [
+        "a hundred and ten [feet]{feet}",
+        "four [thousand]{thousand} five hundred and twenty-five [pound_1]{pounds}",
+        "two and three [quarters]{quarters}"
+      ],
+      "id": "and__23"
+    }
+  ],
+  "word": "and"
+}

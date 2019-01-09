@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [see_1]{sees} or [notice_1]{notices} something",
+      "entry": "observer",
+      "id": "observer#observer__1"
+    },
+    {
+      "comment": "someone who [see_1]{sees} a [crime_1]{crime}, [accident]{accident}, or other [event]{event} [happen]{happen}",
+      "entry": "witness",
+      "id": "witness_1#witness_1__1"
+    },
+    {
+      "comment": "someone who has [seen]{seen} something [happen]{happen}, [especially]{especially} a [crime_1]{crime} or an [accident]{accident}",
+      "entry": "eyewitness",
+      "id": "eyewitness#eyewitness__1"
+    },
+    {
+      "comment": "someone who is [present_1]{present} at an [event]{event} but [take_1]{takes} no [active]{active} part",
+      "entry": "observer",
+      "id": "observer#observer__11"
+    },
+    {
+      "comment": "someone who [watch_1]{watches} something [happen]{happen} but [does]{does} not take part in it",
+      "entry": "onlooker",
+      "id": "onlooker#onlooker__1"
+    },
+    {
+      "comment": "someone who [watch_1]{watches} you [sign_1]{sign} an [official_1]{official} [document_1]{document} and then [sign_1]{signs} it to [state_1]{state} that they have [watch_1]{watched} you",
+      "entry": "witness",
+      "id": "witness_1#witness_1__7"
+    },
+    {
+      "comment": "someone who is in a [particular_1]{particular} [place_1]{place} by [chance_1]{chance} when an [accident]{accident} or an [unusual]{unusual} [event]{event} [happen]{happens} but who is not [directly_1]{directly} [connected]{connected} with it",
+      "entry": "bystander",
+      "id": "bystander#bystander__1"
+    },
+    {
+      "comment": "someone who [visit_1]{visits} a [place_1]{place} [officially]{officially} to [make_1]{make} [sure_1]{sure} that something is done [fairly]{fairly} and [correctly]{correctly}",
+      "entry": "observer",
+      "id": "observer#observer__9"
+    },
+    {
+      "comment": "someone who [look_1]{looks} at something as their [job_1]{job} or as part of an [experiment_1]{experiment}",
+      "entry": "observer",
+      "id": "observer#observer__4"
+    }
+  ],
+  "thesaurus": "People who watch or see something",
+  "type": "Synonyms"
+}

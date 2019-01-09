@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "pin up",
+  "senses": [
+    {
+      "def": "to [attach]{attach} a [picture_1]{picture} to a [wall_1]{wall}",
+      "examples": [
+        "She had his [photograph_1]{photograph} [pin_2]{pinned} up above her [bed_1]{bed}."
+      ],
+      "id": "pin-up__1"
+    },
+    {
+      "def": "to [make_1]{make} the [lower_1]{lower} [edge_1]{edge} of a [piece_1]{piece} of [clothing]{clothing} [short_1]{shorter} by [use_1]{using} [pin_1]{pins}",
+      "examples": [
+        "She [cut_1]{cut} an [inch_1]{inch} from the bottom of the [skirt_1]{skirt} and [pin_2]{pinned} the hem up."
+      ],
+      "id": "pin-up__3"
+    }
+  ]
+}

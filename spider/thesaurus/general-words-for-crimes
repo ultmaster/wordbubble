@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "an [illegal_1]{illegal} [activity]{activity} or [action_1]{action}",
+      "entry": "crime",
+      "id": "crime#crime__1"
+    },
+    {
+      "comment": "a [crime_1]{crime} that the [police_1]{police} are [trying]{trying} to [solve]{solve}",
+      "entry": "case",
+      "id": "case_1#case_1__23"
+    },
+    {
+      "comment": "each [crime_1]{crime} that someone is [charged]{charged} with",
+      "entry": "count",
+      "id": "count_2#count_2__9"
+    },
+    {
+      "comment": "[behavior]{behavior} or [action_1]{actions} that are [illegal_1]{illegal}",
+      "entry": "illegality",
+      "id": "illegality#illegality__2"
+    },
+    {
+      "comment": "[illegal_1]{illegal} [activity]{activities} in [general_1]{general}",
+      "entry": "crime",
+      "id": "crime#crime__5"
+    },
+    {
+      "comment": "a [crime_1]{crime} or [illegal_1]{illegal} [activity]{activity} for which there is a [punishment]{punishment}",
+      "entry": "offense",
+      "id": "offense#offense__1"
+    },
+    {
+      "comment": "an [illegal_1]{illegal} [act_1]{act}, such as an [attack_1]{attack} on someone, that is [unsuccessful]{unsuccessful}",
+      "entry": "attempt",
+      "id": "attempt_1#attempt_1__8"
+    },
+    {
+      "comment": "[criminal_1]{criminal} [action_1]{actions}",
+      "entry": "criminality",
+      "id": "criminality#criminality__2"
+    },
+    {
+      "comment": "an [action_1]{action} that is [wrong_1]{wrong} or [illegal_1]{illegal}",
+      "entry": "misdeed",
+      "id": "misdeed#misdeed__1"
+    }
+  ],
+  "thesaurus": "General words for crimes",
+  "type": "Synonyms"
+}

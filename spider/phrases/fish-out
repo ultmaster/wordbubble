@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fish out",
+  "senses": [
+    {
+      "def": "to [pull_1]{pull} someone or something out of the [water_1]{water}",
+      "examples": [
+        "A [tourist]{tourist} [jump_1]{jumped} into the [canal]{canal} to [fish_1]{fish} the [boy_1]{boy} out."
+      ],
+      "id": "fish-out__1"
+    },
+    {
+      "def": "to [pull_1]{pull} something out of a [bag_1]{bag} or other [container]{container}",
+      "examples": [
+        "She [reach_1]{reached} into her [bag_1]{bag} and [fish_2]{fished} out a [pen_1]{pen}."
+      ],
+      "id": "fish-out__3"
+    }
+  ]
+}

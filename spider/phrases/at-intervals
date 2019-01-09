@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "at intervals",
+  "senses": [
+    {
+      "def": "sometimes",
+      "examples": [
+        "It may be [necessary_1]{necessary} to [stop_1]{stop} at [interval]{intervals} and go back over [key_1]{key} [point_1]{points} in the [lesson]{lesson}."
+      ],
+      "id": "at-intervals__1"
+    },
+    {
+      "def": "with [space_1]{spaces} of a [regular_1]{regular} [length]{length}",
+      "examples": [
+        "The [route_1]{route} was [marked]{marked} with [yellow_1]{yellow} [paint_1]{paint} at [interval]{intervals} along the way."
+      ],
+      "id": "at-intervals__3"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[carry_1]{carrying} a [load_1]{load}",
+      "examples": [
+        "a [fully]{fully} loaded [airplane]{airplane}",
+        "a [truck_1]{truck} loaded with [fruit_1]{fruit}"
+      ],
+      "id": "loaded__1"
+    },
+    {
+      "def": "[have]{having} a [large_1]{large} amount of a [particular_1]{particular} thing or [quality_1]{quality}",
+      "examples": [
+        "[mass-produced]{mass-produced} [cake]{cakes} that are loaded with [fat_1]{fat} and [sugar_1]{sugar}",
+        "For [local_1]{local} [people_1]{people}, the [mosque]{mosque} is loaded with [symbolism]{symbolism}."
+      ],
+      "id": "loaded__4"
+    },
+    {
+      "def": "a loaded [gun_1]{gun} has [bullet]{bullets} in it",
+      "examples": [],
+      "id": "loaded__7"
+    },
+    {
+      "def": "a loaded [question_1]{question}, [word_1]{word}, [statement_1]{statement}, etc. has a [hidden_1]{hidden} or [second_1]{second} [meaning_1]{meaning}",
+      "examples": [],
+      "id": "loaded__8"
+    },
+    {
+      "def": "very [rich_1]{rich}",
+      "examples": [
+        "He [knew]{knew} her [family_1]{family} was loaded."
+      ],
+      "id": "loaded__9"
+    },
+    {
+      "def": "[extremely]{extremely} [drunk_1]{drunk}",
+      "examples": [],
+      "id": "loaded__11"
+    }
+  ],
+  "word": "loaded"
+}

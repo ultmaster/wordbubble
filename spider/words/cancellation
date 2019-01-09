@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [decision_1]{decision} to [stop_1]{stop} something that has been [arrange]{arranged} from [take_1]{taking} [place_1]{place}",
+      "examples": [
+        "the cancellation of [yesterday_1]{yesterday}\u2019s [game_1]{game}",
+        "The [hospital]{hospital} will [let_1]{let} you [know_1]{know} if there are any [cancellation]{cancellations}."
+      ],
+      "id": "cancellation__1"
+    },
+    {
+      "def": "a [decision_1]{decision} to [end_1]{end} a [legal]{legal} [agreement]{agreement} or [obligation]{obligation}",
+      "examples": [
+        "the cancellation of the [contract_1]{contract}"
+      ],
+      "id": "cancellation__5"
+    }
+  ],
+  "word": "cancellation"
+}

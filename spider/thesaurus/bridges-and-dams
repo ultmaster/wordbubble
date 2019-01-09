@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [structure_1]{structure} [like_1]{like} a [bridge_1]{bridge} that [take_1]{takes} [water_1]{water} across a [valley]{valley}",
+      "entry": "aqueduct",
+      "id": "aqueduct#aqueduct__1"
+    },
+    {
+      "comment": "a [curved]{curved} [structure_1]{structure}, [especially]{especially} one that [support_1]{supports} a [building]{building} or a [bridge_1]{bridge}",
+      "entry": "arch",
+      "id": "arch_1#arch_1__6"
+    },
+    {
+      "comment": "a [large_1]{large} [floating]{floating} [object_1]{object} that is [used]{used} for [block_2]{blocking} a [river]{river} or [stream_1]{stream}, for [example]{example} to [stop_1]{stop} [pollution]{pollution} [flowing]{flowing} into it",
+      "entry": "boom",
+      "id": "boom_1#boom_1__14"
+    },
+    {
+      "comment": "a [road]{road}, [railroad_1]{railroad}, or [path]{path} that [go_1]{goes} over a [river]{river}, over another [road]{road}, etc., and the [structure_1]{structure} that [support_1]{supports} it",
+      "entry": "bridge",
+      "id": "bridge_1#bridge_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [wood]{wood} or [metal_1]{metal} [fixed]{fixed} to the side of an [upright_1]{upright} [post_1]{post} or a [wall_1]{wall} and [used]{used} for [supporting]{supporting} something such as a [bridge_1]{bridge}",
+      "entry": "cantilever",
+      "id": "cantilever#cantilever__1"
+    },
+    {
+      "comment": "a [bridge_1]{bridge} that can be [pull_1]{pulled} up to [let_1]{let} [ship_1]{ships} [pass_1]{pass} or to [stop_1]{stop} [people_1]{people} from [get]{getting} into a [castle]{castle}",
+      "entry": "drawbridge",
+      "id": "drawbridge#drawbridge__1"
+    },
+    {
+      "comment": "an [overpass]{overpass} that [take_1]{takes} one [road]{road} above another [road]{road}",
+      "entry": "flyover",
+      "id": "flyover#flyover__2"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [bridge_1]{bridge} for [people_1]{people} to [walk_1]{walk} across",
+      "entry": "footbridge",
+      "id": "footbridge#footbridge__1"
+    },
+    {
+      "comment": "a structure like a bridge that allows one road to pass above another road. The British word is flyover.",
+      "entry": "overpass",
+      "id": "overpass#overpass__1"
+    },
+    {
+      "comment": "a [large_1]{large} [strong]{strong} [post_1]{post} that [support_1]{supports} a [bridge_1]{bridge} or part of a [building]{building}",
+      "entry": "pier",
+      "id": "pier#pier__3"
+    },
+    {
+      "comment": "a [slope_1]{slope} [connect]{connecting} two [level_1]{levels} of a [building]{building}, [road]{road}, etc.",
+      "entry": "ramp",
+      "id": "ramp_1#ramp_1__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [bridge_1]{bridge} that [hang_1]{hangs} from [strong]{strong} [steel_1]{steel} [rope_1]{ropes} that are [attached]{attached} to [tower_1]{towers}",
+      "entry": "suspension bridge",
+      "id": "suspension-bridge#suspension-bridge__1"
+    },
+    {
+      "comment": "a [bridge_1]{bridge} that you have to [pay_1]{pay} to [drive_1]{drive} across",
+      "entry": "toll bridge",
+      "id": "toll-bridge#toll-bridge__1"
+    },
+    {
+      "comment": "a long [bridge_1]{bridge} on [high_1]{high} [post_1]{posts}, [usually]{usually} across a [valley]{valley}",
+      "entry": "viaduct",
+      "id": "viaduct#viaduct__1"
+    }
+  ],
+  "thesaurus": "Bridges and dams",
+  "type": "Related words"
+}

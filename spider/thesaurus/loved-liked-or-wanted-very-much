@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[love_1]{loved} or [like_2]{liked} very much",
+      "entry": "dear",
+      "id": "dear_1#dear_1__3"
+    },
+    {
+      "comment": "something that is [desirable]{desirable} has [quality_1]{qualities} that [make_1]{make} you [want_1]{want} it",
+      "entry": "desirable",
+      "id": "desirable#desirable__1"
+    },
+    {
+      "comment": "[love_1]{loved} or [value_2]{valued} by someone",
+      "entry": "precious",
+      "id": "precious_1#precious_1__4"
+    },
+    {
+      "comment": "[used]{used} about someone who you [like_1]{like} very much",
+      "entry": "top",
+      "id": "top_2#top_2__12"
+    },
+    {
+      "comment": "[love_1]{loved} and [taken_1]{taken} [care_1]{care} of by other [people_1]{people}",
+      "entry": "wanted",
+      "id": "wanted#wanted__3"
+    },
+    {
+      "comment": "[used]{used} about [thing]{things} that [people_1]{people} [want_1]{want} to have or [achieve]{achieve}",
+      "entry": "desired",
+      "id": "desired#desired__1"
+    },
+    {
+      "comment": "[like_2]{liked} more than anything else",
+      "entry": "pet",
+      "id": "pet_2#pet_2__1"
+    },
+    {
+      "comment": "[prefer]{preferred} or [chosen_1]{chosen}",
+      "entry": "favored",
+      "id": "favored#favored__1"
+    },
+    {
+      "comment": "[wanted]{wanted} very much for a long time",
+      "entry": "longed-for",
+      "id": "longed-for#longed-for__1"
+    },
+    {
+      "comment": "so [good_1]{good} that you [want_1]{want} to have it very much",
+      "entry": "to die for",
+      "id": "to-die-for#to-die-for__1"
+    }
+  ],
+  "thesaurus": "Loved, liked or wanted very much",
+  "type": "Synonyms"
+}

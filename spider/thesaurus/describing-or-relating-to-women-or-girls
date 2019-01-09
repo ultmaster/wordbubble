@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [female_1]{female} [person]{person} or [animal_1]{animal} [belong]{belongs} to the [sex_1]{sex} that can [produce_1]{produce} [baby_1]{babies} or [egg_1]{eggs}",
+      "entry": "female",
+      "id": "female_1#female_1__1"
+    },
+    {
+      "comment": "[have]{having} [quality_1]{qualities} that are [traditionally]{traditionally} [considered]{considered} to be [typical]{typical} of [women]{women}, for [example]{example} being [gentle]{gentle} and [delicate]{delicate}",
+      "entry": "feminine",
+      "id": "feminine_1#feminine_1__1"
+    },
+    {
+      "comment": "[typical]{typical} of a [woman]{woman}, or [suitable]{suitable} for a [woman]{woman}",
+      "entry": "womanly",
+      "id": "womanly#womanly__1"
+    },
+    {
+      "comment": "a [pert]{pert} [girl]{girl} or [young_1]{young} [woman]{woman} is [lively]{lively}, [confident]{confident}, and [attractive]{attractive}, [especially]{especially} in a way that [show_1]{shows} a [lack_1]{lack} of [respect_1]{respect}",
+      "entry": "pert",
+      "id": "pert#pert__1"
+    },
+    {
+      "comment": "a [fast_1]{fast} [woman]{woman} is one who has [sexual]{sexual} [relationship]{relationships} with a [lot_1]{lot} of [different]{different} [people_1]{people}",
+      "entry": "fast",
+      "id": "fast_1#fast_1__21"
+    },
+    {
+      "comment": "a [wanton]{wanton} [woman]{woman} has [sex_1]{sex} with a [lot_1]{lot} of [men]{men}",
+      "entry": "wanton",
+      "id": "wanton#wanton__3"
+    },
+    {
+      "comment": "[quality_1]{qualities} that are [considered]{considered} to be [typical]{typical} of [women]{women}, for [example]{example} the [quality_1]{quality} of being [gentle]{gentle} and [delicate]{delicate}",
+      "entry": "femininity",
+      "id": "femininity#femininity__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being a [woman]{woman}, or the [period_1]{period} of time when someone is a [woman]{woman}",
+      "entry": "womanhood",
+      "id": "womanhood#womanhood__1"
+    },
+    {
+      "comment": "all [women]{women} [considered]{considered} as a [group_1]{group}",
+      "entry": "womanhood",
+      "id": "womanhood#womanhood__3"
+    },
+    {
+      "comment": "[have]{having} the [good_1]{good} [quality_1]{qualities} or the [appearance]{appearance} [typical]{typical} of an [old]{older} [married]{married} [woman]{woman} or [mother_1]{mother}",
+      "entry": "matronly",
+      "id": "matronly#matronly__1"
+    }
+  ],
+  "thesaurus": "Describing or relating to women or girls",
+  "type": "Synonyms"
+}

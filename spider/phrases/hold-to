@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "hold to",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [continue]{continue} to [behave]{behave} [accord_2]{according} to a [particular_1]{particular} [belief]{belief} or [standard_1]{standard}",
+      "examples": [
+        "Anyone [appointed]{appointed} to this [position_1]{position} should be [held]{held} to the [high_1]{highest} [ethical]{ethical} [standard_1]{standards}."
+      ],
+      "id": "hold-to__4"
+    },
+    {
+      "def": "to [continue]{continue} [have]{having} a [particular_1]{particular} [belief]{belief} or [standard_1]{standard}",
+      "examples": [
+        "She still [hold_1]{holds} to the [view_1]{view} that [violence]{violence} is never [justified]{justified}."
+      ],
+      "id": "hold-to__6"
+    },
+    {
+      "def": "to do what you have [promise_1]{promised} or [decided]{decided}",
+      "examples": [
+        "The [western_1]{western} [democracy]{democracies} [held]{held} to their [policy]{policy} of [nonintervention]{nonintervention}."
+      ],
+      "id": "hold-to__8"
+    }
+  ]
+}

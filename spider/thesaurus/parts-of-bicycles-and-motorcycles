@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [metal_1]{metal} [frame_1]{frame} [attached]{attached} to a [bicycle]{bicycle} and [used]{used} for [carry_1]{carrying} [thing]{things}",
+      "entry": "carrier",
+      "id": "carrier#carrier__7"
+    },
+    {
+      "comment": "the [circle_1]{circle} of [connected]{connected} [metal_1]{metal} [part_1]{parts} that [turn_1]{turns} the [wheel_1]{wheels} of a [bicycle]{bicycle}",
+      "entry": "chain",
+      "id": "chain_1#chain_1__6"
+    },
+    {
+      "comment": "the metal bar on a bicycle that is between the seat and the handlebars",
+      "entry": "crossbar",
+      "id": "crossbar#crossbar__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} on a [bicycle]{bicycle} that [change_1]{changes} the [movement]{movement} of the [wheel_1]{wheels} into [electricity]{electricity} to [make_1]{make} the [light_1]{lights} [work_1]{work}",
+      "entry": "dynamo",
+      "id": "dynamo#dynamo__3"
+    },
+    {
+      "comment": "the part of a bicycle or motorcycle that you hold with your hands and use for controlling it",
+      "entry": "handlebars",
+      "id": "handlebars#handlebars__1"
+    },
+    {
+      "comment": "a metal bar that holds a bicycle or motorcycle upright when it is not moving",
+      "entry": "kickstand",
+      "id": "kickstand#kickstand__1"
+    },
+    {
+      "comment": "a [fender]{fender} on a [bicycle]{bicycle}",
+      "entry": "mudguard",
+      "id": "mudguard#mudguard__2"
+    },
+    {
+      "comment": "a part that you [push_1]{push} with your [foot_1]{foot} in [order_1]{order} to [operate]{operate} a [bicycle]{bicycle}, [vehicle]{vehicle}, or [machine_1]{machine}",
+      "entry": "pedal",
+      "id": "pedal_1#pedal_1__1"
+    },
+    {
+      "comment": "a seat for a passenger behind the driver of a motorcycle",
+      "entry": "pillion",
+      "id": "pillion_1#pillion_1__1"
+    },
+    {
+      "comment": "the seat on a bicycle or motorcycle",
+      "entry": "saddle",
+      "id": "saddle_1#saddle_1__2"
+    },
+    {
+      "comment": "an enclosed seat with a wheel that is connected to a motorcycle and used for carrying an extra passenger",
+      "entry": "sidecar",
+      "id": "sidecar#sidecar__1"
+    },
+    {
+      "comment": "[training]{training} [wheel_1]{wheels} in a [bicycle]{bicycle}",
+      "entry": "stabilizer",
+      "id": "stabilizer#stabilizer__2"
+    },
+    {
+      "comment": "one of a [pair_1]{pair} of two [small_1]{small} [wheel_1]{wheels} [attached]{attached} to the back of a [bicycle]{bicycle} to [help_1]{help} a [child]{child} who is [learning]{learning} how to [ride_1]{ride} keep their [balance_1]{balance}",
+      "entry": "training wheel",
+      "id": "training-wheel#training-wheel__1"
+    }
+  ],
+  "thesaurus": "Parts of bicycles and motorcycles",
+  "type": "Related words"
+}

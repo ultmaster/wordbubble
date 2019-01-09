@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "run to",
+  "senses": [
+    {
+      "def": "to [ask_1]{ask} someone for [help_1]{help}, [especially]{especially} when you should not [need_1]{need} their [help_1]{help}",
+      "examples": [
+        "Aren\u2019t you a [little_1]{little} [old]{old} to [run_1]{run} [home_1]{home} to your [mother_1]{mother}?"
+      ],
+      "id": "run-to__1"
+    },
+    {
+      "def": "to [reach_1]{reach} a [particular_1]{particular} amount, [especially]{especially} a [large_1]{large} amount",
+      "examples": [
+        "The [cost_1]{cost} of the [car]{car} [repair_1]{repairs} [ran]{ran} to $300.",
+        "The [interview_1]{interview} [transcript]{transcripts} [run_1]{run} to over 120 [page_1]{pages}."
+      ],
+      "id": "run-to__3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [sound_1]{sound} that is made when someone [fire_1]{fires} a [gun_1]{gun}",
+      "examples": [
+        "[resident_1]{Residents} [claim_1]{claim} they [heard]{heard} [gunshot]{gunshots} on the [night_1]{night} [billy]{Billy} was [murder_2]{murdered}."
+      ],
+      "id": "gunshot__1"
+    },
+    {
+      "def": "the [bullet]{bullets} [shot_1]{shot} from a [gun_1]{gun}",
+      "examples": [
+        "The [police_1]{police} [fire_2]{fired} [gunshot]{gunshots} and [tear_1]{tear} [gas_1]{gas} to [disperse]{disperse} the [riot_2#riot_2__3]{rioters}.",
+        "He [die_1]{died} from a gunshot [wound_1]{wound} to the [head_1]{head}."
+      ],
+      "id": "gunshot__3"
+    }
+  ],
+  "word": "gunshot"
+}

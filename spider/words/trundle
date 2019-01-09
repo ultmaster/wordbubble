@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [roll_1]{roll} [slowly]{slowly} on [wheel_1]{wheels}",
+      "examples": [],
+      "id": "trundle__1"
+    },
+    {
+      "def": "to move [slowly]{slowly} with [regular_1]{regular} [heavy_1]{heavy} [step_1]{steps}",
+      "examples": [
+        "He [got_1]{got} up from his [chair_1]{chair} and [trundle]{trundled} off to [bed_1]{bed}."
+      ],
+      "id": "trundle__3"
+    }
+  ],
+  "word": "trundle"
+}

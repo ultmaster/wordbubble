@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[extra_1]{extra} [hour]{hours} that someone [work_1]{works} at their [job_1]{job}",
+      "examples": [
+        "I\u2019ve been [working]{working} a [lot_1]{lot} of overtime [lately]{lately}.",
+        "overtime [work_1]{work}/[pay_1]{pay}/[rate_1]{rates}",
+        "Do you get overtime if you [work_1]{work} on a Saturday?"
+      ],
+      "id": "overtime_1__1"
+    },
+    {
+      "def": "an [extra_1]{extra} [period_1]{period} of time [added]{added} to a [game_1]{game} because neither [team_1]{team} [won]{won} during [normal_1]{normal} time",
+      "examples": [],
+      "id": "overtime_1__6"
+    }
+  ],
+  "word": "overtime"
+}

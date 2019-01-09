@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "in a row",
+  "senses": [
+    {
+      "def": "in a [straight_1]{straight} [line_1]{line}",
+      "examples": [
+        "The [children]{children} [stood]{stood} in a [row_1]{row} against the [wall_1]{wall}."
+      ],
+      "id": "in-a-row__1"
+    },
+    {
+      "def": "one after another, without anything [different]{different} [happening_1]{happening} in between",
+      "examples": [
+        "They [clock_2]{clocked} up [seven]{seven} [win_1]{wins} in a [row_1]{row}.",
+        "His [job_1]{job} [allow]{allows} him to take several [day]{days} off in a [row_1]{row}."
+      ],
+      "id": "in-a-row__3"
+    }
+  ]
+}

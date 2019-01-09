@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [collect_1]{collect} and [deliver]{deliver} the [mail_1]{mail}",
+      "entry": "postwoman",
+      "id": "postwoman#postwoman__1"
+    },
+    {
+      "comment": "the [person]{person} who [sent]{sent} a [letter_1]{letter}, [package_1]{package}, [e-mail_1]{e-mail}, etc.",
+      "entry": "sender",
+      "id": "sender#sender__1"
+    },
+    {
+      "comment": "someone who [deliver]{delivers} [message_1]{messages} to [people_1]{people}, often as their [job_1]{job}",
+      "entry": "messenger",
+      "id": "messenger#messenger__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [deliver]{deliver} [document_1]{documents} or [package_1]{packages}",
+      "entry": "courier",
+      "id": "courier#courier__1"
+    },
+    {
+      "comment": "someone who [take_1]{takes} [message_1]{messages} between [people_1]{people} who cannot [meet_1]{meet} or who do not [want_1]{want} to [meet_1]{meet}",
+      "entry": "go-between",
+      "id": "go-between#go-between__1"
+    },
+    {
+      "comment": "someone who [does]{does} a [job_1]{job} for a [government]{government} or a [leader]{leader}, [especially]{especially} someone who [deliver]{delivers} a [message_1]{message} for them",
+      "entry": "emissary",
+      "id": "emissary#emissary__1"
+    },
+    {
+      "comment": "someone who [does]{does} [boring_1]{boring} [job_1]{jobs} for someone else such as [deliver]{delivering} [message_1]{messages}",
+      "entry": "gofer",
+      "id": "gofer#gofer__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [deliver]{deliver} [mail_1]{mail}",
+      "entry": "mail carrier",
+      "id": "mail-carrier#mail-carrier__1"
+    },
+    {
+      "comment": "a [person]{person} or [organization]{organization} that [mail_1]{mails} something",
+      "entry": "mailer",
+      "id": "mailer#mailer__2"
+    },
+    {
+      "comment": "a man who [deliver]{delivered} [ice_1]{ice} to [people_1]{people}\u2019s [house_1]{houses} in the [past_1]{past} so that they could keep their [food]{food} [cold_1]{cold}",
+      "entry": "iceman",
+      "id": "iceman#iceman__1"
+    }
+  ],
+  "thesaurus": "People who send or deliver things",
+  "type": "Synonyms"
+}

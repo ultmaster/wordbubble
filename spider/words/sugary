@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[tasting]{tasting} [sweet_1]{sweet} from [sugar_1]{sugar}",
+      "examples": [
+        "The [iced]{iced} [tea]{tea} is too sugary."
+      ],
+      "id": "sugary__1"
+    },
+    {
+      "def": "sugary [talk_1]{talk} or [behavior]{behavior} is [intended_1]{intended} to please [people_1]{people} but is not sincere",
+      "examples": [
+        "Don\u2019t be [taken_1]{taken} in by his sugary [compliment_1]{compliments}."
+      ],
+      "id": "sugary__3"
+    }
+  ],
+  "word": "sugary"
+}

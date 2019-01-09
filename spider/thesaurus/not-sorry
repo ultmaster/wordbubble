@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "not [feeling_1]{feeling} [sad_1]{sad} or [guilty]{guilty} for [have]{having} done something [wrong_1]{wrong}",
+      "entry": "remorseless",
+      "id": "remorseless#remorseless__3"
+    },
+    {
+      "comment": "not [affected]{affected} by [guilty]{guilty} [feeling_1]{feelings}",
+      "entry": "clear",
+      "id": "clear_1#clear_1__35"
+    },
+    {
+      "comment": "not [sorry]{sorry} for something [bad_1]{bad} that you have done",
+      "entry": "unrepentant",
+      "id": "unrepentant#unrepentant__1"
+    },
+    {
+      "comment": "showing that you do not think you have done something wrong, or that you do not think you need to apologize",
+      "entry": "unapologetic",
+      "id": "unapologetic#unapologetic__1"
+    },
+    {
+      "comment": "not [sorry]{sorry} for the [bad_1]{bad} [thing]{things} you have done",
+      "entry": "impenitent",
+      "id": "impenitent#impenitent__1"
+    }
+  ],
+  "thesaurus": "Not sorry",
+  "type": "Synonyms"
+}

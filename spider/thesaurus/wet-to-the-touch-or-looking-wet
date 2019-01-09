@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[covered_1]{covered} with [water_1]{water} or another [liquid_1]{liquid}",
+      "entry": "wet",
+      "id": "wet_1#wet_1__1"
+    },
+    {
+      "comment": "something that is [damp_1]{damp} is [slightly]{slightly} [wet_1]{wet}, often in an [unpleasant]{unpleasant} way or when it should be [dry_1]{dry}",
+      "entry": "damp",
+      "id": "damp_1#damp_1__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [wet_1]{wet}",
+      "entry": "soaked",
+      "id": "soaked#soaked__1"
+    },
+    {
+      "comment": "[thoroughly]{thoroughly} [wet_1]{wet}",
+      "entry": "drenched",
+      "id": "drenched#drenched__1"
+    },
+    {
+      "comment": "[slightly]{slightly} [wet_1]{wet}",
+      "entry": "moist",
+      "id": "moist#moist__1"
+    },
+    {
+      "comment": "very [wet_1]{wet}",
+      "entry": "saturated",
+      "id": "saturated#saturated__1"
+    },
+    {
+      "comment": "[wet_1]{wet} and [soft]{soft}, [especially]{especially} in an [unpleasant]{unpleasant} way",
+      "entry": "soggy",
+      "id": "soggy#soggy__1"
+    },
+    {
+      "comment": "[cold_1]{cold} and [wet_1]{wet} in an [unpleasant]{unpleasant} way",
+      "entry": "clammy",
+      "id": "clammy#clammy__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [wet_1]{wet}",
+      "entry": "soaking",
+      "id": "soaking#soaking__1"
+    },
+    {
+      "comment": "[wet_1]{wet}, [dirty_1]{dirty}, and [messy]{messy}",
+      "entry": "bedraggled",
+      "id": "bedraggled#bedraggled__1"
+    }
+  ],
+  "thesaurus": "Wet to the touch or looking wet",
+  "type": "Synonyms"
+}

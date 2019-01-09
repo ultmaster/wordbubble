@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [pay_1]{pay} [attention]{attention} to a [sound_1]{sound}, or to [try_1]{try} to [hear]{hear} a [sound_1]{sound}",
+      "entry": "listen",
+      "id": "listen_1#listen_1__1"
+    },
+    {
+      "comment": "to [listen_1]{listen} to someone until they have [finished]{finished} [speak_1]{speaking}, without [interrupt]{interrupting} them",
+      "entry": "hear out",
+      "id": "hear-out#hear-out__1"
+    },
+    {
+      "comment": "to [listen_1]{listen} to someone who is [speak_1]{speaking} about a [particular_1]{particular} thing",
+      "entry": "hear from",
+      "id": "hear-from#hear-from__4"
+    },
+    {
+      "comment": "to [secretly]{secretly} [listen_1]{listen} to what someone [say_1]{says}",
+      "entry": "listen in",
+      "id": "listen-in#listen-in__1"
+    },
+    {
+      "comment": "to [listen_1]{listen} to other [people_1]{people}\u2019s [conversation]{conversation} without them [knowing]{knowing} that you are [listen_1]{listening}",
+      "entry": "eavesdrop",
+      "id": "eavesdrop#eavesdrop__1"
+    },
+    {
+      "comment": "to [know_1]{know} what someone is [saying]{saying} by [look_1]{looking} at the [shape_1]{shapes} their [lip]{lips} [make_1]{make} when they [talk_1]{talk}, for [example]{example} because you are [unable]{unable} to [hear]{hear}",
+      "entry": "read someone\u2019s lips",
+      "id": "read-someone-s-lips#read-someone-s-lips__1"
+    },
+    {
+      "comment": "to [listen_1]{listen} very [careful#careful__20]{carefully} to what someone is [saying]{saying}",
+      "entry": "hang on someone\u2019s every word",
+      "id": "hang-on#hang-on__12"
+    },
+    {
+      "comment": "to [listen_1]{listen} [careful#careful__20]{carefully} to what someone is [saying]{saying}",
+      "entry": "follow",
+      "id": "follow#follow__21"
+    },
+    {
+      "comment": "to [try_1]{try} very [hard_1]{hard} to see or [hear]{hear} something",
+      "entry": "strain your eyes/ears",
+      "id": "strain-your-eyes-ears#strain-your-eyes-ears__1"
+    },
+    {
+      "comment": "to [consider]{consider} someone\u2019s [advice]{advice} or [warning]{warning} and do what they [suggest]{suggest}",
+      "entry": "heed",
+      "id": "heed_1#heed_1__1"
+    }
+  ],
+  "thesaurus": "To listen",
+  "type": "Synonyms"
+}

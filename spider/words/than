@@ -1,0 +1,32 @@
+{
+  "part": "conjunction, preposition",
+  "senses": [
+    {
+      "def": "[used]{used} when [making]{making} [comparison]{comparisons}",
+      "examples": [
+        "[nylon]{Nylon} is [considerably]{considerably} [strong]{stronger} than [cotton_1]{cotton}.",
+        "[diesel]{Diesel} [fuel_1]{fuel} was less [expensive]{expensive} than [gasoline]{gasoline}.",
+        "Is the [world]{world} a [safe_1]{safer} [place_1]{place} than it was a [year]{year} [ago]{ago}?",
+        "We don\u2019t [want_1]{want} to do more than is [necessary_1]{necessary}."
+      ],
+      "id": "than__1"
+    },
+    {
+      "def": "[used]{used} when you are [saying]{saying} that a [particular_1]{particular} [number_1]{number} or amount is above or below a [certain_1]{certain} [level_1]{level}",
+      "examples": [
+        "No one should have to [wait_1]{wait} more than 24 [hour]{hours} to see a [doctor_1]{doctor}.",
+        "a [small_1]{small} [town]{town} of less than 5,000 [people_1]{people}"
+      ],
+      "id": "than__6"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that one [description]{description} or [possibility]{possibility} is [prefer]{preferred} to another",
+      "examples": [
+        "It was more a [friendly_1]{friendly} [warning]{warning} than a [threat]{threat}.",
+        "Most [criminal_1]{criminals} would rather go to [prison]{prison} than [meet_1]{meet} their [victim]{victims}."
+      ],
+      "id": "than__9"
+    }
+  ],
+  "word": "than"
+}

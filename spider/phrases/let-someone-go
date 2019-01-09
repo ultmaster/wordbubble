@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "let someone go",
+  "senses": [
+    {
+      "def": "to [allow]{allow} a [person]{person} or [animal_1]{animal} to go [free_1]{free}",
+      "examples": [
+        "The [police_1]{police} had to [let_1]{let} her go because of [insufficient]{insufficient} [evidence_1]{evidence}."
+      ],
+      "id": "let-someone-go__1"
+    },
+    {
+      "def": "to [officially]{officially} [tell_1]{tell} someone that they can no [long_1]{longer} [work_1]{work} at a [job_1]{job}",
+      "examples": [
+        "[john]{John} was [let_1]{let} go after it was [discover]{discovered} that he [stole_1]{stole} some [file_1]{files}."
+      ],
+      "id": "let-someone-go__3"
+    }
+  ]
+}

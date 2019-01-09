@@ -1,0 +1,211 @@
+{
+  "entries": [
+    {
+      "comment": "one of the electrodes in a piece of electrical equipment such as a battery to which negative ions are attracted. It has a positive electric charge.",
+      "entry": "anode",
+      "id": "anode#anode__1"
+    },
+    {
+      "comment": "the negative electrode in a battery or similar piece of electrical equipment, or the negative electrode in an electrolytic cell",
+      "entry": "cathode",
+      "id": "cathode#cathode__1"
+    },
+    {
+      "comment": "the complete path around which an electric current flows",
+      "entry": "circuit",
+      "id": "circuit#circuit__1"
+    },
+    {
+      "comment": "a board in a piece of electronic equipment with electrical connections or computer chips in it",
+      "entry": "circuit board",
+      "id": "circuit-board#circuit-board__1"
+    },
+    {
+      "comment": "a piece of equipment designed to stop an electric current automatically if it becomes too strong or dangerous",
+      "entry": "circuit breaker",
+      "id": "circuit-breaker#circuit-breaker__1"
+    },
+    {
+      "comment": "a system of circuits around which an electric current flows",
+      "entry": "circuitry",
+      "id": "circuitry#circuitry__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [curved]{curved} [wire_1]{wire} that [produce_1]{produces} [heat_1]{heat} or [light_1]{light} when [electricity]{electricity} [pass_1]{passes} through it",
+      "entry": "coil",
+      "id": "coil_1#coil_1__5"
+    },
+    {
+      "comment": "a [plastic_1]{plastic} [tube]{tube} that [cover_1]{covers} and [protect]{protects} [wire_1]{wires}",
+      "entry": "conduit",
+      "id": "conduit#conduit__2"
+    },
+    {
+      "comment": "a place where two electrical conductors meet and where electric current passes between them",
+      "entry": "contact",
+      "id": "contact_1#contact_1__22"
+    },
+    {
+      "comment": "a piece of equipment that changes sound into electric signals and electric signals into sound, for example in a telephone receiver",
+      "entry": "diaphragm",
+      "id": "diaphragm#diaphragm__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} through which [electrical_1]{electrical} [current_1]{current} [move_1]{moves} in one [direction]{direction} only",
+      "entry": "diode",
+      "id": "diode#diode__1"
+    },
+    {
+      "comment": "[ground_1]{ground} in an [electrical_1]{electrical} system",
+      "entry": "earth",
+      "id": "earth#earth__12"
+    },
+    {
+      "comment": "a small metal or carbon object inside an electrical cell or a battery that electricity flows through. There are two electrodes, one positive and one negative.",
+      "entry": "electrode",
+      "id": "electrode#electrode__1"
+    },
+    {
+      "comment": "the part of a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [produce_1]{produces} [heat_1]{heat}",
+      "entry": "element",
+      "id": "element#element__12"
+    },
+    {
+      "comment": "a part of a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [make_1]{makes} it [stop_1]{stop} [working]{working} when there is too much [electricity]{electricity} [flowing]{flowing} through it",
+      "entry": "fuse",
+      "id": "fuse_1#fuse_1__1"
+    },
+    {
+      "comment": "a [box_1]{box} [contain]{containing} the [fuse_1]{fuses} for the [electrical_1]{electrical} system in a [building]{building}",
+      "entry": "fuse box",
+      "id": "fuse-box#fuse-box__1"
+    },
+    {
+      "comment": "an American [spelling]{spelling} of [fuse_1]{fuse}",
+      "entry": "fuze",
+      "id": "fuze#fuze__1"
+    },
+    {
+      "comment": "a [wire_1]{wire} that [make_1]{makes} [electrical_1]{electrical} [equipment]{equipment} [safe_1]{safe} by [allow]{allowing} the [current_1]{current} to [flow_1]{flow} into the [ground_1]{ground}",
+      "entry": "ground",
+      "id": "ground_1#ground_1__39"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} that you [hold_1]{hold} and use for [control_2]{controlling} another [piece_1]{piece} of [equipment]{equipment} from a [distance_1]{distance}",
+      "entry": "handset",
+      "id": "handset#handset__2"
+    },
+    {
+      "comment": "a piece of equipment used for changing low voltage  (=an amount of electricity) to high voltage",
+      "entry": "induction coil",
+      "id": "induction-coil#induction-coil__1"
+    },
+    {
+      "comment": "a set of electronic parts on a single chip  (=a small piece of a material that allows some electricity to pass through it), used for performing the same jobs as a number of separate parts that would need much more space",
+      "entry": "integrated circuit",
+      "id": "integrated-circuit#integrated-circuit__1"
+    },
+    {
+      "comment": "liquid crystal display: a thin screen on a piece of electronic equipment such as a calculator, a clock, or a computer that shows the time or other information",
+      "entry": "LCD",
+      "id": "lcd_1#lcd_1__1"
+    },
+    {
+      "comment": "light-emitting diode: a piece of electronic equipment that produces light and is used especially in computer screens, digital watches, and calculators",
+      "entry": "LED",
+      "id": "led_2#led_2__1"
+    },
+    {
+      "comment": "a [wire_1]{wire} through which [electricity]{electricity} [pass_1]{passes}",
+      "entry": "live wire",
+      "id": "live-wire#live-wire__1"
+    },
+    {
+      "comment": "a [small_1]{small} thin part on a [scientific]{scientific} [instrument]{instrument} that [move_1]{moves} to show [measurement]{measurements}",
+      "entry": "needle",
+      "id": "needle_1#needle_1__8"
+    },
+    {
+      "comment": "a piece of equipment that changes the type of electric current from direct current to alternating current",
+      "entry": "oscillator",
+      "id": "oscillator#oscillator__1"
+    },
+    {
+      "comment": "a piece of equipment that shows oscillations in an electric current as waves on a screen",
+      "entry": "oscilloscope",
+      "id": "oscilloscope#oscilloscope__1"
+    },
+    {
+      "comment": "an electric circuit in which all the parts are connected directly to the voltage supply, so that each receives a part of the current",
+      "entry": "parallel circuit",
+      "id": "parallel-circuit#parallel-circuit__1"
+    },
+    {
+      "comment": "a [small_1]{small} [light_1]{light} on a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [show_1]{shows} when the [equipment]{equipment} is [switch_1]{switched} on",
+      "entry": "pilot light",
+      "id": "pilot-light#pilot-light__2"
+    },
+    {
+      "comment": "a thin [narrow_1]{narrow} [piece_1]{piece} of [metal_1]{metal} that [point_1]{points} to a [number_1]{number} on a [measure_2]{measuring} [instrument]{instrument}",
+      "entry": "pointer",
+      "id": "pointer#pointer__4"
+    },
+    {
+      "comment": "a narrow line of metal in a very thin layer that is put on a board to carry an electronic signal instead of a wire. The board it is on is called a printed circuit board.",
+      "entry": "printed circuit",
+      "id": "printed-circuit#printed-circuit__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that is [design_2]{designed} to [receive]{receive} [electronic]{electronic} [signal_1]{signals}",
+      "entry": "receptor",
+      "id": "receptor#receptor__3"
+    },
+    {
+      "comment": "a piece of electrical equipment that changes alternating current (AC) to direct current (DC)",
+      "entry": "rectifier",
+      "id": "rectifier#rectifier__1"
+    },
+    {
+      "comment": "a piece of wire or other material that controls the level of current flowing in an electrical circuit by providing resistance",
+      "entry": "resistor",
+      "id": "resistor#resistor__1"
+    },
+    {
+      "comment": "an electrical circuit in which the current passes through one part of the circuit after another",
+      "entry": "series circuit",
+      "id": "series-circuit#series-circuit__1"
+    },
+    {
+      "comment": "a part of something such as a railroad or an electrical circuit that goes in a different direction from the main part",
+      "entry": "spur",
+      "id": "spur_1#spur_1__5"
+    },
+    {
+      "comment": "a [place_1]{place} where [electricity]{electricity} [enter]{enters} or [leaves]{leaves} a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment}",
+      "entry": "terminal",
+      "id": "terminal_1#terminal_1__4"
+    },
+    {
+      "comment": "a part of a piece of electronic equipment containing a number of smaller areas that you touch in order to make it operate, for example on a microwave oven",
+      "entry": "touchpad",
+      "id": "touchpad#touchpad__2"
+    },
+    {
+      "comment": "a piece of equipment that changes the voltage of a flow of electricity",
+      "entry": "transformer",
+      "id": "transformer#transformer__1"
+    },
+    {
+      "comment": "an [object_1]{object} that [control_1]{controls} the [flow_1]{flow} of [electricity]{electricity} [inside_1]{inside} a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} such as a [radio_1]{radio} or [television]{television}",
+      "entry": "transistor",
+      "id": "transistor#transistor__1"
+    },
+    {
+      "comment": "a long thin [piece_1]{piece} of [metal_1]{metal} that [carry_1]{carries} [electricity]{electricity} or [telephone_1]{telephone} [signal_1]{signals}",
+      "entry": "wire",
+      "id": "wire_1#wire_1__10"
+    }
+  ],
+  "thesaurus": "Parts of pieces of electrical equipment",
+  "type": "Related words"
+}

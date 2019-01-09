@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a long [period_1]{period} of time when there is [little_1]{little} or no [rain_1]{rain} and [crop_1]{crops} [die_1]{die}",
+      "entry": "drought",
+      "id": "drought#drought__1"
+    },
+    {
+      "comment": "[dry_1]{dry} [weather_1]{weather} is when there is no [rain_1]{rain}",
+      "entry": "dry",
+      "id": "dry_1#dry_1__7"
+    },
+    {
+      "comment": "a [period_1]{period} of the [year]{year} in some [country]{countries} during which [rain_1]{rain} [does]{does} not [usually]{usually} [fall_1]{fall}",
+      "entry": "the dry season",
+      "id": "the-dry-season#the-dry-season__1"
+    },
+    {
+      "comment": "a region where there are a lot of dust storms because the earth has become dry because of a lack of rain",
+      "entry": "dust bowl",
+      "id": "dust-bowl#dust-bowl__1"
+    },
+    {
+      "comment": "if the [rain_1]{rains} [fail_1]{fail}, it [does]{does} not [rain_1]{rain} during the [usual]{usual} [season_1]{season} or time of the [year]{year}",
+      "entry": "fail",
+      "id": "fail_1#fail_1__29"
+    },
+    {
+      "comment": "if [hot]{hot} [weather_1]{weather} [parch]{parches} the [ground_1]{ground}, it [make_1]{makes} it [extremely]{extremely} [dry_1]{dry}",
+      "entry": "parch",
+      "id": "parch#parch__1"
+    }
+  ],
+  "thesaurus": "Lack of rain",
+  "type": "Related words"
+}

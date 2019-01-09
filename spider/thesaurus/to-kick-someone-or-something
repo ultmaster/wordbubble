@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to hit someone or something with your [foot_1]{foot}",
+      "entry": "kick",
+      "id": "kick_1#kick_1__1"
+    },
+    {
+      "comment": "to hit or [kick_1]{kick} someone who is [attack_2]{attacking} you",
+      "entry": "fight back",
+      "id": "fight-back#fight-back__1"
+    },
+    {
+      "comment": "to [kick_1]{kick} something or someone [hard_1]{hard}",
+      "entry": "boot",
+      "id": "boot_2#boot_2__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone by [hit_1]{hitting} or [kick_1]{kicking} them many times",
+      "entry": "set about",
+      "id": "set-about#set-about__4"
+    },
+    {
+      "comment": "to [hurt_1]{hurt} someone [badly]{badly} by [kick_1]{kicking} them",
+      "entry": "kick someone\u2019s face/teeth/head in",
+      "id": "kick-in#kick-in__6"
+    },
+    {
+      "comment": "to [break_1]{break} a [door_1]{door} by [kick_1]{kicking} it",
+      "entry": "kick the door in",
+      "id": "kick-in#kick-in__8"
+    },
+    {
+      "comment": "to [kick_1]{kick} someone",
+      "entry": "put/stick the boot in",
+      "id": "put-stick-the-boot-in#put-stick-the-boot-in__2"
+    },
+    {
+      "comment": "to [kick_1]{kick} or hit someone very [hard_1]{hard}",
+      "entry": "kick/beat the shit out of someone",
+      "id": "kick-beat-the-shit-out-of-someone#kick-beat-the-shit-out-of-someone__1"
+    },
+    {
+      "comment": "to [try_1]{try} to hit or [attack_1]{attack} someone [suddenly]{suddenly} and [violently]{violently} with your [foot_1]{foot}",
+      "entry": "kick out",
+      "id": "kick-out#kick-out__3"
+    }
+  ],
+  "thesaurus": "To kick someone or something",
+  "type": "Synonyms"
+}

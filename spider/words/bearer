@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [carry_1]{carry} something such as a [flag_1]{flag}, [especially]{especially} in a [ceremony]{ceremony}",
+      "examples": [],
+      "id": "bearer__1"
+    },
+    {
+      "def": "someone who [bring]{brings} you a [particular_1]{particular} [type_1]{type} of [news]{news} or [information]{information}",
+      "examples": [
+        "I hate to be the bearer of [bad_1]{bad} [news]{news}."
+      ],
+      "id": "bearer__2"
+    },
+    {
+      "def": "the bearer of a [title]{title} or [official_1]{official} [document_1]{document} is the [person]{person} who it [belong]{belongs} to or who has the [right_1]{right} to have it",
+      "examples": [
+        "The [note_1]{note} [promise_1]{promises} to [pay_1]{pay} the bearer $20."
+      ],
+      "id": "bearer__4"
+    }
+  ],
+  "word": "bearer"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "show up",
+  "senses": [
+    {
+      "def": "if something [show_1]{shows} up, [people_1]{people} can see it",
+      "examples": [
+        "The [writing]{writing} didn\u2019t show up very well on [yellow_1]{yellow} [paper_1]{paper}.",
+        "The [white_1]{white} [slipcover]{slipcover} [show_1]{showed} up every [speck]{speck} of [dirt]{dirt}."
+      ],
+      "id": "show-up__2"
+    },
+    {
+      "def": "to [behave]{behave} in a way that [make_1]{makes} someone who you are with [feel_1]{feel} [embarrassed]{embarrassed}",
+      "examples": [
+        "You\u2019re always [showing]{showing} me up in front of my [friend_1]{friends}."
+      ],
+      "id": "show-up__6"
+    }
+  ]
+}

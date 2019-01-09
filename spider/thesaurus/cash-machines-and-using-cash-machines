@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "[automated]{automated} [banking]{banking} [machine_1]{machine}: a [machine_1]{machine} [outside]{outside} a [bank_1]{bank} or in a [public_1]{public} [place_1]{place} that you use to take [money]{money} out of your [bank_1]{bank} [account_1]{account}",
+      "entry": "ABM",
+      "id": "abm#abm__1"
+    },
+    {
+      "comment": "[automated]{automated} [teller]{teller} [machine_1]{machine}: a [machine_1]{machine} [outside]{outside} a [bank_1]{bank} or in a [public_1]{public} [place_1]{place} that you use to take [money]{money} out of your [bank_1]{bank} [account_1]{account}",
+      "entry": "ATM",
+      "id": "atm_1#atm_1__1"
+    },
+    {
+      "comment": "an ATM",
+      "entry": "automated teller machine",
+      "id": "automated-teller-machine#automated-teller-machine__1"
+    },
+    {
+      "comment": "a small flat piece of plastic used for getting money from a bank, ATM, etc. or for buying things. You are usually given a special number, called a PIN number, with your card so that you can get money from a machine",
+      "entry": "card",
+      "id": "card_1#card_1__1"
+    },
+    {
+      "comment": "an ATM [card_1]{card}",
+      "entry": "cash card",
+      "id": "cash-card#cash-card__1"
+    },
+    {
+      "comment": "an ATM",
+      "entry": "cash dispenser",
+      "id": "cash-dispenser#cash-dispenser__1"
+    },
+    {
+      "comment": "an ATM",
+      "entry": "cash machine",
+      "id": "cash-machine#cash-machine__1"
+    },
+    {
+      "comment": "an ATM",
+      "entry": "cashpoint",
+      "id": "cashpoint#cashpoint__1"
+    },
+    {
+      "comment": "a system of paying for something using a credit or debit card that has information stored on it on a microchip. You put your PIN number  (=a set of 4 numbers) into a machine with the card to prove who you are, instead of signing.",
+      "entry": "Chip and Pin",
+      "id": "chip-and-pin#chip-and-pin__1"
+    },
+    {
+      "comment": "an ATM",
+      "entry": "hole-in-the-wall",
+      "id": "hole-in-the-wall#hole-in-the-wall__2"
+    },
+    {
+      "comment": "a [cash_1]{cash} [machine_1]{machine}",
+      "entry": "machine",
+      "id": "machine_1#machine_1__13"
+    },
+    {
+      "comment": "personal identification number: a set of four numbers that you put into a cash machine in order to take money out of your bank account",
+      "entry": "PIN",
+      "id": "pin_3#pin_3__1"
+    },
+    {
+      "comment": "a [pin_1]{PIN}",
+      "entry": "PIN number",
+      "id": "pin-number#pin-number__1"
+    }
+  ],
+  "thesaurus": "Cash machines and using cash machines",
+  "type": "Related words"
+}

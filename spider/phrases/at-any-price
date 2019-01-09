@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "at any price",
+  "senses": [
+    {
+      "def": "if you [want_1]{want} something at any [price_1]{price}, you are [determined]{determined} to get it, even if this [bring]{brings} [severe]{severe} [problem]{problems} or [suffering]{suffering}",
+      "examples": [
+        "He [just_1]{just} [want_1]{wants} to [win_1]{win} at any [price_1]{price}."
+      ],
+      "id": "at-any-price__1"
+    },
+    {
+      "def": "if you [refuse_1]{refuse} to do something at any [price_1]{price}, you [refuse_1]{refuse} to do it, even for a [lot_1]{lot} of [money]{money} or other [benefit_1]{benefits}",
+      "examples": [
+        "She didn\u2019t [believe]{believe} he would [betray]{betray} her at any [price_1]{price}."
+      ],
+      "id": "at-any-price__3"
+    }
+  ]
+}

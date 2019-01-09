@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "a [check_1]{check} that has been [sign_2]{signed} but has not had the amount of [money]{money} it is [worth_1]{worth} [written_1]{written} on it",
+      "entry": "blank check",
+      "id": "blank-check#blank-check__1"
+    },
+    {
+      "comment": "if a [check_1]{check} [bounce_1]{bounces}, or if a [bank_1]{bank} [bounce_1]{bounces} it, the [bank_1]{bank} [refuse_1]{refuses} to [pay_1]{pay} it because there is not enough [money]{money} in the [account_1]{account} of the [person]{person} who [wrote]{wrote} it",
+      "entry": "bounce",
+      "id": "bounce_1#bounce_1__10"
+    },
+    {
+      "comment": "to tell your bank that a check you have written should not be paid by them. The American expression is stop payment on a check.",
+      "entry": "cancel a check",
+      "id": "cancel-a-check#cancel-a-check__1"
+    },
+    {
+      "comment": "to [exchange_1]{exchange} a [check_1]{check} for its [value_1]{value} in [bill_1]{bills} and [coin_1]{coins}",
+      "entry": "cash",
+      "id": "cash_2#cash_2__1"
+    },
+    {
+      "comment": "a check written by a bank that guarantees  (=makes a formal promise) to pay the amount written on it",
+      "entry": "cashier\u2019s check",
+      "id": "cashier-s-check#cashier-s-check__1"
+    },
+    {
+      "comment": "one of the [piece_1]{pieces} of [print_1]{printed} [paper_1]{paper} that your [bank_1]{bank} [give_1]{gives} you so you can [pay_1]{pay} for [thing]{things} without [use_1]{using} [money]{money}",
+      "entry": "check",
+      "id": "check_2#check_2__13"
+    },
+    {
+      "comment": "a [small_1]{small} [book_1]{book} of [print_1]{printed} [piece_1]{pieces} of [paper_1]{paper} that you can [sign_1]{sign} and use [instead]{instead} of [money]{money} to [pay_1]{pay} for [thing]{things}",
+      "entry": "checkbook",
+      "id": "checkbook#checkbook__1"
+    },
+    {
+      "comment": "a [debit_1]{debit} [card_1]{card}",
+      "entry": "check card",
+      "id": "check-card#check-card__1"
+    },
+    {
+      "comment": "the small piece of paper left in your checkbook when you tear out a check, used for recording the amount of money on the check and the person you are paying it to",
+      "entry": "check stub",
+      "id": "check-stub#check-stub__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [check_1]{check}",
+      "entry": "cheque",
+      "id": "cheque#cheque__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [checkbook]{checkbook}",
+      "entry": "chequebook",
+      "id": "chequebook#chequebook__2"
+    },
+    {
+      "comment": "if a [check_1]{check} [clear_2]{clears}, or if a [bank_1]{bank} [clear_2]{clears} it, the [bank_1]{bank} [allow]{allows} the [money]{money} to be [used]{used}",
+      "entry": "clear",
+      "id": "clear_2#clear_2__23"
+    },
+    {
+      "comment": "the [process_1]{process} by which a [bank_1]{bank} [accept]{accepts} a [check_1]{check} that you have [written_1]{written} and [pay_1]{pays} the [money]{money} to the [person]{person}, [store_1]{store}, etc. that you [gave]{gave} the [check_1]{check} to",
+      "entry": "clearance",
+      "id": "clearance#clearance__9"
+    },
+    {
+      "comment": "the part of something such as a [check_1]{check} that you keep as a [record_1]{record} of a [payment]{payment} you have made",
+      "entry": "counterfoil",
+      "id": "counterfoil#counterfoil__1"
+    },
+    {
+      "comment": "to [draw_1]{draw} two [lines]{lines} across a [check_1]{check} to show that it can be [paid_1]{paid} only into the [bank_1]{bank} [account_1]{account} of the [person]{person} whose name is on it",
+      "entry": "cross a check",
+      "id": "cross-a-check#cross-a-check__1"
+    },
+    {
+      "comment": "if a [business]{business} [cut_1]{cuts} a [check_1]{check}, it [approve]{approves} or [write]{writes} it",
+      "entry": "cut a check",
+      "id": "cut-a-check#cut-a-check__1"
+    },
+    {
+      "comment": "to take [money]{money} from a [bank_1]{bank} [account_1]{account} by [writing]{writing} a [check_1]{check}",
+      "entry": "draw on",
+      "id": "draw-on#draw-on__7"
+    },
+    {
+      "comment": "to [write]{write} your name on the back of a [check_1]{check} or [official_1]{official} [document_1]{document} to [make_1]{make} it [legal]{legal}",
+      "entry": "endorse",
+      "id": "endorse#endorse__4"
+    },
+    {
+      "comment": "if a [bank_1]{bank} [honors]{honors} a [check_1]{check} or a [store_1]{store} [honors]{honors} a [credit_1]{credit} [card_1]{card}, they [accept]{accept} the [check_1]{check} or [credit_1]{credit} [card_1]{card} as if it were [money]{money}",
+      "entry": "honor a check/credit card",
+      "id": "honor-a-check-credit-card#honor-a-check-credit-card__1"
+    },
+    {
+      "comment": "a [check_1]{check} that someone [write]{writes} without [have]{having} enough [money]{money} to [pay_1]{pay} it",
+      "entry": "kite",
+      "id": "kite_1#kite_1__3"
+    },
+    {
+      "comment": "to use a [bad_1]{bad} [check_1]{check} in [order_1]{order} to [cheat_1]{cheat} someone",
+      "entry": "kite",
+      "id": "kite_2#kite_2__1"
+    },
+    {
+      "comment": "to [write]{write} all the [necessary_1]{necessary} [information]{information} on a [document_1]{document} such as a [check_1]{check}",
+      "entry": "make out",
+      "id": "make-out#make-out__7"
+    },
+    {
+      "comment": "a [check_1]{check} that is [payable]{payable} to someone has their name [written_1]{written} on it because the [money]{money} is [owe]{owed} to them",
+      "entry": "payable to someone",
+      "id": "payable-to-someone#payable-to-someone__1"
+    },
+    {
+      "comment": "the [person]{person} who you [pay_1]{pay} a [check_1]{check} or [money]{money} to",
+      "entry": "payee",
+      "id": "payee#payee__1"
+    },
+    {
+      "comment": "a [check_1]{check} [written_1]{written} by an [individual_1]{individual} [person]{person} [instead]{instead} of by a [bank_1]{bank} or a [company]{company}",
+      "entry": "personal check",
+      "id": "personal-check#personal-check__1"
+    },
+    {
+      "comment": "to put a [date_1]{date} on a [check_1]{check} or [document_1]{document} that is [later_1]{later} than the [actual]{actual} [date_1]{date} it was [produce_1]{produced}",
+      "entry": "postdate",
+      "id": "postdate#postdate__1"
+    },
+    {
+      "comment": "to [write]{write} a [date_1]{date} on a [document_1]{document} that is [earlier_1]{earlier} than the [real_1]{real} [date_1]{date}, [especially]{especially} on a [check_1]{check} or a [contract_1]{contract}",
+      "entry": "predate",
+      "id": "predate#predate__3"
+    },
+    {
+      "comment": "to give a [check_1]{check} to a [bank_1]{bank} so that it can be put into your [account_1]{account}",
+      "entry": "present",
+      "id": "present_2#present_2__27"
+    },
+    {
+      "comment": "a [check_1]{check} that a [bank_1]{bank} will not [accept]{accept} because the [person]{person} who [wrote]{wrote} it [does]{does} not have enough [money]{money} in their [account_1]{account}",
+      "entry": "rubber check",
+      "id": "rubber-check#rubber-check__1"
+    },
+    {
+      "comment": "a [print_1]{printed} [piece_1]{piece} of [paper_1]{paper} that you [sign_1]{sign} and use as [money]{money} when you are [traveling]{traveling}, that can be [replace]{replaced} if it is [lost_1]{lost} or [stolen]{stolen}",
+      "entry": "traveler\u2019s check",
+      "id": "traveler-s-check#traveler-s-check__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a [check_1]{check} that [does]{does} not show that there is enough [money]{money} to [cover_1]{cover} it",
+      "entry": "uncertified",
+      "id": "uncertified#uncertified__2"
+    }
+  ],
+  "thesaurus": "Checks and using checks",
+  "type": "Related words"
+}

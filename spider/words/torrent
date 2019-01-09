@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [fast_1]{fast} and [powerful]{powerful} [flow_1]{flow} of [liquid_1]{liquid}, [especially]{especially} [water_1]{water}",
+      "examples": [
+        "They were [swept]{swept} [away_1]{away} by the [raging]{raging} torrent."
+      ],
+      "id": "torrent__1"
+    },
+    {
+      "def": "a [large_1]{large} amount of something, [especially]{especially} something [unpleasant]{unpleasant}",
+      "examples": [
+        "a torrent of [abuse_1]{abuse}/[word_1]{words}/[criticism]{criticism}"
+      ],
+      "id": "torrent__3"
+    },
+    {
+      "def": "a [file_1]{file} that [contain]{contains} [information]{information} on how to [transfer_1]{transfer} [data]{data} between [computer]{computers} [use_1]{using} BitTorrent [protocol]{protocol}",
+      "examples": [
+        "Most [torrent]{torrents} [consist]{consist} of [links]{links} to [download_1]{download} [copyright_2]{copyrighted} [file_1]{files}."
+      ],
+      "id": "torrent__5"
+    }
+  ],
+  "word": "torrent"
+}

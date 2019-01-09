@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [buy_1]{buy} and [sell_1]{sell} something",
+      "entry": "deal in",
+      "id": "deal-in_1#deal-in_1__1"
+    },
+    {
+      "comment": "to [buy_1]{buy} or [sell_1]{sell} [goods]{goods} or [service_1]{services}",
+      "entry": "trade",
+      "id": "trade_2#trade_2__1"
+    },
+    {
+      "comment": "to [exchange_1]{exchange} [goods]{goods} or [service_1]{services} for other [goods]{goods} or [service_1]{services} [instead]{instead} of [use_1]{using} [money]{money}",
+      "entry": "barter",
+      "id": "barter_1#barter_1__1"
+    },
+    {
+      "comment": "to [buy_1]{buy} [goods]{goods} or [service_1]{services} from someone, or to [sell_1]{sell} them to someone",
+      "entry": "deal with",
+      "id": "deal-with#deal-with__12"
+    },
+    {
+      "comment": "to [buy_1]{buy} and [sell_1]{sell} [goods]{goods}, [especially]{especially} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "handle",
+      "id": "handle_1#handle_1__18"
+    },
+    {
+      "comment": "to [buy_1]{buy} or [sell_1]{sell} [stolen]{stolen} [property]{property}",
+      "entry": "fence",
+      "id": "fence_2#fence_2__2"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [accept]{accept} or [buy_1]{buy} [stolen]{stolen} [goods]{goods}, [usually]{usually} in [order_1]{order} to [sell_1]{sell} them",
+      "entry": "receive",
+      "id": "receive#receive__7"
+    },
+    {
+      "comment": "to [buy_1]{buy} and [sell_1]{sell} [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "deal",
+      "id": "deal_2#deal_2__4"
+    },
+    {
+      "comment": "to buy or sell stocks",
+      "entry": "trade",
+      "id": "trade_2#trade_2__6"
+    },
+    {
+      "comment": "to [buy_1]{buy} and [sell_1]{sell} [thing]{things} such as [drug_1]{drugs} or [weapon]{weapons} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "traffic",
+      "id": "traffic_2#traffic_2__1"
+    }
+  ],
+  "thesaurus": "To buy and sell things",
+  "type": "Synonyms"
+}

@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "burn up",
+  "senses": [
+    {
+      "def": "if something [burn_1]{burns} up, or if it is [burn_1]{burned} up, fire [completely]{completely} [destroy]{destroys} it",
+      "examples": [
+        "The [spacecraft]{spacecraft} has a [heat_1]{heat} [shield_1]{shield} to [prevent]{prevent} it [burning]{burning} up when it re-enters the [earth]{Earth}\u2019s [atmosphere]{atmosphere}."
+      ],
+      "id": "burn-up__1"
+    },
+    {
+      "def": "if a [machine_1]{machine} or [vehicle]{vehicle} [burn_1]{burns} up [fuel_1]{fuel}, it [use_1]{uses} the [fuel_1]{fuel} to [work_1]{work}",
+      "examples": [],
+      "id": "burn-up__5"
+    },
+    {
+      "def": "if someone is [burning]{burning} up, they are very [hot]{hot}, [especially]{especially} because they have a [fever]{fever}",
+      "examples": [],
+      "id": "burn-up__6"
+    },
+    {
+      "def": "to [make_1]{make} someone very [angry]{angry}",
+      "examples": [
+        "That [guy]{guy} [burn_1]{burns} me up."
+      ],
+      "id": "burn-up__7"
+    }
+  ]
+}

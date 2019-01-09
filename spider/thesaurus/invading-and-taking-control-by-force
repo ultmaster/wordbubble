@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to take or [send_1]{send} an [army]{army} into another [country]{country} in [order_1]{order} to get [control_1]{control} of it",
+      "entry": "invade",
+      "id": "invade#invade__1"
+    },
+    {
+      "comment": "to be in [control_1]{control} of a [place_1]{place} that you have [enter]{entered} in a [group_1]{group} [use_1]{using} [military]{military} [force_1]{force}",
+      "entry": "occupy",
+      "id": "occupy#occupy__7"
+    },
+    {
+      "comment": "to [stop_1]{stop} [opposition]{opposition} or [protest_1]{protest} [use_1]{using} [military]{military} [force_1]{force} or [strict]{strict} [law]{laws}",
+      "entry": "suppress",
+      "id": "suppress#suppress__1"
+    },
+    {
+      "comment": "to take [control_1]{control} of a [place_1]{place} or [situation]{situation} [use_1]{using} [military]{military} [force_1]{force}",
+      "entry": "seize",
+      "id": "seize#seize__4"
+    },
+    {
+      "comment": "to take [control_1]{control} of [land_1]{land} or [people_1]{people} [use_1]{using} [soldier_1]{soldiers}",
+      "entry": "conquer",
+      "id": "conquer#conquer__1"
+    },
+    {
+      "comment": "to use [force_1]{force} to [enter]{enter} a [place_1]{place} and take [control_1]{control} of it",
+      "entry": "storm",
+      "id": "storm_2#storm_2__1"
+    },
+    {
+      "comment": "to take [control_1]{control} of a [country]{country} or [region]{region} by [force_1]{force}",
+      "entry": "annex",
+      "id": "annex_1#annex_1__1"
+    },
+    {
+      "comment": "to [defeat_1]{defeat} a [place_1]{place} or a [group_1]{group} of [people_1]{people} and [force_1]{force} them to [obey]{obey} you",
+      "entry": "subjugate",
+      "id": "subjugate#subjugate__1"
+    },
+    {
+      "comment": "to [defeat_1]{defeat} a [place_1]{place} or a [group_1]{group} of [people_1]{people}, and to take [control_1]{control} of them",
+      "entry": "subdue",
+      "id": "subdue#subdue__3"
+    },
+    {
+      "comment": "to [surround_1]{surround} a [place_1]{place} with an [army]{army} and [prevent]{prevent} the [people_1]{people} there from [get]{getting} [food]{food} and [supply_1]{supplies}, as a way of [get]{getting} [control_1]{control} of it",
+      "entry": "besiege",
+      "id": "besiege#besiege__3"
+    }
+  ],
+  "thesaurus": "Invading and taking control by force",
+  "type": "Synonyms"
+}

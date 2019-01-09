@@ -1,0 +1,40 @@
+{
+  "part": "phrase",
+  "phrase": "dig into",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to find [information]{information} about something",
+      "examples": [],
+      "id": "dig-into__1"
+    },
+    {
+      "def": "to [start_1]{start} [use_1]{using} [money]{money} that you had been [saving_1]{saving}",
+      "examples": [
+        "I\u2019ve had to [dig_1]{dig} into my [saving_1]{savings} this [month]{month} to [pay_1]{pay} for my [car]{car} [insurance]{insurance}."
+      ],
+      "id": "dig-into__2"
+    },
+    {
+      "def": "to put your hand in your [pocket_1]{pocket} or [bag_1]{bag} in [order_1]{order} to find something",
+      "examples": [
+        "She [dug]{dug} into her [pocket_1]{pocket} and [took]{took} out a [pen_1]{pen}."
+      ],
+      "id": "dig-into__4"
+    },
+    {
+      "def": "to [press_1]{press} [hard_1]{hard} into something",
+      "examples": [
+        "The [seat_1]{seat} [belt_1]{belt} was [dig_1]{digging} into my [shoulder_1]{shoulder}.",
+        "[jenny]{Jenny} [dug]{dug} her [nail_1]{nails} into the [palm_1]{palms} of her hand."
+      ],
+      "id": "dig-into__6"
+    },
+    {
+      "def": "to [mix_1]{mix} something into the [ground_1]{ground} by [dig_1]{digging}",
+      "examples": [
+        "I\u2019ve been [dig_1]{digging} [manure_1]{manure} into the [soil_1]{soil}."
+      ],
+      "id": "dig-into__10"
+    }
+  ]
+}

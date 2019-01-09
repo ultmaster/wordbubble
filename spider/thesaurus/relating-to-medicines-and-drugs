@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [medical_1]{medical} [reason_1]{reason} why someone should not use a [particular_1]{particular} [drug_1]{drug} or [medical_1]{medical} [treatment]{treatment}",
+      "entry": "contraindication",
+      "id": "contraindication#contraindication__1"
+    },
+    {
+      "comment": "the amount of a [medicine]{medicine} or [drug_1]{drug} that you take at one time",
+      "entry": "dosage",
+      "id": "dosage#dosage__1"
+    },
+    {
+      "comment": "an amount of a [drug_1]{drug} that has been [measured]{measured} so that you can take it",
+      "entry": "dose",
+      "id": "dose_1#dose_1__1"
+    },
+    {
+      "comment": "[involve]{involving} [drug_1]{drugs} or [take_1]{taking} [drug_1]{drugs}",
+      "entry": "drug",
+      "id": "drug_1#drug_1__4"
+    },
+    {
+      "comment": "the [process_1]{process} of [inject]{injecting} a [drug_1]{drug} or another [substance]{substance} into your body",
+      "entry": "injection",
+      "id": "injection#injection__5"
+    },
+    {
+      "comment": "[receive]{receiving} [treatment]{treatment} with a [drug_1]{drug} for an [illness]{illness} or [medical_1]{medical} [condition_1]{condition}",
+      "entry": "medicated",
+      "id": "medicated#medicated__3"
+    },
+    {
+      "comment": "[relate]{relating} to [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "narcotics",
+      "id": "narcotic_1#narcotic_1__4"
+    },
+    {
+      "comment": "an [overdose_1]{overdose} of a [dangerous]{dangerous} [drug_1]{drug}",
+      "entry": "OD",
+      "id": "od_2#od_2__1"
+    },
+    {
+      "comment": "no [long_1]{longer} [take_1]{taking} [drug_1]{drugs} or other [harmful]{harmful} [substance]{substances}",
+      "entry": "off",
+      "id": "off_1#off_1__46"
+    },
+    {
+      "comment": "[use_1]{using} a [particular_1]{particular} [drug_1]{drug}",
+      "entry": "on",
+      "id": "on#on__86"
+    },
+    {
+      "comment": "too much of a [drug_1]{drug} that someone [take_1]{takes} at one time",
+      "entry": "overdose",
+      "id": "overdose_1#overdose_1__1"
+    },
+    {
+      "comment": "the [strength]{strength} of a [medicine]{medicine}, [drug_1]{drug}, or [chemical_1]{chemical}",
+      "entry": "potency",
+      "id": "potency#potency__1"
+    },
+    {
+      "comment": "an [effect_1]{effect} of a [medicine]{medicine} that is not [intended_1]{intended} and could be [unpleasant]{unpleasant}",
+      "entry": "side effect",
+      "id": "side-effect#side-effect__1"
+    }
+  ],
+  "thesaurus": "Relating to medicines and drugs",
+  "type": "Related words"
+}

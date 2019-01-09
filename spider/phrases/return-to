@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "return to",
+  "senses": [
+    {
+      "def": "to go back to a [previous_1]{previous} [state_1]{state} or way of [behave]{behaving}",
+      "examples": [
+        "Once the [holiday_1]{holidays} were over, our [lives]{lives} [return_1]{returned} to [normal_1]{normal}."
+      ],
+      "id": "return-to__1"
+    },
+    {
+      "def": "to go back to a [subject_1]{subject} that has already been [mention_1]{mentioned}",
+      "examples": [
+        "I\u2019d [like_1]{like} to [return_1]{return} to what David was [saying]{saying} [earlier_1]{earlier}."
+      ],
+      "id": "return-to__3"
+    },
+    {
+      "def": "to go back to an [activity]{activity} after an [interruption]{interruption}",
+      "examples": [
+        "She [look_1]{looked} up [momentarily]{momentarily} but then [return_1]{returned} to her [reading]{reading}.",
+        "He [won]{won}\u2019t be [able_1]{able} to [return_1]{return} to [work_1]{work} for at least two [week]{weeks}."
+      ],
+      "id": "return-to__5"
+    }
+  ]
+}

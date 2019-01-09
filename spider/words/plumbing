@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [job_1]{job} of [fitting_1]{fitting} and [repair_1]{repairing} [pipe_1]{pipes}, [water_1]{water} [tank_1]{tanks}, and other [equipment]{equipment} [used]{used} for [supply_2]{supplying} and [store_2]{storing} [water_1]{water}",
+      "examples": [],
+      "id": "plumbing__1"
+    },
+    {
+      "def": "the system of [pipe_1]{pipes}, [water_1]{water} [tank_1]{tanks}, and other [equipment]{equipment} [used]{used} for [supply_2]{supplying} and [store_2]{storing} [water_1]{water} in a [building]{building}",
+      "examples": [
+        "I [spent_1]{spent} all [day]{day} [trying]{trying} to [fix_1]{fix} a [leak_1]{leak} in the plumbing."
+      ],
+      "id": "plumbing__2"
+    }
+  ],
+  "word": "plumbing"
+}

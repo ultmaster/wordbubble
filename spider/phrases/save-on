@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "save on",
+  "senses": [
+    {
+      "def": "to [spend]{spend} less [money]{money} on something than you would [normally]{normally}",
+      "examples": [
+        "[use_1]{Using} [eco-friendly]{eco-friendly} [light_1]{light} [bulb]{bulbs} will [help_1]{help} you [save_1]{save} on [electricity]{electricity} [bill_1]{bills}."
+      ],
+      "id": "save-on__1"
+    },
+    {
+      "def": "to [avoid]{avoid} [use_1]{using} something, or to use less of it",
+      "examples": [
+        "Keep your [shower_1]{showers} [short_1]{short} to [save_1]{save} on [water_1]{water}."
+      ],
+      "id": "save-on__3"
+    }
+  ]
+}

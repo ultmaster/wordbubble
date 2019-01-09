@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [clearance]{clearance} [sale]{sale}",
+      "entry": "clearance",
+      "id": "clearance#clearance__8"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [store_1]{store} [sell_1]{sells} [thing]{things} at very low [price_1]{prices} in [order_1]{order} to get [rid_1]{rid} of all of them, [usually]{usually} because it is [going_1]{going} to [stop_1]{stop} [doing]{doing} [business]{business}",
+      "entry": "clearance sale",
+      "id": "clearance-sale#clearance-sale__1"
+    },
+    {
+      "comment": "a [sale]{sale} of [goods]{goods} at very low [price_1]{prices} because a [store_1]{store} [want_1]{wants} to get [rid_1]{rid} of them",
+      "entry": "closeout",
+      "id": "closeout#closeout__1"
+    },
+    {
+      "comment": "an [event]{event} that is [intended_1]{intended} to [impress]{impress} [people_1]{people}, often [used]{used} as a way of [selling]{selling} a [product]{product}",
+      "entry": "dog-and-pony show",
+      "id": "dog-and-pony-show#dog-and-pony-show__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when [goods]{goods} are [sold]{sold} at low [price_1]{prices} because a [store_1]{store} or [factory]{factory} has been [damage_2]{damaged} by fire",
+      "entry": "fire sale",
+      "id": "fire-sale#fire-sale__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when something is [sold]{sold} for a very low [price_1]{price}",
+      "entry": "fire sale",
+      "id": "fire-sale#fire-sale__2"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone [sell_1]{sells} [furniture]{furniture}, [clothes]{clothes}, [book_1]{books}, [toy_1]{toys}, etc. that they do not [want_1]{want} any more",
+      "entry": "garage sale",
+      "id": "garage-sale#garage-sale__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [making]{making} a [new]{new} [product]{product} or [service_1]{service} [fully]{fully} [available]{available} to the [public_1]{public} and the [media]{media}",
+      "entry": "hard launch",
+      "id": "hard-launch_1#hard-launch_1__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [company]{company} [start_1]{starts} [selling]{selling} a [new]{new} [product]{product} or [service_1]{service} to the [public_1]{public}",
+      "entry": "launch",
+      "id": "launch_2#launch_2__4"
+    },
+    {
+      "comment": "an [event]{event} at which a [company]{company} or [organization]{organization} [officially]{officially} [announce]{announces} that it is [start_1]{starting} to do or to [sell_1]{sell} something",
+      "entry": "launch",
+      "id": "launch_2#launch_2__6"
+    },
+    {
+      "comment": "the [act_1]{act} of [introduce]{introducing} a [new]{new} [product]{product} to the [public_1]{public}",
+      "entry": "reveal",
+      "id": "reveal_2#reveal_2__4"
+    },
+    {
+      "comment": "the [introduction]{introduction} of a [new]{new} [product]{product}, [especially]{especially} when it [gradually]{gradually} becomes [available]{available} in a [large_1]{large} [number_1]{number} of [place_1]{places}",
+      "entry": "rollout",
+      "id": "rollout#rollout__1"
+    },
+    {
+      "comment": "an [event]{event} or [period_1]{period} of time during which a [store_1]{store} [reduce]{reduces} the [price_1]{prices} of some of its [goods]{goods}",
+      "entry": "sale",
+      "id": "sale#sale__7"
+    },
+    {
+      "comment": "an [event]{event} at which [people_1]{people} [meet_1]{meet} to [buy_1]{buy} and [sell_1]{sell} [thing]{things}, [normally]{normally} at a [place_1]{place} that is not [regularly]{regularly} [used]{used} for this [purpose]{purpose}",
+      "entry": "sale",
+      "id": "sale#sale__10"
+    },
+    {
+      "comment": "an [event]{event} at which [thing]{things} are [sold]{sold} to the [person]{person} who [offer_1]{offers} to [pay_1]{pay} the [high_1]{highest} [price_1]{price}",
+      "entry": "sale",
+      "id": "sale#sale__12"
+    },
+    {
+      "comment": "the [act_1]{act} of [making]{making} a [new]{new} [product]{product} or [service_1]{service} [partly]{partly} [available]{available} to the [public_1]{public}, to [test_1]{test} it or to see how [people_1]{people} [react]{react}",
+      "entry": "soft launch",
+      "id": "soft-launch_1#soft-launch_1__1"
+    },
+    {
+      "comment": "an [informal]{informal} [event]{event} at which [people_1]{people} can [exchange_1]{exchange} or [sell_1]{sell} [thing]{things}",
+      "entry": "swap meet",
+      "id": "swap-meet#swap-meet__1"
+    },
+    {
+      "comment": "a sale of things such as sheets and towels in a store",
+      "entry": "white sale",
+      "id": "white-sale#white-sale__1"
+    },
+    {
+      "comment": "a [sale]{sale} where someone [sell_1]{sells} [thing]{things} in their [yard]{yard}",
+      "entry": "yard sale",
+      "id": "yard-sale#yard-sale__1"
+    }
+  ],
+  "thesaurus": "Selling events",
+  "type": "Related words"
+}

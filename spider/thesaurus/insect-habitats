@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a pile of earth that ants make above the underground place where they live",
+      "entry": "anthill",
+      "id": "anthill#anthill__1"
+    },
+    {
+      "comment": "a net that a spider makes out of thin sticky strings",
+      "entry": "cobweb",
+      "id": "cobweb#cobweb__1"
+    },
+    {
+      "comment": "a [honeycomb]{honeycomb}",
+      "entry": "comb",
+      "id": "comb_1#comb_1__5"
+    },
+    {
+      "comment": "a structure with a lot of holes, that honeybees make to store honey in",
+      "entry": "honeycomb",
+      "id": "honeycomb#honeycomb__1"
+    },
+    {
+      "comment": "a [place_1]{place} that [insect]{insects} or [small_1]{small} [animal_1]{animals} such as [mice]{mice} [make_1]{make} to [live_1]{live} in",
+      "entry": "nest",
+      "id": "nest_1#nest_1__3"
+    },
+    {
+      "comment": "the object that a spider weaves for catching insects",
+      "entry": "spiderweb",
+      "id": "spiderweb#spiderweb__1"
+    },
+    {
+      "comment": "a net of thin threads that a spider makes in order to catch insects",
+      "entry": "web",
+      "id": "web#web__1"
+    }
+  ],
+  "thesaurus": "Insect habitats",
+  "type": "Related words"
+}

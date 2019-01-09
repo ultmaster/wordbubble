@@ -1,0 +1,32 @@
+{
+  "part": "phrase",
+  "phrase": "stand for",
+  "senses": [
+    {
+      "def": "if a [letter_1]{letter}, an [abbreviation]{abbreviation}, or a [symbol]{symbol} [stand_1]{stands} for something, that is what it [means]{means} or [represent]{represents}",
+      "examples": [
+        "The [letter_1]{letters} ER [stand_1]{stand} for [emergency_1]{emergency} [room_1]{room}."
+      ],
+      "id": "stand-for__1"
+    },
+    {
+      "def": "if someone [stand_1]{stands} for a [particular_1]{particular} [principle]{principle}, they [believe]{believe} that [principle]{principle} is [important]{important}",
+      "examples": [
+        "I hate them and everything they [stand_1]{stand} for."
+      ],
+      "id": "stand-for__3"
+    },
+    {
+      "def": "to be [willing]{willing} to [accept]{accept} something that someone [does]{does}",
+      "examples": [
+        "No one [make_1]{makes} a [fool_1]{fool} of me. I [won]{won}\u2019t [stand_1]{stand} for it!"
+      ],
+      "id": "stand-for__5"
+    },
+    {
+      "def": "to [try_1]{try} to get [chosen_1]{chosen} in an [election]{election} for a [particular_1]{particular} [position_1]{position} or as a [member]{member} of a [particular_1]{particular} [institution]{institution}",
+      "examples": [],
+      "id": "stand-for__7"
+    }
+  ]
+}

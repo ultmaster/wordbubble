@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if a [crime_1]{crime} [carry_1]{carries} a [particular_1]{particular} [punishment]{punishment}, that is the [punishment]{punishment} [people_1]{people} will [receive]{receive} for [commit]{committing} it",
+      "entry": "carry",
+      "id": "carry_1#carry_1__30"
+    },
+    {
+      "comment": "[connected]{connected} with the [punishment]{punishment} of [people_1]{people} who do not [obey]{obey} [rule_1]{rules}",
+      "entry": "disciplinary",
+      "id": "disciplinary#disciplinary__1"
+    },
+    {
+      "comment": "an [exemplary]{exemplary} [punishment]{punishment} is [extremely]{extremely} [severe]{severe}, so that other [people_1]{people} will be [afraid]{afraid} to [commit]{commit} a [similar]{similar} [crime_1]{crime}",
+      "entry": "exemplary",
+      "id": "exemplary#exemplary__3"
+    },
+    {
+      "comment": "a [just_1]{just} [reward_1]{reward} or [punishment]{punishment} is one that is [deserved]{deserved}",
+      "entry": "just",
+      "id": "just_2#just_2__11"
+    },
+    {
+      "comment": "[used]{used} about the [punishment]{punishment} [itself]{itself}",
+      "entry": "lenient",
+      "id": "lenient#lenient__3"
+    },
+    {
+      "comment": "a [light_1]{light} [punishment]{punishment} is not very [severe]{severe}",
+      "entry": "light",
+      "id": "light_2#light_2__21"
+    },
+    {
+      "comment": "a [mild]{mild} [punishment]{punishment} or [criticism]{criticism} is not very [severe]{severe}",
+      "entry": "mild",
+      "id": "mild#mild__7"
+    },
+    {
+      "comment": "[relate]{relating} to the [punishment]{punishment} of [criminal_1]{criminals}",
+      "entry": "penal",
+      "id": "penal#penal__1"
+    },
+    {
+      "comment": "[used]{used} as a [place_1]{place} for [punishing]{punishing} [criminal_1]{criminals}",
+      "entry": "penal",
+      "id": "penal#penal__4"
+    },
+    {
+      "comment": "a [sound_1]{sound} [punishment]{punishment} is [severe]{severe}",
+      "entry": "sound",
+      "id": "sound_3#sound_3__17"
+    }
+  ],
+  "thesaurus": "Words used to describe punishments",
+  "type": "Related words"
+}

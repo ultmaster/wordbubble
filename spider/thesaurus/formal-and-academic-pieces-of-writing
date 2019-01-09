@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a long [piece_1]{piece} of [writing]{writing} that is the [final_1]{final} part of an [advanced]{advanced} [university]{university} [degree]{degree}",
+      "entry": "thesis",
+      "id": "thesis#thesis__1"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [writing]{writing} on a [particular_1]{particular} [subject_1]{subject} that you do as part of a [university]{university} [degree]{degree}",
+      "entry": "dissertation",
+      "id": "dissertation#dissertation__1"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [writing]{writing} on a [particular_1]{particular} [subject_1]{subject} that is [publish]{published} in a [book_1]{book}, [magazine]{magazine}, or [newspaper]{newspaper}",
+      "entry": "essay",
+      "id": "essay#essay__3"
+    },
+    {
+      "comment": "a [formal_1]{formal} [piece_1]{piece} of [writing]{writing}, or a [short_1]{short} [book_1]{book} on a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "monograph",
+      "id": "monograph#monograph__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} that [express_1]{expresses} serious [thought_1]{thoughts} on a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "meditation",
+      "id": "meditation#meditation__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} or a [talk_1]{talk} on an [academic_1]{academic} [subject_1]{subject}",
+      "entry": "paper",
+      "id": "paper_1#paper_1__13"
+    },
+    {
+      "comment": "a serious [book_1]{book} or [piece_1]{piece} of [writing]{writing} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "treatise",
+      "id": "treatise#treatise__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} about an [important]{important} or serious [subject_1]{subject}",
+      "entry": "discussion",
+      "id": "discussion#discussion__12"
+    },
+    {
+      "comment": "a [careful]{careful} [written_1]{written} [examination]{examination} of a [subject_1]{subject} that [include]{includes} the [writer]{writer}\u2019s [opinion]{opinions}",
+      "entry": "critique",
+      "id": "critique_1#critique_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} such as a [book_1]{book} or [play_1]{play} that you [study_1]{study} for an [examination]{examination} or for [research_1]{research}",
+      "entry": "text",
+      "id": "text_1#text_1__5"
+    }
+  ],
+  "thesaurus": "Formal and academic pieces of writing",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} what you [think_1]{think} will [happen]{happen} in the [future_1]{future}",
+      "entry": "predict",
+      "id": "predict#predict__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} about what you [think_1]{think} will [happen]{happen} in the [future_1]{future}, or the [process_1]{process} of [making]{making} such a [statement_1]{statement}",
+      "entry": "prediction",
+      "id": "prediction#prediction__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} about what is [likely_1]{likely} to [happen]{happen}, [base_2]{based} on [available]{available} [information]{information} and [usually]{usually} [relate]{relating} to the [weather_1]{weather}, [business]{business}, or the [economy_1]{economy}",
+      "entry": "forecast",
+      "id": "forecast_1#forecast_1__1"
+    },
+    {
+      "comment": "a [strong]{strong} [feeling_1]{feeling} that something is [going_1]{going} to [happen]{happen}, [especially]{especially} something [bad_1]{bad}",
+      "entry": "premonition",
+      "id": "premonition#premonition__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to see what will [happen]{happen} in the [future_1]{future}",
+      "entry": "prophecy",
+      "id": "prophecy#prophecy__6"
+    },
+    {
+      "comment": "to see or [know_1]{know} something that will [happen]{happen} in the [future_1]{future}",
+      "entry": "foresee",
+      "id": "foresee#foresee__1"
+    },
+    {
+      "comment": "to [make_1]{make} it seem [likely_1]{likely} that something will [happen]{happen}",
+      "entry": "promise",
+      "id": "promise_1#promise_1__9"
+    },
+    {
+      "comment": "to [say_1]{say} what will [happen]{happen} in the [future_1]{future}",
+      "entry": "foretell",
+      "id": "foretell#foretell__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} that something is [going_1]{going} to [happen]{happen}, [especially]{especially} something [bad_1]{bad}",
+      "entry": "presentiment",
+      "id": "presentiment#presentiment__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [know_1]{know} what will [happen]{happen} in the [future_1]{future}, or an [instance_1]{instance} in which you have this [knowledge]{knowledge}",
+      "entry": "precognition",
+      "id": "precognition#precognition__1"
+    }
+  ],
+  "thesaurus": "Predicting and prediction",
+  "type": "Synonyms"
+}

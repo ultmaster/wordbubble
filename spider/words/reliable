@@ -1,0 +1,25 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a reliable [person]{person} is someone who you can [trust_1]{trust} to [behave]{behave} well, [work_1]{work} [hard_1]{hard}, or do what you [expect]{expect} them to do",
+      "examples": [
+        "Alice can take [care_1]{care} of the [children]{children}. She\u2019s very reliable.",
+        "a reliable [workman]{workman}/[car]{car}",
+        "This is a [better_1]{better} and more reliable [car]{car} than my last one.",
+        "a reliable [method]{method} of [birth]{birth} [control_1]{control}"
+      ],
+      "id": "reliable__1"
+    },
+    {
+      "def": "reliable [information]{information} can be [trust_2]{trusted} to be [accurate]{accurate}",
+      "examples": [
+        "How reliable are these [statistic]{statistics}?",
+        "There [turn_1]{turned} out to be no reliable [evidence_1]{evidence} of Mardell\u2019s [guilt_1]{guilt}.",
+        "I [heard]{heard} this from a very reliable [source_1]{source}."
+      ],
+      "id": "reliable__7"
+    }
+  ],
+  "word": "reliable"
+}

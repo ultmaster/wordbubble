@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "the sister of your mother or father, or the wife of your uncle",
+      "entry": "aunt",
+      "id": "aunt#aunt__1"
+    },
+    {
+      "comment": "your [aunt]{aunt}",
+      "entry": "auntie",
+      "id": "auntie#auntie__1"
+    },
+    {
+      "comment": "a child of your uncle or aunt. This person can also be called your first cousin. A child of the cousin of one of your parents is called a second cousin",
+      "entry": "cousin",
+      "id": "cousin#cousin__1"
+    },
+    {
+      "comment": "someone who is [related_1]{related} to you through a [brother_1]{brother}, [sister]{sister}, [uncle]{uncle}, or [aunt]{aunt} of one of your [parent]{parents}",
+      "entry": "cousin",
+      "id": "cousin#cousin__4"
+    },
+    {
+      "comment": "a child of your aunt or uncle",
+      "entry": "first cousin",
+      "id": "first-cousin#first-cousin__1"
+    },
+    {
+      "comment": "an aunt who is not married and is no longer young",
+      "entry": "maiden aunt",
+      "id": "maiden-aunt#maiden-aunt__1"
+    },
+    {
+      "comment": "a child of your parent\u2019s cousin",
+      "entry": "second cousin",
+      "id": "second-cousin#second-cousin__1"
+    },
+    {
+      "comment": "the brother of one of your parents, or the husband of your aunt. You are his niece or nephew",
+      "entry": "uncle",
+      "id": "uncle#uncle__1"
+    }
+  ],
+  "thesaurus": "Uncles and aunts and cousins",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is [bad-tempered]{bad-tempered} [easily]{easily} becomes [annoyed]{annoyed} or [angry]{angry}",
+      "entry": "bad-tempered",
+      "id": "bad-tempered#bad-tempered__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to become [easily]{easily} [annoyed]{annoyed} or [impatient]{impatient}",
+      "entry": "irritable",
+      "id": "irritable#irritable__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to become [unhappy]{unhappy} or [angry]{angry} for no [particular_1]{particular} [reason_1]{reason}",
+      "entry": "moody",
+      "id": "moody#moody__1"
+    },
+    {
+      "comment": "becoming [angry]{angry} or [upset_1]{upset} very [easily]{easily}",
+      "entry": "touchy",
+      "id": "touchy#touchy__1"
+    },
+    {
+      "comment": "someone who is [short-tempered]{short-tempered} becomes [angry]{angry} very [easily]{easily}",
+      "entry": "short-tempered",
+      "id": "short-tempered#short-tempered__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to become [angry]{angry} or [upset_1]{upset} [easily]{easily}",
+      "entry": "sensitive",
+      "id": "sensitive#sensitive__6"
+    },
+    {
+      "comment": "a [temperamental]{temperamental} [person]{person} [get]{gets} [angry]{angry} [easily]{easily}, or [change_1]{changes} from one [mood]{mood} to another very [quickly]{quickly}",
+      "entry": "temperamental",
+      "id": "temperamental#temperamental__1"
+    },
+    {
+      "comment": "[easily]{easily} [upset_1]{upset} or [annoyed]{annoyed}",
+      "entry": "fractious",
+      "id": "fractious#fractious__1"
+    },
+    {
+      "comment": "becoming [angry]{angry} very [easily]{easily}",
+      "entry": "hot-tempered",
+      "id": "hot-tempered#hot-tempered__1"
+    },
+    {
+      "comment": "[easily]{easily} becoming [angry]{angry}",
+      "entry": "irascible",
+      "id": "irascible#irascible__1"
+    }
+  ],
+  "thesaurus": "Words used to describe someone who is easily annoyed or difficult to please",
+  "type": "Synonyms"
+}

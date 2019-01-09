@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "on board",
+  "senses": [
+    {
+      "def": "on a [ship_1]{ship} or an [airplane]{airplane}",
+      "examples": [
+        "The [airplane]{airplane} had 125 [passenger]{passengers} and [crew_1]{crew} on [board_1]{board}.",
+        "A [customs]{customs} [officer]{officer} came on [board_1]{board} the [ship_1]{ship}."
+      ],
+      "id": "on-board_1__1"
+    },
+    {
+      "def": "[involved]{involved} in a [project_1]{project} or [organization]{organization}, or [working]{working} for a [company]{company}",
+      "examples": [
+        "[welcome_1]{Welcome} to the [team_1]{team}. It\u2019s [great_1]{great} to have you on [board_1]{board}."
+      ],
+      "id": "on-board_1__4"
+    }
+  ]
+}

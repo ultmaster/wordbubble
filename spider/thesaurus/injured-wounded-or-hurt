@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[hurt_1]{hurt} in an [accident]{accident} or [attack_1]{attack}",
+      "entry": "the injured",
+      "id": "injured#injured__1"
+    },
+    {
+      "comment": "[injured]{injured}, [especially]{especially} with a [cut_1]{cut} in your [flesh_1]{flesh}",
+      "entry": "wounded",
+      "id": "wounded#wounded__1"
+    },
+    {
+      "comment": "[injured]{injured}, or [feeling_1]{feeling} [physical_1]{physical} [pain_1]{pain}",
+      "entry": "hurt",
+      "id": "hurt_2#hurt_2__1"
+    },
+    {
+      "comment": "covered in bruises  (=dark marks on your skin where you have been injured but not cut)",
+      "entry": "black and blue",
+      "id": "black-and-blue#black-and-blue__1"
+    },
+    {
+      "comment": "[injured]{injured} by being [cut_1]{cut} many times",
+      "entry": "cut up",
+      "id": "cut-up_2#cut-up_2__3"
+    },
+    {
+      "comment": "a [lame_1]{lame} [animal_1]{animal} cannot [walk_1]{walk} very well because its [leg_1]{leg} or [foot_1]{foot} is [damage_2]{damaged}",
+      "entry": "lame",
+      "id": "lame_1#lame_1__1"
+    },
+    {
+      "comment": "someone who is [critical]{critical} is very [seriously]{seriously} [sick_1]{sick} or [injured]{injured} and might [die_1]{die}",
+      "entry": "critical",
+      "id": "critical#critical__11"
+    },
+    {
+      "comment": "not [suffering]{suffering} much [pain_1]{pain} [despite]{despite} being [sick_1]{sick} or [injured]{injured}",
+      "entry": "comfortable",
+      "id": "comfortable#comfortable__4"
+    },
+    {
+      "comment": "if someone is out of [action_1]{action}, they are [injured]{injured} or too [sick_1]{sick} to [perform]{perform} their [usual]{usual} [activity]{activities}",
+      "entry": "out of action",
+      "id": "out-of-action#out-of-action__1"
+    },
+    {
+      "comment": "used for describing someone who has been treated violently by a member of their family. The usual word is now abused.",
+      "entry": "battered",
+      "id": "battered#battered__3"
+    }
+  ],
+  "thesaurus": "Injured, wounded or hurt",
+  "type": "Synonyms"
+}

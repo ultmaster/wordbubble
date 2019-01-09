@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "drag in",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [talk_1]{talking} about something that is not [connected]{connected} with what you are [discuss]{discussing} and that other [people_1]{people} do not [want_1]{want} to [talk_1]{talk} about",
+      "examples": [
+        "He seemed [determined]{determined} to [drag_1]{drag} in [irrelevant]{irrelevant} [detail_1]{details} about my [personal_1]{personal} [life]{life}."
+      ],
+      "id": "drag-in__1"
+    },
+    {
+      "def": "to [make_1]{make} someone become [involved]{involved} in a [situation]{situation} when they do not [want_1]{want} to",
+      "examples": [
+        "I don\u2019t [know_1]{know} anything about the [project_1]{project}, so don\u2019t [try_1]{try} and [drag_1]{drag} me in."
+      ],
+      "id": "drag-in__3"
+    }
+  ]
+}

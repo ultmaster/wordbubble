@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in front of something",
+  "senses": [
+    {
+      "def": "in a [position_1]{position} where you can see a [particular_1]{particular} thing when you [look_1]{look} [forward_1]{forward}",
+      "examples": [
+        "She [just_1]{just} [sit]{sits} in front of the [television]{television} all [day]{day} long."
+      ],
+      "id": "in-front-of-something__1"
+    },
+    {
+      "def": "into a [place_1]{place} where a [moving]{moving} [vehicle]{vehicle} might hit you",
+      "examples": [
+        "He [step_2]{stepped} onto the [road]{road} in front of a [bus_1]{bus}."
+      ],
+      "id": "in-front-of-something__3"
+    }
+  ]
+}

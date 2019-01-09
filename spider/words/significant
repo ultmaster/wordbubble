@@ -1,0 +1,30 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "very [large_1]{large} or [noticeable]{noticeable}",
+      "examples": [
+        "I [think_1]{think} we can [save_1]{save} a significant amount of time.",
+        "The [increase_1]{increase} in [enrollment]{enrollment} this [year]{year} is significant.",
+        "a significant [portion_1]{portion} of the [population]{population}"
+      ],
+      "id": "significant__1"
+    },
+    {
+      "def": "very [important]{important}",
+      "examples": [
+        "Davis was one of the most significant [musician]{musicians} of the last [century]{century}.",
+        "There\u2019s been some significant [progress_1]{progress}."
+      ],
+      "id": "significant__5"
+    },
+    {
+      "def": "[have]{having} a [special_1]{special} [meaning_1]{meaning} that only some [people_1]{people} [understand]{understand}",
+      "examples": [
+        "The [look_1]{look} he [gave]{gave} her seemed to be significant."
+      ],
+      "id": "significant__8"
+    }
+  ],
+  "word": "significant"
+}

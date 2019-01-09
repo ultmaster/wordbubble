@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "leafy [tree]{trees} or [plant_1]{plants} have a [lot_1]{lot} of [leaves]{leaves}",
+      "examples": [
+        "leafy [green_1]{green} [vegetable]{vegetables}"
+      ],
+      "id": "leafy__1"
+    },
+    {
+      "def": "a leafy [place_1]{place} [contain]{contains} a [lot_1]{lot} of [tree]{trees} and [plant_1]{plants}",
+      "examples": [
+        "a leafy [neighborhood]{neighborhood} in the [suburb]{suburbs}"
+      ],
+      "id": "leafy__3"
+    }
+  ],
+  "word": "leafy"
+}

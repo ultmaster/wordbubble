@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "in a way that is [related_1]{related} to [profit_1]{profit}",
+      "examples": [
+        "a commercially [successful]{successful} [publication]{publication}",
+        "[forestry]{Forestry} has to be commercially [viable]{viable}."
+      ],
+      "id": "commercially__1"
+    },
+    {
+      "def": "in [order_1]{order} to be [sold]{sold}",
+      "examples": [
+        "a [crop_1]{crop} [grown_1]{grown} commercially",
+        "[infection]{infections} that cannot be [treat_1]{treated} with commercially [available]{available} [drug_1]{drugs}"
+      ],
+      "id": "commercially__4"
+    }
+  ],
+  "word": "commercially"
+}

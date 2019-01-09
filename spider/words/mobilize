@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if you mobilize a [group_1]{group} of [people_1]{people}, or if they mobilize, they come together in [order_1]{order} to [achieve]{achieve} something",
+      "examples": [
+        "We\u2019ve [mobilize]{mobilized} a hundred [volunteer_1]{volunteers} to [look_1]{look} for the [missing]{missing} [child]{child}.",
+        "mobilize [troop_1]{troops}/[tank_1]{tanks}"
+      ],
+      "id": "mobilize__1"
+    },
+    {
+      "def": "to [start_1]{start} to use all the [money]{money}, [support_1]{support}, etc. that is [available]{available} in [order_1]{order} to [achieve]{achieve} something",
+      "examples": [
+        "We [need_1]{need} to mobilize all our [energy]{energies} and [resource_1]{resources}."
+      ],
+      "id": "mobilize__5"
+    },
+    {
+      "def": "to [encourage]{encourage} [people_1]{people} to [support_1]{support} an [idea]{idea} or [plan_1]{plan}",
+      "examples": [],
+      "id": "mobilize__7"
+    }
+  ],
+  "word": "mobilize"
+}

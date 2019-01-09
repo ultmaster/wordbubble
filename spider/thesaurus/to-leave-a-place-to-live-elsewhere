@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[permanently]{permanently} to [leave_1]{leave} the [house_1]{house} or [apartment]{apartment} where you [live_1]{live} or the [place_1]{place} where you have your [business]{business}",
+      "entry": "move out",
+      "id": "move-out#move-out__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} your [country]{country} in [order_1]{order} to [live_1]{live} in another [country]{country}",
+      "entry": "emigrate",
+      "id": "emigrate#emigrate__1"
+    },
+    {
+      "comment": "to [begin]{begin} to [live_1]{live} in a [different]{different} [house_1]{house} or [area]{area}",
+      "entry": "move",
+      "id": "move_1#move_1__15"
+    },
+    {
+      "comment": "to move to a [different]{different} [place_1]{place}, or to [make_1]{make} someone or something do this",
+      "entry": "relocate",
+      "id": "relocate#relocate__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [place_1]{place}, [position_1]{position}, or way of [life]{life} in [order_1]{order} to go somewhere [quiet_1]{quieter} or to [live_1]{live} a less [active]{active} [life]{life}",
+      "entry": "retire",
+      "id": "retire#retire__6"
+    },
+    {
+      "comment": "to go to another [place_1]{place} or [country]{country} in [order_1]{order} to [work_1]{work}",
+      "entry": "migrate",
+      "id": "migrate#migrate__1"
+    },
+    {
+      "comment": "if [people_1]{people} [resettle]{resettle} somewhere, or if a [government]{government} or other [authority]{authority} [resettle]{resettles} them, they go to [live_1]{live} in a [different]{different} [region]{region} or [country]{country}",
+      "entry": "resettle",
+      "id": "resettle#resettle__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [country]{country}\u2019s most [intelligent]{intelligent} [people_1]{people}, [especially]{especially} [scientist]{scientists}, go to another [country]{country} in [order_1]{order} to [make_1]{make} more [money]{money} or to [improve_1]{improve} their [living_1]{living} or [working]{working} [condition_1]{conditions}",
+      "entry": "brain drain",
+      "id": "brain-drain#brain-drain__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [place_1]{place} in [order_1]{order} to [live_1]{live} or [work_1]{work} somewhere else",
+      "entry": "decamp",
+      "id": "decamp#decamp__1"
+    },
+    {
+      "comment": "to come into a [country]{country} because you [want_1]{want} to [live_1]{live} there",
+      "entry": "immigrate",
+      "id": "immigrate#immigrate__1"
+    }
+  ],
+  "thesaurus": "To leave a place to live elsewhere",
+  "type": "Synonyms"
+}

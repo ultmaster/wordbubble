@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[heat_1]{heat} or a [room_1]{room} that is stifling is so [hot]{hot} that it is [difficult]{difficult} for you to [breathe]{breathe}",
+      "examples": [
+        "the stifling [heat_1]{heat} of a [summer]{summer}\u2019s [day]{day}",
+        "The [hotel]{hotel} [lobby_1]{lobby} was stifling."
+      ],
+      "id": "stifling__1"
+    },
+    {
+      "def": "[air_1]{air} or a [smell_1]{smell} that is stifling [make_1]{makes} it [difficult]{difficult} for you to [breathe]{breathe}",
+      "examples": [
+        "the stifling [smell_1]{smell} of [burning]{burning} [rubber]{rubber}"
+      ],
+      "id": "stifling__4"
+    },
+    {
+      "def": "a stifling [environment]{environment} [does]{does} not [encourage]{encourage} a [relaxed]{relaxed} and [happy_1]{happy} [existence]{existence}, or the [development]{development} of [new]{new} [idea]{ideas}",
+      "examples": [
+        "the stifling [atmosphere]{atmosphere} of her [unhappy]{unhappy} [family_1]{family} [life]{life}"
+      ],
+      "id": "stifling__6"
+    }
+  ],
+  "word": "stifling"
+}

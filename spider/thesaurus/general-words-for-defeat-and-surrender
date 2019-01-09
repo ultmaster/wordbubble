@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[failure]{failure} to [win_1]{win} a [competition]{competition} or to [succeed]{succeed} in [doing]{doing} something",
+      "entry": "defeat",
+      "id": "defeat_1#defeat_1__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [saying]{saying} [officially]{officially} that you have been [defeat_2]{defeated} and will [stop_1]{stop} [fighting]{fighting}",
+      "entry": "surrender",
+      "id": "surrender_2#surrender_2__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [give_1]{giving} up something to someone who has [defeat_2]{defeated} you",
+      "entry": "surrender",
+      "id": "surrender_2#surrender_2__4"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone [decide]{decides} not to be in a [competition]{competition} any more",
+      "entry": "pullout",
+      "id": "pullout_1#pullout_1__3"
+    },
+    {
+      "comment": "the [fact]{fact} of [admit]{admitting} that you will not [win_1]{win} something such as an [argument]{argument} or [game_1]{game}",
+      "entry": "concession",
+      "id": "concession#concession__12"
+    },
+    {
+      "comment": "the [action_1]{action} of [accepting]{accepting} that someone has [defeat_2]{defeated} you or has [power_1]{power} over you",
+      "entry": "submission",
+      "id": "submission#submission__8"
+    },
+    {
+      "comment": "a [final_1]{final} [action_1]{action} that [destroy]{destroys} or [defeat_1]{defeats} something that was already [weak]{weak} or [failing_1]{failing}",
+      "entry": "coup de gr\u00e2ce",
+      "id": "coup-de-grace#coup-de-grace__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [give_1]{giving} up [right_3]{rights}, [land_1]{land}, [property]{property}, or [power_1]{power} to another [country]{country} or [institution]{institution}",
+      "entry": "cession",
+      "id": "cession#cession__1"
+    }
+  ],
+  "thesaurus": "General words for defeat and surrender",
+  "type": "Synonyms"
+}

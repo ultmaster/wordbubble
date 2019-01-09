@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "to move your body off the [ground_1]{ground} [use_1]{using} your [legs]{legs}",
+      "entry": "jump",
+      "id": "jump_1#jump_1__1"
+    },
+    {
+      "comment": "to [run_1]{run} or [jump_1]{jump} [take_1]{taking} [large_1]{large} [step_1]{steps} when you are full of [energy]{energy} or [excitement]{excitement}",
+      "entry": "bound",
+      "id": "bound_2#bound_2__1"
+    },
+    {
+      "comment": "to [jump_1]{jump} over something",
+      "entry": "leap",
+      "id": "leap_1#leap_1__8"
+    },
+    {
+      "comment": "to [jump_1]{jump} or move in a [particular_1]{particular} [direction]{direction}, [quickly]{quickly} and with a [lot_1]{lot} of [energy]{energy}",
+      "entry": "spring",
+      "id": "spring_2#spring_2__1"
+    },
+    {
+      "comment": "to move [forward_1]{forward} by [jump_1]{jumping} on one [foot_1]{foot}",
+      "entry": "hop",
+      "id": "hop_1#hop_1__1"
+    },
+    {
+      "comment": "to move [forward_1]{forward} by [jump_1]{jumping} first on one [foot_1]{foot} and then the other",
+      "entry": "skip",
+      "id": "skip_1#skip_1__1"
+    },
+    {
+      "comment": "to [jump_1]{jump} over something such as a [wall_1]{wall} or [fence_1]{fence} while you are [running_1]{running}",
+      "entry": "hurdle",
+      "id": "hurdle_2#hurdle_2__1"
+    },
+    {
+      "comment": "to [jump_1]{jump} over something, [especially]{especially} [use_1]{using} your [hand_1]{hands} or a [pole_1]{pole} to [support_1]{support} you",
+      "entry": "vault",
+      "id": "vault_2#vault_2__1"
+    },
+    {
+      "comment": "to [jump_1]{jump} [sideways]{sideways} or [forward_1]{forward}, so that your body [move_1]{moves} toward the [ground_1]{ground}",
+      "entry": "dive",
+      "id": "dive_1#dive_1__13"
+    },
+    {
+      "comment": "to move very [fast_1]{fast} through the [air_1]{air}",
+      "entry": "fly",
+      "id": "fly_1#fly_1__23"
+    },
+    {
+      "comment": "when an [antelope]{antelope} [pronk]{pronks}, it [bounce_1]{bounces} up with its back [arched]{arched} and [straight_1]{straight} [legs]{legs}",
+      "entry": "pronk",
+      "id": "pronk#pronk__1"
+    }
+  ],
+  "thesaurus": "To jump, or to move in the air",
+  "type": "Synonyms"
+}

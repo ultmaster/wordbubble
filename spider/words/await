@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [wait_1]{wait} for something that you [expect]{expect} to [happen]{happen}",
+      "examples": [
+        "They were [await]{awaiting} the [birth]{birth} of their first [child]{child}.",
+        "The [legislation]{legislation} is still [await]{awaiting} [congressional]{congressional} [approval]{approval}."
+      ],
+      "id": "await__1"
+    },
+    {
+      "def": "if something [await]{awaits} you, it will [happen]{happen} to you",
+      "examples": [
+        "Well, I [wonder_1]{wonder} what [surprise_1]{surprises} await us [today_1]{today}."
+      ],
+      "id": "await__5"
+    }
+  ],
+  "word": "await"
+}

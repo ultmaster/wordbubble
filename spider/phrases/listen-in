@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "listen in",
+  "senses": [
+    {
+      "def": "to [secretly]{secretly} [listen_1]{listen} to what someone [say_1]{says}",
+      "examples": [
+        "Rachel was [listen_1]{listening} in on our [conversation]{conversation}."
+      ],
+      "id": "listen-in__1"
+    },
+    {
+      "def": "to [listen_1]{listen} to a [radio_1]{radio} [program_1]{program}",
+      "examples": [
+        "If you [like_1]{like} [country]{country} [music]{music}, [listen_1]{listen} in at 8 [tonight_1]{tonight}.",
+        "Over ten [million]{million} [people_1]{people} [listen_1]{listened} in to that [broadcast_1]{broadcast}."
+      ],
+      "id": "listen-in__3"
+    }
+  ]
+}

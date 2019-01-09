@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "wait out",
+  "senses": [
+    {
+      "def": "to [stay_1]{stay} where you are until something [end_1]{ends}, [usually]{usually} something [bad_1]{bad}",
+      "examples": [
+        "[let_1]{Let}\u2019s go to the [basement]{basement} and [wait_1]{wait} out the [storm_1]{storm} there."
+      ],
+      "id": "wait-out__1"
+    },
+    {
+      "def": "[wait_1]{wait} for [reply_1]{reply}, [hang_1]{hang} on, do not [disconnect_1]{disconnect}: a [military]{military} [term_1]{term} [used]{used} in [communication]{communications} via [phone_1]{phone} or [text_1]{text}",
+      "examples": [
+        "Will [send_1]{send} [information]{information} (to you [shortly]{shortly}), [wait_1]{wait} out."
+      ],
+      "id": "wait-out__3"
+    }
+  ]
+}

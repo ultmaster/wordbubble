@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "an [event]{event} at which an [orchestra]{orchestra}, [band_1]{band}, or [musician]{musician} [play_1]{plays} or [sing_1]{sings} in front of an [audience]{audience}",
+      "entry": "concert",
+      "id": "concert#concert__1"
+    },
+    {
+      "comment": "a [public_1]{public} [performance]{performance}, [especially]{especially} of [jazz_1]{jazz} or [popular]{popular} [music]{music}",
+      "entry": "gig",
+      "id": "gig_1#gig_1__1"
+    },
+    {
+      "comment": "a [traditional]{traditional} Hawaiian [performance]{performance} in which [people_1]{people} [tell_1]{tell} [story]{stories} [use_1]{using} [music]{music} and [dance_1]{dances}",
+      "entry": "hula",
+      "id": "hula#hula__1"
+    },
+    {
+      "comment": "a [jam_1]{jam} [session_1]{session}",
+      "entry": "jam",
+      "id": "jam_1#jam_1__8"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when [musician]{musicians} [play_1]{play} [music]{music} together in an [informal]{informal} way",
+      "entry": "jam session",
+      "id": "jam-session#jam-session__1"
+    },
+    {
+      "comment": "the way that a [person]{person} or [group_1]{group} of [people_1]{people} [perform]{performs} a [piece_1]{piece} of [music]{music} or other [entertainment]{entertainment}",
+      "entry": "performance",
+      "id": "performance#performance__4"
+    },
+    {
+      "comment": "the way that [music]{music} is [perform]{performed} to show [clearly]{clearly} which [musical_1]{musical} [note_1]{notes} [belong]{belong} together",
+      "entry": "phrasing",
+      "id": "phrasing#phrasing__3"
+    },
+    {
+      "comment": "an impressive scene in a musical performed by all the singers and dancers together",
+      "entry": "production number",
+      "id": "production-number#production-number__1"
+    },
+    {
+      "comment": "a [concert]{concert} of [classical]{classical} [music]{music} where some of the [audience]{audience} [stand_1]{stand} in an [area]{area} without [seat_1]{seats}",
+      "entry": "promenade concert",
+      "id": "promenade-concert#promenade-concert__1"
+    },
+    {
+      "comment": "in the U.K., a [series]{series} of [classical]{classical} [music]{music} [concert]{concerts} [perform]{performed} every [summer]{summer} in the Albert [hall]{Hall} in London",
+      "entry": "the Proms",
+      "id": "the-proms#the-proms__1"
+    },
+    {
+      "comment": "a [performance]{performance} of [music]{music} or [poetry]{poetry}",
+      "entry": "recital",
+      "id": "recital#recital__1"
+    }
+  ],
+  "thesaurus": "Musical performances",
+  "type": "Related words"
+}

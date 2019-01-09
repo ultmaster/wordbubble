@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[contain]{containing} [flesh_1]{flesh}",
+      "examples": [
+        "The [needle_1]{needle} is [insert_1]{inserted} into a fleshy part of the body."
+      ],
+      "id": "fleshy__1"
+    },
+    {
+      "def": "[covered_1]{covered} with more than the [usual]{usual} amount of [flesh_1]{flesh}",
+      "examples": [
+        "His [arms]{arms} were thick and fleshy."
+      ],
+      "id": "fleshy__3"
+    },
+    {
+      "def": "a fleshy [plant_1]{plant}, [fruit_1]{fruit}, [vegetable]{vegetable}, etc. is [soft]{soft} and thick",
+      "examples": [],
+      "id": "fleshy__5"
+    }
+  ],
+  "word": "fleshy"
+}

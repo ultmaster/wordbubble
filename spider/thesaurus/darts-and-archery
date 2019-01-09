@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "the sport of shooting arrows from a bow",
+      "entry": "archery",
+      "id": "archery#archery__1"
+    },
+    {
+      "comment": "the circle in the center of a target that you try to hit in the sports of shooting or archery, or in the game of darts",
+      "entry": "bull\u2019s-eye",
+      "id": "bull-s-eye#bull-s-eye__1"
+    },
+    {
+      "comment": "a [shot_1]{shot} or [throw_1]{throw} that [hit_1]{hits} the [center_1]{center} of a [target_1]{target}",
+      "entry": "bull\u2019s-eye",
+      "id": "bull-s-eye#bull-s-eye__2"
+    },
+    {
+      "comment": "a small pointed object that you throw at a round board in order to score points in the game of darts",
+      "entry": "dart",
+      "id": "dart_1#dart_1__1"
+    },
+    {
+      "comment": "a round board that you throw darts at in the game of darts",
+      "entry": "dartboard",
+      "id": "dartboard#dartboard__1"
+    },
+    {
+      "comment": "a game in which you throw small pointed objects called darts at a round board called a dartboard in order to score points",
+      "entry": "darts",
+      "id": "darts#darts__1"
+    },
+    {
+      "comment": "a throw in the game of darts, when a player wins twice as many points by throwing a dart so that it lands in a small area near the edge of the board",
+      "entry": "double",
+      "id": "double_3#double_3__18"
+    }
+  ],
+  "thesaurus": "Darts and archery",
+  "type": "Related words"
+}

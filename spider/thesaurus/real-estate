@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "[real_1]{real} [property]{property} such as [building]{buildings} or [land_1]{land} [left_1]{left} to someone in a will",
+      "entry": "devise",
+      "id": "devise_2#devise_2__1"
+    },
+    {
+      "comment": "all the [property]{property} and [money]{money} that [belong]{belongs} to someone, [especially]{especially} someone who has [just_1]{just} [die_1]{died}",
+      "entry": "estate",
+      "id": "estate#estate__1"
+    },
+    {
+      "comment": "a [real_1]{real} [estate]{estate} [agent]{agent}",
+      "entry": "estate agent",
+      "id": "estate-agent#estate-agent__1"
+    },
+    {
+      "comment": "[including]{including} or [relate]{relating} to a [large_1]{large} [area]{area} of [land_1]{land} with one [owner]{owner}",
+      "entry": "landed",
+      "id": "landed#landed__5"
+    },
+    {
+      "comment": "[land_1]{land} and the [building]{buildings} on it",
+      "entry": "property",
+      "id": "property#property__5"
+    },
+    {
+      "comment": "[relate]{relating} to [property]{property}",
+      "entry": "property",
+      "id": "property#property__8"
+    },
+    {
+      "comment": "[land_1]{land} and the [building]{buildings} on it",
+      "entry": "real estate",
+      "id": "real-estate#real-estate__1"
+    },
+    {
+      "comment": "the [business]{business} of [buy_1]{buying} and [selling]{selling} [real_1]{real} [estate]{estate}",
+      "entry": "real estate",
+      "id": "real-estate#real-estate__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [buy_1]{buy}, [sell_1]{sell}, or [rent_1]{rent} [property]{property} for the [owner]{owner} of the [property]{property}",
+      "entry": "real estate agent",
+      "id": "real-estate-agent#real-estate-agent__1"
+    },
+    {
+      "comment": "land and the buildings on it. A more usual word is real estate.",
+      "entry": "real property",
+      "id": "real-property#real-property__1"
+    },
+    {
+      "comment": "a real estate agent who is a member of the National Association of Realtors",
+      "entry": "Realtor",
+      "id": "realtor#realtor__1"
+    },
+    {
+      "comment": "[real_1]{real} [estate]{estate}",
+      "entry": "realty",
+      "id": "realty#realty__1"
+    },
+    {
+      "comment": "someone who [measure_1]{measures} [land_1]{land} in [order_1]{order} to find [border_1]{borders} or to [decide]{decide} where [building]{buildings} will go",
+      "entry": "surveyor",
+      "id": "surveyor#surveyor__2"
+    }
+  ],
+  "thesaurus": "Real estate",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to move something such as a [cloth]{cloth} [backward_1]{backward} and [forward_1]{forward} across a [surface_1]{surface} to [clean_1]{clean} it, [dry_1]{dry} it, or [make_1]{make} it [smooth_1]{smooth}",
+      "entry": "rub",
+      "id": "rub_1#rub_1__4"
+    },
+    {
+      "comment": "to [clean_1]{clean} or [dry_1]{dry} something by [moving]{moving} a [cloth]{cloth} or something [soft]{soft} over it",
+      "entry": "wipe",
+      "id": "wipe_1#wipe_1__1"
+    },
+    {
+      "comment": "to [rub_1]{rub} the [surface_1]{surface} of something in [order_1]{order} to [make_1]{make} it [shine_1]{shine}",
+      "entry": "polish",
+      "id": "polish_1#polish_1__1"
+    },
+    {
+      "comment": "to [wash_1]{wash} or [clean_1]{clean} something by [rubbing]{rubbing} it [hard_1]{hard}, [especially]{especially} with a [brush_1]{brush}",
+      "entry": "scrub",
+      "id": "scrub_1#scrub_1__1"
+    },
+    {
+      "comment": "to [rub_1]{rub} something until it [shine_1]{shines}",
+      "entry": "shine",
+      "id": "shine_1#shine_1__8"
+    },
+    {
+      "comment": "to remove writing or drawing from a blackboard, whiteboard, etc. so that the surface is clean",
+      "entry": "rub out",
+      "id": "rub-out#rub-out__4"
+    },
+    {
+      "comment": "to [rub_1]{rub} a [surface_1]{surface}, or to put a [substance]{substance} on it, in [order_1]{order} to [make_1]{make} it [smooth_1]{smooth} and [attractive]{attractive}",
+      "entry": "finish",
+      "id": "finish_1#finish_1__12"
+    },
+    {
+      "comment": "to [touch_1]{touch} a [surface_1]{surface} [gently]{gently} several times with something such as a [piece_1]{piece} of [cloth]{cloth}, in [order_1]{order} to [make_1]{make} it [clean_1]{clean} or [dry_1]{dry}",
+      "entry": "dab",
+      "id": "dab_2#dab_2__1"
+    },
+    {
+      "comment": "to [clean_1]{clean} something [thoroughly]{thoroughly} by [rubbing]{rubbing} it [hard_1]{hard} with something rough",
+      "entry": "scour",
+      "id": "scour#scour__3"
+    },
+    {
+      "comment": "to [make_1]{make} something [shine_1]{shine} by [rubbing]{rubbing} it with something such as a [soft]{soft} [cloth]{cloth}",
+      "entry": "buff",
+      "id": "buff_3#buff_3__1"
+    }
+  ],
+  "thesaurus": "To make something clean by rubbing",
+  "type": "Synonyms"
+}

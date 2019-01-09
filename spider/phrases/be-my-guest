@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "be my guest",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that someone can do something that you are [have]{having} [difficulty]{difficulty} with or do not [want_1]{want} to do yourself",
+      "examples": [
+        "\u201cCan I [try_1]{try} [opening_1]{opening} it?\u201d \u201cBe my [guest_1]{guest}.\u201d"
+      ],
+      "id": "be-my-guest__1"
+    },
+    {
+      "def": "[yes_1]{yes}: used as a polite reply to a request",
+      "examples": [
+        "\u201cDo you [mind_1]{mind} if I [sit]{sit} down?\u201d \u201cBe my [guest_1]{guest}.\u201d"
+      ],
+      "id": "be-my-guest__3"
+    }
+  ]
+}

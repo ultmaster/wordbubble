@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "one of the two [organ]{organs} in your body that [clean_1]{clean} your [blood_1]{blood} and [remove]{remove} [waste_1]{waste}",
+      "examples": [
+        "kidney [failure]{failure}/[disease]{disease}",
+        "a kidney [transplant_1]{transplant}",
+        "They had to [remove]{remove} his kidney."
+      ],
+      "id": "kidney__1"
+    },
+    {
+      "def": "the kidney of some [animal_1]{animals} [eaten]{eaten} as [food]{food}",
+      "examples": [
+        "[steak]{steak} and kidney [pie_1]{pie}"
+      ],
+      "id": "kidney__5"
+    }
+  ],
+  "word": "kidney"
+}

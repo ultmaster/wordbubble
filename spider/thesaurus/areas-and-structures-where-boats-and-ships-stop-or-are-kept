@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} where [ship_1]{ships} can [anchor_1]{anchor}",
+      "entry": "anchorage",
+      "id": "anchorage#anchorage__1"
+    },
+    {
+      "comment": "an [enclosed]{enclosed} [area]{area} of [water_1]{water} where [boat]{boats} can be [kept]{kept}",
+      "entry": "basin",
+      "id": "basin#basin__3"
+    },
+    {
+      "comment": "a [place_1]{place} at a [port]{port} where a [ship_1]{ship} [stay_1]{stays} for a [period_1]{period} of time",
+      "entry": "berth",
+      "id": "berth_1#berth_1__1"
+    },
+    {
+      "comment": "an [enclosed]{enclosed} [area]{area} of [water_1]{water} in a [port]{port}, where [ship_1]{ships} [stay_1]{stay} while [goods]{goods} are [taken_1]{taken} on or off, [passenger]{passengers} get on or off, or [repair_1]{repairs} are done",
+      "entry": "docks",
+      "id": "dock_1#dock_1__1"
+    },
+    {
+      "comment": "the [area]{area} in a [port]{port} where the [dock_1]{docks} are",
+      "entry": "docks",
+      "id": "dock_1#dock_1__2"
+    },
+    {
+      "comment": "a [place_1]{place} where [ship_1]{ships} are [built_1]{built} or [repair_1]{repaired}.",
+      "entry": "dockyard",
+      "id": "dockyard#dockyard__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [ship_1]{ship} or [boat]{boat} can be [taken_1]{taken} out of the [water_1]{water} and [repair_1]{repaired}",
+      "entry": "dry dock",
+      "id": "dry-dock#dry-dock__1"
+    },
+    {
+      "comment": "an area of water near the land where it is safe for boats to stay. A port is a harbor where passengers and goods can be taken on and off",
+      "entry": "harbor",
+      "id": "harbor_1#harbor_1__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [harbor_1]{harbor}",
+      "entry": "harbour",
+      "id": "harbour#harbour__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [structure_1]{structure} that [go_1]{goes} from the [land_1]{land} out into a [lake]{lake}, [ocean]{ocean}, or [river]{river} to [provide]{provide} a [place_1]{place} for [boat]{boats} to [stop_1]{stop} at",
+      "entry": "jetty",
+      "id": "jetty#jetty__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [leave_1]{leave} a [boat]{boat}",
+      "entry": "landing",
+      "id": "landing#landing__10"
+    },
+    {
+      "comment": "a [landing]{landing} for [boat]{boats}",
+      "entry": "landing place",
+      "id": "landing-place#landing-place__1"
+    },
+    {
+      "comment": "a [wooden]{wooden} [structure_1]{structure} where [people_1]{people} or [goods]{goods} [leave_1]{leave} a [boat]{boat}",
+      "entry": "landing stage",
+      "id": "landing-stage#landing-stage__1"
+    },
+    {
+      "comment": "an [area]{area} of [water_1]{water} beside the [land_1]{land}, that is [design_2]{designed} for [keeping]{keeping} [small_1]{small} [private_1]{private} [boat]{boats} in",
+      "entry": "marina",
+      "id": "marina#marina__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [boat]{boat} or [ship_1]{ship} can be [tied]{tied} up",
+      "entry": "mooring",
+      "id": "mooring#mooring__1"
+    },
+    {
+      "comment": "the [rope_1]{ropes} or [chain_1]{chains} that a [boat]{boat} or [ship_1]{ship} is [tied]{tied} to",
+      "entry": "mooring",
+      "id": "mooring#mooring__2"
+    },
+    {
+      "comment": "a [structure_1]{structure} [built_1]{built} over [water_1]{water} where [people_1]{people} can get on and off [small_1]{small} [boat]{boats}",
+      "entry": "platform",
+      "id": "platform#platform__6"
+    },
+    {
+      "comment": "a [type_1]{type} of [boat]{boat} or [metal_1]{metal} [container]{container} with a [flat_1]{flat} bottom, [used]{used} for [supporting]{supporting} a [temporary]{temporary} [bridge_1]{bridge} for [people_1]{people} on a [boat]{boat} to [land_1]{land} on",
+      "entry": "pontoon",
+      "id": "pontoon#pontoon__1"
+    },
+    {
+      "comment": "an area of water where ships stop, including the buildings around it. A harbor is the same thing but smaller and is intended for smaller boats",
+      "entry": "port",
+      "id": "port#port__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [surface_1]{surface} next to an [ocean]{ocean} or [river]{river}, where [boat]{boats} can [stop_1]{stop}",
+      "entry": "quay",
+      "id": "quay#quay__1"
+    },
+    {
+      "comment": "a [slope_1]{slope} [used]{used} for [moving]{moving} [boat]{boats} into and out of [water_1]{water}",
+      "entry": "slipway",
+      "id": "slipway#slipway__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} [built_1]{built} for [boat]{boats} to [stop_1]{stop} at, at the [edge_1]{edge} of the [land_1]{land} or [leading]{leading} from the [land_1]{land} out into the [water_1]{water}",
+      "entry": "wharf",
+      "id": "wharf#wharf__1"
+    }
+  ],
+  "thesaurus": "Areas and structures where boats and ships stop or are kept",
+  "type": "Related words"
+}

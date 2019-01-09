@@ -1,0 +1,39 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [ask_1]{ask} for something in an [urgent]{urgent} or [emotional]{emotional} way",
+      "examples": [
+        "He [knelt]{knelt} in front of the [king]{king}, [pleading_1]{pleading} for [mercy]{mercy}.",
+        "I [plead]{pleaded} with you to [stay_1]{stay}, but you [turn_1]{turned} your back on me.",
+        "\u201cPlease [help_1]{help} us,\u201d Claire [plead]{pleaded}."
+      ],
+      "id": "plead__1"
+    },
+    {
+      "def": "to [say_1]{say} in a [court_1]{court} of [law]{law} whether you are [guilty]{guilty} of a [crime_1]{crime} or not",
+      "examples": [
+        "Both [defendant]{defendants} [plead]{pleaded} not [guilty]{guilty} to the [charge_1]{charges}."
+      ],
+      "id": "plead__5"
+    },
+    {
+      "def": "to [mention_1]{mention} something as an [excuse_1]{excuse} for [doing]{doing} or not [doing]{doing} something",
+      "examples": [
+        "[pleading_1]{Pleading} [poverty]{poverty}, he [sought]{sought} [charity]{charity} from [local_1]{local} [shopkeeper]{shopkeepers}.",
+        "Ellie [plead]{pleaded} tiredness and went to [bed_1]{bed} very [early_1]{early}."
+      ],
+      "id": "plead__7"
+    },
+    {
+      "def": "to [try_1]{try} to show that something is [important]{important} or [worth_1]{worth} [trying]{trying} to [achieve]{achieve}",
+      "examples": [
+        "He [plead]{pleaded} the [case_1]{case} for [continued]{continued} [cooperation]{cooperation} with the Russians.",
+        "Her [book_1]{book} [plead]{pleaded} the cause of [women]{women}\u2019s [education]{education}."
+      ],
+      "id": "plead__10"
+    }
+  ],
+  "word": "plead"
+}

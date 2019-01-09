@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [spoiled]{spoiled} or [harm_2]{harmed}",
+      "entry": "undamaged",
+      "id": "undamaged#undamaged__1"
+    },
+    {
+      "comment": "with no [part_1]{parts} [missing]{missing}, [damage_2]{damaged}, or [spoiled]{spoiled}",
+      "entry": "perfect",
+      "id": "perfect_1#perfect_1__7"
+    },
+    {
+      "comment": "not [harm_2]{harmed}, [damage_2]{damaged}, or [lacking]{lacking} any [part_1]{parts} as a [result_1]{result} of something that has [happen]{happened}",
+      "entry": "intact",
+      "id": "intact#intact__1"
+    },
+    {
+      "comment": "not [broken_1]{broken} or [damage_2]{damaged}",
+      "entry": "unbroken",
+      "id": "unbroken#unbroken__5"
+    },
+    {
+      "comment": "not [divided]{divided} or [broken_1]{broken}",
+      "entry": "whole",
+      "id": "whole_1#whole_1__7"
+    },
+    {
+      "comment": "not [damage_2]{damaged} or [spoiled]{spoiled} in any way and still [able_1]{able} to be [used]{used} or [eaten]{eaten}",
+      "entry": "good",
+      "id": "good_1#good_1__58"
+    },
+    {
+      "comment": "not [spoiled]{spoiled}, [especially]{especially} by a [situation]{situation} that could have [cause_2]{caused} [damage_1]{damage}",
+      "entry": "untainted",
+      "id": "untainted#untainted__1"
+    },
+    {
+      "comment": "not [harm_2]{harmed} by something that has [happen]{happened}",
+      "entry": "unimpaired",
+      "id": "unimpaired#unimpaired__1"
+    },
+    {
+      "comment": "in [good_1]{good} [condition_1]{condition} for its [age_1]{age}",
+      "entry": "well-preserved",
+      "id": "well-preserved#well-preserved__3"
+    },
+    {
+      "comment": "something that is as [new]{new} is in [extremely]{extremely} [good_1]{good} [condition_1]{condition}, although it is not [new]{new}",
+      "entry": "as new",
+      "id": "as-new#as-new__1"
+    }
+  ],
+  "thesaurus": "In good condition and not damaged",
+  "type": "Synonyms"
+}

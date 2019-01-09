@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to be [different]{different} from something else",
+      "examples": [
+        "The two [animal_1]{animals} come from the same [family_1]{family} but differ in body [shape_1]{shape} and [breeding]{breeding} [habit]{habits}.",
+        "English [differ]{differs} from Spanish in that it is not [pronounced]{pronounced} as it is [written_1]{written}.",
+        "[law]{Laws} on [pollution]{pollution} differ [widely]{widely} from one [country]{country} to another.",
+        "The [technique]{techniques} [used]{used} differ from [company]{company} to [company]{company}."
+      ],
+      "id": "differ__1"
+    },
+    {
+      "def": "to [disagree]{disagree} with someone about a [subject_1]{subject}",
+      "examples": [
+        "[expert_1]{Experts} differ on the [cause_1]{causes} of the [disease]{disease}.",
+        "[opinion]{Opinions} differ as to the [likely_1]{likely} [winner]{winner} of the [tournament]{tournament}.",
+        "[baker]{Baker} also [differ]{differed} with [member]{members} of [congress_1]{Congress} over this [issue_1]{issue}.",
+        "I [beg]{beg} to differ with you a [bit_1]{bit} there."
+      ],
+      "id": "differ__7"
+    }
+  ],
+  "word": "differ"
+}

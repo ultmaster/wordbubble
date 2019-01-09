@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something empty by [take_1]{taking} everything out of it",
+      "entry": "empty",
+      "id": "empty_2#empty_2__1"
+    },
+    {
+      "comment": "to take [thing]{things} out of a [suitcase]{suitcase} or other [container]{container} that you were [carry_1]{carrying} them in",
+      "entry": "unpack",
+      "id": "unpack#unpack__1"
+    },
+    {
+      "comment": "if a [place_1]{place} [clear_2]{clears}, the [people_1]{people} in it [leave_1]{leave} it",
+      "entry": "clear",
+      "id": "clear_2#clear_2__6"
+    },
+    {
+      "comment": "to [turn_1]{turn} a [container]{container} [upside_1]{upside} down so that the [thing]{things} [inside_1]{inside} it come out",
+      "entry": "tip up",
+      "id": "tip-up#tip-up__1"
+    },
+    {
+      "comment": "to [remove]{remove} something from a [container]{container} by [turning]{turning} it [upside_1]{upside} down",
+      "entry": "turn out",
+      "id": "turn-out#turn-out__20"
+    },
+    {
+      "comment": "to [pour]{pour} something from one [place_1]{place} or [container]{container} into another",
+      "entry": "tip",
+      "id": "tip_2#tip_2__14"
+    },
+    {
+      "comment": "if a tire or balloon deflates, or if you deflate it, air comes out of it",
+      "entry": "deflate",
+      "id": "deflate#deflate__3"
+    },
+    {
+      "comment": "to [remove]{remove} everything from your [pocket_1]{pockets} or a [bag_1]{bag}",
+      "entry": "turn out",
+      "id": "turn-out#turn-out__22"
+    },
+    {
+      "comment": "to [stop_1]{stop} being [block_2]{blocked}",
+      "entry": "clear",
+      "id": "clear_2#clear_2__10"
+    },
+    {
+      "comment": "if a [place_1]{place} [empties]{empties}, all the [people_1]{people} in it [leave_1]{leave}",
+      "entry": "empty",
+      "id": "empty_2#empty_2__7"
+    }
+  ],
+  "thesaurus": "To empty a place or container, or to become empty",
+  "type": "Synonyms"
+}

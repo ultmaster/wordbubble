@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "letters, packages, etc. that are delivered by the post office every day. The usual British word is post",
+      "entry": "mail",
+      "id": "mail_1#mail_1__1"
+    },
+    {
+      "comment": "all the mail received by a newspaper, magazine, television, or radio program, or a well-known person at one time. The usual British word is postbag",
+      "entry": "mailbag",
+      "id": "mailbag#mailbag__3"
+    },
+    {
+      "comment": "a [package_1]{package}",
+      "entry": "parcel",
+      "id": "parcel_1#parcel_1__1"
+    },
+    {
+      "comment": "[post_1]{post} [office]{office}",
+      "entry": "PO",
+      "id": "po#po__3"
+    },
+    {
+      "comment": "the [mail_1]{mail}",
+      "entry": "post",
+      "id": "post_1#post_1__13"
+    },
+    {
+      "comment": "someone whose job is to manage a post office",
+      "entry": "postmaster",
+      "id": "postmaster#postmaster__1"
+    },
+    {
+      "comment": "a woman whose job is to manage a post office",
+      "entry": "postmistress",
+      "id": "postmistress#postmistress__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [buy_1]{buy} [stamp_1]{stamps}, [mail_1]{mail} [letter_1]{letters} and [package_1]{packages}, and [receive]{receive} [mail_1]{mail}",
+      "entry": "post office",
+      "id": "post-office#post-office__1"
+    },
+    {
+      "comment": "the [organization]{organization} in the U.K. that is [responsible]{responsible} for [collect_1]{collecting} and [deliver]{delivering} [mail_1]{mail}",
+      "entry": "the Royal Mail",
+      "id": "the-royal-mail#the-royal-mail__1"
+    },
+    {
+      "comment": "letters that are sent by mail. This expression is used mainly by people writing e-mails.",
+      "entry": "snail mail",
+      "id": "snail-mail#snail-mail__1"
+    },
+    {
+      "comment": "a [building]{building} where [post_1]{post} [office]{office} [worker]{workers} put [mail_1]{mail} into [different]{different} [box_1]{boxes} [accord_2]{according} to the [town]{town}, [area]{area}, or [street_1]{street} that it is [going_1]{going} to",
+      "entry": "sorting office",
+      "id": "sorting-office#sorting-office__1"
+    }
+  ],
+  "thesaurus": "The post office and post",
+  "type": "Related words"
+}

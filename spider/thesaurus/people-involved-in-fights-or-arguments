@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [dislike_1]{dislikes} something very [strongly]{strongly} and often without [good_1]{good} [reason_1]{reason}",
+      "entry": "hater",
+      "id": "hater#hater__1"
+    },
+    {
+      "comment": "someone who [disagree]{disagrees} with something such as an [idea]{idea} or [plan_1]{plan} and [try_1]{tries} to [change_1]{change} or [stop_1]{stop} it",
+      "entry": "opponent",
+      "id": "opponent#opponent__6"
+    },
+    {
+      "comment": "someone who often [get]{gets} [involved]{involved} in [physical_1]{physical} [fight_1]{fights}",
+      "entry": "fighter",
+      "id": "fighter#fighter__5"
+    },
+    {
+      "comment": "someone who [disagree]{disagrees} with something",
+      "entry": "objector",
+      "id": "objector#objector__1"
+    },
+    {
+      "comment": "someone who [strongly]{strongly} [disagree]{disagrees} with something",
+      "entry": "dissenter",
+      "id": "dissenter#dissenter__1"
+    },
+    {
+      "comment": "someone [involved]{involved} in a [fight_1]{fight} or [argument]{argument}",
+      "entry": "warrior",
+      "id": "warrior#warrior__2"
+    },
+    {
+      "comment": "someone who [publicly]{publicly} [criticize]{criticizes} someone or something",
+      "entry": "detractor",
+      "id": "detractor#detractor__1"
+    }
+  ],
+  "thesaurus": "People involved in fights or arguments",
+  "type": "Synonyms"
+}

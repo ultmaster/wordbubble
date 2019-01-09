@@ -1,0 +1,52 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [comment_1]{comment} that [mention_1]{mentions} someone or something",
+      "examples": [
+        "The [title]{title} is [apparently]{apparently} a reference to the [singer]{singer}\u2019s [brother_1]{brother}.",
+        "He [politely]{politely} made no reference to my [messy]{messy} [appearance]{appearance}.",
+        "Her [speech]{speech} [contain]{contained} only a [passing_1]{passing} reference to [tax_1]{tax} [reform_1]{reform}."
+      ],
+      "id": "reference_1__1"
+    },
+    {
+      "def": "the [process_1]{process} of [look_1]{looking} at something in [order_1]{order} to get [information]{information}",
+      "examples": [
+        "The [sentence_1]{sentences} are [number_2]{numbered} for ease of reference.",
+        "the reference [section_1]{section} of the [library]{library}"
+      ],
+      "id": "reference_1__5"
+    },
+    {
+      "def": "a [statement_1]{statement} from someone who [know_1]{knows} you or has [work_1]{worked} with you that [give_1]{gives} [information]{information} about you. You often [need_1]{need} to [provide]{provide} a reference when you [apply]{apply} for a [new]{new} [job_1]{job}",
+      "examples": [
+        "Her former [employer]{employer} [refuse_1]{refused} to [provide]{provide} a reference for her."
+      ],
+      "id": "reference_1__9"
+    },
+    {
+      "def": "a [word_1]{word} or [phrase_1]{phrase} that comes from a [book_1]{book} or a [poem]{poem}",
+      "examples": [
+        "His [writing]{writing} is full of [obscure_1]{obscure} [literary]{literary} [reference_1]{references}."
+      ],
+      "id": "reference_1__12"
+    },
+    {
+      "def": "a [writer]{writer} or a [piece_1]{piece} of [work_1]{work} that is [mention_1]{mentioned} in a [piece_1]{piece} of [writing]{writing} by someone else",
+      "examples": [
+        "There was a long [list_1]{list} of [reference_1]{references} at the [end_1]{end} of the [paper_1]{paper}."
+      ],
+      "id": "reference_1__14"
+    },
+    {
+      "def": "a [number_1]{number} or [symbol]{symbol} that [show_1]{shows} someone where they can find [information]{information} that they [need_1]{need}",
+      "examples": [
+        "Please [quote_1]{quote} your [customer]{customer} reference [number_1]{number} if you [need_1]{need} to [contact_1]{contact} us.",
+        "[start_1]{Start} your [walk_1]{walk} at [map_1]{map} reference 2D."
+      ],
+      "id": "reference_1__16"
+    }
+  ],
+  "word": "reference"
+}

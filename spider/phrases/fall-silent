@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fall silent",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [talk_1]{talking} or [making]{making} a [noise]{noise}",
+      "examples": [
+        "\u201cI\u2019ve [said_1]{said} enough\u201d he [mumble]{mumbled}, and [fell_1]{fell} [silent]{silent}."
+      ],
+      "id": "fall-silent__1"
+    },
+    {
+      "def": "if [guns]{guns} [fall_1]{fall} [silent]{silent}, they [stop_1]{stop} [fire_2]{firing}",
+      "examples": [
+        "A [ceasefire]{ceasefire} was [agreed]{agreed} to and the [guns]{guns} [fell_1]{fell} [silent]{silent}."
+      ],
+      "id": "fall-silent__3"
+    }
+  ]
+}

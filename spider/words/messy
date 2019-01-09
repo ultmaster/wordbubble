@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [neat]{neat} or [dirty_1]{dirty}",
+      "examples": [
+        "a messy [kitchen]{kitchen}/[office]{office}/[bedroom]{bedroom}"
+      ],
+      "id": "messy__1"
+    },
+    {
+      "def": "[complicated]{complicated}, [difficult]{difficult}, and [unpleasant]{unpleasant} to [deal_1]{deal} with",
+      "examples": [
+        "[politics]{Politics} has always been a messy [business]{business}.",
+        "a messy [divorce_1]{divorce}/[relationship]{relationship}"
+      ],
+      "id": "messy__3"
+    }
+  ],
+  "word": "messy"
+}

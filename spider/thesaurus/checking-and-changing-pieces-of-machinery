@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [small_1]{small} [change_1]{changes} to an [engine]{engine} or a [machine_1]{machine} so that it [work_1]{works} [better_1]{better}",
+      "entry": "tune",
+      "id": "tune_2#tune_2__2"
+    },
+    {
+      "comment": "to find out why something such as a [piece_1]{piece} of [equipment]{equipment} or [software]{software} is not [working]{working}",
+      "entry": "diagnose",
+      "id": "diagnose#diagnose__5"
+    },
+    {
+      "comment": "to [check_1]{check} or [change_1]{change} a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [measure_2]{measuring} [thing]{things} in [order_1]{order} to [make_1]{make} it [accurate]{accurate}",
+      "entry": "calibrate",
+      "id": "calibrate#calibrate__1"
+    },
+    {
+      "comment": "to [set_1]{set} a [piece_1]{piece} of [equipment]{equipment} or [control_1]{control} to \u201c0\u201d",
+      "entry": "zero",
+      "id": "zero_2#zero_2__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [check_1]{checking} or [change_1]{changing} a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [measure_2]{measuring} [thing]{things} in [order_1]{order} to [make_1]{make} it [accurate]{accurate}",
+      "entry": "calibration",
+      "id": "calibration#calibration__1"
+    },
+    {
+      "comment": "a [series]{series} of [small_1]{small} [change_1]{changes} made to a [vehicle]{vehicle}\u2019s [engine]{engine} so that it will [work_1]{work} [better_1]{better}",
+      "entry": "tune-up",
+      "id": "tune-up_2#tune-up_2__1"
+    },
+    {
+      "comment": "to [control_1]{control} a [machine_1]{machine} so that it [work_1]{works} [effectively]{effectively}",
+      "entry": "regulate",
+      "id": "regulate#regulate__3"
+    },
+    {
+      "comment": "to [set_1]{set} the [control_1]{controls} on a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} so that it will [start_1]{start} to [work_1]{work} at a [later_1]{later} time",
+      "entry": "preset",
+      "id": "preset#preset__1"
+    },
+    {
+      "comment": "to cause [equipment]{equipment} to [set_1]{set} or [change_1]{change} [itself]{itself} [automatically]{automatically}",
+      "entry": "autotune",
+      "id": "autotune_2#autotune_2__4"
+    }
+  ],
+  "thesaurus": "Checking and changing pieces of machinery",
+  "type": "Synonyms"
+}

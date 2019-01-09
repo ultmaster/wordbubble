@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "an area containing a radio station that passes on signals for cell phones",
+      "entry": "cell",
+      "id": "cell#cell__9"
+    },
+    {
+      "comment": "[design_2]{designed} to [send_1]{send} or [receive]{receive} [radio_1]{radio} [signal_1]{signals} [better_1]{better} in one [direction]{direction} than in others",
+      "entry": "directional",
+      "id": "directional#directional__2"
+    },
+    {
+      "comment": "the area that a broadcast signal, especially one from a satellite, can reach",
+      "entry": "footprint",
+      "id": "footprint#footprint__8"
+    },
+    {
+      "comment": "a way of [identify]{identifying} a [cell]{cell} [phone_1]{phone} or [internet]{internet} [user]{user's} [real_1]{real} [geographical]{geographical} [location]{location}",
+      "entry": "geolocation",
+      "id": "geolocation#geolocation__1"
+    },
+    {
+      "comment": "to be [able_1]{able} to [receive]{receive} [particular_1]{particular} [broadcast_1]{broadcasts} on your [television]{television} or [radio_1]{radio}",
+      "entry": "get",
+      "id": "get#get__134"
+    },
+    {
+      "comment": "the appearance of a double image on a television screen, caused by problems with your reception",
+      "entry": "ghosting",
+      "id": "ghosting#ghosting__1"
+    },
+    {
+      "comment": "global positioning system: a system for finding exactly where you are anywhere in the world using satellites  (=objects that go around the earth high in the sky)",
+      "entry": "GPS",
+      "id": "gps#gps__1"
+    },
+    {
+      "comment": "[radio_1]{radio} [signal_1]{signals} that [make_1]{make} the [sound_1]{sound} or [picture_1]{picture} of a [radio_1]{radio} or [television]{television} [program_1]{program} [difficult]{difficult} to [hear]{hear} or see [clearly]{clearly}, or the [noise]{noise} [cause_2]{caused} by this",
+      "entry": "interference",
+      "id": "interference#interference__3"
+    },
+    {
+      "comment": "to block a radio, television, or other electronic signal by broadcasting another signal on the same wavelength",
+      "entry": "jam",
+      "id": "jam_2#jam_2__15"
+    },
+    {
+      "comment": "to [receive]{receive} an [electronic]{electronic} [signal_1]{signal} on a [radio_1]{radio} or [similar]{similar} [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "pick up",
+      "id": "pick-up#pick-up__23"
+    },
+    {
+      "comment": "a system that [use_1]{uses} [radio_1]{radio} [signal_1]{signals} for [find_1]{finding} the [exact_1]{exact} [position_1]{position} of something such as an [aircraft]{aircraft} or a [ship_1]{ship}",
+      "entry": "radar",
+      "id": "radar#radar__1"
+    },
+    {
+      "comment": "to get [picture_1]{pictures} or [sound_1]{sound} on a [television]{television}, [radio_1]{radio}, or [cell]{cell} [phone_1]{phone}",
+      "entry": "receive",
+      "id": "receive#receive__22"
+    },
+    {
+      "comment": "the [quality_1]{quality} or [strength]{strength} of the [picture_1]{picture} or [sound_1]{sound} that you [receive]{receive} on a [television]{television}, [radio_1]{radio}, or [cell-phone]{cellphone}",
+      "entry": "reception",
+      "id": "reception#reception__11"
+    },
+    {
+      "comment": "to examine an area using sonar or radar equipment in order to find objects in it",
+      "entry": "scan",
+      "id": "scan_1#scan_1__12"
+    },
+    {
+      "comment": "a piece of equipment for examining an area using sonar or radar signals in order to find objects in it",
+      "entry": "scanner",
+      "id": "scanner#scanner__3"
+    },
+    {
+      "comment": "a [measure_1]{measure} of the [strength]{strength} of the [radio_1]{radio} [signal_1]{signal} that you [want_1]{want} to [hear]{hear}, [compared]{compared} to the [strength]{strength} of other [signal_1]{signals} you can also [hear]{hear}",
+      "entry": "signal-to-noise ratio",
+      "id": "signal-to-noise-ratio#signal-to-noise-ratio__2"
+    },
+    {
+      "comment": "[unpleasant]{unpleasant} [noise]{noise} that you [hear]{hear} on a [radio_1]{radio}, [television]{television}, or [telephone_1]{telephone}, [cause_2]{caused} by [electricity]{electricity} in the [air_1]{air}",
+      "entry": "static",
+      "id": "static_1#static_1__1"
+    },
+    {
+      "comment": "to [follow]{follow} the [course_1]{course} of a [moving]{moving} [object_1]{object} such as a [ship_1]{ship} or [aircraft]{aircraft} [use_1]{using} [special_1]{special} [equipment]{equipment}",
+      "entry": "track",
+      "id": "track_2#track_2__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [send_1]{sending} out [electronic]{electronic} [signal_1]{signals} such as [radio_1]{radio} or [television]{television} [signal_1]{signals}, or a [signal_1]{signal} [sent]{sent} out in this way",
+      "entry": "transmission",
+      "id": "transmission#transmission__3"
+    },
+    {
+      "comment": "the [unpleasant]{unpleasant} [noise]{noise} made by a [radio_1]{radio} or [television]{television} when it is not [receive]{receiving} the [correct_1]{correct} [signal_1]{signal}",
+      "entry": "white noise",
+      "id": "white-noise#white-noise__1"
+    }
+  ],
+  "thesaurus": "Radio, radar and sonar signals",
+  "type": "Related words"
+}

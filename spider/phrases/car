@@ -1,0 +1,19 @@
+{
+  "phrase": "car",
+  "senses": [
+    {
+      "def": "a [road]{road} [vehicle]{vehicle} for one [driver]{driver} and a few [passenger]{passengers}. Someone who [drive_1]{drives} a car is [call_1]{called} a driver",
+      "examples": [
+        "I\u2019ll take you to the train station in the car."
+      ],
+      "id": "car__1"
+    },
+    {
+      "def": "one of the [separate_1]{separate} [section_1]{sections} of a [train_1]{train}. The [british]{British} [word_1]{word} is carriage",
+      "examples": [
+        "Our car was near the front of the train."
+      ],
+      "id": "car__7"
+    }
+  ]
+}

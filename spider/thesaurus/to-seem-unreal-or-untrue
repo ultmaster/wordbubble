@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "if something [lie_1]{lies}, it [show_1]{shows} or [suggest]{suggests} [fact]{facts} that are not [true_1]{true}",
+      "entry": "lie",
+      "id": "lie_1#lie_1__30"
+    },
+    {
+      "comment": "to [sound_1]{sound} [false]{false} or not sincere",
+      "entry": "ring hollow",
+      "id": "ring-hollow#ring-hollow__1"
+    },
+    {
+      "comment": "if a [set_1]{set} of [fact]{facts} [does]{does} not [add_1]{add} up, you do not [believe]{believe} it is [correct_1]{correct} because it [does]{does} not [match_1]{match} other [information]{information} that you already have",
+      "entry": "add up",
+      "id": "add-up#add-up__6"
+    },
+    {
+      "comment": "to [make_1]{make} someone or something [appear]{appear} to be [different]{different} from how they [really]{really} are",
+      "entry": "belie",
+      "id": "belie#belie__1"
+    },
+    {
+      "comment": "to not seem sincere or [real_1]{real}",
+      "entry": "have a hollow ring",
+      "id": "have-a-hollow-ring#have-a-hollow-ring__1"
+    }
+  ],
+  "thesaurus": "To seem unreal or untrue",
+  "type": "Synonyms"
+}

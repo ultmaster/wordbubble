@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "let out",
+  "senses": [
+    {
+      "def": "to [allow]{allow} a [person]{person} or [animal_1]{animal} to [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "Would you [let_1]{let} the [dog_1]{dog} out, please?",
+        "[school_1]{School} [let_1]{lets} out in June."
+      ],
+      "id": "let-out__1"
+    },
+    {
+      "def": "to [make_1]{make} a [noise]{noise}",
+      "examples": [
+        "As he [walk_1]{walked} [away_1]{away}, he [let_1]{let} out a [sigh_1]{sigh} of [relief]{relief}."
+      ],
+      "id": "let-out__5"
+    },
+    {
+      "def": "to use the [extra_1]{extra} [cloth]{cloth} in a [fold_1]{fold} of a [piece_1]{piece} of [clothing]{clothing} to [make_1]{make} it [wide_1]{wider}",
+      "examples": [
+        "I\u2019m [going_1]{going} to have this [skirt_1]{skirt} [let_1]{let} out."
+      ],
+      "id": "let-out__7"
+    },
+    {
+      "def": "to [allow]{allow} someone to use a [room_1]{room}, [building]{building}, etc. in [exchange_1]{exchange} for [money]{money}",
+      "examples": [],
+      "id": "let-out__9"
+    }
+  ]
+}

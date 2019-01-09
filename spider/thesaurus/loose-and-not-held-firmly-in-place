@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [firm_1#firm_1__28]{firmly} [fixed]{fixed} in [position_1]{position}",
+      "entry": "loose",
+      "id": "loose_1#loose_1__1"
+    },
+    {
+      "comment": "[loose_1]{loose} and not [pull_1]{pulled} [tight_1]{tight}",
+      "entry": "slack",
+      "id": "slack_1#slack_1__1"
+    },
+    {
+      "comment": "not [fixed]{fixed} to anything, and [able_1]{able} to move anywhere",
+      "entry": "free-floating",
+      "id": "free-floating#free-floating__1"
+    },
+    {
+      "comment": "not [held]{held} [firm_1#firm_1__28]{firmly} in [place_1]{place}",
+      "entry": "wobbly",
+      "id": "wobbly#wobbly__3"
+    },
+    {
+      "comment": "not made [firm_1]{firm} or [tight_1]{tight}",
+      "entry": "lax",
+      "id": "lax#lax__4"
+    },
+    {
+      "comment": "not [safely]{safely} [fasten]{fastened}, [closed]{closed}, or [contain]{contained}",
+      "entry": "unsecured",
+      "id": "unsecured#unsecured__2"
+    },
+    {
+      "comment": "not [closed]{closed}, [tied]{tied}, or [fasten]{fastened}",
+      "entry": "undone",
+      "id": "undone#undone__3"
+    },
+    {
+      "comment": "not [held]{held}, [tied]{tied}, or [fixed]{fixed} to somewhere",
+      "entry": "free",
+      "id": "free_1#free_1__9"
+    },
+    {
+      "comment": "not [physically]{physically} [support_1]{supported} by anything",
+      "entry": "unsupported",
+      "id": "unsupported#unsupported__3"
+    },
+    {
+      "comment": "[moving]{moving} from side to side in a way that is not [steady_1]{steady}",
+      "entry": "wobbly",
+      "id": "wobbly#wobbly__1"
+    }
+  ],
+  "thesaurus": "Loose and not held firmly in place",
+  "type": "Synonyms"
+}

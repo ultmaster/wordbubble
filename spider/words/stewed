@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "stewed [fruit_1]{fruit} or [meat]{meat} has been [cooked]{cooked} [slowly]{slowly} in a [liquid_1]{liquid}",
+      "examples": [
+        "stewed [apple]{apples}"
+      ],
+      "id": "stewed__1"
+    },
+    {
+      "def": "[drunk_1#drunk_1__1]{drunk}",
+      "examples": [],
+      "id": "stewed__3"
+    },
+    {
+      "def": "stewed [tea]{tea} has become too [strong]{strong} and has [developed]{developed} an [unpleasant]{unpleasant} [taste_1]{taste}",
+      "examples": [],
+      "id": "stewed__4"
+    }
+  ],
+  "word": "stewed"
+}

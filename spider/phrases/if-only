@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "if only",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you would [like_1]{like} a [situation]{situation} to be [different]{different}",
+      "examples": [
+        "If only we could [afford]{afford} to [buy_1]{buy} a [place_1]{place} of our own.",
+        "If only you [knew]{knew} how [hard_1]{hard} I\u2019ve [tried_1]{tried} to please you.",
+        "There\u2019s so much more I could do if only I had the time."
+      ],
+      "id": "if-only__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that when something [good_1]{good} [happen]{happens}, it may only be for a [limited]{limited} [purpose]{purpose}, time, etc.",
+      "examples": [
+        "I [wish_1]{wish} he\u2019d come and see us sometime, if only [just_1]{just} to [say_1]{say} [hello]{hello}."
+      ],
+      "id": "if-only__5"
+    }
+  ]
+}

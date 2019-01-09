@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [set_1]{set} of [letter_1]{letters} in a [particular_1]{particular} [order_1]{order} that are [used]{used} for [writing]{writing} a [language]{language}",
+      "entry": "alphabet",
+      "id": "alphabet#alphabet__1"
+    },
+    {
+      "comment": "[arrange]{arranged} [accord_2]{according} to the [order_1]{order} of [letter_1]{letters} in the [alphabet]{alphabet}",
+      "entry": "alphabetical",
+      "id": "alphabetical#alphabetical__1"
+    },
+    {
+      "comment": "to put a [list_1]{list} in [alphabetical]{alphabetical} [order_1]{order}",
+      "entry": "alphabetize",
+      "id": "alphabetize#alphabetize__1"
+    },
+    {
+      "comment": "[block_1]{block} [letter_1]{letters}",
+      "entry": "block capitals",
+      "id": "block-capitals#block-capitals__1"
+    },
+    {
+      "comment": "letters of the alphabet written in their large form, for example, \u201cA\u201d rather than \u201ca.\u201d Block letters are often called capitals.",
+      "entry": "block letters",
+      "id": "block-letters#block-letters__1"
+    },
+    {
+      "comment": "the [large_1]{large} form of a [letter_1]{letter}, for [example]{example} \u201cA\u201d or \u201cB,\u201d that you use at the [beginning]{beginning} of a [sentence_1]{sentence} or name",
+      "entry": "capital",
+      "id": "capital_1#capital_1__7"
+    },
+    {
+      "comment": "a [capital_1]{capital} [letter_1]{letter} is the [large_1]{large} form of a [letter_1]{letter}, for [example]{example} \u201cA\u201d or \u201cB,\u201d that you use at the [beginning]{beginning} of a [sentence_1]{sentence} or name",
+      "entry": "capital",
+      "id": "capital_2#capital_2__1"
+    },
+    {
+      "comment": "a letter of the alphabet used as a symbol for a consonant. All the letters of the English alphabet are consonants except for \u201ca,\u201d \u201ce,\u201d \u201ci,\u201d \u201co,\u201d and \u201cu\u201d, which are vowels.",
+      "entry": "consonant",
+      "id": "consonant_1#consonant_1__2"
+    },
+    {
+      "comment": "the first [letter_1]{letter} of a [word_1]{word}",
+      "entry": "initial",
+      "id": "initial_2#initial_2__4"
+    },
+    {
+      "comment": "a [written_1]{written} [symbol]{symbol} that is [used]{used} to [represent]{represent} a [sound_1]{sound} [used]{used} in [speech]{speech}",
+      "entry": "letter",
+      "id": "letter_1#letter_1__8"
+    },
+    {
+      "comment": "[print_1]{printed} or [written_1]{written} [letter_1]{letters} of the [alphabet]{alphabet}",
+      "entry": "lettering",
+      "id": "lettering#lettering__1"
+    },
+    {
+      "comment": "a system of [written_1]{written} [letter_1]{letters} and [symbol]{symbols}",
+      "entry": "script",
+      "id": "script_1#script_1__2"
+    },
+    {
+      "comment": "upper case letters of the alphabet are capital letters, for example \u201cA,\u201d \u201cF,\u201d and \u201cT\u201d",
+      "entry": "upper case",
+      "id": "upper-case#upper-case__1"
+    },
+    {
+      "comment": "one of the letters \u201ca,\u201d \u201ce,\u201d \u201ci,\u201d \u201co,\u201d or \u201cu,\u201d used for representing these sounds. In English, \u201cy\u201d is sometimes considered a vowel. The other letters are called consonants.",
+      "entry": "vowel",
+      "id": "vowel#vowel__2"
+    }
+  ],
+  "thesaurus": "General writing systems",
+  "type": "Related words"
+}

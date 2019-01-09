@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a floating ball that opens and closes a valve, used for controlling a water supply, for example in a toilet",
+      "entry": "ball cock",
+      "id": "ball-cock#ball-cock__1"
+    },
+    {
+      "comment": "to [make_1]{make} [water_1]{water} [pass_1]{pass} through a [toilet]{toilet}",
+      "entry": "flush",
+      "id": "flush_1#flush_1__1"
+    },
+    {
+      "comment": "if a [toilet]{toilet} [flush_1]{flushes}, [water_1]{water} [pass_1]{passes} through it",
+      "entry": "flush",
+      "id": "flush_1#flush_1__4"
+    },
+    {
+      "comment": "the [bowl_1]{bowl} of a [toilet]{toilet}",
+      "entry": "pan",
+      "id": "pan_1#pan_1__12"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} in a [public_1]{public} [toilet]{toilet} that you can use for [dry_2]{drying} your [hand_1]{hands}",
+      "entry": "paper towel",
+      "id": "paper-towel#paper-towel__1"
+    },
+    {
+      "comment": "a long [roll_1]{roll} of [cloth]{cloth} with its [end_1]{ends} [join_1]{joined} together, [used]{used} for [dry_2]{drying} your [hand_1]{hands} in a [public_1]{public} [bathroom]{bathroom}",
+      "entry": "roller towel",
+      "id": "roller-towel#roller-towel__1"
+    },
+    {
+      "comment": "[soft]{soft} thin [paper_1]{paper} that you use to [clean_1]{clean} yourself after [use_1]{using} the [toilet]{toilet}",
+      "entry": "toilet paper",
+      "id": "toilet-paper#toilet-paper__1"
+    },
+    {
+      "comment": "[toilet]{toilet} [paper_1]{paper}",
+      "entry": "toilet roll",
+      "id": "toilet-roll#toilet-roll__1"
+    },
+    {
+      "comment": "used as a measurement of the number of layers in toilet paper or plywood",
+      "entry": "two-ply/three-ply etc.",
+      "id": "ply_1#ply_1__2"
+    }
+  ],
+  "thesaurus": "Parts of toilets and toilet use",
+  "type": "Related words"
+}

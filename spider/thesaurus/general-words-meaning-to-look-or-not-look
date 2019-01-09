@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [walk_1]{walk} around a [room_1]{room}, [building]{building}, or [place_1]{place} and see what is there",
+      "entry": "look around",
+      "id": "look-around#look-around__1"
+    },
+    {
+      "comment": "to [direct_1]{direct} your [eye_1]{eyes} toward someone or something so that you can see them",
+      "entry": "look",
+      "id": "look_1#look_1__1"
+    },
+    {
+      "comment": "to [look_1]{look} at someone or something so that you are [certain_1]{certain} they are [safe_1]{safe}, [satisfactory]{satisfactory}, etc.",
+      "entry": "check on",
+      "id": "check-on#check-on__1"
+    },
+    {
+      "comment": "to [look_1]{look} at something [careful#careful__20]{carefully} in [order_1]{order} to find out about it or see what it is [like_1]{like}",
+      "entry": "examine",
+      "id": "examine#examine__1"
+    },
+    {
+      "comment": "to [look_1]{look} at someone or something very [directly_1]{directly} for a long time",
+      "entry": "stare",
+      "id": "stare_1#stare_1__1"
+    },
+    {
+      "comment": "to [look_1]{look} at something [careful#careful__20]{carefully}",
+      "entry": "inspect",
+      "id": "inspect#inspect__5"
+    },
+    {
+      "comment": "to [look_1]{look} at something, or to [examine]{examine} something",
+      "entry": "survey",
+      "id": "survey_2#survey_2__7"
+    },
+    {
+      "comment": "to [spend]{spend} time [look_1]{looking} at something",
+      "entry": "take in",
+      "id": "take-in#take-in__15"
+    },
+    {
+      "comment": "to [look_1]{look} at something in [order_1]{order} to [check_1]{check} it",
+      "entry": "see",
+      "id": "see_1#see_1__6"
+    },
+    {
+      "comment": "to [look_1]{look} at someone or something for a long time, for [example]{example} because they are [attractive]{attractive} or [interesting]{interesting}, or because you are [thinking_1]{thinking} of something else",
+      "entry": "gaze",
+      "id": "gaze_1#gaze_1__1"
+    }
+  ],
+  "thesaurus": "General words meaning to look or not look",
+  "type": "Synonyms"
+}

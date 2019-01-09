@@ -1,0 +1,201 @@
+{
+  "entries": [
+    {
+      "comment": "a [business]{business} that [receive]{receives} [telephone_1]{telephone} [call_1]{calls} for other [business]{businesses} or [company]{companies}, [take_1]{taking} [message_1]{messages} or [give_1]{giving} [information]{information}",
+      "entry": "answering service",
+      "id": "answering-service#answering-service__1"
+    },
+    {
+      "comment": "the pages of a telephone book that contain the telephone numbers of government departments",
+      "entry": "blue pages",
+      "id": "blue-pages#blue-pages__1"
+    },
+    {
+      "comment": "the [phone_1]{phone} [book_1]{book}",
+      "entry": "the book",
+      "id": "the-book#the-book__1"
+    },
+    {
+      "comment": "British [telecommunications]{Telecommunications} [public-limited-company]{plc}: the [large_1]{largest} British [telephone_1]{telephone} [company]{company}",
+      "entry": "BT",
+      "id": "bt#bt__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [large_1]{large} [number_1]{number} of [people_1]{people} are [employ_1]{employed} to [make_1]{make} [telephone_1]{telephone} [call_1]{calls}, either in [order_1]{order} to [sell_1]{sell} a [product]{product} or [service_1]{service}, or to [answer_1]{answer} [customer]{customers}\u2019 [question_1]{questions}, [complaint]{complaints}, [request_1]{requests} for [service_1]{service}, etc.",
+      "entry": "call center",
+      "id": "call-center#call-center__1"
+    },
+    {
+      "comment": "call [forward_2]{forwarding}",
+      "entry": "call divert",
+      "id": "call-divert#call-divert__1"
+    },
+    {
+      "comment": "a system that [show_1]{shows} you the [telephone_1]{telephone} [number_1]{number} of someone who is [calling]{calling} you before you [pick_1]{pick} up the [phone_1]{phone}",
+      "entry": "caller ID",
+      "id": "caller-id#caller-id__1"
+    },
+    {
+      "comment": "a [feature_1]{feature} of a [telephone_1]{telephone} system that [automatically]{automatically} [switch_1]{switches} [call_1]{calls} from one [number_1]{number} to another",
+      "entry": "call forwarding",
+      "id": "call-forwarding#call-forwarding__1"
+    },
+    {
+      "comment": "a system that [let_1]{lets} you [answer_1]{answer} a [second_1]{second} [telephone_1]{telephone} call without [ending]{ending} your first [telephone_1]{telephone} call",
+      "entry": "call waiting",
+      "id": "call-waiting#call-waiting__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} [service_1]{service} that you call if you [want_1]{want} to [talk_1]{talk} to other [people_1]{people} for [fun_1]{fun}",
+      "entry": "chat line",
+      "id": "chat-line#chat-line__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} that you do not have to [pay_1]{pay} to use, [usually]{usually} for [calling]{calling} [taxi_1]{taxis}, other [room_1]{rooms} in a [hotel]{hotel}, etc.",
+      "entry": "courtesy phone",
+      "id": "courtesy-phone#courtesy-phone__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} [line_1]{line} for one [particular_1]{particular} [user]{user}, [usually]{usually} to [provide]{provide} a [permanent_1]{permanent} [connection]{connection} to the [internet]{Internet}",
+      "entry": "dedicated line",
+      "id": "dedicated-line#dedicated-line__1"
+    },
+    {
+      "comment": "[use_1]{using} a [telephone_1]{telephone} [line_1]{line} and a [modem]{modem} to [access_1]{access} the [internet]{Internet}. This [used]{used} to be the [usual]{usual} way of [connect]{connecting} to the [internet]{Internet}",
+      "entry": "dial-up",
+      "id": "dial-up_2#dial-up_2__1"
+    },
+    {
+      "comment": "a DSL",
+      "entry": "digital subscriber line",
+      "id": "digital-subscriber-line#digital-subscriber-line__1"
+    },
+    {
+      "comment": "a [book_1]{book} that [list_1]{lists} the [name_1]{names}, [address_1]{addresses}, and [telephone_1]{telephone} [number_1]{numbers} of all the [people_1]{people} in a [city]{city}",
+      "entry": "directory",
+      "id": "directory#directory__1"
+    },
+    {
+      "comment": "a [list_1]{list} of the [name_1]{names} and [telephone_1]{telephone} [number_1]{numbers} of the [people_1]{people} who [work_1]{work} in an [organization]{organization}",
+      "entry": "directory",
+      "id": "directory#directory__2"
+    },
+    {
+      "comment": "the [service_1]{service} that you [phone_1]{phone} to find out someone\u2019s [telephone_1]{telephone} [number_1]{number}",
+      "entry": "directory assistance",
+      "id": "directory-assistance#directory-assistance__1"
+    },
+    {
+      "comment": "[digital]{digital} [subscriber]{subscriber} [line_1]{line}: a [technology]{technology} that [provide]{provides} [internet]{Internet} [access_1]{access} by [send_1]{sending} [digital]{digital} [data]{data} along a [normal_1]{normal} [phone_1]{phone} [line_1]{line}",
+      "entry": "DSL",
+      "id": "dsl#dsl__1"
+    },
+    {
+      "comment": "a [central]{central} [place_1]{place} where [telephone_1]{telephone} [call_1]{calls} are [received]{received} and [connected]{connected} to other [lines]{lines}",
+      "entry": "exchange",
+      "id": "exchange_1#exchange_1__18"
+    },
+    {
+      "comment": "[global]{Global} System for [mobile_1]{Mobile} [communication]{Communication}: a system [used]{used} in [cell]{cell} [phone_1]{phone} [communication]{communication}",
+      "entry": "GSM",
+      "id": "gsm#gsm__1"
+    },
+    {
+      "comment": "High-Data Rate Digital Subscriber Line: a DSL that works at a fast speed",
+      "entry": "HDSL",
+      "id": "hdsl#hdsl__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} [hotline]{hotline}",
+      "entry": "helpline",
+      "id": "helpline#helpline__1"
+    },
+    {
+      "comment": "[directory]{directory} [assistance]{assistance}",
+      "entry": "information",
+      "id": "information#information__13"
+    },
+    {
+      "comment": "Integrated Services Digital Network: a system using telephone connections for sending information between computers. ISDN is a slower system than ADSL.",
+      "entry": "ISDN",
+      "id": "isdn#isdn__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} [service_1]{service}",
+      "entry": "line",
+      "id": "line_1#line_1__22"
+    },
+    {
+      "comment": "[provided]{provided} with a [telephone_1]{telephone} in your [home_1]{home}, [office]{office} etc.",
+      "entry": "on the telephone",
+      "id": "on-the-telephone#on-the-telephone__4"
+    },
+    {
+      "comment": "someone who [work_1]{works} for a [telephone_1]{telephone} [company]{company} and [help_1]{helps} [people_1]{people} with [call_1]{calls}",
+      "entry": "operator",
+      "id": "operator#operator__3"
+    },
+    {
+      "comment": "the system for [speak_1]{speaking} to someone on the [telephone_1]{telephone}",
+      "entry": "phone",
+      "id": "phone_1#phone_1__7"
+    },
+    {
+      "comment": "a [book_1]{book} [contain]{containing} [list_1]{lists} of [name_1]{names} of [people_1]{people}, [business]{businesses}, and [organization]{organizations}, in [alphabetical]{alphabetical} [order_1]{order}, with their [address_1]{addresses} and [phone_1]{phone} [number_1]{numbers}",
+      "entry": "phone book",
+      "id": "phone-book#phone-book__1"
+    },
+    {
+      "comment": "the use of [special_1]{special} [equipment]{equipment} to [listen_1]{listen} to and [record_1]{record} someone\u2019s [telephone_1]{telephone} [conversation]{conversations}",
+      "entry": "phone-tapping",
+      "id": "phone-tapping#phone-tapping__1"
+    },
+    {
+      "comment": "a [telecommunications]{telecommunications} [company]{company}",
+      "entry": "telco",
+      "id": "telco#telco__1"
+    },
+    {
+      "comment": "the system of [communicate]{communicating} [use_1]{using} [telephone_1]{telephones}",
+      "entry": "telephone",
+      "id": "telephone_1#telephone_1__7"
+    },
+    {
+      "comment": "[relate]{relating} to or [involve]{involving} the [telephone_1]{telephone}",
+      "entry": "telephone",
+      "id": "telephone_1#telephone_1__11"
+    },
+    {
+      "comment": "a [book_1]{book} [contain]{containing} the [name_1]{names}, [telephone_1]{telephone} [number_1]{numbers}, and [address_1]{addresses} of [people_1]{people} and [business]{businesses} in a [particular_1]{particular} [area]{area}",
+      "entry": "telephone book",
+      "id": "telephone-book#telephone-book__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} [book_1]{book}",
+      "entry": "telephone directory",
+      "id": "telephone-directory#telephone-directory__1"
+    },
+    {
+      "comment": "a [place_1]{place} with [equipment]{equipment} that [connect]{connects} one [telephone_1]{telephone} [line_1]{line} to another",
+      "entry": "telephone exchange",
+      "id": "telephone-exchange#telephone-exchange__1"
+    },
+    {
+      "comment": "very-high-data-rate digital subscriber line: a very high-speed DSL",
+      "entry": "VDSL",
+      "id": "vdsl#vdsl__1"
+    },
+    {
+      "comment": "a [book_1]{book} [contain]{containing} a [list_1]{list} of the [name_1]{names}, [telephone_1]{telephone} [number_1]{numbers}, and [address_1]{addresses} of the [people_1]{people} who [live_1]{live} in a [particular_1]{particular} [city]{city} or [area]{area} in the U.S.",
+      "entry": "the White Pages",
+      "id": "the-white-pages#the-white-pages__1"
+    },
+    {
+      "comment": "a [large_1]{large} [book_1]{book} [contain]{containing} the [telephone_1]{telephone} [number_1]{numbers} and [address_1]{addresses} of [business]{businesses} and [organization]{organizations} in a [particular_1]{particular} [area]{area}",
+      "entry": "Yellow Pages",
+      "id": "yellow-pages#yellow-pages__1"
+    }
+  ],
+  "thesaurus": "Telephone services and companies",
+  "type": "Related words"
+}

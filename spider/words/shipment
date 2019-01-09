@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an amount of [goods]{goods} [carry_1]{carried} on a [ship_1]{ship}, [airplane]{airplane}, [train_1]{train}, or [truck_1]{truck}",
+      "examples": [
+        "[illegal_1]{illegal} [drug_1]{drug} [shipment]{shipments}",
+        "The [spider]{spider} was found in a shipment of [bananas]{bananas}."
+      ],
+      "id": "shipment__1"
+    },
+    {
+      "def": "the [process_1]{process} of [take_1]{taking} [goods]{goods} from one [place_1]{place} to another",
+      "examples": [
+        "Some of the [equipment]{equipment} was [lost_1]{lost} during shipment."
+      ],
+      "id": "shipment__4"
+    }
+  ],
+  "word": "shipment"
+}

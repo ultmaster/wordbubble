@@ -1,0 +1,15 @@
+{
+  "part": "phrase",
+  "phrase": "how much",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} or [saying]{saying} what the amount of something is",
+      "examples": [
+        "How much [stuff_1]{stuff} is she [take_1]{taking} with her?",
+        "How much were the tickets?  (=what did they cost?)",
+        "You [know_1]{know} how much a [parachute_1]{parachute} [weigh]{weighs}? Twenty [pound_1]{pounds}."
+      ],
+      "id": "how-much__1"
+    }
+  ]
+}

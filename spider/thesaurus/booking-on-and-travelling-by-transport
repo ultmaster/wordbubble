@@ -1,0 +1,371 @@
+{
+  "entries": [
+    {
+      "comment": "in or on a [ship_1]{ship}, [bus_1]{bus}, [train_1]{train}, or [airplane]{airplane}",
+      "entry": "aboard",
+      "id": "aboard#aboard__1"
+    },
+    {
+      "comment": "on a [boat]{boat} or a [ship_1]{ship}",
+      "entry": "afloat",
+      "id": "afloat#afloat__3"
+    },
+    {
+      "comment": "a [seat_1]{seat} in a [train_1]{train}, [plane_1]{plane}, etc., next to an [aisle]{aisle}",
+      "entry": "aisle seat",
+      "id": "aisle-seat#aisle-seat__1"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} [passenger]{passengers} that they [need_1]{need} to get on a [ship_1]{ship}, [bus_1]{bus}, or [train_1]{train}, because it will be [leave_1]{leaving} [soon]{soon}",
+      "entry": "all aboard",
+      "id": "all-aboard#all-aboard__1"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} [people_1]{people} on a [train_1]{train} or [bus_1]{bus} that they must [leave_1]{leave} it because it is not [going_1]{going} any [farther_1]{farther}",
+      "entry": "all change",
+      "id": "all-change#all-change__1"
+    },
+    {
+      "comment": "[arrive]{arrives}: [used]{used} for [showing]{showing} the time when an [airplane]{airplane}, [bus_1]{bus}, or [train_1]{train} [arrive]{arrives} somewhere",
+      "entry": "arr.",
+      "id": "arr#arr__1"
+    },
+    {
+      "comment": "a through [train_1]{train} is one you can use to [travel_1]{travel} all the way to a [place_1]{place}, without [change_1]{changing} [train_1]{trains}",
+      "entry": "a through train",
+      "id": "a-through-train#a-through-train__1"
+    },
+    {
+      "comment": "to have [start_1]{started} your [trip_1]{trip} to a [particular_1]{particular} [place_1]{place}",
+      "entry": "be on your way",
+      "id": "be-on-your-way#be-on-your-way__1"
+    },
+    {
+      "comment": "to get onto a [ship_1]{ship}, [aircraft]{aircraft}, [train_1]{train}, or [bus_1]{bus}",
+      "entry": "board",
+      "id": "board_2#board_2__1"
+    },
+    {
+      "comment": "a [ticket_1]{ticket}, [hotel]{hotel} [room_1]{room}, etc. that is [bookable]{bookable} can be [bought]{bought} or [arrange]{arranged} before you [need_1]{need} to use it",
+      "entry": "bookable",
+      "id": "bookable#bookable__1"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} to [buy_1]{buy} a [travel_1]{travel} [ticket_1]{ticket}, [stay_1]{stay} in a [hotel]{hotel} [room_1]{room}, etc. at a [later_1]{later} [date_1]{date}",
+      "entry": "booking",
+      "id": "booking#booking__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [buy_1]{buy} [ticket_1]{tickets} for a [trip_1]{trip}",
+      "entry": "booking office",
+      "id": "booking-office#booking-office__1"
+    },
+    {
+      "comment": "to [buy_1]{buy} [ticket_1]{tickets} for someone for a [specific]{specific} [trip_1]{trip} on an [airplane]{airplane}, [train_1]{train}, or [bus_1]{bus}",
+      "entry": "book on",
+      "id": "book-on#book-on__1"
+    },
+    {
+      "comment": "to take someone somewhere by [bus_1]{bus}",
+      "entry": "bus",
+      "id": "bus_2#bus_2__1"
+    },
+    {
+      "comment": "to take [children]{children} on a [school_1]{school} [bus_1]{bus} to a [different]{different} [area]{area} to go to [school_1]{school}, so that [children]{children} from [different]{different} [background]{backgrounds} can be [educated]{educated} together",
+      "entry": "bus",
+      "id": "bus_2#bus_2__3"
+    },
+    {
+      "comment": "a [large_1]{large} [number_1]{number} of [people_1]{people} on a [bus_1]{bus}, [usually]{usually} all of the same [type_1]{type} or all [going_1]{going} to the same [event]{event}",
+      "entry": "busload",
+      "id": "busload#busload__1"
+    },
+    {
+      "comment": "[use_1]{using} a [particular_1]{particular} [method]{method} of [transportation]{transportation}",
+      "entry": "by",
+      "id": "by#by__19"
+    },
+    {
+      "comment": "if a [train_1]{train}, [bus_1]{bus}, or [ship_1]{ship} [call_1]{calls} somewhere, it [stop_1]{stops} there during its [trip_1]{trip}",
+      "entry": "call",
+      "id": "call_1#call_1__66"
+    },
+    {
+      "comment": "money that you pay to ride a bus, streetcar, or subway  (=train that travels underground)",
+      "entry": "carfare",
+      "id": "carfare#carfare__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [rent_2]{renting} a [boat]{boat}, [airplane]{airplane}, or [bus_1]{bus}, [especially]{especially} for use by a [group_1]{group} of [people_1]{people}",
+      "entry": "charter",
+      "id": "charter_1#charter_1__7"
+    },
+    {
+      "comment": "a [boat]{boat}, [airplane]{airplane}, or [bus_1]{bus} that is [available]{available} for [rent_1]{rent}",
+      "entry": "charter",
+      "id": "charter_1#charter_1__8"
+    },
+    {
+      "comment": "to [rent_1]{rent} a [boat]{boat}, [airplane]{airplane}, or [bus_1]{bus}, [especially]{especially} for use by a [group_1]{group} of [people_1]{people}",
+      "entry": "charter",
+      "id": "charter_2#charter_2__1"
+    },
+    {
+      "comment": "someone on a [train_1]{train}, [bus_1]{bus}, etc. who [check_1]{checks} [passenger]{passengers}\u2019 [ticket_1]{tickets} and [collect_1]{collects} [money]{money}",
+      "entry": "conductor",
+      "id": "conductor#conductor__2"
+    },
+    {
+      "comment": "if one [train_1]{train}, [airplane]{airplane}, [bus_1]{bus}, etc. [connect]{connects} with another one, it [arrive]{arrives} in time for you to [continue]{continue} your [trip_1]{trip} on the other one",
+      "entry": "connect",
+      "id": "connect#connect__20"
+    },
+    {
+      "comment": "a [train_1]{train}, [bus_1]{bus}, or [airplane]{airplane} that [allow]{allows} you to [continue]{continue} a [trip_1]{trip} after you [arrive]{arrive} by a [different]{different} [train_1]{train}, [bus_1]{bus}, or [airplane]{airplane}",
+      "entry": "connection",
+      "id": "connection#connection__9"
+    },
+    {
+      "comment": "someone who [use_1]{uses} a [free_1]{free} [ticket_1]{ticket} to go to an [event]{event} or to [travel_1]{travel}",
+      "entry": "deadhead",
+      "id": "deadhead_2#deadhead_2__2"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [plane_1]{plane}, [train_1]{train}, etc. [leaves]{leaves} or [arrive]{arrives} [late_1]{late}",
+      "entry": "delay",
+      "id": "delay_2#delay_2__5"
+    },
+    {
+      "comment": "[traveling]{traveling} or being [sent]{sent} to a [particular_1]{particular} [place_1]{place}",
+      "entry": "destined",
+      "id": "destined#destined__4"
+    },
+    {
+      "comment": "[estimate_1#estimate_1__7]{estimated} time of [arrival]{arrival}: the time when an [aircraft]{aircraft}, [ship_1]{ship}, [train_1]{train} etc. is [expected]{expected} to [arrive]{arrive}",
+      "entry": "ETA",
+      "id": "eta#eta__1"
+    },
+    {
+      "comment": "an extra amount of money to pay, such as for traveling first-class with a second-class ticket or for traveling farther than you originally intended",
+      "entry": "excess fare",
+      "id": "excess-fare#excess-fare__1"
+    },
+    {
+      "comment": "the [money]{money} that you [pay_1]{pay} for a [trip_1]{trip}",
+      "entry": "fare",
+      "id": "fare_1#fare_1__1"
+    },
+    {
+      "comment": "relating to the best and most expensive seats on an airplane or a train, or the best and most expensive accommodation on a ship",
+      "entry": "first class",
+      "id": "first-class_2#first-class_2__1"
+    },
+    {
+      "comment": "[use_1]{using} the most [expensive]{expensive} form of [transportation]{transportation} or [mail_1]{mail}",
+      "entry": "first class",
+      "id": "first-class_3#first-class_3__1"
+    },
+    {
+      "comment": "a [ticket_1]{ticket} for a [trip_1]{trip} by an [adult_1]{adult} [pay_1]{paying} the full [price_1]{price}",
+      "entry": "full fare",
+      "id": "full-fare#full-fare__1"
+    },
+    {
+      "comment": "to move [past_1]{past} a [place_1]{place} or [stop_1]{stop} there for a [short_1]{short} time during a [trip_1]{trip}",
+      "entry": "go by",
+      "id": "go-by#go-by__10"
+    },
+    {
+      "comment": "to [stop_1]{stop} a [train_1]{train}, [airplane]{airplane}, etc. from [leave_1]{leaving} at the [right_1]{right} time, so that someone who is [late_1]{late} can get on it",
+      "entry": "hold",
+      "id": "hold_1#hold_1__57"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that a [train_1]{train}, [bus_1]{bus}, [airplane]{airplane}, or [ship_1]{ship} [arrive]{arrives} somewhere",
+      "entry": "in",
+      "id": "in_1#in_1__38"
+    },
+    {
+      "comment": "a [large_1]{large} [board_1]{board} with [letter_1]{letters} or [word_1]{words} on [moving]{moving} [part_1]{parts}, [used]{used} at [station_1]{stations} and [airport]{airports} to show when [train_1]{trains} and [flight]{flights} are [arrive]{arriving} or [leave_1]{leaving}",
+      "entry": "indicator board",
+      "id": "indicator-board#indicator-board__1"
+    },
+    {
+      "comment": "a [plan_1]{plan} of a [trip_1]{trip} that you are [going_1]{going} to take, [including]{including} [information]{information} about when and where you will [travel_1]{travel}",
+      "entry": "itinerary",
+      "id": "itinerary#itinerary__1"
+    },
+    {
+      "comment": "if you [join_1]{join} a [road]{road}, [train_1]{train}, [boat]{boat}, etc., you [start_1]{start} to [travel_1]{travel} on it",
+      "entry": "join",
+      "id": "join_1#join_1__13"
+    },
+    {
+      "comment": "to [allow]{allow} a [passenger]{passenger} to get out of a [car]{car} or off a [bus_1]{bus}",
+      "entry": "let off",
+      "id": "let-off#let-off__6"
+    },
+    {
+      "comment": "to be too [late_1]{late} for a [train_1]{train}, [bus_1]{bus}, etc",
+      "entry": "miss",
+      "id": "miss_1#miss_1__11"
+    },
+    {
+      "comment": "a [one-way]{one-way} [ticket_1]{ticket} [allow]{allows} you to [travel_1]{travel} from one [place_1]{place} to another but not back again",
+      "entry": "one-way",
+      "id": "one-way#one-way__4"
+    },
+    {
+      "comment": "[traveling]{traveling} in a [car]{car}, [bus_1]{bus}, or [truck_1]{truck}, [especially]{especially} for a long [distance_1]{distance} or a long [period_1]{period} of time",
+      "entry": "on the road",
+      "id": "on-the-road#on-the-road__1"
+    },
+    {
+      "comment": "to go to a [place_1]{place} for only a [short_1]{short} [period_1]{period} of time before [continuing]{continuing} a [trip_1]{trip}",
+      "entry": "pass through",
+      "id": "pass-through#pass-through__1"
+    },
+    {
+      "comment": "a [seat_1]{seat} on a [train_1]{train} or [bus_1]{bus}, in a [theater]{theater}, etc., or a [position_1]{position} in a [line_1]{line}",
+      "entry": "place",
+      "id": "place_1#place_1__33"
+    },
+    {
+      "comment": "to make a regular trip over a particular area or route",
+      "entry": "ply",
+      "id": "ply_2#ply_2__1"
+    },
+    {
+      "comment": "to [continue]{continue} a [trip_1]{trip}, [especially]{especially} after [stop_1]{stopping} for a [period_1]{period} of time",
+      "entry": "push on",
+      "id": "push-on#push-on__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} a [car]{car}, [bus_1]{bus}, etc. and [let_1]{let} someone get out of it",
+      "entry": "put off",
+      "id": "put-off#put-off__13"
+    },
+    {
+      "comment": "to [provide]{provide} a [bus_1]{bus}, [train_1]{train}, etc. for [people_1]{people} to use",
+      "entry": "put on",
+      "id": "put-on_1#put-on_1__23"
+    },
+    {
+      "comment": "to make sure that someone gets on a train/plane/bus etc.",
+      "entry": "put someone on a train/plane/bus etc.",
+      "id": "put-someone-on-a-train-plane-bus-etc#put-someone-on-a-train-plane-bus-etc__1"
+    },
+    {
+      "comment": "to go back onto a [ship_1]{ship}, [plane_1]{plane}, [train_1]{train} or [bus_1]{bus} after [leave_1]{leaving} it for a time",
+      "entry": "reboard",
+      "id": "reboard#reboard__1"
+    },
+    {
+      "comment": "a [seat_1]{seat} that [lie_1]{lies} back, so that a [traveler]{traveler} can [sleep_1]{sleep}",
+      "entry": "reclining seat",
+      "id": "reclining-seat#reclining-seat__1"
+    },
+    {
+      "comment": "[round-trip_2]{round-trip}",
+      "entry": "return",
+      "id": "return_3#return_3__1"
+    },
+    {
+      "comment": "[relate]{relating} to [travel_1]{travel} to a [place_1]{place} and back again",
+      "entry": "round-trip",
+      "id": "round-trip_2#round-trip_2__1"
+    },
+    {
+      "comment": "a way that [bus_1]{buses}, [train_1]{trains}, [ship_1]{ships}, or [airplane]{airplanes} [travel_1]{travel} [regularly]{regularly}",
+      "entry": "route",
+      "id": "route_1#route_1__1"
+    },
+    {
+      "comment": "if a [bus_1]{bus}, [train_1]{train}, etc. [run_1]{runs}, it [travel_1]{travels} somewhere at [regular_1]{regular} times",
+      "entry": "run",
+      "id": "run_1#run_1__42"
+    },
+    {
+      "comment": "a list that shows when buses, trains, etc. will arrive and leave. The British word is timetable.",
+      "entry": "schedule",
+      "id": "schedule_1#schedule_1__6"
+    },
+    {
+      "comment": "[traveling]{traveling} at the same time each [day]{day} or each [week]{week}",
+      "entry": "scheduled",
+      "id": "scheduled#scheduled__1"
+    },
+    {
+      "comment": "[traveling]{traveling} in [second_1]{second} [class_1]{class}",
+      "entry": "second-class",
+      "id": "second-class_2#second-class_2__8"
+    },
+    {
+      "comment": "if a [bus_1]{bus} or [train_1]{train} [stop_1]{stops} somewhere, it [stop_1]{stops} [moving]{moving} in [order_1]{order} to [let_1]{let} [passenger]{passengers} on or off",
+      "entry": "stop",
+      "id": "stop_1#stop_1__19"
+    },
+    {
+      "comment": "a very [inexpensive]{inexpensive} and low [standard_1]{standard} of [travel_1]{travel} on [train_1]{trains} and [ship_1]{ships} in the [past_1]{past}",
+      "entry": "third class",
+      "id": "third-class_1#third-class_1__2"
+    },
+    {
+      "comment": "[relate]{relating} to a very [inexpensive]{inexpensive} and low [standard_1]{standard} of [travel_1]{travel} on [train_1]{trains} and [ship_1]{ships} in the [past_1]{past}",
+      "entry": "third-class",
+      "id": "third-class_2#third-class_2__2"
+    },
+    {
+      "comment": "if a [train_1]{train}, [bus_1]{bus}, etc. [go_1]{goes} through to a [particular_1]{particular} [town]{town}, it [go_1]{goes} as [far]{far} as that [town]{town}",
+      "entry": "through",
+      "id": "through#through__63"
+    },
+    {
+      "comment": "a [list_1]{list} of the times when [bus_1]{buses}, [train_1]{trains}, etc. [arrive]{arrive} and [leave_1]{leave}",
+      "entry": "timetable",
+      "id": "timetable_1#timetable_1__3"
+    },
+    {
+      "comment": "the [goods]{goods} or [passenger]{passengers} that [travel_1]{travel} in [airplane]{airplanes}, [ship_1]{ships}, or [train_1]{trains}",
+      "entry": "traffic",
+      "id": "traffic_1#traffic_1__9"
+    },
+    {
+      "comment": "to move [people_1]{people} or [thing]{things} from one [place_1]{place} to another, [usually]{usually} in a [vehicle]{vehicle}",
+      "entry": "transport",
+      "id": "transport_1#transport_1__1"
+    },
+    {
+      "comment": "to go on a [trip_1]{trip} or [visit_1]{visit} a [number_1]{number} of [place_1]{places}, [especially]{especially} [place_1]{places} that are [far]{far} [away_1]{away} from where you [live_1]{live} or [work_1]{work}",
+      "entry": "travel",
+      "id": "travel_1#travel_1__1"
+    },
+    {
+      "comment": "[unaccompanied]{unaccompanied} [bag_1]{bags}, [suitcase]{suitcases}, etc. are [sent]{sent} somewhere on a [train_1]{train} or [airplane]{airplane} without their [owner]{owner}",
+      "entry": "unaccompanied",
+      "id": "unaccompanied#unaccompanied__3"
+    },
+    {
+      "comment": "to [let_1]{let} [people_1]{people} get out of or off a [vehicle]{vehicle}",
+      "entry": "unload",
+      "id": "unload#unload__5"
+    },
+    {
+      "comment": "to [make_1]{make} a long [trip_1]{trip}, [especially]{especially} by [boat]{boat} or into [space_1]{space}",
+      "entry": "voyage",
+      "id": "voyage_2#voyage_2__1"
+    },
+    {
+      "comment": "the [particular_1]{particular} [road]{road}, [path]{path}, or [track_1]{track} that you use to go from one [place_1]{place} to another",
+      "entry": "Way",
+      "id": "way_1#way_1__17"
+    },
+    {
+      "comment": "a [seat_1]{seat} that is next to a [window]{window} on an [airplane]{airplane}, [train_1]{train}, or [bus_1]{bus}",
+      "entry": "window seat",
+      "id": "window-seat#window-seat__1"
+    }
+  ],
+  "thesaurus": "Booking on and travelling by transport",
+  "type": "Related words"
+}

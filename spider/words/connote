@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [word_1]{word} [connote]{connotes} something, it [suggest]{suggests} an [additional]{additional} [idea]{idea} or [emotion]{emotion} that is not part of its [usual]{usual} [meaning_1]{meaning}",
+      "examples": [
+        "The [adjective]{adjectives} [used]{used} in the [poem]{poem} all connote [death]{death}."
+      ],
+      "id": "connote__1"
+    },
+    {
+      "def": "if [particular_1]{particular} [behavior]{behavior} or a [particular_1]{particular} [situation]{situation} [connote]{connotes} something, it [suggest]{suggests} it",
+      "examples": [
+        "[marriage]{Marriage} [confer]{conferred} a [higher_1]{higher} [status]{status} on [women]{women} than spinsterhood, which [connote]{connoted} [failure]{failure}."
+      ],
+      "id": "connote__3"
+    }
+  ],
+  "word": "connote"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[arrive]{arriving} or [happening_1]{happening} at the time [agreed]{agreed} on",
+      "entry": "punctual",
+      "id": "punctual#punctual__1"
+    },
+    {
+      "comment": "at [exactly]{exactly} a [particular_1]{particular} time",
+      "entry": "promptly",
+      "id": "promptly#promptly__5"
+    },
+    {
+      "comment": "at a [particular_1]{particular} time [exactly]{exactly}",
+      "entry": "sharp",
+      "id": "sharp_2#sharp_2__1"
+    },
+    {
+      "comment": "[early_1]{early} enough",
+      "entry": "in time",
+      "id": "in-time#in-time__1"
+    },
+    {
+      "comment": "[arrive]{arriving} at the [correct_1]{correct} time and not [late_1]{late}",
+      "entry": "on time",
+      "id": "on-time#on-time__1"
+    },
+    {
+      "comment": "[happening_1]{happening} at the [right_1]{right} time and [making]{making} something [effective]{effective}",
+      "entry": "well-timed",
+      "id": "well-timed#well-timed__1"
+    },
+    {
+      "comment": "[bought]{bought}, [sent]{sent}, or [produce_1]{produced} at the last [possible_1]{possible} time",
+      "entry": "just-in-time",
+      "id": "just-in-time#just-in-time__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or [arrive]{arriving} at [exactly]{exactly} a [particular_1]{particular} time",
+      "entry": "prompt",
+      "id": "prompt_2#prompt_2__4"
+    },
+    {
+      "comment": "at the [correct_1]{correct} or [arrange]{arranged} time",
+      "entry": "duly",
+      "id": "duly#duly__3"
+    },
+    {
+      "comment": "at [exactly]{exactly} the time that you [mention_1]{mention}, [especially]{especially} when this is a time that you have [arrange]{arranged}",
+      "entry": "on the dot",
+      "id": "on-the-dot#on-the-dot__1"
+    }
+  ],
+  "thesaurus": "In or on time",
+  "type": "Synonyms"
+}

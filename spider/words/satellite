@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [object_1]{object} that is [sent]{sent} into [space_1]{space} to [travel_1]{travel} around the [earth#earth__1]{Earth} in [order_1]{order} to [receive]{receive} and [send_1]{send} [information]{information}",
+      "examples": [
+        "a [spy_1]{spy}/[communication]{communications}/[weather_1]{weather} satellite",
+        "France was the third country to launch  (=send into space) an artificial satellite.",
+        "We have [picture_1]{pictures} of the [disaster]{disaster} [live_1]{live} via satellite.",
+        "The [new]{new} [equipment]{equipment} will [link_1]{link} [vehicle]{vehicles} by satellite to their [office]{office}.",
+        "Jupiter\u2019s [satellite]{satellites}"
+      ],
+      "id": "satellite__1"
+    },
+    {
+      "def": "something that is [controlled_1]{controlled} by a [large_1]{larger} thing or that [depend]{depends} on a [large_1]{larger} thing but is [separate_1]{separate} from it",
+      "examples": [
+        "She [work_1]{works} in a satellite [office]{office}."
+      ],
+      "id": "satellite__8"
+    },
+    {
+      "def": "[satellite-television]{satellite television}",
+      "examples": [],
+      "id": "satellite__12"
+    }
+  ],
+  "word": "satellite"
+}

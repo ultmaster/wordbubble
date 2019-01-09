@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [horse_1]{horse} [gallop_1]{gallops}, it [run_1]{runs} at its [fast_1]{fastest} [speed_1]{speed}",
+      "examples": [
+        "The [jockey_1]{jockeys} were up [early_1]{early} [galloping]{galloping} their [horse_1]{horses} around the [track_1]{track}.",
+        "Jason [jump_1]{jumped} on his [horse_1]{horse} and went [galloping]{galloping} off in the [wrong_1]{wrong} [direction]{direction}."
+      ],
+      "id": "gallop_1__1"
+    },
+    {
+      "def": "to move, [pass_1]{pass}, or [develop]{develop} very [quickly]{quickly}",
+      "examples": [
+        "The [year]{year} has [just_1]{just} [gallop_1]{galloped} by."
+      ],
+      "id": "gallop_1__5"
+    }
+  ],
+  "word": "gallop"
+}

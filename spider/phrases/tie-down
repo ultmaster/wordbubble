@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "tie down",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} someone from being [free_1]{free} to do what they [want_1]{want}",
+      "examples": [
+        "I don\u2019t [want_1]{want} a [relationship]{relationship} that [tie_1]{ties} me down."
+      ],
+      "id": "tie-down__1"
+    },
+    {
+      "def": "to [force_1]{force} a [group_1]{group} of [soldier_1]{soldiers} to [stay_1]{stay} in one [place_1]{place}",
+      "examples": [
+        "A [small_1]{small} [rebel_1]{rebel} [force_1]{force} is [tying]{tying} down [thousand#thousand__2]{thousands} of [government]{government} [troop_1]{troops}."
+      ],
+      "id": "tie-down__3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [flood_1]{flood}",
+      "entry": "deluge",
+      "id": "deluge_1#deluge_1__4"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [unexpected]{unexpected} [flood_1]{flood}",
+      "entry": "flash flood",
+      "id": "flash-flood#flash-flood__1"
+    },
+    {
+      "comment": "if a [river]{river} [flood_1]{floods}, [water_1]{water} [rise_1]{rises} up over its [edge_1]{edges} and [cover_1]{covers} the [land_1]{land} around it",
+      "entry": "flood",
+      "id": "flood_1#flood_1__6"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [water_1]{water} that [cover_1]{covers} an [area]{area} that was [dry_1]{dry} before",
+      "entry": "the Flood",
+      "id": "flood_2#flood_2__1"
+    },
+    {
+      "comment": "in the [bible]{Bible}, the [occasion_1]{occasion} when [god_1]{God} [covered_1]{covered} the [earth]{earth} with [water_1]{water} to [punish]{punish} [people_1]{people}",
+      "entry": "the Flood",
+      "id": "flood_2#flood_2__5"
+    },
+    {
+      "comment": "[covered_1]{covered} or [fill_1]{filled} with [water_1]{water} as a [result_1]{result} of a [flood_1]{flood}",
+      "entry": "flooded",
+      "id": "flooded#flooded__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [area]{area} of [land_1]{land} [near_1]{near} a [river]{river} that often [flood_1]{floods} when the [water_1]{water} [level_1]{level} [rise_1]{rises}",
+      "entry": "flood plain",
+      "id": "flood-plain#flood-plain__1"
+    },
+    {
+      "comment": "the time when the [water_1]{water} in a [lake]{lake}, [river]{river}, or the [ocean]{ocean} is above its [normal_1]{normal} [level_1]{level}, [especially]{especially} because of a [flood_1]{flood}",
+      "entry": "high water",
+      "id": "high-water#high-water__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [wave_1]{wave} that [cause_1]{causes} a [lot_1]{lot} of [damage_1]{damage} when it [hit_1]{hits} the [land_1]{land}",
+      "entry": "tidal wave",
+      "id": "tidal-wave#tidal-wave__1"
+    },
+    {
+      "comment": "a very large wave or series of waves caused when something such as an earthquake moves a large quantity of water in the ocean",
+      "entry": "tsunami",
+      "id": "tsunami#tsunami__1"
+    }
+  ],
+  "thesaurus": "Floods and tidal waves",
+  "type": "Related words"
+}

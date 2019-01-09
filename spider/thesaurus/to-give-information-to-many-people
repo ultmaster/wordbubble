@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [tell_1]{tell} [people_1]{people} something [clearly]{clearly} or [loud_1#loud_1__12]{loudly}",
+      "entry": "announce",
+      "id": "announce#announce__5"
+    },
+    {
+      "comment": "to give [information]{information} to [people_1]{people}, [especially]{especially} [information]{information} that was [secret_1]{secret}",
+      "entry": "disclose",
+      "id": "disclose#disclose__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} [people_1]{people} something, [especially]{especially} something that you [wanted]{wanted} to be a [secret_1]{secret}",
+      "entry": "broadcast",
+      "id": "broadcast_1#broadcast_1__4"
+    },
+    {
+      "comment": "to [let_1]{let} something become [known_1]{known}, for [example]{example} a [secret_1]{secret} or [information]{information} that was [previously]{previously} not [known_1]{known}",
+      "entry": "reveal",
+      "id": "reveal_1#reveal_1__1"
+    },
+    {
+      "comment": "[used]{used} about a [sign_1]{sign} or [notice_1]{notice} that [tell_1]{tells} [people_1]{people} something",
+      "entry": "proclaim",
+      "id": "proclaim#proclaim__5"
+    },
+    {
+      "comment": "to [produce_1]{produce} [information]{information} for [people_1]{people} to read, [watch_1]{watch}, or [hear]{hear}",
+      "entry": "put out",
+      "id": "put-out_1#put-out_1__18"
+    },
+    {
+      "comment": "to give [information]{information} to many [people_1]{people}",
+      "entry": "spread",
+      "id": "spread_1#spread_1__31"
+    },
+    {
+      "comment": "to [make_1]{make} something such as [information]{information} or [knowledge]{knowledge} [available]{available} to a [lot_1]{lot} of [people_1]{people}",
+      "entry": "disseminate",
+      "id": "disseminate#disseminate__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} [people_1]{people} about something",
+      "entry": "put the word out",
+      "id": "put-out_1#put-out_1__34"
+    },
+    {
+      "comment": "to give [information]{information} to other [people_1]{people}, [especially]{especially} in an [indirect]{indirect} way",
+      "entry": "let it be known that",
+      "id": "let-it-be-known-that#let-it-be-known-that__1"
+    }
+  ],
+  "thesaurus": "To give information to many people",
+  "type": "Synonyms"
+}

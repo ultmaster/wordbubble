@@ -1,0 +1,27 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something [start_1]{start} to [burn_1]{burn}",
+      "examples": [
+        "Amy [lit_1]{lit} a [cigarette]{cigarette}.",
+        "The fire [won]{won}\u2019t light if the [wood]{wood} is [wet_1]{wet}."
+      ],
+      "id": "light_3__1"
+    },
+    {
+      "def": "to [make_1]{make} a [place_1]{place} [bright_1]{brighter} by [give_1]{giving} it more light",
+      "examples": [
+        "The [room_1]{room} was [lit_1]{lit} by [candlelight]{candlelight}.",
+        "The [room_1]{room} was [dimly]{dimly} [lit_1]{lit}."
+      ],
+      "id": "light_3__5"
+    },
+    {
+      "def": "if you light someone\u2019s way, you use a light to [lead_1]{lead} them through a [dark_1]{dark} [place_1]{place}",
+      "examples": [],
+      "id": "light_3__8"
+    }
+  ],
+  "word": "light"
+}

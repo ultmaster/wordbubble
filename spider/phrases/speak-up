@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "speak up",
+  "senses": [
+    {
+      "def": "to [talk_1]{talk} [loud_1]{louder}",
+      "examples": [
+        "You have to [speak_1]{speak} up. The [people_1]{people} in the back can\u2019t [hear]{hear} you."
+      ],
+      "id": "speak-up__1"
+    },
+    {
+      "def": "to [say_1]{say} what you [think_1]{think} [instead]{instead} of [saying]{saying} nothing",
+      "examples": [
+        "If anyone has a [better_1]{better} [idea]{idea}, please [speak_1]{speak} up."
+      ],
+      "id": "speak-up__3"
+    }
+  ]
+}

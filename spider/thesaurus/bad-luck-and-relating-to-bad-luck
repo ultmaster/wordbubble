@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[bad_1]{bad} [luck_1]{luck}",
+      "entry": "misfortune",
+      "id": "misfortune#misfortune__1"
+    },
+    {
+      "comment": "[experience_2]{experiencing} [bad_1]{bad} [luck_1]{luck}, or [cause_2]{caused} by [bad_1]{bad} [luck_1]{luck}",
+      "entry": "unfortunate",
+      "id": "unfortunate_1#unfortunate_1__1"
+    },
+    {
+      "comment": "if you are [unlucky]{unlucky}, something [bad_1]{bad} [happen]{happens} to you, or something [good_1]{good} [does]{does} not [happen]{happen}, [especially]{especially} by [chance_1]{chance}",
+      "entry": "unlucky",
+      "id": "unlucky#unlucky__1"
+    },
+    {
+      "comment": "someone or something that is [jinxed]{jinxed} has a [lot_1]{lot} of [bad_1]{bad} [luck_1]{luck}",
+      "entry": "jinxed",
+      "id": "jinxed#jinxed__1"
+    },
+    {
+      "comment": "[used]{used} about something [bad_1]{bad} that [happen]{happens} because of [bad_1]{bad} [luck_1]{luck}",
+      "entry": "unhappy",
+      "id": "unhappy#unhappy__9"
+    },
+    {
+      "comment": "[bad_1]{bad} [luck_1]{luck}, or something that is [cause_2]{caused} by [bad_1]{bad} [luck_1]{luck}",
+      "entry": "mischance",
+      "id": "mischance#mischance__1"
+    },
+    {
+      "comment": "[have]{having} a long [period_1]{period} of [difficulty]{difficulty} [find_1]{finding} [work_1]{work} and [earn]{earning} [money]{money}",
+      "entry": "down on your luck",
+      "id": "down-on-your-luck#down-on-your-luck__1"
+    },
+    {
+      "comment": "[unable]{unable} to have or do something that you [wanted]{wanted}",
+      "entry": "out of luck",
+      "id": "out-of-luck#out-of-luck__1"
+    },
+    {
+      "comment": "a period of time when good/bad things happen to you",
+      "entry": "a run of good/bad luck",
+      "id": "a-run-of-good-bad-luck#a-run-of-good-bad-luck__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something [bad_1]{bad} [happen]{happened} because you are not a [lucky]{lucky} [person]{person}",
+      "entry": "just my luck",
+      "id": "just-my-luck#just-my-luck__1"
+    }
+  ],
+  "thesaurus": "Bad luck and relating to bad luck",
+  "type": "Synonyms"
+}

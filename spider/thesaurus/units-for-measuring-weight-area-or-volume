@@ -1,0 +1,216 @@
+{
+  "entries": [
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} the [surface_1]{surface} [area]{area} of [land_1]{land}, [equal_1]{equal} to 4,840 [square_1]{square} [yard]{yards} or 4,047 [square_1]{square} [meter_1]{meters}",
+      "entry": "acre",
+      "id": "acre#acre__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [area]{area} in the [metric_1]{metric} system. One are is [equal_1]{equal} to 100 [square_1]{square} [meter_1]{meters}.",
+      "entry": "are",
+      "id": "are_2#are_2__1"
+    },
+    {
+      "comment": "the amount of [space_1]{space} that the [surface_1]{surface} of a [place_1]{place} or [shape_1]{shape} [cover_1]{covers}. [area]{Area} is [express_1]{expressed} in [square_1]{square} [unit]{units}, such as [square_1]{square} [kilometer]{kilometers} or [square_1]{square} [mile]{miles}",
+      "entry": "area",
+      "id": "area#area__14"
+    },
+    {
+      "comment": "body [mass_1]{mass} [index_1]{index}: a [measurement]{measurement} of the amount of [fat_1]{fat} in someone\u2019s body, [calculated]{calculated} by [divide_1]{dividing} their [weight_1]{weight} in [kilogram]{kilograms} by their [height]{height} in [meter_1]{meters} [squared]{squared}",
+      "entry": "BMI",
+      "id": "bmi#bmi__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [grain]{grain}, [vegetable]{vegetables}, etc. [equal_1]{equal} to 35.24 [liter]{liters} in the U.S. or 36.4 [liter]{liters} in the U.K.",
+      "entry": "bushel",
+      "id": "bushel#bushel__1"
+    },
+    {
+      "comment": "a unit for measuring the weight of diamonds and other jewels. It equals 0.2 grams",
+      "entry": "carat",
+      "id": "carat#carat__1"
+    },
+    {
+      "comment": "a unit for measuring weight in the metric system. There are 100 centigrams in one gram.",
+      "entry": "centigram",
+      "id": "centigram#centigram__1"
+    },
+    {
+      "comment": "[carat]{carat}",
+      "entry": "ct.",
+      "id": "ct_2#ct_2__2"
+    },
+    {
+      "comment": "[cubic]{cubic}",
+      "entry": "cu.",
+      "id": "cu_2#cu_2__1"
+    },
+    {
+      "comment": "cubic units are used for measuring volume  (=the amount of space in an object)",
+      "entry": "cubic",
+      "id": "cubic#cubic__1"
+    },
+    {
+      "comment": "[measured]{measured} in [cubic]{cubic} [unit]{units}",
+      "entry": "cubic",
+      "id": "cubic#cubic__3"
+    },
+    {
+      "comment": "[hundredweight]{hundredweight}",
+      "entry": "cwt",
+      "id": "cwt#cwt__1"
+    },
+    {
+      "comment": "the [size_1]{size} of the [area]{area} [covered_1]{covered} by a [building]{building}, [especially]{especially} a [store_1]{store}, [measured]{measured} in [square_1]{square} [feet]{feet}",
+      "entry": "footage",
+      "id": "footage#footage__4"
+    },
+    {
+      "comment": "[gram]{gram}",
+      "entry": "g.",
+      "id": "g_3#g_3__1"
+    },
+    {
+      "comment": "[gram]{gram}",
+      "entry": "gr.",
+      "id": "gr_1#gr_1__1"
+    },
+    {
+      "comment": "an old unit for measuring weight, equal to .065 grams",
+      "entry": "grain",
+      "id": "grain#grain__12"
+    },
+    {
+      "comment": "a unit for measuring weight in the metric system. There are 1,000 grams in a kilogram.",
+      "entry": "gram",
+      "id": "gram#gram__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [gram]{gram}",
+      "entry": "gramme",
+      "id": "gramme#gramme__1"
+    },
+    {
+      "comment": "[hectare]{hectare}",
+      "entry": "ha",
+      "id": "ha_2#ha_2__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} an [area]{area} of [land_1]{land}, [equal_1]{equal} to 10,000 [square_1]{square} [meter_1]{meters}",
+      "entry": "hectare",
+      "id": "hectare#hectare__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [weight_1]{weight} that is [equal_1]{equal} to 100 [pound_1]{pounds} or 45.36 [kilogram]{kilograms}",
+      "entry": "hundredweight",
+      "id": "hundredweight#hundredweight__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [weight_1]{weight} that is [equal_1]{equal} to 112 [pound_1]{pounds} or 50.8 [kilogram]{kilograms}",
+      "entry": "hundredweight",
+      "id": "hundredweight#hundredweight__2"
+    },
+    {
+      "comment": "[kilogram]{kilogram}",
+      "entry": "kg",
+      "id": "kg#kg__1"
+    },
+    {
+      "comment": "a [kilogram]{kilogram}",
+      "entry": "kilo",
+      "id": "kilo_1#kilo_1__1"
+    },
+    {
+      "comment": "a unit for measuring weight in the metric system, containing 1000 grams. The written abbreviation is kg.",
+      "entry": "kilogram",
+      "id": "kilogram#kilogram__1"
+    },
+    {
+      "comment": "[pound_1]{pound}",
+      "entry": "lb.",
+      "id": "lb#lb__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [weight_1]{weight}, [contain]{containing} 1000 [kilogram]{kilograms}",
+      "entry": "metric ton",
+      "id": "metric-ton#metric-ton__1"
+    },
+    {
+      "comment": "[milligram]{milligram}",
+      "entry": "mg",
+      "id": "mg_1#mg_1__1"
+    },
+    {
+      "comment": "a unit for measuring weight in the metric system. There are 1000 milligrams in one gram.",
+      "entry": "milligram",
+      "id": "milligram#milligram__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [weight_1]{weight}, [equal_1]{equal} to 28.35 [gram]{grams}",
+      "entry": "ounce",
+      "id": "ounce#ounce__1"
+    },
+    {
+      "comment": "[ounce]{ounce}",
+      "entry": "oz.",
+      "id": "oz_2#oz_2__1"
+    },
+    {
+      "comment": "a unit for measuring the amount of something dry such as grain or fruit, containing eight quarts",
+      "entry": "peck",
+      "id": "peck_2#peck_2__4"
+    },
+    {
+      "comment": "a unit for measuring weight, used in several countries including the U.S. and the U.K., containing 16 ounces and equal to 0.454 kilograms. Its written abbreviation is lb.",
+      "entry": "pound",
+      "id": "pound_1#pound_1__1"
+    },
+    {
+      "comment": "a unit for measuring weight, containing four ounces and equal to 0.113 kilograms",
+      "entry": "quarter",
+      "id": "quarter_1#quarter_1__19"
+    },
+    {
+      "comment": "a former [unit]{unit} of [weight_1]{weight} in India [equal_1]{equal} to about 0.9 [kilogram]{kilograms}",
+      "entry": "seer",
+      "id": "seer#seer__2"
+    },
+    {
+      "comment": "[square_1]{square} [unit]{units} are [used]{used} for [measure_2]{measuring} the [area]{area} of something",
+      "entry": "square",
+      "id": "square_2#square_2__6"
+    },
+    {
+      "comment": "[stone_1]{stones}",
+      "entry": "st",
+      "id": "st_1#st_1__1"
+    },
+    {
+      "comment": "a unit for measuring weight containing 14 pounds, equal to 6.35 kilograms. This is used especially when talking about someone\u2019s weight.",
+      "entry": "stone",
+      "id": "stone_1#stone_1__12"
+    },
+    {
+      "comment": "a unit for measuring weight, containing 2,000 pounds and equal to 907 kilograms",
+      "entry": "ton",
+      "id": "ton#ton__1"
+    },
+    {
+      "comment": "a unit for measuring weight, containing 2,240 pounds and equal to 1,016 kilograms",
+      "entry": "ton",
+      "id": "ton#ton__5"
+    },
+    {
+      "comment": "a unit for measuring weight, equal to 1,000 kilograms. A tonne is also called a metric ton.",
+      "entry": "tonne",
+      "id": "tonne#tonne__1"
+    },
+    {
+      "comment": "a system for [measure_2]{measuring} the [weight_1]{weight} of [jewel]{jewels} and [metal_1]{metals} such as [gold_1]{gold} and [silver_1]{silver}",
+      "entry": "troy weight",
+      "id": "troy-weight#troy-weight__1"
+    }
+  ],
+  "thesaurus": "Units for measuring weight, area or volume",
+  "type": "Related words"
+}

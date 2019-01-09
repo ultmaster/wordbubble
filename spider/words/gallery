@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [public_1]{public} [building]{building} where you can [look_1]{look} at [painting]{paintings} and other [work_1]{works} of art",
+      "examples": [
+        "the [national_1]{National} [portrait]{Portrait} [gallery]{Gallery}",
+        "She [spent_1]{spent} her [free_1]{free} time [visit_1]{visiting} [gallery]{galleries} and [museum]{museums}.",
+        "The Turner [exhibit_1]{exhibit} [occupy]{occupies} all the [gallery]{galleries} on the first [floor_1]{floor}.",
+        "His [work_1]{work} was last [shown]{shown} at the [peter]{Peter} Nathan gallery in Zurich."
+      ],
+      "id": "gallery__1"
+    },
+    {
+      "def": "an [upper_1]{upper} [level_1]{level} in a [building]{building} such as a [church]{church}, [court_1]{court}, etc.",
+      "examples": [
+        "[reporter]{Reporters} and [member]{members} of the [public_1]{public} [packed]{packed} the [senate]{Senate} gallery."
+      ],
+      "id": "gallery__8"
+    },
+    {
+      "def": "a [passage]{passage} or long [narrow_1]{narrow} [room_1]{room} [inside_1]{inside} a [building]{building}",
+      "examples": [],
+      "id": "gallery__11"
+    },
+    {
+      "def": "a [group_1]{group} of [similar]{similar} [people_1]{people} or [thing]{things}",
+      "examples": [
+        "a gallery of [balding]{balding} [middle-aged]{middle-aged} [men]{men}"
+      ],
+      "id": "gallery__13"
+    }
+  ],
+  "word": "gallery"
+}

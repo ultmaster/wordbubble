@@ -1,0 +1,47 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[permission]{permission} to [join_1]{join} a [club_1]{club} or become a [student]{student} at a [college]{college} or [university]{university}",
+      "examples": [
+        "Many [student]{students} [apply]{apply} for admission to more than one [college]{college}.",
+        "Not all of those who [applied]{applied} [gain_1]{gained} admission to the [school_1]{school}.",
+        "There is no admission to the [park_1]{park} after 11 p.m."
+      ],
+      "id": "admission__1"
+    },
+    {
+      "def": "the [process_1]{process} of [accepting]{accepting} someone into a [place_1]{place}, [organization]{organization}, or [institution]{institution}",
+      "examples": [
+        "All [patient_1]{patients} are [evaluate]{evaluated} within eight [hour]{hours} of admission."
+      ],
+      "id": "admission__6"
+    },
+    {
+      "def": "the amount of [money]{money} you [pay_1]{pay} to [enter]{enter} a [place_1]{place} or [event]{event}",
+      "examples": [
+        "You get $5 off admission with this [coupon]{coupon}.",
+        "[admission]{Admission} to the [game_1]{game} is [free_1]{free}."
+      ],
+      "id": "admission__8"
+    },
+    {
+      "def": "a [statement_1]{statement} [accepting]{accepting} that something is [true_1]{true}, [especially]{especially} something that you have done that you are [sorry]{sorry} about",
+      "examples": [
+        "an admission of [guilt_1]{guilt}",
+        "The admission that her [drug_1]{drug} [test_1]{test} had been [alter]{altered} [shocked]{shocked} us all.",
+        "His [contribution]{contribution} was, by his own admission, very [small_1]{small}."
+      ],
+      "id": "admission__11"
+    },
+    {
+      "def": "the [number_1]{number} of [people_1]{people} who [enter]{enter} a [place_1]{place}, [organization]{organization}, or [institution]{institution}",
+      "examples": [
+        "We have already [seen]{seen} an [increase_1]{increase} in the [level_1]{level} of [emergency_1]{emergency} [admission]{admissions}."
+      ],
+      "id": "admission__15"
+    }
+  ],
+  "word": "admission"
+}

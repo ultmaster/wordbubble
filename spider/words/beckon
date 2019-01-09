@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [signal_1]{signal} to someone to come toward you",
+      "examples": [
+        "He [beckon]{beckoned} to the [waiter]{waiter} to [ask_1]{ask} for another [bottle_1]{bottle} of [wine_1]{wine}.",
+        "She [beckon]{beckoned} me to [join_1]{join} her."
+      ],
+      "id": "beckon__1"
+    },
+    {
+      "def": "if something [beckon]{beckons} to you, it is very [attractive]{attractive} and you [feel_1]{feel} you have to do something to get it",
+      "examples": [
+        "A [bright_1]{bright} [future_1]{future} [beckon]{beckoned}."
+      ],
+      "id": "beckon__4"
+    }
+  ],
+  "word": "beckon"
+}

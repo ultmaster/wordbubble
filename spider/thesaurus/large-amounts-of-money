@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [large_1]{large} amount of [money]{money} and other [valuable]{valuable} [thing]{things}",
+      "entry": "wealth",
+      "id": "wealth#wealth__1"
+    },
+    {
+      "comment": "a very [large_1]{large} amount of [money]{money}",
+      "entry": "fortune",
+      "id": "fortune#fortune__1"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [money]{money}",
+      "entry": "pile",
+      "id": "pile_1#pile_1__9"
+    },
+    {
+      "comment": "an amount of [money]{money} that you get when you are not [expect]{expecting} it, [especially]{especially} a [large_1]{large} amount",
+      "entry": "windfall",
+      "id": "windfall#windfall__1"
+    },
+    {
+      "comment": "[big_1]{big} [money]{money}",
+      "entry": "big bucks",
+      "id": "big-bucks#big-bucks__1"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [money]{money} [paid_1]{paid} to someone, for [example]{example} by an [insurance]{insurance} [company]{company} or as a [prize_1]{prize} in a [competition]{competition}",
+      "entry": "payout",
+      "id": "payout#payout__1"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [money]{money}",
+      "entry": "mint",
+      "id": "mint_1#mint_1__4"
+    },
+    {
+      "comment": "a [lot_1]{lot} of [money]{money}",
+      "entry": "big money",
+      "id": "big-money#big-money__1"
+    },
+    {
+      "comment": "a [lot_1]{lot} of [money]{money}",
+      "entry": "a small fortune",
+      "id": "a-small-fortune#a-small-fortune__1"
+    },
+    {
+      "comment": "a very [large_1]{large} amount of [money]{money}",
+      "entry": "megabucks",
+      "id": "megabucks#megabucks__1"
+    }
+  ],
+  "thesaurus": "Large amounts of money",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [restaurant]{restaurant}, [store_1]{store}, [gallery]{gallery}, etc. that [open_2]{opens} for a [short_1]{short} time, sometimes in a [surprising]{surprising} [location]{location}",
+      "entry": "pop-up",
+      "id": "pop-up_3#pop-up_3__2"
+    },
+    {
+      "comment": "[relate]{relating} to a [store_1]{store}",
+      "entry": "store",
+      "id": "store_1#store_1__5"
+    },
+    {
+      "comment": "a [place_1]{place} where you [buy_1]{buy} [thing]{things} or where you [pay_1]{pay} for a [service_1]{service}",
+      "entry": "shop",
+      "id": "shop_1#shop_1__1"
+    },
+    {
+      "comment": "a [store_1]{store} or [place_1]{place} where a [particular_1]{particular} [product]{product} is [sold]{sold}",
+      "entry": "outlet",
+      "id": "outlet#outlet__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [store_1]{store} [selling]{selling} [newspaper]{newspapers}, [drink_1]{drinks}, etc.",
+      "entry": "kiosk",
+      "id": "kiosk#kiosk__1"
+    },
+    {
+      "comment": "a [place_1]{place} that [sell_1]{sells} [goods]{goods}",
+      "entry": "store",
+      "id": "store_1#store_1__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} many [different]{different} [type_1]{types} of [thing]{things}",
+      "entry": "emporium",
+      "id": "emporium#emporium__1"
+    },
+    {
+      "comment": "a store or market. Mart is often used in the names of stores.",
+      "entry": "mart",
+      "id": "mart#mart__1"
+    },
+    {
+      "comment": "a [central]{central} [place_1]{place} where [goods]{goods} of a [particular_1]{particular} [type_1]{type} are [bought]{bought} and [sold]{sold}",
+      "entry": "exchange",
+      "id": "exchange_1#exchange_1__16"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [parlor]{parlor}",
+      "entry": "parlour",
+      "id": "parlour#parlour__1"
+    }
+  ],
+  "thesaurus": "General words for shops",
+  "type": "Synonyms"
+}

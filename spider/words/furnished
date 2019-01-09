@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a furnished [house_1]{house}, [apartment]{apartment}, or [room_1]{room} is one that you [rent_1]{rent} with [furniture]{furniture} already in it",
+      "examples": [],
+      "id": "furnished__1"
+    },
+    {
+      "def": "with a [particular_1]{particular} [type_1]{type} or amount of [furniture]{furniture}",
+      "examples": [
+        "[comfortably]{comfortably} furnished in a [traditional]{traditional} [style_1]{style}",
+        "a [fully]{fully} furnished [office]{office}"
+      ],
+      "id": "furnished__2"
+    }
+  ],
+  "word": "furnished"
+}

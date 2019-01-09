@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a piece of very thin paper used for sending a letter by airmail",
+      "entry": "aerogram",
+      "id": "aerogram#aerogram__1"
+    },
+    {
+      "comment": "a [card_1]{card} that you [send_1]{send} to [people_1]{people} to [tell_1]{tell} them something [personal_1]{personal}, for [example]{example} that your [baby_1]{baby} has been [born]{born} or that you are [going_1]{going} to get [married]{married}",
+      "entry": "announcement",
+      "id": "announcement#announcement__8"
+    },
+    {
+      "comment": "a [small_1]{small} [card_1]{card} that a [visitor]{visitor} [leaves]{leaves} with their name and [address_1]{address} [print_1]{printed} on it",
+      "entry": "calling card",
+      "id": "calling-card#calling-card__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of thick [stiff_1]{stiff} [paper_1]{paper} [fold_1]{folded} into two [equal_1]{equal} [part_1]{parts}, with a [picture_1]{picture} and a [message_1]{message} on it",
+      "entry": "card",
+      "id": "card_1#card_1__17"
+    },
+    {
+      "comment": "a [postcard]{postcard}",
+      "entry": "card",
+      "id": "card_1#card_1__21"
+    },
+    {
+      "comment": "a [card_1]{card} you give or [send_1]{send} to someone on a [special_1]{special} [occasion_1]{occasion} such as their [birthday]{birthday}",
+      "entry": "greeting card",
+      "id": "greeting-card#greeting-card__1"
+    },
+    {
+      "comment": "the name and [address_1]{address} of an [organization]{organization} as it is [print_1]{printed} on their [official_1]{official} [writing]{writing} [paper_1]{paper}",
+      "entry": "letterhead",
+      "id": "letterhead#letterhead__1"
+    },
+    {
+      "comment": "a [fold_1]{folded} [card_1]{card} which you use for [writing]{writing} a [short_1]{short} [letter_1]{letter} to someone",
+      "entry": "notecard",
+      "id": "notecard#notecard__1"
+    },
+    {
+      "comment": "a [notecard]{notecard}",
+      "entry": "notelet",
+      "id": "notelet#notelet__1"
+    },
+    {
+      "comment": "[paper_1]{paper} [used]{used} for [writing]{writing} [personal_1]{personal} [letter_1]{letters} or [note_1]{notes}",
+      "entry": "notepaper",
+      "id": "notepaper#notepaper__1"
+    },
+    {
+      "comment": "a [postcard]{postcard} with a [picture_1]{picture} on the front",
+      "entry": "picture postcard",
+      "id": "picture-postcard_1#picture-postcard_1__1"
+    },
+    {
+      "comment": "a small card that you write on one side of and send to someone in the mail. It usually has a picture on it and is sent from a place you are visiting.",
+      "entry": "postcard",
+      "id": "postcard#postcard__1"
+    },
+    {
+      "comment": "a [calling]{calling} [card_1]{card}",
+      "entry": "visiting card",
+      "id": "visiting-card#visiting-card__1"
+    },
+    {
+      "comment": "[paper_1]{paper} that you use for [writing]{writing} [letter_1]{letters}",
+      "entry": "writing paper",
+      "id": "writing-paper#writing-paper__1"
+    }
+  ],
+  "thesaurus": "Paper and cards for letters and greetings",
+  "type": "Related words"
+}

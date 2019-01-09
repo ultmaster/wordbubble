@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "call out",
+  "senses": [
+    {
+      "def": "to [shout_1]{shout} something, [especially]{especially} when you are [trying]{trying} to get someone\u2019s [attention]{attention}",
+      "examples": [
+        "Don\u2019t call out the [answer_1]{answer}!",
+        "\u201cIn here!\u201d she [call_1]{called} out.",
+        "I [tried_1]{tried} to call out to him through the [window]{window}."
+      ],
+      "id": "call-out__1"
+    },
+    {
+      "def": "to [ask_1]{ask} a [person]{person} or [organization]{organization} that [provide]{provides} a [service_1]{service} to come and [deal_1]{deal} with something for you",
+      "examples": [],
+      "id": "call-out__5"
+    },
+    {
+      "def": "to [criticize]{criticize} someone about something they have [said_1]{said} or done and [challenge_1]{challenge} them to [explain]{explain} it",
+      "examples": [
+        "[calling]{Calling} her out in front of everyone wasn\u2019t [exactly]{exactly} [fair_1]{fair}.",
+        "She [call_1]{called} him out on his [shameless]{shameless} [hypocrisy]{hypocrisy}."
+      ],
+      "id": "call-out__6"
+    },
+    {
+      "def": "to [challenge_1]{challenge} someone over something they have [said_1]{said} or done",
+      "examples": [
+        "Why he would call her out in an [open_1]{open} [forum]{forum} is beyond me.",
+        "You should [politely]{politely} but [firm_1#firm_1__28]{firmly} call them out on their [offensive_1]{offensive} [behavior]{behavior}."
+      ],
+      "id": "call-out__9"
+    }
+  ]
+}

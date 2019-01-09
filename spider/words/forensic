@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to the use of [scientific]{scientific} [method]{methods} to [solve]{solve} [crime_1]{crimes} and to find out who [committed]{committed} them",
+      "examples": [
+        "[forensic]{Forensic} [expert_1]{experts} [search_2]{searched} the [house_1]{house}.",
+        "They have come up with [new]{new} forensic [evidence_1]{evidence}."
+      ],
+      "id": "forensic__1"
+    },
+    {
+      "def": "[relate]{relating} to [lawyer]{lawyers} or [law]{law} [court_1]{courts}",
+      "examples": [
+        "forensic [debate_1]{debates}"
+      ],
+      "id": "forensic__4"
+    }
+  ],
+  "word": "forensic"
+}

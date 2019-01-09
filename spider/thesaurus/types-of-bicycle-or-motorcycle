@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "a vehicle with two wheels that you ride by pushing pedals with your feet. A bicycle is often called a bike. Someone riding a bicycle is a biker.",
+      "entry": "bicycle",
+      "id": "bicycle#bicycle__1"
+    },
+    {
+      "comment": "a bicycle or a motorcycle",
+      "entry": "bike",
+      "id": "bike_1#bike_1__1"
+    },
+    {
+      "comment": "a type of motorcycle",
+      "entry": "chopper",
+      "id": "chopper#chopper__2"
+    },
+    {
+      "comment": "a [bicycle]{bicycle}",
+      "entry": "cycle",
+      "id": "cycle_1#cycle_1__1"
+    },
+    {
+      "comment": "a [motorcycle]{motorcycle}",
+      "entry": "cycle",
+      "id": "cycle_1#cycle_1__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [bicycle]{bicycle} [used]{used} as a [taxi_1]{taxi}, with three [wheel_1]{wheels} and a part at the back for [carry_1]{carrying} [passenger]{passengers}",
+      "entry": "cycle rickshaw",
+      "id": "cycle-rickshaw#cycle-rickshaw__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [like_1]{like} a [small_1]{small} [bicycle]{bicycle} with an [engine]{engine} that is [used]{used} for [riding]{riding} or [racing_1]{racing} on rough [ground_1]{ground}",
+      "entry": "dirt bike",
+      "id": "dirt-bike#dirt-bike__1"
+    },
+    {
+      "comment": "an [electric]{electric} [bicycle]{bicycle} which has a [motor_1]{motor} to [power_1]{power} it or to [help_1]{help} with [pedal_2]{pedaling}",
+      "entry": "e-bike",
+      "id": "e-bike#e-bike__1"
+    },
+    {
+      "comment": "a type of big powerful motorcycle. This type of motorcycle is often simply called a Harley.",
+      "entry": "Harley Davidson",
+      "id": "harley-davidson#harley-davidson__1"
+    },
+    {
+      "comment": "a type of motorcycle with an engine that is not powerful and pedals like a bicycle",
+      "entry": "moped",
+      "id": "moped#moped__1"
+    },
+    {
+      "comment": "a [motorcycle]{motorcycle}, [especially]{especially} a [small_1]{small} one",
+      "entry": "motorbike",
+      "id": "motorbike#motorbike__1"
+    },
+    {
+      "comment": "a road vehicle that has two wheels and an engine and looks like a large heavy bicycle. Someone who rides a motorcycle is called a motorcyclist.",
+      "entry": "motorcycle",
+      "id": "motorcycle#motorcycle__1"
+    },
+    {
+      "comment": "a [scooter]{scooter}",
+      "entry": "motor scooter",
+      "id": "motor-scooter#motor-scooter__1"
+    },
+    {
+      "comment": "a [bicycle]{bicycle} with [wide_1]{wide} [tire_1]{tires} and a [strong]{strong} [frame_1]{frame}, [design_2]{designed} to be [used]{used} on rough [ground_1]{ground}",
+      "entry": "mountain bike",
+      "id": "mountain-bike#mountain-bike__1"
+    },
+    {
+      "comment": "a [small_1]{small} [vehicle]{vehicle} with two [wheel_1]{wheels} [used]{used} for [carry_1]{carrying} [passenger]{passengers} and [pull_1]{pulled} by someone [riding]{riding} a [bicycle]{bicycle} or [walking_1]{walking}. It is [mainly]{mainly} [used]{used} in [part_1]{parts} of Asia.",
+      "entry": "rickshaw",
+      "id": "rickshaw#rickshaw__1"
+    },
+    {
+      "comment": "a vehicle with an engine and two small wheels that looks like a small motorcycle",
+      "entry": "scooter",
+      "id": "scooter#scooter__2"
+    },
+    {
+      "comment": "a motorcycle for riding over rough ground",
+      "entry": "scrambler",
+      "id": "scrambler#scrambler__2"
+    },
+    {
+      "comment": "[sport_1]{sport} [utility]{utility} [bicycle]{bicycle}: a [bicycle]{bicycle} with a long [frame_1]{frame} that has been made [long_1]{longer} so that it can [carry_1]{carry} [extra_1]{extra} [thing]{things} or [people_1]{people}",
+      "entry": "SUB",
+      "id": "sub_3#sub_3__1"
+    },
+    {
+      "comment": "a [bicycle]{bicycle} with [seat_1]{seats} for two [people_1]{people}, one [riding]{riding} behind the other",
+      "entry": "tandem bicycle",
+      "id": "tandem-bicycle#tandem-bicycle__1"
+    },
+    {
+      "comment": "a motorcycle designed for riding or racing on rough ground",
+      "entry": "trail bike",
+      "id": "trail-bike#trail-bike__1"
+    },
+    {
+      "comment": "a [bicycle]{bicycle} with three [wheel_1]{wheels}, [used]{used} by [young_1]{young} [children]{children}",
+      "entry": "tricycle",
+      "id": "tricycle#tricycle__1"
+    },
+    {
+      "comment": "a [tricycle]{tricycle}",
+      "entry": "trike",
+      "id": "trike#trike__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [like_1]{like} a [bicycle]{bicycle} with a [single_1]{single} [wheel_1]{wheel}",
+      "entry": "unicycle",
+      "id": "unicycle#unicycle__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [bicycle]{bicycle} [used]{used} in the [past_1]{past}",
+      "entry": "velocipede",
+      "id": "velocipede#velocipede__1"
+    }
+  ],
+  "thesaurus": "Types of bicycle or motorcycle",
+  "type": "Related words"
+}

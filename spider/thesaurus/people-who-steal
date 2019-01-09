@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "someone who steals something. An instance of stealing something is called a theft",
+      "entry": "thief",
+      "id": "thief#thief__1"
+    },
+    {
+      "comment": "someone who [enter]{enters} a [building]{building} [illegal_1#illegal_1__6]{illegally} in [order_1]{order} to [steal_1]{steal} [thing]{things}",
+      "entry": "burglar",
+      "id": "burglar#burglar__1"
+    },
+    {
+      "comment": "someone who [take_1]{takes} [money]{money} or [property]{property} [illegal_1#illegal_1__6]{illegally}, often by [use_1]{using} [threat]{threats} or [violence]{violence}",
+      "entry": "robber",
+      "id": "robber#robber__1"
+    },
+    {
+      "comment": "someone who [attack_1]{attacks} [people_1]{people} in [public_1]{public} [place_1]{places} and [steal_1]{steals} their [money]{money}, [jewelry]{jewelry}, or other [possession]{possessions}",
+      "entry": "mugger",
+      "id": "mugger#mugger__1"
+    },
+    {
+      "comment": "someone who [steal_1]{steals} [money]{money} and other [thing]{things} from [people_1]{people}\u2019s [pocket_1]{pockets} and [bag_1]{bags}, [especially]{especially} in [crowded]{crowded} [place_1]{places}",
+      "entry": "pickpocket",
+      "id": "pickpocket#pickpocket__1"
+    },
+    {
+      "comment": "a [criminal_1]{criminal}, [especially]{especially} one who [steal_1]{steals} [money]{money}",
+      "entry": "crook",
+      "id": "crook_1#crook_1__3"
+    },
+    {
+      "comment": "a [thief]{thief} who [get]{gets} into [building]{buildings} by [climbing]{climbing} up [wall_1]{walls}",
+      "entry": "cat burglar",
+      "id": "cat-burglar#cat-burglar__1"
+    },
+    {
+      "comment": "someone who [attack_1]{attacks} [ship_1]{ships} while they are [sailing]{sailing} in [order_1]{order} to [steal_1]{steal} [thing]{things} from them",
+      "entry": "pirate",
+      "id": "pirate_1#pirate_1__1"
+    },
+    {
+      "comment": "a [thief]{thief} who [attack_1]{attacks} [traveler]{travelers}, [usually]{usually} with other [thief]{thieves}",
+      "entry": "bandit",
+      "id": "bandit#bandit__1"
+    },
+    {
+      "comment": "a [thief]{thief} who [get]{gets} into [people_1]{people}\u2019s [house_1]{houses} by [b-boying]{breaking} [window]{windows}, [door_1]{door} [lock_1]{locks}, etc.",
+      "entry": "housebreaker",
+      "id": "housebreaker#housebreaker__1"
+    },
+    {
+      "comment": "someone who [steal_1]{steals} a [car]{car} or other [vehicle]{vehicle}",
+      "entry": "carnapper",
+      "id": "carnapper#carnapper__1"
+    },
+    {
+      "comment": "a [person]{person} that [receive]{receives} [stolen]{stolen} [goods]{goods}",
+      "entry": "receiver",
+      "id": "receiver#receiver__8"
+    }
+  ],
+  "thesaurus": "People who steal",
+  "type": "Synonyms"
+}

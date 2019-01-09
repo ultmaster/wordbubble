@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "go to",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [doing]{doing} a [particular_1]{particular} [activity]{activity} or being in a [particular_1]{particular} [state_1]{state}",
+      "examples": [
+        "I was [just_1]{just} [going_1]{going} to [sleep_1]{sleep} when the [phone_1]{phone} [rang]{rang}.",
+        "He then went to [work_1]{work} on the [car]{car} and had [repair_1]{repaired} it by [lunchtime]{lunchtime}.",
+        "The two [country]{countries} have [gone_1]{gone} to war [twice_1]{twice} over the [disputed]{disputed} [territory]{territory}."
+      ],
+      "id": "go-to_1__1"
+    },
+    {
+      "def": "to be [given_1]{given} to someone or something",
+      "examples": [
+        "Our [thanks_1]{thanks} go to everyone who [help_1]{helped} [make_1]{make} this [celebration]{celebration} a [success]{success}.",
+        "The [house_1]{house} was [supposed]{supposed} to go to her [children]{children} when she [die_1]{died}."
+      ],
+      "id": "go-to_1__5"
+    }
+  ]
+}

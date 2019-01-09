@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "something [good_1]{good} that you get in [addition]{addition} to what you [expect]{expect}",
+      "examples": [
+        "[customer]{Customers} will [receive]{receive} a [free_1]{free} [tape_1]{tape} as a bonus with any [order_1]{order} over $30.",
+        "If you [buy_1]{buy} [direct_1]{direct}, [product]{products} are much [cheap_1]{cheaper}, with the [added]{added} bonus of [fast_1]{fast} [delivery]{delivery}."
+      ],
+      "id": "bonus__1"
+    },
+    {
+      "def": "[extra_1]{extra} [money]{money} that you are [paid_1]{paid} in [addition]{addition} to your [usual]{usual} [salary]{salary}",
+      "examples": [
+        "a Christmas bonus"
+      ],
+      "id": "bonus__4"
+    }
+  ],
+  "word": "bonus"
+}

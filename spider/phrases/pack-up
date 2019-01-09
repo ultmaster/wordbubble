@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "pack up",
+  "senses": [
+    {
+      "def": "to put [thing]{things} into a [bag_1]{bag}, [suitcase]{suitcase}, or [box_1]{box} so that you can take or [send_1]{send} them somewhere",
+      "examples": [
+        "He [simply]{simply} [packed]{packed} up his [belongings]{belongings} and [move_1]{moved} out on Tuesday."
+      ],
+      "id": "pack-up__1"
+    },
+    {
+      "def": "to [finish_1]{finish} [work_1]{work} for the [day]{day} by [put]{putting} [work_1]{work} or [equipment]{equipment} [away_1]{away}",
+      "examples": [],
+      "id": "pack-up__3"
+    },
+    {
+      "def": "if a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} [pack_1]{packs} up, it [stop_1]{stops} [working]{working}",
+      "examples": [],
+      "id": "pack-up__4"
+    },
+    {
+      "def": "to [stop_1]{stop} [doing]{doing} something, [especially]{especially} a [job_1]{job}",
+      "examples": [],
+      "id": "pack-up__5"
+    }
+  ]
+}

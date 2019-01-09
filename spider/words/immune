@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[safe_1]{safe} from a [disease]{disease}, because you cannot be [infected]{infected} by it",
+      "examples": [
+        "a [rare]{rare} immune [disorder]{disorder}"
+      ],
+      "id": "immune__1"
+    },
+    {
+      "def": "not [influence_2]{influenced} or [affected]{affected} by something",
+      "examples": [
+        "Few [women]{women} were immune to his [charm_1]{charm}.",
+        "Japan was by no [means]{means} immune from [continental]{continental} [influence_1]{influences}.",
+        "Our [patrol_1]{patrols} were no [long_1]{longer} immune from [attack_1]{attack}.",
+        "[diplomat]{Diplomats} are immune from [prosecution]{prosecution}."
+      ],
+      "id": "immune__4"
+    }
+  ],
+  "word": "immune"
+}

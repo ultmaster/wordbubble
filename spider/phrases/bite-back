@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "bite back",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} yourself from [saying]{saying} what you [think_1]{think}",
+      "examples": [
+        "Paul [bit_1]{bit} back an [angry]{angry} [reply_1]{reply}."
+      ],
+      "id": "bite-back__1"
+    },
+    {
+      "def": "to [react]{react} [angrily]{angrily} to someone who has done or [said_1]{said} something [unpleasant]{unpleasant} to you",
+      "examples": [
+        "It was his [instinct]{instinct} to [bite_1]{bite} back."
+      ],
+      "id": "bite-back__3"
+    }
+  ]
+}

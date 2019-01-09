@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[continuing]{continuing} or [look_1]{looking} [far]{far} into the [future_1]{future}",
+      "examples": [
+        "The long-range [weather_1]{weather} [forecast_1]{forecast} [predict]{predicts} an [unusually]{unusually} [cold_1]{cold} [winter_1]{winter}."
+      ],
+      "id": "long-range__1"
+    },
+    {
+      "def": "long-[range_1]{range} [weapon]{weapons}, [aircraft]{aircraft}, etc. are [able_1]{able} to [travel_1]{travel} over long [distance_1]{distances}",
+      "examples": [
+        "long-range [radar]{radar}"
+      ],
+      "id": "long-range__3"
+    }
+  ],
+  "word": "long-range"
+}

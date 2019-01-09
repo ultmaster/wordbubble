@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an object, or an item. This word is used when you cannot or do not want to refer to the object or item in a more specific way",
+      "entry": "things",
+      "id": "thing#thing__1"
+    },
+    {
+      "comment": "a thing that you can see and [touch_1]{touch} that is not [alive]{alive} and is [usually]{usually} [solid_1]{solid}",
+      "entry": "object",
+      "id": "object_1#object_1__1"
+    },
+    {
+      "comment": "an [object_1]{object}, [usually]{usually} one of a [group_1]{group} of [similar]{similar} [object_1]{objects}",
+      "entry": "article",
+      "id": "article#article__4"
+    },
+    {
+      "comment": "an [individual_1]{individual} [object_1]{object} of a [particular_1]{particular} [type_1]{type}",
+      "entry": "piece",
+      "id": "piece_1#piece_1__1"
+    },
+    {
+      "comment": "a [complete_1]{complete} thing made of several [part_1]{parts}",
+      "entry": "whole",
+      "id": "whole_2#whole_2__1"
+    },
+    {
+      "comment": "an [individual_1]{individual} thing, [usually]{usually} one of several [thing]{things} in a [group_1]{group} or on a [list_1]{list}",
+      "entry": "item",
+      "id": "item#item__1"
+    },
+    {
+      "comment": "a system [consist]{consisting} of [different]{different} [part_1]{parts} that all [fit_1]{fit} together well so that it can [operate]{operate} and [develop]{develop} [effectively]{effectively}",
+      "entry": "organism",
+      "id": "organism#organism__3"
+    },
+    {
+      "comment": "a [variety]{variety} of [object_1]{objects} or [thing]{things}",
+      "entry": "stuff",
+      "id": "stuff_1#stuff_1__1"
+    },
+    {
+      "comment": "a [separate_1]{separate} [unit]{unit} that is [complete_1]{complete} and has its own [character]{character}",
+      "entry": "entity",
+      "id": "entity#entity__1"
+    },
+    {
+      "comment": "[small_1]{small} [individual_1]{individual} [thing]{things}",
+      "entry": "bits and pieces",
+      "id": "bits-and-pieces#bits-and-pieces__3"
+    }
+  ],
+  "thesaurus": "General words for objects",
+  "type": "Synonyms"
+}

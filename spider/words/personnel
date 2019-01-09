@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [people_1]{people} who [work_1]{work} for a [company]{company} or [organization]{organization}, or who are [member]{members} of a [military]{military} [force_1]{force}",
+      "examples": [
+        "a [change_1]{change} of personnel on the [management]{management} [team_1]{team}",
+        "[military]{military} personnel"
+      ],
+      "id": "personnel__1"
+    },
+    {
+      "def": "the [department]{department} in an [organization]{organization} that is [responsible]{responsible} for [take_1]{taking} [care_1]{care} of and [keeping]{keeping} [record_1]{records} of all the [people_1]{people} [working]{working} there, and for [choose]{choosing} [new]{new} [worker]{workers}",
+      "examples": [],
+      "id": "personnel__4"
+    }
+  ],
+  "word": "personnel"
+}

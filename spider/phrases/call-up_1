@@ -1,0 +1,47 @@
+{
+  "part": "phrase",
+  "phrase": "call up",
+  "senses": [
+    {
+      "def": "to [telephone_1]{telephone} someone",
+      "examples": [
+        "I [call_1]{called} him up and [told]{told} him.",
+        "[nancy]{Nancy} had [call_1]{called} up to [invite_1]{invite} him."
+      ],
+      "id": "call-up_1__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone to [play_1]{play} in a [sport_1]{sports} [team_1]{team}, [especially]{especially} a [team_1]{team} at a [higher_1]{higher} [level_1]{level}",
+      "examples": [
+        "He was [call_1]{called} up to the [major_2]{majors} last [season_1]{season}."
+      ],
+      "id": "call-up_1__4"
+    },
+    {
+      "def": "to [make_1]{make} [information]{information} in a computer [appear]{appear} on the [screen_1]{screen}",
+      "examples": [
+        "Call up the [menu]{menu} and [click_1]{click} on \u201c[document_1]{Documents}.\u201d"
+      ],
+      "id": "call-up_1__6"
+    },
+    {
+      "def": "to [make_1]{make} you [remember]{remember} something",
+      "examples": [
+        "[seeing]{Seeing} Paula in that [white_1]{white} [dress_1]{dress} [call_1]{called} up [memory]{memories} of his [aunt]{Aunt} Sara."
+      ],
+      "id": "call-up_1__8"
+    },
+    {
+      "def": "to [draft_2#draft_2__4]{draft} someone into the [military]{military}",
+      "examples": [
+        "Two of her [brother_1]{brothers} had been [call_1]{called} up."
+      ],
+      "id": "call-up_1__10"
+    },
+    {
+      "def": "to use [magic_1]{magic} to [try_1]{try} to [make_1]{make} the [spirit_1]{spirit} of a [dead_1]{dead} [person]{person} [appear]{appear}",
+      "examples": [],
+      "id": "call-up_1__12"
+    }
+  ]
+}

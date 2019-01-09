@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "out of place",
+  "senses": [
+    {
+      "def": "if someone [feels]{feels} out of [place_1]{place} or is out of [place_1]{place}, they [feel_1]{feel} [uncomfortable]{uncomfortable} in a [particular_1]{particular} [situation]{situation} or [place_1]{place}, or they do not [belong]{belong} there",
+      "examples": [
+        "I [felt_1]{felt} very out of [place_1]{place} among Helen\u2019s [high-class]{high-class} [friend_1]{friends}."
+      ],
+      "id": "out-of-place__1"
+    },
+    {
+      "def": "if something [look_1]{looks} out of [place_1]{place}, it is in a [position_1]{position} where it [does]{does} not [belong]{belong} or [look_1]{look} [good_1]{good}",
+      "examples": [
+        "It\u2019s a [lovely_1]{lovely} [table_1]{table} but it would [look_1]{look} out of [place_1]{place} with all our [antique_1]{antique} [furniture]{furniture}."
+      ],
+      "id": "out-of-place__3"
+    },
+    {
+      "def": "in the [wrong_1]{wrong} [position_1]{position}",
+      "examples": [
+        "Mel [look_1]{looked} [immaculate]{immaculate} with not even a [hair]{hair} out of [place_1]{place}."
+      ],
+      "id": "out-of-place__5"
+    }
+  ]
+}

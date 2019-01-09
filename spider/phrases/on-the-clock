@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "on the clock",
+  "senses": [
+    {
+      "def": "the amount of time on the [clock_1]{clock} is the amount of time since something [start_1]{started}. The amount of time [left_1]{left} on the [clock_1]{clock} or still on the [clock_1]{clock} is the amount of time before something [finish_1]{finishes}.",
+      "examples": [],
+      "id": "on-the-clock__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} how many [mile]{miles} a [vehicle]{vehicle}\u2019s [odometer]{odometer} or [speedometer]{speedometer} [show_1]{shows}",
+      "examples": [
+        "a [car]{car} with over 82,000 [mile]{miles} on the [clock_1]{clock}"
+      ],
+      "id": "on-the-clock__2"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [say_1]{say} or do something to [stop_1]{stop} someone when they are [speak_1]{speaking} or [concentrate_1]{concentrating} on something",
+      "examples": [
+        "Please don\u2019t interrupt her while she\u2019s [working]{working}.",
+        "She [tried_1]{tried} to [explain]{explain}, but he [interrupt]{interrupted} her in mid-sentence."
+      ],
+      "id": "interrupt__1"
+    },
+    {
+      "def": "to [make_1]{make} something [stop_1]{stop} for a [period_1]{period} of time",
+      "examples": [
+        "At the [tennis]{tennis} [championship]{championships}, [rain_1]{rain} [interrupt]{interrupted} [play_1]{play} for an [hour]{hour} this [afternoon_1]{afternoon}."
+      ],
+      "id": "interrupt__4"
+    },
+    {
+      "def": "if something [interrupt]{interrupts} something such as a [line_1]{line} or a [surface_1]{surface}, it [stop_1]{stops} it from being [continuous]{continuous}",
+      "examples": [
+        "The [huge]{huge} [open_1]{open} [space_1]{space} was [interrupt]{interrupted} only by two [steel_1]{steel} [column]{columns}."
+      ],
+      "id": "interrupt__6"
+    }
+  ],
+  "word": "interrupt"
+}

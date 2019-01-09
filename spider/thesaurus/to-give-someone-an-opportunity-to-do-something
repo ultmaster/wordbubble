@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to give someone the [ability_1]{ability} or [opportunity]{opportunity} to do something",
+      "entry": "enable",
+      "id": "enable#enable__1"
+    },
+    {
+      "comment": "to give someone the [right_1]{right} to do something",
+      "entry": "entitle",
+      "id": "entitle#entitle__1"
+    },
+    {
+      "comment": "to give someone or something the time or [opportunity]{opportunity} to do something",
+      "entry": "allow",
+      "id": "allow#allow__8"
+    },
+    {
+      "comment": "to give someone more [control_1]{control} over their [life]{life} or more [power_1]{power} to do something",
+      "entry": "empower",
+      "id": "empower#empower__3"
+    },
+    {
+      "comment": "to give [power_1]{power} or [control_1]{control} to someone else",
+      "entry": "hand over",
+      "id": "hand-over#hand-over__6"
+    },
+    {
+      "comment": "to give someone an [opportunity]{opportunity} to do something",
+      "entry": "give someone a try",
+      "id": "give-someone-a-try#give-someone-a-try__3"
+    },
+    {
+      "comment": "to give someone [opportunity]{opportunities}",
+      "entry": "open doors",
+      "id": "open-doors#open-doors__1"
+    },
+    {
+      "comment": "to [allow]{allow} someone to take part in something with you",
+      "entry": "deal in",
+      "id": "deal-in_2#deal-in_2__1"
+    },
+    {
+      "comment": "to [allow]{allow} someone to do something in the way that they [want_1]{want} to when you [know_1]{know} that they will [probably]{probably} [fail_1]{fail}",
+      "entry": "give someone enough rope (to hang themselves)",
+      "id": "give-someone-enough-rope-to-hang-themselves#give-someone-enough-rope-to-hang-themselves__1"
+    }
+  ],
+  "thesaurus": "To give someone an opportunity to do something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} about [people_1]{people} who are not [talk_1]{talking} or who do not [usually]{usually} [talk_1]{talk} much",
+      "entry": "quiet",
+      "id": "quiet_1#quiet_1__4"
+    },
+    {
+      "comment": "[used]{used} about a [person]{person} who [does]{does} not [usually]{usually} [talk_1]{talk} to other [people_1]{people} very much",
+      "entry": "silent",
+      "id": "silent#silent__4"
+    },
+    {
+      "comment": "[use_1]{using} only a few [word_1]{words}",
+      "entry": "brief",
+      "id": "brief_1#brief_1__6"
+    },
+    {
+      "comment": "an [economical]{economical} way of [speak_1]{speaking} or [writing]{writing} [does]{does} not use more [word_1]{words} than are [necessary_1]{necessary}",
+      "entry": "economical",
+      "id": "economical#economical__13"
+    },
+    {
+      "comment": "[express_1]{expressed} [use_1]{using} only a few [word_1]{words}, but in a way that is [easy_1]{easy} to [understand]{understand}",
+      "entry": "concise",
+      "id": "concise#concise__1"
+    },
+    {
+      "comment": "a [terse]{terse} [statement_1]{statement} or [remark_1]{remark} is very [short_1]{short} and often [show_1]{shows} that the [person]{person} [making]{making} it is [annoyed]{annoyed}",
+      "entry": "terse",
+      "id": "terse#terse__1"
+    },
+    {
+      "comment": "[express_1]{expressed} in a very [short_1]{short} but [clear_1]{clear} way",
+      "entry": "succinct",
+      "id": "succinct#succinct__1"
+    },
+    {
+      "comment": "[use_1]{using} very few [word_1]{words}",
+      "entry": "laconic",
+      "id": "laconic#laconic__1"
+    },
+    {
+      "comment": "[use_1]{using} very few [word_1]{words}",
+      "entry": "monosyllabic",
+      "id": "monosyllabic#monosyllabic__1"
+    }
+  ],
+  "thesaurus": "Using few words in speech or writing",
+  "type": "Synonyms"
+}

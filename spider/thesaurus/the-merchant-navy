@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} on a [ship_1]{ship} that is not part of the [navy]{navy}",
+      "entry": "first mate",
+      "id": "first-mate#first-mate__1"
+    },
+    {
+      "comment": "a first [mate_1]{mate} on a [ship_1]{ship}",
+      "entry": "first officer",
+      "id": "first-officer#first-officer__1"
+    },
+    {
+      "comment": "the captain of a ship that carries goods",
+      "entry": "master",
+      "id": "master_1#master_1__16"
+    },
+    {
+      "comment": "a [country]{country}\u2019s [ship_1]{ships} that [carry_1]{carry} [goods]{goods} rather than [soldier_1]{soldiers} and [weapon]{weapons}",
+      "entry": "merchant marine",
+      "id": "merchant-marine#merchant-marine__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [work_1]{work} on these [ship_1]{ships}",
+      "entry": "merchant marine",
+      "id": "merchant-marine#merchant-marine__2"
+    },
+    {
+      "comment": "the [merchant]{merchant} [marine_1]{marine}",
+      "entry": "merchant navy",
+      "id": "merchant-navy#merchant-navy__1"
+    },
+    {
+      "comment": "a sailor in the merchant marine",
+      "entry": "merchant seaman",
+      "id": "merchant-seaman#merchant-seaman__1"
+    }
+  ],
+  "thesaurus": "The Merchant Navy",
+  "type": "Related words"
+}

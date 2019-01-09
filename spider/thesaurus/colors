@@ -1,0 +1,341 @@
+{
+  "entries": [
+    {
+      "comment": "an orange-yellow [color_1]{color}",
+      "entry": "apricot",
+      "id": "apricot#apricot__2"
+    },
+    {
+      "comment": "a [light_1]{light} green-blue [color_1]{color}",
+      "entry": "aqua",
+      "id": "aqua#aqua__1"
+    },
+    {
+      "comment": "a green-blue [color_1]{color}",
+      "entry": "aquamarine",
+      "id": "aquamarine#aquamarine__1"
+    },
+    {
+      "comment": "a [light_1]{light} [brown_1]{brown} [color_1]{color}",
+      "entry": "biscuit",
+      "id": "biscuit#biscuit__3"
+    },
+    {
+      "comment": "the [dark_1]{darkest} [color_1]{color}, [like_1]{like} the [color_1]{color} of the [sky_1]{sky} at [night_1]{night} when there is no [light_1]{light}",
+      "entry": "black",
+      "id": "black_2#black_2__1"
+    },
+    {
+      "comment": "the [quality_1]{quality} of being [completely]{completely} [black_1]{black} or [completely]{completely} [dark_1]{dark}",
+      "entry": "blackness",
+      "id": "blackness#blackness__1"
+    },
+    {
+      "comment": "the [color_1]{color} of the [sky_1]{sky} on a [clear_1]{clear} [sunny]{sunny} [day]{day}",
+      "entry": "blue",
+      "id": "blue_2#blue_2__1"
+    },
+    {
+      "comment": "a red-brown [color_1]{color}",
+      "entry": "bronze",
+      "id": "bronze_1#bronze_1__2"
+    },
+    {
+      "comment": "the [color_1]{color} of [wood]{wood} or [coffee]{coffee}",
+      "entry": "brown",
+      "id": "brown_2#brown_2__1"
+    },
+    {
+      "comment": "a very [light_1]{light} yellow-brown [color_1]{color}, [similar]{similar} to the [color_1]{color} of [sand_1]{sand}",
+      "entry": "buff",
+      "id": "buff_1#buff_1__3"
+    },
+    {
+      "comment": "a [dark_1]{dark} red [color_1]{color}",
+      "entry": "burgundy",
+      "id": "burgundy_1#burgundy_1__2"
+    },
+    {
+      "comment": "[bright_1]{bright} red",
+      "entry": "cherry",
+      "id": "cherry#cherry__3"
+    },
+    {
+      "comment": "a red-brown [color_1]{color}",
+      "entry": "chestnut",
+      "id": "chestnut#chestnut__6"
+    },
+    {
+      "comment": "a [dark_1]{dark} [brown_1]{brown} [color_1]{color}",
+      "entry": "chocolate",
+      "id": "chocolate#chocolate__9"
+    },
+    {
+      "comment": "a [dark_1]{dark} red [color_1]{color}",
+      "entry": "claret",
+      "id": "claret_1#claret_1__2"
+    },
+    {
+      "comment": "a blue-green [color_1]{color}",
+      "entry": "cobalt",
+      "id": "cobalt#cobalt__1"
+    },
+    {
+      "comment": "a [light_1]{light} [brown_1]{brown} [color_1]{color}",
+      "entry": "coffee",
+      "id": "coffee#coffee__11"
+    },
+    {
+      "comment": "a yellow-white [color_1]{color}",
+      "entry": "cream",
+      "id": "cream_1#cream_1__11"
+    },
+    {
+      "comment": "a [dark_1]{dark} purple-red [color_1]{color}",
+      "entry": "crimson",
+      "id": "crimson_2#crimson_2__1"
+    },
+    {
+      "comment": "a [blue_1]{blue} [color_1]{color} [used]{used} as one of the [basic_1]{basic} [color_1]{colors} in [printing]{printing}",
+      "entry": "cyan",
+      "id": "cyan#cyan__1"
+    },
+    {
+      "comment": "a [dark_1]{dark} [black_1]{black} [color_1]{color}",
+      "entry": "ebony",
+      "id": "ebony_1#ebony_1__3"
+    },
+    {
+      "comment": "a [bright_1]{bright} [pink_1]{pink} [color_1]{color}",
+      "entry": "fuchsia",
+      "id": "fuchsia#fuchsia__1"
+    },
+    {
+      "comment": "the [color_1]{color} of [gold_1]{gold}",
+      "entry": "gold",
+      "id": "gold_1#gold_1__11"
+    },
+    {
+      "comment": "a [color_1]{color} that is between [black_1]{black} and [white_1]{white}",
+      "entry": "gray",
+      "id": "gray_2#gray_2__1"
+    },
+    {
+      "comment": "the [color_1]{color} of [grass]{grass}",
+      "entry": "green",
+      "id": "green_2#green_2__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [gray_1]{gray}",
+      "entry": "grey",
+      "id": "grey#grey__1"
+    },
+    {
+      "comment": "a [dull_1]{dull} [gray_1]{gray} [color_1]{color}",
+      "entry": "gunmetal",
+      "id": "gunmetal#gunmetal__2"
+    },
+    {
+      "comment": "a [dark_1]{dark} blue-green [color_1]{color}",
+      "entry": "jade",
+      "id": "jade#jade__3"
+    },
+    {
+      "comment": "a green-brown or brown-yellow [color_1]{color}",
+      "entry": "khaki",
+      "id": "khaki#khaki__1"
+    },
+    {
+      "comment": "a [bright_1]{bright} [yellow_1]{yellow} [color_1]{color}",
+      "entry": "lemon",
+      "id": "lemon#lemon__3"
+    },
+    {
+      "comment": "a [pale_1]{pale} [purple_1]{purple} [color_1]{color}",
+      "entry": "lilac",
+      "id": "lilac_1#lilac_1__2"
+    },
+    {
+      "comment": "a lime-green color",
+      "entry": "lime",
+      "id": "lime#lime__4"
+    },
+    {
+      "comment": "a [white_1]{white} [color_1]{color} that [look_1]{looks} [slightly]{slightly} [yellow_1]{yellow}",
+      "entry": "magnolia",
+      "id": "magnolia#magnolia__2"
+    },
+    {
+      "comment": "a brown-red [color_1]{color}",
+      "entry": "mahogany",
+      "id": "mahogany#mahogany__3"
+    },
+    {
+      "comment": "a [dark_1]{dark} [purple_1]{purple} [color_1]{color}",
+      "entry": "mulberry",
+      "id": "mulberry#mulberry__3"
+    },
+    {
+      "comment": "a [dark_1]{dark} [yellow_1]{yellow} [color_1]{color}",
+      "entry": "mustard",
+      "id": "mustard#mustard__4"
+    },
+    {
+      "comment": "[navy]{navy} [blue_1]{blue}",
+      "entry": "navy",
+      "id": "navy#navy__4"
+    },
+    {
+      "comment": "a [light_1]{light} gray-brown [color_1]{color}",
+      "entry": "oatmeal",
+      "id": "oatmeal#oatmeal__3"
+    },
+    {
+      "comment": "a brown-yellow [color_1]{color}",
+      "entry": "ocher",
+      "id": "ocher#ocher__2"
+    },
+    {
+      "comment": "a [dark_1]{dark} yellow-green [color_1]{color}",
+      "entry": "olive",
+      "id": "olive_1#olive_1__2"
+    },
+    {
+      "comment": "a [color_1]{color} that is between red and [yellow_1]{yellow}",
+      "entry": "orange",
+      "id": "orange_1#orange_1__2"
+    },
+    {
+      "comment": "a yellowish-pink [color_1]{color}",
+      "entry": "peach",
+      "id": "peach_1#peach_1__4"
+    },
+    {
+      "comment": "the [color_1]{color} of a [blue_1]{blue} [periwinkle]{periwinkle}",
+      "entry": "periwinkle",
+      "id": "periwinkle#periwinkle__2"
+    },
+    {
+      "comment": "a [color_1]{color} that is between red and [white_1]{white}",
+      "entry": "pink",
+      "id": "pink_2#pink_2__1"
+    },
+    {
+      "comment": "a [color_1]{color} that is between red and [purple_1]{purple}",
+      "entry": "plum",
+      "id": "plum_1#plum_1__2"
+    },
+    {
+      "comment": "a very [light_1]{light} [blue_1]{blue} [color_1]{color}",
+      "entry": "powder blue",
+      "id": "powder-blue#powder-blue__1"
+    },
+    {
+      "comment": "a [pale_1]{pale} [yellow_1]{yellow} [color_1]{color}",
+      "entry": "primrose",
+      "id": "primrose#primrose__2"
+    },
+    {
+      "comment": "a [color_1]{color} that is between red and [blue_1]{blue}",
+      "entry": "purple",
+      "id": "purple_2#purple_2__1"
+    },
+    {
+      "comment": "the [color_1]{color} of [blood_1]{blood}",
+      "entry": "red",
+      "id": "red_2#red_2__1"
+    },
+    {
+      "comment": "a red [color_1]{color}",
+      "entry": "redness",
+      "id": "redness#redness__1"
+    },
+    {
+      "comment": "a [dark_1]{dark} [pink_1]{pink} [color_1]{color}",
+      "entry": "rose",
+      "id": "rose_1#rose_1__6"
+    },
+    {
+      "comment": "a [deep_1]{deep} [blue_1]{blue} [color_1]{color}",
+      "entry": "royal blue",
+      "id": "royal-blue_2#royal-blue_2__1"
+    },
+    {
+      "comment": "a [deep_1]{deep} red [color_1]{color}",
+      "entry": "ruby",
+      "id": "ruby_1#ruby_1__2"
+    },
+    {
+      "comment": "red-brown in [color_1]{color}",
+      "entry": "rust",
+      "id": "rust_1#rust_1__4"
+    },
+    {
+      "comment": "the [blue_1]{blue} [color_1]{color} of a [sapphire]{sapphire}",
+      "entry": "sapphire",
+      "id": "sapphire#sapphire__2"
+    },
+    {
+      "comment": "a red-brown [color_1]{color}",
+      "entry": "sepia",
+      "id": "sepia_2#sepia_2__2"
+    },
+    {
+      "comment": "a red or [yellow_1]{yellow} [brown_1]{brown} [color_1]{color}",
+      "entry": "sienna",
+      "id": "sienna#sienna__1"
+    },
+    {
+      "comment": "a [light_1]{light} [gray_1]{gray} [color_1]{color}",
+      "entry": "silver",
+      "id": "silver_1#silver_1__9"
+    },
+    {
+      "comment": "a [dark_1]{dark} [gray_1]{gray} or [gray_1]{grayish} [color_1]{color}",
+      "entry": "slate blue/gray",
+      "id": "slate-blue-gray#slate-blue-gray__1"
+    },
+    {
+      "comment": "a [light_1]{light} [brown_1]{brown} [color_1]{color}",
+      "entry": "tan",
+      "id": "tan_1#tan_1__4"
+    },
+    {
+      "comment": "a [color_1]{color} between [blue_1]{blue} and [green_1]{green}",
+      "entry": "teal",
+      "id": "teal_1#teal_1__1"
+    },
+    {
+      "comment": "a brown-red [color_1]{color}",
+      "entry": "terra cotta",
+      "id": "terra-cotta_1#terra-cotta_1__2"
+    },
+    {
+      "comment": "a [color_1]{color} that is [bright_1]{bright} green-blue",
+      "entry": "turquoise",
+      "id": "turquoise_1#turquoise_1__2"
+    },
+    {
+      "comment": "the [green_1]{green} [color_1]{color} of a [place_1]{place} with many [tree]{trees} and [plant_1]{plants}",
+      "entry": "verdure",
+      "id": "verdure#verdure__1"
+    },
+    {
+      "comment": "a blue-purple [color_1]{color}",
+      "entry": "violet",
+      "id": "violet_1#violet_1__3"
+    },
+    {
+      "comment": "the [color_1]{color} of [milk_1]{milk} or [snow_1]{snow}",
+      "entry": "white",
+      "id": "white_2#white_2__1"
+    },
+    {
+      "comment": "the [color_1]{color} of the [middle_1]{middle} of an [egg_1]{egg}",
+      "entry": "yellow",
+      "id": "yellow_2#yellow_2__1"
+    }
+  ],
+  "thesaurus": "Colors",
+  "type": "Related words"
+}

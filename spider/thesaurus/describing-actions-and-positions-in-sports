@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "in [tennis]{tennis} and [similar]{similar} [sport_1]{sports}, a [backhanded]{backhanded} [shot_1]{shot} is made by [moving]{moving} the back of your hand toward the [ball_1]{ball}",
+      "entry": "backhanded",
+      "id": "backhanded#backhanded__3"
+    },
+    {
+      "comment": "[intended_1]{intended} to [stop_1]{stop} the other [team_1]{team} from [score_1]{scoring} [point_1]{points} in a [game_1]{game}",
+      "entry": "defensive",
+      "id": "defensive_1#defensive_1__5"
+    },
+    {
+      "comment": "a [foul_1]{foul} move or [throw_1]{throw} in a [game_1]{game} is one that is not [allow]{allowed} by the [rule_1]{rules}",
+      "entry": "foul",
+      "id": "foul_1#foul_1__5"
+    },
+    {
+      "comment": "in [sport_1]{sports}, [use_1]{using} whatever [style_1]{style} or [method]{method} you [want_1]{want} to",
+      "entry": "freestyle",
+      "id": "freestyle_1#freestyle_1__3"
+    },
+    {
+      "comment": "[play_1]{playing} [near_1]{near} the other [team_1]{team}\u2019s [goal]{goal} and [trying]{trying} to [score_1]{score} in a [sport_1]{sport} such as [soccer]{soccer}",
+      "entry": "front",
+      "id": "front_2#front_2__9"
+    },
+    {
+      "comment": "[involved]{involved} in [score_1]{scoring} [point_1]{points}",
+      "entry": "offensive",
+      "id": "offensive_1#offensive_1__6"
+    },
+    {
+      "comment": "in the wrong position according to the rules in a game such as football, soccer, or ice hockey",
+      "entry": "offside",
+      "id": "offside_1#offside_1__1"
+    },
+    {
+      "comment": "in a [position_1]{position} that is [allow]{allowed} by the [rule_1]{rules} in [team_1]{team} [game_1]{games} such as [soccer]{soccer}",
+      "entry": "onside",
+      "id": "onside#onside__1"
+    }
+  ],
+  "thesaurus": "Describing actions and positions in sports",
+  "type": "Related words"
+}

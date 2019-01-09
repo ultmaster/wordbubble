@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [bright_1]{bright} [light_1]{light} or fire that [shine_1]{shines} in the [dark_1]{dark} and is [used]{used} as a [signal_1]{signal} to [warn]{warn} [people_1]{people} against [danger]{danger} or to show them the way somewhere",
+      "entry": "beacon",
+      "id": "beacon#beacon__1"
+    },
+    {
+      "comment": "a large candlestick or light that holds several candles or small lights",
+      "entry": "candelabra",
+      "id": "candelabra#candelabra__1"
+    },
+    {
+      "comment": "a stick of wax with a string in it called a wick that you burn to give light",
+      "entry": "candle",
+      "id": "candle#candle__1"
+    },
+    {
+      "comment": "an object for holding a candle",
+      "entry": "candlestick",
+      "id": "candlestick#candlestick__1"
+    },
+    {
+      "comment": "a large light that hangs from a ceiling and has branches for holding electric lights or candles",
+      "entry": "chandelier",
+      "id": "chandelier#chandelier__1"
+    },
+    {
+      "comment": "a [decoration]{decoration} made of a [light_1]{light} [inside_1]{inside} [colored_1]{colored} [paper_1]{paper}, with a [handle_1]{handle} for [carry_1]{carrying} it",
+      "entry": "Chinese lantern",
+      "id": "chinese-lantern#chinese-lantern__1"
+    },
+    {
+      "comment": "a [bright_1]{bright} [light_1]{light} or [flame_1]{flame} that [burn_1]{burns} [steadily]{steadily} and is [used]{used} as a [signal_1]{signal} in the [dark_1]{dark}",
+      "entry": "flare",
+      "id": "flare_1#flare_1__2"
+    },
+    {
+      "comment": "an [object_1]{object} that [produce_1]{produces} [light_1]{light} by [burning]{burning} [gas_1]{gas}, [mainly]{mainly} [used]{used} during the 19th and [early_1]{early} 20th [century]{centuries}",
+      "entry": "gaslight",
+      "id": "gaslight#gaslight__2"
+    },
+    {
+      "comment": "an empty pumpkin with a face cut into it and a light inside that can be seen through the holes. Jack-o\u2019-lanterns are usually made for Halloween.",
+      "entry": "jack-o\u2019-lantern",
+      "id": "jack-o-lantern#jack-o-lantern__1"
+    },
+    {
+      "comment": "a [paper_1]{paper} [container]{container} with a [light_1]{light} [inside_1]{inside} that [people_1]{people} use as a [decoration]{decoration} at [outdoor]{outdoor} [party_1]{parties}",
+      "entry": "Japanese lantern",
+      "id": "japanese-lantern#japanese-lantern__1"
+    },
+    {
+      "comment": "an [oil_1]{oil} or [gas_1]{gas} [light_1]{light}, [especially]{especially} a [small_1]{small} one, that you can [carry_1]{carry}",
+      "entry": "lamp",
+      "id": "lamp#lamp__3"
+    },
+    {
+      "comment": "a [light_1]{light} [inside_1]{inside} a [transparent]{transparent} [container]{container} with a [handle_1]{handle} for [carry_1]{carrying} it",
+      "entry": "lantern",
+      "id": "lantern#lantern__1"
+    },
+    {
+      "comment": "a long thin candle",
+      "entry": "taper",
+      "id": "taper_2#taper_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [wood]{wood} with a [flame_1]{flame} at one [end_1]{end} that is [used]{used} to give [light_1]{light}",
+      "entry": "torch",
+      "id": "torch_1#torch_1__1"
+    },
+    {
+      "comment": "a [blue_1]{blue} [light_1]{light} [cause_2]{caused} by [burning]{burning} [gas_1]{gases} that you sometimes see at [night_1]{night} over [wet_1]{wet} [ground_1]{ground}",
+      "entry": "will o\u2019 the wisp",
+      "id": "will-o-the-wisp#will-o-the-wisp__3"
+    }
+  ],
+  "thesaurus": "Candles and other lights not using electricity",
+  "type": "Related words"
+}

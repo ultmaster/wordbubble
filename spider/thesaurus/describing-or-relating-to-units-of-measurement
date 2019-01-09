@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "[measured]{measured} in [itself]{itself}, not in [relation]{relation} to anything else",
+      "entry": "absolute",
+      "id": "absolute_1#absolute_1__9"
+    },
+    {
+      "comment": "one of a [series]{series} of [regular_1]{regular} [mark_1]{marks} on a [piece_1]{piece} of [equipment]{equipment} for [measure_2]{measuring} [thing]{things}",
+      "entry": "calibration",
+      "id": "calibration#calibration__2"
+    },
+    {
+      "comment": "1018, used in some measurements",
+      "entry": "exa-",
+      "id": "exa#exa__1"
+    },
+    {
+      "comment": "a [measurement]{measurement} that [show_1]{shows} how [strong]{strong} or [large_1]{large} something is",
+      "entry": "factor",
+      "id": "factor_1#factor_1__7"
+    },
+    {
+      "comment": "[use_1]{using} the [earth]{Earth} as the [center_1]{center} from which other [thing]{things} are [measured]{measured}",
+      "entry": "geocentric",
+      "id": "geocentric#geocentric__1"
+    },
+    {
+      "comment": "a mark on something used for measuring, for example one of the marks showing the temperature on a thermometer",
+      "entry": "gradation",
+      "id": "gradation#gradation__3"
+    },
+    {
+      "comment": "one of a [series]{series} of [mark_1]{marks} on a [container]{container} or [piece_1]{piece} of [equipment]{equipment} [used]{used} for [measure_2]{measuring}",
+      "entry": "graduation",
+      "id": "graduation#graduation__4"
+    },
+    {
+      "comment": "relating to a system of measurement in which weight is measured in pounds, length is measured in feet, and volume is measured in pints",
+      "entry": "imperial",
+      "id": "imperial#imperial__7"
+    },
+    {
+      "comment": "[used]{used} when [showing]{showing} [measurement]{measurements}",
+      "entry": "in length/width/height/area etc.",
+      "id": "in-length-width-height-area-etc#in-length-width-height-area-etc__1"
+    },
+    {
+      "comment": "a [unit]{unit} in a system of [measurement]{measurement}",
+      "entry": "measure",
+      "id": "measure_1#measure_1__10"
+    },
+    {
+      "comment": "a system [used]{used} for [express_1]{expressing} a [particular_1]{particular} [quantity]{quantity}",
+      "entry": "measure",
+      "id": "measure_1#measure_1__13"
+    },
+    {
+      "comment": "using or relating to the metric system of measurements",
+      "entry": "metric",
+      "id": "metric#metric__1"
+    },
+    {
+      "comment": "the [process_1]{process} in which a [country]{country}, [organization]{organization}, etc. [start_1]{starts} [use_1]{using} the [metric_1]{metric} system of [measurement]{measurements}",
+      "entry": "metrication",
+      "id": "metrication#metrication__1"
+    },
+    {
+      "comment": "the system of [measurement]{measurement} whose [basic_1]{basic} [unit]{units} are [meter_1]{meters} and [kilogram]{kilograms}",
+      "entry": "the metric system",
+      "id": "the-metric-system#the-metric-system__1"
+    },
+    {
+      "comment": "a [level_1]{level} in a system for [measure_2]{measuring} [thing]{things}, in which each [level_1]{level} is ten times [higher_1]{higher} than the one before",
+      "entry": "order of magnitude",
+      "id": "order-of-magnitude#order-of-magnitude__1"
+    },
+    {
+      "comment": "1015, used in some measurements",
+      "entry": "peta-",
+      "id": "peta#peta__1"
+    },
+    {
+      "comment": "a [unit]{unit} of [measurement]{measurement}",
+      "entry": "point",
+      "id": "point_1#point_1__31"
+    },
+    {
+      "comment": "a [number_1]{number} or amount [shown]{shown} on a [piece_1]{piece} of [measure_2]{measuring} [equipment]{equipment}",
+      "entry": "reading",
+      "id": "reading#reading__16"
+    },
+    {
+      "comment": "a [range_1]{range} of [measurement]{measurements} in a [particular_1]{particular} system",
+      "entry": "scale",
+      "id": "scale_1#scale_1__10"
+    },
+    {
+      "comment": "a [set_1]{set} of [mark_1]{marks}, [usually]{usually} [lines]{lines} and [number_1]{numbers}, on a [piece_1]{piece} of [equipment]{equipment} or a [drawing]{drawing}, [used]{used} for [measure_2]{measuring} something",
+      "entry": "scale",
+      "id": "scale_1#scale_1__18"
+    },
+    {
+      "comment": "a [position_1]{position} that the [control_1]{controls} of a [piece_1]{piece} of [equipment]{equipment} are at",
+      "entry": "setting",
+      "id": "setting#setting__7"
+    },
+    {
+      "comment": "Syst\u00e8me International unit: a standard scientific unit of measurement in an international system. The main units are the meter, kilogram, second, ampere, kelvin, and mole.",
+      "entry": "SI unit",
+      "id": "si-unit#si-unit__1"
+    },
+    {
+      "comment": "one of a [series]{series} of [standard_1]{standard} [measurement]{measurements} [accord_2]{according} to which [goods]{goods} are made or [sold]{sold}",
+      "entry": "size",
+      "id": "size_1#size_1__9"
+    },
+    {
+      "comment": "a [single_1]{single} [short_1]{short} [line_1]{line} or [mark_1]{mark} made with a [pen_1]{pen} or [brush_1]{brush}",
+      "entry": "stroke",
+      "id": "stroke_1#stroke_1__19"
+    },
+    {
+      "comment": "[relate]{relating} to [unit]{units} of [measurement]{measurement}",
+      "entry": "unitary",
+      "id": "unitary#unitary__2"
+    }
+  ],
+  "thesaurus": "Describing or relating to units of measurement",
+  "type": "Related words"
+}

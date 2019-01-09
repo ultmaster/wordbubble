@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "the [activity]{activity} of [making]{making} [thing]{things} from [wood]{wood}, or [repair_1]{repairing} [thing]{things} that are made of [wood]{wood}",
+      "entry": "carpentry",
+      "id": "carpentry#carpentry__1"
+    },
+    {
+      "comment": "a type of joint used for fitting two pieces of wood tightly together",
+      "entry": "dovetail",
+      "id": "dovetail_2#dovetail_2__1"
+    },
+    {
+      "comment": "the [work_1]{work} done by a [joiner]{joiner}",
+      "entry": "joinery",
+      "id": "joinery#joinery__1"
+    },
+    {
+      "comment": "[knotty]{knotty} [wood]{wood} has a [lot_1]{lot} of round [hard_1]{hard} [place_1]{places} in it",
+      "entry": "knotty",
+      "id": "knotty#knotty__3"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [mortise]{mortise}",
+      "entry": "mortice",
+      "id": "mortice#mortice__1"
+    },
+    {
+      "comment": "a hole cut into a piece of wood or stone into which you fit the end of another piece of wood or stone called a tenon in order to join the two pieces",
+      "entry": "mortise",
+      "id": "mortise#mortise__1"
+    },
+    {
+      "comment": "to [prevent]{prevent} [food]{food} or [wood]{wood} from [decay_1]{decaying} by [add_1]{adding} a [chemical_1]{chemical} [substance]{substance} to it",
+      "entry": "preserve",
+      "id": "preserve_1#preserve_1__8"
+    },
+    {
+      "comment": "to make something such as wood very smooth by rubbing it with sandpaper",
+      "entry": "sand",
+      "id": "sand_2#sand_2__1"
+    },
+    {
+      "comment": "very [small_1]{small} [piece_1]{pieces} of [wood]{wood} [like_1]{like} [dust_1]{dust} that are [produce_1]{produced} when you [cut_1]{cut} [wood]{wood}",
+      "entry": "sawdust",
+      "id": "sawdust#sawdust__1"
+    },
+    {
+      "comment": "to [allow]{allow} [wood]{wood} to [dry_1]{dry} so that it is ready to be [used]{used}",
+      "entry": "season",
+      "id": "season_2#season_2__3"
+    },
+    {
+      "comment": "to [add_1]{add} [color_1]{color} to [wood]{wood} [use_1]{using} a [special_1]{special} [liquid_1]{liquid}",
+      "entry": "stain",
+      "id": "stain_2#stain_2__5"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} [wood]{wood} that has been [clean_2]{cleaned} by [remove]{removing} a [layer_1]{layer} of something, for [example]{example} [paint_1]{paint}, from its [surface_1]{surface}",
+      "entry": "stripped",
+      "id": "stripped#stripped__2"
+    },
+    {
+      "comment": "a piece that is cut so that it sticks out from the end of a piece of wood and can be fitted into a hole called a mortise in another piece of wood to join them together",
+      "entry": "tenon",
+      "id": "tenon#tenon__1"
+    },
+    {
+      "comment": "a [series]{series} of long [flat_1]{flat} [narrow_1]{narrow} [piece_1]{pieces} of [wood]{wood} that you [join_1]{join} together along their long [edge_1]{edges} by [fitting_1]{fitting} a [raised]{raised} part in one into a hole in the next",
+      "entry": "tongue and groove",
+      "id": "tongue-and-groove#tongue-and-groove__1"
+    },
+    {
+      "comment": "not covered with varnish  (=a clear liquid for protecting wood)",
+      "entry": "unvarnished",
+      "id": "unvarnished#unvarnished__3"
+    },
+    {
+      "comment": "to put [wax_1]{wax} on a [wooden]{wooden} [surface_1]{surface} and [rub_1]{rub} it to [make_1]{make} it [shine_1]{shine}",
+      "entry": "wax",
+      "id": "wax_2#wax_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} an [object_1]{object} out of [wood]{wood} by [cutting_1]{cutting} [piece_1]{pieces} off the [wood]{wood} with a [small_1]{small} [knife_1]{knife}",
+      "entry": "whittle",
+      "id": "whittle#whittle__1"
+    },
+    {
+      "comment": "made from [wood]{wood}",
+      "entry": "wood",
+      "id": "wood#wood__5"
+    },
+    {
+      "comment": "the [skill]{skill} of [making]{making} [thing]{things} from [wood]{wood}",
+      "entry": "woodcraft",
+      "id": "woodcraft#woodcraft__2"
+    },
+    {
+      "comment": "the [activity]{activity} or [skill]{skill} of [making]{making} [object_1]{objects} from [wood]{wood}",
+      "entry": "woodwork",
+      "id": "woodwork#woodwork__4"
+    }
+  ],
+  "thesaurus": "The activity of making things from wood",
+  "type": "Related words"
+}

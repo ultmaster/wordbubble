@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[important]{important} and well [known_1]{known}",
+      "examples": [
+        "The [order_1]{order} was [given_1]{given} by a prominent [member]{member} of the [government]{government}.",
+        "She is [likely_1]{likely} to [play_1]{play} a prominent part in the [presidential]{presidential} [campaign_1]{campaign}.",
+        "Vincente\u2019s [family_1]{family} was prominent in the [wine_1]{wine} [trade_1]{trade}."
+      ],
+      "id": "prominent__1"
+    },
+    {
+      "def": "[easy_1]{easy} to see or [notice_1]{notice}",
+      "examples": [
+        "The [rugged]{rugged} red [ridge]{ridges} are a prominent [feature_1]{feature} of the [landscape_1]{landscape}.",
+        "[place_1]{Place} these [item]{items} in a prominent [position_1]{position} in your [window]{window} [display_1]{display}."
+      ],
+      "id": "prominent__5"
+    },
+    {
+      "def": "[stick_1]{sticking} out",
+      "examples": [
+        "prominent [cheekbone]{cheekbones}"
+      ],
+      "id": "prominent__8"
+    }
+  ],
+  "word": "prominent"
+}

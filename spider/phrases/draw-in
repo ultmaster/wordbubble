@@ -1,0 +1,32 @@
+{
+  "part": "phrase",
+  "phrase": "draw in",
+  "senses": [
+    {
+      "def": "when the [night_1]{nights} or [day]{days} [draw_1]{draw} in, it becomes [dark_1]{dark} [earlier_1]{earlier} in the [evening_1]{evening} because it will [soon]{soon} be [winter_1]{winter}",
+      "examples": [],
+      "id": "draw-in__1"
+    },
+    {
+      "def": "to [arrive]{arrive} in a [place_1]{place}",
+      "examples": [
+        "The [train_1]{train} [drew]{drew} into the [station_1]{station}."
+      ],
+      "id": "draw-in__2"
+    },
+    {
+      "def": "to [involve]{involve} someone in a [conversation]{conversation} or [situation]{situation}, often when they do not [want_1]{want} to be [involved]{involved}",
+      "examples": [
+        "We do not [want_1]{want} to get [drawn_1]{drawn} into a long and [bloody_1]{bloody} [conflict_1]{conflict}."
+      ],
+      "id": "draw-in__4"
+    },
+    {
+      "def": "to take something such as [air_1]{air} into your body",
+      "examples": [
+        "She [drew]{drew} the [smoke_1]{smoke} [deep_1]{deep} into her [lung]{lungs}."
+      ],
+      "id": "draw-in__6"
+    }
+  ]
+}

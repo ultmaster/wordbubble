@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a fuzzy [picture_1]{picture} or [image_1]{image} is not [clear_1]{clear} so that you cannot see all its [detail_1]{details}",
+      "examples": [],
+      "id": "fuzzy__1"
+    },
+    {
+      "def": "[covered_1]{covered} with [short_1]{short} [soft]{soft} [hair]{hairs} or [fiber]{fibers} [like_1]{like} [hair]{hair}",
+      "examples": [
+        "a fuzzy [animal_1]{animal}/[chin]{chin}/[apricot]{apricot}"
+      ],
+      "id": "fuzzy__2"
+    },
+    {
+      "def": "[difficult]{difficult} to [understand]{understand}, or not [explain]{explained} [clearly]{clearly}",
+      "examples": [],
+      "id": "fuzzy__4"
+    },
+    {
+      "def": "full of [love_1]{love} and [kindness]{kindness}",
+      "examples": [
+        "a [warm_1]{warm} fuzzy [feeling_1]{feeling}"
+      ],
+      "id": "fuzzy__5"
+    }
+  ],
+  "word": "fuzzy"
+}

@@ -1,0 +1,15 @@
+{
+  "part": "phrase",
+  "phrase": "how do you like...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone for their [opinion]{opinion} or their [reaction]{reaction} to something",
+      "examples": [
+        "How [did]{did} you [like_1]{like} Paris?",
+        "How do you [like_1]{like} these [shoe_1]{shoes}?",
+        "How [did]{did} you [like_1]{like} it when you [live_1]{lived} in Leeds?"
+      ],
+      "id": "how-do-you-like__1"
+    }
+  ]
+}

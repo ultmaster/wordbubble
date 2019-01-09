@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "the [illegal_1]{illegal} use of fire to [destroy]{destroy} a [house_1]{house}, [building]{building}, or [property]{property}",
+      "entry": "arson",
+      "id": "arson#arson__1"
+    },
+    {
+      "comment": "a [physical_1]{physical} [attack_1]{attack} on someone, or the [crime_1]{crime} of [physically]{physically} [attack_2]{attacking} someone",
+      "entry": "assault",
+      "id": "assault_1#assault_1__1"
+    },
+    {
+      "comment": "the [crime_1]{crime} of [threatening]{threatening} someone and then [physically]{physically} [attack_2]{attacking} them",
+      "entry": "assault and battery",
+      "id": "assault-and-battery#assault-and-battery__1"
+    },
+    {
+      "comment": "the [unlawful]{unlawful} [act_1]{act} of [cause_2]{causing} [minor_1]{minor} [physical_1]{physical} [harm_1]{harm} or [offense]{offense} to someone",
+      "entry": "battery",
+      "id": "battery#battery__7"
+    },
+    {
+      "comment": "the [crime_1]{crime} of being too [noisy]{noisy} or [violent]{violent} in a [public_1]{public} [place_1]{place}",
+      "entry": "disorderly conduct",
+      "id": "disorderly-conduct#disorderly-conduct__1"
+    },
+    {
+      "comment": "[violence]{violence} that [take_1]{takes} [place_1]{place} in the [home_1]{home} between [family_1]{family} [member]{members}, [especially]{especially} [adult_1]{adults}",
+      "entry": "domestic violence",
+      "id": "domestic-violence#domestic-violence__1"
+    },
+    {
+      "comment": "[violence]{violence} against [women]{women}, [especially]{especially} in the [home_1]{home} by a [partner_1]{partner}",
+      "entry": "gender violence",
+      "id": "gender-violence#gender-violence__1"
+    },
+    {
+      "comment": "the crime of attacking and seriously injuring someone. Grievous bodily harm is often referred to as GBH.",
+      "entry": "grievous bodily harm",
+      "id": "grievous-bodily-harm#grievous-bodily-harm__2"
+    },
+    {
+      "comment": "something that [encourage]{encourages} [people_1]{people} to be [violent]{violent} or [commit]{commit} [crime_1]{crimes}, or the [deliberate_1]{deliberate} [act_1]{act} of [encouraging]{encouraging} [violence]{violence} or [crime_1]{crime}",
+      "entry": "incitement",
+      "id": "incitement#incitement__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [kidnap_2]{kidnapping} someone",
+      "entry": "kidnap",
+      "id": "kidnap_2#kidnap_2__1"
+    },
+    {
+      "comment": "[violent]{violent} [crime_1]{crimes} [committed]{committed} by someone who the [person]{person} [attack_2]{attacked} [does]{does} not [know_1]{know}",
+      "entry": "stranger crime",
+      "id": "stranger-crime#stranger-crime__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [deliberately]{deliberately} [damaging]{damaging} or [destroy]{destroying} [thing]{things}, [especially]{especially} [public_1]{public} [property]{property}",
+      "entry": "vandalism",
+      "id": "vandalism#vandalism__1"
+    },
+    {
+      "comment": "the [criminal_1]{criminal} [offence]{offence} of [injure]{injuring} someone by [damaging]{damaging} their [skin_1]{skin} or [flesh_1]{flesh}, [usually]{usually} by [use_1]{using} a [knife_1]{knife} or other [sharp_1]{sharp} [object_1]{object}",
+      "entry": "wounding",
+      "id": "wounding#wounding__1"
+    }
+  ],
+  "thesaurus": "Crimes involving violence or damage to property",
+  "type": "Related words"
+}

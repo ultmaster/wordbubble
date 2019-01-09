@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [judge_1]{judge} the [quality_1]{quality} of a [student]{student}\u2019s [work_1]{work} and [write]{write} a [grade_1]{grade} on it",
+      "entry": "mark",
+      "id": "mark_2#mark_2__10"
+    },
+    {
+      "comment": "to [judge_1]{judge} the [quality_1]{quality} of a [student]{student}\u2019s [work_1]{work} by [give_1]{giving} it a [letter_1]{letter} or [number_1]{number}",
+      "entry": "grade",
+      "id": "grade_2#grade_2__1"
+    },
+    {
+      "comment": "to [officially]{officially} [judge_1]{judge} that someone has been [successful]{successful} in an [examination]{examination} or [test_1]{test} because they have [achieve]{achieved} a [satisfactory]{satisfactory} [standard_1]{standard}",
+      "entry": "pass",
+      "id": "pass_1#pass_1__20"
+    },
+    {
+      "comment": "to [decide]{decide} that someone or something has not [achieve]{achieved} a [satisfactory]{satisfactory} [score_1]{score} or [standard_1]{standard}",
+      "entry": "fail",
+      "id": "fail_1#fail_1__20"
+    },
+    {
+      "comment": "to give a [student]{student} a [failing_1]{failing} [grade_1]{grade}",
+      "entry": "flunk",
+      "id": "flunk#flunk__3"
+    },
+    {
+      "comment": "to give a [student]{student} a [lower_1]{lower} [grade_1]{grade} for their [work_1]{work} for a [particular_1]{particular} [reason_1]{reason}",
+      "entry": "mark down",
+      "id": "mark-down#mark-down__5"
+    },
+    {
+      "comment": "to give someone a [lower_1]{lower} [grade_1]{grade} for an [examination]{examination} than they [received]{received} at first",
+      "entry": "downgrade",
+      "id": "downgrade#downgrade__4"
+    },
+    {
+      "comment": "to give a [student]{student} a [degree]{degree} or other [qualification]{qualification} after a [course_1]{course} of [study_1]{study}",
+      "entry": "graduate",
+      "id": "graduate_2#graduate_2__4"
+    },
+    {
+      "comment": "to move a [student]{student} to a [higher_1]{higher} [class_1]{class} at the [end_1]{end} of the [school_1]{school} [year]{year}",
+      "entry": "promote",
+      "id": "promote#promote__5"
+    },
+    {
+      "comment": "to put [student]{students} in [different]{different} [program_1]{programs}, or in [class_1]{classes} [accord_2]{according} to their [level_1]{level} or [ability_1]{ability}",
+      "entry": "track",
+      "id": "track_2#track_2__7"
+    }
+  ],
+  "thesaurus": "To judge a student's work and to give it a mark",
+  "type": "Synonyms"
+}

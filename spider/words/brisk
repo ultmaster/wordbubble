@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[moving]{moving} or [acting_1]{acting} [quickly]{quickly}",
+      "examples": [
+        "We went for a brisk [walk_1]{walk}.",
+        "The [committee]{committee} [got_1]{got} off to a brisk [start_1]{start} at its first [meeting]{meeting}.",
+        "He [nod_1]{nodded} to me with a brisk \u201c[morning_1]{Morning}, [sir]{Sir}.\u201d",
+        "[business]{Business} is always brisk during the [holiday_1]{holiday} [season_1]{season}."
+      ],
+      "id": "brisk__1"
+    },
+    {
+      "def": "if it is brisk, the [weather_1]{weather} is [fairly]{fairly} [cold_1]{cold} and a [fairly]{fairly} [strong]{strong} [wind_1]{wind} is [blow_1]{blowing}",
+      "examples": [
+        "Put on your [sweater]{sweater}, it\u2019s brisk out."
+      ],
+      "id": "brisk__8"
+    }
+  ],
+  "word": "brisk"
+}

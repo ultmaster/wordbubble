@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [start_1]{start} something again after [stop_1]{stopping} [temporarily]{temporarily}",
+      "examples": [
+        "[shall]{Shall} we resume after [lunch_1]{lunch}?",
+        "After [saying]{saying} that, Tom [resume_1]{resumed} his [work_1]{work} and [ignore]{ignored} us [completely]{completely}.",
+        "[talk_1]{Talks} will resume [later_1]{later}."
+      ],
+      "id": "resume_1__1"
+    },
+    {
+      "def": "to go back and [sit]{sit} or [stand_1]{stand} in the [place_1]{place} where you were [sitting]{sitting} or [standing_1]{standing} [previously]{previously}",
+      "examples": [
+        "He came back from the [window]{window} and [resume_1]{resumed} his [seat_1]{seat}."
+      ],
+      "id": "resume_1__6"
+    }
+  ],
+  "word": "resume"
+}

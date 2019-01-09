@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [lack_1]{lack} of something that your body [need_1]{needs}",
+      "examples": [
+        "[anemia]{anemia} [cause_2]{caused} by [iron_1]{iron} deficiency"
+      ],
+      "id": "deficiency__1"
+    },
+    {
+      "def": "a [fault_1]{fault} in someone or something that [make_1]{makes} them not [good_1]{good} enough",
+      "examples": [
+        "[problem]{problems} [cause_2]{caused} by [deficiency]{deficiencies} in the [maintenance]{maintenance} [program_1]{program}"
+      ],
+      "id": "deficiency__3"
+    }
+  ],
+  "word": "deficiency"
+}

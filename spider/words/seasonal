@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[available]{available} only during a [particular_1]{particular} time of [year]{year}",
+      "examples": [
+        "The [work_1]{work} was well [paid_1]{paid} but seasonal."
+      ],
+      "id": "seasonal__1"
+    },
+    {
+      "def": "[appropriate_1]{appropriate} or [typical]{typical} of the time of [year]{year} it is now",
+      "examples": [
+        "We [need_1]{needed} to find some seasonal [music]{music}.",
+        "seasonal [wind_1]{winds}"
+      ],
+      "id": "seasonal__4"
+    },
+    {
+      "def": "[relate]{relating} to the [season_1]{seasons} of the [year]{year}",
+      "examples": [
+        "seasonal [change_1]{changes} in [temperature]{temperature}"
+      ],
+      "id": "seasonal__7"
+    }
+  ],
+  "word": "seasonal"
+}

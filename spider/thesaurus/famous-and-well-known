@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if someone or something is [famous_1]{famous}, a [lot_1]{lot} of [people_1]{people} [know_1]{know} their name or have [heard]{heard} about them",
+      "entry": "famous",
+      "id": "famous#famous__1"
+    },
+    {
+      "comment": "[known_1]{known} by many [people_1]{people} or by the [people_1]{people} [involved]{involved} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "well-known",
+      "id": "well-known#well-known__1"
+    },
+    {
+      "comment": "[famous_1]{famous} and [praise_1]{praised} by many [people_1]{people}",
+      "entry": "celebrated",
+      "id": "celebrated#celebrated__1"
+    },
+    {
+      "comment": "[famous_1]{famous} and [admire]{admired} for a [special_1]{special} [skill]{skill} or [achievement]{achievement}",
+      "entry": "renowned",
+      "id": "renowned#renowned__1"
+    },
+    {
+      "comment": "[famous_1]{famous} because of being [extremely]{extremely} [good_1]{good}, [beautiful]{beautiful}, or [interesting]{interesting}",
+      "entry": "fabled",
+      "id": "fabled#fabled__1"
+    },
+    {
+      "comment": "very [famous_1]{famous} or well [known_1]{known} for a long time",
+      "entry": "legendary",
+      "id": "legendary#legendary__3"
+    },
+    {
+      "comment": "[famous_1]{famous} for something [bad_1]{bad}",
+      "entry": "notorious",
+      "id": "notorious#notorious__1"
+    },
+    {
+      "comment": "well [known_1]{known} for something [bad_1]{bad}",
+      "entry": "infamous",
+      "id": "infamous#infamous__1"
+    },
+    {
+      "comment": "an [illustrious]{illustrious} [person]{person} is [famous_1]{famous} and [respected]{respected} because of what they have [achieve]{achieved}",
+      "entry": "illustrious",
+      "id": "illustrious#illustrious__1"
+    },
+    {
+      "comment": "[used]{used} for [introduce]{introducing} a [famous_1]{famous} [person]{person}, or for [saying]{saying} that someone is very [famous_1]{famous}",
+      "entry": "the one and only",
+      "id": "the-one-and-only#the-one-and-only__1"
+    }
+  ],
+  "thesaurus": "Famous and well-known",
+  "type": "Synonyms"
+}

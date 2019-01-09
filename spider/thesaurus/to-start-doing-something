@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [start_1]{start} [doing]{doing} something",
+      "entry": "begin",
+      "id": "begin#begin__1"
+    },
+    {
+      "comment": "to [begin]{begin} [working]{working} on something or [dealing]{dealing} with something",
+      "entry": "start on",
+      "id": "start-on#start-on__4"
+    },
+    {
+      "comment": "to [begin]{begin} [doing]{doing} something, [especially]{especially} in a [determined]{determined} or [enthusiastic]{enthusiastic} way",
+      "entry": "set about",
+      "id": "set-about#set-about__1"
+    },
+    {
+      "comment": "to [start_1]{start} [doing]{doing} something [seriously]{seriously} or with a [lot_1]{lot} of [effort]{effort}",
+      "entry": "get down to",
+      "id": "get-down-to#get-down-to__1"
+    },
+    {
+      "comment": "to do something after you have [intended_1]{intended} to do it for some time",
+      "entry": "get around to",
+      "id": "get-around-to#get-around-to__1"
+    },
+    {
+      "comment": "to [start_1]{start} [doing]{doing} a [particular_1]{particular} [activity]{activity} or being in a [particular_1]{particular} [state_1]{state}",
+      "entry": "go to",
+      "id": "go-to_1#go-to_1__1"
+    },
+    {
+      "comment": "to [begin]{begin} to do something that someone else was [doing]{doing}",
+      "entry": "take over",
+      "id": "take-over#take-over__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone [begin]{begins} to do something",
+      "entry": "start",
+      "id": "start_1#start_1__12"
+    },
+    {
+      "comment": "to [start_1]{start} [doing]{doing} something [regularly]{regularly} as a [habit]{habit}, [job_1]{job}, or interest",
+      "entry": "take up",
+      "id": "take-up_1#take-up_1__1"
+    },
+    {
+      "comment": "to [start_1]{start} [doing]{doing} something in a very [enthusiastic]{enthusiastic} way",
+      "entry": "dive in",
+      "id": "dive-in#dive-in__1"
+    }
+  ],
+  "thesaurus": "To start doing something",
+  "type": "Synonyms"
+}

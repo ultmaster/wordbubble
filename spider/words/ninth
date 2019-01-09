@@ -1,0 +1,21 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} nine",
+      "examples": [
+        "the ninth of January",
+        "They [finished]{finished} ninth in the [standing_1#standing_1__1]{standings}."
+      ],
+      "id": "ninth__1"
+    },
+    {
+      "def": "one of nine [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "About a ninth of the [money]{money} [raised]{raised} is [spent_1]{spent} on [administration]{administration}."
+      ],
+      "id": "ninth__4"
+    }
+  ],
+  "word": "ninth"
+}

@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "how about...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [suggest]{suggesting} what someone may [like_1]{like} to do or [choose]{choose}, or for [suggest]{suggesting} a time or [place_1]{place} that may be [appropriate_1]{appropriate}",
+      "examples": [
+        "How about [dinner]{dinner} [tonight_1]{tonight}?",
+        "How about Friday [evening_1]{evening}? Would that be [convenient]{convenient}?",
+        "How about [join_1]{joining} us for a [game_1]{game} of [bridge_1]{bridge}?"
+      ],
+      "id": "how-about__1"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} about another [person]{person} or thing, in [addition]{addition} to the ones that have already been [mention_1]{mentioned}",
+      "examples": [
+        "How about Philip? Is he coming too?",
+        "I\u2019m [have]{having} [coffee]{coffee}. How about you?"
+      ],
+      "id": "how-about__5"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} about another [aspect]{aspect} of the [situation]{situation} that you have [start_1]{started} to [discuss]{discuss}",
+      "examples": [
+        "How about computer [skill]{skills}? Have you had any [special_1]{special} [training]{training}?"
+      ],
+      "id": "how-about__8"
+    }
+  ]
+}

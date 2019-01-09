@@ -1,0 +1,27 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [advise]{advise} someone that they should do something",
+      "examples": [
+        "I recommend that you [buy_1]{buy} a more [powerful]{powerful} computer.",
+        "We [strongly]{strongly} recommend you [insure]{insure} your [luggage]{luggage} when you [travel_1]{travel}.",
+        "We recommend [making]{making} [reservation]{reservations} [early_1]{early}, because this is a [popular]{popular} [event]{event}.",
+        "[student]{Students} are [recommend]{recommended} to read the [following_1]{following} [book_1]{books}.",
+        "The [committee]{committee} [recommend]{recommended} a 1% [tax_1]{tax} on all [import_1]{imports}.",
+        "He was [recommend]{recommended} for [deportation]{deportation}."
+      ],
+      "id": "recommend__1"
+    },
+    {
+      "def": "to [say_1]{say} that someone or something is [good_1]{good} and [worth_1]{worth} [use_1]{using}, [have]{having}, or [experience_2]{experiencing}",
+      "examples": [
+        "Can you recommend a [good_1]{good} [restaurant]{restaurant}?",
+        "Please recommend us to your [friend_1]{friends}.",
+        "This [hotel]{hotel} is [highly]{highly} [recommend]{recommended} for its [facility]{facilities}."
+      ],
+      "id": "recommend__9"
+    }
+  ],
+  "word": "recommend"
+}

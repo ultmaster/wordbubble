@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "here and now",
+  "senses": [
+    {
+      "def": "at this [moment]{moment}",
+      "examples": [
+        "Do I have to [make_1]{make} up my [mind_1]{mind} here and now?"
+      ],
+      "id": "here-and-now__1"
+    },
+    {
+      "def": "the [present_1]{present} [moment]{moment}",
+      "examples": [
+        "It\u2019s [important]{important} to be [able_1]{able} to [live_1]{live} in the here and now, and not always [focus_1]{focus} on the [future_1]{future}."
+      ],
+      "id": "here-and-now__3"
+    }
+  ]
+}

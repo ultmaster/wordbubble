@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [place_1]{place} where you [live_1]{live}",
+      "entry": "home",
+      "id": "home_1#home_1__1"
+    },
+    {
+      "comment": "the [place_1]{place} in which [people_1]{people} [live_1]{live} and [work_1]{work}, [including]{including} all the [physical_1]{physical} [condition_1]{conditions} that [affect_1]{affect} them",
+      "entry": "environment",
+      "id": "environment#environment__1"
+    },
+    {
+      "comment": "the [place_1]{place} that you [live_1]{live} in, or the [place_1]{place} that you are [talk_1]{talking} about",
+      "entry": "town",
+      "id": "town#town__7"
+    },
+    {
+      "comment": "the [fact]{fact} that someone [lives]{lives} in a [place_1]{place}",
+      "entry": "habitation",
+      "id": "habitation#habitation__1"
+    },
+    {
+      "comment": "the [place_1]{place} where you [live_1]{live}",
+      "entry": "abode",
+      "id": "abode#abode__1"
+    },
+    {
+      "comment": "the name of the place where you live or work, including the house or office number and the name of the street, area, and town. It may also include a set of numbers, called a zip code in American English and a postcode in British English",
+      "entry": "address",
+      "id": "address_1#address_1__1"
+    },
+    {
+      "comment": "someone who [use_1]{uses} a [room_1]{room}, [building]{building}, [area]{area} of [land_1]{land}, [seat_1]{seat}, [bed_1]{bed}, or other [place_1]{place} during a [period_1]{period} of time",
+      "entry": "occupant",
+      "id": "occupant#occupant__1"
+    },
+    {
+      "comment": "someone who [lives]{lives} in, [work_1]{works} in, or [use_1]{uses} a [room_1]{room}, [building]{building}, or [area]{area} of [land_1]{land}",
+      "entry": "occupier",
+      "id": "occupier#occupier__1"
+    },
+    {
+      "comment": "the [home_1]{home}",
+      "entry": "the home front",
+      "id": "the-home-front#the-home-front__2"
+    },
+    {
+      "comment": "a [place_1]{place} to [live_1]{live}",
+      "entry": "a roof over your head",
+      "id": "a-roof-over-your-head#a-roof-over-your-head__1"
+    }
+  ],
+  "thesaurus": "Home and places where people live",
+  "type": "Synonyms"
+}

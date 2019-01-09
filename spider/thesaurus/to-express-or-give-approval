@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to have a [positive_1]{positive} [feeling_1]{feeling} toward someone or something that you [consider]{consider} to be [good_1]{good} or [suitable]{suitable}",
+      "entry": "approve",
+      "id": "approve#approve__1"
+    },
+    {
+      "comment": "to [say_1]{say} that someone or something is [good_1]{good} and [worth_1]{worth} [use_1]{using}, [have]{having}, or [experience_2]{experiencing}",
+      "entry": "recommend",
+      "id": "recommend#recommend__9"
+    },
+    {
+      "comment": "to give [approval]{approval} for something",
+      "entry": "consent",
+      "id": "consent_2#consent_2__1"
+    },
+    {
+      "comment": "to show [approval]{approval} for a [particular_1]{particular} [behavior]{behavior} or [belief]{belief}",
+      "entry": "sanction",
+      "id": "sanction_2#sanction_2__3"
+    },
+    {
+      "comment": "to give [praise_1]{praise} or [approval]{approval} to someone",
+      "entry": "recognize",
+      "id": "recognize#recognize__15"
+    },
+    {
+      "comment": "to [approve]{approve} of [behavior]{behavior} that most [people_1]{people} [think_1]{think} is [wrong_1]{wrong}",
+      "entry": "condone",
+      "id": "condone#condone__1"
+    },
+    {
+      "comment": "to give [permission]{permission} or [approval]{approval} for something to [happen]{happen}",
+      "entry": "OK",
+      "id": "ok_3#ok_3__1"
+    },
+    {
+      "comment": "to [state_1]{state} [officially]{officially} that a [person]{person} or [organization]{organization} is [good_1]{good} enough to [provide]{provide} a [particular_1]{particular} [type_1]{type} of [service_1]{service}",
+      "entry": "accredit",
+      "id": "accredit#accredit__1"
+    },
+    {
+      "comment": "to give [official_1]{official} [approval]{approval} for something to be done",
+      "entry": "give something/someone the green light",
+      "id": "give-something-someone-the-green-light#give-something-someone-the-green-light__1"
+    },
+    {
+      "comment": "to [approve]{approve} of something that someone has done",
+      "entry": "look kindly on something",
+      "id": "look-kindly-on-something#look-kindly-on-something__1"
+    }
+  ],
+  "thesaurus": "To express or give approval",
+  "type": "Synonyms"
+}

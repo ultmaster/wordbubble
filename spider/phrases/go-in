@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "go in",
+  "senses": [
+    {
+      "def": "when the [sun_1]{sun} or [moon_1]{moon} [go_1]{goes} in, [cloud_1]{clouds} move in front of it",
+      "examples": [],
+      "id": "go-in__1"
+    },
+    {
+      "def": "if [information]{information} [go_1]{goes} in, you [understand]{understand} it",
+      "examples": [],
+      "id": "go-in__2"
+    },
+    {
+      "def": "if [people_1]{people} such as [police_1]{police} [officer]{officers} or [soldier_1]{soldiers} go in, they [enter]{enter} a [place_1]{place} in [order_1]{order} to take some [sort_1]{sort} of [action_1]{action}",
+      "examples": [
+        "Our [unit]{unit} will be [going_1]{going} in first."
+      ],
+      "id": "go-in__3"
+    }
+  ]
+}

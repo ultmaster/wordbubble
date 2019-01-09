@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "commit yourself",
+  "senses": [
+    {
+      "def": "to [agree]{agree} to do something [important]{important}",
+      "examples": [
+        "Take a [little_1]{little} time to [think_1]{think} before [commit]{committing} yourself.",
+        "I have [committed]{committed} [myself]{myself} to the [job_1]{job} for at least the coming [year]{year}."
+      ],
+      "id": "commit-yourself__1"
+    },
+    {
+      "def": "to [decide]{decide} to have a [permanent_1]{permanent} [relationship]{relationship} with someone",
+      "examples": [
+        "It was the first time in his [life]{life} that he had [committed]{committed} [himself]{himself} to a [woman]{woman}."
+      ],
+      "id": "commit-yourself__4"
+    },
+    {
+      "def": "to give a [definite]{definite} [opinion]{opinion} or [make_1]{make} a [definite]{definite} [decision_1]{decision}",
+      "examples": [
+        "She [won]{won}\u2019t [commit]{commit} [herself]{herself} either way."
+      ],
+      "id": "commit-yourself__6"
+    }
+  ]
+}

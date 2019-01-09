@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [trip_1]{trip} by [boat]{boat} across a [river]{river} or [ocean]{ocean}",
+      "examples": [
+        "This was my third [transatlantic]{transatlantic} crossing."
+      ],
+      "id": "crossing__1"
+    },
+    {
+      "def": "a [place_1]{place} where you are [allow]{allowed} to cross something such as a [road]{road} or [border_1]{border}",
+      "examples": [
+        "a [pedestrian_1]{pedestrian} crossing"
+      ],
+      "id": "crossing__3"
+    }
+  ],
+  "word": "crossing"
+}

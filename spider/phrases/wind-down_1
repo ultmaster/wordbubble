@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "wind down",
+  "senses": [
+    {
+      "def": "to [end_1]{end}, or to [finish_1]{finish} something [gradually]{gradually}",
+      "examples": [
+        "The [party_1]{party} [start_1]{started} to [wind_1]{wind} down around 2:00 a.m.",
+        "The U.N. has [decided]{decided} to [wind_1]{wind} down the [peacekeeping]{peacekeeping} [mission]{mission}.",
+        "The [factory]{factory} will [wind_1]{wind} down [production]{production} before [closing_1]{closing} next [year]{year}."
+      ],
+      "id": "wind-down_1__1"
+    },
+    {
+      "def": "to [relax]{relax} after a [period_1]{period} of [excitement]{excitement} or [worry_1]{worry}",
+      "examples": [
+        "Will you be [winding]{winding} down a [little_1]{little} by then?"
+      ],
+      "id": "wind-down_1__6"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "on the line",
+  "senses": [
+    {
+      "def": "at [risk_1]{risk}",
+      "examples": [
+        "His [job_1]{job} could be on the [line_1]{line} if [result_1]{results} do not [improve_1]{improve}."
+      ],
+      "id": "on-the-line__1"
+    },
+    {
+      "def": "on the [telephone_1]{telephone}",
+      "examples": [
+        "We have a [caller]{caller} on the [line_1]{line} from California."
+      ],
+      "id": "on-the-line__3"
+    }
+  ]
+}

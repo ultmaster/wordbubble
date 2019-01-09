@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that you are not [able_1]{able} to [understand]{understand}, [explain]{explain}, or get [information]{information} about",
+      "entry": "mystery",
+      "id": "mystery_1#mystery_1__1"
+    },
+    {
+      "comment": "someone or something that is [mysterious]{mysterious} or [confusing]{confusing}",
+      "entry": "riddle",
+      "id": "riddle_1#riddle_1__3"
+    },
+    {
+      "comment": "something that you cannot be [certain_1]{certain} about or cannot [depend]{depend} on",
+      "entry": "uncertainty",
+      "id": "uncertainty#uncertainty__8"
+    },
+    {
+      "comment": "someone or something that is [interesting]{interesting} or [exciting]{exciting} because they are [difficult]{difficult} to [explain]{explain}, [understand]{understand}, or get [information]{information} about",
+      "entry": "mystery",
+      "id": "mystery_1#mystery_1__9"
+    },
+    {
+      "comment": "someone or something that you cannot [understand]{understand}",
+      "entry": "puzzle",
+      "id": "puzzle_1#puzzle_1__1"
+    },
+    {
+      "comment": "someone or something that is [mysterious]{mysterious} and [difficult]{difficult} to [understand]{understand}",
+      "entry": "enigma",
+      "id": "enigma#enigma__1"
+    },
+    {
+      "comment": "something that [make_1]{makes} a [subject_1]{subject} or [situation]{situation} [difficult]{difficult} to [understand]{understand}",
+      "entry": "perplexity",
+      "id": "perplexity#perplexity__3"
+    },
+    {
+      "comment": "something that cannot be [explain]{explained} or that is [difficult]{difficult} to [understand]{understand}",
+      "entry": "secret",
+      "id": "secret_1#secret_1__11"
+    },
+    {
+      "comment": "an [object_1]{object} that you are not [familiar]{familiar} with or do not [know_1]{know} much about",
+      "entry": "thing",
+      "id": "thing#thing__7"
+    },
+    {
+      "comment": "someone or something that you have no [knowledge]{knowledge} or [experience_1]{experience} of but that is [likely_1]{likely} to [affect_1]{affect} a [situation]{situation} that you are [involved]{involved} in",
+      "entry": "unknown quantity",
+      "id": "unknown-quantity#unknown-quantity__1"
+    }
+  ],
+  "thesaurus": "Mysteries, riddles and unknown things or people",
+  "type": "Synonyms"
+}

@@ -1,0 +1,481 @@
+{
+  "entries": [
+    {
+      "comment": "someone who expects the prices of stocks to fall, so they sell them",
+      "entry": "bear",
+      "id": "bear_2#bear_2__5"
+    },
+    {
+      "comment": "a bearish market is one in which the prices of stocks are falling",
+      "entry": "bearish",
+      "id": "bearish#bearish__1"
+    },
+    {
+      "comment": "expecting the prices of stocks to fall",
+      "entry": "bearish",
+      "id": "bearish#bearish__2"
+    },
+    {
+      "comment": "[expect]{expecting} the [level_1]{level} of [economic]{economic} [activity]{activity} in [general_1]{general} to [fall_1]{fall}",
+      "entry": "bearish",
+      "id": "bearish#bearish__4"
+    },
+    {
+      "comment": "a situation in the stock market in which the prices of stocks are falling",
+      "entry": "bear market",
+      "id": "bear-market#bear-market__1"
+    },
+    {
+      "comment": "an [offer_1]{offer} to [buy_1]{buy} the [share_1]{shares} in a [company]{company} and take [control_1]{control} of it",
+      "entry": "bid",
+      "id": "bid_2#bid_2__6"
+    },
+    {
+      "comment": "the price at which stock is bought on a stock exchange",
+      "entry": "bid price",
+      "id": "bid-price#bid-price__1"
+    },
+    {
+      "comment": "someone who owns government or corporation bonds",
+      "entry": "bondholder",
+      "id": "bondholder#bondholder__1"
+    },
+    {
+      "comment": "a person or company that buys and sells stocks, shares, or goods for other people",
+      "entry": "broker-dealer",
+      "id": "broker-dealer#broker-dealer__1"
+    },
+    {
+      "comment": "someone who expects the prices of stock to rise and may buy them so they can sell them later at a profit",
+      "entry": "bull",
+      "id": "bull_1#bull_1__5"
+    },
+    {
+      "comment": "a bullish market is one in which the prices of stocks are rising",
+      "entry": "bullish",
+      "id": "bullish#bullish__1"
+    },
+    {
+      "comment": "expecting the prices of stocks to rise",
+      "entry": "bullish",
+      "id": "bullish#bullish__5"
+    },
+    {
+      "comment": "a situation in the stock market in which the prices of stocks are rising",
+      "entry": "bull market",
+      "id": "bull-market#bull-market__1"
+    },
+    {
+      "comment": "a period during which prices of shares on the stock market are generally rising",
+      "entry": "bull run",
+      "id": "bull-run#bull-run__1"
+    },
+    {
+      "comment": "an arrangement in which someone agrees to buy back shares or property that they previously sold to someone",
+      "entry": "buyback",
+      "id": "buyback#buyback__1"
+    },
+    {
+      "comment": "a situation in which the managers or people employed in a company take control of it by buying all of its stock",
+      "entry": "buyout",
+      "id": "buyout#buyout__1"
+    },
+    {
+      "comment": "the [total_1]{total} [value_1]{value} of all the [share_1]{shares} in one or more [company]{companies} on a [market_1]{market}",
+      "entry": "capitalization",
+      "id": "capitalization#capitalization__1"
+    },
+    {
+      "comment": "to have a particular value when people stop buying and selling on a stock exchange at the end of a day",
+      "entry": "close",
+      "id": "close_1#close_1__38"
+    },
+    {
+      "comment": "a situation in which someone owns enough shares in a company to be able to make decisions about what the company does",
+      "entry": "controlling interest",
+      "id": "controlling-interest#controlling-interest__1"
+    },
+    {
+      "comment": "a type of bond  (=official document given to someone who has lent money, promising to pay that money back) that is provided by a public company",
+      "entry": "corporate bond",
+      "id": "corporate-bond#corporate-bond__1"
+    },
+    {
+      "comment": "a person or organization that tries to take control of a company by buying a large number of its shares",
+      "entry": "corporate raider",
+      "id": "corporate-raider#corporate-raider__1"
+    },
+    {
+      "comment": "a fall in values on the stock market following a period when values have risen very fast",
+      "entry": "correction",
+      "id": "correction#correction__14"
+    },
+    {
+      "comment": "if the stock market crashes, its value falls suddenly",
+      "entry": "crash",
+      "id": "crash_1#crash_1__20"
+    },
+    {
+      "comment": "a sudden fall in prices or in the value of the stock market",
+      "entry": "crash",
+      "id": "crash_2#crash_2__10"
+    },
+    {
+      "comment": "a system that [allow]{allows} [stock_1]{stock} [market_1]{market} [trader]{traders} to [trade_1]{trade} [large_1]{large} [block_1]{blocks} of [share_1]{shares} [anonymous#anonymous__7]{anonymously}, with [price_1]{prices} [post_2]{posted} [publicly]{publicly} only after [deal_1]{deals} are done",
+      "entry": "dark pool",
+      "id": "dark-pool#dark-pool__1"
+    },
+    {
+      "comment": "the activity of buying shares and selling them for a profit later in the same day",
+      "entry": "day trading",
+      "id": "day-trading#day-trading__1"
+    },
+    {
+      "comment": "a room at a stock exchange where shares are bought and sold",
+      "entry": "dealing room",
+      "id": "dealing-room#dealing-room__1"
+    },
+    {
+      "comment": "company shares that can be bought and sold on a stock market",
+      "entry": "equities",
+      "id": "equity_1#equity_1__7"
+    },
+    {
+      "comment": "the value of a company\u2019s shares",
+      "entry": "equity",
+      "id": "equity_1#equity_1__6"
+    },
+    {
+      "comment": "[facebook]{Facebook}, [amazon]{Amazon}, Netflix and [google]{Google} (now [call_1]{called} [alphabet]{Alphabet}): four of the [world]{world's} [big_1]{biggest} [technology]{technology} [company]{companies} whose [stock_1]{stocks} [increase_1]{increase} in [value_1]{value} [extremely]{extremely} [fast_1]{fast}",
+      "entry": "the FANGs",
+      "id": "the-fangs#the-fangs__1"
+    },
+    {
+      "comment": "to start to sell a company\u2019s shares on the stock market",
+      "entry": "float",
+      "id": "float_1#float_1__21"
+    },
+    {
+      "comment": "the first time that a company starts to sell its shares on the stock market",
+      "entry": "float",
+      "id": "float_2#float_2__4"
+    },
+    {
+      "comment": "an area where stock in companies is bought and sold",
+      "entry": "floor",
+      "id": "floor_1#floor_1__21"
+    },
+    {
+      "comment": "the sale of stock in a company for the first time",
+      "entry": "flotation",
+      "id": "flotation#flotation__3"
+    },
+    {
+      "comment": "the activity of buying and selling shares, goods, or currency at an agreed price to be delivered at a time in the future",
+      "entry": "futures market",
+      "id": "futures-market#futures-market__1"
+    },
+    {
+      "comment": "if a share of stock or the stock market gains its value increases",
+      "entry": "gain",
+      "id": "gain_1#gain_1__18"
+    },
+    {
+      "comment": "if a private company goes public, it becomes a public corporation by selling stock to people",
+      "entry": "go public",
+      "id": "go-public#go-public__3"
+    },
+    {
+      "comment": "the activity of buying and selling company shares before they are officially available",
+      "entry": "gray market",
+      "id": "gray-market#gray-market__2"
+    },
+    {
+      "comment": "to buy and sell shares in such a way that the risk of losing money is low",
+      "entry": "hedge",
+      "id": "hedge_2#hedge_2__5"
+    },
+    {
+      "comment": "high-frequency [trader]{trader}: someone who [use_1]{uses} [sophisticated]{sophisticated} [technology]{technology} [including]{including} very [fast_1]{fast} [connection]{connections} and computer [algorithm]{algorithms} to [make_1]{make} [trade_1]{trades} in [securities]{securities} [extremely]{extremely} [quickly]{quickly} in [order_1]{order} to gain an [advantage]{advantage} over other [trader]{traders}",
+      "entry": "HFT",
+      "id": "hft#hft__2"
+    },
+    {
+      "comment": "high-frequency [trading]{trading}: the use of [sophisticated]{sophisticated} [technology]{technology} [including]{including} very [fast_1]{fast} [connection]{connections} and computer [algorithm]{algorithms} to [make_1]{make} [trade_1]{trades} in [securities]{securities} [extremely]{extremely} [quickly]{quickly} in [order_1]{order} to gain an [advantage]{advantage} over other [trader]{traders}",
+      "entry": "HFT",
+      "id": "hft#hft__1"
+    },
+    {
+      "comment": "the use of [sophisticated]{sophisticated} [technology]{technology} [including]{including} very [fast_1]{fast} [connection]{connections} and computer [algorithm]{algorithms} to [make_1]{make} [trade_1]{trades} in [securities]{securities} [extremely]{extremely} [quickly]{quickly} in [order_1]{order} to gain an [advantage]{advantage} over other [trader]{traders}",
+      "entry": "high-frequency trading",
+      "id": "high-frequency-trading#high-frequency-trading__1"
+    },
+    {
+      "comment": "a part of a company that someone owns in the form of a share or shares",
+      "entry": "holding",
+      "id": "holding#holding__1"
+    },
+    {
+      "comment": "initial public offering: an occasion when stock in a company is first sold to the public",
+      "entry": "IPO",
+      "id": "ipo#ipo__1"
+    },
+    {
+      "comment": "irredeemable stock cannot be sold in return for money",
+      "entry": "irredeemable",
+      "id": "irredeemable#irredeemable__4"
+    },
+    {
+      "comment": "a set of things, for example shares in a company, that are made available to people at a particular time",
+      "entry": "issue",
+      "id": "issue_1#issue_1__14"
+    },
+    {
+      "comment": "someone whose job is to sell stocks and bonds",
+      "entry": "jobber",
+      "id": "jobber#jobber__2"
+    },
+    {
+      "comment": "a [leverage_2]{leveraged} [buyout]{buyout}",
+      "entry": "LBO",
+      "id": "lbo#lbo__1"
+    },
+    {
+      "comment": "a way of [take_1]{taking} [control_1]{control} of a [company]{company} by [buy_1]{buying} its [stock_1]{stocks} [use_1]{using} [borrow]{borrowed} [money]{money}, with the [intention]{intention} of [use_1]{using} [money]{money} from the [company]{company} to [pay_1]{pay} back what has been [borrow]{borrowed}",
+      "entry": "leveraged buyout",
+      "id": "leveraged-buyout#leveraged-buyout__1"
+    },
+    {
+      "comment": "a business deal in which the managers of a company buy all or the majority of its stock so that they own the company",
+      "entry": "management buyout",
+      "id": "management-buyout#management-buyout__1"
+    },
+    {
+      "comment": "a [stock_1]{stock} [market_1]{market}",
+      "entry": "market",
+      "id": "market_1#market_1__15"
+    },
+    {
+      "comment": "a way of measuring the value of a company calculated by multiplying the number of the company\u2019s shares by their price on the stock market",
+      "entry": "market capitalization",
+      "id": "market-capitalization#market-capitalization__1"
+    },
+    {
+      "comment": "someone whose job is to buy and sell stocks and shares for other people on the stock market",
+      "entry": "market maker",
+      "id": "market-maker#market-maker__1"
+    },
+    {
+      "comment": "a share in a mining company",
+      "entry": "miner",
+      "id": "miner#miner__2"
+    },
+    {
+      "comment": "Nike, O'Reilly, Starbucks and [home_1]{Home} [depot]{Depot}: four U.S. [company]{companies} whose [stock_1]{stocks} [perform]{perform} very [highly]{highly}",
+      "entry": "NOSH",
+      "id": "nosh_3#nosh_3__1"
+    },
+    {
+      "comment": "the price at which a company is willing to sell shares",
+      "entry": "offer price",
+      "id": "offer-price#offer-price__1"
+    },
+    {
+      "comment": "the original value of a stock market share",
+      "entry": "par",
+      "id": "par_1#par_1__5"
+    },
+    {
+      "comment": "a stock in a corporation that costs less than one dollar and usually has a very high risk",
+      "entry": "penny stock",
+      "id": "penny-stock#penny-stock__1"
+    },
+    {
+      "comment": "price-earnings [ratio]{ratio}",
+      "entry": "P/E ratio",
+      "id": "p-e-ratio#p-e-ratio__1"
+    },
+    {
+      "comment": "the place where people buy and sell shares in a stock exchange",
+      "entry": "pit",
+      "id": "pit_1#pit_1__8"
+    },
+    {
+      "comment": "to invest in stocks or bonds because you want to make money",
+      "entry": "play the (stock) market",
+      "id": "play-the-stock-market#play-the-stock-market__1"
+    },
+    {
+      "comment": "the amount by which the price of a share is higher than its original price",
+      "entry": "premium",
+      "id": "premium_1#premium_1__6"
+    },
+    {
+      "comment": "a way of measuring the value of a company\u2019s stock by dividing the price for each share by what the company earns for it",
+      "entry": "price-earnings ratio",
+      "id": "price-earnings-ratio#price-earnings-ratio__1"
+    },
+    {
+      "comment": "a situation where business people sell stock while it is rising in value in order to make a profit",
+      "entry": "profit taking",
+      "id": "profit-taking#profit-taking__1"
+    },
+    {
+      "comment": "an attempt by one business to take control of another by buying a lot of its shares",
+      "entry": "raid",
+      "id": "raid_1#raid_1__6"
+    },
+    {
+      "comment": "a [corporate_1]{corporate} [raider]{raider}",
+      "entry": "raider",
+      "id": "raider#raider__2"
+    },
+    {
+      "comment": "to get money by selling stock that you own in a company",
+      "entry": "redeem",
+      "id": "redeem#redeem__4"
+    },
+    {
+      "comment": "the [sale]{sale} of [stock_1]{stock} that you own in a [company]{company}",
+      "entry": "redemption",
+      "id": "redemption#redemption__2"
+    },
+    {
+      "comment": "an offer of shares at a special low price by a company to people who already own shares in it",
+      "entry": "rights issue",
+      "id": "rights-issue#rights-issue__1"
+    },
+    {
+      "comment": "a document giving you the right to a part of a share of stock",
+      "entry": "scrip",
+      "id": "scrip#scrip__2"
+    },
+    {
+      "comment": "documents showing that you own shares in a company",
+      "entry": "securities",
+      "id": "securities#securities__1"
+    },
+    {
+      "comment": "a situation in which a lot of stocks are sold at the same time, making prices go down",
+      "entry": "sell-off",
+      "id": "sell-off_2#sell-off_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to [share_1]{shares}",
+      "entry": "share",
+      "id": "share_2#share_2__11"
+    },
+    {
+      "comment": "a [stockholder]{stockholder}",
+      "entry": "shareholder",
+      "id": "shareholder#shareholder__1"
+    },
+    {
+      "comment": "a [stock_1]{stock} [option]{option}",
+      "entry": "share option",
+      "id": "share-option#share-option__1"
+    },
+    {
+      "comment": "a type of betting on the stock market in which you win stock if the value of a company increases or decreases within a particular range of possible values",
+      "entry": "spread betting",
+      "id": "spread-betting#spread-betting__2"
+    },
+    {
+      "comment": "one of the [equal_1]{equal} [part_1]{parts} into which the [value_1]{value} of a [company]{company} is [divided]{divided}",
+      "entry": "stock",
+      "id": "stock_1#stock_1__13"
+    },
+    {
+      "comment": "someone whose job is to buy and sell shares in companies for other people",
+      "entry": "stockbroker",
+      "id": "stockbroker#stockbroker__1"
+    },
+    {
+      "comment": "a place where people buy and sell shares in companies",
+      "entry": "stock exchange",
+      "id": "stock-exchange#stock-exchange__1"
+    },
+    {
+      "comment": "the [stock_1]{stock} [market_1]{market}",
+      "entry": "the stock exchange",
+      "id": "stock-exchange#stock-exchange__2"
+    },
+    {
+      "comment": "someone who owns stocks  (=equal parts into which a company\u2019s money is divided) in a company. The British word is shareholder.",
+      "entry": "stockholder",
+      "id": "stockholder#stockholder__1"
+    },
+    {
+      "comment": "a [stock_1]{stock} [exchange_1]{exchange}",
+      "entry": "the stock market",
+      "id": "the-stock-market#the-stock-market__1"
+    },
+    {
+      "comment": "the activities connected with buying and selling shares in companies",
+      "entry": "the stock market",
+      "id": "the-stock-market#the-stock-market__2"
+    },
+    {
+      "comment": "the value of the shares being sold in a stock exchange",
+      "entry": "the stock market",
+      "id": "the-stock-market#the-stock-market__4"
+    },
+    {
+      "comment": "an opportunity to buy shares in the company that you work for",
+      "entry": "stock option",
+      "id": "stock-option#stock-option__1"
+    },
+    {
+      "comment": "to apply to buy stock in a company",
+      "entry": "subscribe for",
+      "id": "subscribe-for#subscribe-for__1"
+    },
+    {
+      "comment": "an agreement to buy stock in a company",
+      "entry": "subscription",
+      "id": "subscription#subscription__7"
+    },
+    {
+      "comment": "a [situation]{situation} in which one [company]{company} [take_1]{takes} [control_1]{control} of another [company]{company} by [buy_1]{buying} a [majority]{majority} of its [share_1]{shares}",
+      "entry": "takeover",
+      "id": "takeover#takeover__1"
+    },
+    {
+      "comment": "technology, media, and telecommunications: used for describing that area of business on the stock exchange",
+      "entry": "TMT",
+      "id": "tmt#tmt__1"
+    },
+    {
+      "comment": "the activity of buying and selling stocks",
+      "entry": "trade",
+      "id": "trade_1#trade_1__7"
+    },
+    {
+      "comment": "the [activity]{activity} of [buy_1]{buying} and [selling]{selling} [stock_1]{stocks} in [company]{companies}",
+      "entry": "trading",
+      "id": "trading#trading__5"
+    },
+    {
+      "comment": "a financial institution that underwrites a company\u2019s stock when it first becomes available",
+      "entry": "underwriter",
+      "id": "underwriter#underwriter__2"
+    },
+    {
+      "comment": "the price of each single thing, especially a share in a company",
+      "entry": "unit price",
+      "id": "unit-price#unit-price__1"
+    },
+    {
+      "comment": "a [mutual_1]{mutual} [fund_1]{fund}",
+      "entry": "unit trust",
+      "id": "unit-trust#unit-trust__1"
+    },
+    {
+      "comment": "used about the stock of an unlisted company",
+      "entry": "unlisted",
+      "id": "unlisted#unlisted__2"
+    }
+  ],
+  "thesaurus": "Stocks and shares and the stock exchange",
+  "type": "Related words"
+}

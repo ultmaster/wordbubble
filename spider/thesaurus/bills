@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} of [send_1]{sending} [bill_1]{bills} for [payment]{payment}",
+      "entry": "billing",
+      "id": "billing#billing__4"
+    },
+    {
+      "comment": "a [written_1]{written} [order_1]{order} [saying]{saying} that someone must [pay_1]{pay} a [particular_1]{particular} [person]{person} an amount of [money]{money} on a [fixed]{fixed} [date_1]{date}",
+      "entry": "bill of exchange",
+      "id": "bill-of-exchange#bill-of-exchange__1"
+    },
+    {
+      "comment": "a [written_1]{written} [statement_1]{statement} [describe]{describing} the [sale]{sale} of something to someone",
+      "entry": "bill of sale",
+      "id": "bill-of-sale#bill-of-sale__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} [telling]{telling} a [customer]{customer} how much [money]{money} you will [charge_1]{charge} if they [employ_1]{employ} you to do a [particular_1]{particular} [piece_1]{piece} of [work_1]{work}",
+      "entry": "estimate",
+      "id": "estimate_2#estimate_2__6"
+    },
+    {
+      "comment": "a [document_1]{document} [give_1]{giving} [detail_1]{details} of [goods]{goods} or [service_1]{services} that someone has [bought]{bought} and must [pay_1]{pay} for",
+      "entry": "invoice",
+      "id": "invoice_1#invoice_1__1"
+    },
+    {
+      "comment": "a [quotation]{quotation} that [tell_1]{tells} a [customer]{customer} how much a [particular_1]{particular} [piece_1]{piece} of [work_1]{work} would [cost_1]{cost}",
+      "entry": "pro forma invoice",
+      "id": "pro-forma-invoice#pro-forma-invoice__1"
+    }
+  ],
+  "thesaurus": "Bills",
+  "type": "Related words"
+}

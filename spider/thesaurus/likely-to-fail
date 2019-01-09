@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if a [situation]{situation} is [hopeless]{hopeless}, it seems very [unlikely]{unlikely} to [succeed]{succeed} or [improve_1]{improve}",
+      "entry": "hopeless",
+      "id": "hopeless#hopeless__1"
+    },
+    {
+      "comment": "not [practical]{practical}, and therefore [unlikely]{unlikely} to be [successful]{successful}",
+      "entry": "unworkable",
+      "id": "unworkable#unworkable__1"
+    },
+    {
+      "comment": "[unlikely]{unlikely} to be [satisfactory]{satisfactory} or [successful]{successful}",
+      "entry": "unpromising",
+      "id": "unpromising#unpromising__1"
+    },
+    {
+      "comment": "[unlikely]{unlikely} to [produce_1]{produce} a [successful]{successful} [result_1]{result} or be [effective]{effective}",
+      "entry": "disadvantageous",
+      "id": "disadvantageous#disadvantageous__1"
+    },
+    {
+      "comment": "not [safe_1]{safe} or [likely_1]{likely} to [fall_1]{fall}",
+      "entry": "precarious",
+      "id": "precarious#precarious__4"
+    },
+    {
+      "comment": "[likely_1]{likely} to [fail_1]{fail} or be [unsuccessful]{unsuccessful}",
+      "entry": "shaky",
+      "id": "shaky#shaky__6"
+    },
+    {
+      "comment": "if a [business]{business} or [relationship]{relationship} is on the [rock_1]{rocks}, it is [have]{having} serious [difficulty]{difficulties} and is [likely_1]{likely} to [fail_1]{fail} [soon]{soon}",
+      "entry": "on the rocks",
+      "id": "on-the-rocks#on-the-rocks__1"
+    },
+    {
+      "comment": "to have no [chance_1]{chance} of [achieve]{achieving} something",
+      "entry": "not have a hope in hell",
+      "id": "not-have-a-hope-in-hell#not-have-a-hope-in-hell__1"
+    },
+    {
+      "comment": "[unable]{unable} to [compete]{compete} [successful#successful__11]{successfully} with other [business]{businesses} or [product]{products}",
+      "entry": "uncompetitive",
+      "id": "uncompetitive#uncompetitive__1"
+    },
+    {
+      "comment": "becoming less [effective]{effective} and [successful]{successful}",
+      "entry": "faltering",
+      "id": "faltering#faltering__1"
+    }
+  ],
+  "thesaurus": "Likely to fail",
+  "type": "Synonyms"
+}

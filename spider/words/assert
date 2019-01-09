@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [state_1]{state} [firm_1#firm_1__28]{firmly} that something is [true_1]{true}",
+      "examples": [
+        "He has [continued]{continued} to assert his [innocence]{innocence}.",
+        "The [governor]{governor} [assert]{asserted} that no more [money]{money} would be [available]{available}.",
+        "She always [manage]{manages} to assert her [point_1]{point} of [view_1]{view}.",
+        "Don\u2019t be so [shy_1]{shy} \u2013 you [need_1]{need} to [learn]{learn} to assert yourself."
+      ],
+      "id": "assert__1"
+    },
+    {
+      "def": "to [claim_1]{claim} that you have the [right_1]{right} to do something or [behave]{behave} in a [particular_1]{particular} way",
+      "examples": [
+        "This system [discourage]{discourages} [people_1]{people} from [assert]{asserting} their [right_3]{rights} in [court_1]{court}.",
+        "He [quickly]{quickly} [assert]{asserted} his [authority]{authority} as a [leader]{leader}.",
+        "It\u2019s [hard_1]{hard} for [shy_1]{shy} [people_1]{people} to assert themselves in a [group_1]{group}."
+      ],
+      "id": "assert__7"
+    },
+    {
+      "def": "if a [fact]{fact}, [idea]{idea}, or [tendency]{tendency} [assert]{asserts} [itself]{itself}, it [begin]{begins} to [influence_1]{influence} someone or something",
+      "examples": [
+        "After a while her [old]{old} [bad_1]{bad} [habit]{habits} [began]{began} to assert themselves."
+      ],
+      "id": "assert__11"
+    }
+  ],
+  "word": "assert"
+}

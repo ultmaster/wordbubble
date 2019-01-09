@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "when someone is [officially]{officially} put on the [list_1]{list} of [student]{students} who go to a [school_1]{school}, [college]{college}, or [university]{university}",
+      "examples": [
+        "There is an enrollment [fee]{fee} of $2,000.00."
+      ],
+      "id": "enrollment__1"
+    },
+    {
+      "def": "the [number_1]{number} of [people_1]{people} who are [take_1]{taking} a [course_1]{course} or [course_1]{courses} at a [school_1]{school} or [university]{university}",
+      "examples": [
+        "[enrollment]{Enrollments} in [science]{science} [course_1]{courses} are down again this [year]{year}."
+      ],
+      "id": "enrollment__3"
+    }
+  ],
+  "word": "enrollment"
+}

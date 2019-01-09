@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [store_1]{store} or [place_1]{place} where a [particular_1]{particular} [product]{product} is [sold]{sold}",
+      "examples": [
+        "Most of their [sale]{sales} are through [traditional]{traditional} [retail_1]{retail} [outlet]{outlets}."
+      ],
+      "id": "outlet__1"
+    },
+    {
+      "def": "a way of [express_1]{expressing} [strong]{strong} [feeling_1]{feelings} that you would [normally]{normally} not [express_1]{express}",
+      "examples": [
+        "Many [young_1]{young} [people_1]{people} find [music]{music} their [best_1]{best} outlet for [creative_1]{creative} [expression]{expression}.",
+        "What he [need_1]{needed} was an outlet for all his [excess_1]{excess} [energy]{energy}."
+      ],
+      "id": "outlet__3"
+    },
+    {
+      "def": "a [pipe_1]{pipe} or hole through which [gas_1]{gas} or [liquid_1]{liquid} [flow_1]{flows} out",
+      "examples": [
+        "a [hot]{hot} [water_1]{water} outlet"
+      ],
+      "id": "outlet__7"
+    },
+    {
+      "def": "a [place_1]{place} on a [wall_1]{wall} where you can [connect]{connect} [electrical_1]{electrical} [equipment]{equipment} to the [power_1]{power} [supply_1]{supply}",
+      "examples": [],
+      "id": "outlet__9"
+    }
+  ],
+  "word": "outlet"
+}

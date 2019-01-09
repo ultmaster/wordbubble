@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [ask_1]{ask} someone to [pay_1]{pay} more [money]{money} than is [reasonable]{reasonable}, or more [money]{money} than the [real_1]{real} [price_1]{price}",
+      "examples": [
+        "I [think_1]{think} I\u2019ve been [overcharge]{overcharged}."
+      ],
+      "id": "overcharge__1"
+    },
+    {
+      "def": "to put too much [power_1]{power} into a [battery]{battery}",
+      "examples": [
+        "[warning]{Warning}: Do not overcharge."
+      ],
+      "id": "overcharge__3"
+    }
+  ],
+  "word": "overcharge"
+}

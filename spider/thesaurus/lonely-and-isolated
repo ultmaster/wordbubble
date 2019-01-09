@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[unhappy]{unhappy} because you are alone or because you have no [friend_1]{friends}",
+      "entry": "lonely",
+      "id": "lonely#lonely__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} alone and [unhappy]{unhappy}, with no [friend_1]{friends} to [support_1]{support} you",
+      "entry": "isolated",
+      "id": "isolated#isolated__5"
+    },
+    {
+      "comment": "[feeling_1]{feeling} that you have no [friend_1]{friends} and that no one [care_1]{cares} about you",
+      "entry": "alone",
+      "id": "alone#alone__8"
+    },
+    {
+      "comment": "[appear]{appearing} [lonely]{lonely} and [sad_1]{sad}",
+      "entry": "forlorn",
+      "id": "forlorn#forlorn__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} that you do not [belong]{belong} in a [particular_1]{particular} [society]{society}, [place_1]{place}, or [group_1]{group}",
+      "entry": "alienated",
+      "id": "alienated#alienated__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} alone and that your [life]{life} has no [clear_1]{clear} [purpose]{purpose}",
+      "entry": "adrift",
+      "id": "adrift#adrift__3"
+    },
+    {
+      "comment": "[unhappy]{unhappy} because you are alone or because you have no [friend_1]{friends}",
+      "entry": "lonesome",
+      "id": "lonesome#lonesome__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} that you do not [belong]{belong} to a [group_1]{group} or [community]{community}",
+      "entry": "estranged",
+      "id": "estranged#estranged__3"
+    },
+    {
+      "comment": "with no [friend_1]{friends}",
+      "entry": "friendless",
+      "id": "friendless#friendless__1"
+    },
+    {
+      "comment": "[left_1]{left} alone by someone who should [stay_1]{stay} with you and take [care_1]{care} of you",
+      "entry": "abandoned",
+      "id": "abandoned#abandoned__3"
+    }
+  ],
+  "thesaurus": "Lonely and isolated",
+  "type": "Synonyms"
+}

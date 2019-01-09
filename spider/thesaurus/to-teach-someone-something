@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to give [extra_1]{extra} [training]{training} to [worker]{workers} to [make_1]{make} them [better_1]{better} at their [job_1]{job}, or to do this [extra_1]{extra} [training]{training}",
+      "entry": "upskill",
+      "id": "upskill#upskill__1"
+    },
+    {
+      "comment": "to [help_1]{help} [student]{students} to [learn]{learn} something in a [school_1]{school}, [college]{college}, [university]{university}, etc. by [give_1]{giving} [class_1]{classes}",
+      "entry": "teach",
+      "id": "teach#teach__1"
+    },
+    {
+      "comment": "to [teach]{teach} someone to do a [particular_1]{particular} [job_1]{job} or [activity]{activity}",
+      "entry": "train",
+      "id": "train_2#train_2__1"
+    },
+    {
+      "comment": "to [teach]{teach} someone, [usually]{usually} for several [year]{years}, [especially]{especially} at a [school_1]{school}, [college]{college}, or [university]{university}",
+      "entry": "educate",
+      "id": "educate#educate__1"
+    },
+    {
+      "comment": "to [introduce]{introduce} someone to a [skill]{skill}, [subject_1]{subject}, or [activity]{activity} and [teach]{teach} them about it",
+      "entry": "initiate",
+      "id": "initiate_1#initiate_1__6"
+    },
+    {
+      "comment": "to [teach]{teach} someone a [special_1]{special} [skill]{skill}, [especially]{especially} one [connected]{connected} with [perform]{performing} in [public_1]{public}",
+      "entry": "coach",
+      "id": "coach_2#coach_2__4"
+    },
+    {
+      "comment": "to give a [lecture_1]{lecture} or a [series]{series} of [lecture_1]{lectures}",
+      "entry": "lecture",
+      "id": "lecture_2#lecture_2__1"
+    },
+    {
+      "comment": "to [teach]{teach} someone the [basic_1]{basic} [part_1]{parts} of a [subject_1]{subject}",
+      "entry": "ground",
+      "id": "ground_2#ground_2__9"
+    },
+    {
+      "comment": "to [teach]{teach} someone",
+      "entry": "tutor",
+      "id": "tutor_2#tutor_2__1"
+    },
+    {
+      "comment": "to [teach]{teach} someone a [subject_1]{subject} or [skill]{skill}",
+      "entry": "instruct",
+      "id": "instruct#instruct__4"
+    }
+  ],
+  "thesaurus": "To teach someone something",
+  "type": "Synonyms"
+}

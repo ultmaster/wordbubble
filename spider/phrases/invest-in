@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "invest in",
+  "senses": [
+    {
+      "def": "to [spend]{spend} [money]{money} on something in [order_1]{order} to [improve_1]{improve} it or [make_1]{make} it more [successful]{successful}",
+      "examples": [
+        "This [government]{government} [believe]{believes} in [invest]{investing} in [education]{education}."
+      ],
+      "id": "invest-in__1"
+    },
+    {
+      "def": "to use something such as time or [effort]{effort} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "You have to be [willing]{willing} to [invest]{invest} a [lot_1]{lot} of time in [take_1]{taking} [care_1]{care} of [elderly]{elderly} [parent]{parents}."
+      ],
+      "id": "invest-in__3"
+    },
+    {
+      "def": "to [buy_1]{buy} something, [especially]{especially} something that you [need_1]{need} and will use a [lot_1]{lot}",
+      "examples": [
+        "I [think_1]{think} it\u2019s time I [invest]{invested} in a [new]{new} computer."
+      ],
+      "id": "invest-in__5"
+    }
+  ]
+}

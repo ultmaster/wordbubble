@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "[ammunition]{ammunition}",
+      "entry": "ammo",
+      "id": "ammo#ammo__1"
+    },
+    {
+      "comment": "[bullet]{bullets}, [bomb_1]{bombs}, etc. that can be [fire_2]{fired} from a [weapon]{weapon}",
+      "entry": "ammunition",
+      "id": "ammunition#ammunition__1"
+    },
+    {
+      "comment": "[weapon]{weapons} and [military]{military} [equipment]{equipment} [used]{used} by an [army]{army}, [navy]{navy}, [air_1]{air} [force_1]{force}, etc.",
+      "entry": "armaments",
+      "id": "armament#armament__1"
+    },
+    {
+      "comment": "[involve]{involving} the use of [weapon]{weapons}",
+      "entry": "armed",
+      "id": "armed#armed__4"
+    },
+    {
+      "comment": "the amount or [type_1]{types} of [weapon]{weapons} that a [country]{country} has",
+      "entry": "armory",
+      "id": "armory#armory__2"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [armory]{armory}",
+      "entry": "armoury",
+      "id": "armoury#armoury__2"
+    },
+    {
+      "comment": "[weapon]{weapons}, for [example]{example} [guns]{guns} or [bomb_1]{bombs}",
+      "entry": "arms",
+      "id": "arms#arms__1"
+    },
+    {
+      "comment": "a [large_1]{large} [collection]{collection} of [weapon]{weapons} and [military]{military} [equipment]{equipment}",
+      "entry": "arsenal",
+      "id": "arsenal#arsenal__1"
+    },
+    {
+      "comment": "[large_1]{large} [powerful]{powerful} [guns]{guns} that are [used]{used} by an [army]{army} and are [move_1]{moved} on [wheel_1]{wheels} or [fixed]{fixed} in one [place_1]{place}",
+      "entry": "artillery",
+      "id": "artillery#artillery__1"
+    },
+    {
+      "comment": "[used]{used} in a [military]{military} [attack_1]{attack}",
+      "entry": "assault",
+      "id": "assault_1#assault_1__8"
+    },
+    {
+      "comment": "several [large_1]{large} [guns]{guns} or other [weapon]{weapons}, [used]{used} together",
+      "entry": "battery",
+      "id": "battery#battery__5"
+    },
+    {
+      "comment": "the [number_1]{number} of [weapon]{weapons}, [soldier_1]{soldiers}, etc. that a [country]{country} has for [fighting]{fighting} a war",
+      "entry": "capability",
+      "id": "capability#capability__6"
+    },
+    {
+      "comment": "the system of [weapon]{weapons}, [equipment]{equipment}, and [people_1]{people} [used]{used} for [protect]{protecting} a [country]{country}",
+      "entry": "defense",
+      "id": "defense#defense__3"
+    },
+    {
+      "comment": "the [particular_1]{particular} [structure_1]{structures}, [weapon]{weapons}, and [people_1]{people} that are [used]{used} to [protect]{protect} a [place_1]{place}",
+      "entry": "defense",
+      "id": "defense#defense__7"
+    },
+    {
+      "comment": "a [weapon]{weapon} whose [purpose]{purpose} is to [make_1]{make} other [country]{countries} [afraid]{afraid} to [attack_1]{attack} the [country]{country} that [own_2]{owns} it",
+      "entry": "deterrent",
+      "id": "deterrent_1#deterrent_1__3"
+    },
+    {
+      "comment": "a [substance]{substance} or an [object_1]{object} that can cause an [explosion]{explosion}",
+      "entry": "explosive",
+      "id": "explosive_2#explosive_2__1"
+    },
+    {
+      "comment": "the [weapon]{weapons} [available]{available} to use against an [enemy]{enemy}",
+      "entry": "firepower",
+      "id": "firepower#firepower__1"
+    },
+    {
+      "comment": "an [object_1]{object} that is [used]{used} as a [weapon]{weapon}",
+      "entry": "instrument",
+      "id": "instrument#instrument__7"
+    },
+    {
+      "comment": "the [supply_1]{supplies} of [weapon]{weapons} and [equipment]{equipment} [used]{used} by an [army]{army}",
+      "entry": "materiel",
+      "id": "materiel#materiel__1"
+    },
+    {
+      "comment": "an [object_1]{object} that is [thrown]{thrown} or [fire_2]{fired} at someone or something",
+      "entry": "missile",
+      "id": "missile#missile__4"
+    },
+    {
+      "comment": "[military]{military} [weapon]{weapons} and [equipment]{equipment} such as [guns]{guns}, [bullet]{bullets}, and [bomb_1]{bombs}",
+      "entry": "munitions",
+      "id": "munitions#munitions__1"
+    },
+    {
+      "comment": "[military]{military} [weapon]{weapons} and [related_1]{related} [equipment]{equipment}",
+      "entry": "ordnance",
+      "id": "ordnance#ordnance__1"
+    },
+    {
+      "comment": "[large_1]{large} [guns]{guns} [fixed]{fixed} to [wheel_1]{wheels}",
+      "entry": "ordnance",
+      "id": "ordnance#ordnance__3"
+    },
+    {
+      "comment": "an [object_1]{object} that is [shot_1]{shot} or [thrown]{thrown} as a [weapon]{weapon}",
+      "entry": "projectile",
+      "id": "projectile#projectile__1"
+    },
+    {
+      "comment": "an [object_1]{object} that can be [used]{used} to [hurt_1]{hurt} [people_1]{people} or [damage_1]{damage} [property]{property}, for [example]{example} a [gun_1]{gun}, [knife_1]{knife}, or [bomb_1]{bomb}",
+      "entry": "weapon",
+      "id": "weapon#weapon__1"
+    },
+    {
+      "comment": "[weapon]{weapons} in [general_1]{general}, or all the [weapon]{weapons} that a [country]{country} or [army]{army} has",
+      "entry": "weaponry",
+      "id": "weaponry#weaponry__1"
+    }
+  ],
+  "thesaurus": "General words for weapons and ammunition",
+  "type": "Related words"
+}

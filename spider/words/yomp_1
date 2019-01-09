@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if [soldier_1]{soldiers} yomp, they [march_1]{march} over [difficult]{difficult} [ground_1]{ground} [carry_1]{carrying} [heavy_1]{heavy} [pack_1]{packs}",
+      "examples": [
+        "an SAS [soldier_1]{soldier} in full [gear_1]{gear} [yomp_1]{yomping} across [mountainous]{mountainous} [terrain]{terrain}",
+        "They\u2019ve been on a [training]{training} [exercise_1]{exercise} [yomp_1]{yomping} 30 [mile]{miles} through the [cold_1]{cold}, [wet_1]{wet}, [wind_1]{wind} and [snow_1]{snow}."
+      ],
+      "id": "yomp_1__1"
+    },
+    {
+      "def": "to [walk_1]{walk} [fast_1]{fast} over [difficult]{difficult} [ground_1]{ground}",
+      "examples": [
+        "[have]{Having} [eaten]{eaten} [lunch_1]{lunch} it was time to yomp back to the [car]{car}."
+      ],
+      "id": "yomp_1__4"
+    }
+  ],
+  "word": "yomp"
+}

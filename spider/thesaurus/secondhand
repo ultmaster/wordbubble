@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "comment": "[own_2]{owned} or [used]{used} by someone else before you",
+      "entry": "secondhand",
+      "id": "secondhand#secondhand__1"
+    },
+    {
+      "comment": "[own_2]{owned} by someone else before you",
+      "entry": "used",
+      "id": "used#used__1"
+    },
+    {
+      "comment": "[own_2]{owned} by someone before you [buy_1]{buy} it",
+      "entry": "pre-owned",
+      "id": "pre-owned#pre-owned__1"
+    }
+  ],
+  "thesaurus": "Secondhand",
+  "type": "Synonyms"
+}

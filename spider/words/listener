@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [listen_1]{listens} to the [radio_1]{radio}, or to a [particular_1]{particular} [radio_1]{radio} [program_1]{program} or [radio_1]{radio} [station_1]{station}",
+      "examples": [
+        "The show [attract]{attracted} over 3 [million]{million} [listener]{listeners} in its first [week]{week}.",
+        "50 [percent_1]{percent} of [listener]{listeners} to our [station_1]{station} are [aged_1]{aged} between 15 and 25."
+      ],
+      "id": "listener__1"
+    },
+    {
+      "def": "someone who [listen_1]{listens} to a [person]{person} [speak_1]{speaking}",
+      "examples": [
+        "The [best_1]{best} [doctor_1]{doctors} are also [good_1]{good} [listener]{listeners}."
+      ],
+      "id": "listener__4"
+    }
+  ],
+  "word": "listener"
+}

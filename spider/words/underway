@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "already [start_1]{started} or [happening_1]{happening}",
+      "examples": [
+        "[rescue_1]{Rescue} [effort]{efforts} are underway to find the [lost_1]{lost} [climber]{climbers}.",
+        "The [concert]{concert} [got_1]{got} underway at [exactly]{exactly} 8:00."
+      ],
+      "id": "underway__1"
+    },
+    {
+      "def": "already [moving]{moving}",
+      "examples": [
+        "Our [train_1]{train} was underway by 8:30."
+      ],
+      "id": "underway__4"
+    }
+  ],
+  "word": "underway"
+}

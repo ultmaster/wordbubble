@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [cover_1]{cover} a [floor_1]{floor} with a [carpet_1]{carpet}",
+      "entry": "carpet",
+      "id": "carpet_2#carpet_2__1"
+    },
+    {
+      "comment": "to cover the walls of a room with wallpaper",
+      "entry": "paper",
+      "id": "paper_3#paper_3__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [wall_1]{wall} or [ceiling]{ceiling} with [wet_1]{wet} [plaster_1]{plaster} or a [similar]{similar} [substance]{substance}",
+      "entry": "plaster",
+      "id": "plaster_2#plaster_2__5"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [surface_1]{surface} with [cement_1]{cement}",
+      "entry": "cement",
+      "id": "cement_2#cement_2__3"
+    },
+    {
+      "comment": "to [cover_1]{cover} something with [wooden]{wooden} [board_1]{boards}",
+      "entry": "board over",
+      "id": "board-over#board-over__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [wall_1]{wall}, [floor_1]{floor}, or [roof_1]{roof} with [tile_1]{tiles}",
+      "entry": "tile",
+      "id": "tile_2#tile_2__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [metal_1]{metal} [object_1]{object} with a thin [layer_1]{layer} of [gold_1]{gold} or [silver_1]{silver}",
+      "entry": "plate",
+      "id": "plate_2#plate_2__1"
+    },
+    {
+      "comment": "to put [varnish_1]{varnish} on something",
+      "entry": "varnish",
+      "id": "varnish_2#varnish_2__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [surface_1]{surface} with [wax_1]{wax} to [protect]{protect} it against [water_1]{water}",
+      "entry": "wax",
+      "id": "wax_2#wax_2__2"
+    },
+    {
+      "comment": "to cover a cake with frosting",
+      "entry": "ice",
+      "id": "ice_2#ice_2__1"
+    }
+  ],
+  "thesaurus": "To cover something with a specific substance",
+  "type": "Synonyms"
+}

@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to [plant_1]{plants} or to the [scientific]{scientific} [study_1]{study} of [plant_1]{plants}",
+      "entry": "botanical",
+      "id": "botanical#botanical__1"
+    },
+    {
+      "comment": "[green_1]{green} [plant_1]{plants} that are [growing]{growing} somewhere or [used]{used} as [decoration]{decoration}",
+      "entry": "greenery",
+      "id": "greenery#greenery__1"
+    },
+    {
+      "comment": "[plant_1]{plants} that can be [used]{used} for [covering]{covering} a [large_1]{large} [area]{area} of [ground_1]{ground} because they [spread_1]{spread} [easily]{easily} and do not [need_1]{need} a [lot_1]{lot} of [care_1]{care}",
+      "entry": "ground cover",
+      "id": "ground-cover#ground-cover__1"
+    },
+    {
+      "comment": "[used]{used} about [plant_1]{plants} and [tree]{trees}",
+      "entry": "growth",
+      "id": "growth#growth__15"
+    },
+    {
+      "comment": "[covered_1]{covered} with [plant_1]{plants} that have been [allow]{allowed} to [grow]{grow} in an [uncontrolled]{uncontrolled} way",
+      "entry": "overgrown",
+      "id": "overgrown#overgrown__1"
+    },
+    {
+      "comment": "[plant_1]{plants} or [branch_1]{branches} that have [grown_1]{grown} to [cover_1]{cover} something",
+      "entry": "overgrowth",
+      "id": "overgrowth#overgrowth__1"
+    },
+    {
+      "comment": "[plant_1]{plants} and [tree]{trees}",
+      "entry": "vegetation",
+      "id": "vegetation#vegetation__1"
+    },
+    {
+      "comment": "[relate]{relating} to [plant_1]{plants}, or to the [growth]{growth} of [plant_1]{plants}",
+      "entry": "vegetative",
+      "id": "vegetative#vegetative__1"
+    }
+  ],
+  "thesaurus": "General words for plants",
+  "type": "Related words"
+}

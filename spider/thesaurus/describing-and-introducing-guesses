@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are [guess_1]{guessing} at an amount or [number_1]{number}",
+      "entry": "about",
+      "id": "about#about__14"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are [guess_1]{guessing} a [number_1]{number} or amount",
+      "entry": "around",
+      "id": "around#around__43"
+    },
+    {
+      "comment": "[used]{used} for [making]{making} it [clear_1]{clear} that what you are [saying]{saying} is a [guess_1]{guess}, and it is [likely_1]{likely} to not be [correct_1]{correct}",
+      "entry": "at a guess",
+      "id": "at-a-guess#at-a-guess__1"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} someone that they have [guess_1]{guessed} something [correctly]{correctly}",
+      "entry": "bingo",
+      "id": "bingo_2#bingo_2__2"
+    },
+    {
+      "comment": "a [conservative_1]{conservative} [guess_1]{guess} is [usually]{usually} less than the [actual]{actual} amount",
+      "entry": "conservative",
+      "id": "conservative_1#conservative_1__4"
+    },
+    {
+      "comment": "a [fair_1]{fair} [guess_1]{guess} or [idea]{idea} is [reasonable]{reasonable} and [likely_1]{likely} to be [correct_1]{correct}",
+      "entry": "fair",
+      "id": "fair_1#fair_1__17"
+    },
+    {
+      "comment": "[used]{used} when you are [saying]{saying} something that you [think_1]{think} is [probably]{probably} [true_1]{true} or [correct_1]{correct}",
+      "entry": "I guess",
+      "id": "i-guess#i-guess__1"
+    },
+    {
+      "comment": "[used]{used} when you are [going_1]{going} to [say_1]{say} what you [think_1]{think} is [happening_1]{happening}, [instead]{instead} of [wait_1]{waiting} for someone to [tell_1]{tell} you",
+      "entry": "let me guess",
+      "id": "let-me-guess#let-me-guess__1"
+    },
+    {
+      "comment": "[used]{used} when you are [guess_1]{guessing} a [number_1]{number} or amount",
+      "entry": "maybe",
+      "id": "maybe#maybe__7"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are [guess_1]{guessing} a [number_1]{number} or amount",
+      "entry": "more or less",
+      "id": "more-or-less#more-or-less__4"
+    },
+    {
+      "comment": "[used]{used} when you are [saying]{saying} what you [think_1]{think} will [happen]{happen}, or what you [think_1]{think} has [happen]{happened}",
+      "entry": "my guess is (that)",
+      "id": "my-guess-is-that#my-guess-is-that__1"
+    },
+    {
+      "comment": "[used]{used} when you are [guess_1]{guessing} a [number_1]{number} or amount or are not [certain_1]{certain} about it",
+      "entry": "perhaps",
+      "id": "perhaps#perhaps__4"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are [guess_1]{guessing} a [number_1]{number}",
+      "entry": "some",
+      "id": "some#some__19"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are [guess_1]{guessing} at an amount or [number_1]{number}",
+      "entry": "something like",
+      "id": "something-like#something-like__1"
+    },
+    {
+      "comment": "[base_2]{based} on [guess_1]{guesses} or on a [little_1]{little} [information]{information}, not on [fact]{facts}",
+      "entry": "speculative",
+      "id": "speculative#speculative__1"
+    },
+    {
+      "comment": "[used]{used} when you [pause_1]{pause} to [think_1]{think} because you are [guess_1]{guessing} a [number_1]{number} or amount",
+      "entry": "what",
+      "id": "what#what__35"
+    }
+  ],
+  "thesaurus": "Describing and introducing guesses",
+  "type": "Related words"
+}

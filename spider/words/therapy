@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a form of [treatment]{treatment} for an [illness]{illness} or [medical_1]{medical} [condition_1]{condition}",
+      "examples": [
+        "[massage_1]{Massage} is one of the [old]{oldest} [therapy]{therapies}.",
+        "[drug_1]{drug} therapy"
+      ],
+      "id": "therapy__1"
+    },
+    {
+      "def": "a form of [treatment]{treatment} for someone with [mental]{mental} [illness]{illness} or [emotional]{emotional} [problem]{problems} that [involve]{involves} [talk_1]{talking} to them or [ask_1]{asking} them to do [thing]{things}",
+      "examples": [
+        "Some of her [client]{clients} [need_1]{needed} [intensive_1]{intensive} therapy.",
+        "Her [son]{son} is in therapy.",
+        "[fishing]{Fishing} has always been a [perfect_1]{perfect} therapy for me."
+      ],
+      "id": "therapy__4"
+    }
+  ],
+  "word": "therapy"
+}

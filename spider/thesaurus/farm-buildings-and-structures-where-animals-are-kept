@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "an [enclosed]{enclosed} [area]{area} where [bird]{birds} are [kept]{kept}",
+      "entry": "aviary",
+      "id": "aviary#aviary__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} on a [farm_1]{farm} where [animal_1]{animals}, [crop_1]{crops}, or [machine_1]{machines} are [kept]{kept}",
+      "entry": "barn",
+      "id": "barn#barn__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} made of [wood]{wood} where [farmer]{farmers} keep [young_1]{young} [bird]{birds}",
+      "entry": "brooder",
+      "id": "brooder#brooder__3"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} or [large_1]{large} [container]{container} where [chicken_1]{chickens} or [small_1]{small} [animal_1]{animals} are [kept]{kept}",
+      "entry": "coop",
+      "id": "coop_2#coop_2__1"
+    },
+    {
+      "comment": "a [farm_1]{farm} [building]{building} where [cow_1]{cows} are [kept]{kept}",
+      "entry": "cowshed",
+      "id": "cowshed#cowshed__1"
+    },
+    {
+      "comment": "a [building]{building} on a [farm_1]{farm} where [milk_1]{milk} is [kept]{kept} and where [food]{foods} such as [butter_1]{butter} and [cheese]{cheese} are made",
+      "entry": "dairy",
+      "id": "dairy_1#dairy_1__2"
+    },
+    {
+      "comment": "a small building for a dog to sleep in. The British word is kennel.",
+      "entry": "doghouse",
+      "id": "doghouse#doghouse__1"
+    },
+    {
+      "comment": "a farm building with a roof but no walls that is used for storing hay  (=dried grass used for feeding animals)",
+      "entry": "Dutch barn",
+      "id": "dutch-barn#dutch-barn__1"
+    },
+    {
+      "comment": "the [main_1]{main} [house_1]{house} on a [farm_1]{farm}, where the [farmer]{farmer} [lives]{lives}",
+      "entry": "farmhouse",
+      "id": "farmhouse#farmhouse__1"
+    },
+    {
+      "comment": "the [main_1]{main} [house_1]{house} on a [farm_1]{farm} and the [building]{buildings} around it",
+      "entry": "farmstead",
+      "id": "farmstead#farmstead__1"
+    },
+    {
+      "comment": "a container in which bees live and make honey",
+      "entry": "hive",
+      "id": "hive_1#hive_1__1"
+    },
+    {
+      "comment": "a [doghouse]{doghouse}",
+      "entry": "kennel",
+      "id": "kennel#kennel__2"
+    },
+    {
+      "comment": "a [building]{building} on a [farm_1]{farm} where [cow_1]{cows} are [milk_2]{milked}",
+      "entry": "milking parlor",
+      "id": "milking-parlor#milking-parlor__1"
+    },
+    {
+      "comment": "a [farm_1]{farm} [building]{building} where [pig_1]{pigs} are [kept]{kept}",
+      "entry": "piggery",
+      "id": "piggery#piggery__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} on a [farm_1]{farm} where [pig_1]{pigs} are [kept]{kept}",
+      "entry": "pigpen",
+      "id": "pigpen#pigpen__1"
+    },
+    {
+      "comment": "a [building]{building} where [horse_1]{horses} or [farm_1]{farm} [animal_1]{animals} are [kept]{kept}",
+      "entry": "stables",
+      "id": "stable_2#stable_2__1"
+    },
+    {
+      "comment": "[building]{buildings} for [keeping]{keeping} [horse_1]{horses} in",
+      "entry": "stabling",
+      "id": "stabling#stabling__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [animal_1]{animals} are [kept]{kept} before they are [sold]{sold} or [kill_1]{killed} for [meat]{meat}",
+      "entry": "stockyard",
+      "id": "stockyard#stockyard__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} where [pig_1]{pigs} are [kept]{kept} on a [farm_1]{farm}",
+      "entry": "sty",
+      "id": "sty#sty__1"
+    }
+  ],
+  "thesaurus": "Farm buildings and structures where animals are kept",
+  "type": "Related words"
+}

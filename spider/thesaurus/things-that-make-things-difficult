@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that [cause_1]{causes} [trouble_1]{trouble} or [difficulty]{difficulty}",
+      "entry": "problem",
+      "id": "problem#problem__1"
+    },
+    {
+      "comment": "a [difficulty]{difficulty} or [problem]{problem} that [prevent]{prevents} you from [achieve]{achieving} something",
+      "entry": "obstacle",
+      "id": "obstacle#obstacle__1"
+    },
+    {
+      "comment": "something that [make_1]{makes} a [process_1]{process} or [activity]{activity} more [difficult]{difficult} to do, [deal_1]{deal} with, or [understand]{understand}",
+      "entry": "complication",
+      "id": "complication#complication__3"
+    },
+    {
+      "comment": "anything that [prevent]{prevents} [progress_1]{progress} or [make_1]{makes} it [difficult]{difficult} for someone to [achieve]{achieve} something",
+      "entry": "barrier",
+      "id": "barrier#barrier__5"
+    },
+    {
+      "comment": "something that [prevent]{prevents} [people_1]{people} from [communicate]{communicating}, [working]{working} together, etc.",
+      "entry": "barrier",
+      "id": "barrier#barrier__9"
+    },
+    {
+      "comment": "someone or something that [cause_1]{causes} [problem]{problems} for an [organization]{organization} or [politician]{politician}",
+      "entry": "embarrassment",
+      "id": "embarrassment#embarrassment__5"
+    },
+    {
+      "comment": "an [action_1]{action} or a [situation]{situation} that [prevent]{prevents} something from [developing]{developing} or [making]{making} [progress_1]{progress}",
+      "entry": "brake",
+      "id": "brake_1#brake_1__5"
+    },
+    {
+      "comment": "something that [make_1]{makes} something else [develop]{develop} or [progress_1]{progress} more [slowly]{slowly}",
+      "entry": "drag",
+      "id": "drag_2#drag_2__10"
+    },
+    {
+      "comment": "an [annoying]{annoying} [problem]{problem} or [situation]{situation}, [especially]{especially} one that [force_1]{forces} you to [make_1]{make} an [extra_1]{extra} [effort]{effort} to do something",
+      "entry": "inconvenience",
+      "id": "inconvenience_1#inconvenience_1__1"
+    },
+    {
+      "comment": "a [difficult]{difficult} or [unpleasant]{unpleasant} [situation]{situation} that is not [easy_1]{easy} to get out of",
+      "entry": "predicament",
+      "id": "predicament#predicament__1"
+    }
+  ],
+  "thesaurus": "Things that make things difficult",
+  "type": "Synonyms"
+}

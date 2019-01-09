@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "sort of",
+  "senses": [
+    {
+      "def": "[slightly]{slightly}, or in some ways",
+      "examples": [
+        "\u201cAren\u2019t you [hungry_1]{hungry}?\u201d \u201c[sort_1]{Sort} of. I\u2019m mostly [just_1]{just} [tired]{tired}.\u201d",
+        "I\u2019m [sort_1]{sort} of [worried]{worried} about [jenny]{Jenny}."
+      ],
+      "id": "sort-of__1"
+    },
+    {
+      "def": "[similar]{similar}, but not [exactly]{exactly} the same",
+      "examples": [
+        "It\u2019s [sort_1]{sort} of a [shiny]{shiny} blue-gray [color_1]{color}.",
+        "[people_1]{People} [say_1]{say} I [look_1]{look} [sort_1]{sort} of [like_1]{like} my [grandfather_1]{grandfather} when he was [young_1]{young}."
+      ],
+      "id": "sort-of__4"
+    }
+  ]
+}

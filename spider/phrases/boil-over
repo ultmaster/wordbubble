@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "boil over",
+  "senses": [
+    {
+      "def": "if a [liquid_1]{liquid} [boil_1]{boils} over, it [rise_1]{rises} so much when it [boil_1]{boils} that it [flow_1]{flows} over the top of the [container]{container} that it is in",
+      "examples": [
+        "There was a [hiss_1]{hissing} [sound_1]{sound} as the [soup_1]{soup} [boil_1]{boiled} over."
+      ],
+      "id": "boil-over__1"
+    },
+    {
+      "def": "if a [situation]{situation} or [feeling_1]{feeling} [boil_1]{boils} over, [people_1]{people} cannot [control_1]{control} their [anger_1]{anger} and [start_1]{start} to [fight_1]{fight} or [argue]{argue}",
+      "examples": [
+        "[racial]{Racial} [tension]{tensions} in the [area]{area} were [boiling]{boiling} over.",
+        "The [dispute_1]{dispute} [finally]{finally} [boil_1]{boiled} over into a [series]{series} of [violent]{violent} [protest_1]{protests}."
+      ],
+      "id": "boil-over__3"
+    }
+  ]
+}

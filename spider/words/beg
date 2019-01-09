@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [ask_1]{ask} for [help_1]{help}, an [opportunity]{opportunity}, etc. in a way that [show_1]{shows} you [want_1]{want} it very much",
+      "examples": [
+        "\u201cDon\u2019t go!\u201d he [beg]{begged}.",
+        "She had [written_1]{written} a [letter_1]{letter} [beg]{begging} him to come back.",
+        "We [beg]{begged} her for another [chance_1]{chance}.",
+        "I [beg]{begged} to be [allow]{allowed} to [join_1]{join} them.",
+        "The [boy_1]{boy} was [scream_1]{screaming} and [beg]{begging} for [mercy]{mercy}.",
+        "[yes_1]{Yes}, I do [want_1]{want} him to give me the [job_1]{job}, but I [refuse_1]{refuse} to beg!"
+      ],
+      "id": "beg__1"
+    },
+    {
+      "def": "to [ask_1]{ask} [people_1]{people} for [money]{money} or [food]{food}, [usually]{usually} because you are very [poor_1]{poor}",
+      "examples": [
+        "[homeless]{homeless} [people_1]{people} [beg]{begging} on the [street_1]{streets}",
+        "The [boy_1]{boys} went from [door_1]{door} to [door_1]{door} [beg]{begging} for [money]{money}.",
+        "He would beg [food]{food} from other [children]{children} at [school_1]{school}."
+      ],
+      "id": "beg__9"
+    },
+    {
+      "def": "if a [dog_1]{dog} [beg]{begs}, it [sit]{sits} and [hold_1]{holds} up its two front [feet]{feet} as a way of [ask_1]{asking} for [food]{food}",
+      "examples": [],
+      "id": "beg__13"
+    }
+  ],
+  "word": "beg"
+}

@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "take/catch someone by surprise",
+  "senses": [
+    {
+      "def": "to [attack_1]{attack}, [catch_1]{catch}, or find someone when they do not [expect]{expect} it",
+      "examples": [
+        "[protester]{Protesters} [march_1]{marched} into the [governor]{governor}\u2019s [office]{office}, [take_1]{taking} [security]{security} [force_1]{forces} by [surprise_1]{surprise}."
+      ],
+      "id": "take-catch-someone-by-surprise__1"
+    },
+    {
+      "def": "to [shock_1]{shock} someone by [unexpected]{unexpected} [behavior]{behavior}",
+      "examples": [
+        "The [violence]{violence} of his [language]{language} [took]{took} us all by [surprise_1]{surprise}."
+      ],
+      "id": "take-catch-someone-by-surprise__3"
+    },
+    {
+      "def": "to [happen]{happen} [unexpected#unexpected__4]{unexpectedly}",
+      "examples": [
+        "The [storm_1]{storm} [caught_1]{caught} the [fisherman]{fishermen} [completely]{completely} by [surprise_1]{surprise}."
+      ],
+      "id": "take-catch-someone-by-surprise__5"
+    }
+  ]
+}

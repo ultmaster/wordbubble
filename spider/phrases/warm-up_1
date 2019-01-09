@@ -1,0 +1,40 @@
+{
+  "part": "phrase",
+  "phrase": "warm up",
+  "senses": [
+    {
+      "def": "to become [warm_1]{warm}",
+      "examples": [
+        "[drink_1]{Drink} this and you\u2019ll [soon]{soon} [warm_1]{warm} up."
+      ],
+      "id": "warm-up_1__3"
+    },
+    {
+      "def": "to [prepare]{prepare} for a [sport_1]{sport} or [activity]{activity} by [doing]{doing} [gentle]{gentle} [exercise_1]{exercises} or [practicing]{practicing} [just_1]{just} before it [start_1]{starts}",
+      "examples": [
+        "The [player]{players} are already on the [field_1]{field} [warming_1]{warming} up.",
+        "[stretch_1]{stretching} [exercise_1]{exercises} to [warm_1]{warm} up your [calf]{calf} [muscle_1]{muscles}"
+      ],
+      "id": "warm-up_1__5"
+    },
+    {
+      "def": "if you [warm_1]{warm} up a [machine_1]{machine} or an [engine]{engine}, you [turn_1]{turn} it on and [wait_1]{wait} for a [little_1]{little} while until it is ready to be [used]{used}",
+      "examples": [
+        "In [cold_1]{cold} [weather_1]{weather} it [take_1]{takes} [long_1]{longer} for the [car]{car} to [warm_1]{warm} up."
+      ],
+      "id": "warm-up_1__8"
+    },
+    {
+      "def": "if an [event]{event} or [situation]{situation} [warm_2]{warms} up, or if something [warm_2]{warms} it up, it [start_1]{starts} to become [enjoyable]{enjoyable}, [interesting]{interesting}, or [busy_1]{busy}",
+      "examples": [
+        "By [midnight]{midnight} the [party_1]{party} had [really]{really} [warm_2]{warmed} up."
+      ],
+      "id": "warm-up_1__11"
+    },
+    {
+      "def": "if a [minor_1]{minor} [performer]{performer} [warm_2]{warms} up an [audience]{audience}, they put the [audience]{audience} in the [right_1]{right} [mood]{mood} for the [main_1]{main} [performance]{performance}",
+      "examples": [],
+      "id": "warm-up_1__13"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "eat up",
+  "senses": [
+    {
+      "def": "to [eat]{eat} all of something",
+      "examples": [
+        "Come on, [eat]{eat} up your [broccoli]{broccoli}.",
+        "[eat]{Eat} up, and we\u2019ll go for a [walk_1]{walk}."
+      ],
+      "id": "eat-up__1"
+    },
+    {
+      "def": "to use [large_1]{large} [amount_1]{amounts} of your [available]{available} time or [money]{money}",
+      "examples": [
+        "[have]{Having} [children]{children} [eats]{eats} up a [lot_1]{lot} of a [family_1]{family}\u2019s [income]{income}."
+      ],
+      "id": "eat-up__4"
+    },
+    {
+      "def": "to [travel_1]{travel} a [particular_1]{particular} [distance_1]{distance} [easily]{easily} and [steadily]{steadily}",
+      "examples": [
+        "They [drove_1]{drove} on, [eat]{eating} up the [distance_1]{distance} between themselves and [home_1]{home}."
+      ],
+      "id": "eat-up__6"
+    }
+  ]
+}

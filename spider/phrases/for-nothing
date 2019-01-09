@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "for nothing",
+  "senses": [
+    {
+      "def": "without any [payment]{payment}",
+      "examples": [
+        "Some of the [men]{men} [volunteer_2]{volunteered} to [work_1]{work} for nothing.",
+        "I\u2019m a [club_1]{club} [member]{member}, so I can get [ticket_1]{tickets} for nothing."
+      ],
+      "id": "for-nothing__1"
+    },
+    {
+      "def": "without a [reason_1]{reason} or [purpose]{purpose}",
+      "examples": [
+        "Why [did]{did} you call me down here for nothing?"
+      ],
+      "id": "for-nothing__4"
+    }
+  ]
+}

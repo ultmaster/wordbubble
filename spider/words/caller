@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [make_1]{makes} a [telephone_1]{telephone} call",
+      "examples": [
+        "There\u2019s a caller for you on [line_1]{line} two."
+      ],
+      "id": "caller__1"
+    },
+    {
+      "def": "someone who comes to your [house_1]{house} for a [short_1]{short} [visit_1]{visit}",
+      "examples": [
+        "Several [caller]{callers} [stop_1]{stopped} by while you were [shopping]{shopping}."
+      ],
+      "id": "caller__3"
+    },
+    {
+      "def": "someone whose [job_1]{job} is to describe on [television]{television} or [radio_1]{radio} what is [happening_1]{happening} in a [race_1]{race} or [game_1]{game}",
+      "examples": [],
+      "id": "caller__5"
+    }
+  ],
+  "word": "caller"
+}

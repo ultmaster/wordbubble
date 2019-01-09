@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "fall down",
+  "senses": [
+    {
+      "def": "if something you are [wearing]{wearing} is [fall_1]{falling} down, it is [slip_1]{slipping} down your [legs]{legs}",
+      "examples": [
+        "The [boy_1]{boy} came into the [room_1]{room} with his [pants]{pants} [fall_1]{falling} down."
+      ],
+      "id": "fall-down__3"
+    },
+    {
+      "def": "if something such as an [argument]{argument} or system [fall_1]{falls} down, it [fail_1]{fails} because a [particular_1]{particular} part of it is [weak]{weak} or not [correct_1]{correct}",
+      "examples": [],
+      "id": "fall-down__5"
+    },
+    {
+      "def": "if a [building]{building} is [fall_1]{falling} down, it is in very [bad_1]{bad} [condition_1]{condition}",
+      "examples": [],
+      "id": "fall-down__6"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [rents]{rents} an [apartment]{apartment}, [house_1]{house}, [office]{office}, [piece_1]{piece} of [land_1]{land}, etc. from the [person]{person} who [own_2]{owns} it",
+      "examples": [
+        "There are six [commercial_1]{commercial} [tenant]{tenants} in the [building]{building}."
+      ],
+      "id": "tenant__1"
+    },
+    {
+      "def": "a [software]{software} [user]{user} who [share_1]{shares} [access_1]{access} with others",
+      "examples": [],
+      "id": "tenant__3"
+    }
+  ],
+  "word": "tenant"
+}

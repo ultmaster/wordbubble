@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "line up",
+  "senses": [
+    {
+      "def": "to form a [row_1]{row}, or to put [people_1]{people} or [thing]{things} in a [row_1]{row}",
+      "examples": [
+        "The [book_1]{books} are [lined]{lined} up on a [shelf]{shelf} above the [desk]{desk}.",
+        "All [children]{children} must [line_1]{line} up when the [whistle_1]{whistle} [go_1]{goes}."
+      ],
+      "id": "line-up__1"
+    },
+    {
+      "def": "to [organize]{organize} or [prepare]{prepare} [thing]{things} for an [event]{event} or a [series]{series} of [event]{events}",
+      "examples": [
+        "We have a [series]{series} of [activity]{activities} [lined]{lined} up to keep you [entertain]{entertained}."
+      ],
+      "id": "line-up__4"
+    },
+    {
+      "def": "to move something into the [correct_1]{correct} [position_1]{position} in [relation]{relation} to something else, [especially]{especially} so that it is [level_1]{level} with it",
+      "examples": [
+        "He [lined]{lined} the [ball_1]{ball} up and [kick_1]{kicked} it [straight_1]{straight} into the [net_1]{net}.",
+        "[hold_1]{Hold} a [pen_1]{pen} in front of you and [line_1]{line} up its [tip_1]{tip} with some [distant]{distant} [object_1]{object}."
+      ],
+      "id": "line-up__6"
+    },
+    {
+      "def": "if [people_1]{people} are [lining]{lining} up to do something, they all [want_1]{want} to do it at the same time",
+      "examples": [
+        "Her [colleague]{colleagues} are [lining]{lining} up to [demand_1]{demand} her [resignation]{resignation}."
+      ],
+      "id": "line-up__9"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to put something down in [order_1]{order} to show you are not [going_1]{going} to use it again, for [example]{example} a [weapon]{weapon} or [tool_1]{tool}",
+      "entry": "lay down",
+      "id": "lay-down#lay-down__1"
+    },
+    {
+      "comment": "to not use a [vehicle]{vehicle} or [ship_1]{ship} for a [period_1]{period} of time, [especially]{especially} because it [need_1]{needs} to be [repair_1]{repaired}",
+      "entry": "lay up",
+      "id": "lay-up_1#lay-up_1__3"
+    },
+    {
+      "comment": "to [avoid]{avoid} [use_1]{using} something, or to use less of it",
+      "entry": "save on",
+      "id": "save-on#save-on__3"
+    },
+    {
+      "comment": "to [avoid]{avoid} [use_1]{using} something such as [money]{money}, time, or [energy]{energy}, or to use less of it",
+      "entry": "save",
+      "id": "save_1#save_1__6"
+    },
+    {
+      "comment": "to [promise_1]{promise} to [stop_1]{stop} [doing]{doing} or [use_1]{using} something",
+      "entry": "swear off",
+      "id": "swear-off#swear-off__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [planning]{planning} or [use_1]{using} something such as a [project_1]{project} or [activity]{activity}",
+      "entry": "deep-six",
+      "id": "deep-six#deep-six__1"
+    },
+    {
+      "comment": "to not use or [provide]{provide} enough of something",
+      "entry": "skimp",
+      "id": "skimp#skimp__1"
+    },
+    {
+      "comment": "to [gradually]{gradually} [stop_1]{stop} [use_1]{using} something",
+      "entry": "phase out",
+      "id": "phase-out#phase-out__1"
+    },
+    {
+      "comment": "something that [make_1]{makes} it [possible_1]{possible} for you to use or [spend]{spend} less of something",
+      "entry": "saver",
+      "id": "saver#saver__2"
+    },
+    {
+      "comment": "to put something down and to one side because you are [finished]{finished} with it or [want_1]{want} to [save_1]{save} it until another time",
+      "entry": "lay aside",
+      "id": "lay-aside#lay-aside__3"
+    }
+  ],
+  "thesaurus": "To not use something, or to save something for later",
+  "type": "Synonyms"
+}

@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [stock-exchange]{stock exchange}",
+      "examples": [],
+      "id": "the-stock-market__1"
+    },
+    {
+      "def": "the [activity]{activities} [connected]{connected} with [buy_1]{buying} and [selling]{selling} [share_1]{shares} in [company]{companies}",
+      "examples": [
+        "He [invest]{invested} everything in the [stock_1]{stock} [market_1]{market}."
+      ],
+      "id": "the-stock-market__2"
+    },
+    {
+      "def": "the [value_1]{value} of the [share_1]{shares} being [sold]{sold} in a stock exchange",
+      "examples": [
+        "The Italian [stock_1]{stock} [market_1]{market} [fell_1]{fell} [sharply]{sharply}."
+      ],
+      "id": "the-stock-market__4"
+    }
+  ],
+  "word": "the stock market"
+}

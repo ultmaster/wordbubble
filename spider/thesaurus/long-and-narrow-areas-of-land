@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a long [area]{area} of [land_1]{land} with [slope_2#slope_2__5]{sloping} sides",
+      "entry": "bank",
+      "id": "bank_1#bank_1__11"
+    },
+    {
+      "comment": "a long thin [area]{area} that [contain]{contains} a [lot_1]{lot} of a [particular_1]{particular} thing",
+      "entry": "belt",
+      "id": "belt_1#belt_1__10"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [piece_1]{piece} of [land_1]{land} that [join_1]{joins} two [place_1]{places}",
+      "entry": "bridge",
+      "id": "bridge_1#bridge_1__15"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [area]{area} of [land_1]{land} that [people_1]{people} or [animal_1]{animals} [travel_1]{travel} through",
+      "entry": "corridor",
+      "id": "corridor#corridor__5"
+    },
+    {
+      "comment": "a long thin [piece_1]{piece} of [land_1]{land}",
+      "entry": "spur",
+      "id": "spur_1#spur_1__6"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [area]{area} of [land_1]{land}",
+      "entry": "strip",
+      "id": "strip_2#strip_2__4"
+    }
+  ],
+  "thesaurus": "Long and narrow areas of land",
+  "type": "Related words"
+}

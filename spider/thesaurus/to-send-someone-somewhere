@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [arrange]{arrange} for someone to go to a [place_1]{place} to do a [job_1]{job}",
+      "entry": "send",
+      "id": "send#send__20"
+    },
+    {
+      "comment": "to [send_1]{send} [goods]{goods} or [people_1]{people} somewhere by [ship_1]{ship}",
+      "entry": "ship",
+      "id": "ship_2#ship_2__1"
+    },
+    {
+      "comment": "to move to a [different]{different} [place_1]{place}, or to [make_1]{make} someone or something do this",
+      "entry": "relocate",
+      "id": "relocate#relocate__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone go somewhere, [especially]{especially} in [order_1]{order} to get [rid_1]{rid} of them",
+      "entry": "bundle off",
+      "id": "bundle-off#bundle-off__1"
+    },
+    {
+      "comment": "to [send_1]{send} someone or something along a [particular_1]{particular} [route_1]{route}",
+      "entry": "route",
+      "id": "route_2#route_2__1"
+    },
+    {
+      "comment": "to [send_1]{send} [people_1]{people} or [goods]{goods} to a [place_1]{place} [use_1]{using} [airplane]{airplanes} and [parachute_1]{parachutes}",
+      "entry": "parachute",
+      "id": "parachute_2#parachute_2__4"
+    },
+    {
+      "comment": "to [send_1]{send} someone to be [look_1]{looked} after by someone else",
+      "entry": "farm out",
+      "id": "farm-out#farm-out__3"
+    },
+    {
+      "comment": "to [send_1]{send} someone to another [country]{country} or [place_1]{place} to [work_1]{work} for the [government]{government} or a [company]{company}, or for [duty]{duty} in the [military]{military}",
+      "entry": "post",
+      "id": "post_2#post_2__9"
+    },
+    {
+      "comment": "to [send_1]{send} someone [away_1]{away} somewhere [suddenly]{suddenly}",
+      "entry": "pack off",
+      "id": "pack-off#pack-off__1"
+    },
+    {
+      "comment": "to [send_1]{send} someone or something somewhere",
+      "entry": "dispatch",
+      "id": "dispatch_1#dispatch_1__1"
+    }
+  ],
+  "thesaurus": "To send someone somewhere",
+  "type": "Synonyms"
+}

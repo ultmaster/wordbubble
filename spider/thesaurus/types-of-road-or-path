@@ -1,0 +1,386 @@
+{
+  "entries": [
+    {
+      "comment": "a street in which cars may travel in one direction/in both directions",
+      "entry": "a one-way/two-way street",
+      "id": "a-one-way-two-way-street#a-one-way-two-way-street__1"
+    },
+    {
+      "comment": "a [path]{path} or [road]{road} that [lead_1]{leads} to a [place_1]{place}",
+      "entry": "approach",
+      "id": "approach_2#approach_2__11"
+    },
+    {
+      "comment": "an [important]{important} [road]{road}, [railroad_1]{railroad}, or [river]{river}",
+      "entry": "artery",
+      "id": "artery#artery__2"
+    },
+    {
+      "comment": "a [wide_1]{wide} [straight_1]{straight} [road]{road}, [especially]{especially} one with [tree]{trees} on each side",
+      "entry": "Avenue",
+      "id": "avenue#avenue__1"
+    },
+    {
+      "comment": "a [street_1]{street}/[road]{road} etc. that is [away_1]{away} from any [main_1]{main} [street_1]{streets}",
+      "entry": "back street/road/alley",
+      "id": "back-street-road-alley#back-street-road-alley__1"
+    },
+    {
+      "comment": "a road that goes around the edge of a city to keep traffic away from the center. The British word is ring road",
+      "entry": "beltway",
+      "id": "beltway#beltway__1"
+    },
+    {
+      "comment": "an [area]{area} or [road]{road} that is [covered_1]{covered} with [blacktop]{blacktop}",
+      "entry": "blacktop",
+      "id": "blacktop#blacktop__2"
+    },
+    {
+      "comment": "a [wide_1]{wide} [road]{road} in a [town]{town} or [city]{city}, often with [tree]{trees} along it",
+      "entry": "Boulevard",
+      "id": "boulevard#boulevard__1"
+    },
+    {
+      "comment": "in the U.K., a main road that is not as large as an A-road and has a number with the prefix B as its name",
+      "entry": "B-road",
+      "id": "b-road#b-road__1"
+    },
+    {
+      "comment": "a [road]{road} that [go_1]{goes} around a [town]{town} or [city]{city} so that you can [avoid]{avoid} [going_1]{going} through its [center_1]{center}",
+      "entry": "bypass",
+      "id": "bypass_1#bypass_1__1"
+    },
+    {
+      "comment": "a [quiet_1]{quiet} [minor_1]{minor} [road]{road}",
+      "entry": "byroad",
+      "id": "byroad#byroad__1"
+    },
+    {
+      "comment": "a [quiet_1]{quiet} [minor_1]{minor} [road]{road} that is not [used]{used} by many [car]{cars} or [people_1]{people}",
+      "entry": "byway",
+      "id": "byway#byway__1"
+    },
+    {
+      "comment": "a [raised]{raised} [road]{road} or [path]{path} across [ground_1]{ground} that is [wet_1]{wet} or is sometimes [covered_1]{covered} by [water_1]{water}",
+      "entry": "causeway",
+      "id": "causeway#causeway__1"
+    },
+    {
+      "comment": "a [road]{road} or [passage]{passage} that has no way out at one [end_1]{end}",
+      "entry": "dead end",
+      "id": "dead-end#dead-end__1"
+    },
+    {
+      "comment": "a [road]{road} or [path]{path} that [slope_1]{slopes} down",
+      "entry": "descent",
+      "id": "descent#descent__3"
+    },
+    {
+      "comment": "a [road]{road} or [track_1]{track} with a rough or [loose_1]{loose} [surface_1]{surface}",
+      "entry": "dirt road",
+      "id": "dirt-road#dirt-road__1"
+    },
+    {
+      "comment": "a [dirt]{dirt} [road]{road}",
+      "entry": "dirt track",
+      "id": "dirt-track#dirt-track__1"
+    },
+    {
+      "comment": "a track with a loose surface for cars, horses, or motorcycles to race on",
+      "entry": "dirt track",
+      "id": "dirt-track#dirt-track__2"
+    },
+    {
+      "comment": "a road with two or more lanes  (=lines) of traffic going in each direction, with a narrow piece of land down the middle to separate them",
+      "entry": "divided highway",
+      "id": "divided-highway#divided-highway__1"
+    },
+    {
+      "comment": "a [driveway]{driveway}",
+      "entry": "drive",
+      "id": "drive_2#drive_2__20"
+    },
+    {
+      "comment": "a [divided]{divided} [highway]{highway}",
+      "entry": "dual carriageway",
+      "id": "dual-carriageway#dual-carriageway__1"
+    },
+    {
+      "comment": "a [raised]{raised} [path]{path} across [land_1]{land} that is low or [wet_1]{wet}",
+      "entry": "dyke",
+      "id": "dyke#dyke__1"
+    },
+    {
+      "comment": "a [small_1]{small} [road]{road} that [allow]{allows} you to [drive_1]{drive} off a [highway]{highway}",
+      "entry": "exit",
+      "id": "exit_1#exit_1__4"
+    },
+    {
+      "comment": "a highway with several lanes  (=lines of traffic) going each direction, built so traffic can travel at high speed for long distances. The British word is motorway.",
+      "entry": "expressway",
+      "id": "expressway#expressway__1"
+    },
+    {
+      "comment": "a [minor_1]{minor} [road]{road}, [railroad_1]{railroad} [line_1]{line}, or [air_1]{air} [service_1]{service} that [lead_1]{leads} to a [major_1]{major} one",
+      "entry": "feeder",
+      "id": "feeder_1#feeder_1__8"
+    },
+    {
+      "comment": "the first/[second_1]{second}, etc. [road]{road} or [street_1]{street} on the [right_1]{right}",
+      "entry": "the first/second etc. right",
+      "id": "the-first-second-etc-right#the-first-second-etc-right__1"
+    },
+    {
+      "comment": "a large divided highway that does not cost anything to use. A road that does cost money is called a toll road.",
+      "entry": "freeway",
+      "id": "freeway#freeway__1"
+    },
+    {
+      "comment": "a [minor_1]{minor} [road]{road} [built_1]{built} [parallel_1]{parallel} to a [highway]{highway} that [vehicle]{vehicles} use to get from the [highway]{highway} to [place_1]{places} or [building]{buildings} at the side",
+      "entry": "frontage road",
+      "id": "frontage-road#frontage-road__1"
+    },
+    {
+      "comment": "[freeway]{freeway}",
+      "entry": "fwy",
+      "id": "fwy#fwy__1"
+    },
+    {
+      "comment": "a [main_1]{main} [road]{road}",
+      "entry": "high road",
+      "id": "high-road#high-road__6"
+    },
+    {
+      "comment": "a [wide_1]{wide} [road]{road} [built_1]{built} for [fast_1]{fast} [travel_1]{travel} between [town]{towns} and [city]{cities}",
+      "entry": "highway",
+      "id": "highway#highway__1"
+    },
+    {
+      "comment": "a [road]{road} or [street_1]{street}",
+      "entry": "highway",
+      "id": "highway#highway__3"
+    },
+    {
+      "comment": "all the [road]{roads} and [street_1]{streets} in a [particular_1]{particular} [area]{area}",
+      "entry": "the highways and byways",
+      "id": "the-highways-and-byways#the-highways-and-byways__1"
+    },
+    {
+      "comment": "[interstate_1]{interstate}: an [important]{important} [road]{road} between [state_1]{states} in the U.S.",
+      "entry": "I",
+      "id": "i_3#i_3__1"
+    },
+    {
+      "comment": "a [wide_1]{wide} [road]{road} with several [lines]{lines} of [traffic_1]{traffic} [going_1]{going} in each [direction]{direction}, [built_1]{built} for [fast_1]{fast} [travel_1]{travel} over long [distance_1]{distances} as part of a [national_1]{national} [road]{road} system in the U.S.",
+      "entry": "interstate",
+      "id": "interstate_2#interstate_2__1"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [road]{road}, [especially]{especially} in the [countryside]{countryside}",
+      "entry": "Lane",
+      "id": "lane#lane__1"
+    },
+    {
+      "comment": "a [road]{road}, [path]{path}, etc. on the [left_1]{left} side",
+      "entry": "left",
+      "id": "left_2#left_2__6"
+    },
+    {
+      "comment": "[motorway]{motorway}: [used]{used} in the [name_1]{names} of [large_1]{large} [highway]{highways} in the U.K.",
+      "entry": "M",
+      "id": "m_2#m_2__1"
+    },
+    {
+      "comment": "[motorway]{motorway}: [used]{used} in the [name_1]{names} of [large_1]{large} [highway]{highways} in the U.K.",
+      "entry": "M.",
+      "id": "m_5#m_5__8"
+    },
+    {
+      "comment": "a [wide_1]{wide} [road]{road} that has a [lot_1]{lot} of [traffic_1]{traffic}",
+      "entry": "main road",
+      "id": "main-road#main-road__1"
+    },
+    {
+      "comment": "the [main_1]{main} [road]{road} in the [center_1]{center} of a [town]{town}, with many [store_1]{stores} and [business]{businesses} on it",
+      "entry": "Main Street",
+      "id": "main-street#main-street__1"
+    },
+    {
+      "comment": "a [set_1]{set} of many [small_1]{small} [street_1]{streets}, [path]{paths}, etc. that is [easy_1]{easy} to get [lost_1]{lost} in",
+      "entry": "maze",
+      "id": "maze#maze__2"
+    },
+    {
+      "comment": "a [superhighway]{superhighway}",
+      "entry": "motorway",
+      "id": "motorway#motorway__1"
+    },
+    {
+      "comment": "a [street_1]{street} that is [closed]{closed} at one [end_1]{end}",
+      "entry": "no through street",
+      "id": "no-through-street#no-through-street__1"
+    },
+    {
+      "comment": "a [road]{road} that [lead_1]{leads} off a [big_1]{big} [highway]{highway}",
+      "entry": "off-ramp",
+      "id": "off-ramp#off-ramp__1"
+    },
+    {
+      "comment": "any [road]{road} that you can [drive_1]{drive} on for a long time without [reach_1]{reaching} a [town]{town}",
+      "entry": "the open road",
+      "id": "the-open-road#the-open-road__1"
+    },
+    {
+      "comment": "a structure like a bridge that allows one road to pass above another road. The British word is flyover.",
+      "entry": "overpass",
+      "id": "overpass#overpass__1"
+    },
+    {
+      "comment": "a [wide_1]{wide} [road]{road} with an [area]{area} of [tree]{trees} and [grass]{grass} on both sides and sometimes also along the [middle_1]{middle} of the [road]{road}",
+      "entry": "parkway",
+      "id": "parkway#parkway__1"
+    },
+    {
+      "comment": "a [path]{path} or [road]{road} that [go_1]{goes} through an [area]{area} of [mountain]{mountains}",
+      "entry": "pass",
+      "id": "pass_2#pass_2__8"
+    },
+    {
+      "comment": "[parkway]{parkway}",
+      "entry": "pkwy.",
+      "id": "pkwy#pkwy__1"
+    },
+    {
+      "comment": "a [road]{road} [used]{used} for [driving]{driving} onto or off a [main_1]{main} [highway]{highway}",
+      "entry": "ramp",
+      "id": "ramp_1#ramp_1__3"
+    },
+    {
+      "comment": "a [beltway]{beltway}",
+      "entry": "ring road",
+      "id": "ring-road#ring-road__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [happening_1]{happening} on a [road]{road}",
+      "entry": "road",
+      "id": "road#road__6"
+    },
+    {
+      "comment": "a [street_1]{street} with [building]{buildings} along one side or both sides",
+      "entry": "road",
+      "id": "road#road__12"
+    },
+    {
+      "comment": "a way that [lead_1]{leads} from one [place_1]{place} to another, [especially]{especially} one with a [hard_1]{hard} [surface_1]{surface} that [car]{cars} and other [vehicle]{vehicles} can use",
+      "entry": "Road",
+      "id": "road#road__1"
+    },
+    {
+      "comment": "the [road]{roads} or [path]{paths} that you use when you go from one [place_1]{place} to another",
+      "entry": "route",
+      "id": "route_1#route_1__4"
+    },
+    {
+      "comment": "[used]{used} with a [number_1]{number} as the name of a [major_1]{major} [road]{road} between [city]{cities} in the U.S.",
+      "entry": "Route",
+      "id": "route_1#route_1__13"
+    },
+    {
+      "comment": "[route_1]{route}",
+      "entry": "rte.",
+      "id": "rte#rte__1"
+    },
+    {
+      "comment": "a [small_1]{small} [road]{road} [built_1]{built} [parallel_1]{parallel} to a [major_1]{major} [road]{road} that [allow]{allows} you to [reach_1]{reach} the [store_1]{stores}, [office]{offices}, and other [building]{buildings} along the [major_1]{major} [road]{road}",
+      "entry": "service road",
+      "id": "service-road#service-road__1"
+    },
+    {
+      "comment": "a [path]{path} or way of [going_1]{going} somewhere that is [quick_1]{quicker} and [short_1]{shorter} than the [usual]{usual} way",
+      "entry": "shortcut",
+      "id": "shortcut#shortcut__1"
+    },
+    {
+      "comment": "a [small_1]{small} [road]{road} that is [connected]{connected} to a [major_1]{major} [road]{road}",
+      "entry": "side road",
+      "id": "side-road#side-road__1"
+    },
+    {
+      "comment": "a [road]{road} in a [town]{town} or [city]{city} with [house_1]{houses} or other [building]{buildings} along it",
+      "entry": "Street",
+      "id": "street_1#street_1__1"
+    },
+    {
+      "comment": "a very [wide_1]{wide} [road]{road} where you can [drive_1]{drive} [fast_1]{fast} between [city]{cities}",
+      "entry": "superhighway",
+      "id": "superhighway#superhighway__1"
+    },
+    {
+      "comment": "a [road]{road} up a [steep_1]{steep} [slope_1]{slope} with a [series]{series} of [sharp_1]{sharp} [bend_1]{bends}",
+      "entry": "switchback",
+      "id": "switchback#switchback__1"
+    },
+    {
+      "comment": "a [main_1]{main} [road]{road} through a [place_1]{place}",
+      "entry": "thoroughfare",
+      "id": "thoroughfare#thoroughfare__1"
+    },
+    {
+      "comment": "a [wide_1]{wide} [divided]{divided} [highway]{highway} on which [traffic_1]{traffic} can [travel_1]{travel} [fast_1]{fast}. You have to [pay_1]{pay} to use many [throughway]{throughways}.",
+      "entry": "throughway",
+      "id": "throughway#throughway__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [throughway]{throughway}",
+      "entry": "thruway",
+      "id": "thruway#thruway__1"
+    },
+    {
+      "comment": "a [highway]{highway} that you have to [pay_1]{pay} to [drive_1]{drive} on",
+      "entry": "toll road",
+      "id": "toll-road#toll-road__1"
+    },
+    {
+      "comment": "a long [wide_1]{wide} [highway]{highway} that you have to [pay_1]{pay} to [drive_1]{drive} on",
+      "entry": "tollway",
+      "id": "tollway#tollway__1"
+    },
+    {
+      "comment": "a [path]{path} or [road]{road} with a rough [surface_1]{surface}",
+      "entry": "track",
+      "id": "track_1#track_1__1"
+    },
+    {
+      "comment": "a [highway]{highway}",
+      "entry": "trunk road",
+      "id": "trunk-road#trunk-road__1"
+    },
+    {
+      "comment": "a [place_1]{place} where another [road]{road} [lead_1]{leads} [away_1]{away} from the one you are [going_1]{going} along",
+      "entry": "turn",
+      "id": "turn_2#turn_2__12"
+    },
+    {
+      "comment": "a [turn_1]{turn2} 2b",
+      "entry": "turning",
+      "id": "turning#turning__1"
+    },
+    {
+      "comment": "a [road]{road} that [lead_1]{leads} off a [main_1]{main} [road]{road} or [highway]{highway}",
+      "entry": "turn-off",
+      "id": "turn-off_2#turn-off_2__3"
+    },
+    {
+      "comment": "a [highway]{highway} in the [eastern]{eastern} part of the U.S. that [driver]{drivers} must [pay_1]{pay} to use",
+      "entry": "turnpike",
+      "id": "turnpike#turnpike__1"
+    },
+    {
+      "comment": "a rough [road]{road} that has no [hard_1]{hard} [surface_1]{surface}",
+      "entry": "unsealed road",
+      "id": "unsealed-road#unsealed-road__1"
+    }
+  ],
+  "thesaurus": "Types of road or path",
+  "type": "Related words"
+}

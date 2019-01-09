@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "[briny]{briny} [water_1]{water} is full of [salt_1]{salt}, [like_1]{like} [sea_1]{sea} [water_1]{water}",
+      "entry": "briny",
+      "id": "briny#briny__1"
+    },
+    {
+      "comment": "[calm_1]{calm} [water_1]{water} [does]{does} not move very much",
+      "entry": "calm",
+      "id": "calm_1#calm_1__6"
+    },
+    {
+      "comment": "[choppy]{choppy} [water_1]{water} has many [wave_1]{waves} because the [wind_1]{wind} is [blow_1]{blowing} across it",
+      "entry": "choppy",
+      "id": "choppy#choppy__1"
+    },
+    {
+      "comment": "in the [ocean]{ocean} [near_1]{near} to [land_1]{land}",
+      "entry": "coastal",
+      "id": "coastal#coastal__3"
+    },
+    {
+      "comment": "in the [deep_1]{deep} [area]{areas} of the [ocean]{ocean}",
+      "entry": "deep-sea",
+      "id": "deep-sea#deep-sea__1"
+    },
+    {
+      "comment": "[relate]{relating} to [river]{rivers}",
+      "entry": "fluvial",
+      "id": "fluvial#fluvial__1"
+    },
+    {
+      "comment": "[fresh_1]{fresh} [water_1]{water} is [water_1]{water} in [lake]{lakes} and [river]{rivers} that [does]{does} not [contain]{contain} any [salt_1]{salt}",
+      "entry": "fresh",
+      "id": "fresh_1#fresh_1__25"
+    },
+    {
+      "comment": "[consist]{consisting} of [water_1]{water} that [does]{does} not [contain]{contain} [salt_1]{salt}",
+      "entry": "freshwater",
+      "id": "freshwater#freshwater__1"
+    },
+    {
+      "comment": "a [heavy_1]{heavy} [ocean]{ocean} is rough with [big_1]{big} [wave_1]{waves}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__68"
+    },
+    {
+      "comment": "if a [river]{river} is [high_1]{high}, the [water_1]{water} is above its [usual]{usual} [level_1]{level}, for [example]{example} because of [heavy_1]{heavy} [rain_1]{rain}",
+      "entry": "high",
+      "id": "high_1#high_1__9"
+    },
+    {
+      "comment": "[relate]{relating} to, or [used]{used} in, the [ocean]{ocean} [near_1]{near} a [coast_1]{coast}",
+      "entry": "inshore",
+      "id": "inshore_1#inshore_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [near_1]{near} the [coast_1]{coast}",
+      "entry": "littoral",
+      "id": "littoral#littoral__1"
+    },
+    {
+      "comment": "[used]{used} about the [level_1]{level} of [water_1]{water} in a [river]{river} or the [ocean]{ocean}",
+      "entry": "low",
+      "id": "low_1#low_1__6"
+    },
+    {
+      "comment": "[living_1]{living} in or [happening_1]{happening} in the [ocean]{ocean}",
+      "entry": "marine",
+      "id": "marine_1#marine_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [ocean]{ocean} and [creature]{creatures} that [live_1]{live} in it",
+      "entry": "marine",
+      "id": "marine_1#marine_1__3"
+    },
+    {
+      "comment": "a [navigable]{navigable} [river]{river}, [lake]{lake}, etc. is [deep_1]{deep} and [wide_1]{wide} enough for [ship_1]{ships} to [travel_1]{travel} through",
+      "entry": "navigable",
+      "id": "navigable#navigable__1"
+    },
+    {
+      "comment": "[concerning_1]{concerning} the [ocean]{ocean}, or found in the [ocean]{ocean}",
+      "entry": "oceanic",
+      "id": "oceanic#oceanic__1"
+    },
+    {
+      "comment": "in the [ocean]{ocean} but [near_1]{near} the [coast_1]{coast}",
+      "entry": "offshore",
+      "id": "offshore_1#offshore_1__4"
+    },
+    {
+      "comment": "[relate]{relating} to the [pacific_1]{Pacific} [ocean]{Ocean}",
+      "entry": "Pacific",
+      "id": "pacific_2#pacific_2__1"
+    },
+    {
+      "comment": "if a [road]{road} or a [river]{river} is [passable]{passable}, it is not [block_2]{blocked} and can be [travel_1]{traveled} on",
+      "entry": "passable",
+      "id": "passable#passable__3"
+    },
+    {
+      "comment": "[relate]{relating} to the [part_1]{parts} of the [ocean]{ocean} that are [far]{far} from [land_1]{land}",
+      "entry": "pelagic",
+      "id": "pelagic#pelagic__1"
+    },
+    {
+      "comment": "[used]{used} about the [surface_1]{surface} of a [lake]{lake}, [river]{river}, or [ocean]{ocean} that has a [lot_1]{lot} of [wave_1]{waves}, often because the [weather_1]{weather} is [bad_1]{bad}",
+      "entry": "rough",
+      "id": "rough_1#rough_1__6"
+    },
+    {
+      "comment": "[stagnant]{stagnant} [water_1]{water} [does]{does} not [flow_1]{flow} and often [smell_1]{smells} [bad_1]{bad}",
+      "entry": "stagnant",
+      "id": "stagnant#stagnant__1"
+    },
+    {
+      "comment": "a swollen river or stream contains more water than normal as a result of heavy rain or snow that has melted",
+      "entry": "swollen",
+      "id": "swollen_1#swollen_1__4"
+    },
+    {
+      "comment": "[connected]{connected} with the [regular_1]{regular} [rise_1]{rise} and [fall_1]{fall} of the [level_1]{level} of the [ocean]{ocean}",
+      "entry": "tidal",
+      "id": "tidal#tidal__1"
+    },
+    {
+      "comment": "a [winding]{winding} [road]{road}, [river]{river}, etc. has a [lot_1]{lot} of [bend_1]{bends} in it",
+      "entry": "winding",
+      "id": "winding#winding__1"
+    }
+  ],
+  "thesaurus": "Words used to describe areas of water",
+  "type": "Related words"
+}

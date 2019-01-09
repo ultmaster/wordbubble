@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a way from one [place_1]{place} to another that [people_1]{people} can [walk_1]{walk} along",
+      "entry": "path",
+      "id": "path#path__1"
+    },
+    {
+      "comment": "a [path]{path} that you can [walk_1]{walk} on",
+      "entry": "pathway",
+      "id": "pathway#pathway__1"
+    },
+    {
+      "comment": "a [path]{path} [used]{used} only for [walking_1]{walking}, [usually]{usually} in the [countryside]{countryside}",
+      "entry": "footpath",
+      "id": "footpath#footpath__1"
+    },
+    {
+      "comment": "a [path]{path} through the [countryside]{countryside}, [especially]{especially} one [design_2]{designed} for [walking_1]{walking} for [pleasure]{pleasure}",
+      "entry": "trail",
+      "id": "trail_1#trail_1__1"
+    },
+    {
+      "comment": "a path along the side of a canal or river, used in the past by horses that pulled boats",
+      "entry": "towpath",
+      "id": "towpath#towpath__1"
+    },
+    {
+      "comment": "a long [road]{road} for [people_1]{people} to [walk_1]{walk} along, [especially]{especially} one next to the [sea_1]{sea} in a [town]{town}",
+      "entry": "esplanade",
+      "id": "esplanade#esplanade__1"
+    },
+    {
+      "comment": "a [path]{path} in the [country]{country} that you can [walk_1]{walk} along or [ride_1]{ride} a [horse_1]{horse} along",
+      "entry": "bridle path",
+      "id": "bridle-path#bridle-path__1"
+    },
+    {
+      "comment": "a [path]{path} made of [narrow_1]{narrow} [board_1]{boards}, [usually]{usually} at the [edge_1]{edge} of the [ocean]{ocean} and often [raised]{raised} above the [level_1]{level} of the [ground_1]{ground}",
+      "entry": "boardwalk",
+      "id": "boardwalk#boardwalk__1"
+    },
+    {
+      "comment": "a [road]{road} or [path]{path} that [people_1]{people} [walk_1]{walk} on, [especially]{especially} through a [pleasant]{pleasant} [area]{area}",
+      "entry": "walk",
+      "id": "walk_2#walk_2__7"
+    },
+    {
+      "comment": "a [path]{path} through an [area]{area} of [countryside]{countryside} that has [sign_1]{signs} [telling]{telling} you about the [animal_1]{animals} and [plant_1]{plants} that [live_1]{live} there",
+      "entry": "nature trail",
+      "id": "nature-trail#nature-trail__1"
+    }
+  ],
+  "thesaurus": "Paths used only for walking or riding",
+  "type": "Synonyms"
+}

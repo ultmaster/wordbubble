@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [add_1]{add} the most [recent]{recent} [information]{information} to something such as a [book_1]{book}, [document_1]{document}, or [list_1]{list}",
+      "examples": [
+        "The [latest]{latest} [edition]{edition} has been [completely]{completely} [update_1]{updated}.",
+        "The [database]{database} [update_1]{updates} [automatically]{automatically} when [new]{new} [information]{information} is [enter]{entered}.",
+        "Dr. [cooper]{Cooper} can update us on the [latest]{latest} [development]{developments}."
+      ],
+      "id": "update_1__1"
+    },
+    {
+      "def": "to [make_1]{make} something more [modern]{modern}",
+      "examples": [
+        "Our [software]{software} is [continually]{continually} [update_1]{updated} and [improved]{improved}."
+      ],
+      "id": "update_1__6"
+    }
+  ],
+  "word": "update"
+}

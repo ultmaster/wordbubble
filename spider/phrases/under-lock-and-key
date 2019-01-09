@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "under lock and key",
+  "senses": [
+    {
+      "def": "in a [room_1]{room} or [container]{container} which is [fasten]{fastened} with a [lock_1]{lock}",
+      "examples": [
+        "These [file_1]{files} should be [kept]{kept} under [lock_1]{lock} and [key_1]{key}."
+      ],
+      "id": "under-lock-and-key__1"
+    }
+  ]
+}

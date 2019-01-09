@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a well-[travel_1]{traveled} [person]{person} has been to many [different]{different} [country]{countries} and is [familiar]{familiar} with their [culture_1]{cultures}",
+      "examples": [],
+      "id": "well-traveled__1"
+    },
+    {
+      "def": "a well-[travel_1]{traveled} [place_1]{place} is [visit_1]{visited} or [used]{used} by many [people_1]{people}",
+      "examples": [
+        "a well-traveled [path]{path}/[highway]{highway}"
+      ],
+      "id": "well-traveled__2"
+    }
+  ],
+  "word": "well-traveled"
+}

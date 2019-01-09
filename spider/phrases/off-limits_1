@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "off limits",
+  "senses": [
+    {
+      "def": "if a [place_1]{place} is off [limit_1]{limits}, you are not [allow]{allowed} to go there",
+      "examples": [
+        "The [evacuate]{evacuated} [area]{areas} [remain]{remained} off [limit_1]{limits} to the [public_1]{public}."
+      ],
+      "id": "off-limits_1__1"
+    },
+    {
+      "def": "not [allow]{allowed} or [approved]{approved} of",
+      "examples": [
+        "[certain_1]{Certain} [controversial]{controversial} [subject_1]{subjects} [remain]{remained} off [limit_1]{limits}."
+      ],
+      "id": "off-limits_1__3"
+    }
+  ]
+}

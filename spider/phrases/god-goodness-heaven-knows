@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "God/Goodness/Heaven knows",
+  "senses": [
+    {
+      "def": "[used]{used} for [emphasis]{emphasis}",
+      "examples": [
+        "[god_1]{God} [know_1]{knows}, it would be a [disaster]{disaster} if that [happen]{happened}."
+      ],
+      "id": "god-goodness-heaven-knows__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you do not [know_1]{know} something",
+      "examples": [
+        "\u201cWhere on [earth]{earth} can they have [gone_1]{gone}?\u201d \u201c[goodness_1]{Goodness} [know_1]{knows}.\u201d",
+        "What [effect_1]{effect} it will have, [heaven]{heaven} only [know_1]{knows}."
+      ],
+      "id": "god-goodness-heaven-knows__3"
+    }
+  ]
+}

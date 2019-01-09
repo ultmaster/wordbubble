@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to [walk_1]{walk} with [quiet_1]{quiet} [light_1]{light} [regular_1]{regular} [step_1]{steps}",
+      "entry": "pad",
+      "id": "pad_2#pad_2__7"
+    },
+    {
+      "comment": "to move somewhere [quietly]{quietly} and [secretly]{secretly} so that no one can see you or [hear]{hear} you",
+      "entry": "sneak",
+      "id": "sneak_1#sneak_1__1"
+    },
+    {
+      "comment": "to go somewhere [slowly]{slowly} and [quietly]{quietly} so that [people_1]{people} will not [notice_1]{notice} you",
+      "entry": "slink",
+      "id": "slink#slink__1"
+    },
+    {
+      "comment": "to move around an [area]{area} in a [quiet_1]{quiet} way, [especially]{especially} because you [intend]{intend} to do something [bad_1]{bad}",
+      "entry": "prowl",
+      "id": "prowl_1#prowl_1__1"
+    },
+    {
+      "comment": "if someone [creep_1]{creeps} somewhere, they move there [quietly]{quietly} and [slowly]{slowly}",
+      "entry": "creep",
+      "id": "creep_1#creep_1__1"
+    },
+    {
+      "comment": "to go somewhere, [especially]{especially} [quickly]{quickly} and [quietly]{quietly} without [people_1]{people} [noticing]{noticing} you or [stop_1]{stopping} you",
+      "entry": "slip",
+      "id": "slip_1#slip_1__12"
+    },
+    {
+      "comment": "to move somewhere [quietly]{quietly} and [secretly]{secretly}",
+      "entry": "steal",
+      "id": "steal_1#steal_1__5"
+    },
+    {
+      "comment": "if someone\u2019s [arm_1]{arm} or hand [creep_1]{creeps} somewhere, it [move_1]{moves} [quietly]{quietly} and [slowly]{slowly}",
+      "entry": "creep",
+      "id": "creep_1#creep_1__10"
+    },
+    {
+      "comment": "to [walk_1]{walk} or [run_1]{run} somewhere, [making]{making} a [series]{series} of [short_1]{short} [quiet_1]{quiet} [sound_1]{sounds} with your [feet]{feet}",
+      "entry": "patter",
+      "id": "patter_1#patter_1__3"
+    }
+  ],
+  "thesaurus": "To move quietly",
+  "type": "Synonyms"
+}

@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [government]{government} or [army]{army} [deploy]{deploys} [soldier_1]{soldiers} or [weapon]{weapons}, it [use_1]{uses} them",
+      "examples": [
+        "[troop_1]{Troops} have been [deploy]{deployed} in the [area]{area} to [counter_1]{counter} a [possible_1]{possible} [attack_1]{attack}."
+      ],
+      "id": "deploy__1"
+    },
+    {
+      "def": "to use something",
+      "examples": [
+        "He would have to deploy his [considerable]{considerable} [patience]{patience}."
+      ],
+      "id": "deploy__3"
+    },
+    {
+      "def": "if a [piece_1]{piece} of [equipment]{equipment} [deploy]{deploys}, it [work_1]{works} [correctly]{correctly} when you use it",
+      "examples": [
+        "The [driver]{driver}\u2019s airbag had [failed]{failed} to deploy."
+      ],
+      "id": "deploy__5"
+    }
+  ],
+  "word": "deploy"
+}

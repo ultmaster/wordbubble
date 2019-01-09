@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [smooth_1]{smooth} or [level_1]{level}",
+      "entry": "uneven",
+      "id": "uneven#uneven__1"
+    },
+    {
+      "comment": "not even, [smooth_1]{smooth}, or [straight_1]{straight} in [shape_1]{shape} or [appearance]{appearance}",
+      "entry": "irregular",
+      "id": "irregular_1#irregular_1__6"
+    },
+    {
+      "comment": "at an [angle_1]{angle} that is not 90 [degree]{degrees}",
+      "entry": "slanted",
+      "id": "slanted#slanted__1"
+    },
+    {
+      "comment": "[slope_2#slope_2__5]{sloping} in a [particular_1]{particular} [direction]{direction}",
+      "entry": "inclined",
+      "id": "inclined#inclined__11"
+    },
+    {
+      "comment": "a [winding]{winding} [road]{road}, [river]{river}, etc. has a [lot_1]{lot} of [bend_1]{bends} in it",
+      "entry": "winding",
+      "id": "winding#winding__1"
+    },
+    {
+      "comment": "not [straight_1]{straight}",
+      "entry": "crooked",
+      "id": "crooked#crooked__1"
+    },
+    {
+      "comment": "not even or [level_1]{level} because one side is [large_1]{larger}, [higher_1]{higher}, or [heavy_1]{heavier} than the other",
+      "entry": "lopsided",
+      "id": "lopsided#lopsided__2"
+    },
+    {
+      "comment": "at an [angle_1]{angle} [instead]{instead} of [straight_1]{straight}",
+      "entry": "askew",
+      "id": "askew#askew__1"
+    },
+    {
+      "comment": "not [steady_1]{steady} or [upright_1]{upright}, for [example]{example} because more [weight_1]{weight} is on one side",
+      "entry": "off balance",
+      "id": "off-balance#off-balance__1"
+    },
+    {
+      "comment": "not [straight_1]{straight}, but [leaning]{leaning} to one side",
+      "entry": "at an angle",
+      "id": "at-an-angle#at-an-angle__1"
+    }
+  ],
+  "thesaurus": "Not straight, upright or level",
+  "type": "Synonyms"
+}

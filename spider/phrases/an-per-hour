@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "an/per hour",
+  "senses": [
+    {
+      "def": "at a [rate_1]{rate} [base_2]{based} on an [hour]{hour} of a [particular_1]{particular} [activity]{activity}",
+      "examples": [
+        "I [earn]{earn} $15 an [hour]{hour}.",
+        "The [car]{car} was [traveling]{traveling} at an [estimate_1#estimate_1__7]{estimated} 85 [mile]{miles} per [hour]{hour}."
+      ],
+      "id": "an-per-hour__1"
+    }
+  ]
+}

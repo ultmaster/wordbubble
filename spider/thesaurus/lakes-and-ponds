@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [pool_1]{pool} of [water_1]{water} [form_2]{formed} by a [river]{river} during the [wet_1]{wet} [season_1]{season}",
+      "entry": "billabong",
+      "id": "billabong#billabong__1"
+    },
+    {
+      "comment": "[lake]{Lake}",
+      "entry": "L.",
+      "id": "l_5#l_5__1"
+    },
+    {
+      "comment": "an [area]{area} of the [ocean]{ocean} that is [separated]{separated} from the rest of the [ocean]{ocean} by [sand_1]{sand} or [rock_1]{rocks}",
+      "entry": "lagoon",
+      "id": "lagoon#lagoon__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [water_1]{water} that is [surround_1]{surrounded} by [land_1]{land}",
+      "entry": "lake",
+      "id": "lake#lake__1"
+    },
+    {
+      "comment": "a [lake]{lake}, or an [area]{area} of the [ocean]{ocean} that is almost [completely]{completely} [surround_1]{surrounded} by [land_1]{land}",
+      "entry": "loch",
+      "id": "loch#loch__1"
+    },
+    {
+      "comment": "a [lake]{lake}",
+      "entry": "mere",
+      "id": "mere_2#mere_2__1"
+    },
+    {
+      "comment": "a small lake from which water flows to turn a mill wheel",
+      "entry": "millpond",
+      "id": "millpond#millpond__1"
+    },
+    {
+      "comment": "an [area]{area} of [water_1]{water} [similar]{similar} to a [lake]{lake} but [small_1]{smaller}",
+      "entry": "pond",
+      "id": "pond#pond__1"
+    },
+    {
+      "comment": "an [artificial]{artificial} or [natural_1]{natural} [lake]{lake} where [water_1]{water} is [store_2]{stored} so that it can be [supply_2]{supplied} to the [house_1]{houses} in an [area]{area}",
+      "entry": "reservoir",
+      "id": "reservoir#reservoir__1"
+    },
+    {
+      "comment": "an [artificial]{artificial} [lake]{lake} [used]{used} for [supply_2]{supplying} [people_1]{people} with [water_1]{water} through a system of [pipe_1]{pipes}",
+      "entry": "tank",
+      "id": "tank_1#tank_1__11"
+    },
+    {
+      "comment": "a [natural_1]{natural} [area]{area} of [water_1]{water} where [wild_1]{wild} [animal_1]{animals} go to [drink_1]{drink}",
+      "entry": "waterhole",
+      "id": "waterhole#waterhole__1"
+    },
+    {
+      "comment": "a [waterhole]{waterhole}",
+      "entry": "watering hole",
+      "id": "watering-hole#watering-hole__1"
+    },
+    {
+      "comment": "an [area]{area} of [water_1]{water} such as a [lake]{lake} or [ocean]{ocean}",
+      "entry": "waters",
+      "id": "water_1#water_1__9"
+    }
+  ],
+  "thesaurus": "Lakes and ponds",
+  "type": "Related words"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "remind of",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [remember]{remember} something that [happen]{happened} in the [past_1]{past}",
+      "examples": [
+        "That [song]{song} always [remind]{reminds} me of our [vacation_1]{vacation} in Mexico."
+      ],
+      "id": "remind-of__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [think_1]{think} of someone or something else because of being very [similar]{similar} to them",
+      "examples": [
+        "She was [tall]{tall} and [dark_1]{dark}, and [remind]{reminded} me of my [cousin]{cousin} Sarah.",
+        "It\u2019s a [strange_1]{strange} [taste_1]{taste} \u2013 it [remind]{reminds} me of [melon]{melons}."
+      ],
+      "id": "remind-of__3"
+    }
+  ]
+}

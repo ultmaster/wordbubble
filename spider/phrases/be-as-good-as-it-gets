@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "be as good as it gets",
+  "senses": [
+    {
+      "def": "to be not very [good_1]{good} and [unlikely]{unlikely} to [improve_1]{improve}",
+      "examples": [
+        "[people_1]{People} are [ask_1]{asking} themselves, is this as [good_1]{good} as it [get]{gets}?"
+      ],
+      "id": "be-as-good-as-it-gets__1"
+    },
+    {
+      "def": "to be [extremely]{extremely} [good_1]{good}, so that nothing is [likely_1]{likely} to be [better_1]{better}",
+      "examples": [
+        "This [job_1]{job} is [probably]{probably} about as [good_1]{good} as it [get]{gets}."
+      ],
+      "id": "be-as-good-as-it-gets__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[design_2]{designed} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "specialized [tool_1]{tools}"
+      ],
+      "id": "specialized__1"
+    },
+    {
+      "def": "[concentrate_1]{concentrating} on a [particular_1]{particular} [subject_1]{subject}",
+      "examples": [
+        "specialized [training]{training}/[skill]{skills}"
+      ],
+      "id": "specialized__3"
+    }
+  ],
+  "word": "specialized"
+}

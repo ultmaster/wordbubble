@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "break away",
+  "senses": [
+    {
+      "def": "to [escape_1]{escape} from a [person]{person}, [place_1]{place}, or [situation]{situation}",
+      "examples": [
+        "Anna [tried_1]{tried} to [break_1]{break} [away_1]{away}, but he [held]{held} her [tight_1]{tight}."
+      ],
+      "id": "break-away__1"
+    },
+    {
+      "def": "to [leave_1]{leave} a [political]{political} [party_1]{party} or other [group_1]{group}, [especially]{especially} in [order_1]{order} to [start_1]{start} another one",
+      "examples": [],
+      "id": "break-away__3"
+    },
+    {
+      "def": "if a part of something [break_1]{breaks} [away_1]{away} from the rest, it becomes [separated]{separated} from it",
+      "examples": [],
+      "id": "break-away__4"
+    }
+  ]
+}

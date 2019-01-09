@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[work_1]{work} that is done to [fix_1]{fix} something that is [broken_1]{broken} or [damage_2]{damaged}",
+      "entry": "repair",
+      "id": "repair_2#repair_2__1"
+    },
+    {
+      "comment": "[work_1]{work} that is done to keep something such as a [building]{building}, [machine_1]{machine}, or [piece_1]{piece} of [equipment]{equipment} [repair_1]{repaired} and in [good_1]{good} [condition_1]{condition}",
+      "entry": "maintenance",
+      "id": "maintenance#maintenance__1"
+    },
+    {
+      "comment": "a [thorough]{thorough} [repair_1]{repair} to a [machine_1]{machine}",
+      "entry": "overhaul",
+      "id": "overhaul_2#overhaul_2__1"
+    },
+    {
+      "comment": "[regular_1]{regular} [examination]{examination} of a [vehicle]{vehicle} or [machine_1]{machine} to [make_1]{make} [sure_1]{sure} that it [work_1]{works} [correctly]{correctly} and [make_1]{make} [repair_1]{repairs}",
+      "entry": "service",
+      "id": "service_1#service_1__26"
+    },
+    {
+      "comment": "a [process_1]{process} of [improve_1]{improving}, [repair_1]{repairing}, or [making]{making} something more [successful]{successful}",
+      "entry": "renewal",
+      "id": "renewal#renewal__7"
+    },
+    {
+      "comment": "[relate]{relating} to [repair_1]{repairs}",
+      "entry": "repair",
+      "id": "repair_2#repair_2__8"
+    },
+    {
+      "comment": "a part that has been [repair_1]{repaired}",
+      "entry": "repair",
+      "id": "repair_2#repair_2__11"
+    },
+    {
+      "comment": "a [small_1]{small} [temporary]{temporary} [repair_1]{repair} that [allow]{allows} you to [continue]{continue} [use_1]{using} something",
+      "entry": "running repair",
+      "id": "running-repair#running-repair__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [making]{making} or [repair_1]{repairing} [thing]{things} yourself [instead]{instead} of [pay_1]{paying} someone to do it for you",
+      "entry": "do-it-yourself",
+      "id": "do-it-yourself#do-it-yourself__1"
+    }
+  ],
+  "thesaurus": "Repairs and the action of repairing",
+  "type": "Synonyms"
+}

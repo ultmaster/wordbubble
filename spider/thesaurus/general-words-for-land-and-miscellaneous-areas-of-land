@@ -1,0 +1,226 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area} of [land_1]{land} [measured]{measured} in [acre]{acres}",
+      "entry": "acreage",
+      "id": "acreage#acreage__1"
+    },
+    {
+      "comment": "an [area]{area} [contain]{containing} a [lot_1]{lot} of a [particular_1]{particular} thing that [surround_1]{surrounds} something else",
+      "entry": "belt",
+      "id": "belt_1#belt_1__12"
+    },
+    {
+      "comment": "the [land_1]{land} around the [edge_1]{edge} of something",
+      "entry": "border",
+      "id": "border_1#border_1__17"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [land_1]{land} that was not [own_2]{owned} before and that you [say_1]{say} [belong]{belongs} to you",
+      "entry": "claim",
+      "id": "claim_2#claim_2__23"
+    },
+    {
+      "comment": "a [conservation]{conservation} [area]{area}",
+      "entry": "conservancy",
+      "id": "conservancy#conservancy__2"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} that is [protected]{protected} from being [damage_2]{damaged}",
+      "entry": "conservation area",
+      "id": "conservation-area#conservation-area__1"
+    },
+    {
+      "comment": "[used]{used} about the [land_1]{land} [near_1]{near} a [major_1]{major} [river]{river}, [road]{road}, or [railroad_1]{railroad} [line_1]{line}",
+      "entry": "corridor",
+      "id": "corridor#corridor__10"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [own_2]{owned} and [controlled_1]{controlled} by a [particular_1]{particular} [person]{person}, [especially]{especially} in the [past_1]{past}",
+      "entry": "domain",
+      "id": "domain#domain__9"
+    },
+    {
+      "comment": "[land_1]{land}, rather than the [ocean]{ocean}, a [river]{river}, or a [lake]{lake}",
+      "entry": "dry land",
+      "id": "dry-land#dry-land__1"
+    },
+    {
+      "comment": "an [area]{area} [surround_1]{surrounded} by a [fence_1]{fence} or [wall_1]{wall}",
+      "entry": "enclosure",
+      "id": "enclosure#enclosure__1"
+    },
+    {
+      "comment": "an [area]{area} where the [government]{government} [encourage]{encourages} [company]{companies} to [start_1]{start} [new]{new} [business]{businesses} by [offering]{offering} them [lower_1]{lower} [tax_1]{taxes} and other [financial]{financial} [advantage]{advantages}",
+      "entry": "enterprise zone",
+      "id": "enterprise-zone#enterprise-zone__1"
+    },
+    {
+      "comment": "an [area]{area} where the [natural_1]{natural} [environment]{environment} can [easily]{easily} be [harm_2]{harmed}",
+      "entry": "environmentally sensitive area",
+      "id": "environmentally-sensitive-area#environmentally-sensitive-area__1"
+    },
+    {
+      "comment": "the [area]{area} that [surround_1]{surrounds} a [place_1]{place}",
+      "entry": "environs",
+      "id": "environs#environs__1"
+    },
+    {
+      "comment": "an [area]{area} where a [particular_1]{particular} [type_1]{type} of [activity]{activity} is not [allow]{allowed} or where [people_1]{people} are not [allow]{allowed} to [enter]{enter}",
+      "entry": "exclusion zone",
+      "id": "exclusion-zone#exclusion-zone__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [group_1]{group} of [animal_1]{animals}, [bird]{birds}, or [fish_1]{fish} [regularly]{regularly} go to [look_1]{look} for [food]{food} and [eat]{eat} it",
+      "entry": "feeding ground",
+      "id": "feeding-ground#feeding-ground__1"
+    },
+    {
+      "comment": "[level_1]{level} [land_1]{land} without [mountain]{mountains}, [hill]{hills}, or [valley]{valleys}",
+      "entry": "flatlands",
+      "id": "flatland#flatland__1"
+    },
+    {
+      "comment": "a [region]{region} in which the [land_1]{land} is [level_1]{level}",
+      "entry": "flatlands",
+      "id": "flatland#flatland__2"
+    },
+    {
+      "comment": "the amount of [land_1]{land}, [energy]{energy}, [water_1]{water} etc. that a [person]{person} or [organization]{organization} [use_1]{uses} in [order_1]{order} to [exist]{exist} or [operate]{operate}",
+      "entry": "footprint",
+      "id": "footprint#footprint__6"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land}",
+      "entry": "ground",
+      "id": "ground_1#ground_1__13"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} and the [structure_1]{structures} on it that are [intended_1]{intended} to be [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "ground",
+      "id": "ground_1#ground_1__16"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} or [ocean]{ocean} where a [particular_1]{particular} thing [happen]{happens}",
+      "entry": "ground",
+      "id": "ground_1#ground_1__19"
+    },
+    {
+      "comment": "an [area]{area} of [ground_1]{ground}, [especially]{especially} one that is [used]{used} for a [particular_1]{particular} [purpose]{purpose} such as [farming]{farming} or [building]{building}",
+      "entry": "land",
+      "id": "land_1#land_1__6"
+    },
+    {
+      "comment": "an [area]{area} where the [soil_1]{soil} has [particular_1]{particular} [quality_1]{qualities}",
+      "entry": "land",
+      "id": "land_1#land_1__9"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} that is [beautiful]{beautiful} to [look_1]{look} at or that has a [particular_1]{particular} [type_1]{type} of [appearance]{appearance}",
+      "entry": "landscape",
+      "id": "landscape_1#landscape_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [area]{area} of [land_1]{land} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "lot",
+      "id": "lot_2#lot_2__1"
+    },
+    {
+      "comment": "the part of a [country]{country} that is [fairly]{fairly} low and [flat_1]{flat}, [especially]{especially} in Scotland",
+      "entry": "lowlands",
+      "id": "lowlands#lowlands__1"
+    },
+    {
+      "comment": "any [place_1]{place} that is [outside]{outside}, not in a [building]{building}",
+      "entry": "the open",
+      "id": "the-open_1#the-open_1__1"
+    },
+    {
+      "comment": "[land_1]{land} that is [protected]{protected} by the [government]{government} for [public_1]{public} use and cannot have any [building]{buildings} or [road]{roads} [built_1]{built} on it",
+      "entry": "open space",
+      "id": "open-space#open-space__1"
+    },
+    {
+      "comment": "a [section_1]{section} of a [piece_1]{piece} of [land_1]{land}",
+      "entry": "parcel",
+      "id": "parcel_1#parcel_1__2"
+    },
+    {
+      "comment": "ground that stays permanently frozen, for example in the polar regions",
+      "entry": "permafrost",
+      "id": "permafrost#permafrost__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [land_1]{land} [used]{used} for a [particular_1]{particular} [purpose]{purpose}, for [example]{example} [building]{building} a [house_1]{house} or [growing]{growing} [plant_1]{plants}",
+      "entry": "plot",
+      "id": "plot_1#plot_1__7"
+    },
+    {
+      "comment": "[building]{buildings} and [land_1]{land} that are [own_2]{owned} by the [government]{government} of a [country]{country} or [area]{area}",
+      "entry": "public property",
+      "id": "public-property#public-property__1"
+    },
+    {
+      "comment": "[natural_1]{natural} [thing]{things} such as [tree]{trees}, [hill]{hills}, and [lake]{lakes} that you can see in a [particular_1]{particular} [place_1]{place}",
+      "entry": "scenery",
+      "id": "scenery#scenery__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} where there are no [building]{buildings}",
+      "entry": "space",
+      "id": "space_1#space_1__8"
+    },
+    {
+      "comment": "[land_1]{land}, [especially]{especially} as [compared]{compared} with [water_1]{water} or [air_1]{air}",
+      "entry": "terra firma",
+      "id": "terra-firma#terra-firma__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land}, [usually]{usually} one that has a [particular_1]{particular} [physical_1]{physical} [feature_1]{feature}",
+      "entry": "terrain",
+      "id": "terrain#terrain__1"
+    },
+    {
+      "comment": "an [area]{area} that [belong]{belongs} to or is [used]{used} by someone",
+      "entry": "territory",
+      "id": "territory#territory__11"
+    },
+    {
+      "comment": "an [area]{area} that one [person]{person} or [group_1]{group} [consider]{considers} to be their own",
+      "entry": "turf",
+      "id": "turf_1#turf_1__7"
+    },
+    {
+      "comment": "an [enterprise]{enterprise} [zone_1]{zone}",
+      "entry": "urban enterprise zone",
+      "id": "urban-enterprise-zone#urban-enterprise-zone__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [land_1]{land} that is not being [used]{used}",
+      "entry": "vacant lot",
+      "id": "vacant-lot#vacant-lot__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} that is empty or cannot be [used]{used}",
+      "entry": "wasteland",
+      "id": "wasteland#wasteland__1"
+    },
+    {
+      "comment": "an [environment]{environment} that is [natural_1]{natural}",
+      "entry": "the wild",
+      "id": "the-wild#the-wild__1"
+    },
+    {
+      "comment": "a [place_1]{place} that is not [taken_1]{taken} [care_1]{care} of",
+      "entry": "wilderness",
+      "id": "wilderness#wilderness__3"
+    },
+    {
+      "comment": "an [area]{area} where the [government]{government} has [decided]{decided} that no [road]{roads} or [building]{buildings} can be [built_1]{built} so that it can be [enjoy]{enjoyed} for its [natural_1]{natural} [beauty_1]{beauty} and [animal_1]{animals} can [live_1]{live} there in [peace]{peace}",
+      "entry": "wilderness area",
+      "id": "wilderness-area#wilderness-area__1"
+    }
+  ],
+  "thesaurus": "General words for land and miscellaneous areas of land",
+  "type": "Related words"
+}

@@ -1,0 +1,151 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [teach]{teaches} a [special_1]{special} [skill]{skill}, [especially]{especially} one [connected]{connected} with [perform]{performing} such as [sing_1]{singing} or [acting_1]{acting}",
+      "entry": "coach",
+      "id": "coach_1#coach_1__7"
+    },
+    {
+      "comment": "someone who [teach]{teaches} or who is [involved]{involved} in [running_1]{running} a [school_1]{school}",
+      "entry": "educator",
+      "id": "educator#educator__1"
+    },
+    {
+      "comment": "all the [teacher]{teachers} in a [university]{university}, [college]{college}, or [school_1]{school}",
+      "entry": "faculty",
+      "id": "faculty#faculty__4"
+    },
+    {
+      "comment": "the [principal_1]{principal} of a [school_1]{school}",
+      "entry": "head",
+      "id": "head_1#head_1__13"
+    },
+    {
+      "comment": "a [male_1]{male} [principal_1]{principal} of a [school_1]{school}",
+      "entry": "headmaster",
+      "id": "headmaster#headmaster__1"
+    },
+    {
+      "comment": "a [female_1]{female} [principal_1]{principal} of a [school_1]{school}",
+      "entry": "headmistress",
+      "id": "headmistress#headmistress__1"
+    },
+    {
+      "comment": "the [principal_1]{principal} of a [school_1]{school}",
+      "entry": "headteacher",
+      "id": "headteacher#headteacher__1"
+    },
+    {
+      "comment": "a man who is a teacher and is in charge of a dormitory at a private school",
+      "entry": "housemaster",
+      "id": "housemaster#housemaster__1"
+    },
+    {
+      "comment": "a teacher who is in charge of a house at a public school or grammar school",
+      "entry": "houseparent",
+      "id": "houseparent#houseparent__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [teach]{teach} a [skill]{skill} or a [sport_1]{sport}",
+      "entry": "instructor",
+      "id": "instructor#instructor__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [teach]{teach} [student]{students} at [school_1]{school} or to [help_1]{help} with [teaching]{teaching} at [university]{university}",
+      "entry": "instructor",
+      "id": "instructor#instructor__5"
+    },
+    {
+      "comment": "a [male_1]{male} [teacher]{teacher}",
+      "entry": "master",
+      "id": "master_1#master_1__17"
+    },
+    {
+      "comment": "a [teacher]{teacher} who [use_1]{uses} [strict]{strict} [old-fashioned_2]{old-fashioned} [method]{methods}",
+      "entry": "pedagogue",
+      "id": "pedagogue#pedagogue__1"
+    },
+    {
+      "comment": "a [teacher]{teacher}",
+      "entry": "pedagogue",
+      "id": "pedagogue#pedagogue__2"
+    },
+    {
+      "comment": "the head of a school. The usual British word is head teacher",
+      "entry": "principal",
+      "id": "principal_2#principal_2__2"
+    },
+    {
+      "comment": "a man who [teach]{teaches} in a [school_1]{school}",
+      "entry": "schoolmaster",
+      "id": "schoolmaster#schoolmaster__1"
+    },
+    {
+      "comment": "a [woman]{woman} who [teach]{teaches} in a [school_1]{school}",
+      "entry": "schoolmistress",
+      "id": "schoolmistress#schoolmistress__1"
+    },
+    {
+      "comment": "a [teacher]{teacher} who [work_1]{works} in a [school_1]{school}",
+      "entry": "schoolteacher",
+      "id": "schoolteacher#schoolteacher__1"
+    },
+    {
+      "comment": "[used]{used} by [student]{students} for [talk_1]{talking} to or about a [male_1]{male} [teacher]{teacher}",
+      "entry": "sir",
+      "id": "sir#sir__7"
+    },
+    {
+      "comment": "a [substitute_1]{substitute} [teacher]{teacher}",
+      "entry": "sub",
+      "id": "sub_1#sub_1__2"
+    },
+    {
+      "comment": "someone who teaches a class when the regular teacher cannot. The British word is supply teacher.",
+      "entry": "substitute teacher",
+      "id": "substitute-teacher#substitute-teacher__1"
+    },
+    {
+      "comment": "a [substitute_1]{substitute} [teacher]{teacher}",
+      "entry": "supply teacher",
+      "id": "supply-teacher#supply-teacher__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [teach]{teach}",
+      "entry": "teacher",
+      "id": "teacher#teacher__1"
+    },
+    {
+      "comment": "a [university]{university} [student]{student} who [teach]{teaches} [course_1]{courses}",
+      "entry": "teaching assistant",
+      "id": "teaching-assistant#teaching-assistant__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [assist_1]{assist} a [qualified]{qualified} [teacher]{teacher} in a [school_1]{school}",
+      "entry": "teaching assistant",
+      "id": "teaching-assistant#teaching-assistant__1"
+    },
+    {
+      "comment": "a [university]{university} [teacher]{teacher} who has [tenure]{tenure} can [stay_1]{stay} in their [job_1]{job} [permanently]{permanently}, [usually]{usually} after they have [taught]{taught} for a [particular_1]{particular} [number_1]{number} of [year]{years}",
+      "entry": "tenure",
+      "id": "tenure#tenure__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [train_1]{train} [people_1]{people} for a [job_1]{job} or [profession]{profession}",
+      "entry": "trainer",
+      "id": "trainer#trainer__3"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [private_1]{private} [lesson]{lessons} in a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "tutor",
+      "id": "tutor_1#tutor_1__1"
+    },
+    {
+      "comment": "someone who [teach]{teaches} and [advise]{advises} a [group_1]{group} of [student]{students} at a [university]{university}",
+      "entry": "tutor",
+      "id": "tutor_1#tutor_1__3"
+    }
+  ],
+  "thesaurus": "Teachers and principals",
+  "type": "Related words"
+}

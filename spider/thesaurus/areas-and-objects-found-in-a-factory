@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a system for [making]{making} [product]{products} in a [factory]{factory} in which each [worker]{worker} or [machine_1]{machine} is [responsible]{responsible} for [add_1]{adding} or [check_1]{checking} a [particular_1]{particular} part",
+      "entry": "assembly line",
+      "id": "assembly-line#assembly-line__1"
+    },
+    {
+      "comment": "a [moving]{moving} [belt_1]{belt} in a [factory]{factory} that [move_1]{moves} the [product]{product} being made from one [stage_1]{stage} to the next",
+      "entry": "assembly line",
+      "id": "assembly-line#assembly-line__2"
+    },
+    {
+      "comment": "a room in a factory, school, or hospital where inexpensive meals are served. The usual American word is cafeteria.",
+      "entry": "canteen",
+      "id": "canteen#canteen__2"
+    },
+    {
+      "comment": "[goods]{goods} that are [used]{used} in the [production]{production} of other [goods]{goods}, rather than [goods]{goods} that are [sold]{sold} to [customer]{customers}",
+      "entry": "capital goods",
+      "id": "capital-goods#capital-goods__1"
+    },
+    {
+      "comment": "a mold used to form a particular shape",
+      "entry": "cast",
+      "id": "cast_2#cast_2__9"
+    },
+    {
+      "comment": "a [conveyor]{conveyor} [belt_1]{belt}",
+      "entry": "conveyor",
+      "id": "conveyor#conveyor__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} with a [flat_1]{flat} [wide_1]{wide} [belt_1]{belt} [used]{used} for [moving]{moving} [object_1]{objects} from one [place_1]{place} to another, [especially]{especially} in a [factory]{factory}",
+      "entry": "conveyor belt",
+      "id": "conveyor-belt#conveyor-belt__1"
+    },
+    {
+      "comment": "the [area]{area} in a [factory]{factory} where [goods]{goods} are [produce_1]{produced}",
+      "entry": "the factory floor",
+      "id": "the-factory-floor#the-factory-floor__1"
+    },
+    {
+      "comment": "a [room_1]{room} with [locker]{lockers} in a [large_1]{large} [building]{building} such as a [factory]{factory} or [school_1]{school}",
+      "entry": "locker room",
+      "id": "locker-room#locker-room__1"
+    },
+    {
+      "comment": "a [process_1]{process} in a [factory]{factory} in which [goods]{goods} are made in [stage_1]{stages} by a [series]{series} of [people_1]{people} or [machine_1]{machines} [arrange]{arranged} in a [line_1]{line}",
+      "entry": "production line",
+      "id": "production-line#production-line__1"
+    },
+    {
+      "comment": "the [regular_1]{regular} [test_1]{tests} that are done in a [factory]{factory} to [make_1]{make} [sure_1]{sure} that its [product]{products} are [good_1]{good} enough to [sell_1]{sell}",
+      "entry": "quality control",
+      "id": "quality-control#quality-control__1"
+    },
+    {
+      "comment": "the [department]{department} of a [factory]{factory} [responsible]{responsible} for [check_1]{checking} the [quality_1]{quality} of its [product]{products}",
+      "entry": "quality control",
+      "id": "quality-control#quality-control__2"
+    },
+    {
+      "comment": "the [area]{area} in a [factory]{factory} where [product]{products} are made",
+      "entry": "shop floor",
+      "id": "shop-floor#shop-floor__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [machine_1]{machine} or [factory]{factory} [stop_1]{stops} [working]{working} [temporarily]{temporarily}",
+      "entry": "shutdown",
+      "id": "shutdown#shutdown__1"
+    }
+  ],
+  "thesaurus": "Areas and objects found in a factory",
+  "type": "Related words"
+}

@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "the book",
+  "senses": [
+    {
+      "def": "the [phone_1]{phone} [book_1]{book}",
+      "examples": [
+        "Give me a ring \u2013 my [number_1]{number}\u2019s in the [book_1]{book}."
+      ],
+      "id": "the-book__1"
+    }
+  ]
+}

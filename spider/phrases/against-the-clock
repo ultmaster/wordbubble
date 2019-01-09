@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "against the clock",
+  "senses": [
+    {
+      "def": "[trying]{trying} very [hard_1]{hard} to [finish_1]{finish} something before a [particular_1]{particular} time",
+      "examples": [
+        "We are [working]{working} against the [clock_1]{clock} to [meet_1]{meet} the [deadline]{deadline}."
+      ],
+      "id": "against-the-clock__1"
+    },
+    {
+      "def": "if you [run_1]{run}, [swim_1]{swim}, etc. against the [clock_1]{clock}, you are [running_1]{running}, [swimming]{swimming}, etc. for a [particular_1]{particular} [distance_1]{distance} as [fast_1]{fast} as [possible_1]{possible}",
+      "examples": [],
+      "id": "against-the-clock__3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [car]{car}",
+      "entry": "ride",
+      "id": "ride_2#ride_2__16"
+    },
+    {
+      "comment": "a [car]{car}",
+      "entry": "auto",
+      "id": "auto_2#auto_2__1"
+    },
+    {
+      "comment": "a [car]{car}",
+      "entry": "automobile",
+      "id": "automobile_2#automobile_2__1"
+    },
+    {
+      "comment": "a road vehicle for one driver and a few passengers. Someone who drives a car is called a driver",
+      "entry": "car",
+      "id": "car#car__1"
+    },
+    {
+      "comment": "a [car]{car}",
+      "entry": "motor car",
+      "id": "motor-car#motor-car__1"
+    },
+    {
+      "comment": "a [car]{car}",
+      "entry": "motor",
+      "id": "motor_1#motor_1__3"
+    },
+    {
+      "comment": "a [car]{car}",
+      "entry": "wheels",
+      "id": "wheel_1#wheel_1__5"
+    }
+  ],
+  "thesaurus": "General words for car",
+  "type": "Synonyms"
+}

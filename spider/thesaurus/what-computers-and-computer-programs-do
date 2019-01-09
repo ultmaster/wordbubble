@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "if you [abort]{abort} a computer [program_1]{program}, or if it [abort]{aborts}, the computer [stop_1]{stops} [doing]{doing} something before it is [finished]{finished}",
+      "entry": "abort",
+      "id": "abort#abort__6"
+    },
+    {
+      "comment": "if a computer [boot_1]{boots}, or if you [boot_1]{boot} it, it [start_1]{starts} [working]{working} and becomes ready to use",
+      "entry": "boot",
+      "id": "boot_2#boot_2__3"
+    },
+    {
+      "comment": "if a computer [buffer_1]{buffers} [information]{information}, it [keep_1]{keeps} it [temporarily]{temporarily} in an [area]{area} of its [memory]{memory} when you are [send_1]{sending} it from one system or [program_1]{program} to another",
+      "entry": "buffer",
+      "id": "buffer_2#buffer_2__3"
+    },
+    {
+      "comment": "if a computer [program_1]{program} [close_1]{closes}, or if you [close_1]{close} it, it [stop_1]{stops} [operate]{operating} and [disappear]{disappears} from your computer [screen_1]{screen}",
+      "entry": "close",
+      "id": "close_1#close_1__28"
+    },
+    {
+      "comment": "if computer [program_1]{programs} or [file_1]{files} are [corrupt_2]{corrupted}, they have [mistake_1]{mistakes} in them that [prevent]{prevent} them from [operate]{operating} [correctly]{correctly}",
+      "entry": "corrupt",
+      "id": "corrupt_2#corrupt_2__3"
+    },
+    {
+      "comment": "if a computer or computer [program_1]{program} [crash_1]{crashes}, it [suddenly]{suddenly} [stop_1]{stops} [working]{working}",
+      "entry": "crash",
+      "id": "crash_1#crash_1__17"
+    },
+    {
+      "comment": "if a computer [decode]{decodes} [information]{information}, it [change_1]{changes} it into a form that you can [understand]{understand}",
+      "entry": "decode",
+      "id": "decode#decode__2"
+    },
+    {
+      "comment": "if a computer [deliver]{delivers} a [particular_1]{particular} amount of [power_1]{power}, [speed_1]{speed}, or [effectiveness]{effectiveness}, it [make_1]{makes} it [available]{available} for you to use",
+      "entry": "deliver",
+      "id": "deliver#deliver__23"
+    },
+    {
+      "comment": "to show [information]{information} on a computer [screen_1]{screen}",
+      "entry": "display",
+      "id": "display_2#display_2__6"
+    },
+    {
+      "comment": "if one computer system or [program_1]{program} [emulate]{emulates} another, it [behave]{behaves} in the same way",
+      "entry": "emulate",
+      "id": "emulate#emulate__3"
+    },
+    {
+      "comment": "if a computer [screen_1]{screen} [freeze_1]{freezes}, or if something [freeze_1]{freezes} it, the [image_1]{images} on it become [completely]{completely} still and you cannot move them because there is something [wrong_1]{wrong} with the computer",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__28"
+    },
+    {
+      "comment": "if a computer [generate]{generates} a [report_1]{report}, [image_1]{image}, etc., it [produce_1]{produces} it",
+      "entry": "generate",
+      "id": "generate#generate__9"
+    },
+    {
+      "comment": "if a computer system [go_1]{goes} [live_1]{live}, all the [test_1]{tests} on it have been [completed]{completed} and it can now be [used]{used}",
+      "entry": "go live",
+      "id": "go-live_2#go-live_2__1"
+    },
+    {
+      "comment": "if a computer [hibernate]{hibernates}, its [operate]{operating} system [close_1]{closes} down [automatically]{automatically} when the computer is not being [used]{used}, although the computer [itself]{itself} [remains]{remains} [switch_1]{switched} on",
+      "entry": "hibernate",
+      "id": "hibernate#hibernate__2"
+    },
+    {
+      "comment": "if a computer virus infects a computer or computer program, it enters it and causes problems",
+      "entry": "infect",
+      "id": "infect#infect__7"
+    },
+    {
+      "comment": "if a computer or other [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} [read_1]{reads} something, it [examine]{examines} the [information]{information} on it or [copy_1]{copies} it to a [particular_1]{particular} [place_1]{place}",
+      "entry": "read",
+      "id": "read_1#read_1__29"
+    },
+    {
+      "comment": "if a computer [reallocate]{reallocates} [memory]{memory}, it [make_1]{makes} it ready to use for a [different]{different} [purpose]{purpose}",
+      "entry": "reallocate",
+      "id": "reallocate#reallocate__2"
+    },
+    {
+      "comment": "if a computer or system [reboot_1]{reboots}, or if someone [reboot_1]{reboots} it, it [start_1]{starts} again after it has been [turn_1]{turned} off",
+      "entry": "reboot",
+      "id": "reboot_1#reboot_1__1"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or computer [program_1]{program} [scan_1]{scans} something, it [examine]{examines} it in [order_1]{order} to [look_1]{look} for a [particular_1]{particular} thing",
+      "entry": "scan",
+      "id": "scan_1#scan_1__9"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [equipment]{equipment} [scan_1]{scans} a [document_1]{document}, [photograph_1]{photograph}, etc., it [change_1]{changes} it into a form that can be [store_2]{stored} in a computer",
+      "entry": "scan",
+      "id": "scan_1#scan_1__19"
+    }
+  ],
+  "thesaurus": "What computers and computer programs do",
+  "type": "Related words"
+}

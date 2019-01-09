@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "bring before",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone go to [court_1]{court} because they have been [accuse]{accused} of [doing]{doing} something [wrong_1]{wrong}",
+      "examples": [
+        "He had never been [charged]{charged} or [brought]{brought} before a [judge_1]{judge}."
+      ],
+      "id": "bring-before__1"
+    },
+    {
+      "def": "to [arrange]{arrange} for a [case_1]{case} to be [discuss]{discussed} in a [court_1]{court}, [committee]{committee}, or [legislature]{legislature}",
+      "examples": [
+        "They [plan_1]{plan} to [bring]{bring} the [issue_1]{issue} before the U.N. [security]{Security} [council]{Council}."
+      ],
+      "id": "bring-before__3"
+    }
+  ]
+}

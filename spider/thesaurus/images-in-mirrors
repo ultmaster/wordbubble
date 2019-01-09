@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "what you see when you [look_1]{look} in a [mirror_1]{mirror}",
+      "entry": "image",
+      "id": "image#image__11"
+    },
+    {
+      "comment": "an [image_1]{image} that you see when you [look_1]{look} in a [mirror_1]{mirror} or other [shiny]{shiny} [surface_1]{surface}",
+      "entry": "reflection",
+      "id": "reflection#reflection__1"
+    },
+    {
+      "comment": "an [image_1]{image} or [object_1]{object} that is [exactly]{exactly} the same as another, but with the [left_1]{left} and [right_1]{right} sides the other way round, as in a [mirror_1]{mirror}",
+      "entry": "mirror image",
+      "id": "mirror-image#mirror-image__1"
+    },
+    {
+      "comment": "to [reflect]{reflect} something [like_1]{like} a [mirror_1]{mirror}",
+      "entry": "mirror",
+      "id": "mirror_2#mirror_2__1"
+    },
+    {
+      "comment": "[contain]{containing} [mirror_1]{mirrors}",
+      "entry": "mirrored",
+      "id": "mirrored#mirrored__1"
+    },
+    {
+      "comment": "[reflect]{reflecting} [like_1]{like} a [mirror_1]{mirror}",
+      "entry": "mirrored",
+      "id": "mirrored#mirrored__3"
+    }
+  ],
+  "thesaurus": "Images in mirrors",
+  "type": "Synonyms"
+}

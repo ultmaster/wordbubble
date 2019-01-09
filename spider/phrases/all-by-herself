@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "(all) by herself",
+  "senses": [
+    {
+      "def": "alone",
+      "examples": [
+        "Annie\u2019s too [young_1]{young} to [travel_1]{travel} by [herself]{herself}.",
+        "She [lives]{lives} all by [herself]{herself} in that [big_1]{big} [house_1]{house}."
+      ],
+      "id": "all-by-herself__1"
+    },
+    {
+      "def": "without [help_1]{help} from anyone else",
+      "examples": [
+        "He couldn\u2019t [believe]{believe} that [sally_1]{Sally} had [organized]{organized} the whole [party_1]{party} by [herself]{herself}."
+      ],
+      "id": "all-by-herself__4"
+    }
+  ]
+}

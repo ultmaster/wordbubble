@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "go together",
+  "senses": [
+    {
+      "def": "if two or more [thing]{things} go together, they [frequently]{frequently} [exist]{exist} together",
+      "examples": [
+        "Too often [greed]{greed} and [politics]{politics} seem to go together."
+      ],
+      "id": "go-together__1"
+    },
+    {
+      "def": "if two [thing]{things} go together, they seem [good_1]{good}, [natural_1]{natural}, or [attractive]{attractive} in [combination]{combination} with each other",
+      "examples": [
+        "I don\u2019t [think_1]{think} the [color_1]{colors} go together very well."
+      ],
+      "id": "go-together__3"
+    },
+    {
+      "def": "if two [people_1]{people} are [going_1]{going} together, they have a [romantic_1]{romantic} or [sexual]{sexual} [relationship]{relationship} with each other",
+      "examples": [
+        "Matt and Michelle have been [going_1]{going} together since April."
+      ],
+      "id": "go-together__5"
+    }
+  ]
+}

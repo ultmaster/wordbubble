@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "go against",
+  "senses": [
+    {
+      "def": "to [oppose]{oppose} someone or something",
+      "examples": [
+        "[building]{Building} a [road]{road} here would go against the [wish_1]{wishes} of the [local_1]{local} [community]{community}.",
+        "This [go_1]{goes} against everything I\u2019ve been [brought]{brought} up to [believe]{believe} in."
+      ],
+      "id": "go-against__1"
+    },
+    {
+      "def": "if something such as a [decision_1]{decision} or [judgment]{judgment} [go_1]{goes} against you, you do not get the [decision_1]{decision} or [judgment]{judgment} that you [wanted]{wanted}",
+      "examples": [
+        "It [appear]{appears} [likely_1]{likely} that the [judge_1]{judge}\u2019s [ruling_1]{ruling} will go against them."
+      ],
+      "id": "go-against__5"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to get something out of a [place_1]{place} or out of the [ground_1]{ground} by [dig_1]{digging}",
+      "entry": "dig out",
+      "id": "dig-out#dig-out__3"
+    },
+    {
+      "comment": "to [make_1]{make} a [deep_1]{deep} hole in something [hard_1]{hard}",
+      "entry": "bore",
+      "id": "bore_1#bore_1__4"
+    },
+    {
+      "comment": "to [dig_1]{dig} something out or [pick_1]{pick} it up [use_1]{using} something such as a [spoon_1]{spoon} or your [curved]{curved} hand",
+      "entry": "scoop",
+      "id": "scoop_1#scoop_1__1"
+    },
+    {
+      "comment": "to [dig_1]{dig} in the [ground_1]{ground} in [order_1]{order} to find [thing]{things} from the [past_1]{past}",
+      "entry": "excavate",
+      "id": "excavate#excavate__1"
+    },
+    {
+      "comment": "to [dig_1]{dig} a [tunnel_1]{tunnel}",
+      "entry": "tunnel",
+      "id": "tunnel_2#tunnel_2__1"
+    },
+    {
+      "comment": "to [dig_1]{dig} something out of the [ground_1]{ground}, [especially]{especially} with your [hand_1]{hands}",
+      "entry": "grub up",
+      "id": "grub-up#grub-up__1"
+    },
+    {
+      "comment": "to [clear_1]{clear} an [area]{area} by [remove]{removing} [earth]{earth}, [stone_1]{stones}, etc. with a [bulldozer]{bulldozer}",
+      "entry": "bulldoze",
+      "id": "bulldoze#bulldoze__1"
+    },
+    {
+      "comment": "to [remove]{remove} [dirt]{dirt} and [sand_1]{sand} from the bottom of a [river]{river} or [lake]{lake}",
+      "entry": "dredge",
+      "id": "dredge_1#dredge_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} a hole or [tunnel_1]{tunnel} in the [ground_1]{ground}",
+      "entry": "burrow",
+      "id": "burrow_1#burrow_1__1"
+    },
+    {
+      "comment": "to [dig_1]{dig} or move [large_1]{large} [amount_1]{amounts} of something from one [place_1]{place} to another in a [careless]{careless} way",
+      "entry": "shovel",
+      "id": "shovel_2#shovel_2__2"
+    }
+  ],
+  "thesaurus": "To dig",
+  "type": "Synonyms"
+}

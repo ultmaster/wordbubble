@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [bright_1]{bright} or [shiny]{shiny}",
+      "entry": "dull",
+      "id": "dull_1#dull_1__4"
+    },
+    {
+      "comment": "[dim_1]{dim} [light_1]{light} is not [bright_1]{bright}",
+      "entry": "dim",
+      "id": "dim_1#dim_1__1"
+    },
+    {
+      "comment": "not as [bright_1]{bright} or [colorful]{colorful} as [usual]{usual}",
+      "entry": "muted",
+      "id": "muted#muted__5"
+    },
+    {
+      "comment": "a [weak]{weak} [light_1]{light}, [heat_1]{heat}, etc. is one that you cannot [easily]{easily} see, [hear]{hear}, or [feel_1]{feel}",
+      "entry": "weak",
+      "id": "weak#weak__36"
+    },
+    {
+      "comment": "not very [bright_1]{bright}",
+      "entry": "dusky",
+      "id": "dusky#dusky__1"
+    },
+    {
+      "comment": "[boring_1]{boring}, [dull_1]{dull}, or [pale_1]{pale}, with no [interesting]{interesting} [feature_1]{features}",
+      "entry": "insipid",
+      "id": "insipid#insipid__1"
+    },
+    {
+      "comment": "with a [surface_1]{surface} that is not [shiny]{shiny}",
+      "entry": "mat",
+      "id": "mat_2#mat_2__1"
+    },
+    {
+      "comment": "not very [loud_1]{loud} or [bright_1]{bright}",
+      "entry": "subdued",
+      "id": "subdued#subdued__3"
+    },
+    {
+      "comment": "[pale_1]{pale}, or not [bright_1]{bright}",
+      "entry": "wan",
+      "id": "wan#wan__3"
+    },
+    {
+      "comment": "[dull_1]{dull} and [dark_1]{dark} [gray_1]{gray} in [color_1]{color}",
+      "entry": "leaden",
+      "id": "leaden#leaden__7"
+    }
+  ],
+  "thesaurus": "Not bright or shiny and not providing much light",
+  "type": "Synonyms"
+}

@@ -1,0 +1,151 @@
+{
+  "entries": [
+    {
+      "comment": "very [sour_1]{sour}",
+      "entry": "acid",
+      "id": "acid_2#acid_2__1"
+    },
+    {
+      "comment": "very [sour_1]{sour}",
+      "entry": "acidic",
+      "id": "acidic#acidic__3"
+    },
+    {
+      "comment": "[aged_1]{aged} [wine_1]{wine}, [cheese]{cheese}, etc. has been [left_1]{left} to [develop]{develop} a [pleasant]{pleasant} [strong]{strong} [flavor_1]{flavor}",
+      "entry": "aged",
+      "id": "aged_1#aged_1__4"
+    },
+    {
+      "comment": "an [astringent_1]{astringent} [taste_1]{taste} is one that is [strong]{strong} and [bitter_1]{bitter}",
+      "entry": "astringent",
+      "id": "astringent_1#astringent_1__3"
+    },
+    {
+      "comment": "something that is [bitter_1]{bitter} has a [strong]{strong} [sharp_1]{sharp} [taste_1]{taste} that is not [sweet_1]{sweet}",
+      "entry": "bitter",
+      "id": "bitter_1#bitter_1__10"
+    },
+    {
+      "comment": "[tasting]{tasting} [sweet_1]{sweet} and [bitter_1]{bitter} at the same time",
+      "entry": "bittersweet",
+      "id": "bittersweet#bittersweet__3"
+    },
+    {
+      "comment": "[brackish]{brackish} [water_1]{water} has a [slight_1]{slight} [taste_1]{taste} of [salt_1]{salt} and is therefore not [pure]{pure}",
+      "entry": "brackish",
+      "id": "brackish#brackish__1"
+    },
+    {
+      "comment": "made from or [tasting]{tasting} of [chocolate]{chocolate}",
+      "entry": "chocolate",
+      "id": "chocolate#chocolate__4"
+    },
+    {
+      "comment": "[chocolatey]{chocolatey} [food]{food} has a [lot_1]{lot} of [chocolate]{chocolate} in it",
+      "entry": "chocolatey",
+      "id": "chocolatey#chocolatey__1"
+    },
+    {
+      "comment": "[food]{food} that is [fiery]{fiery} [make_1]{makes} your [mouth_1]{mouth} [feel_1]{feel} very [hot]{hot} when you [eat]{eat} it",
+      "entry": "fiery",
+      "id": "fiery#fiery__5"
+    },
+    {
+      "comment": "[tasting]{tasting} a [particular_1]{particular} way or of a [particular_1]{particular} thing",
+      "entry": "flavored",
+      "id": "flavored#flavored__1"
+    },
+    {
+      "comment": "[have]{having} had something [added]{added} to give a [particular_1]{particular} [taste_1]{taste}",
+      "entry": "flavored",
+      "id": "flavored#flavored__3"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [flavored]{flavored}",
+      "entry": "flavoured",
+      "id": "flavoured#flavoured__1"
+    },
+    {
+      "comment": "hot food contains a lot of spices that create a burning feeling in your mouth",
+      "entry": "hot",
+      "id": "hot#hot__14"
+    },
+    {
+      "comment": "[mature_1]{mature} [cheese]{cheese}, [wine_1]{wine}, etc. has been [left_1]{left} to [develop]{develop} a [pleasant]{pleasant} [strong]{strong} [flavor_1]{flavor}",
+      "entry": "mature",
+      "id": "mature_1#mature_1__9"
+    },
+    {
+      "comment": "[mild]{mild} [food]{food} [does]{does} not have a [strong]{strong} [taste_1]{taste}",
+      "entry": "mild",
+      "id": "mild#mild__11"
+    },
+    {
+      "comment": "[ripe]{ripe} [cheese]{cheese} or [wine_1]{wine} has a [strong]{strong} [flavor_1]{flavor}",
+      "entry": "ripe",
+      "id": "ripe#ripe__3"
+    },
+    {
+      "comment": "[robust]{robust} [food]{food} or [drink_1]{drink} has a [lot_1]{lot} of [flavor_1]{flavor}",
+      "entry": "robust",
+      "id": "robust#robust__8"
+    },
+    {
+      "comment": "tasting of salt or spices and not sweet",
+      "entry": "savory",
+      "id": "savory_1#savory_1__5"
+    },
+    {
+      "comment": "[contain]{containing} [seasoning]{seasonings} to [improve_1]{improve} [flavor_1]{flavor}",
+      "entry": "seasoned",
+      "id": "seasoned#seasoned__3"
+    },
+    {
+      "comment": "a [food]{food} that is [sharp_1]{sharp} has a [strong]{strong} and [bitter_1]{bitter} [flavor_1]{flavor}",
+      "entry": "sharp",
+      "id": "sharp_1#sharp_1__36"
+    },
+    {
+      "comment": "with a [taste_1]{taste} [like_1]{like} a [lemon]{lemon}",
+      "entry": "sour",
+      "id": "sour_1#sour_1__1"
+    },
+    {
+      "comment": "[spicy]{spicy} [food]{food} has a [strong]{strong} [hot]{hot} [flavor_1]{flavor}",
+      "entry": "spicy",
+      "id": "spicy#spicy__1"
+    },
+    {
+      "comment": "[sweet-and-sour]{sweet-and-sour} [food]{food} [contain]{contains} both [sweet_1]{sweet} and [sour_1]{sour} [flavor_1]{flavors}",
+      "entry": "sweet-and-sour",
+      "id": "sweet-and-sour#sweet-and-sour__1"
+    },
+    {
+      "comment": "a [sweetish]{sweetish} [taste_1]{taste} or [smell_1]{smell} is [slightly]{slightly} [sweet_1]{sweet}",
+      "entry": "sweetish",
+      "id": "sweetish#sweetish__1"
+    },
+    {
+      "comment": "thick, [sweet_1]{sweet}, and [sticky]{sticky}",
+      "entry": "syrupy",
+      "id": "syrupy#syrupy__1"
+    },
+    {
+      "comment": "[tart_1]{tart} [food]{food} or [drink_1]{drinks} have a [slightly]{slightly} [sour_1]{sour} [taste_1]{taste}",
+      "entry": "tart",
+      "id": "tart_2#tart_2__1"
+    },
+    {
+      "comment": "not [flavored]{flavored} with [salt_1]{salt}",
+      "entry": "unsalted",
+      "id": "unsalted#unsalted__1"
+    },
+    {
+      "comment": "[pale_1]{pale}, or not [strong]{strong}",
+      "entry": "watery",
+      "id": "watery#watery__5"
+    }
+  ],
+  "thesaurus": "Words used to describe specific tastes and flavors",
+  "type": "Related words"
+}

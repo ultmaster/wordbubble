@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "wear out",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} very [tired]{tired}",
+      "examples": [
+        "She was [worn_1]{worn} out from [take_1]{taking} [care_1]{care} of her [elderly]{elderly} [mother_1]{mother}.",
+        "You [need_1]{need} a [vacation_1]{vacation} or you\u2019ll [wear_1]{wear} yourself out."
+      ],
+      "id": "wear-out__1"
+    },
+    {
+      "def": "to use something a [lot_1]{lot} so that it no [long_1]{longer} [work_1]{works}, or can no [long_1]{longer} be [used]{used}",
+      "examples": [
+        "The [children]{children} have all [worn_1]{worn} out their [shoe_1]{shoes}.",
+        "The [rear_1]{rear} [bearing]{bearing} had [worn_1]{worn} out."
+      ],
+      "id": "wear-out__4"
+    },
+    {
+      "def": "to [make_1]{make} a hole or [mark_1]{mark} in something by [use_1]{using} or [rubbing]{rubbing} it a [lot_1]{lot}",
+      "examples": [
+        "He\u2019d long since [worn_1]{worn} out the [knee_1]{knees} in his [old]{old} [jeans]{jeans}."
+      ],
+      "id": "wear-out__7"
+    }
+  ]
+}

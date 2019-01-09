@@ -1,0 +1,39 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} only by a [particular_1]{particular} [person]{person} or [group_1]{group}, or [available]{available} only to them",
+      "examples": [
+        "a private [bathroom]{bathroom}/[party_1]{party}/[plane_1]{plane}",
+        "They found a private [spot_1]{spot} where they could [talk_1]{talk}.",
+        "It\u2019ll be a [little_1]{little} more private in my [office]{office}.",
+        "a private [joke_1]{joke}"
+      ],
+      "id": "private_1__1"
+    },
+    {
+      "def": "not [connected]{connected} with someone\u2019s [work_1]{work} or their [public_1]{public} [position_1]{position}",
+      "examples": [
+        "The [mayor]{mayor} has been [use_1]{using} [public_1]{public} [fund_1]{funds} to [finance_1]{finance} private [dealing#dealing__3]{dealings}.",
+        "What you do in your private [life]{life} has nothing to do with your [boss_1]{boss}."
+      ],
+      "id": "private_1__9"
+    },
+    {
+      "def": "[controlled_1]{controlled} or [own_2]{owned} by [individual_1]{individual} [people_1]{people} or [company]{companies}, rather than by the [government]{government}",
+      "examples": [
+        "a private [hospital]{hospital}",
+        "private [property]{property}"
+      ],
+      "id": "private_1__12"
+    },
+    {
+      "def": "with no [position_1]{position} in [government]{government} or [public_1]{public} [life]{life}",
+      "examples": [
+        "a private [citizen]{citizen}"
+      ],
+      "id": "private_1__15"
+    }
+  ],
+  "word": "private"
+}

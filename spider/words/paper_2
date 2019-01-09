@@ -1,0 +1,27 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "made of paper",
+      "examples": [
+        "a [brown_1]{brown} paper [bag_1]{bag}"
+      ],
+      "id": "paper_2__1"
+    },
+    {
+      "def": "[written_1]{written}, or [print_1]{printed}",
+      "examples": [
+        "The [book_1]{book} is [available]{available} in paper and [electronic]{electronic} [format_1]{formats}."
+      ],
+      "id": "paper_2__3"
+    },
+    {
+      "def": "[officially]{officially} [existing]{existing} but not [effective]{effective} or [able_1]{able} to be [used]{used} in [real_1]{real} [situation]{situations}",
+      "examples": [
+        "paper [promise_1]{promises}"
+      ],
+      "id": "paper_2__5"
+    }
+  ],
+  "word": "paper"
+}

@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[clean_1]{clean} and [shiny]{shiny} because of being [rub_1]{rubbed}, [usually]{usually} with a [chemical_1]{chemical} [substance]{substance}",
+      "examples": [
+        "His [newly]{newly} polished [shoe_1]{shoes} [gleam_1]{gleamed}.",
+        "a [gravestone]{gravestone} in [black_1]{black} polished [marble]{marble}",
+        "a [highly]{highly} polished [wooden]{wooden} [floor_1]{floor}"
+      ],
+      "id": "polished__1"
+    },
+    {
+      "def": "of very [high_1]{high} [quality_1]{quality}",
+      "examples": [
+        "a polished [performance]{performance}"
+      ],
+      "id": "polished__5"
+    },
+    {
+      "def": "[confident]{confident} and [skillful]{skillful} at [doing]{doing} something",
+      "examples": [
+        "a polished [performer]{performer}/[speaker]{speaker}"
+      ],
+      "id": "polished__7"
+    }
+  ],
+  "word": "polished"
+}

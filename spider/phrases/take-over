@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "take over",
+  "senses": [
+    {
+      "def": "to [begin]{begin} to do something that someone else was [doing]{doing}",
+      "examples": [
+        "Can you take over the [cooking_1]{cooking} while I [walk_1]{walk} the [dog_1]{dog}?",
+        "Jane [took]{took} over as [director]{director} after Richard [retired]{retired}.",
+        "I\u2019ll take over from you for a [moment]{moment}."
+      ],
+      "id": "take-over__1"
+    },
+    {
+      "def": "to take [control_1]{control} of something",
+      "examples": [
+        "IBM is [take_1]{taking} over the [small_1]{smaller} [company]{company}.",
+        "Gibraltar was [taken_1]{taken} over by Spain in 1462."
+      ],
+      "id": "take-over__5"
+    }
+  ]
+}

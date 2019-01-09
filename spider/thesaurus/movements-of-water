@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "the [direction]{direction} in which a [river]{river} [flow_1]{flows}",
+      "entry": "course",
+      "id": "course_1#course_1__16"
+    },
+    {
+      "comment": "a [strong]{strong} [movement]{movement} of [water_1]{water} in one [direction]{direction}",
+      "entry": "current",
+      "id": "current_2#current_2__1"
+    },
+    {
+      "comment": "[moving]{moving} or [look_1]{looking} along a [river]{river} in the same [direction]{direction} as the [current_1]{current}",
+      "entry": "down",
+      "id": "down_1#down_1__31"
+    },
+    {
+      "comment": "at a [point_1]{point} [farther_1]{farther} along a [river]{river} in the [direction]{direction} of the [current_1]{current}",
+      "entry": "down",
+      "id": "down_1#down_1__36"
+    },
+    {
+      "comment": "the [sound_1]{sound} or [action_1]{action} of a [liquid_1]{liquid} [fall_1]{falling} in [drop_1]{drops}",
+      "entry": "drip",
+      "id": "drip_2#drip_2__1"
+    },
+    {
+      "comment": "the [process_1]{process} in which the [ocean]{ocean} [level_1]{level} on a [coast_1]{coast} becomes [lower_1]{lower}",
+      "entry": "ebb",
+      "id": "ebb_1#ebb_1__1"
+    },
+    {
+      "comment": "a [current_1]{current} of [water_1]{water} or [air_1]{air} that [move_1]{moves} against the [main_1]{main} [current_1]{current} in a [circular_1]{circular} [pattern_1]{pattern}",
+      "entry": "eddy",
+      "id": "eddy_1#eddy_1__1"
+    },
+    {
+      "comment": "the [continuous]{continuous} [movement]{movement} of a [liquid_1]{liquid} in one [direction]{direction}",
+      "entry": "flow",
+      "id": "flow_1#flow_1__1"
+    },
+    {
+      "comment": "the [movement]{movement} of the [ocean]{ocean} in toward the [land_1]{land}",
+      "entry": "flow",
+      "id": "flow_1#flow_1__14"
+    },
+    {
+      "comment": "an [act_1]{act} of [making]{making} [water_1]{water} [pass_1]{pass} through something",
+      "entry": "flush",
+      "id": "flush_2#flush_2__5"
+    },
+    {
+      "comment": "if the tide is in or comes in, the ocean has reached or is reaching its highest level on the land",
+      "entry": "in",
+      "id": "in_1#in_1__175"
+    },
+    {
+      "comment": "a [powerful]{powerful} [current_1]{current} of [water_1]{water} that [spin_1]{spins} very [quickly]{quickly}",
+      "entry": "maelstrom",
+      "id": "maelstrom#maelstrom__3"
+    },
+    {
+      "comment": "if the tide is out, the ocean is at a lower level",
+      "entry": "out",
+      "id": "out_1#out_1__93"
+    },
+    {
+      "comment": "the [process_1]{process} of [flowing]{flowing} [slowly]{slowly} into or out of something through [small_1]{small} [hole_1]{holes}",
+      "entry": "seepage",
+      "id": "seepage#seepage__1"
+    },
+    {
+      "comment": "[liquid_1]{liquid} that [does]{does} this",
+      "entry": "seepage",
+      "id": "seepage#seepage__2"
+    },
+    {
+      "comment": "an [act_1]{act} of [squirt_1]{squirting} [liquid_1]{liquid}",
+      "entry": "squirt",
+      "id": "squirt_2#squirt_2__2"
+    },
+    {
+      "comment": "the [movement]{movement} that you [make_1]{make} with a [spoon_1]{spoon} or other [object_1]{object} when you move [food]{food} or a [liquid_1]{liquid} around",
+      "entry": "stir",
+      "id": "stir_2#stir_2__1"
+    },
+    {
+      "comment": "a [fast_1]{fast} and [powerful]{powerful} [flow_1]{flow} of [liquid_1]{liquid}, [especially]{especially} [water_1]{water}",
+      "entry": "torrent",
+      "id": "torrent#torrent__1"
+    },
+    {
+      "comment": "[sudden_1]{sudden} [violent]{violent} [movement]{movements} of [air_1]{air} or [water_1]{water}",
+      "entry": "turbulence",
+      "id": "turbulence#turbulence__1"
+    },
+    {
+      "comment": "a [powerful]{powerful} [spinning]{spinning} [current_1]{current} of [air_1]{air} or [water_1]{water} that [pull_1]{pulls} everything down [inside_1]{inside} it",
+      "entry": "vortex",
+      "id": "vortex#vortex__1"
+    },
+    {
+      "comment": "the [track_1]{track} that [appear]{appears} in the [water_1]{water} behind a [moving]{moving} [boat]{boat}",
+      "entry": "wake",
+      "id": "wake_2#wake_2__1"
+    },
+    {
+      "comment": "the [flowing]{flowing} [movement]{movement} of [water_1]{water} in the [ocean]{ocean}",
+      "entry": "wash",
+      "id": "wash_2#wash_2__8"
+    },
+    {
+      "comment": "the [sound_1]{sound} of [water_1]{water} [flowing]{flowing} in the [ocean]{ocean}",
+      "entry": "wash",
+      "id": "wash_2#wash_2__10"
+    }
+  ],
+  "thesaurus": "Movements of water",
+  "type": "Related words"
+}

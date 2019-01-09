@@ -1,0 +1,33 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [wearing]{wearing} any [clothes]{clothes}",
+      "examples": [
+        "a [drawing]{drawing} of a naked [woman]{woman}",
+        "The half-naked body was found on the [river]{river} [bank_1]{bank}.",
+        "He [stripped]{stripped} naked and [got_1]{got} into the [shower_1]{shower}.",
+        "She [stood]{stood} there [stark]{stark} naked.",
+        "naked [shoulder_1]{shoulders}/[breast_1]{breasts}/[skin_1]{skin}"
+      ],
+      "id": "naked__1"
+    },
+    {
+      "def": "not [covered_1]{covered}",
+      "examples": [
+        "a naked [flame_1]{flame}/[bulb]{bulb}/[light_1]{light}",
+        "a naked [blade]{blade}/[sword]{sword}"
+      ],
+      "id": "naked__9"
+    },
+    {
+      "def": "naked [emotion]{emotions} are very [strong]{strong} and can be [clearly]{clearly} [seen]{seen} in someone\u2019s [expression]{expression}",
+      "examples": [
+        "naked [fear_1]{fear}/[terror]{terror}",
+        "naked [aggression]{aggression}/[ambition]{ambition}"
+      ],
+      "id": "naked__12"
+    }
+  ],
+  "word": "naked"
+}

@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} something during a [conversation]{conversation}, but not [discuss]{discuss} it much or give many [detail_1]{details}",
+      "entry": "mention",
+      "id": "mention_1#mention_1__1"
+    },
+    {
+      "comment": "to [mention_1]{mention} someone or something when you are [speak_1]{speaking} or [writing]{writing}",
+      "entry": "refer to",
+      "id": "refer#refer__2"
+    },
+    {
+      "comment": "to [mention_1]{mention} a [law]{law}, [principle]{principle}, or [idea]{idea} in [order_1]{order} to [support_1]{support} an [argument]{argument} or to [explain]{explain} an [action_1]{action}",
+      "entry": "invoke",
+      "id": "invoke#invoke__4"
+    },
+    {
+      "comment": "to be [mention_1]{mentioned} and [need_1]{need} to be [considered]{considered}",
+      "entry": "come up",
+      "id": "come-up#come-up__7"
+    },
+    {
+      "comment": "to [mention_1]{mention} something so that it can be [discuss]{discussed}",
+      "entry": "raise",
+      "id": "raise_1#raise_1__24"
+    },
+    {
+      "comment": "to [mention_1]{mention} someone or something in an [indirect]{indirect} way",
+      "entry": "allude to",
+      "id": "allude#allude__2"
+    },
+    {
+      "comment": "to [mention_1]{mention} something",
+      "entry": "note",
+      "id": "note_2#note_2__6"
+    },
+    {
+      "comment": "to [mention_1]{mention} or [talk_1]{talk} about something",
+      "entry": "tell of",
+      "id": "tell-of#tell-of__4"
+    },
+    {
+      "comment": "to [mention_1]{mention} something when you are [talk_1]{talking} or [writing]{writing}",
+      "entry": "touch on",
+      "id": "touch-on#touch-on__1"
+    },
+    {
+      "comment": "to [mention_1]{mention} a [piece_1]{piece} of [information]{information} as a [possibility]{possibility}",
+      "entry": "talk in terms of something",
+      "id": "talk-in-terms-of-something#talk-in-terms-of-something__1"
+    },
+    {
+      "comment": "to [provide]{provide} a [short_1]{short} [piece_1]{piece} [taken_1]{taken} from a [book_1]{book}, [article]{article}, [poem]{poem}, [piece_1]{piece} of [music]{music}, etc.",
+      "entry": "excerpt",
+      "id": "excerpt_2#excerpt_2__1"
+    }
+  ],
+  "thesaurus": "To mention something, or to be mentioned",
+  "type": "Synonyms"
+}

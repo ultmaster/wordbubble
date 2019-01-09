@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "noninvasive [medical_1]{medical} [test_1]{tests} or [treatment]{treatments} do not [involve]{involve} [cutting_1]{cutting} your body or [put]{putting} [instrument]{instruments} [inside_1]{inside} it",
+      "examples": [],
+      "id": "noninvasive__1"
+    },
+    {
+      "def": "not [spread_1]{spreading} to other [part_1]{parts} of your body",
+      "examples": [
+        "a noninvasive [tumor]{tumor}"
+      ],
+      "id": "noninvasive__2"
+    }
+  ],
+  "word": "noninvasive"
+}

@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "have a temperature",
+  "senses": [
+    {
+      "def": "to have a [temperature]{temperature} that is [higher_1]{higher} than [normal_1]{normal}, which [means]{means} that you have a [fever]{fever}",
+      "examples": [
+        "She\u2019s been [running_1]{running} a [temperature]{temperature} of 100\u00b0F for two [day]{days}."
+      ],
+      "id": "have-a-temperature__1"
+    }
+  ]
+}

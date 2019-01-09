@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "believe in",
+  "senses": [
+    {
+      "def": "to [think_1]{think} that someone or something [exist]{exists}",
+      "examples": [
+        "I don\u2019t [believe]{believe} in [miracle]{miracles}.",
+        "I\u2019m [beginning]{beginning} to [think_1]{think} you [actually]{actually} [believe]{believe} in [ghost_1]{ghosts}!"
+      ],
+      "id": "believe-in__1"
+    },
+    {
+      "def": "to [think_1]{think} that an [idea]{idea} or a way of [doing]{doing} something is [good_1]{good} or [right_1]{right}",
+      "examples": [
+        "She [used]{used} to [say_1]{say} she didn\u2019t [believe]{believe} in [marriage]{marriage}.",
+        "Some of his [supporter]{supporters} have [stop_1]{stopped} [believe]{believing} in him."
+      ],
+      "id": "believe-in__4"
+    },
+    {
+      "def": "to [feel_1]{feel} [confident]{confident} that a [person]{person} or [organization]{organization} is [good_1]{good} or [reliable]{reliable}",
+      "examples": [
+        "Some of his [previous_1]{previous} [supporter]{supporters} have [stop_1]{stopped} [believe]{believing} in him."
+      ],
+      "id": "believe-in__7"
+    }
+  ]
+}

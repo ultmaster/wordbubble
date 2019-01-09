@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[resistance]{resistance} to a [change_1]{change} that has been [introduce]{introduced}",
+      "entry": "pushback",
+      "id": "pushback#pushback__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [refuse_1]{refusing} to do something",
+      "entry": "refusal",
+      "id": "refusal#refusal__1"
+    },
+    {
+      "comment": "the [refusal]{refusal} to [talk_1]{talk} about something or to [provide]{provide} [information]{information}",
+      "entry": "silence",
+      "id": "silence_1#silence_1__10"
+    },
+    {
+      "comment": "the [refusal]{refusal} to [let_1]{let} someone have or do something",
+      "entry": "denial",
+      "id": "denial#denial__5"
+    },
+    {
+      "comment": "an [official_1]{official} [refusal]{refusal} to [approve]{approve} or [allow]{allow} something",
+      "entry": "veto",
+      "id": "veto_2#veto_2__1"
+    },
+    {
+      "comment": "an [official_1]{official} [statement_1]{statement} [order_2]{ordering} [people_1]{people} not to do, [sell_1]{sell}, or use something",
+      "entry": "ban",
+      "id": "ban_2#ban_2__1"
+    },
+    {
+      "comment": "a [refusal]{refusal} to [accept]{accept}, [approve]{approve}, or [support_1]{support} something",
+      "entry": "rejection",
+      "id": "rejection#rejection__1"
+    },
+    {
+      "comment": "a [refusal]{refusal} to [accept]{accept} that something might be [true_1]{true} or [important]{important}",
+      "entry": "dismissal",
+      "id": "dismissal#dismissal__3"
+    },
+    {
+      "comment": "[refusal]{refusal} to [accept]{accept} something [new]{new} such as a [plan_1]{plan}, [idea]{idea}, or [change_1]{change}",
+      "entry": "resistance",
+      "id": "resistance#resistance__6"
+    },
+    {
+      "comment": "in psychology, a refusal to accept the unpleasant truth about a situation or admit what you are feeling",
+      "entry": "denial",
+      "id": "denial#denial__3"
+    },
+    {
+      "comment": "a [policy]{policy} of [refuse_1]{refusing} to [allow]{allow} [people_1]{people} or [group_1]{groups} whose [view_1]{views} are [regard_1]{regarded} as [unacceptable]{unacceptable} to [speak_1]{speak} at a [debate_1]{debate} or [meeting]{meeting}",
+      "entry": "no-platforming",
+      "id": "no-platforming#no-platforming__1"
+    }
+  ],
+  "thesaurus": "Refusals and the act of refusing",
+  "type": "Synonyms"
+}

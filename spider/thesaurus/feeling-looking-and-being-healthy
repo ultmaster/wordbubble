@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[physically]{physically} [strong]{strong} and not [sick_1]{sick}",
+      "entry": "healthy",
+      "id": "healthy#healthy__1"
+    },
+    {
+      "comment": "if you are well, or if you are [feeling_1]{feeling} well, your [health]{health} is [good_1]{good}",
+      "entry": "well",
+      "id": "well_3#well_3__1"
+    },
+    {
+      "comment": "healthy, strong, and able to do physical exercise without getting very tired. The more usual way to say this is be in good shape",
+      "entry": "fit",
+      "id": "fit_2#fit_2__1"
+    },
+    {
+      "comment": "if you are [fine_1]{fine}, your [health]{health} is [good_1]{good} and you have no [problem]{problems}",
+      "entry": "fine",
+      "id": "fine_1#fine_1__12"
+    },
+    {
+      "comment": "[physically]{physically} [strong]{strong} and [healthy]{healthy}",
+      "entry": "able-bodied",
+      "id": "able-bodied#able-bodied__1"
+    },
+    {
+      "comment": "[physically]{physically} [powerful]{powerful} and [healthy]{healthy}",
+      "entry": "strong",
+      "id": "strong#strong__1"
+    },
+    {
+      "comment": "a [robust]{robust} [person]{person} is [strong]{strong} and [healthy]{healthy}",
+      "entry": "robust",
+      "id": "robust#robust__1"
+    },
+    {
+      "comment": "[strong]{strong}, [active]{active}, and [healthy]{healthy}",
+      "entry": "vigorous",
+      "id": "vigorous#vigorous__6"
+    },
+    {
+      "comment": "an [old]{old} [person]{person} who is [spry]{spry} is still very [healthy]{healthy} and still has a [lot_1]{lot} of [energy]{energy}",
+      "entry": "spry",
+      "id": "spry#spry__1"
+    },
+    {
+      "comment": "not mentally or physically disabled. People who are disabled consider this word offensive and it is better to describe someone who is not physically disabled as able-bodied and someone who is not mentally disabled as mentally competent.",
+      "entry": "normal",
+      "id": "normal#normal__15"
+    }
+  ],
+  "thesaurus": "Feeling, looking and being healthy",
+  "type": "Synonyms"
+}

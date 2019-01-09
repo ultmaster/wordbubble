@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [intention]{intention} to do something",
+      "examples": [
+        "[congress_1]{Congress} has [declared]{declared} its intent to [reform_1]{reform} the [welfare]{welfare} system."
+      ],
+      "id": "intent_1__1"
+    },
+    {
+      "def": "the [intention]{intention} to [commit]{commit} a [crime_1]{crime} or an [offense]{offense}",
+      "examples": [
+        "He\u2019s been [charged]{charged} with [possess]{possessing} [drug_1]{drugs} with intent to [sell_1]{sell}."
+      ],
+      "id": "intent_1__3"
+    }
+  ],
+  "word": "intent"
+}

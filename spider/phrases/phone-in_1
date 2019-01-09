@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "phone in",
+  "senses": [
+    {
+      "def": "to [telephone_1]{telephone} the [place_1]{place} where you [work_1]{work} in [order_1]{order} to give a [message_1]{message}",
+      "examples": [
+        "Another [reporter]{reporter} [phone_2]{phoned} in [later_1]{later} with the [story]{story}.",
+        "Kevin\u2019s [just_1]{just} [phone_2]{phoned} in [sick_1]{sick}, so he [won]{won}\u2019t be at the [meeting]{meeting}."
+      ],
+      "id": "phone-in_1__1"
+    },
+    {
+      "def": "to [telephone_1]{telephone} a [radio_1]{radio} or [television]{television} [program_1]{program} with a [question_1]{question} or [comment_1]{comment}",
+      "examples": [],
+      "id": "phone-in_1__4"
+    }
+  ]
+}

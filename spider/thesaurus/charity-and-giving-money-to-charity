@@ -1,0 +1,186 @@
+{
+  "entries": [
+    {
+      "comment": "[money]{money}, [food]{food}, or other [help_1]{help} that an [organization]{organization} or [government]{government} [give_1]{gives} to a [country]{country} or [area]{area} where [people_1]{people} [need_1]{need} it, for [example]{example} because of a war or [flood_1]{flood}",
+      "entry": "aid",
+      "id": "aid_1#aid_1__1"
+    },
+    {
+      "comment": "to give [money]{money}, [food]{food}, or other [help_1]{help} to a [country]{country} or [organization]{organization} that [need_1]{needs} it",
+      "entry": "aid",
+      "id": "aid_2#aid_2__7"
+    },
+    {
+      "comment": "[money]{money}, [food]{food}, or [clothes]{clothes} [given_1]{given} to [poor_1]{poor} [people_1]{people}",
+      "entry": "alms",
+      "id": "alms#alms__1"
+    },
+    {
+      "comment": "an [organization]{organization}, [plan_1]{plan}, or [activity]{activity} that you are [willing]{willing} to [support_1]{support} because it [provide]{provides} [help_1]{help} or [benefit_1]{benefit} to [people_1]{people} who [need_1]{need} it",
+      "entry": "cause",
+      "id": "cause_1#cause_1__12"
+    },
+    {
+      "comment": "[intended_1]{intended} to [help_1]{help} [people_1]{people} who are [poor_1]{poor} or [sick_1]{sick}, or who [need_1]{need} [advice]{advice} and [support_1]{support}",
+      "entry": "charitable",
+      "id": "charitable#charitable__1"
+    },
+    {
+      "comment": "[money]{money} or [food]{food} that is [given_1]{given} to [people_1]{people} who are [poor_1]{poor} or [sick_1]{sick} so that they can [live_1]{live}",
+      "entry": "charity",
+      "id": "charity#charity__7"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you should take [care_1]{care} of yourself, your own [family_1]{family}, [friend_1]{friends}, or [country]{country} before you [start_1]{start} [helping]{helping} other [people_1]{people}",
+      "entry": "charity begins at home",
+      "id": "charity-begins-at-home#charity-begins-at-home__1"
+    },
+    {
+      "comment": "a container for money that is given to a charity",
+      "entry": "collection box",
+      "id": "collection-box#collection-box__1"
+    },
+    {
+      "comment": "[money]{money} that [people_1]{people} and [business]{businesses} in a [community]{community} give to [local_1]{local} [organization]{organizations} that [help_1]{help} [people_1]{people}",
+      "entry": "community chest",
+      "id": "community-chest#community-chest__1"
+    },
+    {
+      "comment": "[work_1]{work} without [payment]{payment} that someone [does]{does} to [help_1]{help} their [local_1]{local} [community]{community}",
+      "entry": "community service",
+      "id": "community-service#community-service__3"
+    },
+    {
+      "comment": "to give something such as money or goods to an organization, especially to a school, hospital, political party, or charity",
+      "entry": "donate",
+      "id": "donate#donate__1"
+    },
+    {
+      "comment": "[money]{money} or [goods]{goods} that you give to an [organization]{organization}, [especially]{especially} one that [help_1]{helps} [people_1]{people}",
+      "entry": "donation",
+      "id": "donation#donation__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [give_1]{giving} [money]{money} or [goods]{goods} to an [organization]{organization}",
+      "entry": "donation",
+      "id": "donation#donation__3"
+    },
+    {
+      "comment": "someone who gives money or goods to an organization, especially one that helps people. The usual word is donor.",
+      "entry": "donator",
+      "id": "donator#donator__1"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [thing]{things} such as [money]{money} or [goods]{goods} to an [organization]{organization}, [especially]{especially} one that [help_1]{helps} [people_1]{people}",
+      "entry": "donor",
+      "id": "donor#donor__6"
+    },
+    {
+      "comment": "to give [money]{money} to a [school_1]{school}, [hospital]{hospital}, or other [institution]{institution}",
+      "entry": "endow",
+      "id": "endow#endow__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [give_1]{giving} [money]{money} to a [college]{college}, [hospital]{hospital}, or other [institution]{institution}",
+      "entry": "endowment",
+      "id": "endowment#endowment__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that someone [give_1]{gives} to an [institution]{institution}",
+      "entry": "endowment",
+      "id": "endowment#endowment__2"
+    },
+    {
+      "comment": "to pay money to charity  (=organizations that help people)",
+      "entry": "give",
+      "id": "give_1#give_1__56"
+    },
+    {
+      "comment": "someone who [give_1]{gives}, [especially]{especially} to [charity]{charity}",
+      "entry": "giver",
+      "id": "giver#giver__1"
+    },
+    {
+      "comment": "an amount of [money]{money} or [goods]{goods} [given_1]{given} to [people_1]{people} who [need_1]{need} them",
+      "entry": "handout",
+      "id": "handout#handout__1"
+    },
+    {
+      "comment": "relating to efforts to help people who are living in very bad conditions and are suffering because of a war, flood, earthquake etc.",
+      "entry": "humanitarian",
+      "id": "humanitarian_1#humanitarian_1__1"
+    },
+    {
+      "comment": "someone who [help_1]{helps} [people_1]{people} who [live_1]{live} in very [bad_1]{bad} [condition_1]{conditions} or [receive]{receive} [unfair]{unfair} [treatment]{treatment}",
+      "entry": "humanitarian",
+      "id": "humanitarian_2#humanitarian_2__1"
+    },
+    {
+      "comment": "if an [event]{event} is in [aid_1]{aid} of an [organization]{organization} or [group_1]{group}, it is [held]{held} to [make_1]{make} [money]{money} to [help_1]{help} that [organization]{organization} or [group_1]{group}",
+      "entry": "in aid of",
+      "id": "in-aid-of#in-aid-of__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [providing]{providing} [help_1]{help} and [advice]{advice} to [people_1]{people} in a [community]{community} before they have to [ask_1]{ask} for it",
+      "entry": "outreach",
+      "id": "outreach#outreach__1"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [patronize]{patronize}",
+      "entry": "patronise",
+      "id": "patronise#patronise__1"
+    },
+    {
+      "comment": "to [support_1]{support} an [organization]{organization}, [especially]{especially} by [give_1]{giving} [money]{money} to it",
+      "entry": "patronize",
+      "id": "patronize#patronize__4"
+    },
+    {
+      "comment": "[helping]{helping} [people_1]{people}, [especially]{especially} by [give_1]{giving} [money]{money} to those who [need_1]{need} it",
+      "entry": "philanthropic",
+      "id": "philanthropic#philanthropic__1"
+    },
+    {
+      "comment": "the [belief]{belief} that you should [help_1]{help} [people_1]{people}, [especially]{especially} by [give_1]{giving} [money]{money} to those who [need_1]{need} it",
+      "entry": "philanthropy",
+      "id": "philanthropy#philanthropy__1"
+    },
+    {
+      "comment": "[food]{food}, [clothes]{clothes}, and [money]{money} [given_1]{given} to [people_1]{people} who are in [urgent]{urgent} [need_1]{need} of [help_1]{help}, for [example]{example} because of a war or other [bad_1]{bad} [situation]{situation}",
+      "entry": "relief",
+      "id": "relief#relief__7"
+    },
+    {
+      "comment": "to agree to give money to someone who is going to take part in a charity event",
+      "entry": "sponsor",
+      "id": "sponsor_1#sponsor_1__3"
+    },
+    {
+      "comment": "to give [money]{money} in [order_1]{order} to [help_1]{help} someone who [lives]{lives} in another [country]{country}",
+      "entry": "sponsor",
+      "id": "sponsor_1#sponsor_1__4"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [money]{money} in [order_1]{order} to [help_1]{help} someone who [lives]{lives} in another [country]{country}",
+      "entry": "sponsor",
+      "id": "sponsor_2#sponsor_2__2"
+    },
+    {
+      "comment": "someone who agrees to give money to someone who is taking part in a charity event",
+      "entry": "sponsor",
+      "id": "sponsor_2#sponsor_2__3"
+    },
+    {
+      "comment": "[money]{money} [given_1]{given} to a [country]{country} or [area]{area} where [people_1]{people} [need_1]{need} it, but they have to [agree]{agree} to [spend]{spend} it only on [goods]{goods} and [service_1]{services} [provided]{provided} by the [country]{country} or [organization]{organization} that has [given_1]{given} the [money]{money}",
+      "entry": "tied aid",
+      "id": "tied-aid#tied-aid__1"
+    },
+    {
+      "comment": "a [voluntary_1]{voluntary} [organization]{organization} [does]{does} [important]{important} [work_1]{work} for the [community]{community} but is not part of the [official_1]{official} [government]{government} [service_1]{services}, and [usually]{usually} has to [raise_1]{raise} all its [money]{money} by [itself]{itself}",
+      "entry": "voluntary",
+      "id": "voluntary_1#voluntary_1__9"
+    }
+  ],
+  "thesaurus": "Charity and giving money to charity",
+  "type": "Related words"
+}

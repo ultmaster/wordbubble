@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "you don\u2019t say",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you are [surprised]{surprised} by what someone has [told]{told} you",
+      "examples": [
+        "\u201cHe\u2019s [just_1]{just} [won]{won} the [lottery]{lottery}.\u201d \u201cYou don\u2019t [say_1]{say}!\u201d"
+      ],
+      "id": "you-don-t-say__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you are not [surprised]{surprised} by what someone has [told]{told} you",
+      "examples": [
+        "\u201cHe [phone_2]{phoned} in [sick_1]{sick} again this [morning_1]{morning}.\u201d \u201cYou don\u2019t [say_1]{say}!\u201d"
+      ],
+      "id": "you-don-t-say__3"
+    }
+  ]
+}

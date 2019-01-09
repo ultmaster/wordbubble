@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "if a CD [chart_1]{charts}, it [sell_1]{sells} enough [copy_1]{copies} to [appear]{appear} on the [chart_1]{charts}",
+      "entry": "chart",
+      "id": "chart_2#chart_2__6"
+    },
+    {
+      "comment": "a [list_1]{list} [showing]{showing} the CDs that [people_1]{people} have [bought]{bought} the most [copy_1]{copies} of in the [previous_1]{previous} [week]{week}",
+      "entry": "the charts",
+      "id": "chart_1#chart_1__6"
+    },
+    {
+      "comment": "[selling]{selling} the most [copy_1]{copies} of a CD in a [particular_1]{particular} [week]{week}",
+      "entry": "chart-topping",
+      "id": "chart-topping#chart-topping__1"
+    },
+    {
+      "comment": "an [informal]{informal} way of [writing]{writing} \u201cDJ\u201d that [show_1]{shows} how it [sound_1]{sounds}",
+      "entry": "deejay",
+      "id": "deejay#deejay__1"
+    },
+    {
+      "comment": "a DJ",
+      "entry": "disc jockey",
+      "id": "disc-jockey#disc-jockey__1"
+    },
+    {
+      "comment": "an American [spelling]{spelling} of [disc]{disc} [jockey_1]{jockey}",
+      "entry": "disk jockey",
+      "id": "disk-jockey#disk-jockey__1"
+    },
+    {
+      "comment": "[disc]{disc} [jockey_1]{jockey}: someone who [play_1]{plays} CDs and [record_1]{records} in a [club_1]{club}, etc.",
+      "entry": "DJ",
+      "id": "dj_1#dj_1__1"
+    },
+    {
+      "comment": "to [work_1]{work} as a DJ",
+      "entry": "DJ",
+      "id": "dj_2#dj_2__1"
+    },
+    {
+      "comment": "a [list_1]{list} of the most [popular]{popular} [song]{songs} during a [particular_1]{particular} [week]{week}, [base_2]{based} on the [number_1]{number} of [record_1]{records} [sold]{sold}.",
+      "entry": "the hit parade",
+      "id": "the-hit-parade#the-hit-parade__1"
+    },
+    {
+      "comment": "a period during which a musician or DJ works regularly in a particular place or club",
+      "entry": "residency",
+      "id": "residency#residency__4"
+    },
+    {
+      "comment": "the ten most [popular]{popular} [song]{songs} or CDs [sold]{sold} during a [particular_1]{particular} [week]{week}",
+      "entry": "the Top Ten",
+      "id": "the-top-ten#the-top-ten__1"
+    }
+  ],
+  "thesaurus": "The music industry",
+  "type": "Related words"
+}

@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "something that you experience in your mind while you are sleeping. A dream in which frightening things happen is called a bad dream or a nightmare",
+      "entry": "dream",
+      "id": "dream_1#dream_1__1"
+    },
+    {
+      "comment": "to [experience_1]{experience} [thing]{things} in your [mind_1]{mind} while you are [sleep_1]{sleeping}",
+      "entry": "dream",
+      "id": "dream_2#dream_2__1"
+    },
+    {
+      "comment": "a cause of [worry_1]{worry}, [especially]{especially} a [bad_1]{bad} [dream_1]{dream}",
+      "entry": "incubus",
+      "id": "incubus#incubus__1"
+    },
+    {
+      "comment": "a very [frightening]{frightening} and [unpleasant]{unpleasant} [dream_1]{dream}",
+      "entry": "nightmare",
+      "id": "nightmare#nightmare__1"
+    },
+    {
+      "comment": "a dream involving sex that causes a man to ejaculate while he is sleeping",
+      "entry": "wet dream",
+      "id": "wet-dream#wet-dream__1"
+    }
+  ],
+  "thesaurus": "Dreaming and dreams",
+  "type": "Related words"
+}

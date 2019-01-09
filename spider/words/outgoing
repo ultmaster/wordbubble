@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is outgoing is [friendly_1]{friendly} and [enjoy]{enjoys} [meeting]{meeting} and [talk_1]{talking} to [people_1]{people}",
+      "examples": [
+        "Norman is very [shy_1]{shy} but his [wife]{wife}\u2019s outgoing."
+      ],
+      "id": "outgoing__1"
+    },
+    {
+      "def": "[soon]{soon} to [leave_1]{leave} a [position_1]{position} of [authority]{authority} or [power_1]{power}",
+      "examples": [
+        "the outgoing [mayor]{mayor}"
+      ],
+      "id": "outgoing__3"
+    },
+    {
+      "def": "[going_1]{going} out of or [away_1]{away} from a [place_1]{place}",
+      "examples": [
+        "outgoing [mail_1]{mail}",
+        "outgoing [flight]{flights}"
+      ],
+      "id": "outgoing__5"
+    }
+  ],
+  "word": "outgoing"
+}

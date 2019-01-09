@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if you are dependent on someone or something, you [need_1]{need} them in [order_1]{order} to [live_1]{live} or [succeed]{succeed}",
+      "examples": [
+        "a [married]{married} [couple_1]{couple} with dependent [children]{children}",
+        "They hate being dependent on their [parent]{parents}."
+      ],
+      "id": "dependent_1__1"
+    },
+    {
+      "def": "if one thing is dependent on another, it is [affected]{affected} by the other thing and [change_1]{changes} if the other thing [change_1]{changes}",
+      "examples": [
+        "Your [pay_1]{pay} is dependent on your [work_1]{work} [experience_1]{experience}."
+      ],
+      "id": "dependent_1__4"
+    }
+  ],
+  "word": "dependent"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [important]{important} has a [major_1]{major} [effect_1]{effect} on someone or something, for [example]{example} because it [affect_1]{affects} someone\u2019s [life]{life} or the way a [situation]{situation} [develop]{develops}",
+      "entry": "important",
+      "id": "important#important__1"
+    },
+    {
+      "comment": "[important]{important}, serious, [large_1]{large}, or [great_1]{great}",
+      "entry": "major",
+      "id": "major_1#major_1__1"
+    },
+    {
+      "comment": "very [important]{important}",
+      "entry": "key",
+      "id": "key_2#key_2__1"
+    },
+    {
+      "comment": "[important]{important} and [deserving]{deserving} [attention]{attention}",
+      "entry": "serious",
+      "id": "serious#serious__6"
+    },
+    {
+      "comment": "very [important]{important}, [necessary_1]{necessary}, or [essential_1]{essential}",
+      "entry": "vital",
+      "id": "vital#vital__1"
+    },
+    {
+      "comment": "something that is [crucial]{crucial} is [extremely]{extremely} [important]{important} because it has a [major_1]{major} [effect_1]{effect} on the [result_1]{result} of something",
+      "entry": "crucial",
+      "id": "crucial#crucial__1"
+    },
+    {
+      "comment": "very [important]{important}",
+      "entry": "significant",
+      "id": "significant#significant__5"
+    },
+    {
+      "comment": "[essential_1]{essential} to the [existence]{existence}, [development]{development}, or [success]{success} of something",
+      "entry": "fundamental",
+      "id": "fundamental#fundamental__6"
+    },
+    {
+      "comment": "something that is [central]{central} is [extremely]{extremely} [important]{important}, and often [cause_1]{causes} something else to [happen]{happen} or [develop]{develop}",
+      "entry": "central",
+      "id": "central#central__15"
+    },
+    {
+      "comment": "serious, [useful]{useful}, or [important]{important}",
+      "entry": "meaningful",
+      "id": "meaningful#meaningful__1"
+    }
+  ],
+  "thesaurus": "Important",
+  "type": "Synonyms"
+}

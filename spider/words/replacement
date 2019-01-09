@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone or something that [take_1]{takes} the [place_1]{place} or [does]{does} the [job_1]{job} of another",
+      "examples": [
+        "He [wasted]{wasted} [little_1]{little} time in [find_1]{finding} a replacement for me."
+      ],
+      "id": "replacement__1"
+    },
+    {
+      "def": "the [process_1]{process} of [replace]{replacing} one [person]{person} or thing with another",
+      "examples": [
+        "The [computer]{computers} are [out-of-date]{out-of-date} and [require]{require} replacement.",
+        "replacement [hormone]{hormones}",
+        "a replacement [valve]{valve}"
+      ],
+      "id": "replacement__3"
+    }
+  ],
+  "word": "replacement"
+}

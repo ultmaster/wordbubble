@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something [sell_1]{sells}, [people_1]{people} [buy_1]{buy} it",
+      "entry": "sell",
+      "id": "sell_1#sell_1__9"
+    },
+    {
+      "comment": "to be sold for a particular amount of money, especially at an auction  (=sale where goods are sold to the person offering the most money)",
+      "entry": "fetch",
+      "id": "fetch#fetch__1"
+    },
+    {
+      "comment": "to be [sold]{sold} [directly_1]{directly} to the [public_1]{public} for their own use",
+      "entry": "retail",
+      "id": "retail_2#retail_2__3"
+    },
+    {
+      "comment": "to be [sold]{sold} for a [particular_1]{particular} amount of [money]{money}",
+      "entry": "go for",
+      "id": "go-for#go-for__13"
+    },
+    {
+      "comment": "to be [sold]{sold} or [produce_1]{produced}",
+      "entry": "come",
+      "id": "come_1#come_1__33"
+    },
+    {
+      "comment": "to be [sold]{sold}",
+      "entry": "go",
+      "id": "go_1#go_1__89"
+    },
+    {
+      "comment": "to be [bought]{bought} by more [people_1]{people} than something else is",
+      "entry": "outsell",
+      "id": "outsell#outsell__1"
+    },
+    {
+      "comment": "[used]{used} about [product]{products} or other [thing]{things} [people_1]{people} [sell_1]{sell}",
+      "entry": "sell out",
+      "id": "sell-out#sell-out__4"
+    },
+    {
+      "comment": "to be [sold]{sold} very [quickly]{quickly} in [large_1]{large} [quantity]{quantities}",
+      "entry": "go/sell like hot cakes",
+      "id": "hot-cakes#hot-cakes__2"
+    },
+    {
+      "comment": "to be sold at an auction  (=a public sale in which objects are sold to the person who offers the most money)",
+      "entry": "come/go under the hammer",
+      "id": "come-go-under-the-hammer#come-go-under-the-hammer__1"
+    }
+  ],
+  "thesaurus": "To be sold or for sale",
+  "type": "Synonyms"
+}

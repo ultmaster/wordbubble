@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "feel awful",
+  "senses": [
+    {
+      "def": "to [feel_1]{feel} [guilty]{guilty} or [sad_1]{sad}",
+      "examples": [
+        "I [feel_1]{feel} [awful_1]{awful} about not [inviting]{inviting} her."
+      ],
+      "id": "feel-awful__1"
+    },
+    {
+      "def": "to [feel_1]{feel} [sick_1]{sick} or [unhappy]{unhappy}",
+      "examples": [
+        "She [said_1]{said} she had a [sore_1]{sore} [throat]{throat} and was [feeling_1]{feeling} [awful_1]{awful}."
+      ],
+      "id": "feel-awful__3"
+    }
+  ]
+}

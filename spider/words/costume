@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[clothes]{clothes} that [performer]{performers} [wear_1]{wear} in a [play_1]{play}, [movie]{movie}, etc.",
+      "examples": [
+        "The [costume]{costumes}, [set_1]{sets}, and [acting_1]{acting} are all [superb]{superb}.",
+        "a costume [designer_1]{designer}"
+      ],
+      "id": "costume__1"
+    },
+    {
+      "def": "[clothes]{clothes} that you [wear_1]{wear} at a costume party, [pretend_1]{pretending} to be a [famous_1]{famous} [person]{person}, an [animal_1]{animal}, a [character]{character} from a [story]{story}, etc.",
+      "examples": [],
+      "id": "costume__4"
+    },
+    {
+      "def": "[clothes]{clothes} that are [typical]{typical} of a [particular_1]{particular} [place_1]{place} or of a [period_1]{period} in [history]{history}",
+      "examples": [
+        "[dancer]{dancers} in [traditional]{traditional} [costume]{costumes}",
+        "They were all [dressed]{dressed} in 18th-century costume."
+      ],
+      "id": "costume__5"
+    }
+  ],
+  "word": "costume"
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[physically]{physically} [weak]{weak} and not very [healthy]{healthy}",
+      "examples": [
+        "He is frail, but still [manage]{manages} to [walk_1]{walk} with a [cane_1]{cane}."
+      ],
+      "id": "frail__1"
+    },
+    {
+      "def": "not [strong]{strong} and therefore [likely_1]{likely} to be [damage_2]{damaged} or [destroy]{destroyed}",
+      "examples": [
+        "a [garden_1]{garden} with a frail [wooden]{wooden} [fence_1]{fence} around it",
+        "[attempt_1]{attempts} to [rebuild]{rebuild} the frail [economy_1]{economy}"
+      ],
+      "id": "frail__3"
+    }
+  ],
+  "word": "frail"
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[going_1]{going} to all the [house_1]{houses} in a [particular_1]{particular} [area]{area}, for [example]{example} in [order_1]{order} to [sell_1]{sell} something or to [ask_1]{ask} for [information]{information} or [vote_1]{votes}",
+      "examples": [
+        "a door-to-door [salesman]{salesman}",
+        "a door-to-door [collection]{collection} for a [conservation]{conservation} [fund_1]{fund}"
+      ],
+      "id": "door-to-door__1"
+    },
+    {
+      "def": "[take_1]{taking} someone or something [directly_1]{directly} from one [place_1]{place} to the [place_1]{place} they [need_1]{need} to go to",
+      "examples": [
+        "a door-to-door [delivery]{delivery} [service_1]{service}"
+      ],
+      "id": "door-to-door__4"
+    }
+  ],
+  "word": "door-to-door"
+}

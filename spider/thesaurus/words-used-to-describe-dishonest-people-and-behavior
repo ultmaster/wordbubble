@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[willing]{willing} to do [thing]{things} that are not [honest]{honest}, for [example]{example} [tell_1]{tell} [lie_1]{lies} or [steal_1]{steal} [thing]{things}",
+      "entry": "dishonest",
+      "id": "dishonest#dishonest__1"
+    },
+    {
+      "comment": "made with the [intention]{intention} of [trick_2]{tricking} someone, [especially]{especially} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "fraudulent",
+      "id": "fraudulent#fraudulent__1"
+    },
+    {
+      "comment": "[willing]{willing} to do [thing]{things} that are [unfair]{unfair}, [dishonest]{dishonest}, or [illegal_1]{illegal}",
+      "entry": "unscrupulous",
+      "id": "unscrupulous#unscrupulous__1"
+    },
+    {
+      "comment": "[behave]{behaving} [dishonest#dishonest__3]{dishonestly} in [order_1]{order} to [trick_1]{trick} [people_1]{people}",
+      "entry": "deceitful",
+      "id": "deceitful#deceitful__1"
+    },
+    {
+      "comment": "[willing]{willing} to use [dishonest]{dishonest} or [unfair]{unfair} [method]{methods} in [order_1]{order} to get what you [want_1]{want}",
+      "entry": "unprincipled",
+      "id": "unprincipled#unprincipled__1"
+    },
+    {
+      "comment": "[doing]{doing} [dishonest]{dishonest}, [illegal_1]{illegal}, or [immoral]{immoral} [thing]{things} in [order_1]{order} to gain [money]{money} or [power_1]{power}",
+      "entry": "corrupt",
+      "id": "corrupt_1#corrupt_1__1"
+    },
+    {
+      "comment": "not [honest]{honest} or [true_1]{true}",
+      "entry": "untruthful",
+      "id": "untruthful#untruthful__1"
+    },
+    {
+      "comment": "not [completely]{completely} [good_1]{good}, [safe_1]{safe}, or [honest]{honest}",
+      "entry": "dubious",
+      "id": "dubious#dubious__4"
+    },
+    {
+      "comment": "[dishonest]{dishonest} and [clever]{clever}",
+      "entry": "devious",
+      "id": "devious#devious__1"
+    },
+    {
+      "comment": "[dishonest]{dishonest} or not [reliable]{reliable}",
+      "entry": "sketchy",
+      "id": "sketchy#sketchy__5"
+    },
+    {
+      "comment": "[unfair]{unfair} or not [respectful]{respectful} towards other [player]{players} when [play_1]{playing} [sport_1]{sports}",
+      "entry": "unsportsmanlike",
+      "id": "unsportsmanlike#unsportsmanlike__1"
+    }
+  ],
+  "thesaurus": "Words used to describe dishonest people and behavior",
+  "type": "Synonyms"
+}

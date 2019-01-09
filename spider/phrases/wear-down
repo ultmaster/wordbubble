@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "wear down",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [gradually]{gradually} [lose]{lose} their [energy]{energy} or [confidence]{confidence}",
+      "examples": [
+        "They were [worn_1]{worn} down by the [stress_1]{stress} of [caring]{caring} for five [children]{children}.",
+        "[slowly]{Slowly} he [wore]{wore} his [opponent]{opponent} down."
+      ],
+      "id": "wear-down__1"
+    },
+    {
+      "def": "to [make_1]{make} something [gradually]{gradually} [disappear]{disappear} or become [thinner]{thinner} by [use_1]{using} or [rubbing]{rubbing} it",
+      "examples": [
+        "The [old]{old} [stone_1]{stone} [step_1]{steps} had been [worn_1]{worn} down by [year]{years} of use."
+      ],
+      "id": "wear-down__4"
+    }
+  ]
+}

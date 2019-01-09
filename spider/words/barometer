@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [equipment]{equipment} that [show_1]{shows} you what [kind_1]{kind} of [weather_1]{weather} to [expect]{expect}. It [measure_1]{measures} atmospheric pressure.",
+      "examples": [],
+      "id": "barometer__1"
+    },
+    {
+      "def": "something that [show_1]{shows} how a [situation]{situation} is [change_1]{changing} or how [people_1]{people} [feel_1]{feel} about something",
+      "examples": [
+        "[investment]{Investment} [level_1]{levels} are [seen]{seen} as a [good_1]{good} barometer of [business]{business} [confidence]{confidence}."
+      ],
+      "id": "barometer__2"
+    }
+  ],
+  "word": "barometer"
+}

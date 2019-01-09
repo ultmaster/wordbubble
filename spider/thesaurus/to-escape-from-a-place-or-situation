@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to get [away_1]{away} from a [place_1]{place} where you are in [danger]{danger}",
+      "entry": "escape",
+      "id": "escape_1#escape_1__1"
+    },
+    {
+      "comment": "to [escape_1]{escape} from a [person]{person} or [place_1]{place}",
+      "entry": "get away",
+      "id": "get-away#get-away__1"
+    },
+    {
+      "comment": "to [escape_1]{escape} from a [person]{person}, [place_1]{place}, or [situation]{situation}",
+      "entry": "break away",
+      "id": "break-away#break-away__1"
+    },
+    {
+      "comment": "to [escape_1]{escape} from a [dangerous]{dangerous} [situation]{situation} or [place_1]{place} very [quickly]{quickly}",
+      "entry": "flee",
+      "id": "flee#flee__1"
+    },
+    {
+      "comment": "to go somewhere [quickly]{quickly}, [especially]{especially} in [order_1]{order} to [escape_1]{escape}",
+      "entry": "break for",
+      "id": "break-for#break-for__1"
+    },
+    {
+      "comment": "to [escape_1]{escape} from something such as a [situation]{situation} or way of [life]{life}",
+      "entry": "break out",
+      "id": "break-out#break-out__6"
+    },
+    {
+      "comment": "to [escape_1]{escape} from someone who is [chase_1]{chasing} you",
+      "entry": "throw someone off the scent/track",
+      "id": "throw-off#throw-off__3"
+    },
+    {
+      "comment": "to [escape_1]{escape} from a [place_1]{place}",
+      "entry": "bolt",
+      "id": "bolt_2#bolt_2__4"
+    },
+    {
+      "comment": "to [suddenly]{suddenly} [run_1]{run} [away_1]{away} from someone in [order_1]{order} to [escape_1]{escape}",
+      "entry": "make a break (for something)",
+      "id": "make-a-break-for-something#make-a-break-for-something__1"
+    },
+    {
+      "comment": "to [escape_1]{escape} with something, [especially]{especially} something [stolen]{stolen}",
+      "entry": "make off with",
+      "id": "make-off-with#make-off-with__1"
+    }
+  ],
+  "thesaurus": "To escape from a place or situation",
+  "type": "Synonyms"
+}

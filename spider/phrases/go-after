@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "go after",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to [catch_1]{catch} or [stop_1]{stop} someone",
+      "examples": [
+        "You\u2019d [better_1]{better} go after her and [tell_1]{tell} her you\u2019re [sorry]{sorry}.",
+        "It would be [dangerous]{dangerous} to go after the [killer]{killer} on your own."
+      ],
+      "id": "go-after__1"
+    },
+    {
+      "def": "to [try_1]{try} to get something that other [people_1]{people} are also [competing]{competing} for",
+      "examples": [
+        "Our [company]{company} is [going_1]{going} after the [software]{software} [market_1]{market} in [southern]{southern} California."
+      ],
+      "id": "go-after__5"
+    }
+  ]
+}

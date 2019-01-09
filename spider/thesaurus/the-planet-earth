@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "the [planet]{planet} that we [live_1]{live} on",
+      "entry": "the world",
+      "id": "world#world__1"
+    },
+    {
+      "comment": "the [land_1]{land} on which we [live_1]{live}",
+      "entry": "the earth",
+      "id": "earth#earth__6"
+    },
+    {
+      "comment": "the planet Earth and everyone and everything on it: used, for example, when you are talking about the environment",
+      "entry": "the planet",
+      "id": "planet#planet__4"
+    },
+    {
+      "comment": "the world: used for referring to the world as the place where everything comes from",
+      "entry": "Mother Earth",
+      "id": "mother-earth#mother-earth__1"
+    },
+    {
+      "comment": "the [world]{world}",
+      "entry": "the globe",
+      "id": "globe#globe__2"
+    }
+  ],
+  "thesaurus": "The planet Earth",
+  "type": "Synonyms"
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [perform]{performing} or [react]{reacting} as well as [usual]{usual}",
+      "examples": [
+        "Sasha [woke_1]{woke} up [feeling_1]{feeling} [tired]{tired} and sluggish.",
+        "a sluggish [economy_1]{economy}"
+      ],
+      "id": "sluggish__1"
+    },
+    {
+      "def": "not [moving]{moving} as [quickly]{quickly} as [usual]{usual}",
+      "examples": [
+        "a sluggish [stream_1]{stream}"
+      ],
+      "id": "sluggish__4"
+    }
+  ],
+  "word": "sluggish"
+}

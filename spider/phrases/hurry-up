@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "hurry up",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone do something more [quickly]{quickly}, or to [make_1]{make} something [happen]{happen} [sooner]{sooner}",
+      "examples": [
+        "[try_1]{Try} and [hurry_1]{hurry} her up a [bit_1]{bit} or we\u2019ll be [late_1]{late}."
+      ],
+      "id": "hurry-up__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone to do something more [quickly]{quickly}",
+      "examples": [
+        "[hurry_1]{Hurry} up and [finish_1]{finish} your [soup_1]{soup}."
+      ],
+      "id": "hurry-up__3"
+    },
+    {
+      "def": "to do something or move somewhere more [quickly]{quickly}",
+      "examples": [
+        "She [wish_1]{wished} George would [hurry_1]{hurry} up with her [cup_1]{cup} of [tea]{tea}."
+      ],
+      "id": "hurry-up__5"
+    }
+  ]
+}

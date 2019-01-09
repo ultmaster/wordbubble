@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "[money]{money} that a [government]{government} [give_1]{gives} to a [person]{person}, [group_1]{group}, or [organization]{organization} that it [wish_1]{wishes} to [help_1]{help}",
+      "entry": "aid",
+      "id": "aid_1#aid_1__4"
+    },
+    {
+      "comment": "[house_1]{houses} or [apartment]{apartments} that are [design_2]{designed} for [people_1]{people}, such as [old]{old} or [sick_1]{sick} [people_1]{people}, who [need_1]{need} [help_1]{help} in [doing]{doing} [ordinary]{ordinary} [thing]{things}",
+      "entry": "assisted living",
+      "id": "assisted-living#assisted-living__1"
+    },
+    {
+      "comment": "[payment]{payment} for [people_1]{people} who are [sick_1]{sick} or [unemployed]{unemployed}",
+      "entry": "benefit",
+      "id": "benefit_1#benefit_1__16"
+    },
+    {
+      "comment": "in some European [country]{countries}, [money]{money} that the [government]{government} [give_1]{gives} [regularly]{regularly} to all [family_1]{families} with [children]{children} to take [care_1]{care} of",
+      "entry": "child benefit",
+      "id": "child-benefit#child-benefit__1"
+    },
+    {
+      "comment": "[money]{money} that a [parent]{parent} who [does]{does} not [live_1]{live} with his or her [children]{children} [give_1]{gives} to the [parent]{parent} who [does]{does} [live_1]{live} with them, to [help_1]{help} [support_1]{support} them",
+      "entry": "child support",
+      "id": "child-support#child-support__1"
+    },
+    {
+      "comment": "[unemployment]{unemployment} [compensation]{compensation}",
+      "entry": "dole",
+      "id": "dole_2#dole_2__1"
+    },
+    {
+      "comment": "an [examination]{examination} of your [income]{income} in [order_1]{order} to find out whether you have the [right_1]{right} to [receive]{receive} any [extra_1]{extra} [money]{money} from the [government]{government}",
+      "entry": "means test",
+      "id": "means-test#means-test__1"
+    },
+    {
+      "comment": "[money]{money} that [people_1]{people} who are [unemployed]{unemployed} get from the [government]{government}",
+      "entry": "pogey",
+      "id": "pogey#pogey__1"
+    },
+    {
+      "comment": "[money]{money} [given_1]{given} by the [government]{government} to [help_1]{help} [people_1]{people} who are [poor_1]{poor}, [old]{old}, or [unable]{unable} to [work_1]{work}",
+      "entry": "relief",
+      "id": "relief#relief__10"
+    },
+    {
+      "comment": "money that someone receives from the government as a social security payment",
+      "entry": "the social",
+      "id": "social_2#social_2__2"
+    },
+    {
+      "comment": "[money]{money} that you [receive]{receive} from [social_1]{social} [security]{security}",
+      "entry": "social security",
+      "id": "social-security#social-security__2"
+    },
+    {
+      "comment": "[social_1]{social} [security]{security}",
+      "entry": "SS",
+      "id": "ss_1#ss_1__3"
+    },
+    {
+      "comment": "[supplementary]{Supplemental} [security]{Security} [income]{Income}: [money]{money} that the U.S. [government]{government} [give_1]{gives} to [people_1]{people} over 65 and to [disabled]{disabled} [people_1]{people} who are [poor_1]{poor}",
+      "entry": "SSI",
+      "id": "ssi#ssi__1"
+    },
+    {
+      "comment": "[social_1]{Social} [security]{Security} [number_1]{Number}: an [individual_1]{individual} [number_1]{number} that every U.S. [citizen]{citizen} must get from the [government]{government} if they [earn]{earn} an [income]{income}",
+      "entry": "SSN",
+      "id": "ssn#ssn__1"
+    },
+    {
+      "comment": "in the U.K., an amount of [money]{money} that the [government]{government} [give_1]{gives} to [people_1]{people} who are [poor_1]{poor}, [sick_1]{sick}, or do not have a [job_1]{job}",
+      "entry": "state benefit",
+      "id": "state-benefit#state-benefit__1"
+    },
+    {
+      "comment": "[universal_1]{universal} or [unconditional]{unconditional} [basic_1]{basic} [income]{income}: an [income]{income} that is [provided]{provided} by the [government]{government} for all [citizen]{citizens} or [resident_1]{residents}, without any [obligation]{obligation} to [work_1]{work} or [look_1]{look} for [work_1]{work}",
+      "entry": "UBI",
+      "id": "ubi#ubi__1"
+    },
+    {
+      "comment": "[unemployment]{unemployment} [compensation]{compensation}",
+      "entry": "unemployment",
+      "id": "unemployment#unemployment__6"
+    },
+    {
+      "comment": "[unemployment]{unemployment} [compensation]{compensation}",
+      "entry": "unemployment benefit",
+      "id": "unemployment-benefit#unemployment-benefit__1"
+    },
+    {
+      "comment": "[money]{money} [provided]{provided} by the [government]{government} to someone who [lose]{loses} their [job_1]{job} until they find another [job_1]{job}",
+      "entry": "unemployment compensation",
+      "id": "unemployment-compensation#unemployment-compensation__1"
+    },
+    {
+      "comment": "an income that is provided by the government for all citizens or residents, without any obligation to work or look for work. It is often simply called UBI.",
+      "entry": "universal basic income",
+      "id": "universal-basic-income#universal-basic-income__1"
+    },
+    {
+      "comment": "money given to people who do not have work or who are in need. The usual British word is benefit",
+      "entry": "welfare",
+      "id": "welfare#welfare__3"
+    }
+  ],
+  "thesaurus": "Financial help given by the government",
+  "type": "Related words"
+}

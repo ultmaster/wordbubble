@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "something that [keep_1]{keeps} one thing [apart]{apart} from another",
+      "entry": "separator",
+      "id": "separator#separator__1"
+    },
+    {
+      "comment": "an [object_1]{object} [used]{used} for [showing]{showing} where something is or where you should go",
+      "entry": "marker",
+      "id": "marker#marker__1"
+    },
+    {
+      "comment": "something [used]{used} to [mark_1]{mark} the [place_1]{place} where one thing [end_1]{ends} and another [begin]{begins}",
+      "entry": "divider",
+      "id": "divider#divider__1"
+    },
+    {
+      "comment": "something that [separates]{separates} one thing from another",
+      "entry": "barrier",
+      "id": "barrier#barrier__3"
+    },
+    {
+      "comment": "a [small_1]{small} [object_1]{object} [used]{used} for [marking]{marking} the [position_1]{position} of something",
+      "entry": "peg",
+      "id": "peg_1#peg_1__6"
+    }
+  ],
+  "thesaurus": "Objects used to separate things or mark where things are",
+  "type": "Synonyms"
+}

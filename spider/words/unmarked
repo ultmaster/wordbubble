@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "something that is unmarked has no [word_1]{words} or [symbol]{symbols} on it to show what or where it is",
+      "examples": [
+        "an unmarked [police_1]{police} [car]{car}",
+        "an unmarked [grave_1]{grave}"
+      ],
+      "id": "unmarked__1"
+    },
+    {
+      "def": "in [sport_1]{sports}, an unmarked [player]{player} has a [lot_1]{lot} of [freedom]{freedom} to move because they are not being [marked]{marked} by a [player]{player} from the other [team_1]{team}",
+      "examples": [],
+      "id": "unmarked__4"
+    },
+    {
+      "def": "an unmarked [word_1]{word} or [phrase_1]{phrase} is [generally]{generally} [used]{used} in [normal_1]{normal} [english_1]{English} [instead]{instead} of being, for [example]{example}, [formal_1]{formal} or [informal]{informal}",
+      "examples": [],
+      "id": "unmarked__5"
+    }
+  ],
+  "word": "unmarked"
+}

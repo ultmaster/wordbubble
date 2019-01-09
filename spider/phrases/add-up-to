@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "add up to",
+  "senses": [
+    {
+      "def": "if [separate_1]{separate} [amount_1]{amounts} [add_1]{add} up to a [total_1]{total} amount, together they form that [total_1]{total}",
+      "examples": [
+        "His [business]{business} [expense_1]{expenses} [add_1]{add} up to around $4,000 a [year]{year}."
+      ],
+      "id": "add-up-to__1"
+    },
+    {
+      "def": "to [combine_1]{combine} to [produce_1]{produce} a [particular_1]{particular} [result_1]{result} or [effect_1]{effect}",
+      "examples": [
+        "These [new]{new} [measure_1]{measures} do not [add_1]{add} up to [genuine]{genuine} [reform_1]{reform}."
+      ],
+      "id": "add-up-to__3"
+    }
+  ]
+}

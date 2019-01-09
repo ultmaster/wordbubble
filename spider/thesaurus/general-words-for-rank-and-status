@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone\u2019s [level_1]{level} on a [pay_1]{pay} [scale_1]{scale}, and therefore their [level_1]{level} in an [organization]{organization}",
+      "entry": "paygrade",
+      "id": "paygrade#paygrade__1"
+    },
+    {
+      "comment": "the [job_1]{job} someone [does]{does} or the [position_1]{position} they have in [society]{society}",
+      "entry": "walk of life",
+      "id": "walk-of-life#walk-of-life__1"
+    },
+    {
+      "comment": "someone\u2019s [position_1]{position} in a [profession]{profession} or [society]{society}, [especially]{especially} [compared]{compared} with other [people_1]{people}",
+      "entry": "status",
+      "id": "status#status__4"
+    },
+    {
+      "comment": "someone\u2019s [status]{status} in [society]{society} [compared]{compared} to the [status]{status} of other [people_1]{people}",
+      "entry": "rank",
+      "id": "rank_1#rank_1__7"
+    },
+    {
+      "comment": "the [rank_1]{rank} of a [person]{person}, for [example]{example} in their [job_1]{job}",
+      "entry": "grade",
+      "id": "grade_1#grade_1__12"
+    },
+    {
+      "comment": "the [place_1]{place} that someone has in a [society]{society}, which [show_1]{shows} how [rich_1]{rich} or [important]{important} they are",
+      "entry": "level",
+      "id": "level_1#level_1__23"
+    },
+    {
+      "comment": "a [position_1]{position} on a [list_1]{list} that [show_1]{shows} how [good_1]{good} someone or something is [compared]{compared} to others, [especially]{especially} how [good_1]{good} someone is at a [sport_1]{sport}",
+      "entry": "ranking",
+      "id": "ranking_1#ranking_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who have the same [social_1]{social} or [professional_1]{professional} [status]{status}",
+      "entry": "caste",
+      "id": "caste#caste__2"
+    },
+    {
+      "comment": "one of several [level_1]{levels} in an [organization]{organization} or system",
+      "entry": "tier",
+      "id": "tier#tier__3"
+    },
+    {
+      "comment": "a [group_1]{group} or [class_1]{class} in [society]{society}",
+      "entry": "stratum",
+      "id": "stratum#stratum__1"
+    }
+  ],
+  "thesaurus": "General words for rank and status",
+  "type": "Synonyms"
+}

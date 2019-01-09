@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "explain yourself",
+  "senses": [
+    {
+      "def": "to [tell_1]{tell} someone who is [angry]{angry} with you why you [did]{did} something",
+      "examples": [
+        "You have ten [seconds]{seconds} to [explain]{explain} yourself!"
+      ],
+      "id": "explain-yourself__1"
+    },
+    {
+      "def": "to [tell_1]{tell} someone what you mean in a [clear_1]{clear} way that they can [easily]{easily} [understand]{understand}",
+      "examples": [
+        "You\u2019ll have to [explain]{explain} yourself more [clearly]{clearly}."
+      ],
+      "id": "explain-yourself__3"
+    }
+  ]
+}

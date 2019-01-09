@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "an [official_1]{official} [document_1]{document} or [mark_1]{mark} in a [passport]{passport} that [give_1]{gives} you [permission]{permission} to [leave_1]{leave} the [country]{country} you are in",
+      "entry": "exit visa",
+      "id": "exit-visa#exit-visa__1"
+    },
+    {
+      "comment": "a card similar to a credit card that allows people from Mexico to enter the United States",
+      "entry": "laser visa",
+      "id": "laser-visa#laser-visa__1"
+    },
+    {
+      "comment": "an [official_1]{official} [document_1]{document} [contain]{containing} your [photograph_1]{photograph} and [showing]{showing} which [country]{country} you are a [citizen]{citizen} of. You use your [passport]{passport} when [traveling]{traveling} to [foreign]{foreign} [country]{countries}",
+      "entry": "passport",
+      "id": "passport#passport__1"
+    },
+    {
+      "comment": "an [area]{area}, for [example]{example} in an [airport]{airport} or a [railroad_1]{railroad} [station_1]{station}, where your [passport]{passport} is [checked]{checked} when you go from one [country]{country} to another",
+      "entry": "passport control",
+      "id": "passport-control#passport-control__1"
+    },
+    {
+      "comment": "an [official_1]{official} [document_1]{document} [give_1]{giving} you [permission]{permission} to [travel_1]{travel} through one [country]{country} in [order_1]{order} to get to another [country]{country}",
+      "entry": "transit visa",
+      "id": "transit-visa#transit-visa__1"
+    },
+    {
+      "comment": "a passport or visa that you must have to be able to travel between countries",
+      "entry": "travel document",
+      "id": "travel-document#travel-document__1"
+    },
+    {
+      "comment": "an [official_1]{official} [document_1]{document} or [mark_1]{mark} in your [passport]{passport} that [allow]{allows} you to [enter]{enter} or [leave_1]{leave} a [country]{country} for a [specific]{specific} [purpose]{purpose} or [period_1]{period} of time",
+      "entry": "visa",
+      "id": "visa#visa__1"
+    }
+  ],
+  "thesaurus": "Passports and visas",
+  "type": "Related words"
+}

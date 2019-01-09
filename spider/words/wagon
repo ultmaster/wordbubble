@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [vehicle]{vehicle} with four [wheel_1]{wheels} that is [usually]{usually} [pull_1]{pulled} by [horse_1]{horses} and is [used]{used} for [carry_1]{carrying} [heavy_1]{heavy} [load_1]{loads}",
+      "examples": [
+        "[hundred_2]{Hundreds} of [settler]{settlers} [travel_1]{traveled} [west_1]{west} in [covered_1]{covered} [wagon]{wagons}.",
+        "a [horse-drawn]{horse-drawn} wagon"
+      ],
+      "id": "wagon__1"
+    },
+    {
+      "def": "a [small_1]{small} [open_1]{open} [cart_1]{cart} with four [wheel_1]{wheels} and a long [handle_1]{handle}, for [children]{children} to [play_1]{play} with",
+      "examples": [],
+      "id": "wagon__4"
+    },
+    {
+      "def": "a [station-wagon]{station wagon}",
+      "examples": [],
+      "id": "wagon__5"
+    }
+  ],
+  "word": "wagon"
+}

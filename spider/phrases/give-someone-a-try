@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "give someone a try",
+  "senses": [
+    {
+      "def": "to [talk_1]{talk} to someone because they might be [able_1]{able} to [help_1]{help} you or to give you [information]{information}",
+      "examples": [
+        "That [woman]{woman} [look_1]{looks} [like_1]{like} a [local_1]{local} \u2013 give her a [try_1]{try}."
+      ],
+      "id": "give-someone-a-try__1"
+    },
+    {
+      "def": "to give someone an [opportunity]{opportunity} to do something",
+      "examples": [
+        "If you give me a [try_1]{try}, I\u2019ll [work_1]{work} [really]{really} [hard_1]{hard}."
+      ],
+      "id": "give-someone-a-try__3"
+    }
+  ]
+}

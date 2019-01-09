@@ -1,0 +1,166 @@
+{
+  "entries": [
+    {
+      "comment": "an [abridged]{abridged} [book_1]{book}, [play_1]{play}, etc. has been made [short_1]{shorter} than the [original_1]{original} but [contain]{contains} the same [basic_1]{basic} [story]{story}",
+      "entry": "abridged",
+      "id": "abridged#abridged__1"
+    },
+    {
+      "comment": "an [exciting]{exciting} or [enjoyable]{enjoyable} [story]{story}",
+      "entry": "a rattling good story/tale",
+      "id": "rattling#rattling__2"
+    },
+    {
+      "comment": "[relate]{relating} to someone\u2019s [life]{life} or [autobiography]{autobiography}",
+      "entry": "autobiographical",
+      "id": "autobiographical#autobiographical__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [fact]{facts} of someone\u2019s [life]{life}",
+      "entry": "biographical",
+      "id": "biographical#biographical__1"
+    },
+    {
+      "comment": "a [classic_1]{classic} [song]{song}, [book_1]{book}, [play_1]{play}, [television]{television} [program_1]{program}, etc. is very [good_1]{good} and has been [popular]{popular} and had a [lot_1]{lot} of [influence_1]{influence} for a long time",
+      "entry": "classic",
+      "id": "classic_1#classic_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [writing]{writing} of [epic_1]{epics}",
+      "entry": "epic",
+      "id": "epic_2#epic_2__1"
+    },
+    {
+      "comment": "[invent]{invented} for a [book_1]{book}, [play_1]{play}, or [movie]{movie}",
+      "entry": "fictional",
+      "id": "fictional#fictional__1"
+    },
+    {
+      "comment": "[relate]{relating} to [fiction]{fiction}",
+      "entry": "fictional",
+      "id": "fictional#fictional__3"
+    },
+    {
+      "comment": "[invent]{invented} for a [book_1]{book}, [play_1]{play}, or [movie]{movie}",
+      "entry": "fictitious",
+      "id": "fictitious#fictitious__3"
+    },
+    {
+      "comment": "a [filmic]{filmic} [novel_1]{novel}, [play_1]{play}, etc. is [like_1]{like} a [movie]{movie}, [especially]{especially} in the way that it [describe]{describes} [thing]{things} or in the way it [tell_1]{tells} a [story]{story}",
+      "entry": "filmic",
+      "id": "filmic#filmic__1"
+    },
+    {
+      "comment": "[traditional]{traditional} [story]{stories}, [saying]{sayings}, and [belief]{beliefs} from a [particular_1]{particular} [region]{region} or [community]{community}",
+      "entry": "folklore",
+      "id": "folklore#folklore__1"
+    },
+    {
+      "comment": "a [gory]{gory} [movie]{movie}, computer [game_1]{game}, or [story]{story} [involve]{involves} a [lot_1]{lot} of [killing]{killing} or [injury]{injuries}",
+      "entry": "gory",
+      "id": "gory#gory__2"
+    },
+    {
+      "comment": "a [description]{description} of [bad_1]{bad} [thing]{things} that have [happen]{happened} to you that you [tell_1]{tell} someone in [order_1]{order} to [make_1]{make} them [feel_1]{feel} [sorry]{sorry} for you",
+      "entry": "hard-luck story",
+      "id": "hard-luck-story#hard-luck-story__1"
+    },
+    {
+      "comment": "a [historical]{historical} [novel_1]{novel}, [movie]{movie}, etc. is [base_2]{based} on [people_1]{people} or [event]{events} that [exist]{existed} in the [past_1]{past}",
+      "entry": "historical",
+      "id": "historical#historical__11"
+    },
+    {
+      "comment": "[juicy]{juicy} [story]{stories} are [slightly]{slightly} [shocking]{shocking} but [interesting]{interesting} or [fun_1]{fun} to [listen_1]{listen} to",
+      "entry": "juicy",
+      "id": "juicy#juicy__3"
+    },
+    {
+      "comment": "[mention_1]{mentioned} or [describe]{described} in a [legend]{legend}",
+      "entry": "legendary",
+      "id": "legendary#legendary__1"
+    },
+    {
+      "comment": "relating to or existing only in myths",
+      "entry": "mythic",
+      "id": "mythic#mythic__1"
+    },
+    {
+      "comment": "relating to or existing only in myths",
+      "entry": "mythical",
+      "id": "mythical#mythical__1"
+    },
+    {
+      "comment": "not [telling]{telling} a [story]{story} in the [order_1]{order} in which [event]{events} [happen]{happened}",
+      "entry": "nonlinear",
+      "id": "nonlinear#nonlinear__2"
+    },
+    {
+      "comment": "things such as stories or movies that are overripe contain so much emotion that they seem silly. A more usual word is sentimental.",
+      "entry": "overripe",
+      "id": "overripe#overripe__2"
+    },
+    {
+      "comment": "a [picaresque]{picaresque} [story]{story} or [movie]{movie} [deal_1]{deals} with the [exciting]{exciting} [thing]{things} that [happen]{happen} to someone who is [easy_1]{easy} to [like_1]{like} [despite]{despite} not being very [moral_1]{moral} or [honest]{honest}",
+      "entry": "picaresque",
+      "id": "picaresque#picaresque__1"
+    },
+    {
+      "comment": "a [racy]{racy} [story]{story}, [movie]{movie}, or [play_1]{play} is [slightly]{slightly} [shocking]{shocking} in the way that it [describe]{describes} or [show_1]{shows} [sex_1]{sex}",
+      "entry": "racy",
+      "id": "racy#racy__1"
+    },
+    {
+      "comment": "[used]{used} about [book_1]{books}, [play_1]{plays}, and [movie]{movies} about [love_1]{love}",
+      "entry": "romantic",
+      "id": "romantic_1#romantic_1__8"
+    },
+    {
+      "comment": "a [spine-chilling]{spine-chilling} [story]{story}, [book_1]{book}, [movie]{movie}, etc. is very [frightening]{frightening}",
+      "entry": "spine-chilling",
+      "id": "spine-chilling#spine-chilling__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} something such as a [story]{story} or a [movie]{movie} that [keep_1]{keeps} you [wanting]{wanting} to [know_1]{know} what will [happen]{happen} next",
+      "entry": "suspenseful",
+      "id": "suspenseful#suspenseful__1"
+    },
+    {
+      "comment": "[swashbuckling]{swashbuckling} [movie]{movies}, [story]{stories}, etc. [involve]{involve} a [lot_1]{lot} of [fight_1]{fights} and [exciting]{exciting} [experience_1]{experiences}",
+      "entry": "swashbuckling",
+      "id": "swashbuckling#swashbuckling__2"
+    },
+    {
+      "comment": "a book or other piece of writing, especially a biography or autobiography, that contains all the information about its subject, including what may be considered secret, private, and inappropriate",
+      "entry": "tell-all",
+      "id": "tell-all#tell-all__1"
+    },
+    {
+      "comment": "[textured]{textured} [music]{music} or [character]{characters} have a [lot_1]{lot} of [different]{different} [quality_1]{qualities} or [emotion]{emotions}",
+      "entry": "textured",
+      "id": "textured#textured__2"
+    },
+    {
+      "comment": "[relate]{relating} to [play_1]{plays} that are [tragedy]{tragedies}",
+      "entry": "tragic",
+      "id": "tragic_1#tragic_1__4"
+    },
+    {
+      "comment": "a [truthful]{truthful} [movie]{movie}, [play_1]{play}, [book_1]{book}, etc. [deal_1]{deals} with a [subject_1]{subject} in an [honest]{honest} way by [showing]{showing} what [really]{really} [happen]{happens} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "truthful",
+      "id": "truthful#truthful__5"
+    },
+    {
+      "comment": "an [unconvincing]{unconvincing} [character]{character}, [story]{story}, or [performance]{performance} is [difficult]{difficult} to [believe]{believe} or [enjoy]{enjoy}, because it [does]{does} not seem [real_1]{real} or [likely_1]{likely}",
+      "entry": "unconvincing",
+      "id": "unconvincing#unconvincing__3"
+    },
+    {
+      "comment": "an [untold]{untold} [story]{story} has never been read or [heard]{heard} by the [public_1]{public}",
+      "entry": "untold",
+      "id": "untold#untold__3"
+    }
+  ],
+  "thesaurus": "Words used to describe stories",
+  "type": "Related words"
+}

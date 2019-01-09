@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "look over",
+  "senses": [
+    {
+      "def": "to [visit_1]{visit} a [place_1]{place} in [order_1]{order} to [examine]{examine} it",
+      "examples": [
+        "An American [inspection]{inspection} [team_1]{team} had [look_1]{looked} over [site_1]{sites} in January."
+      ],
+      "id": "look-over__1"
+    },
+    {
+      "def": "to [examine]{examine} something, [usually]{usually} [quickly]{quickly}",
+      "examples": [
+        "He\u2019d been [look_1]{looking} over the [leaflet_1]{leaflets} he\u2019d [pick_1]{picked} up [earlier_1]{earlier}."
+      ],
+      "id": "look-over__3"
+    }
+  ]
+}

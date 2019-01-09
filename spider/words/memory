@@ -1,0 +1,35 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "something that you [remember]{remember}",
+      "examples": [
+        "The memory of that [night_1]{night} is still [clear_1]{clear} in his [mind_1]{mind}.",
+        "I don\u2019t have many [good_1]{good} [memory]{memories} of my [school_1]{school} [day]{days}.",
+        "What are your most [vivid]{vivid} [memory]{memories} of that [period_1]{period}?",
+        "Her memory will live on forever  (=people will always remember her).",
+        "A [small_1]{small} [monument]{monument} was [erect_1]{erected} to the memory of those who [die_1]{died}."
+      ],
+      "id": "memory__1"
+    },
+    {
+      "def": "the [ability_1]{ability} to [remember]{remember} [thing]{things}",
+      "examples": [
+        "a memory [test_1]{test}",
+        "He [search_2]{searched} his memory but couldn\u2019t [recall_1]{recall} where he\u2019d [seen]{seen} her before.",
+        "Your memory [tend]{tends} to get [worse_1]{worse} as you get [old]{older}.",
+        "My memory was playing tricks on me  (=I was not remembering things correctly).",
+        "I\u2019ve never had a very [good_1]{good} memory for [name_1]{names}."
+      ],
+      "id": "memory__9"
+    },
+    {
+      "def": "the part of a computer in which [information]{information}, [instruction]{instructions}, and [program_1]{programs} are [store_2]{stored}",
+      "examples": [
+        "This [particular_1]{particular} [model_1]{model} has 256 [megabyte]{megabytes} of memory."
+      ],
+      "id": "memory__15"
+    }
+  ],
+  "word": "memory"
+}

@@ -1,0 +1,27 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a state [occasion_1]{occasion} or [event]{event} [involve]{involves} a [country]{country}\u2019s [government]{government} or [head_1]{head}",
+      "examples": [
+        "The [president_1]{president} is about to [start_1]{start} a three-day state [visit_1]{visit} to Norway."
+      ],
+      "id": "state_3__1"
+    },
+    {
+      "def": "a state [institution]{institution} is one that is [paid_1]{paid} for and [run_1]{run} by the [government]{government}",
+      "examples": [
+        "the state [judicial]{judicial} system"
+      ],
+      "id": "state_3__3"
+    },
+    {
+      "def": "[take_1]{taking} [place_1]{place} in or [relate]{relating} to a [region]{region} of a [country]{country} that has its own [government]{government} for some [matter_1]{matters}",
+      "examples": [
+        "Five state [election]{elections} will be [held]{held} in [march_1]{March}."
+      ],
+      "id": "state_3__5"
+    }
+  ],
+  "word": "state"
+}

@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "blow over",
+  "senses": [
+    {
+      "def": "if something [blow_1]{blows} over or is [blown]{blown} over, the [wind_1]{wind} [make_1]{makes} it [fall_1]{fall}",
+      "examples": [
+        "The [garbage]{garbage} [can_2]{cans} have [blown]{blown} over and there\u2019s [trash_1]{trash} everywhere.",
+        "Several [tree]{trees} had been [blown]{blown} over in the [storm_1]{storm}."
+      ],
+      "id": "blow-over__1"
+    },
+    {
+      "def": "if a [storm_1]{storm} [blow_1]{blows} over, it [end_1]{ends}",
+      "examples": [],
+      "id": "blow-over__4"
+    },
+    {
+      "def": "if a [dangerous]{dangerous} or [embarrassing]{embarrassing} [situation]{situation} [blow_1]{blows} over, [people_1]{people} [stop_1]{stop} [worrying]{worrying} about it and [soon]{soon} [forget]{forget} about it",
+      "examples": [
+        "It was a [major_1]{major} [scandal]{scandal}, and we all [hope_1]{hoped} it would [soon]{soon} [blow_1]{blow} over."
+      ],
+      "id": "blow-over__5"
+    }
+  ]
+}

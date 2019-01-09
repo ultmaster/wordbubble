@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "to go",
+  "senses": [
+    {
+      "def": "[remaining]{remaining}",
+      "examples": [
+        "There are [just_1]{just} three [week]{weeks} to go before the [end_1]{end} of the [semester]{semester}."
+      ],
+      "id": "to-go_1__1"
+    },
+    {
+      "def": "not yet done or [dealt]{dealt} with",
+      "examples": [
+        "Only two [chapter]{chapters} to go, and then I\u2019m [finished]{finished}."
+      ],
+      "id": "to-go_1__3"
+    },
+    {
+      "def": "if you [order_1]{order} [food]{food} to go from a [restaurant]{restaurant}, you take it and [eat]{eat} it somewhere else",
+      "examples": [
+        "Do you [want_1]{want} this [pizza]{pizza} to go?"
+      ],
+      "id": "to-go_1__5"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "part": "phrase",
+  "phrase": "in charge (of)",
+  "senses": [
+    {
+      "def": "if you are in [charge_1]{charge}, you have [control_1]{control} over someone or something and are [responsible]{responsible} for them",
+      "examples": [
+        "Who\u2019s in [charge_1]{charge} here?",
+        "The [nurse_1]{nurse} in [charge_1]{charge} [explain]{explained} what the [treatment]{treatment} would be [like_1]{like}.",
+        "Philip\u2019s in [charge_1]{charge} of our [marketing]{marketing} [department]{department}.",
+        "He was [subsequently]{subsequently} put in [charge_1]{charge} of the whole [investigation]{investigation}."
+      ],
+      "id": "in-charge-of__1"
+    }
+  ]
+}

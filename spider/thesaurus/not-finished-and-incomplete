@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not very [detailed]{detailed} or [severe]{severe}",
+      "entry": "light-touch",
+      "id": "light-touch#light-touch__1"
+    },
+    {
+      "comment": "not [finished]{finished}, or not [dealt]{dealt} with [completely]{completely}",
+      "entry": "unfinished",
+      "id": "unfinished#unfinished__1"
+    },
+    {
+      "comment": "not [finished]{finished} or [completely]{completely} [developed]{developed}",
+      "entry": "incomplete",
+      "id": "incomplete_1#incomplete_1__3"
+    },
+    {
+      "comment": "not [complete_1]{complete}",
+      "entry": "partial",
+      "id": "partial#partial__1"
+    },
+    {
+      "comment": "[wait_1]{waiting} to be [dealt]{dealt} with, [settled]{settled}, or [completed]{completed}",
+      "entry": "pending",
+      "id": "pending_1#pending_1__1"
+    },
+    {
+      "comment": "a [job_1]{job} or [action_1]{action} that is [outstanding]{outstanding} has not yet been [completed]{completed} or [dealt]{dealt} with",
+      "entry": "outstanding",
+      "id": "outstanding#outstanding__4"
+    },
+    {
+      "comment": "not [complete_1]{complete} or [thorough]{thorough}",
+      "entry": "superficial",
+      "id": "superficial#superficial__1"
+    },
+    {
+      "comment": "not [finished]{finished}",
+      "entry": "undone",
+      "id": "undone#undone__1"
+    },
+    {
+      "comment": "not [finished]{finished} and therefore not [successful]{successful}",
+      "entry": "abortive",
+      "id": "abortive#abortive__1"
+    },
+    {
+      "comment": "not [detailed]{detailed} or [complete_1]{complete}",
+      "entry": "sketchy",
+      "id": "sketchy#sketchy__1"
+    }
+  ],
+  "thesaurus": "Not finished and incomplete",
+  "type": "Synonyms"
+}

@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "turn/set/put the clock forward",
+  "senses": [
+    {
+      "def": "to [change_1]{change} the time on a [clock_1]{clock} to a [later_1]{later} time",
+      "examples": [],
+      "id": "turn-set-put-the-clock-forward__1"
+    },
+    {
+      "def": "to [think_1]{think} about a time in the [future_1]{future}, and [imagine]{imagine} that it is that time",
+      "examples": [
+        "If we put the [clock_1]{clock} [forward_1]{forward} ten [year]{years}, what do you see yourself [doing]{doing}?"
+      ],
+      "id": "turn-set-put-the-clock-forward__2"
+    }
+  ]
+}

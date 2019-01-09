@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "miles to the/per/a gallon",
+  "senses": [
+    {
+      "def": "the [number_1]{number} of [mile]{miles} a [vehicle]{vehicle} will [travel_1]{travel} [use_1]{using} one [gallon]{gallon} of [gas_1]{gas}",
+      "examples": [
+        "The [car]{car} [get]{gets} 50 [mile]{miles} to the [gallon]{gallon}."
+      ],
+      "id": "miles-to-the-per-a-gallon__1"
+    }
+  ]
+}

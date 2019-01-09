@@ -1,0 +1,321 @@
+{
+  "entries": [
+    {
+      "comment": "the [continent]{continent} that [lie_1]{lies} [south_1]{south} of the Mediterranean between the Atlantic and Indian [ocean]{Oceans}. It is the [second_1]{second} [large_1]{largest} [continent]{continent} and has the [second_1]{second} [large_1]{largest} [population]{population}.",
+      "entry": "Africa",
+      "id": "africa#africa__1"
+    },
+    {
+      "comment": "the extremely cold region that is the most southern part of the world. The most northern region is the Arctic.",
+      "entry": "the Antarctic",
+      "id": "the-antarctic#the-antarctic__1"
+    },
+    {
+      "comment": "the most [southern]{southern} [continent]{continent} and the one that [contain]{contains} the [south_1]{South} [pole_1]{Pole}",
+      "entry": "Antarctica",
+      "id": "antarctica#antarctica__1"
+    },
+    {
+      "comment": "the region that is the most northern part of the world. The most southern region is the Antarctic.",
+      "entry": "the Arctic",
+      "id": "the-arctic#the-arctic__1"
+    },
+    {
+      "comment": "the [continent]{continent} that [lie_1]{lies} east of Europe, [west_1]{west} of the [pacific_1]{Pacific} [ocean]{Ocean} and [north_1]{north} of the Indian [ocean]{Ocean}. It is the [large_1]{largest} [continent]{continent} and has the [large_1]{largest} [population]{population}.",
+      "entry": "Asia",
+      "id": "asia#asia__1"
+    },
+    {
+      "comment": "a [region]{region} that [include]{includes} some of the [country]{countries} of East and [southeast_1]{Southeast} Asia and the [pacific_1]{Pacific} [rim_1]{Rim}",
+      "entry": "Asia-Pacific",
+      "id": "asia-pacific#asia-pacific__1"
+    },
+    {
+      "comment": "the [country]{countries} that [border_1]{border} the Atlantic [ocean]{Ocean}, [especially]{especially} its [northern]{northern} part",
+      "entry": "Atlantic Rim",
+      "id": "atlantic-rim#atlantic-rim__1"
+    },
+    {
+      "comment": "a [region]{region} that [include]{includes} Australia, [new]{New} Zealand, [new]{New} [guinea_1]{Guinea}, and some [south_1]{South} [pacific_1]{Pacific} [island]{islands}",
+      "entry": "Australasia",
+      "id": "australasia#australasia__1"
+    },
+    {
+      "comment": "the [continent]{continent} in the [southern]{southern} [hemisphere]{hemisphere} that [include]{includes} Australia and some other [country]{countries}. It is part of the [region]{region} of Australasia, which also [include]{includes} [new]{New} Zealand.",
+      "entry": "Australia",
+      "id": "australia#australia__2"
+    },
+    {
+      "comment": "an [area]{area} of the [world]{world} that has a [particular_1]{particular} [type_1]{type} of [weather_1]{weather} and [contain]{contains} [particular_1]{particular} [plant_1]{plants} and [animal_1]{animals}",
+      "entry": "biome",
+      "id": "biome#biome__1"
+    },
+    {
+      "comment": "the [island]{islands} in the Caribbean [sea_1]{Sea} and the [country]{countries} that [surround_1]{surround} it",
+      "entry": "the Caribbean",
+      "id": "the-caribbean#the-caribbean__2"
+    },
+    {
+      "comment": "Scotland, Ireland, and Wales, [especially]{especially} when [considering]{considering} their [culture_1]{culture} and [history]{history}",
+      "entry": "the Celtic fringe",
+      "id": "the-celtic-fringe#the-celtic-fringe__1"
+    },
+    {
+      "comment": "the part of the American continent between the U.S. and South America",
+      "entry": "Central America",
+      "id": "central-america#central-america__1"
+    },
+    {
+      "comment": "an [area]{area} that has a [particular_1]{particular} [type_1]{type} of [weather_1]{weather}",
+      "entry": "climate",
+      "id": "climate#climate__3"
+    },
+    {
+      "comment": "a [place_1]{place} with a [particular_1]{particular} [type_1]{type} of [weather_1]{weather}",
+      "entry": "clime",
+      "id": "clime#clime__1"
+    },
+    {
+      "comment": "one of the [part_1]{parts} of [north_1]{North} America that was [ruled]{ruled} by Britain before becoming the U.S.",
+      "entry": "colony",
+      "id": "colony#colony__3"
+    },
+    {
+      "comment": "one of the very [large_1]{large} [area]{areas} of [land_1]{land} on [earth]{Earth} that are [usually]{usually} [divided]{divided} into several [country]{countries}",
+      "entry": "continent",
+      "id": "continent#continent__1"
+    },
+    {
+      "comment": "the part of Europe, [especially]{especially} [western_1]{Western} Europe, that is on one [continuous]{continuous} [area]{area} of [land_1]{land}, as [opposed]{opposed} to the U.K. or Ireland, which are [island]{islands}",
+      "entry": "the Continent",
+      "id": "the-continent#the-continent__1"
+    },
+    {
+      "comment": "an [area]{area} that is [ruled]{ruled} by one [person]{person} or [government]{government}",
+      "entry": "dominion",
+      "id": "dominion#dominion__3"
+    },
+    {
+      "comment": "the [eastern]{eastern} part of the [world]{world}, [especially]{especially} [china_1]{China} and Japan",
+      "entry": "east",
+      "id": "east_1#east_1__7"
+    },
+    {
+      "comment": "the [country]{countries} in the [eastern]{eastern} part of Europe",
+      "entry": "east",
+      "id": "east_1#east_1__8"
+    },
+    {
+      "comment": "the [far]{Far} East",
+      "entry": "East Asia",
+      "id": "east-asia#east-asia__1"
+    },
+    {
+      "comment": "[country]{countries} in what is [considered]{considered} to be the [eastern]{eastern} [half]{half} of the [world]{world}, [especially]{especially} the [country]{countries} of Asia",
+      "entry": "the eastern hemisphere",
+      "id": "the-eastern-hemisphere#the-eastern-hemisphere__1"
+    },
+    {
+      "comment": "a [number_1]{number} of [country]{countries} [ruled]{ruled} by one [person]{person} or [government]{government}",
+      "entry": "empire",
+      "id": "empire#empire__1"
+    },
+    {
+      "comment": "the large area of land that is between Asia and the Atlantic Ocean. It is one of the six continents of the world.",
+      "entry": "Europe",
+      "id": "europe#europe__1"
+    },
+    {
+      "comment": "all of Europe [apart]{apart} from the U.K.",
+      "entry": "Europe",
+      "id": "europe#europe__2"
+    },
+    {
+      "comment": "the [country]{countries} of the [eastern]{eastern} part of Asia, [including]{including} [china_1]{China}, Malaysia, and Japan",
+      "entry": "the Far East",
+      "id": "the-far-east#the-far-east__1"
+    },
+    {
+      "comment": "one half of the Earth, divided between north and south by the equator",
+      "entry": "hemisphere",
+      "id": "hemisphere#hemisphere__1"
+    },
+    {
+      "comment": "the part of Europe that [include]{includes} Spain and Portugal",
+      "entry": "Iberia",
+      "id": "iberia#iberia__1"
+    },
+    {
+      "comment": "Iberia",
+      "entry": "the Iberian Peninsula",
+      "id": "the-iberian-peninsula#the-iberian-peninsula__1"
+    },
+    {
+      "comment": "the part of the American continent consisting of Mexico, Central America, and South America, where Spanish and Portuguese are the main languages",
+      "entry": "Latin America",
+      "id": "latin-america#latin-america__1"
+    },
+    {
+      "comment": "a [place_1]{place} or [region]{region} at a [particular_1]{particular} [latitude]{latitude}",
+      "entry": "latitudes",
+      "id": "latitude#latitude__3"
+    },
+    {
+      "comment": "the part of Europe that [consist]{consists} of the Netherlands, Belgium, and Luxembourg",
+      "entry": "the Low Countries",
+      "id": "the-low-countries#the-low-countries__1"
+    },
+    {
+      "comment": "the [country]{countries} around the Mediterranean [sea_1]{Sea}, [especially]{especially} those that are [popular]{popular} for [vacation_1]{vacations}",
+      "entry": "the Med",
+      "id": "the-med#the-med__1"
+    },
+    {
+      "comment": "the [sea_1]{sea} that has Europe to the [north_1]{north}, [north_1]{North} Africa to the [south_1]{south}, and [western_1]{western} Asia to the east",
+      "entry": "the Mediterranean",
+      "id": "the-mediterranean#the-mediterranean__1"
+    },
+    {
+      "comment": "the [country]{countries} that [surround_1]{surround} the Mediterranean [sea_1]{Sea}",
+      "entry": "the Mediterranean",
+      "id": "the-mediterranean#the-mediterranean__2"
+    },
+    {
+      "comment": "the [region]{region} of the [world]{world} that [consist]{consists} of the [country]{countries} east of the Mediterranean [sea_1]{Sea} and [west_1]{west} of India. It [include]{includes} Egypt, Jordan, Israel, Lebanon, Syria, [turkey_1]{Turkey}, Iran, and Iraq.",
+      "entry": "the Middle East",
+      "id": "the-middle-east#the-middle-east__1"
+    },
+    {
+      "comment": "the [middle_1]{Middle} East",
+      "entry": "the Mideast",
+      "id": "the-mideast#the-mideast__1"
+    },
+    {
+      "comment": "the [middle_1]{Middle} East",
+      "entry": "the Near East",
+      "id": "the-near-east#the-near-east__1"
+    },
+    {
+      "comment": "[north_1]{North}, [central]{Central}, and [south_1]{South} America, [especially]{especially} at the time when Europeans first [discover]{discovered} these [area]{areas} and [knew]{knew} [little_1]{little} about them",
+      "entry": "the New World",
+      "id": "the-new-world#the-new-world__1"
+    },
+    {
+      "comment": "the continent in the northern hemisphere that includes Canada, the United States, Mexico and Central America. Together with South America it is called the Americas.",
+      "entry": "North America",
+      "id": "north-america#north-america__1"
+    },
+    {
+      "comment": "the northern half of the Earth, north of the equator  (=the imaginary line that marks the middle of the Earth)",
+      "entry": "the northern hemisphere",
+      "id": "the-northern-hemisphere#the-northern-hemisphere__1"
+    },
+    {
+      "comment": "the [place_1]{place} on the [surface_1]{surface} of the [earth]{Earth} that is the [farthest_1]{farthest} [north_1]{north}",
+      "entry": "the North Pole",
+      "id": "the-north-pole#the-north-pole__1"
+    },
+    {
+      "comment": "the [western_1]{western} part of the [world]{world}, [especially]{especially} Europe and [north_1]{North} and [south_1]{South} America",
+      "entry": "the Occident",
+      "id": "the-occident#the-occident__1"
+    },
+    {
+      "comment": "the [region]{region} of the [world]{world} that [include]{includes} the [pacific_1]{Pacific} [island]{islands} and the [sea_1]{seas} around them, sometimes also [including]{including} Australia and [new]{New} Zealand",
+      "entry": "Oceania",
+      "id": "oceania#oceania__1"
+    },
+    {
+      "comment": "Europe, Asia, and Africa",
+      "entry": "the Old World",
+      "id": "the-old-world#the-old-world__1"
+    },
+    {
+      "comment": "the [country]{countries} of [eastern]{eastern} Asia, [especially]{especially} [china_1]{China} and Japan",
+      "entry": "the Orient",
+      "id": "the-orient#the-orient__1"
+    },
+    {
+      "comment": "one of the [point_1]{points} on the very top or bottom of the [earth]{Earth}, [call_1]{called} the [north_1]{North} [pole_1]{Pole} and the [south_1]{South} [pole_1]{Pole}",
+      "entry": "pole",
+      "id": "pole_1#pole_1__5"
+    },
+    {
+      "comment": "a [country]{country} or [region]{region} that [produce_1]{produces} a [lot_1]{lot} of something",
+      "entry": "producer",
+      "id": "producer#producer__5"
+    },
+    {
+      "comment": "the [country]{countries} of Norway, Sweden, Denmark, Iceland, and Finland [considered]{considered} as a [group_1]{group}",
+      "entry": "Scandinavia",
+      "id": "scandinavia#scandinavia__1"
+    },
+    {
+      "comment": "the continent mostly in the southern hemisphere that includes countries such as Argentina, Brazil and Chile. Together with North America it is called the Americas.",
+      "entry": "South America",
+      "id": "south-america#south-america__1"
+    },
+    {
+      "comment": "the part of Asia that [contain]{contains} the [country]{countries} of India, Pakistan, and Bangladesh",
+      "entry": "South Asia",
+      "id": "south-asia#south-asia__1"
+    },
+    {
+      "comment": "the part of Asia that [contain]{contains} the [country]{countries} of Myanmar, Thailand, Laos, Vietnam, Cambodia, Malaysia, Indonesia, Singapore, and the Philippines",
+      "entry": "Southeast Asia",
+      "id": "southeast-asia#southeast-asia__1"
+    },
+    {
+      "comment": "the part of [south_1]{South} America that [consist]{consists} of Brazil, Argentina, [chili]{Chile}, Uruguay, and Paraguay",
+      "entry": "the Southern Cone",
+      "id": "the-southern-cone#the-southern-cone__1"
+    },
+    {
+      "comment": "the half of the Earth that is south of the equator  (=the imaginary line around the middle of the Earth)",
+      "entry": "the southern hemisphere",
+      "id": "the-southern-hemisphere#the-southern-hemisphere__1"
+    },
+    {
+      "comment": "the [farthest_1]{farthest} [point_1]{point} [south_1]{south} on the [earth]{Earth}, in the [center_1]{center} of Antarctica",
+      "entry": "the South Pole",
+      "id": "the-south-pole#the-south-pole__1"
+    },
+    {
+      "comment": "a large area of land that forms part of a continent, especially the part of Asia that contains India, Pakistan, and Bangladesh",
+      "entry": "subcontinent",
+      "id": "subcontinent#subcontinent__1"
+    },
+    {
+      "comment": "the warm areas of the Earth that are next to the tropics",
+      "entry": "the subtropics",
+      "id": "the-subtropics#the-subtropics__1"
+    },
+    {
+      "comment": "countries that are poor and do not have much industrial development. People now prefer to use the expression developing countries.",
+      "entry": "the Third World",
+      "id": "the-third-world#the-third-world__1"
+    },
+    {
+      "comment": "the [hot]{hottest} part of the [earth]{Earth}, between the [tropic_1]{Tropic} of [cancer_1]{Cancer} and the [tropic_1]{Tropic} of Capricorn",
+      "entry": "the tropics",
+      "id": "tropic_1#tropic_1__2"
+    },
+    {
+      "comment": "the part of the [world]{world} that [include]{includes} Europe and [north_1]{North} America",
+      "entry": "the West",
+      "id": "west_1#west_1__8"
+    },
+    {
+      "comment": "a [particular_1]{particular} [group_1]{group} of [country]{countries}",
+      "entry": "world",
+      "id": "world#world__18"
+    },
+    {
+      "comment": "one of the [large_1]{large} [area]{areas} that the [world]{world} is [divided]{divided} into [accord_2]{according} to its [temperature]{temperature}",
+      "entry": "zone",
+      "id": "zone_1#zone_1__10"
+    }
+  ],
+  "thesaurus": "Regions of the world",
+  "type": "Related words"
+}

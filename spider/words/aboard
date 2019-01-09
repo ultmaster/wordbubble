@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adverb, preposition",
+  "senses": [
+    {
+      "def": "in or on a [ship_1]{ship}, [bus_1]{bus}, [train_1]{train}, or [airplane]{airplane}",
+      "examples": [
+        "It\u2019s time to get aboard.",
+        "He [travel_1]{traveled} aboard the [space_1]{space} [shuttle_1]{shuttle} [discovery]{Discovery}."
+      ],
+      "id": "aboard__1"
+    },
+    {
+      "def": "into an [organization]{organization}, [group_1]{group}, [company]{company}, etc.",
+      "examples": [
+        "I\u2019d [like_1]{like} to [welcome_1]{welcome} three [new]{new} [employee]{employees} aboard."
+      ],
+      "id": "aboard__4"
+    }
+  ],
+  "word": "aboard"
+}

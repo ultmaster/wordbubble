@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to go somewhere with someone",
+      "entry": "come",
+      "id": "come_1#come_1__9"
+    },
+    {
+      "comment": "to take someone somewhere in a [vehicle]{vehicle} that you are [driving]{driving}",
+      "entry": "drive",
+      "id": "drive_1#drive_1__11"
+    },
+    {
+      "comment": "to go somewhere with someone on [foot_1]{foot} in [order_1]{order} to be [sure_1]{sure} that they [safely]{safely} [reach_1]{reach} the [place_1]{place}",
+      "entry": "walk",
+      "id": "walk_1#walk_1__15"
+    },
+    {
+      "comment": "to take someone to a [place_1]{place} where they will be [guarded]{guarded} or [taken_1]{taken} [care_1]{care} of",
+      "entry": "deliver",
+      "id": "deliver#deliver__8"
+    },
+    {
+      "comment": "to take someone somewhere",
+      "entry": "conduct",
+      "id": "conduct_1#conduct_1__6"
+    },
+    {
+      "comment": "to take someone or something from one [place_1]{place} and have them with you when you [arrive]{arrive} somewhere else",
+      "entry": "bring",
+      "id": "bring#bring__1"
+    },
+    {
+      "comment": "to go somewhere with a [person]{person}, [vehicle]{vehicle}, [ship_1]{ship}, etc. in [order_1]{order} to [protect]{protect} them or to [prevent]{prevent} them from [escape_1]{escaping}",
+      "entry": "escort",
+      "id": "escort_1#escort_1__1"
+    },
+    {
+      "comment": "to take someone [away_1]{away} to a [place_1]{place} they do not [want_1]{want} to go",
+      "entry": "haul off",
+      "id": "haul-off#haul-off__1"
+    },
+    {
+      "comment": "to take someone to a [place_1]{place} that you [want_1]{want} them to go to",
+      "entry": "shepherd",
+      "id": "shepherd_2#shepherd_2__1"
+    },
+    {
+      "comment": "to show someone the way to a [place_1]{place} by [going_1]{going} there with them",
+      "entry": "lead",
+      "id": "lead_1#lead_1__5"
+    }
+  ],
+  "thesaurus": "To go somewhere with someone or something",
+  "type": "Synonyms"
+}

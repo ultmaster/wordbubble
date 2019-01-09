@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [process_1]{process} in which two [people_1]{people} or [group_1]{groups} have [discussion]{discussions} in [order_1]{order} to [solve]{solve} [problem]{problems}",
+      "examples": [
+        "the [need_1]{need} for dialogue between both [parent]{parents}",
+        "They are [trying]{trying} to [open_1]{open} a dialogue with the [opposing]{opposing} [party_1]{party}."
+      ],
+      "id": "dialogue__1"
+    },
+    {
+      "def": "the [word_1]{words} that [character]{characters} [speak_1]{speak} in a [book_1]{book}, [play_1]{play}, or [movie]{movie}",
+      "examples": [
+        "a dialogue between [imaginary]{imaginary} [character]{characters}",
+        "The [course_1]{course} [use_1]{uses} [tape_2]{taped} [dialogue]{dialogues}."
+      ],
+      "id": "dialogue__4"
+    }
+  ],
+  "word": "dialogue"
+}

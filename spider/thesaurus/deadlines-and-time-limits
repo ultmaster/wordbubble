@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [specific]{specific} time or [date_1]{date} by which you have to do something",
+      "entry": "deadline",
+      "id": "deadline#deadline__1"
+    },
+    {
+      "comment": "the [date_1]{date} or time when something [happen]{happens} or is [plan_2]{planned} to [happen]{happen}",
+      "entry": "timing",
+      "id": "timing#timing__7"
+    },
+    {
+      "comment": "an amount of time in which you must do something",
+      "entry": "time limit",
+      "id": "time-limit#time-limit__1"
+    },
+    {
+      "comment": "the [date_1]{date} by which you must [apply]{apply} for, [ask_1]{ask} for, or [provide]{provide} something",
+      "entry": "closing date",
+      "id": "closing-date#closing-date__1"
+    },
+    {
+      "comment": "the [date_1]{date} on which something is [plan_2]{planned} or [expected]{expected} to [happen]{happen}, for [example]{example} when [money]{money} must be [paid_1]{paid} or when a [pregnant]{pregnant} [woman]{woman} [expect]{expects} to have her [baby_1]{baby}",
+      "entry": "due date",
+      "id": "due-date#due-date__1"
+    },
+    {
+      "comment": "[detail_1]{details} of the [day]{day} and time that a show will [happen]{happen}",
+      "entry": "play date",
+      "id": "play-date#play-date__3"
+    },
+    {
+      "comment": "an [expiration]{expiration} [date_1]{date} on [food]{food} or a [drug_1]{drug}",
+      "entry": "sell-by date",
+      "id": "sell-by-date#sell-by-date__1"
+    },
+    {
+      "comment": "something that is due at a [particular_1]{particular} time or [date_1]{date} must be [completed]{completed} by that time or [date_1]{date}",
+      "entry": "due",
+      "id": "due_1#due_1__8"
+    },
+    {
+      "comment": "a [condition_1]{condition} that [state_1]{states} that a [plan_1]{plan} or [agreement]{agreement} will [automatically]{automatically} [end_1]{end} after a [particular_1]{particular} [period_1]{period} of time [unless]{unless} [special_1]{special} [arrangement]{arrangements} are made for it to [continue]{continue}",
+      "entry": "sunset provision",
+      "id": "sunset-provision#sunset-provision__1"
+    },
+    {
+      "comment": "the [latest]{latest} [possible_1]{possible} time for [doing]{doing} something",
+      "entry": "the last minute",
+      "id": "the-last-minute#the-last-minute__1"
+    }
+  ],
+  "thesaurus": "Deadlines and time limits",
+  "type": "Synonyms"
+}

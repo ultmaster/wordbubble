@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "Mark 1/2/3 etc.",
+  "senses": [
+    {
+      "def": "a [type_1]{type} of [vehicle]{vehicle}, [machine_1]{machine}, etc. with [slightly]{slightly} [different]{different} [feature_1]{features} from those of an [earlier_1]{earlier} or [later_1]{later} [type_1]{type} that has the same name and is made by the same [company]{company}",
+      "examples": [
+        "[like_1]{Like} the [mark_1]{Mark} 3, the [mark_1]{Mark} 4 has a [luxury_1]{luxury} [interior_1]{interior}."
+      ],
+      "id": "mark-1-2-3-etc__1"
+    },
+    {
+      "def": "a [particular_1]{particular} [level_1]{level} of [heat_1]{heat} [produce_1]{produced} by a [gas_1]{gas} [oven]{oven}",
+      "examples": [
+        "[preheat]{Preheat} the [oven]{oven} to [gas_1]{Gas} [mark_1]{Mark} 5."
+      ],
+      "id": "mark-1-2-3-etc__3"
+    }
+  ]
+}

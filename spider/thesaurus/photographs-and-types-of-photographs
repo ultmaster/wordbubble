@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [photograph_1]{photograph} or part of a [photograph_1]{photograph} that has been made [big_1]{bigger}",
+      "entry": "blow-up",
+      "id": "blow-up_2#blow-up_2__1"
+    },
+    {
+      "comment": "a [natural_1]{natural} and [informal]{informal} [photograph_1]{photograph}",
+      "entry": "candid",
+      "id": "candid_2#candid_2__1"
+    },
+    {
+      "comment": "a [photograph_1]{photograph} of someone or something [taken_1]{taken} from a [position_1]{position} very [near_1]{near} them",
+      "entry": "close-up",
+      "id": "close-up_3#close-up_3__1"
+    },
+    {
+      "comment": "a [photograph_1]{photograph} [produce_1]{produced} [use_1]{using} a very [old-fashioned_2]{old-fashioned} [process_1]{process}",
+      "entry": "daguerreotype",
+      "id": "daguerreotype#daguerreotype__1"
+    },
+    {
+      "comment": "a [series]{series} of still [photograph_1]{photographs} [shown]{shown} on a [screen_1]{screen} in a [particular_1]{particular} [order_1]{order} [like_1]{like} a [movie]{movie}",
+      "entry": "filmstrip",
+      "id": "filmstrip#filmstrip__1"
+    },
+    {
+      "comment": "a [photograph_1]{photograph} [print_1]{printed} [use_1]{using} the [halftone]{halftone} [method]{method}",
+      "entry": "halftone",
+      "id": "halftone#halftone__2"
+    },
+    {
+      "comment": "a [photograph_1]{photograph} [reduce]{reduced} to the [size_1]{size} of a [small_1]{small} [spot_1]{spot} so that it can be [store_2]{stored} [secretly]{secretly}",
+      "entry": "microdot",
+      "id": "microdot#microdot__1"
+    },
+    {
+      "comment": "an image on film in which dark things appear light, and light things appear dark",
+      "entry": "negative",
+      "id": "negative_2#negative_2__5"
+    },
+    {
+      "comment": "a [small_1]{small} [photograph_1]{photograph} of a [person]{person}\u2019s [face_1]{face}, of the [type_1]{type} [used]{used} on [passport]{passports}",
+      "entry": "passport photo",
+      "id": "passport-photo#passport-photo__1"
+    },
+    {
+      "comment": "a [picture_1]{picture} that [consist]{consists} of [part_1]{parts} of [photograph_1]{photographs} put together",
+      "entry": "photomontage",
+      "id": "photomontage#photomontage__1"
+    },
+    {
+      "comment": "a [photograph_1]{photograph} [hanging_1]{hanging} of a [pinup]{pinup} on a [wall_1]{wall}, [especially]{especially} of a [pinup]{pinup} [wearing]{wearing} very few [clothes]{clothes}",
+      "entry": "pinup",
+      "id": "pinup#pinup__2"
+    },
+    {
+      "comment": "a photograph developed from a negative",
+      "entry": "print",
+      "id": "print_2#print_2__15"
+    },
+    {
+      "comment": "a [photo_1]{photo} that you take of yourself, [usually]{usually} for use in [social_1]{social} [media]{media}",
+      "entry": "selfie",
+      "id": "selfie#selfie__1"
+    },
+    {
+      "comment": "a [view_1]{view} of something that you have because of the [position_1]{position} of the [camera]{camera} in [movie]{movies}, [television]{television}, or [photograph_1]{photographs}",
+      "entry": "shot",
+      "id": "shot_2#shot_2__13"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of in a [frame_1]{frame}, that you [shine_1]{shine} [light_1]{light} through in [order_1]{order} to show the [image_1]{image} on a [screen_1]{screen}",
+      "entry": "slide",
+      "id": "slide_1#slide_1__6"
+    },
+    {
+      "comment": "a [photograph_1]{photograph} [taken_1]{taken} without the use of [professional_1]{professional} [equipment]{equipment}",
+      "entry": "snapshot",
+      "id": "snapshot#snapshot__1"
+    },
+    {
+      "comment": "a [single_1]{single} [image_1]{image} [taken_1]{taken} from one of the [scene]{scenes} in a [movie]{movie} or [video_1]{video}",
+      "entry": "still",
+      "id": "still_3#still_3__1"
+    },
+    {
+      "comment": "a small piece of film in a frame that you shine light through in order to show the image on a screen",
+      "entry": "transparency",
+      "id": "transparency#transparency__1"
+    }
+  ],
+  "thesaurus": "Photographs and types of photographs",
+  "type": "Related words"
+}

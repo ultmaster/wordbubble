@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "kill yourself",
+  "senses": [
+    {
+      "def": "to [make_1]{make} yourself [die_1]{die}",
+      "examples": [
+        "He [tried_1]{tried} to [kill_1]{kill} [himself]{himself} with an [overdose_1]{overdose} of [drug_1]{drugs}."
+      ],
+      "id": "kill-yourself__1"
+    },
+    {
+      "def": "to [work_1]{work} too [hard_1]{hard} and [make_1]{make} yourself very [tired]{tired}",
+      "examples": [
+        "She [kill_1]{killed} [herself]{herself} to get that [project_1]{project} [finished]{finished} on time."
+      ],
+      "id": "kill-yourself__3"
+    }
+  ]
+}

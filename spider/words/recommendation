@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [suggestion]{suggestion} or [piece_1]{piece} of [advice]{advice} about how to [solve]{solve} a [problem]{problem}, [deal_1]{deal} with a [situation]{situation}, etc.",
+      "examples": [
+        "[recommendation]{recommendations} for [reform_1]{reform}",
+        "The Bill [incorporate]{incorporates} [recommendation]{recommendations} made by the [committee]{committee}."
+      ],
+      "id": "recommendation__1"
+    },
+    {
+      "def": "a [written_1]{written} or [spoken_1]{spoken} [statement_1]{statement} that [praise_1]{praises} someone\u2019s [character]{character} and their [ability_1]{ability} to do a [job_1]{job}",
+      "examples": [
+        "[ask_1]{Ask} [friend_1]{friends} or [colleague]{colleagues} for a [personal_1]{personal} recommendation."
+      ],
+      "id": "recommendation__4"
+    },
+    {
+      "def": "a [suggestion]{suggestion} that someone or something is [especially]{especially} [appropriate_1]{appropriate} or [useful]{useful} for a [particular_1]{particular} [situation]{situation}",
+      "examples": [
+        "[prize_1]{Prizes} are [award_2]{awarded} on the [board_1]{Board}\u2019s recommendation."
+      ],
+      "id": "recommendation__6"
+    }
+  ],
+  "word": "recommendation"
+}

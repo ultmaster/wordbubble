@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "rub out",
+  "senses": [
+    {
+      "def": "to [kill_1]{kill} someone",
+      "examples": [],
+      "id": "rub-out__1"
+    },
+    {
+      "def": "to [erase]{erase} something you have [written_1]{written} or [drawn_1]{drawn}",
+      "examples": [
+        "If you [make_1]{make} a [mistake_1]{mistake} [rub_1]{rub} it out and [rewrite_1]{rewrite} the [answer_1]{answer}.",
+        "When she [return_1]{returned} to the [whiteboard]{whiteboard}, someone had [rub_1]{rubbed} out all her [calculation]{calculations}."
+      ],
+      "id": "rub-out__2"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the [period_1]{period} of time that is [happening_1]{happening} now",
+      "entry": "the present",
+      "id": "present_3#present_3__5"
+    },
+    {
+      "comment": "the [period_1]{period} of time that is [happening_1]{happening} now",
+      "entry": "today",
+      "id": "today_2#today_2__4"
+    },
+    {
+      "comment": "a [quality_1]{quality} that [make_1]{makes} you [feel_1]{feel} as though something is [happening_1]{happening} now and that you are [involved]{involved} in it",
+      "entry": "immediacy",
+      "id": "immediacy#immediacy__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that you are [talk_1]{talking} about the [present_1]{present} time or [situation]{situation}",
+      "entry": "at this moment in time",
+      "id": "at-this-moment-in-time#at-this-moment-in-time__1"
+    },
+    {
+      "comment": "in the [present_1]{present} or [modern]{modern} times",
+      "entry": "in this day and age",
+      "id": "in-this-day-and-age#in-this-day-and-age__1"
+    },
+    {
+      "comment": "even now, after a very long time",
+      "entry": "to this day",
+      "id": "to-this-day#to-this-day__1"
+    },
+    {
+      "comment": "this [day]{day}",
+      "entry": "today",
+      "id": "today_2#today_2__1"
+    },
+    {
+      "comment": "at this [moment]{moment}",
+      "entry": "here and now",
+      "id": "here-and-now#here-and-now__1"
+    },
+    {
+      "comment": "the [present_1]{present} [moment]{moment}",
+      "entry": "here and now",
+      "id": "here-and-now#here-and-now__3"
+    }
+  ],
+  "thesaurus": "Now and the present",
+  "type": "Synonyms"
+}

@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "in the U.K., a [number_1]{number} [given_1]{given} to a [movie]{movie} or [game_1]{game} that should only be [watch_1]{watched} or [play_1]{played} by [children]{children} who are at least 12 [year]{years} [old]{old}. This [rating]{rating} [apply]{applies} to [media]{media} for [home_1]{home} use only.",
+      "entry": "12",
+      "id": "12#12__1"
+    },
+    {
+      "comment": "in the U.K., a [number_1]{number} [given_1]{given} to a [movie]{movie} or [game_1]{game} that should only be [watch_1]{watched} or [play_1]{played} by [children]{children} who are at least 15 [year]{years} [old]{old}",
+      "entry": "15",
+      "id": "15#15__1"
+    },
+    {
+      "comment": "in the U.K., a [number_1]{number} [given_1]{given} to a [movie]{movie} or [game_1]{game} that should only be [watch_1]{watched} or [play_1]{played} by [people_1]{people} who are at least 18 [year]{years} [old]{old}",
+      "entry": "18",
+      "id": "18#18__1"
+    },
+    {
+      "comment": "General Audiences: used for saying that a movie is appropriate for anyone to watch. The British word is U.",
+      "entry": "G.",
+      "id": "g_4#g_4__1"
+    },
+    {
+      "comment": "an NC-17 [movie]{movie} cannot be [seen]{seen} by [children]{children} [younger]{younger} than 18 because it is too [violent]{violent} or [sexual]{sexual}",
+      "entry": "NC-17",
+      "id": "nc-17#nc-17__1"
+    },
+    {
+      "comment": "[parental]{parental} [guidance]{guidance}: [used]{used} for [describe]{describing} a [movie]{movie} [contain]{containing} [scene]{scenes}, [subject_1]{subjects}, or [language]{language} [considered]{considered} [inappropriate]{inappropriate} for [children]{children} [unless]{unless} they have a [parent]{parent} with them",
+      "entry": "PG",
+      "id": "pg#pg__1"
+    },
+    {
+      "comment": "[parental]{parental} [guidance]{guidance} 13: [used]{used} for [describe]{describing} a [movie]{movie} that [contain]{contains} [scene]{scenes}, [subject_1]{subjects}, or [language]{language} [considered]{considered} [inappropriate]{inappropriate} for [children]{children} who are [younger]{younger} than 13 [unless]{unless} they have a [parent]{parent} with them",
+      "entry": "PG-13",
+      "id": "pg-13#pg-13__1"
+    },
+    {
+      "comment": "[restricted]{restricted}: [used]{used} in the U.S. for [saying]{saying} that [people_1]{people} under the [age_1]{age} of 17 cannot go to a [particular_1]{particular} [movie]{movie} [unless]{unless} they go with an [adult_1]{adult}",
+      "entry": "R",
+      "id": "r_2#r_2__1"
+    },
+    {
+      "comment": "to [judge_1]{judge} a [movie]{movie} to be [appropriate_1]{appropriate} for [people_1]{people} of a [particular_1]{particular} [age_1]{age} to see",
+      "entry": "rate",
+      "id": "rate_2#rate_2__6"
+    },
+    {
+      "comment": "a [letter_1]{letter} or [letter_1]{letters} and sometimes a [number_1]{number} that show how [old]{old} someone [need_1]{needs} to be before they are [allow]{allowed} to see a [particular_1]{particular} [movie]{movie}",
+      "entry": "rating",
+      "id": "rating#rating__5"
+    },
+    {
+      "comment": "universal: used for saying that a movie is appropriate for people of any age to watch. The American word is G.",
+      "entry": "U",
+      "id": "u_2#u_2__1"
+    },
+    {
+      "comment": "an [unrated]{unrated} [movie]{movie} has not been [given_1]{given} an [official_1]{official} [label_1]{label} that [show_1]{shows} how much [violence]{violence}, [sex_1]{sex}, or [offensive_1]{offensive} [language]{language} it [contain]{contains}",
+      "entry": "unrated",
+      "id": "unrated#unrated__1"
+    },
+    {
+      "comment": "[used]{used} in the [past_1]{past} for [saying]{saying} that a [movie]{movie} was not [appropriate_1]{appropriate} for [people_1]{people} under the [age_1]{age} of 18",
+      "entry": "X",
+      "id": "x_1#x_1__8"
+    },
+    {
+      "comment": "X-rated",
+      "entry": "X-certificate",
+      "id": "x-certificate#x-certificate__1"
+    },
+    {
+      "comment": "an X-rated [movie]{movie} [contain]{contains} a [lot_1]{lot} of [sex_1]{sex} or [violence]{violence} and is [considered]{considered} [inappropriate]{inappropriate} for [people_1]{people} under the [age_1]{age} of 18",
+      "entry": "X-rated",
+      "id": "x-rated#x-rated__1"
+    }
+  ],
+  "thesaurus": "Movie ratings",
+  "type": "Related words"
+}

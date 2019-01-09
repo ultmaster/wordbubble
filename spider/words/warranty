@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [company]{company}\u2019s [written_1]{written} [promise_1]{promise} to [repair_1]{repair} or [replace]{replace} a [product]{product} that you [buy_1]{buy} from them if it [break_1]{breaks} or [does]{does} not [work_1]{work}, [usually]{usually} for a [specific]{specific} [period_1]{period} of time after you [buy_1]{buy} it",
+      "examples": [
+        "a one-year warranty [period_1]{period}",
+        "Is the CD [player]{player} still under warranty?"
+      ],
+      "id": "warranty__1"
+    },
+    {
+      "def": "a [minor_1]{minor} [term_1]{term} in a [contract_1]{contract}. The [breach_1]{breach} of a warranty [does]{does} not [end_1]{end} a [contract_1]{contract}, in constrast to a [condition_1]{condition}.",
+      "examples": [],
+      "id": "warranty__4"
+    }
+  ],
+  "word": "warranty"
+}

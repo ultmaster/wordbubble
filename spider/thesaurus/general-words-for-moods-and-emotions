@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the way that someone is [feeling_1]{feeling}, for [example]{example} whether they are [happy_1]{happy}, [sad_1]{sad}, or [angry]{angry}",
+      "entry": "mood",
+      "id": "mood#mood__1"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} that you [experience_1]{experience}, for [example]{example} [love_1]{love}, [fear_1]{fear}, or [anger_1]{anger}",
+      "entry": "emotion",
+      "id": "emotion#emotion__1"
+    },
+    {
+      "comment": "[emotion]{emotions}, [especially]{especially} when these are [sensitive]{sensitive} and [likely_1]{likely} to be [affected]{affected} by what other [people_1]{people} [say_1]{say} or do",
+      "entry": "feelings",
+      "id": "feeling_1#feeling_1__3"
+    },
+    {
+      "comment": "a [powerful]{powerful} [emotion]{emotion} such as [love_1]{love} or [anger_1]{anger}",
+      "entry": "passion",
+      "id": "passion#passion__1"
+    },
+    {
+      "comment": "the [mood]{mood} that someone is in, which [influence_1]{influences} their [attitude]{attitudes} or [feeling_1]{feelings}",
+      "entry": "frame of mind",
+      "id": "frame-of-mind#frame-of-mind__1"
+    },
+    {
+      "comment": "your [feeling_1]{feelings} and [emotion]{emotions} [considered]{considered} as part of your [character]{character}",
+      "entry": "heart",
+      "id": "heart_1#heart_1__6"
+    },
+    {
+      "comment": "a [feeling_1]{feeling}, [especially]{especially} a [strange_1]{strange} one, [cause_2]{caused} by a [particular_1]{particular} [experience_1]{experience}",
+      "entry": "sensation",
+      "id": "sensation#sensation__4"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} that [exist]{exists} and [affect_1]{affects} how [people_1]{people} [behave]{behave}, but is not [obvious]{obvious} or [state_2]{stated} [directly_1]{directly}",
+      "entry": "undercurrent",
+      "id": "undercurrent#undercurrent__2"
+    },
+    {
+      "comment": "a [particular_1]{particular} [emotional]{emotional} [state_1]{state} or [mood]{mood}",
+      "entry": "temper",
+      "id": "temper_1#temper_1__9"
+    },
+    {
+      "comment": "your [thought_1]{thoughts} and [emotion]{emotions}",
+      "entry": "your inner self",
+      "id": "your-inner-self#your-inner-self__1"
+    }
+  ],
+  "thesaurus": "General words for moods and emotions",
+  "type": "Synonyms"
+}

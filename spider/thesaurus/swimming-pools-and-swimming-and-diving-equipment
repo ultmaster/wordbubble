@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [provide]{provides} [air_1]{air} for you to [breathe]{breathe} when you are [swimming]{swimming} under [water_1]{water}",
+      "entry": "Aqualung",
+      "id": "aqualung#aqualung__1"
+    },
+    {
+      "comment": "a building near a swimming pool or beach where swimmers can change their clothes",
+      "entry": "bathhouse",
+      "id": "bathhouse#bathhouse__2"
+    },
+    {
+      "comment": "a [large_1]{large} [metal_1]{metal} [container]{container} that is [shaped_1]{shaped} [like_1]{like} a [bell_1]{bell} and [contain]{contains} [air_1]{air}, [used]{used} by [people_1]{people} [working]{working} under [water_1]{water}",
+      "entry": "diving bell",
+      "id": "diving-bell#diving-bell__1"
+    },
+    {
+      "comment": "a long narrow board at the edge of a swimming pool that people can dive from",
+      "entry": "diving board",
+      "id": "diving-board#diving-board__1"
+    },
+    {
+      "comment": "a [swimming]{swimming} [pool_1]{pool} whose [water_1]{water} [flow_1]{flows} over one [end_1]{end} of it into a [hidden_1]{hidden} part",
+      "entry": "infinity pool",
+      "id": "infinity-pool#infinity-pool__1"
+    },
+    {
+      "comment": "one of the parts that something such as a swimming pool or sports track is divided into, intended for one swimmer or one runner",
+      "entry": "lane",
+      "id": "lane#lane__8"
+    },
+    {
+      "comment": "the distance from one end of a swimming pool to the other. The distance from one side of a swimming pool to the other is a width.",
+      "entry": "length",
+      "id": "length#length__18"
+    },
+    {
+      "comment": "a [swimming]{swimming} [pool_1]{pool}",
+      "entry": "pool",
+      "id": "pool_1#pool_1__5"
+    },
+    {
+      "comment": "used about things that are at the side of a swimming pool",
+      "entry": "poolside",
+      "id": "poolside_1#poolside_1__1"
+    },
+    {
+      "comment": "the area beside a swimming pool",
+      "entry": "poolside",
+      "id": "poolside_2#poolside_2__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [structure_1]{structure} that [float_1]{floats} on a [lake]{lake}, [river]{river}, etc. that [people_1]{people} can [swim_1]{swim} to and [lie_1]{lie} on",
+      "entry": "raft",
+      "id": "raft#raft__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} with a [tube]{tube} that [fit_1]{fits} in your [mouth_1]{mouth} so that you can [breathe]{breathe} while [swimming]{swimming} under [water_1]{water}",
+      "entry": "snorkel",
+      "id": "snorkel_1#snorkel_1__1"
+    },
+    {
+      "comment": "a strong board used for helping you to jump high in sports such as diving  (=jumping into water) and gymnastics",
+      "entry": "springboard",
+      "id": "springboard#springboard__1"
+    },
+    {
+      "comment": "a [large_1]{large} [structure_1]{structure} [fill_1]{filled} with [water_1]{water} for [people_1]{people} to [swim_1]{swim} in",
+      "entry": "swimming pool",
+      "id": "swimming-pool#swimming-pool__1"
+    },
+    {
+      "comment": "a [pair_1]{pair} of [plastic_1]{plastic} [object_1]{objects} [fill_1]{filled} with [air_1]{air} that [swimmer]{swimmers} can put around their [arms]{arms} to [help_1]{help} them to [float_1]{float} when they are [learning]{learning} to [swim_1]{swim}",
+      "entry": "waterwings",
+      "id": "waterwings#waterwings__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [make_1]{makes} [wave_1]{waves} form in the [water_1]{water} of a [swimming]{swimming} [pool_1]{pool}",
+      "entry": "wave machine",
+      "id": "wave-machine#wave-machine__1"
+    },
+    {
+      "comment": "the [distance_1]{distance} from one side of a [swimming]{swimming} [pool_1]{pool} to the other",
+      "entry": "width",
+      "id": "width#width__5"
+    }
+  ],
+  "thesaurus": "Swimming pools and swimming and diving equipment",
+  "type": "Related words"
+}

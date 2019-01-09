@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "tie in with",
+  "senses": [
+    {
+      "def": "to [combine_1]{combine} with something",
+      "examples": [
+        "This [project_1]{project} [tie_1]{ties} in with the [language]{language} [research_1]{research} he is [doing]{doing}."
+      ],
+      "id": "tie-in-with__1"
+    },
+    {
+      "def": "to [provide]{provide} more [evidence_1]{evidence} that something is [true_1]{true}",
+      "examples": [
+        "Your [findings]{findings} [tie_1]{tie} in with our own [satellite]{satellite} [observation]{observation} [report_1]{reports}."
+      ],
+      "id": "tie-in-with__3"
+    }
+  ]
+}

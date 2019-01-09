@@ -1,0 +1,24 @@
+{
+  "part": "phrase",
+  "phrase": "fall out",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} being [friendly_1]{friendly} with someone because you have had a [disagreement]{disagreement} with them",
+      "examples": [
+        "Have you two [fallen_1]{fallen} out?",
+        "I\u2019d [fallen_1]{fallen} out with my [parent]{parents}."
+      ],
+      "id": "fall-out__1"
+    },
+    {
+      "def": "if something such as your [hair]{hair} or a [tooth]{tooth} [fall_1]{falls} out, it comes out",
+      "examples": [],
+      "id": "fall-out__4"
+    },
+    {
+      "def": "if [soldier_1]{soldiers} [fall_1]{fall} out, they [stop_1]{stop} [standing_1]{standing} in a [line_1]{line} and move [away_1]{away} to [different]{different} [place_1]{places}",
+      "examples": [],
+      "id": "fall-out__5"
+    }
+  ]
+}

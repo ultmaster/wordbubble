@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if you are [unwilling]{unwilling} to do something, you do not [want_1]{want} to do it or you [refuse_1]{refuse} to do it",
+      "entry": "unwilling",
+      "id": "unwilling#unwilling__1"
+    },
+    {
+      "comment": "not [willing]{willing} to do something",
+      "entry": "reluctant",
+      "id": "reluctant#reluctant__1"
+    },
+    {
+      "comment": "not [willing]{willing} or [able_1]{able} to [help_1]{help}",
+      "entry": "unhelpful",
+      "id": "unhelpful#unhelpful__1"
+    },
+    {
+      "comment": "not [willing]{willing} to [work_1]{work} with or to [help_1]{help} another [person]{person} or [group_1]{group}",
+      "entry": "uncooperative",
+      "id": "uncooperative#uncooperative__1"
+    },
+    {
+      "comment": "very [unwilling]{unwilling} to do something",
+      "entry": "loath",
+      "id": "loath#loath__1"
+    },
+    {
+      "comment": "[unwilling]{unwilling} to do something",
+      "entry": "disinclined",
+      "id": "disinclined#disinclined__1"
+    },
+    {
+      "comment": "not [willing]{willing}",
+      "entry": "unprepared",
+      "id": "unprepared#unprepared__5"
+    },
+    {
+      "comment": "not [willing]{willing} to do something",
+      "entry": "indisposed",
+      "id": "indisposed#indisposed__2"
+    },
+    {
+      "comment": "done in an [unwilling]{unwilling} way",
+      "entry": "grudging",
+      "id": "grudging#grudging__1"
+    },
+    {
+      "comment": "[unwilling]{unwilling} to do something because you are [afraid]{afraid} that something [bad_1]{bad} will [happen]{happen}",
+      "entry": "chary",
+      "id": "chary#chary__1"
+    }
+  ],
+  "thesaurus": "Not willing to do something",
+  "type": "Synonyms"
+}

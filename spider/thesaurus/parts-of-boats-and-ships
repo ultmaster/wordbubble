@@ -1,0 +1,421 @@
+{
+  "entries": [
+    {
+      "comment": "in or toward the back part of a [ship_1]{ship} or [airplane]{airplane}",
+      "entry": "aft",
+      "id": "aft#aft__1"
+    },
+    {
+      "comment": "in the [middle_1]{middle} part of a [ship_1]{ship}",
+      "entry": "amidships",
+      "id": "amidships#amidships__1"
+    },
+    {
+      "comment": "an [area]{area} in an [airplane]{airplane} or a [ship_1]{ship} that is [used]{used} for [carry_1]{carrying} [goods]{goods} or [equipment]{equipment}",
+      "entry": "bay",
+      "id": "bay_1#bay_1__4"
+    },
+    {
+      "comment": "the [wide_1]{widest} part of a [ship_1]{ship} from one side to the other",
+      "entry": "beam",
+      "id": "beam_2#beam_2__9"
+    },
+    {
+      "comment": "a [bed_1]{bed} on a [train_1]{train} or [ship_1]{ship}",
+      "entry": "berth",
+      "id": "berth_1#berth_1__2"
+    },
+    {
+      "comment": "the bottom part of a [boat]{boat}",
+      "entry": "bilge",
+      "id": "bilge#bilge__1"
+    },
+    {
+      "comment": "one of the flat parts of a propeller that spins around and pushes a boat or airplane forward",
+      "entry": "blade",
+      "id": "blade#blade__5"
+    },
+    {
+      "comment": "a long [pole_1]{pole} [fixed]{fixed} to the bottom of a [boat]{boat}\u2019s [sail_1]{sail}, that is [used]{used} for [change_1]{changing} the [direction]{direction} of the [sail_1]{sail}",
+      "entry": "boom",
+      "id": "boom_1#boom_1__13"
+    },
+    {
+      "comment": "the front part of a [ship_1]{ship}",
+      "entry": "bow",
+      "id": "bow_2#bow_2__3"
+    },
+    {
+      "comment": "a long [pole_1]{pole} that [stick_1]{sticks} out from the front of a [ship_1]{ship}",
+      "entry": "bowsprit",
+      "id": "bowsprit#bowsprit__1"
+    },
+    {
+      "comment": "the part of a [ship_1]{ship} from which it is [controlled_1]{controlled}",
+      "entry": "bridge",
+      "id": "bridge_1#bridge_1__9"
+    },
+    {
+      "comment": "a [place_1]{place} on a [ship_1]{ship} where [prisoner]{prisoners} are [kept]{kept}",
+      "entry": "brig",
+      "id": "brig#brig__2"
+    },
+    {
+      "comment": "the sides of a ship above the deck",
+      "entry": "bulwarks",
+      "id": "bulwark#bulwark__5"
+    },
+    {
+      "comment": "a [private_1]{private} [room_1]{room} on a [ship_1]{ship} for a [passenger]{passenger} or one of the [people_1]{people} [working]{working} on the [ship_1]{ship}",
+      "entry": "cabin",
+      "id": "cabin#cabin__4"
+    },
+    {
+      "comment": "a round [piece_1]{piece} of [equipment]{equipment} that you [turn_1]{turn} to [wind_1]{wind} a [heavy_1]{heavy} [rope_1]{rope}, [especially]{especially} on a [ship_1]{ship} or at a [port]{port}",
+      "entry": "capstan",
+      "id": "capstan#capstan__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} on a [ship_1]{ship} [used]{used} for [send_1]{sending} [aircraft]{aircraft} into the [air_1]{air}",
+      "entry": "catapult",
+      "id": "catapult_1#catapult_1__3"
+    },
+    {
+      "comment": "a [metal_1]{metal} [object_1]{object} that you [tie_1]{tie} a [rope_1]{rope} around in [order_1]{order} to [fasten]{fasten} something in [place_1]{place}, [especially]{especially} on a [ship_1]{ship}",
+      "entry": "cleat",
+      "id": "cleat#cleat__3"
+    },
+    {
+      "comment": "the part of a [boat]{boat} where the [control_1]{controls} are",
+      "entry": "cockpit",
+      "id": "cockpit#cockpit__3"
+    },
+    {
+      "comment": "the part on top of a submarine from which the periscope sticks out",
+      "entry": "conning tower",
+      "id": "conning-tower#conning-tower__1"
+    },
+    {
+      "comment": "a place near the top of a ship\u2019s mast where a sailor stands to look out over the ocean",
+      "entry": "crow\u2019s nest",
+      "id": "crow-s-nest#crow-s-nest__1"
+    },
+    {
+      "comment": "the [outside]{outside} top part of a [ship_1]{ship} that you can [walk_1]{walk} on",
+      "entry": "deck",
+      "id": "deck_1#deck_1__1"
+    },
+    {
+      "comment": "one of the levels on a ship, train, or stadium",
+      "entry": "deck",
+      "id": "deck_1#deck_1__4"
+    },
+    {
+      "comment": "a small door for escaping from a ship, aircraft, or submarine in an emergency",
+      "entry": "escape hatch",
+      "id": "escape-hatch#escape-hatch__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [rope_1]{rope} or a [tire_1]{tire} that [protect]{protects} the side of a [boat]{boat} from [knock_1]{knocks}",
+      "entry": "fender",
+      "id": "fender#fender__1"
+    },
+    {
+      "comment": "a [wooden]{wooden} [model_1]{model} of a [person]{person} [attached]{attached} to the front of an [old-fashioned_2]{old-fashioned} [ship_1]{ship}",
+      "entry": "figurehead",
+      "id": "figurehead#figurehead__2"
+    },
+    {
+      "comment": "the [open_1]{open} [area]{area} on a [large_1]{large} [ship_1]{ship} where [aircraft]{aircraft} can take off and [land_1]{land}",
+      "entry": "flight deck",
+      "id": "flight-deck#flight-deck__1"
+    },
+    {
+      "comment": "a [forecastle]{forecastle}",
+      "entry": "fo\u2019c\u2019sle",
+      "id": "fo-c-sle#fo-c-sle__1"
+    },
+    {
+      "comment": "the front part of a [ship_1]{ship}",
+      "entry": "forecastle",
+      "id": "forecastle#forecastle__1"
+    },
+    {
+      "comment": "a [tube]{tube} that [let_1]{lets} out [smoke_1]{smoke} and [steam_1]{steam} from the [engine]{engine} of a [boat]{boat} or [old-fashioned_2]{old-fashioned} [train_1]{train}",
+      "entry": "funnel",
+      "id": "funnel_1#funnel_1__2"
+    },
+    {
+      "comment": "the [kitchen]{kitchen} on a [boat]{boat} or [airplane]{airplane}",
+      "entry": "galley",
+      "id": "galley#galley__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [board_1]{board} that you put between a [boat]{boat} and the [land_1]{land}, or between two [boat]{boats}, so that you can [walk_1]{walk} across",
+      "entry": "gangplank",
+      "id": "gangplank#gangplank__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [board_1]{board} or [metal_1]{metal} [structure_1]{structure} that can be put in [place_1]{place} between a [ship_1]{ship} and [land_1]{land} to [let_1]{let} [people_1]{people} get off or on the [ship_1]{ship}",
+      "entry": "gangway",
+      "id": "gangway_1#gangway_1__1"
+    },
+    {
+      "comment": "a [gunwale]{gunwale}",
+      "entry": "gunnel",
+      "id": "gunnel#gunnel__1"
+    },
+    {
+      "comment": "the [upper_1]{upper} [edge_1]{edge} of the side of a [boat]{boat} or [ship_1]{ship}",
+      "entry": "gunwale",
+      "id": "gunwale#gunwale__1"
+    },
+    {
+      "comment": "a heavy cable or rope that is used for tying up or pulling a ship",
+      "entry": "hawser",
+      "id": "hawser#hawser__1"
+    },
+    {
+      "comment": "a [wheel_1]{wheel} or [handle_1]{handle} [used]{used} for [making]{making} a [boat]{boat} go in the [direction]{direction} you [want_1]{want}",
+      "entry": "helm",
+      "id": "helm#helm__1"
+    },
+    {
+      "comment": "the [area]{area} in an [airplane]{airplane} or [ship_1]{ship} that is [used]{used} for [goods]{goods}, [vehicle]{vehicles}, or [suitcase]{suitcases}",
+      "entry": "hold",
+      "id": "hold_2#hold_2__10"
+    },
+    {
+      "comment": "the part of a ship or boat that floats on the water. The front part is called the bow and the back part is called the stern.",
+      "entry": "hull",
+      "id": "hull_1#hull_1__1"
+    },
+    {
+      "comment": "one of the wing-shaped [piece_1]{pieces} [attached]{attached} to the bottom of a [hydrofoil]{hydrofoil}",
+      "entry": "hydrofoil",
+      "id": "hydrofoil#hydrofoil__2"
+    },
+    {
+      "comment": "a small triangular sail near the front of a boat",
+      "entry": "jib",
+      "id": "jib#jib__1"
+    },
+    {
+      "comment": "a long thin [piece_1]{piece} of [wood]{wood} or [metal_1]{metal} along the bottom of a [boat]{boat} that [help_1]{helps} it to [balance_1]{balance} in the [water_1]{water}",
+      "entry": "keel",
+      "id": "keel_1#keel_1__1"
+    },
+    {
+      "comment": "a [short_1]{short} [rope_1]{rope} [used]{used} on [ship_1]{ships} for [fastener]{fastening} [thing]{things} such as the [sail_1]{sails}",
+      "entry": "lanyard",
+      "id": "lanyard#lanyard__2"
+    },
+    {
+      "comment": "the [large_1]{largest} [sail_1]{sail} on a [ship_1]{ship}",
+      "entry": "mainsail",
+      "id": "mainsail#mainsail__1"
+    },
+    {
+      "comment": "a [tall]{tall} [pole_1]{pole} that the [sail_1]{sails} [hang_1]{hang} from on a [ship_1]{ship}",
+      "entry": "mast",
+      "id": "mast#mast__1"
+    },
+    {
+      "comment": "the top of the mast  (=tall pole) on a boat or ship",
+      "entry": "masthead",
+      "id": "masthead#masthead__3"
+    },
+    {
+      "comment": "the [sail_1]{sail} behind the [main_1]{main} [sail_1]{sail} on a [ship_1]{ship}",
+      "entry": "mizzen",
+      "id": "mizzen#mizzen__1"
+    },
+    {
+      "comment": "the mast that holds the mizzen sail",
+      "entry": "mizzen",
+      "id": "mizzen#mizzen__2"
+    },
+    {
+      "comment": "a [place_1]{place}, [especially]{especially} on a [ship_1]{ship}, where [people_1]{people} should [gather_1]{gather} if there is an [emergency_1]{emergency}",
+      "entry": "muster station",
+      "id": "muster-station#muster-station__1"
+    },
+    {
+      "comment": "[small_1]{small} [piece_1]{pieces} of [old]{old} [rope_1]{rope} [used]{used} in the [past_1]{past} for [filling_1]{filling} [hole_1]{holes} in the sides of [ship_1]{ships}",
+      "entry": "oakum",
+      "id": "oakum#oakum__1"
+    },
+    {
+      "comment": "the [piece_1]{piece} of [metal_1]{metal} that [hold_1]{holds} the [oar]{oar} of a [boat]{boat}",
+      "entry": "oarlock",
+      "id": "oarlock#oarlock__1"
+    },
+    {
+      "comment": "something that [stick_1]{sticks} out from the side of a [boat]{boat} and [help_1]{helps} it to [float_1]{float}",
+      "entry": "outrigger",
+      "id": "outrigger#outrigger__1"
+    },
+    {
+      "comment": "one of the long flat boards that are joined together in the shape of a wheel, used for moving a paddle boat through the water",
+      "entry": "paddle",
+      "id": "paddle_1#paddle_1__3"
+    },
+    {
+      "comment": "a [rope_1]{rope} [attached]{attached} to the front of a [boat]{boat} and [used]{used} for [tying]{tying} it to something such as a [post_1]{post}",
+      "entry": "painter",
+      "id": "painter#painter__5"
+    },
+    {
+      "comment": "the [higher_1]{higher} part at the back of an [old]{old} [sailing]{sailing} [ship_1]{ship}",
+      "entry": "poop",
+      "id": "poop_1#poop_1__4"
+    },
+    {
+      "comment": "the side of a ship or airplane that is on your left when you are looking forward. The part that is on your right is starboard.",
+      "entry": "port",
+      "id": "port#port__9"
+    },
+    {
+      "comment": "a [small_1]{small} [window]{window} in the side of a [ship_1]{ship} or [airplane]{airplane}",
+      "entry": "porthole",
+      "id": "porthole#porthole__1"
+    },
+    {
+      "comment": "the [upper_1]{upper} [area]{area} of a [ship_1]{ship} where [people_1]{people} [walk_1]{walk} for [pleasure]{pleasure}",
+      "entry": "promenade deck",
+      "id": "promenade-deck#promenade-deck__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} with [blade]{blades} that [spin_1]{spin}, [used]{used} for [moving]{moving} a [ship_1]{ship} or [aircraft]{aircraft}",
+      "entry": "propeller",
+      "id": "propeller#propeller__1"
+    },
+    {
+      "comment": "the front of a [ship_1]{ship} or [boat]{boat}",
+      "entry": "prow",
+      "id": "prow#prow__1"
+    },
+    {
+      "comment": "the back part of a ship\u2019s upper deck, where the officers often live",
+      "entry": "quarterdeck",
+      "id": "quarterdeck#quarterdeck__1"
+    },
+    {
+      "comment": "the ropes and chains used for supporting a ship\u2019s sails and masts",
+      "entry": "rigging",
+      "id": "rigging#rigging__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [wood]{wood} or other [material_1]{material} at the back of a [boat]{boat} or [airplane]{airplane} that is [move_1]{moved} to [change_1]{change} the [direction]{direction} of [travel_1]{travel}",
+      "entry": "rudder",
+      "id": "rudder#rudder__1"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [strong]{strong} [cloth]{cloth} [attached]{attached} to a [tall]{tall} [pole_1]{pole} on a [boat]{boat}, [used]{used} for [catching]{catching} [wind_1]{wind} to move the [boat]{boat} across [water_1]{water}",
+      "entry": "sail",
+      "id": "sail_2#sail_2__1"
+    },
+    {
+      "comment": "a [big_1]{big} [room_1]{room} on a [ship_1]{ship} where [passenger]{passengers} can [sit]{sit} together and [talk_1]{talk}, [play_1]{play} [game_1]{games}, etc.",
+      "entry": "saloon",
+      "id": "saloon#saloon__2"
+    },
+    {
+      "comment": "on a sailboat, the rope that is used for controlling the sail",
+      "entry": "sheet",
+      "id": "sheet#sheet__11"
+    },
+    {
+      "comment": "a [room_1]{room} where [sick_1]{sick} [people_1]{people} go to rest and get [medical_1]{medical} [treatment]{treatment} on a [ship_1]{ship}",
+      "entry": "sickbay",
+      "id": "sickbay#sickbay__1"
+    },
+    {
+      "comment": "the [edge_1]{edge} of a [boat]{boat}",
+      "entry": "side",
+      "id": "side_1#side_1__41"
+    },
+    {
+      "comment": "a thick [strong]{strong} [pole_1]{pole} that [support_1]{supports} something such as the [sail_1]{sails} on a [boat]{boat} or the [wing_1]{wings} of an [airplane]{airplane}",
+      "entry": "spar",
+      "id": "spar_2#spar_2__1"
+    },
+    {
+      "comment": "an [extra_1]{extra} [sail_1]{sail} sometimes put on the front of a [boat]{boat} [used]{used} for [racing_1]{racing}",
+      "entry": "spinnaker",
+      "id": "spinnaker#spinnaker__1"
+    },
+    {
+      "comment": "the right side of a ship, as seen by someone who is looking toward the front. The left side is called port.",
+      "entry": "starboard",
+      "id": "starboard#starboard__1"
+    },
+    {
+      "comment": "in the [past_1]{past}, the part of a [passenger]{passenger} [ship_1]{ship} in which [people_1]{people} who had the most [inexpensive]{inexpensive} [ticket_1]{tickets} [travel_1]{traveled}",
+      "entry": "steerage",
+      "id": "steerage#steerage__1"
+    },
+    {
+      "comment": "the back part of a ship. The front of a ship is called the bow.",
+      "entry": "stern",
+      "id": "stern_2#stern_2__1"
+    },
+    {
+      "comment": "[space_1]{space} for [store_2]{storing} [thing]{things} in a [boat]{boat} or [vehicle]{vehicle}",
+      "entry": "stowage",
+      "id": "stowage#stowage__1"
+    },
+    {
+      "comment": "an [open_1]{open} [area]{area} on a [ship_1]{ship} where you can [enjoy]{enjoy} the [sun_1]{sun}",
+      "entry": "sun deck",
+      "id": "sun-deck#sun-deck__2"
+    },
+    {
+      "comment": "the part of a ship that is above the main deck",
+      "entry": "superstructure",
+      "id": "superstructure#superstructure__1"
+    },
+    {
+      "comment": "a seat across the middle of a rowboat",
+      "entry": "thwart",
+      "id": "thwart_2#thwart_2__1"
+    },
+    {
+      "comment": "a long [handle_1]{handle} at the back of a [boat]{boat} that is [used]{used} for [control_2]{controlling} the [direction]{direction} that the [boat]{boat} [move_1]{moves} in",
+      "entry": "tiller",
+      "id": "tiller#tiller__1"
+    },
+    {
+      "comment": "on or relating to the deck of a ship",
+      "entry": "topside",
+      "id": "topside_1#topside_1__1"
+    },
+    {
+      "comment": "a [high_1]{high} part on a [military]{military} [ship_1]{ship} or [vehicle]{vehicle} where [guns]{guns} are [attached]{attached}. You can [turn_1]{turn} it in [order_1]{order} to [shoot_1]{shoot} the [guns]{guns} in any [direction]{direction}.",
+      "entry": "turret",
+      "id": "turret#turret__1"
+    },
+    {
+      "comment": "the [central]{central} part of a [ship_1]{ship} or an [airplane]{airplane}",
+      "entry": "waist",
+      "id": "waist#waist__7"
+    },
+    {
+      "comment": "a room on a warship used by all the officers except for the captain",
+      "entry": "wardroom",
+      "id": "wardroom#wardroom__1"
+    },
+    {
+      "comment": "the [high_1]{highest} [point_1]{point} where [water_1]{water} [touch_1]{touches} the side of a [boat]{boat}",
+      "entry": "waterline",
+      "id": "waterline#waterline__1"
+    },
+    {
+      "comment": "a small room on a boat where the wheel and other controls are",
+      "entry": "wheelhouse",
+      "id": "wheelhouse#wheelhouse__1"
+    }
+  ],
+  "thesaurus": "Parts of boats and ships",
+  "type": "Related words"
+}

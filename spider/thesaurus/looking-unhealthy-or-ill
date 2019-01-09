@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is [wan]{wan} [look_1]{looks} very [pale_1]{pale} and [weak]{weak} because they are [sick_1]{sick}",
+      "entry": "wan",
+      "id": "wan#wan__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [pale_1]{pale}",
+      "entry": "(as) white as a sheet",
+      "id": "as-white-as-a-sheet#as-white-as-a-sheet__1"
+    },
+    {
+      "comment": "if someone [look_1]{looks} [green_1]{green}, their [face_1]{face} is [pale_1]{pale} and they [look_1]{look} [sick_1]{sick}",
+      "entry": "green",
+      "id": "green_1#green_1__18"
+    },
+    {
+      "comment": "[extremely]{extremely} thin and [look_1]{looking} [pale_1]{pale} and [sick_1]{sick}",
+      "entry": "cadaverous",
+      "id": "cadaverous#cadaverous__1"
+    },
+    {
+      "comment": "[look_1]{looking} very [tired]{tired}, [worried]{worried}, or [sick_1]{sick}",
+      "entry": "haggard",
+      "id": "haggard#haggard__1"
+    },
+    {
+      "comment": "[tired]{tired}, thin, and [sick_1]{sick} in [appearance]{appearance}",
+      "entry": "pinched",
+      "id": "pinched#pinched__1"
+    },
+    {
+      "comment": "very [pale_1]{pale}, [especially]{especially} because you [feel_1]{feel} [sick_1]{sick} or [upset_1]{upset}",
+      "entry": "ashen",
+      "id": "ashen#ashen__1"
+    },
+    {
+      "comment": "someone who is [washed-out]{washed-out} [look_1]{looks} very [pale_1]{pale} and [sick_1]{sick} or [tired]{tired}",
+      "entry": "washed-out",
+      "id": "washed-out#washed-out__2"
+    },
+    {
+      "comment": "a [pale_1]{pale} [person]{person} has [skin_1]{skin} that is [lighter]{lighter} than [usual]{usual} because they are [sick_1]{sick}, [shocked]{shocked}, or [worried]{worried}",
+      "entry": "pale",
+      "id": "pale_1#pale_1__4"
+    },
+    {
+      "comment": "someone who [look_1]{looks} [drawn_1]{drawn} has a thin [face_1]{face} and [look_1]{looks} very [tired]{tired}, [sick_1]{sick}, or [worried]{worried}",
+      "entry": "drawn",
+      "id": "drawn_1#drawn_1__1"
+    }
+  ],
+  "thesaurus": "Looking unhealthy or ill",
+  "type": "Synonyms"
+}

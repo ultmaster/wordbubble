@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} of [moving]{moving} [thing]{things} from one [place_1]{place} to another",
+      "entry": "movement",
+      "id": "movement#movement__8"
+    },
+    {
+      "comment": "the [activity]{activity} or [process_1]{process} of [moving]{moving} someone or something from one [place_1]{place} to another",
+      "entry": "transit",
+      "id": "transit#transit__1"
+    },
+    {
+      "comment": "the [process_1]{process} or [action_1]{action} of [moving]{moving}",
+      "entry": "motion",
+      "id": "motion_1#motion_1__1"
+    },
+    {
+      "comment": "someone or something that [move_1]{moves} at a [particular_1]{particular} [speed_1]{speed} or in a [particular_1]{particular} way",
+      "entry": "mover",
+      "id": "mover#mover__2"
+    },
+    {
+      "comment": "the [act_1]{act} of [moving]{moving}, or of being [move_1]{moved} from one [place_1]{place} to another",
+      "entry": "transfer",
+      "id": "transfer_2#transfer_2__3"
+    },
+    {
+      "comment": "the way that something such as an [animal_1]{animal} or a [vehicle]{vehicle} [move_1]{moves}",
+      "entry": "locomotion",
+      "id": "locomotion#locomotion__2"
+    },
+    {
+      "comment": "the [act_1]{act} of [making]{making} something move",
+      "entry": "disturbance",
+      "id": "disturbance#disturbance__7"
+    },
+    {
+      "comment": "the [act_1]{act} or [process_1]{process} of [moving]{moving} through the [air_1]{air}, or the [ability_1]{ability} to move through the [air_1]{air}",
+      "entry": "flight",
+      "id": "flight#flight__1"
+    },
+    {
+      "comment": "the [movement]{movement} of an [object_1]{object} as it [work_1]{works} or [make_1]{makes} [progress_1]{progress}, [especially]{especially} a [particular_1]{particular} [kind_1]{kind} of [movement]{movement}",
+      "entry": "action",
+      "id": "action#action__15"
+    },
+    {
+      "comment": "a [movement]{movement} that someone or something [make_1]{makes}",
+      "entry": "motion",
+      "id": "motion_1#motion_1__5"
+    }
+  ],
+  "thesaurus": "The process or activity of moving",
+  "type": "Synonyms"
+}

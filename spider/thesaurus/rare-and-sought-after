@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not often [seen]{seen} or found, and therefore [admire]{admired} or [value_2]{valued} very much",
+      "entry": "rare",
+      "id": "rare#rare__4"
+    },
+    {
+      "comment": "[rare]{rare} or very [necessary_1]{necessary} and not to be [wasted]{wasted}",
+      "entry": "precious",
+      "id": "precious_1#precious_1__7"
+    },
+    {
+      "comment": "if something is [scarce_1]{scarce}, there is not very much of it",
+      "entry": "scarce",
+      "id": "scarce_1#scarce_1__1"
+    },
+    {
+      "comment": "[unusual]{unusual}, [rare]{rare}, or not [happening_1]{happening} often",
+      "entry": "uncommon",
+      "id": "uncommon#uncommon__1"
+    },
+    {
+      "comment": "[wanted]{wanted} by many [people_1]{people} but not [easy_1]{easy} to get",
+      "entry": "sought-after",
+      "id": "sought-after#sought-after__1"
+    },
+    {
+      "comment": "if something is [short_1]{short} or in [short_1]{short} [supply_1]{supply}, there is not enough of it or it is not [easy_1]{easy} to get",
+      "entry": "short",
+      "id": "short_1#short_1__25"
+    },
+    {
+      "comment": "[wanted]{wanted} and [expected]{expected}",
+      "entry": "hoped-for",
+      "id": "hoped-for#hoped-for__1"
+    },
+    {
+      "comment": "[wanted]{wanted} very much for a long time",
+      "entry": "longed-for",
+      "id": "longed-for#longed-for__1"
+    },
+    {
+      "comment": "very [valuable]{valuable} or [difficult]{difficult} to get because a [lot_1]{lot} of [people_1]{people} [want_1]{want} it",
+      "entry": "like gold dust",
+      "id": "like-gold-dust#like-gold-dust__1"
+    },
+    {
+      "comment": "if something is at a [premium_1]{premium}, a [lot_1]{lot} of [people_1]{people} [want_1]{want} it and so it is [difficult]{difficult} to get",
+      "entry": "at a premium",
+      "id": "at-a-premium#at-a-premium__1"
+    }
+  ],
+  "thesaurus": "Rare and sought-after",
+  "type": "Synonyms"
+}

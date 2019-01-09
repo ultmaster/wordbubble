@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} something from [happening_1]{happening}",
+      "entry": "prevent",
+      "id": "prevent#prevent__1"
+    },
+    {
+      "comment": "to [prevent]{prevent} someone from [doing]{doing} something, or to [prevent]{prevent} something from [happening_1]{happening}",
+      "entry": "stop",
+      "id": "stop_1#stop_1__1"
+    },
+    {
+      "comment": "to [prevent]{prevent} something [bad_1]{bad} or [harmful]{harmful} from [happening_1]{happening}",
+      "entry": "avert",
+      "id": "avert#avert__1"
+    },
+    {
+      "comment": "to [try_1]{try} to [prevent]{prevent} something from [happening_1]{happening}",
+      "entry": "avoid",
+      "id": "avoid#avoid__7"
+    },
+    {
+      "comment": "to [prevent]{prevent} something from [happening_1]{happening} or [developing]{developing}",
+      "entry": "squash",
+      "id": "squash_2#squash_2__7"
+    },
+    {
+      "comment": "to [prevent]{prevent} something from [happening_1]{happening} or being done",
+      "entry": "prohibit",
+      "id": "prohibit#prohibit__6"
+    },
+    {
+      "comment": "to [try_1]{try} to [prevent]{prevent} something from [happening_1]{happening}, [especially]{especially} because you do not [approve]{approve} of it or [think_1]{think} it is [harmful]{harmful}",
+      "entry": "discourage",
+      "id": "discourage#discourage__1"
+    },
+    {
+      "comment": "to take [action_1]{action} in [order_1]{order} to [prevent]{prevent} someone from [doing]{doing} something or to [prevent]{prevent} something from [happening_1]{happening}",
+      "entry": "obstruct",
+      "id": "obstruct#obstruct__9"
+    },
+    {
+      "comment": "to [prevent]{prevent} something from [happening_1]{happening}",
+      "entry": "knock something on the head",
+      "id": "knock-something-on-the-head#knock-something-on-the-head__2"
+    },
+    {
+      "comment": "to [prevent]{prevent} something from [happening_1]{happening}",
+      "entry": "get in the way of something",
+      "id": "get-in-the-way-of-something#get-in-the-way-of-something__1"
+    }
+  ],
+  "thesaurus": "To prevent something from happening",
+  "type": "Synonyms"
+}

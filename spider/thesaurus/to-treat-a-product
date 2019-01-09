@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [book_1]{books} and [newspaper]{newspapers} into [paper_1]{paper}",
+      "entry": "pulp",
+      "id": "pulp_2#pulp_2__2"
+    },
+    {
+      "comment": "to [remove]{remove} [thing]{things} from a [natural_1]{natural} [substance]{substance} in [order_1]{order} to [make_1]{make} it [pure]{pure}",
+      "entry": "refine",
+      "id": "refine#refine__1"
+    },
+    {
+      "comment": "to [make_1]{make} [animal_1]{animal} [skin_1]{skin} into [leather]{leather} by [put]{putting} [chemical_1]{chemicals} on it",
+      "entry": "tan",
+      "id": "tan_3#tan_3__2"
+    },
+    {
+      "comment": "to put a [substance]{substance} on something in [order_1]{order} to [protect]{protect} it or [make_1]{make} it [strong]{stronger}",
+      "entry": "treat",
+      "id": "treat_1#treat_1__20"
+    },
+    {
+      "comment": "to [treat_1]{treat} something so that it will [stay_1]{stay} in [good_1]{good} [condition_1]{condition} in [bad_1]{bad} [weather_1]{weather}",
+      "entry": "weatherize",
+      "id": "weatherize#weatherize__1"
+    }
+  ],
+  "thesaurus": "To treat a product",
+  "type": "Related words"
+}

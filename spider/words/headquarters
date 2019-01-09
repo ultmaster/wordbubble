@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [place_1]{place} where a [company]{company} or [organization]{organization} has its [main_1]{main} [office]{offices}",
+      "examples": [
+        "The UN headquarters are in [new]{New} York.",
+        "the St. Petersburg headquarters of the [national_1]{National} [republican_1]{Republican} [party_1]{Party}"
+      ],
+      "id": "headquarters__1"
+    },
+    {
+      "def": "the [place_1]{place} from which [military]{military} [action_1]{action} is [controlled_1]{controlled}",
+      "examples": [
+        "McCreery [established]{established} his headquarters at Treviso, [just_1]{just} [north_1]{north} of Venice."
+      ],
+      "id": "headquarters__4"
+    }
+  ],
+  "word": "headquarters"
+}

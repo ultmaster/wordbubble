@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if someone or something is between two other [people_1]{people} or [thing]{things}, the two [people_1]{people} or [thing]{things} are on each side of them",
+      "entry": "between",
+      "id": "between#between__2"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone or something is [included]{included} in a [particular_1]{particular} [group_1]{group} of [people_1]{people} or [thing]{things}",
+      "entry": "among",
+      "id": "among#among__2"
+    },
+    {
+      "comment": "in between two [stage_1]{stages}, [place_1]{places}, [level_1]{levels}, times, etc.",
+      "entry": "intermediate",
+      "id": "intermediate_1#intermediate_1__3"
+    },
+    {
+      "comment": "at an [equal_1]{equal} [distance_1]{distance} from two [place_1]{places} or from the two [end_1]{ends} of something",
+      "entry": "halfway",
+      "id": "halfway_1#halfway_1__1"
+    },
+    {
+      "comment": "at the same [distance_1]{distance} from two [place_1]{places}",
+      "entry": "equidistant",
+      "id": "equidistant#equidistant__1"
+    },
+    {
+      "comment": "[surround_1]{surrounded} by [thing]{things} or [people_1]{people}",
+      "entry": "amid",
+      "id": "amid#amid__6"
+    },
+    {
+      "comment": "in the [space_1]{space} between two [people_1]{people} or [thing]{things}",
+      "entry": "intervening",
+      "id": "intervening#intervening__3"
+    },
+    {
+      "comment": "[affected]{affected} by two [thing]{things} that are [opposite_4]{opposites}",
+      "entry": "poised",
+      "id": "poised#poised__8"
+    },
+    {
+      "comment": "in a [place_1]{place} [surround_1]{surrounded} by [people_1]{people} or [thing]{things}",
+      "entry": "among",
+      "id": "among#among__18"
+    },
+    {
+      "comment": "if someone is in your [midst]{midst}, they are with you as part of your [group_1]{group}",
+      "entry": "in our/their/your midst",
+      "id": "midst#midst__7"
+    }
+  ],
+  "thesaurus": "Between and among",
+  "type": "Synonyms"
+}

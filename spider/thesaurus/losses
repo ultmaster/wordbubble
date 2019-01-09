@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "[money]{money} that a [person]{person}, [company]{company}, [organization]{organization}, etc. [lose]{loses} when it [spend]{spends} more than it [earn]{earns}",
+      "entry": "loss",
+      "id": "loss#loss__18"
+    },
+    {
+      "comment": "the [loss]{loss} of all your [money]{money} or [power_1]{power}",
+      "entry": "ruin",
+      "id": "ruin_2#ruin_2__10"
+    },
+    {
+      "comment": "something or an amount of [money]{money} that a [business]{business} or [person]{person} [does]{does} not have any more, or the [record_1]{record} of such a [loss]{loss}",
+      "entry": "write-off",
+      "id": "write-off_2#write-off_2__2"
+    },
+    {
+      "comment": "the [destruction]{destruction} or [loss]{loss} of something, or the cause of [destruction]{destruction} or [loss]{loss}",
+      "entry": "ruination",
+      "id": "ruination#ruination__1"
+    },
+    {
+      "comment": "to have [lost_1]{lost} [money]{money} as the [result_1]{result} of a [business]{business} [deal_1]{deal}",
+      "entry": "be out of pocket",
+      "id": "be-out-of-pocket#be-out-of-pocket__1"
+    },
+    {
+      "comment": "to [suffer]{suffer} by [lose]{losing} [money]{money}, [especially]{especially} in an [unsuccessful]{unsuccessful} [business]{business} [deal_1]{deal}",
+      "entry": "be/get burned",
+      "id": "be-get-burned#be-get-burned__2"
+    },
+    {
+      "comment": "to [lose]{lose} [money]{money} in a [business]{business} [deal_1]{deal}",
+      "entry": "take a bath",
+      "id": "take-a-bath#take-a-bath__1"
+    }
+  ],
+  "thesaurus": "Losses",
+  "type": "Synonyms"
+}

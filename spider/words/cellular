@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to or [consist]{consisting} of [animal_1]{animal} or [plant_1]{plant} [cell]{cells}",
+      "examples": [
+        "[diseased]{diseased} cellular [tissue]{tissue}"
+      ],
+      "id": "cellular__1"
+    },
+    {
+      "def": "[relate]{relating} to a [cell]{cell} [phone_1]{phone} or its system of [communication]{communication}",
+      "examples": [
+        "cellular [communication]{communications}"
+      ],
+      "id": "cellular__3"
+    },
+    {
+      "def": "made up of [small_1]{small} [unit]{units} or [enclosed]{enclosed} [space_1]{spaces}",
+      "examples": [
+        "a cellular [structure_1]{structure}"
+      ],
+      "id": "cellular__5"
+    },
+    {
+      "def": "made of a [material_1]{material} with [hole_1]{holes} in it that [keep_1]{keeps} you [warm_1]{warm} in [cold_1]{cold} [temperature]{temperatures} and [comfortable]{comfortable} in [warm_1]{warm} [temperature]{temperatures}",
+      "examples": [
+        "a cellular [blanket_1]{blanket}"
+      ],
+      "id": "cellular__7"
+    }
+  ],
+  "word": "cellular"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[stale]{stale} [food]{food} such as [bread]{bread} is [old]{old} and no [long_1]{longer} [fresh_1]{fresh}",
+      "entry": "stale",
+      "id": "stale#stale__1"
+    },
+    {
+      "comment": "very [unpleasant]{unpleasant} to [taste_1]{taste}, [smell_1]{smell}, see, or [feel_1]{feel}",
+      "entry": "nasty",
+      "id": "nasty#nasty__9"
+    },
+    {
+      "comment": "[rancid]{rancid} [food]{food} [contain]{contains} [fat_2]{fats} or [oil_1]{oils} that are no [long_1]{longer} [fresh_1]{fresh} and have an [unpleasant]{unpleasant} [taste_1]{taste} and [smell_1]{smell}",
+      "entry": "rancid",
+      "id": "rancid#rancid__1"
+    },
+    {
+      "comment": "with an [unpleasant]{unpleasant} [taste_1]{taste} or [smell_1]{smell}, [especially]{especially} because of no [long_1]{longer} being [fresh_1]{fresh}",
+      "entry": "sour",
+      "id": "sour_1#sour_1__4"
+    },
+    {
+      "comment": "too [unpleasant]{unpleasant} or [poisonous]{poisonous} to [eat]{eat}",
+      "entry": "inedible",
+      "id": "inedible#inedible__1"
+    },
+    {
+      "comment": "[unpalatable]{unpalatable} [food]{food} [taste_1]{tastes} [unpleasant]{unpleasant}",
+      "entry": "unpalatable",
+      "id": "unpalatable#unpalatable__3"
+    },
+    {
+      "comment": "[have]{having} no [flavor_1]{flavor}",
+      "entry": "tasteless",
+      "id": "tasteless#tasteless__1"
+    },
+    {
+      "comment": "not [have]{having} a [strong]{strong} [taste_1]{taste} and therefore not very [interesting]{interesting} to [eat]{eat}",
+      "entry": "bland",
+      "id": "bland#bland__3"
+    },
+    {
+      "comment": "not [enjoyable]{enjoyable} to [eat]{eat} or [drink_1]{drink} because of [have]{having} very [little_1]{little} [taste_1]{taste}",
+      "entry": "insipid",
+      "id": "insipid#insipid__3"
+    },
+    {
+      "comment": "no [long_1]{longer} [fresh_1]{fresh} or [good_1]{good} to [eat]{eat} or [drink_1]{drink}",
+      "entry": "bad",
+      "id": "bad_1#bad_1__39"
+    }
+  ],
+  "thesaurus": "Tasting bad or lacking flavor",
+  "type": "Synonyms"
+}

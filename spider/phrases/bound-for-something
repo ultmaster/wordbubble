@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "bound for something",
+  "senses": [
+    {
+      "def": "[traveling]{traveling} toward a [place_1]{place}",
+      "examples": [
+        "The [drug_1]{drugs} were found on a [container]{container} [ship_1]{ship} that was [bound_1]{bound} for Florida.",
+        "Their [plane_1]{plane} was [bound_1]{bound} for Los Angeles."
+      ],
+      "id": "bound-for-something__1"
+    },
+    {
+      "def": "very [likely_1]{likely} to do something in the [future_1]{future}",
+      "examples": [
+        "[stan_1]{Stan} was [doing]{doing} a [master_1]{Master}\u2019s at Harvard, and [bound_1]{bound} for a [career_1]{career} in [finance_1]{finance}."
+      ],
+      "id": "bound-for-something__4"
+    }
+  ]
+}

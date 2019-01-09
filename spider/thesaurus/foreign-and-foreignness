@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "from another [country]{country}, or in another [country]{country}",
+      "entry": "foreign",
+      "id": "foreign#foreign__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} in a [country]{country} across the [ocean]{ocean} from your [country]{country}",
+      "entry": "overseas",
+      "id": "overseas_1#overseas_1__1"
+    },
+    {
+      "comment": "from a [different]{different} [country]{country}, [race_1]{race}, or [culture_1]{culture}",
+      "entry": "alien",
+      "id": "alien_2#alien_2__1"
+    },
+    {
+      "comment": "someone who comes from another [country]{country}",
+      "entry": "foreigner",
+      "id": "foreigner#foreigner__1"
+    },
+    {
+      "comment": "someone who is not a [citizen]{citizen} of the [country]{country} they are [living_1]{living} in",
+      "entry": "alien",
+      "id": "alien_1#alien_1__1"
+    },
+    {
+      "comment": "a word used in Japan to mean a foreigner",
+      "entry": "gaijin",
+      "id": "gaijin#gaijin__1"
+    },
+    {
+      "comment": "[dealing]{dealing} with or [relate]{relating} to other [country]{countries}",
+      "entry": "foreign",
+      "id": "foreign#foreign__5"
+    },
+    {
+      "comment": "coming from a [country]{country} across the [ocean]{ocean}",
+      "entry": "overseas",
+      "id": "overseas_1#overseas_1__2"
+    }
+  ],
+  "thesaurus": "Foreign and foreignness",
+  "type": "Synonyms"
+}

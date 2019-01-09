@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "the [movement]{movement} of a [ball_1]{ball} that [spin_1]{spins} [backward_1]{backward} as it [go_1]{goes} [forward_1]{forward}",
+      "entry": "backspin",
+      "id": "backspin#backspin__1"
+    },
+    {
+      "comment": "a bouncy ball bounces well when it hits a surface",
+      "entry": "bouncy",
+      "id": "bouncy#bouncy__1"
+    },
+    {
+      "comment": "a [ball_1]{ball} is [dead_1]{dead} in some [game_1]{games} if it is [outside]{outside} the [area]{area} on which the [game_1]{game} is [play_1]{played}, so that the [game_1]{game} [stop_1]{stops} for a [short_1]{short} time",
+      "entry": "dead",
+      "id": "dead_1#dead_1__39"
+    },
+    {
+      "comment": "a [ball_1]{ball} that is [good_1]{good} in a [game_1]{game} such as [tennis]{tennis} [land_1]{lands} [inside_1]{inside} the [area]{area} in which the [game_1]{game} is [play_1]{played}",
+      "entry": "good",
+      "id": "good_1#good_1__87"
+    },
+    {
+      "comment": "if a [ball_1]{ball} is in [play_1]{play}, it is within the [area]{area} where a [game_1]{game} can be [play_1]{played}",
+      "entry": "in play",
+      "id": "in-play#in-play__1"
+    },
+    {
+      "comment": "in [sport_1]{sports}, a long [ball_1]{ball} is one that is [kick_1]{kicked} or hit so it [travel_1]{travels} over a [large_1]{large} [distance_1]{distance}, or [kick_1]{kicked} or hit beyond a [line_1]{line}",
+      "entry": "long",
+      "id": "long_1#long_1__28"
+    },
+    {
+      "comment": "if a [ball_1]{ball} is out of [play_1]{play}, it is [outside]{outside} the [area]{area} where a [game_1]{game} can be [play_1]{played}",
+      "entry": "out of play",
+      "id": "out-of-play#out-of-play__1"
+    },
+    {
+      "comment": "a [ball_1]{ball} that is [playable]{playable} in a [game_1]{game} can be hit or [kick_1]{kicked}",
+      "entry": "playable",
+      "id": "playable#playable__5"
+    },
+    {
+      "comment": "a [ball_1]{ball} that has [rebound_1]{rebounded}",
+      "entry": "rebound",
+      "id": "rebound_2#rebound_2__1"
+    },
+    {
+      "comment": "the [movement]{movement} of a [ball_1]{ball} that [turn_1]{turns} around and around after it has been [thrown]{thrown} or hit",
+      "entry": "spin",
+      "id": "spin_2#spin_2__3"
+    },
+    {
+      "comment": "the way that a [ball_1]{ball} [spin_1]{spins} [forward_1]{forward} as it [quickly]{quickly} [flies]{flies} through the [air_1]{air} after someone [throw_1]{throws} or [hit_1]{hits} it in a [particular_1]{particular} way",
+      "entry": "topspin",
+      "id": "topspin#topspin__1"
+    },
+    {
+      "comment": "[underhand_1]{underhand}",
+      "entry": "underarm",
+      "id": "underarm_2#underarm_2__1"
+    },
+    {
+      "comment": "[thrown]{thrown} with your [arm_1]{arm} low, so that it [does]{does} not go above your [shoulder_1]{shoulder}",
+      "entry": "underhand",
+      "id": "underhand_1#underhand_1__1"
+    },
+    {
+      "comment": "[thrown]{thrown} from a low [position_1]{position}, not from above your [shoulder_1]{shoulder}",
+      "entry": "underhand",
+      "id": "underhand_2#underhand_2__1"
+    },
+    {
+      "comment": "in [sport_1]{sports}, an [unplayable]{unplayable} [ball_1]{ball} or [shot_1]{shot} is very [difficult]{difficult} to hit or to [deal_1]{deal} with, [usually]{usually} because an [opponent]{opponent} has [play_1]{played} it very well",
+      "entry": "unplayable",
+      "id": "unplayable#unplayable__1"
+    }
+  ],
+  "thesaurus": "Relating to the ball in sports and games",
+  "type": "Related words"
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "wholesome [food]{food} is [food]{food} that is [good_1]{good} for you",
+      "examples": [
+        "wholesome home-cooked [meal]{meals}"
+      ],
+      "id": "wholesome__1"
+    },
+    {
+      "def": "[considered]{considered} to have a [good_1]{good} [influence_1]{influence} on [people_1]{people}, for [example]{example} because it [does]{does} not [involve]{involve} [sex_1]{sex} or [drug_1]{drugs}",
+      "examples": [
+        "wholesome [family_1]{family} [entertainment]{entertainment}",
+        "The [party_1]{party} is [hope_1]{hoping} her wholesome [image_1]{image} will [appeal_1]{appeal} to [voter]{voters}."
+      ],
+      "id": "wholesome__3"
+    }
+  ],
+  "word": "wholesome"
+}

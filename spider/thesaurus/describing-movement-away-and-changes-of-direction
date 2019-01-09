@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[turning]{turning} or [look_1]{looking} toward a [different]{different} [direction]{direction}",
+      "entry": "away",
+      "id": "away_1#away_1__7"
+    },
+    {
+      "comment": "[moving]{moving} or [look_1]{looking} in the [direction]{direction} that is behind you",
+      "entry": "backward",
+      "id": "backward_1#backward_1__1"
+    },
+    {
+      "comment": "[moving]{moving} so that you [face_1]{face} in the [opposite_1]{opposite} [direction]{direction}",
+      "entry": "around",
+      "id": "around#around__9"
+    },
+    {
+      "comment": "[away_1]{away} from an [original_1]{original} [position_1]{position} or [place_1]{place}",
+      "entry": "back",
+      "id": "back_1#back_1__24"
+    },
+    {
+      "comment": "[moving]{moving} along a [road]{road}, [street_1]{street}, [path]{path}, etc., or at a [point_1]{point} along it in a [direction]{direction} [away_1]{away} from you",
+      "entry": "up",
+      "id": "up_1#up_1__31"
+    },
+    {
+      "comment": "at a [point_1]{point} somewhere on a [road]{road}, [path]{path}, etc. in a [direction]{direction} [away_1]{away} from you",
+      "entry": "down",
+      "id": "down_1#down_1__33"
+    },
+    {
+      "comment": "if someone or something moves against the wind, the current, etc., they face it and move in the opposite direction",
+      "entry": "against",
+      "id": "against#against__35"
+    },
+    {
+      "comment": "[moving]{moving} so that you [face_1]{face} in the [opposite_1]{opposite} [direction]{direction}",
+      "entry": "about",
+      "id": "about#about__30"
+    },
+    {
+      "comment": "[away_1]{away} from a [particular_1]{particular} [country]{country}, [area]{area}, or [town]{town}",
+      "entry": "outside",
+      "id": "outside#outside__10"
+    },
+    {
+      "comment": "[moving]{moving} [forward_1]{forward}, or [continuing]{continuing}",
+      "entry": "onward",
+      "id": "onward_1#onward_1__1"
+    }
+  ],
+  "thesaurus": "Describing movement away and changes of direction",
+  "type": "Synonyms"
+}

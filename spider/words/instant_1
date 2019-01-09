@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[immediate]{immediate}",
+      "examples": [
+        "We can\u2019t [promise_1]{promise} instant [solution]{solutions}, but we can [promise_1]{promise} to [listen_1]{listen}.",
+        "They [took]{took} an instant [liking]{liking} to each other."
+      ],
+      "id": "instant_1__1"
+    },
+    {
+      "def": "instant [food]{food} or [drink_1]{drink} can be [prepared]{prepared} in a very [short_1]{short} time, [usually]{usually} by [add_1]{adding} [hot]{hot} [water_1]{water}",
+      "examples": [
+        "instant [coffee]{coffee}/[soup_1]{soup}/[pudding]{pudding}"
+      ],
+      "id": "instant_1__4"
+    }
+  ],
+  "word": "instant"
+}

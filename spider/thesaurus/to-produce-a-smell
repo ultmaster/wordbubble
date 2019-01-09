@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something have a [particular_1]{particular} [smell_1]{smell}",
+      "entry": "scent",
+      "id": "scent_2#scent_2__1"
+    },
+    {
+      "comment": "to have a [strong]{strong} [unpleasant]{unpleasant} [smell_1]{smell}",
+      "entry": "reek",
+      "id": "reek#reek__1"
+    },
+    {
+      "comment": "to have an [unpleasant]{unpleasant} [smell_1]{smell}",
+      "entry": "smell",
+      "id": "smell_2#smell_2__7"
+    },
+    {
+      "comment": "to [make_1]{make} someone or something [smell_1]{smell} [nice]{nice}",
+      "entry": "perfume",
+      "id": "perfume_2#perfume_2__2"
+    },
+    {
+      "comment": "to cause a [place_1]{place} or [person]{person} to have an [unpleasant]{unpleasant} [smell_1]{smell}",
+      "entry": "smell up",
+      "id": "smell-up#smell-up__1"
+    },
+    {
+      "comment": "to [smell_1]{smell} very [unpleasant]{unpleasant}",
+      "entry": "stink",
+      "id": "stink_1#stink_1__1"
+    },
+    {
+      "comment": "if a [smell_1]{smell} or [liquid_1]{liquid} [exude]{exudes} from something, or if something [exude]{exudes} a [smell_1]{smell} or [liquid_1]{liquid}, it comes out of it [slowly]{slowly}",
+      "entry": "exude",
+      "id": "exude#exude__3"
+    },
+    {
+      "comment": "to [smell_1]{smell} [extremely]{extremely} [bad_1]{bad}",
+      "entry": "smell/stink to high heaven",
+      "id": "smell-stink-to-high-heaven#smell-stink-to-high-heaven__1"
+    },
+    {
+      "comment": "to fill a [place_1]{place} with a very [unpleasant]{unpleasant} [smell_1]{smell}",
+      "entry": "stink up",
+      "id": "stink-up#stink-up__1"
+    }
+  ],
+  "thesaurus": "To produce a smell",
+  "type": "Synonyms"
+}

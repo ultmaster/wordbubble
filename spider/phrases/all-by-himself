@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "(all) by himself",
+  "senses": [
+    {
+      "def": "alone",
+      "examples": [
+        "Since his [wife]{wife} [die_1]{died}, he\u2019s been [living_1]{living} all by [himself]{himself}.",
+        "I [notice_1]{noticed} Ben [sitting]{sitting} all by [himself]{himself} in the [corner_1]{corner}."
+      ],
+      "id": "all-by-himself__1"
+    },
+    {
+      "def": "without [help_1]{help} from anyone else",
+      "examples": [
+        "There\u2019s too much [work_1]{work} for one man to do all by [himself]{himself}."
+      ],
+      "id": "all-by-himself__4"
+    }
+  ]
+}

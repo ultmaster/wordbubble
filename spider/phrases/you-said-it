@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "you said it",
+  "senses": [
+    {
+      "def": "[used]{used} for [agree]{agreeing} with what someone has [said_1]{said} although you would not have [said_1]{said} it yourself, [especially]{especially} when they [admit]{admit} they have done something [bad_1]{bad} or [wrong_1]{wrong}",
+      "examples": [
+        "\u201cI\u2019ve made a [terrible]{terrible} [mess_1]{mess} of this.\u201d \u201cYou [said_1]{said} it.\u201d"
+      ],
+      "id": "you-said-it__1"
+    },
+    {
+      "def": "[used]{used} for [agree]{agreeing} with a [suggestion]{suggestion} that someone has made",
+      "examples": [
+        "\u201cWhy don\u2019t we have something to [eat]{eat} first?\u201d \u201cYou [said_1]{said} it!\u201d"
+      ],
+      "id": "you-said-it__3"
+    }
+  ]
+}

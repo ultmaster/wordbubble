@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "a [quick_1]{quick} [increase_1]{increase} in [price_1]{prices} after they have [fallen_1]{fallen} to a low [level_1]{level}",
+      "entry": "bounce",
+      "id": "bounce_2#bounce_2__6"
+    },
+    {
+      "comment": "to become less in amount, [level_1]{level}, [price_1]{price}, etc.",
+      "entry": "come down",
+      "id": "come-down#come-down__8"
+    },
+    {
+      "comment": "if [sale]{sales}, [price_1]{prices}, etc. [cool_1]{cool} off, they become [lower_1]{lower}",
+      "entry": "cool off",
+      "id": "cool-off#cool-off__6"
+    },
+    {
+      "comment": "the [process_1]{process} of becoming less [valuable]{valuable}",
+      "entry": "depreciation",
+      "id": "depreciation#depreciation__1"
+    },
+    {
+      "comment": "if a [number_1]{number} or [price_1]{price} [edge_1]{edges} [higher_1]{higher} or [lower_1]{lower}, it [move_1]{moves} up or down a [little_1]{little} at a time",
+      "entry": "edge",
+      "id": "edge_2#edge_2__4"
+    },
+    {
+      "comment": "if [thing]{things} such as [price_1]{prices} [rally_1]{rally}, they [increase_1]{increase} after being low",
+      "entry": "rally",
+      "id": "rally_2#rally_2__6"
+    },
+    {
+      "comment": "if something such as a [price_1]{price} or [quantity]{quantity} [rocket_1]{rockets}, it [suddenly]{suddenly} [increase_1]{increases} a [lot_1]{lot}",
+      "entry": "rocket",
+      "id": "rocket_2#rocket_2__1"
+    },
+    {
+      "comment": "if an amount, [value_1]{value}, or [cost_1]{cost} [skyrocket]{skyrockets}, it [rise_1]{rises} [quickly]{quickly} to a very [high_1]{high} [level_1]{level}",
+      "entry": "skyrocket",
+      "id": "skyrocket#skyrocket__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about the [low_1]{lowest} [price_1]{price} or [number_1]{number}",
+      "entry": "start",
+      "id": "start_1#start_1__38"
+    },
+    {
+      "comment": "if a [price_1]{price} or [value_1]{value} [tumble_1]{tumbles}, it [suddenly]{suddenly} becomes much [lower_1]{lower}",
+      "entry": "tumble",
+      "id": "tumble_1#tumble_1__1"
+    },
+    {
+      "comment": "if [price_1]{prices} [weaken]{weaken}, they [fall_1]{fall}",
+      "entry": "weaken",
+      "id": "weaken#weaken__13"
+    },
+    {
+      "comment": "to [suddenly]{suddenly} [increase_1]{increase} in [price_1]{price}, [quantity]{quantity}, or [size_1]{size}",
+      "entry": "zoom",
+      "id": "zoom#zoom__5"
+    }
+  ],
+  "thesaurus": "Price behavior",
+  "type": "Related words"
+}

@@ -1,0 +1,351 @@
+{
+  "entries": [
+    {
+      "comment": "a [large_1]{large} [truck_1]{truck} that has 18 [wheel_1]{wheels}",
+      "entry": "18-wheeler",
+      "id": "18-wheeler#18-wheeler__1"
+    },
+    {
+      "comment": "a four-wheel [drive_1]{drive} [vehicle]{vehicle}",
+      "entry": "4\u00d74",
+      "id": "4x4#4x4__1"
+    },
+    {
+      "comment": "a four-wheel [drive_1]{drive} [vehicle]{vehicle}",
+      "entry": "4WD",
+      "id": "4wd#4wd__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} with no [roof_1]{roof}, three or four [wheel_1]{wheels}, and [usually]{usually} only one [seat_1]{seat}, [used]{used} for [driving]{driving} over rough, [soft]{soft}, or [wet_1]{wet} [ground_1]{ground}",
+      "entry": "all-terrain vehicle",
+      "id": "all-terrain-vehicle#all-terrain-vehicle__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} for [take_1]{taking} [people_1]{people} to the [hospital]{hospital}",
+      "entry": "ambulance",
+      "id": "ambulance#ambulance__1"
+    },
+    {
+      "comment": "an all-terrain [vehicle]{vehicle}",
+      "entry": "ATV",
+      "id": "atv#atv__1"
+    },
+    {
+      "comment": "a tow [truck_1]{truck}",
+      "entry": "breakdown truck",
+      "id": "breakdown-truck#breakdown-truck__1"
+    },
+    {
+      "comment": "a [large_1]{large} [road]{road} [vehicle]{vehicle} with a [lot_1]{lot} of [seat_1]{seats} which you [pay_1]{pay} to [travel_1]{travel} on, [especially]{especially} one that [take_1]{takes} you [fairly]{fairly} [short_1]{short} [distance_1]{distances} and [stop_1]{stops} [frequently]{frequently}",
+      "entry": "bus",
+      "id": "bus_1#bus_1__1"
+    },
+    {
+      "comment": "a large road vehicle that you pay to travel in over long distances. The usual British word is coach.",
+      "entry": "bus",
+      "id": "bus_1#bus_1__5"
+    },
+    {
+      "comment": "a motor vehicle used for living in on vacations. It is smaller than a motor home.",
+      "entry": "camper",
+      "id": "camper#camper__2"
+    },
+    {
+      "comment": "a [camper]{camper} you [stay_1]{stay} in",
+      "entry": "camper van",
+      "id": "camper-van#camper-van__1"
+    },
+    {
+      "comment": "a [trailer]{trailer}",
+      "entry": "caravan",
+      "id": "caravan#caravan__2"
+    },
+    {
+      "comment": "a [comfortable]{comfortable} [bus_1]{bus} for long [trip_1]{trips}",
+      "entry": "coach",
+      "id": "coach_1#coach_1__10"
+    },
+    {
+      "comment": "a [van]{van} or [truck_1]{truck} with a [large_1]{large} [closed]{closed} [compartment]{compartment} for [carry_1]{carrying} [goods]{goods}",
+      "entry": "cube van",
+      "id": "cube-van#cube-van__1"
+    },
+    {
+      "comment": "a [bus_1]{bus} that has both an [upper_1]{upper} and a [lower_1]{lower} [level_1]{level} where [people_1]{people} can [sit]{sit}",
+      "entry": "double-decker",
+      "id": "double-decker#double-decker__2"
+    },
+    {
+      "comment": "a [truck_1]{truck} with a [large_1]{large} [metal_1]{metal} [container]{container} that can be [raised]{raised} at the front [end_1]{end} so that the [sand_1]{sand}, [stone_1]{stones}, or other [material_1]{material} in it [fall_1]{falls} out at the back [end_1]{end}",
+      "entry": "dump truck",
+      "id": "dump-truck#dump-truck__1"
+    },
+    {
+      "comment": "a [large_1]{large} [road]{road} [vehicle]{vehicle} for [dig_1]{digging} [large_1]{large} [hole_1]{holes} and [moving]{moving} [large_1]{large} [quantity]{quantities} of [earth]{earth}",
+      "entry": "earthmover",
+      "id": "earthmover#earthmover__1"
+    },
+    {
+      "comment": "a large road vehicle that firefighters use for driving to a fire and carrying the equipment they need",
+      "entry": "fire engine",
+      "id": "fire-engine#fire-engine__1"
+    },
+    {
+      "comment": "a fire engine",
+      "entry": "fire truck",
+      "id": "fire-truck#fire-truck__1"
+    },
+    {
+      "comment": "a truck or trailer with no roof or sides, used for carrying large or heavy goods",
+      "entry": "flatbed",
+      "id": "flatbed#flatbed__1"
+    },
+    {
+      "comment": "a large vehicle decorated and driven as part of a parade",
+      "entry": "float",
+      "id": "float_2#float_2__1"
+    },
+    {
+      "comment": "a vehicle that has four-wheel drive",
+      "entry": "four-by-four",
+      "id": "four-by-four#four-by-four__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} that has this system",
+      "entry": "four-wheel drive",
+      "id": "four-wheel-drive#four-wheel-drive__2"
+    },
+    {
+      "comment": "a [large_1]{large} [truck_1]{truck} [used]{used} for [collect_1]{collecting} [garbage]{garbage}",
+      "entry": "garbage truck",
+      "id": "garbage-truck#garbage-truck__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [bus_1]{bus} that [people_1]{people} use for [traveling]{traveling} long [distance_1]{distances} in the U.S.",
+      "entry": "Greyhound Bus",
+      "id": "greyhound-bus#greyhound-bus__1"
+    },
+    {
+      "comment": "a fire engine with long ladders on the sides",
+      "entry": "hook and ladder",
+      "id": "hook-and-ladder#hook-and-ladder__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} for [horse_1]{horses} to [travel_1]{travel} in, [pull_1]{pulled} by a [car]{car}",
+      "entry": "horse trailer",
+      "id": "horse-trailer#horse-trailer__1"
+    },
+    {
+      "comment": "a [car]{car} with no [roof_1]{roof} that can [drive_1]{drive} over all [type_1]{types} of [land_1]{land} and is often [used]{used} as a [military]{military} [vehicle]{vehicle}",
+      "entry": "jeep",
+      "id": "jeep#jeep__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [truck_1]{truck}",
+      "entry": "juggernaut",
+      "id": "juggernaut#juggernaut__3"
+    },
+    {
+      "comment": "a [limousine]{limousine}",
+      "entry": "limo",
+      "id": "limo#limo__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bus_1]{bus} that [take_1]{takes} [people_1]{people} to and from [airport]{airports}",
+      "entry": "limousine",
+      "id": "limousine#limousine__3"
+    },
+    {
+      "comment": "a [truck_1]{truck}",
+      "entry": "lorry",
+      "id": "lorry#lorry__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bus_1]{bus} for about ten to fifteen [people_1]{people}",
+      "entry": "minibus",
+      "id": "minibus#minibus__1"
+    },
+    {
+      "comment": "a [small_1]{small} [van]{van} with [seat_1]{seats} for about eight [people_1]{people}",
+      "entry": "minivan",
+      "id": "minivan#minivan__1"
+    },
+    {
+      "comment": "a [large_1]{large} [road]{road} [vehicle]{vehicle} [design_2]{designed} for [living_1]{living} while [traveling]{traveling}",
+      "entry": "motor home",
+      "id": "motor-home#motor-home__1"
+    },
+    {
+      "comment": "a [large_1]{large} [truck_1]{truck} [used]{used} for [moving]{moving} [people_1]{people}\u2019s [furniture]{furniture} and [possession]{possessions} from one [house_1]{house} or [apartment]{apartment} to another",
+      "entry": "moving van",
+      "id": "moving-van#moving-van__1"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} a \u201c[bus_1]{bus}\u201d",
+      "entry": "omnibus",
+      "id": "omnibus_1#omnibus_1__3"
+    },
+    {
+      "comment": "a [small_1]{small} [truck_1]{truck} with an [enclosed]{enclosed} [section_1]{section} for [carry_1]{carrying} [goods]{goods}",
+      "entry": "panel truck",
+      "id": "panel-truck#panel-truck__1"
+    },
+    {
+      "comment": "a [truck_1]{truck} with an [open_1]{open} back and low sides",
+      "entry": "pickup",
+      "id": "pickup_1#pickup_1__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [plow_1]{plow}",
+      "entry": "plough",
+      "id": "plough#plough__1"
+    },
+    {
+      "comment": "a [snowplow_1]{snowplow}",
+      "entry": "plow",
+      "id": "plow_2#plow_2__2"
+    },
+    {
+      "comment": "an RV",
+      "entry": "recreational vehicle",
+      "id": "recreational-vehicle#recreational-vehicle__1"
+    },
+    {
+      "comment": "a moving van",
+      "entry": "removal van",
+      "id": "removal-van#removal-van__1"
+    },
+    {
+      "comment": "a [large_1]{large} [truck_1]{truck} that [consist]{consists} of two [part_1]{parts}, one for the [engine]{engine} and the [driver]{driver} and the other for [carry_1]{carrying} a [load_1]{load}",
+      "entry": "rig",
+      "id": "rig_1#rig_1__4"
+    },
+    {
+      "comment": "[recreational]{recreational} [vehicle]{vehicle}: a [large_1]{large} [road]{road} [vehicle]{vehicle} that you can [live_1]{live} in",
+      "entry": "RV",
+      "id": "rv#rv__1"
+    },
+    {
+      "comment": "a very large heavy truck that pulls a trailer  (=vehicle like a large box on wheels) and is used for carrying goods over long distances",
+      "entry": "semi",
+      "id": "semi_1#semi_1__1"
+    },
+    {
+      "comment": "a [bus_1]{bus} that has only one [level_1]{level}",
+      "entry": "single decker",
+      "id": "single-decker#single-decker__1"
+    },
+    {
+      "comment": "a [large_1]{large} [vehicle]{vehicle} that [push_1]{pushes} [snow_1]{snow} off the [road]{road}",
+      "entry": "snowplow",
+      "id": "snowplow_1#snowplow_1__1"
+    },
+    {
+      "comment": "an SUV",
+      "entry": "sport utility vehicle",
+      "id": "sport-utility-vehicle#sport-utility-vehicle__1"
+    },
+    {
+      "comment": "a vehicle for passengers that moves along special lines on a road and that is connected to electric wires above. The British word is tram.",
+      "entry": "streetcar",
+      "id": "streetcar#streetcar__1"
+    },
+    {
+      "comment": "[sport_1]{sport} [utility]{utility} [vehicle]{vehicle}: a four-wheel [drive_1]{drive} a",
+      "entry": "SUV",
+      "id": "suv#suv__1"
+    },
+    {
+      "comment": "a [large_1]{large} [ship_1]{ship}, [truck_1]{truck}, or [airplane]{airplane} that [carry_1]{carries} [gas_1]{gas} or [oil_1]{oil}",
+      "entry": "tanker",
+      "id": "tanker#tanker__1"
+    },
+    {
+      "comment": "a [truck_1]{truck} [used]{used} for [moving]{moving} [vehicle]{vehicles} that cannot be [driven_1]{driven}",
+      "entry": "tow truck",
+      "id": "tow-truck#tow-truck__1"
+    },
+    {
+      "comment": "a large truck that pulls one or two trailers  (=long boxes used for storing products)",
+      "entry": "tractor-trailer",
+      "id": "tractor-trailer#tractor-trailer__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} on [wheel_1]{wheels} that is [pull_1]{pulled} by a [car]{car} and is [used]{used} as a [home_1]{home} by [people_1]{people} on [vacation_1]{vacation}",
+      "entry": "trailer",
+      "id": "trailer#trailer__1"
+    },
+    {
+      "comment": "a [large_1]{large} [comfortable]{comfortable} [trailer]{trailer} that can be [used]{used} as a [permanent_1]{permanent} [home_1]{home}",
+      "entry": "trailer",
+      "id": "trailer#trailer__2"
+    },
+    {
+      "comment": "a long narrow vehicle that travels along metal tracks in the middle of a street and is used as public transportation in some places",
+      "entry": "tram",
+      "id": "tram#tram__2"
+    },
+    {
+      "comment": "a [tram]{tram}",
+      "entry": "tramcar",
+      "id": "tramcar#tramcar__1"
+    },
+    {
+      "comment": "an electric vehicle for carrying passengers that moves along rails in the road",
+      "entry": "trolley",
+      "id": "trolley#trolley__4"
+    },
+    {
+      "comment": "a [trolley]{trolley} [bus_1]{bus}",
+      "entry": "trolley",
+      "id": "trolley#trolley__5"
+    },
+    {
+      "comment": "a [bus_1]{bus} that [operate]{operates} [use_1]{using} [electric]{electric} [power_1]{power} from [wire_1]{wires} [attached]{attached} above the [road]{road}",
+      "entry": "trolley bus",
+      "id": "trolley-bus#trolley-bus__1"
+    },
+    {
+      "comment": "a trolley that runs on rails",
+      "entry": "trolley car",
+      "id": "trolley-car#trolley-car__1"
+    },
+    {
+      "comment": "a [large_1]{large} [road]{road} [vehicle]{vehicle} [used]{used} for [carry_1]{carrying} [goods]{goods}",
+      "entry": "truck",
+      "id": "truck_1#truck_1__1"
+    },
+    {
+      "comment": "a [pickup_1]{pickup} [truck_1]{truck}",
+      "entry": "ute",
+      "id": "ute#ute__1"
+    },
+    {
+      "comment": "a [pickup_1]{pickup} [truck_1]{truck}",
+      "entry": "utility",
+      "id": "utility#utility__8"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [used]{used} for [carry_1]{carrying} [goods]{goods} or several [people_1]{people}. It is [usually]{usually} [large_1]{larger} than a [car]{car} and [small_1]{smaller} than a [truck_1]{truck}, and the back part is [enclosed]{enclosed}",
+      "entry": "van",
+      "id": "van#van__1"
+    },
+    {
+      "comment": "a [van]{van} that [deliver]{delivers} [free_1]{free} [goods]{goods} from [local_1]{local} [store_1]{stores} to [people_1]{people} who have [recently]{recently} come to [live_1]{live} in an [area]{area}",
+      "entry": "Welcome Wagon",
+      "id": "welcome-wagon#welcome-wagon__1"
+    },
+    {
+      "comment": "a [large_1]{large} [road]{road} [vehicle]{vehicle} [used]{used} for [sleep_1]{sleeping} in when you are [traveling]{traveling}",
+      "entry": "Winnebago",
+      "id": "winnebago#winnebago__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [used]{used} for [moving]{moving} [damage_2]{damaged} [car]{cars} or other [vehicle]{vehicles}",
+      "entry": "wrecker",
+      "id": "wrecker#wrecker__1"
+    }
+  ],
+  "thesaurus": "Road vehicles other than cars",
+  "type": "Related words"
+}

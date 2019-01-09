@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "once again/more",
+  "senses": [
+    {
+      "def": "[used]{used} when something has [happen]{happened} before",
+      "examples": [
+        "He was [forced]{forced} to [publicly]{publicly} [apologize]{apologize} once more for his [action_1]{actions}.",
+        "The [fair_1]{fair} was once again a [tremendous]{tremendous} [success]{success}."
+      ],
+      "id": "once-again-more__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that a [situation]{situation} becomes as it was before it [changed]{changed}",
+      "examples": [
+        "I [return_1]{returned} to Canada and found once again the [freedom]{freedom} I had [known_1]{known} as a [child]{child}.",
+        "We [look_1]{look} [forward_1]{forward} to the [day]{day} when there will be [peace]{peace} once more in this [troubled]{troubled} [land_1]{land}."
+      ],
+      "id": "once-again-more__4"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [unprofitable]{unprofitable} [business]{business} [does]{does} not [make_1]{make} enough [money]{money}",
+      "entry": "unprofitable",
+      "id": "unprofitable#unprofitable__1"
+    },
+    {
+      "comment": "not [capable]{capable} of [produce_1]{producing} a [profit_1]{profit}",
+      "entry": "uneconomic",
+      "id": "uneconomic#uneconomic__1"
+    },
+    {
+      "comment": "a [loss-making]{loss-making} [company]{company} [does]{does} not [make_1]{make} a [profit_1]{profit}",
+      "entry": "loss-making",
+      "id": "loss-making#loss-making__1"
+    },
+    {
+      "comment": "[involve]{involving} [high_1]{high} [cost_1]{costs} in [money]{money}, time, etc., but not [providing]{providing} [reasonable]{reasonable} [result_1]{results} or [profit_1]{profits}",
+      "entry": "uneconomical",
+      "id": "uneconomical#uneconomical__1"
+    },
+    {
+      "comment": "an [unhealthy]{unhealthy} [business]{business} or [economy_1]{economy} [does]{does} not [make_1]{make} a [lot_1]{lot} of [money]{money}",
+      "entry": "unhealthy",
+      "id": "unhealthy#unhealthy__3"
+    },
+    {
+      "comment": "an [institution]{institution} or [event]{event} that is [underfunded]{underfunded} [does]{does} not have enough [money]{money} to [run_1]{run} [properly]{properly}",
+      "entry": "underfunded",
+      "id": "underfunded#underfunded__1"
+    },
+    {
+      "comment": "a [not-for-profit]{not-for-profit} [organization]{organization} [exist]{exists} in [order_1]{order} to [help_1]{help} [people_1]{people} and [provide]{provide} a [service_1]{service}, rather than to [make_1]{make} [money]{money}",
+      "entry": "not-for-profit",
+      "id": "not-for-profit#not-for-profit__1"
+    },
+    {
+      "comment": "not being [used]{used} yet, but [existing]{existing} in [large_1]{large} [amount_1]{amounts} that could [bring]{bring} [profit_1]{profits} or [benefit_1]{benefits}",
+      "entry": "untapped",
+      "id": "untapped#untapped__1"
+    },
+    {
+      "comment": "if [business]{business} or [trade_1]{trade} is [dull_1]{dull}, it is not [busy_1]{busy}",
+      "entry": "dull",
+      "id": "dull_1#dull_1__17"
+    },
+    {
+      "comment": "a [nonprofit_1]{nonprofit} [organization]{organization} has [goals]{goals} that do not [include]{include} [making]{making} a [profit_1]{profit}",
+      "entry": "nonprofit",
+      "id": "nonprofit_1#nonprofit_1__1"
+    }
+  ],
+  "thesaurus": "Not providing profit",
+  "type": "Synonyms"
+}

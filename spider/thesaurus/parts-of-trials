@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "an [occasion_1]{occasion} when you go to a [court_1]{court} of [law]{law}, [committee]{committee}, or [similar]{similar} [institution]{institution} so that [people_1]{people} can [ask_1]{ask} you [question_1]{questions} and [make_1]{make} [decision_1]{decisions} about you",
+      "entry": "appearance",
+      "id": "appearance#appearance__16"
+    },
+    {
+      "comment": "to have [formally]{formally} [promise_1]{promised} to [tell_1]{tell} the [truth]{truth} in a [court_1]{court} of [law]{law}",
+      "entry": "be under/on oath",
+      "id": "be-under-on-oath#be-under-on-oath__1"
+    },
+    {
+      "comment": "the [evidence_1]{evidence} and [argument]{arguments} that one side can use against the other in a [law]{law} [court_1]{court}",
+      "entry": "case",
+      "id": "case_1#case_1__25"
+    },
+    {
+      "comment": "a statement that each lawyer makes at the end of a trial in which they tell a jury or the judge why they believe their client should win",
+      "entry": "closing argument",
+      "id": "closing-argument#closing-argument__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} that each [lawyer]{lawyer} [make_1]{makes} at the [end_1]{end} of a [trial_1]{trial} in which they [explain]{explain} why they [believe]{believe} their [client]{client} should [win_1]{win}",
+      "entry": "closing speech",
+      "id": "closing-speech#closing-speech__1"
+    },
+    {
+      "comment": "in some [country]{countries} with [common_1]{common} [law]{law}, a [short_1]{short} pre-trial [hearing]{hearing} to [decide]{decide} whether there is enough [evidence_1]{evidence} to [try_1]{try} a serious [crime_1]{crime}",
+      "entry": "committal procedure",
+      "id": "committal-procedure#committal-procedure__1"
+    },
+    {
+      "comment": "a [delay_1]{delay} that a [judge_1]{judge} in a [court_1]{court} of [law]{law} [allow]{allows}, [especially]{especially} to give a [lawyer]{lawyer} more time to [obtain]{obtain} [fact]{facts}",
+      "entry": "continuance",
+      "id": "continuance#continuance__2"
+    },
+    {
+      "comment": "all the [thing]{things} that are [said_1]{said} and [shown]{shown} in a [court_1]{court} [case_1]{case} to [prove]{prove} that someone is not [guilty]{guilty}",
+      "entry": "defense",
+      "id": "defense#defense__15"
+    },
+    {
+      "comment": "a formal written statement by a witness that is read out in a court because the witness cannot be present at the court",
+      "entry": "deposition",
+      "id": "deposition#deposition__1"
+    },
+    {
+      "comment": "things that witnesses say in a court of law when they answer questions",
+      "entry": "evidence",
+      "id": "evidence#evidence__13"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [lawyer]{lawyer} [ask_1]{asks} someone [question_1]{questions} in [court_1]{court}",
+      "entry": "examination",
+      "id": "examination#examination__10"
+    },
+    {
+      "comment": "the [questioning_1]{questioning} of a [witness_1]{witness} by the [lawyer]{lawyer} who has [call_1]{called} that [person]{person} to give [evidence_1]{evidence}",
+      "entry": "examination-in-chief",
+      "id": "examination-in-chief#examination-in-chief__1"
+    },
+    {
+      "comment": "an [object_1]{object} or [document_1]{document} [used]{used} as [evidence_1]{evidence} in a [court_1]{court} of [law]{law}",
+      "entry": "exhibit",
+      "id": "exhibit_2#exhibit_2__5"
+    },
+    {
+      "comment": "a [judge_1]{judge}\u2019s [order_1]{order} to [bring]{bring} a [prisoner]{prisoner} into [court_1]{court} so that the [court_1]{court} can [decide]{decide} whether the [prisoner]{prisoner} should [stay_1]{stay} in [prison]{prison} or not",
+      "entry": "habeas corpus",
+      "id": "habeas-corpus#habeas-corpus__1"
+    },
+    {
+      "comment": "a formal suggestion made by a lawyer to a judge in a court of law. A lawyer can file a motion  (=suggest it), but the judge may deny it  (=refuse to accept it)",
+      "entry": "motion",
+      "id": "motion_1#motion_1__10"
+    },
+    {
+      "comment": "a [formal_1]{formal} [promise_1]{promise}, [especially]{especially} one made in a [court_1]{court} of [law]{law}",
+      "entry": "oath",
+      "id": "oath#oath__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} that someone [make_1]{makes} in a [court_1]{court} of [law]{law} to [say_1]{say} whether they are [guilty]{guilty} of a [crime_1]{crime} or not",
+      "entry": "plea",
+      "id": "plea#plea__4"
+    },
+    {
+      "comment": "an [official_1]{official} [statement_1]{statement} of someone\u2019s [case_1]{case} in a [court_1]{court} of [law]{law}",
+      "entry": "pleading",
+      "id": "pleading_2#pleading_2__2"
+    },
+    {
+      "comment": "an [aspect]{aspect} of a [legal]{legal} [case_1]{case} that [deal_1]{deals} with the [fact]{facts} and not the [law]{law}",
+      "entry": "point of fact",
+      "id": "point-of-fact#point-of-fact__1"
+    },
+    {
+      "comment": "an [aspect]{aspect} of a [legal]{legal} [case_1]{case} that [deal_1]{deals} with the [law]{law} and not the [fact]{facts}",
+      "entry": "point of law",
+      "id": "point-of-law#point-of-law__1"
+    },
+    {
+      "comment": "the [process_1]{process} or [act_1]{act} of [accusing]{accusing} someone of a [crime_1]{crime} and [ask_1]{asking} a [court_1]{court} of [law]{law} to [judge_1]{judge} them",
+      "entry": "the prosecution",
+      "id": "prosecution#prosecution__1"
+    },
+    {
+      "comment": "another [term_1]{term} for a [point_1]{point} of [fact]{fact}",
+      "entry": "question of fact",
+      "id": "question-of-fact#question-of-fact__1"
+    },
+    {
+      "comment": "another [term_1]{term} for a [point_1]{point} of [law]{law}",
+      "entry": "question of law",
+      "id": "question-of-law#question-of-law__1"
+    },
+    {
+      "comment": "a [formal_1]{formal} [meeting]{meeting} of an [institution]{institution} such as a [legislature]{legislature} or a [court_1]{court} of [law]{law}",
+      "entry": "session",
+      "id": "session_1#session_1__4"
+    },
+    {
+      "comment": "a [period_1]{period} of time when a [legislature]{legislature} or [court_1]{court} [meet_1]{meets}",
+      "entry": "sitting",
+      "id": "sitting#sitting__4"
+    },
+    {
+      "comment": "a [basic_1]{basic} [argument]{argument} without any [detail_1]{details}",
+      "entry": "skeleton argument",
+      "id": "skeleton-argument#skeleton-argument__1"
+    },
+    {
+      "comment": "the [introduction]{introduction} of [new]{new} [evidence_1]{evidence} in a [trial_1]{trial}",
+      "entry": "special pleading",
+      "id": "special-pleading#special-pleading__1"
+    },
+    {
+      "comment": "a final statement made in a court of law by lawyers arguing for each side, before the jury makes its decision",
+      "entry": "summation",
+      "id": "summation#summation__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} made by a [lawyer]{lawyer} or [judge_1]{judge} that [give_1]{gives} a [summary_1]{summary} of the [evidence_1]{evidence} in a [case_1]{case}",
+      "entry": "summing-up",
+      "id": "summing-up#summing-up__2"
+    },
+    {
+      "comment": "to [formally]{formally} [promise_1]{promise} to [tell_1]{tell} the [truth]{truth} in a [court_1]{court} of [law]{law}",
+      "entry": "take the oath",
+      "id": "take-the-oath#take-the-oath__1"
+    },
+    {
+      "comment": "a [formal_1]{formal} [statement_1]{statement} about something that you [saw_1]{saw}, [know_1]{know}, or [experienced]{experienced}, [usually]{usually} [given_1]{given} in a [court_1]{court} of [law]{law}",
+      "entry": "testimony",
+      "id": "testimony#testimony__1"
+    }
+  ],
+  "thesaurus": "Parts of trials",
+  "type": "Related words"
+}

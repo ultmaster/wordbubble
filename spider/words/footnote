@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [note_1]{note} at the bottom of a [page_1]{page} that [give_1]{gives} more [detailed]{detailed} [information]{information} about something on the [page_1]{page}",
+      "examples": [],
+      "id": "footnote__1"
+    },
+    {
+      "def": "an [additional]{additional} [fact]{fact}, [event]{event}, or [comment_1]{comment} that is not very [important]{important}",
+      "examples": [
+        "[just_1]{Just} as a footnote, it is [worth_1]{worth} [saying]{saying} that the whole [project_1]{project} didn\u2019t [cost_1]{cost} [local_1]{local} [taxpayer]{taxpayers} a [single_1]{single} [cent]{cent}."
+      ],
+      "id": "footnote__2"
+    }
+  ],
+  "word": "footnote"
+}

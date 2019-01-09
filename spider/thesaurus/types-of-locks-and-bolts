@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [metal_1]{metal} [bar_1]{bar} that you [slide_1]{slide} across a [door_1]{door} or [window]{window} in [order_1]{order} to [lock_1]{lock} it",
+      "entry": "bolt",
+      "id": "bolt_1#bolt_1__1"
+    },
+    {
+      "comment": "an [object_1]{object} [used]{used} for [fastener]{fastening} something such as a [window]{window}, [door_1]{door}, or [container]{container}",
+      "entry": "catch",
+      "id": "catch_2#catch_2__7"
+    },
+    {
+      "comment": "a [lock_1]{lock} that you [open_1]{open} [use_1]{using} a [series]{series} of [number_1]{numbers} or [letter_1]{letters} in a [particular_1]{particular} [order_1]{order}",
+      "entry": "combination lock",
+      "id": "combination-lock#combination-lock__1"
+    },
+    {
+      "comment": "the [metal_1]{metal} [bar_1]{bar} of a [lock_1]{lock} that [close_1]{closes} when you [turn_1]{turn} a [key_1]{key} or [handle_1]{handle}",
+      "entry": "dead bolt",
+      "id": "dead-bolt#dead-bolt__1"
+    },
+    {
+      "comment": "a [lock_1]{lock} that [close_1]{closes} with a [small_1]{small} [metal_1]{metal} [bar_1]{bar} when you [turn_1]{turn} a [key_1]{key} or [handle_1]{handle}",
+      "entry": "deadlock",
+      "id": "deadlock#deadlock__5"
+    },
+    {
+      "comment": "something such as a lock, catch, or bolt that you use to keep a door, gate, or window closed",
+      "entry": "fastener",
+      "id": "fastener#fastener__2"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [metal_1]{metal} that [fit_1]{fits} over a [curved]{curved} [piece_1]{piece} in [order_1]{order} to [fasten]{fasten} a [door_1]{door} or [lid]{lid}",
+      "entry": "hasp",
+      "id": "hasp#hasp__1"
+    },
+    {
+      "comment": "the hole in a [lock_1]{lock} where you put the [key_1]{key}",
+      "entry": "keyhole",
+      "id": "keyhole#keyhole__1"
+    },
+    {
+      "comment": "an object for keeping a door, gate, etc. fastened shut, consisting of a metal bar that fits into a hole or slot",
+      "entry": "latch",
+      "id": "latch_1#latch_1__1"
+    },
+    {
+      "comment": "a part of a door, drawer, suitcase, etc. used for fastening it so that no one can open it. You usually open and close locks with a key, but if you pick a lock, you use something else to open it, often illegally",
+      "entry": "lock",
+      "id": "lock_2#lock_2__1"
+    },
+    {
+      "comment": "a [device]{device} that [use_1]{uses} a [lock_1]{lock} to keep a computer from being [move_1]{moved} or [stolen]{stolen}",
+      "entry": "lockdown",
+      "id": "lockdown#lockdown__2"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [mortise]{mortise}",
+      "entry": "mortice",
+      "id": "mortice#mortice__1"
+    },
+    {
+      "comment": "a [strong]{strong} [lock_1]{lock} that [fit_1]{fits} into a hole [cut_1]{cut} into the [frame_1]{frame} around a [door_1]{door}",
+      "entry": "mortise lock",
+      "id": "mortise-lock#mortise-lock__1"
+    },
+    {
+      "comment": "a [lock_1]{lock} that you can [fix_1]{fix} to something such as a [gate_1]{gate}, [bicycle]{bicycle}, or [suitcase]{suitcase}. It has a [curved]{curved} [bar_1]{bar} on top that [move_1]{moves} when you [open_1]{open} the [lock_1]{lock} with a [key_1]{key}.",
+      "entry": "padlock",
+      "id": "padlock_1#padlock_1__1"
+    }
+  ],
+  "thesaurus": "Types of locks and bolts",
+  "type": "Related words"
+}

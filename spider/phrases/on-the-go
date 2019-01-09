@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "on the go",
+  "senses": [
+    {
+      "def": "very [busy_1]{busy} or [active]{active}",
+      "examples": [
+        "I\u2019ve been on the go since six o\u2019[clock_1]{clock} this [morning_1]{morning}."
+      ],
+      "id": "on-the-go__1"
+    },
+    {
+      "def": "[quickly]{quickly} while [doing]{doing} some other [activity]{activity}",
+      "examples": [
+        "The [new]{new} [bench_1]{benches} with [solar-powered]{solar-powered} USB [charge_2]{charging} [unit]{units} [allow]{allow} [member]{members} of the [public_1]{public} to [charge_1]{charge} their [smartphone]{smartphones} on the go."
+      ],
+      "id": "on-the-go__3"
+    },
+    {
+      "def": "in the [process_1]{process} of being done or [produce_1]{produced}",
+      "examples": [
+        "I have too many [project_1]{projects} on the go at once."
+      ],
+      "id": "on-the-go__5"
+    }
+  ]
+}

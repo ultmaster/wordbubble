@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[able_1]{able} to move [quickly]{quickly}",
+      "entry": "fast",
+      "id": "fast_1#fast_1__1"
+    },
+    {
+      "comment": "[able_1]{able} to move [fast_1]{fast} or do something [fast_1]{fast}",
+      "entry": "quick",
+      "id": "quick_1#quick_1__1"
+    },
+    {
+      "comment": "[moving]{moving} [quickly]{quickly}",
+      "entry": "swift",
+      "id": "swift_1#swift_1__4"
+    },
+    {
+      "comment": "[happening_1]{happening} very [quickly]{quickly}",
+      "entry": "speedy",
+      "id": "speedy#speedy__1"
+    },
+    {
+      "comment": "[able_1]{able} to move [quickly]{quickly} and [easily]{easily}",
+      "entry": "nimble",
+      "id": "nimble#nimble__1"
+    },
+    {
+      "comment": "[moving]{moving} or [acting_1]{acting} [quickly]{quickly}",
+      "entry": "brisk",
+      "id": "brisk#brisk__1"
+    },
+    {
+      "comment": "[moving]{moving} or [operate]{operating} very [quickly]{quickly}",
+      "entry": "high-speed",
+      "id": "high-speed#high-speed__1"
+    },
+    {
+      "comment": "[able_1]{able} to move [quickly]{quickly} and [easily]{easily}",
+      "entry": "agile",
+      "id": "agile#agile__1"
+    },
+    {
+      "comment": "[deft]{deft} [movement]{movements} are made [quickly]{quickly} and with [skill]{skill}",
+      "entry": "deft",
+      "id": "deft#deft__1"
+    },
+    {
+      "comment": "as [fast_1]{fast} as [possible_1]{possible}",
+      "entry": "at full speed/tilt/throttle",
+      "id": "at-full-speed-tilt-throttle#at-full-speed-tilt-throttle__1"
+    }
+  ],
+  "thesaurus": "Words used to describe fast movement",
+  "type": "Synonyms"
+}

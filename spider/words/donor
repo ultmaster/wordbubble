@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [give_1]{gives} [blood_1]{blood}, [sperm]{sperm}, [egg_1]{eggs}, or a part of their body to be [used]{used} in the [medical_1]{medical} [treatment]{treatment} of someone else",
+      "examples": [
+        "a [blood_1]{blood} donor",
+        "The [hospital]{hospital} is [searching]{searching} for a [bone_1]{bone} [marrow]{marrow} donor for the [child]{child}.",
+        "a donor [heart_1]{heart}/[kidney]{kidney}/[liver]{liver}"
+      ],
+      "id": "donor__1"
+    },
+    {
+      "def": "someone who [give_1]{gives} [thing]{things} such as [money]{money} or [goods]{goods} to an [organization]{organization}, [especially]{especially} one that [help_1]{helps} [people_1]{people}",
+      "examples": [
+        "The [museum]{museum} was [save_1]{saved} by an [anonymous]{anonymous} donor.",
+        "a [major_1]{major} donor to the [democratic]{Democratic} [party_1]{Party}"
+      ],
+      "id": "donor__6"
+    }
+  ],
+  "word": "donor"
+}

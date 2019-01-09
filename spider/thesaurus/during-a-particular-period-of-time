@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "at one [point_1]{point} within a [period_1]{period} of time or a [process_1]{process}",
+      "entry": "during",
+      "id": "during#during__1"
+    },
+    {
+      "comment": "during a [particular_1]{particular} [period_1]{period} of time",
+      "entry": "within",
+      "id": "within#within__5"
+    },
+    {
+      "comment": "during all of a [period_1]{period} of time or an [event]{event}",
+      "entry": "throughout",
+      "id": "throughout#throughout__4"
+    },
+    {
+      "comment": "during all of a [period_1]{period} of time until the [end_1]{end} of it",
+      "entry": "through",
+      "id": "through#through__18"
+    },
+    {
+      "comment": "during the [period_1]{period} until a [particular_1]{particular} time or [date_1]{date}",
+      "entry": "by",
+      "id": "by#by__33"
+    },
+    {
+      "comment": "during a [particular_1]{particular} [period_1]{period}",
+      "entry": "at",
+      "id": "at_1#at_1__35"
+    },
+    {
+      "comment": "during a [particular_1]{particular} [period_1]{period}, [year]{year}, [month]{month}, or [season_1]{season}, or during a part of the [day]{day}",
+      "entry": "in",
+      "id": "in_1#in_1__46"
+    },
+    {
+      "comment": "during a [period_1]{period} of time",
+      "entry": "over",
+      "id": "over_1#over_1__83"
+    },
+    {
+      "comment": "while something else is [happening_1]{happening}",
+      "entry": "in the midst of something",
+      "id": "midst#midst__2"
+    },
+    {
+      "comment": "until a [period_1]{period} of time [end_1]{ends}",
+      "entry": "for the duration",
+      "id": "for-the-duration#for-the-duration__1"
+    }
+  ],
+  "thesaurus": "During a particular period of time",
+  "type": "Synonyms"
+}

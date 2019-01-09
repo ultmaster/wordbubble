@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [finished]{finished} has been [completed]{completed}",
+      "entry": "finished",
+      "id": "finished#finished__1"
+    },
+    {
+      "comment": "[contain]{containing} all the [necessary_1]{necessary} [part_1]{parts}, [answer_1]{answers}, or [information]{information}",
+      "entry": "completed",
+      "id": "completed#completed__1"
+    },
+    {
+      "comment": "empty or [finished]{finished}, because a [supply_1]{supply} of something has all been [used]{used}",
+      "entry": "exhausted",
+      "id": "exhausted#exhausted__4"
+    },
+    {
+      "comment": "[end_2]{ended}, or no [long_1]{longer} [existing]{existing}",
+      "entry": "past",
+      "id": "past_3#past_3__10"
+    },
+    {
+      "comment": "[have]{having} [finished]{finished} an [activity]{activity} or [piece_1]{piece} of [work_1]{work}",
+      "entry": "through",
+      "id": "through#through__39"
+    },
+    {
+      "comment": "if something such as a [job_1]{job} or [process_1]{process} is [complete_1]{complete}, it is [finished]{finished}",
+      "entry": "complete",
+      "id": "complete_1#complete_1__5"
+    },
+    {
+      "comment": "[completely]{completely} done or [used]{used} so that there is nothing [left_1]{left}",
+      "entry": "up",
+      "id": "up_1#up_1__51"
+    },
+    {
+      "comment": "[finished]{finished}",
+      "entry": "at an end",
+      "id": "at-an-end#at-an-end__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone has [successful#successful__11]{successfully} done what they [wanted]{wanted} to do or had to do",
+      "entry": "mission accomplished",
+      "id": "mission-accomplished#mission-accomplished__1"
+    },
+    {
+      "comment": "[used]{used} when [talk_1]{talking} or [ask_1]{asking} about a [situation]{situation} that has [end_2]{ended}, or about something that someone has [stop_1]{stopped} [doing]{doing}",
+      "entry": "anymore",
+      "id": "anymore#anymore__1"
+    }
+  ],
+  "thesaurus": "Finished and completed",
+  "type": "Synonyms"
+}

@@ -1,0 +1,39 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[existing]{existing} as the [result_1]{result} of a long [process_1]{process}",
+      "examples": [
+        "The final [score_1]{score} was 21\u201314.",
+        "[change_1]{Changes} to the [production]{production} [process_1]{process} will not [affect_1]{affect} the final [product]{product}.",
+        "These [issue_1]{issues} will all be [discuss]{discussed} in the final [report_1]{report}."
+      ],
+      "id": "final_1__1"
+    },
+    {
+      "def": "last in a [series]{series}",
+      "examples": [
+        "the final [episode]{episode} of this [exciting]{exciting} [drama]{drama} [series]{series}",
+        "The final [payment]{payment} is due next [month]{month}.",
+        "We have time for one final [question_1]{question}."
+      ],
+      "id": "final_1__5"
+    },
+    {
+      "def": "[showing]{showing} that something has [finished]{finished}",
+      "examples": [
+        "We [score_1]{scored} the [winning]{winning} [point_1]{points} as the final [buzzer]{buzzer} [sound_2]{sounded}."
+      ],
+      "id": "final_1__9"
+    },
+    {
+      "def": "if something is final, it cannot be [changed]{changed}",
+      "examples": [
+        "The [editor]{editor}\u2019s [decision_1]{decision} is final.",
+        "The [board_1]{board} will have the final [say_1]{say} over who is [appointed]{appointed}."
+      ],
+      "id": "final_1__11"
+    }
+  ],
+  "word": "final"
+}

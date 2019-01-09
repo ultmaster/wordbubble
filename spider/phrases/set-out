@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "set out",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} on a [trip_1]{trip}",
+      "examples": [
+        "After a three-day rest, the [traveler]{travelers} [set_1]{set} out again."
+      ],
+      "id": "set-out__1"
+    },
+    {
+      "def": "to [explain]{explain}, describe, or [arrange]{arrange} something in a [clear_1]{clear} and [detailed]{detailed} way, [especially]{especially} in [writing]{writing}",
+      "examples": [
+        "In his [report_1]{report} he [set_1]{sets} out his [plan_1]{plans} for the [department]{department}."
+      ],
+      "id": "set-out__3"
+    },
+    {
+      "def": "to put something where it can be [seen]{seen} or [used]{used}",
+      "examples": [
+        "[merchant]{merchants} [setting]{setting} out their [wares]{wares}"
+      ],
+      "id": "set-out__6"
+    },
+    {
+      "def": "to [start_1]{start} [doing]{doing} or [working]{working} on something in [order_1]{order} to [achieve]{achieve} a [goal]{goal}",
+      "examples": [
+        "When we [set_1]{set} out on this [project_1]{project}, we [knew]{knew} it would be [difficult]{difficult}.",
+        "They [set_1]{set} out to [build_1]{build} their own [house_1]{house}."
+      ],
+      "id": "set-out__8"
+    }
+  ]
+}

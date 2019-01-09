@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "hear from",
+  "senses": [
+    {
+      "def": "if you [hear]{hear} from someone, they [write]{write} to you, [phone_1]{phone} you, [e-mail_1]{email} you, etc.",
+      "examples": [
+        "It\u2019s [year]{years} since I [heard]{heard} from Jill.",
+        "The [police_1]{police} would [like_1]{like} to [hear]{hear} from anyone who [witness_2]{witnessed} the [accident]{accident}."
+      ],
+      "id": "hear-from__1"
+    },
+    {
+      "def": "to [listen_1]{listen} to someone who is [speak_1]{speaking} about a [particular_1]{particular} thing",
+      "examples": [
+        "The [commission_1]{Commission} [heard]{heard} from over [thirty]{thirty} [witness_1]{witnesses}.",
+        "Next we\u2019ll [hear]{hear} from a [listener]{listener} in St. Paul."
+      ],
+      "id": "hear-from__4"
+    }
+  ]
+}

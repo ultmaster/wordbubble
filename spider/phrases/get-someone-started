@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "get someone started",
+  "senses": [
+    {
+      "def": "to [help_1]{help} or cause someone to [begin]{begin} [doing]{doing} something [new]{new}",
+      "examples": [
+        "It was his [aunt]{aunt} who [got_1]{got} him [start_1]{started} in [publishing]{publishing}."
+      ],
+      "id": "get-someone-started__1"
+    },
+    {
+      "def": "to do or [say_1]{say} something that [make_1]{makes} someone [talk_1]{talk} for a long time about something",
+      "examples": [
+        "It\u2019s [better_1]{better} not to get him [start_1]{started} on that [subject_1]{subject}."
+      ],
+      "id": "get-someone-started__3"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "entries": [
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} from [china_1]{China} that [involve]{involves} [pressing]{pressing} on [different]{different} [part_1]{parts} of the body with the [hand_1]{hands}",
+      "entry": "acupressure",
+      "id": "acupressure#acupressure__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} from [china_1]{China} that [involve]{involves} [put]{putting} [special_1]{special} [needle_1]{needles} into [particular_1]{particular} [part_1]{parts} of the body",
+      "entry": "acupuncture",
+      "id": "acupuncture#acupuncture__1"
+    },
+    {
+      "comment": "[care_1]{care} and [treatment]{treatment} for someone who has been in a [hospital]{hospital}",
+      "entry": "aftercare",
+      "id": "aftercare#aftercare__1"
+    },
+    {
+      "comment": "medical treatment using methods that are different from the usual Western scientific methods, for example homeopathy and acupuncture",
+      "entry": "alternative medicine",
+      "id": "alternative-medicine#alternative-medicine__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [anesthesia]{anesthesia}",
+      "entry": "anaesthesia",
+      "id": "anaesthesia#anaesthesia__1"
+    },
+    {
+      "comment": "[medical_1]{medical} [treatment]{treatment} to [control_1]{control} [pain_1]{pain}",
+      "entry": "analgesia",
+      "id": "analgesia#analgesia__2"
+    },
+    {
+      "comment": "anesthetics given to someone before a medical operation, or the use of anesthetics",
+      "entry": "anesthesia",
+      "id": "anesthesia#anesthesia__1"
+    },
+    {
+      "comment": "a health treatment in which oils with a nice smell are rubbed into your skin to make you feel relaxed. Someone who is trained to do aromatherapy is called an aromatherapist.",
+      "entry": "aromatherapy",
+      "id": "aromatherapy#aromatherapy__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [feeding]{feeding} someone [use_1]{using} [method]{methods} that are not [natural_1]{natural}, for [example]{example} [feeding]{feeding} a [patient_1]{patient} through a [tube]{tube} or a [baby_1]{baby} [use_1]{using} a [bottle_1]{bottle}",
+      "entry": "artificial feeding",
+      "id": "artificial-feeding#artificial-feeding__1"
+    },
+    {
+      "comment": "a medical treatment in which a man\u2019s sperm  (=cells from his sex organs) are put into a woman\u2019s womb  (=the part of her body where a baby can grow) so that she can become pregnant",
+      "entry": "artificial insemination",
+      "id": "artificial-insemination#artificial-insemination__1"
+    },
+    {
+      "comment": "a type of treatment for people with a mental illness in which they express their feelings by painting, drawing, or making sculptures",
+      "entry": "art therapy",
+      "id": "art-therapy#art-therapy__1"
+    },
+    {
+      "comment": "the process of removing liquid from inside someone\u2019s body, usually with a needle or syringe",
+      "entry": "aspiration",
+      "id": "aspiration#aspiration__5"
+    },
+    {
+      "comment": "the [medical_1]{medical} [process_1]{processes} that [doctor_1]{doctors} use to [help_1]{help} [couple_1]{couples} who cannot have a [baby_1]{baby} [naturally]{naturally}, [including]{including} [process_1]{processes} such as IVF",
+      "entry": "assisted reproduction",
+      "id": "assisted-reproduction#assisted-reproduction__1"
+    },
+    {
+      "comment": "a [traditional]{traditional} system of [medicine]{medicine} from India that [give_1]{gives} [people_1]{people} [advice]{advice} on [food]{food} and the way they [live_1]{live}",
+      "entry": "Ayurvedic medicine",
+      "id": "ayurvedic-medicine#ayurvedic-medicine__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [place_2]{placing} a [small_1]{small} [mask_1]{mask} over someone\u2019s [face_1]{face} and [squeeze_1]{squeezing} it to [help_1]{help} them to [breathe]{breathe}",
+      "entry": "bagging",
+      "id": "bagging#bagging__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [increase_1]{increasing} the [number_1]{number} of red [blood_1]{blood} [cell]{cells} in an [athlete]{athlete's} [bloodstream]{bloodstream} in [order_1]{order} to [improve_1]{improve} their [performance]{performance} by [allow]{allowing} the body to [transport_1]{transport} more [oxygen]{oxygen} to the [muscle_1]{muscles}",
+      "entry": "blood doping",
+      "id": "blood-doping#blood-doping__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} [used]{used} in the [past_1]{past} in which [blood_1]{blood} was [taken_1]{taken} from [people_1]{people} who were [sick_1]{sick}",
+      "entry": "bloodletting",
+      "id": "bloodletting#bloodletting__4"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} in which [blood_1]{blood} from another [person]{person} is put into someone\u2019s body, for [example]{example} if they have [lost_1]{lost} a [lot_1]{lot} of [blood_1]{blood} from an [injury]{injury}",
+      "entry": "blood transfusion",
+      "id": "blood-transfusion#blood-transfusion__1"
+    },
+    {
+      "comment": "the traditional ways of treating illnesses used by aboriginal people in Australia",
+      "entry": "bush medicine",
+      "id": "bush-medicine#bush-medicine__1"
+    },
+    {
+      "comment": "an [approach_1]{approach} for [health]{health} [professional_2]{professionals} to use when [manage]{managing} the [care_1]{care} of [patient_1]{patients} with [particular_1]{particular} [health]{health} [condition_1]{conditions}, which [set_1]{sets} out the [different]{different} [step_1]{steps} to be [taken_1]{taken} at [different]{different} [stage_1]{stages}",
+      "entry": "care pathway",
+      "id": "care-pathway#care-pathway__1"
+    },
+    {
+      "comment": "[chemotherapy]{chemotherapy}",
+      "entry": "chemo",
+      "id": "chemo#chemo__1"
+    },
+    {
+      "comment": "the treatment of diseases, especially cancer, by drugs that are usually put directly into a patient\u2019s vein",
+      "entry": "chemotherapy",
+      "id": "chemotherapy#chemotherapy__1"
+    },
+    {
+      "comment": "a traditional system of medicine from China that uses herbs, minerals, and animal products in addition to acupuncture, massage, and exercise",
+      "entry": "Chinese medicine",
+      "id": "chinese-medicine#chinese-medicine__1"
+    },
+    {
+      "comment": "[medical_1]{medical} [treatment]{treatment} [given_1]{given} by a [chiropractor]{chiropractor}",
+      "entry": "chiropractic",
+      "id": "chiropractic#chiropractic__1"
+    },
+    {
+      "comment": "a treatment in which someone\u2019s colon is washed, which some people believe is good for health",
+      "entry": "colonic irrigation",
+      "id": "colonic-irrigation#colonic-irrigation__1"
+    },
+    {
+      "comment": "medical treatment using methods that are not used by most doctors and are intended to treat the causes of a disease rather than the symptoms. In western societies, acupuncture and hypnosis are types of complementary medicine.",
+      "entry": "complementary medicine",
+      "id": "complementary-medicine#complementary-medicine__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} that someone is [given_1]{given} over a [period_1]{period} of time",
+      "entry": "course",
+      "id": "course_1#course_1__25"
+    },
+    {
+      "comment": "cardiopulmonary [resuscitate#resuscitate__4]{resuscitation}: a [medical_1]{medical} [treatment]{treatment} in which you [breathe]{breathe} [air_1]{air} into someone\u2019s [mouth_1]{mouth} and [press_1]{press} their [chest]{chest} [repeatedly]{repeatedly} in [order_1]{order} to [make_1]{make} them [start_1]{start} [breathing]{breathing} again and [make_1]{make} their [heart_1]{heart} [start_1]{start} [working]{working} again",
+      "entry": "CPR",
+      "id": "cpr#cpr__1"
+    },
+    {
+      "comment": "the [high_1]{highest} [level_1]{level} of [care_1]{care} in a [hospital]{hospital} for [patient_1]{patients} who are [extremely]{extremely} ill and could [die_1]{die} at any time",
+      "entry": "critical care",
+      "id": "critical-care#critical-care__1"
+    },
+    {
+      "comment": "[treatment]{treatment} in a [special_1]{special} [hospital]{hospital} to [help_1]{help} someone to [stop_1]{stop} [take_1]{taking} [drug_1]{drugs} or [drinking]{drinking} [alcohol]{alcohol}",
+      "entry": "detox",
+      "id": "detox_1#detox_1__1"
+    },
+    {
+      "comment": "[detox_1]{detox}",
+      "entry": "detoxification",
+      "id": "detoxification#detoxification__2"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} that [remove]{removes} [waste_1]{waste} [substance]{substances} from the [blood_1]{blood} of someone whose [kidney]{kidneys} are not [working]{working} [properly]{properly}",
+      "entry": "dialysis",
+      "id": "dialysis#dialysis__1"
+    },
+    {
+      "comment": "electroconvulsive [therapy]{therapy}: a [medical_1]{medical} [treatment]{treatment} for serious [mental]{mental} [illness]{illness} in which [electricity]{electricity} is [pass_1]{passed} through your [brain_1]{brain}",
+      "entry": "ECT",
+      "id": "ect#ect__1"
+    },
+    {
+      "comment": "ECT",
+      "entry": "electroconvulsive therapy",
+      "id": "electroconvulsive-therapy#electroconvulsive-therapy__1"
+    },
+    {
+      "comment": "ECT",
+      "entry": "electroshock therapy",
+      "id": "electroshock-therapy#electroshock-therapy__1"
+    },
+    {
+      "comment": "a medical treatment in which liquid is forced into a person\u2019s intestines through their anus to make them go to the toilet to empty their bowels",
+      "entry": "enema",
+      "id": "enema#enema__1"
+    },
+    {
+      "comment": "a medical treatment in which an anesthetic  (=drug that stops you feeling pain) is put into the lower back, especially of a woman who is giving birth to a baby",
+      "entry": "epidural",
+      "id": "epidural#epidural__1"
+    },
+    {
+      "comment": "[basic_1]{basic} [medical_1]{medical} [treatment]{treatment} [given_1]{given} as [soon]{soon} as someone is [injured]{injured} or becomes [sick_1]{sick}",
+      "entry": "first aid",
+      "id": "first-aid#first-aid__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} in which [gene]{genes} are put into [cell]{cells} in the body in [order_1]{order} to [cure_1]{cure} some [type_1]{types} of [illness]{illness}",
+      "entry": "gene therapy",
+      "id": "gene-therapy#gene-therapy__1"
+    },
+    {
+      "comment": "a [method]{method} in which someone is [believe]{believed} to be [able_1]{able} to [treat_1]{treat} [illness]{illnesses} [use_1]{using} [special_1]{special} [power_1]{powers}",
+      "entry": "healing",
+      "id": "healing_2#healing_2__1"
+    },
+    {
+      "comment": "the study or practice of using herbs as medicines",
+      "entry": "herbalism",
+      "id": "herbalism#herbalism__1"
+    },
+    {
+      "comment": "the [treatment]{treatment} of [illness]{illness} with [medicine]{medicines} made from [plant_1]{plants}",
+      "entry": "herbal medicine",
+      "id": "herbal-medicine#herbal-medicine__1"
+    },
+    {
+      "comment": "a way of treating illness by giving small amounts of natural substances that in large amounts would cause the illness. It is a form of complementary medicine. A person who treats people using homeopathy is called a homeopath.",
+      "entry": "homeopathy",
+      "id": "homeopathy#homeopathy__1"
+    },
+    {
+      "comment": "medical treatment in which hormones are given to a woman to reduce the effects of the menopause  (=when she stops being able to have children)",
+      "entry": "hormone replacement therapy",
+      "id": "hormone-replacement-therapy#hormone-replacement-therapy__1"
+    },
+    {
+      "comment": "a [program_1]{program} of [care_1]{care} for a [dying_1]{dying} [person]{person} [provided]{provided} by a [hospice]{hospice} [organization]{organization}, [usually]{usually} in the [patient_1]{patient's} own [home_1]{home}",
+      "entry": "hospice",
+      "id": "hospice#hospice__3"
+    },
+    {
+      "comment": "hormone replacement therapy: a medical treatment designed to reduce the effects of a woman\u2019s menopause",
+      "entry": "HRT",
+      "id": "hrt#hrt__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} that [use_1]{uses} [water_1]{water}, for [example]{example} [helping]{helping} [muscle_1]{muscles} to become [strong]{stronger} by [doing]{doing} [exercise_1]{exercises} in a [swimming]{swimming} [pool_1]{pool}",
+      "entry": "hydrotherapy",
+      "id": "hydrotherapy#hydrotherapy__1"
+    },
+    {
+      "comment": "the use of [hypnosis]{hypnosis} to [treat_1]{treat} [physical_1]{physical} or [emotional]{emotional} [problem]{problems}",
+      "entry": "hypnotherapy",
+      "id": "hypnotherapy#hypnotherapy__1"
+    },
+    {
+      "comment": "the process of preventing the body\u2019s immune system from working, for example so that it does not refuse to accept a new organ after a transplant operation",
+      "entry": "immunosuppression",
+      "id": "immunosuppression#immunosuppression__1"
+    },
+    {
+      "comment": "a [cut_1]{cut} made into the body with a [knife_1]{knife}, [usually]{usually} during a [medical_1]{medical} [operation]{operation}",
+      "entry": "incision",
+      "id": "incision#incision__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [cause_2]{causing} [physical_1]{physical} [change_1]{changes} in the body of a [person]{person} or [animal_1]{animal}",
+      "entry": "induction",
+      "id": "induction#induction__6"
+    },
+    {
+      "comment": "the [special_1]{special} [medical_1]{medical} [care_1]{care} [provided]{provided} in this [department]{department}",
+      "entry": "intensive care",
+      "id": "intensive-care#intensive-care__3"
+    },
+    {
+      "comment": "medical treatment of the organs inside your body using methods that do not involve surgery  (=cutting open the body)",
+      "entry": "internal medicine",
+      "id": "internal-medicine#internal-medicine__1"
+    },
+    {
+      "comment": "the use of radiation to help to treat injury or disease, for example x-rays, gamma rays or neutrons",
+      "entry": "irradiation",
+      "id": "irradiation#irradiation__3"
+    },
+    {
+      "comment": "[mouth-to-mouth-resuscitation]{mouth-to-mouth} [resuscitate#resuscitate__4]{resuscitation}",
+      "entry": "the kiss of life",
+      "id": "the-kiss-of-life#the-kiss-of-life__2"
+    },
+    {
+      "comment": "[measure_1]{measures} [intended_1]{intended} to keep someone [alive]{alive} when they are very ill",
+      "entry": "life support",
+      "id": "life-support#life-support__1"
+    },
+    {
+      "comment": "a medical treatment or test in which a needle is used to inject medicine into or take liquid from your spine",
+      "entry": "lumbar puncture",
+      "id": "lumbar-puncture#lumbar-puncture__1"
+    },
+    {
+      "comment": "the use of your [hand_1]{hands} to move or [press_1]{press} part of someone\u2019s body as part of a [medical_1]{medical} [treatment]{treatment}",
+      "entry": "manipulation",
+      "id": "manipulation#manipulation__5"
+    },
+    {
+      "comment": "the [action_1]{action} of [pressing]{pressing}, [squeeze_1]{squeezing}, and [rubbing]{rubbing} someone\u2019s body in [order_1]{order} to [reduce]{reduce} [pain_1]{pain} in their [muscle_1]{muscles} or to [make_1]{make} them [relax]{relax}",
+      "entry": "massage",
+      "id": "massage_1#massage_1__1"
+    },
+    {
+      "comment": "an imaginary line that connects points of energy in your body, used by doctors who treat people using acupuncture",
+      "entry": "meridian",
+      "id": "meridian#meridian__4"
+    },
+    {
+      "comment": "a way of making someone breathe again after they have stopped, by blowing air into their mouth to fill their lungs. It is often simply called mouth-to-mouth.",
+      "entry": "mouth-to-mouth resuscitation",
+      "id": "mouth-to-mouth-resuscitation#mouth-to-mouth-resuscitation__1"
+    },
+    {
+      "comment": "[traditional]{traditional} [medicine]{medicine}, [especially]{especially} [medicine]{medicine} made from [plant_1]{plants} or [animal_1]{animal} [part_1]{parts}",
+      "entry": "muti",
+      "id": "muti#muti__1"
+    },
+    {
+      "comment": "someone who [treat_1]{treats} [people_1]{people}\u2019s [illness]{illnesses} [use_1]{using} [naturopathy]{naturopathy}",
+      "entry": "naturopath",
+      "id": "naturopath#naturopath__1"
+    },
+    {
+      "comment": "a system of medical treatment that treats illnesses by natural methods such as exercise and controlling the food you eat. Naturopathy is a form of complementary medicine.",
+      "entry": "naturopathy",
+      "id": "naturopathy#naturopathy__1"
+    },
+    {
+      "comment": "a [method]{method} of [helping]{helping} [people_1]{people} who have been [injured]{injured} or very [sick_1]{sick} to become well again by [give_1]{giving} them [special_1]{special} [activity]{activities} to do or [providing]{providing} them with [special_1]{special} [equipment]{equipment}",
+      "entry": "occupational therapy",
+      "id": "occupational-therapy#occupational-therapy__1"
+    },
+    {
+      "comment": "a [treatment]{treatment} for [medical_1]{medical} [condition_1]{conditions} such as back [pain_1]{pain} or [muscle_1]{muscle} [injury]{injury} that [involve]{involves} [pressure_1]{pressure} and [movement]{movement} of your [muscle_1]{muscles} and [bone_1]{bones}",
+      "entry": "osteopathy",
+      "id": "osteopathy#osteopathy__1"
+    },
+    {
+      "comment": "[occupational]{occupational} [therapy]{therapy}",
+      "entry": "OT",
+      "id": "ot#ot__2"
+    },
+    {
+      "comment": "a treatment for your feet and toenails that makes them look and feel good",
+      "entry": "pedicure",
+      "id": "pedicure#pedicure__1"
+    },
+    {
+      "comment": "the treatment of injuries using special physical exercises. Someone whose job is to give this treatment is called a physical therapist.",
+      "entry": "physical therapy",
+      "id": "physical-therapy#physical-therapy__1"
+    },
+    {
+      "comment": "[physical_1]{physical} [therapy]{therapy}",
+      "entry": "physiotherapy",
+      "id": "physiotherapy#physiotherapy__1"
+    },
+    {
+      "comment": "the [care_1]{care} of [feet]{feet} and the [treatment]{treatment} of [foot_1]{foot} [disease]{diseases}",
+      "entry": "podiatry",
+      "id": "podiatry#podiatry__1"
+    },
+    {
+      "comment": "an [approach_1]{approach} to [medical_1]{medical} [treatment]{treatment} that [combine_1]{combines} [advanced]{advanced} [research_1]{research} and [technique]{techniques} with [detailed]{detailed} [information]{information} about the [individual_1]{individual} [patient_1]{patient}\u2019s [condition_1]{condition}, in [order_1]{order} to [improve_1]{improve} [outcome]{outcomes}",
+      "entry": "precision medicine",
+      "id": "precision-medicine#precision-medicine__1"
+    },
+    {
+      "comment": "a place where someone presses your body to treat a particular medical problem using a treatment called acupressure",
+      "entry": "pressure point",
+      "id": "pressure-point#pressure-point__2"
+    },
+    {
+      "comment": "[medical_1]{medical} [examination]{examinations}, [treatment]{treatments}, [advice]{advice}, etc. [intended_1]{intended} to [prevent]{prevent} [illness]{illness} or [discover]{discover} it before it becomes serious",
+      "entry": "preventive medicine",
+      "id": "preventive-medicine#preventive-medicine__1"
+    },
+    {
+      "comment": "medical treatment and advice that you get in your local community from a doctor or nurse, rather than treatment from a specialist",
+      "entry": "primary care",
+      "id": "primary-care#primary-care__1"
+    },
+    {
+      "comment": "[medical_1]{medical} [treatment]{treatment} that [people_1]{people} [pay_1]{pay} for [directly_1]{directly}, not the [treatment]{treatment} that is [provided]{provided} [free_1]{free} by the [government]{government}",
+      "entry": "private medicine",
+      "id": "private-medicine#private-medicine__1"
+    },
+    {
+      "comment": "the use of [medical_1]{medical} [treatment]{treatment} for [prevent]{preventing} [disease]{disease} or [infection]{infection}",
+      "entry": "prophylaxis",
+      "id": "prophylaxis#prophylaxis__1"
+    },
+    {
+      "comment": "[bad_1]{bad} [medical_1]{medical} [treatment]{treatment} from [doctor_1]{doctors} who are not very [good_1]{good} at their [job_1]{job}, or from [people_1]{people} who [cheat_1]{cheat} other [people_1]{people} by [pretend_1]{pretending} to be [doctor_1]{doctors}",
+      "entry": "quackery",
+      "id": "quackery#quackery__1"
+    },
+    {
+      "comment": "the process of taking X-ray photographs of someone\u2019s body as part of a medical treatment. Someone who does this as their job is called a radiographer.",
+      "entry": "radiography",
+      "id": "radiography#radiography__1"
+    },
+    {
+      "comment": "a medical treatment in which radiation is used for treating an illness, or the study of this type of treatment. Someone who is trained in radiology is a radiologist.",
+      "entry": "radiology",
+      "id": "radiology#radiology__1"
+    },
+    {
+      "comment": "a medical treatment for cancer using radiation. Someone who is trained in radiotherapy is called a radiotherapist.",
+      "entry": "radiotherapy",
+      "id": "radiotherapy#radiotherapy__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [health]{health} [treatment]{treatment} in which [people_1]{people} [control_1]{control} the way that they [breathe]{breathe} in [order_1]{order} to [make_1]{make} themselves [relax]{relax} and [feel_1]{feel} [better_1]{better}",
+      "entry": "rebirthing",
+      "id": "rebirthing#rebirthing__1"
+    },
+    {
+      "comment": "[rubbing]{rubbing} and [pressing]{pressing} a [person]{person}\u2019s [hand_1]{hands} or [feet]{feet} in [order_1]{order} to [make_1]{make} other [part_1]{parts} of their body more [healthy]{healthy} or to [help_1]{help} them to [relax]{relax}",
+      "entry": "reflexology",
+      "id": "reflexology#reflexology__1"
+    },
+    {
+      "comment": "treatment that involves repairing or replacing organs and other body parts by using advanced materials and methods such as cloning",
+      "entry": "regenerative medicine",
+      "id": "regenerative-medicine#regenerative-medicine__1"
+    },
+    {
+      "comment": "a [regimen]{regimen}",
+      "entry": "regime",
+      "id": "regime#regime__7"
+    },
+    {
+      "comment": "a [program_1]{program} of [medical_1]{medical} [treatment]{treatment}, [exercise_1]{exercise}, or [special_1]{special} [food]{food} for [improve_1]{improving} your [health]{health} or [appearance]{appearance}",
+      "entry": "regimen",
+      "id": "regimen#regimen__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} from Japan in which someone [put]{puts} their [hand_1]{hands} on you so that [energy]{energy} can [pass_1]{pass} through them to you and so [make_1]{make} a part of your body [healthy]{healthy}",
+      "entry": "reiki",
+      "id": "reiki#reiki__1"
+    },
+    {
+      "comment": "the [reduction]{reduction} of [pain_1]{pain} or the [effect_1]{effects} of an [illness]{illness}",
+      "entry": "relief",
+      "id": "relief#relief__4"
+    },
+    {
+      "comment": "the [temporary]{temporary} [care_1]{care} of someone who is [sick_1]{sick}, [old]{old}, or has a [physical_1]{physical} or [mental]{mental} [problem]{problem}, either at [home_1]{home} or in a [special_1]{special} [hospital]{hospital}, in [order_1]{order} to [allow]{allow} the [person]{person} who [usually]{usually} [take_1]{takes} [care_1]{care} of them to have a rest",
+      "entry": "respite care",
+      "id": "respite-care#respite-care__1"
+    },
+    {
+      "comment": "a [treatment]{treatment} in which you [rub_1]{rub} someone\u2019s body to [help_1]{help} them to [relax]{relax}",
+      "entry": "rubdown",
+      "id": "rubdown#rubdown__1"
+    },
+    {
+      "comment": "the use of [drug_1]{drugs} to [make_1]{make} someone [calm_1]{calmer}, or to [make_1]{make} them [sleep_1]{sleep}",
+      "entry": "sedation",
+      "id": "sedation#sedation__1"
+    },
+    {
+      "comment": "a type of medical treatment from Japan in which physical and emotional problems are treated by massage  (=pressing and rubbing the body)",
+      "entry": "shiatsu",
+      "id": "shiatsu#shiatsu__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} for [mental]{mental} [illness]{illness} in which [doctor_1]{doctors} put [electricity]{electricity} into someone\u2019s [brain_1]{brain}",
+      "entry": "shock therapy",
+      "id": "shock-therapy#shock-therapy__1"
+    },
+    {
+      "comment": "an injection of a drug  (=when it is put into your body using a needle) given as a medical treatment",
+      "entry": "shot",
+      "id": "shot_2#shot_2__22"
+    },
+    {
+      "comment": "[exercise_1]{exercises} in [talk_1]{talking} that are [design_2]{designed} to [help_1]{help} someone who cannot [say_1]{say} [word_1]{words} [correctly]{correctly}",
+      "entry": "speech therapy",
+      "id": "speech-therapy#speech-therapy__1"
+    },
+    {
+      "comment": "a [lumbar]{lumbar} [puncture_1]{puncture}",
+      "entry": "spinal tap",
+      "id": "spinal-tap#spinal-tap__1"
+    },
+    {
+      "comment": "[medical_1]{medical} [treatment]{treatment} in which a [doctor_1]{doctor} [cut_1]{cuts} [open_1]{open} someone\u2019s body",
+      "entry": "surgery",
+      "id": "surgery#surgery__1"
+    },
+    {
+      "comment": "a form of [treatment]{treatment} for an [illness]{illness} or [medical_1]{medical} [condition_1]{condition}",
+      "entry": "therapy",
+      "id": "therapy#therapy__1"
+    },
+    {
+      "comment": "a form of [treatment]{treatment} for someone with [mental]{mental} [illness]{illness} or [emotional]{emotional} [problem]{problems} that [involve]{involves} [talk_1]{talking} to them or [ask_1]{asking} them to do [thing]{things}",
+      "entry": "therapy",
+      "id": "therapy#therapy__4"
+    },
+    {
+      "comment": "the use of [special_1]{special} [equipment]{equipment} to [hold_1]{hold} someone\u2019s body in a [particular_1]{particular} [position_1]{position}",
+      "entry": "traction",
+      "id": "traction#traction__3"
+    },
+    {
+      "comment": "medical treatment using methods that are different from the usual Western scientific methods, for example Chinese medicine or herbal medicine",
+      "entry": "traditional medicine",
+      "id": "traditional-medicine#traditional-medicine__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [treatment]{treatment} in which [blood_1]{blood} from one [person]{person} is put into another [person]{person}\u2019s body",
+      "entry": "transfusion",
+      "id": "transfusion#transfusion__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [method]{method} or [type_1]{type} of [medical_1]{medical} [care_1]{care}",
+      "entry": "treatment",
+      "id": "treatment#treatment__7"
+    },
+    {
+      "comment": "the type of medical treatment that is the most popular in North America and Western European countries, based on the use of drugs and surgery to treat symptoms  (=signs of illness). In such countries, other types of medical treatment are called alternative medicine or complementary medicine.",
+      "entry": "western medicine",
+      "id": "western-medicine#western-medicine__1"
+    }
+  ],
+  "thesaurus": "Medical and health treatments",
+  "type": "Related words"
+}

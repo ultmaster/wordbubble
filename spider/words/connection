@@ -1,0 +1,50 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [relationship]{relationship} between [thing]{things} or [event]{events}",
+      "examples": [
+        "I [fail_1]{fail} to see a connection between the two [case_1]{cases}.",
+        "His [question_1]{question} had no [direct_1]{direct} connection with our [discussion]{discussion}.",
+        "I [knew]{knew} they had the same last name but I didn\u2019t [make_1]{make} the connection.",
+        "[china_1]{China} is [trying]{trying} to [strengthen]{strengthen} its [trade_1]{trade} [connection]{connections}.",
+        "[prisoner]{Prisoners} are [encourage]{encouraged} to [maintain]{maintain} [family_1]{family} [connection]{connections}.",
+        "She was [alleged]{alleged} to have [connection]{connections} with the [secret_1]{secret} [police_1]{police}."
+      ],
+      "id": "connection__1"
+    },
+    {
+      "def": "a [train_1]{train}, [bus_1]{bus}, or [airplane]{airplane} that [allow]{allows} you to [continue]{continue} a [trip_1]{trip} after you [arrive]{arrive} by a [different]{different} [train_1]{train}, [bus_1]{bus}, or [airplane]{airplane}",
+      "examples": [
+        "My [train_1]{train} was [late_1]{late} and I [miss_1]{missed} my connection.",
+        "Chicago has [excellent]{excellent} [road]{road} and [rail_1]{rail} [connection]{connections}."
+      ],
+      "id": "connection__9"
+    },
+    {
+      "def": "the [process_1]{process} of [join_1]{joining} two [thing]{things}",
+      "examples": [
+        "The [water_1]{water} [board_1]{board} [said_1]{said} there will be a connection [charge_1]{charge} of $50.",
+        "The [building]{building} is ready for connection to the [power_1]{power} [lines]{lines}.",
+        "The [light_1]{light} [keep_1]{keeps} [flicker_1]{flickering} \u2013 there must be a [loose_1]{loose} connection."
+      ],
+      "id": "connection__13"
+    },
+    {
+      "def": "a [means]{means} of [communicate]{communicating} [use_1]{using} a [telephone_1]{telephone} or computer [network_1]{network}",
+      "examples": [
+        "a [phone_1]{phone} connection via [satellite]{satellite} from Dubai",
+        "a [slow_1]{slow} connection [speed_1]{speed}"
+      ],
+      "id": "connection__18"
+    },
+    {
+      "def": "[people_1]{people} you [know_1]{know} who are [able_1]{able} to use their [influence_1]{influence} to [help_1]{help} you",
+      "examples": [
+        "He [used]{used} his [party_1]{party} [connection]{connections} to get a [government]{government} [job_1]{job}."
+      ],
+      "id": "connection__21"
+    }
+  ],
+  "word": "connection"
+}

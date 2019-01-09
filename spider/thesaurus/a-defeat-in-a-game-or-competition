@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[failure]{failure} to [win_1]{win} a [competition]{competition} or to [succeed]{succeed} in [doing]{doing} something",
+      "entry": "defeat",
+      "id": "defeat_1#defeat_1__1"
+    },
+    {
+      "comment": "a [complete_1]{complete} [defeat_1]{defeat} of an [opponent]{opponent} in a [battle_1]{battle}, [competition]{competition}, or [election]{election}",
+      "entry": "rout",
+      "id": "rout_1#rout_1__1"
+    },
+    {
+      "comment": "a [bad_1]{bad} [defeat_1]{defeat} in a [game_1]{game}, [competition]{competition}, or [election]{election}",
+      "entry": "beating",
+      "id": "beating#beating__3"
+    },
+    {
+      "comment": "someone\u2019s [defeat_1]{defeat} or [loss]{loss} of [power_1]{power}",
+      "entry": "fall",
+      "id": "fall_2#fall_2__12"
+    },
+    {
+      "comment": "a serious [defeat_1]{defeat} in a [game_1]{game} or [competition]{competition}",
+      "entry": "massacre",
+      "id": "massacre_1#massacre_1__3"
+    },
+    {
+      "comment": "[defeat_1]{defeat} in a [competition]{competition}",
+      "entry": "elimination",
+      "id": "elimination#elimination__3"
+    },
+    {
+      "comment": "the [defeat_1]{defeat} of an [opponent]{opponent} or [team_1]{team} that [previously]{previously} [defeat_2]{defeated} you in a [sport_1]{sports} [event]{event}",
+      "entry": "revenge",
+      "id": "revenge_1#revenge_1__9"
+    },
+    {
+      "comment": "a [defeat_1]{defeat} in which someone [lose]{loses} very [easily]{easily}",
+      "entry": "drubbing",
+      "id": "drubbing#drubbing__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone is [defeat_2]{defeated} [easily]{easily}",
+      "entry": "hammering",
+      "id": "hammering#hammering__1"
+    },
+    {
+      "comment": "an [easy_1]{easy} [defeat_1]{defeat} in a [game_1]{game} or [competition]{competition}",
+      "entry": "demolition",
+      "id": "demolition#demolition__3"
+    },
+    {
+      "comment": "the [act_1]{act} or [fact]{fact} of being [defeat_2]{defeated} very [easily]{easily} and [completely]{completely}, [especially]{especially} in a computer [game_1]{game}",
+      "entry": "pwnage",
+      "id": "pwnage#pwnage__1"
+    }
+  ],
+  "thesaurus": "A defeat in a game or competition",
+  "type": "Synonyms"
+}

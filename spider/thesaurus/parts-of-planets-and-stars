@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "an [imaginary]{imaginary} [line_1]{line} through the [middle_1]{middle} of an [object_1]{object} such as a [planet]{planet}, around which it seems to [spin_1]{spin}",
+      "entry": "axis",
+      "id": "axis#axis__1"
+    },
+    {
+      "comment": "the [central]{central} part of a [planet]{planet}",
+      "entry": "core",
+      "id": "core_1#core_1__9"
+    },
+    {
+      "comment": "the [outer_1]{outer} [atmosphere]{atmosphere} of the [sun_1]{Sun}",
+      "entry": "corona",
+      "id": "corona#corona__2"
+    },
+    {
+      "comment": "a large round hole on the surface of a planet caused by a meteorite hitting the surface",
+      "entry": "crater",
+      "id": "crater_1#crater_1__4"
+    },
+    {
+      "comment": "the [bright_1#bright_1__21]{brightness} of a [star_1]{star}, [shown]{shown} as a [number_1]{number}",
+      "entry": "magnitude",
+      "id": "magnitude#magnitude__6"
+    },
+    {
+      "comment": "a [dark_1]{dark} [area]{area} on the [surface_1]{surface} of the [sun_1]{sun}",
+      "entry": "sunspot",
+      "id": "sunspot#sunspot__1"
+    }
+  ],
+  "thesaurus": "Parts of planets and stars",
+  "type": "Related words"
+}

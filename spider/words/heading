@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [title]{title} at the top of a [page_1]{page} or [piece_1]{piece} of [writing]{writing}",
+      "examples": [
+        "[mention_1]{Mention} your [source_1]{sources} at the [end_1]{end}, under the heading \u201c[bibliography]{Bibliography}.\u201d"
+      ],
+      "id": "heading__1"
+    },
+    {
+      "def": "a [word_1]{word} or [phrase_1]{phrase} that [give_1]{gives} a [general_1]{general} [description]{description} of a [type_1]{type} of [person]{person} or thing",
+      "examples": [
+        "Those [responsibility]{responsibilities} come under the heading of \u201c[general_1]{general} [duty]{duties}.\u201d"
+      ],
+      "id": "heading__3"
+    }
+  ],
+  "word": "heading"
+}

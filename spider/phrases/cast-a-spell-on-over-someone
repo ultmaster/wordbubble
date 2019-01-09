@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "cast a spell on/over someone",
+  "senses": [
+    {
+      "def": "to use [magic_1]{magic} to [make_1]{make} something [happen]{happen} to someone",
+      "examples": [],
+      "id": "cast-a-spell-on-over-someone__1"
+    },
+    {
+      "def": "to have a [strong]{strong} [emotional]{emotional} [effect_1]{effect} on someone",
+      "examples": [
+        "The [grand_1]{Grand} [canyon]{Canyon} never [fail_1]{fails} to [cast_1]{cast} a [spell_1]{spell} over the [traveler]{traveler}."
+      ],
+      "id": "cast-a-spell-on-over-someone__2"
+    }
+  ]
+}

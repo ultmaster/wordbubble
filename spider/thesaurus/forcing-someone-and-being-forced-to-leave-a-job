@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} someone [leave_1]{leave} their [job_1]{job}, sometimes as a [punishment]{punishment}",
+      "entry": "fire",
+      "id": "fire_2#fire_2__8"
+    },
+    {
+      "comment": "to [end_1]{end} someone\u2019s [employment]{employment}, [especially]{especially} [temporarily]{temporarily}, because there is not enough [work_1]{work} for them",
+      "entry": "lay off",
+      "id": "lay-off#lay-off__1"
+    },
+    {
+      "comment": "to [force_1]{force} someone to [leave_1]{leave} their [job_1]{job}, [especially]{especially} before they [reach_1]{reach} the [age_1]{age} when they are [officially]{officially} too [old]{old} to [work_1]{work}",
+      "entry": "retire",
+      "id": "retire#retire__5"
+    },
+    {
+      "comment": "to [allow]{allow} or [force_1]{force} someone to [leave_1]{leave} an [official_1]{official} [job_1]{job} or [position_1]{position}",
+      "entry": "discharge",
+      "id": "discharge_1#discharge_1__6"
+    },
+    {
+      "comment": "to [force_1]{force} someone to [leave_1]{leave} their [job_1]{job}",
+      "entry": "dismiss",
+      "id": "dismiss#dismiss__7"
+    },
+    {
+      "comment": "to [make_1]{make} someone [leave_1]{leave} a [job_1]{job} or [position_1]{position} without [saying]{saying} anything [publicly]{publicly}",
+      "entry": "ease out",
+      "id": "ease-out#ease-out__1"
+    },
+    {
+      "comment": "to [force_1]{force} someone to [stop_1]{stop} [working]{working} and give them a [pension_1]{pension}",
+      "entry": "pension off",
+      "id": "pension_2#pension_2__2"
+    },
+    {
+      "comment": "to [stop_1]{stop} [employ_1]{employing} a [worker]{worker} and give them any [money]{money} that they are [owe]{owed}",
+      "entry": "pay off",
+      "id": "pay-off#pay-off__9"
+    },
+    {
+      "comment": "[notice_1]{notice} that an [employer]{employer} [give_1]{gives} to someone [telling]{telling} them that they are no [long_1]{longer} [employ_1]{employed}",
+      "entry": "pink slip",
+      "id": "pink-slip#pink-slip__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone that they must [leave_1]{leave} their [job_1]{job}",
+      "entry": "give someone notice",
+      "id": "give-someone-notice#give-someone-notice__1"
+    }
+  ],
+  "thesaurus": "Forcing someone and being forced to leave a job",
+  "type": "Synonyms"
+}

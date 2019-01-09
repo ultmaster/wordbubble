@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "[food]{food} that is [eaten]{eaten} al desko is [eaten]{eaten} while [sitting]{sitting} at a [desk]{desk} [working]{working}",
+      "entry": "al desko",
+      "id": "al-desko#al-desko__1"
+    },
+    {
+      "comment": "an [alfresco_1]{alfresco} [meal]{meal} is [eaten]{eaten} [outside]{outside}, in the [open_1]{open} [air_1]{air}",
+      "entry": "alfresco",
+      "id": "alfresco_2#alfresco_2__1"
+    },
+    {
+      "comment": "a [celebratory]{celebratory} [meal]{meal}, [drink_1]{drink}, etc. is one that you have in [order_1]{order} to [celebrate]{celebrate} a [special_1]{special} [event]{event}",
+      "entry": "celebratory",
+      "id": "celebratory#celebratory__1"
+    },
+    {
+      "comment": "a [frugal]{frugal} [meal]{meal} is [simple]{simple}, [inexpensive]{inexpensive}, and not very [big_1]{big}",
+      "entry": "frugal",
+      "id": "frugal#frugal__2"
+    },
+    {
+      "comment": "a [hearty]{hearty} [meal]{meal} is [large_1]{large}",
+      "entry": "hearty",
+      "id": "hearty#hearty__3"
+    },
+    {
+      "comment": "a [heavy_1]{heavy} [meal]{meal} is a [little_1]{little} too [large_1]{large} and you seem to [feel_1]{feel} it in your [stomach_1]{stomach} for a long time after you have [eaten]{eaten} it",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__71"
+    },
+    {
+      "comment": "a [light_1]{light} [meal]{meal} is [small_1]{small} and [easy_1]{easy} to [eat]{eat}",
+      "entry": "light",
+      "id": "light_2#light_2__18"
+    },
+    {
+      "comment": "a [food]{food} [serve_1]{served} on the side is an [additional]{additional} [food]{food} [serve_1]{served} with the [main_1]{main} [meal]{meal}",
+      "entry": "on the side",
+      "id": "on-the-side#on-the-side__3"
+    },
+    {
+      "comment": "a [satisfying]{satisfying} [meal]{meal} is one that [make_1]{makes} you [feel_1]{feel} that you have [eaten]{eaten} well and have [eaten]{eaten} enough",
+      "entry": "satisfying",
+      "id": "satisfying#satisfying__4"
+    },
+    {
+      "comment": "a [set_1]{set} [meal]{meal} in a [restaurant]{restaurant} or [hotel]{hotel} [offer_1]{offers} a [limited]{limited} [choice_1]{choice} of [different]{different} [food]{foods} for a [fixed]{fixed} [price_1]{price}",
+      "entry": "set",
+      "id": "set_3#set_3__19"
+    },
+    {
+      "comment": "a [sit-down_2]{sit-down} [dinner]{dinner}, [meal]{meal}, etc. is [serve_1]{served} to [people_1]{people} who are [sitting]{sitting} down",
+      "entry": "sit-down",
+      "id": "sit-down_2#sit-down_2__1"
+    },
+    {
+      "comment": "a [slap-up]{slap-up} [meal]{meal} is [large_1]{large} and very [good_1]{good}",
+      "entry": "slap-up",
+      "id": "slap-up#slap-up__1"
+    },
+    {
+      "comment": "[making]{making} you [feel_1]{feel} full and [satisfied]{satisfied}",
+      "entry": "substantial",
+      "id": "substantial#substantial__15"
+    },
+    {
+      "comment": "a [meal]{meal} that is [untouched]{untouched} has not been [eaten]{eaten}",
+      "entry": "untouched",
+      "id": "untouched#untouched__5"
+    }
+  ],
+  "thesaurus": "Words used to describe meals",
+  "type": "Related words"
+}

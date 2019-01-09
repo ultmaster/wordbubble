@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "come to do something",
+  "senses": [
+    {
+      "def": "to [finally]{finally} [reach_1]{reach} a [state_1]{state} in which something [happen]{happens} or you do something",
+      "examples": [
+        "She had come to [regard_1]{regard} him as one of her few [real_1]{real} [friend_1]{friends}.",
+        "the man who had come to [symbolize]{symbolize} the Franco-American [alliance]{alliance}"
+      ],
+      "id": "come-to-do-something__1"
+    },
+    {
+      "def": "to do something by [chance_1]{chance}",
+      "examples": [
+        "I\u2019m [just_1]{just} [explain]{explaining} to them how we come to be in Nantucket."
+      ],
+      "id": "come-to-do-something__4"
+    }
+  ]
+}

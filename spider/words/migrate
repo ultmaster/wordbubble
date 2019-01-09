@@ -1,0 +1,33 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to go to another [place_1]{place} or [country]{country} in [order_1]{order} to [work_1]{work}",
+      "examples": [],
+      "id": "migrate__1"
+    },
+    {
+      "def": "if a [bird]{bird} or [animal_1]{animal} [migrate]{migrates}, it [travel_1]{travels} to another part of the [world]{world} for [warmer]{warmer} [weather_1]{weather} at a [particular_1]{particular} time of the [year]{year}",
+      "examples": [],
+      "id": "migrate__2"
+    },
+    {
+      "def": "to [start_1]{start} to use a [different]{different} computer system, or to [make_1]{make} someone do this",
+      "examples": [],
+      "id": "migrate__3"
+    },
+    {
+      "def": "to move [software]{software} or [hardware]{hardware} to a [different]{different} computer system",
+      "examples": [],
+      "id": "migrate__4"
+    },
+    {
+      "def": "if [cell]{cells} migrate, they move to a [specific]{specific} [place_1]{place} in the body",
+      "examples": [
+        "Her [work_1]{work} [show_1]{showed} that the [cell]{cells} migrate to many [different]{different} [site_1]{sites} in the [embryo]{embryo}."
+      ],
+      "id": "migrate__5"
+    }
+  ],
+  "word": "migrate"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [publish]{publish} a [book_1]{book} or other [product]{product} yourself, not through a [publisher]{publisher}",
+      "entry": "self-publish",
+      "id": "self-publish#self-publish__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} something that [people_1]{people} [want_1]{want} to read, [watch_1]{watch} or [play_1]{play} and [make_1]{make} it [available]{available} to the [public_1]{public}",
+      "entry": "publish",
+      "id": "publish#publish__1"
+    },
+    {
+      "comment": "to [publish]{publish} something in a [newspaper]{newspaper} or [magazine]{magazine}",
+      "entry": "print",
+      "id": "print_1#print_1__7"
+    },
+    {
+      "comment": "if a [newspaper]{newspaper}, [book_1]{book}, or [magazine]{magazine} [go_1]{goes} to [press_1]{press}, it [start_1]{starts} to be [print_1]{printed}",
+      "entry": "go to press",
+      "id": "go-to-press#go-to-press__1"
+    },
+    {
+      "comment": "to give [information]{information} about something in a [news]{news} [article]{article} or [broadcast_1]{broadcast}",
+      "entry": "report",
+      "id": "report_2#report_2__1"
+    },
+    {
+      "comment": "to [publish]{publish} or [broadcast_1]{broadcast} a [news]{news} [story]{story}",
+      "entry": "carry",
+      "id": "carry_1#carry_1__22"
+    },
+    {
+      "comment": "to [publish]{publish} or [broadcast_1]{broadcast} a [news]{news} [story]{story} for the first time",
+      "entry": "break",
+      "id": "break_1#break_1__30"
+    },
+    {
+      "comment": "to [publish]{publish} a [book_1]{book}, [magazine]{magazine}, or [newspaper]{newspaper}, or [produce_1]{produce} a [video_1]{video} or CD for [sale]{sale}",
+      "entry": "put out",
+      "id": "put-out_1#put-out_1__23"
+    },
+    {
+      "comment": "if [newspaper]{newspapers} [run_1]{run} an [article]{article}, [advertisement]{advertisement}, or [photograph_1]{photograph}, they [print_1]{print} it",
+      "entry": "run",
+      "id": "run_1#run_1__73"
+    },
+    {
+      "comment": "to [broadcast_1]{broadcast} or [publish]{publish} a [story]{story} in a [series]{series} of [separate_1]{separate} [part_1]{parts}",
+      "entry": "serialize",
+      "id": "serialize#serialize__1"
+    }
+  ],
+  "thesaurus": "To publish something, or to be published",
+  "type": "Synonyms"
+}

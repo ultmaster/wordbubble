@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [legally]{legally} [effective]{effective}",
+      "examples": [
+        "Your [ticket_1]{ticket} is invalid without the [airline]{airline}\u2019s [official_1]{official} [stamp_1]{stamp}.",
+        "The [vote_1]{vote} has been [declared]{declared} invalid and another [election]{election} [scheduled]{scheduled}."
+      ],
+      "id": "invalid_1__1"
+    },
+    {
+      "def": "not [base_2]{based} on [fact]{facts}, [evidence_1]{evidence}, or [good_1]{good} [judgment]{judgment}",
+      "examples": [],
+      "id": "invalid_1__4"
+    },
+    {
+      "def": "not [acceptable]{acceptable} as a computer [instruction]{instruction} or [operation]{operation}",
+      "examples": [],
+      "id": "invalid_1__5"
+    }
+  ],
+  "word": "invalid"
+}

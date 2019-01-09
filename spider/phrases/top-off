@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "top off",
+  "senses": [
+    {
+      "def": "to [finish_1]{finish} something with a [final_1]{final} [activity]{activity} or detail",
+      "examples": [
+        "We [top_3]{topped} off the [evening_1]{evening} with a [carriage]{carriage} [ride_1]{ride}."
+      ],
+      "id": "top-off__1"
+    },
+    {
+      "def": "to [completely]{completely} fill a [container]{container} that is already [partly]{partly} full",
+      "examples": [
+        "I [just_1]{just} [want_1]{want} to top off the [tank_1]{tank} before we [head_1]{head} into the [desert_1]{desert}."
+      ],
+      "id": "top-off__3"
+    }
+  ]
+}

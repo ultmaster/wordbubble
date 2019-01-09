@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go to sleep",
+  "senses": [
+    {
+      "def": "to [begin]{begin} [sleep_1]{sleeping}",
+      "examples": [
+        "What time do the [kid_1]{kids} [usually]{usually} go to [sleep_1]{sleep}?"
+      ],
+      "id": "go-to-sleep__1"
+    },
+    {
+      "def": "if a part of your body [go_1]{goes} to [sleep_1]{sleep}, you cannot [feel_1]{feel} it for a [short_1]{short} time because it has not been [get]{getting} enough [blood_1]{blood}",
+      "examples": [
+        "My [foot_1]{foot}\u2019s [gone_1]{gone} to [sleep_1]{sleep}."
+      ],
+      "id": "go-to-sleep__3"
+    }
+  ]
+}

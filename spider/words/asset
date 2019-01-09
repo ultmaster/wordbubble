@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "something such as [money]{money} or [property]{property} that a [person]{person} or [company]{company} [own_2]{owns}",
+      "examples": [
+        "The [business]{business} has [asset]{assets} [total_3]{totaling} $5.1 [million]{million}.",
+        "We [recognize]{recognize} the [need_1]{need} to [protect]{protect} your [digital]{digital} [asset]{assets} wherever you go."
+      ],
+      "id": "asset__1"
+    },
+    {
+      "def": "a [major_1]{major} [benefit_1]{benefit}",
+      "examples": [
+        "[youth]{Youth} is a [tremendous]{tremendous} asset in this [job_1]{job}.",
+        "He is a [definite]{definite} asset to the [team_1]{team}."
+      ],
+      "id": "asset__5"
+    }
+  ],
+  "word": "asset"
+}

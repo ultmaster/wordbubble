@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "less [important]{important} than something else",
+      "examples": [
+        "His [feeling_1]{feelings} in the [matter_1]{matter} are of secondary [importance]{importance}.",
+        "He only [play_1]{played} a secondary [role]{role}.",
+        "The [color_1]{color} of the [car]{car} is secondary to its [quality_1]{quality} and [price_1]{price}."
+      ],
+      "id": "secondary__1"
+    },
+    {
+      "def": "[happening_1]{happening} after something else, or as a [result_1]{result} of it",
+      "examples": [
+        "a secondary [infection]{infection}",
+        "secondary [glazing]{glazing}",
+        "[book_1]{Books} [written_1]{written} in the [present_1]{present} [day]{day} by [historian]{historians} are secondary [source_1]{sources}."
+      ],
+      "id": "secondary__5"
+    },
+    {
+      "def": "[relate]{relating} to the [education]{education} of [children]{children} between the [age_1]{ages} of 11 and 16 or 18",
+      "examples": [
+        "[primary_1]{primary} and secondary [education]{education}",
+        "secondary [teacher]{teachers}/[pupil]{pupils}"
+      ],
+      "id": "secondary__12"
+    }
+  ],
+  "word": "secondary"
+}

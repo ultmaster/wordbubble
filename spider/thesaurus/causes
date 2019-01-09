@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [event]{event}, thing, or [person]{person} that [make_1]{makes} something [happen]{happen}",
+      "entry": "cause",
+      "id": "cause_1#cause_1__1"
+    },
+    {
+      "comment": "someone or something that [cause_1]{causes} something to [happen]{happen} or [change_1]{change}",
+      "entry": "catalyst",
+      "id": "catalyst#catalyst__1"
+    },
+    {
+      "comment": "the cause of a [problem]{problem}, or the [place_1]{place} where it [began]{began}",
+      "entry": "source",
+      "id": "source_1#source_1__7"
+    },
+    {
+      "comment": "someone or something that is one of the [cause_1]{causes} of a [situation]{situation}, [event]{event}, etc.",
+      "entry": "contributor",
+      "id": "contributor#contributor__3"
+    },
+    {
+      "comment": "a cause of something",
+      "entry": "occasion",
+      "id": "occasion_1#occasion_1__17"
+    },
+    {
+      "comment": "a [person]{person} or thing that has an [effect_1]{effect} on someone or something",
+      "entry": "influence",
+      "id": "influence_1#influence_1__6"
+    },
+    {
+      "comment": "something that [produce_1]{produces} an [immediate]{immediate} [result_1]{result}",
+      "entry": "trigger",
+      "id": "trigger_2#trigger_2__3"
+    },
+    {
+      "comment": "a [force_1]{force} that [help_1]{helps} something to [happen]{happen} or [develop]{develop} more [quickly]{quickly}",
+      "entry": "impetus",
+      "id": "impetus#impetus__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [idea]{ideas}, [fact]{facts}, [achievement]{achievements}, etc. from which something can [develop]{develop}",
+      "entry": "base",
+      "id": "base_1#base_1__13"
+    },
+    {
+      "comment": "the cause of something [bad_1]{bad} [happening_1]{happening}",
+      "entry": "culprit",
+      "id": "culprit#culprit__3"
+    }
+  ],
+  "thesaurus": "Causes",
+  "type": "Synonyms"
+}

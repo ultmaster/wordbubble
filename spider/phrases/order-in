@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "order in",
+  "senses": [
+    {
+      "def": "to [order_1]{order} [food]{food} from a [restaurant]{restaurant} and [ask_1]{ask} for it to be [deliver]{delivered} to you",
+      "examples": [
+        "We were too [tired]{tired} to [cook_1]{cook}, so we [ordered]{ordered} in.",
+        "I [ordered]{ordered} in [pizza]{pizza} for [dinner]{dinner}."
+      ],
+      "id": "order-in__1"
+    }
+  ]
+}

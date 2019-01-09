@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [skill]{skill} or [luck_1]{luck} that is [involved]{involved} in [doing]{doing} something at the most [suitable]{suitable} [moment]{moment}",
+      "examples": [
+        "The [decision_1]{decision} came, with [perfect_1]{perfect} timing, [just_1]{just} before his [speech]{speech}.",
+        "This is [bad_1]{bad} timing, as [emotion]{emotions} are [running_1]{running} [high_1]{high}.",
+        "[dance_1]{dance} [step_1]{steps} that [require]{require} [accurate]{accurate} timing",
+        "an [actor]{actor} with [impeccable]{impeccable} [comic_1]{comic} timing"
+      ],
+      "id": "timing__1"
+    },
+    {
+      "def": "the [date_1]{date} or time when something [happen]{happens} or is [plan_2]{planned} to [happen]{happen}",
+      "examples": [
+        "They [object_2]{objected} to the timing of the [election]{election}.",
+        "[factor_1]{factors} [affecting]{affecting} the timing of [birth]{births}"
+      ],
+      "id": "timing__7"
+    },
+    {
+      "def": "the [regular_1]{regular} times at which [thing]{things} [happen]{happen} in a [series]{series} in a [car]{car} [engine]{engine}",
+      "examples": [
+        "[ignition]{ignition} timing"
+      ],
+      "id": "timing__10"
+    }
+  ],
+  "word": "timing"
+}

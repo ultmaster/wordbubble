@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [job_1]{job} that is [available]{available} for someone to do",
+      "examples": [
+        "We have several [vacancy]{vacancies} to fill in the [sale]{Sales} [department]{Department}.",
+        "There are always [plenty]{plenty} of [vacancy]{vacancies} for [bar_1]{bar} [staff_1]{staff}."
+      ],
+      "id": "vacancy__1"
+    },
+    {
+      "def": "a [room_1]{room} in a [hotel]{hotel} that is [available]{available} for someone to [stay_1]{stay} in",
+      "examples": [
+        "We have no [vacancy]{vacancies} at all in July."
+      ],
+      "id": "vacancy__4"
+    },
+    {
+      "def": "[lack_1]{lack} of [intelligence]{intelligence} or interest",
+      "examples": [],
+      "id": "vacancy__6"
+    }
+  ],
+  "word": "vacancy"
+}

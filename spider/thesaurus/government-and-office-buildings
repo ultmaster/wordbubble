@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [building]{building} where a [chancellor]{chancellor} has his or her [office]{office}",
+      "entry": "chancellery",
+      "id": "chancellery#chancellery__1"
+    },
+    {
+      "comment": "the [building]{building} where the [official_2]{officials} who [manage]{manage} a [city]{city} [work_1]{work}",
+      "entry": "city hall",
+      "id": "city-hall#city-hall__1"
+    },
+    {
+      "comment": "the [building]{building} in a [town]{town} or [city]{city} where its [government]{government} is [base_2]{based}",
+      "entry": "civic centre",
+      "id": "civic-centre#civic-centre__1"
+    },
+    {
+      "comment": "the [government]{government} [building]{building} in which a [consul]{consul} [work_1]{works}",
+      "entry": "consulate",
+      "id": "consulate#consulate__1"
+    },
+    {
+      "comment": "a [building]{building} that has one or more [court_1]{courts} in it for [legal]{legal} [trial_1]{trials}",
+      "entry": "courthouse",
+      "id": "courthouse#courthouse__1"
+    },
+    {
+      "comment": "the [building]{building} where such [official_2]{officials} [work_1]{work}",
+      "entry": "embassy",
+      "id": "embassy#embassy__3"
+    },
+    {
+      "comment": "in the past, a building used by members of a guild to discuss business",
+      "entry": "guildhall",
+      "id": "guildhall#guildhall__1"
+    },
+    {
+      "comment": "the [building]{building} [used]{used} by [people_1]{people} who do the [work_1]{work} of a [mission]{mission}",
+      "entry": "mission",
+      "id": "mission#mission__15"
+    },
+    {
+      "comment": "a [room_1]{room} or [building]{building} where the [people_1]{people} in an [organization]{organization} or [department]{department} [work_1]{work}",
+      "entry": "the office",
+      "id": "office#office__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} that [contain]{contains} many [office]{offices}",
+      "entry": "office block",
+      "id": "office-block#office-block__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} that [contain]{contains} many [office]{offices}",
+      "entry": "office building",
+      "id": "office-building#office-building__1"
+    },
+    {
+      "comment": "a [public_1]{public} [building]{building} where [poor_1]{poor} [people_1]{people} can go to [receive]{receive} [help_1]{help}, for [example]{example} [training]{training} or [advice]{advice}",
+      "entry": "settlement",
+      "id": "settlement#settlement__16"
+    },
+    {
+      "comment": "in the U.S., a [building]{building} in the [capital_1]{capital} of a [state_1]{state} where the [politician]{politicians} of the [state_1]{state} [work_1]{work} and [make_1]{make} [law]{laws}",
+      "entry": "statehouse",
+      "id": "statehouse#statehouse__1"
+    },
+    {
+      "comment": "a [building]{building} or [place_1]{place} where a [particular_1]{particular} [service_1]{service} or [activity]{activity} is [base_2]{based}",
+      "entry": "station",
+      "id": "station_1#station_1__3"
+    },
+    {
+      "comment": "a [building]{building} that has all the [office]{offices} of a [town]{town}\u2019s [local_1]{local} [government]{government}",
+      "entry": "town hall",
+      "id": "town-hall#town-hall__1"
+    }
+  ],
+  "thesaurus": "Government and office buildings",
+  "type": "Related words"
+}

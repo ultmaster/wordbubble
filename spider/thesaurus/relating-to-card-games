@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [statement_1]{statement} of how many [point_1]{points} you [think_1]{think} you will [win_1]{win} in a [card_1]{card} [game_1]{game}",
+      "entry": "bid",
+      "id": "bid_2#bid_2__8"
+    },
+    {
+      "comment": "a statement of which of the four suits of cards will be trump  (=cards with a higher value) in a card game",
+      "entry": "call",
+      "id": "call_2#call_2__31"
+    },
+    {
+      "comment": "the [activity]{activity} of [play_1]{playing} [game_1]{games} with a [set_1]{set} of 52 [card_1]{cards}",
+      "entry": "cards",
+      "id": "card_1#card_1__24"
+    },
+    {
+      "comment": "the [act_1]{act} of [give_1]{giving} [card_1]{cards} to the [people_1]{people} [play_1]{playing} a [game_1]{game} of [card_1]{cards}",
+      "entry": "deal",
+      "id": "deal_1#deal_1__16"
+    },
+    {
+      "comment": "the [person]{person} who [give_1]{gives} [card_1]{cards} to the [people_1]{people} [play_1]{playing} a [game_1]{game} of [card_1]{cards}",
+      "entry": "dealer",
+      "id": "dealer#dealer__6"
+    },
+    {
+      "comment": "cards that someone places on the table during a game of bridge so that the other players can see them",
+      "entry": "dummy",
+      "id": "dummy_1#dummy_1__4"
+    },
+    {
+      "comment": "a group of cards held by someone in a card game that all belong to the same suit  (=one of the four types of a set of cards)",
+      "entry": "flush",
+      "id": "flush_2#flush_2__7"
+    },
+    {
+      "comment": "in a [card_1]{card} [game_1]{game}, a [combination]{combination} of three [card_1]{cards} with a [particular_1]{particular} [value_1]{value} and two with another [value_1]{value}",
+      "entry": "full house",
+      "id": "full-house#full-house__2"
+    },
+    {
+      "comment": "a situation in the card game of bridge in which a pair of players wins all 13 of the tricks",
+      "entry": "grand slam",
+      "id": "grand-slam#grand-slam__8"
+    },
+    {
+      "comment": "the [particular_1]{particular} [set_1]{set} of [card_1]{cards} that have been [given_1]{given} to you in a [game_1]{game} of [card_1]{cards}",
+      "entry": "hand",
+      "id": "hand_1#hand_1__17"
+    },
+    {
+      "comment": "in [card_1]{card} [game_1]{games}, two [card_1]{cards} that have the same [number_1]{number} or [picture_1]{picture} on them",
+      "entry": "pair",
+      "id": "pair_1#pair_1__23"
+    },
+    {
+      "comment": "a set of the five highest playing cards from the same suit in the game of poker",
+      "entry": "royal flush",
+      "id": "royal-flush#royal-flush__1"
+    },
+    {
+      "comment": "a series of games in bridge",
+      "entry": "rubber",
+      "id": "rubber#rubber__4"
+    },
+    {
+      "comment": "in [card_1]{card} [game_1]{games}, a [group_1]{group} of [card_1]{cards} whose [number_1]{numbers} are in a [series]{series}, for [example]{example} a 4, 5, and 6",
+      "entry": "run",
+      "id": "run_2#run_2__32"
+    },
+    {
+      "comment": "the act of changing the order of cards in a deck before you deal them to players at the beginning of a game",
+      "entry": "shuffle",
+      "id": "shuffle_2#shuffle_2__2"
+    },
+    {
+      "comment": "someone\u2019s [right_1]{right} to [begin]{begin} a part of a [card_1]{card} [game_1]{game} by [play_1]{playing} one of their [card_1]{cards} first",
+      "entry": "someone\u2019s lead",
+      "id": "someone-s-lead#someone-s-lead__1"
+    },
+    {
+      "comment": "five cards with numbers that come one after the other in order, in the game of poker",
+      "entry": "straight",
+      "id": "straight_3#straight_3__2"
+    },
+    {
+      "comment": "the [card_1]{cards} that you [play_1]{play} or [win_1]{win} in one part of a [card_1]{card} [game_1]{game}",
+      "entry": "trick",
+      "id": "trick_1#trick_1__15"
+    }
+  ],
+  "thesaurus": "Relating to card games",
+  "type": "Related words"
+}

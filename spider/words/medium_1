@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "between [small_1]{small} and [large_1]{large} in [size_1]{size}",
+      "examples": [
+        "Put each [plant_1]{plant} in a medium [pot_1]{pot}.",
+        "She\u2019s [slim_1]{slim}, of medium [height]{height}, with [dark_1]{dark} [hair]{hair}.",
+        "She has medium-length [blond_1]{blond} [hair]{hair}."
+      ],
+      "id": "medium_1__1"
+    },
+    {
+      "def": "[average_1]{average} in [degree]{degree}, [strength]{strength}, or amount",
+      "examples": [
+        "In medium [wind_1]{winds}, the [plane_1]{plane} [remain]{remained} [stable_1]{stable}."
+      ],
+      "id": "medium_1__5"
+    },
+    {
+      "def": "neither [light_1]{light} nor [dark_1]{dark} in [color_1]{color}",
+      "examples": [
+        "He\u2019s [tall]{tall} with medium-brown [hair]{hair}."
+      ],
+      "id": "medium_1__7"
+    }
+  ],
+  "word": "medium"
+}

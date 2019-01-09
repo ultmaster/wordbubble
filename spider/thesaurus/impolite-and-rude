@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "not [polite]{polite}",
+      "entry": "rude",
+      "id": "rude#rude__1"
+    },
+    {
+      "comment": "not [polite]{polite}",
+      "entry": "impolite",
+      "id": "impolite#impolite__1"
+    },
+    {
+      "comment": "[rude]{rude}, [especially]{especially} when you should be [showing]{showing} [respect_1]{respect}",
+      "entry": "insolent",
+      "id": "insolent#insolent__1"
+    },
+    {
+      "comment": "[unpleasant]{unpleasant} or [insulting]{insulting}, and [likely_1]{likely} to [make_1]{make} [people_1]{people} [upset_1]{upset} or [embarrassed]{embarrassed}",
+      "entry": "offensive",
+      "id": "offensive_1#offensive_1__1"
+    },
+    {
+      "comment": "[behave]{behaving} in a [rude]{rude} way that [show_1]{shows} no [respect_1]{respect} for someone",
+      "entry": "impudent",
+      "id": "impudent#impudent__1"
+    },
+    {
+      "comment": "[rude]{rude} and not [showing]{showing} [respect_1]{respect} for someone, [especially]{especially} someone [old]{older} or more [senior_1]{senior}",
+      "entry": "impertinent",
+      "id": "impertinent#impertinent__1"
+    },
+    {
+      "comment": "[behave]{behaving} in a way that is not [polite]{polite}",
+      "entry": "ill-mannered",
+      "id": "ill-mannered#ill-mannered__1"
+    },
+    {
+      "comment": "[rude]{rude} and [lacking]{lacking} [respect_1]{respect}",
+      "entry": "discourteous",
+      "id": "discourteous#discourteous__1"
+    },
+    {
+      "comment": "[behave]{behaving} in way that seems [rude]{rude} to other [people_1]{people}, because you [say_1]{say} what you [think_1]{think} even if it is not [nice]{nice}",
+      "entry": "abrasive",
+      "id": "abrasive_1#abrasive_1__1"
+    },
+    {
+      "comment": "[speak_1]{speaking} or [behave]{behaving} in a [clever]{clever} or [funny]{funny} way that [show_1]{shows} a [lack_1]{lack} of [respect_1]{respect}",
+      "entry": "smart",
+      "id": "smart_1#smart_1__8"
+    },
+    {
+      "comment": "[behave]{behaving} in a way that is [considered]{considered} [unsuitable]{unsuitable} for a [woman]{woman} or [girl]{girl}, for [example]{example} by being [loud_1]{loud} or [vulgar]{vulgar}",
+      "entry": "unladylike",
+      "id": "unladylike#unladylike__1"
+    }
+  ],
+  "thesaurus": "Impolite and rude",
+  "type": "Synonyms"
+}

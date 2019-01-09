@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} in the U.S. or British [navy]{navy}",
+      "entry": "admiral",
+      "id": "admiral#admiral__1"
+    },
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} in the [navy]{navy}",
+      "entry": "captain",
+      "id": "captain_1#captain_1__4"
+    },
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} in the U.S. [navy]{Navy} or the U.S. [coast_1]{Coast} [guard_1]{Guard}",
+      "entry": "commander",
+      "id": "commander#commander__2"
+    },
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} in the British [navy]{navy}",
+      "entry": "commander",
+      "id": "commander#commander__3"
+    },
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} in the British [navy]{navy}",
+      "entry": "commodore",
+      "id": "commodore#commodore__1"
+    },
+    {
+      "comment": "an officer of low rank in the U.S. Navy or Coast Guard",
+      "entry": "ensign",
+      "id": "ensign#ensign__2"
+    },
+    {
+      "comment": "an [officer]{officer} of the [high_1]{highest} [rank_1]{rank} in the U.S. [navy]{Navy}",
+      "entry": "fleet admiral",
+      "id": "fleet-admiral#fleet-admiral__1"
+    },
+    {
+      "comment": "a [junior_1]{junior} [officer]{officer} in a [navy]{navy}",
+      "entry": "mate",
+      "id": "mate_1#mate_1__4"
+    },
+    {
+      "comment": "someone who is [training]{training} to [work_1]{work} in the [navy]{navy}",
+      "entry": "midshipman",
+      "id": "midshipman#midshipman__1"
+    },
+    {
+      "comment": "an [officer]{officer} of low [rank_1]{rank} in the British [navy]{Navy}",
+      "entry": "midshipman",
+      "id": "midshipman#midshipman__2"
+    },
+    {
+      "comment": "an [officer]{officer} of low [rank_1]{rank} in the [navy]{navy}",
+      "entry": "petty officer",
+      "id": "petty-officer#petty-officer__1"
+    },
+    {
+      "comment": "[petty]{petty} [officer]{officer}",
+      "entry": "PO",
+      "id": "po#po__1"
+    },
+    {
+      "comment": "an officer of high rank in the navy or coast guard",
+      "entry": "rear admiral",
+      "id": "rear-admiral#rear-admiral__1"
+    },
+    {
+      "comment": "an officer of high rank in the navy, whose position is immediately below an admiral",
+      "entry": "vice admiral",
+      "id": "vice-admiral#vice-admiral__1"
+    },
+    {
+      "comment": "an [officer]{officer} in the U.S. [navy]{Navy} who [work_1]{works} as a [secretary]{secretary}",
+      "entry": "yeoman",
+      "id": "yeoman#yeoman__1"
+    }
+  ],
+  "thesaurus": "Officers in the navy or coast guard",
+  "type": "Related words"
+}

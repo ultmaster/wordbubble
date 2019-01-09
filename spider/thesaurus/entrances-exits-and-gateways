@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "the [means]{means} by which you get to a [place_1]{place}",
+      "entry": "access",
+      "id": "access_1#access_1__11"
+    },
+    {
+      "comment": "a [structure_1]{structure} with a [curved]{curved} top and two [straight_1]{straight} sides that you can [walk_1]{walk} through",
+      "entry": "arch",
+      "id": "arch_1#arch_1__3"
+    },
+    {
+      "comment": "a [curved]{curved} [roof_1]{roof} over an [entrance_1]{entrance} or [passage]{passage}",
+      "entry": "archway",
+      "id": "archway#archway__1"
+    },
+    {
+      "comment": "the [place_1]{place} where you can [enter]{enter} a [room_1]{room}, [building]{building}, or [area]{area}",
+      "entry": "entrance",
+      "id": "entrance_1#entrance_1__1"
+    },
+    {
+      "comment": "a place where you enter a building. The more usual word is entrance.",
+      "entry": "entry",
+      "id": "entry#entry__11"
+    },
+    {
+      "comment": "a [door_1]{door} in a [fence_1]{fence} or [wall_1]{wall} that you go through to [enter]{enter} or [leave_1]{leave} a [place_1]{place}",
+      "entry": "gate",
+      "id": "gate_1#gate_1__1"
+    },
+    {
+      "comment": "the [entrance_1]{entrance} to a [large_1]{large} [public_1]{public} [building]{building} or [place_1]{place} that a [lot_1]{lot} of [people_1]{people} [visit_1]{visit}",
+      "entry": "gate",
+      "id": "gate_1#gate_1__4"
+    },
+    {
+      "comment": "the [entrance_1]{entrance} to a [sport_1]{sports} [event]{event} or other [entertainment]{entertainment} where [people_1]{people} [pay_1]{pay} for or show their [ticket_1]{tickets}",
+      "entry": "gate",
+      "id": "gate_1#gate_1__7"
+    },
+    {
+      "comment": "a [small_1]{small} [house_1]{house} [built_1]{built} at the [entrance_1]{entrance} to a [park_1]{park} or [large_1]{large} [property]{property}",
+      "entry": "gatehouse",
+      "id": "gatehouse#gatehouse__1"
+    },
+    {
+      "comment": "one of the two [upright_1]{upright} [post_1]{posts} that a [gate_1]{gate} is [attached]{attached} to",
+      "entry": "gatepost",
+      "id": "gatepost#gatepost__1"
+    },
+    {
+      "comment": "an [entrance_1]{entrance} that is [open_2]{opened} and [closed]{closed} with a [gate_1]{gate}",
+      "entry": "gateway",
+      "id": "gateway#gateway__1"
+    },
+    {
+      "comment": "a [place_1]{place} that [allow]{allows} you to [reach_1]{reach} or [enter]{enter} a [large_1]{larger} [place_1]{place}",
+      "entry": "gateway",
+      "id": "gateway#gateway__3"
+    },
+    {
+      "comment": "the [area]{area} [inside_1]{inside} the front [door_1]{door} of a [house_1]{house} or other [building]{building} that [lead_1]{leads} to other [room_1]{rooms}",
+      "entry": "hall",
+      "id": "hall#hall__2"
+    },
+    {
+      "comment": "the [area]{area} [inside_1]{inside} the front [door_1]{door} of a [house_1]{house} or other [building]{building} that [lead_1]{leads} to other [room_1]{rooms}",
+      "entry": "hallway",
+      "id": "hallway#hallway__3"
+    },
+    {
+      "comment": "a gate with a small roof over it at the entrance to a churchyard",
+      "entry": "lychgate",
+      "id": "lychgate#lychgate__1"
+    },
+    {
+      "comment": "the entrance to something such as a cave  (=a hole in the side of a mountain) or tunnel",
+      "entry": "mouth",
+      "id": "mouth_1#mouth_1__9"
+    },
+    {
+      "comment": "a [small_1]{small} [area]{area} [covered_1]{covered} by a [roof_1]{roof} at the [entrance_1]{entrance} to a [house_1]{house} or other [building]{building}",
+      "entry": "porch",
+      "id": "porch#porch__2"
+    },
+    {
+      "comment": "a [large_1]{large} [decorate]{decorated} [entrance_1]{entrance} to a [building]{building}",
+      "entry": "portal",
+      "id": "portal#portal__1"
+    },
+    {
+      "comment": "a structure with no sides that has a roof supported by columns, usually built at the entrance to a building",
+      "entry": "portico",
+      "id": "portico#portico__1"
+    },
+    {
+      "comment": "a veranda or series of wooden steps leading up to a house",
+      "entry": "stoep",
+      "id": "stoep#stoep__1"
+    },
+    {
+      "comment": "the [floor_1]{floor} at the [entrance_1]{entrance} to a [room_1]{room} or [building]{building}",
+      "entry": "threshold",
+      "id": "threshold#threshold__5"
+    },
+    {
+      "comment": "a [gate_1]{gate} across a [road]{road} where you have to [pay_1]{pay} before you can go through it",
+      "entry": "tollgate",
+      "id": "tollgate#tollgate__1"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [gate_1]{gate} at the [entrance_1]{entrance} of something, with [metal_1]{metal} [bar_1]{bars} that move in a [circle_1]{circle} so that only one [person]{person} at a time can go through",
+      "entry": "turnstile",
+      "id": "turnstile#turnstile__1"
+    },
+    {
+      "comment": "a [method]{method} of [going_1]{going} into or out of a [place_1]{place}",
+      "entry": "way",
+      "id": "way_1#way_1__38"
+    },
+    {
+      "comment": "an [exit_1]{exit} from a [place_1]{place}",
+      "entry": "way out",
+      "id": "way-out_1#way-out_1__3"
+    },
+    {
+      "comment": "a [small_1]{small} [gate_1]{gate}, [especially]{especially} one that is next to or part of a [large_1]{larger} [gate_1]{gate}",
+      "entry": "wicket gate",
+      "id": "wicket-gate#wicket-gate__1"
+    }
+  ],
+  "thesaurus": "Entrances, exits and gateways",
+  "type": "Related words"
+}

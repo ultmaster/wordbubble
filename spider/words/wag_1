@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [dog_1]{dog} [wag_1]{wags} its tail, it [move_1]{moves} its tail from one side to the other several times",
+      "examples": [],
+      "id": "wag_1__1"
+    },
+    {
+      "def": "if a [person]{person} [wag_1]{wags} a [finger_1]{finger} or [wag_1]{wags} their [head_1]{head}, they [shake_1]{shake} it several times, [usually]{usually} to show that they are [angry]{angry}",
+      "examples": [],
+      "id": "wag_1__2"
+    },
+    {
+      "def": "to [play_1]{play} [truant]{truant} from [school_1]{school}; to not be at [work_1]{work} when you should be",
+      "examples": [
+        "was so [restless]{restless} and [bored]{bored} at [work_1]{work} that I [decided]{decided} to [just_1]{just} wag off after [lunch_1]{lunch} without [telling]{telling} anyone."
+      ],
+      "id": "wag_1__3"
+    }
+  ],
+  "word": "wag"
+}

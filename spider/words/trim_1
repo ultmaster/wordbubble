@@ -1,0 +1,37 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [cut_1]{cut} something such as [hair]{hair} so that it [look_1]{looks} [neat]{neat}",
+      "examples": [
+        "a well-trimmed [beard]{beard}",
+        "Someone is [trim_1]{trimming} the [grass]{grass} [outside]{outside} with [shears]{shears}.",
+        "I had an [inch_1]{inch} [trim_1]{trimmed} off at the [beauty_1]{beauty} [shop_1]{shop}."
+      ],
+      "id": "trim_1__1"
+    },
+    {
+      "def": "to [reduce]{reduce} the amount or [number_1]{number} of something",
+      "examples": [
+        "The [workforce]{workforce} has been [trim_1]{trimmed} to 230.",
+        "The [company]{company} had also [trim_1]{trimmed} $46,000 from its [advertising]{advertising} [budget_1]{budget}."
+      ],
+      "id": "trim_1__5"
+    },
+    {
+      "def": "to [arrange]{arrange} the [sail_1]{sails} on a [boat]{boat} so that they are [appropriate_1]{appropriate} for the [wind_1]{wind}",
+      "examples": [],
+      "id": "trim_1__8"
+    },
+    {
+      "def": "to [decorate]{decorate} the [edge_1]{edges} of something, for [example]{example} a [piece_1]{piece} of [clothing]{clothing}",
+      "examples": [
+        "a fur-trimmed [coat_1]{coat}",
+        "The [kid_1]{kids} always [enjoy]{enjoy} [trim_1]{trimming} the Christmas [tree]{tree}."
+      ],
+      "id": "trim_1__10"
+    }
+  ],
+  "word": "trim"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "kick out",
+  "senses": [
+    {
+      "def": "to [force_1]{force} someone to [leave_1]{leave} a [place_1]{place} or [organization]{organization}",
+      "examples": [
+        "Sonia was [kick_1]{kicked} out of her [house_1]{house}."
+      ],
+      "id": "kick-out__1"
+    },
+    {
+      "def": "to [try_1]{try} to hit or [attack_1]{attack} someone [suddenly]{suddenly} and [violently]{violently} with your [foot_1]{foot}",
+      "examples": [
+        "She [kick_1]{kicked} out [wildly]{wildly} at her [attacker]{attacker}."
+      ],
+      "id": "kick-out__3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "sleep away",
+  "senses": [
+    {
+      "def": "to [sleep_1]{sleep} in [order_1]{order} to [stop_1]{stop} [thinking_1]{thinking} or [worrying]{worrying} about something, or to [stop_1]{stop} [feeling_1]{feeling} something",
+      "examples": [
+        "She [just_1]{just} [wanted]{wanted} to [sleep_1]{sleep} her [trouble_1]{troubles} [away_1]{away}."
+      ],
+      "id": "sleep-away__1"
+    },
+    {
+      "def": "to [spend]{spend} a [period_1]{period} of time in [sleep_1]{sleeping}",
+      "examples": [
+        "On [weekend_1]{weekends}, I sometimes [sleep_1]{sleep} [away_1]{away} [half]{half} the [morning_1]{morning}."
+      ],
+      "id": "sleep-away__3"
+    }
+  ]
+}

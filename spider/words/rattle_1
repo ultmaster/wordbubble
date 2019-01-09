@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if something [rattle_1]{rattles}, it [make_1]{makes} [short_1]{short} [sharp_1]{sharp} [knock_1]{knocking} [sound_1]{sounds} as it [move_1]{moves} or [shake_1]{shakes}",
+      "examples": [
+        "The [house_1]{house} [shook]{shook} and the [door_1]{doors} and [window]{windows} [rattle_1]{rattled}.",
+        "There\u2019s something [rattling]{rattling} in the bottom of that [box_1]{box}.",
+        "Betty was [rattling]{rattling} [pan_1]{pans} in the [kitchen]{kitchen}.",
+        "He came up the [driveway]{driveway}, [rattling]{rattling} a [bunch_1]{bunch} of [key_1]{keys}."
+      ],
+      "id": "rattle_1__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} [nervous]{nervous} or [angry]{angry}",
+      "examples": [
+        "[just_1]{Just} keep your [cool_1]{cool} and don\u2019t [let_1]{let} him rattle you."
+      ],
+      "id": "rattle_1__7"
+    },
+    {
+      "def": "if a [vehicle]{vehicle} or a [train_1]{train} [rattle_1]{rattles} somewhere, it [move_1]{moves} there [quickly]{quickly} and [noisy#noisy__7]{noisily}",
+      "examples": [
+        "Don came [rattling]{rattling} down the [track_1]{track} in his [battered]{battered} [old]{old} [truck_1]{truck}."
+      ],
+      "id": "rattle_1__9"
+    }
+  ],
+  "word": "rattle"
+}

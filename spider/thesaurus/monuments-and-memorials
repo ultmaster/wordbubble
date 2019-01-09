@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [large_1]{large} [structure_1]{structure} [built_1]{built} to [remind]{remind} [people_1]{people} of [soldier_1]{soldiers}, [sailor]{sailors}, etc. who [die_1]{died} in [war]{wars}",
+      "entry": "cenotaph",
+      "id": "cenotaph#cenotaph__1"
+    },
+    {
+      "comment": "a [tall]{tall} thick [post_1]{post} [built_1]{built} in a [public_1]{public} [place_1]{place} to [honor_1]{honor} an [important]{important} [event]{event} or [famous_1]{famous} [person]{person}",
+      "entry": "column",
+      "id": "column#column__3"
+    },
+    {
+      "comment": "a [structure_1]{structure} [built_1]{built} to [remind]{remind} [people_1]{people} of a [famous_1]{famous} [person]{person} or [event]{event}",
+      "entry": "memorial",
+      "id": "memorial_1#memorial_1__1"
+    },
+    {
+      "comment": "something [create]{created} to [honor_1]{honor} someone who has [die_1]{died}",
+      "entry": "memorial",
+      "id": "memorial_1#memorial_1__4"
+    },
+    {
+      "comment": "a [structure_1]{structure} [built_1]{built} in a [public_1]{public} [place_1]{place} to [celebrate]{celebrate} an [important]{important} [person]{person} or [event]{event}",
+      "entry": "monument",
+      "id": "monument#monument__1"
+    },
+    {
+      "comment": "a [place_1]{place} of [historical]{historical} [importance]{importance}, for [example]{example} an [old]{old} [building]{building}",
+      "entry": "monument",
+      "id": "monument#monument__3"
+    },
+    {
+      "comment": "[relate]{relating} to a [monument]{monument} that [celebrate]{celebrates} an [important]{important} [person]{person} or [event]{event}",
+      "entry": "monumental",
+      "id": "monumental#monumental__9"
+    },
+    {
+      "comment": "a [building]{building} or [area]{area} that is [important]{important} to a [country]{country}\u2019s [history]{history} or [culture_1]{culture} and is [protected]{protected} by the [government]{government}",
+      "entry": "national monument",
+      "id": "national-monument#national-monument__1"
+    },
+    {
+      "comment": "an [organization]{organization} in the U.K. that [own_2]{owns} and [take_1]{takes} [care_1]{care} of [historical]{historical} [building]{buildings} and [area]{areas} of [countryside]{countryside} for [people_1]{people} to [visit_1]{visit}",
+      "entry": "the National Trust",
+      "id": "the-national-trust#the-national-trust__1"
+    },
+    {
+      "comment": "a tall pointed stone pillar that has been built to remember an important person or event",
+      "entry": "obelisk",
+      "id": "obelisk#obelisk__1"
+    },
+    {
+      "comment": "a [building]{building} that was [built_1]{built} to [honor_1]{honor} [god_1]{gods} or [famous_1]{famous} [people_1]{people}",
+      "entry": "pantheon",
+      "id": "pantheon#pantheon__3"
+    },
+    {
+      "comment": "a [public_1]{public} [place_1]{place} where a [soldier_1]{soldier} whose name is not [known_1]{known} is [bury]{buried} as a [sign_1]{sign} of [respect_1]{respect} for all the other [soldier_1]{soldiers} [kill_1]{killed} in a [particular_1]{particular} war whose [name_1]{names} are not [known_1]{known}",
+      "entry": "the Tomb of the Unknown Soldier",
+      "id": "the-tomb-of-the-unknown-soldier#the-tomb-of-the-unknown-soldier__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} that is [built_1]{built} to [remind]{remind} [people_1]{people} of the [soldier_1]{soldiers} and other [people_1]{people} who were [kill_1]{killed} in a war",
+      "entry": "war memorial",
+      "id": "war-memorial#war-memorial__1"
+    }
+  ],
+  "thesaurus": "Monuments and memorials",
+  "type": "Related words"
+}

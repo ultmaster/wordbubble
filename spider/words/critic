@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [write]{write} or [broadcast_1]{broadcast} their [opinion]{opinions} about [thing]{things} such as [book_1]{books}, [movie]{movies}, or [play_1]{plays}",
+      "examples": [
+        "Michael is the [paper_1]{paper}\u2019s [literary]{literary} critic."
+      ],
+      "id": "critic__1"
+    },
+    {
+      "def": "someone who [does]{does} not [like_1]{like} something and [state_1]{states} their [opinion]{opinion} about it",
+      "examples": [
+        "[critic]{Critics} [say_1]{say} the [plan_1]{plan} is [short-sighted]{short-sighted} and [dangerous]{dangerous}.",
+        "She has been the [strong]{strongest} critic of the [government]{government}\u2019s [tax_1]{tax} [proposal]{proposals}."
+      ],
+      "id": "critic__3"
+    },
+    {
+      "def": "a [member]{member} of an [opposition]{opposition} [party_1]{party} whose [job_1]{job} is to [follow]{follow} and [comment_1]{comment} on a [particular_1]{particular} [government]{government} [ministry]{ministry}",
+      "examples": [
+        "The [conservative_1]{Conservative} [immigration]{immigration} critic, Tony [clement]{Clement}, [describe]{described} the [decision_1]{decision} to [bar_1]{bar} Kooner from [enter]{entering} the U.S. as \"[absurd]{absurd} and [ridiculous]{ridiculous}.\""
+      ],
+      "id": "critic__6"
+    }
+  ],
+  "word": "critic"
+}

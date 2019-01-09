@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "come away",
+  "senses": [
+    {
+      "def": "if one thing comes [away_1]{away} from another that it was [attached]{attached} to, it becomes [separated]{separated} from it by [accident]{accident}",
+      "examples": [
+        "Another [block_1]{block} of [stone_1]{stone} came [away_1]{away} from the [wall_1]{wall}."
+      ],
+      "id": "come-away__1"
+    },
+    {
+      "def": "to [leave_1]{leave} in a [particular_1]{particular} [state_1]{state} or [condition_1]{condition}",
+      "examples": [
+        "We came [away_1]{away} with the [feeling_1]{feeling} that they didn\u2019t [really]{really} [approve]{approve} of us."
+      ],
+      "id": "come-away__3"
+    },
+    {
+      "def": "to move [away_1]{away} from someone or something",
+      "examples": [
+        "The man [look_1]{looked} [drunk_1]{drunk}, so we came [away_1]{away}.",
+        "Come [away_1]{away} from that [dog_1]{dog}!"
+      ],
+      "id": "come-away__5"
+    }
+  ]
+}

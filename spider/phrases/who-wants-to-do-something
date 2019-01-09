@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "who wants (to do) something?",
+  "senses": [
+    {
+      "def": "[used]{used} for [offering]{offering} something to a [group_1]{group} of [people_1]{people}",
+      "examples": [
+        "Who [want_1]{wants} another [glass]{glass} of [wine_1]{wine}?"
+      ],
+      "id": "who-wants-to-do-something__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you [expect]{expect} someone to [support_1]{support} your [opinion]{opinion}, [usually]{usually} by [give_1]{giving} a [negative_1]{negative} [answer_1]{answer} to your [question_1]{question}",
+      "examples": [
+        "\u201cWho [want_1]{wants} to [sit]{sit} around [wait_1]{waiting} for [age_1]{ages} in the [dentist]{dentist}\u2019s [office]{office}?\u201d \u201cNot me.\u201d"
+      ],
+      "id": "who-wants-to-do-something__3"
+    }
+  ]
+}

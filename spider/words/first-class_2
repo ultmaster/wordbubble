@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to the [best_1]{best} and most [expensive]{expensive} [seat_1]{seats} on an [airplane]{airplane} or a [train_1]{train}, or the [best_1]{best} and most [expensive]{expensive} [accommodation]{accommodation} on a [ship_1]{ship}",
+      "examples": [
+        "a first [class_1]{class} [ticket_1]{ticket}",
+        "The [price_1]{price} [include]{includes} [first-class_2]{first-class} [rail_1]{rail} [travel_1]{travel} to Paris."
+      ],
+      "id": "first-class_2__1"
+    },
+    {
+      "def": "[relate]{relating} to the [class_1]{class} of [mail_1]{mail} that is [used]{used} for [send_1]{sending} [letter_1]{letters}",
+      "examples": [],
+      "id": "first-class_2__4"
+    },
+    {
+      "def": "of the [best_1]{best} [quality_1]{quality} or the [high_1]{highest} [standard_1]{standard}",
+      "examples": [
+        "a [first-class_2]{first-class} [hotel]{hotel}",
+        "first [class_1]{class} [service_1]{service}"
+      ],
+      "id": "first-class_2__5"
+    }
+  ],
+  "word": "first class"
+}

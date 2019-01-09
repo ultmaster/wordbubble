@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who is in [charge_1]{charge} of a [discussion]{discussion}, [meeting]{meeting}, etc. between [people_1]{people} with [different]{different} [opinion]{opinions}",
+      "examples": [],
+      "id": "moderator__1"
+    },
+    {
+      "def": "a [senior_1]{senior} [religious]{religious} [leader]{leader} in a [protestant_1]{Protestant} [church]{church}",
+      "examples": [],
+      "id": "moderator__2"
+    },
+    {
+      "def": "someone who [read_1]{reads} [content_1]{content} [post_2]{posted} [online]{online} and [delete]{deletes} it if it is [offensive_1]{offensive} or [inappropriate]{inappropriate}",
+      "examples": [
+        "If you see a [visitor]{visitor} [message_1]{message} that is not [appropriate_1]{appropriate}, you can [alert_1]{alert} the [moderator]{moderators} by [click_1]{clicking} on the \"[report_1]{Report}\" [link_1]{link}."
+      ],
+      "id": "moderator__3"
+    }
+  ],
+  "word": "moderator"
+}

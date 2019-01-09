@@ -1,0 +1,49 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [provide]{provide} a [service_1]{service}, or to give [help_1]{help} to someone or something",
+      "examples": [
+        "We are [sincerely]{sincerely} [grateful]{grateful} to everyone who has [render]{rendered} [assistance]{assistance} to the [victim]{victims} of the [earthquake]{earthquake}.",
+        "He [received]{received} [payment]{payment} for [service_1]{services} [render]{rendered}."
+      ],
+      "id": "render__1"
+    },
+    {
+      "def": "to [express_1]{express}, show, or [perform]{perform} something in a [particular_1]{particular} way",
+      "examples": [
+        "The [power_1]{power} of the [ocean]{ocean} was [beautifully]{beautifully} [render]{rendered} in the [poem]{poem}.",
+        "That\u2019s [quite]{quite} a [difficult]{difficult} [idea]{idea} to render into English."
+      ],
+      "id": "render__4"
+    },
+    {
+      "def": "to [make_1]{make} someone or something be or become something",
+      "examples": [
+        "[solar]{Solar} [power_1]{power} could become a [viable]{viable} [energy]{energy} [source_1]{source}, [rendering]{rendering} [fossil]{fossil} [fuel_1]{fuels} [obsolete]{obsolete}.",
+        "His back [injury]{injury} had [render]{rendered} him [unfit]{unfit} for [work_1]{work}.",
+        "[failure]{Failure} to [supply_1]{supply} these [detail_1]{details} will render the [contract_1]{contract} [invalid_1]{invalid}."
+      ],
+      "id": "render__8"
+    },
+    {
+      "def": "to [officially]{officially} [announce]{announce} a [judgment]{judgment} or [decision_1]{decision}",
+      "examples": [
+        "The [jury]{jury} will almost [certainly]{certainly} render a [guilty]{guilty} [verdict]{verdict}."
+      ],
+      "id": "render__12"
+    },
+    {
+      "def": "to [cover_1]{cover} a [wall_1]{wall} with [plaster_1]{plaster} or [cement_1]{cement}",
+      "examples": [],
+      "id": "render__14"
+    },
+    {
+      "def": "to [heat_1]{heat} [solid_1]{solid} [fat_1]{fat} to [make_1]{make} it [liquid_1]{liquid}, or to [boil_1]{boil} [bone_1]{bones} and [piece_1]{pieces} of [meat]{meat} to [produce_1]{produce} [fat_1]{fat} that can be [used]{used} for [cooking_1]{cooking}",
+      "examples": [],
+      "id": "render__15"
+    }
+  ],
+  "word": "render"
+}

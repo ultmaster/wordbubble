@@ -1,0 +1,45 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [building]{building}, [room_1]{room}, or [outside]{outside} [area]{area} [used]{used} for [perform]{performing} [play_1]{plays}",
+      "examples": [
+        "Abraham Lincoln was [shot_1]{shot} in [ford_1]{Ford}\u2019s [theater]{Theater} in 1865.",
+        "an [open-air]{open-air} theater",
+        "We\u2019re [going_1]{going} to the theater on Saturday.",
+        "We met [outside]{outside} the [movie]{movie} theater."
+      ],
+      "id": "theater__1"
+    },
+    {
+      "def": "[play_1]{plays} [considered]{considered} as a form of [entertainment]{entertainment} or art",
+      "examples": [
+        "a [compelling]{compelling} [piece_1]{piece} of theater",
+        "I\u2019ve always [love_1]{loved} the theater."
+      ],
+      "id": "theater__7"
+    },
+    {
+      "def": "the [activity]{activity} of [writing]{writing}, [perform]{performing}, or [organize]{organizing} [performance]{performances} of [play_1]{plays}",
+      "examples": [
+        "[jenny]{Jenny} [wanted]{wanted} to [pursue]{pursue} a [career_1]{career} in the theater.",
+        "a [traveling]{traveling} theater [company]{company}"
+      ],
+      "id": "theater__10"
+    },
+    {
+      "def": "an [operating-room]{operating room} in a [hospital]{hospital}",
+      "examples": [],
+      "id": "theater__13"
+    },
+    {
+      "def": "an [area]{area} where there is [fighting]{fighting} during a war",
+      "examples": [
+        "[commander]{commander} of the theater of [operation]{operations}"
+      ],
+      "id": "theater__14"
+    }
+  ],
+  "word": "theater"
+}

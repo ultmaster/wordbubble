@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "at once",
+  "senses": [
+    {
+      "def": "[immediately]{immediately}",
+      "examples": [
+        "[bake_1]{Bake} for 35 [minute_1]{minutes} and then [serve_1]{serve} at once.",
+        "The [women]{women} met at a [party_1]{party} and became [good_1]{good} [friend_1]{friends} at once."
+      ],
+      "id": "at-once__1"
+    },
+    {
+      "def": "at the same time",
+      "examples": [
+        "Kolya, a movie from the Czech Republic, is at once extremely funny and sad."
+      ],
+      "id": "at-once__4"
+    }
+  ]
+}

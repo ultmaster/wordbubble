@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [saying]{saying} that one [person]{person}, thing, or [action_1]{action} [replace]{replaces} another",
+      "entry": "instead",
+      "id": "instead#instead__1"
+    },
+    {
+      "comment": "[instead]{instead}, or [instead]{instead} of",
+      "entry": "in lieu (of)",
+      "id": "lieu#lieu__2"
+    },
+    {
+      "comment": "[instead]{instead} of someone, or as a [representative_1]{representative} of someone",
+      "entry": "on someone\u2019s behalf",
+      "id": "behalf#behalf__2"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that one thing is [prefer]{preferred} to another or [happen]{happens} [instead]{instead} of another",
+      "entry": "rather than",
+      "id": "rather-than#rather-than__1"
+    },
+    {
+      "comment": "[instead]{instead} of what [usually]{usually} [happen]{happens}",
+      "entry": "for a change",
+      "id": "for-a-change#for-a-change__1"
+    },
+    {
+      "comment": "[instead]{instead} of something or someone",
+      "entry": "in place of",
+      "id": "in-place-of#in-place-of__1"
+    },
+    {
+      "comment": "[used]{used} [instead]{instead} of something [better_1]{better} or more [expensive]{expensive}",
+      "entry": "ersatz",
+      "id": "ersatz#ersatz__1"
+    }
+  ],
+  "thesaurus": "Instead or instead of",
+  "type": "Synonyms"
+}

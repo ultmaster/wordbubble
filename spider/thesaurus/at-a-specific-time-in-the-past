@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "during a [particular_1]{particular} [period_1]{period} in the [past_1]{past}",
+      "entry": "in those days",
+      "id": "in-those-days#in-those-days__1"
+    },
+    {
+      "comment": "on a particular day/night/year etc. in the past",
+      "entry": "one day/night/year etc.",
+      "id": "one-day-night-year-etc#one-day-night-year-etc__1"
+    },
+    {
+      "comment": "during the time when someone or something [exist]{existed}",
+      "entry": "of someone\u2019s/something\u2019s day",
+      "id": "of-someone-s-something-s-day#of-someone-s-something-s-day__1"
+    },
+    {
+      "comment": "on the [day]{day} before [today_1]{today}",
+      "entry": "yesterday",
+      "id": "yesterday_1#yesterday_1__1"
+    },
+    {
+      "comment": "two [day]{days} [ago]{ago}",
+      "entry": "the day before yesterday",
+      "id": "the-day-before-yesterday#the-day-before-yesterday__1"
+    },
+    {
+      "comment": "the previous day/week/weekend etc.",
+      "entry": "the day/week/weekend etc. before",
+      "id": "the-day-week-weekend-etc-before#the-day-week-weekend-etc-before__1"
+    },
+    {
+      "comment": "two days/weeks etc. ago",
+      "entry": "the day before yesterday/the week before last etc.",
+      "id": "the-day-before-yesterday-the-week-before-last-etc#the-day-before-yesterday-the-week-before-last-etc__1"
+    },
+    {
+      "comment": "two or three days/nights etc. ago",
+      "entry": "the other day/night etc.",
+      "id": "the-other-day-night-etc#the-other-day-night-etc__1"
+    },
+    {
+      "comment": "the night/week/year etc. before the most recent one",
+      "entry": "the night/week/year etc. before last",
+      "id": "the-night-week-year-etc-before-last#the-night-week-year-etc-before-last__1"
+    }
+  ],
+  "thesaurus": "At a specific time in the past",
+  "type": "Synonyms"
+}

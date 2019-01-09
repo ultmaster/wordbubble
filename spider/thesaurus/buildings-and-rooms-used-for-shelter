@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} [building]{building} [used]{used} in the [past_1]{past} as a [shelter_1]{shelter} during a [battle_1]{battle}",
+      "entry": "blockhouse",
+      "id": "blockhouse#blockhouse__1"
+    },
+    {
+      "comment": "a [building]{building} or [underground_1]{underground} [room_1]{room} that is [design_2]{designed} to [protect]{protect} [people_1]{people} from [bomb_1]{bombs}",
+      "entry": "bomb shelter",
+      "id": "bomb-shelter#bomb-shelter__1"
+    },
+    {
+      "comment": "a [room_1]{room} or [set_1]{set} of [room_1]{rooms} with very [strong]{strong} [wall_1]{walls}, [built_1]{built} [underground_1]{underground} as a [shelter_1]{shelter} against [bomb_1]{bombs}",
+      "entry": "bunker",
+      "id": "bunker#bunker__1"
+    },
+    {
+      "comment": "a [secret_1]{secret} [place_1]{place}, often [underground_1]{underground}, where [government]{government} or [military]{military} [official_2]{officials} [work_1]{work} during a war",
+      "entry": "bunker",
+      "id": "bunker#bunker__3"
+    },
+    {
+      "comment": "a [building]{building} under the [ground_1]{ground} where [people_1]{people} can go if there is a [nuclear]{nuclear} [attack_1]{attack}",
+      "entry": "fallout shelter",
+      "id": "fallout-shelter#fallout-shelter__1"
+    },
+    {
+      "comment": "a [building]{building} for [soldier_1]{soldiers} who are [working]{working} as [guard_1]{guards}, sometimes also [used]{used} as a [place_1]{place} for [keeping]{keeping} [military]{military} [prisoner]{prisoners}",
+      "entry": "guardhouse",
+      "id": "guardhouse#guardhouse__1"
+    },
+    {
+      "comment": "a small temporary shelter built by an Aboriginal person",
+      "entry": "humpy",
+      "id": "humpy#humpy__1"
+    },
+    {
+      "comment": "a [small_1]{small} [simple]{simple} [shelter_1]{shelter}",
+      "entry": "hut",
+      "id": "hut#hut__1"
+    },
+    {
+      "comment": "a [simple]{simple} [outdoor]{outdoor} [building]{building} or [shelter_1]{shelter} that [use_1]{uses} the side of another [building]{building} as one of its [wall_1]{walls} and has a [slope_2#slope_2__5]{sloping} [roof_1]{roof}",
+      "entry": "lean-to",
+      "id": "lean-to#lean-to__1"
+    },
+    {
+      "comment": "a [simple]{simple} [outdoor]{outdoor} [shelter_1]{shelter} that [stand_1]{stands} alone and has a [slope_2#slope_2__5]{sloping} [roof_1]{roof}",
+      "entry": "lean-to",
+      "id": "lean-to#lean-to__3"
+    },
+    {
+      "comment": "a Quonset [hut]{hut}",
+      "entry": "Nissen hut",
+      "id": "nissen-hut#nissen-hut__1"
+    },
+    {
+      "comment": "a round [shelter_1]{shelter} from which [soldier_1]{soldiers} fire [large_1]{large} [guns]{guns}",
+      "entry": "pillbox",
+      "id": "pillbox#pillbox__2"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} made of [metal_1]{metal}, [originally]{originally} [used]{used} as a [shelter_1]{shelter} during [world]{World} War I",
+      "entry": "Quonset hut",
+      "id": "quonset-hut#quonset-hut__1"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [shelter_1]{shelter} with an [open_1]{open} front that a [sentry]{sentry} [stand_1]{stands} in",
+      "entry": "sentry box",
+      "id": "sentry-box#sentry-box__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [people_1]{people} are [protected]{protected} from [bad_1]{bad} [weather_1]{weather} or from [danger]{danger}",
+      "entry": "shelter",
+      "id": "shelter_1#shelter_1__1"
+    }
+  ],
+  "thesaurus": "Buildings and rooms used for shelter",
+  "type": "Related words"
+}

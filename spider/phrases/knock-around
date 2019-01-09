@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "knock around",
+  "senses": [
+    {
+      "def": "to [discuss]{discuss} [idea]{ideas} in an [informal]{informal} way",
+      "examples": [],
+      "id": "knock-around__1"
+    },
+    {
+      "def": "to hit someone a [lot_1]{lot}",
+      "examples": [
+        "Her [husband]{husband} had been [knock_1]{knocking} her around."
+      ],
+      "id": "knock-around__2"
+    },
+    {
+      "def": "to [spend]{spend} time somewhere with no [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "I\u2019d [knock_1]{knocked} around the Mediterranean for a few [year]{years}."
+      ],
+      "id": "knock-around__4"
+    },
+    {
+      "def": "to [kick_1]{kick}, hit, or [throw_1]{throw} a [ball_1]{ball} in an [informal]{informal} [game_1]{game}",
+      "examples": [],
+      "id": "knock-around__8"
+    }
+  ]
+}

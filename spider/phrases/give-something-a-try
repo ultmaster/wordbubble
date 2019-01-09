@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "give something a try",
+  "senses": [
+    {
+      "def": "to do something in [order_1]{order} to find out what [happen]{happens} or to find out whether something is [good_1]{good}, [appropriate_1]{appropriate}, [effective]{effective} etc.",
+      "examples": [
+        "Tony\u2019s [planning]{planning} to give [skiing]{skiing} a [try_1]{try} this [winter_1]{winter}."
+      ],
+      "id": "give-something-a-try__1"
+    },
+    {
+      "def": "to go to a [particular_1]{particular} [place_1]{place} [hope_1]{hoping} to find someone or something",
+      "examples": [
+        "Why not give the [library]{library} a [try_1]{try}? He\u2019s [usually]{usually} there on Tuesdays."
+      ],
+      "id": "give-something-a-try__3"
+    }
+  ]
+}

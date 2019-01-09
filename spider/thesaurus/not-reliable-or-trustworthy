@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[unreliable]{unreliable} [information]{information} is not [definitely]{definitely} [true_1]{true} or [accurate]{accurate}",
+      "entry": "unreliable",
+      "id": "unreliable#unreliable__1"
+    },
+    {
+      "comment": "not [capable]{capable} of being [trust_2]{trusted} or [depend]{depended} on",
+      "entry": "untrustworthy",
+      "id": "untrustworthy#untrustworthy__1"
+    },
+    {
+      "comment": "someone who is [unreliable]{unreliable} will not do what you [ask_1]{ask} them to do, or will not do it well",
+      "entry": "unreliable",
+      "id": "unreliable#unreliable__3"
+    },
+    {
+      "comment": "not always [behave]{behaving} in the same way or [produce_1]{producing} the same [result_1]{results}",
+      "entry": "inconsistent",
+      "id": "inconsistent#inconsistent__3"
+    },
+    {
+      "comment": "not very [reliable]{reliable}, or not [easy_1]{easy} to [believe]{believe}",
+      "entry": "flimsy",
+      "id": "flimsy#flimsy__5"
+    },
+    {
+      "comment": "not [reliable]{reliable}",
+      "entry": "unsteady",
+      "id": "unsteady#unsteady__6"
+    },
+    {
+      "comment": "an [unstable]{unstable} [object_1]{object} is [likely_1]{likely} to move or [change_1]{change} because of the [force_1]{forces} [affecting]{affecting} it",
+      "entry": "unstable",
+      "id": "unstable#unstable__8"
+    },
+    {
+      "comment": "something or someone that is [suspect_1]{suspect} cannot be [trust_2]{trusted} or [believe]{believed}",
+      "entry": "suspect",
+      "id": "suspect_3#suspect_3__1"
+    },
+    {
+      "comment": "a [feckless]{feckless} [person]{person} is not [reliable]{reliable}, [does]{does} not [care_1]{care} about [achieve]{achieving} anything, and has no [clear_1]{clear} [plan_1]{plans}",
+      "entry": "feckless",
+      "id": "feckless#feckless__1"
+    },
+    {
+      "comment": "[silly_1]{silly} and not [reliable]{reliable}",
+      "entry": "ditzy",
+      "id": "ditzy#ditzy__1"
+    }
+  ],
+  "thesaurus": "Not reliable or trustworthy",
+  "type": "Synonyms"
+}

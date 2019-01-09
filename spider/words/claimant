@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [make_1]{makes} an [official_1]{official} [request_1]{request} for [money]{money} from a [government]{government}, [insurance]{insurance} [company]{company}, etc.",
+      "examples": [
+        "[claimant]{claimants} of [disability]{disability} [benefit_1]{benefits}"
+      ],
+      "id": "claimant__1"
+    },
+    {
+      "def": "someone who [bring]{brings} a [legal]{legal} [case_1]{case} against someone else in a [court_1]{court} of [law]{law}. The [person]{person} against whom the [case_1]{case} is [brought]{brought} is [call_1]{called} the [defendant]{defendant}.",
+      "examples": [
+        "The claimant made a [claim_1]{claim} for [damage_2]{damages} against his [employee]{employee} for a [breach_1]{breach} of [statutory]{statutory} [duty]{duty}."
+      ],
+      "id": "claimant__4"
+    }
+  ],
+  "word": "claimant"
+}

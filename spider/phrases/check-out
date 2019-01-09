@@ -1,0 +1,40 @@
+{
+  "part": "phrase",
+  "phrase": "check out",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} a [hotel]{hotel} after [pay_1]{paying} the bill",
+      "examples": [
+        "Joan had already [checked]{checked} out of the [hotel]{hotel}."
+      ],
+      "id": "check-out__1"
+    },
+    {
+      "def": "to [pay_1]{pay} for your [goods]{goods} before [leave_1]{leaving} a [supermarket]{supermarket} or other [large_1]{large} [store_1]{store}",
+      "examples": [],
+      "id": "check-out__3"
+    },
+    {
+      "def": "to [borrow]{borrow} a [book_1]{book} from a [library]{library}",
+      "examples": [],
+      "id": "check-out__4"
+    },
+    {
+      "def": "to [examine]{examine} someone or something in [order_1]{order} to be [certain_1]{certain} that everything is [correct_1]{correct}, [true_1]{true}, or [satisfactory]{satisfactory}",
+      "examples": [
+        "The [police_1]{police} are [check_1]{checking} the [woman]{woman} out.",
+        "I\u2019ve been [take_1]{taking} [lot_2]{lots} of [picture_1]{pictures}, [just_1]{just} to [check_1]{check} out the [camera]{camera}.",
+        "Go to the [doctor_1]{doctor} and get yourself [checked]{checked} out.",
+        "Have you [checked]{checked} out the [new]{new} [health]{health} [club_1]{club} yet?"
+      ],
+      "id": "check-out__5"
+    },
+    {
+      "def": "if [information]{information} [check_1]{checks} out, you [feel_1]{feel} that it is [true_1]{true} after [examine]{examining} it",
+      "examples": [
+        "Their [story]{story} [just_1]{just} didn\u2019t [check_1]{check} out."
+      ],
+      "id": "check-out__11"
+    }
+  ]
+}

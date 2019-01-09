@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "long [string_1]{strings} [used]{used} for [fastener]{fastening} [boot_1]{boots}",
+      "entry": "bootlaces",
+      "id": "bootlaces#bootlaces__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [metal_1]{metal} or [hard_1]{hard} [plastic_1]{plastic} [attached]{attached} to the bottom of a [shoe_1]{shoe} in [order_1]{order} to [prevent]{prevent} it from [slip_1]{slipping} on the [ground_1]{ground}",
+      "entry": "cleats",
+      "id": "cleat#cleat__1"
+    },
+    {
+      "comment": "the part [underneath]{underneath} the back of a [shoe_1]{shoe}",
+      "entry": "heels",
+      "id": "heel_1#heel_1__4"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} [fixed]{fixed} or put [inside_1]{inside} your [shoe_1]{shoe}, under your [foot_1]{foot}",
+      "entry": "insole",
+      "id": "insole#insole__1"
+    },
+    {
+      "comment": "the part of a [shoe_1]{shoe} that [fit_1]{fits} your [instep]{instep}",
+      "entry": "instep",
+      "id": "instep#instep__2"
+    },
+    {
+      "comment": "a thick [piece_1]{piece} of [string_1]{string} [used]{used} for [tying]{tying} [shoe_1]{shoes} or [boot_1]{boots}",
+      "entry": "lace",
+      "id": "lace_1#lace_1__4"
+    },
+    {
+      "comment": "a thick [string_1]{string} [used]{used} for [fastener]{fastening} a [shoe_1]{shoe} [tight_1#tight_1__40]{tightly} on your [foot_1]{foot}",
+      "entry": "shoelace",
+      "id": "shoelace#shoelace__1"
+    },
+    {
+      "comment": "a [shoelace]{shoelace}",
+      "entry": "shoestring",
+      "id": "shoestring_2#shoestring_2__1"
+    },
+    {
+      "comment": "the bottom part of your [shoe_1]{shoe} that [go_1]{goes} under your [foot_1]{foot}",
+      "entry": "sole",
+      "id": "sole_2#sole_2__3"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [cloth]{cloth} or [leather]{leather} that [men]{men} [used]{used} to [wear_1]{wear} to [cover_1]{cover} the [upper_1]{upper} part of their [shoe_1]{shoes}",
+      "entry": "spat",
+      "id": "spat_1#spat_1__2"
+    },
+    {
+      "comment": "one of the [short_1]{short} [pointed]{pointed} [piece_1]{pieces} of [metal_1]{metal} on the bottom of some [sport_1]{sports} [shoe_1]{shoes}",
+      "entry": "spikes",
+      "id": "spike_1#spike_1__2"
+    },
+    {
+      "comment": "a thin [high_1]{high} [heel_1]{heel} on a [woman]{woman}\u2019s [shoe_1]{shoe}",
+      "entry": "stiletto",
+      "id": "stiletto#stiletto__2"
+    },
+    {
+      "comment": "the part of a [shoe_1]{shoe} or [sock_1]{sock} that [cover_1]{covers} your [toe_1]{toes}",
+      "entry": "toe",
+      "id": "toe_1#toe_1__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [leather]{leather} or [metal_1]{metal} that [cover_1]{covers} the front part of a [shoe_1]{shoe} or [boot_1]{boot}",
+      "entry": "toecap",
+      "id": "toecap#toecap__1"
+    },
+    {
+      "comment": "a long thin [piece_1]{piece} of [material_1]{material} that [lie_1]{lies} under the part of a [shoe_1]{shoe} or [boot_1]{boot} where you [fasten]{fasten} it",
+      "entry": "tongue",
+      "id": "tongue_1#tongue_1__11"
+    },
+    {
+      "comment": "the part of a [shoe_1]{shoe} that [cover_1]{covers} the top and sides of your [foot_1]{foot}",
+      "entry": "upper",
+      "id": "upper_2#upper_2__2"
+    }
+  ],
+  "thesaurus": "Parts of shoes, boots and slippers",
+  "type": "Related words"
+}

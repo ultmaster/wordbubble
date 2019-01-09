@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [corncob]{corncob}",
+      "entry": "cob",
+      "id": "cob#cob__1"
+    },
+    {
+      "comment": "one of the [spot_1]{spots} on a [potato]{potato} that [new]{new} [growth]{growth} comes from",
+      "entry": "eye",
+      "id": "eye_1#eye_1__14"
+    },
+    {
+      "comment": "the [soft]{soft} part of a [fruit_1]{fruit} or [vegetable]{vegetable} that is under the [skin_1]{skin}",
+      "entry": "flesh",
+      "id": "flesh_1#flesh_1__5"
+    },
+    {
+      "comment": "one of the small parts that make up vegetables such as broccoli or cauliflower",
+      "entry": "floret",
+      "id": "floret#floret__2"
+    },
+    {
+      "comment": "the [inner_1]{inner}, [central]{central} part of something such as a [vegetable]{vegetable}",
+      "entry": "heart",
+      "id": "heart_1#heart_1__12"
+    },
+    {
+      "comment": "the [skin_1]{skin} of a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "peel",
+      "id": "peel_2#peel_2__1"
+    },
+    {
+      "comment": "[piece_1]{pieces} of [skin_1]{skin} that have been [removed]{removed} from a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "peelings",
+      "id": "peelings#peelings__1"
+    },
+    {
+      "comment": "the [inside_1]{inside} of a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "pulp",
+      "id": "pulp_1#pulp_1__1"
+    },
+    {
+      "comment": "the [outer_1]{outer} [layer_1]{layer} of a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "skin",
+      "id": "skin_1#skin_1__15"
+    },
+    {
+      "comment": "the long pointed part of a vegetable such as asparagus",
+      "entry": "spear",
+      "id": "spear_1#spear_1__2"
+    },
+    {
+      "comment": "the [leaves]{leaves} on some [vegetable]{vegetables}, for [example]{example} [onion]{onions}",
+      "entry": "top",
+      "id": "top_1#top_1__21"
+    }
+  ],
+  "thesaurus": "Parts of vegetables",
+  "type": "Related words"
+}

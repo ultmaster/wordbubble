@@ -1,0 +1,241 @@
+{
+  "entries": [
+    {
+      "comment": "a list of goods that are being brought into or sent out of a country, shown to customs officials  (=people who check whether tax should be paid on goods moving from one country to another)",
+      "entry": "bill of entry",
+      "id": "bill-of-entry#bill-of-entry__1"
+    },
+    {
+      "comment": "a [list_1]{list} of the [goods]{goods} that are being [sent]{sent} somewhere on a [ship_1]{ship}",
+      "entry": "bill of lading",
+      "id": "bill-of-lading#bill-of-lading__1"
+    },
+    {
+      "comment": "[thing]{things} that are being [sent]{sent} by [ship_1]{ship}, [airplane]{airplane}, [train_1]{train}, or [truck_1]{truck}",
+      "entry": "cargo",
+      "id": "cargo#cargo__1"
+    },
+    {
+      "comment": "[used]{used} about [ship_1]{ships}, [airplane]{airplanes}, etc. that [carry_1]{carry} [goods]{goods}",
+      "entry": "cargo",
+      "id": "cargo#cargo__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [moving]{moving} [goods]{goods} from one [place_1]{place} to another",
+      "entry": "carriage",
+      "id": "carriage#carriage__7"
+    },
+    {
+      "comment": "the [cost_1]{cost} of [moving]{moving} [goods]{goods}",
+      "entry": "carriage",
+      "id": "carriage#carriage__8"
+    },
+    {
+      "comment": "a [company]{company} that [move_1]{moves} [goods]{goods} or [people_1]{people} from one [place_1]{place} to another",
+      "entry": "carrier",
+      "id": "carrier#carrier__1"
+    },
+    {
+      "comment": "an amount of [goods]{goods} that are [deliver]{delivered}",
+      "entry": "consignment",
+      "id": "consignment#consignment__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [deliver]{delivering} [goods]{goods} to someone who has [bought]{bought} them",
+      "entry": "consignment",
+      "id": "consignment#consignment__3"
+    },
+    {
+      "comment": "[goods]{goods} that are [brought]{brought} to a [place_1]{place}",
+      "entry": "delivery",
+      "id": "delivery#delivery__6"
+    },
+    {
+      "comment": "a [raised]{raised} [area]{area} for [loading]{loading} [truck_1]{trucks} and [train_1]{trains} and [remove]{removing} [goods]{goods} from them",
+      "entry": "dock",
+      "id": "dock_1#dock_1__5"
+    },
+    {
+      "comment": "[goods]{goods} that are [carry_1]{carried} by [vehicle]{vehicles}",
+      "entry": "freight",
+      "id": "freight_1#freight_1__1"
+    },
+    {
+      "comment": "[used]{used} in the [transportation]{transportation} of [goods]{goods}",
+      "entry": "freight",
+      "id": "freight_1#freight_1__5"
+    },
+    {
+      "comment": "to [carry_1]{carry} [goods]{goods} on a [vehicle]{vehicle}",
+      "entry": "freight",
+      "id": "freight_2#freight_2__1"
+    },
+    {
+      "comment": "to [deal_1]{deal} with the [people_1]{people} or [goods]{goods} that [pass_1]{pass} through an [airport]{airport}, [port]{port}, or other [center_1]{center}",
+      "entry": "handle",
+      "id": "handle_1#handle_1__11"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to move a [particular_1]{particular} [type_1]{type} of [goods]{goods}",
+      "entry": "handler",
+      "id": "handler#handler__3"
+    },
+    {
+      "comment": "the [management]{management} or [movement]{movement} of [goods]{goods}",
+      "entry": "handling",
+      "id": "handling#handling__7"
+    },
+    {
+      "comment": "to move [goods]{goods} from one [place_1]{place} to another",
+      "entry": "haul",
+      "id": "haul_1#haul_1__5"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [carry_1]{carries} [goods]{goods} by [road]{road} or [railroad_1]{railroad}",
+      "entry": "hauler",
+      "id": "hauler#hauler__1"
+    },
+    {
+      "comment": "a [hauler]{hauler}",
+      "entry": "haulier",
+      "id": "haulier#haulier__1"
+    },
+    {
+      "comment": "the [goods]{goods} that a [vehicle]{vehicle} [carry_1]{carries}",
+      "entry": "load",
+      "id": "load_1#load_1__3"
+    },
+    {
+      "comment": "an [area]{area} from which [goods]{goods} can be [loaded]{loaded} on and off [truck_1]{trucks}, [train_1]{trains}, etc.",
+      "entry": "loading bay",
+      "id": "loading-bay#loading-bay__1"
+    },
+    {
+      "comment": "management of the activity of transporting goods to customers or to places where they are bought or sold",
+      "entry": "logistics management",
+      "id": "logistics-management#logistics-management__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [used]{used} in the [business]{business} of [buy_1]{buying} and [selling]{selling} [goods]{goods} or their [transportation]{transportation}",
+      "entry": "merchant",
+      "id": "merchant#merchant__5"
+    },
+    {
+      "comment": "to [remove]{remove} [goods]{goods} from a [container]{container} or [vehicle]{vehicle} and put them somewhere else",
+      "entry": "offload",
+      "id": "offload#offload__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [ship_1]{ship} [offload]{offloads}, the [goods]{goods} that are on it are [removed]{removed}",
+      "entry": "offload",
+      "id": "offload#offload__2"
+    },
+    {
+      "comment": "the [activity]{activity} of [put]{putting} [goods]{goods} into [container]{containers} so that they can be [sent]{sent} somewhere and [sold]{sold}",
+      "entry": "packing",
+      "id": "packing#packing__3"
+    },
+    {
+      "comment": "[carry_1]{carried} across the [ocean]{ocean} in [ship_1]{ships}",
+      "entry": "seaborne",
+      "id": "seaborne#seaborne__1"
+    },
+    {
+      "comment": "to [send_1]{send} [goods]{goods} or [people_1]{people} somewhere by [ship_1]{ship}",
+      "entry": "ship",
+      "id": "ship_2#ship_2__1"
+    },
+    {
+      "comment": "to [send_1]{send} [goods]{goods} to [customer]{customers}, or to be [sent]{sent} to [customer]{customers}, [usually]{usually} by [air_1]{air} or [land_1]{land}",
+      "entry": "ship",
+      "id": "ship_2#ship_2__3"
+    },
+    {
+      "comment": "an amount of [goods]{goods}, or a [number_1]{number} of [people_1]{people}, [carry_1]{carried} on a [ship_1]{ship}",
+      "entry": "shipload",
+      "id": "shipload#shipload__1"
+    },
+    {
+      "comment": "an amount of [goods]{goods} [carry_1]{carried} on a [ship_1]{ship}, [airplane]{airplane}, [train_1]{train}, or [truck_1]{truck}",
+      "entry": "shipment",
+      "id": "shipment#shipment__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [take_1]{taking} [goods]{goods} from one [place_1]{place} to another",
+      "entry": "shipment",
+      "id": "shipment#shipment__4"
+    },
+    {
+      "comment": "to move [goods]{goods} or [people_1]{people} [away_1]{away} from a [place_1]{place}",
+      "entry": "ship out",
+      "id": "ship-out#ship-out__1"
+    },
+    {
+      "comment": "someone who [own_2]{owns} [ship_1]{ships}, [usually]{usually} [ship_1]{ships} that [carry_1]{carry} [goods]{goods}",
+      "entry": "shipowner",
+      "id": "shipowner#shipowner__1"
+    },
+    {
+      "comment": "a [company]{company} that [arrange]{arranges} for [goods]{goods} to be [taken_1]{taken} somewhere by [ship_1]{ship}",
+      "entry": "shipper",
+      "id": "shipper#shipper__1"
+    },
+    {
+      "comment": "the [business]{business} of [carry_1]{carrying} [goods]{goods}, [especially]{especially} in a [ship_1]{ship}",
+      "entry": "shipping",
+      "id": "shipping#shipping__1"
+    },
+    {
+      "comment": "the [cost_1]{cost} of [carry_1]{carrying} [goods]{goods}, [especially]{especially} in a [ship_1]{ship}",
+      "entry": "shipping",
+      "id": "shipping#shipping__3"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [prepare]{prepares} the [legal]{legal} [document_1]{documents} that are [necessary_1]{necessary} for [goods]{goods} to be [carry_1]{carried} by [ship_1]{ship}",
+      "entry": "shipping agent",
+      "id": "shipping-agent#shipping-agent__1"
+    },
+    {
+      "comment": "the [weight_1]{weight} of an empty [truck_1]{truck} or [large_1]{large} [container]{container}, [used]{used} for [calculating]{calculating} the [weight_1]{weight} of the [goods]{goods} that it [carry_1]{carries}",
+      "entry": "tare",
+      "id": "tare#tare__1"
+    },
+    {
+      "comment": "the size of a ship, or the amount of goods that it can carry, measured in tons",
+      "entry": "tonnage",
+      "id": "tonnage#tonnage__1"
+    },
+    {
+      "comment": "the [goods]{goods} or [passenger]{passengers} that [travel_1]{travel} in [airplane]{airplanes}, [ship_1]{ships}, or [train_1]{trains}",
+      "entry": "traffic",
+      "id": "traffic_1#traffic_1__9"
+    },
+    {
+      "comment": "to be [able_1]{able} to be [move_1]{moved} long [distance_1]{distances} without being [spoiled]{spoiled} or [damage_2]{damaged}",
+      "entry": "travel well",
+      "id": "travel-well#travel-well__1"
+    },
+    {
+      "comment": "to take [goods]{goods} somewhere in a [truck_1]{truck}",
+      "entry": "truck",
+      "id": "truck_2#truck_2__1"
+    },
+    {
+      "comment": "the [job_1]{job} or [business]{business} of [carry_1]{carrying} [goods]{goods} or [animal_1]{animals} in [truck_1]{trucks}",
+      "entry": "trucking",
+      "id": "trucking#trucking__1"
+    },
+    {
+      "comment": "the [quantity]{quantity} of [goods]{goods} that a [truck_1]{truck} can [carry_1]{carry}",
+      "entry": "truckload",
+      "id": "truckload#truckload__1"
+    },
+    {
+      "comment": "to take [goods]{goods} off a [vehicle]{vehicle} such as a [truck_1]{truck} or [ship_1]{ship}",
+      "entry": "unload",
+      "id": "unload#unload__1"
+    }
+  ],
+  "thesaurus": "Cargo and freight transportation",
+  "type": "Related words"
+}

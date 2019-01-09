@@ -1,0 +1,22 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [list_1]{list} of the [food]{food} that is [available]{available} in a [restaurant]{restaurant}, caf\u00e9, etc.",
+      "examples": [
+        "We [ask_1]{asked} the [waiter]{waiter} for a menu.",
+        "There are [plenty]{plenty} of [option]{options} for [vegetarian_1]{vegetarians} on our menu."
+      ],
+      "id": "menu__1"
+    },
+    {
+      "def": "a [list_1]{list} of [choice_1]{choices} on a computer [screen_1]{screen} that [tell_1]{tells} you what you can do in a [particular_1]{particular} [program_1]{program}",
+      "examples": [
+        "a pull-down/drop-down menu",
+        "From the [edit_1]{Edit} menu, you can [select_1]{select} [cut_1]{Cut} or [copy_1]{Copy}."
+      ],
+      "id": "menu__4"
+    }
+  ],
+  "word": "menu"
+}

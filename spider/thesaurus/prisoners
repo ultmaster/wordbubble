@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "someone who has been [abduct]{abducted}",
+      "entry": "abductee",
+      "id": "abductee#abductee__1"
+    },
+    {
+      "comment": "someone [considered]{considered} an [enemy]{enemy} who has been [capture_1]{captured} and put in [prison]{prison} for [fighting]{fighting} in a war without being a [member]{member} of an [officially]{officially} [recognize]{recognized} [enemy]{enemy} [military]{military} [force_1]{force}",
+      "entry": "battlefield detainee",
+      "id": "battlefield-detainee#battlefield-detainee__1"
+    },
+    {
+      "comment": "someone who is being [kept]{kept} as a [prisoner]{prisoner}",
+      "entry": "captive",
+      "id": "captive_2#captive_2__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [prisoner]{prisoners} who are [chain_2]{chained} together while they [work_1]{work} [outside]{outside}",
+      "entry": "chain gang",
+      "id": "chain-gang#chain-gang__1"
+    },
+    {
+      "comment": "a [prisoner]{prisoner}",
+      "entry": "con",
+      "id": "con_1#con_1__3"
+    },
+    {
+      "comment": "someone who is in [prison]{prison} because they have [committed]{committed} a [crime_1]{crime}",
+      "entry": "convict",
+      "id": "convict_2#convict_2__1"
+    },
+    {
+      "comment": "someone who is [kept]{kept} in [prison]{prison}, [especially]{especially} because of their [political]{political} [activity]{activities}",
+      "entry": "detainee",
+      "id": "detainee#detainee__1"
+    },
+    {
+      "comment": "someone who [used]{used} to be in [prison]{prison}",
+      "entry": "ex-con",
+      "id": "ex-con#ex-con__1"
+    },
+    {
+      "comment": "a [person]{person} who is the [prisoner]{prisoner} of someone who [threaten]{threatens} to [kill_1]{kill} them if they do not get what they [want_1]{want}",
+      "entry": "hostage",
+      "id": "hostage#hostage__1"
+    },
+    {
+      "comment": "someone who is kept in a prison, mental hospital, or other institution",
+      "entry": "inmate",
+      "id": "inmate#inmate__1"
+    },
+    {
+      "comment": "someone who is put in a [prison]{prison} without being [officially]{officially} [accuse]{accused} of a [crime_1]{crime}, [especially]{especially} for [political]{political} [reason_1]{reasons}",
+      "entry": "internee",
+      "id": "internee#internee__1"
+    },
+    {
+      "comment": "a [prisoner]{prisoner}, [especially]{especially} someone who has [spent_1]{spent} most of their [adult_1]{adult} [life]{life} in [prison]{prison}",
+      "entry": "jailbird",
+      "id": "jailbird#jailbird__1"
+    },
+    {
+      "comment": "someone who has been [sent]{sent} to [prison]{prison} for the rest of their [life]{life}",
+      "entry": "lifer",
+      "id": "lifer#lifer__1"
+    },
+    {
+      "comment": "someone who is [sent]{sent} to [prison]{prison} by their own [government]{government} because it [does]{does} not [approve]{approve} of their [belief]{beliefs} or [action_1]{actions}",
+      "entry": "political prisoner",
+      "id": "political-prisoner#political-prisoner__1"
+    },
+    {
+      "comment": "a [prisoner]{prisoner} of war",
+      "entry": "POW",
+      "id": "pow#pow__1"
+    },
+    {
+      "comment": "someone who is in [prison]{prison} as [punishment]{punishment} for a [crime_1]{crime}",
+      "entry": "prisoner",
+      "id": "prisoner#prisoner__1"
+    },
+    {
+      "comment": "someone who is being [kept]{kept} in a [prison]{prison} during a war, or for [political]{political} [reason_1]{reasons}",
+      "entry": "prisoner",
+      "id": "prisoner#prisoner__3"
+    },
+    {
+      "comment": "someone who is [sent]{sent} to [prison]{prison} because of their [political]{political} [belief]{beliefs} or [action_1]{actions}",
+      "entry": "prisoner of conscience",
+      "id": "prisoner-of-conscience#prisoner-of-conscience__1"
+    },
+    {
+      "comment": "someone, [usually]{usually} a [soldier_1]{soldier}, who is [held]{held} as a [prisoner]{prisoner} by the [enemy]{enemy} during a war",
+      "entry": "prisoner of war",
+      "id": "prisoner-of-war#prisoner-of-war__1"
+    },
+    {
+      "comment": "a [person]{person} who is [kept]{kept} in [jail_1]{jail} before their [trial_1]{trial}",
+      "entry": "remand prisoner",
+      "id": "remand-prisoner#remand-prisoner__1"
+    },
+    {
+      "comment": "someone who is in [prison]{prison}",
+      "entry": "yardbird",
+      "id": "yardbird#yardbird__1"
+    }
+  ],
+  "thesaurus": "Prisoners",
+  "type": "Related words"
+}

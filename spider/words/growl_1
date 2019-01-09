@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [say_1]{say} something in an [unfriendly]{unfriendly} and [angry]{angry} way",
+      "examples": [
+        "\u201cI couldn\u2019t [care_1]{care} less,\u201d Ben [growl_1]{growled}."
+      ],
+      "id": "growl_1__1"
+    },
+    {
+      "def": "if an [animal_1]{animal} [growl_1]{growls}, it [make_1]{makes} a [frightening]{frightening} or [unfriendly]{unfriendly} low [noise]{noise}",
+      "examples": [
+        "The [dog_1]{dog} [growl_1]{growled} at me."
+      ],
+      "id": "growl_1__3"
+    },
+    {
+      "def": "if [thunder_1]{thunder} or a [machine_1]{machine} [growl_1]{growls}, it [make_1]{makes} a low [unpleasant]{unpleasant} [noise]{noise}",
+      "examples": [],
+      "id": "growl_1__5"
+    }
+  ],
+  "word": "growl"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [express_1]{express} something [use_1]{using} [word_1]{words}",
+      "entry": "say",
+      "id": "say_1#say_1__1"
+    },
+    {
+      "comment": "to use [word_1]{words} to [communicate]{communicate}",
+      "entry": "talk",
+      "id": "talk_1#talk_1__1"
+    },
+    {
+      "comment": "to [talk_1]{talk} to someone about something",
+      "entry": "speak",
+      "id": "speak_1#speak_1__1"
+    },
+    {
+      "comment": "to [express_1]{express} [thought_1]{thoughts}, [feeling_1]{feelings}, or [information]{information} to another [person]{person} or [animal_1]{animal}, for [example]{example} by [speak_1]{speaking} or [writing]{writing}",
+      "entry": "communicate",
+      "id": "communicate#communicate__1"
+    },
+    {
+      "comment": "to [express_1]{express} an [idea]{idea} [clearly]{clearly} and in detail.",
+      "entry": "enunciate",
+      "id": "enunciate#enunciate__2"
+    },
+    {
+      "comment": "to [speak_1]{speak} [directly_1]{directly} to someone who is with you",
+      "entry": "address",
+      "id": "address_2#address_2__6"
+    },
+    {
+      "comment": "to [say_1]{say} something",
+      "entry": "utter",
+      "id": "utter_2#utter_2__1"
+    },
+    {
+      "comment": "to [talk_1]{talk} in a way that other [people_1]{people} can [understand]{understand}",
+      "entry": "express yourself",
+      "id": "express-yourself#express-yourself__1"
+    },
+    {
+      "comment": "to [express_1]{express} something such as your [feeling_1]{feelings} in [word_1]{words}",
+      "entry": "put (something) into words",
+      "id": "put-something-into-words_2#put-something-into-words_2__1"
+    },
+    {
+      "comment": "to [express_1]{express} your [feeling_1]{feelings} or [idea]{ideas} with [word_1]{words}",
+      "entry": "verbalize",
+      "id": "verbalize#verbalize__1"
+    }
+  ],
+  "thesaurus": "General words meaning to say something",
+  "type": "Synonyms"
+}

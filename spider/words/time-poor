@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is time-[poor_1]{poor} has very [little_1]{little} [free_1]{free} time, and so even though they may have [plenty]{plenty} of [money]{money} they do not have much [leisure]{leisure} time to [spend]{spend} it",
+      "examples": [
+        "The [company]{company} [search_1]{searches}, [negotiate]{negotiates} and [renovate]{renovates} [property]{properties} on [behalf]{behalf} of time-poor [buyer]{buyers}."
+      ],
+      "id": "time-poor__1"
+    },
+    {
+      "def": "[have]{having} [little_1]{little} time to [meet_1]{meet} a [deadline]{deadline}",
+      "examples": [],
+      "id": "time-poor__3"
+    }
+  ],
+  "word": "time-poor"
+}

@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "go further",
+  "senses": [
+    {
+      "def": "to [say_1]{say} or do something more [extreme_1]{extreme}",
+      "examples": [
+        "By [send_1]{sending} Lister to [prison]{prison}, the [judge_1]{judge} went further than the [law]{law} [normally]{normally} [allow]{allows}.",
+        "Most [historian]{historians} use [archive_1]{archives} but [professor]{Professor} Bramanti has [gone_1]{gone} one [step_1]{step} further by [create]{creating} his own."
+      ],
+      "id": "go-further__1"
+    },
+    {
+      "def": "to [continue]{continue} [telling]{telling} someone something",
+      "examples": [
+        "I\u2019m [going_1]{going} to [stop_1]{stop} you before you go any further."
+      ],
+      "id": "go-further__4"
+    },
+    {
+      "def": "if you do not [want_1]{want} something to go any further, you do not [want_1]{want} anyone else to be [told]{told} about it",
+      "examples": [
+        "This is [sensitive]{sensitive} [information]{information} \u2013 please don\u2019t [let_1]{let} it go any further."
+      ],
+      "id": "go-further__6"
+    }
+  ]
+}

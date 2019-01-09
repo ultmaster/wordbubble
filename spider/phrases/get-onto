@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "get onto",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [talk_1]{talking} about a [subject_1]{subject}",
+      "examples": [
+        "[let_1]{Let}\u2019s get on to the next [item]{item} on our [agenda]{agenda}.",
+        "How [did]{did} we get onto this [subject_1]{subject}?"
+      ],
+      "id": "get-onto__1"
+    },
+    {
+      "def": "to [write]{write} or [speak_1]{speak} to someone in [order_1]{order} to [ask_1]{ask} them to do something for you",
+      "examples": [
+        "You [need_1]{need} to get onto your [landlord]{landlord} about that [leaky]{leaky} [roof_1]{roof}."
+      ],
+      "id": "get-onto__8"
+    }
+  ]
+}

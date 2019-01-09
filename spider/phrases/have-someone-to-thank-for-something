@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "have someone to thank (for something)",
+  "senses": [
+    {
+      "def": "[used]{used} in a [positive_1]{positive} way to [say_1]{say} who is [responsible]{responsible} for something [good_1]{good}",
+      "examples": [
+        "[thousand#thousand__2]{Thousands} of Australians have Dr. Chang and his [team_1]{team} to [thank]{thank} for being [alive]{alive} [today_1]{today}."
+      ],
+      "id": "have-someone-to-thank-for-something__1"
+    },
+    {
+      "def": "[used]{used} in a [negative_1]{negative} way to [say_1]{say} who you [blame_1]{blame} for something [bad_1]{bad}",
+      "examples": [
+        "I [suppose]{suppose} I have you to [thank]{thank} for this [mess_1]{mess}."
+      ],
+      "id": "have-someone-to-thank-for-something__3"
+    }
+  ]
+}

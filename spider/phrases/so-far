@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "so far",
+  "senses": [
+    {
+      "def": "until now",
+      "examples": [
+        "So [far]{far} we have [restricted]{restricted} our [attention]{attention} to the [local_1]{local} [area]{area}.",
+        "There have been 11 [death]{deaths} from TB so [far]{far}."
+      ],
+      "id": "so-far__1"
+    },
+    {
+      "def": "up to a [particular_1]{particular} [point_1]{point} or [degree]{degree}",
+      "examples": [
+        "You can only get so [far]{far} on [good_1]{good} [look_1]{looks} alone.",
+        "I can [tolerate]{tolerate} this [rude#rude__13]{rudeness} only so [far]{far} and no further."
+      ],
+      "id": "so-far__4"
+    }
+  ]
+}

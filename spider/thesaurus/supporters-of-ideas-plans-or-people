@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [support_1]{supports} a [particular_1]{particular} [idea]{idea}",
+      "entry": "supporter",
+      "id": "supporter#supporter__1"
+    },
+    {
+      "comment": "someone who [believe]{believes} what a [religion]{religion} or system of [idea]{ideas} [teach]{teaches}, or who [support_1]{supports} the [person]{person} who [established]{established} them",
+      "entry": "follower",
+      "id": "follower#follower__1"
+    },
+    {
+      "comment": "someone who [strongly]{strongly} and [publicly]{publicly} [support_1]{supports} someone or something",
+      "entry": "advocate",
+      "id": "advocate_2#advocate_2__1"
+    },
+    {
+      "comment": "a [country]{country}, [organization]{organization}, or [group_1]{group} that [organize]{organizes} and [support_1]{supports} an [activity]{activity}",
+      "entry": "sponsor",
+      "id": "sponsor_2#sponsor_2__4"
+    },
+    {
+      "comment": "someone who [publicly]{publicly} [support_1]{supports} an [idea]{idea}, [policy]{policy}, [plan_1]{plan}, etc.",
+      "entry": "proponent",
+      "id": "proponent#proponent__1"
+    },
+    {
+      "comment": "someone who [approve]{approves} of and [support_1]{supports} someone or something",
+      "entry": "sympathizer",
+      "id": "sympathizer#sympathizer__1"
+    },
+    {
+      "comment": "someone who [support_1]{supports} a [particular_1]{particular} [organization]{organization}, [political]{political} [movement]{movement}, etc., [especially]{especially} by [give_1]{giving} them [money]{money}",
+      "entry": "friend",
+      "id": "friend_1#friend_1__18"
+    },
+    {
+      "comment": "someone who [try_1]{tries} to [persuade]{persuade} other [people_1]{people} to [support_1]{support} an [idea]{idea}, [theory]{theory}, [political]{political} [plan_1]{plan}, etc.",
+      "entry": "exponent",
+      "id": "exponent#exponent__1"
+    },
+    {
+      "comment": "a [supporter]{supporter} of a [set_1]{set} of [idea]{ideas}, an [organization]{organization}, or a [person]{person}",
+      "entry": "adherent",
+      "id": "adherent#adherent__1"
+    },
+    {
+      "comment": "someone who [behave]{behaves} very [strictly]{strictly} [accord_2]{according} to an [ideology]{ideology}, and never [doubt_1]{doubts} that it is [right_1]{right}",
+      "entry": "ideologue",
+      "id": "ideologue#ideologue__1"
+    }
+  ],
+  "thesaurus": "Supporters of ideas, plans or people",
+  "type": "Synonyms"
+}

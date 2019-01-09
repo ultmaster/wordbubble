@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "get ideas",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to [believe]{believe} [thing]{things} that are not [true_1]{true}",
+      "examples": [
+        "He [start_1]{started} to get [idea]{ideas} about his [importance]{importance} to the [organization]{organization}."
+      ],
+      "id": "get-ideas__1"
+    },
+    {
+      "def": "to [plan_1]{plan} something that someone will not [like_1]{like} or [allow]{allow}",
+      "examples": [
+        "Don\u2019t get any [idea]{ideas} about [moving]{moving} in with me."
+      ],
+      "id": "get-ideas__3"
+    }
+  ]
+}

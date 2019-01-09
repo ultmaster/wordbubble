@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "I hear/I\u2019ve heard",
+  "senses": [
+    {
+      "def": "[used]{used} for [introduce]{introducing} a [subject_1]{subject} that you [want_1]{want} to [discuss]{discuss} with someone that someone else has [told]{told} you about",
+      "examples": [
+        "I [hear]{hear} you\u2019re [leave_1]{leaving} us."
+      ],
+      "id": "i-hear-i-ve-heard__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} what someone has [told]{told} you, rather than what you [know_1]{know} is [true_1]{true}",
+      "examples": [
+        "I [hear]{hear} she\u2019s as [tough_1]{tough} as [nail_1]{nails}."
+      ],
+      "id": "i-hear-i-ve-heard__3"
+    }
+  ]
+}

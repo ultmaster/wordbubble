@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "might (just) as well",
+  "senses": [
+    {
+      "def": "[used]{used} to [suggest]{suggest} [doing]{doing} something because you cannot [think_1]{think} of anything [better_1]{better} to do",
+      "examples": [
+        "We might as well [sit]{sit} down while we\u2019re [wait_1]{waiting}.",
+        "You might as well [enjoy]{enjoy} your [money]{money} while you\u2019ve [got_1]{got} it."
+      ],
+      "id": "might-just-as-well__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that it would not [make_1]{make} any [difference]{difference} if you [did]{did} something else",
+      "examples": [
+        "The [meeting]{meeting} was a [complete_1]{complete} [waste_1]{waste} of time. I might [just_1]{just} as well have [stay_1]{stayed} at [home_1]{home}."
+      ],
+      "id": "might-just-as-well__4"
+    }
+  ]
+}

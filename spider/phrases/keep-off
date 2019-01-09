@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "keep off",
+  "senses": [
+    {
+      "def": "to not [touch_1]{touch} something, or to [prevent]{prevent} something from [touching_1]{touching} something",
+      "examples": [
+        "Keep the [flies]{flies} off the [food]{food}.",
+        "Keep your [hand_1]{hands} off! It\u2019s mine."
+      ],
+      "id": "keep-off__1"
+    },
+    {
+      "def": "to not go onto a [particular_1]{particular} [area]{area} of [land_1]{land}",
+      "examples": [
+        "Keep off the [grass]{grass}.",
+        "[dog_1]{Dogs} must be [kept]{kept} off the [beach_1]{beach}."
+      ],
+      "id": "keep-off__4"
+    },
+    {
+      "def": "to [avoid]{avoid} a [particular_1]{particular} [type_1]{type} of [food]{food} or [drink_1]{drink}",
+      "examples": [
+        "I\u2019m [trying]{trying} to keep off [fatty_1]{fatty} [food]{foods}.",
+        "Keep him off [politics]{politics}, for [goodness_1]{goodness} [sake_1]{sake}."
+      ],
+      "id": "keep-off__7"
+    }
+  ]
+}

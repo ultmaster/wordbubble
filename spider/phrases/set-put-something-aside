@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "set/put something aside",
+  "senses": [
+    {
+      "def": "to [deliberately]{deliberately} not [consider]{consider} or [include]{include} something",
+      "examples": [
+        "[leave_1]{Leaving} [aside_1]{aside} the [question_1]{question} of how [young_1]{young} they are, do you [think_1]{think} the [boy_1]{boys} are [guilty]{guilty}?",
+        "They\u2019ll have to put [aside_1]{aside} their [political]{political} [difference]{differences} and find a [solution]{solution}."
+      ],
+      "id": "set-put-something-aside__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [use_1]{using}, [doing]{doing}, or [dealing]{dealing} with something",
+      "examples": [
+        "He [set_1]{set} his [pen_1]{pen} [aside_1]{aside} and read over what he had [written_1]{written}."
+      ],
+      "id": "set-put-something-aside__4"
+    },
+    {
+      "def": "to keep time, [money]{money}, [land_1]{land}, etc. for [future_1]{future} use or a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "[try_1]{Try} to [set_1]{set} [aside_1]{aside} [half]{half} an [hour]{hour} every [day]{day} for something you [really]{really} [enjoy]{enjoy} [doing]{doing}."
+      ],
+      "id": "set-put-something-aside__6"
+    }
+  ]
+}

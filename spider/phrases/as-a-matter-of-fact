@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "as a matter of fact",
+  "senses": [
+    {
+      "def": "[used]{used} when you are [going_1]{going} to give more [detail_1]{details} about something",
+      "examples": [
+        "I [haven]{haven}\u2019t been here long. As a [matter_1]{matter} of [fact]{fact}, I [just_1]{just} [arrive]{arrived} [yesterday_1]{yesterday}."
+      ],
+      "id": "as-a-matter-of-fact__1"
+    },
+    {
+      "def": "[used]{used} when you are [going_1]{going} to [disagree]{disagree} with or [correct_1]{correct} what has [just_1]{just} been [said_1]{said}",
+      "examples": [
+        "\u201cWas he in a [bad_1]{bad} [mood]{mood}?\u201d \u201cNo, as a [matter_1]{matter} of [fact]{fact}, he seemed [fairly]{fairly} [cheerful]{cheerful}.\u201d"
+      ],
+      "id": "as-a-matter-of-fact__3"
+    }
+  ]
+}

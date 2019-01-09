@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a coarse [substance]{substance} or [surface_1]{surface} [feels]{feels} rough and [hard_1]{hard}",
+      "examples": [
+        "a [jacket]{jacket} made from coarse [gray_1]{gray} [cloth]{cloth}",
+        "the coarse [outer_1]{outer} [leaves]{leaves} of the [cabbage]{cabbage}"
+      ],
+      "id": "coarse__1"
+    },
+    {
+      "def": "[consist]{consisting} of [large_1]{large} or thick [piece_1]{pieces}",
+      "examples": [
+        "coarse [sand_1]{sand}"
+      ],
+      "id": "coarse__4"
+    },
+    {
+      "def": "[rude]{rude} and [offensive_1]{offensive}",
+      "examples": [
+        "They [object_2]{objected} to his coarse [language]{language}."
+      ],
+      "id": "coarse__6"
+    }
+  ],
+  "word": "coarse"
+}

@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "not [express_1]{expressing} your [feeling_1]{feelings} or [opinion]{opinions} [honestly]{honestly}",
+      "entry": "insincere",
+      "id": "insincere#insincere__1"
+    },
+    {
+      "comment": "not sincere or [natural_1]{natural}",
+      "entry": "forced",
+      "id": "forced#forced__1"
+    },
+    {
+      "comment": "[sugary]{sugary} [talk_1]{talk} or [behavior]{behavior} is [intended_1]{intended} to please [people_1]{people} but is not sincere",
+      "entry": "sugary",
+      "id": "sugary#sugary__3"
+    },
+    {
+      "comment": "[affected]{affected} [behavior]{behavior} is not [natural_1]{natural} but is done to [impress]{impress} other [people_1]{people}",
+      "entry": "affected",
+      "id": "affected#affected__1"
+    },
+    {
+      "comment": "[artificial]{artificial} [behavior]{behavior} is not sincere",
+      "entry": "artificial",
+      "id": "artificial#artificial__10"
+    },
+    {
+      "comment": "[hollow_1]{hollow} [promise_1]{promises} or [threat]{threats} are not sincere, or are about [thing]{things} that will not [really]{really} [happen]{happen}",
+      "entry": "hollow",
+      "id": "hollow_1#hollow_1__4"
+    },
+    {
+      "comment": "not [really]{really} [honest]{honest} or sincere, and only [pretend_1]{pretending} to be",
+      "entry": "disingenuous",
+      "id": "disingenuous#disingenuous__1"
+    },
+    {
+      "comment": "[behave]{behaving} in a way that is [intended_1]{intended} to [impress]{impress} other [people_1]{people} but seems [false]{false} or too [deliberate_1]{deliberate}",
+      "entry": "pretentious",
+      "id": "pretentious#pretentious__1"
+    },
+    {
+      "comment": "[studied]{studied} [behavior]{behavior} is [plan_2]{planned} and [deliberate_1]{deliberate}, so that it often seems [false]{false}",
+      "entry": "studied",
+      "id": "studied#studied__1"
+    },
+    {
+      "comment": "not [showing]{showing} what you [really]{really} [feel_1]{feel} or [intend]{intend}",
+      "entry": "false",
+      "id": "false#false__11"
+    },
+    {
+      "comment": "too [simple]{simple} and [exaggerated]{exaggerated}, [like_1]{like} a [cartoon]{cartoon}",
+      "entry": "cartoonish",
+      "id": "cartoonish#cartoonish__1"
+    }
+  ],
+  "thesaurus": "Words used to describe people or behavior that is not sincere",
+  "type": "Synonyms"
+}

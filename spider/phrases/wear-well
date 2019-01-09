@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "wear well",
+  "senses": [
+    {
+      "def": "if a [person]{person} [wear_1]{wears} well, they [look_1]{look} [attractive]{attractive} and [healthy]{healthy} even though they are not [young_1]{young}",
+      "examples": [
+        "He was at least 50, but he\u2019d [worn_1]{worn} well."
+      ],
+      "id": "wear-well__1"
+    },
+    {
+      "def": "if something [wear_1]{wears} well, it [stay_1]{stays} in [good_1]{good} [condition_1]{condition} even after a [lot_1]{lot} of use",
+      "examples": [],
+      "id": "wear-well__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "move up",
+  "senses": [
+    {
+      "def": "to go to a [better_1]{better} [job_1]{job}, [higher_1]{higher} [level_1]{level}, etc.",
+      "examples": [
+        "Interest [rate_1]{rates} are [beginning]{beginning} to move up.",
+        "He\u2019s been [move_1]{moved} up to the [position_1]{position} of [manager]{manager}."
+      ],
+      "id": "move-up__1"
+    },
+    {
+      "def": "to [change_1]{change} your [position_1]{position} to [make_1]{make} [space_1]{space} for someone or something",
+      "examples": [
+        "Could everyone move up a [bit_1]{bit}, please?"
+      ],
+      "id": "move-up__4"
+    }
+  ]
+}

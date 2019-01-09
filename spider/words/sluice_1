@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [wash_1]{wash} something with a [flow_1]{flow} of [water_1]{water}",
+      "examples": [
+        "He [bent_1]{bent} down and [sluice_1]{sluiced} his [head_1]{head} under the [faucet]{faucet}.",
+        "The [wall_1]{walls} and [floor_1]{floors} were [sluice_1]{sluiced} down every [day]{day}."
+      ],
+      "id": "sluice_1__1"
+    },
+    {
+      "def": "if [water_1]{water} [sluice_1]{sluices} somewhere, it [flow_1]{flows} there [quickly]{quickly}",
+      "examples": [],
+      "id": "sluice_1__4"
+    }
+  ],
+  "word": "sluice"
+}

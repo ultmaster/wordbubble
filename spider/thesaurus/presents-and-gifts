@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "something that you give to someone, for [example]{example} to [celebrate]{celebrate} a [special_1]{special} [occasion_1]{occasion} such as a [birthday]{birthday}",
+      "entry": "present",
+      "id": "present_3#present_3__1"
+    },
+    {
+      "comment": "something that you give to someone as a [present_1]{present}",
+      "entry": "gift",
+      "id": "gift#gift__1"
+    },
+    {
+      "comment": "a [card_1]{card} or [present_1]{present} that you give to someone on [valentine]{Valentine}\u2019s [day]{Day}",
+      "entry": "valentine",
+      "id": "valentine#valentine__1"
+    },
+    {
+      "comment": "[money]{money} or [present_2]{presents} [given_1]{given} to a [large_1]{large} [number_1]{number} of [people_1]{people}",
+      "entry": "largesse",
+      "id": "largesse#largesse__2"
+    },
+    {
+      "comment": "a [present_1]{present} that you are not [expect]{expecting} to [receive]{receive}",
+      "entry": "surprise",
+      "id": "surprise_1#surprise_1__12"
+    },
+    {
+      "comment": "something that someone [give_1]{gives} you that you do not have to [pay_1]{pay} for",
+      "entry": "freebie",
+      "id": "freebie#freebie__1"
+    },
+    {
+      "comment": "a [present_1]{present} of [money]{money} [inside_1]{inside} a red [envelope]{envelope} [given_1]{given} to your [younger]{younger} [relative_2]{relatives} who are not [married]{married} at Chinese [new]{New} [year]{Year} or at a Chinese [wedding]{wedding}",
+      "entry": "red packet",
+      "id": "red-packet#red-packet__1"
+    },
+    {
+      "comment": "a [present_1]{present} of [money]{money}",
+      "entry": "benefaction",
+      "id": "benefaction#benefaction__1"
+    },
+    {
+      "comment": "a [present_1]{present} of [food]{food}, [clothes]{clothes}, or other [necessary_1]{necessary} [thing]{things} that you [send_1]{send} to [people_1]{people} in [need_1]{need}",
+      "entry": "care package",
+      "id": "care-package#care-package__1"
+    },
+    {
+      "comment": "[money]{money} or [property]{property} that you [legally]{legally} give to someone",
+      "entry": "settlement",
+      "id": "settlement#settlement__17"
+    },
+    {
+      "comment": "a [box_1]{box} [fill_1]{filled} with [food]{food}, [necessity]{necessities} and [gift_1]{gifts}, [sent]{sent} or [brought]{brought} by a Filipino who [lives]{lives} [abroad]{abroad} to [family_1]{family} and [friend_1]{friends} in the Philippines",
+      "entry": "balikbayan box",
+      "id": "balikbayan-box#balikbayan-box__1"
+    },
+    {
+      "comment": "a [small_1]{small} [gift_1]{gift}, [especially]{especially} of [food]{food}, that you give to [friend_1]{friends} or [relative_2]{relatives} when [return_1]{returning} from a [trip_1]{trip} [away_1]{away}",
+      "entry": "pasalubong",
+      "id": "pasalubong#pasalubong__1"
+    }
+  ],
+  "thesaurus": "Presents and gifts",
+  "type": "Synonyms"
+}

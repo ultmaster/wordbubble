@@ -1,0 +1,20 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is infected has a [disease]{disease} that can be [spread_1]{spread} from one [person]{person} to another",
+      "examples": [
+        "Keep [away_1]{away} from anyone who may be infected."
+      ],
+      "id": "infected__1"
+    },
+    {
+      "def": "[contain]{containing} [bacteria]{bacteria} or other [substance]{substances} that cause [disease]{disease}",
+      "examples": [
+        "[people_1]{People} were [continuing]{continuing} to [drink_1]{drink} infected [water_1]{water}."
+      ],
+      "id": "infected__3"
+    }
+  ],
+  "word": "infected"
+}

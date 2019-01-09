@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [expensive]{expensive} [cost_1]{costs} a [lot_1]{lot} of [money]{money}",
+      "entry": "expensive",
+      "id": "expensive#expensive__1"
+    },
+    {
+      "comment": "[used]{used} about something that is [expensive]{expensive} but of very [good_1]{good} [quality_1]{quality}",
+      "entry": "costly",
+      "id": "costly#costly__6"
+    },
+    {
+      "comment": "very [expensive]{expensive}, and therefore [available]{available} only to [people_1]{people} who have a [lot_1]{lot} of [money]{money}",
+      "entry": "exclusive",
+      "id": "exclusive_1#exclusive_1__1"
+    },
+    {
+      "comment": "very [good_1]{good} or [expensive]{expensive}",
+      "entry": "select",
+      "id": "select_2#select_2__3"
+    },
+    {
+      "comment": "very [expensive]{expensive} and [comfortable]{comfortable}",
+      "entry": "luxurious",
+      "id": "luxurious#luxurious__1"
+    },
+    {
+      "comment": "[spending]{spending} or [costing]{costing} a [lot_1]{lot} of [money]{money}, [especially]{especially} more than is [reasonable]{reasonable}",
+      "entry": "extravagant",
+      "id": "extravagant#extravagant__1"
+    },
+    {
+      "comment": "[impressive]{impressive}, [expensive]{expensive}, and of [high_1]{high} [quality_1]{quality}",
+      "entry": "sumptuous",
+      "id": "sumptuous#sumptuous__1"
+    },
+    {
+      "comment": "[expensive]{expensive}",
+      "entry": "pricey",
+      "id": "pricey#pricey__1"
+    },
+    {
+      "comment": "[costing]{costing} a [lot_1]{lot} of [money]{money}",
+      "entry": "costly",
+      "id": "costly#costly__1"
+    },
+    {
+      "comment": "very [good_1]{good} in [quality_1]{quality} and very [expensive]{expensive}",
+      "entry": "high-class",
+      "id": "high-class#high-class__1"
+    }
+  ],
+  "thesaurus": "General words for expensive",
+  "type": "Synonyms"
+}

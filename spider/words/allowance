@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an amount of [money]{money} that [parent]{parents} give a [child]{child} [regularly]{regularly}",
+      "examples": [
+        "I had to [pay_1]{pay} for the [broken_1]{broken} [window]{window} out of my allowance.",
+        "She [receive]{receives} a [monthly_1]{monthly} allowance of $500.",
+        "The [overseas_1]{overseas} [placement]{placement} [include]{includes} a [housing]{housing} allowance."
+      ],
+      "id": "allowance__1"
+    },
+    {
+      "def": "an amount of something that you are [officially]{officially} [allow]{allowed} by a [particular_1]{particular} [set_1]{set} of [rule_1]{rules} or by the [law]{law}",
+      "examples": [
+        "the [recommend]{recommended} [daily_1]{daily} allowance of [vitamin]{Vitamin} C",
+        "Your [baggage]{baggage} allowance is 75 [pound_1]{pounds}."
+      ],
+      "id": "allowance__6"
+    }
+  ],
+  "word": "allowance"
+}

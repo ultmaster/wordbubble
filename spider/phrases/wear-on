@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "wear on",
+  "senses": [
+    {
+      "def": "if time [wear_1]{wears} on, it [pass_1]{passes}",
+      "examples": [
+        "My [headache]{headache} [grew]{grew} [worse_1]{worse} as the [evening_1]{evening} [wore]{wore} on."
+      ],
+      "id": "wear-on__1"
+    },
+    {
+      "def": "if something [wear_1]{wears} on you, it is [annoying]{annoying}, and [make_1]{makes} you [tired]{tired}",
+      "examples": [
+        "Your [constant_1]{constant} [complain]{complaining} is [really]{really} [wearing]{wearing} on me."
+      ],
+      "id": "wear-on__3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "tell/see the difference",
+  "senses": [
+    {
+      "def": "to [notice_1]{notice} what is [different]{different} between [similar]{similar} [people_1]{people} or [thing]{things}",
+      "examples": [
+        "How do you [tell_1]{tell} the [difference]{difference} between the [kitten]{kittens}?"
+      ],
+      "id": "tell-see-the-difference__1"
+    },
+    {
+      "def": "to [notice_1]{notice} what has [changed]{changed} about someone or something",
+      "examples": [
+        "She [said_1]{said} she\u2019d had her [hair]{hair} [cut_1]{cut}, but I couldn\u2019t [tell_1]{tell} the [difference]{difference}."
+      ],
+      "id": "tell-see-the-difference__3"
+    }
+  ]
+}

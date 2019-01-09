@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a robust [person]{person} is [strong]{strong} and [healthy]{healthy}",
+      "examples": [
+        "a robust [economy_1]{economy}",
+        "a robust [engine]{engine}"
+      ],
+      "id": "robust__1"
+    },
+    {
+      "def": "[firm_1]{firm} and [determined]{determined}",
+      "examples": [
+        "a robust [approach_1]{approach}"
+      ],
+      "id": "robust__6"
+    },
+    {
+      "def": "robust [food]{food} or [drink_1]{drink} has a [lot_1]{lot} of [flavor_1]{flavor}",
+      "examples": [],
+      "id": "robust__8"
+    }
+  ],
+  "word": "robust"
+}

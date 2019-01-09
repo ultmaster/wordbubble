@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a place where bees are kept so that their honey can be collected",
+      "entry": "apiary",
+      "id": "apiary#apiary__1"
+    },
+    {
+      "comment": "a [glass]{glass} or [plastic_1]{plastic} [container]{container} in which [fish_1]{fish} and other [water_1]{water} [animal_1]{animals} are [kept]{kept}",
+      "entry": "aquarium",
+      "id": "aquarium#aquarium__1"
+    },
+    {
+      "comment": "a structure in which you keep bees, and from which you collect their honey",
+      "entry": "beehive",
+      "id": "beehive#beehive__1"
+    },
+    {
+      "comment": "a cage in which you keep a bird in a house",
+      "entry": "birdcage",
+      "id": "birdcage#birdcage__1"
+    },
+    {
+      "comment": "a [container]{container} made of [wire_1]{wire} or [metal_1]{metal} [bar_1]{bars} and [used]{used} for [keeping]{keeping} [bird]{birds} or [animal_1]{animals} in",
+      "entry": "cage",
+      "id": "cage#cage__1"
+    },
+    {
+      "comment": "a small house for doves or pigeons",
+      "entry": "dovecote",
+      "id": "dovecote#dovecote__1"
+    },
+    {
+      "comment": "a [glass]{glass} [bowl_1]{bowl} for [keeping]{keeping} [live_1]{live} [fish_1]{fish} as [pet_1]{pets}",
+      "entry": "fishbowl",
+      "id": "fishbowl#fishbowl__1"
+    },
+    {
+      "comment": "a round [glass]{glass} [bowl_1]{bowl} in which [people_1]{people} keep [goldfish]{goldfish} as [pet_1]{pets}",
+      "entry": "goldfish bowl",
+      "id": "goldfish-bowl#goldfish-bowl__1"
+    },
+    {
+      "comment": "a structure for keeping small animals in, especially rabbits",
+      "entry": "hutch",
+      "id": "hutch#hutch__2"
+    },
+    {
+      "comment": "a structure in which pigeons are kept",
+      "entry": "loft",
+      "id": "loft_1#loft_1__10"
+    },
+    {
+      "comment": "a very large glass or plastic container where fish and other water animals from the ocean are kept. An oceanarium is a type of aquarium.",
+      "entry": "oceanarium",
+      "id": "oceanarium#oceanarium__1"
+    },
+    {
+      "comment": "one of the small holes in a structure for pigeons to live in",
+      "entry": "pigeonhole",
+      "id": "pigeonhole_1#pigeonhole_1__2"
+    },
+    {
+      "comment": "a small wooden structure for keeping a rabbit in",
+      "entry": "rabbit hutch",
+      "id": "rabbit-hutch#rabbit-hutch__1"
+    },
+    {
+      "comment": "a [glass]{glass} [container]{container} for [fish_1]{fish}, [snake_1]{snakes}, etc.",
+      "entry": "tank",
+      "id": "tank_1#tank_1__5"
+    },
+    {
+      "comment": "a [glass]{glass} [container]{container} [used]{used} for [growing]{growing} [plant_1]{plants} or for [holding]{holding} [small_1]{small} [animal_1]{animals}, for [example]{example} [snake_1]{snakes}",
+      "entry": "terrarium",
+      "id": "terrarium#terrarium__1"
+    },
+    {
+      "comment": "a long [container]{container} that can be [fixed]{fixed} to a [vehicle]{vehicle} and [used]{used} for [moving]{moving} [heavy_1]{heavy} [object_1]{objects} or [large_1]{large} [animal_1]{animals}",
+      "entry": "trailer",
+      "id": "trailer#trailer__3"
+    },
+    {
+      "comment": "a [transparent]{transparent} [container]{container} in which [small_1]{small} [animal_1]{animals} are [kept]{kept} for [scientific]{scientific} [study_1]{study}",
+      "entry": "vivarium",
+      "id": "vivarium#vivarium__1"
+    }
+  ],
+  "thesaurus": "Containers for keeping animals",
+  "type": "Related words"
+}

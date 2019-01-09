@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [goal]{goal} that someone [want_1]{wants} to [achieve]{achieve}, or that something is [intended_1]{intended} to [achieve]{achieve}",
+      "entry": "purpose",
+      "id": "purpose#purpose__1"
+    },
+    {
+      "comment": "the [purpose]{purpose} or [influence_1]{influence} of someone or something in a [particular_1]{particular} [situation]{situation}",
+      "entry": "role",
+      "id": "role#role__1"
+    },
+    {
+      "comment": "something that you [hope_1]{hope} to [achieve]{achieve}",
+      "entry": "goal",
+      "id": "goal#goal__1"
+    },
+    {
+      "comment": "the thing that you [hope_1]{hope} to [achieve]{achieve} by [doing]{doing} something",
+      "entry": "aim",
+      "id": "aim_2#aim_2__1"
+    },
+    {
+      "comment": "a [plan_1]{plan} in your [mind_1]{mind} to do something",
+      "entry": "intention",
+      "id": "intention#intention__1"
+    },
+    {
+      "comment": "something that you [plan_1]{plan} to [achieve]{achieve}, [especially]{especially} in [business]{business} or [work_1]{work}",
+      "entry": "objective",
+      "id": "objective_1#objective_1__1"
+    },
+    {
+      "comment": "what someone [want_1]{wants} to do or how they [want_1]{want} to [behave]{behave}",
+      "entry": "way",
+      "id": "way_1#way_1__12"
+    },
+    {
+      "comment": "the [purpose]{purpose} of [doing]{doing} something",
+      "entry": "the object of the exercise",
+      "id": "the-object-of-the-exercise#the-object-of-the-exercise__1"
+    },
+    {
+      "comment": "something that you [plan_1]{plan} to [achieve]{achieve}",
+      "entry": "object",
+      "id": "object_1#object_1__5"
+    },
+    {
+      "comment": "something that you [try_1]{try} to [achieve]{achieve}",
+      "entry": "target",
+      "id": "target_1#target_1__12"
+    }
+  ],
+  "thesaurus": "Purposes and intentions",
+  "type": "Synonyms"
+}

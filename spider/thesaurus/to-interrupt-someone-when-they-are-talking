@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} or do something to [stop_1]{stop} someone when they are [speak_1]{speaking} or [concentrate_1]{concentrating} on something",
+      "entry": "interrupt",
+      "id": "interrupt#interrupt__1"
+    },
+    {
+      "comment": "to [interrupt]{interrupt} a [conversation]{conversation} so that you can [say_1]{say} something",
+      "entry": "intervene",
+      "id": "intervene#intervene__4"
+    },
+    {
+      "comment": "to [interrupt]{interrupt} when someone is [talk_1]{talking}",
+      "entry": "break in",
+      "id": "break-in_1#break-in_1__3"
+    },
+    {
+      "comment": "to [interrupt]{interrupt} a [speech]{speech} or [lecture_1]{lecture} by [shout_1]{shouting} something",
+      "entry": "shout out",
+      "id": "shout-out_1#shout-out_1__4"
+    },
+    {
+      "comment": "to [interrupt]{interrupt} someone who is [speak_1]{speaking}",
+      "entry": "cut in",
+      "id": "cut-in#cut-in__5"
+    },
+    {
+      "comment": "to [join_1]{join} a [conversation]{conversation} by [saying]{saying} something",
+      "entry": "chime in",
+      "id": "chime-in#chime-in__1"
+    },
+    {
+      "comment": "to [interrupt]{interrupt} someone while they are [talk_1]{talking}",
+      "entry": "jump in",
+      "id": "jump-in#jump-in__5"
+    },
+    {
+      "comment": "to [say_1]{say} something that [interrupt]{interrupts} someone who is [speak_1]{speaking}",
+      "entry": "put in",
+      "id": "put-in#put-in__21"
+    },
+    {
+      "comment": "to [say_1]{say} something [suddenly]{suddenly} that [interrupt]{interrupts} someone who is [speak_1]{speaking}",
+      "entry": "interject",
+      "id": "interject#interject__1"
+    },
+    {
+      "comment": "to [interrupt]{interrupt} someone who is [talk_1]{talking} so that they cannot [finish_1]{finish} what they are [saying]{saying}",
+      "entry": "cut someone short",
+      "id": "cut-someone-short#cut-someone-short__1"
+    }
+  ],
+  "thesaurus": "To interrupt someone when they are talking",
+  "type": "Synonyms"
+}

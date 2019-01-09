@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [increase_1]{increase} in the [rate_1]{rate} at which something [happen]{happens}, [change_1]{changes}, or [grow]{grows}",
+      "examples": [
+        "[economic]{Economic} [growth]{growth} [slow_2]{slowed} down [sharply]{sharply} after three [month]{months} of acceleration.",
+        "a [sharp_1]{sharp} acceleration in the [rate_1]{rate} of [inflation]{inflation}"
+      ],
+      "id": "acceleration__1"
+    },
+    {
+      "def": "the [power_1]{power} of a [vehicle]{vehicle} to [increase_1]{increase} its [speed_1]{speed}",
+      "examples": [
+        "a [sport_1]{sports} [car]{car} with [impressive]{impressive} acceleration"
+      ],
+      "id": "acceleration__4"
+    },
+    {
+      "def": "the [increase_1]{increase} in [speed_1]{speed} of a [moving]{moving} [object_1]{object}",
+      "examples": [],
+      "id": "acceleration__6"
+    }
+  ],
+  "word": "acceleration"
+}

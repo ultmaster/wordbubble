@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [warn]{warns} you of [danger]{danger}, [especially]{especially} by [making]{making} a [loud_1]{loud} [noise]{noise}",
+      "entry": "alarm",
+      "id": "alarm_1#alarm_1__1"
+    },
+    {
+      "comment": "a [bell_1]{bell} that [ring_1]{rings} to [warn]{warn} you of [danger]{danger}",
+      "entry": "alarm bell",
+      "id": "alarm-bell#alarm-bell__1"
+    },
+    {
+      "comment": "the [signal_1]{signal} or [announcement]{announcement} that [tell_1]{tells} [people_1]{people} that a [period_1]{period} of [danger]{danger} has [end_2]{ended}",
+      "entry": "the all clear",
+      "id": "the-all-clear#the-all-clear__1"
+    },
+    {
+      "comment": "a [bright_1]{bright} [light_1]{light} or fire that [shine_1]{shines} in the [dark_1]{dark} and is [used]{used} as a [signal_1]{signal} to [warn]{warn} [people_1]{people} against [danger]{danger} or to show them the way somewhere",
+      "entry": "beacon",
+      "id": "beacon#beacon__1"
+    },
+    {
+      "comment": "a [tower_1]{tower} or [floating]{floating} [object_1]{object} with a [bright_1]{bright} [light_1]{light} on it that [warn]{warns} [boat]{boats} that they are [near_1]{near} the [land_1]{land}",
+      "entry": "beacon",
+      "id": "beacon#beacon__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [loud_1]{loud} [noise]{noise} if someone [enter]{enters} a [building]{building} while it is [switch_1]{switched} on",
+      "entry": "burglar alarm",
+      "id": "burglar-alarm#burglar-alarm__1"
+    },
+    {
+      "comment": "a small piece of equipment that buzzes when you press it, used mainly for getting someone\u2019s attention",
+      "entry": "buzzer",
+      "id": "buzzer#buzzer__1"
+    },
+    {
+      "comment": "a [loud_1]{loud} [signal_1]{signal} [play_1]{played} on a [musical_1]{musical} [instrument]{instrument} to [tell_1]{tell} [people_1]{people} to do something",
+      "entry": "call",
+      "id": "call_2#call_2__11"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [loud_1]{loud} [noise]{noise} when someone [try_1]{tries} to [steal_1]{steal} your [car]{car}",
+      "entry": "car alarm",
+      "id": "car-alarm#car-alarm__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [loud_1]{loud} [noise]{noise} to [warn]{warn} [people_1]{people} that there is a fire and that they must [leave_1]{leave} the [building]{building}",
+      "entry": "fire alarm",
+      "id": "fire-alarm#fire-alarm__1"
+    },
+    {
+      "comment": "a piece of equipment that makes a loud deep sound as a warning to other ships when there is fog",
+      "entry": "foghorn",
+      "id": "foghorn#foghorn__1"
+    },
+    {
+      "comment": "a [large_1]{large} [circular_1]{circular} [metal_1]{metal} [object_1]{object} [hanging_1]{hanging} from a [frame_1]{frame}. You hit it to [make_1]{make} a [loud_1]{loud} [deep_1]{deep} [noise]{noise}.",
+      "entry": "gong",
+      "id": "gong#gong__1"
+    },
+    {
+      "comment": "a very loud electric horn or siren",
+      "entry": "klaxon",
+      "id": "klaxon#klaxon__1"
+    },
+    {
+      "comment": "an [object_1]{object} that you [press_1]{press} to [send_1]{send} a [signal_1]{signal} to someone, for [example]{example} the [police_1]{police}, to [tell_1]{tell} them that you [need_1]{need} [help_1]{help}",
+      "entry": "panic button",
+      "id": "panic-button#panic-button__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [loud_1]{loud} [sound_1]{sound}, [used]{used} for [warning]{warning} [people_1]{people}",
+      "entry": "siren",
+      "id": "siren#siren__1"
+    },
+    {
+      "comment": "a [smoke_1]{smoke} [detector]{detector}",
+      "entry": "smoke alarm",
+      "id": "smoke-alarm#smoke-alarm__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [loud_1]{loud} [noise]{noise} when there is [smoke_1]{smoke} in a [room_1]{room}, [used]{used} for [warning]{warning} [people_1]{people} that there is a fire in the [building]{building}",
+      "entry": "smoke detector",
+      "id": "smoke-detector#smoke-detector__1"
+    },
+    {
+      "comment": "a [signal_1]{signal} that [consist]{consists} of [cloud_1]{clouds} of [smoke_1]{smoke} from a fire and can be [seen]{seen} by someone [far]{far} [away_1]{away}",
+      "entry": "smoke signal",
+      "id": "smoke-signal#smoke-signal__1"
+    },
+    {
+      "comment": "a [sound_1]{sound} made by a [piece_1]{piece} of [equipment]{equipment} as a [signal_1]{signal} or [warning]{warning}",
+      "entry": "tone",
+      "id": "tone_1#tone_1__16"
+    },
+    {
+      "comment": "a [small_1]{small} [metal_1]{metal} or [plastic_1]{plastic} [object_1]{object} that you put in your [mouth_1]{mouth} and [blow_1]{blow} to [make_1]{make} a [high_1]{high} [sound_1]{sound}",
+      "entry": "whistle",
+      "id": "whistle_1#whistle_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [produce_1]{produces} a [high_1]{high} [sound_1]{sound}, [used]{used} as a [warning]{warning} or a [signal_1]{signal} on a [train_1]{train} or a [boat]{boat}, or in a [place_1]{place} such as a [factory]{factory}",
+      "entry": "whistle",
+      "id": "whistle_1#whistle_1__3"
+    },
+    {
+      "comment": "a [sound_1]{sound} made as a [signal_1]{signal} or a [warning]{warning}, [especially]{especially} on a [boat]{boat} or a [train_1]{train}, or in a [place_1]{place} such as a [factory]{factory}",
+      "entry": "whistle",
+      "id": "whistle_1#whistle_1__9"
+    }
+  ],
+  "thesaurus": "Signals and equipment used for warning people",
+  "type": "Related words"
+}

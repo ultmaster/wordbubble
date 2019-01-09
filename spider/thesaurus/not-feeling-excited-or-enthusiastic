@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "feeling impatient or dissatisfied, because you are not interested in something or because you have nothing to do. If you want to say you are extremely bored, you can say you are bored stiff/rigid/silly or bored to tears/to death",
+      "entry": "bored",
+      "id": "bored#bored__1"
+    },
+    {
+      "comment": "not [willing]{willing} or [able_1]{able} to keep still because you are [nervous]{nervous}, [bored]{bored}, or [impatient]{impatient}",
+      "entry": "restless",
+      "id": "restless#restless__1"
+    },
+    {
+      "comment": "not at all [interested]{interested} in or [enthusiastic]{enthusiastic} about anything, and not [willing]{willing} to [make_1]{make} any [effort]{effort} to [change_1]{change} [thing]{things}",
+      "entry": "apathetic",
+      "id": "apathetic#apathetic__1"
+    },
+    {
+      "comment": "not [excited]{excited} or [enthusiastic]{enthusiastic} about something",
+      "entry": "unenthusiastic",
+      "id": "unenthusiastic#unenthusiastic__1"
+    },
+    {
+      "comment": "no [long_1]{longer} [excited]{excited}, [interested]{interested}, or [enthusiastic]{enthusiastic} about anything in [life]{life}",
+      "entry": "world-weary",
+      "id": "world-weary#world-weary__1"
+    },
+    {
+      "comment": "not [excited]{excited}, [worried]{worried}, or [enthusiastic]{enthusiastic} about something that most [people_1]{people} [think_1]{think} is [exciting]{exciting}, [worrying]{worrying}, or [impressive]{impressive}, because you have done it many times before",
+      "entry": "blas\u00e9",
+      "id": "blase#blase__1"
+    },
+    {
+      "comment": "not [interested]{interested} or [excited]{excited}",
+      "entry": "uninspired",
+      "id": "uninspired#uninspired__3"
+    },
+    {
+      "comment": "[annoyed]{annoyed} or [bored]{bored} with something that you [feel_1]{feel} you have [accepted]{accepted} for too long",
+      "entry": "fed up",
+      "id": "fed-up#fed-up__1"
+    },
+    {
+      "comment": "[lacking]{lacking} interest in something, or [lacking]{lacking} [sympathy]{sympathy} with someone",
+      "entry": "indifferent",
+      "id": "indifferent#indifferent__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} as if you have no [energy]{energy} and no interest in anything",
+      "entry": "listless",
+      "id": "listless#listless__1"
+    }
+  ],
+  "thesaurus": "Not feeling excited or enthusiastic",
+  "type": "Synonyms"
+}

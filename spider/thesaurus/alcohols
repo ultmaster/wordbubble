@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to [alcohol]{alcohol} or [cause_2]{caused} by [alcohol]{alcohol}",
+      "entry": "alcoholic",
+      "id": "alcoholic_1#alcoholic_1__5"
+    },
+    {
+      "comment": "the [type_1]{type} of [alcohol]{alcohol} in [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "ethanol",
+      "id": "ethanol#ethanol__1"
+    },
+    {
+      "comment": "[ethanol]{ethanol}",
+      "entry": "ethyl alcohol",
+      "id": "ethyl-alcohol#ethyl-alcohol__1"
+    },
+    {
+      "comment": "a [poisonous]{poisonous} [type_1]{type} of [alcohol]{alcohol} that can be [used]{used} as a [fuel_1]{fuel}",
+      "entry": "methanol",
+      "id": "methanol#methanol__1"
+    },
+    {
+      "comment": "[methanol]{methanol}",
+      "entry": "methyl alcohol",
+      "id": "methyl-alcohol#methyl-alcohol__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [alcohol]{alcohol} that is [used]{used} as a [fuel_1]{fuel} and is not [appropriate_1]{appropriate} for [drinking]{drinking}",
+      "entry": "methylated spirits",
+      "id": "methylated-spirits#methylated-spirits__1"
+    }
+  ],
+  "thesaurus": "Alcohols",
+  "type": "Related words"
+}

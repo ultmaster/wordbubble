@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "(all) on your own",
+  "senses": [
+    {
+      "def": "alone",
+      "examples": [
+        "It\u2019s a [lonely]{lonely} [life]{life} for him, [living_1]{living} there all on his own.",
+        "You shouldn\u2019t be out on your own at this time of [night_1]{night}."
+      ],
+      "id": "all-on-your-own__1"
+    },
+    {
+      "def": "without any [help_1]{help}",
+      "examples": [
+        "Your [grandfather_1]{grandfather} [did]{did} it all on his own.",
+        "a [small_1]{small} [country]{country} that cannot [survive]{survive} on its own"
+      ],
+      "id": "all-on-your-own__5"
+    }
+  ]
+}

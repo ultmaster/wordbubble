@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "get over",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to [feel_1]{feel} [happy_1]{happy} or well again after something [bad_1]{bad} has [happen]{happened} to you",
+      "examples": [
+        "It can take [week]{weeks} to get over an [illness]{illness} [like_1]{like} that.",
+        "Don\u2019s [pretty_1]{pretty} [upset_1]{upset}, but he\u2019ll get over it."
+      ],
+      "id": "get-over__1"
+    },
+    {
+      "def": "to find a way to [solve]{solve} or [deal_1]{deal} with a [difficult]{difficult} [problem]{problem}",
+      "examples": [
+        "There are many [hurdle_1]{hurdles} still to get over before the [new]{new} [restaurant]{restaurant} can [open_1]{open}."
+      ],
+      "id": "get-over__5"
+    },
+    {
+      "def": "to do something or [allow]{allow} something to [happen]{happen}, because you [want_1]{want} it to be [finished]{finished} or you [want_1]{want} to [start_1]{start} something else",
+      "examples": [
+        "We [decided]{decided} to get the [vacation_1]{vacation} over before we [start_1]{started} [decorate]{decorating} the [house_1]{house}."
+      ],
+      "id": "get-over__7"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "[chosen_1]{chosen} or [happening_1]{happening} without any [particular_1]{particular} [method]{method}, [pattern_1]{pattern}, or [purpose]{purpose}",
+      "entry": "random",
+      "id": "random#random__1"
+    },
+    {
+      "comment": "not [base_2]{based} on any [particular_1]{particular} [plan_1]{plan}, or not done for any [particular_1]{particular} [reason_1]{reason}",
+      "entry": "arbitrary",
+      "id": "arbitrary#arbitrary__1"
+    },
+    {
+      "comment": "[happening_1]{happening} in a [natural_1]{natural} way without being [plan_2]{planned} or [thought_1]{thought} about",
+      "entry": "spontaneous",
+      "id": "spontaneous#spontaneous__1"
+    },
+    {
+      "comment": "[happening_1]{happening} without being [plan_2]{planned} or [intended_1]{intended}",
+      "entry": "accidental",
+      "id": "accidental#accidental__1"
+    },
+    {
+      "comment": "done without [thinking_1]{thinking}, because of a [natural_1]{natural} [tendency]{tendency} or [ability_1]{ability}",
+      "entry": "instinctive",
+      "id": "instinctive#instinctive__1"
+    },
+    {
+      "comment": "an [involuntary]{involuntary} [movement]{movement}, [sound_1]{sound}, or [reaction]{reaction} is made [suddenly]{suddenly} and in a way that you cannot [control_1]{control}",
+      "entry": "involuntary",
+      "id": "involuntary#involuntary__1"
+    },
+    {
+      "comment": "not [deliberate_1]{deliberate} or [plan_2]{planned}",
+      "entry": "unintended",
+      "id": "unintended#unintended__1"
+    },
+    {
+      "comment": "not [plan_2]{planned} or [prepared]{prepared}",
+      "entry": "impromptu",
+      "id": "impromptu#impromptu__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} by [chance_1]{chance} and not because of being [plan_2]{planned}",
+      "entry": "coincidental",
+      "id": "coincidental#coincidental__1"
+    },
+    {
+      "comment": "by [chance_1]{chance}, without being [plan_2]{planned} or [intended_1]{intended}",
+      "entry": "by accident",
+      "id": "by-accident#by-accident__1"
+    },
+    {
+      "comment": "[enjoyable]{enjoyable} and [unexpected]{unexpected} or [unplanned]{unplanned}",
+      "entry": "cheeky",
+      "id": "cheeky#cheeky__5"
+    },
+    {
+      "comment": "[chosen_1]{chosen} or [happening_1]{happening} without any [method]{method}, [pattern_1]{pattern} or [purpose]{purpose}",
+      "entry": "rando",
+      "id": "rando_2#rando_2__1"
+    }
+  ],
+  "thesaurus": "Not planned",
+  "type": "Synonyms"
+}

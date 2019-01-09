@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [team_1]{team} or [player]{player} that is [adrift]{adrift} of an [opponent]{opponent} is behind them in a [competition]{competition}",
+      "entry": "adrift",
+      "id": "adrift#adrift__4"
+    },
+    {
+      "comment": "an [award-winning]{award-winning} [product]{product}, [business]{business}, or [person]{person} has [won]{won} a [prize_1]{prize} or [prize_1]{prizes}",
+      "entry": "award-winning",
+      "id": "award-winning#award-winning__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that one [person]{person} or [team_1]{team} has a [lower_1]{lower} [score_1]{score} or is less [likely_1]{likely} to [win_1]{win} than their [opponent]{opponent}",
+      "entry": "behind",
+      "id": "behind_1#behind_1__29"
+    },
+    {
+      "comment": "a [blue-ribbon_2]{blue-ribbon} [winner]{winner} is someone who [win_1]{wins} first [prize_1]{prize} in a [competition]{competition}",
+      "entry": "blue-ribbon",
+      "id": "blue-ribbon_2#blue-ribbon_2__3"
+    },
+    {
+      "comment": "if you [win_1]{win} a [game_1]{game} or [competition]{competition} by [default_1]{default}, you [win_1]{win} because the other [person]{person} [does]{does} not [play_1]{play} or [does]{does} not [finish_1]{finish} the [game_1]{game}",
+      "entry": "by default",
+      "id": "by-default#by-default__3"
+    },
+    {
+      "comment": "[used]{used} about someone that you [intend]{intend} to [defeat_1]{defeat} or [deal_1]{deal} with [severely]{severely}",
+      "entry": "in your sights",
+      "id": "in-your-sights#in-your-sights__3"
+    },
+    {
+      "comment": "if [opponent]{opponents} are [nip_1]{nip} and [tuck_1]{tuck} in a [competition]{competition}, they both have an [equal_1]{equal} [chance_1]{chance} of [winning]{winning}",
+      "entry": "nip and tuck",
+      "id": "nip-and-tuck_2#nip-and-tuck_2__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} someone or something that has [won]{won} an [important]{important} [prize_1]{prize}",
+      "entry": "prize-winning",
+      "id": "prize-winning#prize-winning__1"
+    },
+    {
+      "comment": "[used]{used} about a [person]{person} or [group_1]{group} that [compete]{competes} against someone or something else",
+      "entry": "rival",
+      "id": "rival_2#rival_2__1"
+    },
+    {
+      "comment": "[completely]{completely} [defeat_2]{defeated} or [destroy]{destroyed}",
+      "entry": "undone",
+      "id": "undone#undone__5"
+    },
+    {
+      "comment": "[used]{used} about the [winner]{winner} of a [race_1]{race}, [competition]{competition}, or [prize_1]{prize}",
+      "entry": "winning",
+      "id": "winning#winning__4"
+    },
+    {
+      "comment": "[used]{used} about something that someone [does]{does} to [win_1]{win} a [race_1]{race}, [competition]{competition}, or [prize_1]{prize}",
+      "entry": "winning",
+      "id": "winning#winning__6"
+    },
+    {
+      "comment": "the [winningest]{winningest} [person]{person} or [animal_1]{animal} has [won]{won} the most [race_1]{races} or [competition]{competitions}",
+      "entry": "winningest",
+      "id": "winningest#winningest__1"
+    }
+  ],
+  "thesaurus": "Words used to describe participants in competitions",
+  "type": "Related words"
+}

@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "someone whose [parent]{parents} are not [married]{married} to each other. This [word_1]{word} is now [considered]{considered} to be [offensive_1]{offensive}.",
+      "entry": "bastard",
+      "id": "bastard#bastard__4"
+    },
+    {
+      "comment": "a [son]{son}",
+      "entry": "boy",
+      "id": "boy_1#boy_1__4"
+    },
+    {
+      "comment": "someone\u2019s [son]{son} or [daughter_1]{daughter} of any [age_1]{age}",
+      "entry": "child",
+      "id": "child#child__11"
+    },
+    {
+      "comment": "your [female_1]{female} [child]{child}",
+      "entry": "daughter",
+      "id": "daughter_1#daughter_1__1"
+    },
+    {
+      "comment": "someone\u2019s first [child]{child}",
+      "entry": "firstborn",
+      "id": "firstborn#firstborn__1"
+    },
+    {
+      "comment": "a [daughter_1]{daughter}",
+      "entry": "girl",
+      "id": "girl#girl__4"
+    },
+    {
+      "comment": "a [baby_1]{baby} [son]{son} or [daughter_1]{daughter}",
+      "entry": "infant son/daughter",
+      "id": "infant-son-daughter#infant-son-daughter__1"
+    },
+    {
+      "comment": "someone\u2019s [son]{sons} or [daughter_1]{daughters}",
+      "entry": "kids",
+      "id": "kid_1#kid_1__3"
+    },
+    {
+      "comment": "the [child]{child}, [daughter_1]{daughter}, [brother_1]{brother}, etc. who is between the [old]{oldest} and the [young_1]{youngest} in [age_1]{age}",
+      "entry": "middle child/daughter/brother etc.",
+      "id": "middle-child-daughter-brother-etc#middle-child-daughter-brother-etc__1"
+    },
+    {
+      "comment": "a [mama]{mama}\u2019s [boy_1]{boy}",
+      "entry": "mother\u2019s boy",
+      "id": "mother-s-boy#mother-s-boy__1"
+    },
+    {
+      "comment": "a son of your brother or sister, or a son of your husband\u2019s or wife\u2019s brother or sister. Their daughter is called your niece.",
+      "entry": "nephew",
+      "id": "nephew#nephew__1"
+    },
+    {
+      "comment": "a daughter of your brother or sister, or a daughter of your husband\u2019s or wife\u2019s brother or sister. Their son is called your nephew.",
+      "entry": "niece",
+      "id": "niece#niece__1"
+    },
+    {
+      "comment": "someone\u2019s son/daughter who is still a small child or is treated as if they are a small child",
+      "entry": "someone\u2019s little boy/girl",
+      "id": "someone-s-little-boy-girl#someone-s-little-boy-girl__1"
+    },
+    {
+      "comment": "your [male_1]{male} [child]{child}",
+      "entry": "son",
+      "id": "son#son__1"
+    }
+  ],
+  "thesaurus": "Sons and daughters and nephews and nieces",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "just now",
+  "senses": [
+    {
+      "def": "a very [short_1]{short} time [ago]{ago}",
+      "examples": [
+        "\u201cWhen [did]{did} you see him?\u201d \u201c[just_1]{Just} now, up at the [house_1]{house}.\u201d"
+      ],
+      "id": "just-now_3__1"
+    },
+    {
+      "def": "at the [present_1]{present} time",
+      "examples": [
+        "Mrs. Collins is [busy_1]{busy} [just_1]{just} now, so you\u2019ll have to [wait_1]{wait}."
+      ],
+      "id": "just-now_3__3"
+    }
+  ]
+}

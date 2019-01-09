@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "comment": "the [degree]{degree} to which a [substance]{substance} is thick, [smooth_1]{smooth}, or [firm_1]{firm}",
+      "entry": "consistency",
+      "id": "consistency#consistency__3"
+    },
+    {
+      "comment": "the [quality_1]{quality} of being [delicate]{delicate} in [appearance]{appearance}, [color_1]{color}, [taste_1]{taste}, or [smell_1]{smell}",
+      "entry": "delicacy",
+      "id": "delicacy#delicacy__7"
+    },
+    {
+      "comment": "a [particular_1]{particular} [physical_1]{physical} form that something has, [especially]{especially} when this can [change_1]{change}",
+      "entry": "state",
+      "id": "state_1#state_1__5"
+    },
+    {
+      "comment": "a form or [condition_1]{condition} that a [substance]{substance} can be in. The three [state_1]{states} of [matter_1]{matter} are [liquid_1]{liquid}, [solid_1]{solid}, or [gas_1]{gas}.",
+      "entry": "state of matter",
+      "id": "state-of-matter#state-of-matter__1"
+    }
+  ],
+  "thesaurus": "Properties of substances",
+  "type": "Related words"
+}

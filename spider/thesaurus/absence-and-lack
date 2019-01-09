@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [period_1]{period} of time when someone is not where they should be or where they [usually]{usually} are",
+      "entry": "absence",
+      "id": "absence#absence__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which you do not have any, or enough, of something that you [need_1]{need} or [want_1]{want}",
+      "entry": "lack",
+      "id": "lack_1#lack_1__1"
+    },
+    {
+      "comment": "the [state_1]{state} of not [have]{having} something [anymore]{anymore} because it has been [taken_1]{taken} from you or [destroy]{destroyed}",
+      "entry": "loss",
+      "id": "loss#loss__1"
+    },
+    {
+      "comment": "a [lack_1]{lack} of something that you [need_1]{need} or [want_1]{want}",
+      "entry": "shortage",
+      "id": "shortage#shortage__1"
+    },
+    {
+      "comment": "a [lack_1]{lack} of something that your body [need_1]{needs}",
+      "entry": "deficiency",
+      "id": "deficiency#deficiency__1"
+    },
+    {
+      "comment": "a [lack_1]{lack} of [money]{money}, [food]{food}, and other [thing]{things} someone [need_1]{needs} to [live_1]{live}",
+      "entry": "want",
+      "id": "want_2#want_2__4"
+    },
+    {
+      "comment": "a [lack_1]{lack} of something that you [need_1]{need} or [want_1]{want}, or the amount that you [lack_1]{lack}",
+      "entry": "shortfall",
+      "id": "shortfall#shortfall__1"
+    },
+    {
+      "comment": "a [lack_1]{lack} of something, [especially]{especially} [idea]{ideas} or [feeling_1]{feelings}",
+      "entry": "poverty",
+      "id": "poverty#poverty__4"
+    },
+    {
+      "comment": "a [complete_1]{complete} [lack_1]{lack} of [good_1]{good} [quality_1]{qualities}",
+      "entry": "bankruptcy",
+      "id": "bankruptcy#bankruptcy__5"
+    },
+    {
+      "comment": "a [lack_1]{lack} of a [quality_1]{quality}, [skill]{skill}, or [ability_1]{ability} that you should have",
+      "entry": "deficit",
+      "id": "deficit#deficit__4"
+    }
+  ],
+  "thesaurus": "Absence and lack",
+  "type": "Synonyms"
+}

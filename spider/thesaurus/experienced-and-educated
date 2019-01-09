@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [educated]{educated} [person]{person} has [received]{received} a [good_1]{good} [education]{education} and has a [lot_1]{lot} of [knowledge]{knowledge}",
+      "entry": "educated",
+      "id": "educated#educated__1"
+    },
+    {
+      "comment": "a [learned]{learned} [person]{person} [know_1]{knows} a [lot_1]{lot} about one or more [subject_1]{subjects}, [especially]{especially} [academic_1]{academic} [subject_1]{subjects}",
+      "entry": "learned",
+      "id": "learned#learned__1"
+    },
+    {
+      "comment": "someone who is [trained]{trained} for a [profession]{profession} or [job_1]{job} has all the [necessary_1]{necessary} [skill]{skills} and [qualification]{qualifications}",
+      "entry": "trained",
+      "id": "trained#trained__1"
+    },
+    {
+      "comment": "[knowing]{knowing} a [lot_1]{lot} about many [different]{different} [subject_1]{subjects} or about one [particular_1]{particular} [subject_1]{subject}",
+      "entry": "knowledgeable",
+      "id": "knowledgeable#knowledgeable__1"
+    },
+    {
+      "comment": "well [educated]{educated} and [interested]{interested} in art, [science]{science}, [literature]{literature}, etc. at an [advanced]{advanced} [level_1]{level}",
+      "entry": "intellectual",
+      "id": "intellectual_1#intellectual_1__8"
+    },
+    {
+      "comment": "[able_1]{able} to do something, because you have the [knowledge]{knowledge}, [skill]{skill}, or [experience_1]{experience} that is [need_1]{needed}",
+      "entry": "qualified",
+      "id": "qualified#qualified__5"
+    },
+    {
+      "comment": "[able_1]{able} to read and [write]{write}",
+      "entry": "literate",
+      "id": "literate#literate__1"
+    },
+    {
+      "comment": "someone who is well read has read many [book_1]{books} and has a [lot_1]{lot} of [knowledge]{knowledge}",
+      "entry": "well-read",
+      "id": "well-read#well-read__1"
+    },
+    {
+      "comment": "someone who is [scholarly]{scholarly} [know_1]{knows} a [lot_1]{lot} about a [particular_1]{particular} [subject_1]{subject} or [study_1]{studies} something [seriously]{seriously}",
+      "entry": "scholarly",
+      "id": "scholarly#scholarly__3"
+    },
+    {
+      "comment": "a [worldly-wise]{worldly-wise} [person]{person} has a [lot_1]{lot} of [experience_1]{experience} and [knowledge]{knowledge} of [life]{life}",
+      "entry": "worldly-wise",
+      "id": "worldly-wise#worldly-wise__1"
+    }
+  ],
+  "thesaurus": "Experienced and educated",
+  "type": "Synonyms"
+}

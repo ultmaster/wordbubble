@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[friendly_1]{friendly} and [peaceful]{peaceful}",
+      "examples": [
+        "a harmonious [environment]{environment}/[relationship]{relationship}/[society]{society}"
+      ],
+      "id": "harmonious__1"
+    },
+    {
+      "def": "harmonious [color_1]{colors} or [part_1]{parts} [combine_1]{combine} well with each other",
+      "examples": [
+        "The [different]{different} [part_1]{parts} of the [picture_1]{picture} form a harmonious whole.",
+        "a harmonious [arrangement]{arrangement} of [color_1]{colors}"
+      ],
+      "id": "harmonious__3"
+    },
+    {
+      "def": "harmonious [music]{music} [consist]{consists} of [note_1]{notes} that [combine_1]{combine} in a [pleasant]{pleasant} way",
+      "examples": [],
+      "id": "harmonious__6"
+    }
+  ],
+  "word": "harmonious"
+}

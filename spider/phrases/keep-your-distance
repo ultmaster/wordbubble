@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "keep your distance",
+  "senses": [
+    {
+      "def": "to [avoid]{avoid} [going_1]{going} [near_1]{near} someone or something",
+      "examples": [
+        "She [walk_1]{walked} up the [path]{path}, [keeping]{keeping} her [distance_1]{distance} from the [dog_1]{dogs}."
+      ],
+      "id": "keep-your-distance__1"
+    },
+    {
+      "def": "to [avoid]{avoid} becoming [friendly_1]{friendly} with someone",
+      "examples": [
+        "The [new]{new} [boss_1]{boss} was [cold_1#cold_1__17]{coldly} [professional_1]{professional}, and [kept]{kept} his [distance_1]{distance}."
+      ],
+      "id": "keep-your-distance__3"
+    }
+  ]
+}

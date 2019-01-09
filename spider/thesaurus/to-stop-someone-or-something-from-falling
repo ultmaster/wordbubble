@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} and keep [hold_1]{hold} of someone who is [fall_1]{falling}",
+      "entry": "catch",
+      "id": "catch_1#catch_1__4"
+    },
+    {
+      "comment": "to [stop_1]{stop} something from [fall_1]{falling} by [put]{putting} something under it or against it",
+      "entry": "prop up",
+      "id": "prop-up#prop-up__1"
+    },
+    {
+      "comment": "to [support_1]{support} someone or something so that they do not [fall_1]{fall} down",
+      "entry": "hold up",
+      "id": "hold-up_1#hold-up_1__3"
+    },
+    {
+      "comment": "to [hold_1]{hold} the [weight_1]{weight} of someone or of something such as a [building]{building} or [structure_1]{structure} so that they do not move or [fall_1]{fall}",
+      "entry": "support",
+      "id": "support_1#support_1__8"
+    },
+    {
+      "comment": "to [stop_1]{stop} someone who is [fall_1]{falling} from [hit_1]{hitting} the [ground_1]{ground} [directly_1]{directly}, so that they [hurt_1]{hurt} themselves less than they would have done",
+      "entry": "break someone\u2019s fall",
+      "id": "break-someone-s-fall#break-someone-s-fall__1"
+    },
+    {
+      "comment": "to get your [balance_1]{balance} again so that you do not [fall_1]{fall}",
+      "entry": "steady yourself",
+      "id": "steady-yourself#steady-yourself__1"
+    },
+    {
+      "comment": "to [support_1]{support} something such as a [wall_1]{wall} to [prevent]{prevent} it from [fall_1]{falling}",
+      "entry": "shore up",
+      "id": "shore_2#shore_2__4"
+    },
+    {
+      "comment": "to [support_1]{support} an [object_1]{object} with a [piece_1]{piece} of [wood]{wood}, [metal_1]{metal}, etc. so that it [does]{does} not [fall_1]{fall} down",
+      "entry": "brace",
+      "id": "brace_1#brace_1__11"
+    },
+    {
+      "comment": "to [support_1]{support} the [weight_1]{weight} of something",
+      "entry": "bear",
+      "id": "bear_1#bear_1__24"
+    },
+    {
+      "comment": "to [push_1]{push} your body, or a part of it, against something [solid_1]{solid} and [strong]{strong} in [order_1]{order} to [support_1]{support} yourself or to [avoid]{avoid} [fall_1]{falling}",
+      "entry": "brace",
+      "id": "brace_1#brace_1__5"
+    }
+  ],
+  "thesaurus": "To stop someone or something from falling",
+  "type": "Synonyms"
+}

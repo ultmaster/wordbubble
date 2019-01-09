@@ -1,0 +1,44 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "organic [food]{food} or [drink_1]{drink} is [produce_1]{produced} [use_1]{using} no or only a [small_1]{small} [number_1]{number} of [artificial]{artificial} [chemical_1]{chemicals} and [method]{methods}",
+      "examples": [
+        "Is this [milk_1]{milk} organic?",
+        "organic [apple]{apples}",
+        "organic [farming]{farming}/[farmer]{farmers}/[technique]{techniques}"
+      ],
+      "id": "organic__1"
+    },
+    {
+      "def": "[connected]{connected} with, [produce_1]{produced} by, or [obtain]{obtained} from [living_1]{living} [thing]{things}",
+      "examples": [
+        "organic [material_1]{material}/[waste_1]{waste}/[matter_1]{matter}"
+      ],
+      "id": "organic__6"
+    },
+    {
+      "def": "[consist]{consisting} of [different]{different} [part_1]{parts} that all [fit_1]{fit} together well",
+      "examples": [
+        "Together, these [element]{elements} [make_1]{make} an organic whole."
+      ],
+      "id": "organic__8"
+    },
+    {
+      "def": "[happening_1]{happening} or [developing]{developing} in a [natural_1]{natural} and [continuous]{continuous} [process_1]{process}",
+      "examples": [
+        "The [business]{business} has [expand]{expanded} through organic [growth]{growth}, rather than by [take_1]{taking} over other [company]{companies}."
+      ],
+      "id": "organic__10"
+    },
+    {
+      "def": "[connected]{connected} with the body\u2019s [organ]{organs}",
+      "examples": [
+        "There was some [evidence_1]{evidence} of organic [degenerate_1#degenerate_1__3]{degeneration} [cause_2]{caused} by [alcohol]{alcohol} [abuse_1]{abuse}."
+      ],
+      "id": "organic__12"
+    }
+  ],
+  "word": "organic"
+}

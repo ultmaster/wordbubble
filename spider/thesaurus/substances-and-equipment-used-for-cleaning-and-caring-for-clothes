@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "a [laundry]{laundry} [basket]{basket}",
+      "entry": "clothes basket",
+      "id": "clothes-basket#clothes-basket__1"
+    },
+    {
+      "comment": "a [frame_1]{frame} for [hanging_1]{hanging} [clothes]{clothes} on with a [hook_1]{hook} on the top",
+      "entry": "clothes hanger",
+      "id": "clothes-hanger#clothes-hanger__1"
+    },
+    {
+      "comment": "a [frame_1]{frame} with [piece_1]{pieces} of [plastic_1]{plastic} [rope_1]{rope} [used]{used} for [hanging_1]{hanging} [wet_1]{wet} [clothes]{clothes}",
+      "entry": "clothes hoist",
+      "id": "clothes-hoist#clothes-hoist__1"
+    },
+    {
+      "comment": "a [frame_1]{frame} of [plastic_1]{plastic} or [wooden]{wooden} [bar_1]{bars} on which you [hang_1]{hang} [wet_1]{wet} [clothes]{clothes} so that they can [dry_1]{dry} [inside_1]{inside} your [house_1]{house}",
+      "entry": "clotheshorse",
+      "id": "clotheshorse#clotheshorse__2"
+    },
+    {
+      "comment": "a [rope_1]{rope} on which you [hang_1]{hang} [wet_1]{wet} [clothes]{clothes} so that they can [dry_1]{dry}, [usually]{usually} [outside]{outside} your [house_1]{house}",
+      "entry": "clothesline",
+      "id": "clothesline#clothesline__1"
+    },
+    {
+      "comment": "a wooden or plastic object used for fastening wet clothes onto a clothesline",
+      "entry": "clothespin",
+      "id": "clothespin#clothespin__1"
+    },
+    {
+      "comment": "a [frame_1]{frame} [used]{used} for [hanging_1]{hanging} [clothes]{clothes} on with a [hook_1]{hook} on top",
+      "entry": "coat hanger",
+      "id": "coat-hanger#coat-hanger__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} or [powder_1]{powder} [used]{used} for [washing]{washing} [clothes]{clothes} or [dish_1]{dishes}",
+      "entry": "detergent",
+      "id": "detergent#detergent__1"
+    },
+    {
+      "comment": "a wooden stick used for washing clothes in a tub, especially in the past",
+      "entry": "dolly",
+      "id": "dolly#dolly__3"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [used]{used} for [making]{making} [clothes]{clothes} [soft]{soft} when you [wash_1]{wash} them",
+      "entry": "fabric softener",
+      "id": "fabric-softener#fabric-softener__1"
+    },
+    {
+      "comment": "a [large_1]{large} [basket]{basket} in which you keep [dirty_1]{dirty} [clothes]{clothes} until you [wash_1]{wash} them",
+      "entry": "hamper",
+      "id": "hamper_2#hamper_2__1"
+    },
+    {
+      "comment": "a [small_1]{small} [frame_1]{frame} for [hanging_1]{hanging} [clothes]{clothes} such as [jacket]{jackets} and [shirt]{shirts} on so that they keep their [shape_1]{shape}",
+      "entry": "hanger",
+      "id": "hanger#hanger__1"
+    },
+    {
+      "comment": "a [tall]{tall} [narrow_1]{narrow} [table_1]{table} that you [press_1]{press} on when you do the [ironing]{ironing}",
+      "entry": "ironing board",
+      "id": "ironing-board#ironing-board__1"
+    },
+    {
+      "comment": "a [laundry]{laundry} [hamper_1]{hamper}",
+      "entry": "laundry basket",
+      "id": "laundry-basket#laundry-basket__1"
+    },
+    {
+      "comment": "a basket used for carrying laundry",
+      "entry": "laundry basket",
+      "id": "laundry-basket#laundry-basket__2"
+    },
+    {
+      "comment": "soap, usually in the form of a powder or liquid, used for cleaning clothes. The usual British words are washing powder, washing liquid, or detergent.",
+      "entry": "laundry detergent",
+      "id": "laundry-detergent#laundry-detergent__1"
+    },
+    {
+      "comment": "a [hamper_1]{hamper} for [dirty_1]{dirty} [clothes]{clothes}",
+      "entry": "linen basket",
+      "id": "linen-basket#linen-basket__1"
+    },
+    {
+      "comment": "a [clothespin]{clothespin}",
+      "entry": "peg",
+      "id": "peg_1#peg_1__7"
+    },
+    {
+      "comment": "a [metal_1]{metal} [bar_1]{bar} [used]{used} for [hanging_1]{hanging} [clothes]{clothes} and other [thing]{things} on",
+      "entry": "rail",
+      "id": "rail_1#rail_1__4"
+    },
+    {
+      "comment": "[laundry]{laundry} [detergent]{detergent}",
+      "entry": "soap powder",
+      "id": "soap-powder#soap-powder__1"
+    },
+    {
+      "comment": "a [substance]{substance} that you [add_1]{add} to [water_1]{water} when [washing]{washing} [clothes]{clothes} to [make_1]{make} them [feel_1]{feel} [soft]{softer} when they are [dry_1]{dry}",
+      "entry": "softener",
+      "id": "softener#softener__1"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} for [making]{making} [clothes]{clothes} [stiff_1]{stiff}",
+      "entry": "starch",
+      "id": "starch#starch__1"
+    },
+    {
+      "comment": "a [board_1]{board} with a rough [metal_1]{metal} [surface_1]{surface} [used]{used} in the [past_1]{past} for [rubbing]{rubbing} [clothes]{clothes} on to [help_1]{help} [make_1]{make} them [clean_1]{clean}",
+      "entry": "washboard",
+      "id": "washboard#washboard__1"
+    },
+    {
+      "comment": "a [clothesline]{clothesline}",
+      "entry": "washing line",
+      "id": "washing-line#washing-line__1"
+    },
+    {
+      "comment": "[laundry]{laundry} [detergent]{detergent}",
+      "entry": "washing powder",
+      "id": "washing-powder#washing-powder__1"
+    }
+  ],
+  "thesaurus": "Substances and equipment used for cleaning and caring for clothes",
+  "type": "Related words"
+}

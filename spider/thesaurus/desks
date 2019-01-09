@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} with [drawers]{drawers} and a top part that [open_2]{opens} to [make_1]{make} a [writing]{writing} [table_1]{table}",
+      "entry": "bureau",
+      "id": "bureau#bureau__10"
+    },
+    {
+      "comment": "a [small_1]{small} [old-fashioned_2]{old-fashioned} [desk]{desk}",
+      "entry": "davenport",
+      "id": "davenport#davenport__2"
+    },
+    {
+      "comment": "a [table_1]{table} that you [sit]{sit} at to [write]{write} or [work_1]{work}, often with [drawers]{drawers} in it",
+      "entry": "desk",
+      "id": "desk#desk__1"
+    },
+    {
+      "comment": "a [small_1]{small} [desk]{desk} with [drawers]{drawers}",
+      "entry": "escritoire",
+      "id": "escritoire#escritoire__1"
+    },
+    {
+      "comment": "a [desk]{desk} with a [curved]{curved} [cover_1]{cover} that you can [pull_1]{pull} down and [lock_1]{lock}",
+      "entry": "roll-top desk",
+      "id": "roll-top-desk#roll-top-desk__1"
+    },
+    {
+      "comment": "a [desk]{desk} for one [person]{person} to [work_1]{work} at, [usually]{usually} with a computer",
+      "entry": "workstation",
+      "id": "workstation#workstation__1"
+    },
+    {
+      "comment": "a [table_1]{table} [used]{used} for [writing]{writing} on",
+      "entry": "writing desk",
+      "id": "writing-desk#writing-desk__1"
+    }
+  ],
+  "thesaurus": "Desks",
+  "type": "Related words"
+}

@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "comment": "the way that something [feels]{feels} when you [touch_1]{touch} it",
+      "entry": "texture",
+      "id": "texture#texture__1"
+    },
+    {
+      "comment": "the [appearance]{appearance} of a [surface_1]{surface}, for [example]{example} whether it is [smooth_1]{smooth} or rough",
+      "entry": "finish",
+      "id": "finish_2#finish_2__6"
+    },
+    {
+      "comment": "the way that something seems when you [touch_1]{touch} it or when it [touch_1]{touches} you",
+      "entry": "feel",
+      "id": "feel_2#feel_2__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} the way that something [feels]{feels}",
+      "entry": "to the touch",
+      "id": "to-the-touch#to-the-touch__1"
+    }
+  ],
+  "thesaurus": "General words for texture",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [substance]{substance} that [make_1]{makes} something [dirty_1]{dirty}",
+      "entry": "dirt",
+      "id": "dirt#dirt__4"
+    },
+    {
+      "comment": "very [small_1]{small} [piece_1]{pieces} of [dirt]{dirt} that [cover_1]{cover} [surface_1]{surfaces} [inside_1]{inside} [building]{buildings} [like_1]{like} a [powder_1]{powder}",
+      "entry": "dust",
+      "id": "dust_1#dust_1__1"
+    },
+    {
+      "comment": "thick [dirt]{dirt} that [form_1]{forms} on [surface_1]{surfaces}",
+      "entry": "grime",
+      "id": "grime#grime__1"
+    },
+    {
+      "comment": "[dirt]{dirt} that is [especially]{especially} [unpleasant]{unpleasant}, [usually]{usually} because there is a [lot_1]{lot} of it",
+      "entry": "filth",
+      "id": "filth#filth__2"
+    },
+    {
+      "comment": "[dirt]{dirt} that [make_1]{makes} a [mark_1]{mark} on something",
+      "entry": "smut",
+      "id": "smut#smut__2"
+    },
+    {
+      "comment": "a [layer_1]{layer} of a [dirty_1]{dirty} or [unpleasant]{unpleasant} [substance]{substance} that [form_1]{forms} on the [surface_1]{surface} of a [liquid_1]{liquid}",
+      "entry": "scum",
+      "id": "scum#scum__3"
+    },
+    {
+      "comment": "[darkness]{darkness}, [dirt]{dirt}, or [bad_1]{bad} [light_1]{light} that it is [difficult]{difficult} to see through",
+      "entry": "murk",
+      "id": "murk#murk__1"
+    },
+    {
+      "comment": "[dirt]{dirt}, or an [unpleasant]{unpleasant} [substance]{substance}",
+      "entry": "muck",
+      "id": "muck_1#muck_1__1"
+    },
+    {
+      "comment": "[dirt]{dirt} and [lack_1]{lack} of [order_1]{order}",
+      "entry": "grunge",
+      "id": "grunge#grunge__3"
+    },
+    {
+      "comment": "something that has been [accidentally]{accidentally} [drop_1]{dropped} or [careless#careless__13]{carelessly} [left_1]{left}, so that it [make_1]{makes} a [place_1]{place} [look_1]{look} [dirty_1]{dirty}",
+      "entry": "mess",
+      "id": "mess_1#mess_1__5"
+    }
+  ],
+  "thesaurus": "Dirt",
+  "type": "Synonyms"
+}

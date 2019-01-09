@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [idea]{idea} about what a [situation]{situation} will be [like_1]{like} in the [future_1]{future}",
+      "examples": [
+        "The [general_1]{general} outlook is much [better_1]{better} than it was last [year]{year}.",
+        "The outlook for the [economy_1]{economy} is still [uncertain]{uncertain}."
+      ],
+      "id": "outlook__1"
+    },
+    {
+      "def": "your [general_1]{general} [attitude]{attitude} toward [thing]{things}",
+      "examples": [
+        "The [course_1]{course} should [suit_1]{suit} both her [ability_1]{ability} and outlook.",
+        "They [share_1]{shared} the same [kind_1]{kind} of outlook on [life]{life}."
+      ],
+      "id": "outlook__4"
+    },
+    {
+      "def": "the [view_1]{view} from a [particular_1]{particular} [place_1]{place}",
+      "examples": [],
+      "id": "outlook__7"
+    }
+  ],
+  "word": "outlook"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go along with",
+  "senses": [
+    {
+      "def": "to [agree]{agree} with someone or something",
+      "examples": [
+        "I [think_1]{think} Alice\u2019s [point_1]{point} [go_1]{goes} along with what Tim was [saying]{saying}."
+      ],
+      "id": "go-along-with__1"
+    },
+    {
+      "def": "to [agree]{agree} to do something together with other [people_1]{people}",
+      "examples": [
+        "They describe him as a [weak]{weak} man who went along with the [scheme_1]{scheme} out of [fear_1]{fear}."
+      ],
+      "id": "go-along-with__3"
+    }
+  ]
+}

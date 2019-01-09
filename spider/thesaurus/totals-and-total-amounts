@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the amount that you get when you [add_1]{add} several [number_1]{numbers} or [thing]{things} together",
+      "entry": "total",
+      "id": "total_2#total_2__1"
+    },
+    {
+      "comment": "a [final_1]{final} [total_1]{total} of all the [amount_1]{amounts} or [total_2]{totals} that must be [added]{added} together",
+      "entry": "grand total",
+      "id": "grand-total#grand-total__1"
+    },
+    {
+      "comment": "the whole amount of something, [especially]{especially} when it is not very much",
+      "entry": "the sum total",
+      "id": "the-sum-total#the-sum-total__1"
+    },
+    {
+      "comment": "a [total_1]{total} amount that has [new]{new} [amount_1]{amounts} [added]{added} to it [regularly]{regularly}",
+      "entry": "running total",
+      "id": "running-total#running-total__1"
+    },
+    {
+      "comment": "the [total_1]{total} [number_1]{number} of [people_1]{people} or [thing]{things} [count_1]{counted}",
+      "entry": "count",
+      "id": "count_2#count_2__5"
+    },
+    {
+      "comment": "the [total_1]{total} of several [thing]{things} or [number_1]{numbers}",
+      "entry": "aggregate",
+      "id": "aggregate_2#aggregate_2__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [complete_1]{complete} or whole",
+      "entry": "totality",
+      "id": "totality#totality__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [add_1]{adding} [thing]{things} together, or the [total_1]{total} amount [added]{added} together",
+      "entry": "summation",
+      "id": "summation#summation__3"
+    },
+    {
+      "comment": "the [total_1]{total} [number_1]{number} or amount of something",
+      "entry": "totality",
+      "id": "totality#totality__2"
+    }
+  ],
+  "thesaurus": "Totals and total amounts",
+  "type": "Synonyms"
+}

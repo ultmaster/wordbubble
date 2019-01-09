@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} of [put]{putting}, [use_1]{using}, or [mix_1]{mixing} [thing]{things} together",
+      "entry": "combination",
+      "id": "combination#combination__5"
+    },
+    {
+      "comment": "the [process_1]{process} of [combine_1]{combining} with other [thing]{things} in a [single_1]{single} [large_1]{larger} [unit]{unit} or system",
+      "entry": "integration",
+      "id": "integration#integration__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [building]{building} something by [put]{putting} all its [part_1]{parts} together",
+      "entry": "assembly",
+      "id": "assembly#assembly__18"
+    },
+    {
+      "comment": "the [process_1]{process} of [join_1]{joining} two [thing]{things}",
+      "entry": "connection",
+      "id": "connection#connection__13"
+    },
+    {
+      "comment": "the [process_1]{process} of [fix_1]{fixing} one thing to another",
+      "entry": "attachment",
+      "id": "attachment#attachment__10"
+    },
+    {
+      "comment": "the [process_1]{process} of [join_1]{joining} [thing]{things} or [people_1]{people} together",
+      "entry": "union",
+      "id": "union#union__15"
+    }
+  ],
+  "thesaurus": "The process of joining or fastening things",
+  "type": "Synonyms"
+}

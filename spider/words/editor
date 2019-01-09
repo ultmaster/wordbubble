@@ -1,0 +1,28 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to be in [charge_1]{charge} of a [newspaper]{newspaper} or [magazine]{magazine}",
+      "examples": [
+        "the editor of the Los Angeles Times",
+        "the [political]{political}/[sport_1]{sports}/[fashion_1]{fashion} editor",
+        "CNN\u2019s Tokyo editor"
+      ],
+      "id": "editor__1"
+    },
+    {
+      "def": "someone whose [job_1]{job} is to [edit_1]{edit} [book_1]{books}, [document_1]{documents}, or [movie]{movies}",
+      "examples": [
+        "She [work_1]{worked} as a [script_1]{script} editor for [year]{years}.",
+        "the editor of the four-volume History of Literature"
+      ],
+      "id": "editor__6"
+    },
+    {
+      "def": "a computer [program_1]{program} [used]{used} for [writing]{writing} or [edit_1]{editing} [document_1]{documents}, [file_1]{files}, or [program_1]{programs}",
+      "examples": [],
+      "id": "editor__11"
+    }
+  ],
+  "word": "editor"
+}

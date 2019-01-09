@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[money]{money} [spent_1]{spent} by a [government]{government}, [organization]{organization}, or [person]{person}",
+      "examples": [
+        "[expenditure]{Expenditure} should [ideally]{ideally} not [exceed]{exceed} [income]{income}.",
+        "[government]{government}/[public_1]{public} expenditure",
+        "[capital_1]{capital} expenditure",
+        "The [budget_1]{budget} will [certainly]{certainly} [include]{include} [increased]{increased} expenditure on [education]{education}."
+      ],
+      "id": "expenditure__1"
+    },
+    {
+      "def": "the use of time, [money]{money}, [energy]{energy}, etc. [doing]{doing} something",
+      "examples": [
+        "It is [hard_1]{hard} to see why it is [worth_1]{worth} the expenditure of [effort]{effort} [involved]{involved}."
+      ],
+      "id": "expenditure__6"
+    }
+  ],
+  "word": "expenditure"
+}

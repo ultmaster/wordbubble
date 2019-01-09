@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "watch it",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone to be [careful]{careful}",
+      "examples": [
+        "[watch_1]{Watch} it! You [nearly]{nearly} [knock_1]{knocked} me down!"
+      ],
+      "id": "watch-it__1"
+    },
+    {
+      "def": "[used]{used} for [threatening]{threatening} someone",
+      "examples": [
+        "I can [make_1]{make} [trouble_1]{trouble} for you, so [watch_1]{watch} it."
+      ],
+      "id": "watch-it__3"
+    }
+  ]
+}

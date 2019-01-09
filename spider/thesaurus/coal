@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [type_1]{type} of very [hard_1]{hard} [coal]{coal}",
+      "entry": "anthracite",
+      "id": "anthracite#anthracite__1"
+    },
+    {
+      "comment": "a lump of coal dust that has been pressed together, used for example as fuel for barbecues",
+      "entry": "briquette",
+      "id": "briquette#briquette__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [black_1]{black} [substance]{substance} that is [dug]{dug} from the [ground_1]{ground} and [burn_1]{burned} as [fuel_1]{fuel} to [provide]{provide} [heat_1]{heat}",
+      "entry": "coal",
+      "id": "coal#coal__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [coal]{coal}, [especially]{especially} when it is [burning]{burning}",
+      "entry": "coal",
+      "id": "coal#coal__8"
+    },
+    {
+      "comment": "a [solid_1]{solid} [black_1]{black} [substance]{substance} [similar]{similar} to [coal]{coal} that [people_1]{people} [burn_1]{burn} to [produce_1]{produce} [heat_1]{heat}",
+      "entry": "coke",
+      "id": "coke#coke__3"
+    },
+    {
+      "comment": "a [soft]{soft} [dark_1]{dark} [brown_1]{brown} [type_1]{type} of [coal]{coal}",
+      "entry": "lignite",
+      "id": "lignite#lignite__1"
+    },
+    {
+      "comment": "[produce_1]{producing} [little_1]{little} or no [smoke_1]{smoke}",
+      "entry": "smokeless",
+      "id": "smokeless#smokeless__1"
+    }
+  ],
+  "thesaurus": "Coal",
+  "type": "Related words"
+}

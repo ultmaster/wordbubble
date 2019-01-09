@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [showing]{showing} [strong]{strong} [feeling_1]{feelings} or [opinion]{opinions} in the way that you [speak_1]{speak} or [behave]{behave}",
+      "entry": "neutral",
+      "id": "neutral_1#neutral_1__10"
+    },
+    {
+      "comment": "not [willing]{willing} or ready to [support_1]{support} an [idea]{idea}, [group_1]{group}, or [person]{person}",
+      "entry": "uncommitted",
+      "id": "uncommitted#uncommitted__1"
+    },
+    {
+      "comment": "not [connected]{connected} to or [influence_2]{influenced} by one [particular_1]{particular} [person]{person} or [group_1]{group}",
+      "entry": "impartial",
+      "id": "impartial#impartial__1"
+    },
+    {
+      "comment": "not [interested]{interested} in [politics]{politics} or [political]{political} [issue_1]{issues}",
+      "entry": "apolitical",
+      "id": "apolitical#apolitical__1"
+    },
+    {
+      "comment": "in the [position_1]{position} of not [have]{having} a [particular_1]{particular} [opinion]{opinion} but not [have]{having} the [opposite_1]{opposite} [opinion]{opinion} either",
+      "entry": "(somewhere) in the middle",
+      "id": "somewhere-in-the-middle#somewhere-in-the-middle__1"
+    },
+    {
+      "comment": "not [supporting]{supporting} a [particular_1]{particular} side in an [argument]{argument} or [disagreement]{disagreement}",
+      "entry": "neutral",
+      "id": "neutral_1#neutral_1__8"
+    },
+    {
+      "comment": "[middle-of-the-road]{middle-of-the-road} [opinion]{opinions}, [attitude]{attitudes}, [style_1]{styles}, etc. are not [extreme_1]{extreme}",
+      "entry": "middle-of-the-road",
+      "id": "middle-of-the-road#middle-of-the-road__1"
+    },
+    {
+      "comment": "not [supporting]{supporting} any [political]{political} [party_1]{party}",
+      "entry": "nonpartisan",
+      "id": "nonpartisan#nonpartisan__1"
+    },
+    {
+      "comment": "[easily]{easily} [influence_2]{influenced} by other [people_1]{people}",
+      "entry": "suggestible",
+      "id": "suggestible#suggestible__1"
+    },
+    {
+      "comment": "to [refuse_1]{refuse} to [support_1]{support} either side in an [argument]{argument}",
+      "entry": "sit/be on the fence",
+      "id": "sit-be-on-the-fence#sit-be-on-the-fence__1"
+    }
+  ],
+  "thesaurus": "Not having strong opinions or supporting a particular opinion or idea",
+  "type": "Synonyms"
+}

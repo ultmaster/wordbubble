@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [doctor_1]{doctor} [prescribe]{prescribes} a [drug_1]{drug} or [treatment]{treatment}, they [say_1]{say} you should have it",
+      "examples": [
+        "The [drug_1]{drug} should not be [taken_1]{taken} [unless]{unless} [prescribed]{prescribed} by a [doctor_1]{doctor}.",
+        "He was [prescribed]{prescribed} a [course_1]{course} of [antibiotic]{antibiotics}.",
+        "This [drug_1]{drug} is one of the most [commonly]{commonly} [prescribed]{prescribed} for [arthritis]{arthritis}."
+      ],
+      "id": "prescribe__1"
+    },
+    {
+      "def": "to [state_1]{state} [officially]{officially} what should be done in a [particular_1]{particular} [situation]{situation}",
+      "examples": [
+        "All the [condition_1]{conditions} [prescribed]{prescribed} by [law]{law} have been [comply]{complied} with."
+      ],
+      "id": "prescribe__5"
+    }
+  ],
+  "word": "prescribe"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [structure_1]{structure} [like_1]{like} a [seat_1]{seat} over a hole where you get [rid_1]{rid} of [waste_1]{waste} from your body",
+      "entry": "toilet",
+      "id": "toilet#toilet__1"
+    },
+    {
+      "comment": "a [toilet]{toilet}",
+      "entry": "WC",
+      "id": "wc#wc__1"
+    },
+    {
+      "comment": "a [toilet]{toilet}",
+      "entry": "the john",
+      "id": "john#john__1"
+    },
+    {
+      "comment": "a [toilet]{toilet}",
+      "entry": "lavatory",
+      "id": "lavatory#lavatory__2"
+    },
+    {
+      "comment": "a [toilet]{toilet}",
+      "entry": "water closet",
+      "id": "water-closet#water-closet__1"
+    },
+    {
+      "comment": "a [toilet]{toilet} [outside]{outside}, for [example]{example} in a [military]{military} [camp_1]{camp}",
+      "entry": "latrine",
+      "id": "latrine#latrine__1"
+    },
+    {
+      "comment": "a [toilet]{toilet} [fixed]{fixed} on a [wall_1]{wall} for [men]{men} to use in a [public_1]{public} [building]{building}, or a [room_1]{room} [contain]{containing} several [toilet]{toilets} of this [type_1]{type}",
+      "entry": "urinal",
+      "id": "urinal#urinal__1"
+    },
+    {
+      "comment": "a [temporary]{temporary} [toilet]{toilet} [inside_1]{inside} a [small_1]{small} [building]{building} that can be [easily]{easily} [move_1]{moved} from [place_1]{place} to [place_1]{place}",
+      "entry": "porta potty",
+      "id": "porta-potty#porta-potty__1"
+    },
+    {
+      "comment": "a [seat_1]{seat} with a [container]{container} below it, [used]{used} as a [toilet]{toilet}",
+      "entry": "commode",
+      "id": "commode#commode__1"
+    },
+    {
+      "comment": "a [polite]{polite} way of [saying]{saying} \u201c[bathroom]{bathroom}\u201d or \u201c[toilet]{toilet}\u201d",
+      "entry": "facilities",
+      "id": "facility#facility__5"
+    }
+  ],
+  "thesaurus": "The toilet",
+  "type": "Synonyms"
+}

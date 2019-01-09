@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "if you [sell_1]{sell} something at [cost_1]{cost}, you [sell_1]{sell} it for the same amount that you [spent_1]{spent} when you made it or [bought]{bought} it",
+      "entry": "at cost",
+      "id": "at-cost#at-cost__1"
+    },
+    {
+      "comment": "[buy_1]{buy} one get one [free_1]{free}: the [practice_1]{practice} of [give_1]{giving} [customer]{customers} an [extra_1]{extra} [product]{product} [free_1]{free} each time they [buy_1]{buy} one [product]{product}",
+      "entry": "bogof",
+      "id": "bogof#bogof__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you [pay_1]{pay} an amount of [money]{money} [immediately]{immediately} when you [buy_1]{buy} something and will [pay_1]{pay} the rest [later_1]{later}",
+      "entry": "down",
+      "id": "down_1#down_1__83"
+    },
+    {
+      "comment": "the [opportunity]{opportunity} to [buy_1]{buy} something before it is [offer_1]{offered} to anyone else",
+      "entry": "first refusal",
+      "id": "first-refusal#first-refusal__1"
+    },
+    {
+      "comment": "a [method]{method} of [selling]{selling} in which the [basic_1]{basic} [product]{product} is [free_1]{free}, but [customer]{customers} [pay_1]{pay} for [extra_1]{extra} [feature_1]{features}",
+      "entry": "freemium",
+      "id": "freemium#freemium__1"
+    },
+    {
+      "comment": "a way of [buy_1]{buying} [goods]{goods} in which you [order_1]{order} them by [mail_1]{mail}, [telephone_1]{telephone}, or the [internet]{Internet} and they are [mail_2]{mailed} to you",
+      "entry": "mail order",
+      "id": "mail-order#mail-order__1"
+    },
+    {
+      "comment": "[available]{available} to [buy_1]{buy} without being [ordered]{ordered} or [design_2]{designed} for a [particular_1]{particular} [customer]{customer}",
+      "entry": "off the shelf",
+      "id": "off-the-shelf_2#off-the-shelf_2__1"
+    },
+    {
+      "comment": "if you [buy_1]{buy} something on [approval]{approval}, you can [send_1]{send} it back within a [particular_1]{particular} time if you are not [satisfied]{satisfied} with it",
+      "entry": "on approval",
+      "id": "on-approval#on-approval__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people} can [buy_1]{buy} and [sell_1]{sell} [thing]{things} at a [price_1]{price} that they [agree]{agree} on because there are no [official_1]{official} [rule_1]{rules} about [price_1]{prices}",
+      "entry": "open market",
+      "id": "open-market#open-market__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [sale]{sale} of [goods]{goods} [directly_1]{directly} to the [public_1]{public} for their own use",
+      "entry": "retail",
+      "id": "retail_1#retail_1__1"
+    },
+    {
+      "comment": "if you [buy_1]{buy} or [accept]{accept} something [sight_1]{sight} [unseen_1]{unseen}, you do not see it first",
+      "entry": "sight unseen",
+      "id": "sight-unseen#sight-unseen__1"
+    },
+    {
+      "comment": "a system of [pay_1]{paying} for [small_1]{small} [purchase_1]{purchases} by [moving]{moving} a [credit_1]{credit} [card_1]{card} or [mobile_1]{mobile} [device]{device} in front of a [special_1]{special} [machine_1]{machine} which [automatically]{automatically} [read_1]{reads} the [information]{information}",
+      "entry": "wave and pay",
+      "id": "wave-and-pay#wave-and-pay__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [business]{business} of [selling]{selling} [large_1]{large} [quantity]{quantities} of [goods]{goods}, [especially]{especially} to [people_1]{people} who are [going_1]{going} to [sell_1]{sell} them in a [store_1]{store}",
+      "entry": "wholesale",
+      "id": "wholesale_1#wholesale_1__1"
+    },
+    {
+      "comment": "if you [sell_1]{sell} [goods]{goods} [wholesale_1]{wholesale}, you [sell_1]{sell} them in [large_1]{large} [quantity]{quantities}, [especially]{especially} to [people_1]{people} who are [going_1]{going} to [sell_1]{sell} them in a [store_1]{store}",
+      "entry": "wholesale",
+      "id": "wholesale_2#wholesale_2__1"
+    }
+  ],
+  "thesaurus": "Describing ways of buying and selling",
+  "type": "Related words"
+}

@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "per head",
+  "senses": [
+    {
+      "def": "for each [person]{person}",
+      "examples": [
+        "[ticket_1]{Tickets} to the [concert]{concert} are $50 per [head_1]{head}!"
+      ],
+      "id": "per-head__1"
+    }
+  ]
+}

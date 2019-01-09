@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "made of brass",
+      "entry": "brazen",
+      "id": "brazen_1#brazen_1__4"
+    },
+    {
+      "comment": "made of [bronze_1]{bronze}",
+      "entry": "bronze",
+      "id": "bronze_2#bronze_2__1"
+    },
+    {
+      "comment": "made of [cast_1]{cast} [iron_1]{iron}",
+      "entry": "cast-iron",
+      "id": "cast-iron_2#cast-iron_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [contain]{containing} [iron_1]{iron}",
+      "entry": "ferrous",
+      "id": "ferrous#ferrous__1"
+    },
+    {
+      "comment": "made of [gold_1]{gold}",
+      "entry": "gold",
+      "id": "gold_2#gold_2__4"
+    },
+    {
+      "comment": "made of [gold_1]{gold}",
+      "entry": "golden",
+      "id": "golden#golden__4"
+    },
+    {
+      "comment": "made of [iron_1]{iron}",
+      "entry": "iron",
+      "id": "iron_3#iron_3__1"
+    },
+    {
+      "comment": "containing lead",
+      "entry": "leaded",
+      "id": "leaded#leaded__1"
+    },
+    {
+      "comment": "made from or containing lead",
+      "entry": "leaden",
+      "id": "leaden#leaden__3"
+    },
+    {
+      "comment": "made from [platinum_1]{platinum}",
+      "entry": "platinum",
+      "id": "platinum_2#platinum_2__1"
+    },
+    {
+      "comment": "made of [silver_1]{silver}",
+      "entry": "silver",
+      "id": "silver_2#silver_2__1"
+    },
+    {
+      "comment": "made of [stainless]{stainless} [steel_1]{steel}",
+      "entry": "stainless",
+      "id": "stainless#stainless__1"
+    },
+    {
+      "comment": "made of [steel_1]{steel}, or [relate]{relating} to [steel_1]{steel}",
+      "entry": "steel",
+      "id": "steel_1#steel_1__3"
+    },
+    {
+      "comment": "made of [tin_1]{tin}",
+      "entry": "tin",
+      "id": "tin_2#tin_2__1"
+    },
+    {
+      "comment": "made from [wire_1]{wire}",
+      "entry": "wire",
+      "id": "wire_1#wire_1__6"
+    }
+  ],
+  "thesaurus": "Made of a particular metal",
+  "type": "Related words"
+}

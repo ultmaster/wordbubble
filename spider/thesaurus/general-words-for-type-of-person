@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [person]{person} who is very [unusual]{unusual} or [successful]{successful} and not [like_1]{like} others in the same [group_1]{group}",
+      "entry": "outlier",
+      "id": "outlier#outlier__3"
+    },
+    {
+      "comment": "a [person]{person} who has a [quality_1]{quality} that [make_1]{makes} them [unusual]{unusual} or [different]{different} from other [people_1]{people}",
+      "entry": "individual",
+      "id": "individual_2#individual_2__6"
+    },
+    {
+      "comment": "someone with [special_1]{special} [quality_1]{qualities} that [make_1]{make} them [different]{different} from most [people_1]{people} and [interesting]{interesting} to [know_1]{know}",
+      "entry": "character",
+      "id": "character#character__20"
+    },
+    {
+      "comment": "someone who has a [combination]{combination} of several [different]{different} [quality_1]{qualities}",
+      "entry": "mixture",
+      "id": "mixture#mixture__5"
+    },
+    {
+      "comment": "someone who [think_1]{thinks} or [behave]{behaves} in an [unusual]{unusual} way and is [interesting]{interesting} or [entertaining]{entertaining}",
+      "entry": "original",
+      "id": "original_2#original_2__6"
+    },
+    {
+      "comment": "someone with [particular_1]{particular} [interest_1]{interests} or [quality_1]{qualities}",
+      "entry": "type",
+      "id": "type_1#type_1__10"
+    },
+    {
+      "comment": "a [type_1]{type} of [person]{person}",
+      "entry": "variety",
+      "id": "variety#variety__13"
+    },
+    {
+      "comment": "a [person]{person} who has [particular_1]{particular} [attitude]{attitudes} or ways of [behave]{behaving} because of the [place_1]{place} or time that they [live_1]{live} in, or the [experience_1]{experiences} they have had",
+      "entry": "product",
+      "id": "product#product__9"
+    },
+    {
+      "comment": "a [type_1]{type} of [person]{person} [describe]{described} [accord_2]{according} to a [particular_1]{particular} [aspect]{aspect} of their [character]{character}",
+      "entry": "species",
+      "id": "species#species__5"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a [person]{person} of a [particular_1]{particular} [type_1]{type}",
+      "entry": "dog",
+      "id": "dog_1#dog_1__7"
+    }
+  ],
+  "thesaurus": "General words for type of person",
+  "type": "Synonyms"
+}

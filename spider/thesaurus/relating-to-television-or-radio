@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [color_1]{color} [television]{television} [show_1]{shows} [color_1]{color} [picture_1]{pictures}, not [black_1]{black} and [white_1]{white} ones",
+      "entry": "color",
+      "id": "color_3#color_3__2"
+    },
+    {
+      "comment": "the [arrangement]{arrangement} of [scene]{scenes} and [event]{events} in a [movie]{movie} or [television]{television} [program_1]{program} that [make_1]{makes} it seem as if the [action_1]{action} [continue]{continues} without [interruption]{interruption}",
+      "entry": "continuity",
+      "id": "continuity#continuity__3"
+    },
+    {
+      "comment": "if something is [broadcast_1]{broadcast} [live_1]{live}, it can be [watch_1]{watched} or [listen_1]{listened} to at the same time as it [happen]{happens}",
+      "entry": "live",
+      "id": "live_3#live_3__1"
+    },
+    {
+      "comment": "not [broadcast_1#broadcast_1__6]{broadcasting} on [radio_1]{radio} or [television]{television} [anymore]{anymore}",
+      "entry": "off the air",
+      "id": "off-the-air#off-the-air__1"
+    },
+    {
+      "comment": "[broadcast_1]{broadcast} during a [radio_1]{radio} or [television]{television} [program_1]{program}",
+      "entry": "on-air",
+      "id": "on-air#on-air__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or being in a [television]{television} [program_1]{program} or [movie]{movie}",
+      "entry": "on-screen",
+      "id": "on-screen#on-screen__1"
+    },
+    {
+      "comment": "on [radio_1]{radio} or [television]{television}",
+      "entry": "on the air",
+      "id": "on-the-air#on-the-air__1"
+    },
+    {
+      "comment": "the [planning]{planning} and [development]{development} of [television]{television} or [radio_1]{radio} [program_1]{programs}",
+      "entry": "programming",
+      "id": "programming#programming__4"
+    },
+    {
+      "comment": "the [program_1]{programs} that a [particular_1]{particular} [television]{television} or [radio_1]{radio} [station_1]{station} [broadcast_1]{broadcasts}",
+      "entry": "programming",
+      "id": "programming#programming__6"
+    },
+    {
+      "comment": "[relate]{relating} to [radio_1]{radio}",
+      "entry": "radio",
+      "id": "radio_1#radio_1__11"
+    },
+    {
+      "comment": "a [list_1]{list} [showing]{showing} which [show_1]{shows} have the most [people_1]{people} [watch_1]{watching} or [listen_1]{listening} to them",
+      "entry": "rating",
+      "id": "rating#rating__10"
+    },
+    {
+      "comment": "[relate]{relating} to [television]{television}",
+      "entry": "television",
+      "id": "television#television__11"
+    },
+    {
+      "comment": "[relate]{relating} to [television]{television}, or [shown]{shown} on [television]{television}",
+      "entry": "televisual",
+      "id": "televisual#televisual__1"
+    },
+    {
+      "comment": "terrestrial television consists of shows that are not broadcast by cable or satellite",
+      "entry": "terrestrial",
+      "id": "terrestrial#terrestrial__2"
+    },
+    {
+      "comment": "done on [television]{television}, or [relate]{relating} to [television]{television}",
+      "entry": "TV",
+      "id": "tv#tv__4"
+    },
+    {
+      "comment": "a time in the evening when television channels start to broadcast programs that are only appropriate for adults",
+      "entry": "watershed",
+      "id": "watershed#watershed__3"
+    },
+    {
+      "comment": "with a [screen_1]{screen} that [give_1]{gives} a [wide_1]{wider} [view_1]{view} than a [normal_1]{normal} [screen_1]{screen}",
+      "entry": "widescreen",
+      "id": "widescreen#widescreen__1"
+    }
+  ],
+  "thesaurus": "Relating to television or radio",
+  "type": "Related words"
+}

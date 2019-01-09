@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "alive and well/kicking",
+  "senses": [
+    {
+      "def": "still [living_1]{living} and [healthy]{healthy} or [active]{active}, [especially]{especially} when this is [surprising]{surprising}",
+      "examples": [
+        "He was found [alive]{alive} and well after three [day]{days}."
+      ],
+      "id": "alive-and-well-kicking__1"
+    },
+    {
+      "def": "still [existing]{existing} and not [gone_1]{gone} or [forgotten_1]{forgotten}, [especially]{especially} when this is [surprising]{surprising}",
+      "examples": [
+        "The [idea]{idea} of [marriage]{marriage} is still [alive]{alive} and [kick_1]{kicking}."
+      ],
+      "id": "alive-and-well-kicking__3"
+    }
+  ]
+}

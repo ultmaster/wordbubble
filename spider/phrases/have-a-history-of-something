@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "have a history of something",
+  "senses": [
+    {
+      "def": "to be well [known_1]{known} for [doing]{doing} something because you have often done it in the [past_1]{past}",
+      "examples": [
+        "The [country]{country} has a long [history]{history} of [political]{political} [kidnap_2]{kidnappings}.",
+        "He\u2019s [got_1]{got} a [history]{history} of [cheat_1]{cheating} on his [girlfriend]{girlfriends}."
+      ],
+      "id": "have-a-history-of-something__1"
+    },
+    {
+      "def": "if you have a [history]{history} of a [medical_1]{medical} [condition_1]{condition} or other [problem]{problem}, you have had it before",
+      "examples": [
+        "She has a [history]{history} of [skip_1]{skipping} [school_1]{school}.",
+        "They have a [family_1]{family} [history]{history} of [heart_1]{heart} [disease]{disease}."
+      ],
+      "id": "have-a-history-of-something__4"
+    }
+  ]
+}

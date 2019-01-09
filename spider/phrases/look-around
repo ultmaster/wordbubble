@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "look around",
+  "senses": [
+    {
+      "def": "to [walk_1]{walk} around a [room_1]{room}, [building]{building}, or [place_1]{place} and see what is there",
+      "examples": [
+        "Do you [want_1]{want} to [look_1]{look} around the [school_1]{school}?"
+      ],
+      "id": "look-around__1"
+    },
+    {
+      "def": "to [try_1]{try} to find something that you [want_1]{want} or [need_1]{need}",
+      "examples": [
+        "We\u2019ve [start_1]{started} [look_1]{looking} around for a [house_1]{house} in Denver."
+      ],
+      "id": "look-around__3"
+    }
+  ]
+}

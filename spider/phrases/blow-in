@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "blow in",
+  "senses": [
+    {
+      "def": "to come toward you in the [air_1]{air}",
+      "examples": [
+        "A [cool_1]{cool} [breeze_1]{breeze} [blew]{blew} in from the [coast_1]{coast}."
+      ],
+      "id": "blow-in__1"
+    },
+    {
+      "def": "if a [window]{window} [blow_1]{blows} in, or if something [blow_1]{blows} it in, it [break_1]{breaks} into [piece_1]{pieces} that [fall_1]{fall} [inside_1]{inside} the [building]{building}",
+      "examples": [
+        "The [hurricane]{hurricane} [blew]{blew} in every [window]{window} in the [house_1]{house}."
+      ],
+      "id": "blow-in__3"
+    },
+    {
+      "def": "to [arrive]{arrive} [unexpected#unexpected__4]{unexpectedly}",
+      "examples": [
+        "[charlie]{Charlie} and May [just_1]{just} [blew]{blew} in for a [visit_1]{visit}."
+      ],
+      "id": "blow-in__5"
+    }
+  ]
+}

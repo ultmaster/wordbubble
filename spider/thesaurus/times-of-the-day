@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "the [period_1]{period} of time between the [middle_1]{middle} of the [day]{day} and the [beginning]{beginning} of the [evening_1]{evening}",
+      "entry": "afternoon",
+      "id": "afternoon_1#afternoon_1__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} what you do every [afternoon_1]{afternoon}",
+      "entry": "afternoons",
+      "id": "afternoons#afternoons__1"
+    },
+    {
+      "comment": "[afternoon_1]{afternoon}",
+      "entry": "arvo",
+      "id": "arvo#arvo__1"
+    },
+    {
+      "comment": "the time you [usually]{usually} go to [bed_1]{bed}",
+      "entry": "bedtime",
+      "id": "bedtime#bedtime__1"
+    },
+    {
+      "comment": "[night_1]{night}",
+      "entry": "darkness",
+      "id": "darkness#darkness__5"
+    },
+    {
+      "comment": "one of the [period_1]{periods} of time that a [week]{week} is [divided]{divided} into, [equal_1]{equal} to 24 [hour]{hours}",
+      "entry": "day",
+      "id": "day#day__1"
+    },
+    {
+      "comment": "the [period_1]{period} of time when you are [awake_1]{awake} and [doing]{doing} [thing]{things}",
+      "entry": "day",
+      "id": "day#day__5"
+    },
+    {
+      "comment": "the [period_1]{period} of time when it is [light_1]{light} [outside]{outside}",
+      "entry": "day",
+      "id": "day#day__11"
+    },
+    {
+      "comment": "the [period_1]{period} of time during the [day]{day} when it is [light_1]{light}",
+      "entry": "daylight",
+      "id": "daylight#daylight__3"
+    },
+    {
+      "comment": "the [period_1]{period} of time during the [day]{day} when it is [light_1]{light} [outside]{outside}",
+      "entry": "daytime",
+      "id": "daytime#daytime__1"
+    },
+    {
+      "comment": "an [evening_1]{evening}",
+      "entry": "eve",
+      "id": "eve#eve__1"
+    },
+    {
+      "comment": "[evening_1]{evening}",
+      "entry": "even",
+      "id": "even_4#even_4__1"
+    },
+    {
+      "comment": "the part of the [day]{day} between the [end_1]{end} of the [afternoon_1]{afternoon} and [night_1]{night}, [including]{including} the time when the [sun_1]{sun} [go_1]{goes} down",
+      "entry": "evening",
+      "id": "evening_1#evening_1__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} time in the [day]{day} or [night_1]{night}",
+      "entry": "hour",
+      "id": "hour#hour__20"
+    },
+    {
+      "comment": "a time when you [eat]{eat} a [meal]{meal}",
+      "entry": "mealtime",
+      "id": "mealtime#mealtime__1"
+    },
+    {
+      "comment": "[morning_1]{morning}",
+      "entry": "morn",
+      "id": "morn#morn__1"
+    },
+    {
+      "comment": "the part of the [day]{day} from when the [sun_1]{sun} [rise_1]{rises} until noon",
+      "entry": "morning",
+      "id": "morning_1#morning_1__1"
+    },
+    {
+      "comment": "between [midnight]{midnight} and noon",
+      "entry": "morning",
+      "id": "morning_1#morning_1__5"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} \u201c[morning_1]{morning}\u201d",
+      "entry": "morrow",
+      "id": "morrow#morrow__2"
+    },
+    {
+      "comment": "the time when most [people_1]{people} are [sleep_1]{sleeping}",
+      "entry": "night",
+      "id": "night_1#night_1__6"
+    },
+    {
+      "comment": "the time between the [end_1]{end} of the [afternoon_1]{afternoon} and the time when [people_1]{people} go to [bed_1]{bed}",
+      "entry": "night",
+      "id": "night_1#night_1__12"
+    },
+    {
+      "comment": "the part of each 24-hour [period_1]{period} when it is [dark_1]{dark}",
+      "entry": "nights",
+      "id": "night_1#night_1__1"
+    },
+    {
+      "comment": "the [period_1]{period} of time when it is [night_1]{night}",
+      "entry": "nighttime",
+      "id": "nighttime#nighttime__1"
+    },
+    {
+      "comment": "[used]{used} about [thing]{things} that [happen]{happen} during the [night_1]{night}",
+      "entry": "nighttime",
+      "id": "nighttime#nighttime__2"
+    },
+    {
+      "comment": "in the [evening_1]{evening} or during the [night_1]{night} of [today_1]{today}",
+      "entry": "tonight",
+      "id": "tonight_1#tonight_1__1"
+    },
+    {
+      "comment": "the [evening_1]{evening} or [night_1]{night} of [today_1]{today}",
+      "entry": "tonight",
+      "id": "tonight_2#tonight_2__1"
+    }
+  ],
+  "thesaurus": "Times of the day",
+  "type": "Related words"
+}

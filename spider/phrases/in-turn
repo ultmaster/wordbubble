@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "in turn",
+  "senses": [
+    {
+      "def": "one after the other in an [order_1]{order} that has been [agreed]{agreed} or [officially]{officially} [decided]{decided}",
+      "examples": [
+        "We [look_1]{look} at each [element]{element} of the [process_1]{process} in [turn_1]{turn}."
+      ],
+      "id": "in-turn__1"
+    },
+    {
+      "def": "as a [result_1]{result} of something that is part of a [connected]{connected} [series]{series} of [event]{events}",
+      "examples": [
+        "The oil-producing [nation]{nations} have [decrease_1]{decreased} [production]{production}, and this [decision_1]{decision} in [turn_1]{turn} has [cause_2]{caused} [heating]{heating} [oil_1]{oil} [price_1]{prices} to [rise_1]{rise} in the [united]{United} [state_1]{States}.",
+        "Her [mother_1]{mother} [taught]{taught} her, and she in [turn_1]{turn} [taught]{taught} her own [daughter_1]{daughter}."
+      ],
+      "id": "in-turn__3"
+    }
+  ]
+}

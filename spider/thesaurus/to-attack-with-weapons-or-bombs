@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "to use [weapon]{weapons} to [try_1]{try} to [defeat_1]{defeat} an [enemy]{enemy}",
+      "entry": "attack",
+      "id": "attack_2#attack_2__4"
+    },
+    {
+      "comment": "to [stick_1]{stick} a [bayonet_1]{bayonet} into someone",
+      "entry": "bayonet",
+      "id": "bayonet_2#bayonet_2__1"
+    },
+    {
+      "comment": "to be [forced]{forced} to [leave_1]{leave} a [place_1]{place} because of being [attack_2]{attacked} by [bomb_1]{bombs}",
+      "entry": "be bombed out (of something)",
+      "id": "bomb-out#bomb-out__3"
+    },
+    {
+      "comment": "to [attack_1]{attack} a [place_1]{place} [use_1]{using} [airplane]{airplanes} that [drop_1]{drop} [bomb_1]{bombs}",
+      "entry": "blitz",
+      "id": "blitz_2#blitz_2__2"
+    },
+    {
+      "comment": "to [attack_1]{attack} a [place_1]{place} with a [bomb_1]{bomb}",
+      "entry": "bomb",
+      "id": "bomb_2#bomb_2__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} a [place_1]{place} by [drop_1]{dropping} a [lot_1]{lot} of [bomb_1]{bombs} on it or [fire_2]{firing} [guns]{guns} at it for a long time",
+      "entry": "bombard",
+      "id": "bombard#bombard__3"
+    },
+    {
+      "comment": "to [drop_1]{drop} a [lot_1]{lot} of [bomb_1]{bombs} from [airplane]{airplanes} all over an [area]{area} in [order_1]{order} to [destroy]{destroy} everything on the [ground_1]{ground}",
+      "entry": "carpet-bomb",
+      "id": "carpet-bomb#carpet-bomb__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} and [cut_1]{cut} someone with a [knife_1]{knife}",
+      "entry": "carve up",
+      "id": "carve-up#carve-up__3"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone who has [just_1]{just} [attack_2]{attacked} you in a war, [game_1]{game}, or [argument]{argument}",
+      "entry": "counterattack",
+      "id": "counterattack_2#counterattack_2__1"
+    },
+    {
+      "comment": "to [explode]{explode}, or to [make_1]{make} something such as a [bomb_1]{bomb} [explode]{explode}",
+      "entry": "detonate",
+      "id": "detonate#detonate__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone or something by [flying_1]{flying} [quickly]{quickly} down at them",
+      "entry": "dive-bomb",
+      "id": "dive-bomb#dive-bomb__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} or [kill_1]{kill} someone by [making]{making} them [breathe]{breathe} a [poisonous]{poisonous} [gas_1]{gas}",
+      "entry": "gas",
+      "id": "gas_2#gas_2__1"
+    },
+    {
+      "comment": "to keep [attack_2]{attacking} an [enemy]{enemy} [army]{army}",
+      "entry": "harass",
+      "id": "harass#harass__4"
+    },
+    {
+      "comment": "to [hide_1]{hide} [bomb_1]{bombs} under the [ground_1]{ground} or under [water_1]{water}",
+      "entry": "mine",
+      "id": "mine_3#mine_3__4"
+    },
+    {
+      "comment": "to [attack_1]{attack} an [enemy]{enemy} with [nuclear]{nuclear} [weapon]{weapons}",
+      "entry": "nuke",
+      "id": "nuke_1#nuke_1__1"
+    },
+    {
+      "comment": "to [continuous#continuous__6]{continuously} [attack_1]{attack} a [place_1]{place} with [bomb_1]{bombs} or other [large_1]{large} [weapon]{weapons} for a long [period_1]{period} of time",
+      "entry": "pound",
+      "id": "pound_2#pound_2__9"
+    },
+    {
+      "comment": "to [suddenly]{suddenly} [attack_1]{attack} a [place_1]{place} and cause a [lot_1]{lot} of [damage_1]{damage}",
+      "entry": "raid",
+      "id": "raid_2#raid_2__4"
+    },
+    {
+      "comment": "to [attack_1]{attack} a [place_1]{place} with a [rocket_1]{rocket} [missile]{missile}",
+      "entry": "rocket",
+      "id": "rocket_2#rocket_2__8"
+    },
+    {
+      "comment": "to [push_1]{push} a [sword]{sword} through someone\u2019s body",
+      "entry": "run through",
+      "id": "run-through_1#run-through_1__13"
+    },
+    {
+      "comment": "to [attack_1]{attack} or to [destroy]{destroy} a [place_1]{place} by [fire_2]{firing} [shell_1]{shells}",
+      "entry": "shell",
+      "id": "shell_2#shell_2__1"
+    },
+    {
+      "comment": "to [shoot_1]{shoot} an [enemy]{enemy} [aircraft]{aircraft} out of the [sky_1]{sky}",
+      "entry": "shoot down",
+      "id": "shoot-down#shoot-down__3"
+    },
+    {
+      "comment": "to [attack_1]{attack} a [place_1]{place} [suddenly]{suddenly} [use_1]{using} [aircraft]{aircraft} or [soldier_1]{soldiers}",
+      "entry": "sortie",
+      "id": "sortie_2#sortie_2__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} a [place_1]{place} with [guns]{guns} from low-flying [aircraft]{aircraft}",
+      "entry": "strafe",
+      "id": "strafe#strafe__1"
+    },
+    {
+      "comment": "to hit someone or something with your hand, a [tool_1]{tool}, or a [weapon]{weapon}",
+      "entry": "strike",
+      "id": "strike_1#strike_1__11"
+    },
+    {
+      "comment": "to [destroy]{destroy} something by [attack_2]{attacking} it with [weapon]{weapons}",
+      "entry": "take out",
+      "id": "take-out#take-out__10"
+    },
+    {
+      "comment": "to [start_1]{start} a [battle_1]{battle} [use_1]{using} [weapon]{weapons}",
+      "entry": "take up arms",
+      "id": "take-up_1#take-up_1__15"
+    },
+    {
+      "comment": "to [begin]{begin} [fighting]{fighting} with [weapon]{weapons}",
+      "entry": "take up arms",
+      "id": "take-up-arms#take-up-arms__1"
+    },
+    {
+      "comment": "to [aim_1]{aim} a [bomb_1]{bomb} or [weapon]{weapon} at someone or something",
+      "entry": "target",
+      "id": "target_2#target_2__3"
+    },
+    {
+      "comment": "to use [tear_1]{tear} [gas_1]{gas} to [control_1]{control} a [crowd_1]{crowd}",
+      "entry": "teargas",
+      "id": "teargas#teargas__1"
+    },
+    {
+      "comment": "to hit a ship or a submarine with a torpedo",
+      "entry": "torpedo",
+      "id": "torpedo_2#torpedo_2__1"
+    },
+    {
+      "comment": "to hit, [harm_1]{harm}, or [destroy]{destroy} someone or something, [usually]{usually} [use_1]{using} a [weapon]{weapon} or a [piece_1]{piece} of [equipment]{equipment} [developed]{developed} by [modern]{modern} [technology]{technology}",
+      "entry": "zap",
+      "id": "zap#zap__1"
+    }
+  ],
+  "thesaurus": "To attack with weapons or bombs",
+  "type": "Related words"
+}

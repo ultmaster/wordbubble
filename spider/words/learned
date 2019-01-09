@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a learned [person]{person} [know_1]{knows} a [lot_1]{lot} about one or more [subject_1]{subjects}, [especially]{especially} [academic_1]{academic} [subject_1]{subjects}",
+      "examples": [
+        "He was a very learned man."
+      ],
+      "id": "learned__1"
+    },
+    {
+      "def": "a learned [piece_1]{piece} of [writing]{writing} [show_1]{shows} [great_1]{great} [knowledge]{knowledge} about a [subject_1]{subject}, [especially]{especially} an [academic_1]{academic} [subject_1]{subject}",
+      "examples": [
+        "a learned [journal]{journal}"
+      ],
+      "id": "learned__3"
+    }
+  ],
+  "word": "learned"
+}

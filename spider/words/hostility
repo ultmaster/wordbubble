@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[unfriendly]{unfriendly} or [threatening]{threatening} [behavior]{behavior} or [feeling_1]{feelings} toward someone",
+      "examples": [
+        "They were [greet]{greeted} with [suspicion]{suspicion} and hostility at first.",
+        "There is no hostility between the [staff_1]{staff} and [pupil]{pupils}.",
+        "I found it [hard_1]{hard} to [handle_1]{handle} [people_1]{people}\u2019s hostility towards me."
+      ],
+      "id": "hostility__1"
+    },
+    {
+      "def": "[opposition]{opposition} to something",
+      "examples": [
+        "There is always some hostility to [new]{new} [technology]{technology}."
+      ],
+      "id": "hostility__5"
+    },
+    {
+      "def": "[fighting]{fighting} between [enemy]{enemies} in a war",
+      "examples": [
+        "The UN is [demanding]{demanding} an [immediate]{immediate} [cessation]{cessation} of [hostility]{hostilities}.",
+        "the [likelihood]{likelihood} of [renewed]{renewed} [hostility]{hostilities} between the two [country]{countries}",
+        "Anti-war [demonstration]{demonstrations} [continued]{continued} after the [outbreak]{outbreak} of [hostility]{hostilities}."
+      ],
+      "id": "hostility__7"
+    }
+  ],
+  "word": "hostility"
+}

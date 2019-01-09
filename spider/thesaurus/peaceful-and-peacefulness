@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[calm_1]{calm} and [quiet_1]{quiet}",
+      "entry": "peaceful",
+      "id": "peaceful#peaceful__8"
+    },
+    {
+      "comment": "[calm_1]{calm}, still, and [quiet_1]{quiet}",
+      "entry": "tranquil",
+      "id": "tranquil#tranquil__1"
+    },
+    {
+      "comment": "[friendly_1]{friendly} and [relaxed]{relaxed}",
+      "entry": "cozy",
+      "id": "cozy_1#cozy_1__3"
+    },
+    {
+      "comment": "[peaceful]{peaceful} and not [affected]{affected} by [violence]{violence}, [fighting]{fighting}, or [excited]{excited} [activity]{activity}",
+      "entry": "calm",
+      "id": "calm_1#calm_1__12"
+    },
+    {
+      "comment": "[peaceful]{peaceful} and without a [lot_1]{lot} of [action_1]{action} or [movement]{movement}",
+      "entry": "placid",
+      "id": "placid#placid__4"
+    },
+    {
+      "comment": "[quiet_1]{quiet} and [calm_1]{calm}, with nothing [happening_1]{happening}",
+      "entry": "still",
+      "id": "still_2#still_2__6"
+    },
+    {
+      "comment": "if a [place_1]{place} is [quiet_1]{quiet}, it is not very [busy_1]{busy}",
+      "entry": "quiet",
+      "id": "quiet_1#quiet_1__10"
+    },
+    {
+      "comment": "[peaceful]{peaceful} and [calm_1]{calm}",
+      "entry": "pacific",
+      "id": "pacific_1#pacific_1__2"
+    },
+    {
+      "comment": "very [quiet_1]{quiet} and [peaceful]{peaceful}",
+      "entry": "somnolent",
+      "id": "somnolent#somnolent__2"
+    },
+    {
+      "comment": "[calm_1]{calm}, or [peaceful]{peaceful}",
+      "entry": "serene",
+      "id": "serene#serene__1"
+    }
+  ],
+  "thesaurus": "Peaceful and peacefulness",
+  "type": "Synonyms"
+}

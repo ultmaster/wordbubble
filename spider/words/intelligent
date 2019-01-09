@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[good_1]{good} at [thinking_1]{thinking} [clearly]{clearly} and [quickly]{quickly}, at [understanding_1]{understanding} [difficult]{difficult} [idea]{ideas} and [subject_1]{subjects}, and at [gain_1]{gaining} and [use_1]{using} [knowledge]{knowledge}",
+      "examples": [
+        "[surely]{Surely} an intelligent [person]{person} [like_1]{like} you can [deal_1]{deal} with this.",
+        "He was [highly]{highly} intelligent, but [dislike_1]{disliked} [study_2]{studying}.",
+        "an intelligent [guess_1]{guess}/[conversation]{conversation}/[question_1]{question}"
+      ],
+      "id": "intelligent__1"
+    },
+    {
+      "def": "[able_1]{able} to [think_1]{think}, [understand]{understand}, and [learn]{learn}",
+      "examples": [
+        "Is there intelligent [life]{life} elsewhere in the [universe]{universe}?"
+      ],
+      "id": "intelligent__6"
+    },
+    {
+      "def": "intelligent [software]{software} is [able_1]{able} to [react]{react} and [deal_1]{deal} with [change_1]{changes} or [different]{different} [situation]{situations} in a way that is [similar]{similar} to [human_1]{human} [intelligence]{intelligence}",
+      "examples": [
+        "[word_1]{word} [processor]{processors} with intelligent [format_2]{formatting} [system]{systems}"
+      ],
+      "id": "intelligent__8"
+    }
+  ],
+  "word": "intelligent"
+}

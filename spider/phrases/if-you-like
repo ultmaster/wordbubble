@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "if you like",
+  "senses": [
+    {
+      "def": "[used]{used} when [making]{making} an [offer_1]{offer} or [suggestion]{suggestion}",
+      "examples": [
+        "We\u2019ll go to the Louvre [tomorrow_1]{tomorrow}, if you [like_1]{like}.",
+        "I\u2019ll take him to the [hospital]{hospital}, if you [like_1]{like}."
+      ],
+      "id": "if-you-like__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you [agree]{agree} to a [suggestion]{suggestion} although it is not what you would [choose]{choose} to do",
+      "examples": [
+        "\u201c[let_1]{Let}\u2019s [just_1]{just} [sit]{sit} here for a [minute_1]{minute}.\u201d \u201cOK, if you [like_1]{like}.\u201d"
+      ],
+      "id": "if-you-like__4"
+    },
+    {
+      "def": "[used]{used} when you are [describe]{describing} something in a way that you [think_1]{think} someone might not [agree]{agree} with",
+      "examples": [
+        "His [latest]{latest} [sculpture]{sculpture} is an [object_1]{object} of [beauty_1]{beauty}, a [masterpiece]{masterpiece} if you [like_1]{like}."
+      ],
+      "id": "if-you-like__6"
+    }
+  ]
+}

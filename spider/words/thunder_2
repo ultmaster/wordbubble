@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if it [thunder_2]{thunders}, you [hear]{hear} thunder in the [sky_1]{sky}",
+      "examples": [],
+      "id": "thunder_2__1"
+    },
+    {
+      "def": "to [make_1]{make} a [lot_1]{lot} of [noise]{noise} when [moving]{moving} somewhere [fast_1]{fast}",
+      "examples": [
+        "An [express_1]{express} [train_1]{train} [thunder_2]{thundered} through the [station_1]{station}."
+      ],
+      "id": "thunder_2__2"
+    },
+    {
+      "def": "to [say_1]{say} something in a very [loud_1]{loud}, [angry]{angry} [voice_1]{voice}",
+      "examples": [
+        "\u201cCome here, [boy_1]{boy}!\u201d he [thunder_2]{thundered}."
+      ],
+      "id": "thunder_2__4"
+    }
+  ],
+  "word": "thunder"
+}

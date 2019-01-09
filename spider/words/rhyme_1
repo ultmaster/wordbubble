@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [short_1]{short} [poem]{poem}, often for [children]{children}, that has [lines]{lines} [ending]{ending} in the same [sound_1]{sound}",
+      "examples": [],
+      "id": "rhyme_1__1"
+    },
+    {
+      "def": "a [word_1]{word} that [end_1]{ends} with the same [sound_1]{sound} as another [word_1]{word}",
+      "examples": [
+        "Can you [think_1]{think} of a rhyme for \u201chat?\u201d",
+        "a [poem]{poem} [written_1]{written} in rhyme"
+      ],
+      "id": "rhyme_1__2"
+    }
+  ],
+  "word": "rhyme"
+}

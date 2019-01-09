@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "all the time",
+  "senses": [
+    {
+      "def": "often",
+      "examples": [
+        "It\u2019s a very [good_1]{good} [restaurant]{restaurant}. We go there all the time."
+      ],
+      "id": "all-the-time__1"
+    },
+    {
+      "def": "[continuous#continuous__6]{continuously}",
+      "examples": [
+        "It [rain_2]{rained} all the time they were there."
+      ],
+      "id": "all-the-time__3"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that one thing [happen]{happens} or [exist]{exists} at the same time as another",
+      "examples": [
+        "She [just_1]{just} [kept]{kept} on [talk_1]{talking} and all the time I was [thinking_1]{thinking} I [wanted]{wanted} to [leave_1]{leave}."
+      ],
+      "id": "all-the-time__5"
+    }
+  ]
+}

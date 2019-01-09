@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "[fill_1]{filled} with [feather_1]{feathers}",
+      "entry": "feather",
+      "id": "feather_1#feather_1__2"
+    },
+    {
+      "comment": "[foldaway]{foldaway} [furniture]{furniture} can be [fold_1]{folded} into a [small_1]{smaller} [shape_1]{shape} to [make_1]{make} it [easy_1]{easier} to [carry_1]{carry} or [store_1]{store}",
+      "entry": "foldaway",
+      "id": "foldaway#foldaway__1"
+    },
+    {
+      "comment": "[folding]{folding} [furniture]{furniture} can be [fold_1]{folded} into a [shape_1]{shape} or [position_1]{position} that [use_1]{uses} less [space_1]{space}",
+      "entry": "folding",
+      "id": "folding#folding__1"
+    },
+    {
+      "comment": "a [fold-out]{fold-out} [table_1]{table}, [bed_1]{bed}, or [page_1]{page} is [kept]{kept} [fold_1]{folded} in a [small_1]{smaller} [shape_1]{shape} when you are not [use_1]{using} it",
+      "entry": "fold-out",
+      "id": "fold-out#fold-out__1"
+    },
+    {
+      "comment": "a [freestanding]{freestanding} [piece_1]{piece} of [furniture]{furniture} or [equipment]{equipment} is not [attached]{attached} to a [surface_1]{surface} such as a [wall_1]{wall} or [floor_1]{floor}",
+      "entry": "freestanding",
+      "id": "freestanding#freestanding__1"
+    },
+    {
+      "comment": "[padded]{padded} [furniture]{furniture} or [object_1]{objects} have a thick [layer_1]{layer} of a [soft]{soft} [substance]{substance} under their [cover_1]{covers}",
+      "entry": "padded",
+      "id": "padded#padded__3"
+    },
+    {
+      "comment": "[pullout_1]{pullout} [furniture]{furniture} can be [used]{used} by [pull_1]{pulling} it out of another [piece_1]{piece} of [furniture]{furniture} or out of the [wall_1]{wall}",
+      "entry": "pullout",
+      "id": "pullout_2#pullout_2__2"
+    },
+    {
+      "comment": "a queen-size bed is for two people and is wider than an ordinary double bed but not as wide as a king-size bed",
+      "entry": "queen-size",
+      "id": "queen-size#queen-size__1"
+    },
+    {
+      "comment": "ready to [assemble]{assemble}: [used]{used} for [describe]{describing} [furniture]{furniture} that is [sold]{sold} in [piece_1]{pieces} that you have to put together yourself",
+      "entry": "RTA",
+      "id": "rta_1#rta_1__1"
+    },
+    {
+      "comment": "made in [section_1]{sections} that you [fit_1]{fit} together",
+      "entry": "sectional",
+      "id": "sectional#sectional__3"
+    },
+    {
+      "comment": "[stackable]{stackable} [item]{items} can [easily]{easily} be [pile_2]{piled} on top of one another",
+      "entry": "stackable",
+      "id": "stackable#stackable__1"
+    },
+    {
+      "comment": "an [unmade]{unmade} [bed_1]{bed} is not [neat]{neat} because no one has [arrange]{arranged} the [sheet]{sheets} and [cover_1]{covers} after [sleep_1]{sleeping} there",
+      "entry": "unmade",
+      "id": "unmade#unmade__1"
+    },
+    {
+      "comment": "an upholstered chair or sofa is covered with cloth or leather to make it attractive and comfortable",
+      "entry": "upholstered",
+      "id": "upholstered#upholstered__1"
+    },
+    {
+      "comment": "[fixed]{fixed} to a [wall_1]{wall}",
+      "entry": "wall-mounted",
+      "id": "wall-mounted#wall-mounted__1"
+    }
+  ],
+  "thesaurus": "Words used to describe furniture and furnishings",
+  "type": "Related words"
+}

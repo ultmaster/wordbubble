@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "take root",
+  "senses": [
+    {
+      "def": "if a [plant_1]{plant} [take_1]{takes} [root_1]{root}, it [begin]{begins} to [grow]{grow} somewhere",
+      "examples": [],
+      "id": "take-root__1"
+    },
+    {
+      "def": "if an [idea]{idea}, [belief]{belief}, or system [take_1]{takes} [root_1]{root}, it becomes [established]{established} and [accepted]{accepted}",
+      "examples": [
+        "[compromise_1]{Compromise} is [essential_1]{essential} if [peace]{peace} is to take [root_1]{root} in this [troubled]{troubled} [area]{area}."
+      ],
+      "id": "take-root__2"
+    }
+  ]
+}

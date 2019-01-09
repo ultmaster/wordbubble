@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "close out",
+  "senses": [
+    {
+      "def": "to [sell_1]{sell} a [product]{product} at a low [price_1]{price} in [order_1]{order} to get [rid_1]{rid} of it",
+      "examples": [
+        "The [manufacturer]{manufacturers} [decided]{decided} to [close_1]{close} out last [year]{year}\u2019s [model_1]{model}."
+      ],
+      "id": "close-out__1"
+    },
+    {
+      "def": "to [deliberately]{deliberately} [prevent]{prevent} someone or something from being [involved]{involved} in an [activity]{activity}",
+      "examples": [
+        "When we [reach_1]{reached} our [teens]{teens} the other two became very [tight_1]{tight} and [closed]{closed} me out."
+      ],
+      "id": "close-out__3"
+    },
+    {
+      "def": "[exclude]{exclude}",
+      "examples": [
+        "Why [did]{did} you [close_1]{close} me out of the [game_1]{game}?"
+      ],
+      "id": "close-out__10"
+    }
+  ]
+}

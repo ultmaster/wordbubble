@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} that something such as a [fact]{fact} is not [true_1]{true} or [correct_1]{correct}",
+      "entry": "dispute",
+      "id": "dispute_2#dispute_2__1"
+    },
+    {
+      "comment": "to [prove]{prove} that something is not [correct_1]{correct} or [true_1]{true}",
+      "entry": "disprove",
+      "id": "disprove#disprove__1"
+    },
+    {
+      "comment": "to [prove]{prove} that something such as an [idea]{idea} or [belief]{belief} is [false]{false} and [silly_1]{silly}",
+      "entry": "debunk",
+      "id": "debunk#debunk__1"
+    },
+    {
+      "comment": "to [prove]{prove} that a [story]{story} or [theory]{theory} that many [people_1]{people} [believe]{believe} is in [fact]{fact} [false]{false}",
+      "entry": "explode",
+      "id": "explode#explode__15"
+    },
+    {
+      "comment": "to show that something is not [true_1]{true}",
+      "entry": "deflate",
+      "id": "deflate#deflate__5"
+    },
+    {
+      "comment": "to [say_1]{say} [formally]{formally} that something is not [true_1]{true}",
+      "entry": "repudiate",
+      "id": "repudiate#repudiate__1"
+    },
+    {
+      "comment": "to [prove]{prove} that something is [wrong_1]{wrong}",
+      "entry": "confound",
+      "id": "confound#confound__5"
+    },
+    {
+      "comment": "to [make_1]{make} [people_1]{people} [think_1]{think} that something is not [true_1]{true}",
+      "entry": "discredit",
+      "id": "discredit_1#discredit_1__3"
+    },
+    {
+      "comment": "to [say_1]{say} that a [statement_1]{statement} is not [true_1]{true} or [accurate]{accurate} without [give_1]{giving} [proof_1]{proof}",
+      "entry": "refute",
+      "id": "refute#refute__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone [realize]{realize} that they were [wrong_1]{wrong} to [believe]{believe} something",
+      "entry": "disabuse",
+      "id": "disabuse#disabuse__1"
+    }
+  ],
+  "thesaurus": "To try to show that an idea or belief is wrong",
+  "type": "Synonyms"
+}

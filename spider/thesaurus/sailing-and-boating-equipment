@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a [heavy_1]{heavy} [object_1]{object} that is [drop_1]{dropped} into the [water_1]{water} to [prevent]{prevent} a [boat]{boat} from [moving]{moving}",
+      "entry": "anchor",
+      "id": "anchor_1#anchor_1__1"
+    },
+    {
+      "comment": "a substance such as water, sand, or metal that is carried in ships or large balloons to help them remain steady",
+      "entry": "ballast",
+      "id": "ballast#ballast__1"
+    },
+    {
+      "comment": "the flat part at the end of an oar",
+      "entry": "blade",
+      "id": "blade#blade__7"
+    },
+    {
+      "comment": "a [short_1]{short} [post_1]{post} that a [ship_1]{ship} is [tied]{tied} to",
+      "entry": "bollard",
+      "id": "bollard#bollard__1"
+    },
+    {
+      "comment": "an [object_1]{object} that [float_1]{floats} on [water_1]{water} to show [ship_1]{ships} where it is [safe_1]{safe} and where there is [danger]{danger}",
+      "entry": "buoy",
+      "id": "buoy_1#buoy_1__1"
+    },
+    {
+      "comment": "a [life]{life} preserver",
+      "entry": "flotation device",
+      "id": "flotation-device#flotation-device__1"
+    },
+    {
+      "comment": "a [motor_1]{motor} that is [fitted]{fitted} [inside_1]{inside} a [boat]{boat}",
+      "entry": "inboard motor",
+      "id": "inboard-motor#inboard-motor__1"
+    },
+    {
+      "comment": "a [special_1]{special} [belt_1]{belt} that you [wear_1]{wear} to [stop_1]{stop} yourself from [sinking]{sinking} in [water_1]{water}",
+      "entry": "lifebelt",
+      "id": "lifebelt#lifebelt__1"
+    },
+    {
+      "comment": "something you [wear_1]{wear} on a [boat]{boat} to [make_1]{make} you [float_1]{float} if you [fall_1]{fall} into the [water_1]{water} by [accident]{accident}",
+      "entry": "life jacket",
+      "id": "life-jacket#life-jacket__1"
+    },
+    {
+      "comment": "a [life]{life} [jacket]{jacket}",
+      "entry": "life preserver",
+      "id": "life-preserver#life-preserver__1"
+    },
+    {
+      "comment": "a [life]{life} [jacket]{jacket}",
+      "entry": "life vest",
+      "id": "life-vest#life-vest__1"
+    },
+    {
+      "comment": "a long stick with a wide flat blade at one end, used for rowing a boat",
+      "entry": "oar",
+      "id": "oar#oar__1"
+    },
+    {
+      "comment": "a [motor_1]{motor} that is [attached]{attached} to the [outside]{outside} of a [small_1]{small} [boat]{boat} at the back [end_1]{end}",
+      "entry": "outboard motor",
+      "id": "outboard-motor#outboard-motor__1"
+    },
+    {
+      "comment": "a short pole that you push into the water in order to move a small boat such as a canoe. It is wide and flat at one or both ends.",
+      "entry": "paddle",
+      "id": "paddle_1#paddle_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [sailor]{sailors} use for [look_1]{looking} at the [star_1]{stars} so that they can [calculate]{calculate} the [position_1]{position} of their [ship_1]{ship}",
+      "entry": "sextant",
+      "id": "sextant#sextant__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} on a [ship_1]{ship} that [measure_1]{measures} the [depth]{depth} of [water_1]{water} and [show_1]{shows} the [position_1]{position} of [object_1]{objects} under the [water_1]{water}",
+      "entry": "sonar",
+      "id": "sonar#sonar__1"
+    }
+  ],
+  "thesaurus": "Sailing and boating equipment",
+  "type": "Related words"
+}

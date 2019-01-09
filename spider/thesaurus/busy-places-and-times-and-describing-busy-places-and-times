@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} that is very [noisy]{noisy}, [busy_1]{busy}, and full of [confused]{confused} [activity]{activity}",
+      "entry": "madhouse",
+      "id": "madhouse#madhouse__1"
+    },
+    {
+      "comment": "full of [people_1]{people} who are [busy_1]{busy} or who are [enjoy]{enjoying} themselves",
+      "entry": "lively",
+      "id": "lively#lively__9"
+    },
+    {
+      "comment": "full of [busy_1]{busy} [activity]{activity}",
+      "entry": "hectic",
+      "id": "hectic#hectic__1"
+    },
+    {
+      "comment": "a [bustling]{bustling} [place_1]{place} is full of [noise]{noise} and [activity]{activity} and is [usually]{usually} [pleasant]{pleasant} and [interesting]{interesting}",
+      "entry": "bustling",
+      "id": "bustling#bustling__1"
+    },
+    {
+      "comment": "if a [place_1]{place} or [group_1]{group} of [people_1]{people} is [buzzing]{buzzing}, there is a [lot_1]{lot} of [noise]{noise} or [activity]{activity}",
+      "entry": "buzz",
+      "id": "buzz_1#buzz_1__12"
+    },
+    {
+      "comment": "if a [place_1]{place} is [hum_1]{humming}, it is full of [noise]{noise} and [activity]{activity}",
+      "entry": "hum",
+      "id": "hum_1#hum_1__6"
+    },
+    {
+      "comment": "a [period_1]{period} when a [hotel]{hotel} or [place_1]{place} that [people_1]{people} go to on [vacation_1]{vacation} is [busy_1]{busy}",
+      "entry": "busy season",
+      "id": "busy-season#busy-season__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [great_1]{great} [energy]{energy} and [activity]{activity}",
+      "entry": "frenzy",
+      "id": "frenzy#frenzy__4"
+    },
+    {
+      "comment": "a [peak_1]{peak} time, [period_1]{period}, etc. is when the [large_1]{largest} [number_1]{number} of [people_1]{people} are [doing]{doing} or [use_1]{using} something",
+      "entry": "peak",
+      "id": "peak_3#peak_3__1"
+    },
+    {
+      "comment": "a [place_1]{place} that is very [busy_1]{busy} and full of [people_1]{people}. In the U.K. [people_1]{people} [say_1]{say} a [place_1]{place} [like_1]{like} this is \u201c[like_1]{like} Piccadilly [circus]{Circus}.\u201d",
+      "entry": "Grand Central Station",
+      "id": "grand-central-station#grand-central-station__1"
+    }
+  ],
+  "thesaurus": "Busy places and times and describing busy places and times",
+  "type": "Synonyms"
+}

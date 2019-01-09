@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [machine_1]{machines}, [tool_1]{tools}, and [equipment]{equipment} [need_1]{needed} for [doing]{doing} something, [especially]{especially} something [technical]{technical} or [scientific]{scientific}",
+      "examples": [
+        "They were [setting]{setting} up the apparatus for the [experiment_1]{experiment}.",
+        "[breathing]{breathing} apparatus"
+      ],
+      "id": "apparatus__1"
+    },
+    {
+      "def": "the [people_1]{people} and [organization]{organizations} [involved]{involved} in some [aspect]{aspect} of [government]{government}",
+      "examples": [
+        "[change_1]{changes} within the [administrative]{administrative} apparatus of the [ruling_1]{ruling} [party_1]{party}"
+      ],
+      "id": "apparatus__4"
+    },
+    {
+      "def": "the [organ]{organs} [responsible]{responsible} for the way a part of the body or [mind_1]{mind} [work_1]{works}",
+      "examples": [],
+      "id": "apparatus__6"
+    }
+  ],
+  "word": "apparatus"
+}

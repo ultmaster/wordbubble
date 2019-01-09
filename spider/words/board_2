@@ -1,0 +1,23 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to get onto a [ship_1]{ship}, [aircraft]{aircraft}, [train_1]{train}, or [bus_1]{bus}",
+      "examples": [
+        "She [board_2]{boarded} the [wrong_1]{wrong} [train_1]{train}.",
+        "We\u2019re [boarding]{boarding} through [gate_1]{gate} 16.",
+        "When I [got_1]{got} to the [airport]{airport}, my [flight]{flight} was already [boarding]{boarding}."
+      ],
+      "id": "board_2__1"
+    },
+    {
+      "def": "to [live_1]{live} at another [person]{person}\u2019s [house_1]{house} in a [room_1]{room} that you [pay_1]{pay} for",
+      "examples": [
+        "She had three [student]{students} who [board_2]{boarded} with her.",
+        "From the [age_1]{age} of eight, George [board_2]{boarded} at a [private_1]{private} [school_1]{school} in Maine."
+      ],
+      "id": "board_2__6"
+    }
+  ],
+  "word": "board"
+}

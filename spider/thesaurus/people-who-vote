@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [vote_1]{votes} in an [election]{election}",
+      "entry": "voter",
+      "id": "voter#voter__1"
+    },
+    {
+      "comment": "all the [people_1]{people} who are [allow]{allowed} to [vote_1]{vote} in an [election]{election}",
+      "entry": "electorate",
+      "id": "electorate#electorate__1"
+    },
+    {
+      "comment": "the [voter]{voters} in a [division]{division} of a [country]{country} who [elect_1]{elect} a [representative_1]{representative} to a [legislature]{legislature}",
+      "entry": "constituency",
+      "id": "constituency#constituency__2"
+    },
+    {
+      "comment": "someone who has the [right_1]{right} to [vote_1]{vote} in an [election]{election}",
+      "entry": "elector",
+      "id": "elector#elector__1"
+    },
+    {
+      "comment": "someone who [lives]{lives} in a [constituency]{constituency} and is [allow]{allowed} to [vote_1]{vote} in [election]{elections}",
+      "entry": "constituent",
+      "id": "constituent_1#constituent_1__3"
+    },
+    {
+      "comment": "a [politician]{politician} or [voter]{voter} who [does]{does} not [belong]{belong} to any [political]{political} [party_1]{party}",
+      "entry": "independent",
+      "id": "independent_2#independent_2__1"
+    },
+    {
+      "comment": "a [small_1]{small} [group_1]{group} of [people_1]{people} who have the [responsibility]{responsibility} of [elect_1]{electing} someone to an [important]{important} [position_1]{position}",
+      "entry": "electoral college",
+      "id": "electoral-college#electoral-college__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [voter]{voters} in an [election]{election}",
+      "entry": "turnout",
+      "id": "turnout#turnout__3"
+    },
+    {
+      "comment": "a mother who believes that the safety of her country and action to stop terrorism is very important, and who is influenced mainly by this belief in her choice of which leader to vote for",
+      "entry": "security mom",
+      "id": "security-mom#security-mom__1"
+    },
+    {
+      "comment": "[old]{older} [people_1]{people}, [especially]{especially} [people_1]{people} over 55, [considered]{considered} as a [group_1]{group} of [voter]{voters} in an [election]{election}",
+      "entry": "the grey vote",
+      "id": "the-grey-vote#the-grey-vote__1"
+    },
+    {
+      "comment": "in [south_1]{South} Asia, a [large_1]{large} [group_1]{group} of [voter]{voters} from a [single_1]{single} [community]{community} who always [support_1]{support} a [particular_1]{particular} [party_1]{party} or [candidate]{candidate} in [election]{elections}",
+      "entry": "vote bank",
+      "id": "vote-bank#vote-bank__1"
+    }
+  ],
+  "thesaurus": "People who vote",
+  "type": "Synonyms"
+}

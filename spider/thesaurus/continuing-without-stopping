@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[continuing]{continuing} without [stop_1]{stopping} or being [interrupt]{interrupted}",
+      "entry": "continuous",
+      "id": "continuous#continuous__1"
+    },
+    {
+      "comment": "for all time in the [future_1]{future}, or for as long as you can [imagine]{imagine}",
+      "entry": "forever",
+      "id": "forever#forever__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} for a long time or for all time in the [future_1]{future}",
+      "entry": "permanent",
+      "id": "permanent_1#permanent_1__1"
+    },
+    {
+      "comment": "[continuing]{continuing} without [stop_1]{stopping}",
+      "entry": "continual",
+      "id": "continual#continual__1"
+    },
+    {
+      "comment": "[happening_1]{happening} for a [period_1]{period} of time without [interruption]{interruption}",
+      "entry": "continuing",
+      "id": "continuing#continuing__1"
+    },
+    {
+      "comment": "[continuing]{continuing} into the [future_1]{future} with no [fixed]{fixed} [end_1]{end}",
+      "entry": "indefinite",
+      "id": "indefinite#indefinite__1"
+    },
+    {
+      "comment": "[continuing]{continuing} for a long time without a [pause_1]{pause} or an [interruption]{interruption}",
+      "entry": "unbroken",
+      "id": "unbroken#unbroken__1"
+    },
+    {
+      "comment": "never [change_1]{changing} or [ending]{ending}",
+      "entry": "unfailing",
+      "id": "unfailing#unfailing__1"
+    },
+    {
+      "comment": "[continuing]{continuing} without [stop_1]{stopping}",
+      "entry": "unceasing",
+      "id": "unceasing#unceasing__1"
+    },
+    {
+      "comment": "seeming to have no [end_1]{end} or [limit_1]{limit}",
+      "entry": "endless",
+      "id": "endless#endless__1"
+    }
+  ],
+  "thesaurus": "Continuing without stopping",
+  "type": "Synonyms"
+}

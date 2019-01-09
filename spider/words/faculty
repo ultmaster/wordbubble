@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [department]{department} or [group_1]{group} of [department]{departments} in a [university]{university}",
+      "examples": [
+        "the [faculty]{Faculty} of [medicine]{Medicine}",
+        "the [law]{Law} [faculty]{Faculty}"
+      ],
+      "id": "faculty__1"
+    },
+    {
+      "def": "all the [teacher]{teachers} in a [university]{university}, [college]{college}, or [school_1]{school}",
+      "examples": [
+        "a [meeting]{meeting} for [student]{students}, faculty, and [administrator]{administrators}"
+      ],
+      "id": "faculty__4"
+    },
+    {
+      "def": "a [natural_1]{natural} [physical_1]{physical} or [mental]{mental} [ability_1]{ability} that most [people_1]{people} have",
+      "examples": [
+        "the faculty of [speech]{speech}",
+        "He had not [lost_1]{lost} his [mental]{mental} [faculty]{faculties}.",
+        "For the [moment]{moment} her [critical]{critical} [faculty]{faculties} seemed to have [deserted]{deserted} her.",
+        "Mrs. Findlay was in full [possession]{possession} of all her [faculty]{faculties}."
+      ],
+      "id": "faculty__6"
+    }
+  ],
+  "word": "faculty"
+}

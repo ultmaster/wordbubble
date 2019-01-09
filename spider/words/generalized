@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[dealing]{dealing} with [various]{various} [different]{different} [thing]{things} in a [general_1]{general} rather than a [specific]{specific} way",
+      "examples": [
+        "a generalized [discussion]{discussion}/[book_1]{book}"
+      ],
+      "id": "generalized__1"
+    },
+    {
+      "def": "[affecting]{affecting} most of the body rather than [just_1]{just} one [area]{area}",
+      "examples": [
+        "generalized [pain_1]{pain}",
+        "generalized [anxiety]{anxiety}"
+      ],
+      "id": "generalized__3"
+    },
+    {
+      "def": "[happening_1]{happening}, [existing]{existing}, or [felt_1]{felt} over a [wide_1]{wide} [area]{area} or among a [lot_1]{lot} of [people_1]{people}",
+      "examples": [
+        "a generalized [anger_1]{anger} against the [government]{government}",
+        "The [conflict_1]{conflict} has become more generalized."
+      ],
+      "id": "generalized__7"
+    }
+  ],
+  "word": "generalized"
+}

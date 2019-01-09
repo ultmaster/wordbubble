@@ -1,0 +1,28 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[marked]{marked} with [letter_1]{letters} or [number_1]{numbers} that give [information]{information}",
+      "examples": [
+        "All the [ticket_1]{tickets} are coded.",
+        "The [admission]{admissions} [committee]{committee} only [see_1]{sees} coded [application]{applications}."
+      ],
+      "id": "coded__1"
+    },
+    {
+      "def": "[express_1]{expressed} in an [indirect]{indirect} way",
+      "examples": [
+        "Her [speech]{speech} was a coded [attack_1]{attack} on the former [leader]{leader}."
+      ],
+      "id": "coded__5"
+    },
+    {
+      "def": "[written_1]{written} [use_1]{using} a [secret_1]{secret} system of [word_1]{words} or [sign_1]{signs}",
+      "examples": [
+        "He had been [send_1]{sending} coded [message_1]{messages} to the [enemy]{enemy}."
+      ],
+      "id": "coded__7"
+    }
+  ],
+  "word": "coded"
+}

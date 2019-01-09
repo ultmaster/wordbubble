@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "something like",
+  "senses": [
+    {
+      "def": "[used]{used} for [showing]{showing} that you are [guess_1]{guessing} at an amount or [number_1]{number}",
+      "examples": [
+        "He [earn]{earns} something [like_1]{like} $40,000 a [year]{year}."
+      ],
+      "id": "something-like__1"
+    },
+    {
+      "def": "[fairly]{fairly} [similar]{similar} to something",
+      "examples": [
+        "a [large_1]{large} [fish_1]{fish} something [like_1]{like} a [shark]{shark}"
+      ],
+      "id": "something-like__3"
+    }
+  ]
+}

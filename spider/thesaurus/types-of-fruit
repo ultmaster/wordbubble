@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a small fruit that does not have a pit inside it",
+      "entry": "berry",
+      "id": "berry#berry__1"
+    },
+    {
+      "comment": "a group of bananas, grapes, etc. that grow together",
+      "entry": "bunch",
+      "id": "bunch_1#bunch_1__8"
+    },
+    {
+      "comment": "[relate]{relating} to [fruit_1]{fruits} such as [orange_1]{oranges} or [lemon]{lemons}, or to the [tree]{trees} that [produce_1]{produce} them",
+      "entry": "citrus",
+      "id": "citrus#citrus__2"
+    },
+    {
+      "comment": "a [fruit_1]{fruit} such as a [lemon]{lemon} or [orange_1]{orange}",
+      "entry": "citrus fruit",
+      "id": "citrus-fruit#citrus-fruit__1"
+    },
+    {
+      "comment": "fruit that has had the water removed from it, for examples raisins",
+      "entry": "dried fruit",
+      "id": "dried-fruit#dried-fruit__1"
+    },
+    {
+      "comment": "a fruit with a stone surrounded by a soft thick part covered with skin. Peaches, plums and cherries are all drupes.",
+      "entry": "drupe",
+      "id": "drupe#drupe__1"
+    },
+    {
+      "comment": "a type of food that grows on trees or plants. It tastes sweet and contains seeds or a pit. Apples and oranges are fruit. Ripe fruit is ready to eat",
+      "entry": "fruit",
+      "id": "fruit_1#fruit_1__1"
+    },
+    {
+      "comment": "an [apple]{apple} or other [fruit_1]{fruit} that has [fallen_1]{fallen} from a [tree]{tree}",
+      "entry": "windfall",
+      "id": "windfall#windfall__3"
+    }
+  ],
+  "thesaurus": "Types of fruit",
+  "type": "Related words"
+}

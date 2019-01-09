@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "(from) door to door",
+  "senses": [
+    {
+      "def": "[used]{used} for [talk_1]{talking} about the [total_1]{total} [length]{length} of a [trip_1]{trip} from the [place_1]{place} where you [start_1]{start} to the [place_1]{place} where you [arrive]{arrive}",
+      "examples": [
+        "The [flight]{flight} [itself]{itself} is only two [hour]{hours}, but it [take_1]{takes} about five [hour]{hours} [door_1]{door} to [door_1]{door}."
+      ],
+      "id": "from-door-to-door__1"
+    },
+    {
+      "def": "[going_1]{going} to all the [house_1]{houses} in an [area]{area}, for [example]{example} [trying]{trying} to [sell_1]{sell} [thing]{things} or [ask_1]{asking} for [information]{information} or [vote_1]{votes}",
+      "examples": [],
+      "id": "from-door-to-door__3"
+    }
+  ]
+}

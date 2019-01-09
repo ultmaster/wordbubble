@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[legal]{legal} [responsibility]{responsibility} for [cause_2]{causing} [damage_1]{damage} or [injury]{injury}, or for [pay_1]{paying} something",
+      "examples": [
+        "The [company]{company} [accept]{accepts} no liability for [delay_1]{delays} [cause_2]{caused} by [bad_1]{bad} [weather_1]{weather}.",
+        "Being [unemployed]{unemployed} [does]{does} not [affect_1]{affect} your liability to [tax_1]{tax}."
+      ],
+      "id": "liability__1"
+    },
+    {
+      "def": "the amount of [money]{money} that a [company]{company} [owe]{owes}",
+      "examples": [],
+      "id": "liability__4"
+    },
+    {
+      "def": "someone or something that [cause_1]{causes} [problem]{problems} for someone",
+      "examples": [
+        "His [outspoken]{outspoken} [view_1]{views} have made him a liability to the [administration]{administration}."
+      ],
+      "id": "liability__5"
+    }
+  ],
+  "word": "liability"
+}

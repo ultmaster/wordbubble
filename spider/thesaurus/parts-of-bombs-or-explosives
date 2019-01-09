@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "an amount of the [substance]{substance} that [make_1]{makes} a [bomb_1]{bomb} [explode]{explode}",
+      "entry": "charge",
+      "id": "charge_1#charge_1__20"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} on a [bomb_1]{bomb} that [make_1]{makes} it [explode]{explode}",
+      "entry": "detonator",
+      "id": "detonator#detonator__1"
+    },
+    {
+      "comment": "an object like string that burns slowly to make a bomb, firework, etc. explode",
+      "entry": "fuse",
+      "id": "fuse_1#fuse_1__2"
+    },
+    {
+      "comment": "a piece of electrical equipment used for exploding a bomb, firework, etc. from a distance",
+      "entry": "fuse",
+      "id": "fuse_1#fuse_1__3"
+    },
+    {
+      "comment": "a [chemical_1]{chemical} [used]{used} for [making]{making} [bomb_1]{bombs} and some [type_1]{types} of [medicine]{medicine}",
+      "entry": "nitroglycerin",
+      "id": "nitroglycerin#nitroglycerin__1"
+    },
+    {
+      "comment": "the amount of a [substance]{substance} that [cause_1]{causes} an [explosion]{explosion} which a [missile]{missile} [contain]{contains}",
+      "entry": "payload",
+      "id": "payload#payload__3"
+    },
+    {
+      "comment": "the metal part that a soldier pulls out of a hand grenade before throwing it",
+      "entry": "pin",
+      "id": "pin_1#pin_1__9"
+    },
+    {
+      "comment": "[small_1]{small} [piece_1]{pieces} of [metal_1]{metal} that [fly_1]{fly} out of a [bomb_1]{bomb} or [bullet]{bullet} when it [explode]{explodes}",
+      "entry": "shrapnel",
+      "id": "shrapnel#shrapnel__1"
+    },
+    {
+      "comment": "the front part of a [bomb_1]{bomb} or [missile]{missile} that [explode]{explodes}",
+      "entry": "warhead",
+      "id": "warhead#warhead__1"
+    }
+  ],
+  "thesaurus": "Parts of bombs or explosives",
+  "type": "Related words"
+}

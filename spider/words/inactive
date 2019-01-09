@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [take_1]{taking} part in [physical_1]{physical} [activity]{activity} or [exercise_1]{exercise}",
+      "examples": [
+        "[physically]{Physically} inactive [people_1]{people} are at [risk_1]{risk} of [developing]{developing} [heart_1]{heart} [disease]{disease}.",
+        "He [felt_1]{felt} [strangely]{strangely} inactive."
+      ],
+      "id": "inactive__1"
+    },
+    {
+      "def": "not [working]{working} or [operate]{operating}",
+      "examples": [
+        "an inactive [nuclear]{nuclear} [plant_1]{plant}",
+        "a [city]{city} [built_1]{built} on a [relatively]{relatively} inactive [fault_1]{fault} [line_1]{line}"
+      ],
+      "id": "inactive__5"
+    },
+    {
+      "def": "an inactive [chemical_1]{chemical} [substance]{substance} [does]{does} not [react]{react} [strongly]{strongly} with other [substance]{substances}",
+      "examples": [],
+      "id": "inactive__9"
+    }
+  ],
+  "word": "inactive"
+}

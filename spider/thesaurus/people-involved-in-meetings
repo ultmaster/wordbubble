@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "the [person]{person} who is in [charge_1]{charge} of a [meeting]{meeting}, [committee]{committee}, or [company]{company}",
+      "entry": "chair",
+      "id": "chair_1#chair_1__3"
+    },
+    {
+      "comment": "the person who is in charge of a meeting or committee. Many people prefer to say chair or chairperson, because the word chairman suggests that the person in this position is always a man.",
+      "entry": "chairman",
+      "id": "chairman#chairman__1"
+    },
+    {
+      "comment": "the [person]{person} who is in [charge_1]{charge} of a [meeting]{meeting} or [committee]{committee}",
+      "entry": "chairperson",
+      "id": "chairperson#chairperson__1"
+    },
+    {
+      "comment": "the [woman]{woman} who is in [charge_1]{charge} of a [meeting]{meeting} or [committee]{committee}",
+      "entry": "chairwoman",
+      "id": "chairwoman#chairwoman__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} [represent]{representing} a [place_1]{place}, [organization]{organization}, etc. at a [meeting]{meeting} or [event]{event}",
+      "entry": "contingent",
+      "id": "contingent_1#contingent_1__3"
+    },
+    {
+      "comment": "someone who [organize]{organizes} the [meeting]{meetings} of a [committee]{committee}",
+      "entry": "convener",
+      "id": "convener#convener__1"
+    },
+    {
+      "comment": "someone who is [chosen_1]{chosen} to [represent]{represent} a [group_1]{group} of other [people_1]{people} at a [meeting]{meeting}",
+      "entry": "delegate",
+      "id": "delegate_2#delegate_2__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who are [sent]{sent} somewhere to [represent]{represent} a [large_1]{larger} [group_1]{group} at a [meeting]{meeting} or [discussion]{discussion}",
+      "entry": "deputation",
+      "id": "deputation#deputation__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who [meet_1]{meet} [regularly]{regularly} to [exchange_1]{exchange} [idea]{ideas} on a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "discussion group",
+      "id": "discussion-group#discussion-group__1"
+    },
+    {
+      "comment": "the [people_1]{people} [involved]{involved} in a [meeting]{meeting}",
+      "entry": "meeting",
+      "id": "meeting#meeting__6"
+    },
+    {
+      "comment": "someone who is in [charge_1]{charge} of a [discussion]{discussion}, [meeting]{meeting}, etc. between [people_1]{people} with [different]{different} [opinion]{opinions}",
+      "entry": "moderator",
+      "id": "moderator#moderator__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} a [formal_1]{formal} [proposal]{proposal} at a [meeting]{meeting}",
+      "entry": "mover",
+      "id": "mover#mover__5"
+    },
+    {
+      "comment": "someone who is [chosen_1]{chosen} to [study_1]{study} a [particular_1]{particular} [situation]{situation} or [subject_1]{subject} and [report_1]{report} what they [learn]{learn} to an [organization]{organization} or [meeting]{meeting}",
+      "entry": "rapporteur",
+      "id": "rapporteur#rapporteur__1"
+    },
+    {
+      "comment": "the [member]{member} of a [committee]{committee} who [write]{writes} [letter_1]{letters} and [keep_1]{keeps} [record_1]{records} of [meeting]{meetings}",
+      "entry": "secretary",
+      "id": "secretary#secretary__2"
+    },
+    {
+      "comment": "a [small_1]{small} [group_1]{group} of [people_1]{people} who are part of a [large_1]{larger} [committee]{committee} and who [meet_1]{meet} to [discuss]{discuss} one [particular_1]{particular} thing",
+      "entry": "subcommittee",
+      "id": "subcommittee#subcommittee__1"
+    }
+  ],
+  "thesaurus": "People involved in meetings",
+  "type": "Related words"
+}

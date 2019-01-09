@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make a meal of something",
+  "senses": [
+    {
+      "def": "to [eat]{eat} only one thing until you are no [long_1]{longer} [hungry_1]{hungry}",
+      "examples": [
+        "He\u2019s [perfectly]{perfectly} [happy_1]{happy} to [make_1]{make} a [meal]{meal} of [potato]{potato} [chip_1]{chips} and [dip_1]{dip}."
+      ],
+      "id": "make-a-meal-of-something__1"
+    },
+    {
+      "def": "to [treat_1]{treat} something as more [important]{important} or serious than it [really]{really} is",
+      "examples": [
+        "I [know_1]{know} I was [wrong_1]{wrong}, but you don\u2019t [need_1]{need} to [make_1]{make} such a [meal]{meal} of it."
+      ],
+      "id": "make-a-meal-of-something__3"
+    }
+  ]
+}

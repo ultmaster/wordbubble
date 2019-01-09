@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [machine_1]{machine} that can do [work_1]{work} by [itself]{itself}, often [work_1]{work} that [human_2]{humans} do",
+      "examples": [
+        "the [increase_1]{increasing} use of [robot]{robots} in the [manufacturing]{manufacturing} [industry]{industry}"
+      ],
+      "id": "robot__1"
+    },
+    {
+      "def": "someone who [work_1]{works} and [obey]{obeys} [order_1]{orders} [like_1]{like} a [machine_1]{machine}, [showing]{showing} no [emotion]{emotion}",
+      "examples": [],
+      "id": "robot__4"
+    },
+    {
+      "def": "a [set_1]{set} of [traffic-lights]{traffic lights}",
+      "examples": [],
+      "id": "robot__5"
+    }
+  ],
+  "word": "robot"
+}

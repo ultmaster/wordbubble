@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [particular_1]{particular} thing that you have [achieve]{achieved}",
+      "entry": "achievement",
+      "id": "achievement#achievement__1"
+    },
+    {
+      "comment": "something [impressive]{impressive} and often [dangerous]{dangerous} that someone [does]{does}",
+      "entry": "feat",
+      "id": "feat#feat__1"
+    },
+    {
+      "comment": "something [difficult]{difficult} that you [succeed]{succeed} in [doing]{doing}, [especially]{especially} after [working]{working} [hard_1]{hard} over a [period_1]{period} of time",
+      "entry": "accomplishment",
+      "id": "accomplishment#accomplishment__1"
+    },
+    {
+      "comment": "something [impressive]{impressive} that someone has done or [create]{created}",
+      "entry": "handiwork",
+      "id": "handiwork#handiwork__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [achieve]{achieving} something that you have [plan_2]{planned} or [hope_1]{hoped} for, or the [moment]{moment} when this [happen]{happens}",
+      "entry": "realization",
+      "id": "realization#realization__4"
+    },
+    {
+      "comment": "the [high_1]{highest} [level_1]{level} of [achievement]{achievement} in something",
+      "entry": "summit",
+      "id": "summit#summit__7"
+    },
+    {
+      "comment": "the [process_1]{process} of [achieve]{achieving} a [goal]{goal} or [particular_1]{particular} [level_1]{level} of [success]{success}",
+      "entry": "attainment",
+      "id": "attainment#attainment__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [gain_1]{gaining} [control_1]{control} of something through [great_1]{great} [effort]{effort}",
+      "entry": "conquest",
+      "id": "conquest#conquest__5"
+    },
+    {
+      "comment": "an [achievement]{achievement} that you can [feel_1]{feel} [pleased]{pleased} and [satisfied]{satisfied} about",
+      "entry": "a feather in your cap",
+      "id": "a-feather-in-your-cap#a-feather-in-your-cap__1"
+    },
+    {
+      "comment": "the [good_1]{good} [result_1]{results} that you get from something such as [hard_1]{hard} [work_1]{work}",
+      "entry": "the fruit/fruits of something",
+      "id": "the-fruit-fruits-of-something#the-fruit-fruits-of-something__1"
+    }
+  ],
+  "thesaurus": "Achievements",
+  "type": "Synonyms"
+}

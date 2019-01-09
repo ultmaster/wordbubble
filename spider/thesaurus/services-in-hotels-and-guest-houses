@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "the [service_1]{service} of [providing]{providing} a [room_1]{room} for the [night_1]{night} and a [meal]{meal} the next [morning_1]{morning}",
+      "entry": "bed and breakfast",
+      "id": "bed-and-breakfast#bed-and-breakfast__1"
+    },
+    {
+      "comment": "[meal]{meals} [provided]{provided} for you when you [stay_1]{stay} at a [hotel]{hotel}, [live_1]{live} at another [person]{person}\u2019s [house_1]{house}, etc.",
+      "entry": "board",
+      "id": "board_1#board_1__24"
+    },
+    {
+      "comment": "the [service_1]{service} that you get at a [hotel]{hotel} when you [eat]{eat} all your [meal]{meals} there",
+      "entry": "full board",
+      "id": "full-board#full-board__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [thing]{things} such as an [electric]{electric} [kettle_1]{kettle}, [cup_1]{cups}, [milk_1]{milk}, and [tea]{tea} or [coffee]{coffee} [provided]{provided} in a [hotel]{hotel} [room_1]{room} for [making]{making} a [hot]{hot} [drink_1]{drink}",
+      "entry": "hospitality tray",
+      "id": "hospitality-tray#hospitality-tray__1"
+    },
+    {
+      "comment": "[belong]{belonging} to a [hotel]{hotel}",
+      "entry": "hotel",
+      "id": "hotel#hotel__5"
+    },
+    {
+      "comment": "the [department]{department} of a [hotel]{hotel} or [hospital]{hospital} that is [responsible]{responsible} for [cleaning]{cleaning} [room_1]{rooms}",
+      "entry": "housekeeping",
+      "id": "housekeeping#housekeeping__4"
+    },
+    {
+      "comment": "a [small_1]{small} [cupboard]{cupboard} of [alcoholic_1]{alcoholic} [drink_1]{drinks} for [guest_1]{guests} in a [hotel]{hotel} [bedroom]{bedroom}",
+      "entry": "minibar",
+      "id": "minibar#minibar__1"
+    },
+    {
+      "comment": "in a [hotel]{hotel}, to [choose]{choose} [food]{food} or [drink_1]{drinks} and [ask_1]{ask} for them to be [deliver]{delivered} to your [room_1]{room}",
+      "entry": "order up",
+      "id": "order-up#order-up__4"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} where you have a [room_1]{room} to [sleep_1]{sleep} in and [meal]{meals} are also [provided]{provided} for you",
+      "entry": "room and board",
+      "id": "room-and-board#room-and-board__1"
+    },
+    {
+      "comment": "a [service_1]{service} [provided]{provided} by a [hotel]{hotel} that [allow]{allows} you to have [food]{food} and [drink_1]{drink} [brought]{brought} to your [room_1]{room}",
+      "entry": "room service",
+      "id": "room-service#room-service__1"
+    },
+    {
+      "comment": "[help_1]{help} and [advice]{advice} [given_1]{given} to [customer]{customers} in a [store_1]{store}, [hotel]{hotel}, or [business]{business}",
+      "entry": "service",
+      "id": "service_1#service_1__8"
+    },
+    {
+      "comment": "a [sign_1]{sign} [shaped_1]{shaped} [like_1]{like} a [star_1]{star} that is [given_1]{given} to a [hotel]{hotel} or [restaurant]{restaurant} to show which [group_1]{group} it [belong]{belongs} to [accord_2]{according} to its [quality_1]{quality} or [importance]{importance}",
+      "entry": "star",
+      "id": "star_1#star_1__16"
+    },
+    {
+      "comment": "a large piece of equipment in an office, hotel, public building, etc. that a person called a switchboard operator uses to answer telephone calls and to connect the people calling with the people who they want to speak to",
+      "entry": "switchboard",
+      "id": "switchboard#switchboard__1"
+    },
+    {
+      "comment": "to give [people_1]{people} a [better_1]{better} [seat_1]{seat} on a [plane_1]{plane}, or a [better_1]{better} [hotel]{hotel} [room_1]{room}, than the one that they have [paid_1]{paid} for",
+      "entry": "upgrade",
+      "id": "upgrade_1#upgrade_1__9"
+    },
+    {
+      "comment": "the [fact]{fact} of being [given_1]{given} a [plane_1]{plane} [seat_1]{seat} or [hotel]{hotel} [room_1]{room} that is [better_1]{better} than the one that you have [paid_1]{paid} for",
+      "entry": "upgrade",
+      "id": "upgrade_2#upgrade_2__4"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} by which a [staff_1]{staff} [member]{member} of a [restaurant]{restaurant}, [hotel]{hotel}, etc. [park_1]{parks} [customer]{customers}\u2019 [car]{cars} for them",
+      "entry": "valet parking",
+      "id": "valet-parking#valet-parking__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} call that you [receive]{receive} to [wake_1]{wake} you up, [especially]{especially} in a [hotel]{hotel}",
+      "entry": "wake-up call",
+      "id": "wake-up-call#wake-up-call__1"
+    }
+  ],
+  "thesaurus": "Services in hotels and guest houses",
+  "type": "Related words"
+}

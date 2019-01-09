@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "what about...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [making]{making} a [suggestion]{suggestion}",
+      "examples": [
+        "What about a [quick_1]{quick} [cup_1]{cup} of [coffee]{coffee}?",
+        "\u201cWhen do you [want_1]{want} to [meet_1]{meet}?\u201d \u201cWhat about Tuesday [afternoon_1]{afternoon}?\u201d"
+      ],
+      "id": "what-about__1"
+    },
+    {
+      "def": "[used]{used} for [remind]{reminding} someone that a [particular_1]{particular} [person]{person} or thing [need_1]{needs} to be [considered]{considered}",
+      "examples": [
+        "What about Eileen? Shouldn\u2019t we [invite_1]{invite} her too?",
+        "\u201cWhat about [transportation]{transportation}?\u201d \u201cThat\u2019s all [arrange]{arranged}.\u201d"
+      ],
+      "id": "what-about__4"
+    }
+  ]
+}

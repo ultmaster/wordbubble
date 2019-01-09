@@ -1,0 +1,36 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a spare [object_1]{object} is one that you keep in [addition]{addition} to other [similar]{similar} [object_1]{objects} so that it is [available]{available} if you [need_1]{need} it",
+      "examples": [
+        "a spare [key_1]{key}/[battery]{battery}/[pair_1]{pair} of [glasses]{glasses}",
+        "[bring]{Bring} a [towel_1]{towel} and some spare [clothes]{clothes}."
+      ],
+      "id": "spare_1__1"
+    },
+    {
+      "def": "[available]{available}",
+      "examples": [
+        "Every spare [patch_1]{patch} of [land_1]{land} has been [convert_1]{converted} into a [vegetable]{vegetable} [garden_1]{garden}.",
+        "the spare [bedroom]{bedroom}"
+      ],
+      "id": "spare_1__4"
+    },
+    {
+      "def": "[plain_1]{plain} and [simple]{simple} without any [unnecessary]{unnecessary} detail or [decoration]{decoration}",
+      "examples": [
+        "a spare [writing]{writing} [style_1]{style}"
+      ],
+      "id": "spare_1__8"
+    },
+    {
+      "def": "thin",
+      "examples": [
+        "She was about thirty-seven, [tall]{tall}, and spare."
+      ],
+      "id": "spare_1__10"
+    }
+  ],
+  "word": "spare"
+}

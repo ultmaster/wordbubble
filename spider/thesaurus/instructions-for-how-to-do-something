@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[print_1]{printed} [information]{information} [explain]{explaining} how to use or do something",
+      "entry": "instructions",
+      "id": "instruction#instruction__5"
+    },
+    {
+      "comment": "[official_1]{official} [instruction]{instructions} or [advice]{advice} about how to do something",
+      "entry": "guidelines",
+      "id": "guidelines#guidelines__1"
+    },
+    {
+      "comment": "[instruction]{instructions} for [doing]{doing} something or for [get]{getting} to a [place_1]{place}",
+      "entry": "directions",
+      "id": "direction#direction__19"
+    },
+    {
+      "comment": "the [process_1]{process} of [give_1]{giving} [information]{information} or [instruction]{instructions}",
+      "entry": "briefing",
+      "id": "briefing#briefing__4"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone [show_1]{shows} [people_1]{people} how something [work_1]{works} or how to do something",
+      "entry": "demonstration",
+      "id": "demonstration#demonstration__1"
+    },
+    {
+      "comment": "[official_1]{official} [instruction]{instructions} to do a [job_1]{job}, [saying]{saying} how it should be done",
+      "entry": "brief",
+      "id": "brief_2#brief_2__6"
+    },
+    {
+      "comment": "the [instruction]{instructions} that someone must [follow]{follow} when they [study_1]{study} or [examine]{examine} something",
+      "entry": "terms of reference",
+      "id": "terms-of-reference#terms-of-reference__1"
+    },
+    {
+      "comment": "an [event]{event}, [action_1]{action}, or [statement_1]{statement} that [tell_1]{tells} someone [indirectly]{indirectly} that they should do something",
+      "entry": "cue",
+      "id": "cue_1#cue_1__2"
+    }
+  ],
+  "thesaurus": "Instructions for how to do something",
+  "type": "Synonyms"
+}

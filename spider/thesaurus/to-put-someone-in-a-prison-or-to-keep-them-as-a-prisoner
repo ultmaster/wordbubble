@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to put someone in [jail_1]{jail}",
+      "entry": "jail",
+      "id": "jail_2#jail_2__1"
+    },
+    {
+      "comment": "to put someone in a [prison]{prison}",
+      "entry": "imprison",
+      "id": "imprison#imprison__1"
+    },
+    {
+      "comment": "to keep someone in a police station or prison and not allow them to leave",
+      "entry": "detain",
+      "id": "detain#detain__1"
+    },
+    {
+      "comment": "to put someone in a [prison]{prison} without [officially]{officially} [accusing]{accusing} them of a [crime_1]{crime}, [especially]{especially} for [political]{political} [reason_1]{reasons}",
+      "entry": "intern",
+      "id": "intern_2#intern_2__1"
+    },
+    {
+      "comment": "to put someone in [prison]{prison}",
+      "entry": "incarcerate",
+      "id": "incarcerate#incarcerate__1"
+    },
+    {
+      "comment": "to put someone in a [prison]{prison}, or in a [hospital]{hospital} for [mental#mental__12]{mentally} ill [people_1]{people}",
+      "entry": "lock away",
+      "id": "lock-away#lock-away__3"
+    },
+    {
+      "comment": "to put someone in an [institution]{institution} such as a [prison]{prison} or a [hospital]{hospital}, [especially]{especially} for a long [period_1]{period} of time",
+      "entry": "institutionalize",
+      "id": "institutionalize#institutionalize__1"
+    },
+    {
+      "comment": "to [say_1]{say} [officially]{officially} that someone must go to [prison]{prison}",
+      "entry": "commit",
+      "id": "commit#commit__13"
+    },
+    {
+      "comment": "to put someone in a [prison]{prison} or a [mental]{mental} [hospital]{hospital}",
+      "entry": "put away",
+      "id": "put-away#put-away__5"
+    },
+    {
+      "comment": "to keep someone as a [prisoner]{prisoner} until an amount of [money]{money} is [paid_1]{paid}",
+      "entry": "hold someone for ransom",
+      "id": "hold-someone-for-ransom#hold-someone-for-ransom__1"
+    }
+  ],
+  "thesaurus": "To put someone in a prison, or to keep them as a prisoner",
+  "type": "Synonyms"
+}

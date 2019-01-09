@@ -1,0 +1,35 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a sticky [substance]{substance} [stick_1]{sticks} to other [thing]{things}",
+      "examples": [
+        "a [heavy_1]{heavy} sticky [soil_1]{soil}",
+        "The [dough]{dough} should be [soft]{soft} but not sticky.",
+        "I [licked]{licked} my sticky [finger_1]{fingers}.",
+        "His [hair]{hair} was sticky with [blood_1]{blood}.",
+        "sticky [caramel_1]{caramel}/[candy]{candy}/[doughnut]{doughnuts}",
+        "sticky [label_1]{labels}"
+      ],
+      "id": "sticky__1"
+    },
+    {
+      "def": "sticky [weather_1]{weather} is [hot]{hot} and [damp_1]{damp}  (=with a lot of water in the air)",
+      "examples": [
+        "a [warm_1]{warm} and sticky [summer]{summer} [afternoon_1]{afternoon}"
+      ],
+      "id": "sticky__11"
+    },
+    {
+      "def": "a sticky [situation]{situation} is [difficult]{difficult} or [dangerous]{dangerous}",
+      "examples": [],
+      "id": "sticky__14"
+    },
+    {
+      "def": "a sticky [website]{website} is one that [interest_1]{interests} [visitor]{visitors} so that they [continue]{continue} [look_1]{looking} at it for a long time",
+      "examples": [],
+      "id": "sticky__15"
+    }
+  ],
+  "word": "sticky"
+}

@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "count out",
+  "senses": [
+    {
+      "def": "to not [include]{include} someone in a [plan_1]{plan} or [activity]{activity}",
+      "examples": [
+        "If you\u2019re [going_1]{going} to [watch_1]{watch} [football]{football}, you can [count_1]{count} me out."
+      ],
+      "id": "count-out__1"
+    },
+    {
+      "def": "in [boxing]{boxing}, to [count_1]{count} up to ten, and then [say_1]{say} that someone has [lost_1]{lost} a [fight_1]{fight}",
+      "examples": [],
+      "id": "count-out__3"
+    },
+    {
+      "def": "to [count_1]{count} [thing]{things} one by one",
+      "examples": [
+        "She [count_1]{counted} out $100 in $5 [bill_1]{bills}."
+      ],
+      "id": "count-out__4"
+    }
+  ]
+}

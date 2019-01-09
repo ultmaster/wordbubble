@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "comment": "the [ability_1]{ability} of something to [support_1]{support} a [force_1]{force} or [weight_1]{weight} without [b-boying]{breaking}",
+      "entry": "strength",
+      "id": "strength#strength__4"
+    },
+    {
+      "comment": "the [ability_1]{ability} of an [object_1]{object} not to be [affected]{affected} or [harm_2]{harmed} by [wind_1]{wind}, [water_1]{water}, [heat_1]{heat}, etc.",
+      "entry": "resistance",
+      "id": "resistance#resistance__4"
+    },
+    {
+      "comment": "[strength]{strength}",
+      "entry": "intensity",
+      "id": "intensity#intensity__1"
+    }
+  ],
+  "thesaurus": "The quality of being strong and not easy to break",
+  "type": "Synonyms"
+}

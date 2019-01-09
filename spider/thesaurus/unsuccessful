@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[unsuccessful]{unsuccessful}",
+      "entry": "failed",
+      "id": "failed#failed__1"
+    },
+    {
+      "comment": "not [finished]{finished} and therefore not [successful]{successful}",
+      "entry": "abortive",
+      "id": "abortive#abortive__1"
+    },
+    {
+      "comment": "[produce_1]{producing} no [good_1]{good} [result_1]{results}, [especially]{especially} [despite]{despite} a [lot_1]{lot} of [work_1]{work}",
+      "entry": "fruitless",
+      "id": "fruitless#fruitless__1"
+    },
+    {
+      "comment": "done very [badly]{badly} and without [success]{success}",
+      "entry": "bungled",
+      "id": "bungled#bungled__1"
+    },
+    {
+      "comment": "[badly]{badly} done or [badly]{badly} [plan_2]{planned}, and therefore [unsuccessful]{unsuccessful}",
+      "entry": "botched",
+      "id": "botched#botched__1"
+    },
+    {
+      "comment": "something that is [unsuccessful]{unsuccessful} [does]{does} not [achieve]{achieve} what you [want_1]{want}, or [does]{does} not [happen]{happen} in the way that you [want_1]{want}",
+      "entry": "unsuccessful",
+      "id": "unsuccessful#unsuccessful__1"
+    },
+    {
+      "comment": "without [success]{success}",
+      "entry": "in vain",
+      "id": "in-vain#in-vain__1"
+    },
+    {
+      "comment": "not [achieve]{achieving} any [benefit_1]{benefits} or [positive_1]{positive} [result_1]{results}",
+      "entry": "unproductive",
+      "id": "unproductive#unproductive__1"
+    },
+    {
+      "comment": "[have]{having} a [result_1]{result} that is the [opposite_1]{opposite} of the one you [intended_1]{intended}",
+      "entry": "counterproductive",
+      "id": "counterproductive#counterproductive__1"
+    },
+    {
+      "comment": "very [unsuccessful]{unsuccessful}",
+      "entry": "disastrous",
+      "id": "disastrous#disastrous__3"
+    }
+  ],
+  "thesaurus": "Unsuccessful",
+  "type": "Synonyms"
+}

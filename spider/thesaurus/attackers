@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [physically]{physically} [attack_1]{attacks} someone else",
+      "entry": "attacker",
+      "id": "attacker#attacker__1"
+    },
+    {
+      "comment": "someone who [attack_1]{attacks} a [place_1]{place} [use_1]{using} [force_1]{force}",
+      "entry": "raider",
+      "id": "raider#raider__1"
+    },
+    {
+      "comment": "someone who [violently]{violently} [attack_1]{attacks} another [person]{person}",
+      "entry": "assailant",
+      "id": "assailant#assailant__1"
+    },
+    {
+      "comment": "someone who [act_1]{acts} in a [threatening]{threatening} and [violent]{violent} way",
+      "entry": "ruffian",
+      "id": "ruffian#ruffian__1"
+    },
+    {
+      "comment": "a man who [regularly]{regularly} [hit_1]{hits} his [wife]{wife}",
+      "entry": "wife-beater",
+      "id": "wife-beater#wife-beater__1"
+    }
+  ],
+  "thesaurus": "Attackers",
+  "type": "Synonyms"
+}

@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [type_1]{type} of [play_1]{play} [perform]{performed} by [singer]{singers} and an [orchestra]{orchestra}",
+      "examples": [
+        "Wagner\u2019s [opera]{operas}",
+        "We went to the opera last night and saw La Boheme.",
+        "an opera [company]{company}/[singer]{singer}/[festival]{festival}"
+      ],
+      "id": "opera__1"
+    },
+    {
+      "def": "opera [considered]{considered} as an art form",
+      "examples": [
+        "the [great_1]{great} [composer]{composers} of opera"
+      ],
+      "id": "opera__6"
+    }
+  ],
+  "word": "opera"
+}

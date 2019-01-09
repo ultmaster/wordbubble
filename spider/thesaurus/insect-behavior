@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "if a [bird]{bird}, [insect]{insect}, or other [flying_1]{flying} [creature]{creature} [alight_2]{alights} on something, it [flies]{flies} onto it and [stop_1]{stops} there",
+      "entry": "alight",
+      "id": "alight_2#alight_2__2"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} [beat_1]{beats} its [wing_1]{wings}, or if its [wing_1]{wings} [beat_1]{beat}, it [hit_1]{hits} them together several times",
+      "entry": "beat",
+      "id": "beat_1#beat_1__26"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} is on the [wing_1]{wing}, it is [flying_1]{flying}",
+      "entry": "be on the wing",
+      "id": "be-on-the-wing#be-on-the-wing__1"
+    },
+    {
+      "comment": "when a [bird]{bird} or an [insect]{insect} [chirp_1]{chirps}, it [make_1]{makes} a [short_1]{short} [high_1]{high} [sound_1]{sound}",
+      "entry": "chirp",
+      "id": "chirp_1#chirp_1__1"
+    },
+    {
+      "comment": "if an [insect]{insect} [crawl_1]{crawls}, it [move_1]{moves} [forward_1]{forward} [use_1]{using} its [legs]{legs}",
+      "entry": "crawl",
+      "id": "crawl_1#crawl_1__15"
+    },
+    {
+      "comment": "if [insect]{insects} [eat]{eat} you [alive]{alive}, they keep [biting]{biting} you",
+      "entry": "eat someone alive",
+      "id": "eat-someone-alive#eat-someone-alive__2"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} [flutter_1]{flutters} its [wing_1]{wings}, or if its [wing_1]{wings} [flutter_1]{flutter}, the [wing_1]{wings} [make_1]{make} [short_1]{short}, [quick_1]{quick}, [light_1]{light} [movement]{movements} up and down",
+      "entry": "flutter",
+      "id": "flutter_1#flutter_1__6"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} [flutter_1]{flutters} somewhere, it [move_1]{moves} by [making]{making} [short_1]{short}, [quick_1]{quick}, [light_1]{light} [movement]{movements} with its [wing_1]{wings}",
+      "entry": "flutter",
+      "id": "flutter_1#flutter_1__7"
+    },
+    {
+      "comment": "to use [wing_1]{wings} to move through the [air_1]{air}",
+      "entry": "fly",
+      "id": "fly_1#fly_1__1"
+    },
+    {
+      "comment": "if a [baby_1]{baby} [bird]{bird}, [fish_1]{fish}, [insect]{insect}, etc. [hatch_1]{hatches} or is [hatch_1]{hatched}, it comes out of its [egg_1]{egg} and is [born]{born}",
+      "entry": "hatch",
+      "id": "hatch_1#hatch_1__1"
+    },
+    {
+      "comment": "if a [bird]{bird}, [insect]{insect}, or [aircraft]{aircraft} [hover]{hovers}, it [keep_1]{keeps} [itself]{itself} in the same [position_1]{position} in the [air_1]{air}",
+      "entry": "hover",
+      "id": "hover#hover__1"
+    },
+    {
+      "comment": "if [animal_1]{animals} or [insect]{insects} [infest]{infest} a [place_1]{place}, there are very many of them in it, so that they might cause [damage_1]{damage} or [disease]{disease}",
+      "entry": "infest",
+      "id": "infest#infest__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [lot_1]{lot} of [insect]{insects} or [animal_1]{animals} are in a [place_1]{place} and are [cause_2]{causing} [damage_1]{damage} or [disease]{disease}",
+      "entry": "infestation",
+      "id": "infestation#infestation__1"
+    },
+    {
+      "comment": "to [live_1]{live} on or in a [host_1]{host} [organism]{organism} as a [parasite]{parasite}",
+      "entry": "parasitize",
+      "id": "parasitize#parasitize__1"
+    },
+    {
+      "comment": "to place pollen from one flower on another flower in order to help it to produce seed",
+      "entry": "pollinate",
+      "id": "pollinate#pollinate__1"
+    },
+    {
+      "comment": "if an insect or spider spins something such as a web, it makes it from thread that it produces in its body",
+      "entry": "spin",
+      "id": "spin_1#spin_1__17"
+    },
+    {
+      "comment": "if an [insect]{insect} or an [animal_1]{animal} [sting_1]{stings} you, it [hurt_1]{hurts} you by [stick_1]{sticking} a [sharp_1]{sharp} part of its body into your [skin_1]{skin}",
+      "entry": "sting",
+      "id": "sting_1#sting_1__1"
+    },
+    {
+      "comment": "if [insect]{insects} [swarm_1]{swarm}, they [fly_1]{fly} together in a [large_1]{large} [group_1]{group}",
+      "entry": "swarm",
+      "id": "swarm_1#swarm_1__3"
+    },
+    {
+      "comment": "to [fly_1]{fly} [away_1]{away}",
+      "entry": "take wing",
+      "id": "take-wing#take-wing__1"
+    }
+  ],
+  "thesaurus": "Insect behavior",
+  "type": "Related words"
+}

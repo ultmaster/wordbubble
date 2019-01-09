@@ -1,0 +1,191 @@
+{
+  "entries": [
+    {
+      "comment": "a [project_1]{project} or [piece_1]{piece} of [work_1]{work} that you [care_1]{care} about a [lot_1]{lot}, [especially]{especially} because it was your [idea]{idea}",
+      "entry": "baby",
+      "id": "baby_1#baby_1__9"
+    },
+    {
+      "comment": "[work_1]{work} that [make_1]{makes} you [look_1]{look} as though you are very [busy_1]{busy} when in [fact]{fact} you are [achieve]{achieving} nothing",
+      "entry": "busywork",
+      "id": "busywork#busywork__1"
+    },
+    {
+      "comment": "a [job_1]{job} or [profession]{profession}, [especially]{especially} one that you [consider]{consider} [important]{important}",
+      "entry": "calling",
+      "id": "calling#calling__2"
+    },
+    {
+      "comment": "the [employment]{employment} of [children]{children}, [especially]{especially} [children]{children} who are [legally]{legally} too [young_1]{young} to [work_1]{work}",
+      "entry": "child labor",
+      "id": "child-labor#child-labor__1"
+    },
+    {
+      "comment": "an [ordinary]{ordinary} [job_1]{job} that must be done [regularly]{regularly}",
+      "entry": "chore",
+      "id": "chore#chore__1"
+    },
+    {
+      "comment": "the [work_1]{work} of a [consultancy]{consultancy} [company]{company}",
+      "entry": "consultancy",
+      "id": "consultancy#consultancy__2"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} in which a [person]{person} [does]{does} the [work_1]{work} of someone who is [away_1]{away} from [work_1]{work}",
+      "entry": "cover",
+      "id": "cover_2#cover_2__26"
+    },
+    {
+      "comment": "the [main_1]{main} [job_1]{job} of someone who is also [trying]{trying} to [succeed]{succeed} in some other [career_1]{career} such as [sing_1]{singing} or [acting_1]{acting}",
+      "entry": "day job",
+      "id": "day-job#day-job__1"
+    },
+    {
+      "comment": "a [job_1]{job} that [provide]{provides} you with no [chance_1]{chance} of [get]{getting} a [better_1]{better} [job_1]{job}",
+      "entry": "dead-end job",
+      "id": "dead-end-job#dead-end-job__1"
+    },
+    {
+      "comment": "a [job_1]{job} that you do in an [office]{office} [working]{working} at a [desk]{desk}",
+      "entry": "desk job",
+      "id": "desk-job#desk-job__1"
+    },
+    {
+      "comment": "a [small_1]{small} [job_1]{job} that [involve]{involves} [going_1]{going} to [collect_1]{collect} or [deliver]{deliver} something",
+      "entry": "errand",
+      "id": "errand#errand__1"
+    },
+    {
+      "comment": "a [temporary]{temporary} [job_1]{job} that a [student]{student} or [recent]{recent} [graduate_1]{graduate} [take_1]{takes} in [order_1]{order} to get [experience_1]{experience} in the [area]{area} they [want_1]{want} to [work_1]{work} in",
+      "entry": "internship",
+      "id": "internship#internship__2"
+    },
+    {
+      "comment": "[work_1]{work} that you do because you [enjoy]{enjoy} it or [think_1]{think} it is [worth_1]{worth} [doing]{doing}, not for [financial]{financial} gain",
+      "entry": "labor of love",
+      "id": "labor-of-love#labor-of-love__1"
+    },
+    {
+      "comment": "a [final_1]{final} [effort]{effort}, [performance]{performance}, [appearance]{appearance}, [event]{event}, etc., at the [end_1]{end} of someone\u2019s [career_1]{career}",
+      "entry": "last hurrah",
+      "id": "last-hurrah#last-hurrah__1"
+    },
+    {
+      "comment": "the [job_1]{job} of [exchange_2]{exchanging} [information]{information} about the [work_1]{work} of an [organization]{organization} with [people_1]{people} who are [affected]{affected} by it",
+      "entry": "liaison",
+      "id": "liaison#liaison__4"
+    },
+    {
+      "comment": "[work_1]{work} that is [given_1]{given} to someone so that they have something to do",
+      "entry": "make-work",
+      "id": "make-work#make-work__1"
+    },
+    {
+      "comment": "an [important]{important} [piece_1]{piece} of [work_1]{work} that a [person]{person} or [group_1]{group} of [people_1]{people} has to do for a [government]{government} or [large_1]{large} [organization]{organization}, [especially]{especially} one that [involve]{involves} [travel_1]{travel}",
+      "entry": "mission",
+      "id": "mission#mission__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [working]{working} at a [second_1]{second} [job_1]{job} in the [evening_1]{evenings} or at [weekend_1]{weekends} without [telling]{telling} the [tax_1]{tax} [authority]{authorities}",
+      "entry": "moonlighting",
+      "id": "moonlighting#moonlighting__1"
+    },
+    {
+      "comment": "a [job_1]{job} or [activity]{activity} that you are [good_1]{good} at and that is very [suitable]{suitable} for you",
+      "entry": "niche",
+      "id": "niche_1#niche_1__1"
+    },
+    {
+      "comment": "[work_1]{work} done for a [company]{company} by someone in their own [home_1]{home}",
+      "entry": "outwork",
+      "id": "outwork#outwork__1"
+    },
+    {
+      "comment": "a [paper_1]{paper} [route_1]{route}",
+      "entry": "paper round",
+      "id": "paper-round#paper-round__1"
+    },
+    {
+      "comment": "the [job_1]{job} of [deliver]{delivering} [newspaper]{newspapers} to a [group_1]{group} of [home_1]{homes}, or the [group_1]{group} of [home_1]{homes} you have to [deliver]{deliver} [newspaper]{newspapers} to",
+      "entry": "paper route",
+      "id": "paper-route#paper-route__1"
+    },
+    {
+      "comment": "the part of a [job_1]{job} that [involve]{involves} [produce_1]{producing} [report_1]{reports}, [keeping]{keeping} [record_1]{records}, and [writing]{writing} [letter_1]{letters}",
+      "entry": "paperwork",
+      "id": "paperwork#paperwork__1"
+    },
+    {
+      "comment": "[work_1]{work} that you are [paid_1]{paid} for [doing]{doing} [accord_2]{according} to the [number_1]{number} of [piece_1]{pieces} of [work_1]{work} that you [complete_1]{complete} rather than the amount of time it [take_1]{takes} to do it",
+      "entry": "piecework",
+      "id": "piecework#piecework__1"
+    },
+    {
+      "comment": "[pink-collar]{pink-collar} [worker]{workers} do [work_1]{work} with low [pay_1]{pay} that is [traditionally]{traditionally} done by [women]{women}, [especially]{especially} [young_1]{young} [women]{women}. Some [people_1]{people} find this [expression]{expression} [offensive_1]{offensive}",
+      "entry": "pink-collar",
+      "id": "pink-collar#pink-collar__1"
+    },
+    {
+      "comment": "a [job_1]{job} that someone is [sent]{sent} somewhere to do, [usually]{usually} in another [country]{country}",
+      "entry": "posting",
+      "id": "posting#posting__2"
+    },
+    {
+      "comment": "a [plan_2]{planned} [piece_1]{piece} of [work_1]{work} that has a [particular_1]{particular} [aim_1]{aim}, [especially]{especially} one that is [organized]{organized} by a [government]{government}, [company]{company}, or other [organization]{organization}",
+      "entry": "project",
+      "id": "project_1#project_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [work_1]{work} that [involve]{involves} [collect_1]{collecting} [detailed]{detailed} [information]{information} about something",
+      "entry": "project",
+      "id": "project_1#project_1__8"
+    },
+    {
+      "comment": "a [period_1]{period} when you are [sent]{sent} by your [employer]{employer} to [work_1]{work} for a [different]{different} [organization]{organization} or a [different]{different} part of your [organization]{organization}",
+      "entry": "secondment",
+      "id": "secondment#secondment__1"
+    },
+    {
+      "comment": "a [pattern_1]{pattern} of [work_1]{work} in which you sometimes [work_1]{work} during the [day]{day} and sometimes during the [night_1]{night}",
+      "entry": "shift work",
+      "id": "shift-work#shift-work__1"
+    },
+    {
+      "comment": "a [job_1]{job} that you do in [addition]{addition} to your [main_1]{main} [job_1]{job}, in [order_1]{order} to [earn]{earn} [extra_1]{extra} [money]{money}",
+      "entry": "sideline",
+      "id": "sideline_1#sideline_1__1"
+    },
+    {
+      "comment": "a [job_1]{job} that [pay_1]{pays} you a [regular_1]{regular} [salary]{salary} but for which you do not [need_1]{need} to [work_1]{work} [hard_1]{hard}",
+      "entry": "sinecure",
+      "id": "sinecure#sinecure__1"
+    },
+    {
+      "comment": "[work_1]{work} that you do together with other [people_1]{people}",
+      "entry": "teamwork",
+      "id": "teamwork#teamwork__1"
+    },
+    {
+      "comment": "the activity of working at home on a computer and communicating with an office or customers by telephone, fax, or e-mail",
+      "entry": "teleworking",
+      "id": "teleworking#teleworking__1"
+    },
+    {
+      "comment": "a [job_1]{job} that you do because you [feel_1]{feel} it is your [purpose]{purpose} in [life]{life} and for which you have [special_1]{special} [skill]{skills}",
+      "entry": "vocation",
+      "id": "vocation#vocation__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time that a [student]{student} [spend]{spends} [working]{working} to get [experience_1]{experience} in a [particular_1]{particular} [type_1]{type} of [job_1]{job}",
+      "entry": "work experience",
+      "id": "work-experience#work-experience__3"
+    },
+    {
+      "comment": "an [employment]{employment} [agreement]{agreement} in which a [person]{person} only [work_1]{works} when the [employer]{employer} [need_1]{needs} them and so has no [regular_1]{regular} or [guaranteed]{guaranteed} amount of [work_1]{work} or [working]{working} [hour]{hours}",
+      "entry": "zero-hours contract",
+      "id": "zero-hours-contract#zero-hours-contract__1"
+    }
+  ],
+  "thesaurus": "Types of job or work",
+  "type": "Related words"
+}

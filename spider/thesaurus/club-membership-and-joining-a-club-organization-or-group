@@ -1,0 +1,186 @@
+{
+  "entries": [
+    {
+      "comment": "to [allow]{allow} someone to [join_1]{join} an [organization]{organization}",
+      "entry": "accept",
+      "id": "accept#accept__21"
+    },
+    {
+      "comment": "[permission]{permission} to [join_1]{join} a [club_1]{club} or become a [student]{student} at a [college]{college} or [university]{university}",
+      "entry": "admission",
+      "id": "admission#admission__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [accepting]{accepting} someone into a [place_1]{place}, [organization]{organization}, or [institution]{institution}",
+      "entry": "admission",
+      "id": "admission#admission__6"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} who [enter]{enter} a [place_1]{place}, [organization]{organization}, or [institution]{institution}",
+      "entry": "admissions",
+      "id": "admission#admission__15"
+    },
+    {
+      "comment": "to [allow]{allow} someone to become a [member]{member} of an [organization]{organization}",
+      "entry": "admit",
+      "id": "admit#admit__19"
+    },
+    {
+      "comment": "to be a [member]{member} of an [organization]{organization} or [club_1]{club}",
+      "entry": "belong to",
+      "id": "belong-to#belong-to__4"
+    },
+    {
+      "comment": "if a [committee]{committee}, [group_1]{group}, etc. [co-opt]{co-opts} someone, they [agree]{agree} to [make_1]{make} that [person]{person} a [member]{member}",
+      "entry": "co-opt",
+      "id": "co-opt#co-opt__5"
+    },
+    {
+      "comment": "[money]{money} that someone has to [pay_1]{pay} [regularly]{regularly}, for [example]{example} to be a [member]{member} of a [club_1]{club} or [union]{union}",
+      "entry": "dues",
+      "id": "due_2#due_2__3"
+    },
+    {
+      "comment": "the [right_1]{right} to [join_1]{join} a [group_1]{group} or [organization]{organization}, for [example]{example} a [university]{university} or a [profession]{profession}",
+      "entry": "entrance",
+      "id": "entrance_1#entrance_1__10"
+    },
+    {
+      "comment": "[belong]{belonging} to a [particular_1]{particular} [organization]{organization}",
+      "entry": "from",
+      "id": "from#from__52"
+    },
+    {
+      "comment": "to [join_1]{join} a [different]{different} [group_1]{group}, [organization]{organization}, or [political]{political} [party_1]{party}",
+      "entry": "go over to",
+      "id": "go-over-to#go-over-to__3"
+    },
+    {
+      "comment": "to [celebrate]{celebrate} the [fact]{fact} that someone is [start_1]{starting} an [important]{important} [new]{new} [job_1]{job} with an [official_1]{official} [ceremony]{ceremony}",
+      "entry": "inaugurate",
+      "id": "inaugurate#inaugurate__5"
+    },
+    {
+      "comment": "to [officially]{officially} [accept]{accept} someone into a [group_1]{group}",
+      "entry": "induct",
+      "id": "induct#induct__1"
+    },
+    {
+      "comment": "the [process_1]{process} or [formal_1]{formal} [act_1]{act} of [accepting]{accepting} someone into a [group_1]{group} or [job_1]{job}",
+      "entry": "induction",
+      "id": "induction#induction__2"
+    },
+    {
+      "comment": "to [make_1]{make} someone a [member]{member} of an [organization]{organization} or [group_1]{group}, often with a [special_1]{special} [ceremony]{ceremony}",
+      "entry": "initiate",
+      "id": "initiate_1#initiate_1__8"
+    },
+    {
+      "comment": "to [officially]{officially} put someone in an [important]{important} [job_1]{job} or [position_1]{position}",
+      "entry": "install",
+      "id": "install#install__8"
+    },
+    {
+      "comment": "to become a [member]{member} of an [organization]{organization}, [club_1]{club}, etc.",
+      "entry": "join",
+      "id": "join_1#join_1__6"
+    },
+    {
+      "comment": "to become one of a [group_1]{group} of [similar]{similar} [people_1]{people} or [thing]{things}",
+      "entry": "join",
+      "id": "join_1#join_1__26"
+    },
+    {
+      "comment": "the [fact]{fact} of being a [member]{member} of a [club_1]{club}, [organization]{organization}, or [group_1]{group}",
+      "entry": "membership",
+      "id": "membership#membership__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} who [belong]{belong} to a [club_1]{club}, [organization]{organization}, or [group_1]{group}",
+      "entry": "membership",
+      "id": "membership#membership__6"
+    },
+    {
+      "comment": "someone who [does]{does} not [belong]{belong} to a [particular_1]{particular} [group_1]{group} or [organization]{organization}",
+      "entry": "nonmember",
+      "id": "nonmember#nonmember__1"
+    },
+    {
+      "comment": "to have a [particular_1]{particular} [job_1]{job} or [position_1]{position} in an [organization]{organization} or system, [especially]{especially} an [important]{important} one",
+      "entry": "occupy",
+      "id": "occupy#occupy__13"
+    },
+    {
+      "comment": "a [position_1]{position} in a [large_1]{large} and [powerful]{powerful} [organization]{organization}, [especially]{especially} a [government]{government}",
+      "entry": "office",
+      "id": "office#office__19"
+    },
+    {
+      "comment": "an [opportunity]{opportunity} to [join_1]{join} a [school_1]{school}, [college]{college}, [course_1]{course}, etc.",
+      "entry": "place",
+      "id": "place_1#place_1__27"
+    },
+    {
+      "comment": "an [opportunity]{opportunity} to be part of an [organization]{organization} or [business]{business}",
+      "entry": "place",
+      "id": "place_1#place_1__30"
+    },
+    {
+      "comment": "the [entrance_1]{entrance} to a [building]{building} where a [particular_1]{particular} [group_1]{group} of [people_1]{people} [meet_1]{meet}; [used]{used} to [talk_1]{talk} about who is [allow]{allowed} to [join_1]{join} that [group_1]{group} of [people_1]{people}",
+      "entry": "portals",
+      "id": "portal#portal__3"
+    },
+    {
+      "comment": "to [allow]{allow} someone to [join_1]{join} an [organization]{organization} again",
+      "entry": "readmit",
+      "id": "readmit#readmit__3"
+    },
+    {
+      "comment": "to [officially]{officially} [accept]{accept} someone into a [group_1]{group}",
+      "entry": "receive",
+      "id": "receive#receive__18"
+    },
+    {
+      "comment": "the [process_1]{process} of [find_1]{finding} [people_1]{people} to [join_1]{join} the [military]{military}, or a [company]{company} or [organization]{organization}",
+      "entry": "recruitment",
+      "id": "recruitment#recruitment__1"
+    },
+    {
+      "comment": "to become part of a [club_1]{club} or [organization]{organization} again after you have [left_1]{left} it",
+      "entry": "rejoin",
+      "id": "rejoin#rejoin__3"
+    },
+    {
+      "comment": "to [sign_1]{sign} with a [sport_1]{sports} [team_1]{team}",
+      "entry": "sign for",
+      "id": "sign-for#sign-for__2"
+    },
+    {
+      "comment": "if you [sign_1]{sign} with a [sport_1]{sports} [team_1]{team}, you [join_1]{join} it by [signing]{signing} a [contract_1]{contract}",
+      "entry": "sign with",
+      "id": "sign-with#sign-with__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that you [pay_1]{pay} [regularly]{regularly} in [order_1]{order} to be a [member]{member} of an [organization]{organization} or a [club_1]{club}",
+      "entry": "subscription",
+      "id": "subscription#subscription__2"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [number_1]{number} of [people_1]{people} in a [group_1]{group}",
+      "entry": "swell the ranks",
+      "id": "swell-the-ranks#swell-the-ranks__1"
+    },
+    {
+      "comment": "to [accept]{accept} someone again after they have [left_1]{left} a [relationship]{relationship}, [job_1]{job}, etc. and [want_1]{want} to [return_1]{return} to it",
+      "entry": "take back",
+      "id": "take-back#take-back__7"
+    },
+    {
+      "comment": "to become part of a [particular_1]{particular} [group_1]{group} of [people_1]{people} or [thing]{things}",
+      "entry": "take your place",
+      "id": "take-your-place#take-your-place__3"
+    }
+  ],
+  "thesaurus": "Club membership and joining a club, organization or group",
+  "type": "Related words"
+}

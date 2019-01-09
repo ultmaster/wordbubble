@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [state_1]{state} [formally]{formally} that you are [leave_1]{leaving} a [job_1]{job} [permanently]{permanently}",
+      "entry": "resign",
+      "id": "resign#resign__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [working]{working}, [especially]{especially} when you [reach_1]{reach} the [age_1]{age} when you are [officially]{officially} too [old]{old} to [work_1]{work}",
+      "entry": "retire",
+      "id": "retire#retire__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [job_1]{job} or [position_1]{position}, [especially]{especially} an [important]{important} one",
+      "entry": "stand down",
+      "id": "stand-down#stand-down__2"
+    },
+    {
+      "comment": "to give up a [job_1]{job} or [position_1]{position}, [especially]{especially} when you have had it for a long time",
+      "entry": "bow out",
+      "id": "bow-out#bow-out__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} an [official_1]{official} [position_1]{position} or [job_1]{job}, [especially]{especially} so that someone else can take your [place_1]{place}",
+      "entry": "step aside",
+      "id": "step-aside#step-aside__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [job_1]{job} or [school_1]{school} [permanently]{permanently}",
+      "entry": "quit",
+      "id": "quit#quit__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [job_1]{job} or [position_1]{position} so that it is [available]{available} for someone else to do",
+      "entry": "vacate",
+      "id": "vacate#vacate__2"
+    },
+    {
+      "comment": "to [stop_1]{stop} [working]{working} for an [organization]{organization} or [going_1]{going} to [school_1]{school} or [college]{college}",
+      "entry": "leave",
+      "id": "leave_1#leave_1__18"
+    },
+    {
+      "comment": "to [tell_1]{tell} your [employer]{employer} that you are [leave_1]{leaving} your [job_1]{job}, [especially]{especially} in a [letter_1]{letter}",
+      "entry": "give/hand in (your) notice",
+      "id": "give-hand-in-your-notice#give-hand-in-your-notice__1"
+    },
+    {
+      "comment": "to [say_1]{say} [officially]{officially} that you have [decided]{decided} to [leave_1]{leave} your [job_1]{job}",
+      "entry": "hand in your notice/resignation",
+      "id": "hand-in#hand-in__4"
+    }
+  ],
+  "thesaurus": "Leaving a job",
+  "type": "Synonyms"
+}

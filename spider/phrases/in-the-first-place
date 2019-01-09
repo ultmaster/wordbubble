@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in the first place",
+  "senses": [
+    {
+      "def": "[used]{used} for [state_2]{stating} the most [basic_1]{basic} [reason_1]{reason} for something",
+      "examples": [
+        "There were several [reason_1]{reasons} he couldn\u2019t [sleep_1]{sleep}. In the first [place_1]{place}, [peg_1]{Peg} [snore_1]{snored}."
+      ],
+      "id": "in-the-first-place__1"
+    },
+    {
+      "def": "at the [beginning]{beginning} of a [situation]{situation}",
+      "examples": [
+        "If you don\u2019t [like_1]{like} her, why [invite_1]{invite} her in the first [place_1]{place}?"
+      ],
+      "id": "in-the-first-place__3"
+    }
+  ]
+}

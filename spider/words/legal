@@ -1,0 +1,26 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to the [law]{law} or [lawyer]{lawyers}",
+      "examples": [
+        "You may [wish_1]{wish} to [seek]{seek} legal [advice]{advice} before [signing]{signing} the [contract_1]{contract}.",
+        "Johnson\u2019s legal [fee]{fees} [amount_2]{amounted} to over $2.5 [million]{million}.",
+        "[china_1]{China}\u2019s legal system"
+      ],
+      "id": "legal__1"
+    },
+    {
+      "def": "[allow]{allowed} by the [law]{law}",
+      "examples": [
+        "legal [drug_1]{drugs}",
+        "It is [perfectly]{perfectly} legal to [import_1]{import} these [goods]{goods} under European [law]{law}.",
+        "The [driver]{driver}\u2019s blood-alcohol [level_1]{level} was three times the legal [limit_1]{limit}.",
+        "the [child]{child}\u2019s legal [guardian]{guardians}",
+        "[safe_1]{Safe} [disposal]{disposal} of [industrial]{industrial} [waste_1]{waste} is a legal [requirement]{requirement}."
+      ],
+      "id": "legal__5"
+    }
+  ],
+  "word": "legal"
+}

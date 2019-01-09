@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [changed]{changed} or [influence_2]{influenced} by something",
+      "entry": "unaffected",
+      "id": "unaffected#unaffected__1"
+    },
+    {
+      "comment": "not [changed]{changed} in [condition_1]{condition}, [appearance]{appearance}, etc.",
+      "entry": "unaltered",
+      "id": "unaltered#unaltered__1"
+    },
+    {
+      "comment": "not [changed]{changed}",
+      "entry": "untouched",
+      "id": "untouched#untouched__4"
+    },
+    {
+      "comment": "not [influence_2]{influenced} or [affected]{affected} by something",
+      "entry": "immune",
+      "id": "immune#immune__4"
+    },
+    {
+      "comment": "something that is [ineffectual]{ineffectual} [fail_1]{fails} to [achieve]{achieve} what it is [intended_1]{intended} to [achieve]{achieve}",
+      "entry": "ineffectual",
+      "id": "ineffectual#ineffectual__3"
+    },
+    {
+      "comment": "[stay_1]{staying} at the same [level_1]{level}, [speed_1]{speed}, [value_1]{value}, etc.",
+      "entry": "steady",
+      "id": "steady_1#steady_1__10"
+    },
+    {
+      "comment": "[able_1]{able} to [stay_1]{stay} in the same [state_1]{state}",
+      "entry": "stable",
+      "id": "stable_1#stable_1__12"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} [amount_1]{amounts} that have not become more or less",
+      "entry": "level",
+      "id": "level_2#level_2__17"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that it would not [make_1]{make} any [difference]{difference} if you [did]{did} something else",
+      "entry": "might (just) as well",
+      "id": "might-just-as-well#might-just-as-well__4"
+    },
+    {
+      "comment": "the [fact]{fact} that something is made to have no [effect_1]{effect}",
+      "entry": "negation",
+      "id": "negation#negation__3"
+    }
+  ],
+  "thesaurus": "Not affected and not having an effect",
+  "type": "Synonyms"
+}

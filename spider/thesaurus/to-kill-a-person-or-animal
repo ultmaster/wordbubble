@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} a [person]{person} or other [living_1]{living} thing [die_1]{die}",
+      "entry": "kill",
+      "id": "kill_1#kill_1__1"
+    },
+    {
+      "comment": "to [commit]{commit} the [crime_1]{crime} of [killing]{killing} someone [deliberately]{deliberately}",
+      "entry": "murder",
+      "id": "murder_2#murder_2__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} a [person]{person} or an [animal_1]{animal} by [squeeze_1]{squeezing} their [throat]{throat} so that they cannot [breathe]{breathe}",
+      "entry": "strangle",
+      "id": "strangle#strangle__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} a [famous_1]{famous} or [important]{important} [person]{person}, [especially]{especially} for [political]{political} [reason_1]{reasons} or for [payment]{payment}",
+      "entry": "assassinate",
+      "id": "assassinate#assassinate__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} many [people_1]{people} in a [violent]{violent} way",
+      "entry": "slaughter",
+      "id": "slaughter_2#slaughter_2__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} a [lot_1]{lot} of [people_1]{people}",
+      "entry": "massacre",
+      "id": "massacre_2#massacre_2__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} a [person]{person} or a [group_1]{group} of [people_1]{people}",
+      "entry": "exterminate",
+      "id": "exterminate#exterminate__2"
+    },
+    {
+      "comment": "to [murder_1]{murder} someone",
+      "entry": "bump off",
+      "id": "bump-off#bump-off__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} a [person]{person} or [animal_1]{animal}",
+      "entry": "dispatch",
+      "id": "dispatch_1#dispatch_1__3"
+    },
+    {
+      "comment": "to [kill_1]{kill} someone",
+      "entry": "take someone\u2019s life",
+      "id": "take-someone-s-life#take-someone-s-life__1"
+    }
+  ],
+  "thesaurus": "To kill a person or animal",
+  "type": "Synonyms"
+}

@@ -1,0 +1,456 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [bread]{bread}, [cake]{cakes}, etc. [use_1]{using} an [oven]{oven}",
+      "entry": "bake",
+      "id": "bake#bake__1"
+    },
+    {
+      "comment": "to mix foods such as eggs, cream, or butter well using a fork or a special tool or machine. This tool or machine can be called a beater.",
+      "entry": "beat",
+      "id": "beat_1#beat_1__33"
+    },
+    {
+      "comment": "to put [fruit_1]{fruit}, [nuts_1]{nuts}, or [vegetable]{vegetables} into [boiling]{boiling} [water_1]{water} for a [short_1]{short} time, often in [order_1]{order} to [make_1]{make} it [easy_1]{easier} to [remove]{remove} the [skin_1]{skin}",
+      "entry": "blanch",
+      "id": "blanch#blanch__2"
+    },
+    {
+      "comment": "to [mix_1]{mix} [different]{different} [food]{foods} or other [substance]{substances} together",
+      "entry": "blend",
+      "id": "blend_1#blend_1__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [bone_1]{bones} from [meat]{meat} or [fish_1]{fish} before [cooking_1]{cooking} it",
+      "entry": "bone",
+      "id": "bone_2#bone_2__1"
+    },
+    {
+      "comment": "to [kill_1]{kill} an [animal_1]{animal} and [cut_1]{cut} it up so that it can be [eaten]{eaten}",
+      "entry": "butcher",
+      "id": "butcher_2#butcher_2__1"
+    },
+    {
+      "comment": "the [work_1]{work} of [cutting_1]{cutting} up [animal_1]{animals} to be [sold]{sold} as [meat]{meat}",
+      "entry": "butchery",
+      "id": "butchery#butchery__3"
+    },
+    {
+      "comment": "to [spread_1]{spread} [butter_1]{butter} on something",
+      "entry": "butter",
+      "id": "butter_2#butter_2__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} a [large_1]{large} [piece_1]{piece} of [cooked]{cooked} [meat]{meat} into thin [piece_1]{pieces} before [serving]{serving} it",
+      "entry": "carve",
+      "id": "carve#carve__5"
+    },
+    {
+      "comment": "if you [chill_1]{chill} [food]{food} or [drink_1]{drink}, or if it [chill_1]{chills}, it becomes [cold_1]{cold} enough to be ready to [eat]{eat} or [drink_1]{drink}",
+      "entry": "chill",
+      "id": "chill_1#chill_1__1"
+    },
+    {
+      "comment": "to [mix_1]{mix} [milk_1]{milk} or [cream_1]{cream} in a [special_1]{special} [container]{container} in [order_1]{order} to [make_1]{make} [butter_1]{butter}",
+      "entry": "churn",
+      "id": "churn_1#churn_1__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [inside_1]{inside} [part_1]{parts} of an [animal_1]{animal}, [bird]{bird}, or [fish_1]{fish} before [cooking_1]{cooking} it",
+      "entry": "clean",
+      "id": "clean_2#clean_2__11"
+    },
+    {
+      "comment": "to take the [center_1]{center} out of a [piece_1]{piece} of [fruit_1]{fruit} such as an [apple]{apple}",
+      "entry": "core",
+      "id": "core_3#core_3__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} [cheese]{cheese}, [bread]{bread}, or other [food]{food} into [cube_1]{cubes}",
+      "entry": "cube",
+      "id": "cube_2#cube_2__2"
+    },
+    {
+      "comment": "to [cut_1]{cut} [food]{food} into [small_1]{small} [square_1]{square} [piece_1]{pieces}",
+      "entry": "dice",
+      "id": "dice_2#dice_2__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that [food]{food} or [drink_1]{drink} is ready",
+      "entry": "dinner/tea etc. is up",
+      "id": "dinner-tea-etc-is-up#dinner-tea-etc-is-up__1"
+    },
+    {
+      "comment": "to [serve_1]{serve} [food]{food}",
+      "entry": "dish out",
+      "id": "dish_2#dish_2__6"
+    },
+    {
+      "comment": "to put [food]{food} into [dish_1]{dishes} so that it is ready to be [eaten]{eaten}",
+      "entry": "dish up",
+      "id": "dish_2#dish_2__12"
+    },
+    {
+      "comment": "to [prepare]{prepare} a [particular_1]{particular} [kind_1]{kind} of [food]{food}",
+      "entry": "do",
+      "id": "do_1#do_1__71"
+    },
+    {
+      "comment": "to [add_1]{add} a [substance]{substance} to [food]{food} or [drink_1]{drink}, [especially]{especially} a [harmful]{harmful} [substance]{substance}",
+      "entry": "doctor",
+      "id": "doctor_2#doctor_2__3"
+    },
+    {
+      "comment": "to [shake_1]{shake} something such as [sugar_1]{sugar} or [flour_1]{flour} over something",
+      "entry": "dredge",
+      "id": "dredge_1#dredge_1__3"
+    },
+    {
+      "comment": "to add flavor to a salad by putting a mixture of liquids such as oil and lemon juice on it. The mixture is called a dressing.",
+      "entry": "dress",
+      "id": "dress_1#dress_1__15"
+    },
+    {
+      "comment": "to prepare something such as a chicken or crab  (=an ocean animal) by cleaning it and taking out the parts that you cannot eat",
+      "entry": "dress",
+      "id": "dress_1#dress_1__16"
+    },
+    {
+      "comment": "to [pour]{pour} a [small_1]{small} amount of [liquid_1]{liquid} over [food]{food} that you are [prepare]{preparing}",
+      "entry": "drizzle",
+      "id": "drizzle_1#drizzle_1__2"
+    },
+    {
+      "comment": "to [make_1]{make} [food]{food} [taste_1]{taste} [better_1]{better} by [add_1]{adding} something",
+      "entry": "enrich",
+      "id": "enrich#enrich__3"
+    },
+    {
+      "comment": "to [prepare]{prepare} [fish_1]{fish} or [meat]{meat} for [cooking_1]{cooking} by [remove]{removing} the [bone_1]{bones}",
+      "entry": "fillet",
+      "id": "fillet_2#fillet_2__1"
+    },
+    {
+      "comment": "to [prepare]{prepare} [food]{food} or [drink_1]{drink}",
+      "entry": "fix",
+      "id": "fix_1#fix_1__6"
+    },
+    {
+      "comment": "if [food]{food} such as [fish_1]{fish} [flake_1]{flakes}, or if you [flake_1]{flake} it, it [break_1]{breaks} [easily]{easily} into [small_1]{small} [flat_1]{flat} [piece_1]{pieces}",
+      "entry": "flake",
+      "id": "flake_2#flake_2__3"
+    },
+    {
+      "comment": "to [add_1]{add} something to [food]{food} or [drink_1]{drink} that [change_1]{changes} its [taste_1]{taste} or [give_1]{gives} it a [particular_1]{particular} [taste_1]{taste}",
+      "entry": "flavor",
+      "id": "flavor_2#flavor_2__1"
+    },
+    {
+      "comment": "to use a [spoon_1]{spoon} or [knife_1]{knife} to [add_1]{add} something [slowly]{slowly} and [gently]{gently} to a [mixture]{mixture}",
+      "entry": "fold in",
+      "id": "fold-in#fold-in__1"
+    },
+    {
+      "comment": "to [add_1]{add} a [substance]{substance} to [food]{food} or [drink_1]{drink} to [make_1]{make} it [strong]{stronger} or [healthy]{healthier}",
+      "entry": "fortify",
+      "id": "fortify#fortify__6"
+    },
+    {
+      "comment": "to put [frosting]{frosting} on a [cake]{cake}",
+      "entry": "frost",
+      "id": "frost_2#frost_2__1"
+    },
+    {
+      "comment": "to [add_1]{add} something to a [dish_1]{dish} of [food]{food} to [make_1]{make} it [look_1]{look} more [attractive]{attractive}",
+      "entry": "garnish",
+      "id": "garnish_1#garnish_1__1"
+    },
+    {
+      "comment": "to [prepare]{prepare} a [meal]{meal}",
+      "entry": "get",
+      "id": "get#get__138"
+    },
+    {
+      "comment": "to rub cheese, vegetables, chocolate, etc. against a grater in order to cut them into small pieces",
+      "entry": "grate",
+      "id": "grate_1#grate_1__1"
+    },
+    {
+      "comment": "to [rub_1]{rub} a [small_1]{small} amount of [oil_1]{oil} or [fat_1]{fat} on the [inside_1]{inside} of a [container]{container} before [cooking_1]{cooking} [food]{food} in it in the [oven]{oven}",
+      "entry": "grease",
+      "id": "grease_2#grease_2__2"
+    },
+    {
+      "comment": "to [cut_1]{cut} [food]{food}, [especially]{especially} [raw_1]{raw} [meat]{meat}, into very [small_1]{small} [piece_1]{pieces} [use_1]{using} a [machine_1]{machine}",
+      "entry": "grind",
+      "id": "grind_1#grind_1__4"
+    },
+    {
+      "comment": "to [remove]{remove} the [organ]{organs} from [inside_1]{inside} a [fish_1]{fish} before you [cook_1]{cook} it",
+      "entry": "gut",
+      "id": "gut_2#gut_2__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [hull_1]{hull} from a [seed_1]{seed} or [grain]{grain} or from a [soft]{soft} [fruit_1]{fruit}",
+      "entry": "hull",
+      "id": "hull_2#hull_2__1"
+    },
+    {
+      "comment": "to cover a cake with frosting",
+      "entry": "ice",
+      "id": "ice_2#ice_2__1"
+    },
+    {
+      "comment": "if you infuse something such as leaves or herbs, or if they infuse, you put them into hot water in order to make a drink, medicine, or beauty treatment",
+      "entry": "infuse",
+      "id": "infuse#infuse__4"
+    },
+    {
+      "comment": "to [cut_1]{cut} [meat]{meat} into [large_1]{large} [piece_1]{pieces}",
+      "entry": "joint",
+      "id": "joint_3#joint_3__1"
+    },
+    {
+      "comment": "to [make_1]{make} [juice_1]{juice} from a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "juice",
+      "id": "juice_2#juice_2__1"
+    },
+    {
+      "comment": "to [serve_1]{serve} something with a [ladle_1]{ladle}",
+      "entry": "ladle",
+      "id": "ladle_2#ladle_2__1"
+    },
+    {
+      "comment": "to put small pieces of fat or bacon on meat before cooking it",
+      "entry": "lard",
+      "id": "lard_2#lard_2__1"
+    },
+    {
+      "comment": "to [crush_1]{crush} something, [especially]{especially} [solid_1]{solid} [food]{food} such as [fruit_1]{fruit} or [vegetable]{vegetables}, into a [liquid_1]{liquid}",
+      "entry": "liquidize",
+      "id": "liquidize#liquidize__1"
+    },
+    {
+      "comment": "to [make_1]{make} [food]{food} [soft]{soft} by [leave_1]{leaving} it in a [liquid_1]{liquid}, or to become [soft]{soft} in this way",
+      "entry": "macerate",
+      "id": "macerate#macerate__1"
+    },
+    {
+      "comment": "to [marinate]{marinate} [food]{food}",
+      "entry": "marinade",
+      "id": "marinade_2#marinade_2__1"
+    },
+    {
+      "comment": "to put [meat]{meat}, [fish_1]{fish}, or [vegetable]{vegetables} in a [marinade_1]{marinade}",
+      "entry": "marinate",
+      "id": "marinate#marinate__1"
+    },
+    {
+      "comment": "to [crush_1]{crush} something, [especially]{especially} [food]{food}",
+      "entry": "mash",
+      "id": "mash_2#mash_2__1"
+    },
+    {
+      "comment": "to crush a substance such as peppercorns or coffee beans",
+      "entry": "mill",
+      "id": "mill_2#mill_2__2"
+    },
+    {
+      "comment": "to [cut_1]{cut} [meat]{meat} into very [small_1]{small} [piece_1]{pieces} [use_1]{using} a [machine_1]{machine}",
+      "entry": "mince",
+      "id": "mince_1#mince_1__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [skin_1]{skin} from a [fruit_1]{fruit} or [vegetable]{vegetable} [use_1]{using} a [knife_1]{knife}",
+      "entry": "pare",
+      "id": "pare#pare__4"
+    },
+    {
+      "comment": "to [remove]{remove} the [skin_1]{skin} from a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "peel",
+      "id": "peel_1#peel_1__1"
+    },
+    {
+      "comment": "to put [pepper_1]{pepper} on [food]{food}",
+      "entry": "pepper",
+      "id": "pepper_2#pepper_2__8"
+    },
+    {
+      "comment": "if you pipe cream or frosting onto food as a decoration, you force it through a special tube onto the food",
+      "entry": "pipe",
+      "id": "pipe_2#pipe_2__5"
+    },
+    {
+      "comment": "to take the [large_1]{large} [hard_1]{hard} [seed_1]{seed} out of a [fruit_1]{fruit}",
+      "entry": "pit",
+      "id": "pit_2#pit_2__2"
+    },
+    {
+      "comment": "to [pull_1]{pull} the [feather_1]{feathers} off the body of a [dead_1]{dead} [bird]{bird} so that it can be [cooked]{cooked}",
+      "entry": "pluck",
+      "id": "pluck_1#pluck_1__1"
+    },
+    {
+      "comment": "to remove peas or beans from a pod",
+      "entry": "pod",
+      "id": "pod_2#pod_2__1"
+    },
+    {
+      "comment": "to put [poison_1]{poison} into [food]{food} or [drink_1]{drink} because you [want_1]{want} to [kill_1]{kill} someone or [make_1]{make} them [sick_1]{sick}",
+      "entry": "poison",
+      "id": "poison_2#poison_2__3"
+    },
+    {
+      "comment": "to [heat_1]{heat} an [oven]{oven} to a [particular_1]{particular} [temperature]{temperature} before [put]{putting} [food]{food} into it to be [cooked]{cooked}",
+      "entry": "preheat",
+      "id": "preheat#preheat__1"
+    },
+    {
+      "comment": "to [make_1]{make} [food]{food} ready to be [cooked]{cooked} or [eaten]{eaten}, for [example]{example} by [cleaning]{cleaning} or [cutting_1]{cutting} it",
+      "entry": "prepare",
+      "id": "prepare#prepare__4"
+    },
+    {
+      "comment": "to [squeeze_1]{squeeze} [fruit_1]{fruit} or [vegetable]{vegetables} in [order_1]{order} to get [juice_1]{juice} or [oil_1]{oil} out of them",
+      "entry": "press",
+      "id": "press_2#press_2__23"
+    },
+    {
+      "comment": "to squeeze the juice out of an orange, etc. using a small dish with a raised center called a reamer",
+      "entry": "ream",
+      "id": "ream_2#ream_2__4"
+    },
+    {
+      "comment": "to [add_1]{add} a [liquid_1]{liquid} to [dried]{dried} [food]{food} so that you can [eat]{eat} it",
+      "entry": "reconstitute",
+      "id": "reconstitute#reconstitute__1"
+    },
+    {
+      "comment": "to [mix_1]{mix} something such as [butter_1]{butter} or [fat_1]{fat} into another [substance]{substance} such as [flour_1]{flour}, [use_1]{using} your [finger_1]{fingers}",
+      "entry": "rub in",
+      "id": "rub-in#rub-in__1"
+    },
+    {
+      "comment": "to [add_1]{add} [salt_1]{salt} to [food]{food}",
+      "entry": "salt",
+      "id": "salt_2#salt_2__1"
+    },
+    {
+      "comment": "to [remove]{remove} [scale_1]{scales} from [fish_1]{fish}",
+      "entry": "scale",
+      "id": "scale_2#scale_2__3"
+    },
+    {
+      "comment": "to add salt, pepper, or other spices to food",
+      "entry": "season",
+      "id": "season_2#season_2__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [seed_1]{seeds} from a [plant_1]{plant} or [fruit_1]{fruit}",
+      "entry": "seed",
+      "id": "seed_2#seed_2__1"
+    },
+    {
+      "comment": "to remove the outer part that covers nuts, peas, or other foods",
+      "entry": "shell",
+      "id": "shell_2#shell_2__3"
+    },
+    {
+      "comment": "to [cut_1]{cut} or [tear_1]{tear} [food]{food} into long thin [piece_1]{pieces}",
+      "entry": "shred",
+      "id": "shred_2#shred_2__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [shell_1]{shell} or [outer_1]{outer} part of something such as a [nut]{nut} or [vegetable]{vegetable}",
+      "entry": "shuck",
+      "id": "shuck#shuck__1"
+    },
+    {
+      "comment": "to [pour]{pour} a [dry_1]{dry} [substance]{substance} through a [sieve_1]{sieve} to [remove]{remove} the [large_1]{large} [piece_1]{pieces}",
+      "entry": "sift",
+      "id": "sift#sift__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [skin_1]{skin} from an [animal_1]{animal}, [fruit_1]{fruit}, or [vegetable]{vegetable}",
+      "entry": "skin",
+      "id": "skin_2#skin_2__1"
+    },
+    {
+      "comment": "to make food completely wet with a liquid such as vinegar or alcohol, especially by keeping it in the liquid for a long time",
+      "entry": "souse",
+      "id": "souse#souse__2"
+    },
+    {
+      "comment": "to [add_1]{add} [spice_1]{spices} to [food]{food} in [order_1]{order} to give it a [strong]{stronger} [taste_1]{taste}",
+      "entry": "spice up",
+      "id": "spice_2#spice_2__4"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [surface_1]{surface} with a thin [layer_1]{layer} of a [soft]{soft} [food]{food}",
+      "entry": "spread",
+      "id": "spread_1#spread_1__16"
+    },
+    {
+      "comment": "to move [food]{food} around in a [dish_1]{dish} or [pan_1]{pan} [use_1]{using} a [spoon_1]{spoon} or other [object_1]{object}",
+      "entry": "stir",
+      "id": "stir_1#stir_1__3"
+    },
+    {
+      "comment": "to [remove]{remove} the [stone_1]{stone} from [inside_1]{inside} a [fruit_1]{fruit}",
+      "entry": "stone",
+      "id": "stone_2#stone_2__4"
+    },
+    {
+      "comment": "to fill [meat]{meat} or [vegetable]{vegetables} with [small_1]{small} [piece_1]{pieces} of another [type_1]{type} of [food]{food}",
+      "entry": "stuff",
+      "id": "stuff_2#stuff_2__5"
+    },
+    {
+      "comment": "to [add_1]{add} [sugar_1]{sugar} to something, or to [cover_1]{cover} something with [sugar_1]{sugar}",
+      "entry": "sugar",
+      "id": "sugar_2#sugar_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} [meat]{meat} [soft]{soft} by [hit_1]{hitting} it or [put]{putting} it in a [liquid_1]{liquid} [contain]{containing} [oil_1]{oil}",
+      "entry": "tenderize",
+      "id": "tenderize#tenderize__1"
+    },
+    {
+      "comment": "if [frozen_1]{frozen} [food]{food} [thaw_1]{thaws}, or if you [thaw_1]{thaw} it, it becomes [soft]{softer} and ready to [cook_1]{cook}",
+      "entry": "thaw",
+      "id": "thaw_1#thaw_1__7"
+    },
+    {
+      "comment": "to [mix_1]{mix} [food]{food} with a [liquid_1]{liquid} so that it becomes [covered_1]{covered} in the [liquid_1]{liquid}",
+      "entry": "toss",
+      "id": "toss_1#toss_1__8"
+    },
+    {
+      "comment": "to [tie_1]{tie} the [legs]{legs} and [wing_1]{wings} of a [chicken_1]{chicken} or other [bird]{bird} to its body before [cooking_1]{cooking} it",
+      "entry": "truss",
+      "id": "truss_2#truss_2__1"
+    },
+    {
+      "comment": "to [heat_1]{heat} [food]{food} until it is [warm_1]{warm} in all [part_1]{parts}",
+      "entry": "warm through",
+      "id": "warm-through#warm-through__1"
+    },
+    {
+      "comment": "to [add_1]{add} [water_1]{water} to a [drink_1]{drink} or [liquid_1]{liquid} in [order_1]{order} to [make_1]{make} it less [strong]{strong}",
+      "entry": "water down",
+      "id": "water-down#water-down__3"
+    },
+    {
+      "comment": "to [mix_1]{mix} a [food]{food} very [quickly]{quickly} in [order_1]{order} to put [air_1]{air} into it",
+      "entry": "whip",
+      "id": "whip_2#whip_2__14"
+    },
+    {
+      "comment": "to [mix_1]{mix} something very [quickly]{quickly} [use_1]{using} a [whisk_1]{whisk}",
+      "entry": "whisk",
+      "id": "whisk_2#whisk_2__1"
+    }
+  ],
+  "thesaurus": "Prepare food for cooking or eating",
+  "type": "Related words"
+}

@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "to [rent_1]{rent} something out",
+      "entry": "hire out",
+      "id": "hire-out#hire-out__3"
+    },
+    {
+      "comment": "to [allow]{allow} someone to use a [room_1]{room}, [building]{building}, etc. in [exchange_1]{exchange} for [money]{money}",
+      "entry": "let out",
+      "id": "let-out#let-out__9"
+    },
+    {
+      "comment": "to pay money to use a vehicle, piece of equipment, etc. for a short time. The usual British word is hire",
+      "entry": "rent",
+      "id": "rent_2#rent_2__4"
+    },
+    {
+      "comment": "to be [available]{available} for use in [exchange_1]{exchange} for a [particular_1]{particular} amount in [rent_1]{rent}",
+      "entry": "rent",
+      "id": "rent_2#rent_2__6"
+    },
+    {
+      "comment": "if you [sign_1]{sign} out an [object_1]{object} or a [vehicle]{vehicle}, you [write]{write} your name on an [official_1]{official} [list_1]{list} to show that you have [borrow]{borrowed} or [rented]{rented} it",
+      "entry": "sign out",
+      "id": "sign-out#sign-out__3"
+    },
+    {
+      "comment": "to [rent_1]{rent} something such as a [car]{car} or [room_1]{room}",
+      "entry": "hire",
+      "id": "hire_1#hire_1__5"
+    },
+    {
+      "comment": "to have a [legal]{legal} [agreement]{agreement} in which someone [pay_1]{pays} you [money]{money} to use a [building]{building}, [land_1]{land}, or [equipment]{equipment} [belong]{belonging} to you for a [specific]{specific} [period_1]{period} of time",
+      "entry": "lease",
+      "id": "lease_2#lease_2__1"
+    },
+    {
+      "comment": "to have a [legal]{legal} [agreement]{agreement} in which you [pay_1]{pay} someone [money]{money} so you can use a [building]{building}, [land_1]{land}, or [equipment]{equipment} [belong]{belonging} to them for a [specific]{specific} [period_1]{period} of time",
+      "entry": "lease",
+      "id": "lease_2#lease_2__3"
+    }
+  ],
+  "thesaurus": "To rent or hire",
+  "type": "Synonyms"
+}

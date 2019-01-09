@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is [patient_1]{patient} is [able_1]{able} to [wait_1]{wait} for a long time or [deal_1]{deal} with a [difficult]{difficult} [situation]{situation} without becoming [angry]{angry} or [upset_1]{upset}",
+      "entry": "patient",
+      "id": "patient_2#patient_2__1"
+    },
+    {
+      "comment": "[accepting]{accepting} that something [unpleasant]{unpleasant} must [happen]{happen} and that you cannot [change_1]{change} it",
+      "entry": "resigned",
+      "id": "resigned#resigned__1"
+    },
+    {
+      "comment": "[patient_1]{patient}, [despite]{despite} [have]{having} [problem]{problems} or being [badly]{badly} [treat_1]{treated} over a long [period_1]{period} of time",
+      "entry": "long-suffering",
+      "id": "long-suffering#long-suffering__1"
+    },
+    {
+      "comment": "[accepting]{accepting} [thing]{things} without [complain]{complaining}",
+      "entry": "stoical",
+      "id": "stoical#stoical__1"
+    },
+    {
+      "comment": "[willing]{willing} to [deal_1]{deal} with a [difficult]{difficult} or [unpleasant]{unpleasant} [situation]{situation} without [complain]{complaining}",
+      "entry": "uncomplaining",
+      "id": "uncomplaining#uncomplaining__1"
+    },
+    {
+      "comment": "[tend]{tending} not to [criticize]{criticize} [people_1]{people} or [thing]{things} or [express_1]{express} [negative_1]{negative} [opinion]{opinions} about them",
+      "entry": "uncritical",
+      "id": "uncritical#uncritical__1"
+    },
+    {
+      "comment": "someone who is [biddable]{biddable} [does]{does} what [people_1]{people} [tell_1]{tell} them without [argue]{arguing} or [complain]{complaining}",
+      "entry": "biddable",
+      "id": "biddable#biddable__1"
+    },
+    {
+      "comment": "[easy_1]{easy} to [persuade]{persuade} or [influence_1]{influence}",
+      "entry": "pliable",
+      "id": "pliable#pliable__2"
+    },
+    {
+      "comment": "[used]{used} about [people_1]{people}\u2019s [behavior]{behavior}",
+      "entry": "patient",
+      "id": "patient_2#patient_2__4"
+    },
+    {
+      "comment": "without [complain]{complaining} or [argue]{arguing}, [especially]{especially} because what is [going_1]{going} to [happen]{happen} is not [known_1]{known} and therefore not [frightening]{frightening}",
+      "entry": "like a lamb (to the slaughter)",
+      "id": "like-a-lamb-to-the-slaughter#like-a-lamb-to-the-slaughter__1"
+    }
+  ],
+  "thesaurus": "Patient and uncomplaining",
+  "type": "Synonyms"
+}

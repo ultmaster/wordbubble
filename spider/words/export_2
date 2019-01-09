@@ -1,0 +1,26 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [send_1]{send} a [product]{product} to another [country]{country} so that it can be [sold]{sold} there",
+      "examples": [
+        "Their [flower_1]{flowers} are [export_2]{exported} around the [world]{world}.",
+        "[weapon]{Weapons} are being [illegal_1#illegal_1__6]{illegally} [export_2]{exported} to other [country]{countries}."
+      ],
+      "id": "export_2__1"
+    },
+    {
+      "def": "to [introduce]{introduce} an [idea]{idea}, [tradition]{tradition}, or [activity]{activity} into another [country]{country}",
+      "examples": [
+        "[nation]{nations} that export [terrorism]{terrorism}"
+      ],
+      "id": "export_2__4"
+    },
+    {
+      "def": "to [copy_1]{copy} [information]{information} from a computer system so it can be [store_2]{stored} in another part of the computer or in a [different]{different} form",
+      "examples": [],
+      "id": "export_2__6"
+    }
+  ],
+  "word": "export"
+}

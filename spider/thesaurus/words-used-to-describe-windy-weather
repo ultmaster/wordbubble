@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "with a [lot_1]{lot} of [wind_1]{wind}",
+      "entry": "windy",
+      "id": "windy#windy__1"
+    },
+    {
+      "comment": "with a [lot_1]{lot} of [rain_1]{rain} and [strong]{strong} [wind_1]{winds}",
+      "entry": "stormy",
+      "id": "stormy#stormy__1"
+    },
+    {
+      "comment": "with a [lot_1]{lot} of [light_1]{light} [wind_1]{wind}",
+      "entry": "breezy",
+      "id": "breezy#breezy__1"
+    },
+    {
+      "comment": "with [strong]{strong} [wind_1]{winds}",
+      "entry": "blustery",
+      "id": "blustery#blustery__1"
+    },
+    {
+      "comment": "if it is [brisk]{brisk}, the [weather_1]{weather} is [fairly]{fairly} [cold_1]{cold} and a [fairly]{fairly} [strong]{strong} [wind_1]{wind} is [blow_1]{blowing}",
+      "entry": "brisk",
+      "id": "brisk#brisk__8"
+    },
+    {
+      "comment": "if the [weather_1]{weather} or the [ocean]{ocean} is [wild_1]{wild}, there is a [storm_1]{storm} with [strong]{strong} [wind_1]{winds}",
+      "entry": "wild",
+      "id": "wild_1#wild_1__4"
+    },
+    {
+      "comment": "[unsettled]{unsettled} [weather_1]{weather} [change_1]{changes} a [lot_1]{lot} during a [short_1]{short} [period_1]{period} and there is a [lot_1]{lot} of [wind_1]{wind} and [rain_1]{rain}",
+      "entry": "unsettled",
+      "id": "unsettled#unsettled__3"
+    },
+    {
+      "comment": "if the [weather_1]{weather} is [fresh_1]{fresh}, it is [fairly]{fairly} [cold_1]{cold} and the [wind_1]{wind} is [blow_1]{blowing}",
+      "entry": "fresh",
+      "id": "fresh_1#fresh_1__29"
+    },
+    {
+      "comment": "[blow_1]{blowing} [strongly]{strongly}",
+      "entry": "blustery",
+      "id": "blustery#blustery__3"
+    },
+    {
+      "comment": "if the [weather_1]{weather} is [squally]{squally}, there are [short_1]{short} [period_1]{periods} when the [wind_1]{wind} is [suddenly]{suddenly} very [strong]{strong}",
+      "entry": "squally",
+      "id": "squally#squally__1"
+    }
+  ],
+  "thesaurus": "Words used to describe windy weather",
+  "type": "Synonyms"
+}

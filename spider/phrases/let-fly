@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "let fly",
+  "senses": [
+    {
+      "def": "to [shoot_1]{shoot} or [throw_1]{throw} something",
+      "examples": [
+        "We [wait_1]{waited} until the [enemy]{enemy} was within [range_1]{range} and then [let_1]{let} [fly_1]{fly}."
+      ],
+      "id": "let-fly__1"
+    },
+    {
+      "def": "to [criticize]{criticize} someone [angrily]{angrily}",
+      "examples": [
+        "One of the [teacher]{teachers} [really]{really} [let_1]{let} [fly_1]{fly} at Jeff."
+      ],
+      "id": "let-fly__3"
+    }
+  ]
+}

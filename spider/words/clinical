@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[involve]{involving} [working]{working} with [people_1]{people} who are [sick_1]{sick}, rather than in a [laboratory]{laboratory}",
+      "examples": [
+        "[undergraduate]{Undergraduate} [training]{training} is [divided]{divided} between [study_1]{study} and clinical [practice_1]{practice}.",
+        "They may be [unaware]{unaware} that they have any clinical [symptom]{symptoms}."
+      ],
+      "id": "clinical__1"
+    },
+    {
+      "def": "not [showing]{showing} any [excitement]{excitement} or [emotion]{emotion}",
+      "examples": [
+        "He [told]{told} us the [story]{story} in a [cold_1]{cold} and clinical [manner]{manner}."
+      ],
+      "id": "clinical__5"
+    },
+    {
+      "def": "done in a [perfect_1]{perfect} way or [exactly]{exactly} [accord_2]{according} to the [rule_1]{rules}, but not in a way that is [original_1]{original} or [interesting]{interesting}",
+      "examples": [
+        "The Yankees\u2019 [win_1]{win} was clinical rather than [spectacular_1]{spectacular}."
+      ],
+      "id": "clinical__7"
+    }
+  ],
+  "word": "clinical"
+}

@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "all the [goods]{goods} [available]{available} for [sale]{sale} in a [store_1]{store} at a [particular_1]{particular} time",
+      "examples": [
+        "At the end of the season our inventory is low  (=we do not have many goods available).",
+        "The [store_1]{store} is [closed]{closed} \u2013 we\u2019re [take_1]{taking} inventory."
+      ],
+      "id": "inventory_1__1"
+    },
+    {
+      "def": "an [occasion_1]{occasion} when you [count_1]{count} a [business]{business}\u2019s [goods]{goods} and [calculate]{calculate} how many more are [need_1]{needed}",
+      "examples": [],
+      "id": "inventory_1__4"
+    },
+    {
+      "def": "a [list_1]{list} [give_1]{giving} [detail_1]{details} of all the [thing]{things} in a [place_1]{place}",
+      "examples": [
+        "When the [police_1]{police} [eventually]{eventually} [arrive]{arrived}, we made an inventory of the [missing]{missing} [item]{items}."
+      ],
+      "id": "inventory_1__5"
+    }
+  ],
+  "word": "inventory"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "at a [particular_1]{particular} time in the [past_1]{past} or in the [future_1]{future}",
+      "entry": "then",
+      "id": "then#then__2"
+    },
+    {
+      "comment": "the whole amount of a [period_1]{period} of time",
+      "entry": "all",
+      "id": "all_1#all_1__6"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to a [period_1]{period} of time that has [continued]{continued} up to the [present_1]{present}",
+      "entry": "last",
+      "id": "last_1#last_1__4"
+    },
+    {
+      "comment": "at a [point_1]{point} during the time that something else is [happening_1]{happening}",
+      "entry": "when",
+      "id": "when#when__20"
+    },
+    {
+      "comment": "at a time in the [past_1]{past} or the [future_1]{future} that you do not [know_1]{know} [exactly]{exactly} or have not yet [decided]{decided}",
+      "entry": "sometime",
+      "id": "sometime#sometime__1"
+    },
+    {
+      "comment": "at any time or in any [situation]{situation} when something may be [wanted]{wanted}, [need_1]{needed}, [possible_1]{possible}, etc.",
+      "entry": "whenever",
+      "id": "whenever#whenever__4"
+    },
+    {
+      "comment": "[take_1]{taking} [place_1]{place} at the [present_1]{present} time or in the [present_1]{present} [situation]{situation}",
+      "entry": "here",
+      "id": "here#here__35"
+    },
+    {
+      "comment": "[happening_1]{happening} or done up to a [particular_1]{particular} [point_1]{point} in time, and then [stop_1]{stopping}",
+      "entry": "until",
+      "id": "until#until__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} how much time [pass_1]{passes} until something [happen]{happens}",
+      "entry": "before",
+      "id": "before#before__12"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to the [present_1]{present} time",
+      "entry": "this",
+      "id": "this#this__18"
+    }
+  ],
+  "thesaurus": "General words referring to time",
+  "type": "Synonyms"
+}

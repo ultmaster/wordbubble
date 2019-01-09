@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "thanks a lot",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone that you are very [grateful]{grateful} to them",
+      "examples": [
+        "[thanks_1]{Thanks} a [lot_1]{lot} for [doing]{doing} the [dish_1]{dishes}."
+      ],
+      "id": "thanks-a-lot__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone that something that they [did]{did} was not [helpful]{helpful} or [kind_1]{kind}",
+      "examples": [
+        "You didn\u2019t [leave_1]{leave} any for me? [thanks_1]{Thanks} a [lot_1]{lot}, [peter]{Peter}!"
+      ],
+      "id": "thanks-a-lot__3"
+    }
+  ]
+}

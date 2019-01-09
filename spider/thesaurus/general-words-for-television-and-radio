@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[radio_1]{radio} or [television]{television} [show_1]{shows}",
+      "entry": "the airwaves",
+      "id": "airwaves#airwaves__2"
+    },
+    {
+      "comment": "the [television]{television}",
+      "entry": "the boob tube",
+      "id": "boob-tube#boob-tube__1"
+    },
+    {
+      "comment": "the [television]{television}",
+      "entry": "the box",
+      "id": "box_1#box_1__21"
+    },
+    {
+      "comment": "a system of [broadcast_1#broadcast_1__6]{broadcasting} [information]{information} and [program_1]{programs} that [people_1]{people} can [listen_1]{listen} to",
+      "entry": "the radio",
+      "id": "radio_1#radio_1__1"
+    },
+    {
+      "comment": "[television]{television}, [especially]{especially} when it is [considered]{considered} in [relation]{relation} to the [movie]{movies}",
+      "entry": "the small screen",
+      "id": "the-small-screen#the-small-screen__1"
+    },
+    {
+      "comment": "the system of [broadcast_1#broadcast_1__6]{broadcasting} [picture_1]{pictures} and [sound_1]{sounds} by [electronic]{electronic} [signal_1]{signals}",
+      "entry": "television",
+      "id": "television#television__5"
+    },
+    {
+      "comment": "the [business]{business} of [create]{creating} and [broadcast_1#broadcast_1__6]{broadcasting} [television]{television} [program_1]{programs}",
+      "entry": "television",
+      "id": "television#television__9"
+    },
+    {
+      "comment": "[television]{television}",
+      "entry": "telly",
+      "id": "telly#telly__1"
+    },
+    {
+      "comment": "[television]{television}",
+      "entry": "the tube",
+      "id": "tube#tube__12"
+    },
+    {
+      "comment": "[television]{television}",
+      "entry": "TV",
+      "id": "tv#tv__1"
+    }
+  ],
+  "thesaurus": "General words for television and radio",
+  "type": "Related words"
+}

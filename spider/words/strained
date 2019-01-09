@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [relaxed]{relaxed} or [friendly_1]{friendly}",
+      "examples": [
+        "[relation]{Relations} between the two [country]{countries} are strained.",
+        "a strained [atmosphere]{atmosphere}/[silence_1]{silence}"
+      ],
+      "id": "strained__1"
+    },
+    {
+      "def": "not [natural_1]{natural} and [produce_1]{produced} with some [effort]{effort}",
+      "examples": [
+        "Zoe [felt_1]{felt} [horribly]{horribly} [anxious]{anxious} but [managed]{managed} to [force_1]{force} a strained [smile_1]{smile}."
+      ],
+      "id": "strained__4"
+    },
+    {
+      "def": "put through a [strainer]{strainer} to [remove]{remove} any [lump_1]{lumps}",
+      "examples": [
+        "strained [yogurt]{yogurt}"
+      ],
+      "id": "strained__6"
+    }
+  ],
+  "word": "strained"
+}

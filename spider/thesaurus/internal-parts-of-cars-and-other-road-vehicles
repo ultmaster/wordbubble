@@ -1,0 +1,226 @@
+{
+  "entries": [
+    {
+      "comment": "the pedal that you press with your foot to make a vehicle go faster",
+      "entry": "accelerator",
+      "id": "accelerator#accelerator__1"
+    },
+    {
+      "comment": "a [bag_1]{bag} in a [car]{car} that [immediately]{immediately} [fill_1]{fills} with [air_1]{air} if the [car]{car} [crash_1]{crashes}, to [protect]{protect} the [driver]{driver} and [passenger]{passengers}",
+      "entry": "air bag",
+      "id": "air-bag#air-bag__1"
+    },
+    {
+      "comment": "a [seat_1]{seat} behind the [driver]{driver} of a [car]{car}",
+      "entry": "back seat",
+      "id": "back-seat#back-seat__1"
+    },
+    {
+      "comment": "a [seat_1]{seat} for a [small_1]{small} [child]{child} that [raise_1]{raises} him or her to a [higher_1]{higher} [position_1]{position}, for [example]{example} in a [car]{car}",
+      "entry": "booster seat",
+      "id": "booster-seat#booster-seat__1"
+    },
+    {
+      "comment": "a low [deep_1]{deep} [seat_1]{seat} in a [car]{car} or [aircraft]{aircraft}",
+      "entry": "bucket seat",
+      "id": "bucket-seat#bucket-seat__1"
+    },
+    {
+      "comment": "the [dashboard]{dashboard} of a [car]{car}",
+      "entry": "dash",
+      "id": "dash_2#dash_2__9"
+    },
+    {
+      "comment": "the part inside a car where the speedometer and other instruments are",
+      "entry": "dashboard",
+      "id": "dashboard#dashboard__1"
+    },
+    {
+      "comment": "the part of a [car]{car} that [blow_1]{blows} [air_1]{air} onto the [window]{windows} to keep them [clear_1]{clear}",
+      "entry": "defogger",
+      "id": "defogger#defogger__1"
+    },
+    {
+      "comment": "a [defogger]{defogger}",
+      "entry": "demister",
+      "id": "demister#demister__1"
+    },
+    {
+      "comment": "a switch for lowering the headlights of a car. The British word is dip switch.",
+      "entry": "dimmer",
+      "id": "dimmer#dimmer__2"
+    },
+    {
+      "comment": "a [dimmer]{dimmer} on a [car]{car}",
+      "entry": "dip switch",
+      "id": "dip-switch#dip-switch__1"
+    },
+    {
+      "comment": "the [seat_1]{seat} where you [sit]{sit} when you are [driving]{driving} a [car]{car}",
+      "entry": "driver\u2019s seat",
+      "id": "driver-s-seat#driver-s-seat__1"
+    },
+    {
+      "comment": "the piece of equipment in a car that you use for preventing the car from moving when it is parked, or in an emergency. The brake that you usually use for stopping the car is called the foot brake.",
+      "entry": "emergency brake",
+      "id": "emergency-brake#emergency-brake__1"
+    },
+    {
+      "comment": "the [floor_1]{floor} in a [car]{car}",
+      "entry": "floorboard",
+      "id": "floorboard#floorboard__2"
+    },
+    {
+      "comment": "a part of a [chair_1]{chair} or [vehicle]{vehicle} that [support_1]{supports} your [feet]{feet}",
+      "entry": "footrest",
+      "id": "footrest#footrest__1"
+    },
+    {
+      "comment": "the [flat_1]{flat} [object_1]{object} you [press_1]{press} with your [foot_1]{foot} to [make_1]{make} a [vehicle]{vehicle} go [fast_1]{faster}",
+      "entry": "gas pedal",
+      "id": "gas-pedal#gas-pedal__1"
+    },
+    {
+      "comment": "a cover or container that protects a set of gears",
+      "entry": "gearbox",
+      "id": "gearbox#gearbox__2"
+    },
+    {
+      "comment": "a [stick_1]{stick} [shift_1]{shift}",
+      "entry": "gearshift",
+      "id": "gearshift#gearshift__1"
+    },
+    {
+      "comment": "a [stick_1]{stick} [shift_1]{shift}",
+      "entry": "gear stick",
+      "id": "gear-stick#gear-stick__1"
+    },
+    {
+      "comment": "the [small_1]{small} [cupboard]{cupboard} or [shelf]{shelf} in front of the [passenger]{passenger} [seat_1]{seat} of a [car]{car}",
+      "entry": "glove compartment",
+      "id": "glove-compartment#glove-compartment__1"
+    },
+    {
+      "comment": "the top part of a [chair_1]{chair} or [car]{car} [seat_1]{seat} that you [lean_1]{lean} your [head_1]{head} against",
+      "entry": "headrest",
+      "id": "headrest#headrest__1"
+    },
+    {
+      "comment": "the amount of [space_1]{space} between your [head_1]{head} and a [ceiling]{ceiling}, [especially]{especially} in a [car]{car}",
+      "entry": "headroom",
+      "id": "headroom#headroom__1"
+    },
+    {
+      "comment": "the [object_1]{object} in a [car]{car} or other [vehicle]{vehicle} that [make_1]{makes} a [loud_1]{loud} [warning]{warning} [noise]{noise} when you [press_1]{press} it",
+      "entry": "horn",
+      "id": "horn_1#horn_1__1"
+    },
+    {
+      "comment": "the [place_1]{place} where you put in the [key_1]{key} to [make_1]{make} a [car]{car}\u2019s [engine]{engine} [start_1]{start}",
+      "entry": "ignition",
+      "id": "ignition#ignition__1"
+    },
+    {
+      "comment": "[attached]{attached} or [happening_1]{happening} [inside_1]{inside} a [car]{car}",
+      "entry": "in-car",
+      "id": "in-car#in-car__1"
+    },
+    {
+      "comment": "the [board_1]{board} that [face_1]{faces} the [driver]{driver} or [pilot_1]{pilot} [inside_1]{inside} a [vehicle]{vehicle}, [ship_1]{ship}, or [airplane]{airplane}, where they can see and [operate]{operate} the [control_1]{controls}",
+      "entry": "instrument panel",
+      "id": "instrument-panel#instrument-panel__1"
+    },
+    {
+      "comment": "the [inside_1]{inside} part of something, [especially]{especially} a [building]{building} or [vehicle]{vehicle}",
+      "entry": "interior",
+      "id": "interior_1#interior_1__1"
+    },
+    {
+      "comment": "in the part of a [car]{car} where the [driver]{driver} and the [control_1]{controls} are",
+      "entry": "in (the) front",
+      "id": "in-the-front#in-the-front__1"
+    },
+    {
+      "comment": "a [small_1]{small} [extra_1]{extra} [seat_1]{seat} that [fold_1]{folds} down, for [example]{example} in a [car]{car} or an [airplane]{airplane}",
+      "entry": "jump seat",
+      "id": "jump-seat#jump-seat__1"
+    },
+    {
+      "comment": "an [odometer]{odometer}",
+      "entry": "mileometer",
+      "id": "mileometer#mileometer__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} in a [car]{car} that [show_1]{shows} how many [mile]{miles} it has [travel_1]{traveled}. The British [term_1]{term} is [usually]{usually} [mileometer]{mileometer}.",
+      "entry": "odometer",
+      "id": "odometer#odometer__1"
+    },
+    {
+      "comment": "the part of a [vehicle]{vehicle} or [machine_1]{machine} where the [switch_1]{switches} and other [instrument]{instruments} are found",
+      "entry": "panel",
+      "id": "panel_1#panel_1__10"
+    },
+    {
+      "comment": "the front [seat_1]{seat} in a [road]{road} [vehicle]{vehicle} beside the [driver]{driver}\u2019s [seat_1]{seat}",
+      "entry": "passenger seat",
+      "id": "passenger-seat#passenger-seat__1"
+    },
+    {
+      "comment": "a [mirror_1]{mirror} [attached]{attached} [inside_1]{inside} the front [window]{window} of a [car]{car} that [let_1]{lets} the [driver]{driver} see what is [happening_1]{happening} behind it",
+      "entry": "rear-view mirror",
+      "id": "rear-view-mirror#rear-view-mirror__1"
+    },
+    {
+      "comment": "a [seat_1]{seat} [belt_1]{belt}",
+      "entry": "safety belt",
+      "id": "safety-belt#safety-belt__1"
+    },
+    {
+      "comment": "a [strong]{strong} [belt_1]{belt} in a [car]{car} or [airplane]{airplane} that you [fasten]{fasten} around yourself to [hold_1]{hold} you in your [seat_1]{seat}",
+      "entry": "seat belt",
+      "id": "seat-belt#seat-belt__1"
+    },
+    {
+      "comment": "the [piece_1]{piece} of [equipment]{equipment} in a [vehicle]{vehicle} that [show_1]{shows} how [fast_1]{fast} it is [going_1]{going}",
+      "entry": "speedometer",
+      "id": "speedometer#speedometer__1"
+    },
+    {
+      "comment": "the [wheel_1]{wheel} in a [vehicle]{vehicle} that you [hold_1]{hold} and [turn_1]{turn} to [control_1]{control} the [direction]{direction} it [travel_1]{travels} in",
+      "entry": "steering wheel",
+      "id": "steering-wheel#steering-wheel__1"
+    },
+    {
+      "comment": "a [stick_1]{stick} [shift_1]{shift}",
+      "entry": "stick",
+      "id": "stick_2#stick_2__14"
+    },
+    {
+      "comment": "the short metal lever in a car that the driver uses to change the gears  (=the machinery that changes power into movement). The British word is gear stick.",
+      "entry": "stick shift",
+      "id": "stick-shift#stick-shift__1"
+    },
+    {
+      "comment": "[space_1]{space} for [store_2]{storing} [thing]{things} in a [boat]{boat} or [vehicle]{vehicle}",
+      "entry": "stowage",
+      "id": "stowage#stowage__1"
+    },
+    {
+      "comment": "a [screen_1]{screen} that you put on one of the [window]{windows} [inside_1]{inside} your [car]{car} so that it will not get too [hot]{hot} when it is [park_2]{parked} in the [sun_1]{sun}",
+      "entry": "sunscreen",
+      "id": "sunscreen#sunscreen__2"
+    },
+    {
+      "comment": "a [flat_1]{flat} [object_1]{object} at the top of the front [window]{window} of a [car]{car} that you [pull_1]{pull} down to [protect]{protect} your [eye_1]{eyes} from the [sun_1]{sun}",
+      "entry": "visor",
+      "id": "visor#visor__4"
+    },
+    {
+      "comment": "the [steering]{steering} [wheel_1]{wheel} that is [used]{used} for [control_2]{controlling} a [car]{car} or other [vehicle]{vehicle}",
+      "entry": "the wheel",
+      "id": "wheel_1#wheel_1__10"
+    }
+  ],
+  "thesaurus": "Internal parts of cars and other road vehicles",
+  "type": "Related words"
+}

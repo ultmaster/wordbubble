@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to move [horse_1]{horses}, [cow_1]{cows}, etc. into a corral",
+      "examples": [],
+      "id": "corral_1__1"
+    },
+    {
+      "def": "to move [people_1]{people} into a [place_1]{place} and [stop_1]{stop} them from [leave_1]{leaving} it",
+      "examples": [
+        "We were [corral_1]{corralled} into [helping]{helping} him."
+      ],
+      "id": "corral_1__2"
+    }
+  ],
+  "word": "corral"
+}

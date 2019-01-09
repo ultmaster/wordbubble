@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [saying]{saying} that you [agree]{agree} with a [suggestion]{suggestion}, or for [ask_1]{asking} [people_1]{people} if they [agree]{agree}",
+      "entry": "agreed",
+      "id": "agreed#agreed__7"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} if someone [agree]{agrees} with what you have [just_1]{just} [said_1]{said}, or if he or she [understand]{understands} it",
+      "entry": "OK",
+      "id": "ok_1#ok_1__4"
+    },
+    {
+      "comment": "[used]{used} for [check_1]{checking} that someone [understand]{understands} or [agree]{agrees}",
+      "entry": "all right",
+      "id": "all-right_2#all-right_2__6"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [agree]{agree} with you",
+      "entry": "eh",
+      "id": "eh#eh__4"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} whether what you have [said_1]{said} is [correct_1]{correct}",
+      "entry": "right",
+      "id": "right_4#right_4__5"
+    },
+    {
+      "comment": "a way of [saying]{saying} \u201cget it,\u201d [used]{used} for [ask_1]{asking} if someone [understand]{understands} something",
+      "entry": "geddit",
+      "id": "geddit#geddit__1"
+    },
+    {
+      "comment": "[used]{used} after you have [said_1]{said} something to show that you are [ask_1]{asking} for [agreement]{agreement}",
+      "entry": "huh",
+      "id": "huh#huh__3"
+    },
+    {
+      "comment": "a way of [writing]{writing} OK that [show_1]{shows} how it is [said_1]{said} [informal#informal__13]{informally}",
+      "entry": "mkay",
+      "id": "mkay#mkay__1"
+    }
+  ],
+  "thesaurus": "Ways of asking whether someone agrees or understands",
+  "type": "Synonyms"
+}

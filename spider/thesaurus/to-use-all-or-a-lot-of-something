@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to use all of a [supply_1]{supply} of something",
+      "entry": "use up",
+      "id": "use-up#use-up__1"
+    },
+    {
+      "comment": "to use all of something and not have any [left_1]{left}",
+      "entry": "run out",
+      "id": "run-out#run-out__1"
+    },
+    {
+      "comment": "if an [activity]{activity} or [cost_1]{cost} [eats]{eats} into your time or [money]{money}, it [use_1]{uses} more of it than you [intended_1]{intended}",
+      "entry": "eat into",
+      "id": "eat-into#eat-into__1"
+    },
+    {
+      "comment": "to have only a few [thing]{things} [left_1]{left} to use or [deal_1]{deal} with",
+      "entry": "get down to",
+      "id": "get-down-to#get-down-to__3"
+    },
+    {
+      "comment": "to use [large_1]{large} [amount_1]{amounts} of your [available]{available} time or [money]{money}",
+      "entry": "eat up",
+      "id": "eat-up#eat-up__4"
+    },
+    {
+      "comment": "to [eat]{eat}, [drink_1]{drink}, or use all of something so that there is none [left_1]{left}",
+      "entry": "finish",
+      "id": "finish_1#finish_1__8"
+    },
+    {
+      "comment": "to use a [lot_1]{lot} of something such as [money]{money}, time, or [effort]{effort}",
+      "entry": "swallow up",
+      "id": "swallow-up#swallow-up__3"
+    },
+    {
+      "comment": "to use all that you have of something",
+      "entry": "exhaust",
+      "id": "exhaust_1#exhaust_1__3"
+    },
+    {
+      "comment": "to [reduce]{reduce} the amount of something or the [number_1]{number} of [thing]{things}",
+      "entry": "deplete",
+      "id": "deplete#deplete__1"
+    },
+    {
+      "comment": "to use, [spend]{spend}, or [eat]{eat} all of something, [especially]{especially} [quickly]{quickly}",
+      "entry": "go through",
+      "id": "go-through#go-through__9"
+    }
+  ],
+  "thesaurus": "To use all or a lot of something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "clear out",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a [place_1]{place} or [container]{container} [clean_1]{clean} or [neat]{neat} by [remove]{removing} [thing]{things} that are not [wanted]{wanted} and [get]{getting} [rid_1]{rid} of any [dirt]{dirt} or [dust_1]{dust} in it",
+      "examples": [
+        "I\u2019m [going_1]{going} to [clear_1]{clear} out the [cabinet]{cabinets} [tomorrow_1]{tomorrow}.",
+        "Isn\u2019t it about time you [clear_2]{cleared} out some of your [junk_1]{junk}?"
+      ],
+      "id": "clear-out__1"
+    },
+    {
+      "def": "to [leave_1]{leave} a [place_1]{place} [quickly]{quickly} and often [permanently]{permanently}",
+      "examples": [
+        "I sometimes [feel_1]{feel} [like_1]{like} [clearing]{clearing} out of here [altogether_1]{altogether}.",
+        "[just_1]{Just} [clear_1]{clear} out!"
+      ],
+      "id": "clear-out__5"
+    }
+  ]
+}

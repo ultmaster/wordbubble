@@ -1,0 +1,516 @@
+{
+  "entries": [
+    {
+      "comment": "a musical instrument played by moving the ends of a box in and out while pressing keys and buttons. Someone who plays the accordion is called an accordionist.",
+      "entry": "accordion",
+      "id": "accordion#accordion__1"
+    },
+    {
+      "comment": "an imaginary guitar that you pretend to play when listening to rock music",
+      "entry": "air guitar",
+      "id": "air-guitar#air-guitar__1"
+    },
+    {
+      "comment": "a small grand piano",
+      "entry": "baby grand",
+      "id": "baby-grand#baby-grand__1"
+    },
+    {
+      "comment": "a Scottish [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of a [bag_1]{bag} with several [pipe_1]{pipes} [stick_1]{sticking} out of it. You [play_1]{play} it by [blow_1]{blowing} [air_1]{air} through one of the [pipe_1]{pipes}.",
+      "entry": "bagpipes",
+      "id": "bagpipes#bagpipes__1"
+    },
+    {
+      "comment": "a Russian musical instrument with three strings and a body shaped like a triangle",
+      "entry": "balalaika",
+      "id": "balalaika#balalaika__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [like_1]{like} a [guitar]{guitar} but with a [small_1]{smaller} round body",
+      "entry": "banjo",
+      "id": "banjo#banjo__1"
+    },
+    {
+      "comment": "a [large_1]{large} [instrument]{instrument} that [play_1]{plays} [music]{music} when the [handle_1]{handle} is [turn_1]{turned}, [used]{used} in the [past_1]{past} to [entertain]{entertain} [people_1]{people} in the [street_1]{street}",
+      "entry": "barrel organ",
+      "id": "barrel-organ#barrel-organ__1"
+    },
+    {
+      "comment": "a [bass_1]{bass} [guitar]{guitar}",
+      "entry": "bass",
+      "id": "bass_1#bass_1__7"
+    },
+    {
+      "comment": "a [double_1]{double} [bass_1]{bass}",
+      "entry": "bass",
+      "id": "bass_1#bass_1__8"
+    },
+    {
+      "comment": "an electric guitar, usually with four strings, that produces very low notes",
+      "entry": "bass guitar",
+      "id": "bass-guitar#bass-guitar__1"
+    },
+    {
+      "comment": "a musical instrument consisting of a long wooden tube that you hold upright and play by blowing into a thin metal pipe that holds a double reed. It can produce very low sounds. A bassoon is a woodwind instrument. Someone who plays the bassoon is called a bassoonist.",
+      "entry": "bassoon",
+      "id": "bassoon#bassoon__1"
+    },
+    {
+      "comment": "a [pair_1]{pair} of [small_1]{small} [drum_1]{drums} that you [play_1]{play} with your [hand_1]{hands}",
+      "entry": "bongos",
+      "id": "bongos#bongos__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument}, [consist]{consisting} of a [curved]{curved} [metal_1]{metal} [tube]{tube} that is [wide_1]{wide} at one [end_1]{end} and that you [play_1]{play} by [blow_1]{blowing} into the other. [bugle]{Bugles} are sometimes [used]{used} by the [army]{army} to show that an [activity]{activity} is about to [begin]{begin} or [end_1]{end}.",
+      "entry": "bugle",
+      "id": "bugle#bugle__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of a [set_1]{set} of [bell_1]{bells} in a [small_1]{small} [tower_1]{tower} that you [play_1]{play} [use_1]{using} a [keyboard_1]{keyboard} in the same way that you [play_1]{play} a [piano_1]{piano}",
+      "entry": "carillon",
+      "id": "carillon#carillon__1"
+    },
+    {
+      "comment": "a Spanish musical instrument consisting of a pair of small round pieces of wood or plastic held in one hand and brought together quickly to make a clicking sound, used especially by dancers",
+      "entry": "castanets",
+      "id": "castanets#castanets__1"
+    },
+    {
+      "comment": "a large musical instrument with strings, held between the legs by someone who is sitting and played by pulling an object called a bow across the strings",
+      "entry": "cello",
+      "id": "cello#cello__1"
+    },
+    {
+      "comment": "a musical instrument consisting of a long black tube that you play by blowing into it as you press its keys. A clarinet is a woodwind instrument. Someone who plays the clarinet is called a clarinetist.",
+      "entry": "clarinet",
+      "id": "clarinet#clarinet__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [similar]{similar} to a [piano_1]{piano} that was [used]{used} [especially]{especially} in the 18th [century]{century}",
+      "entry": "clavichord",
+      "id": "clavichord#clavichord__1"
+    },
+    {
+      "comment": "a musical instrument similar to an accordion that you play by pressing buttons on each side and pushing the two sides together",
+      "entry": "concertina",
+      "id": "concertina#concertina__1"
+    },
+    {
+      "comment": "an English [horn_1]{horn}",
+      "entry": "cor anglais",
+      "id": "cor-anglais#cor-anglais__1"
+    },
+    {
+      "comment": "a musical instrument like a small trumpet",
+      "entry": "cornet",
+      "id": "cornet#cornet__1"
+    },
+    {
+      "comment": "a simple musical instrument consisting of a thin circular piece of metal that you play by hitting it with a stick or by hitting two of them against each other. A cymbal is a percussion instrument.",
+      "entry": "cymbal",
+      "id": "cymbal#cymbal__1"
+    },
+    {
+      "comment": "a [traditional]{traditional} Australian [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of a long [wooden]{wooden} [tube]{tube} that you [blow_1]{blow} into",
+      "entry": "didgeridoo",
+      "id": "didgeridoo#didgeridoo__1"
+    },
+    {
+      "comment": "a large musical instrument shaped like a violin that you rest on the floor and play standing up by pulling a bow across its strings. A double bass is a type of stringed instrument.",
+      "entry": "double bass",
+      "id": "double-bass#double-bass__1"
+    },
+    {
+      "comment": "a musical instrument consisting of a tight skin stretched over a round frame that you hit with your hands or a stick. Someone who plays a drum is a drummer.",
+      "entry": "drum",
+      "id": "drum_1#drum_1__1"
+    },
+    {
+      "comment": "a [drum_1]{drum} [set_1]{set}",
+      "entry": "drum kit",
+      "id": "drum-kit#drum-kit__1"
+    },
+    {
+      "comment": "an [electronic]{electronic} [musical_1]{musical} [instrument]{instrument} that [make_1]{makes} the [sound_1]{sound} of [drum_1]{drums}",
+      "entry": "drum machine",
+      "id": "drum-machine#drum-machine__1"
+    },
+    {
+      "comment": "a set of drums and cymbals  (=round metal plates that you play by hitting them with a stick)",
+      "entry": "drum set",
+      "id": "drum-set#drum-set__1"
+    },
+    {
+      "comment": "a musical instrument with strings that you hold across your knees, often used for playing folk music",
+      "entry": "dulcimer",
+      "id": "dulcimer#dulcimer__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} with a [lot_1]{lot} of [string_1]{strings} that you [play_1]{play} by [hit_1]{hitting} the [string_1]{strings} [gently]{gently} with two [hammer_1]{hammers}",
+      "entry": "dulcimer",
+      "id": "dulcimer#dulcimer__2"
+    },
+    {
+      "comment": "a long wooden musical instrument with a low sound that you play by blowing through it. An English horn is a woodwind instrument.",
+      "entry": "English horn",
+      "id": "english-horn#english-horn__1"
+    },
+    {
+      "comment": "a large musical instrument consisting of a curved metal tube that is wide at one end. You play it by blowing into it as you press its buttons. A euphonium is a brass instrument.",
+      "entry": "euphonium",
+      "id": "euphonium#euphonium__1"
+    },
+    {
+      "comment": "a [violin]{violin}",
+      "entry": "fiddle",
+      "id": "fiddle_2#fiddle_2__1"
+    },
+    {
+      "comment": "a small flute, especially played by someone in a military band",
+      "entry": "fife",
+      "id": "fife#fife__1"
+    },
+    {
+      "comment": "a musical instrument that you hold sideways to your mouth and play by blowing over a hole at one end as you press its keys. A flute is a woodwind instrument. Someone who plays the flute is called a flutist in American English and a flautist in British English.",
+      "entry": "flute",
+      "id": "flute#flute__1"
+    },
+    {
+      "comment": "a musical instrument consisting of a long curved metal tube that is very wide at one end, played by blowing through it. A French horn is a brass instrument.",
+      "entry": "French horn",
+      "id": "french-horn#french-horn__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [drum_1]{drum} [used]{used} [especially]{especially} in the Malay [music]{music} of CapeTown in [south_1]{South} Africa",
+      "entry": "ghomma",
+      "id": "ghomma#ghomma__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that [consist]{consists} of [metal_1]{metal} [bar_1]{bars} on a [wooden]{wooden} [frame_1]{frame}. You [play_1]{play} the [glockenspiel]{glockenspiel} by [hit_1]{hitting} the [bar_1]{bars} with a [small_1]{small} [hammer_1]{hammer}.",
+      "entry": "glockenspiel",
+      "id": "glockenspiel#glockenspiel__1"
+    },
+    {
+      "comment": "a [grand_1]{grand} [piano_1]{piano}",
+      "entry": "grand",
+      "id": "grand_2#grand_2__3"
+    },
+    {
+      "comment": "a [type_1]{type} of [large_1]{large} [piano_1]{piano} with its [string_1]{strings} in a [case_1]{case} [parallel_1]{parallel} to the [floor_1]{floor}, [usually]{usually} [used]{used} for [concert]{concerts}",
+      "entry": "grand piano",
+      "id": "grand-piano#grand-piano__1"
+    },
+    {
+      "comment": "a musical instrument with six strings, used in a wide variety of musical styles. It can be acoustic or electric. Someone who plays the guitar is called a guitarist",
+      "entry": "guitar",
+      "id": "guitar#guitar__1"
+    },
+    {
+      "comment": "a [small_1]{small} [musical_1]{musical} [instrument]{instrument} that you [play_1]{play} by [blow_1]{blowing} and [suck_1]{sucking} as you move it from side to side between your [lip]{lips}",
+      "entry": "harmonica",
+      "id": "harmonica#harmonica__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [similar]{similar} to an [organ]{organ} in which the [sound_1]{sound} is made by [pump_2]{pumping} [air_1]{air} with your [hand_1]{hands} or [feet]{feet}",
+      "entry": "harmonium",
+      "id": "harmonium#harmonium__1"
+    },
+    {
+      "comment": "a musical instrument consisting of a row of strings stretched over a large upright frame. Someone who plays a harp is called a harpist.",
+      "entry": "harp",
+      "id": "harp_1#harp_1__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [similar]{similar} to a [small_1]{small} [piano_1]{piano}",
+      "entry": "harpsichord",
+      "id": "harpsichord#harpsichord__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of a [tube]{tube} that is [wide_1]{wide} at one [end_1]{end} and that you [play_1]{play} by [blow_1]{blowing} into the [narrow_1]{narrow} [end_1]{end}",
+      "entry": "horn",
+      "id": "horn_1#horn_1__6"
+    },
+    {
+      "comment": "a [simple]{simple} [instrument]{instrument} made from the [horn_1]{horn} of an [animal_1]{animal} that you [blow_1]{blow} to [make_1]{make} a [sound_1]{sound}",
+      "entry": "horn",
+      "id": "horn_1#horn_1__8"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that [play_1]{plays} a [tune_1]{tune} when you [turn_1]{turn} a [handle_1]{handle}",
+      "entry": "hurdy-gurdy",
+      "id": "hurdy-gurdy#hurdy-gurdy__1"
+    },
+    {
+      "comment": "a [large_1]{large} [drum_1]{drum} with a round [metal_1]{metal} [base_1]{base}",
+      "entry": "kettledrum",
+      "id": "kettledrum#kettledrum__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that has a [keyboard_1]{keyboard}, [especially]{especially} an [electric]{electric} [piano_1]{piano}",
+      "entry": "keyboards",
+      "id": "keyboard_1#keyboard_1__3"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [like_1]{like} a [guitar]{guitar} that [people_1]{people} [play_1]{played} in the [past_1]{past}",
+      "entry": "lute",
+      "id": "lute#lute__1"
+    },
+    {
+      "comment": "an [ancient]{ancient} Greek [musical_1]{musical} [instrument]{instrument} with [string_1]{strings} and [shaped_1]{shaped} [like_1]{like} the [letter_1]{letter} U",
+      "entry": "lyre",
+      "id": "lyre#lyre__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that [look_1]{looks} [like_1]{like} a [guitar]{guitar} with a [curved]{curved} back",
+      "entry": "mandolin",
+      "id": "mandolin#mandolin__1"
+    },
+    {
+      "comment": "a pair of musical instruments each shaped like a ball with a handle and filled with beads or beans. You play them by shaking them.",
+      "entry": "maracas",
+      "id": "maracas#maracas__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of [wooden]{wooden} [bar_1]{bars} of [different]{different} [size_1]{sizes} [attached]{attached} to a [frame_1]{frame}. You [play_1]{play} it by [hit_1]{hitting} the [bar_1]{bars} with [stick_1]{sticks}.",
+      "entry": "marimba",
+      "id": "marimba#marimba__1"
+    },
+    {
+      "comment": "a [harmonica]{harmonica}",
+      "entry": "mouth organ",
+      "id": "mouth-organ#mouth-organ__1"
+    },
+    {
+      "comment": "a musical instrument that you play by blowing air through a reed. An oboe is a woodwind instrument. Someone who plays the oboe is called an oboist.",
+      "entry": "oboe",
+      "id": "oboe#oboe__1"
+    },
+    {
+      "comment": "a large musical instrument with pipes of different lengths, played by pressing keys  (=narrow bars) on it. Someone who plays an organ is an organist.",
+      "entry": "organ",
+      "id": "organ#organ__7"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that [produce_1]{produces} a [sound_1]{sound} [like_1]{like} an [organ]{organ}",
+      "entry": "organ",
+      "id": "organ#organ__8"
+    },
+    {
+      "comment": "a [steel_1]{steel} [drum_1]{drum}. This [word_1]{word} is [used]{used} [mainly]{mainly} by [people_1]{people} who [play_1]{play} these [drum_1]{drums}.",
+      "entry": "pan",
+      "id": "pan_1#pan_1__10"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of several [wooden]{wooden} [pipe_1]{pipes} [join_1]{joined} together in a [row_1]{row} that you [play_1]{play} by [blow_1]{blowing} across the top",
+      "entry": "pan pipes",
+      "id": "pan-pipes#pan-pipes__1"
+    },
+    {
+      "comment": "a [small_1]{small} [inexpensive]{inexpensive} [musical_1]{musical} [instrument]{instrument} [shaped_1]{shaped} [like_1]{like} a [tube]{tube} and [play_1]{played} by [blow_1]{blowing} into one [end_1]{end} while [covering]{covering} [different]{different} [hole_1]{holes} in the [tube]{tube}",
+      "entry": "penny whistle",
+      "id": "penny-whistle#penny-whistle__1"
+    },
+    {
+      "comment": "a large musical instrument with a row of black and white keys that produce notes when you press them. Someone who plays the piano is usually called a pianist, but someone who plays popular music or jazz can also be called a piano player",
+      "entry": "piano",
+      "id": "piano_1#piano_1__1"
+    },
+    {
+      "comment": "an accordion that has a row of keys, not buttons, that you press to produce the sound",
+      "entry": "piano accordion",
+      "id": "piano-accordion#piano-accordion__1"
+    },
+    {
+      "comment": "a [piano_1]{piano}",
+      "entry": "pianoforte",
+      "id": "pianoforte#pianoforte__1"
+    },
+    {
+      "comment": "a type of player piano  (=a piano that plays music by itself)",
+      "entry": "Pianola",
+      "id": "pianola#pianola__1"
+    },
+    {
+      "comment": "a musical instrument similar to a small flute",
+      "entry": "piccolo",
+      "id": "piccolo#piccolo__1"
+    },
+    {
+      "comment": "a [simple]{simple} [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of one or more [tube]{tubes} that you [blow_1]{blow} through",
+      "entry": "pipes",
+      "id": "pipe_1#pipe_1__9"
+    },
+    {
+      "comment": "[bagpipes]{bagpipes}",
+      "entry": "pipes",
+      "id": "pipe_1#pipe_1__11"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that you [play_1]{play} by [blow_1]{blowing} into a hole at the top while [put]{putting} your [finger_1]{fingers} over other [hole_1]{holes}",
+      "entry": "recorder",
+      "id": "recorder#recorder__1"
+    },
+    {
+      "comment": "a [saxophone]{saxophone}",
+      "entry": "sax",
+      "id": "sax#sax__1"
+    },
+    {
+      "comment": "a musical instrument consisting of a long curved metal tube that you play by blowing into it as you press its keys with your fingers. Saxophones are used mainly for playing jazz music.",
+      "entry": "saxophone",
+      "id": "saxophone#saxophone__1"
+    },
+    {
+      "comment": "an Indian musical instrument like a guitar with a long neck and a round body",
+      "entry": "sitar",
+      "id": "sitar#sitar__1"
+    },
+    {
+      "comment": "a [drum_1]{drum} with thin [metal_1]{metal} [string_1]{strings} [attached]{attached} to the [base_1]{base} that [make_1]{make} a [continuous]{continuous} [sound_1]{sound} when you hit it",
+      "entry": "snare drum",
+      "id": "snare-drum#snare-drum__1"
+    },
+    {
+      "comment": "an [accordion]{accordion}",
+      "entry": "squeezebox",
+      "id": "squeezebox#squeezebox__1"
+    },
+    {
+      "comment": "a [west_1]{West} Indian [drum_1]{drum} made of a [large_1]{large} empty [metal_1]{metal} [container]{container}",
+      "entry": "steel drum",
+      "id": "steel-drum#steel-drum__1"
+    },
+    {
+      "comment": "a [guitar]{guitar} with ten [string_1]{strings} that you [play_1]{play} while [pressing]{pressing} the [string_1]{strings} with a [metal_1]{metal} [bar_1]{bar}",
+      "entry": "steel guitar",
+      "id": "steel-guitar#steel-guitar__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [piano_1]{piano} that is [considered]{considered} to be one of the [best_1]{best} in the [world]{world}",
+      "entry": "Steinway",
+      "id": "steinway#steinway__1"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [synthesizer]{synthesizer}",
+      "entry": "synthesiser",
+      "id": "synthesiser#synthesiser__1"
+    },
+    {
+      "comment": "an [electronic]{electronic} [machine_1]{machine} that [produce_1]{produces} and [combine_1]{combines} [different]{different} [sound_1]{sounds}, [especially]{especially} for [music]{music}",
+      "entry": "synthesizer",
+      "id": "synthesizer#synthesizer__1"
+    },
+    {
+      "comment": "an Indian [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of two [drum_1]{drums} [join_1]{joined} together",
+      "entry": "tabla",
+      "id": "tabla#tabla__1"
+    },
+    {
+      "comment": "an Asian [musical_1]{musical} [instrument]{instrument} with [string_1]{strings}, [play_1]{played} [like_1]{like} a [guitar]{guitar}",
+      "entry": "tamboura",
+      "id": "tamboura#tamboura__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that you [shake_1]{shake} or hit with your hand, [consist]{consisting} of a round [frame_1]{frame} with a [skin_1]{skin} [stretched]{stretched} over it and [small_1]{small} [piece_1]{pieces} of [metal_1]{metal} around the [edge_1]{edge}",
+      "entry": "tambourine",
+      "id": "tambourine#tambourine__1"
+    },
+    {
+      "comment": "a set of kettledrums  (=large drums used in an orchestra)",
+      "entry": "timpani",
+      "id": "timpani#timpani__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [like_1]{like} a [small_1]{small} [tube]{tube} with [hole_1]{holes} that you [play_1]{play} by [blow_1]{blowing} through it, [used]{used} [especially]{especially} in [traditional]{traditional} Irish [music]{music}",
+      "entry": "tin whistle",
+      "id": "tin-whistle#tin-whistle__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [drum_1]{drum} that you [play_1]{play} with your [hand_1]{hands}",
+      "entry": "tom-tom",
+      "id": "tom-tom#tom-tom__1"
+    },
+    {
+      "comment": "a simple musical instrument consisting of a metal triangle that you hit with a metal bar. The triangle is a percussion instrument.",
+      "entry": "triangle",
+      "id": "triangle#triangle__6"
+    },
+    {
+      "comment": "a musical instrument consisting of two metal tubes shaped like the letter U that fit into each other, with one tube wide at one end. You play it by blowing into it as you slide one of the tubes forward and backward. A trombone is a brass instrument. Someone who plays the trombone is called a trombonist.",
+      "entry": "trombone",
+      "id": "trombone#trombone__1"
+    },
+    {
+      "comment": "a musical instrument that is a curved metal tube with a wide end. You play it by blowing into it as you press buttons on the top. Someone who plays the trumpet is called a trumpeter or a trumpet player.",
+      "entry": "trumpet",
+      "id": "trumpet_1#trumpet_1__1"
+    },
+    {
+      "comment": "a large musical instrument that is a curved metal tube with a wide open end. You play it by blowing into it as you press buttons on the top. A tuba is a brass instrument.",
+      "entry": "tuba",
+      "id": "tuba#tuba__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [object_1]{object} that [produce_1]{produces} a [particular_1]{particular} [note_1]{note} when you hit it, [used]{used} by someone [making]{making} [small_1]{small} [change_1]{changes} to a [musical_1]{musical} [instrument]{instrument} so that it [produce_1]{produces} the [correct_1]{correct} [note_1]{note}. It has a [handle_1]{handle} and two long thin [part_1]{parts}.",
+      "entry": "tuning fork",
+      "id": "tuning-fork#tuning-fork__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} with four [string_1]{strings}, [similar]{similar} to a [small_1]{small} [guitar]{guitar}",
+      "entry": "ukelele",
+      "id": "ukelele#ukelele__1"
+    },
+    {
+      "comment": "an [upright_1]{upright} [piano_1]{piano}",
+      "entry": "upright",
+      "id": "upright_3#upright_3__3"
+    },
+    {
+      "comment": "a tall narrow piano with the strings inside stretched from bottom to top. A long wide piano with strings that go from one side to the other is called a grand piano.",
+      "entry": "upright piano",
+      "id": "upright-piano#upright-piano__1"
+    },
+    {
+      "comment": "an [electronic]{electronic} [musical_1]{musical} [instrument]{instrument} with [metal_1]{metal} [bar_1]{bars} that you hit",
+      "entry": "vibraphone",
+      "id": "vibraphone#vibraphone__1"
+    },
+    {
+      "comment": "a musical instrument similar to a violin, used in the 16th and 17th centuries",
+      "entry": "viol",
+      "id": "viol#viol__1"
+    },
+    {
+      "comment": "a musical instrument that is like a large violin but produces a deeper sound",
+      "entry": "viola",
+      "id": "viola#viola__1"
+    },
+    {
+      "comment": "a musical instrument that you hold under your chin and play by pulling a long object called a bow across its strings. Someone who plays a violin is called a violinist",
+      "entry": "violin",
+      "id": "violin#violin__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [similar]{similar} to a [small_1]{small} [piano_1]{piano} that was [used]{used} in the 16th and 17th [century]{centuries}",
+      "entry": "virginals",
+      "id": "virginals#virginals__1"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of a [small_1]{small} [metal_1]{metal} [tube]{tube} that you [blow_1]{blow}",
+      "entry": "whistle",
+      "id": "whistle_1#whistle_1__5"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} with a [row_1]{row} of [narrow_1]{narrow} [wooden]{wooden} [piece_1]{pieces} that [produce_1]{produce} [note_1]{notes} when you hit them with a [wooden]{wooden} [hammer_1]{hammer}",
+      "entry": "xylophone",
+      "id": "xylophone#xylophone__1"
+    },
+    {
+      "comment": "a [small_1]{small} [musical_1]{musical} [instrument]{instrument} [consist]{consisting} of a [box_1]{box} with [string_1]{strings} across the top. It is [play_1]{played} [use_1]{using} your [finger_1]{fingers}.",
+      "entry": "zither",
+      "id": "zither#zither__1"
+    }
+  ],
+  "thesaurus": "Musical instruments",
+  "type": "Related words"
+}

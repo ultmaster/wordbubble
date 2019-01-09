@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go wrong",
+  "senses": [
+    {
+      "def": "[used]{used} when something [stop_1]{stops} [working]{working}",
+      "examples": [
+        "When anything went [wrong_1]{wrong} with the [engine]{engines} they [call_1]{called} for Murdoch."
+      ],
+      "id": "go-wrong__1"
+    },
+    {
+      "def": "[used]{used} when a [problem]{problem} [happen]{happens} and [cause_1]{causes} the [failure]{failure} of something such as a [relationship]{relationship} or a [business]{business}",
+      "examples": [
+        "It\u2019s [difficult]{difficult} to [say_1]{say} when it all [start_1]{started} to go [wrong_1]{wrong}."
+      ],
+      "id": "go-wrong__3"
+    }
+  ]
+}

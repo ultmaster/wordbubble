@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[unable]{unable} to [control_1]{control} your [action_1]{actions} or [behavior]{behavior} because you have [drunk_1]{drunk} too much [alcohol]{alcohol}",
+      "entry": "drunk",
+      "id": "drunk_1#drunk_1__1"
+    },
+    {
+      "comment": "a drunken person is drunk. This word shows that you do not like people being drunk.",
+      "entry": "drunken",
+      "id": "drunken#drunken__1"
+    },
+    {
+      "comment": "[spending]{spending} a [lot_1]{lot} of time [drinking]{drinking} [alcohol]{alcohol}",
+      "entry": "hard-drinking",
+      "id": "hard-drinking#hard-drinking__1"
+    },
+    {
+      "comment": "[tired]{tired} and [sick_1]{sick} in the [morning_1]{morning} because you [drank]{drank} too much [alcohol]{alcohol} the [night_1]{night} before",
+      "entry": "hungover",
+      "id": "hungover#hungover__1"
+    },
+    {
+      "comment": "affected by alcoholism",
+      "entry": "alcoholic",
+      "id": "alcoholic_1#alcoholic_1__3"
+    },
+    {
+      "comment": "[drunk_1]{drunk}",
+      "entry": "intoxicated",
+      "id": "intoxicated#intoxicated__1"
+    },
+    {
+      "comment": "[drunk_1]{drunk}",
+      "entry": "inebriated",
+      "id": "inebriated#inebriated__1"
+    },
+    {
+      "comment": "someone who is [wasted]{wasted} is very [drunk_1]{drunk} or has [taken_1]{taken} a [lot_1]{lot} of [drug_1]{drugs}",
+      "entry": "wasted",
+      "id": "wasted#wasted__4"
+    },
+    {
+      "comment": "[completely]{completely} [drunk_1]{drunk}",
+      "entry": "hammered",
+      "id": "hammered#hammered__1"
+    },
+    {
+      "comment": "[drunk_1]{drunk}",
+      "entry": "blitzed",
+      "id": "blitzed#blitzed__1"
+    },
+    {
+      "comment": "[suffering]{suffering} from the [effect_1]{effects} of [drinking]{drinking} too much [alcohol]{alcohol}",
+      "entry": "babalaas",
+      "id": "babalaas_2#babalaas_2__1"
+    }
+  ],
+  "thesaurus": "Drunk",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fun and games",
+  "senses": [
+    {
+      "def": "[enjoyable]{enjoyable} [activity]{activities}",
+      "examples": [
+        "Being an [actor]{actor} isn\u2019t all [fun_1]{fun} and [game_1]{games}."
+      ],
+      "id": "fun-and-games__1"
+    },
+    {
+      "def": "[used]{used} about a [situation]{situation} that you do not [enjoy]{enjoy} [dealing]{dealing} with",
+      "examples": [
+        "The [fun_1]{fun} and [game_1]{games} [begin]{begin} when we [try_1]{try} to put the [children]{children} to [bed_1]{bed}."
+      ],
+      "id": "fun-and-games__3"
+    }
+  ]
+}

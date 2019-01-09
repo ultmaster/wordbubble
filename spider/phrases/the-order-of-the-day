@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "the order of the day",
+  "senses": [
+    {
+      "def": "something that is [usual]{usual} or [expected]{expected}",
+      "examples": [
+        "a family-run [hotel]{hotel} where [simple]{simple} [comfort_1]{comfort} is the [order_1]{order} of the [day]{day}"
+      ],
+      "id": "the-order-of-the-day__1"
+    },
+    {
+      "def": "something that is very [common_1]{common} in a [particular_1]{particular} [place_1]{place} or time",
+      "examples": [
+        "a time in U.S. [history]{history} when [small-scale]{small-scale} [agriculture]{agriculture} was the [order_1]{order} of the [day]{day}"
+      ],
+      "id": "the-order-of-the-day__3"
+    }
+  ]
+}

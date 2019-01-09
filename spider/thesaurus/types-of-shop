@@ -1,0 +1,431 @@
+{
+  "entries": [
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [valuable]{valuable} [old]{old} [object_1]{objects}",
+      "entry": "antique shop",
+      "id": "antique-shop#antique-shop__1"
+    },
+    {
+      "comment": "a [store_1]{store} or the part of a [supermarket]{supermarket} where [bread]{bread}, [cake]{cakes}, etc. are [sold]{sold}",
+      "entry": "bakeshop",
+      "id": "bakeshop#bakeshop__1"
+    },
+    {
+      "comment": "a place where men go to get their hair cut. The British word is barber\u2019s.",
+      "entry": "barbershop",
+      "id": "barbershop#barbershop__1"
+    },
+    {
+      "comment": "a [store_1]{store} where you can get [beauty_1]{beauty} [treatment]{treatments} for your [skin_1]{skin} or [hair]{hair}",
+      "entry": "beauty parlor",
+      "id": "beauty-parlor#beauty-parlor__1"
+    },
+    {
+      "comment": "a [beauty_1]{beauty} [parlor]{parlor}",
+      "entry": "beauty salon",
+      "id": "beauty-salon#beauty-salon__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [store_1]{store}, [usually]{usually} [outside]{outside} a [town]{town} in a [special_1]{special} [shopping]{shopping} [area]{area}, where [large_1]{large} [company]{companies} can [sell_1]{sell} their [product]{products} [direct_1]{direct} to [customer]{customers}",
+      "entry": "big-box store",
+      "id": "big-box-store#big-box-store__1"
+    },
+    {
+      "comment": "an organization that sells books at low prices to its members, usually by mail order",
+      "entry": "book club",
+      "id": "book-club#book-club__2"
+    },
+    {
+      "comment": "a [bookstore]{bookstore}",
+      "entry": "bookshop",
+      "id": "bookshop#bookshop__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} with an [open_1]{open} front that [sell_1]{sells} [book_1]{books}, [newspaper]{newspapers}, and [magazine]{magazines}, for [example]{example} at a [train_1]{train} [station_1]{station}",
+      "entry": "bookstall",
+      "id": "bookstall#bookstall__1"
+    },
+    {
+      "comment": "a store that sells books. The usual British word is bookshop.",
+      "entry": "bookstore",
+      "id": "bookstore#bookstore__1"
+    },
+    {
+      "comment": "a [small_1]{small} [enclosed]{enclosed} [space_1]{space} where you can [buy_1]{buy} [thing]{things}, [look_1]{look} at [thing]{things}, or use a [service_1]{service}",
+      "entry": "booth",
+      "id": "booth#booth__2"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "bottle shop",
+      "id": "bottle-shop#bottle-shop__1"
+    },
+    {
+      "comment": "a [small_1]{small} [fashionable]{fashionable} [store_1]{store}, [especially]{especially} one that [sell_1]{sells} [clothes]{clothes}",
+      "entry": "boutique",
+      "id": "boutique#boutique__1"
+    },
+    {
+      "comment": "someone whose job is to sell meat and sometimes also to kill animals for meat. The store they work in is called a butcher\u2019s shop.",
+      "entry": "butcher",
+      "id": "butcher_1#butcher_1__1"
+    },
+    {
+      "comment": "a [butcher_1]{butcher}\u2019s [shop_1]{shop}",
+      "entry": "butchery",
+      "id": "butchery#butchery__4"
+    },
+    {
+      "comment": "in [south_1]{South} Africa, a [small_1]{small} [shop_1]{shop} [selling]{selling} [food]{food}, [newspaper]{newspapers}, etc.",
+      "entry": "caf\u00e9",
+      "id": "cafe#cafe__2"
+    },
+    {
+      "comment": "one of a [group_1]{group} of [store_1]{stores} that all [belong]{belong} to the same [person]{person} or [company]{company}",
+      "entry": "chain store",
+      "id": "chain-store#chain-store__1"
+    },
+    {
+      "comment": "a [drugstore]{drugstore}",
+      "entry": "chemist",
+      "id": "chemist#chemist__4"
+    },
+    {
+      "comment": "a place where you can get clothes, curtains, etc. dry-cleaned  (=cleaned with chemicals, not soap and water)",
+      "entry": "the cleaners",
+      "id": "the-cleaners#the-cleaners__1"
+    },
+    {
+      "comment": "a [supermarket]{supermarket} for [member]{members} of the [military]{military}",
+      "entry": "commissary",
+      "id": "commissary#commissary__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} or [business]{business} [inside_1]{inside} a [building]{building} [own_2]{owned} by a [large_1]{larger} [business]{business}",
+      "entry": "concession",
+      "id": "concession#concession__10"
+    },
+    {
+      "comment": "a stand where visitors to a place can buy food and drinks, operated by someone who is not directly employed in the place itself",
+      "entry": "concession stand",
+      "id": "concession-stand#concession-stand__1"
+    },
+    {
+      "comment": "a store that sells sweet foods such as cakes and pies",
+      "entry": "confectionery",
+      "id": "confectionery#confectionery__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} that is [open_1]{open} for long [hour]{hours} and [sell_1]{sells} a [variety]{variety} of [goods]{goods}, [especially]{especially} [food]{food} and [drink_1]{drink}, [cleaning]{cleaning} [material_1]{materials}, and [newspaper]{newspapers} or [magazine]{magazines}",
+      "entry": "convenience store",
+      "id": "convenience-store#convenience-store__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} that [sell_1]{sells} [food]{food} and other [product]{products}, often found on the [corner_1]{corner} of a [street_1]{street}",
+      "entry": "corner store",
+      "id": "corner-store#corner-store__1"
+    },
+    {
+      "comment": "a [bakery]{bakery} that [sell_1]{sells} [mainly]{mainly} [cupcake]{cupcakes}",
+      "entry": "cupcakery",
+      "id": "cupcakery#cupcakery__1"
+    },
+    {
+      "comment": "a [small_1]{small} [local_1]{local} [store_1]{store}",
+      "entry": "dairy",
+      "id": "dairy_1#dairy_1__5"
+    },
+    {
+      "comment": "a delicatessen",
+      "entry": "deli",
+      "id": "deli#deli__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [food]{food} such as [cooked]{cooked} [meat]{meat}, [cheese]{cheese}, and [food]{food} from other [country]{countries}",
+      "entry": "delicatessen",
+      "id": "delicatessen#delicatessen__1"
+    },
+    {
+      "comment": "a [small_1]{small} [local_1]{local} [store_1]{store} [selling]{selling} a [wide_1]{wide} [range_1]{range} of [goods]{goods}, [especially]{especially} in French-speaking [part_1]{parts} of Canada",
+      "entry": "depanneur",
+      "id": "depanneur#depanneur__1"
+    },
+    {
+      "comment": "a [large_1]{large} [store_1]{store} [divided]{divided} into [separate_1]{separate} [section_1]{sections}, each [section_1]{section} [selling]{selling} a [different]{different} [type_1]{type} of thing",
+      "entry": "department store",
+      "id": "department-store#department-store__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} that [sell_1]{sells} [different]{different} [type_1]{types} of [inexpensive]{inexpensive} [thing]{things}",
+      "entry": "dime store",
+      "id": "dime-store#dime-store__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} a [wide_1]{wide} [range_1]{range} of [item]{items} very [cheap_1#cheap_1__22]{cheaply}",
+      "entry": "dollar store",
+      "id": "dollar-store#dollar-store__1"
+    },
+    {
+      "comment": "a [business]{business} that [sell_1]{sells} [cloth]{cloth} and [thing]{things} made of [cloth]{cloth}",
+      "entry": "drapery",
+      "id": "drapery#drapery__3"
+    },
+    {
+      "comment": "a store that sells medicines, beauty products, and other goods. The usual British word is chemist.",
+      "entry": "drugstore",
+      "id": "drugstore#drugstore__1"
+    },
+    {
+      "comment": "a [store_1]{store} where you take your [clothes]{clothes} to be [dry-clean]{dry-cleaned}",
+      "entry": "dry cleaner\u2019s",
+      "id": "dry-cleaner-s#dry-cleaner-s__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [duty-free_1]{duty-free} [goods]{goods}",
+      "entry": "duty-free",
+      "id": "duty-free_2#duty-free_2__2"
+    },
+    {
+      "comment": "a [gas_1]{gas} [station_1]{station}",
+      "entry": "filling station",
+      "id": "filling-station#filling-station__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} a [variety]{variety} of [goods]{goods} that are not [expensive]{expensive}",
+      "entry": "five-and-dime",
+      "id": "five-and-dime#five-and-dime__1"
+    },
+    {
+      "comment": "a [place_1]{place} that [repair_1]{repairs} [car]{cars}",
+      "entry": "garage",
+      "id": "garage_1#garage_1__5"
+    },
+    {
+      "comment": "a [place_1]{place} where you go to [buy_1]{buy} [gas_1]{gas}",
+      "entry": "garage",
+      "id": "garage_1#garage_1__9"
+    },
+    {
+      "comment": "a [large_1]{large} [store_1]{store} that [sell_1]{sells} [plant_1]{plants}, [flower_1]{flowers}, and the [tool_1]{tools} and [equipment]{equipment} you [need_1]{need} for [take_1]{taking} [care_1]{care} of a [garden_1]{garden}",
+      "entry": "garden center",
+      "id": "garden-center#garden-center__1"
+    },
+    {
+      "comment": "a [gas_1]{gas} [station_1]{station}",
+      "entry": "gasbar",
+      "id": "gasbar#gasbar__1"
+    },
+    {
+      "comment": "a place that sells gas, oil, and other things you need for your car. The British word is petrol station.",
+      "entry": "gas station",
+      "id": "gas-station#gas-station__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} a [wide_1]{wide} [range_1]{range} of [product]{products}, often found in [small_1]{small} [community]{communities}",
+      "entry": "general store",
+      "id": "general-store#general-store__1"
+    },
+    {
+      "comment": "a [store_1]{store} [selling]{selling} [thing]{things} that [people_1]{people} [like_1]{like} to give and [receive]{receive} as [present_2]{presents}",
+      "entry": "gift shop",
+      "id": "gift-shop#gift-shop__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} that [sell_1]{sells} [food]{food} and other [goods]{goods}",
+      "entry": "grocery",
+      "id": "grocery_1#grocery_1__1"
+    },
+    {
+      "comment": "[men]{men}\u2019s [clothes]{clothes}, or a [store_1]{store} that [sell_1]{sells} [men]{men}\u2019s [clothes]{clothes}",
+      "entry": "haberdashery",
+      "id": "haberdashery#haberdashery__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [metal_1]{metal} [goods]{goods} and [thing]{things} for your [home_1]{home} or [garden_1]{garden}, such as [pan_1]{pans}, [knives]{knives}, [tool_1]{tools}, and [chemical_1]{chemical} [product]{products}",
+      "entry": "hardware store",
+      "id": "hardware-store#hardware-store__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} that [sell_1]{sells} [equipment]{equipment} [used]{used} for [take_1]{taking} [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "head shop",
+      "id": "head-shop#head-shop__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [store_1]{store} or [restaurant]{restaurant}",
+      "entry": "hole-in-the-wall",
+      "id": "hole-in-the-wall#hole-in-the-wall__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [buy_1]{buys} and [sell_1]{sells} [inexpensive]{inexpensive} [used]{used} [thing]{things}, [especially]{especially} [thing]{things} that are [broken_1]{broken}, very [old]{old}, or of low [quality_1]{quality}",
+      "entry": "junk shop",
+      "id": "junk-shop#junk-shop__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "liquor store",
+      "id": "liquor-store#liquor-store__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [store_1]{store}, [especially]{especially} one that [sell_1]{sells} many [different]{different} [type_1]{types} of [product]{products}",
+      "entry": "megastore",
+      "id": "megastore#megastore__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} that [sell_1]{sells} [food]{food} and [stay_1]{stays} [open_1]{open} [late_1]{late}",
+      "entry": "minimart",
+      "id": "minimart#minimart__1"
+    },
+    {
+      "comment": "a [chain_1]{chain} [store_1]{store}",
+      "entry": "multiple",
+      "id": "multiple_2#multiple_2__3"
+    },
+    {
+      "comment": "a [newsstand]{newsstand}",
+      "entry": "newspaper stand",
+      "id": "newspaper-stand#newspaper-stand__1"
+    },
+    {
+      "comment": "a [place_1]{place} in the [street_1]{street} where you can [buy_1]{buy} [newspaper]{newspapers} and [magazine]{magazines}",
+      "entry": "newsstand",
+      "id": "newsstand#newsstand__1"
+    },
+    {
+      "comment": "a [liquor]{liquor} [store_1]{store}",
+      "entry": "off-licence",
+      "id": "off-licence#off-licence__1"
+    },
+    {
+      "comment": "a store that sells secondhand  (=used) goods in order to earn money for a charity  (=organization that helps the poor, sick, etc.)",
+      "entry": "opportunity shop",
+      "id": "opportunity-shop#opportunity-shop__1"
+    },
+    {
+      "comment": "an [opportunity]{opportunity} [shop_1]{shop}",
+      "entry": "op shop",
+      "id": "op-shop#op-shop__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [clothes]{clothes} and [equipment]{equipment} for [activity]{activities} such as [camping]{camping} and [hunting]{hunting}",
+      "entry": "outfitter",
+      "id": "outfitter#outfitter__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [clothes]{clothes}, [especially]{especially} [men]{men}\u2019s [clothes]{clothes}",
+      "entry": "outfitter",
+      "id": "outfitter#outfitter__2"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [cake]{cakes}",
+      "entry": "patisserie",
+      "id": "patisserie#patisserie__1"
+    },
+    {
+      "comment": "a store that sells perfumes",
+      "entry": "perfumery",
+      "id": "perfumery#perfumery__2"
+    },
+    {
+      "comment": "a [gas_1]{gas} [station_1]{station}",
+      "entry": "petrol station",
+      "id": "petrol-station#petrol-station__1"
+    },
+    {
+      "comment": "a [store_1]{store} where [medicine]{medicines} are [prepared]{prepared} and [sold]{sold}",
+      "entry": "pharmacy",
+      "id": "pharmacy#pharmacy__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} a [large_1]{large} [range_1]{range} of [item]{items} for one [pound_1]{pound}",
+      "entry": "pound shop",
+      "id": "pound-shop#pound-shop__1"
+    },
+    {
+      "comment": "a store where saddles and other leather products are sold",
+      "entry": "saddlery",
+      "id": "saddlery#saddlery__3"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [expensive]{expensive} [clothes]{clothes} made by [famous_1]{famous} [designer_1]{designers}",
+      "entry": "salon",
+      "id": "salon#salon__4"
+    },
+    {
+      "comment": "a [small_1]{small} [local_1]{local} [store_1]{store} [selling]{selling} a [wide_1]{wide} [range_1]{range} of [goods]{goods}",
+      "entry": "sari-sari store",
+      "id": "sari-sari-store#sari-sari-store__1"
+    },
+    {
+      "comment": "a [store_1]{store} where you can [buy_1]{buy} [part_1]{parts} for the [product]{products} that are [sold]{sold} there, and can have the [product]{products} [repair_1]{repaired}",
+      "entry": "service center",
+      "id": "service-center#service-center__1"
+    },
+    {
+      "comment": "a [business]{business} that [sell_1]{sells} [gas_1]{gas}, [oil_1]{oil}, and other [thing]{things} for [vehicle]{vehicles}",
+      "entry": "service station",
+      "id": "service-station#service-station__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [product]{products} [relate]{relating} to [sexual]{sexual} [activity]{activities}",
+      "entry": "sex shop",
+      "id": "sex-shop#sex-shop__1"
+    },
+    {
+      "comment": "a [large_1]{large} [table_1]{table} or a [small_1]{small} [building]{building} that is [open_1]{open} at the front, [used]{used} for [selling]{selling} [thing]{things} or for [give_1]{giving} [people_1]{people} [information]{information}",
+      "entry": "stall",
+      "id": "stall_1#stall_1__5"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [stationery]{stationery}",
+      "entry": "stationer",
+      "id": "stationer#stationer__2"
+    },
+    {
+      "comment": "a very large store that sells food and other products for the home. You go around the store pushing a cart and putting things in it, then you pay for your goods at the checkout counter.",
+      "entry": "supermarket",
+      "id": "supermarket#supermarket__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [store_1]{store} that [sell_1]{sells} a [wide_1]{wide} [range_1]{range} of [different]{different} [goods]{goods}",
+      "entry": "superstore",
+      "id": "superstore#superstore__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} a [range_1]{range} of [similar]{similar} [product]{products} at low [price_1]{prices}",
+      "entry": "superstore",
+      "id": "superstore#superstore__2"
+    },
+    {
+      "comment": "a store that sells meals that you take home to eat. The British word is takeaway",
+      "entry": "takeout",
+      "id": "takeout#takeout__3"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [used]{used} [thing]{things} at low [price_1]{prices}",
+      "entry": "thrift shop",
+      "id": "thrift-shop#thrift-shop__1"
+    },
+    {
+      "comment": "a [store_1]{store} that [sell_1]{sells} [tobacco]{tobacco}, [cigarette]{cigarettes}, etc.",
+      "entry": "tobacconist",
+      "id": "tobacconist#tobacconist__1"
+    },
+    {
+      "comment": "a [small_1]{small} [town]{town}, [village_1]{village}, or [store_1]{store} [far]{far} [away_1]{away} from other [town]{towns}",
+      "entry": "trading post",
+      "id": "trading-post#trading-post__1"
+    },
+    {
+      "comment": "a [small_1]{small} [store_1]{store} that [sell_1]{sells} many [different]{different} [thing]{things} such as [cigarette]{cigarettes}, [food]{food}, etc.",
+      "entry": "variety store",
+      "id": "variety-store#variety-store__1"
+    },
+    {
+      "comment": "someone who is [legally]{legally} [allow]{allowed} to [sell_1]{sell} [alcohol]{alcohol}",
+      "entry": "victualler",
+      "id": "victualler#victualler__1"
+    }
+  ],
+  "thesaurus": "Types of shop",
+  "type": "Related words"
+}

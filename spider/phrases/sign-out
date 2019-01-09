@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "sign out",
+  "senses": [
+    {
+      "def": "to [write]{write} your name on an [official_1]{official} [list_1]{list} when you [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "I\u2019ll [sign_1]{sign} both of us out."
+      ],
+      "id": "sign-out__1"
+    },
+    {
+      "def": "if you [sign_1]{sign} out an [object_1]{object} or a [vehicle]{vehicle}, you [write]{write} your name on an [official_1]{official} [list_1]{list} to show that you have [borrow]{borrowed} or [rented]{rented} it",
+      "examples": [
+        "I\u2019ll [sign_1]{sign} out a [laptop]{laptop} for the [weekend_1]{weekend}."
+      ],
+      "id": "sign-out__3"
+    }
+  ]
+}

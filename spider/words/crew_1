@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [people_1]{people} who [work_1]{work} on a [ship_1]{ship}, [aircraft]{aircraft}, etc.",
+      "examples": [
+        "The [jet_1]{jet} [crash_1]{crashed} [killing]{killing} all the [passenger]{passengers} and crew."
+      ],
+      "id": "crew_1__1"
+    },
+    {
+      "def": "a [group_1]{group} of [people_1]{people}",
+      "examples": [
+        "They [spoke_1]{spoke} to the [leader]{leader} and his crew.",
+        "[movie]{Movies} [like_1]{like} these [attract]{attract} a [motley]{motley} crew of [enthusiast]{enthusiasts}."
+      ],
+      "id": "crew_1__4"
+    },
+    {
+      "def": "a [group_1]{group} of [people_1]{people} with a [particular_1]{particular} [skill]{skill} who [work_1]{work} together",
+      "examples": [
+        "a [movie]{movie} crew",
+        "an [ambulance]{ambulance} crew"
+      ],
+      "id": "crew_1__7"
+    },
+    {
+      "def": "a [team_1]{team} of [people_1]{people} who [row_1]{row} a [boat]{boat} in a [race_1]{race}",
+      "examples": [],
+      "id": "crew_1__10"
+    }
+  ],
+  "word": "crew"
+}

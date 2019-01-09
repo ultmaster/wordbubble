@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "an [object_1]{object}, [piece_1]{piece} of [equipment]{equipment}, etc. that is [used]{used} for a [particular_1]{particular} [activity]{activity} or that you have because of a [particular_1]{particular} [situation]{situation}",
+      "entry": "appurtenance",
+      "id": "appurtenance#appurtenance__1"
+    },
+    {
+      "comment": "something that someone [own_2]{owns} or can [make_1]{make} [money]{money} from, [especially]{especially} [online]{online}",
+      "entry": "real estate",
+      "id": "real-estate#real-estate__3"
+    },
+    {
+      "comment": "[thing]{things}, [especially]{especially} [valuable]{valuable} [thing]{things}, that are [own_2]{owned} by someone",
+      "entry": "property",
+      "id": "property#property__1"
+    },
+    {
+      "comment": "the [thing]{things} that [belong]{belong} to a [particular_1]{particular} [person]{person} or [activity]{activity} or in a [particular_1]{particular} [place_1]{place}",
+      "entry": "stuff",
+      "id": "stuff_1#stuff_1__4"
+    },
+    {
+      "comment": "the [object_1]{objects} that [belong]{belong} to a [particular_1]{particular} [person]{person} or that are [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "things",
+      "id": "thing#thing__5"
+    },
+    {
+      "comment": "[object_1]{objects} that someone [own_2]{owns} that can be [move_1]{moved} from one [place_1]{place} to another",
+      "entry": "goods",
+      "id": "goods#goods__5"
+    },
+    {
+      "comment": "something that you own",
+      "entry": "possession",
+      "id": "possession#possession__1"
+    },
+    {
+      "comment": "something such as [money]{money} or [property]{property} that a [person]{person} or [company]{company} [own_2]{owns}",
+      "entry": "asset",
+      "id": "asset#asset__1"
+    },
+    {
+      "comment": "the [thing]{things} you own",
+      "entry": "belongings",
+      "id": "belongings#belongings__1"
+    },
+    {
+      "comment": "[small_1]{small} [possession]{possessions} that are [worth_1]{worth} a [lot_1]{lot} of [money]{money}, for [example]{example} [jewelry]{jewelry}",
+      "entry": "valuables",
+      "id": "valuables#valuables__1"
+    },
+    {
+      "comment": "[property]{property} that can be [move_1]{moved}",
+      "entry": "personal property",
+      "id": "personal-property#personal-property__1"
+    }
+  ],
+  "thesaurus": "General words for possessions",
+  "type": "Synonyms"
+}

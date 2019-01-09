@@ -1,0 +1,291 @@
+{
+  "entries": [
+    {
+      "comment": "[involve]{involving} [calculation]{calculations} about [risk_1]{risks}",
+      "entry": "actuarial",
+      "id": "actuarial#actuarial__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [calculate]{calculate} the [cost_1]{cost} of [insurance]{insurance} by [examine]{examining} how often [death]{deaths}, [accident]{accidents}, etc. [happen]{happen}",
+      "entry": "actuary",
+      "id": "actuary#actuary__1"
+    },
+    {
+      "comment": "an [insurance]{insurance} [adjuster]{adjuster}",
+      "entry": "adjuster",
+      "id": "adjuster#adjuster__1"
+    },
+    {
+      "comment": "a person or company considered according to how safe it is to lend them money or give them insurance or credit",
+      "entry": "a good/bad risk",
+      "id": "a-good-bad-risk#a-good-bad-risk__1"
+    },
+    {
+      "comment": "[life]{life} [insurance]{insurance}",
+      "entry": "assurance",
+      "id": "assurance#assurance__7"
+    },
+    {
+      "comment": "[money]{money} or [help_1]{help} that an [insurance]{insurance} [company]{company} [give_1]{gives} to you",
+      "entry": "benefit",
+      "id": "benefit_1#benefit_1__3"
+    },
+    {
+      "comment": "someone whose job is to organize business deals for other people, especially a stockbroker or an insurance broker",
+      "entry": "broker",
+      "id": "broker_1#broker_1__1"
+    },
+    {
+      "comment": "a [company]{company} that [provide]{provides} [insurance]{insurance}",
+      "entry": "carrier",
+      "id": "carrier#carrier__9"
+    },
+    {
+      "comment": "[insurance]{insurance} that you can [buy_1]{buy} when you [rent_1]{rent} a [car]{car} so that you do not [pay_1]{pay} if the [car]{car} is [damage_2]{damaged}",
+      "entry": "collision damage waiver",
+      "id": "collision-damage-waiver#collision-damage-waiver__1"
+    },
+    {
+      "comment": "[comprehensive]{comprehensive} [insurance]{insurance} is [insurance]{insurance} that [pay_1]{pays} for [loss]{losses} of a [number_1]{number} of [different]{different} [type_1]{types}",
+      "entry": "comprehensive",
+      "id": "comprehensive#comprehensive__5"
+    },
+    {
+      "comment": "a [contributory]{contributory} [pension_1]{pension} or [insurance]{insurance} [arrangement]{arrangement} is one that [involve]{involves} [payment]{payments} by [worker]{workers} as well as [employer]{employers}",
+      "entry": "contributory",
+      "id": "contributory#contributory__3"
+    },
+    {
+      "comment": "if an [insurance]{insurance} [agreement]{agreement} [cover_1]{covers} a [situation]{situation} or [person]{person}, it [provide]{provides} [protection]{protection} against [loss]{loss} for that [situation]{situation} or [person]{person}",
+      "entry": "cover",
+      "id": "cover_1#cover_1__26"
+    },
+    {
+      "comment": "[coverage]{coverage} that an [insurance]{insurance} [agreement]{agreement} [give_1]{gives} you",
+      "entry": "cover",
+      "id": "cover_2#cover_2__25"
+    },
+    {
+      "comment": "the amount and [type_1]{type} of [protection]{protection} that an [insurance]{insurance} [agreement]{agreement} [give_1]{gives} you",
+      "entry": "coverage",
+      "id": "coverage#coverage__6"
+    },
+    {
+      "comment": "an amount of [money]{money} that someone has to [pay_1]{pay} toward the [cost_1]{cost} of something when an [insurance]{insurance} [company]{company} is [going_1]{going} to [pay_1]{pay} the rest of the [cost_1]{cost}",
+      "entry": "deductible",
+      "id": "deductible_2#deductible_2__1"
+    },
+    {
+      "comment": "a [section_1]{section} in a [life]{life} [insurance]{insurance} [agreement]{agreement} that [say_1]{says} the [insurance]{insurance} [company]{company} will [pay_1]{pay} [double_1]{double} the amount of [money]{money} if the [person]{person} who [bought]{bought} the [insurance]{insurance} [die_1]{dies} in an [accident]{accident} rather than because of [illness]{illness} or [old]{old} [age_1]{age}",
+      "entry": "double indemnity",
+      "id": "double-indemnity#double-indemnity__1"
+    },
+    {
+      "comment": "an [insurance]{insurance} [deductible_1]{deductible}",
+      "entry": "excess",
+      "id": "excess_1#excess_1__10"
+    },
+    {
+      "comment": "the [federal]{Federal} [deposit_1]{Deposit} [insurance]{Insurance} [corporation]{Corporation}: a U.S. [organization]{organization} that [take_1]{takes} [responsibility]{responsibility} for [pay_1]{paying} you the [money]{money} you have in your [account_1]{account} if your [bank_1]{bank} is [forced]{forced} to [stop_1]{stop} [doing]{doing} [business]{business}",
+      "entry": "the FDIC",
+      "id": "the-fdic#the-fdic__1"
+    },
+    {
+      "comment": "[federal]{Federal} [insurance]{Insurance} [contribution]{Contributions} [act_1]{Act} [tax_1]{tax}: [money]{money} [paid_1]{paid} by [employer]{employers} and [worker]{workers} that is [used]{used} to [pay_1]{pay} for [people_1]{people} who are [retired]{retired} or [disabled]{disabled}",
+      "entry": "FICA tax",
+      "id": "fica-tax#fica-tax__1"
+    },
+    {
+      "comment": "an [insurance]{insurance} [document_1]{document} that you [need_1]{need} for [driving]{driving} your [car]{car} in a [foreign]{foreign} [country]{country}",
+      "entry": "green card",
+      "id": "green-card#green-card__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [insurance]{insurance} that [pay_1]{pays} for your [medical_1]{medical} [treatment]{treatment} when you are [sick_1]{sick}",
+      "entry": "health insurance",
+      "id": "health-insurance#health-insurance__1"
+    },
+    {
+      "comment": "to [provide]{provide} someone with [insurance]{insurance} or [protection]{protection} against [injury]{injury} or [loss]{loss}",
+      "entry": "indemnify",
+      "id": "indemnify#indemnify__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [payment]{payment} to someone who has [suffer]{suffered} [injury]{injury} or [loss]{loss}",
+      "entry": "indemnify",
+      "id": "indemnify#indemnify__2"
+    },
+    {
+      "comment": "[insurance]{insurance} or [protection]{protection} against [injury]{injury} or [loss]{loss}",
+      "entry": "indemnity",
+      "id": "indemnity#indemnity__1"
+    },
+    {
+      "comment": "a [payment]{payment} made to someone who has [suffer]{suffered} [injury]{injury} or [loss]{loss}",
+      "entry": "indemnity",
+      "id": "indemnity#indemnity__2"
+    },
+    {
+      "comment": "an arrangement in which you regularly pay an insurance company an amount of money so that they will give you money if something you own is damaged, lost, or stolen, or if you die or are sick or injured",
+      "entry": "insurance",
+      "id": "insurance#insurance__1"
+    },
+    {
+      "comment": "the [business]{business} of [selling]{selling} [insurance]{insurance} to [people_1]{people}",
+      "entry": "insurance",
+      "id": "insurance#insurance__7"
+    },
+    {
+      "comment": "[money]{money} that you [pay_1]{pay} [regularly]{regularly} to an [insurance]{insurance} [company]{company}",
+      "entry": "insurance",
+      "id": "insurance#insurance__9"
+    },
+    {
+      "comment": "[money]{money} that an [insurance]{insurance} [company]{company} [agree]{agrees} to [pay_1]{pay} you if something that you own is [damage_2]{damaged}, [lost_1]{lost}, or [stolen]{stolen}, or if you [die_1]{die} or are [sick_1]{sick} or [injured]{injured}",
+      "entry": "insurance",
+      "id": "insurance#insurance__11"
+    },
+    {
+      "comment": "someone whose job is to calculate how much money an insurance company should pay someone who is making a claim on their insurance. The British word is loss adjuster.",
+      "entry": "insurance adjuster",
+      "id": "insurance-adjuster#insurance-adjuster__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [sell_1]{sell} [insurance]{insurance}",
+      "entry": "insurance agent",
+      "id": "insurance-agent#insurance-agent__1"
+    },
+    {
+      "comment": "an [official_1]{official} [document_1]{document} [contain]{containing} the [detail_1]{details} of the [agreement]{agreement} between you and an [insurance]{insurance} [company]{company}",
+      "entry": "insurance policy",
+      "id": "insurance-policy#insurance-policy__1"
+    },
+    {
+      "comment": "a [regular_1]{regular} [payment]{payment} made to an [insurance]{insurance} [company]{company} so that you are [protected]{protected} by [insurance]{insurance}",
+      "entry": "insurance premium",
+      "id": "insurance-premium#insurance-premium__1"
+    },
+    {
+      "comment": "to [regularly]{regularly} [pay_1]{pay} an [insurance]{insurance} [company]{company} an amount of [money]{money} so that they will give you [money]{money} if something that you own is [damage_2]{damaged}, [lost_1]{lost}, or [stolen]{stolen}, or if you [die_1]{die} or are [sick_1]{sick} or [injured]{injured}",
+      "entry": "insure",
+      "id": "insure#insure__1"
+    },
+    {
+      "comment": "if an [insurance]{insurance} [company]{company} [insure]{insures} you or something that you own, they [accept]{accept} [money]{money} from you and [agree]{agree} to [pay_1]{pay} you if you [die_1]{die} or are [sick_1]{sick} or [injured]{injured}, or if something that you own is [damage_2]{damaged}, [lost_1]{lost}, or [stolen]{stolen}",
+      "entry": "insure",
+      "id": "insure#insure__6"
+    },
+    {
+      "comment": "[provided]{provided} with, or [protected]{protected} by, [insurance]{insurance}",
+      "entry": "the insured",
+      "id": "insured#insured__1"
+    },
+    {
+      "comment": "the person that an insurance policy affects",
+      "entry": "the insured",
+      "id": "insured#insured__5"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [sell_1]{sells} [insurance]{insurance}",
+      "entry": "insurer",
+      "id": "insurer#insurer__1"
+    },
+    {
+      "comment": "an [insurance]{insurance} [policy]{policy} [intended_1]{intended} to [pay_1]{pay} for [replace]{replacing} a [worker]{worker} who is very [important]{important} to an [organization]{organization}",
+      "entry": "key-person insurance",
+      "id": "key-person-insurance#key-person-insurance__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [insurance]{insurance} that [pay_1]{pays} [money]{money} to your [family_1]{family} when you [die_1]{die}",
+      "entry": "life insurance",
+      "id": "life-insurance#life-insurance__1"
+    },
+    {
+      "comment": "a British organization that sells insurance, especially for ships and aircraft. Lloyd\u2019s is sometimes called Lloyd\u2019s of London.",
+      "entry": "Lloyd\u2019s",
+      "id": "lloyd-s#lloyd-s__1"
+    },
+    {
+      "comment": "a system for managing medical treatment in the U.S. in which insurance companies control what treatment people can have, instead of doctors or patients making the decision",
+      "entry": "managed care",
+      "id": "managed-care#managed-care__1"
+    },
+    {
+      "comment": "a [mutual_1]{mutual} [insurance]{insurance} [company]{company}, [saving_1]{savings} [bank_1]{bank}, etc. is [own_2]{owned} by all of its [customer]{customers}, who [share_1]{share} its [profit_1]{profits}",
+      "entry": "mutual",
+      "id": "mutual_1#mutual_1__10"
+    },
+    {
+      "comment": "the system in the U.K. that is [similar]{similar} to [social_1]{Social} [security]{Security} in the U.S.",
+      "entry": "National Insurance",
+      "id": "national-insurance#national-insurance__1"
+    },
+    {
+      "comment": "a [contract_1]{contract} between an [insurance]{insurance} [company]{company} and a [person]{person} or [organization]{organization}",
+      "entry": "policy",
+      "id": "policy#policy__16"
+    },
+    {
+      "comment": "someone who has an [insurance]{insurance} [policy]{policy}",
+      "entry": "policyholder",
+      "id": "policyholder#policyholder__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that you [pay_1]{pay} [regularly]{regularly} for an [insurance]{insurance} [policy]{policy}",
+      "entry": "premium",
+      "id": "premium_1#premium_1__1"
+    },
+    {
+      "comment": "the [duty]{duty} of a [company]{company} that [make_1]{makes} or [sell_1]{sells} a [product]{product} to [pay_1]{pay} if their [product]{product} [cause_1]{causes} [damage_1]{damage} or [injury]{injury}",
+      "entry": "product liability",
+      "id": "product-liability#product-liability__1"
+    },
+    {
+      "comment": "if an [insurance]{insurance} [policy]{policy} [protect]{protects} you, it will [pay_1]{pay} [money]{money} to you or your [relative_2]{relatives} if [particular_1]{particular} [bad_1]{bad} [thing]{things} [happen]{happen}",
+      "entry": "protect",
+      "id": "protect#protect__6"
+    },
+    {
+      "comment": "the [agreement]{agreement} made by an [insurance]{insurance} [company]{company} to [pay_1]{pay} you [money]{money} if something [bad_1]{bad} [happen]{happens} to you or your [possession]{possessions}",
+      "entry": "protection",
+      "id": "protection#protection__8"
+    },
+    {
+      "comment": "[insurance]{insurance} [policy]{policies} that an [insurance]{insurance} [company]{company} has so that it will [receive]{receive} [money]{money} to [replace]{replace} the [money]{money} that it [pay_1]{pays} to its [customer]{customers}",
+      "entry": "reinsurance",
+      "id": "reinsurance#reinsurance__1"
+    },
+    {
+      "comment": "the amount of money that you receive from a life insurance policy if you decide you want to stop the policy",
+      "entry": "surrender value",
+      "id": "surrender-value#surrender-value__1"
+    },
+    {
+      "comment": "[third-party_2]{third-party} [insurance]{insurance} [protect]{protects} you if you [accidentally]{accidentally} [injure]{injure} someone or [accidentally]{accidentally} [damage_1]{damage} their [property]{property}",
+      "entry": "third-party",
+      "id": "third-party_2#third-party_2__4"
+    },
+    {
+      "comment": "a [type_1]{type} of [insurance]{insurance} that [pay_1]{pays} for your [medical_1]{medical} [treatment]{treatment} if you are ill when you are [traveling]{traveling} [abroad]{abroad}, or that [give_1]{gives} you back your [money]{money} if your [holiday_1]{holiday} is [cancel]{canceled}",
+      "entry": "travel insurance",
+      "id": "travel-insurance#travel-insurance__1"
+    },
+    {
+      "comment": "to [protect]{protect} someone from [loss]{loss} with an [insurance]{insurance} [policy]{policy}",
+      "entry": "underwrite",
+      "id": "underwrite#underwrite__3"
+    },
+    {
+      "comment": "to protect a company from loss by agreeing to buy any remaining stock that is not bought by the public when the stock first becomes available for sale",
+      "entry": "underwrite",
+      "id": "underwrite#underwrite__4"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [provide]{provides} [insurance]{insurance}",
+      "entry": "underwriter",
+      "id": "underwriter#underwriter__1"
+    }
+  ],
+  "thesaurus": "Insuring and insurance",
+  "type": "Related words"
+}

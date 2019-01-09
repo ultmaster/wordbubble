@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "lean on",
+  "senses": [
+    {
+      "def": "to [depend]{depend} on someone",
+      "examples": [
+        "[everybody]{Everybody} [need_1]{needs} someone to [lean_1]{lean} on in times of [trouble_1]{trouble}."
+      ],
+      "id": "lean-on__1"
+    },
+    {
+      "def": "to put [pressure_1]{pressure} on someone in [order_1]{order} to [make_1]{make} them do something",
+      "examples": [
+        "The [prime_1]{Prime} [minister_1]{Minister}\u2019s been [leaning]{leaning} [pretty_1]{pretty} [heavily]{heavily} on her to [resign]{resign}."
+      ],
+      "id": "lean-on__3"
+    },
+    {
+      "def": "to [press_1]{press} the [horn_1]{horn} of a [car]{car} in a [determined]{determined} way",
+      "examples": [
+        "The [taxi_1]{taxi} [driver]{driver} was [wait_1]{waiting} out front, [leaning]{leaning} on the [horn_1]{horn}."
+      ],
+      "id": "lean-on__5"
+    }
+  ]
+}

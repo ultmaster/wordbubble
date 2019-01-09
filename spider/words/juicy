@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "juicy [food]{food} [taste_1]{tastes} [good_1]{good} because it [contain]{contains} a [lot_1]{lot} of [liquid_1]{liquid}",
+      "examples": [
+        "a [sweet_1]{sweet} juicy [apple]{apple}"
+      ],
+      "id": "juicy__1"
+    },
+    {
+      "def": "juicy [story]{stories} are [slightly]{slightly} [shocking]{shocking} but [interesting]{interesting} or [fun_1]{fun} to [listen_1]{listen} to",
+      "examples": [
+        "a juicy [bit_1]{bit} of [gossip_1]{gossip}",
+        "He [get]{gets} all the juicy [job_1]{jobs}."
+      ],
+      "id": "juicy__3"
+    },
+    {
+      "def": "very [attractive]{attractive} in a [sexual]{sexual} way",
+      "examples": [],
+      "id": "juicy__7"
+    },
+    {
+      "def": "[worth_1]{worth} a [lot_1]{lot} of [money]{money}",
+      "examples": [
+        "a juicy [contract_1]{contract}"
+      ],
+      "id": "juicy__8"
+    }
+  ],
+  "word": "juicy"
+}

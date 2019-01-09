@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if you are [dependent_1]{dependent} on someone or something, you [need_1]{need} them in [order_1]{order} to [live_1]{live} or [succeed]{succeed}",
+      "entry": "dependent",
+      "id": "dependent_1#dependent_1__1"
+    },
+    {
+      "comment": "in a [situation]{situation} where you have to [obey]{obey} a [rule_1]{rule} or a [law]{law}",
+      "entry": "subject to something",
+      "id": "subject-to-something#subject-to-something__3"
+    },
+    {
+      "comment": "[have]{having} an [obligation]{obligation} to do something because of a [law]{law}, [promise_1]{promise}, etc.",
+      "entry": "bound",
+      "id": "bound_1#bound_1__6"
+    },
+    {
+      "comment": "if you are [answerable]{answerable} to someone, you have to [explain]{explain} to them the [reason_1]{reasons} for your [action_1]{actions} or [mistake_1]{mistakes}",
+      "entry": "answerable",
+      "id": "answerable#answerable__1"
+    },
+    {
+      "comment": "[depend]{depending} on someone or something",
+      "entry": "reliant",
+      "id": "reliant#reliant__1"
+    },
+    {
+      "comment": "[protected]{protected} or [prevent]{prevented} from [escape_1]{escaping} by a [guard_1]{guard}",
+      "entry": "under guard",
+      "id": "under-guard#under-guard__1"
+    },
+    {
+      "comment": "[left_1]{left} somewhere with no way of [going_1]{going} anywhere else",
+      "entry": "stranded",
+      "id": "stranded#stranded__1"
+    },
+    {
+      "comment": "[left_1]{left} or [caught_1]{caught} in a [place_1]{place} and [unable]{unable} to [leave_1]{leave}",
+      "entry": "marooned",
+      "id": "marooned#marooned__1"
+    },
+    {
+      "comment": "[completely]{completely} [controlled_1]{controlled} or [influence_2]{influenced} by someone or something",
+      "entry": "in thrall to",
+      "id": "thrall#thrall__4"
+    },
+    {
+      "comment": "[strongly]{strongly} [influence_2]{influenced} by someone, so that you do what you [think_1]{think} they [want_1]{want}, or you [copy_1]{copy} them in some way",
+      "entry": "under someone\u2019s control/influence/spell",
+      "id": "under-someone-s-control-influence-spell#under-someone-s-control-influence-spell__1"
+    }
+  ],
+  "thesaurus": "Not free or independent",
+  "type": "Synonyms"
+}

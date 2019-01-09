@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[atmospheric]{atmospheric} [pressure_1]{pressure}",
+      "entry": "air pressure",
+      "id": "air-pressure#air-pressure__1"
+    },
+    {
+      "comment": "an area of high air pressure that produces clear weather with very little wind",
+      "entry": "anticyclone",
+      "id": "anticyclone#anticyclone__1"
+    },
+    {
+      "comment": "the [pressure_1]{pressure} of the [atmosphere]{atmosphere} on the [surface_1]{surface} of the [earth]{Earth}",
+      "entry": "atmospheric pressure",
+      "id": "atmospheric-pressure#atmospheric-pressure__1"
+    },
+    {
+      "comment": "the place where a moving mass of cold air meets a mass of warm air. Cold fronts usually cause heavy rain and they sometimes cause thunder.",
+      "entry": "cold front",
+      "id": "cold-front#cold-front__1"
+    },
+    {
+      "comment": "a [large_1]{large} [mass_1]{mass} of [air_1]{air} at low [pressure_1]{pressure} that [usually]{usually} [bring]{brings} [cold_1]{colder} [weather_1]{weather} and [rain_1]{rain}",
+      "entry": "depression",
+      "id": "depression#depression__9"
+    },
+    {
+      "comment": "a [change_1]{change} in the [current_2]{currents} of the [pacific_1]{Pacific} [ocean]{Ocean} off the [south_1]{South} American [coast_1]{coast} that can [seriously]{seriously} [affect_1]{affect} the [weather_1]{weather} in the [region]{region}, often [cause_2]{causing} [major_1]{major} [problem]{problems} such as [flood_1]{floods}",
+      "entry": "El Ni\u00f1o",
+      "id": "el-nino#el-nino__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [large_1]{large} [area]{area} of [cold_1]{cold} [air_1]{air} [meet_1]{meets} a [large_1]{large} [area]{area} of [warm_1]{warm} [air_1]{air}, often [shown]{shown} as a [line_1]{line} on a [weather_1]{weather} [map_1]{map}",
+      "entry": "front",
+      "id": "front_1#front_1__26"
+    },
+    {
+      "comment": "relating to a weather front",
+      "entry": "frontal",
+      "id": "frontal#frontal__6"
+    },
+    {
+      "comment": "a [current_1]{current} of [warm_1]{warm} [water_1]{water} that [flow_1]{flows} from the [gulf]{Gulf} of Mexico to the [north_1]{north} and east across the Atlantic [ocean]{Ocean} toward Europe and Africa",
+      "entry": "the Gulf Stream",
+      "id": "the-gulf-stream#the-gulf-stream__1"
+    },
+    {
+      "comment": "a line drawn on a weather map that connects places with the same air pressure",
+      "entry": "isobar",
+      "id": "isobar#isobar__1"
+    },
+    {
+      "comment": "an [area]{area} of low [air_1]{air} [pressure_1]{pressure}",
+      "entry": "low",
+      "id": "low_3#low_3__9"
+    },
+    {
+      "comment": "a [type_1]{type} of [air_1]{air} [pressure_1]{pressure} that [usually]{usually} [bring]{brings} [wet_1]{wet} [weather_1]{weather}",
+      "entry": "low pressure",
+      "id": "low-pressure#low-pressure__1"
+    },
+    {
+      "comment": "a [current_1]{current} of [warm_1]{warm} [water_1]{water} in the Atlantic [ocean]{Ocean} that is part of the [gulf]{Gulf} [stream_1]{Stream}. It [make_1]{makes} the [climate]{climate} of [northwest_1]{northwest} Europe [warmer]{warmer} than it would otherwise be.",
+      "entry": "the North Atlantic Drift",
+      "id": "the-north-atlantic-drift#the-north-atlantic-drift__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [area]{area} of [high_1]{high} [pressure_1]{pressure} in a [weather_1]{weather} system",
+      "entry": "ridge",
+      "id": "ridge#ridge__6"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [area]{area} of low [pressure_1]{pressure} in the [atmosphere]{atmosphere} between two [area]{areas} of [high_1]{high} [pressure_1]{pressure}, [usually]{usually} [cause_2]{causing} [bad_1]{bad} [weather_1]{weather}",
+      "entry": "trough",
+      "id": "trough#trough__7"
+    },
+    {
+      "comment": "the front edge of a mass of warm air that brings warm weather when it moves into an area. The front edge of a mass of cold air is called a cold front.",
+      "entry": "warm front",
+      "id": "warm-front#warm-front__1"
+    }
+  ],
+  "thesaurus": "Weather patterns and air pressure",
+  "type": "Related words"
+}

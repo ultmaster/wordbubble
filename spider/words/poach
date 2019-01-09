@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [cook_1]{cook} something in [water_1]{water}, [milk_1]{milk}, or another [liquid_1]{liquid} that is [boiling]{boiling} [gently]{gently}",
+      "examples": [
+        "[poach]{Poach} the [chicken_1]{chicken} in [white_1]{white} [wine_1]{wine} for 15 [minute_1]{minutes}."
+      ],
+      "id": "poach__1"
+    },
+    {
+      "def": "to [illegal_1#illegal_1__6]{illegally} [catch_1]{catch} or [kill_1]{kill} an [animal_1]{animal}, [bird]{bird}, or [fish_1]{fish} on someone else\u2019s [property]{property}",
+      "examples": [
+        "The two [men]{men} were [caught_1]{caught} [poach]{poaching} [lion]{lions} on [government]{government} [land_1]{land}."
+      ],
+      "id": "poach__4"
+    },
+    {
+      "def": "to [persuade]{persuade} someone to [leave_1]{leave} a [group_1]{group} or [organization]{organization} and become a [member]{member} of yours, [especially]{especially} by [use_1]{using} [secret_1]{secret} or [dishonest]{dishonest} [method]{methods}",
+      "examples": [
+        "Canada has [accuse]{accused} American [baseball]{baseball} [team_1]{teams} of [trying]{trying} to poach their [best_1]{best} [player]{players}."
+      ],
+      "id": "poach__6"
+    }
+  ],
+  "word": "poach"
+}

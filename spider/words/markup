@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the amount of [money]{money} that someone who [sell_1]{sells} [goods]{goods} [add_1]{adds} to the [price_1]{price} of the [goods]{goods} in [order_1]{order} to [make_1]{make} a [profit_1]{profit}",
+      "examples": [
+        "a [fixed]{fixed} markup of 20 [percent_1]{percent}"
+      ],
+      "id": "markup__1"
+    },
+    {
+      "def": "[instruction]{instructions} [added]{added} to [document_1]{documents} that [tell_1]{tell} a computer how to [print_1]{print} or [organize]{organize} the [information]{information}",
+      "examples": [
+        "[hypertext]{HyperText} markup",
+        "a markup [language]{language}"
+      ],
+      "id": "markup__3"
+    }
+  ],
+  "word": "markup"
+}

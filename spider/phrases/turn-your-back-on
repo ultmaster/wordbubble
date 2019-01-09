@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "turn your back on",
+  "senses": [
+    {
+      "def": "to [turn_1]{turn} your body so that your back is [pointing]{pointing} toward someone or something",
+      "examples": [
+        "She [turn_1]{turned} her back on him [cold_1#cold_1__17]{coldly}."
+      ],
+      "id": "turn-your-back-on__1"
+    },
+    {
+      "def": "to [refuse_1]{refuse} to [accept]{accept} someone or something that you have [previously]{previously} [accepted]{accepted}",
+      "examples": [
+        "He [turn_1]{turned} his back on his former [belief]{beliefs}."
+      ],
+      "id": "turn-your-back-on__3"
+    }
+  ]
+}

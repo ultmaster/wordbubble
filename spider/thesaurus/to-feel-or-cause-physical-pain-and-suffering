@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [feel_1]{feel} [pain_1]{pain} in your body or your [mind_1]{mind}",
+      "entry": "suffer",
+      "id": "suffer#suffer__1"
+    },
+    {
+      "comment": "to [feel_1]{feel} [pain_1]{pain} somewhere in your body",
+      "entry": "hurt",
+      "id": "hurt_1#hurt_1__5"
+    },
+    {
+      "comment": "to cause [physical_1]{physical} [pain_1]{pain} or [injury]{injury}",
+      "entry": "hurt",
+      "id": "hurt_1#hurt_1__1"
+    },
+    {
+      "comment": "if part of your body [ache_1]{aches}, you [feel_1]{feel} a [continuous]{continuous} [pain_1]{pain} there that is [unpleasant]{unpleasant}, but not very [strong]{strong}",
+      "entry": "ache",
+      "id": "ache_2#ache_2__1"
+    },
+    {
+      "comment": "if a part of your body is [troubling]{troubling} you, it is not [working]{working} as it should and is [cause_2]{causing} you [pain_1]{pain}",
+      "entry": "trouble",
+      "id": "trouble_2#trouble_2__11"
+    },
+    {
+      "comment": "if your [head_1]{head} [pound_1]{pounds}, you have a [pain_1]{pain} in it that [feels]{feels} [like_1]{like} someone is [hit_1]{hitting} it [continuous#continuous__6]{continuously}",
+      "entry": "pound",
+      "id": "pound_2#pound_2__8"
+    },
+    {
+      "comment": "to [make_1]{make} someone [suffer]{suffer} [severe]{severe} [physical_1]{physical} or [mental]{mental} [pain_1]{pain}, often [deliberately]{deliberately}",
+      "entry": "torment",
+      "id": "torment_2#torment_2__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} someone from [breathing]{breathing}",
+      "entry": "stifle",
+      "id": "stifle#stifle__7"
+    },
+    {
+      "comment": "to cause someone [physical_1]{physical} [pain_1]{pain}",
+      "entry": "bother",
+      "id": "bother_1#bother_1__15"
+    },
+    {
+      "comment": "if part of your body is [killing]{killing} you, it is [cause_2]{causing} you a [lot_1]{lot} of [pain_1]{pain}",
+      "entry": "kill",
+      "id": "kill_1#kill_1__12"
+    }
+  ],
+  "thesaurus": "To feel or cause physical pain and suffering",
+  "type": "Synonyms"
+}

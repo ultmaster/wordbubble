@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} for [find_1]{finding} out what [physical_1]{physical} or [mental]{mental} [problem]{problem} someone has",
+      "examples": [
+        "a diagnostic [examination]{examination}/[test_1]{test}/[assessment]{assessment}"
+      ],
+      "id": "diagnostic__1"
+    },
+    {
+      "def": "[used]{used} for [find_1]{finding} out what is [wrong_1]{wrong} with a [piece_1]{piece} of [equipment]{equipment}, [usually]{usually} a computer",
+      "examples": [
+        "a diagnostic [program_1]{program}"
+      ],
+      "id": "diagnostic__3"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} what a [student]{student} [need_1]{needs} to [learn]{learn}",
+      "examples": [
+        "diagnostic [math_1]{math} [test_1]{tests}"
+      ],
+      "id": "diagnostic__5"
+    }
+  ],
+  "word": "diagnostic"
+}

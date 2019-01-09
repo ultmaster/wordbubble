@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "very [unpleasant]{unpleasant}",
+      "entry": "horrible",
+      "id": "horrible#horrible__1"
+    },
+    {
+      "comment": "very [unpleasant]{unpleasant}",
+      "entry": "dreadful",
+      "id": "dreadful#dreadful__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [unpleasant]{unpleasant}",
+      "entry": "disgusting",
+      "id": "disgusting#disgusting__1"
+    },
+    {
+      "comment": "very [unpleasant]{unpleasant} and [shocking]{shocking}",
+      "entry": "appalling",
+      "id": "appalling#appalling__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [unpleasant]{unpleasant}",
+      "entry": "vile",
+      "id": "vile#vile__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [unpleasant]{unpleasant}",
+      "entry": "revolting",
+      "id": "revolting#revolting__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [unpleasant]{unpleasant}",
+      "entry": "despicable",
+      "id": "despicable#despicable__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [unpleasant]{unpleasant}",
+      "entry": "detestable",
+      "id": "detestable#detestable__1"
+    },
+    {
+      "comment": "something [sickening]{sickening} is so [unpleasant]{unpleasant} that it [shock_1]{shocks} or [upset_2]{upsets} you",
+      "entry": "sickening",
+      "id": "sickening#sickening__1"
+    },
+    {
+      "comment": "someone or something that is [repulsive]{repulsive} is so [unpleasant]{unpleasant} that you [feel_1]{feel} [slightly]{slightly} [sick_1]{sick} when you see them or [think_1]{think} about them",
+      "entry": "repulsive",
+      "id": "repulsive#repulsive__1"
+    }
+  ],
+  "thesaurus": "Extremely unpleasant",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "want in",
+  "senses": [
+    {
+      "def": "to [wish_1]{wish} to [enter]{enter} a [place_1]{place}",
+      "examples": [
+        "I [think_1]{think} the [cat]{cat} [want_1]{wants} in."
+      ],
+      "id": "want-in__1"
+    },
+    {
+      "def": "to [wish_1]{wish} to take part in a [situation]{situation}, [plan_1]{plan}, or [activity]{activity}",
+      "examples": [
+        "This is the last time I\u2019m [ask_1]{asking} you \u2013 do you [want_1]{want} in or not?"
+      ],
+      "id": "want-in__3"
+    }
+  ]
+}

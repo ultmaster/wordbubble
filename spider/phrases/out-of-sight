@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "out of sight",
+  "senses": [
+    {
+      "def": "in a [place_1]{place} that you cannot see from where you are",
+      "examples": [
+        "They [pass_1]{passed} behind the [hill]{hill} and out of [sight_1]{sight}.",
+        "The two [leader]{leaders} [chat_1]{chatted} [amiable#amiable__4]{amiably} out of [sight_1]{sight} of the [camera]{cameras}.",
+        "Don\u2019t [let_1]{let} the [kid_1]{kids} out of your [sight_1]{sight} for a [second_1]{second}."
+      ],
+      "id": "out-of-sight__1"
+    },
+    {
+      "def": "if the [price_1]{price} of something is out of [sight_1]{sight}, it is very [high_1]{high}",
+      "examples": [],
+      "id": "out-of-sight__5"
+    },
+    {
+      "def": "[used]{used} for [express_1]{expressing} how [nice]{nice} or how [special_1]{special} you [think_1]{think} something is",
+      "examples": [
+        "That [new]{new} [jacket]{jacket} is out of [sight_1]{sight}."
+      ],
+      "id": "out-of-sight__6"
+    }
+  ]
+}

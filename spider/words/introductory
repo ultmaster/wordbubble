@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[providing]{providing} [basic_1]{basic} [information]{information} about a [subject_1]{subject}, [course_1]{course} of [study_1]{study}, etc.",
+      "examples": [
+        "[beginner]{Beginners} will have two introductory [class_1]{classes}.",
+        "an introductory [textbook_1]{textbook} on [statistic]{statistics}",
+        "an introductory [chapter]{chapter}/[paragraph_1]{paragraph}/[essay]{essay}"
+      ],
+      "id": "introductory__1"
+    },
+    {
+      "def": "an introductory [offer_1]{offer} or [price_1]{price} is a low [price_1]{price} that is [intended_1]{intended} to [encourage]{encourage} [people_1]{people} to [buy_1]{buy} a [new]{new} [product]{product}",
+      "examples": [],
+      "id": "introductory__5"
+    }
+  ],
+  "word": "introductory"
+}

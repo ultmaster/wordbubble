@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "keep time",
+  "senses": [
+    {
+      "def": "if a [clock_1]{clock} [keep_1]{keeps} [good_1]{good} time, it always [show_1]{shows} the [correct_1]{correct} time",
+      "examples": [],
+      "id": "keep-time__1"
+    },
+    {
+      "def": "if a [musician]{musician} [keep_1]{keeps} time, they [play_1]{play} a [piece_1]{piece} of [music]{music} at the [correct_1]{correct} [speed_1]{speed} and [beat_1]{beat}",
+      "examples": [],
+      "id": "keep-time__2"
+    },
+    {
+      "def": "if you keep time for a [musician]{musician}, you show them what the [correct_1]{correct} [speed_1]{speed} and [beat_1]{beat} are for a [piece_1]{piece} of [music]{music}",
+      "examples": [],
+      "id": "keep-time__3"
+    }
+  ]
+}

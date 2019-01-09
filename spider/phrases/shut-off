@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "shut off",
+  "senses": [
+    {
+      "def": "if a [machine_1]{machine} [shut_1]{shuts} off, or if someone [shut_1]{shuts} it off, it [stop_1]{stops} [working]{working}",
+      "examples": [
+        "How do I [shut_1]{shut} off this [car]{car} [alarm_1]{alarm}?"
+      ],
+      "id": "shut-off__1"
+    },
+    {
+      "def": "to [stop_1]{stop} the [flow_1]{flow} of something, [usually]{usually} [water_1]{water} or [electricity]{electricity}",
+      "examples": [],
+      "id": "shut-off__3"
+    },
+    {
+      "def": "if a [person]{person} or [community]{community} is [shut_1]{shut} off, they do not see or [meet_1]{meet} other [people_1]{people}",
+      "examples": [
+        "[sally_1]{Sally} [shut_1]{shut} [herself]{herself} off from the rest of the [team_1]{team}."
+      ],
+      "id": "shut-off__4"
+    }
+  ]
+}

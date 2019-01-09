@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [ship_1]{ship} [dock_1]{docks}, it [arrive]{arrives} at a dock",
+      "examples": [],
+      "id": "dock_2__1"
+    },
+    {
+      "def": "if a [spacecraft]{spacecraft} [dock_1]{docks}, it [join_1]{joins} to another [spacecraft]{spacecraft} while they are still in [space_1]{space}",
+      "examples": [],
+      "id": "dock_2__2"
+    },
+    {
+      "def": "to take [money]{money} out of someone\u2019s [salary]{salary}, [especially]{especially} as a [punishment]{punishment}",
+      "examples": [
+        "They dock your [wage_1]{wages} if you\u2019re [late_1]{late} more than [twice_1]{twice}."
+      ],
+      "id": "dock_2__3"
+    },
+    {
+      "def": "to [cut_1]{cut} an [animal_1]{animal}\u2019s tail very [short_1]{short}",
+      "examples": [],
+      "id": "dock_2__5"
+    },
+    {
+      "def": "to [return_1]{return} a [rented]{rented} [cycle_1]{cycle} or [scooter]{scooter} in between [period_1]{periods} of use",
+      "examples": [
+        "[customer]{Customers} can still dock [cycle_1]{cycles} to [end_1]{end} their [journey_1]{journey} but will be [unable]{unable} to [hire_1]{hire}."
+      ],
+      "id": "dock_2__6"
+    }
+  ],
+  "word": "dock"
+}

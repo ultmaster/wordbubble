@@ -1,0 +1,35 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [moving]{moving}",
+      "examples": [
+        "The [water_1]{water} [appear]{appeared} still from a [distance_1]{distance}.",
+        "[just_1]{Just} [sit]{sit} still for a [minute_1]{minute} and [let_1]{let} me [tie_1]{tie} your [shoe_1]{shoe}."
+      ],
+      "id": "still_2__1"
+    },
+    {
+      "def": "without [wind_1]{wind}",
+      "examples": [
+        "a still [muggy]{muggy} [evening_1]{evening}"
+      ],
+      "id": "still_2__4"
+    },
+    {
+      "def": "[quiet_1]{quiet} and [calm_1]{calm}, with nothing [happening_1]{happening}",
+      "examples": [
+        "By 10:00 the [street_1]{streets} are [pretty_1]{pretty} still."
+      ],
+      "id": "still_2__6"
+    },
+    {
+      "def": "without [gas_1]{gas} [bubble_1]{bubbles}",
+      "examples": [
+        "still [mineral]{mineral} [water_1]{water}"
+      ],
+      "id": "still_2__8"
+    }
+  ],
+  "word": "still"
+}

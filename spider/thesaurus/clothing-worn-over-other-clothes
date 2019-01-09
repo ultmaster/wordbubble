@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "something that you [wear_1]{wear} to [protect]{protect} the front of your [clothes]{clothes}, [especially]{especially} when you are [cooking_1]{cooking}",
+      "entry": "apron",
+      "id": "apron#apron__1"
+    },
+    {
+      "comment": "a [loose_1]{loose} [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} the [head_1]{head} and body [completely]{completely} except for a [space_1]{space} for the [eye_1]{eyes}. A [burka]{burka} is [worn_1]{worn} in [public_1]{public} by Muslim [women]{women} in some [country]{countries}.",
+      "entry": "burka",
+      "id": "burka#burka__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [burka]{burka}",
+      "entry": "burqa",
+      "id": "burqa#burqa__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} that you [wear_1]{wear} over your [ordinary]{ordinary} [clothes]{clothes} in [order_1]{order} to [protect]{protect} them",
+      "entry": "coveralls",
+      "id": "coveralls#coveralls__1"
+    },
+    {
+      "comment": "a long [loose_1]{loose} [piece_1]{piece} of [clothing]{clothing} that a [doctor_1]{doctor} or [patient_1]{patient} [wear_1]{wears} during an [operation]{operation} in a [hospital]{hospital}",
+      "entry": "gown",
+      "id": "gown#gown__7"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} the body, [legs]{legs}, and [arms]{arms}, and is [worn_1]{worn} over other [clothes]{clothes} for [protection]{protection}",
+      "entry": "jumpsuit",
+      "id": "jumpsuit#jumpsuit__2"
+    },
+    {
+      "comment": "a [coat_1]{coat} and [pair_1]{pair} of [pants]{pants} made from [oilskin]{oilskin}",
+      "entry": "oilskins",
+      "id": "oilskin#oilskin__4"
+    },
+    {
+      "comment": "[coveralls]{coveralls}",
+      "entry": "overalls",
+      "id": "overall_3#overall_3__2"
+    },
+    {
+      "comment": "an [apron]{apron}",
+      "entry": "pinafore",
+      "id": "pinafore#pinafore__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} that [consist]{consists} of a [large_1]{large} [square_1]{square} [piece_1]{piece} of [cloth]{cloth} with a hole in the [middle_1]{middle} to put your [head_1]{head} through, [worn_1]{worn} over your other [clothes]{clothes}",
+      "entry": "poncho",
+      "id": "poncho#poncho__1"
+    },
+    {
+      "comment": "a long [loose_1]{loose} [shirt]{shirt} [worn_1]{worn} over [ordinary]{ordinary} [clothes]{clothes} to keep them [clean_1]{clean}",
+      "entry": "smock",
+      "id": "smock#smock__2"
+    },
+    {
+      "comment": "a piece of clothing that covers the chest and back, worn over other clothes, especially in the past by knights  (=soldiers who rode horses)",
+      "entry": "tabard",
+      "id": "tabard#tabard__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} with no [sleeve]{sleeves} or [collar_1]{collar} [worn_1]{worn} over other [clothes]{clothes}, for [example]{example} for [protection]{protection}",
+      "entry": "vest",
+      "id": "vest_1#vest_1__2"
+    }
+  ],
+  "thesaurus": "Clothing worn over other clothes",
+  "type": "Related words"
+}

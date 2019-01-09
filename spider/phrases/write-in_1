@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "write in",
+  "senses": [
+    {
+      "def": "to [write]{write} to an [organization]{organization}, for [example]{example} because you [want_1]{want} [information]{information} about something",
+      "examples": [
+        "I [wrote]{wrote} in to the [program_1]{program} to [ask_1]{ask} for more [detail_1]{details}."
+      ],
+      "id": "write-in_1__1"
+    },
+    {
+      "def": "to [add_1]{add} [word_1]{words} or [number_1]{numbers} that are [missing]{missing} from something",
+      "examples": [
+        "[write]{Write} in the [letter_1]{letter} that is [missing]{missing} from each [word_1]{word}."
+      ],
+      "id": "write-in_1__3"
+    }
+  ]
+}

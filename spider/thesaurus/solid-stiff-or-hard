@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [solid_1]{solid} [substance]{substance} is [firm_1]{firm} and [hard_1]{hard} and is not a [liquid_1]{liquid} or a [gas_1]{gas}",
+      "entry": "solid",
+      "id": "solid_1#solid_1__1"
+    },
+    {
+      "comment": "[firm_1]{firm} and [difficult]{difficult} to [bend_1]{bend}",
+      "entry": "stiff",
+      "id": "stiff_1#stiff_1__5"
+    },
+    {
+      "comment": "[stiff_1]{stiff}, [firm_1]{firm}, and not [easy_1]{easy} to [bend_1]{bend} or [break_1]{break}",
+      "entry": "hard",
+      "id": "hard_1#hard_1__1"
+    },
+    {
+      "comment": "[solid_1]{solid} but not [hard_1]{hard}",
+      "entry": "firm",
+      "id": "firm_1#firm_1__1"
+    },
+    {
+      "comment": "[stiff_1]{stiff} and not [able_1]{able} to [bend_1]{bend}",
+      "entry": "inflexible",
+      "id": "inflexible#inflexible__7"
+    },
+    {
+      "comment": "[stiff_1]{stiff}, [hard_1]{hard}, and [difficult]{difficult} to [bend_1]{bend} or move",
+      "entry": "rigid",
+      "id": "rigid#rigid__6"
+    },
+    {
+      "comment": "very [hard_1]{hard}, or [firm_1]{firm}",
+      "entry": "unyielding",
+      "id": "unyielding#unyielding__3"
+    },
+    {
+      "comment": "[packed]{packed} [snow_1]{snow}, [sugar_1]{sugar}, or [soil_1]{soil} has been [pressed]{pressed} together [firm_1#firm_1__28]{firmly} to form a [hard_1]{hard} [mass_1]{mass}",
+      "entry": "packed",
+      "id": "packed#packed__9"
+    },
+    {
+      "comment": "[extremely]{extremely} [hard_1]{hard}",
+      "entry": "rock-hard",
+      "id": "rock-hard#rock-hard__1"
+    },
+    {
+      "comment": "[impossible]{impossible} to get into or get through",
+      "entry": "impenetrable",
+      "id": "impenetrable#impenetrable__1"
+    }
+  ],
+  "thesaurus": "Solid, stiff or hard",
+  "type": "Synonyms"
+}

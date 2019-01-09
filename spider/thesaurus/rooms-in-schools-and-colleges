@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [room_1]{room} where you have [class_1]{classes} in a [school_1]{school}",
+      "entry": "classroom",
+      "id": "classroom#classroom__1"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} in a [university]{university} or [college]{college} where you [eat]{eat} your [meal]{meals} with a [lot_1]{lot} of other [student]{students}",
+      "entry": "commons",
+      "id": "commons#commons__1"
+    },
+    {
+      "comment": "a [dormitory]{dormitory}",
+      "entry": "dorm",
+      "id": "dorm#dorm__1"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} where a [lot_1]{lot} of [people_1]{people} [sleep_1]{sleep}, for [example]{example} in a [school_1]{school} or [army]{army} [camp_1]{camp}",
+      "entry": "dormitory",
+      "id": "dormitory#dormitory__1"
+    },
+    {
+      "comment": "a place where students go for a period of time at the beginning of each school day when the teacher makes announcements to the class and takes attendance  (=checks which students are not in school)",
+      "entry": "home room",
+      "id": "home-room#home-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} in some [school_1]{schools} and other [institution]{institutions} where [people_1]{people} go when they are [sick_1]{sick} or [injured]{injured}",
+      "entry": "infirmary",
+      "id": "infirmary#infirmary__1"
+    },
+    {
+      "comment": "a [room_1]{room} [contain]{containing} [special_1]{special} [electronic]{electronic} [equipment]{equipment} to [help_1]{help} [student]{students} [learn]{learn} a [foreign]{foreign} [language]{language}",
+      "entry": "language laboratory",
+      "id": "language-laboratory#language-laboratory__1"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} with [row_1]{rows} of [seat_1]{seats} for [student]{students}, [used]{used} for [give_1]{giving} [lecture_1]{lectures}",
+      "entry": "lecture hall",
+      "id": "lecture-hall#lecture-hall__1"
+    },
+    {
+      "comment": "a [lecture_1]{lecture} [hall]{hall}",
+      "entry": "lecture theatre",
+      "id": "lecture-theatre#lecture-theatre__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [school_1]{school} that is [used]{used} for [teaching]{teaching} [children]{children}",
+      "entry": "schoolroom",
+      "id": "schoolroom#schoolroom__1"
+    },
+    {
+      "comment": "the [classroom]{classroom} where [student]{students} take [shop_1]{shop} [course_1]{courses}",
+      "entry": "shop",
+      "id": "shop_1#shop_1__12"
+    }
+  ],
+  "thesaurus": "Rooms in schools and colleges",
+  "type": "Related words"
+}

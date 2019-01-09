@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "an [alphabetical]{alphabetical} [list_1]{list} of the [word_1]{words} [used]{used} in a [book_1]{book} or [piece_1]{piece} of [writing]{writing}, often [showing]{showing} [example]{examples} of how each [word_1]{word} is [used]{used} in a [sentence_1]{sentence}",
+      "entry": "concordance",
+      "id": "concordance#concordance__2"
+    },
+    {
+      "comment": "a [collection]{collection} of [written_1]{written} and [spoken_1]{spoken} [language]{language} [store_2]{stored} on computer and [used]{used} for [language]{language} [research_1]{research} and [writing]{writing} [dictionary]{dictionaries}",
+      "entry": "corpus",
+      "id": "corpus#corpus__2"
+    },
+    {
+      "comment": "a [statement_1]{statement} of what a [word_1]{word} or [expression]{expression} [means]{means}",
+      "entry": "definition",
+      "id": "definition#definition__1"
+    },
+    {
+      "comment": "a [reference_1]{reference} [resource_1]{resource} which [provide]{provides} [information]{information} about [word_1]{words} and their [meaning_1]{meanings}, [use_1]{uses}, and [pronunciation]{pronunciations}. A [dictionary]{dictionary} may be [publish]{published} as a [print_1]{printed} [book_1]{book}, or as a [digital]{digital} [product]{product} such as a [website]{website} or [app_1]{app}, and it may be [monolingual]{monolingual}, [bilingual]{bilingual}, or [multilingual]{multilingual}.",
+      "entry": "dictionary",
+      "id": "dictionary#dictionary__1"
+    },
+    {
+      "comment": "a [book_1]{book}, [website]{website} or other [resource_1]{resource} that [list_1]{lists} [word_1]{words} in one [language]{language} and [give_1]{gives} [translation]{translations} in another",
+      "entry": "dictionary",
+      "id": "dictionary#dictionary__4"
+    },
+    {
+      "comment": "a phrase or sentence in a dictionary that shows the way that a word is used. It usually follows the definition  (=the explanation of the meaning).",
+      "entry": "example",
+      "id": "example#example__9"
+    },
+    {
+      "comment": "one of the [list_1]{list} of [word_1]{words} in a [dictionary]{dictionary} that is [follow]{followed} by an [explanation]{explanation} of what it [means]{means}",
+      "entry": "headword",
+      "id": "headword#headword__1"
+    },
+    {
+      "comment": "a form of a [word_1]{word} that [appear]{appears} as a [headword]{headword} in a [dictionary]{dictionary}, for [example]{example} [break_1]{'break'} or [person]{'person'}",
+      "entry": "lemma",
+      "id": "lemma#lemma__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [reduce]{reducing} [different]{different} [form_1]{forms} of a [word_1]{word} back to their [base_1]{base} form, the [lemma]{lemma}, for [example]{example} [b-boying]{'breaking'} or [broke_1]{'broke'} back to [break_1]{'break'}",
+      "entry": "lemmatization",
+      "id": "lemmatization#lemmatization__1"
+    },
+    {
+      "comment": "to [reduce]{reduce} [different]{different} [form_1]{forms} of a [word_1]{word} back to their [base_1]{base} form, the [lemma]{lemma}, for [example]{example} [b-boying]{'breaking'} or [broke_1]{'broke'} back to [break_1]{'break'}",
+      "entry": "lemmatize",
+      "id": "lemmatize#lemmatize__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [reduce]{reduces} [different]{different} [form_1]{forms} of a [word_1]{word} back to their [base_1]{base} form, the [lemma]{lemma}",
+      "entry": "lemmatizer",
+      "id": "lemmatizer#lemmatizer__1"
+    },
+    {
+      "comment": "the [job_1]{job} of [writing]{writing} a [dictionary]{dictionary}",
+      "entry": "lexicography",
+      "id": "lexicography#lexicography__1"
+    },
+    {
+      "comment": "a [dictionary]{dictionary}",
+      "entry": "lexicon",
+      "id": "lexicon#lexicon__2"
+    }
+  ],
+  "thesaurus": "Dictionaries and making dictionaries",
+  "type": "Related words"
+}

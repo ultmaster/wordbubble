@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "to [push_1]{push} something long and thin into or through something else",
+      "entry": "stick",
+      "id": "stick_1#stick_1__14"
+    },
+    {
+      "comment": "to [push_1]{push} something [sharp_1]{sharp} and [pointed]{pointed} into something else",
+      "entry": "spear",
+      "id": "spear_2#spear_2__1"
+    },
+    {
+      "comment": "to [push_1]{push} a [pointed]{pointed} [object_1]{object} through someone or something",
+      "entry": "impale",
+      "id": "impale#impale__1"
+    },
+    {
+      "comment": "to [push_1]{push} a [sharp_1]{sharp} [object_1]{object} [quickly]{quickly} into something",
+      "entry": "stab",
+      "id": "stab_1#stab_1__4"
+    },
+    {
+      "comment": "to [quickly]{quickly} [push_1]{push} something a long way into something else",
+      "entry": "plunge in",
+      "id": "plunge-in#plunge-in__3"
+    },
+    {
+      "comment": "to [push_1]{push} something [sharp_1]{sharp} into something [solid_1]{solid}",
+      "entry": "sink",
+      "id": "sink_1#sink_1__22"
+    },
+    {
+      "comment": "to [quickly]{quickly} [push_1]{push} something a long way into something else",
+      "entry": "plunge into",
+      "id": "plunge-into#plunge-into__3"
+    }
+  ],
+  "thesaurus": "To push something into or through a person or thing",
+  "type": "Synonyms"
+}

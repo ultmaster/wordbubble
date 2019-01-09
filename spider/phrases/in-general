@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "in general",
+  "senses": [
+    {
+      "def": "in most [situation]{situations}, or for most [people_1]{people}",
+      "examples": [
+        "In [general_1]{general}, my [view_1]{view} is that [politician]{politicians} who [break_1]{break} the [law]{law} should be [punish]{punished}.",
+        "I don\u2019t [think_1]{think} [people_1]{people} in [general_1]{general} give much [thought_1]{thought} to the [environment]{environment}."
+      ],
+      "id": "in-general__1"
+    },
+    {
+      "def": "as a whole, without [give_1]{giving} [detail_1]{details}",
+      "examples": [
+        "In [general_1]{general}, the [standard_1]{standard} of your [work_1]{work} is very [high_1]{high}."
+      ],
+      "id": "in-general__4"
+    }
+  ]
+}

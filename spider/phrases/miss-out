@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "miss out",
+  "senses": [
+    {
+      "def": "to [lose]{lose} an [opportunity]{opportunity} to do or have something",
+      "examples": [
+        "We will be [repeat_1]{repeating} the [question_1]{questions} [later_1]{later}, so you [won]{won}\u2019t [miss_1]{miss} out.",
+        "He [narrowly]{narrowly} [miss_1]{missed} out on the [world]{world} [record_1]{record}."
+      ],
+      "id": "miss-out__1"
+    },
+    {
+      "def": "to [fail_1]{fail} to [include]{include} someone or something, [usually]{usually} by [accident]{accident}",
+      "examples": [
+        "An [important]{important} [fact]{fact} had been [miss_1]{missed} out."
+      ],
+      "id": "miss-out__4"
+    }
+  ]
+}

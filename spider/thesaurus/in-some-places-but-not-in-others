@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "[happening_1]{happening} in only a few [place_1]{places}",
+      "entry": "scattered",
+      "id": "scattered#scattered__3"
+    },
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} in some [place_1]{places} but not in other [place_1]{places}",
+      "entry": "patchy",
+      "id": "patchy#patchy__1"
+    },
+    {
+      "comment": "[existing]{existing} only in a [particular_1]{particular} [area]{area} or in some [small_1]{small} [area]{areas}",
+      "entry": "localized",
+      "id": "localized#localized__1"
+    },
+    {
+      "comment": "in some [area]{areas} only",
+      "entry": "locally",
+      "id": "locally#locally__5"
+    },
+    {
+      "comment": "in some [area]{areas} but not all [area]{areas}",
+      "entry": "in places",
+      "id": "in-places#in-places__1"
+    },
+    {
+      "comment": "with [space_1]{spaces} of a [regular_1]{regular} [length]{length}",
+      "entry": "at intervals",
+      "id": "at-intervals#at-intervals__3"
+    },
+    {
+      "comment": "in some [part_1]{parts} only",
+      "entry": "in patches",
+      "id": "in-patches#in-patches__1"
+    }
+  ],
+  "thesaurus": "In some places but not in others",
+  "type": "Synonyms"
+}

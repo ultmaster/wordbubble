@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "walk away with",
+  "senses": [
+    {
+      "def": "to [feel_1]{feel} a [particular_1]{particular} [emotion]{emotion} when you [leave_1]{leave} a [situation]{situation}",
+      "examples": [
+        "We can all [walk_1]{walk} [away_1]{away} with a [clear_1]{clear} [conscience]{conscience}."
+      ],
+      "id": "walk-away-with__1"
+    },
+    {
+      "def": "to [win_1]{win} something [easily]{easily}",
+      "examples": [
+        "The [bear_1]{Bears} could [walk_1]{walk} [away_1]{away} with the [championship]{championship}."
+      ],
+      "id": "walk-away-with__3"
+    },
+    {
+      "def": "to [steal_1]{steal} something",
+      "examples": [
+        "Someone [walk_1]{walked} [away_1]{away} with my [purse_1]{purse}!"
+      ],
+      "id": "walk-away-with__5"
+    }
+  ]
+}

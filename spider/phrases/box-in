@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "box in",
+  "senses": [
+    {
+      "def": "to [surround_1]{surround} a [person]{person} or [vehicle]{vehicle}, so that they cannot move or [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "I was [boxed]{boxed} in until the other [driver]{driver} came back."
+      ],
+      "id": "box-in__1"
+    },
+    {
+      "def": "to [limit_1]{limit} someone\u2019s [freedom]{freedom} to [choose]{choose} what to do",
+      "examples": [
+        "If they [promise_1]{promise} [big_1]{big} [tax_1]{tax} [cut_1]{cuts}, they could be [boxing]{boxing} themselves in."
+      ],
+      "id": "box-in__3"
+    }
+  ]
+}

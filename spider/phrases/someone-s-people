@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "someone\u2019s people",
+  "senses": [
+    {
+      "def": "someone\u2019s [parent]{parents} or their [family_1]{family} in [general_1]{general}",
+      "examples": [
+        "Her [people_1]{people} came over from Scotland in the 19th [century]{century}.",
+        "Have you met his [people_1]{people}?"
+      ],
+      "id": "someone-s-people__1"
+    },
+    {
+      "def": "the [people_1]{people} who [believe]{believe} in or are [loyal]{loyal} to someone such as a [religious]{religious} [leader]{leader} or [king]{king}",
+      "examples": [
+        "He was not a [good_1]{good} [king]{king} and [failed]{failed} to [protect]{protect} his [people_1]{people}."
+      ],
+      "id": "someone-s-people__4"
+    },
+    {
+      "def": "the [people_1]{people} who [work_1]{work} for someone",
+      "examples": [
+        "I\u2019ll get my [people_1]{people} to [talk_1]{talk} to your [people_1]{people} and we\u2019ll see whether we can come to some [agreement]{agreement}."
+      ],
+      "id": "someone-s-people__6"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "if [wine_1]{wine} [age_1]{ages} or you [age_1]{age} it, its [taste_1]{taste} [improve_1]{improves} because it is [kept]{kept} for some time",
+      "entry": "age",
+      "id": "age_2#age_2__8"
+    },
+    {
+      "comment": "if you [let_1]{let} [wine_1]{wine} [breathe]{breathe}, you [open_1]{open} it a [short_1]{short} time before you [drink_1]{drink} it so that the [flavor_1]{flavor} [improve_1]{improves}",
+      "entry": "breathe",
+      "id": "breathe#breathe__11"
+    },
+    {
+      "comment": "to pour wine out of one container and into another so that the sediment is left behind",
+      "entry": "decant",
+      "id": "decant#decant__1"
+    },
+    {
+      "comment": "to use this process to make an alcoholic drink such as whiskey",
+      "entry": "distill",
+      "id": "distill#distill__2"
+    },
+    {
+      "comment": "a company that makes strong alcoholic drinks such as whiskey",
+      "entry": "distiller",
+      "id": "distiller#distiller__1"
+    },
+    {
+      "comment": "a place where strong alcoholic drinks such as whiskey are made",
+      "entry": "distillery",
+      "id": "distillery#distillery__1"
+    },
+    {
+      "comment": "the thick [substance]{substance} that [form_1]{forms} at the bottom of a [bottle_1]{bottle} of [wine_1]{wine}",
+      "entry": "lees",
+      "id": "lees#lees__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [making]{making} [strong]{strong} [alcohol]{alcohol} to [drink_1]{drink}",
+      "entry": "still",
+      "id": "still_3#still_3__2"
+    },
+    {
+      "comment": "a red-brown [substance]{substance} that [form_1]{forms} [inside_1]{inside} [container]{containers} [used]{used} for [store_2]{storing} [wine_1]{wine}",
+      "entry": "tartar",
+      "id": "tartar#tartar__3"
+    },
+    {
+      "comment": "if someone [tread_1]{treads} [grape]{grapes}, they [crush_1]{crush} them with their [feet]{feet} in [order_1]{order} to [make_1]{make} [wine_1]{wine}",
+      "entry": "tread",
+      "id": "tread_1#tread_1__4"
+    },
+    {
+      "comment": "all of the [wine_1]{wine} [produce_1]{produced} in a [particular_1]{particular} [year]{year}, or the [year]{year} that it was [produce_1]{produced}",
+      "entry": "vintage",
+      "id": "vintage_2#vintage_2__1"
+    },
+    {
+      "comment": "someone whose job is to grow grapes and make wine. A more usual word is wine maker.",
+      "entry": "vintner",
+      "id": "vintner#vintner__2"
+    },
+    {
+      "comment": "the activity or science of growing grapes for making wine",
+      "entry": "viticulture",
+      "id": "viticulture#viticulture__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [wine_1]{wine} is made",
+      "entry": "winery",
+      "id": "winery#winery__1"
+    }
+  ],
+  "thesaurus": "Relating to wines and spirits",
+  "type": "Related words"
+}

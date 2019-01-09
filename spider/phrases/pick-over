@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "pick over",
+  "senses": [
+    {
+      "def": "to [examine]{examine} a [collection]{collection} of [thing]{things} [careful#careful__20]{carefully} so that you can [decide]{decide} which ones you [want_1]{want}",
+      "examples": [
+        "[bird]{Birds} were [pick_1]{picking} over the [garbage]{garbage} in the [street_1]{street}."
+      ],
+      "id": "pick-over__1"
+    },
+    {
+      "def": "to [talk_1]{talk} about something in detail",
+      "examples": [
+        "They [spent_1]{spent} [age_1]{ages} [pick_1]{picking} over the [flaw]{flaws} in his [character]{character}."
+      ],
+      "id": "pick-over__3"
+    }
+  ]
+}

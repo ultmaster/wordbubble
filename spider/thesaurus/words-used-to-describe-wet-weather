@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [rainy]{rainy} [day]{day} is one on which it [rain_1]{rains} a [lot_1]{lot}",
+      "entry": "rainy",
+      "id": "rainy#rainy__1"
+    },
+    {
+      "comment": "with [frequent_1]{frequent} [short_1]{short} [period_1]{periods} of [rain_1]{rain}",
+      "entry": "showery",
+      "id": "showery#showery__1"
+    },
+    {
+      "comment": "with very [light_1]{light} [rain_1]{rain} [fall_1]{falling}",
+      "entry": "drizzly",
+      "id": "drizzly#drizzly__1"
+    },
+    {
+      "comment": "if the [weather_1]{weather} is [wet_1]{wet}, it is [rain_2]{raining}",
+      "entry": "the wet",
+      "id": "wet_1#wet_1__9"
+    },
+    {
+      "comment": "[unsettled]{unsettled} [weather_1]{weather} [change_1]{changes} a [lot_1]{lot} during a [short_1]{short} [period_1]{period} and there is a [lot_1]{lot} of [wind_1]{wind} and [rain_1]{rain}",
+      "entry": "unsettled",
+      "id": "unsettled#unsettled__3"
+    },
+    {
+      "comment": "if it [rain_1]{rains} or [snow_1]{snows} [hard_1]{hard}, a [great_1]{great} [deal_1]{deal} of [rain_1]{rain} or [snow_1]{snow} [fall_1]{falls}",
+      "entry": "hard",
+      "id": "hard_2#hard_2__12"
+    },
+    {
+      "comment": "[dull_1]{dull}, [cold_1]{cold}, [unpleasant]{unpleasant} and often [wet_1]{wet}",
+      "entry": "dreich",
+      "id": "dreich#dreich__1"
+    },
+    {
+      "comment": "even when it is [rain_2]{raining}, [snow_2]{snowing}, etc.",
+      "entry": "in all weather(s)",
+      "id": "in-all-weather-s#in-all-weather-s__1"
+    },
+    {
+      "comment": "[used]{used} about a [region]{region} or [weather_1]{weather}",
+      "entry": "moist",
+      "id": "moist#moist__8"
+    }
+  ],
+  "thesaurus": "Words used to describe wet weather",
+  "type": "Synonyms"
+}

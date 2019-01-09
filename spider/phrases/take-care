@@ -1,0 +1,24 @@
+{
+  "part": "phrase",
+  "phrase": "take care",
+  "senses": [
+    {
+      "def": "to be [careful]{careful}",
+      "examples": [
+        "Take [care_1]{care} on those [step_1]{steps}!",
+        "Take [care_1]{care} that you don\u2019t [fall_1]{fall}.",
+        "Please take [care_1]{care} not to [step_1]{step} on the [cable_1]{cables}.",
+        "She [took]{took} [extra_1]{extra} [care_1]{care} to [lock_1]{lock} all the [door_1]{doors} this time.",
+        "You [need_1]{need} to take more [care_1]{care} with your [writing]{writing}."
+      ],
+      "id": "take-care__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} [goodbye_1]{goodbye} to someone in a [friendly_1]{friendly} way",
+      "examples": [
+        "[bye_1]{Bye} now! Take [care_1]{care}!"
+      ],
+      "id": "take-care__7"
+    }
+  ]
+}

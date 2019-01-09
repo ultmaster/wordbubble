@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "not [allow]{allowing} [air_1]{air} to [enter]{enter} or [leave_1]{leave}",
+      "entry": "airtight",
+      "id": "airtight#airtight__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about how much of something there is in a [container]{container} or [place_1]{place}",
+      "entry": "full",
+      "id": "full#full__6"
+    },
+    {
+      "comment": "a [graduated]{graduated} [container]{container} or [piece_1]{piece} of [equipment]{equipment} has [mark_1]{marks} on it to show [measurement]{measurements}",
+      "entry": "graduated",
+      "id": "graduated#graduated__5"
+    },
+    {
+      "comment": "a [leaky]{leaky} [object_1]{object} or [container]{container} has a hole or [crack_1]{crack} in it so that [liquid_1]{liquid} or [gas_1]{gas} comes out of it",
+      "entry": "leaky",
+      "id": "leaky#leaky__1"
+    },
+    {
+      "comment": "a [lidded]{lidded} [container]{container} has a [lid]{lid}",
+      "entry": "lidded",
+      "id": "lidded#lidded__2"
+    },
+    {
+      "comment": "a [pressurized]{pressurized} [container]{container} [force_1]{forces} a [substance]{substance} out when the [container]{container} is [open_2]{opened}",
+      "entry": "pressurized",
+      "id": "pressurized#pressurized__3"
+    },
+    {
+      "comment": "a [space_1]{space}, [container]{container}, or [shelf]{shelf} that is [stuffed]{stuffed} is full of [thing]{things}",
+      "entry": "stuffed",
+      "id": "stuffed#stuffed__7"
+    },
+    {
+      "comment": "if a [container]{container} has a [tamper-proof]{tamper-proof} [lid]{lid} or top, it is [obvious]{obvious} if someone has [open_2]{opened} the [container]{container} in the [store_1]{store}",
+      "entry": "tamper-proof",
+      "id": "tamper-proof#tamper-proof__1"
+    },
+    {
+      "comment": "[left_1]{left} without being [taken_1]{taken} [care_1]{care} of or [dealt]{dealt} with",
+      "entry": "unattended",
+      "id": "unattended#unattended__1"
+    },
+    {
+      "comment": "a [voluminous]{voluminous} [container]{container} is [able_1]{able} to [hold_1]{hold} a [large_1]{large} amount",
+      "entry": "voluminous",
+      "id": "voluminous#voluminous__2"
+    },
+    {
+      "comment": "a [watertight]{watertight} [container]{container} or [room_1]{room} is made so that [water_1]{water} cannot [enter]{enter} it",
+      "entry": "watertight",
+      "id": "watertight#watertight__1"
+    }
+  ],
+  "thesaurus": "Words used to describe containers",
+  "type": "Related words"
+}

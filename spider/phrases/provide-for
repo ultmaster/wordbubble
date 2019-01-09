@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "provide for",
+  "senses": [
+    {
+      "def": "to take [care_1]{care} of someone by [making]{making} [money]{money} in [order_1]{order} to [buy_1]{buy} the [thing]{things} that they [need_1]{need}",
+      "examples": [
+        "She has always [provided]{provided} for her [children]{children}."
+      ],
+      "id": "provide-for__1"
+    },
+    {
+      "def": "to [make_1]{make} it [possible_1]{possible} for something to [happen]{happen} in the [future_1]{future}",
+      "examples": [
+        "The [budget_1]{budget} [provide]{provides} for a [salary]{salary} [increase_1]{increase} after one [year]{year}."
+      ],
+      "id": "provide-for__3"
+    }
+  ]
+}

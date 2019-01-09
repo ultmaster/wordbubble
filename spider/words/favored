@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[prefer]{preferred} or [chosen_1]{chosen}",
+      "examples": [
+        "the [president_1]{president}\u2019s favored [candidate]{candidate} for the [position_1]{position}"
+      ],
+      "id": "favored__1"
+    },
+    {
+      "def": "a favored [place_1]{place} has [quality_1]{qualities} that [make_1]{make} it [attractive]{attractive}",
+      "examples": [
+        "The [city]{city} is [making]{making} the most of its favored [situation]{situation} and is [gain_1]{gaining} a [reputation]{reputation} as a [vacation_1]{vacation} [spot_1]{spot}."
+      ],
+      "id": "favored__3"
+    },
+    {
+      "def": "[receive]{receiving} [better_1]{better} [treatment]{treatment} than other [people_1]{people} in a way that seems [unfair]{unfair}",
+      "examples": [
+        "the [special_1]{special} [status]{status} [enjoy]{enjoyed} by a favored [son]{son}"
+      ],
+      "id": "favored__5"
+    }
+  ],
+  "word": "favored"
+}

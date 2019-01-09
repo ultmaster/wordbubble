@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [object_1]{object} [like_1]{like} a [box_1]{box} with six [square_1]{square} sides that are all the same [size_1]{size}",
+      "examples": [
+        "[cube_1]{cubes} of [cheese]{cheese}",
+        "To [make_1]{make} the [crouton]{croutons}, first [cut_1]{cut} the [bread]{bread} into [cube_1]{cubes}."
+      ],
+      "id": "cube_1__1"
+    },
+    {
+      "def": "a [cubicle]{cubicle} in an [office]{office}",
+      "examples": [],
+      "id": "cube_1__4"
+    },
+    {
+      "def": "the cube of a [number_1]{number} is the [large_1]{larger} [number_1]{number} that is the [result_1]{result} of [multiply]{multiplying} the [number_1]{number} by [itself]{itself} [twice_1]{twice}. For [example]{example}, the cube of 2 is 2 x 2 x 2, which is 8.",
+      "examples": [],
+      "id": "cube_1__5"
+    }
+  ],
+  "word": "cube"
+}

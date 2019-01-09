@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[worried]{worried} that something [bad_1]{bad} might [happen]{happen}",
+      "entry": "afraid",
+      "id": "afraid#afraid__7"
+    },
+    {
+      "comment": "[feeling_1]{feeling} or [showing]{showing} [fear_1]{fear}, [especially]{especially} [suddenly]{suddenly}",
+      "entry": "frightened",
+      "id": "frightened#frightened__1"
+    },
+    {
+      "comment": "[frightened]{frightened}, or [worried]{worried}",
+      "entry": "scared",
+      "id": "scared#scared__1"
+    },
+    {
+      "comment": "[frightened]{frightened} or [worried]{worried} that something [unpleasant]{unpleasant} or [dangerous]{dangerous} might [happen]{happen}",
+      "entry": "alarmed",
+      "id": "alarmed#alarmed__1"
+    },
+    {
+      "comment": "[frightened]{frightened}",
+      "entry": "fearful",
+      "id": "fearful#fearful__1"
+    },
+    {
+      "comment": "[suddenly]{suddenly} [frightened]{frightened} or [surprised]{surprised} by something",
+      "entry": "startled",
+      "id": "startled#startled__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [nervous]{nervous} or [frightened]{frightened} of someone or something",
+      "entry": "intimidated",
+      "id": "intimidated#intimidated__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} so [afraid]{afraid} or [worried]{worried} that you cannot [think_1]{think} [clearly]{clearly} or [calm_1#calm_1__15]{calmly}",
+      "entry": "panic-stricken",
+      "id": "panic-stricken#panic-stricken__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [frightened]{frightened}, [especially]{especially} so that you cannot move or [decide]{decide} what to do",
+      "entry": "petrified",
+      "id": "petrified#petrified__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} very [nervous]{nervous} or [afraid]{afraid}",
+      "entry": "(with) your heart in your mouth",
+      "id": "with-your-heart-in-your-mouth#with-your-heart-in-your-mouth__1"
+    }
+  ],
+  "thesaurus": "Afraid and frightened",
+  "type": "Synonyms"
+}

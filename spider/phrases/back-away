@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "back away",
+  "senses": [
+    {
+      "def": "to move [away_1]{away} [backward_1]{backward} from someone, for [example]{example} because you are [afraid]{afraid}",
+      "examples": [
+        "The [photo_1]{photo} [show_1]{showed} a [woman]{woman} [backing]{backing} [away_1]{away} from a man with a [gun_1]{gun}."
+      ],
+      "id": "back-away__1"
+    },
+    {
+      "def": "to [gradually]{gradually} become less [involved]{involved} in something",
+      "examples": [
+        "The [world]{World} [bank_1]{Bank} is [backing]{backing} [away_1]{away} from [big_1]{big} [infrastructure]{infrastructure} [project_1]{projects}."
+      ],
+      "id": "back-away__3"
+    }
+  ]
+}

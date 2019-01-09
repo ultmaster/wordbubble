@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "a [type_1]{type} of [taxi_1]{taxi} in the U.K. whose [driver]{drivers} are [officially]{officially} [test_2]{tested} and [organized]{organized} so that they all [provide]{provide} the same [quality_1]{quality} of [service_1]{service}",
+      "entry": "black cab",
+      "id": "black-cab#black-cab__1"
+    },
+    {
+      "comment": "a [taxi_1]{taxi}",
+      "entry": "cab",
+      "id": "cab_1#cab_1__1"
+    },
+    {
+      "comment": "to [drive_1]{drive} a [taxi_1]{taxi} as a [job_1]{job}",
+      "entry": "cab",
+      "id": "cab_2#cab_2__1"
+    },
+    {
+      "comment": "to go somewhere in a [taxi_1]{taxi} or [carry_1]{carry} someone or something in a [taxi_1]{taxi}",
+      "entry": "cab",
+      "id": "cab_2#cab_2__2"
+    },
+    {
+      "comment": "a [taxi_1]{taxi} [driver]{driver}",
+      "entry": "cabbie",
+      "id": "cabbie#cabbie__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [taxi_1]{taxis} [wait_1]{wait} for [passenger]{passengers}",
+      "entry": "cabstand",
+      "id": "cabstand#cabstand__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [bicycle]{bicycle} [used]{used} as a [taxi_1]{taxi}, with three [wheel_1]{wheels} and a part at the back for [carry_1]{carrying} [passenger]{passengers}",
+      "entry": "cycle rickshaw",
+      "id": "cycle-rickshaw#cycle-rickshaw__1"
+    },
+    {
+      "comment": "a [passenger]{passenger} in a [taxi_1]{taxi}",
+      "entry": "fare",
+      "id": "fare_1#fare_1__4"
+    },
+    {
+      "comment": "a [fixed]{fixed} amount of [money]{money} that you have to [pay_1]{pay} as [soon]{soon} as you [begin]{begin} a [taxi_1]{taxi} [journey_1]{journey}, [make_1]{make} a [phone_1]{phone} call, etc.",
+      "entry": "flagfall",
+      "id": "flagfall#flagfall__1"
+    },
+    {
+      "comment": "to [drive_1]{drive} a [taxi_1]{taxi}",
+      "entry": "hack",
+      "id": "hack_1#hack_1__16"
+    },
+    {
+      "comment": "a [taxi_1]{taxi} [driver]{driver}",
+      "entry": "hack",
+      "id": "hack_2#hack_2__6"
+    },
+    {
+      "comment": "a [taxi_1]{taxi}",
+      "entry": "hack",
+      "id": "hack_2#hack_2__7"
+    },
+    {
+      "comment": "to [make_1]{make} a [signal_1]{signal} to a [taxi_1]{taxi} or [bus_1]{bus} so that it [stop_1]{stops} for you",
+      "entry": "hail",
+      "id": "hail_1#hail_1__5"
+    },
+    {
+      "comment": "a [covered_1]{covered} [vehicle]{vehicle} with two [wheel_1]{wheels} [pull_1]{pulled} by a [horse_1]{horse}, [used]{used} in the [past_1]{past} as a [taxi_1]{taxi}",
+      "entry": "hansom",
+      "id": "hansom#hansom__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} by [telephone_1]{telephone} for a [taxi_1]{taxi} to come for someone",
+      "entry": "order (someone) a taxi",
+      "id": "order-someone-a-taxi#order-someone-a-taxi__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [taxi_1]{taxis} [wait_1]{wait} in a [line_1]{line} for [customer]{customers}",
+      "entry": "rank",
+      "id": "rank_1#rank_1__14"
+    },
+    {
+      "comment": "a [car]{car} whose [driver]{driver} is [paid_1]{paid} to take you to a [particular_1]{particular} [place_1]{place}, [especially]{especially} a [fairly]{fairly} [short_1]{short} [distance_1]{distance}",
+      "entry": "taxi",
+      "id": "taxi_1#taxi_1__1"
+    },
+    {
+      "comment": "a [taxi_1]{taxi}",
+      "entry": "taxicab",
+      "id": "taxicab#taxicab__1"
+    },
+    {
+      "comment": "a [taxi_1]{taxi} [stand_1]{stand}",
+      "entry": "taxi rank",
+      "id": "taxi-rank#taxi-rank__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [taxi_1]{taxis} [wait_1]{wait} for [customer]{customers}",
+      "entry": "taxi stand",
+      "id": "taxi-stand#taxi-stand__1"
+    }
+  ],
+  "thesaurus": "Taxis and travelling by taxi",
+  "type": "Related words"
+}

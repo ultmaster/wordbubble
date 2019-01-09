@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [receive]{receive} and [pay_1]{pay} out [money]{money} in a [bank_1]{bank}",
+      "examples": [],
+      "id": "teller__1"
+    },
+    {
+      "def": "someone who [count_1]{counts} [vote_1]{votes} in an [election]{election} or for a [legislature]{legislature}",
+      "examples": [],
+      "id": "teller__2"
+    },
+    {
+      "def": "someone who [tell_1]{tells} something",
+      "examples": [
+        "a teller of [tale]{tales}"
+      ],
+      "id": "teller__3"
+    }
+  ],
+  "word": "teller"
+}

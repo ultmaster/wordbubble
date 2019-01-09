@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "play around",
+  "senses": [
+    {
+      "def": "If someone who is [married]{married} or has a [partner_1]{partner} [play_1]{plays} around, they have [sexual]{sexual} [relationship]{relationships} with other [people_1]{people}",
+      "examples": [
+        "He had [play_1]{played} around with other [women]{women}."
+      ],
+      "id": "play-around__1"
+    },
+    {
+      "def": "to [think_1]{think} about all the [different]{different} [possible_1]{possible} ways of [doing]{doing} something before you [make_1]{make} a [decision_1]{decision}",
+      "examples": [
+        "They [play_1]{played} around with [lot_2]{lots} of [different]{different} [scheme_1]{schemes} before [opt]{opting} for this one."
+      ],
+      "id": "play-around__3"
+    }
+  ]
+}

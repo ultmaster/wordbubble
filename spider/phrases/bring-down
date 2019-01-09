@@ -1,0 +1,37 @@
+{
+  "part": "phrase",
+  "phrase": "bring down",
+  "senses": [
+    {
+      "def": "to cause a [government]{government} or [politician]{politician} to [lose]{lose} [power_1]{power}",
+      "examples": [
+        "[opposition]{Opposition} [party_1]{parties} are [threatening]{threatening} to [bring]{bring} down the [government]{government}."
+      ],
+      "id": "bring-down__1"
+    },
+    {
+      "def": "to [reduce]{reduce} the [rate_1]{rate}, [level_1]{level}, or amount of something",
+      "examples": [
+        "Our [principal_1]{principal} [responsibility]{responsibility} is to [bring]{bring} down the [level_1]{level} of [unemployment]{unemployment}."
+      ],
+      "id": "bring-down__3"
+    },
+    {
+      "def": "to [make_1]{make} someone or something move or [fall_1]{fall} to the [ground_1]{ground}",
+      "examples": [
+        "[strong]{Strong} [wind_1]{winds} [brought]{brought} down [power_1]{power} [lines]{lines} across the [city]{city}.",
+        "He [managed]{managed} to [bring]{bring} the [airplane]{airplane} down [safely]{safely} with only one [engine]{engine}.",
+        "Johnson was [brought]{brought} down by a [hard_1]{hard} [tackle_1]{tackle} six [yard]{yards} from the [end_1]{end} [zone_1]{zone}."
+      ],
+      "id": "bring-down__5"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} [worse_1]{worse} [emotional#emotional__9]{emotionally}; to [make_1]{make} someone [feel_1]{feel} [worse_1]{worse} about themselves than they [did]{did} before",
+      "examples": [
+        "He was [really]{really} [brought]{brought} down by the [loss]{loss} of his [job_1]{job}.",
+        "Why do you have to [bring]{bring} me down when I was [feeling_1]{feeling} [good_1]{good} about [myself]{myself}?"
+      ],
+      "id": "bring-down__9"
+    }
+  ]
+}

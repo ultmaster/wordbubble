@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [bite_1]{bite} [hard_1]{hard} [food]{food}, [cause_2]{causing} it to [make_1]{make} a [loud_1]{loud} [noise]{noise}",
+      "examples": [
+        "Jane was [crunch_1]{crunching} a [peppermint]{peppermint} [noisy#noisy__7]{noisily}."
+      ],
+      "id": "crunch_1__1"
+    },
+    {
+      "def": "to [make_1]{make} a [noise]{noise} [like_1]{like} something being [crushed]{crushed}",
+      "examples": [
+        "[leaves]{Leaves} [crunch_1]{crunched} under our [feet]{feet} as we [walk_1]{walked} up the [path]{path} to the [house_1]{house}.",
+        "They [crunch_1]{crunched} across [splinter_2]{splintered} [glass]{glass} and [wood]{wood} to the [door_1]{door}."
+      ],
+      "id": "crunch_1__3"
+    },
+    {
+      "def": "if you crunch [number_1]{numbers}, you do a [lot_1]{lot} of [calculation]{calculations}",
+      "examples": [],
+      "id": "crunch_1__7"
+    }
+  ],
+  "word": "crunch"
+}

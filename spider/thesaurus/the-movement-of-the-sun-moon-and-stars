@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if the [sun_1]{sun}, [moon_1]{moon}, or a [star_1]{star} [rise_1]{rises}, it seems to move [higher_1]{higher} in the [sky_1]{sky}",
+      "entry": "rise",
+      "id": "rise_1#rise_1__4"
+    },
+    {
+      "comment": "when the sun or moon goes down, it moves below the horizon so you cannot see it anymore",
+      "entry": "go down",
+      "id": "go-down#go-down__9"
+    },
+    {
+      "comment": "a short period when all or part of the sun or moon becomes dark, because of the positions of the sun, moon, and earth in relation to each other. A total eclipse is when the sun or moon is completely covered. An eclipse of the sun is called a solar eclipse, and an eclipse of the moon is called a lunar eclipse.",
+      "entry": "eclipse",
+      "id": "eclipse_1#eclipse_1__1"
+    },
+    {
+      "comment": "if the [moon_1]{moon} is [wane_1]{waning}, you see less and less of it each [night_1]{night}",
+      "entry": "wane",
+      "id": "wane_1#wane_1__3"
+    },
+    {
+      "comment": "if the [moon_1]{moon} is [wax_2]{waxing}, you see more and more of it each [night_1]{night}",
+      "entry": "wax",
+      "id": "wax_2#wax_2__4"
+    },
+    {
+      "comment": "when the [sun_1]{sun} [sink_1]{sinks}, it [get]{gets} [lower_1]{lower} in the [sky_1]{sky} until it [disappear]{disappears}",
+      "entry": "sink",
+      "id": "sink_1#sink_1__8"
+    },
+    {
+      "comment": "if the [sun_1]{sun}, [moon_1]{moon}, or [star_1]{stars} come up, they [start_1]{start} to [appear]{appear} in the [sky_1]{sky}",
+      "entry": "come up",
+      "id": "come-up#come-up__18"
+    },
+    {
+      "comment": "when the [sun_1]{sun} or [moon_1]{moon} [go_1]{goes} in, [cloud_1]{clouds} move in front of it",
+      "entry": "go in",
+      "id": "go-in#go-in__1"
+    },
+    {
+      "comment": "to move around a [large_1]{large} [object_1]{object} in [space_1]{space} such as a [planet]{planet}",
+      "entry": "orbit",
+      "id": "orbit_2#orbit_2__1"
+    },
+    {
+      "comment": "the [moon_1]{moon} when it [look_1]{looks} [like_1]{like} a [complete_1]{complete} [circle_1]{circle}",
+      "entry": "full moon",
+      "id": "full-moon#full-moon__1"
+    }
+  ],
+  "thesaurus": "The movement of the sun, moon and stars",
+  "type": "Synonyms"
+}

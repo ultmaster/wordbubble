@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a suspected [injury]{injury} is one that [doctor_1]{doctors} [think_1]{think} you have, but they are not [sure_1]{sure} yet",
+      "examples": [
+        "He was [brought]{brought} to the [emergency_1]{emergency} [room_1]{room} with suspected [concussion]{concussion}."
+      ],
+      "id": "suspected__1"
+    },
+    {
+      "def": "a suspected [criminal_1]{criminal} is one who the [court_1]{courts} have not yet [prove]{proved} [guilty]{guilty}",
+      "examples": [
+        "The suspected [drug_1]{drug} [dealer]{dealer} was [taken_1]{taken} in for [questioning_1]{questioning}."
+      ],
+      "id": "suspected__3"
+    }
+  ],
+  "word": "suspected"
+}

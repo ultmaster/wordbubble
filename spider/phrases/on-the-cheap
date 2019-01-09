@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "on the cheap",
+  "senses": [
+    {
+      "def": "if you [buy_1]{buy} something on the [cheap_1]{cheap}, you do not [pay_1]{pay} the [usual]{usual} [price_1]{price}",
+      "examples": [
+        "It\u2019s a [great_1]{great} [opportunity]{opportunity} to [pick_1]{pick} up a [car]{car} on the [cheap_1]{cheap}."
+      ],
+      "id": "on-the-cheap__1"
+    },
+    {
+      "def": "if you do something on the [cheap_1]{cheap}, you [spend]{spend} less [money]{money} and get a [product]{product} or [service_1]{service} that is not of the [best_1]{best} [quality_1]{quality}",
+      "examples": [],
+      "id": "on-the-cheap__3"
+    }
+  ]
+}

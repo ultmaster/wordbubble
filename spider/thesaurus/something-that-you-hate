@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "something you do not [like_1]{like}",
+      "entry": "dislike",
+      "id": "dislike_2#dislike_2__5"
+    },
+    {
+      "comment": "something that you [strongly]{strongly} [dislike_1]{dislike} or [strongly]{strongly} [disagree]{disagree} with",
+      "entry": "anathema",
+      "id": "anathema#anathema__1"
+    },
+    {
+      "comment": "something that you hate because you [think_1]{think} it is [extremely]{extremely} [offensive_1]{offensive}, [unpleasant]{unpleasant}, or [wrong_1]{wrong}",
+      "entry": "abomination",
+      "id": "abomination#abomination__1"
+    },
+    {
+      "comment": "a [pet_1]{pet} [peeve_1]{peeve}",
+      "entry": "pet hate",
+      "id": "pet-hate#pet-hate__1"
+    },
+    {
+      "comment": "a [person]{person}, [organization]{organization}, or [country]{country} that others [dislike_1]{dislike} and [avoid]{avoid}",
+      "entry": "pariah",
+      "id": "pariah#pariah__1"
+    },
+    {
+      "comment": "if something is a [dirty_1]{dirty} [word_1]{word}, [people_1]{people} [dislike_1]{dislike} it or [disagree]{disagree} with it, often without [good_1]{good} [reason_1]{reasons}",
+      "entry": "a dirty word",
+      "id": "a-dirty-word#a-dirty-word__1"
+    },
+    {
+      "comment": "something that you [dislike_1]{dislike} or [consider]{consider} [unpleasant]{unpleasant}",
+      "entry": "crud",
+      "id": "crud#crud__2"
+    },
+    {
+      "comment": "someone or something that you [dislike_1]{dislike} very much or that [make_1]{makes} you [extremely]{extremely} [angry]{angry}",
+      "entry": "b\u00eate noire",
+      "id": "bete-noire#bete-noire__1"
+    },
+    {
+      "comment": "something that you [dislike_1]{dislike} very much or that [make_1]{makes} you [extremely]{extremely} [angry]{angry}",
+      "entry": "pet peeve",
+      "id": "pet-peeve#pet-peeve__1"
+    }
+  ],
+  "thesaurus": "Something that you hate",
+  "type": "Synonyms"
+}

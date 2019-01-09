@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something [stop_1]{stop} [burning]{burning}",
+      "entry": "put out",
+      "id": "put-out_1#put-out_1__1"
+    },
+    {
+      "comment": "to put out a fire by [covering]{covering} it",
+      "entry": "smother",
+      "id": "smother#smother__5"
+    },
+    {
+      "comment": "to make a fire or cigarette stop burning. A more usual word is put out",
+      "entry": "extinguish",
+      "id": "extinguish#extinguish__1"
+    },
+    {
+      "comment": "if you [blow_1]{blow} out a [flame_1]{flame}, or if it [blow_1]{blows} out, it [stop_1]{stops} [burning]{burning} because you [blow_1]{blow} on it or because of the [wind_1]{wind}",
+      "entry": "blow out",
+      "id": "blow-out#blow-out__1"
+    },
+    {
+      "comment": "to [make_1]{make} a fire [stop_1]{stop} [burning]{burning} by [put]{putting} your [feet]{feet} down [hard_1]{hard} on it",
+      "entry": "stamp out",
+      "id": "stamp-out#stamp-out__3"
+    },
+    {
+      "comment": "to [stop_1]{stop} a fire from [burning]{burning} by [hit_1]{hitting} it with something",
+      "entry": "beat out",
+      "id": "beat-out#beat-out__7"
+    },
+    {
+      "comment": "to [make_1]{make} a fire [stop_1]{stop} [burning]{burning} by [pour]{pouring} [water_1]{water} over it",
+      "entry": "douse",
+      "id": "douse#douse__2"
+    },
+    {
+      "comment": "to [try_1]{try} to [stop_1]{stop} a [large_1]{large} fire from [burning]{burning}",
+      "entry": "fight a fire/blaze",
+      "id": "fight-a-fire-blaze#fight-a-fire-blaze__1"
+    },
+    {
+      "comment": "to [try_1]{try} to put out a [large_1]{large} fire",
+      "entry": "tackle",
+      "id": "tackle_1#tackle_1__4"
+    },
+    {
+      "comment": "to [make_1]{make} a fire [stop_1]{stop} [burning]{burning}",
+      "entry": "quench",
+      "id": "quench#quench__4"
+    }
+  ],
+  "thesaurus": "To stop a fire",
+  "type": "Synonyms"
+}

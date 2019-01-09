@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [go_1]{goes} to a [store_1]{store} in [order_1]{order} to [buy_1]{buy} or [look_1]{look} at the [thing]{things} that are [sold]{sold} there",
+      "examples": [
+        "a [mall]{mall} [packed]{packed} with [shopper]{shoppers} and [tourist]{tourists}",
+        "[supermarket]{supermarket} [shopper]{shoppers}"
+      ],
+      "id": "shopper__1"
+    },
+    {
+      "def": "someone whose [job_1]{job} is to [buy_1]{buy} [thing]{things} for another [person]{person} or [company]{company}",
+      "examples": [],
+      "id": "shopper__4"
+    },
+    {
+      "def": "a [free_1]{free} [local_1]{local} [newspaper]{newspaper}, [fill_1]{filled} [mainly]{mainly} with [advertisement]{advertisements}",
+      "examples": [],
+      "id": "shopper__5"
+    }
+  ],
+  "word": "shopper"
+}

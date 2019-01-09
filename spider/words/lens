@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [curved]{curved} [glass]{glass} or [plastic_1]{plastic} that [make_1]{makes} [thing]{things} seem [small_1]{smaller}, [big_1]{bigger}, or [clear_1]{clearer}",
+      "examples": [
+        "[eyeglass]{eyeglasses} with thick [lens]{lenses}",
+        "a [camera]{camera} with a [telescopic]{telescopic} lens"
+      ],
+      "id": "lens__1"
+    },
+    {
+      "def": "the part of the [eye_1]{eye} behind the [pupil]{pupil} that [bend_1]{bends} [light_1]{light} to [produce_1]{produce} an [image_1]{image} on the [retina]{retina}",
+      "examples": [],
+      "id": "lens__5"
+    },
+    {
+      "def": "a [contact-lens]{contact lens}",
+      "examples": [
+        "I [haven]{haven}\u2019t [got_1]{got} my [lens]{lenses} in."
+      ],
+      "id": "lens__6"
+    }
+  ],
+  "word": "lens"
+}

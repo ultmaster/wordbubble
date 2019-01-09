@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[intended_1]{intended} only for [people_1]{people} who have been [given_1]{given} [special_1]{special} [permission]{permission}",
+      "examples": [
+        "The [officer]{officers} were [caught_1]{caught} [photograph_2]{photographing} in a restricted [military]{military} [zone_1]{zone}.",
+        "This is a restricted [area]{area}.",
+        "[access_1]{Access} is restricted to the [elderly]{elderly}.",
+        "The [information]{information} was restricted to [senior_1]{senior} [management]{management}.",
+        "This [trend_1]{trend} is not [simply]{simply} restricted to fortysomething [male_2]{males}."
+      ],
+      "id": "restricted__1"
+    },
+    {
+      "def": "[controlled_1]{controlled} by [law]{laws} or [rule_1]{rules}",
+      "examples": [
+        "[freedom]{Freedom} of the [press_1]{press} is restricted here.",
+        "[official_2]{Officials} are restricted in their [movement]{movements} in the [central]{central} [zone_1]{zone}."
+      ],
+      "id": "restricted__8"
+    },
+    {
+      "def": "[limited]{limited} in what it is [possible_1]{possible} to do",
+      "examples": [
+        "The [accident]{accident} [left_1]{left} me with restricted [movement]{movement} in my [right_1]{right} [arm_1]{arm}."
+      ],
+      "id": "restricted__11"
+    }
+  ],
+  "word": "restricted"
+}

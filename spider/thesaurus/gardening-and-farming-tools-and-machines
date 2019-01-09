@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a [farm_1]{farm} [tool_1]{tool} [consist]{consisting} of a long [stick_1]{stick} with a [small_1]{smaller} [stick_1]{stick} that [swing_1]{swings} from it at the [end_1]{end}, [used]{used} for [hit_1]{hitting} [grain]{grain} to [break_1]{break} it [apart]{apart}",
+      "entry": "flail",
+      "id": "flail_2#flail_2__1"
+    },
+    {
+      "comment": "a [garden_1]{garden} [tool_1]{tool} [used]{used} for [b-boying]{breaking} up the [earth]{earth} that [consist]{consists} of a long [handle_1]{handle} with three or four [sharp_1]{sharp} [metal_1]{metal} [point_1]{points} on the [end_1]{end}",
+      "entry": "fork",
+      "id": "fork_1#fork_1__4"
+    },
+    {
+      "comment": "a [tool_1]{tool} with a long [handle_1]{handle} [used]{used} for [turning]{turning} over the [soil_1]{soil} in a [garden_1]{garden}",
+      "entry": "hoe",
+      "id": "hoe_1#hoe_1__1"
+    },
+    {
+      "comment": "a very long [tube]{tube} [used]{used} for [carry_1]{carrying} [water_1]{water} to a [garden_1]{garden} or a fire",
+      "entry": "hose",
+      "id": "hose_1#hose_1__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} to [cut_1]{cut} [grass]{grass}",
+      "entry": "lawn mower",
+      "id": "lawn-mower#lawn-mower__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [cutting_1]{cutting} [grass]{grass}",
+      "entry": "mower",
+      "id": "mower#mower__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [knife_1]{knife} with a long [wide_1]{wide} [blade]{blade}, [used]{used} in Africa for [cutting_1]{cutting} [grass]{grass} and [stick_1]{sticks}, and sometimes as a [weapon]{weapon}",
+      "entry": "panga",
+      "id": "panga#panga__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} for [making]{making} [soil_1]{soil} [level_1]{level} and [remove]{removing} [leaves]{leaves} from the [ground_1]{ground}, [consist]{consisting} of a long [handle_1]{handle} with [sharp_1]{sharp} [separated]{separated} [point_1]{points} on one [end_1]{end} that the [dirt]{dirt}, etc. is [caught_1]{caught} in",
+      "entry": "rake",
+      "id": "rake_1#rake_1__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [cutting_1]{cutting} long [grass]{grass} or [grain]{grain}, [consist]{consisting} of a [wooden]{wooden} [handle_1]{handle} and a long [curved]{curved} [metal_1]{metal} [blade]{blade}",
+      "entry": "scythe",
+      "id": "scythe#scythe__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [like_1]{like} a very [large_1]{large} [pair_1]{pair} of [scissors]{scissors} that is [used]{used} for [cutting_1]{cutting} [grass]{grass} or [bush]{bushes}",
+      "entry": "shears",
+      "id": "shears#shears__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} [used]{used} for [dig_1]{digging} or [moving]{moving} something such as [snow_1]{snow} or [dirt]{dirt}. It [consist]{consists} of a long [handle_1]{handle} with a [curved]{curved} [metal_1]{metal} [end_1]{end}.",
+      "entry": "shovel",
+      "id": "shovel_1#shovel_1__1"
+    },
+    {
+      "comment": "a [tool_1]{tool} for [cutting_1]{cutting} down [grass]{grass} and [tall]{tall} [plant_1]{plants}, [consist]{consisting} of a long [curved]{curved} [blade]{blade} and a [handle_1]{handle}",
+      "entry": "sickle",
+      "id": "sickle#sickle__1"
+    },
+    {
+      "comment": "a [shovel_1]{shovel} [used]{used} for [dig_1]{digging} [earth]{earth}",
+      "entry": "spade",
+      "id": "spade#spade__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [automatically]{automatically} [sprinkling]{sprinkling} [water_1]{water} on [plant_1]{plants} or [grass]{grass} in a [garden_1]{garden}",
+      "entry": "sprinkler",
+      "id": "sprinkler#sprinkler__1"
+    },
+    {
+      "comment": "a [small_1]{small} [tool_1]{tool} with a [curved]{curved} [blade]{blade} that is [used]{used} in [garden_1]{gardens} for [dig_1]{digging} [small_1]{small} [hole_1]{holes} or [dig_1]{digging} [plant_1]{plants} out of the [ground_1]{ground}",
+      "entry": "trowel",
+      "id": "trowel#trowel__1"
+    },
+    {
+      "comment": "a container used for pouring water on plants, with a handle and a long spout",
+      "entry": "watering can",
+      "id": "watering-can#watering-can__1"
+    }
+  ],
+  "thesaurus": "Gardening and farming tools and machines",
+  "type": "Related words"
+}

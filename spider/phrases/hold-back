@@ -1,0 +1,44 @@
+{
+  "part": "phrase",
+  "phrase": "hold back",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} someone or something from [moving]{moving} [forward_1]{forward}",
+      "examples": [
+        "Ollie had to [hold_1]{hold} Tom back to [prevent]{prevent} him from [retaliate]{retaliating}.",
+        "Her [hair]{hair} was [held]{held} back by two [clip_1]{clips}."
+      ],
+      "id": "hold-back__1"
+    },
+    {
+      "def": "to [stop_1]{stop} someone from being as [successful]{successful} as they should",
+      "examples": [
+        "Her [parent]{parents} [worried]{worried} that her [classmate]{classmates} were [holding]{holding} her back.",
+        "[long-term]{Long-term} [water_1]{water} [shortage]{shortages} can [hold_1]{hold} [economic]{economic} [development]{development} back."
+      ],
+      "id": "hold-back__4"
+    },
+    {
+      "def": "to [decide]{decide} not to do or [say_1]{say} something, or to [make_1]{make} someone [decide]{decide} not to do or [say_1]{say} something",
+      "examples": [
+        "He [held]{held} back, [remember]{remembering} the [mistake_1]{mistake} he had made before."
+      ],
+      "id": "hold-back__8"
+    },
+    {
+      "def": "to not show what you are [thinking_1]{thinking} or [feeling_1]{feeling}",
+      "examples": [
+        "[joe_2]{Joe} [held]{held} back his [anger_1]{anger}.",
+        "She [bit_1]{bit} her [lip]{lip} to [hold_1]{hold} back the [tear_1]{tears}."
+      ],
+      "id": "hold-back__10"
+    },
+    {
+      "def": "to not [allow]{allow} someone to have something, for [example]{example} [money]{money}",
+      "examples": [
+        "They [held]{held} back the [final_1]{final} [payment]{payment} because they weren\u2019t [satisfied]{satisfied} with the [work_1]{work}."
+      ],
+      "id": "hold-back__13"
+    }
+  ]
+}

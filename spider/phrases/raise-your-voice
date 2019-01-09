@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "raise your voice",
+  "senses": [
+    {
+      "def": "to [speak_1]{speak} in a [loud_1]{loud} [angry]{angry} way",
+      "examples": [
+        "We [told]{told} him not to [raise_1]{raise} his [voice_1]{voice} to our [children]{children}."
+      ],
+      "id": "raise-your-voice__1"
+    },
+    {
+      "def": "to [make_1]{make} your [opinion]{opinion} [clearly]{clearly} [known_1]{known}",
+      "examples": [
+        "[voice_1]{Voices} were [raised]{raised} in [protest_1]{protest} at the [proposed]{proposed} [change_1]{changes}."
+      ],
+      "id": "raise-your-voice__3"
+    }
+  ]
+}

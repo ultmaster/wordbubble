@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "something [polite]{polite} or [friendly_1]{friendly} that you [say_1]{say} or do when you [meet_1]{meet} someone",
+      "examples": [
+        "They [exchange_2]{exchanged} [greeting]{greetings} and [sat_1]{sat} down.",
+        "He came to [meet_1]{meet} her, his [hand_1]{hands} [extended]{extended} in greeting."
+      ],
+      "id": "greeting__1"
+    },
+    {
+      "def": "a [friendly_1]{friendly} [message_1]{message} [sent]{sent} to someone on their [birthday]{birthday}, at [christmas]{Christmas}, etc.",
+      "examples": [
+        "[birthday]{birthday}/Christmas [greeting]{greetings}"
+      ],
+      "id": "greeting__4"
+    },
+    {
+      "def": "an [old]{old}-[fashion_2]{fashioned} way of [saying]{saying} [hello]{hello} to someone",
+      "examples": [],
+      "id": "greeting__6"
+    }
+  ],
+  "word": "greeting"
+}

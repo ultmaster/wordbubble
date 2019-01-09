@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if an amount of [money]{money} is chargeable, it must be [paid_1]{paid}",
+      "examples": [
+        "Interest is chargeable at 5 [percent_1]{percent} per [year]{year}."
+      ],
+      "id": "chargeable__1"
+    },
+    {
+      "def": "[considered]{considered} to be a [crime_1]{crime} that you can be [officially]{officially} [accuse]{accused} of",
+      "examples": [
+        "a chargeable [offense]{offense}"
+      ],
+      "id": "chargeable__3"
+    },
+    {
+      "def": "if [income]{income} or [property]{property} is chargeable, you must [pay_1]{pay} [tax_1]{tax} on it",
+      "examples": [
+        "chargeable [asset]{assets}"
+      ],
+      "id": "chargeable__5"
+    }
+  ],
+  "word": "chargeable"
+}

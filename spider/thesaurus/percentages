@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "one of the ten [equal_1]{equal} [group_1]{groups} that a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things} are [divided]{divided} into for [compare_1]{comparing} [thing]{things} such as [test_1]{test} [score_1]{scores}, [height]{height}, [salary]{salaries}, etc.",
+      "entry": "decile",
+      "id": "decile#decile__1"
+    },
+    {
+      "comment": "one part of 100, or a [particular_1]{particular} amount of a [total_1]{total} that you have [divided]{divided} by 100. [percent_1]{Percent} is often [shown]{shown} [use_1]{using} the [symbol]{symbol} %",
+      "entry": "percent",
+      "id": "percent_1#percent_1__1"
+    },
+    {
+      "comment": "[equal_1]{equal} to part of a [total_1]{total} that you have [divided]{divided} by 100",
+      "entry": "percent",
+      "id": "percent_2#percent_2__1"
+    },
+    {
+      "comment": "an amount or [rate_1]{rate} that is [equal_1]{equal} to a [particular_1]{particular} part of a [total_1]{total} that you have [divided]{divided} by 100",
+      "entry": "percentage",
+      "id": "percentage#percentage__1"
+    },
+    {
+      "comment": "a part of a [large_1]{larger} [number_1]{number} or amount that is not [calculated]{calculated} [exactly]{exactly}",
+      "entry": "percentage",
+      "id": "percentage#percentage__4"
+    },
+    {
+      "comment": "one [percent_1]{percent}",
+      "entry": "percentage point",
+      "id": "percentage-point#percentage-point__1"
+    },
+    {
+      "comment": "one of the 100 [equal_1]{equal} [group_1]{groups} that a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things} are [divided]{divided} into for [compare_1]{comparing} something such as [test_1]{test} [score_1]{scores}, [height]{height}, [salary]{salaries}, etc.",
+      "entry": "percentile",
+      "id": "percentile#percentile__1"
+    }
+  ],
+  "thesaurus": "Percentages",
+  "type": "Related words"
+}

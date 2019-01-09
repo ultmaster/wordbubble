@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} you will not do something that someone has [ask_1]{asked} you to do",
+      "entry": "refuse",
+      "id": "refuse_1#refuse_1__1"
+    },
+    {
+      "comment": "to not [accept]{accept} an [offer_1]{offer} or [request_1]{request}",
+      "entry": "turn down",
+      "id": "turn-down#turn-down__1"
+    },
+    {
+      "comment": "to [say_1]{say} [politely]{politely} that you will not [accept]{accept} something or do something",
+      "entry": "decline",
+      "id": "decline_1#decline_1__5"
+    },
+    {
+      "comment": "to [refuse_1]{refuse} to take something, for [example]{example} because it is [damage_2]{damaged} or is not what you [wanted]{wanted}",
+      "entry": "reject",
+      "id": "reject_1#reject_1__7"
+    },
+    {
+      "comment": "to not take [advantage]{advantage} of an [opportunity]{opportunity}",
+      "entry": "pass up",
+      "id": "pass-up#pass-up__1"
+    },
+    {
+      "comment": "to [say_1]{say} no by [turning]{turning} your [head_1]{head} from side to side",
+      "entry": "shake your head",
+      "id": "shake-your-head#shake-your-head__1"
+    },
+    {
+      "comment": "to [say_1]{say} that you do not [want_1]{want} what someone has [offer_1]{offered} to you",
+      "entry": "refuse",
+      "id": "refuse_1#refuse_1__6"
+    },
+    {
+      "comment": "to [refuse_1]{refuse} or [say_1]{say} no to something",
+      "entry": "nix",
+      "id": "nix_1#nix_1__1"
+    }
+  ],
+  "thesaurus": "To say no",
+  "type": "Synonyms"
+}

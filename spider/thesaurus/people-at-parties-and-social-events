@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who has been [invite_1]{invited} to an [event]{event}",
+      "entry": "invitee",
+      "id": "invitee#invitee__1"
+    },
+    {
+      "comment": "someone who invites people to a meal or party, or to stay in their home. A woman who does this is sometimes called a hostess",
+      "entry": "host",
+      "id": "host_1#host_1__1"
+    },
+    {
+      "comment": "a woman who invites someone to a meal or party, or to stay for a short time in her home. A man who does this is called a host.",
+      "entry": "hostess",
+      "id": "hostess#hostess__1"
+    },
+    {
+      "comment": "someone who you have [invite_1]{invited} to your [home_1]{home}, for a [party_1]{party} or a [meal]{meal}, or to [stay_1]{stay} the [night_1]{night}",
+      "entry": "guest",
+      "id": "guest_1#guest_1__1"
+    },
+    {
+      "comment": "a [guest_1]{guest} or [guest_1]{guests}",
+      "entry": "company",
+      "id": "company#company__18"
+    },
+    {
+      "comment": "someone who [go_1]{goes} to [social_1]{social} [event]{events} [organized]{organized} by [fashionable]{fashionable} [people_1]{people}",
+      "entry": "socialite",
+      "id": "socialite#socialite__1"
+    },
+    {
+      "comment": "a man who [go_1]{goes} to a [lot_1]{lot} of [fashionable]{fashionable} [party_1]{parties}, [restaurant]{restaurants}, [club_1]{clubs}, etc.",
+      "entry": "man about town",
+      "id": "man-about-town#man-about-town__1"
+    },
+    {
+      "comment": "someone who [enjoy]{enjoys} [going_1]{going} to [lot_2]{lots} of [party_1]{parties}",
+      "entry": "party animal",
+      "id": "party-animal#party-animal__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [important]{important} [guest_1]{guest} at a [meeting]{meeting}, [party_1]{party}, or other [event]{event}",
+      "entry": "guest of honor",
+      "id": "guest-of-honor#guest-of-honor__1"
+    },
+    {
+      "comment": "someone who [go_1]{goes} to [lot_2]{lots} of [party_1]{parties} or who is at a [particular_1]{particular} [party_1]{party}",
+      "entry": "partygoer",
+      "id": "partygoer#partygoer__1"
+    }
+  ],
+  "thesaurus": "People at parties and social events",
+  "type": "Synonyms"
+}

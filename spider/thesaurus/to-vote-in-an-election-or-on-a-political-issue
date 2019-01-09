@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "to [deliberately]{deliberately} not [vote_1]{vote} in an [election]{election} or at a [meeting]{meeting}",
+      "entry": "abstain",
+      "id": "abstain#abstain__5"
+    },
+    {
+      "comment": "to [formally]{formally} [accept]{accept} a [proposal]{proposal}, [usually]{usually} by [vote_1]{voting}",
+      "entry": "adopt",
+      "id": "adopt#adopt__7"
+    },
+    {
+      "comment": "to [choose]{choose} someone to [represent]{represent} your [political]{political} [party_1]{party} in an [election]{election}",
+      "entry": "adopt",
+      "id": "adopt#adopt__14"
+    },
+    {
+      "comment": "to [vote_1]{vote} in [order_1]{order} to [decide]{decide} an [issue_1]{issue}",
+      "entry": "ballot",
+      "id": "ballot_2#ballot_2__3"
+    },
+    {
+      "comment": "to [prevent]{prevent} someone from [join_1]{joining} a [group_1]{group} by [vote_1]{voting} against them",
+      "entry": "blackball",
+      "id": "blackball#blackball__1"
+    },
+    {
+      "comment": "if a motion  (=a formal suggestion of policy) is carried, it is accepted officially because the majority of people have voted for it",
+      "entry": "carry",
+      "id": "carry_1#carry_1__34"
+    },
+    {
+      "comment": "to [vote_1]{vote} in an [election]{election}",
+      "entry": "cast a vote/ballot",
+      "id": "cast-a-vote-ballot#cast-a-vote-ballot__1"
+    },
+    {
+      "comment": "to [choose]{choose} someone by [vote_1]{voting} so that they [represent]{represent} you or [hold_1]{hold} an [official_1]{official} [position_1]{position}",
+      "entry": "elect",
+      "id": "elect_1#elect_1__1"
+    },
+    {
+      "comment": "to [vote_1]{vote} in an [election]{election}",
+      "entry": "go to the polls",
+      "id": "go-to-the-polls#go-to-the-polls__1"
+    },
+    {
+      "comment": "to [elect_1]{elect} a [politician]{politician} to a [legislature]{legislature} or a [political]{political} [party_1]{party} to [govern]{govern} a [country]{country}",
+      "entry": "put in",
+      "id": "put-in#put-in__12"
+    },
+    {
+      "comment": "to [elect_1]{elect} someone again",
+      "entry": "reelect",
+      "id": "reelect#reelect__1"
+    },
+    {
+      "comment": "to [elect_1]{elect} someone to a [position_1]{position}, [especially]{especially} in a [legislature]{legislature}",
+      "entry": "return",
+      "id": "return_1#return_1__23"
+    },
+    {
+      "comment": "to accidentally do something that makes a ballot paper unable to be read and therefore unable to be counted in an election.",
+      "entry": "spoil",
+      "id": "spoil#spoil__12"
+    },
+    {
+      "comment": "to [cheat_1]{cheat} during an [election]{election} by [vote_1]{voting} too many times",
+      "entry": "stuff the ballot box",
+      "id": "stuff-the-ballot-box#stuff-the-ballot-box__1"
+    },
+    {
+      "comment": "to [remove]{remove} someone from a [position_1]{position} of [power_1]{power}, for [example]{example} by [vote_1]{voting}",
+      "entry": "unseat",
+      "id": "unseat#unseat__1"
+    },
+    {
+      "comment": "to show your [choice_1]{choice} of a [person]{person} or an [issue_1]{issue} in an [election]{election}",
+      "entry": "vote",
+      "id": "vote_1#vote_1__8"
+    },
+    {
+      "comment": "to vote for candidates of more than one political party in an election",
+      "entry": "vote a split ticket",
+      "id": "split-ticket#split-ticket__2"
+    },
+    {
+      "comment": "to [stop_1]{stop} or [end_1]{end} something as the [result_1]{result} of a [vote_1]{vote}",
+      "entry": "vote down",
+      "id": "vote-down#vote-down__1"
+    },
+    {
+      "comment": "to give a [person]{person} or [political]{political} [party_1]{party} a [position_1]{position} of [power_1]{power} by [vote_1]{voting}",
+      "entry": "vote in",
+      "id": "vote-in#vote-in__1"
+    },
+    {
+      "comment": "to [remove]{remove} someone from a [position_1]{position} on something such as a [committee]{committee} by [vote_1]{voting}",
+      "entry": "vote off",
+      "id": "vote-off#vote-off__1"
+    },
+    {
+      "comment": "to [remove]{remove} a [person]{person} or [political]{political} [party_1]{party} from a [position_1]{position} by [vote_1]{voting}",
+      "entry": "vote out",
+      "id": "vote-out#vote-out__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [accepted]{accepted} [officially]{officially} by [vote_1]{voting}",
+      "entry": "vote through",
+      "id": "vote-through#vote-through__1"
+    }
+  ],
+  "thesaurus": "To vote in an election or on a political issue",
+  "type": "Related words"
+}

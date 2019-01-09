@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [storm_1]{storm} that is coming",
+      "entry": "a gathering storm",
+      "id": "a-gathering-storm#a-gathering-storm__3"
+    },
+    {
+      "comment": "a [storm_1]{storm} with a [lot_1]{lot} of [snow_1]{snow} and [strong]{strong} [wind_1]{winds}",
+      "entry": "blizzard",
+      "id": "blizzard#blizzard__1"
+    },
+    {
+      "comment": "a [severe]{severe} [storm_1]{storm} in which the [wind_1]{wind} [spin_1]{spins} in a [circle_1]{circle}",
+      "entry": "cyclone",
+      "id": "cyclone#cyclone__1"
+    },
+    {
+      "comment": "a [storm_1]{storm} during which a very [strong]{strong} [wind_1]{wind} [blow_1]{blows} a [lot_1]{lot} of [dry_1]{dry} [soil_1]{soil} around",
+      "entry": "dust storm",
+      "id": "dust-storm#dust-storm__1"
+    },
+    {
+      "comment": "a storm with thunder and lightning  (=loud noises and bright flashes of light)",
+      "entry": "electrical storm",
+      "id": "electrical-storm#electrical-storm__1"
+    },
+    {
+      "comment": "a [violent]{violent} [storm_1]{storm} with [extremely]{extremely} [strong]{strong} [wind_1]{winds} and [heavy_1]{heavy} [rain_1]{rain}",
+      "entry": "hurricane",
+      "id": "hurricane#hurricane__1"
+    },
+    {
+      "comment": "a [storm_1]{storm} with a [lot_1]{lot} of [rain_1]{rain}",
+      "entry": "rainstorm",
+      "id": "rainstorm#rainstorm__1"
+    },
+    {
+      "comment": "a [storm_1]{storm} with a [lot_1]{lot} of [snow_1]{snow} and [strong]{strong} [wind_1]{winds}",
+      "entry": "snowstorm",
+      "id": "snowstorm#snowstorm__1"
+    },
+    {
+      "comment": "a [strong]{strong} [wind_1]{wind} or [storm_1]{storm} that is [moving]{moving} in a [southwest_1]{southwest} [direction]{direction}",
+      "entry": "southwester",
+      "id": "southwester#southwester__1"
+    },
+    {
+      "comment": "a [storm_1]{storm} that [happen]{happens} [suddenly]{suddenly}, [especially]{especially} at [sea_1]{sea}",
+      "entry": "squall",
+      "id": "squall_1#squall_1__1"
+    },
+    {
+      "comment": "an occasion when a lot of rain falls very quickly, often with very strong winds or thunder and lightning",
+      "entry": "storm",
+      "id": "storm_1#storm_1__1"
+    },
+    {
+      "comment": "a [severe]{severe} [storm_1]{storm} with [strong]{strong} [wind_1]{winds} and [heavy_1]{heavy} [rain_1]{rain} or [snow_1]{snow}",
+      "entry": "tempest",
+      "id": "tempest#tempest__1"
+    },
+    {
+      "comment": "a heavy storm with thunder",
+      "entry": "thunderstorm",
+      "id": "thunderstorm#thunderstorm__1"
+    },
+    {
+      "comment": "a [tropical]{tropical} [storm_1]{storm} with [strong]{strong} [wind_1]{winds} that move in [circle_1]{circles}",
+      "entry": "typhoon",
+      "id": "typhoon#typhoon__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [bad_1]{bad} [weather_1]{weather} when there is a [lot_1]{lot} of [wind_1]{wind} but no [rain_1]{rain}",
+      "entry": "windstorm",
+      "id": "windstorm#windstorm__1"
+    }
+  ],
+  "thesaurus": "Types of storm",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [easily]{easily} [broken_1]{broken}, [damage_2]{damaged}, or [destroy]{destroyed}",
+      "entry": "strong",
+      "id": "strong#strong__7"
+    },
+    {
+      "comment": "[strong]{strong} or [powerful]{powerful} and [impossible]{impossible} to [control_1]{control} or [defeat_1]{defeat}",
+      "entry": "irresistible",
+      "id": "irresistible#irresistible__1"
+    },
+    {
+      "comment": "[strong]{strong} and not [easily]{easily} [hurt_1]{hurt}, [damage_2]{damaged}, or [affected]{affected} by what [happen]{happens}",
+      "entry": "sturdy",
+      "id": "sturdy#sturdy__1"
+    },
+    {
+      "comment": "[strong]{strong} and not [easily]{easily} [damage_2]{damaged}",
+      "entry": "heavy-duty",
+      "id": "heavy-duty#heavy-duty__1"
+    },
+    {
+      "comment": "a [robust]{robust} [object_1]{object} is [strong]{strong} and [unlikely]{unlikely} to [break_1]{break}",
+      "entry": "robust",
+      "id": "robust#robust__4"
+    },
+    {
+      "comment": "[strong]{strong} enough not to [break_1]{break} or become [damage_2]{damaged} [easily]{easily}",
+      "entry": "solid",
+      "id": "solid_1#solid_1__9"
+    },
+    {
+      "comment": "[difficult]{difficult} to [break_1]{break} or [damage_1]{damage}",
+      "entry": "tough",
+      "id": "tough_1#tough_1__17"
+    },
+    {
+      "comment": "very [difficult]{difficult} to [change_1]{change} or to [defeat_1]{defeat}",
+      "entry": "stubborn",
+      "id": "stubborn#stubborn__4"
+    },
+    {
+      "comment": "[able_1]{able} to [stay_1]{stay} in [good_1]{good} [condition_1]{condition} for a long time and after being [used]{used} a [lot_1]{lot}",
+      "entry": "durable",
+      "id": "durable#durable__1"
+    },
+    {
+      "comment": "very [strong]{strong} and not [likely_1]{likely} to [break_1]{break}",
+      "entry": "solid as a rock",
+      "id": "solid-as-a-rock#solid-as-a-rock__3"
+    }
+  ],
+  "thesaurus": "Strong and not easy to damage or break",
+  "type": "Synonyms"
+}

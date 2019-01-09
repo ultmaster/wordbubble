@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "keep from",
+  "senses": [
+    {
+      "def": "to [prevent]{prevent} someone from [doing]{doing} something or [prevent]{prevent} something from [happening_1]{happening}",
+      "examples": [
+        "These [worry_1]{worries} [kept]{kept} her from [sleep_1]{sleeping} [properly]{properly}.",
+        "The [troop_1]{troops} [withheld]{withheld} fire to keep the [situation]{situation} from [escalate]{escalating}."
+      ],
+      "id": "keep-from__1"
+    },
+    {
+      "def": "to not [tell_1]{tell} someone something",
+      "examples": [
+        "I [kept]{kept} the [news]{news} from him for a while."
+      ],
+      "id": "keep-from__4"
+    }
+  ]
+}

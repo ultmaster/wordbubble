@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "dig out",
+  "senses": [
+    {
+      "def": "to find something that you have not [used]{used} or [seen]{seen} for a long time",
+      "examples": [
+        "I\u2019ll [dig_1]{dig} out my [old]{old} [college]{college} [note_1]{notes} [later_1]{later}."
+      ],
+      "id": "dig-out__1"
+    },
+    {
+      "def": "to get something out of a [place_1]{place} or out of the [ground_1]{ground} by [dig_1]{digging}",
+      "examples": [
+        "[rescue_1#rescue_1__7]{Rescuers} are still [dig_1]{digging} [people_1]{people} out of the [rubble]{rubble}."
+      ],
+      "id": "dig-out__3"
+    },
+    {
+      "def": "to [accelerate]{accelerate} [rapid#rapid__6]{rapidly} in a [vehicle]{vehicle}",
+      "examples": [
+        "You can [really]{really} [dig_1]{dig} out in that [corvette]{Corvette}!"
+      ],
+      "id": "dig-out__5"
+    }
+  ]
+}

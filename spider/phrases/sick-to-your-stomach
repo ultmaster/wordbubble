@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "sick to your stomach",
+  "senses": [
+    {
+      "def": "[feeling_1]{feeling} that [food]{food} that you have [eaten]{eaten} is [going_1]{going} to come out of your [stomach_1]{stomach} through your [mouth_1]{mouth}",
+      "examples": [],
+      "id": "sick-to-your-stomach__1"
+    },
+    {
+      "def": "[feeling_1]{feeling} very [upset_1]{upset}, [worried]{worried}, or [afraid]{afraid}",
+      "examples": [
+        "I was [sick_1]{sick} to my [stomach_1]{stomach} when I [saw_1]{saw} what they had done."
+      ],
+      "id": "sick-to-your-stomach__2"
+    }
+  ]
+}

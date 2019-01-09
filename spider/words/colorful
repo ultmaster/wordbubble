@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "something that is colorful has [bright_1]{bright} [color_1]{colors} or a [lot_1]{lot} of [different]{different} [color_1]{colors}",
+      "examples": [
+        "a colorful [carpet_1]{carpet}"
+      ],
+      "id": "colorful__1"
+    },
+    {
+      "def": "[interesting]{interesting}, [exciting]{exciting}, and sometimes [funny]{funny}",
+      "examples": [
+        "colorful [character]{characters}"
+      ],
+      "id": "colorful__3"
+    },
+    {
+      "def": "colorful [language]{language} is [rude]{rude} or [use_1]{uses} [offensive_1]{offensive} [word_1]{words}",
+      "examples": [],
+      "id": "colorful__5"
+    },
+    {
+      "def": "[involve]{involving} [exciting]{exciting}, but [slightly]{slightly} [shocking]{shocking} or [illegal_1]{illegal} [activity]{activities}",
+      "examples": [
+        "He had a colorful [past_1]{past}."
+      ],
+      "id": "colorful__6"
+    }
+  ],
+  "word": "colorful"
+}

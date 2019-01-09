@@ -1,0 +1,42 @@
+{
+  "part": "phrase",
+  "phrase": "keep down",
+  "senses": [
+    {
+      "def": "to [control_1]{control} something and [prevent]{prevent} it from [increase_1]{increasing} in [size_1]{size} or [number_1]{number}",
+      "examples": [
+        "We have to [try_1]{try} and keep our [cost_1]{costs} down.",
+        "The [cat]{cats} [help_1]{help} to keep down the [rats]{rats}."
+      ],
+      "id": "keep-down__1"
+    },
+    {
+      "def": "to [stop_1]{stop} someone from [achieve]{achieving} what they are [capable]{capable} of [achieve]{achieving}",
+      "examples": [
+        "Even if you\u2019re [intelligent]{intelligent}, they still [try_1]{try} to keep you down."
+      ],
+      "id": "keep-down__4"
+    },
+    {
+      "def": "to [succeed]{succeed} in [keeping]{keeping} [food]{food} in your [stomach_1]{stomach} although you [feel_1]{feel} as if you [want_1]{want} to [vomit_1]{vomit}",
+      "examples": [
+        "I\u2019d [eat]{eat} something if I [thought_1]{thought} I could keep it down."
+      ],
+      "id": "keep-down__6"
+    },
+    {
+      "def": "to [make_1]{make} a [noise]{noise} less [loud_1]{loud}",
+      "examples": [
+        "Keep it down! I\u2019m [trying]{trying} to [sleep_1]{sleep}."
+      ],
+      "id": "keep-down__8"
+    },
+    {
+      "def": "to [control_1]{control} [people_1]{people} in such a [strict]{strict} or [cruel]{cruel} way that they have very [little_1]{little} [freedom]{freedom} or very few [right_3]{rights}",
+      "examples": [
+        "These [immigrant]{immigrants} were [kept]{kept} down for [decade]{decades}."
+      ],
+      "id": "keep-down__10"
+    }
+  ]
+}

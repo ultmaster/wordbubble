@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [saying]{saying} that you are not [certain_1]{certain} about something, or that something may or may not be [true_1]{true}",
+      "entry": "perhaps",
+      "id": "perhaps#perhaps__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are not [sure_1]{sure} whether something is [true_1]{true} or whether something will [happen]{happen}",
+      "entry": "maybe",
+      "id": "maybe#maybe__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you [think_1]{think} something is [true_1]{true} [base_2]{based} on what you [know_1]{know}, although you are not [really]{really} [certain_1]{certain}",
+      "entry": "presumably",
+      "id": "presumably#presumably__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are not [certain_1]{certain} that something you are [reporting]{reporting} is [true_1]{true}",
+      "entry": "reportedly",
+      "id": "reportedly#reportedly__1"
+    },
+    {
+      "comment": "[used]{used} when you are not [sure_1]{sure} what to [say_1]{say} or when you do not [approve]{approve} of something",
+      "entry": "hum",
+      "id": "hum_3#hum_3__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are [reporting]{reporting} something that you have [heard]{heard} when you are not [sure_1]{sure} whether it is [really]{really} [true_1]{true}",
+      "entry": "rumor/word/legend has it that",
+      "id": "rumor-word-legend-has-it-that#rumor-word-legend-has-it-that__1"
+    },
+    {
+      "comment": "[used]{used} when you cannot give a [definite]{definite} [answer_1]{answer}, because [different]{different} [thing]{things} are [possible_1]{possible} in [different]{different} [situation]{situations}",
+      "entry": "it/that depends",
+      "id": "depend#depend__2"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you are almost but not [completely]{completely} [certain_1]{certain} of something",
+      "entry": "not that I\u2019m aware of",
+      "id": "not-that-i-m-aware-of#not-that-i-m-aware-of__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [probably]{probably} [true_1]{true}, although you do not [know_1]{know} for [certain_1]{certain}",
+      "entry": "I dare say",
+      "id": "i-dare-say#i-dare-say__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you [think_1]{think} or [hope_1]{hope} that something is [true_1]{true}, although you are not [certain_1]{certain}",
+      "entry": "I would think/imagine/hope etc.",
+      "id": "i-would-think-imagine-hope-etc#i-would-think-imagine-hope-etc__1"
+    }
+  ],
+  "thesaurus": "Ways of saying you are not sure",
+  "type": "Synonyms"
+}

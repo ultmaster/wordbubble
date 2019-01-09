@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[movement]{movement} in a [circle_1]{circle} around a [fixed]{fixed} [central]{central} [point_1]{point}",
+      "examples": [
+        "an [increase_1]{increase} in the [speed_1]{speed} of rotation",
+        "a [speed_1]{speed} of 5,200 [rotation]{rotations} per [minute_1]{minute}"
+      ],
+      "id": "rotation__1"
+    },
+    {
+      "def": "the [process_1]{process} of [replace]{replacing} one thing with another from the same [group_1]{group} in a [fixed]{fixed} [order_1]{order}",
+      "examples": [
+        "We use a system of [job_1]{job} rotation to keep [staff_1]{staff} [stimulate]{stimulated}.",
+        "The [position_1]{position} of [chairperson]{chairperson} will be [held]{held} by each [committee]{committee} [member]{member} in rotation."
+      ],
+      "id": "rotation__5"
+    },
+    {
+      "def": "[crop-rotation]{crop rotation}",
+      "examples": [],
+      "id": "rotation__8"
+    }
+  ],
+  "word": "rotation"
+}

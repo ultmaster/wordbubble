@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [need_1]{needed}",
+      "examples": [
+        "[computer]{Computers} have made our [paper_1]{paper} [record_1]{records} redundant."
+      ],
+      "id": "redundant__1"
+    },
+    {
+      "def": "if someone is redundant, they have been [told]{told} they must [leave_1]{leave} their [job_1]{job} because they are no [long_1]{longer} [need_1]{needed}",
+      "examples": [],
+      "id": "redundant__3"
+    },
+    {
+      "def": "[design_2]{designed} to [operate]{operate} [instead]{instead} of a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} or system if it [fail_1]{fails}",
+      "examples": [],
+      "id": "redundant__4"
+    }
+  ],
+  "word": "redundant"
+}

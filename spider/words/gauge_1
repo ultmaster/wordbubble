@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [equipment]{equipment} that [measure_1]{measures} the amount of something",
+      "examples": [
+        "the [fuel_1]{fuel}/[gas_1]{gas}/[pressure_1]{pressure} gauge",
+        "a [rain_1]{rain}/[snow_1]{snow}/[hail_1]{hail} gauge"
+      ],
+      "id": "gauge_1__1"
+    },
+    {
+      "def": "a [fact]{fact} or [event]{event} that can be [used]{used} for [judge_2]{judging} someone or something",
+      "examples": [
+        "[new]{New} [order_1]{orders} are a gauge of how well [manufacturer]{manufacturers} are [doing]{doing}."
+      ],
+      "id": "gauge_1__4"
+    },
+    {
+      "def": "a way of [saying]{saying} how thick something is, [especially]{especially} something made of [metal_1]{metal}, [wire_1]{wire}, or [plastic_1]{plastic}",
+      "examples": [
+        "a small-gauge [needle_1]{needle}",
+        "heavy-gauge [plastic_1]{plastic}",
+        "a 12-gauge [shotgun]{shotgun}",
+        "a narrow-gauge [railroad_1]{railroad}"
+      ],
+      "id": "gauge_1__6"
+    }
+  ],
+  "word": "gauge"
+}

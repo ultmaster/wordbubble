@@ -1,0 +1,24 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [agree]{agree} to do something by [give_1]{giving} them [reason_1]{reasons} why they should",
+      "examples": [
+        "He [did]{did} [finally]{finally} come with us, although it [took]{took} a long time to persuade him.",
+        "Nobody could persuade her to [change_1]{change} her [mind_1]{mind}.",
+        "What [persuade]{persuaded} you to [accept]{accept} the [job_1]{job}?"
+      ],
+      "id": "persuade__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [believe]{believe} that something is [true_1]{true}",
+      "examples": [
+        "Their [argument]{argument} [failed]{failed} to persuade me.",
+        "There was no way she could persuade him of her [innocence]{innocence}.",
+        "I [managed]{managed} to persuade him that it was not his [fault_1]{fault}."
+      ],
+      "id": "persuade__6"
+    }
+  ],
+  "word": "persuade"
+}

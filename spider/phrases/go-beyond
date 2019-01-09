@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go beyond",
+  "senses": [
+    {
+      "def": "to be more than something",
+      "examples": [
+        "The [cost_1]{cost} of the [new]{new} [prison]{prison} should not go beyond $12 [million]{million}."
+      ],
+      "id": "go-beyond__1"
+    },
+    {
+      "def": "to [refer]{refer} to, [deal_1]{deal} with, or [include]{include} more [thing]{things} than something",
+      "examples": [
+        "The British [representative_1]{representative} [argue]{argued} against any [major_1]{major} [change_1]{changes} that would go beyond the 1992 [treaty]{Treaty}."
+      ],
+      "id": "go-beyond__3"
+    }
+  ]
+}

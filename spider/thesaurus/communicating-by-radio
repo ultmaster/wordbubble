@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "[citizen]{Citizens}\u2019 [band_1]{Band}: a [radio_1]{radio} system that [people_1]{people}, [especially]{especially} [truck_1]{truck} [driver]{drivers}, use for [talk_1]{talking} to one another",
+      "entry": "CB",
+      "id": "cb#cb__1"
+    },
+    {
+      "comment": "someone who [send_1]{sends} and [receive]{receives} [radio_1]{radio} [message_1]{messages} for [fun_1]{fun}",
+      "entry": "ham",
+      "id": "ham_1#ham_1__8"
+    },
+    {
+      "comment": "[used]{used} at the [end_1]{end} of your [turn_1]{turn} in a [radio_1]{radio} [conversation]{conversation} to show that you have [finished]{finished} [speak_1]{speaking} and the other [person]{person} can [speak_1]{speak}",
+      "entry": "over",
+      "id": "over_1#over_1__95"
+    },
+    {
+      "comment": "a system of [send_1]{sending} and [receive]{receiving} [spoken_1]{spoken} [message_1]{messages} by [use_1]{using} [electronic]{electronic} [signal_1]{signals}, for [example]{example} the system [used]{used} by the [police_1]{police} or [pilot_1]{pilots}",
+      "entry": "radio",
+      "id": "radio_1#radio_1__14"
+    },
+    {
+      "comment": "the [piece_1]{piece} of [equipment]{equipment} [used]{used} for [send_1]{sending} or [receive]{receiving} [spoken_1]{spoken} [message_1]{messages} [use_1]{using} [electronic]{electronic} [signal_1]{signals}",
+      "entry": "radio",
+      "id": "radio_1#radio_1__17"
+    },
+    {
+      "comment": "to [communicate]{communicate} with someone [use_1]{using} a [radio_1]{radio}",
+      "entry": "radio",
+      "id": "radio_2#radio_2__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you have [received]{received} and [understood]{understood} a [radio_1]{radio} [message_1]{message}",
+      "entry": "roger",
+      "id": "roger#roger__1"
+    },
+    {
+      "comment": "to [change_1]{change} the form of a [radio_1]{radio} [message_1]{message} so that only someone with [special_1]{special} [equipment]{equipment} can [understand]{understand} it",
+      "entry": "scramble",
+      "id": "scramble_1#scramble_1__10"
+    },
+    {
+      "comment": "[ship-to-shore]{ship-to-shore} [communication]{communication} is between someone on a [ship_1]{ship} and someone on [land_1]{land}",
+      "entry": "ship-to-shore",
+      "id": "ship-to-shore#ship-to-shore__1"
+    },
+    {
+      "comment": "to [end_1]{end} a [conversation]{conversation} by [radio_1]{radio} or computer",
+      "entry": "sign off",
+      "id": "sign-off#sign-off__5"
+    },
+    {
+      "comment": "a [method]{method} of [communicate]{communicating} by [send_1]{sending} [electric]{electric} [signal_1]{signals} through [wire_1]{wires} or by [radio_1]{radio} [wave_1]{waves}",
+      "entry": "telegraph",
+      "id": "telegraph_1#telegraph_1__1"
+    },
+    {
+      "comment": "a [radio_1]{radio} [used]{used} for [send_1]{sending} and [receive]{receiving} [message_1]{messages}",
+      "entry": "transceiver",
+      "id": "transceiver#transceiver__1"
+    },
+    {
+      "comment": "a piece of electronic equipment used for communicating with radio or radar. It sends a reply every time that it receives a signal.",
+      "entry": "transponder",
+      "id": "transponder#transponder__1"
+    },
+    {
+      "comment": "a [small_1]{small} [radio_1]{radio} that you can [carry_1]{carry} and use for [communicate]{communicating} with someone else who also has one",
+      "entry": "walkie-talkie",
+      "id": "walkie-talkie#walkie-talkie__1"
+    }
+  ],
+  "thesaurus": "Communicating by radio",
+  "type": "Related words"
+}

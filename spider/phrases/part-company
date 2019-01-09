@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "part company",
+  "senses": [
+    {
+      "def": "to [end_1]{end} a [relationship]{relationship}, for [example]{example} a [marriage]{marriage}",
+      "examples": [],
+      "id": "part-company__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [traveling]{traveling} or [spending]{spending} time together and go to [different]{different} [place_1]{places}",
+      "examples": [],
+      "id": "part-company__2"
+    },
+    {
+      "def": "to [disagree]{disagree} about a [particular_1]{particular} [subject_1]{subject}",
+      "examples": [
+        "This is where I part [company]{company} with the [professor]{professor}."
+      ],
+      "id": "part-company__3"
+    }
+  ]
+}

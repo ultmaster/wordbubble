@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "make sense",
+  "senses": [
+    {
+      "def": "to be [practical]{practical} and [sensible]{sensible}",
+      "examples": [
+        "It [make_1]{makes} [sense_1]{sense} to keep such [information]{information} on [disk]{disk}.",
+        "It made [good_1]{good} [sense_1]{sense} to [continue]{continue} with the [reform_1]{reforms}."
+      ],
+      "id": "make-sense__1"
+    },
+    {
+      "def": "to be [easy_1]{easy} to [understand]{understand}",
+      "examples": [
+        "Her [argument]{argument} [make_1]{makes} [perfect_1]{perfect} [sense_1]{sense} to me."
+      ],
+      "id": "make-sense__4"
+    }
+  ]
+}

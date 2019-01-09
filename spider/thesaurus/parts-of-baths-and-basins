@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "the [place_1]{place} next to the [sink_1]{sink} in a [kitchen]{kitchen} where you [leave_1]{leave} [wet_1]{wet} [dish_1]{dishes} to [dry_1]{dry}",
+      "entry": "drainboard",
+      "id": "drainboard#drainboard__1"
+    },
+    {
+      "comment": "a metal piece of equipment that you turn to control the flow of water or other liquid from a pipe, especially on a sink or bathtub. The British word is tap.",
+      "entry": "faucet",
+      "id": "faucet#faucet__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} [install]{installed} under the [sink_1]{sink} that [crush_1]{crushes} [food]{food} so it will go down a [pipe_1]{pipe}",
+      "entry": "garburator",
+      "id": "garburator#garburator__1"
+    },
+    {
+      "comment": "a small round plastic or rubber object used for preventing water from flowing out of the hole in a sink or bath tub",
+      "entry": "plug",
+      "id": "plug_2#plug_2__5"
+    },
+    {
+      "comment": "a drain in a sink or bathtub",
+      "entry": "plughole",
+      "id": "plughole#plughole__1"
+    },
+    {
+      "comment": "a faucet on an outdoor water pipe",
+      "entry": "spigot",
+      "id": "spigot#spigot__1"
+    },
+    {
+      "comment": "an [object_1]{object} [used]{used} for [control_2]{controlling} how much [liquid_1]{liquid} or [gas_1]{gas} comes out of a [pipe_1]{pipe} or [container]{container}",
+      "entry": "tap",
+      "id": "tap_2#tap_2__4"
+    },
+    {
+      "comment": "a [faucet]{faucet} that [control_1]{controls} the [water_1]{water} coming out of a [pipe_1]{pipe}",
+      "entry": "tap",
+      "id": "tap_2#tap_2__6"
+    }
+  ],
+  "thesaurus": "Parts of baths and basins",
+  "type": "Related words"
+}

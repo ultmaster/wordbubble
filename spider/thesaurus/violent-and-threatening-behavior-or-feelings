@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[violent]{violent} [behavior]{behavior}",
+      "entry": "violence",
+      "id": "violence#violence__1"
+    },
+    {
+      "comment": "[violence]{violence} or [extreme_1]{extreme} [force_1]{force}",
+      "entry": "ferocity",
+      "id": "ferocity#ferocity__1"
+    },
+    {
+      "comment": "[behavior]{behavior} that is [cruel]{cruel} and [violent]{violent}",
+      "entry": "savagery",
+      "id": "savagery#savagery__1"
+    },
+    {
+      "comment": "the use of [force_1]{force} or [threat]{threats} to [make_1]{make} someone do something",
+      "entry": "coercion",
+      "id": "coercion#coercion__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [violent]{violent} and [cruel]{cruel} [behavior]{behavior}",
+      "entry": "barbarism",
+      "id": "barbarism#barbarism__1"
+    },
+    {
+      "comment": "[violent]{violent} [behavior]{behavior}",
+      "entry": "thuggery",
+      "id": "thuggery#thuggery__1"
+    },
+    {
+      "comment": "[violent]{violent} [behavior]{behavior} by a [driver]{driver} toward another [driver]{driver}",
+      "entry": "road rage",
+      "id": "road-rage#road-rage__1"
+    },
+    {
+      "comment": "angry violent behavior in a public situation. For example, road rage is violent behavior by drivers",
+      "entry": "rage",
+      "id": "rage_1#rage_1__3"
+    },
+    {
+      "comment": "a [threat]{threat} of [violence]{violence} or [military]{military} [action_1]{action}",
+      "entry": "saber-rattling",
+      "id": "saber-rattling#saber-rattling__1"
+    }
+  ],
+  "thesaurus": "Violent and threatening behavior or feelings",
+  "type": "Synonyms"
+}

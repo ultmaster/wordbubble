@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [chemical_1]{chemical} [substance]{substance} that is [used]{used} to [make_1]{make} [plastic_1]{plastic}, [fiber]{fibers} for [cloth]{cloth}, etc.",
+      "entry": "acetate",
+      "id": "acetate#acetate__1"
+    },
+    {
+      "comment": "a [substance]{substance} made by a [chemical_1]{chemical} [process_1]{process}, [used]{used} for [making]{making} many [different]{different} [thing]{things}, for [example]{example} [fiber]{fibers} for [cloth]{cloth} and [paint_1]{paint}",
+      "entry": "acrylic",
+      "id": "acrylic#acrylic__1"
+    },
+    {
+      "comment": "a thick [clear_1]{clear} [liquid_1]{liquid} made from [fat_1]{fat} that is [used]{used} for [making]{making} many [thing]{things} [including]{including} [soap_1]{soap} and [bomb_1]{bombs}",
+      "entry": "glycerine",
+      "id": "glycerine#glycerine__1"
+    },
+    {
+      "comment": "a substance used to make dyes, explosives, and mothballs",
+      "entry": "naphthalene",
+      "id": "naphthalene#naphthalene__1"
+    },
+    {
+      "comment": "a very [common_1]{common} [light_1]{light}, [strong]{strong} [substance]{substance} [produce_1]{produced} by a [chemical_1]{chemical} [process_1]{process} and [used]{used} for [making]{making} many [different]{different} [thing]{things}",
+      "entry": "plastic",
+      "id": "plastic_1#plastic_1__1"
+    },
+    {
+      "comment": "a [strong]{strong} [artificial]{artificial} [substance]{substance} [used]{used} for [making]{making} [fiber]{fibers} for [rope_1]{ropes}, [carpet_1]{carpets}, etc.",
+      "entry": "polypropylene",
+      "id": "polypropylene#polypropylene__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [white_1]{white} or [clear_1]{clear} [substance]{substance} that [exist]{exists} in [sand_1]{sand} and other [material_1]{materials}, [used]{used} for [making]{making} [glass]{glass}",
+      "entry": "silica",
+      "id": "silica#silica__1"
+    },
+    {
+      "comment": "a [chemical_1]{chemical} [element]{element} that [combine_1]{combines} with other [substance]{substances}, [used]{used} [especially]{especially} for [making]{making} [silicon]{silicon} [chip_1]{chips}",
+      "entry": "silicon",
+      "id": "silicon#silicon__1"
+    },
+    {
+      "comment": "a substance formed by a chemical process from silicon and other substances, used for making many different things",
+      "entry": "silicone",
+      "id": "silicone#silicone__1"
+    }
+  ],
+  "thesaurus": "Chemical substances used for making something",
+  "type": "Related words"
+}

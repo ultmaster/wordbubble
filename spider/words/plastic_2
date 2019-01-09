@@ -1,0 +1,26 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "made of plastic",
+      "examples": [
+        "plastic [bag_1]{bags}/[bottle_1]{bottles}/[container]{containers}",
+        "[bright_1#bright_1__20]{brightly} [colored_1]{colored} plastic [toy_1]{toys}"
+      ],
+      "id": "plastic_2__1"
+    },
+    {
+      "def": "a plastic [substance]{substance} can be [bent_1]{bent} into any [shape_1]{shape} and will keep that [shape_1]{shape}",
+      "examples": [],
+      "id": "plastic_2__4"
+    },
+    {
+      "def": "[look_1]{looking} or [tasting]{tasting} [artificial]{artificial}",
+      "examples": [
+        "She [gave]{gave} him a [wide_1]{wide}, plastic [smile_1]{smile}."
+      ],
+      "id": "plastic_2__5"
+    }
+  ],
+  "word": "plastic"
+}

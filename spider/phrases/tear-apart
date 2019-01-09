@@ -1,0 +1,39 @@
+{
+  "part": "phrase",
+  "phrase": "tear apart",
+  "senses": [
+    {
+      "def": "to [damage_1]{damage} or [destroy]{destroy} something [completely]{completely} by [b-boying]{breaking} it into [piece_1]{pieces}",
+      "examples": [
+        "The [building]{building} was [torn_1]{torn} [apart]{apart} by the [explosion]{explosion}."
+      ],
+      "id": "tear-apart__1"
+    },
+    {
+      "def": "to [make_1]{make} [people_1]{people} [argue]{argue} and [damage_1]{damage} their [relationship]{relationship}",
+      "examples": [
+        "This [issue_1]{issue} is [tear_3]{tearing} their [marriage]{marriage} [apart]{apart}."
+      ],
+      "id": "tear-apart__3"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} very [sad_1]{sad}, [upset_1]{upset}, or [worried]{worried}",
+      "examples": [
+        "It [just_1]{just} [tear_1]{tears} me [apart]{apart} to see you [suffering]{suffering} [like_1]{like} this."
+      ],
+      "id": "tear-apart__5"
+    },
+    {
+      "def": "to [search_1]{search} a [room_1]{room} or [building]{building} very [thoroughly]{thoroughly}, [moving]{moving} [thing]{things} in a [careless]{careless} way that [cause_1]{causes} [damage_1]{damage}",
+      "examples": [
+        "The [police_1]{police} [tore]{tore} the [place_1]{place} [apart]{apart} [look_1]{looking} for the [money]{money}."
+      ],
+      "id": "tear-apart__7"
+    },
+    {
+      "def": "to [criticize]{criticize} someone or something very [strongly]{strongly}",
+      "examples": [],
+      "id": "tear-apart__9"
+    }
+  ]
+}

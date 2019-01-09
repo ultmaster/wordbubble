@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [curved]{curved} [roof_1]{roof} over part of a [building]{building}",
+      "entry": "canopy",
+      "id": "canopy#canopy__2"
+    },
+    {
+      "comment": "a part of a [roof_1]{roof} [shaped_1]{shaped} [like_1]{like} [half]{half} a [ball_1]{ball}, often [covered_1]{covered} in [shiny]{shiny} [metal_1]{metal}",
+      "entry": "cupola",
+      "id": "cupola#cupola__1"
+    },
+    {
+      "comment": "a [roof_1]{roof} [shaped_1]{shaped} [like_1]{like} the top [half]{half} of a [ball_1]{ball}",
+      "entry": "dome",
+      "id": "dome#dome__1"
+    },
+    {
+      "comment": "the bottom [edge_1]{edge} of a [roof_1]{roof} that [continue]{continues} out over the [wall_1]{walls}",
+      "entry": "eaves",
+      "id": "eaves#eaves__1"
+    },
+    {
+      "comment": "a [roof_1]{roof} that [slope_1]{slopes} at a [steep_1]{steeper} [angle_1]{angle} at the [lower_1]{lower} part than at the [upper_1]{upper} part",
+      "entry": "mansard",
+      "id": "mansard#mansard__1"
+    },
+    {
+      "comment": "a low [wall_1]{wall} at the [edge_1]{edge} of something [high_1]{high} such as a [bridge_1]{bridge} or a [roof_1]{roof}",
+      "entry": "parapet",
+      "id": "parapet#parapet__1"
+    },
+    {
+      "comment": "the top [outer_1]{outer} part of a [building]{building}",
+      "entry": "roof",
+      "id": "roof_1#roof_1__1"
+    },
+    {
+      "comment": "the top [outer_1]{outer} part of a [temporary]{temporary} [structure_1]{structure}",
+      "entry": "roof",
+      "id": "roof_1#roof_1__6"
+    },
+    {
+      "comment": "an [outside]{outside} [area]{area} with [plant_1]{plants} on the [flat_1]{flat} [roof_1]{roof} of a [building]{building}",
+      "entry": "roof garden",
+      "id": "roof-garden#roof-garden__1"
+    },
+    {
+      "comment": "the [outside]{outside} of the [roof_1]{roof} of a [building]{building}, [especially]{especially} when you are [look_1]{looking} at it from above",
+      "entry": "rooftop",
+      "id": "rooftop#rooftop__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [roof_1]{roof} of a [building]{building} where you can [sit]{sit} to [enjoy]{enjoy} the [sun_1]{sun}",
+      "entry": "sunroof",
+      "id": "sunroof#sunroof__2"
+    },
+    {
+      "comment": "a roof made of dried plants such as straw or reeds",
+      "entry": "thatch",
+      "id": "thatch_1#thatch_1__1"
+    },
+    {
+      "comment": "a [curved]{curved} [structure_1]{structure} that [support_1]{supports} or [form_1]{forms} a [roof_1]{roof}, [especially]{especially} in a [church]{church}",
+      "entry": "vault",
+      "id": "vault_1#vault_1__3"
+    }
+  ],
+  "thesaurus": "Roofs and parts of roofs",
+  "type": "Related words"
+}

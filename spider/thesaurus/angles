@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "an [acute]{acute} [angle_1]{angle} is less than 90 [degree]{degrees}",
+      "entry": "acute angle",
+      "id": "acute-angle#acute-angle__1"
+    },
+    {
+      "comment": "two [angle_1]{angles} that are [form_2]{formed} when one [angle_1]{angle} is [divided]{divided} into two [part_1]{parts} by a [straight_1]{straight} [line_1]{line}",
+      "entry": "adjacent angles",
+      "id": "adjacent-angles#adjacent-angles__1"
+    },
+    {
+      "comment": "the shape that is made where two straight lines join or cross each other. Angles are measured in degrees. An angle that measures 90 degrees is a right angle; if it is less than 90 degrees, it is an acute angle, and if it is more than 90 degrees, it is an obtuse angle.",
+      "entry": "angle",
+      "id": "angle_1#angle_1__1"
+    },
+    {
+      "comment": "the [shape_1]{shape} that is made where two [surface_1]{surfaces} or [object_1]{objects} [meet_1]{meet}",
+      "entry": "angle",
+      "id": "angle_1#angle_1__2"
+    },
+    {
+      "comment": "the [angle_1]{angle} of the [imaginary]{imaginary} [line_1]{line} between the [position_1]{position} of an [airplane]{airplane}, [ship_1]{ship}, etc. and the [position_1]{position} of another [object_1]{object}",
+      "entry": "azimuth",
+      "id": "azimuth#azimuth__1"
+    },
+    {
+      "comment": "an [angle_1]{angle} that is [added]{added} to another [angle_1]{angle} to form an [angle_1]{angle} of 90 [degree]{degrees}",
+      "entry": "complement",
+      "id": "complement_2#complement_2__9"
+    },
+    {
+      "comment": "two angles that together form a right angle",
+      "entry": "complementary angles",
+      "id": "complementary-angles#complementary-angles__1"
+    },
+    {
+      "comment": "the two [inside_1]{inside} [corner_1]{corner} [angle_1]{angles} [form_2]{formed} where a [straight_1]{straight} [line_1]{line} [cross_1]{crosses} two [parallel_1]{parallel} [lines]{lines}",
+      "entry": "corresponding angles",
+      "id": "corresponding-angles#corresponding-angles__1"
+    },
+    {
+      "comment": "the [place_1]{place} where something [bend_1]{bends} [inward_1]{inward}",
+      "entry": "crook",
+      "id": "crook_1#crook_1__4"
+    },
+    {
+      "comment": "a [slope_1]{slope}, or the [angle_1]{angle} of a [slope_1]{slope}",
+      "entry": "inclination",
+      "id": "inclination#inclination__7"
+    },
+    {
+      "comment": "any [angle_1]{angle} that is between 90\u00b0 and 180\u00b0",
+      "entry": "obtuse angle",
+      "id": "obtuse-angle#obtuse-angle__1"
+    },
+    {
+      "comment": "the angles opposite each other that are formed when two lines intersect  (=cross each other)",
+      "entry": "opposite angles",
+      "id": "opposite-angles#opposite-angles__1"
+    },
+    {
+      "comment": "an [angle_1]{angle} that is between 180\u00b0 and 360\u00b0",
+      "entry": "reflex angle",
+      "id": "reflex-angle#reflex-angle__1"
+    },
+    {
+      "comment": "an [angle_1]{angle} of 90\u00b0",
+      "entry": "right angle",
+      "id": "right-angle#right-angle__1"
+    },
+    {
+      "comment": "an [angle_1]{angle} of 360\u00b0",
+      "entry": "round angle",
+      "id": "round-angle#round-angle__1"
+    },
+    {
+      "comment": "an [angle_1]{angle} of 180\u00b0",
+      "entry": "straight angle",
+      "id": "straight-angle#straight-angle__1"
+    },
+    {
+      "comment": "two [angle_1]{angles} that [make_1]{make} 180\u00b0 when they are [added]{added} together",
+      "entry": "supplementary angles",
+      "id": "supplementary-angles#supplementary-angles__1"
+    },
+    {
+      "comment": "the point that is opposite the base of a triangle",
+      "entry": "vertex",
+      "id": "vertex#vertex__1"
+    }
+  ],
+  "thesaurus": "Angles",
+  "type": "Related words"
+}

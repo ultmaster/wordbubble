@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "start off",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something [begin]{begin}",
+      "examples": [
+        "We don\u2019t [want_1]{want} to [start_1]{start} off a [riot_1]{riot}."
+      ],
+      "id": "start-off__1"
+    },
+    {
+      "def": "to [begin]{begin}, [especially]{especially} in a [particular_1]{particular} way or by [doing]{doing} a [particular_1]{particular} thing",
+      "examples": [
+        "She [start_1]{started} off well, but [slow_2]{slowed} down [halfway_1]{halfway} through the [race_1]{race}.",
+        "[let_1]{Let}\u2019s [start_1]{start} off with a few [question_1]{questions} from the [audience]{audience}."
+      ],
+      "id": "start-off__3"
+    },
+    {
+      "def": "to [begin]{begin} [moving]{moving}, or to [begin]{begin} a [trip_1]{trip}",
+      "examples": [
+        "He [start_1]{started} off for the [station_1]{station} at a [brisk]{brisk} [pace_1]{pace}.",
+        "[start_1]{Starting} off on a [hill]{hill} is [really]{really} [difficult]{difficult}."
+      ],
+      "id": "start-off__6"
+    },
+    {
+      "def": "to [make_1]{make} someone [behave]{behave} in a [silly_1]{silly} or [emotional]{emotional} way about something",
+      "examples": [
+        "Take [care_1]{care} what you [say_1]{say} or you\u2019ll [start_1]{start} her off again."
+      ],
+      "id": "start-off__9"
+    }
+  ]
+}

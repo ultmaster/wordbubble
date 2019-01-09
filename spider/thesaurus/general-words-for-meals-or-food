@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [thing]{things} that [people_1]{people} or [animal_1]{animals} [eat]{eat}",
+      "entry": "food",
+      "id": "food#food__1"
+    },
+    {
+      "comment": "the [food]{food} that you [serve_1]{serve} or [eat]{eat} at one time",
+      "entry": "meal",
+      "id": "meal#meal__6"
+    },
+    {
+      "comment": "[food]{food} [cooked]{cooked} in a [particular_1]{particular} way",
+      "entry": "cooking",
+      "id": "cooking_1#cooking_1__3"
+    },
+    {
+      "comment": "[food]{food} [considered]{considered} as something that [keep_1]{keeps} you [healthy]{healthy}",
+      "entry": "nutrition",
+      "id": "nutrition#nutrition__1"
+    },
+    {
+      "comment": "[food]{food} or the [substance]{substances} in [food]{food} that are [necessary_1]{necessary} for [life]{life}, [growth]{growth}, and [health]{health}",
+      "entry": "nourishment",
+      "id": "nourishment#nourishment__1"
+    },
+    {
+      "comment": "the [food]{food} [contain]{contained} in a [dish_1]{dish}",
+      "entry": "dish",
+      "id": "dish_1#dish_1__5"
+    },
+    {
+      "comment": "[food]{food} and [drink_1]{drink}",
+      "entry": "sustenance",
+      "id": "sustenance#sustenance__1"
+    },
+    {
+      "comment": "[food]{food} and other [goods]{goods} for the [home_1]{home} that you [buy_1]{buy} [regularly]{regularly}",
+      "entry": "groceries",
+      "id": "groceries#groceries__1"
+    },
+    {
+      "comment": "the [type_1]{type} of [food]{food} that is [available]{available}, [especially]{especially} in a [restaurant]{restaurant} or [cafe]{caf\u00e9}",
+      "entry": "fare",
+      "id": "fare_1#fare_1__5"
+    },
+    {
+      "comment": "a [type_1]{type} of [food]{food}",
+      "entry": "foodstuff",
+      "id": "foodstuff#foodstuff__1"
+    }
+  ],
+  "thesaurus": "General words for meals or food",
+  "type": "Synonyms"
+}

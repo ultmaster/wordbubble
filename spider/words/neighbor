@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [lives]{lives} [near_1]{near} you",
+      "examples": [
+        "Several of our [friend_1]{friends} and [neighbor]{neighbors} [stop_1]{stopped} by over the [holiday_1]{holidays}.",
+        "my [next-door_2]{next-door} neighbor",
+        "They\u2019ve been [good_1]{good} [neighbor]{neighbors} all these [year]{years}."
+      ],
+      "id": "neighbor__1"
+    },
+    {
+      "def": "someone or something that is [close_1]{close} to a [particular_1]{particular} [person]{person}, [place_1]{place}, or thing",
+      "examples": [
+        "She [turn_1]{turned} in her [seat_1]{seat} and [whisper_1]{whispered} to her neighbor that she [thought_1]{thought} the [play_1]{play} was too long.",
+        "[turkey_1]{Turkey} and its European [neighbor]{neighbors}"
+      ],
+      "id": "neighbor__5"
+    }
+  ],
+  "word": "neighbor"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go before",
+  "senses": [
+    {
+      "def": "to be [considered]{considered} by a [judge_1]{judge}, [committee]{committee}, or other [authority]{authority} as part of an [official_1]{official} [process_1]{process}",
+      "examples": [
+        "The [case_1]{case} is [scheduled]{scheduled} to go before the [court_1]{Court} of [appeal_1]{Appeals} next [week]{week}."
+      ],
+      "id": "go-before__1"
+    },
+    {
+      "def": "to have [happen]{happened} [previously]{previously}",
+      "examples": [
+        "a [brief_1]{brief} [summary_1]{summary} of what has [gone_1]{gone} before"
+      ],
+      "id": "go-before__3"
+    }
+  ]
+}

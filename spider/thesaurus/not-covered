@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "[bare_1]{bare} [wall_1]{walls}, [surface_1]{surfaces}, etc. have no [covering]{covering} or [decoration]{decoration}",
+      "entry": "bare",
+      "id": "bare_1#bare_1__5"
+    },
+    {
+      "comment": "not [covered_1]{covered}",
+      "entry": "naked",
+      "id": "naked#naked__9"
+    },
+    {
+      "comment": "not [covered_1]{covered} or [hidden_1]{hidden} and therefore [able_1]{able} to be [seen]{seen}",
+      "entry": "exposed",
+      "id": "exposed#exposed__1"
+    },
+    {
+      "comment": "an [open_1]{open} [space_1]{space} or [area]{area} is not [covered_1]{covered} or [enclosed]{enclosed}, or [does]{does} not have many [building]{buildings}, [tree]{trees}, etc. in or on it",
+      "entry": "open",
+      "id": "open_1#open_1__19"
+    },
+    {
+      "comment": "something that is [denuded]{denuded} has had the thing that [normally]{normally} [cover_1]{covers} it [removed]{removed}",
+      "entry": "denuded",
+      "id": "denuded#denuded__1"
+    }
+  ],
+  "thesaurus": "Not covered",
+  "type": "Synonyms"
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an inherited [disease]{disease} or [quality_1]{quality} is one that is [pass_1]{passed} on through the [gene]{genes}",
+      "examples": [
+        "inherited [characteristic_1]{characteristics} such as [blood_1]{blood} [group_1]{group}"
+      ],
+      "id": "inherited__1"
+    },
+    {
+      "def": "inherited [money]{money} or [property]{property} has been [given_1]{given} to someone when the [previous_1]{previous} [owner]{owner} [die_1]{died}",
+      "examples": [
+        "inherited [wealth]{wealth}"
+      ],
+      "id": "inherited__3"
+    }
+  ],
+  "word": "inherited"
+}

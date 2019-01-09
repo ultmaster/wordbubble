@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [strong]{strong} [belief]{belief} or [opinion]{opinion} about something",
+      "examples": [
+        "She [hold_1]{holds} [deep_1]{deep} [religious]{religious} [conviction]{convictions}."
+      ],
+      "id": "conviction__1"
+    },
+    {
+      "def": "a [decision_1]{decision} by a [court_1]{court} of [law]{law} that someone is [guilty]{guilty} of a [crime_1]{crime}",
+      "examples": [
+        "The conviction of three [youth]{youths} was [later_1]{later} [quash]{quashed} by the [court_1]{Court} of [appeal_1]{Appeals}.",
+        "She has a conviction for [driving]{driving} while [intoxicated]{intoxicated}.",
+        "He has a [string_1]{string} of [previous_1]{previous} [conviction]{convictions}."
+      ],
+      "id": "conviction__3"
+    },
+    {
+      "def": "the [feeling_1]{feeling} or [appearance]{appearance} of being [confident]{confident} or very [certain_1]{certain} about something",
+      "examples": [
+        "\u201cEverything will be [fine_1]{fine},\u201d she [said_1]{said}, though without much conviction.",
+        "The [team_1]{team}\u2019s [recent]{recent} [performance]{performances} have [lack_2]{lacked} conviction."
+      ],
+      "id": "conviction__7"
+    }
+  ],
+  "word": "conviction"
+}

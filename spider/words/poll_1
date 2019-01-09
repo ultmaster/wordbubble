@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [occasion_1]{occasion} when a [lot_1]{lot} of [people_1]{people} are [ask_1]{asked} what they [feel_1]{feel} about something, [usually]{usually} by a [company]{company} [paid_1]{paid} by a [political]{political} [party_1]{party}, [television]{television} [program_1]{program}, etc.",
+      "examples": [
+        "They\u2019re [worried]{worried} about the [candidate]{candidate}\u2019s [present_1]{present} low [standing_1]{standing} in the [poll_1]{polls}.",
+        "A [recent]{recent} poll [indicate]{indicated} that most [people_1]{people} [opposed]{opposed} the [change_1]{changes}.",
+        "[accord_2]{According} to a poll [conduct_1]{conducted} last [week]{week}, 75% of the [public_1]{public} [support_1]{support} the [new]{new} [law]{law}."
+      ],
+      "id": "poll_1__1"
+    },
+    {
+      "def": "the [process_1]{process} of [vote_1]{voting} and the [count_1]{counting} of [vote_1]{votes}",
+      "examples": [
+        "[incumbent_1]{Incumbents} were the [big_1]{big} [winner]{winners} in [yesterday_1]{yesterday}\u2019s poll.",
+        "Wilson came [away_1]{away} with 64% of the poll.",
+        "The [poll_1]{polls} [close_1]{close} at ten o\u2019[clock_1]{clock}."
+      ],
+      "id": "poll_1__5"
+    }
+  ],
+  "word": "poll"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [important]{important} or [relevant]{relevant}",
+      "entry": "unimportant",
+      "id": "unimportant#unimportant__1"
+    },
+    {
+      "comment": "not very [important]{important} in [comparison]{comparison} with [people_1]{people} or [thing]{things} of the same [type_1]{type}",
+      "entry": "minor",
+      "id": "minor_1#minor_1__1"
+    },
+    {
+      "comment": "not [important]{important} or not [relevant]{relevant} to what you are [discuss]{discussing} or [doing]{doing}",
+      "entry": "irrelevant",
+      "id": "irrelevant#irrelevant__1"
+    },
+    {
+      "comment": "without any [clear_1]{clear} [purpose]{purpose} or [importance]{importance}",
+      "entry": "meaningless",
+      "id": "meaningless#meaningless__1"
+    },
+    {
+      "comment": "not [important]{important} and not [worth_1]{worth} [worrying]{worrying} about",
+      "entry": "petty",
+      "id": "petty#petty__1"
+    },
+    {
+      "comment": "not [important]{important}",
+      "entry": "inconsequential",
+      "id": "inconsequential#inconsequential__1"
+    },
+    {
+      "comment": "[ignore]{ignored}, or [unimportant]{unimportant}",
+      "entry": "unconsidered",
+      "id": "unconsidered#unconsidered__2"
+    },
+    {
+      "comment": "not [important]{important} or not [have]{having} a serious [effect_1]{effect}",
+      "entry": "superficial",
+      "id": "superficial#superficial__11"
+    },
+    {
+      "comment": "not [important]{important} in any way/not very [important]{important}",
+      "entry": "of no consequence/of little consequence",
+      "id": "of-no-consequence-of-little-consequence#of-no-consequence-of-little-consequence__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that something is [small_1]{small} or [unimportant]{unimportant}",
+      "entry": "mere",
+      "id": "mere_1#mere_1__1"
+    }
+  ],
+  "thesaurus": "Unimportant",
+  "type": "Synonyms"
+}

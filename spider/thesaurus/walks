@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} that you [make_1]{make} by [walking_1]{walking}",
+      "entry": "walk",
+      "id": "walk_2#walk_2__1"
+    },
+    {
+      "comment": "a [walk_1]{walk} that seems long and [difficult]{difficult}",
+      "entry": "trek",
+      "id": "trek_2#trek_2__1"
+    },
+    {
+      "comment": "a [slow_1]{slow} [walk_1]{walk} for [pleasure]{pleasure}",
+      "entry": "stroll",
+      "id": "stroll_2#stroll_2__1"
+    },
+    {
+      "comment": "a long [walk_1]{walk} in the [countryside]{countryside}",
+      "entry": "hike",
+      "id": "hike_1#hike_1__1"
+    },
+    {
+      "comment": "a [short_1]{short} [relaxed]{relaxed} [walk_1]{walk} without a [particular_1]{particular} [direction]{direction} or [purpose]{purpose}",
+      "entry": "wander",
+      "id": "wander_2#wander_2__1"
+    },
+    {
+      "comment": "a long [walk_1]{walk} in the [countryside]{countryside} for [enjoyment]{enjoyment}",
+      "entry": "ramble",
+      "id": "ramble_2#ramble_2__1"
+    },
+    {
+      "comment": "a long [tiring]{tiring} [walk_1]{walk}",
+      "entry": "tramp",
+      "id": "tramp_1#tramp_1__3"
+    },
+    {
+      "comment": "a [tiring]{tiring} [walk_1]{walk}, [especially]{especially} in [difficult]{difficult} [condition_1]{conditions}",
+      "entry": "trudge",
+      "id": "trudge_2#trudge_2__1"
+    },
+    {
+      "comment": "a [fast_1]{fast} [walk_1]{walk} over [difficult]{difficult} [ground_1]{ground}",
+      "entry": "yomp",
+      "id": "yomp_2#yomp_2__3"
+    }
+  ],
+  "thesaurus": "Walks",
+  "type": "Synonyms"
+}

@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "level off",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something [flat_1]{flat}",
+      "examples": [
+        "The [ground_1]{ground} will have to be [level_3]{leveled} off before we can [start_1]{start} [building]{building}."
+      ],
+      "id": "level-off__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [slope_2#slope_2__5]{sloping} or [moving]{moving} up or down",
+      "examples": [
+        "The [road]{road} [level_1]{levels} out as you get [close_1]{close} to the [coast_1]{coast}.",
+        "The [airplane]{airplane} will [level_1]{level} off at around 35,000 [feet]{feet}."
+      ],
+      "id": "level-off__3"
+    },
+    {
+      "def": "to [stop_1]{stop} becoming more or less, and [remain]{remain} the same",
+      "examples": [
+        "[oil_1]{Oil} [price_1]{prices} should [level_1]{level} out now that the war is over."
+      ],
+      "id": "level-off__6"
+    }
+  ]
+}

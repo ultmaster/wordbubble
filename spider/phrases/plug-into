@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "plug into",
+  "senses": [
+    {
+      "def": "to [connect]{connect} a [piece_1]{piece} of [equipment]{equipment} to an [electricity]{electricity} [supply_1]{supply} or to another [piece_1]{piece} of [equipment]{equipment}",
+      "examples": [
+        "First [plug_1]{plug} the [keyboard_1]{keyboard} into your computer.",
+        "The [mouse_1]{mouse} [plug_1]{plugs} into a [serial_1]{serial} [port]{port}.",
+        "[plug_1]{Plug} into computer [network_1]{networks} and you\u2019ll find a mine of [useless]{useless} [information]{information}."
+      ],
+      "id": "plug-into__1"
+    },
+    {
+      "def": "to become [connected]{connected} or [involved]{involved} with someone or something and get some [benefit_1]{benefit} from them",
+      "examples": [
+        "With this [latest]{latest} [book_1]{book}, she is [clearly]{clearly} [hope_1]{hoping} to [plug_1]{plug} into the [international_1]{international} [market_1]{market}."
+      ],
+      "id": "plug-into__7"
+    }
+  ]
+}

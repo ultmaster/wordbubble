@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} someone [conscious_1]{conscious} of a [possible_1]{possible} [problem]{problem} or [danger]{danger} so that they will not be [hurt_1]{hurt}",
+      "entry": "warn",
+      "id": "warn#warn__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone in [authority]{authority} about a [danger]{danger} or [problem]{problem} so that they can take [action_1]{action} to [deal_1]{deal} with it",
+      "entry": "alert",
+      "id": "alert_2#alert_2__1"
+    },
+    {
+      "comment": "to give someone a [warning]{warning} or [secret_1]{secret} [information]{information} about something",
+      "entry": "tip off",
+      "id": "tip-off_1#tip-off_1__1"
+    },
+    {
+      "comment": "to tell someone about a danger or problem that they need to know about or avoid. In ordinary speech, it is more usual to say that you warn someone",
+      "entry": "caution",
+      "id": "caution_2#caution_2__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} [people_1]{people} about something [dangerous]{dangerous} that is [happening_1]{happening}",
+      "entry": "sound/raise the alarm",
+      "id": "sound-raise-the-alarm#sound-raise-the-alarm__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone that they must [stop_1]{stop} [doing]{doing} something and that if they do not something [bad_1]{bad} will [happen]{happen} to them",
+      "entry": "warn off",
+      "id": "warn-off#warn-off__1"
+    },
+    {
+      "comment": "to [blow_1]{blow} a [whistle_1]{whistle} as a [warning]{warning} or to get someone\u2019s [attention]{attention}",
+      "entry": "whistle",
+      "id": "whistle_2#whistle_2__9"
+    },
+    {
+      "comment": "to [warn]{warn} someone about a [problem]{problem} or [dangerous]{dangerous} [situation]{situation} that is [likely_1]{likely} to [happen]{happen}",
+      "entry": "forewarn",
+      "id": "forewarn#forewarn__1"
+    },
+    {
+      "comment": "to [talk_1]{talk} to someone [seriously]{seriously} in [order_1]{order} to [criticize]{criticize} them or [warn]{warn} them about something, [especially]{especially} when this is [annoying]{annoying}",
+      "entry": "lecture",
+      "id": "lecture_2#lecture_2__3"
+    },
+    {
+      "comment": "to be a [sign_1]{sign} or [warning]{warning} of something that will [happen]{happen}",
+      "entry": "portend",
+      "id": "portend#portend__1"
+    }
+  ],
+  "thesaurus": "To warn someone about or against something",
+  "type": "Synonyms"
+}

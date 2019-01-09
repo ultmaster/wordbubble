@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "one of several [payment]{payments} that an amount of [money]{money} is [divided]{divided} into, so that you do not have to [pay_1]{pay} the whole amount at one time",
+      "examples": [
+        "When is the next installment due?",
+        "We [paid_1]{paid} for the [television]{television} in twelve [monthly_1]{monthly} [installment]{installments}."
+      ],
+      "id": "installment__1"
+    },
+    {
+      "def": "one of several [part_1]{parts} of a [story]{story} or [article]{article} that are [publish]{published} at [different]{different} times in a [magazine]{magazine} or [newspaper]{newspaper}",
+      "examples": [
+        "Do you [want_1]{want} to [hear]{hear} the [latest]{latest} installment in my [love_1]{love} [life]{life}?"
+      ],
+      "id": "installment__4"
+    }
+  ],
+  "word": "installment"
+}

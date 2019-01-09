@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "(all) by myself",
+  "senses": [
+    {
+      "def": "alone",
+      "examples": [
+        "I [like_1]{like} to [spend]{spend} a [little_1]{little} time by [myself]{myself} on [weekend_1]{weekends}."
+      ],
+      "id": "all-by-myself__1"
+    },
+    {
+      "def": "without [help_1]{help} from anyone else",
+      "examples": [
+        "Could you [help_1]{help} with the [preparation]{preparations}? I can\u2019t do it by [myself]{myself}.",
+        "I made the whole [quilt]{quilt} all by [myself]{myself}."
+      ],
+      "id": "all-by-myself__3"
+    }
+  ]
+}

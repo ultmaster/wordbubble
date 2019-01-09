@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "one of many [area]{areas} into which some [country]{countries} are [divided]{divided}",
+      "examples": [
+        "the Canadian [province]{provinces}"
+      ],
+      "id": "province__1"
+    },
+    {
+      "def": "a [subject_1]{subject} that someone [know_1]{knows} about or is [responsible]{responsible} for",
+      "examples": [
+        "The [family_1]{family} [finance_2]{finances} are his [wife]{wife}\u2019s province."
+      ],
+      "id": "province__3"
+    },
+    {
+      "def": "a [large_1]{large} [church]{church} [district]{district} that is the [responsibility]{responsibility} of an [archbishop]{archbishop}",
+      "examples": [],
+      "id": "province__5"
+    },
+    {
+      "def": "the [part_1]{parts} of a [country]{country} [outside]{outside} the [capital_1]{capital} [city]{city} or the [large_1]{large} [city]{cities}",
+      "examples": [],
+      "id": "province__6"
+    }
+  ],
+  "word": "province"
+}

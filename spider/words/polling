@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [act_1]{act} of [vote_1]{voting} in an [election]{election}",
+      "examples": [
+        "[polling]{Polling} [took]{took} [place_1]{place} over two [day]{days}.",
+        "polling [hour]{hours}/[irregularity]{irregularities}"
+      ],
+      "id": "polling__1"
+    },
+    {
+      "def": "the [act_1]{act} of [ask_1]{asking} [people_1]{people} how they [feel_1]{feel} about something",
+      "examples": [
+        "Our polling [indicate]{indicates} that this is a [popular]{popular} [issue_1]{issue} with [women]{women}."
+      ],
+      "id": "polling__4"
+    }
+  ],
+  "word": "polling"
+}

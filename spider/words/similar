@@ -1,0 +1,21 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[thing]{things} that are similar [share_1]{share} some [quality_1]{qualities} but are not [exactly]{exactly} the same",
+      "examples": [
+        "We have similar [hobby]{hobbies} and [interest_1]{interests}.",
+        "A [second_1]{second} [study_1]{study} [produce_1]{produced} [remarkably]{remarkably} similar [result_1]{results}.",
+        "Their [situation]{situation} is very similar to ours.",
+        "The two [men]{men} are similar in [appearance]{appearance}."
+      ],
+      "id": "similar__1"
+    },
+    {
+      "def": "in [mathematics]{mathematics}, similar [object_1]{objects} have [exactly]{exactly} the same [shape_1]{shape} but are [different]{different} [size_1]{sizes}",
+      "examples": [],
+      "id": "similar__6"
+    }
+  ],
+  "word": "similar"
+}

@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "two-[tone_1]{tone} [shoe_1]{shoes} or [clothes]{clothes} have two [color_1]{colors}",
+      "examples": [],
+      "id": "two-tone__1"
+    },
+    {
+      "def": "a two-[tone_1]{tone} [sound_1]{sound} has two [note_1]{notes}",
+      "examples": [
+        "a two-tone [car]{car} [alarm_1]{alarm}"
+      ],
+      "id": "two-tone__2"
+    }
+  ],
+  "word": "two-tone"
+}

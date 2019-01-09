@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[wanting]{wanting} to [lay_1]{lay} [egg_1]{eggs} or [sit]{sit} on them",
+      "entry": "broody",
+      "id": "broody#broody__3"
+    },
+    {
+      "comment": "a [set_1]{set} of [egg_1]{eggs} that a [chicken_1]{chicken} [produce_1]{produces} at one time, or the [chicken_1]{chickens} that come from those [egg_1]{eggs}",
+      "entry": "clutch",
+      "id": "clutch_2#clutch_2__7"
+    },
+    {
+      "comment": "the round object with a shell that a female bird produces and a baby bird develops in. The mother bird lays an egg, and later the egg hatches and the baby bird comes out",
+      "entry": "egg",
+      "id": "egg_1#egg_1__1"
+    },
+    {
+      "comment": "a small object produced by a female insect, frog, snake, etc., that a young animal comes out of",
+      "entry": "egg",
+      "id": "egg_1#egg_1__7"
+    },
+    {
+      "comment": "the [hard_1]{hard} [outside]{outside} [layer_1]{layer} of an [egg_1]{egg}",
+      "entry": "eggshell",
+      "id": "eggshell_1#eggshell_1__1"
+    },
+    {
+      "comment": "if a [bird]{bird} [incubate]{incubates} its [egg_1]{eggs}, or if they [incubate]{incubate}, it [keep_1]{keeps} them [warm_1]{warm} until the [young_1]{young} [bird]{birds} [inside_1]{inside} come out",
+      "entry": "incubate",
+      "id": "incubate#incubate__1"
+    },
+    {
+      "comment": "the amount of time that it [take_1]{takes} for [egg_1]{eggs} or [cell]{cells} to [develop]{develop}",
+      "entry": "incubation period",
+      "id": "incubation-period#incubation-period__3"
+    },
+    {
+      "comment": "if a [female_1]{female} [animal_1]{animal} such as a [bird]{bird} or [fish_1]{fish} [lay_1]{lays} an [egg_1]{egg}, it [produce_1]{produces} the [egg_1]{egg} by [push_1]{pushing} it from its body",
+      "entry": "lay",
+      "id": "lay_1#lay_1__9"
+    },
+    {
+      "comment": "a [new-laid]{new-laid} [egg_1]{egg} has [just_1]{just} come out of a [female_1]{female} [bird]{bird}\u2019s body",
+      "entry": "new-laid",
+      "id": "new-laid#new-laid__1"
+    },
+    {
+      "comment": "the eggs of a frog or fish protected by a transparent layer",
+      "entry": "spawn",
+      "id": "spawn_2#spawn_2__1"
+    }
+  ],
+  "thesaurus": "Eggs and laying eggs",
+  "type": "Related words"
+}

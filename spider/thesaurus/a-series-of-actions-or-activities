@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [set_1]{set} of [similar]{similar} [thing]{things} that [follow]{follow} one after another",
+      "entry": "series",
+      "id": "series#series__1"
+    },
+    {
+      "comment": "a [series]{series} of [action_1]{actions} that have a [particular_1]{particular} [result_1]{result}",
+      "entry": "process",
+      "id": "process_1#process_1__4"
+    },
+    {
+      "comment": "a [series]{series} of [action_1]{actions} [intended_1]{intended} to [produce_1]{produce} [political]{political} or [social_1]{social} [change_1]{change}",
+      "entry": "campaign",
+      "id": "campaign_1#campaign_1__7"
+    },
+    {
+      "comment": "an [action_1]{action} or [set_1]{set} of [action_1]{actions} that is [necessary_1]{necessary} to [achieve]{achieve} something",
+      "entry": "operation",
+      "id": "operation#operation__5"
+    },
+    {
+      "comment": "one of a [series]{series} of [meeting]{meetings}",
+      "entry": "round",
+      "id": "round_2#round_2__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [feeling_1]{feelings} or [action_1]{actions} that are [typical]{typical} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "syndrome",
+      "id": "syndrome#syndrome__3"
+    },
+    {
+      "comment": "a [series]{series} of [activity]{activities} that you do in [order_1]{order} to [achieve]{achieve} something",
+      "entry": "trail",
+      "id": "trail_1#trail_1__17"
+    },
+    {
+      "comment": "the [thing]{things} that someone has done, which give an [idea]{idea} of what they are [like_1]{like}",
+      "entry": "record",
+      "id": "record_1#record_1__9"
+    },
+    {
+      "comment": "a [series]{series} of [action_1]{actions} [intended_1]{intended} to get [people_1]{people} to [like_1]{like} and [trust_1]{trust} you so that you can [influence_1]{influence} them",
+      "entry": "charm offensive",
+      "id": "charm-offensive#charm-offensive__1"
+    }
+  ],
+  "thesaurus": "A series of actions or activities",
+  "type": "Synonyms"
+}

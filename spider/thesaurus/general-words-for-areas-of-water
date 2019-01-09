@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [large_1]{large} [area]{area} of [water_1]{water}",
+      "entry": "body of water",
+      "id": "body-of-water#body-of-water__1"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [area]{area} of [water_1]{water} [join_1]{joining} two [ocean]{oceans}",
+      "entry": "channel",
+      "id": "channel_1#channel_1__13"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} or [water_1]{water} where something is found",
+      "entry": "field",
+      "id": "field_1#field_1__10"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} or [water_1]{water} [covered_1]{covered} in a [particular_1]{particular} [substance]{substance}",
+      "entry": "field",
+      "id": "field_1#field_1__12"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} or [ocean]{ocean} where a [particular_1]{particular} thing [happen]{happens}",
+      "entry": "ground",
+      "id": "ground_1#ground_1__19"
+    },
+    {
+      "comment": "[water_1]{water} that [flow_1]{flows} or [collect_1]{collects} under the [ground_1]{ground}",
+      "entry": "groundwater",
+      "id": "groundwater#groundwater__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [area]{area} of [water_1]{water} that [continue]{continues} into the [land_1]{land} from a [lake]{lake} or [ocean]{ocean}",
+      "entry": "inlet",
+      "id": "inlet#inlet__1"
+    },
+    {
+      "comment": "an [area]{area} of [fresh_1]{fresh} [water_1]{water}, [especially]{especially} a [small_1]{small} one beside a [large_1]{larger} one",
+      "entry": "lagoon",
+      "id": "lagoon#lagoon__2"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [area]{area} of [water_1]{water} that [connect]{connects} two [large_1]{larger} and [wide_1]{wider} [area]{areas} of [water_1]{water}",
+      "entry": "narrows",
+      "id": "narrows#narrows__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [piece_1]{piece} of [land_1]{land} or [area]{area} of [water_1]{water}",
+      "entry": "neck",
+      "id": "neck_1#neck_1__8"
+    },
+    {
+      "comment": "an [area]{area} of [water_1]{water} that is [big_1]{big} enough for a [boat]{boat} or [person]{person} to move around in",
+      "entry": "open water",
+      "id": "open-water#open-water__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [area]{area} of [water_1]{water} that [connect]{connects} two [large_1]{larger} [area]{areas} of [water_1]{water}",
+      "entry": "sound",
+      "id": "sound_1#sound_1__13"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [area]{area} of [water_1]{water} that [join_1]{joins} two [large_1]{larger} [area]{areas} of [water_1]{water}",
+      "entry": "strait",
+      "id": "strait#strait__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} or [water_1]{water}",
+      "entry": "stretch",
+      "id": "stretch_2#stretch_2__1"
+    },
+    {
+      "comment": "a long [wide_1]{wide} [curved]{curved} [area]{area} of [land_1]{land} or [water_1]{water}",
+      "entry": "sweep",
+      "id": "sweep_2#sweep_2__1"
+    },
+    {
+      "comment": "the [surface_1]{surface} of a [lake]{lake} or the [ocean]{ocean}",
+      "entry": "water",
+      "id": "water_1#water_1__13"
+    },
+    {
+      "comment": "an [area]{area} of [water_1]{water} that [belong]{belongs} to a [particular_1]{particular} [place_1]{place}, [state_1]{state}, [country]{country}, etc.",
+      "entry": "waters",
+      "id": "water_1#water_1__16"
+    }
+  ],
+  "thesaurus": "General words for areas of water",
+  "type": "Related words"
+}

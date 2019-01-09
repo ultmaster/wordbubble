@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [sudden_1]{sudden} [event]{event} that [result_1]{results} in [damage_1]{damage}, [injury]{injury}, or [death]{death}",
+      "entry": "accident",
+      "id": "accident#accident__5"
+    },
+    {
+      "comment": "a [minor_1]{minor} [mistake_1]{mistake} or [accident]{accident}",
+      "entry": "mishap",
+      "id": "mishap#mishap__1"
+    },
+    {
+      "comment": "an [event]{event} that [cause_1]{causes} serious [damage_1]{damage}, or [cause_1]{causes} a [lot_1]{lot} of [people_1]{people} to [suffer]{suffer}, for [example]{example} a [flood_1]{flood} or fire",
+      "entry": "calamity",
+      "id": "calamity#calamity__1"
+    },
+    {
+      "comment": "an [event]{event} that [cause_1]{causes} a [lot_1]{lot} of [damage_1]{damage} or [make_1]{makes} a [lot_1]{lot} of [people_1]{people} [suffer]{suffer}",
+      "entry": "catastrophe",
+      "id": "catastrophe#catastrophe__1"
+    },
+    {
+      "comment": "something you do that [accidentally]{accidentally} [harm_2]{harms} you, often when you [intended_1]{intended} to [harm_1]{harm} someone else",
+      "entry": "own goal",
+      "id": "own-goal#own-goal__2"
+    },
+    {
+      "comment": "[used]{used} when a [small_1]{small} [mistake_1]{mistake} or [slight_1]{slight} [accident]{accident} has [happen]{happened}",
+      "entry": "oops",
+      "id": "oops#oops__1"
+    },
+    {
+      "comment": "[used]{used} when a [small_1]{small} [accident]{accident} [happen]{happens}, for [example]{example} when you [drop_1]{drop} something, or when someone [fall_1]{falls}",
+      "entry": "whoops",
+      "id": "whoops#whoops__1"
+    },
+    {
+      "comment": "a [mistake_1]{mistake} that [cause_1]{causes} [minor_1]{minor} [damage_1]{damage} or [harm_1]{harm}",
+      "entry": "accident",
+      "id": "accident#accident__8"
+    },
+    {
+      "comment": "something very [bad_1]{bad} that [happen]{happens} and [cause_1]{causes} a [lot_1]{lot} of [damage_1]{damage} or [kill_1]{kills} a [lot_1]{lot} of [people_1]{people}",
+      "entry": "disaster",
+      "id": "disaster#disaster__1"
+    }
+  ],
+  "thesaurus": "Accidents",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[possible_1]{possible} or [likely_1]{likely} to [succeed]{succeed}",
+      "entry": "feasible",
+      "id": "feasible#feasible__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to be [successful]{successful} or very [good_1]{good}",
+      "entry": "promising",
+      "id": "promising#promising__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to [develop]{develop}, become [successful]{successful}, or become [popular]{popular} [soon]{soon}",
+      "entry": "up-and-coming",
+      "id": "up-and-coming#up-and-coming__1"
+    },
+    {
+      "comment": "[certain_1]{certain} to be [successful]{successful}",
+      "entry": "sure-fire",
+      "id": "sure-fire#sure-fire__1"
+    },
+    {
+      "comment": "[suitable]{suitable}, or almost [certain_1]{certain} to be [successful]{successful}",
+      "entry": "likely",
+      "id": "likely_1#likely_1__6"
+    },
+    {
+      "comment": "[likely_1]{likely} to be [successful]{successful} or [happy_1]{happy}",
+      "entry": "rosy",
+      "id": "rosy#rosy__5"
+    },
+    {
+      "comment": "[certain_1]{certain} to [succeed]{succeed}",
+      "entry": "sure",
+      "id": "sure_1#sure_1__20"
+    },
+    {
+      "comment": "[likely_1]{likely} to be [successful]{successful}",
+      "entry": "bright",
+      "id": "bright#bright__16"
+    },
+    {
+      "comment": "[working]{working} well and [likely_1]{likely} to [continue]{continue} to be [successful]{successful}",
+      "entry": "healthy",
+      "id": "healthy#healthy__12"
+    },
+    {
+      "comment": "at the very [beginning]{beginning} of a [career_1]{career} in [writing]{writing}, [acting_1]{acting}, [politics]{politics}, etc. and [likely_1]{likely} to be [successful]{successful} at it",
+      "entry": "budding",
+      "id": "budding#budding__1"
+    }
+  ],
+  "thesaurus": "Likely or certain to be successful",
+  "type": "Synonyms"
+}

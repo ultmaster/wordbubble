@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the part of a [theater]{theater} where the [actor]{actors} or [musician]{musicians} [perform]{perform}",
+      "entry": "the stage",
+      "id": "stage_1#stage_1__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} for [people_1]{people} to [stand_1]{stand} on that has been [built_1]{built} so that it is [higher_1]{higher} than the [ground_1]{ground}",
+      "entry": "platform",
+      "id": "platform#platform__1"
+    },
+    {
+      "comment": "a platform in a room that you stand on to make a speech",
+      "entry": "dais",
+      "id": "dais#dais__1"
+    },
+    {
+      "comment": "a small raised area where someone stands to give a speech or conduct an orchestra",
+      "entry": "podium",
+      "id": "podium#podium__1"
+    },
+    {
+      "comment": "a [tall]{tall} [box_1]{box} with a top that [slope_1]{slopes}, [used]{used} for [rest_2]{resting} [document_1]{documents} on",
+      "entry": "podium",
+      "id": "podium#podium__3"
+    },
+    {
+      "comment": "a [tall]{tall} [piece_1]{piece} of [furniture]{furniture} with a [slope_2#slope_2__5]{sloping} [surface_1]{surface} where you put an [open_1]{open} [book_1]{book} or [document_1]{document} when you are [give_1]{giving} a [speech]{speech}",
+      "entry": "lectern",
+      "id": "lectern#lectern__1"
+    },
+    {
+      "comment": "a [box_1]{box} that someone [stand_1]{stands} on to [make_1]{make} a [speech]{speech} in [public_1]{public}",
+      "entry": "soapbox",
+      "id": "soapbox#soapbox__1"
+    },
+    {
+      "comment": "[temporary]{temporary} [structure_1]{structures} for [people_1]{people} to [stand_1]{stand} or [sit]{sit} on to [watch_1]{watch} something, [usually]{usually} made from [wooden]{wooden} [board_1]{boards}",
+      "entry": "staging",
+      "id": "staging#staging__3"
+    },
+    {
+      "comment": "a [raised]{raised} [structure_1]{structure} that [speaker]{speakers}, [performer]{performers}, etc. [stand_1]{stand} on so that they can be [seen]{seen} by an [audience]{audience}",
+      "entry": "platform",
+      "id": "platform#platform__3"
+    }
+  ],
+  "thesaurus": "Structures for speeches and performances",
+  "type": "Synonyms"
+}

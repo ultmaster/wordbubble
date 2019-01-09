@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fire off",
+  "senses": [
+    {
+      "def": "to [quickly]{quickly} [send_1]{send} a [message_1]{message} or give [instruction]{instructions}",
+      "examples": [
+        "I [sat_1]{sat} down and [fire_2]{fired} off a [letter_1]{letter} to the [newspaper]{newspaper}."
+      ],
+      "id": "fire-off__1"
+    },
+    {
+      "def": "to [shoot_1]{shoot} with a [gun_1]{gun} or other [weapon]{weapon}",
+      "examples": [
+        "The British [ship_1]{ship} [fire_2]{fired} off a few [warning]{warning} [shot_2]{shots}."
+      ],
+      "id": "fire-off__3"
+    }
+  ]
+}

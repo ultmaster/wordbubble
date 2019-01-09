@@ -1,0 +1,30 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "very [important]{important}, [necessary_1]{necessary}, or [essential_1]{essential}",
+      "examples": [
+        "He [play_1]{played} a vital [role]{role} in [setting]{setting} up the [organization]{organization}.",
+        "[skillful]{Skillful} [employee]{employees} are vital to the [success]{success} of any [company]{company}.",
+        "To be [able_1]{able} to [cope]{cope} with [change_1]{change} is vital for [survival]{survival}.",
+        "It is vital that [school_1]{schools} [teach]{teach} [student]{students} to use computer [technology]{technology}."
+      ],
+      "id": "vital__1"
+    },
+    {
+      "def": "full of [energy]{energy} and [life]{life}",
+      "examples": [
+        "He was [young_1]{young}, vital, and [handsome]{handsome}."
+      ],
+      "id": "vital__6"
+    },
+    {
+      "def": "[necessary_1]{necessary} to keep you [alive]{alive}",
+      "examples": [
+        "vital [organ]{organs}"
+      ],
+      "id": "vital__8"
+    }
+  ],
+  "word": "vital"
+}

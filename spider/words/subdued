@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[quiet_1]{quiet} and [slightly]{slightly} [sad_1]{sad} or [worried]{worried}",
+      "examples": [
+        "He [look_1]{looks} [tired]{tired} and a [little_1]{little} subdued."
+      ],
+      "id": "subdued__1"
+    },
+    {
+      "def": "not very [loud_1]{loud} or [bright_1]{bright}",
+      "examples": [
+        "subdued [noise]{noises}/[lighting]{lighting}/[color_1]{colors}"
+      ],
+      "id": "subdued__3"
+    },
+    {
+      "def": "if [business]{business} is subdued, it is not very [active]{active} or [busy_1]{busy}",
+      "examples": [
+        "[trading]{Trading} on [wall_1]{Wall} [street_1]{Street} has been very subdued [today_1]{today}."
+      ],
+      "id": "subdued__5"
+    }
+  ],
+  "word": "subdued"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to put a [person]{person} or [animal_1]{animal} in a [place_1]{place} that they cannot [leave_1]{leave}",
+      "entry": "shut in",
+      "id": "shut-in#shut-in__1"
+    },
+    {
+      "comment": "to put someone in a [place_1]{place} and not [let_1]{let} them out",
+      "entry": "imprison",
+      "id": "imprison#imprison__4"
+    },
+    {
+      "comment": "to [force_1]{force} someone to [stay_1]{stay} in a [place_1]{place} and [prevent]{prevent} them from [leave_1]{leaving}",
+      "entry": "confine",
+      "id": "confine#confine__1"
+    },
+    {
+      "comment": "to [make_1]{make} it [impossible]{impossible} for someone to get out of a [place_1]{place}",
+      "entry": "pen in",
+      "id": "pen-in#pen-in__3"
+    },
+    {
+      "comment": "to put someone in a [room_1]{room} and [lock_1]{lock} the [door_1]{door} so they cannot [leave_1]{leave}",
+      "entry": "lock in",
+      "id": "lock-in_1#lock-in_1__1"
+    },
+    {
+      "comment": "to put someone in a [place_1]{place} where they are [kept]{kept} [apart]{apart} from other [people_1]{people}",
+      "entry": "shut away",
+      "id": "shut-away#shut-away__1"
+    },
+    {
+      "comment": "to [prevent]{prevent} someone from [leave_1]{leaving} a [place_1]{place}, [especially]{especially} a [dangerous]{dangerous} [place_1]{place}",
+      "entry": "trap",
+      "id": "trap_2#trap_2__1"
+    },
+    {
+      "comment": "to [physically]{physically} [limit_1]{limit} or [control_1]{control} the [movement]{movement} of something or someone",
+      "entry": "restrict",
+      "id": "restrict#restrict__4"
+    },
+    {
+      "comment": "to [physically]{physically} [control_1]{control} the [movement]{movements} of a [person]{person} or [animal_1]{animal}",
+      "entry": "restrain",
+      "id": "restrain#restrain__3"
+    },
+    {
+      "comment": "to keep a [person]{person} or [animal_1]{animal} in [quarantine_1]{quarantine}",
+      "entry": "quarantine",
+      "id": "quarantine_2#quarantine_2__1"
+    }
+  ],
+  "thesaurus": "To put a person or animal in a place they cannot leave",
+  "type": "Synonyms"
+}

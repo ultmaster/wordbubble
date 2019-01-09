@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "soft leather made from the skin of a deer, often used for making coats and shoes",
+      "entry": "buckskin",
+      "id": "buckskin#buckskin__1"
+    },
+    {
+      "comment": "[soft]{soft} [leather]{leather} made from the [skin_1]{skin} of a [young_1]{young} [cow_1]{cow}",
+      "entry": "calfskin",
+      "id": "calfskin#calfskin__1"
+    },
+    {
+      "comment": "[soft]{soft} [leather]{leather} made from the [skin_1]{skin} of a [chamois]{chamois}, [goat_1]{goat}, or [sheep]{sheep}, [used]{used} for [cleaning]{cleaning} [thing]{things} and [making]{making} them [shine_1]{shine}",
+      "entry": "chamois",
+      "id": "chamois#chamois__2"
+    },
+    {
+      "comment": "the [skin_1]{skin} of a [cow_1]{cow}, or [leather]{leather} made from the [skin_1]{skin} of a [cow_1]{cow}",
+      "entry": "cowhide",
+      "id": "cowhide#cowhide__1"
+    },
+    {
+      "comment": "the [skin_1]{skin} of a [crocodile]{crocodile}, [used]{used} [especially]{especially} for [making]{making} [shoe_1]{shoes} and [bag_1]{bags}",
+      "entry": "crocodile",
+      "id": "crocodile#crocodile__2"
+    },
+    {
+      "comment": "the [skin_1]{skin} of a [deer]{deer}, [used]{used} for [making]{making} [thing]{things}",
+      "entry": "deerskin",
+      "id": "deerskin#deerskin__1"
+    },
+    {
+      "comment": "[leather]{leather} made from the [skin_1]{skin} of a [goat_1]{goat}",
+      "entry": "goatskin",
+      "id": "goatskin#goatskin__1"
+    },
+    {
+      "comment": "the [skin_1]{skin} of an [animal_1]{animal} such as a [cow_1]{cow} that is [used]{used} for [making]{making} [leather]{leather}",
+      "entry": "hide",
+      "id": "hide_2#hide_2__1"
+    },
+    {
+      "comment": "[leather]{leather} made from a [young_1]{young} [goat_1]{goat}\u2019s [skin_1]{skin}",
+      "entry": "kid",
+      "id": "kid_1#kid_1__9"
+    },
+    {
+      "comment": "a [strong]{strong} [material_1]{material} made from [animal_1]{animal} [skin_1]{skin} that is [used]{used} for [making]{making} [shoe_1]{shoes}, [clothes]{clothes}, [bag_1]{bags}, etc.",
+      "entry": "leathers",
+      "id": "leather#leather__1"
+    },
+    {
+      "comment": "[soft]{soft} [leather]{leather} [used]{used} [especially]{especially} for [covering]{covering} [book_1]{books}",
+      "entry": "morocco",
+      "id": "morocco_1#morocco_1__1"
+    },
+    {
+      "comment": "[leather]{leather} with a [soft]{soft} rough [surface_1]{surface}, [used]{used} [especially]{especially} for [shoe_1]{shoes}",
+      "entry": "nubuck",
+      "id": "nubuck#nubuck__1"
+    },
+    {
+      "comment": "very [shiny]{shiny} [leather]{leather}, [used]{used} for [making]{making} [bag_1]{bags} and [shoe_1]{shoes}",
+      "entry": "patent leather",
+      "id": "patent-leather#patent-leather__1"
+    },
+    {
+      "comment": "[leather]{leather} made from the [skin_1]{skin} of a [pig_1]{pig}",
+      "entry": "pigskin",
+      "id": "pigskin#pigskin__1"
+    },
+    {
+      "comment": "animal skin that has not been tanned  (=changed into leather by a chemical process)",
+      "entry": "rawhide",
+      "id": "rawhide#rawhide__1"
+    },
+    {
+      "comment": "a [chamois]{chamois}",
+      "entry": "shammy",
+      "id": "shammy#shammy__1"
+    },
+    {
+      "comment": "the [skin_1]{skin} of a [snake_1]{snake}, [used]{used} for [making]{making} [thing]{things} such as [shoe_1]{shoes} and [clothing]{clothing}",
+      "entry": "snakeskin",
+      "id": "snakeskin#snakeskin__1"
+    },
+    {
+      "comment": "[leather]{leather} with a [soft]{soft} [brushed]{brushed} [surface_1]{surface}",
+      "entry": "suede",
+      "id": "suede#suede__1"
+    }
+  ],
+  "thesaurus": "Leather and animal skin used as cloth",
+  "type": "Related words"
+}

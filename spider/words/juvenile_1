@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to [young_1]{young} [people_1]{people} who have [committed]{committed} a [crime_1]{crime} or who are [accuse]{accused} of [commit]{committing} a [crime_1]{crime}",
+      "examples": [
+        "juvenile [criminal_1]{criminals}/[offender]{offenders}",
+        "juvenile [crime_1]{crime}"
+      ],
+      "id": "juvenile_1__1"
+    },
+    {
+      "def": "[silly_1]{silly} and not [appropriate_1]{appropriate} for an [adult_1]{adult}",
+      "examples": [
+        "juvenile [diversion]{diversions} [like_1]{like} [skateboard_1]{skateboarding}"
+      ],
+      "id": "juvenile_1__5"
+    },
+    {
+      "def": "a juvenile [animal_1]{animal} or [plant_1]{plant} is [young_1]{young}",
+      "examples": [],
+      "id": "juvenile_1__7"
+    }
+  ],
+  "word": "juvenile"
+}

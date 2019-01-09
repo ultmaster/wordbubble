@@ -1,0 +1,34 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[able_1]{able} to be [obtain]{obtained}, [taken_1]{taken}, or [used]{used}",
+      "examples": [
+        "The [dish_1]{dish} is made with [ingredient]{ingredients} available in most [supermarket]{supermarkets}.",
+        "the [best_1]{best} available [equipment]{equipment}",
+        "We\u2019ll [notify]{notify} you as [soon]{soon} as [ticket_1]{tickets} become available.",
+        "Not all the [fact]{facts} are made available to us.",
+        "There is no [money]{money} available for this [project_1]{project}.",
+        "The [information]{information} is [freely]{freely} available on the [internet]{Internet}."
+      ],
+      "id": "available__1"
+    },
+    {
+      "def": "not too [busy_1]{busy} to do something",
+      "examples": [
+        "I\u2019m available next Tuesday if you [want_1]{want} to [meet_1]{meet} then.",
+        "My [professor]{professor} is always available to [talk_1]{talk} to her [student]{students}.",
+        "No one at [company]{company} [headquarters]{headquarters} was available for [comment_1]{comment}."
+      ],
+      "id": "available__8"
+    },
+    {
+      "def": "not [married]{married} or [involved]{involved} in a [romantic_1]{romantic} [relationship]{relationship} and therefore [able_1]{able} to [start_1]{start} a [new]{new} [relationship]{relationship}",
+      "examples": [
+        "Your [friend_1]{friend} is [cute]{cute}. Is he available?"
+      ],
+      "id": "available__12"
+    }
+  ],
+  "word": "available"
+}

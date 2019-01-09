@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "during the [morning_1]{morning} of the [following_1]{following} [day]{day}",
+      "entry": "in the morning",
+      "id": "in-the-morning#in-the-morning__1"
+    },
+    {
+      "comment": "[early_1]{early} in the [morning_1]{morning}",
+      "entry": "bright and early",
+      "id": "bright-and-early#bright-and-early__1"
+    },
+    {
+      "comment": "at the very [beginning]{beginning} of the [day]{day}",
+      "entry": "first thing (in the morning)",
+      "id": "first-thing-in-the-morning#first-thing-in-the-morning__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [early_1]{early} in the [morning_1]{morning}",
+      "entry": "at the crack of dawn",
+      "id": "at-the-crack-of-dawn#at-the-crack-of-dawn__1"
+    },
+    {
+      "comment": "if it is [light_1]{light}, you can see because it is [day]{day} and not [night_1]{night}",
+      "entry": "light",
+      "id": "light_2#light_2__3"
+    },
+    {
+      "comment": "[happening_1]{happening} at [lunchtime]{lunchtime}",
+      "entry": "lunchtime",
+      "id": "lunchtime#lunchtime__4"
+    },
+    {
+      "comment": "before it becomes [night_1]{night}",
+      "entry": "before dark",
+      "id": "before-dark#before-dark__1"
+    },
+    {
+      "comment": "during the night/day",
+      "entry": "by night/day",
+      "id": "by-night-day#by-night-day__1"
+    },
+    {
+      "comment": "in the middle of the day. A more usual word is midday",
+      "entry": "noonday",
+      "id": "noonday#noonday__1"
+    },
+    {
+      "comment": "done [just_1]{just} after [eat]{eating} a [meal]{meal}",
+      "entry": "post-prandial",
+      "id": "post-prandial#post-prandial__1"
+    }
+  ],
+  "thesaurus": "Happening in the morning or daytime",
+  "type": "Synonyms"
+}

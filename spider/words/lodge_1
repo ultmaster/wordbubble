@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to become [firm_1#firm_1__28]{firmly} [stuck_1]{stuck} somewhere, [usually]{usually} [accidentally]{accidentally}",
+      "examples": [
+        "A [piece_1]{piece} of [meat]{meat} [lodge_1]{lodged} in his [throat]{throat}.",
+        "The [bullet]{bullet} is still [lodge_1]{lodged} in her [brain_1]{brain}."
+      ],
+      "id": "lodge_1__1"
+    },
+    {
+      "def": "to [formally]{formally} [make_1]{make} something such as a [complaint]{complaint} or a [claim_1]{claim}",
+      "examples": [
+        "She [lodge_1]{lodged} a [complaint]{complaint} with the [city]{city} [council]{council}.",
+        "An [appeal_1]{appeal} has been [lodge_1]{lodged} against the [court_1]{court}\u2019s [decision_1]{decision}."
+      ],
+      "id": "lodge_1__4"
+    },
+    {
+      "def": "to give something [valuable]{valuable} to someone so that they can keep it [safe_1]{safe}",
+      "examples": [
+        "The [money]{money} had been [lodge_1]{lodged} with a Swiss [bank_1]{bank}."
+      ],
+      "id": "lodge_1__7"
+    },
+    {
+      "def": "to [live_1]{live} somewhere [temporarily]{temporarily}, [usually]{usually} [pay_1]{paying} [rent_1]{rent} to [live_1]{live} in someone else\u2019s [house_1]{house}, or to [provide]{provide} someone with a [place_1]{place} to [live_1]{live}",
+      "examples": [],
+      "id": "lodge_1__9"
+    }
+  ],
+  "word": "lodge"
+}

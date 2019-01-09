@@ -1,0 +1,151 @@
+{
+  "entries": [
+    {
+      "comment": "if a [piece_1]{piece} of [equipment]{equipment} [break_1]{breaks}, or if you [break_1]{break} it, it [stop_1]{stops} [working]{working} [correctly]{correctly} because a part of it is [damage_2]{damaged}",
+      "entry": "break",
+      "id": "break_1#break_1__10"
+    },
+    {
+      "comment": "to cause a [mobile_1]{mobile} [device]{device} such as a [phone_1]{phone} or a [tablet]{tablet} to [stop_1]{stop} [working]{working} by [update_1]{updating} or [install]{installing} [software]{software} on it",
+      "entry": "brick",
+      "id": "brick_2#brick_2__1"
+    },
+    {
+      "comment": "to take [part_1]{parts} of something, for [example]{example} [part_1]{parts} from a [machine_1]{machine}, in [order_1]{order} to [make_1]{make} something else",
+      "entry": "cannibalize",
+      "id": "cannibalize#cannibalize__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} the [supply_1]{supply} of something, or to [stop_1]{stop} something [working]{working}",
+      "entry": "cut",
+      "id": "cut_1#cut_1__29"
+    },
+    {
+      "comment": "to prevent something such as a bomb or an alarm from being able to work",
+      "entry": "deactivate",
+      "id": "deactivate#deactivate__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} from [working]{working} [properly]{properly}",
+      "entry": "disable",
+      "id": "disable#disable__3"
+    },
+    {
+      "comment": "if part of a [machine_1]{machine} [disengage]{disengages}, or if you [disengage]{disengage} it, it is no [long_1]{longer} [connected]{connected} to the [main_1]{main} part of the [machine_1]{machine}",
+      "entry": "disengage",
+      "id": "disengage#disengage__1"
+    },
+    {
+      "comment": "to [switch_1]{switch} a [bright_1]{bright} [light_1]{light} on, or on and off, [especially]{especially} as a [signal_1]{signal}",
+      "entry": "flash",
+      "id": "flash_1#flash_1__5"
+    },
+    {
+      "comment": "to move a [switch_1]{switch} in [order_1]{order} to [turn_1]{turn} something such as a [light_1]{light} or [machine_1]{machine} on or off",
+      "entry": "flick",
+      "id": "flick_1#flick_1__9"
+    },
+    {
+      "comment": "to [switch_1]{switch} a [light_1]{light}, [machine_1]{machine}, etc. on or off",
+      "entry": "flip a switch",
+      "id": "flip-a-switch#flip-a-switch__1"
+    },
+    {
+      "comment": "to [switch_1]{switch} off a [light_1]{light}, [machine_1]{machine}, etc.",
+      "entry": "flip off",
+      "id": "flip-off#flip-off__3"
+    },
+    {
+      "comment": "to [stop_1]{stop} something from [working]{working}",
+      "entry": "immobilize",
+      "id": "immobilize#immobilize__3"
+    },
+    {
+      "comment": "to [make_1]{make} someone or something [unable]{unable} to [live_1]{live} or [work_1]{work} [normally]{normally}",
+      "entry": "incapacitate",
+      "id": "incapacitate#incapacitate__1"
+    },
+    {
+      "comment": "to [block_1]{block} something so that it [stop_1]{stops} [working]{working} or [moving]{moving}",
+      "entry": "jam",
+      "id": "jam_2#jam_2__11"
+    },
+    {
+      "comment": "to [switch_1]{switch} [light_1]{lights} off",
+      "entry": "kill",
+      "id": "kill_1#kill_1__10"
+    },
+    {
+      "comment": "to [make_1]{make} a CD, DVD, [game_1]{game}, etc. [stop_1]{stop} for a [short_1]{short} time by [pressing]{pressing} a [button_1]{button}",
+      "entry": "pause",
+      "id": "pause_1#pause_1__6"
+    },
+    {
+      "comment": "to [switch_1]{switch} off a [light_1]{light}",
+      "entry": "put out",
+      "id": "put-out_1#put-out_1__4"
+    },
+    {
+      "comment": "to [stop_1]{stop} something from [working]{working} as it should",
+      "entry": "put/throw something out of gear",
+      "id": "put-throw-something-out-of-gear#put-throw-something-out-of-gear__1"
+    },
+    {
+      "comment": "to [remove]{remove} [machine_1]{machines} or [equipment]{equipment} from a [place_1]{place} because they are [old]{old} and no [long_1]{longer} [useful]{useful}",
+      "entry": "retire",
+      "id": "retire#retire__14"
+    },
+    {
+      "comment": "to take an [old]{old} [machine_1]{machine} or [vehicle]{vehicle} [apart]{apart} and [throw_1]{throw} [away_1]{away} all the [part_1]{parts} that cannot be [used]{used}",
+      "entry": "scrap",
+      "id": "scrap_2#scrap_2__6"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or computer [shut_1]{shuts} down, or if someone [shut_1]{shuts} it down, it [stop_1]{stops} [operate]{operating}",
+      "entry": "shut down",
+      "id": "shut-down#shut-down__2"
+    },
+    {
+      "comment": "if a [machine_1]{machine} [shut_1]{shuts} off, or if someone [shut_1]{shuts} it off, it [stop_1]{stops} [working]{working}",
+      "entry": "shut off",
+      "id": "shut-off#shut-off__1"
+    },
+    {
+      "comment": "to no [long_1]{longer} [work_1]{work}, or to cause something to no [long_1]{longer} [work_1]{work}",
+      "entry": "stop",
+      "id": "stop_1#stop_1__26"
+    },
+    {
+      "comment": "if you [switch_1]{switch} off something such as a [light_1]{light} or a [machine_1]{machine}, or if it [switch_1]{switches} off, it [stop_1]{stops} [working]{working}",
+      "entry": "switch off",
+      "id": "switch-off#switch-off__1"
+    },
+    {
+      "comment": "if you [throw_1]{throw} a [switch_1]{switch}, [handle_1]{handle}, etc., you move it up or down, for [example]{example} in [order_1]{order} to [start_1]{start} or [stop_1]{stop} a [machine_1]{machine}",
+      "entry": "throw",
+      "id": "throw_1#throw_1__23"
+    },
+    {
+      "comment": "to [make_1]{make} a [switch_1]{switch} go on or off, [especially]{especially} by [accident]{accident}",
+      "entry": "trip",
+      "id": "trip_2#trip_2__8"
+    },
+    {
+      "comment": "to [stop_1]{stop} a [piece_1]{piece} of [equipment]{equipment} [working]{working} [temporarily]{temporarily} by [pressing]{pressing} a [button_1]{button} or by [moving]{moving} a [switch_1]{switch}",
+      "entry": "turn off",
+      "id": "turn-off_1#turn-off_1__1"
+    },
+    {
+      "comment": "to stop using a supply of water, gas, or electricity by turning a faucet, pressing a button, or moving a switch",
+      "entry": "turn off",
+      "id": "turn-off_1#turn-off_1__5"
+    },
+    {
+      "comment": "to [stop_1]{stop} [use_1]{using} a [light_1]{light} by [pressing]{pressing} a [button_1]{button} or [moving]{moving} a [switch_1]{switch}",
+      "entry": "turn out",
+      "id": "turn-out#turn-out__9"
+    }
+  ],
+  "thesaurus": "To make a machine or piece of machinery stop working",
+  "type": "Related words"
+}

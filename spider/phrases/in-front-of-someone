@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "in front of someone",
+  "senses": [
+    {
+      "def": "if something is in front of you, it is in a [position_1]{position} where you can see it if you [look_1]{look} [forward_1]{forward}",
+      "examples": [
+        "In front of her, the [highway]{highway} [stretched]{stretched} for [mile]{miles}."
+      ],
+      "id": "in-front-of-someone__1"
+    },
+    {
+      "def": "in a [situation]{situation} where someone is there with you",
+      "examples": [
+        "I would never [say_1]{say} this in front of my [mother_1]{mother}."
+      ],
+      "id": "in-front-of-someone__3"
+    },
+    {
+      "def": "in a [situation]{situation} where someone is [watch_1]{watching} you do something",
+      "examples": [
+        "The [game_1]{game} [took]{took} [place_1]{place} in front of a [crowd_1]{crowd} of 60,000 [people_1]{people}."
+      ],
+      "id": "in-front-of-someone__5"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} what is [going_1]{going} to [happen]{happen} to you in the [future_1]{future}",
+      "examples": [
+        "I [think_1]{think} she\u2019s [got_1]{got} a [brilliant]{brilliant} [career_1]{career} in front of her."
+      ],
+      "id": "in-front-of-someone__7"
+    }
+  ]
+}

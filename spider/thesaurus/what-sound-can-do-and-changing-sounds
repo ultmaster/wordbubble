@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [sound_1]{sounds} [loud_1]{louder}",
+      "entry": "amplify",
+      "id": "amplify#amplify__1"
+    },
+    {
+      "comment": "if a [sound_1]{sound} [reverberate]{reverberates}, it is [repeated]{repeated} many times as it [hit_1]{hits} two [opposite_1]{opposite} [surface_1]{surfaces}",
+      "entry": "reverberate",
+      "id": "reverberate#reverberate__1"
+    },
+    {
+      "comment": "if a [sound_1]{sound} [fade]{fades}, it [gradually]{gradually} becomes [quiet_1]{quieter} until you cannot [hear]{hear} it any more",
+      "entry": "fade",
+      "id": "fade#fade__7"
+    },
+    {
+      "comment": "if a [building]{building}, [space_1]{space}, or [room_1]{room} [echo_1]{echoes}, [noise]{noises} are [repeated]{repeated} there because it is [large_1]{large} and empty",
+      "entry": "echo",
+      "id": "echo_1#echo_1__4"
+    },
+    {
+      "comment": "if a [sound_1]{sound} [ring_1]{rings} in a [place_1]{place}, it is [loud_1]{loud} and you can [hear]{hear} it [clearly]{clearly}",
+      "entry": "ring",
+      "id": "ring_1#ring_1__11"
+    },
+    {
+      "comment": "if a [sound_1]{sound} [rise_1]{rises}, you can [start_1]{start} to [hear]{hear} it or it [get]{gets} [loud_1]{louder}",
+      "entry": "rise",
+      "id": "rise_1#rise_1__29"
+    },
+    {
+      "comment": "if a [sound_1]{sound} [deepen]{deepens}, or if someone [deepen]{deepens} it, it becomes [lower_1]{lower}",
+      "entry": "deepen",
+      "id": "deepen#deepen__13"
+    },
+    {
+      "comment": "to become [gradually]{gradually} [loud_1]{louder}",
+      "entry": "swell",
+      "id": "swell_1#swell_1__10"
+    },
+    {
+      "comment": "if a [noise]{noise} [deafen]{deafens} you, you cannot [hear]{hear} anything else because it is so [loud_1]{loud}",
+      "entry": "deafen",
+      "id": "deafen#deafen__1"
+    },
+    {
+      "comment": "to [start_1]{start} [making]{making} a [noise]{noise} as a [signal_1]{signal} or [warning]{warning}",
+      "entry": "go off",
+      "id": "go-off#go-off__3"
+    }
+  ],
+  "thesaurus": "What sound can do and changing sounds",
+  "type": "Synonyms"
+}

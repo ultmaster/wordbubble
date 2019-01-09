@@ -1,0 +1,641 @@
+{
+  "entries": [
+    {
+      "comment": "a [sudden_1]{sudden} [failure]{failure} of a computer [program_1]{program}",
+      "entry": "ABEND",
+      "id": "abend#abend__1"
+    },
+    {
+      "comment": "the time that it [take_1]{takes} for a computer [program_1]{program} to find a [piece_1]{piece} of [information]{information} and [make_1]{make} it [available]{available}",
+      "entry": "access time",
+      "id": "access-time#access-time__1"
+    },
+    {
+      "comment": "an electronic process that changes an analog signal to a digital signal",
+      "entry": "A-D conversion",
+      "id": "a-d-conversion#a-d-conversion__1"
+    },
+    {
+      "comment": "[artificial]{artificial} [intelligence]{intelligence}",
+      "entry": "AI",
+      "id": "ai#ai__1"
+    },
+    {
+      "comment": "a first [test_1]{test} by a [company]{company} of its [new]{new} computer [equipment]{equipment} or [software]{software}",
+      "entry": "alpha test",
+      "id": "alpha-test#alpha-test__1"
+    },
+    {
+      "comment": "the use of computer [technology]{technology} to [make_1]{make} [computer]{computers} and other [machine_1]{machines} [think_1]{think} and do [thing]{things} in the way that [people_1]{people} can",
+      "entry": "artificial intelligence",
+      "id": "artificial-intelligence#artificial-intelligence__1"
+    },
+    {
+      "comment": "the [technology]{technology} of [put]{putting} [image_1]{images} or [information]{information} [produce_1]{produced} by a computer on top of a [real_1]{real} [view_1]{view}, [image_1]{image}, [video_1]{video}, etc. so that the [user]{user} can see both at the same time",
+      "entry": "augmented reality",
+      "id": "augmented-reality#augmented-reality__1"
+    },
+    {
+      "comment": "a system that [keep_1]{keeps} computer [information]{information} [safe_1]{safe} by [check_1]{checking} who the [user]{user} is and [check_1]{checking} that the [information]{information} has not been [changed]{changed}",
+      "entry": "authentication",
+      "id": "authentication#authentication__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [create]{creating} [document_1]{documents} and [program_1]{programs} on a computer [use_1]{using} [special_1]{special} [software]{software}",
+      "entry": "authoring",
+      "id": "authoring#authoring__1"
+    },
+    {
+      "comment": "[process_1]{processes} that [continue]{continue} while the [user]{user} is [working]{working} with another [program_1]{program}",
+      "entry": "background processing",
+      "id": "background-processing#background-processing__1"
+    },
+    {
+      "comment": "a [series]{series} of [job_1]{jobs} that a computer [does]{does} as a [set_1]{set}",
+      "entry": "batch",
+      "id": "batch#batch__7"
+    },
+    {
+      "comment": "a [process_1]{process} in which a computer [run_1]{runs} a [series]{series} of [program_1]{programs} without the [user]{user} [have]{having} to do anything after the [process_1]{process} has [start_1]{started}",
+      "entry": "batch processing",
+      "id": "batch-processing#batch-processing__1"
+    },
+    {
+      "comment": "a [test_1]{test} in which a [new]{new} computer [product]{product} is [given_1]{given} [free_1]{free} to [customer]{customers} to use so that they can find [mistake_1]{mistakes}",
+      "entry": "beta test",
+      "id": "beta-test#beta-test__1"
+    },
+    {
+      "comment": "a [final_1]{final} [test_1]{test} for a [piece_1]{piece} of [software]{software} in which it is [used]{used} [continuous#continuous__6]{continuously} to [check_1]{check} for [problem]{problems}",
+      "entry": "burn-in",
+      "id": "burn-in_2#burn-in_2__1"
+    },
+    {
+      "comment": "[bring]{bring} your own [device]{device}: the [practice_1]{practice} of [allow]{allowing} [employee]{employees} or [student]{students} to [bring]{bring} their own [computing]{computing} [device]{devices} to [work_1]{work}, [college]{college}, etc and use them on the [organization]{organization}\u2019s [network_1]{network}",
+      "entry": "BYOD",
+      "id": "byod#byod__1"
+    },
+    {
+      "comment": "computer-aided [design_1]{design}: the use of [computer]{computers} to [design_1]{design} [thing]{things} such as [vehicle]{vehicles} and [building]{buildings}",
+      "entry": "CAD",
+      "id": "cad_2#cad_2__1"
+    },
+    {
+      "comment": "computer-aided [design_1]{design} and computer-aided [manufacturing]{manufacturing}: the use of [computer]{computers} to [design_1]{design} and [make_1]{make} [machine_1]{machines}, [equipment]{equipment}, and other [product]{products}",
+      "entry": "CAD/CAM",
+      "id": "cad-cam#cad-cam__1"
+    },
+    {
+      "comment": "computer-aided [manufacturing]{manufacturing}: the use of [computer]{computers} to [make_1]{make} [machine_1]{machines}, [equipment]{equipment}, and other [product]{products}",
+      "entry": "CAM",
+      "id": "cam_2#cam_2__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [put]{putting} [information]{information} or [picture_1]{pictures} into a form that can be [used]{used} by a computer",
+      "entry": "capture",
+      "id": "capture_2#capture_2__7"
+    },
+    {
+      "comment": "a process by which a computer recognizes letters, numbers, or symbols and turns them into a digital form that a computer can use",
+      "entry": "character recognition",
+      "id": "character-recognition#character-recognition__1"
+    },
+    {
+      "comment": "a way of delivering data to any digital device, anywhere and at any time",
+      "entry": "the cloud",
+      "id": "the-cloud#the-cloud__1"
+    },
+    {
+      "comment": "the use of computer [program_1]{programs} that are on the [internet]{Internet} rather than on your own computer",
+      "entry": "cloud computing",
+      "id": "cloud-computing#cloud-computing__1"
+    },
+    {
+      "comment": "a [method]{method} for [reduce]{reducing} the [size_1]{size} of a computer [file_1]{file}, for [example]{example} so that it [take_1]{takes} less [space_1]{space} to [store_1]{store} on a computer, or less time to [send_1]{send} over the [internet]{Internet}",
+      "entry": "compression",
+      "id": "compression#compression__2"
+    },
+    {
+      "comment": "[cad_1]{CAD}",
+      "entry": "computer-aided design",
+      "id": "computer-aided-design#computer-aided-design__1"
+    },
+    {
+      "comment": "CAM",
+      "entry": "computer-aided manufacturing",
+      "id": "computer-aided-manufacturing#computer-aided-manufacturing__1"
+    },
+    {
+      "comment": "[picture_1]{pictures} that are made [use_1]{using} a computer",
+      "entry": "computer graphics",
+      "id": "computer-graphics#computer-graphics__1"
+    },
+    {
+      "comment": "the use of computer [image_1]{images} to [help_1]{help} you [solve]{solve} [technical]{technical} [problem]{problems}",
+      "entry": "computer modeling",
+      "id": "computer-modeling#computer-modeling__1"
+    },
+    {
+      "comment": "the activity or skill of using computers or programming computers",
+      "entry": "computing",
+      "id": "computing#computing__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of [computer]{computers} and other [type_1]{types} of [electronic]{electronic} [equipment]{equipment} to [connect]{connect} [successful#successful__11]{successfully} with other [computer]{computers} or [program_1]{programs}",
+      "entry": "connectivity",
+      "id": "connectivity#connectivity__1"
+    },
+    {
+      "comment": "a way of [stop_1]{stopping} [people_1]{people} from [copy_2]{copying} computer [software]{software} without [get]{getting} [permission]{permission} from the [person]{person} who [wrote]{wrote} it",
+      "entry": "copy protection",
+      "id": "copy-protection#copy-protection__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a computer or a computer [program_1]{program} [suddenly]{suddenly} [stop_1]{stops} [working]{working}",
+      "entry": "crash",
+      "id": "crash_2#crash_2__5"
+    },
+    {
+      "comment": "the [process_1]{process} of [collect_1]{collecting} [data]{data} and [put]{putting} it into a computer by [electronic]{electronic} [method]{methods}",
+      "entry": "data capture",
+      "id": "data-capture#data-capture__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [change_1]{changing} [information]{information} into a [small_1]{smaller} form that can be [store_2]{stored} more [easily]{easily} or [sent]{sent} more [quickly]{quickly}",
+      "entry": "data compression",
+      "id": "data-compression#data-compression__1"
+    },
+    {
+      "comment": "the process of searching a database using special software in order to find out information, for example what type of people buy a product. It is often used by companies as a way of trying to increase sales.",
+      "entry": "data mining",
+      "id": "data-mining#data-mining__1"
+    },
+    {
+      "comment": "the [operation]{operations} [perform]{performed} by a computer in [order_1]{order} to [store_1]{store}, [organize]{organize}, or find [information]{information}",
+      "entry": "data processing",
+      "id": "data-processing#data-processing__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [decompress]{decompressing} a computer [file_1]{file}",
+      "entry": "decompression",
+      "id": "decompression#decompression__3"
+    },
+    {
+      "comment": "the way that something will [appear]{appear} or be done if you [make_1]{make} no other [choice_1]{choice}, [especially]{especially} on a computer",
+      "entry": "default",
+      "id": "default_1#default_1__1"
+    },
+    {
+      "comment": "the process of deleting something",
+      "entry": "deletion",
+      "id": "deletion#deletion__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [providing]{providing} [information]{information} through a computer",
+      "entry": "delivery",
+      "id": "delivery#delivery__12"
+    },
+    {
+      "comment": "the [ability_1]{ability} to get [information]{information} [directly_1]{directly} from the [place_1]{place} on a computer where it is [store_2]{stored}, without [have]{having} to go through the [information]{information} that [go_1]{goes} before it",
+      "entry": "direct access",
+      "id": "direct-access#direct-access__1"
+    },
+    {
+      "comment": "a [fast_1]{fast} [permanent_1]{permanent} [connection]{connection} between a computer and a system such as the [internet]{Internet}",
+      "entry": "direct connection",
+      "id": "direct-connection#direct-connection__1"
+    },
+    {
+      "comment": "a way of making more space available on a computer by compressing a file when you save it and changing it back to its original form when you open it again",
+      "entry": "disk compression",
+      "id": "disk-compression#disk-compression__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [create]{creating} [new]{new} [color_1]{colors} on a computer [screen_1]{screen} by [change_1]{changing} the [pattern_1]{patterns} of the [small_1]{small} [spot_1]{spots} that [make_1]{make} up the [color_1]{colors}",
+      "entry": "dithering",
+      "id": "dithering#dithering__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [download_1]{downloading} [information]{information} to your computer",
+      "entry": "download",
+      "id": "download_2#download_2__1"
+    },
+    {
+      "comment": "[data]{data} [process_2#process_2__10]{processing}: the use of a computer to [store_1]{store} or [make_1]{make} [change_1]{changes} to [information]{information}",
+      "entry": "DP",
+      "id": "dp#dp__1"
+    },
+    {
+      "comment": "the process of copying information stored inside a computer to another part of the same computer or onto something such as a disk",
+      "entry": "dump",
+      "id": "dump_2#dump_2__5"
+    },
+    {
+      "comment": "[electronic]{electronic} [data]{data} [capture_1]{capture}: the [process_1]{process} of [collect_1]{collecting} [information]{information} [use_1]{using} a computer",
+      "entry": "EDC",
+      "id": "edc#edc__1"
+    },
+    {
+      "comment": "electronic data interchange: the movement of information between computers in different companies using a network, for example the Internet",
+      "entry": "EDI",
+      "id": "edi#edi__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [use_1]{using} [special_1]{special} [software]{software} or [equipment]{equipment} to find [problem]{problems} in [information]{information} that someone [put]{puts} into a computer and [try_1]{tries} to [send_1]{send} somewhere",
+      "entry": "error detection",
+      "id": "error-detection#error-detection__1"
+    },
+    {
+      "comment": "a [signal_1]{signal} for a computer to [stop_1]{stop} what it is [doing]{doing}, [sent]{sent} because of a [fault_1]{fault} in [software]{software} or [equipment]{equipment}",
+      "entry": "error interrupt",
+      "id": "error-interrupt#error-interrupt__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of [software]{software} or [equipment]{equipment} to [continue]{continue} to [run_1]{run} after there has been a [problem]{problem}",
+      "entry": "error recovery",
+      "id": "error-recovery#error-recovery__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} a computer use a [program_1]{program} or [carry_1]{carry} out an [instruction]{instruction}",
+      "entry": "execution",
+      "id": "execution#execution__8"
+    },
+    {
+      "comment": "the [purpose]{purpose} of a computer [program_1]{program} or [piece_1]{piece} of computer [equipment]{equipment}",
+      "entry": "function",
+      "id": "function_1#function_1__11"
+    },
+    {
+      "comment": "a [single_1]{single} [basic_1]{basic} [operation]{operation} [perform]{performed} by a computer",
+      "entry": "function",
+      "id": "function_1#function_1__13"
+    },
+    {
+      "comment": "the [range_1]{range} of [thing]{things} that a computer or other [electronic]{electronic} system can do",
+      "entry": "functionality",
+      "id": "functionality#functionality__1"
+    },
+    {
+      "comment": "a type of logic used in computers that are designed to behave like humans",
+      "entry": "fuzzy logic",
+      "id": "fuzzy-logic#fuzzy-logic__1"
+    },
+    {
+      "comment": "a computer [search_1]{search} that [give_1]{gives} [result_1]{results} that are [similar]{similar} to what you [ask_1]{asked} for as well as ones that are [exactly]{exactly} what you [ask_1]{asked} for",
+      "entry": "fuzzy search",
+      "id": "fuzzy-search#fuzzy-search__1"
+    },
+    {
+      "comment": "the first time that a computer system can be [used]{used}, after all the [test_1]{tests} on it have been [completed]{completed}",
+      "entry": "go-live",
+      "id": "go-live_1#go-live_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [information]{information} that a computer [program_1]{program} [find_1]{finds} for you",
+      "entry": "hit",
+      "id": "hit_2#hit_2__17"
+    },
+    {
+      "comment": "[thing]{things} that have to be done [regularly]{regularly} on a computer system to [make_1]{make} [sure_1]{sure} that it will [run_1]{run} well",
+      "entry": "housekeeping",
+      "id": "housekeeping#housekeeping__5"
+    },
+    {
+      "comment": "the [process_1]{process} of [organize]{organizing} and [working]{working} with [information]{information} by computer",
+      "entry": "information processing",
+      "id": "information-processing#information-processing__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [put]{putting} a [new]{new} [program_1]{program} or [piece_1]{piece} of [software]{software} into a computer",
+      "entry": "installation",
+      "id": "installation#installation__6"
+    },
+    {
+      "comment": "the [process_1]{process} of [get]{getting} [information]{information} from a computer by [use_1]{using} a [special_1]{special} [program_1]{program}",
+      "entry": "interrogation",
+      "id": "interrogation#interrogation__3"
+    },
+    {
+      "comment": "[information]{information} [technology]{technology}: the use of [computer]{computers} and other [electronic]{electronic} [equipment]{equipment} to [store_1]{store}, [process_1]{process}, and [send_1]{send} [information]{information}",
+      "entry": "IT",
+      "id": "it_2#it_2__1"
+    },
+    {
+      "comment": "something that a computer, [printer]{printer}, etc. [does]{does}",
+      "entry": "job",
+      "id": "job_1#job_1__36"
+    },
+    {
+      "comment": "a single action of pressing a key on a typewriter or computer",
+      "entry": "keystroke",
+      "id": "keystroke#keystroke__1"
+    },
+    {
+      "comment": "a [word_1]{word} that you [type_1]{type} on a computer [keyboard_1]{keyboard} in [order_1]{order} to find [information]{information} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "keyword",
+      "id": "keyword#keyword__3"
+    },
+    {
+      "comment": "the [development]{development} of computer [system]{systems} that [process_1]{process} [language]{language} for use in [industry]{industry}",
+      "entry": "language engineering",
+      "id": "language-engineering#language-engineering__1"
+    },
+    {
+      "comment": "something that [prevent]{prevents} [information]{information} on a computer from being [changed]{changed} or [look_1]{looked} at by someone who [does]{does} not have [permission]{permission}",
+      "entry": "lock",
+      "id": "lock_2#lock_2__10"
+    },
+    {
+      "comment": "a method for limiting use of a computer network to only the users who have permission to use it, in order to prevent damage, for example, from Internet intruders",
+      "entry": "lockdown",
+      "id": "lockdown#lockdown__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [perform]{performing} the [necessary_1]{necessary} [action_1]{actions} to [start_1]{start} [use_1]{using} a computer [program_1]{program} or system",
+      "entry": "login",
+      "id": "login#login__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [perform]{performing} the [necessary_1]{necessary} [action_1]{actions} to [open_1]{open} a computer [program_1]{program} or [start_1]{start} [use_1]{using} a computer system",
+      "entry": "logon",
+      "id": "logon#logon__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [perform]{performing} the [necessary_1]{necessary} [action_1]{actions} to [close_1]{close} a computer [program_1]{program} or [leave_1]{leave} a computer system",
+      "entry": "logout",
+      "id": "logout#logout__1"
+    },
+    {
+      "comment": "a form of [artificial]{artificial} [intelligence]{intelligence} in which [computer]{computers} [learn]{learn} to [develop]{develop} [model_1]{models} and [rule_1]{rules} by being [fed_1]{fed} [large_1]{large} [amount_1]{amounts} of [data]{data}",
+      "entry": "machine learning",
+      "id": "machine-learning#machine-learning__1"
+    },
+    {
+      "comment": "the [translation]{translation} of a [piece_1]{piece} of [writing]{writing} from one [language]{language} to another by a computer",
+      "entry": "machine translation",
+      "id": "machine-translation#machine-translation__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [change_1]{changing}, [correct_2]{correcting}, or [moving]{moving} [information]{information} [store_2]{stored} on a computer",
+      "entry": "manipulation",
+      "id": "manipulation#manipulation__6"
+    },
+    {
+      "comment": "[instruction]{instructions} [added]{added} to [document_1]{documents} that [tell_1]{tell} a computer how to [print_1]{print} or [organize]{organize} the [information]{information}",
+      "entry": "markup",
+      "id": "markup#markup__3"
+    },
+    {
+      "comment": "a computer [process_1]{process} that [check_1]{checks} who [e-mail_1]{e-mails} come from and whether they are [safe_1]{safe}",
+      "entry": "message code authentication",
+      "id": "message-code-authentication#message-code-authentication__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [send_1]{sending} and [receive]{receiving} [electronic]{electronic} [message_1]{messages} by computer or [cell]{cell} [phone_1]{phone}",
+      "entry": "messaging",
+      "id": "messaging#messaging__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [start_1]{starting} to use a [different]{different} computer system, or of [making]{making} someone do this",
+      "entry": "migration",
+      "id": "migration#migration__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [moving]{moving} [software]{software} or [hardware]{hardware} to a [different]{different} computer system",
+      "entry": "migration",
+      "id": "migration#migration__3"
+    },
+    {
+      "comment": "a [method]{method} for [reduce]{reducing} the [size_1]{size} of computer [file_1]{files} that [contain]{contain} [video_1]{video} [image_1]{images} and [sound_1]{sound} so that they can be [sent]{sent} [quickly]{quickly} by [e-mail_1]{e-mail} or over the [internet]{Internet}",
+      "entry": "MPEG",
+      "id": "mpeg#mpeg__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of a computer to do several [different]{different} [thing]{things} at the same time",
+      "entry": "multitasking",
+      "id": "multitasking#multitasking__1"
+    },
+    {
+      "comment": "[natural_1]{natural} [language]{language} [process_2#process_2__10]{processing}: the [activity]{activity} of [use_1]{using} [computer]{computers} to [produce_1]{produce} or [understand]{understand} [natural_1]{natural} [language]{language}",
+      "entry": "NLP",
+      "id": "nlp#nlp__1"
+    },
+    {
+      "comment": "[optical]{optical} [character]{character} [recognition]{recognition}: the [ability_1]{ability} of a computer to read [print_1]{printed} or [written_1]{written} [number_1]{numbers} and [word_1]{words}",
+      "entry": "OCR",
+      "id": "ocr#ocr__1"
+    },
+    {
+      "comment": "[optical]{optical} [mark_1]{mark} [reading]{reading}: the [ability_1]{ability} of a computer to read [print_1]{printed} or [written_1]{written} [information]{information}, [especially]{especially} in [special_1]{special} [box_1]{boxes} on [form_1]{forms}",
+      "entry": "OMR",
+      "id": "omr#omr__1"
+    },
+    {
+      "comment": "the practice of writing computer programs that are based on a code that is available for anyone to use",
+      "entry": "open source",
+      "id": "open-source#open-source__1"
+    },
+    {
+      "comment": "the use of more than one computer to [operate]{operate} [different]{different} [part_1]{parts} of the same [program_1]{program} in [order_1]{order} to [work_1]{work} [fast_1]{faster}",
+      "entry": "parallel processing",
+      "id": "parallel-processing#parallel-processing__1"
+    },
+    {
+      "comment": "one of several [stage_1]{stages} in a [process_1]{process} that [involve]{involves} [check_1]{checking} and [dealing]{dealing} with [information]{information}, often [use_1]{using} a computer, in [order_1]{order} to [improve_1]{improve} it",
+      "entry": "pass",
+      "id": "pass_2#pass_2__11"
+    },
+    {
+      "comment": "the [act_1]{act} of [moving]{moving} [word_1]{words} or [picture_1]{pictures} on a computer [screen_1]{screen} from one [place_1]{place} to another",
+      "entry": "pasting",
+      "id": "pasting#pasting__1"
+    },
+    {
+      "comment": "an [attack_1]{attack} on a computer system that is [carry_1]{carried} out with the [aim_1]{aim} of [find_1]{finding} and [fix_1]{fixing} [security]{security} [weakness]{weaknesses}",
+      "entry": "penetration test",
+      "id": "penetration-test#penetration-test__1"
+    },
+    {
+      "comment": "the [activity]{activity} or [job_1]{job} of [writing]{writing} and [developing]{developing} computer [program_1]{programs}",
+      "entry": "programming",
+      "id": "programming#programming__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [rule_1]{rules} that [control_1]{controls} the ways in which [data]{data} is [sent]{sent} between [computer]{computers}",
+      "entry": "protocol",
+      "id": "protocol#protocol__4"
+    },
+    {
+      "comment": "a [set_1]{set} of [job_1]{jobs} [wait_1]{waiting} to be done by a computer",
+      "entry": "queue",
+      "id": "queue_1#queue_1__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to get [information]{information} [directly_1]{directly} from the [place_1]{place} on a computer where it is [store_2]{stored}, without [have]{having} to [search_1]{search} through the [information]{information} that [go_1]{goes} before it",
+      "entry": "random access",
+      "id": "random-access#random-access__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [start_1]{starting} a computer again after it has been [turn_1]{turned} off",
+      "entry": "reboot",
+      "id": "reboot_2#reboot_2__1"
+    },
+    {
+      "comment": "the ability to use a computer using a separate terminal",
+      "entry": "remote access",
+      "id": "remote-access#remote-access__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [return_1]{returning} the [original_1]{original} [software]{software} [program_1]{programs} to a computer after it has been [repair_1]{repaired}",
+      "entry": "restoration",
+      "id": "restoration#restoration__5"
+    },
+    {
+      "comment": "the [process_1]{process} of [get]{getting} back [information]{information} [store_2]{stored} [inside_1]{inside} a computer in [order_1]{order} to use it again",
+      "entry": "retrieval",
+      "id": "retrieval#retrieval__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [loading]{loading} [software]{software} again after there has been a [problem]{problem} with the [original_1]{original} [software]{software}",
+      "entry": "rollback",
+      "id": "rollback#rollback__1"
+    },
+    {
+      "comment": "[rich_1]{rich} [text_1]{text} [format_1]{format}: a way of [store_2]{storing} a computer [document_1]{document} so that when you [send_1]{send} it to someone, it will [look_1]{look} [exactly]{exactly} the same on their computer [screen_1]{screen}",
+      "entry": "RTF",
+      "id": "rtf#rtf__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [printing]{printing} or [saving_1]{saving} what [appear]{appears} on your computer [screen_1]{screen}",
+      "entry": "screen dump",
+      "id": "screen-dump#screen-dump__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [use_1]{using} a computer to find [information]{information}, [especially]{especially} on the [internet]{Internet}",
+      "entry": "search",
+      "id": "search_1#search_1__13"
+    },
+    {
+      "comment": "the [process_1]{process} of [searching]{searching} for [information]{information} on the [internet]{Internet}, or the [business]{business} and [technology]{technology} that [support_1]{supports} this",
+      "entry": "search",
+      "id": "search_1#search_1__15"
+    },
+    {
+      "comment": "the [process_1]{process} of [use_1]{using} a computer to [automatically]{automatically} [examine]{examine} a [piece_1]{piece} of [writing]{writing} in [order_1]{order} to find out the [writer]{writer}\u2019s [opinion]{opinions} or [feeling_1]{feelings} about something",
+      "entry": "sentiment analysis",
+      "id": "sentiment-analysis#sentiment-analysis__1"
+    },
+    {
+      "comment": "search engine optimization: the process of editing the material on a website so that the website appears near the top of the list of results produced by a search engine and so attracts more visitors",
+      "entry": "SEO",
+      "id": "seo#seo__1"
+    },
+    {
+      "comment": "a way of [get]{getting} and [reading]{reading} a computer [file_1]{file} by [start_1]{starting} at the [beginning]{beginning}",
+      "entry": "sequential access",
+      "id": "sequential-access#sequential-access__1"
+    },
+    {
+      "comment": "the [process_1]{process} by which a computer [arrange]{arranges} [information]{information} in a [particular_1]{particular} [order_1]{order}, for [example]{example} by [date_1]{date} or [number_1]{number}, or in [alphabetical]{alphabetical} [order_1]{order}",
+      "entry": "sort",
+      "id": "sort_1#sort_1__9"
+    },
+    {
+      "comment": "a system where you [speak_1]{speak} to a computer to [make_1]{make} it do [thing]{things}, for [example]{example} [instead]{instead} of [use_1]{using} a [keyboard_1]{keyboard}",
+      "entry": "speech recognition",
+      "id": "speech-recognition#speech-recognition__1"
+    },
+    {
+      "comment": "a [process_1]{process} in which a computer [produce_1]{produces} [sound_1]{sounds} that are [similar]{similar} to [human_1]{human} [speech]{speech}",
+      "entry": "speech synthesis",
+      "id": "speech-synthesis#speech-synthesis__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of a computer to [recognize]{recognize} [voice_1]{voices}, [writing]{writing}, etc.",
+      "entry": "speech/text etc. recognition",
+      "id": "speech-text-etc-recognition#speech-text-etc-recognition__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [switch_1]{switching} on a computer",
+      "entry": "start-up",
+      "id": "start-up_2#start-up_2__4"
+    },
+    {
+      "comment": "[technical]{technical} [support_1]{support}",
+      "entry": "support",
+      "id": "support_2#support_2__24"
+    },
+    {
+      "comment": "the [job_1]{job} of [working]{working} out what [kind_1]{kind} of computer [system]{systems} a [company]{company} or [project_1]{project} [need_1]{needs} and [design_2]{designing} them",
+      "entry": "systems analysis",
+      "id": "systems-analysis#systems-analysis__1"
+    },
+    {
+      "comment": "the process in which the system software controls what resources are given to which programs",
+      "entry": "task management",
+      "id": "task-management#task-management__1"
+    },
+    {
+      "comment": "a [service_1]{service} [provided]{provided} by a computer [company]{company} to [help_1]{help} [customer]{customers} who are [have]{having} [problem]{problems} [use_1]{using} their [product]{products}",
+      "entry": "technical support",
+      "id": "technical-support#technical-support__1"
+    },
+    {
+      "comment": "the process of sending information to or receiving information from another computer using the Internet, a modem, or a local area network",
+      "entry": "telecomputing",
+      "id": "telecomputing#telecomputing__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [person]{person}\u2019s [action_1]{actions} can be [sent]{sent} by [electronic]{electronic} [signal_1]{signals} to a [distant]{distant} [place_1]{place}, [making]{making} it [appear]{appear} that the [person]{person} is [physically]{physically} [present_1]{present} at that [place_1]{place}",
+      "entry": "telepresence",
+      "id": "telepresence#telepresence__1"
+    },
+    {
+      "comment": "the use of a computer to [produce_1]{produce}, [change_1]{change}, and [store_1]{store} [piece_1]{pieces} of [writing]{writing}",
+      "entry": "text processing",
+      "id": "text-processing#text-processing__1"
+    },
+    {
+      "comment": "in computer graphics, the adding of surface detail to an image",
+      "entry": "texturing",
+      "id": "texturing#texturing__1"
+    },
+    {
+      "comment": "a time when a computer connected to the internet automatically logs off when no information is entered",
+      "entry": "timeout",
+      "id": "timeout#timeout__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [upgrade_1]{upgrading} a computer",
+      "entry": "upgrade",
+      "id": "upgrade_2#upgrade_2__3"
+    },
+    {
+      "comment": "images and sounds that are produced by a computer and connected equipment to make the user feel as if they are in real three-dimensional space",
+      "entry": "virtual reality",
+      "id": "virtual-reality#virtual-reality__1"
+    },
+    {
+      "comment": "the use of the [sound_1]{sound} of a [person]{person}\u2019s [voice_1]{voice} as a [method]{method} of [recognize]{recognizing} them",
+      "entry": "voiceprint identification",
+      "id": "voiceprint-identification#voiceprint-identification__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of a computer to [know_1]{know} the [voice_1]{voice} of a [person]{person} [speak_1]{speaking} into it, so that only [voice_1]{voices} that the computer [know_1]{knows} can use the system",
+      "entry": "voice recognition",
+      "id": "voice-recognition#voice-recognition__1"
+    },
+    {
+      "comment": "the [work_1]{work} or [skill]{skill} of [produce_1]{producing} [written_1]{written} [document_1]{documents} on a computer or [word_1]{word} [processor]{processor}",
+      "entry": "word processing",
+      "id": "word-processing#word-processing__1"
+    },
+    {
+      "comment": "an instruction to a computer to start a new line of text automatically after you type the last letter on the previous line",
+      "entry": "wraparound",
+      "id": "wraparound_2#wraparound_2__2"
+    }
+  ],
+  "thesaurus": "Processes in computing",
+  "type": "Related words"
+}

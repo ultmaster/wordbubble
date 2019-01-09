@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [short_1]{short} [account_1]{account} of something that [give_1]{gives} only the most [important]{important} [information]{information} and not all the [detail_1]{details}",
+      "entry": "summary",
+      "id": "summary_1#summary_1__1"
+    },
+    {
+      "comment": "a [summary_1]{summary} of a [speech]{speech} or [piece_1]{piece} of [writing]{writing}",
+      "entry": "pr\u00e9cis",
+      "id": "precis_1#precis_1__1"
+    },
+    {
+      "comment": "a [short_1]{short} [summary_1]{summary} of a [report_1]{report}, [speech]{speech}, or [academic_1]{academic} [paper_1]{paper}",
+      "entry": "abstract",
+      "id": "abstract_2#abstract_2__1"
+    },
+    {
+      "comment": "a [short_1]{short} [summary_1]{summary} of a [book_1]{book}, [play_1]{play}, [movie]{movie}, etc.",
+      "entry": "synopsis",
+      "id": "synopsis#synopsis__1"
+    },
+    {
+      "comment": "a [summary_1]{summary} of something, [especially]{especially} the most [important]{important} [part_1]{parts} of the [news]{news}",
+      "entry": "round-up",
+      "id": "round-up_2#round-up_2__1"
+    },
+    {
+      "comment": "an [explanation]{explanation} that [include]{includes} the [general_1]{general} [point_1]{points} about something, but not the [detail_1]{details}",
+      "entry": "outline",
+      "id": "outline_2#outline_2__1"
+    },
+    {
+      "comment": "a [spoken_1]{spoken} or [written_1]{written} [account_1]{account} that [give_1]{gives} [information]{information} about a [particular_1]{particular} [subject_1]{subject}, [situation]{situation}, or [event]{event}",
+      "entry": "report",
+      "id": "report_1#report_1__1"
+    },
+    {
+      "comment": "a [description]{description} of the [main_1]{main} [feature_1]{features} of something",
+      "entry": "overview",
+      "id": "overview#overview__1"
+    },
+    {
+      "comment": "a [summary_1]{summary} of a [book_1]{book} or [report_1]{report}",
+      "entry": "digest",
+      "id": "digest_2#digest_2__1"
+    },
+    {
+      "comment": "a [written_1]{written} or [spoken_1]{spoken} [report_1]{report} about something that has [happen]{happened}",
+      "entry": "account",
+      "id": "account_1#account_1__5"
+    }
+  ],
+  "thesaurus": "Summaries",
+  "type": "Synonyms"
+}

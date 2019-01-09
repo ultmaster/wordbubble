@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[goods]{goods} that are [carry_1]{carried} by [vehicle]{vehicles}",
+      "examples": [
+        "a [railroad_1]{railroad} [network_1]{network} [equip]{equipped} for both [passenger]{passengers} and freight",
+        "The [medical_1]{medical} [supply_1]{supplies} were [ship_2]{shipped} by [air_1]{air} freight to Jordan.",
+        "[specially]{specially} [strengthen]{strengthened} freight [wagon]{wagons}",
+        "freight [yard]{yards}/[depot]{depots}/[terminal_1]{terminals}"
+      ],
+      "id": "freight_1__1"
+    },
+    {
+      "def": "a [freight-train]{freight train}",
+      "examples": [],
+      "id": "freight_1__8"
+    }
+  ],
+  "word": "freight"
+}

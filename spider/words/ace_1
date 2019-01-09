@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "in [card_1]{card} [game_1]{games}, a [card_1]{card} with only one [symbol]{symbol} and either the [high_1]{highest} or [low_1]{lowest} [value_1]{value} in a [suit_1]{suit}",
+      "examples": [
+        "the ace of [heart_1]{hearts}"
+      ],
+      "id": "ace_1__1"
+    },
+    {
+      "def": "in [tennis]{tennis}, a very [fast_1]{fast} [serve_1]{serve}  (=first hit of the ball) that your [opponent]{opponent} cannot [reach_1]{reach} with their [racket]{racket}",
+      "examples": [],
+      "id": "ace_1__3"
+    },
+    {
+      "def": "in [golf]{golf}, an [occasion_1]{occasion} in which a [player]{player} [hit_1]{hits} the [ball_1]{ball} into the hole with one [shot_1]{shot}",
+      "examples": [],
+      "id": "ace_1__4"
+    },
+    {
+      "def": "someone who is very [good_1]{good} at [doing]{doing} something",
+      "examples": [
+        "an ace at [solve]{solving} [puzzle_1]{puzzles}"
+      ],
+      "id": "ace_1__5"
+    }
+  ],
+  "word": "ace"
+}

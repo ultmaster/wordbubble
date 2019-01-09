@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "enter into",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to take part in an [official_1]{official} [discussion]{discussion} or other [formal_1]{formal} [activity]{activity}",
+      "examples": [
+        "The [government]{government} had [enter]{entered} into a [genuine]{genuine} [dialogue]{dialogue} with the [terrorist]{terrorists}."
+      ],
+      "id": "enter-into__1"
+    },
+    {
+      "def": "to [agree]{agree} to be part of an [official_1]{official} [agreement]{agreement} or [contract_1]{contract}",
+      "examples": [
+        "In 1986, the [organization]{organization} [enter]{entered} into an [agreement]{agreement} with a [private_1]{private} [firm_1]{firm} to [operate]{operate} the [security]{security} system."
+      ],
+      "id": "enter-into__4"
+    },
+    {
+      "def": "to be an [important]{important} [aspect]{aspect} of a [situation]{situation}",
+      "examples": [
+        "When [company]{companies} are [trying]{trying} to [save_1]{save} [money]{money}, [loyalty]{loyalty} to [worker]{workers} doesn\u2019t [enter]{enter} into it."
+      ],
+      "id": "enter-into__7"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "[mark_1]{marks} on a [piece_1]{piece} of [fruit_1]{fruit} that has been [damage_2]{damaged}",
+      "entry": "bruising",
+      "id": "bruising_1#bruising_1__3"
+    },
+    {
+      "comment": "the [central]{central} part of a [fruit_1]{fruit} such as an [apple]{apple}, [contain]{containing} the [seed_1]{seeds}",
+      "entry": "core",
+      "id": "core_1#core_1__8"
+    },
+    {
+      "comment": "a [type_1]{type} of [sugar_1]{sugar} that is found in [fruit_1]{fruit}",
+      "entry": "dextrose",
+      "id": "dextrose#dextrose__1"
+    },
+    {
+      "comment": "the [soft]{soft} part of a [fruit_1]{fruit} or [vegetable]{vegetable} that is under the [skin_1]{skin}",
+      "entry": "flesh",
+      "id": "flesh_1#flesh_1__5"
+    },
+    {
+      "comment": "the part of a soft fruit such as a strawberry including the stalk and leaves, that you do not eat",
+      "entry": "hull",
+      "id": "hull_1#hull_1__3"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} that comes out of [fruit_1]{fruit} or [vegetable]{vegetables} when you [squeeze_1]{squeeze} them and is often [used]{used} as a [drink_1]{drink}",
+      "entry": "juice",
+      "id": "juice_1#juice_1__1"
+    },
+    {
+      "comment": "a thick [juice_1]{juice} that comes from some [fruit_1]{fruits}",
+      "entry": "nectar",
+      "id": "nectar#nectar__1"
+    },
+    {
+      "comment": "a substance contained in some fruit, used for making jam and jelly thicker",
+      "entry": "pectin",
+      "id": "pectin#pectin__1"
+    },
+    {
+      "comment": "the [skin_1]{skin} of a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "peel",
+      "id": "peel_2#peel_2__1"
+    },
+    {
+      "comment": "[piece_1]{pieces} of [skin_1]{skin} that have been [removed]{removed} from a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "peelings",
+      "id": "peelings#peelings__1"
+    },
+    {
+      "comment": "a [small_1]{small} [seed_1]{seed} in a [piece_1]{piece} of [fruit_1]{fruit}",
+      "entry": "pip",
+      "id": "pip#pip__1"
+    },
+    {
+      "comment": "a [large_1]{large} [hard_1]{hard} [seed_1]{seed} [inside_1]{inside} some [type_1]{types} of [fruit_1]{fruit}",
+      "entry": "pit",
+      "id": "pit_1#pit_1__11"
+    },
+    {
+      "comment": "the [white_1]{white} [substance]{substance} under the [skin_1]{skin} of [orange_1]{oranges} and [similar]{similar} [fruit_1]{fruits}",
+      "entry": "pith",
+      "id": "pith#pith__1"
+    },
+    {
+      "comment": "the [inside_1]{inside} of a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "pulp",
+      "id": "pulp_1#pulp_1__1"
+    },
+    {
+      "comment": "the [outer_1]{outer} [skin_1]{skin} of a [fruit_1]{fruit} such as a [lemon]{lemon} or [orange_1]{orange}",
+      "entry": "rind",
+      "id": "rind#rind__1"
+    },
+    {
+      "comment": "one of the small hard seeds inside a fruit such as an apple or orange. The British word is pip.",
+      "entry": "seed",
+      "id": "seed_1#seed_1__7"
+    },
+    {
+      "comment": "a part of a fruit such as an orange or a grapefruit that can easily be separated into parts",
+      "entry": "segment",
+      "id": "segment#segment__4"
+    },
+    {
+      "comment": "the [outer_1]{outer} [layer_1]{layer} of a [fruit_1]{fruit} or [vegetable]{vegetable}",
+      "entry": "skin",
+      "id": "skin_1#skin_1__15"
+    },
+    {
+      "comment": "a long thin part of a [plant_1]{plant} with a [flower_1]{flower}, [fruit_1]{fruit}, or [leaf_1]{leaf} at the [end_1]{end}",
+      "entry": "stalk",
+      "id": "stalk_1#stalk_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [hard_1]{hard} [seed_1]{seed} [inside_1]{inside} a [piece_1]{piece} of [fruit_1]{fruit}",
+      "entry": "stone",
+      "id": "stone_1#stone_1__11"
+    },
+    {
+      "comment": "the skin of an orange, lemon, or lime when it is used in cooking",
+      "entry": "zest",
+      "id": "zest#zest__5"
+    }
+  ],
+  "thesaurus": "Parts of fruit and substances in fruit",
+  "type": "Related words"
+}

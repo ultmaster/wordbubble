@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "specially protected military vehicles carrying weapons, for example tanks and armored cars",
+      "entry": "armor",
+      "id": "armor#armor__7"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [armor]{armor}",
+      "entry": "armour",
+      "id": "armour#armour__2"
+    },
+    {
+      "comment": "a [heavy_1]{heavy} [vehicle]{vehicle} with a [large_1]{large} [curved]{curved} [open_1]{open} [container]{container} at the front, [used]{used} for [moving]{moving} [earth]{earth} and [stone_1]{stones}, [destroy]{destroying} [building]{buildings}, etc., [especially]{especially} in [order_1]{order} to [make_1]{make} [land_1]{land} ready for [new]{new} [building]{building} [work_1]{work}",
+      "entry": "bulldozer",
+      "id": "bulldozer#bulldozer__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} with a [box_1]{box} that can be [raised]{raised} to [let_1]{let} someone in it [work_1]{work} very [high_1]{high} above the [ground_1]{ground}",
+      "entry": "cherry picker",
+      "id": "cherry-picker#cherry-picker__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} that [use_1]{uses} two long [metal_1]{metal} [bar_1]{bars} at the front for [lift_1]{lifting} and [moving]{moving} [heavy_1]{heavy} [object_1]{objects}",
+      "entry": "forklift",
+      "id": "forklift#forklift__1"
+    },
+    {
+      "comment": "a [large_1]{large} [military]{military} [vehicle]{vehicle} with no [roof_1]{roof} that can [drive_1]{drive} over all [type_1]{types} of [land_1]{land}",
+      "entry": "Humvee",
+      "id": "humvee#humvee__1"
+    },
+    {
+      "comment": "a [car]{car} with no [roof_1]{roof} that can [drive_1]{drive} over all [type_1]{types} of [land_1]{land} and is often [used]{used} as a [military]{military} [vehicle]{vehicle}",
+      "entry": "jeep",
+      "id": "jeep#jeep__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} or [object_1]{object} [used]{used} for [fire_2]{firing} a [missile]{missile} or other [large_1]{large} [weapon]{weapon}",
+      "entry": "launcher",
+      "id": "launcher#launcher__1"
+    },
+    {
+      "comment": "a group of military vehicles, especially airplanes or submarines, that travel and fight together",
+      "entry": "pack",
+      "id": "pack_2#pack_2__16"
+    },
+    {
+      "comment": "a [military]{military} [vehicle]{vehicle} for [carry_1]{carrying} [soldier_1]{soldiers}",
+      "entry": "personnel carrier",
+      "id": "personnel-carrier#personnel-carrier__1"
+    },
+    {
+      "comment": "a [large_1]{large} [vehicle]{vehicle} that [suck_1]{sucks} [snow_1]{snow} off [road]{roads} and [blow_1]{blows} it to the side",
+      "entry": "snowblower",
+      "id": "snowblower#snowblower__2"
+    },
+    {
+      "comment": "a [heavy_1]{heavy} [vehicle]{vehicle} with very [large_1]{large} [wide_1]{wide} [wheel_1]{wheels} that is [used]{used} for [making]{making} a [road]{road} [flat_1]{flat} and [smooth_1]{smooth}",
+      "entry": "steamroller",
+      "id": "steamroller_1#steamroller_1__1"
+    },
+    {
+      "comment": "a very strong military vehicle with a large gun on the top and wheels that have metal bands called tracks around them",
+      "entry": "tank",
+      "id": "tank_1#tank_1__7"
+    },
+    {
+      "comment": "[belong]{belonging} to or [connected]{connected} with a [military]{military} [tank_1]{tank}",
+      "entry": "tank",
+      "id": "tank_1#tank_1__8"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [used]{used} in the [past_1]{past} for [pull_1]{pulling} [heavy_1]{heavy} [load_1]{loads}",
+      "entry": "traction engine",
+      "id": "traction-engine#traction-engine__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} or [aircraft]{aircraft} [used]{used} for [carry_1]{carrying} [large_1]{large} [thing]{things} such as [military]{military} [equipment]{equipment} or other [vehicle]{vehicles}",
+      "entry": "transporter",
+      "id": "transporter#transporter__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} for [carry_1]{carrying} [soldier_1]{soldiers} and [military]{military} [equipment]{equipment}",
+      "entry": "transport plane",
+      "id": "transport-plane#transport-plane__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle}, [especially]{especially} a [ship_1]{ship} or [airplane]{airplane}, [used]{used} for [carry_1]{carrying} [troop_1]{troops}",
+      "entry": "troop carrier",
+      "id": "troop-carrier#troop-carrier__1"
+    }
+  ],
+  "thesaurus": "Military and industrial vehicles",
+  "type": "Related words"
+}

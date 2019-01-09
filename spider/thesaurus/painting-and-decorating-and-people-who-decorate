@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "an [interior_1]{interior} [decorator]{decorator}",
+      "entry": "decorator",
+      "id": "decorator#decorator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [paint_1]{paint} [house_1]{houses} and put [paper_1]{paper} on the [wall_1]{walls}",
+      "entry": "decorator",
+      "id": "decorator#decorator__2"
+    },
+    {
+      "comment": "[work_1]{work} that is done to [make_1]{make} something [look_1]{look} [new]{newer} or more [attractive]{attractive}",
+      "entry": "facelift",
+      "id": "facelift#facelift__2"
+    },
+    {
+      "comment": "[work_1]{work} that you do to your [house_1]{house} to [make_1]{make} it [better_1]{better}",
+      "entry": "home improvement",
+      "id": "home-improvement#home-improvement__1"
+    },
+    {
+      "comment": "the [job_1]{job} of [design_2]{designing} the way that the [inside_1]{inside} of a [room_1]{room} or [building]{building} [look_1]{looks}, for [example]{example} by [choose]{choosing} the [color_1]{colors} of the [wall_1]{walls} and [carpet_1]{carpets} and the [style_1]{style} of the [furniture]{furniture}",
+      "entry": "interior decoration",
+      "id": "interior-decoration#interior-decoration__1"
+    },
+    {
+      "comment": "someone whose job is to paint and wallpaper the inside of a room or building or to design the way that it looks",
+      "entry": "interior decorator",
+      "id": "interior-decorator#interior-decorator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [paint_1]{paint} [wall_1]{walls}, [door_1]{doors}, etc., or the [outside]{outside} of [house_1]{houses} and other [building]{buildings}",
+      "entry": "painter",
+      "id": "painter#painter__3"
+    },
+    {
+      "comment": "the [activity]{activity} of [use_1]{using} [paint_1]{paint} to [cover_1]{cover} something such as a [wall_1]{wall}, [door_1]{door}, or [piece_1]{piece} of [furniture]{furniture}",
+      "entry": "painting",
+      "id": "painting#painting__5"
+    },
+    {
+      "comment": "[improvement]{improvements} made to a [room_1]{room} or [building]{building} by [cleaning]{cleaning} and [painting]{painting} it, [add_1]{adding} [new]{new} [furniture]{furniture} or [equipment]{equipment}, etc.",
+      "entry": "refurb",
+      "id": "refurb#refurb__1"
+    },
+    {
+      "comment": "something that has been [refurbish]{refurbished}",
+      "entry": "refurb",
+      "id": "refurb#refurb__3"
+    },
+    {
+      "comment": "the [act_1]{act} of [improve_1]{improving} a [room_1]{room} or a [building]{building} by [cleaning]{cleaning} and [painting]{painting} it, [add_1]{adding} [new]{new} [furniture]{furniture} or [equipment]{equipment}, etc. or the [change_1]{changes} and [improvement]{improvements} that are made",
+      "entry": "refurbishment",
+      "id": "refurbishment#refurbishment__1"
+    },
+    {
+      "comment": "someone whose job is to spray paint or other liquids on things",
+      "entry": "sprayer",
+      "id": "sprayer#sprayer__2"
+    }
+  ],
+  "thesaurus": "Painting and decorating and people who decorate",
+  "type": "Related words"
+}

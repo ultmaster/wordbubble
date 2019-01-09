@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an amount of [liquid_1]{liquid} that someone [drink_1]{drinks}",
+      "entry": "drink",
+      "id": "drink_2#drink_2__1"
+    },
+    {
+      "comment": "a [drink_1]{drink}",
+      "entry": "beverage",
+      "id": "beverage#beverage__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [kind_1]{kind} of [liquid_1]{liquid} for [drinking]{drinking}",
+      "entry": "drink",
+      "id": "drink_2#drink_2__4"
+    },
+    {
+      "comment": "a [small_1]{small} amount of a [drink_1]{drink}",
+      "entry": "drop",
+      "id": "drop_2#drop_2__5"
+    },
+    {
+      "comment": "a [drink_1]{drink} that is [believe]{believed} to be [magic_1]{magic}, [poisonous]{poisonous}, or [useful]{useful} as a [medicine]{medicine}",
+      "entry": "potion",
+      "id": "potion#potion__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} that [taste_1]{tastes} very [good_1]{good}",
+      "entry": "nectar",
+      "id": "nectar#nectar__4"
+    },
+    {
+      "comment": "something to [eat]{eat} or [drink_1]{drink} during an [event]{event} such as a [meeting]{meeting} or [party_1]{party}",
+      "entry": "refreshments",
+      "id": "refreshment#refreshment__1"
+    },
+    {
+      "comment": "[drink_1]{drinks} in [general_1]{general}",
+      "entry": "drink",
+      "id": "drink_2#drink_2__6"
+    },
+    {
+      "comment": "a drink, medicine, or beauty treatment made by putting something such as leaves or herbs in hot water",
+      "entry": "infusion",
+      "id": "infusion#infusion__1"
+    },
+    {
+      "comment": "something such as a [drink_1]{drink} that [make_1]{makes} you [feel_1]{feel} more [lively]{lively}",
+      "entry": "pick-me-up",
+      "id": "pick-me-up#pick-me-up__1"
+    }
+  ],
+  "thesaurus": "General words for drinks",
+  "type": "Synonyms"
+}

@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [person]{person} or thing that you [like_1]{like} [best_1]{best}",
+      "examples": [
+        "The [hot]{hot} [dog_1]{dog} is still a [national_1]{national} favorite.",
+        "I had a [lot_1]{lot} of [toy_1]{toys}, but my [teddy]{teddy} [bear_1]{bears} were my [favorite_2]{favorites}.",
+        "Wuthering Heights is an old favorite with the Japanese.",
+        "Eric\u2019s always been [mom]{mom}\u2019s favorite."
+      ],
+      "id": "favorite_2__1"
+    },
+    {
+      "def": "the [person]{person} or [team_1]{team} that is [expected]{expected} to [win_1]{win} a [race_1]{race} or [competition]{competition}",
+      "examples": [
+        "The Yankees are favorite to [win_1]{win} the [series]{series}."
+      ],
+      "id": "favorite_2__8"
+    },
+    {
+      "def": "an [indication]{indication} that you [like_1]{like} something on a [social_1]{social} [media]{media} or other [website]{website}",
+      "examples": [
+        "Her [tweet_1]{tweet} [got_1]{got} 18 [retweet_1]{retweets} and 34 [favorite_2]{favorites}."
+      ],
+      "id": "favorite_2__10"
+    }
+  ],
+  "word": "favorite"
+}

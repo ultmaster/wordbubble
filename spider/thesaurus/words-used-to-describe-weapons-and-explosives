@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[design_2]{designed} to [destroy]{destroy} [aircraft]{aircraft}",
+      "entry": "antiaircraft",
+      "id": "antiaircraft#antiaircraft__1"
+    },
+    {
+      "comment": "[anti-personnel]{anti-personnel} [weapon]{weapons} are [design_2]{designed} to [injure]{injure} or [kill_1]{kill} [people_1]{people}, rather than [destroy]{destroy} [building]{buildings} or [weapon]{weapons}",
+      "entry": "anti-personnel",
+      "id": "anti-personnel#anti-personnel__1"
+    },
+    {
+      "comment": "designed to destroy tanks  (=large military vehicles with big guns)",
+      "entry": "anti-tank",
+      "id": "anti-tank#anti-tank__1"
+    },
+    {
+      "comment": "conventional weapons are guns, bombs, etc. of the usual type, not nuclear weapons. A conventional war is one that does not involve the use of nuclear weapons",
+      "entry": "conventional",
+      "id": "conventional#conventional__7"
+    },
+    {
+      "comment": "[used]{used} for [cause_2]{causing} an [explosion]{explosion}",
+      "entry": "explosive",
+      "id": "explosive_1#explosive_1__1"
+    },
+    {
+      "comment": "[able_1]{able} to [explode]{explode}",
+      "entry": "explosive",
+      "id": "explosive_1#explosive_1__3"
+    },
+    {
+      "comment": "[heavy_1]{heavy} [machine_1]{machines}, [vehicle]{vehicles}, or [weapon]{weapons} are [large_1]{large} and [powerful]{powerful}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__13"
+    },
+    {
+      "comment": "[use_1]{using} a [lot_1]{lot} of [bomb_1]{bombs}, [guns]{guns}, or other [weapon]{weapons}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__39"
+    },
+    {
+      "comment": "a [live_1]{live} [bomb_1]{bomb} or [missile]{missile} is [capable]{capable} of [explode]{exploding} because it has not yet been [used]{used}",
+      "entry": "live",
+      "id": "live_2#live_2__15"
+    },
+    {
+      "comment": "[long-range]{long-range} [weapon]{weapons}, [aircraft]{aircraft}, etc. are [able_1]{able} to [travel_1]{travel} over long [distance_1]{distances}",
+      "entry": "long-range",
+      "id": "long-range#long-range__3"
+    },
+    {
+      "comment": "not [use_1]{using} [nuclear]{nuclear} [power_1]{power} or [weapon]{weapons}",
+      "entry": "nonnuclear",
+      "id": "nonnuclear#nonnuclear__1"
+    },
+    {
+      "comment": "[relate]{relating} to [weapon]{weapons} that use [energy]{energy} [produce_1]{produced} in this way",
+      "entry": "nuclear",
+      "id": "nuclear#nuclear__6"
+    },
+    {
+      "comment": "[used]{used} for [attack_2]{attacking}",
+      "entry": "offensive",
+      "id": "offensive_1#offensive_1__9"
+    },
+    {
+      "comment": "[strategic]{strategic} [weapon]{weapons} are [design_2]{designed} to hit an [enemy]{enemy}\u2019s [home_1]{home} [country]{country}",
+      "entry": "strategic",
+      "id": "strategic#strategic__4"
+    },
+    {
+      "comment": "[tactical]{tactical} [aircraft]{aircraft}, [missile]{missiles}, and other [weapon]{weapons} are [design_2]{designed} to be [used]{used} over [short_1]{short} [distance_1]{distances}",
+      "entry": "tactical",
+      "id": "tactical#tactical__7"
+    },
+    {
+      "comment": "an [unexploded]{unexploded} [bomb_1]{bomb} has been [drop_1]{dropped} or [left_1]{left} somewhere but has not [exploded]{exploded}, [usually]{usually} because of a [fault_1]{fault}",
+      "entry": "unexploded",
+      "id": "unexploded#unexploded__1"
+    }
+  ],
+  "thesaurus": "Words used to describe weapons and explosives",
+  "type": "Related words"
+}

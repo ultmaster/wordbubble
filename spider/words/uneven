@@ -1,0 +1,42 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [smooth_1]{smooth} or [level_1]{level}",
+      "examples": [
+        "She [walk_1]{walked} [careful#careful__20]{carefully} over the uneven [ground_1]{ground}."
+      ],
+      "id": "uneven__1"
+    },
+    {
+      "def": "not the same in [size_1]{size} or [length]{length}",
+      "examples": [
+        "Her [fingernail]{fingernails} were [short_1]{short} and uneven."
+      ],
+      "id": "uneven__3"
+    },
+    {
+      "def": "not [fairly]{fairly} [balanced]{balanced} or [equally]{equally} [share_1]{shared}",
+      "examples": [
+        "an uneven [distribution]{distribution} of [resource_1]{resources}"
+      ],
+      "id": "uneven__5"
+    },
+    {
+      "def": "not of the same [quality_1]{quality} in all its [part_1]{parts}",
+      "examples": [
+        "The [economy_1]{economy} has [prosper]{prospered}, but [growth]{growth} has been uneven."
+      ],
+      "id": "uneven__7"
+    },
+    {
+      "def": "not [happening_1]{happening} or [appear]{appearing} in a [regular_1]{regular} [pattern_1]{pattern}",
+      "examples": [
+        "His [breathing]{breathing} was [labored]{labored} and uneven."
+      ],
+      "id": "uneven__9"
+    }
+  ],
+  "word": "uneven"
+}

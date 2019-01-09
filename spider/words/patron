@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [use_1]{uses} a [particular_1]{particular} [restaurant]{restaurant}, [bar_1]{bar}, or other [business]{business}",
+      "examples": [
+        "This [parking]{parking} [lot_1]{lot} is for the use of [patron]{patrons} only."
+      ],
+      "id": "patron__1"
+    },
+    {
+      "def": "someone who [support_1]{supports} the [work_1]{work} of [writer]{writers}, [artist]{artists}, [musician]{musicians}, etc. [especially]{especially} by [give_1]{giving} them [money]{money}",
+      "examples": [
+        "He was an [enthusiastic]{enthusiastic} patron of the [art_1]{arts}.",
+        "a [charity]{charity} that [boast_1]{boasted} Carnegie as its patron"
+      ],
+      "id": "patron__3"
+    }
+  ],
+  "word": "patron"
+}

@@ -1,0 +1,366 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} [officially]{officially} how [valuable]{valuable} a [piece_1]{piece} of [property]{property} is",
+      "entry": "appraise",
+      "id": "appraise#appraise__1"
+    },
+    {
+      "comment": "to [try_1]{try} to [persuade]{persuade} someone to give you a [better_1]{better} [price_1]{price} or [make_1]{make} an [agreement]{agreement} that [suit_1]{suits} you [better_1]{better}",
+      "entry": "bargain",
+      "id": "bargain_2#bargain_2__1"
+    },
+    {
+      "comment": "to [persuade]{persuade} someone to [sell_1]{sell} you something at a [lower_1]{lower} [price_1]{price} than their first [offer_1]{offer}",
+      "entry": "beat down",
+      "id": "beat-down#beat-down__1"
+    },
+    {
+      "comment": "if something such as an [economy_1]{economy} or [price_1]{price} [bottom_1]{bottoms} out, it [reach_1]{reaches} its [low_1]{lowest} [level_1]{level} before [start_1]{starting} to [improve_1]{improve} again",
+      "entry": "bottom out",
+      "id": "bottom_3#bottom_3__2"
+    },
+    {
+      "comment": "if a [market_1]{market} or [price_1]{price} [bounce_1]{bounces} back, it [rise_1]{rises} again after [fall_1]{falling}",
+      "entry": "bounce back",
+      "id": "bounce-back#bounce-back__4"
+    },
+    {
+      "comment": "a [limit_1]{limit} on the amount of [money]{money} that you can [spend]{spend} or [charge_1]{charge}",
+      "entry": "cap",
+      "id": "cap_1#cap_1__13"
+    },
+    {
+      "comment": "to [set_1]{set} a [limit_1]{limit} on the amount of [money]{money} that someone can [spend]{spend} or [charge_1]{charge}",
+      "entry": "cap",
+      "id": "cap_2#cap_2__8"
+    },
+    {
+      "comment": "the [policy]{policy} of [setting]{setting} an [official_1]{official} [limit_1]{limit} on the amount of [money]{money} that someone can [spend]{spend} or [charge_1]{charge}",
+      "entry": "capping",
+      "id": "capping#capping__1"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [price_1]{price} of something",
+      "entry": "cheapen",
+      "id": "cheapen#cheapen__3"
+    },
+    {
+      "comment": "if a [temperature]{temperature}, [price_1]{price}, or the [level_1]{level} of something [climb_1]{climbs}, it becomes [higher_1]{higher}",
+      "entry": "climb",
+      "id": "climb_1#climb_1__13"
+    },
+    {
+      "comment": "to [agree]{agree} to [ask_1]{ask} for or [pay_1]{pay} a [lower_1]{lower} [price_1]{price}",
+      "entry": "come down",
+      "id": "come-down#come-down__10"
+    },
+    {
+      "comment": "to give someone something without them [have]{having} to [pay_1]{pay} for it",
+      "entry": "comp",
+      "id": "comp_2#comp_2__1"
+    },
+    {
+      "comment": "to [calculate]{calculate} [exactly]{exactly} how much something will [cost_1]{cost}",
+      "entry": "cost",
+      "id": "cost_2#cost_2__11"
+    },
+    {
+      "comment": "to [make_1]{make} [change_1]{changes} in an [economy_1]{economy} in [order_1]{order} to [lower_1]{lower} [price_1]{prices}",
+      "entry": "deflate",
+      "id": "deflate#deflate__4"
+    },
+    {
+      "comment": "to [make_1]{make} something such as a [price_1]{price} or [value_1]{value} go down",
+      "entry": "depress",
+      "id": "depress#depress__4"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [price_1]{price} of something",
+      "entry": "discount",
+      "id": "discount_2#discount_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [price_1]{price} or amount [fall_1]{fall} to a [lower_1]{lower} [level_1]{level}",
+      "entry": "drive down",
+      "id": "drive-down#drive-down__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [price_1]{price} or amount [rise_1]{rise} to a [higher_1]{higher} [level_1]{level}",
+      "entry": "drive up",
+      "id": "drive-up#drive-up__3"
+    },
+    {
+      "comment": "to [make_1]{make} a [decision_1]{decision} about a [price_1]{price} or amount and not [allow]{allow} it to [change_1]{change}",
+      "entry": "fix",
+      "id": "fix_1#fix_1__15"
+    },
+    {
+      "comment": "if the [price_1]{price} or amount of something [flatten]{flattens} out, or if something [flatten]{flattens} it out, it becomes [lower_1]{lower} or less [likely_1]{likely} to [change_1]{change}",
+      "entry": "flatten out",
+      "id": "flatten-out#flatten-out__3"
+    },
+    {
+      "comment": "to [make_1]{make} such a [large_1]{large} [number_1]{number} of [goods]{goods} or [service_1]{services} [available]{available} for [sale]{sale} that they cannot all be [sold]{sold} and the [price_1]{price} [fall_1]{falls}",
+      "entry": "flood the market",
+      "id": "flood-the-market#flood-the-market__1"
+    },
+    {
+      "comment": "if [price_1]{prices} or [value_1]{values} [gyrate]{gyrate}, they move up and down in an [uncontrolled]{uncontrolled} way",
+      "entry": "gyrate",
+      "id": "gyrate#gyrate__3"
+    },
+    {
+      "comment": "to [stop_1]{stop} [price_1]{prices} or [number_1]{numbers} from [rising]{rising}",
+      "entry": "hold down",
+      "id": "hold-down#hold-down__5"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [making]{making} the [value_1]{value} of something such as [pay_1]{pay} or [pension_1]{pensions} [change_1]{change} as [general_1]{general} [living_1]{living} [cost_1]{costs} [rise_1]{rise} or [fall_1]{fall}",
+      "entry": "indexation",
+      "id": "indexation#indexation__1"
+    },
+    {
+      "comment": "[indexation]{indexation}",
+      "entry": "index-linking",
+      "id": "index-linking#index-linking__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [number_1]{number} or [price_1]{price} [higher_1]{higher} than it should be",
+      "entry": "inflate",
+      "id": "inflate#inflate__5"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [price_1]{price}, [rate_1]{rate}, or [number_1]{number} of something by a [large_1]{large} amount",
+      "entry": "jack up",
+      "id": "jack_2#jack_2__8"
+    },
+    {
+      "comment": "to [reduce]{reduce} a [price_1]{price} or amount",
+      "entry": "knock down",
+      "id": "knock-down#knock-down__5"
+    },
+    {
+      "comment": "to [reduce]{reduce} a [price_1]{price} or an amount",
+      "entry": "knock off",
+      "id": "knock-off#knock-off__5"
+    },
+    {
+      "comment": "a [fixed]{fixed} [rate_1]{rate} of [payment]{payment}",
+      "entry": "lock-in",
+      "id": "lock-in_2#lock-in_2__2"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [price_1]{price} of something",
+      "entry": "mark down",
+      "id": "mark-down#mark-down__3"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [price_1]{price} of something, [especially]{especially} something that you [bought]{bought} for a [lower_1]{lower} [price_1]{price}",
+      "entry": "mark up",
+      "id": "mark-up#mark-up__1"
+    },
+    {
+      "comment": "to [say_1]{say} that you will [pay_1]{pay} a [particular_1]{particular} [price_1]{price} for something",
+      "entry": "offer",
+      "id": "offer_1#offer_1__4"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone to [pay_1]{pay} more [money]{money} than is [reasonable]{reasonable}, or more [money]{money} than the [real_1]{real} [price_1]{price}",
+      "entry": "overcharge",
+      "id": "overcharge#overcharge__1"
+    },
+    {
+      "comment": "to give something a [higher_1]{higher} [price_1]{price} than it should have",
+      "entry": "overvalue",
+      "id": "overvalue#overvalue__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone who is [buy_1]{buying} something from you [pay_1]{pay} for the [cost_1]{cost} of something",
+      "entry": "pass on",
+      "id": "pass-on#pass-on__4"
+    },
+    {
+      "comment": "to keep [price_1]{prices}, [salary]{salaries}, or the amount of something at a [particular_1]{particular} [level_1]{level}, often in [relation]{relation} to something else",
+      "entry": "peg",
+      "id": "peg_2#peg_2__1"
+    },
+    {
+      "comment": "to [control_1]{control} something such as [price_1]{prices} or [salary]{salaries} so that they do not [increase_1]{increase} above a [particular_1]{particular} [level_1]{level}",
+      "entry": "peg back",
+      "id": "peg-back#peg-back__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [setting]{setting} [price_1]{prices} at very low [level_1]{levels} in [order_1]{order} to [force_1]{force} other [company]{companies} to [fail_1]{fail}",
+      "entry": "predatory pricing",
+      "id": "predatory-pricing#predatory-pricing__1"
+    },
+    {
+      "comment": "to [set_1]{set} the [price_1]{price} of a [product]{product} or [service_1]{service}",
+      "entry": "price",
+      "id": "price_2#price_2__1"
+    },
+    {
+      "comment": "[control_1]{control} by the [government]{government} over [price_1]{prices} of [goods]{goods} and [service_1]{services}",
+      "entry": "price control",
+      "id": "price-control#price-control__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [reduce]{reducing} [price_1]{prices} in [order_1]{order} to [sell_1]{sell} more than other [company]{companies}",
+      "entry": "price-cutting",
+      "id": "price-cutting#price-cutting__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [charge_2]{charging} [different]{different} [price_1]{prices} for the same [product]{product} or [service_1]{service} in [different]{different} [market_1]{markets}",
+      "entry": "price discrimination",
+      "id": "price-discrimination#price-discrimination__1"
+    },
+    {
+      "comment": "an [agreement]{agreement} between [company]{companies} to [charge_1]{charge} the same [price_1]{price} for a [particular_1]{particular} [product]{product}, in [order_1]{order} to keep the [price_1]{price} [high_1]{high}",
+      "entry": "price-fixing",
+      "id": "price-fixing#price-fixing__1"
+    },
+    {
+      "comment": "[price_1]{price} [control_1]{control}",
+      "entry": "price-fixing",
+      "id": "price-fixing#price-fixing__3"
+    },
+    {
+      "comment": "a [situation]{situation} in which [business]{businesses} [compete]{compete} to [attract]{attract} [customer]{customers} by [making]{making} their [price_1]{prices} [lower_1]{lower}",
+      "entry": "price war",
+      "id": "price-war#price-war__1"
+    },
+    {
+      "comment": "to [charge_1]{charge} such [high_1]{high} [price_1]{prices} for your [product]{products} that [customer]{customers} [stop_1]{stop} [buy_1]{buying} them",
+      "entry": "price yourself out of the market",
+      "id": "price-yourself-out-of-the-market#price-yourself-out-of-the-market__1"
+    },
+    {
+      "comment": "[decision_1]{decisions} that a [company]{company} [make_1]{makes} about the [price_1]{prices} it [charge_1]{charges} for [goods]{goods} or [service_1]{services}",
+      "entry": "pricing",
+      "id": "pricing#pricing__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [judgment]{judgment} about the [price_1]{price} or amount of something",
+      "entry": "put a price (tag)/value etc. on something",
+      "id": "put-a-price-tag-value-etc-on-something#put-a-price-tag-value-etc-on-something__1"
+    },
+    {
+      "comment": "to [add_1]{add} an amount of [money]{money} to the [cost_1]{cost} or [value_1]{value} of something",
+      "entry": "put on",
+      "id": "put-on_1#put-on_1__42"
+    },
+    {
+      "comment": "to [ask_1]{ask} [people_1]{people} to [say_1]{say} [formally]{formally} how much they would [charge_1]{charge} for [doing]{doing} something for you",
+      "entry": "put something out to tender",
+      "id": "put-something-out-to-tender#put-something-out-to-tender__1"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [value_1]{value} or [price_1]{price} of something",
+      "entry": "put up",
+      "id": "put-up#put-up__20"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone what [price_1]{price} you would [charge_1]{charge} them to do a [particular_1]{particular} [piece_1]{piece} of [work_1]{work}",
+      "entry": "quote",
+      "id": "quote_1#quote_1__5"
+    },
+    {
+      "comment": "to [lower_1]{lower} the [price_1]{price} of something",
+      "entry": "reduce",
+      "id": "reduce#reduce__10"
+    },
+    {
+      "comment": "to [reduce]{reduce} something such as a [price_1]{price} or [salary]{salary}",
+      "entry": "roll back",
+      "id": "roll-back#roll-back__3"
+    },
+    {
+      "comment": "to [decide]{decide} the [price_1]{price} or [value_1]{value} of something",
+      "entry": "set",
+      "id": "set_1#set_1__24"
+    },
+    {
+      "comment": "to [agree]{agree} how much each [person]{person} or [group_1]{group} should [pay_1]{pay}",
+      "entry": "settle up",
+      "id": "settle-up#settle-up__3"
+    },
+    {
+      "comment": "a system of [making]{making} [payment]{payments} or [pay_1]{paying} [tax_1]{taxes} where the amount that you [pay_1]{pay} [change_1]{changes} [accord_2]{according} to a [fixed]{fixed} [set_1]{set} of [rate_1]{rates}",
+      "entry": "sliding scale",
+      "id": "sliding-scale#sliding-scale__1"
+    },
+    {
+      "comment": "to [start_1]{start} to [remain]{remain} at a [price_1]{price}, [value_1]{value}, [level_1]{level}, etc. for a [period_1]{period} of time, or to [make_1]{make} something do this",
+      "entry": "steady",
+      "id": "steady_2#steady_2__3"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} of [shock_1]{shock} that [people_1]{people} have when the [price_1]{price} of something [suddenly]{suddenly} [increase_1]{increases}",
+      "entry": "sticker shock",
+      "id": "sticker-shock#sticker-shock__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone [pay_1]{pay} more than they should for something",
+      "entry": "sting",
+      "id": "sting_1#sting_1__13"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [subsidize]{subsidize}",
+      "entry": "subsidise",
+      "id": "subsidise#subsidise__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} some of the [cost_1]{cost} of [goods]{goods} or [service_1]{services} so that they can be [sold]{sold} to other [people_1]{people} at a [lower_1]{lower} [price_1]{price}",
+      "entry": "subsidize",
+      "id": "subsidize#subsidize__1"
+    },
+    {
+      "comment": "to [persuade]{persuade} someone to [lower_1]{lower} the [price_1]{price} of something",
+      "entry": "talk down",
+      "id": "talk-down#talk-down__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [formal_1]{formal} [written_1]{written} [offer_1]{offer} to [provide]{provide} [goods]{goods} or [service_1]{services} for a [particular_1]{particular} [price_1]{price}",
+      "entry": "tender",
+      "id": "tender_3#tender_3__3"
+    },
+    {
+      "comment": "to [fix_1]{fix} a [ticket_1]{ticket} to something to show its [price_1]{price}, [size_1]{size}, etc.",
+      "entry": "ticket",
+      "id": "ticket_2#ticket_2__3"
+    },
+    {
+      "comment": "to put a [price_1]{price} on something for [sale]{sale} that is less than its [actual]{actual} [value_1]{value}",
+      "entry": "underprice",
+      "id": "underprice#underprice__1"
+    },
+    {
+      "comment": "to [sell_1]{sell} something at a less [expensive]{expensive} [price_1]{price} than someone else",
+      "entry": "undersell",
+      "id": "undersell#undersell__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [deciding]{deciding} how much [money]{money} something is [worth_1]{worth}",
+      "entry": "valuation",
+      "id": "valuation#valuation__1"
+    },
+    {
+      "comment": "a [decision_1]{decision} [concerning_1]{concerning} the [value_1]{value} of something",
+      "entry": "valuation",
+      "id": "valuation#valuation__2"
+    },
+    {
+      "comment": "to [state_1]{state} how much something is [worth_1]{worth}",
+      "entry": "value",
+      "id": "value_2#value_2__5"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [value_1]{value} of something by a [large_1]{large} amount",
+      "entry": "wipe off",
+      "id": "wipe-off#wipe-off__1"
+    }
+  ],
+  "thesaurus": "Setting, controlling and changing prices and costs",
+  "type": "Related words"
+}

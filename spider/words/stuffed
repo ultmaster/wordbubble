@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is stuffed has [eaten]{eaten} until they [feel_1]{feel} full or [sick_1]{sick}",
+      "examples": [
+        "No more, [thanks_1]{thanks}. I\u2019m stuffed."
+      ],
+      "id": "stuffed__1"
+    },
+    {
+      "def": "a [dead_1]{dead} [animal_1]{animal} that is stuffed has been [fill_1]{filled} with a [substance]{substance} so that it [look_1]{looks} [alive]{alive}",
+      "examples": [
+        "stuffed [pepper_1]{peppers}"
+      ],
+      "id": "stuffed__3"
+    },
+    {
+      "def": "a [space_1]{space}, [container]{container}, or [shelf]{shelf} that is stuffed is full of [thing]{things}",
+      "examples": [
+        "The [closet_1]{closet} is [absolutely]{absolutely} stuffed \u2013 you [won]{won}\u2019t [fit_1]{fit} that [box_1]{box} in."
+      ],
+      "id": "stuffed__7"
+    }
+  ],
+  "word": "stuffed"
+}

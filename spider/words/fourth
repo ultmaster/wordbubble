@@ -1,0 +1,21 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} 4",
+      "examples": [
+        "the fourth of January",
+        "We came in fourth in the [race_1]{race}."
+      ],
+      "id": "fourth__1"
+    },
+    {
+      "def": "one of 4 [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "Only about a fourth of the [children]{children} had [heard]{heard} of Shakespeare."
+      ],
+      "id": "fourth__4"
+    }
+  ],
+  "word": "fourth"
+}

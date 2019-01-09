@@ -1,0 +1,25 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "all the [people_1]{people} who [live_1]{live} in a [particular_1]{particular} [area]{area}",
+      "examples": [
+        "Less than 40% of the population [vote_1]{voted} in the last [election]{election}.",
+        "the [aging_1]{aging} population of the U.S.",
+        "Los Angeles has a population of over 3 [million]{million}.",
+        "[better_1]{Better} [health]{health} [care_1]{care} and [agriculture]{agriculture} have [led_1]{led} to [rapid]{rapid} population [growth]{growth}.",
+        "[pressure_1]{Pressures} on [natural_1]{natural} [resource_1]{resources} will [increase_1]{increase} as we [face_1]{face} a population [explosion]{explosion}."
+      ],
+      "id": "population__1"
+    },
+    {
+      "def": "a [group_1]{group} of [people_1]{people} or [animal_1]{animals} of a [particular_1]{particular} [type_1]{type} that [live_1]{live} somewhere",
+      "examples": [
+        "California has a [large_1]{large} Spanish-speaking population.",
+        "Tanzania\u2019s [elephant]{elephant} population [stand_1]{stands} at about 55,000."
+      ],
+      "id": "population__9"
+    }
+  ],
+  "word": "population"
+}

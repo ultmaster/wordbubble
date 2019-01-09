@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "take care of",
+  "senses": [
+    {
+      "def": "to do the [necessary_1]{necessary} [thing]{things} for someone who [need_1]{needs} [help_1]{help} or [protection]{protection}",
+      "examples": [
+        "Who will take [care_1]{care} of the [children]{children}?"
+      ],
+      "id": "take-care-of__1"
+    },
+    {
+      "def": "to [treat_1]{treat} something [careful#careful__20]{carefully} so that it [stay_1]{stays} in [good_1]{good} [condition_1]{condition}",
+      "examples": [
+        "All the [neighbor]{neighbors} take very [good_1]{good} [care_1]{care} of their [yard]{yards}."
+      ],
+      "id": "take-care-of__3"
+    },
+    {
+      "def": "to do what is [necessary_1]{necessary} to [deal_1]{deal} with a [person]{person} or [situation]{situation}",
+      "examples": [
+        "I\u2019ll [leave_1]{leave} you to take [care_1]{care} of the [refreshment]{refreshments}.",
+        "Can you take [care_1]{care} of this [customer]{customer}, please?"
+      ],
+      "id": "take-care-of__5"
+    },
+    {
+      "def": "to [pay_1]{pay} for something: used especially when you are offering to pay for someone else",
+      "examples": [
+        "She [pick_1]{picked} up the [check_1]{check}, [saying]{saying}, \u201c[let_1]{Let} me take [care_1]{care} of that.\u201d"
+      ],
+      "id": "take-care-of__8"
+    }
+  ]
+}

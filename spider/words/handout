@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an amount of [money]{money} or [goods]{goods} [given_1]{given} to [people_1]{people} who [need_1]{need} them",
+      "examples": [
+        "He\u2019s forty and still [living_1]{living} on [handout]{handouts} from his [parent]{parents}."
+      ],
+      "id": "handout__1"
+    },
+    {
+      "def": "a [piece_1]{piece} of [paper_1]{paper} with [information]{information} on it that is [given_1]{given} to everyone in a [group_1]{group}, [especially]{especially} a [class_1]{class} of [student]{students}",
+      "examples": [
+        "You\u2019ll find some of the [reference_1]{references} on the handout."
+      ],
+      "id": "handout__3"
+    }
+  ],
+  "word": "handout"
+}

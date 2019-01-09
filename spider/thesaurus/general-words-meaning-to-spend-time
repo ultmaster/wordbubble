@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "to use your time, [effort]{effort}, or [energy]{energy} to do something",
+      "entry": "spend",
+      "id": "spend#spend__11"
+    },
+    {
+      "comment": "to [spend]{spend} time [doing]{doing} something",
+      "entry": "pass",
+      "id": "pass_1#pass_1__34"
+    },
+    {
+      "comment": "if you fill a [period_1]{period} of time, you [spend]{spend} it [doing]{doing} something",
+      "entry": "fill",
+      "id": "fill_1#fill_1__20"
+    },
+    {
+      "comment": "to [spend]{spend} a [lot_1]{lot} of time or [effort]{effort} [doing]{doing} something",
+      "entry": "devote to",
+      "id": "devote#devote__2"
+    },
+    {
+      "comment": "to [spend]{spend} a [particular_1]{particular} amount of time [doing]{doing} something, or to [make_1]{make} a [particular_1]{particular} amount of [effort]{effort} in [order_1]{order} to do something",
+      "entry": "put in",
+      "id": "put-in#put-in__1"
+    },
+    {
+      "comment": "to [spend]{spend} your time and [effort]{effort} [doing]{doing} something",
+      "entry": "dedicate to",
+      "id": "dedicate#dedicate__2"
+    },
+    {
+      "comment": "to [spend]{spend} a [particular_1]{particular} amount of time [doing]{doing} something, or to [make_1]{make} a [particular_1]{particular} amount of [effort]{effort} in [order_1]{order} to do something",
+      "entry": "put into",
+      "id": "put-into#put-into__1"
+    },
+    {
+      "comment": "to [spend]{spend} time [doing]{doing} a [particular_1]{particular} [activity]{activity} while you are [wait_1]{waiting} for something",
+      "entry": "kill",
+      "id": "kill_1#kill_1__16"
+    }
+  ],
+  "thesaurus": "General words meaning to spend time",
+  "type": "Synonyms"
+}

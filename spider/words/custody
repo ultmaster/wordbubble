@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [legal]{legal} [right_1]{right} to take [care_1]{care} of a [child]{child}",
+      "examples": [
+        "The parents have joint custody of their children  (=both parents will take care of the children).",
+        "The [girl]{girl}\u2019s [father_1]{father} was [award_2]{awarded} [sole_1]{sole} custody."
+      ],
+      "id": "custody__1"
+    },
+    {
+      "def": "a [situation]{situation} in which someone is [kept]{kept} in [prison]{prison} until they go to [court_1]{court} for [trial_1]{trial}",
+      "examples": [
+        "One of the [men]{men} [detain]{detained} is still in custody.",
+        "[suspect_1]{Suspects} can be [kept]{kept} in [police_1]{police} custody for up to 48 [hour]{hours}.",
+        "The [suspect_1]{suspect} had been [taken_1]{taken} into custody and was being [question_2]{questioned}.",
+        "All five [men]{men} were [remand_1]{remanded} in custody until Wednesday."
+      ],
+      "id": "custody__4"
+    },
+    {
+      "def": "the [protection]{protection} or [care_1]{care} of someone or something",
+      "examples": [
+        "The [file_1]{files} in [question_1]{question} are in the custody of the FBI."
+      ],
+      "id": "custody__9"
+    }
+  ],
+  "word": "custody"
+}

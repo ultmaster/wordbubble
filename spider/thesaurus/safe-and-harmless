@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[protected]{protected} from being [hurt_1]{hurt}, [damage_2]{damaged}, [lost_1]{lost}, [stolen]{stolen}, etc.",
+      "entry": "safe",
+      "id": "safe_1#safe_1__1"
+    },
+    {
+      "comment": "not [likely_1]{likely} to [upset_1]{upset} [people_1]{people} or to cause [problem]{problems}",
+      "entry": "harmless",
+      "id": "harmless#harmless__5"
+    },
+    {
+      "comment": "[safe_1]{safe} from [attack_1]{attack}, [harm_1]{harm}, or [damage_1]{damage}",
+      "entry": "secure",
+      "id": "secure_2#secure_2__1"
+    },
+    {
+      "comment": "[providing]{providing} [protection]{protection} against something [harmful]{harmful} or [dangerous]{dangerous}",
+      "entry": "protective",
+      "id": "protective#protective__1"
+    },
+    {
+      "comment": "not [likely_1]{likely} to [harm_1]{harm} or [hurt_1]{hurt} anyone or anything",
+      "entry": "innocuous",
+      "id": "innocuous#innocuous__3"
+    },
+    {
+      "comment": "[capable]{capable} of being [prevent]{prevented}",
+      "entry": "avoidable",
+      "id": "avoidable#avoidable__1"
+    },
+    {
+      "comment": "[capable]{capable} of being [controlled_1]{controlled} or [kept]{kept} within [safe_1]{safe} [limit_1]{limits}",
+      "entry": "controllable",
+      "id": "controllable#controllable__1"
+    },
+    {
+      "comment": "[capable]{capable} of being [prevent]{prevented}",
+      "entry": "preventable",
+      "id": "preventable#preventable__1"
+    },
+    {
+      "comment": "[safe_1]{safe}, or in [good_1]{good} [condition_1]{condition}",
+      "entry": "sound",
+      "id": "sound_3#sound_3__13"
+    },
+    {
+      "comment": "[protected]{protected} from [harm_1]{harm} or [danger]{danger} by a [particular_1]{particular} [person]{person} or [organization]{organization}",
+      "entry": "in safe hands",
+      "id": "in-safe-hands#in-safe-hands__1"
+    }
+  ],
+  "thesaurus": "Safe and harmless",
+  "type": "Synonyms"
+}

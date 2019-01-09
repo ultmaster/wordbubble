@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [popular]{popular} [activity]{activity}, [place_1]{place}, thing, etc. is one that many [people_1]{people} [like_1]{like}",
+      "entry": "popular",
+      "id": "popular#popular__4"
+    },
+    {
+      "comment": "[popular]{popular} at a [particular_1]{particular} time",
+      "entry": "fashionable",
+      "id": "fashionable#fashionable__1"
+    },
+    {
+      "comment": "[publicly]{publicly} [written_1]{written} and [talk_1]{talked} about in an [admiring]{admiring} way",
+      "entry": "acclaimed",
+      "id": "acclaimed#acclaimed__1"
+    },
+    {
+      "comment": "[get]{getting} a [good_1]{good} [reaction]{reaction} from [people_1]{people}",
+      "entry": "well-received",
+      "id": "well-received#well-received__1"
+    },
+    {
+      "comment": "very [popular]{popular}, or [successful]{successful}",
+      "entry": "top-rated",
+      "id": "top-rated#top-rated__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} someone or something that is [love_1]{loved}, [respected]{respected}, etc. a [lot_1]{lot} or by many [people_1]{people}",
+      "entry": "much loved/respected/admired/criticized etc.",
+      "id": "much-loved-respected-admired-criticized-etc#much-loved-respected-admired-criticized-etc__1"
+    },
+    {
+      "comment": "[popular]{popular} with many [people_1]{people}",
+      "entry": "big",
+      "id": "big_1#big_1__12"
+    },
+    {
+      "comment": "[create]{created} for or [popular]{popular} with a very [large_1]{large} [number_1]{number} of [people_1]{people}, [especially]{especially} [people_1]{people} with no [special_1]{special} [knowledge]{knowledge} of something",
+      "entry": "pop",
+      "id": "pop_3#pop_3__1"
+    },
+    {
+      "comment": "[exciting]{exciting}, [successful]{successful}, and [popular]{popular}",
+      "entry": "hot",
+      "id": "hot#hot__23"
+    },
+    {
+      "comment": "very [popular]{popular}",
+      "entry": "(all) the rage",
+      "id": "all-the-rage#all-the-rage__1"
+    }
+  ],
+  "thesaurus": "Popular with many people",
+  "type": "Synonyms"
+}

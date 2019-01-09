@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a seamed [face_1]{face} has a [lot_1]{lot} of [lines]{lines} in the [skin_1]{skin}",
+      "examples": [],
+      "id": "seamed__1"
+    },
+    {
+      "def": "made with a [seam]{seam}",
+      "examples": [
+        "seamed [black_1]{black} [stocking]{stockings}"
+      ],
+      "id": "seamed__2"
+    }
+  ],
+  "word": "seamed"
+}

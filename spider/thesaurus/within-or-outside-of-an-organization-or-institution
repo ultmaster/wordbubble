@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[close_1]{close} to the [people_1]{people} with the most [power_1]{power} or [authority]{authority}",
+      "entry": "inner",
+      "id": "inner#inner__5"
+    },
+    {
+      "comment": "from or within a [large_1]{large} [organization]{organization}",
+      "entry": "institutional",
+      "id": "institutional#institutional__1"
+    },
+    {
+      "comment": "[existing]{existing} or [happening_1]{happening} within an [organization]{organization} or [institution]{institution}",
+      "entry": "internal",
+      "id": "internal#internal__4"
+    },
+    {
+      "comment": "[belong]{belonging} to the [fringe_1]{fringe} of a [society]{society}, [organization]{organization}, or [event]{event}",
+      "entry": "fringe",
+      "id": "fringe_1#fringe_1__9"
+    },
+    {
+      "comment": "coming from [outside]{outside} a [particular_1]{particular} [person]{person} or thing",
+      "entry": "extrinsic",
+      "id": "extrinsic#extrinsic__1"
+    },
+    {
+      "comment": "[produce_1]{produced} or [intended_1]{intended} for [people_1]{people} [working]{working} within an [organization]{organization}",
+      "entry": "house",
+      "id": "house_1#house_1__9"
+    },
+    {
+      "comment": "coming from or [happening_1]{happening} [outside]{outside} a [particular_1]{particular} [organization]{organization}, [city]{city}, etc.",
+      "entry": "extramural",
+      "id": "extramural#extramural__4"
+    },
+    {
+      "comment": "[used]{used} when [name_2]{naming} the [organization]{organization} that [control_1]{controls} or [support_1]{supports} a [particular_1]{particular} [activity]{activity}",
+      "entry": "under the banner of something",
+      "id": "under-the-banner-of-something#under-the-banner-of-something__3"
+    },
+    {
+      "comment": "someone who is on the [inside_1]{inside} [work_1]{works} in the [organization]{organization} or is a [member]{member} of the [group_1]{group} that you are [talk_1]{talking} about",
+      "entry": "on the inside",
+      "id": "on-the-inside#on-the-inside__1"
+    },
+    {
+      "comment": "[existing]{existing} or [happening_1]{happening} within something such as a [process_1]{process} or system",
+      "entry": "internal",
+      "id": "internal#internal__7"
+    }
+  ],
+  "thesaurus": "Within or outside of an organization or institution",
+  "type": "Synonyms"
+}

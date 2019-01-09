@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "look good/bad",
+  "senses": [
+    {
+      "def": "to be [considered]{considered} a [good_1]{good}/bad thing to do",
+      "examples": [
+        "Do you [think_1]{think} it will [look_1]{look} [bad_1]{bad} if I don\u2019t go and see him?"
+      ],
+      "id": "look-good-bad__1"
+    },
+    {
+      "def": "to seem to be [going_1]{going} to have a [good_1]{good}/bad [result_1]{result}",
+      "examples": [
+        "[thing]{Things} aren\u2019t [look_1]{looking} too [good_1]{good} for him at the [moment]{moment}."
+      ],
+      "id": "look-good-bad__3"
+    }
+  ]
+}

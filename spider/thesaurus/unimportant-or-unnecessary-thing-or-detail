@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[thing]{things} that are not [important]{important}",
+      "entry": "stuff",
+      "id": "stuff_1#stuff_1__8"
+    },
+    {
+      "comment": "a [fact]{fact} that is not [important]{important}",
+      "entry": "detail",
+      "id": "detail_1#detail_1__3"
+    },
+    {
+      "comment": "a [subject_1]{subject} that is [completely]{completely} [unimportant]{unimportant}",
+      "entry": "non-issue",
+      "id": "non-issue#non-issue__1"
+    },
+    {
+      "comment": "something that is not [important]{important} or [necessary_1]{necessary} to a [particular_1]{particular} [situation]{situation} or [subject_1]{subject}",
+      "entry": "irrelevance",
+      "id": "irrelevance#irrelevance__3"
+    },
+    {
+      "comment": "[people_1]{people} or [thing]{things} that are no [long_1]{longer} [considered]{considered} [useful]{useful} or [necessary_1]{necessary} by an [organization]{organization}",
+      "entry": "dead wood",
+      "id": "dead-wood#dead-wood__1"
+    },
+    {
+      "comment": "[thing]{things} that are not [necessary_1]{necessary}",
+      "entry": "inessentials",
+      "id": "inessentials#inessentials__1"
+    },
+    {
+      "comment": "very [small_1]{small} or [unimportant]{unimportant} [detail_1]{details}",
+      "entry": "minutiae",
+      "id": "minutiae#minutiae__1"
+    },
+    {
+      "comment": "something that is [added]{added} to something else but is not [essential_1]{essential} to it",
+      "entry": "adjunct",
+      "id": "adjunct_1#adjunct_1__1"
+    },
+    {
+      "comment": "[unimportant]{unimportant} [detail_1]{details} or [information]{information}",
+      "entry": "trivia",
+      "id": "trivia#trivia__1"
+    },
+    {
+      "comment": "not anything that is [important]{important} or [worth_1]{worth} [thinking_1]{thinking} about",
+      "entry": "nothing",
+      "id": "nothing#nothing__10"
+    }
+  ],
+  "thesaurus": "Unimportant or unnecessary thing or detail",
+  "type": "Synonyms"
+}

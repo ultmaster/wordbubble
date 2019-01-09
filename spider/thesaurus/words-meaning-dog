@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "an animal kept as a pet, for guarding buildings, or for hunting. A young dog is called a puppy",
+      "entry": "dog",
+      "id": "dog_1#dog_1__1"
+    },
+    {
+      "comment": "a [dog_1]{dog} of any [type_1]{type}",
+      "entry": "hound",
+      "id": "hound_1#hound_1__2"
+    },
+    {
+      "comment": "a [dog_1]{dog}",
+      "entry": "pooch",
+      "id": "pooch#pooch__1"
+    },
+    {
+      "comment": "a [dog_1]{dog}",
+      "entry": "canine",
+      "id": "canine_2#canine_2__2"
+    },
+    {
+      "comment": "a [dog_1]{dog}, [especially]{especially} an [angry]{angry} [dog_1]{dog}",
+      "entry": "cur",
+      "id": "cur#cur__1"
+    },
+    {
+      "comment": "a [dog_1]{dog}",
+      "entry": "man\u2019s best friend",
+      "id": "man-s-best-friend#man-s-best-friend__1"
+    },
+    {
+      "comment": "a name often [used]{used} for [refer]{referring} to a [pet_1]{pet} [dog_1]{dog}",
+      "entry": "Fido",
+      "id": "fido#fido__1"
+    },
+    {
+      "comment": "a name often [used]{used} for [refer]{referring} to a [pet_1]{pet} [dog_1]{dog}",
+      "entry": "Rover",
+      "id": "rover_2#rover_2__1"
+    }
+  ],
+  "thesaurus": "Words meaning dog",
+  "type": "Synonyms"
+}

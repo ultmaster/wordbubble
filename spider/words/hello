@@ -1,0 +1,29 @@
+{
+  "part": "interjection",
+  "senses": [
+    {
+      "def": "[used]{used} as a [greeting]{greeting} when you [meet_1]{meet} someone or [begin]{begin} to [talk_1]{talk} to someone on the [telephone_1]{telephone}",
+      "examples": [
+        "[hello]{Hello}, my name is Anna.",
+        "I [need_1]{need} to [say_1]{say} hello to a few [people_1]{people}.",
+        "[hello]{Hello}! We\u2019re over here!"
+      ],
+      "id": "hello__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} someone is not being very [sensible]{sensible} or is not [pay_1]{paying} [attention]{attention} to what is [happening_1]{happening}",
+      "examples": [
+        "[hello]{Hello}! There\u2019s no way anyone will give you a [job_1]{job} with that [haircut]{haircut}."
+      ],
+      "id": "hello__6"
+    },
+    {
+      "def": "[used]{used} for [express_1]{expressing} [surprise_1]{surprise} or interest",
+      "examples": [
+        "[hello]{Hello}. What\u2019s that he\u2019s [holding]{holding}?"
+      ],
+      "id": "hello__8"
+    }
+  ],
+  "word": "hello"
+}

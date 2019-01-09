@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in/into step",
+  "senses": [
+    {
+      "def": "if [people_1]{people} or [thing]{things} are in [step_1]{step}, they [agree]{agree} or move at the same [rate_1]{rate}",
+      "examples": [
+        "[price_1]{Prices} [usually]{usually} keep in [step_1]{step} with [inflation]{inflation}."
+      ],
+      "id": "in-into-step__1"
+    },
+    {
+      "def": "if [people_1]{people} [walk_1]{walk} in [step_1]{step}, each [person]{person} [move_1]{moves} their [feet]{feet} at [exactly]{exactly} the same time as the others",
+      "examples": [
+        "The [protester]{protesters} [fell_1]{fell} in [step_1]{step} as they [march_1]{marched} [past_1]{past} the [jailhouse]{jailhouse}."
+      ],
+      "id": "in-into-step__3"
+    }
+  ]
+}

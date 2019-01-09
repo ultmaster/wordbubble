@@ -1,0 +1,331 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} thing such as a [piece_1]{piece} of [jewelry]{jewelry} or a [pair_1]{pair} of [shoe_1]{shoes} that you [wear_1]{wear} with [clothes]{clothes} to give them more [style_1]{style}",
+      "entry": "accessory",
+      "id": "accessory#accessory__1"
+    },
+    {
+      "comment": "another [set_1]{set} of [clothes]{clothes} that you take with you so that you can [wear_1]{wear} them [instead]{instead} of the ones you are [wearing]{wearing}, if [necessary_1]{necessary}",
+      "entry": "a change of clothes/socks/underwear etc.",
+      "id": "a-change-of-clothes-socks-underwear-etc#a-change-of-clothes-socks-underwear-etc__1"
+    },
+    {
+      "comment": "[beautiful]{beautiful} or [impressive]{impressive} [clothes]{clothes}",
+      "entry": "array",
+      "id": "array_1#array_1__8"
+    },
+    {
+      "comment": "[clothing]{clothing} that is very [large_1]{large} and [loose_1]{loose} for the [size_1]{size} of the [person]{person} [wearing]{wearing} it",
+      "entry": "baggies",
+      "id": "baggies#baggies__1"
+    },
+    {
+      "comment": "[light_1]{light} [summer]{summer} [clothes]{clothes} that you [wear_1]{wear} on the [beach_1]{beach}",
+      "entry": "beachwear",
+      "id": "beachwear#beachwear__1"
+    },
+    {
+      "comment": "[black_1]{black} [clothes]{clothes}",
+      "entry": "black",
+      "id": "black_2#black_2__2"
+    },
+    {
+      "comment": "very formal men\u2019s clothes worn for a social event, usually including a black bow tie",
+      "entry": "black tie",
+      "id": "black-tie#black-tie__1"
+    },
+    {
+      "comment": "[informal]{informal} [clothes]{clothes}",
+      "entry": "casuals",
+      "id": "casuals#casuals__1"
+    },
+    {
+      "comment": "[ordinary]{ordinary} [clothes]{clothes} rather than a [military]{military} [uniform_1]{uniform}",
+      "entry": "civvies",
+      "id": "civvies#civvies__1"
+    },
+    {
+      "comment": "[clothes]{clothes} with a [military]{military} [style_1]{style} that are [worn_1]{worn} by [ordinary]{ordinary} [people_1]{people}",
+      "entry": "combats",
+      "id": "combats#combats__1"
+    },
+    {
+      "comment": "[women]{women}\u2019s [clothes]{clothes} that are [design_2]{designed} to be [worn_1]{worn} together",
+      "entry": "coordinates",
+      "id": "coordinate_2#coordinate_2__2"
+    },
+    {
+      "comment": "[clothes]{clothes} that [performer]{performers} [wear_1]{wear} in a [play_1]{play}, [movie]{movie}, etc.",
+      "entry": "costume",
+      "id": "costume#costume__1"
+    },
+    {
+      "comment": "clothes that you wear at a costume party, pretending to be a famous person, an animal, a character from a story, etc.",
+      "entry": "costume",
+      "id": "costume#costume__4"
+    },
+    {
+      "comment": "[clothes]{clothes} that are [typical]{typical} of a [particular_1]{particular} [place_1]{place} or of a [period_1]{period} in [history]{history}",
+      "entry": "costume",
+      "id": "costume#costume__5"
+    },
+    {
+      "comment": "[clothes]{clothes} that a [famous_1]{famous} [designer_1]{designer} [make_1]{makes} for [individual_1]{individual} [customer]{customers}, or the [design_1]{design} of these [clothes]{clothes}",
+      "entry": "couture",
+      "id": "couture#couture__1"
+    },
+    {
+      "comment": "[clothes]{clothes} that [need_1]{need} to be [wash_1]{washed} with [special_1]{special} [care_1]{care}",
+      "entry": "delicates",
+      "id": "delicates#delicates__1"
+    },
+    {
+      "comment": "something that you [wear_1]{wear} to [change_1]{change} the way that you [look_1]{look} so that [people_1]{people} will not [recognize]{recognize} you",
+      "entry": "disguise",
+      "id": "disguise_2#disguise_2__1"
+    },
+    {
+      "comment": "[women]{women}\u2019s [clothes]{clothes} [worn_1]{worn} by a man or [men]{men}\u2019s [clothes]{clothes} [worn_1]{worn} by a [woman]{woman}, [usually]{usually} as part of an [entertainment]{entertainment}",
+      "entry": "drag",
+      "id": "drag_2#drag_2__5"
+    },
+    {
+      "comment": "a [set_1]{set} of [clothes]{clothes} that you [wear_1]{wear} together",
+      "entry": "ensemble",
+      "id": "ensemble#ensemble__3"
+    },
+    {
+      "comment": "[formal_1]{formal} [clothes]{clothes} that [people_1]{people} [wear_1]{wear} when they go to [important]{important} [social_1]{social} [event]{events} in the [evening_1]{evening}",
+      "entry": "evening dress",
+      "id": "evening-dress#evening-dress__1"
+    },
+    {
+      "comment": "clothes that you wear for fun to make you look like a particular famous person or a particular type of person, at a fancy-dress party",
+      "entry": "fancy dress",
+      "id": "fancy-dress#fancy-dress__1"
+    },
+    {
+      "comment": "[beautiful]{beautiful} [clothes]{clothes} and [jewelry]{jewelry}, [especially]{especially} the [type_1]{type} that [people_1]{people} [wear_1]{wear} only on [special_1]{special} [occasion_1]{occasions}",
+      "entry": "finery",
+      "id": "finery#finery__1"
+    },
+    {
+      "comment": "[thing]{things} that you [wear_1]{wear} on your [feet]{feet}, such as [shoe_1]{shoes} or [boot_1]{boots}",
+      "entry": "footwear",
+      "id": "footwear#footwear__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [clothing]{clothing}, for [example]{example} [clothing]{clothing} that [show_1]{shows} your [situation]{situation} in [life]{life} or the [work_1]{work} that you do",
+      "entry": "garb",
+      "id": "garb#garb__1"
+    },
+    {
+      "comment": "a [dirty_1]{dirty} [messy]{messy} [style_1]{style} of [clothing]{clothing} that is [popular]{popular} among [people_1]{people} who [play_1]{play} or [like_1]{like} [grunge]{grunge} [music]{music}",
+      "entry": "grunge",
+      "id": "grunge#grunge__2"
+    },
+    {
+      "comment": "[men]{men}\u2019s [clothes]{clothes}, or a [store_1]{store} that [sell_1]{sells} [men]{men}\u2019s [clothes]{clothes}",
+      "entry": "haberdashery",
+      "id": "haberdashery#haberdashery__1"
+    },
+    {
+      "comment": "[clothes]{clothes} that have been [worn_1]{worn} by someone and then [given_1]{given} to someone else in the same [family_1]{family}",
+      "entry": "hand-me-downs",
+      "id": "hand-me-downs#hand-me-downs__1"
+    },
+    {
+      "comment": "expensive and fashionable clothes, or the business of designing and making them. Someone who makes or sells these clothes is a haute couturier.",
+      "entry": "haute couture",
+      "id": "haute-couture#haute-couture__1"
+    },
+    {
+      "comment": "[thing]{things} that you [wear_1]{wear} on your [head_1]{head}",
+      "entry": "headgear",
+      "id": "headgear#headgear__1"
+    },
+    {
+      "comment": "socks, stockings, pantyhose, and tights. This word is used especially to refer to these things when they are sold in a store.",
+      "entry": "hosiery",
+      "id": "hosiery#hosiery__1"
+    },
+    {
+      "comment": "clothes that have been knitted",
+      "entry": "knitwear",
+      "id": "knitwear#knitwear__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} that has been made by a [well-known]{well-known} [designer_1]{designer}",
+      "entry": "label",
+      "id": "label_1#label_1__8"
+    },
+    {
+      "comment": "clothes made from leather, especially those worn by someone riding a motorcycle",
+      "entry": "leathers",
+      "id": "leather#leather__4"
+    },
+    {
+      "comment": "[clothes]{clothes} for [relaxing]{relaxing} or [play_1]{playing} [sport_1]{sports}. This [word_1]{word} is [used]{used} [mainly]{mainly} in [store_1]{stores} and the [clothing]{clothing} [industry]{industry}.",
+      "entry": "leisurewear",
+      "id": "leisurewear#leisurewear__1"
+    },
+    {
+      "comment": "a [special_1]{special} [old-fashioned_2]{old-fashioned} [type_1]{type} of [uniform_1]{uniform} that some [people_1]{people} [wear_1]{wear} for their [job_1]{job}, [usually]{usually} a [job_1]{job} that [involve]{involves} [serving]{serving} [people_1]{people}",
+      "entry": "livery",
+      "id": "livery#livery__1"
+    },
+    {
+      "comment": "[clothes]{clothes} for [men]{men}",
+      "entry": "menswear",
+      "id": "menswear#menswear__1"
+    },
+    {
+      "comment": "[hat]{hats} that are [sold]{sold} in [store_1]{stores}",
+      "entry": "millinery",
+      "id": "millinery#millinery__1"
+    },
+    {
+      "comment": "[clothes]{clothes}, [especially]{especially} [black_1]{black} [clothes]{clothes}, that are [worn_1]{worn} as a [sign_1]{sign} of [respect_1]{respect} for someone who has [die_1]{died}",
+      "entry": "mourning",
+      "id": "mourning#mourning__4"
+    },
+    {
+      "comment": "[clothes]{clothes} that you [wear_1]{wear} to [sleep_1]{sleep} in",
+      "entry": "nightclothes",
+      "id": "nightclothes#nightclothes__1"
+    },
+    {
+      "comment": "[sleepwear]{sleepwear}",
+      "entry": "nightwear",
+      "id": "nightwear#nightwear__1"
+    },
+    {
+      "comment": "[clothes]{clothes} such as [coat_1]{coats} that you [wear_1]{wear} over other [clothing]{clothing}, [especially]{especially} for [outdoor]{outdoor} [activity]{activities}",
+      "entry": "outerwear",
+      "id": "outerwear#outerwear__1"
+    },
+    {
+      "comment": "[clothes]{clothes} that are [old]{old}, [torn_1]{torn}, and [dirty_1]{dirty}",
+      "entry": "rags",
+      "id": "rag_1#rag_1__3"
+    },
+    {
+      "comment": "[special_1]{special} [clothes]{clothes} that you [wear_1]{wear} for a [ceremony]{ceremony} or [official_1]{official} [occasion_1]{occasion}",
+      "entry": "regalia",
+      "id": "regalia#regalia__1"
+    },
+    {
+      "comment": "[worn_1]{worn} or [used]{used} for [running_1]{running}",
+      "entry": "running",
+      "id": "running_2#running_2__3"
+    },
+    {
+      "comment": "[piece_1]{pieces} of [clothing]{clothing} such as [skirt_1]{skirts}, [pants]{pants}, and [shirt]{shirts} that you can [wear_1]{wear} together in [different]{different} [combination]{combinations}",
+      "entry": "separates",
+      "id": "separates#separates__1"
+    },
+    {
+      "comment": "[clothes]{clothes} that you [wear_1]{wear} to [sleep_1]{sleep} in",
+      "entry": "sleepwear",
+      "id": "sleepwear#sleepwear__1"
+    },
+    {
+      "comment": "someone\u2019s [best_1]{best} [clothes]{clothes}",
+      "entry": "someone\u2019s best bib and tucker",
+      "id": "someone-s-best-bib-and-tucker#someone-s-best-bib-and-tucker__1"
+    },
+    {
+      "comment": "[comfortable]{comfortable} [clothes]{clothes} that are [appropriate_1]{appropriate} for [informal]{informal} [occasion_1]{occasions}",
+      "entry": "sportswear",
+      "id": "sportswear#sportswear__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [clothing]{clothing} that you [wear_1]{wear} for a [particular_1]{particular} [activity]{activity}",
+      "entry": "suit",
+      "id": "suit_1#suit_1__4"
+    },
+    {
+      "comment": "your [best_1]{best} [clothes]{clothes} that you [wear_1]{wear} for [special_1]{special} [occasion_1]{occasions}",
+      "entry": "Sunday best",
+      "id": "sunday-best#sunday-best__1"
+    },
+    {
+      "comment": "[clothes]{clothes} that [people_1]{people} [wear_1]{wear} for [swimming]{swimming}",
+      "entry": "swimwear",
+      "id": "swimwear#swimwear__1"
+    },
+    {
+      "comment": "[synthetic]{synthetic} [clothing]{clothing} or [substance]{substances}",
+      "entry": "synthetics",
+      "id": "synthetics#synthetics__1"
+    },
+    {
+      "comment": "[old]{old} [torn_1]{torn} [piece_1]{pieces} of [clothing]{clothing}",
+      "entry": "tatters",
+      "id": "tatters#tatters__1"
+    },
+    {
+      "comment": "[thermal_1]{thermal} [clothes]{clothes}, [especially]{especially} [underwear]{underwear}",
+      "entry": "thermals",
+      "id": "thermal_2#thermal_2__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} the [upper_1]{upper} part of your body",
+      "entry": "top",
+      "id": "top_1#top_1__15"
+    },
+    {
+      "comment": "a [set_1]{set} of [clothes]{clothes} [consist]{consisting} of two [matching]{matching} [part_1]{parts}, one for the top part of your body and one for the bottom part",
+      "entry": "two-piece",
+      "id": "two-piece#two-piece__1"
+    },
+    {
+      "comment": "clothing that you wear next to your skin under your regular clothes. A more usual word is underwear.",
+      "entry": "underclothes",
+      "id": "underclothes#underclothes__1"
+    },
+    {
+      "comment": "a piece of clothing that you wear next to your skin under your regular clothes. A more usual word is a piece of underwear.",
+      "entry": "undergarment",
+      "id": "undergarment#undergarment__1"
+    },
+    {
+      "comment": "[clothing]{clothing} that you [wear_1]{wear} next to your [skin_1]{skin} under your [regular_1]{regular} [clothes]{clothes}",
+      "entry": "underwear",
+      "id": "underwear#underwear__1"
+    },
+    {
+      "comment": "[underwear]{underwear}",
+      "entry": "undies",
+      "id": "undies#undies__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [clothes]{clothes} that you [wear_1]{wear} to show that you are part of a [particular_1]{particular} [organization]{organization} or [school_1]{school}",
+      "entry": "uniform",
+      "id": "uniform_1#uniform_1__1"
+    },
+    {
+      "comment": "the [type_1]{type} of [clothes]{clothes} that a [particular_1]{particular} [person]{person} [usually]{usually} [wear_1]{wears}",
+      "entry": "uniform",
+      "id": "uniform_1#uniform_1__4"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} that has a V-neck",
+      "entry": "V-neck",
+      "id": "v-neck#v-neck__2"
+    },
+    {
+      "comment": "[clothes]{clothes} that are [appropriate_1]{appropriate} for a [particular_1]{particular} [activity]{activity} or [group_1]{group} of [people_1]{people}",
+      "entry": "wear",
+      "id": "wear_2#wear_2__5"
+    },
+    {
+      "comment": "clothing made from wool, especially by knitting",
+      "entry": "woolens",
+      "id": "woolens#woolens__1"
+    }
+  ],
+  "thesaurus": "Types of clothes and shoes",
+  "type": "Related words"
+}

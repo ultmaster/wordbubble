@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "boil up",
+  "senses": [
+    {
+      "def": "if a [situation]{situation} or [feeling_1]{feeling} [boil_1]{boils} up, [people_1]{people} [start_1]{start} to [feel_1]{feel} [angry]{angry}",
+      "examples": [
+        "[anger_1]{Anger} was [boiling]{boiling} up [inside_1]{inside} me."
+      ],
+      "id": "boil-up__1"
+    },
+    {
+      "def": "to [heat_1]{heat} [liquid_1]{liquid}, or to [heat_1]{heat} something in a [liquid_1]{liquid}, until it [boil_1]{boils}",
+      "examples": [
+        "Will you [boil_1]{boil} up some [water_1]{water}?",
+        "Keep the [chicken_1]{chicken} [bone_1]{bones} and [boil_1]{boil} them up to [make_1]{make} a [stock_1]{stock}."
+      ],
+      "id": "boil-up__3"
+    }
+  ]
+}

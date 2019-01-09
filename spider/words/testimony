@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [formal_1]{formal} [statement_1]{statement} about something that you [saw_1]{saw}, [know_1]{know}, or [experienced]{experienced}, [usually]{usually} [given_1]{given} in a [court_1]{court} of [law]{law}",
+      "examples": [
+        "I was [ask_1]{asked} to give testimony.",
+        "[eyewitness]{eyewitness}/[expert_1]{expert} testimony"
+      ],
+      "id": "testimony__1"
+    },
+    {
+      "def": "[evidence_1]{evidence} that something [exist]{exists} or is [true_1]{true}",
+      "examples": [
+        "The [latest]{latest} [trade_1]{trade} [figure_1]{figures} are testimony to the [failure]{failure} of this [administration]{administration}\u2019s [policy]{policies}."
+      ],
+      "id": "testimony__4"
+    }
+  ],
+  "word": "testimony"
+}

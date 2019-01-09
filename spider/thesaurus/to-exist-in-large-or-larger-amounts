@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to be [present_1]{present} in [large_1]{large} [number_1]{numbers} or [amount_1]{amounts}",
+      "entry": "abound",
+      "id": "abound#abound__1"
+    },
+    {
+      "comment": "to be more than something",
+      "entry": "go beyond",
+      "id": "go-beyond#go-beyond__1"
+    },
+    {
+      "comment": "to go above an [official_1]{official} [limit_1]{limit}",
+      "entry": "exceed",
+      "id": "exceed#exceed__4"
+    },
+    {
+      "comment": "to be [large_1]{larger} than a [particular_1]{particular} amount",
+      "entry": "top",
+      "id": "top_3#top_3__1"
+    },
+    {
+      "comment": "to [exist]{exist} in such [great_1]{great} [amount_1]{amounts} that someone or something cannot [deal_1]{deal} with them",
+      "entry": "overwhelm",
+      "id": "overwhelm#overwhelm__6"
+    },
+    {
+      "comment": "to be [better_1]{better} or [great_1]{greater} than something else",
+      "entry": "surpass",
+      "id": "surpass#surpass__1"
+    },
+    {
+      "comment": "to be [great_1]{greater} in [number_1]{number} or amount than others",
+      "entry": "predominate",
+      "id": "predominate#predominate__3"
+    },
+    {
+      "comment": "to [make_1]{make} a [place_1]{place} or [situation]{situation} very [unpleasant]{unpleasant} by being [present_1]{present} in [large_1]{large} [number_1]{numbers} or [quantity]{quantities}",
+      "entry": "infest",
+      "id": "infest#infest__3"
+    },
+    {
+      "comment": "to be [spread_1]{spread} around a [place_1]{place} in [large_1]{large} [number_1]{numbers}",
+      "entry": "litter",
+      "id": "litter_2#litter_2__3"
+    },
+    {
+      "comment": "to be [large_1]{larger} than the [high_1]{highest} [previous_1]{previous} amount or the [high_1]{highest} [expected]{expected} amount",
+      "entry": "break the ... barrier",
+      "id": "break-the-barrier#break-the-barrier__1"
+    }
+  ],
+  "thesaurus": "To exist in large or larger amounts",
+  "type": "Synonyms"
+}

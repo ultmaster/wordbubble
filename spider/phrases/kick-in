@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "kick in",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to have an [effect_1]{effect}",
+      "examples": [
+        "The [medicine]{medicine} [took]{took} some time to [kick_1]{kick} in.",
+        "The [new]{new} [rule_1]{rules} [kick_1]{kicked} in last [year]{year}."
+      ],
+      "id": "kick-in__1"
+    },
+    {
+      "def": "to give something, [especially]{especially} [money]{money}",
+      "examples": [
+        "Sweden has [kick_1]{kicked} in about $10 [million]{million} for the [aid_1]{aid} [package_1]{package}."
+      ],
+      "id": "kick-in__4"
+    }
+  ]
+}

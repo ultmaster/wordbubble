@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[consist]{consisting} of [granule]{granules}",
+      "examples": [],
+      "id": "granular__1"
+    },
+    {
+      "def": "with a [surface_1]{surface} that has [mark_1]{marks} on it that [make_1]{make} it [look_1]{look} [like_1]{like} [wood]{wood} or [leather]{leather}",
+      "examples": [],
+      "id": "granular__2"
+    },
+    {
+      "def": "granular [data]{data} or [information]{information} is [broken_1]{broken} down into [small_1]{small} [separate_1]{separate} [item]{items}",
+      "examples": [
+        "[remember]{Remember} to be as granular as [possible_1]{possible} when you [provide]{provide} [information]{information} of this [sort_1]{sort}."
+      ],
+      "id": "granular__3"
+    },
+    {
+      "def": "[consist]{consisting} of [small_1]{small} [separate_1]{separate} [item]{items} or [part_1]{parts}",
+      "examples": [
+        "We can [manage]{manage} these [activity]{activities} in ways that are much more granular than times [past_1]{past}."
+      ],
+      "id": "granular__5"
+    }
+  ],
+  "word": "granular"
+}

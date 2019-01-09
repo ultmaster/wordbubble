@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "look awful",
+  "senses": [
+    {
+      "def": "to [look_1]{look} [sick_1]{sick}, [sad_1]{sad}, or [worried]{worried}",
+      "examples": [
+        "What\u2019s [wrong_1]{wrong}? You [look_1]{look} [awful_1]{awful}."
+      ],
+      "id": "look-awful__1"
+    },
+    {
+      "def": "to [look_1]{look} [ugly]{ugly} or not [attractive]{attractive}",
+      "examples": [
+        "I don\u2019t [like_1]{like} these [curtain]{curtains}. They [look_1]{look} [awful_1]{awful}."
+      ],
+      "id": "look-awful__3"
+    }
+  ]
+}

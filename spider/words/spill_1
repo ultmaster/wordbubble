@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [accidentally]{accidentally} [pour]{pour} a [liquid_1]{liquid} out of its [container]{container}",
+      "examples": [
+        "I [spill_1]{spilled} [coffee]{coffee} all over my [desk]{desk}.",
+        "[oil_1]{Oil} is still [spill_1]{spilling} from the [stricken_1]{stricken} [ship_1]{ship}.",
+        "She [lift_1]{lifted} the [box_1]{box} and [spill_1]{spilled} [toy_1]{toys} out all over the [carpet_1]{carpet}."
+      ],
+      "id": "spill_1__1"
+    },
+    {
+      "def": "if [light_1]{light} [spill_1]{spills} somewhere, a [lot_1]{lot} of it [shine_1]{shines} on something",
+      "examples": [
+        "[sunlight]{Sunlight} was [spill_1]{spilling} into the [classroom]{classroom}."
+      ],
+      "id": "spill_1__7"
+    },
+    {
+      "def": "if [people_1]{people} spill out of a [place_1]{place}, a [lot_1]{lot} of them [leave_1]{leave} at the same time",
+      "examples": [
+        "[crowd_1]{Crowds} were [spill_1]{spilling} out of the [bar_1]{bars} and [restaurant]{restaurants}."
+      ],
+      "id": "spill_1__9"
+    }
+  ],
+  "word": "spill"
+}

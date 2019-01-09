@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [number_1]{number} of times that something [happen]{happens} during a [period_1]{period} of time",
+      "examples": [
+        "[change_1]{Changes} in [sea_1]{sea} [temperature]{temperature} will [increase_1]{increase} the frequency of [hurricane]{hurricanes}.",
+        "[accident]{Accidents} [occur]{occur} here with [increase_1]{increasing} frequency.",
+        "We [hope_1]{hope} this [treatment]{treatment} will [reduce]{reduce} the frequency of [heart_1]{heart} [disease]{disease}.",
+        "[word_1]{Words} with [higher_1]{higher} frequency are [likely_1]{likely} to have more [complex_1]{complex} [behavior]{behavior}.",
+        "We became [suspicious]{suspicious} of the frequency and [size_1]{size} of his [bank_1]{bank} [withdrawal]{withdrawals}."
+      ],
+      "id": "frequency__1"
+    },
+    {
+      "def": "the [rate_1]{rate} at which a [sound_1]{sound} [wave_1]{wave}, [light_1]{light} [wave_1]{wave}, or [radio_1]{radio} [wave_1]{wave} [vibrate]{vibrates}  (=moves up and down)",
+      "examples": [
+        "a frequency of 7.5 MHz"
+      ],
+      "id": "frequency__9"
+    }
+  ],
+  "word": "frequency"
+}

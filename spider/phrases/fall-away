@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "fall away",
+  "senses": [
+    {
+      "def": "if [land_1]{land} [fall_1]{falls} [away_1]{away}, it [slope_1]{slopes} down [suddenly]{suddenly} from a [particular_1]{particular} [point_1]{point}",
+      "examples": [
+        "The [ground_1]{ground} [fell_1]{fell} [away_1]{away} below us to the [ocean]{ocean}."
+      ],
+      "id": "fall-away__1"
+    },
+    {
+      "def": "to become [small_1]{smaller} or [lower_1]{lower} in amount, [level_1]{level}, [value_1]{value}, etc.",
+      "examples": [],
+      "id": "fall-away__3"
+    },
+    {
+      "def": "if something such as a [sound_1]{sound} or [feeling_1]{feeling} [fall_1]{falls} [away_1]{away}, it becomes [weak]{weaker} and [disappear]{disappears}",
+      "examples": [],
+      "id": "fall-away__4"
+    },
+    {
+      "def": "if something [fall_1]{falls} [away_1]{away}, it [break_1]{breaks} off from the thing it was [fixed]{fixed} to",
+      "examples": [
+        "[plaster_1]{Plaster} was [fall_1]{falling} [away_1]{away} from the [wall_1]{walls}."
+      ],
+      "id": "fall-away__5"
+    }
+  ]
+}

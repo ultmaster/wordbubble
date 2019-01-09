@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "step up",
+  "senses": [
+    {
+      "def": "to [increase_1]{increase} something",
+      "examples": [
+        "The [president_1]{president} has [step_2]{stepped} up the [pressure_1]{pressure} on the [group_1]{groups} to come to an [agreement]{agreement}."
+      ],
+      "id": "step-up__1"
+    },
+    {
+      "def": "to move [forward_1]{forward} to a [place_1]{place} where an [official_1]{official} [event]{event} is [happening_1]{happening}",
+      "examples": [
+        "She [step_2]{stepped} up to [receive]{receive} her [prize_1]{prize}."
+      ],
+      "id": "step-up__4"
+    }
+  ]
+}

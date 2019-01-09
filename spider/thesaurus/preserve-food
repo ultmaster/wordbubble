@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "to put [fruit_1]{fruit} or [vegetable]{vegetables} into [special_1]{special} [glass]{glass} [container]{containers} so they can be [kept]{kept} for a long time",
+      "entry": "bottle",
+      "id": "bottle_2#bottle_2__2"
+    },
+    {
+      "comment": "to [preserve_1]{preserve} [food]{food} in [metal_1]{metal} [container]{containers} by [store_2]{storing} it without [air_1]{air}",
+      "entry": "can",
+      "id": "can_3#can_3__1"
+    },
+    {
+      "comment": "to [preserve_1]{preserve} [meat]{meat}, [fish_1]{fish}, or other [food]{foods} by [dry_2]{drying} them, or by [use_1]{using} [smoke_1]{smoke} or [salt_1]{salt}",
+      "entry": "cure",
+      "id": "cure_2#cure_2__9"
+    },
+    {
+      "comment": "to [remove]{remove} the [water_1]{water} from [food]{food} as a way of [preserve_1]{preserving} it",
+      "entry": "dehydrate",
+      "id": "dehydrate#dehydrate__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [remove]{removing} [water_1]{water} from [food]{food} as a way of [preserve_1]{preserving} it",
+      "entry": "dehydration",
+      "id": "dehydration#dehydration__2"
+    },
+    {
+      "comment": "to [remove]{remove} the [water_1]{water} from [food]{food} or [plant_1]{plants} as a way of [preserve_1]{preserving} them",
+      "entry": "dry",
+      "id": "dry_2#dry_2__10"
+    },
+    {
+      "comment": "to [freeze_1]{freeze} [food]{food} very [quickly]{quickly} in [order_1]{order} to [preserve_1]{preserve} its [fresh_1]{fresh} [taste_1]{taste}",
+      "entry": "flash-freeze",
+      "id": "flash-freeze#flash-freeze__1"
+    },
+    {
+      "comment": "to preserve food or drink by making it extremely cold in a freezer",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__11"
+    },
+    {
+      "comment": "if [food]{food} [freeze_1]{freezes}, you can [preserve_1]{preserve} it in this way",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__13"
+    },
+    {
+      "comment": "to [process_1]{process} [milk_1]{milk} so that the [cream_1]{cream} will not [separate_1]{separate} and [rise_1]{rise} to the top",
+      "entry": "homogenize",
+      "id": "homogenize#homogenize__2"
+    },
+    {
+      "comment": "to treat food with radiation in order to kill bacteria and make the food stay fresh longer",
+      "entry": "irradiate",
+      "id": "irradiate#irradiate__1"
+    },
+    {
+      "comment": "the process of treating food with radiation in order to kill bacteria and make the food stay fresh longer",
+      "entry": "irradiation",
+      "id": "irradiation#irradiation__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} [food]{food} with a [substance]{substance} [inside_1]{inside} a [container]{container} so that it [does]{does} not [decay_1]{decay}",
+      "entry": "pack",
+      "id": "pack_1#pack_1__8"
+    },
+    {
+      "comment": "to preserve food in vinegar or salt water",
+      "entry": "pickle",
+      "id": "pickle_2#pickle_2__1"
+    },
+    {
+      "comment": "to cook and store food in a sealed container in order to preserve it",
+      "entry": "pot",
+      "id": "pot_2#pot_2__2"
+    },
+    {
+      "comment": "to [prevent]{prevent} [food]{food} or [wood]{wood} from [decay_1]{decaying} by [add_1]{adding} a [chemical_1]{chemical} [substance]{substance} to it",
+      "entry": "preserve",
+      "id": "preserve_1#preserve_1__8"
+    },
+    {
+      "comment": "to [add_1]{add} [chemical_1]{chemicals} or other [substance]{substances} to [food]{food}, for [example]{example} to keep it [fresh_1]{fresh} for a long time",
+      "entry": "process",
+      "id": "process_2#process_2__8"
+    },
+    {
+      "comment": "to [freeze_1]{freeze} [food]{food} very [quickly]{quickly} before it [stop_1]{stops} being [fresh_1]{fresh}",
+      "entry": "quick-freeze",
+      "id": "quick-freeze#quick-freeze__1"
+    },
+    {
+      "comment": "to keep [food]{food} or [drink_1]{drinks} [cold_1]{cold} by [put]{putting} them in a [refrigerator]{refrigerator}",
+      "entry": "refrigerate",
+      "id": "refrigerate#refrigerate__1"
+    },
+    {
+      "comment": "to [preserve_1]{preserve} and give [flavor_1]{flavor} to [fish_1]{fish} or other [food]{food} by [hanging_1]{hanging} it in [smoke_1]{smoke}",
+      "entry": "smoke",
+      "id": "smoke_2#smoke_2__10"
+    }
+  ],
+  "thesaurus": "Preserve food",
+  "type": "Related words"
+}

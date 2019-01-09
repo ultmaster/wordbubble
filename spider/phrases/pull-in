@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "pull in",
+  "senses": [
+    {
+      "def": "if a [train_1]{train} [pull_1]{pulls} in, it [arrive]{arrives} at a [station_1]{station}",
+      "examples": [
+        "The [train_1]{train} from Paris was [just_1]{just} [pull_1]{pulling} in.",
+        "We [pull_1]{pulled} in at the side of the [road]{road}."
+      ],
+      "id": "pull-in__1"
+    },
+    {
+      "def": "if the [police_1]{police} [pull_1]{pull} someone in, they [arrest_1]{arrest} them",
+      "examples": [],
+      "id": "pull-in__9"
+    }
+  ]
+}

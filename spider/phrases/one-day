@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "one day",
+  "senses": [
+    {
+      "def": "at some time in the [future_1]{future}",
+      "examples": [
+        "She [hope_1]{hopes} to own her own [business]{business} one [day]{day}."
+      ],
+      "id": "one-day__1"
+    },
+    {
+      "def": "on a [day]{day} in the [past_1]{past}",
+      "examples": [
+        "One [day]{day} he [just_1]{just} [walk_1]{walked} out and never came back."
+      ],
+      "id": "one-day__3"
+    }
+  ]
+}

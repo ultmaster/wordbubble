@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "do to",
+  "senses": [
+    {
+      "def": "to [make_1]{make} [change_1]{changes} in something",
+      "examples": [
+        "What have you done to your [hair]{hair}?",
+        "They [did]{did} something to the [central]{central} [heating]{heating} and now it doesn\u2019t [work_1]{work}."
+      ],
+      "id": "do-to__1"
+    },
+    {
+      "def": "to [treat_1]{treat} someone in a way that [harm_2]{harms} them",
+      "examples": [
+        "I\u2019ll never [forgive]{forgive} him for what he [did]{did} to me.",
+        "They [did]{did} [terrible]{terrible} [thing]{things} to some of the [prisoner]{prisoners}."
+      ],
+      "id": "do-to__4"
+    },
+    {
+      "def": "to [affect_1]{affect} someone in a way that [make_1]{makes} them [happy_1]{happy}, [sad_1]{sad}, or [excited]{excited}",
+      "examples": [
+        "When I [hear]{hear} that [song]{song}, it always [does]{does} something to me."
+      ],
+      "id": "do-to__7"
+    }
+  ]
+}

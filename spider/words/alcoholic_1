@@ -1,0 +1,27 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[contain]{containing} [alcohol]{alcohol}",
+      "examples": [
+        "alcoholic [beverage]{beverages}/[drink_1]{drinks}"
+      ],
+      "id": "alcoholic_1__1"
+    },
+    {
+      "def": "[affected]{affected} by [alcoholism]{alcoholism}",
+      "examples": [
+        "alcoholic [patient_1]{patients}"
+      ],
+      "id": "alcoholic_1__3"
+    },
+    {
+      "def": "[relate]{relating} to [alcohol]{alcohol} or [cause_2]{caused} by [alcohol]{alcohol}",
+      "examples": [
+        "alcoholic [liver]{liver} [disease]{disease}"
+      ],
+      "id": "alcoholic_1__5"
+    }
+  ],
+  "word": "alcoholic"
+}

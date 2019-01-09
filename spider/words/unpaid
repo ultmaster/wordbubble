@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "unpaid [work_1]{work} is [work_1]{work} that you are not [paid_1]{paid} for",
+      "examples": [
+        "She [like_2]{likes} the [job_1]{job}, but not the unpaid [overtime_1]{overtime}."
+      ],
+      "id": "unpaid__1"
+    },
+    {
+      "def": "not yet [paid_1]{paid} for, or not yet [paid_1]{paid} to someone",
+      "examples": [],
+      "id": "unpaid__3"
+    }
+  ],
+  "word": "unpaid"
+}

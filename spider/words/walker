@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [walk_1]{walks} for [pleasure]{pleasure} or for [exercise_1]{exercise}",
+      "examples": [
+        "Davis is a [keen_1]{keen} walker and [cyclist]{cyclist}.",
+        "The [bank_1]{banks} of the [river]{river} are [accessible]{accessible} to [walker]{walkers}."
+      ],
+      "id": "walker__1"
+    },
+    {
+      "def": "a [special_1]{special} [frame_1]{frame} that someone [use_1]{uses} to [help_1]{help} them [walk_1]{walk}",
+      "examples": [],
+      "id": "walker__4"
+    },
+    {
+      "def": "a [frame_1]{frame} with [wheel_1]{wheels} that [support_1]{supports} a [baby_1]{baby} when it [learn]{learns} to [walk_1]{walk}",
+      "examples": [],
+      "id": "walker__5"
+    },
+    {
+      "def": "[used]{used} for [describe]{describing} the [speed_1]{speed} that someone [walk_1]{walks}",
+      "examples": [
+        "I am a very [slow_1]{slow} walker."
+      ],
+      "id": "walker__6"
+    }
+  ],
+  "word": "walker"
+}

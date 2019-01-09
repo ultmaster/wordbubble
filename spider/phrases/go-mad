@@ -1,0 +1,32 @@
+{
+  "part": "phrase",
+  "phrase": "go mad",
+  "senses": [
+    {
+      "def": "to become [mental#mental__12]{mentally} ill",
+      "examples": [],
+      "id": "go-mad__1"
+    },
+    {
+      "def": "to [start_1]{start} [behave]{behaving} in a [dangerous]{dangerous} [uncontrolled]{uncontrolled} [manner]{manner}",
+      "examples": [
+        "He went mad and [tried_1]{tried} to [attack_1]{attack} someone."
+      ],
+      "id": "go-mad__2"
+    },
+    {
+      "def": "to become [extremely]{extremely} [excited]{excited} and [happy_1]{happy}",
+      "examples": [
+        "The [wait_1]{waiting} [crowd_1]{crowd} went mad when she [step_2]{stepped} out of the [car]{car}."
+      ],
+      "id": "go-mad__4"
+    },
+    {
+      "def": "to become [crazy_1]{crazy} because you are so [bored]{bored}, [upset_1]{upset}, etc.",
+      "examples": [
+        "I would go mad if I had to [stay_1]{stay} in [bed_1]{bed} for three [week]{weeks}."
+      ],
+      "id": "go-mad__6"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [straight_1]{straight} [line_1]{line} that [touch_1]{touches} the [edge_1]{edge} of a [circle_1]{circle} but [does]{does} not [pass_1]{pass} through it",
+      "examples": [],
+      "id": "tangent__1"
+    },
+    {
+      "def": "in a right triangle, the [measurement]{measurement} of an [acute]{acute} [angle_1]{angle} that is [equal_1]{equal} to the [length]{length} of the side [opposite_1]{opposite} the [angle_1]{angle} [divided]{divided} by the [length]{length} of the side between the [angle_1]{angle} and the right angle",
+      "examples": [],
+      "id": "tangent__2"
+    }
+  ],
+  "word": "tangent"
+}

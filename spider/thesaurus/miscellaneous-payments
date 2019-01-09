@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an amount of [money]{money} that you [pay_1]{pay} or [receive]{receive}",
+      "entry": "payment",
+      "id": "payment#payment__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that is [paid_1]{paid} to someone before the [usual]{usual} time",
+      "entry": "advance",
+      "id": "advance_1#advance_1__9"
+    },
+    {
+      "comment": "[regular_1]{regular} [payment]{payments} made by a [person]{person} or [organization]{organization} in [order_1]{order} to [pay_1]{pay} for [insurance]{insurance}, [pension_1]{pensions}, etc.",
+      "entry": "contribution",
+      "id": "contribution#contribution__10"
+    },
+    {
+      "comment": "an amount of [money]{money} [paid_1]{paid} in [addition]{addition} to the [usual]{usual} amount",
+      "entry": "premium",
+      "id": "premium_1#premium_1__4"
+    },
+    {
+      "comment": "a first [payment]{payment} that you [make_1]{make} when you are [buy_1]{buying} something and are [going_1]{going} to [pay_1]{pay} the rest [later_1]{later}",
+      "entry": "down payment",
+      "id": "down-payment#down-payment__1"
+    },
+    {
+      "comment": "[payment]{payment} that you [make_1]{make} to someone who has [lent_1]{lent} you [money]{money}",
+      "entry": "payback",
+      "id": "payback#payback__6"
+    },
+    {
+      "comment": "the [complete_1]{complete} [payment]{payment} of an amount of [money]{money} that you owe",
+      "entry": "settlement",
+      "id": "settlement#settlement__13"
+    },
+    {
+      "comment": "a first payment that you make when you agree to buy something expensive such as a car or house. The rest of the money that you pay later is called the balance",
+      "entry": "deposit",
+      "id": "deposit_1#deposit_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [money]{money} that you give to someone to [thank]{thank} them for [doing]{doing} something for you",
+      "entry": "gratuity",
+      "id": "gratuity#gratuity__1"
+    },
+    {
+      "comment": "a [payment]{payment} for [goods]{goods} or [service_1]{services} that you [send_1]{send} through the [mail_1]{mail}",
+      "entry": "remittance",
+      "id": "remittance#remittance__1"
+    }
+  ],
+  "thesaurus": "Miscellaneous payments",
+  "type": "Synonyms"
+}

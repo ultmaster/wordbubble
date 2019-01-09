@@ -1,0 +1,29 @@
+{
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "after [equal_1]{equal} [amount_1]{amounts} of time have [pass_1]{passed}, for [example]{example} every [day]{day} or every [month]{month}",
+      "examples": [
+        "[people_1]{People} who [exercise_1]{exercise} regularly are less [likely_1]{likely} to [feel_1]{feel} [stress_1]{stress}.",
+        "A [committee]{committee} will [meet_1]{meet} regularly to [discuss]{discuss} the [company]{company}\u2019s [progress_1]{progress}."
+      ],
+      "id": "regularly__1"
+    },
+    {
+      "def": "[frequently]{frequently}",
+      "examples": [
+        "The [equipment]{equipment} [need_1]{needs} to be [checked]{checked} regularly.",
+        "He [travel_1]{travels} to Paris [fairly]{fairly} regularly."
+      ],
+      "id": "regularly__4"
+    },
+    {
+      "def": "with an even [shape_1]{shape}, or [arrange]{arranged} with an [equal_1]{equal} amount of [space_1]{space} between [object_1]{objects}",
+      "examples": [
+        "The [city]{city} [plant_2]{planted} [tree]{trees} along the [street_1]{streets} at regularly [spaced]{spaced} [interval]{intervals}."
+      ],
+      "id": "regularly__7"
+    }
+  ],
+  "word": "regularly"
+}

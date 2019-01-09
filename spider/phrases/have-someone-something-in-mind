@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "have someone/something in mind",
+  "senses": [
+    {
+      "def": "to [know_1]{know} the [type_1]{type} of [person]{person} or thing that you [want_1]{want} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "What [kind_1]{kind} of [house_1]{house} [did]{did} you have in [mind_1]{mind}?",
+        "What [sort_1]{sort} of [person]{person} do you have in [mind_1]{mind} for the [job_1]{job}?"
+      ],
+      "id": "have-someone-something-in-mind__1"
+    },
+    {
+      "def": "to [remember]{remember} someone or something",
+      "examples": [
+        "[does]{Does} [everybody]{everybody} have the [procedure]{procedure} [firm_1#firm_1__28]{firmly} in [mind_1]{mind}?"
+      ],
+      "id": "have-someone-something-in-mind__4"
+    }
+  ]
+}

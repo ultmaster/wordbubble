@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "be torn by something",
+  "senses": [
+    {
+      "def": "if a [place_1]{place} or [group_1]{group} of [people_1]{people} is [torn_1]{torn} by an [unpleasant]{unpleasant} [event]{event} or [situation]{situation}, it is very [seriously]{seriously} [affected]{affected} by it",
+      "examples": [
+        "an [area]{area} [torn_1]{torn} by [civil]{civil} war"
+      ],
+      "id": "be-torn-by-something__1"
+    },
+    {
+      "def": "to be [affected]{affected} [strongly]{strongly} by an [unpleasant]{unpleasant} [emotion]{emotion}",
+      "examples": [
+        "I was [torn_1]{torn} by [guilt_1]{guilt}."
+      ],
+      "id": "be-torn-by-something__3"
+    }
+  ]
+}

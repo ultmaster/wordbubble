@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "leave over",
+  "senses": [
+    {
+      "def": "if part of an amount of something such as [money]{money} or [food]{food} is [left_1]{left} over, you still have some of it after you have [used]{used} or [eaten]{eaten} the rest of it",
+      "examples": [
+        "There was some [ham_1]{ham} [left_1]{left} over from [lunch_1]{lunch}."
+      ],
+      "id": "leave-over__1"
+    },
+    {
+      "def": "to still [exist]{exist} from the [past_1]{past}",
+      "examples": [
+        "These [attitude]{attitudes} are [left_1]{left} over from the war."
+      ],
+      "id": "leave-over__3"
+    }
+  ]
+}

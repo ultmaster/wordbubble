@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "not [famous_1]{famous}",
+      "entry": "unknown",
+      "id": "unknown_1#unknown_1__5"
+    },
+    {
+      "comment": "not [known_1]{known} about, or not well [known_1]{known}",
+      "entry": "obscure",
+      "id": "obscure_1#obscure_1__1"
+    },
+    {
+      "comment": "not [famous_1]{famous}",
+      "entry": "unrecognized",
+      "id": "unrecognized#unrecognized__5"
+    },
+    {
+      "comment": "not [famous_1]{famous}, [praise_1]{praised}, or [admire]{admired}, although [deserving]{deserving} to be",
+      "entry": "unsung",
+      "id": "unsung#unsung__1"
+    },
+    {
+      "comment": "well [known_1]{known} or not well [known_1]{known} to [people_1]{people} in [general_1]{general}",
+      "entry": "in/out of the public eye",
+      "id": "in-out-of-the-public-eye#in-out-of-the-public-eye__1"
+    },
+    {
+      "comment": "a [state_1]{state} in which a [person]{person} or thing is not well [known_1]{known} or not [remember]{remembered}",
+      "entry": "obscurity",
+      "id": "obscurity#obscurity__1"
+    }
+  ],
+  "thesaurus": "Not famous",
+  "type": "Synonyms"
+}

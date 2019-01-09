@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "off the map",
+  "senses": [
+    {
+      "def": "[far]{far} [away_1]{away} from [town]{towns} and [city]{cities}",
+      "examples": [
+        "It\u2019s a [little_1]{little} [town]{town} in Nebraska, [right_1]{right} off the [map_1]{map}."
+      ],
+      "id": "off-the-map__1"
+    },
+    {
+      "def": "[completely]{completely} [destroy]{destroyed}, or no [long_1]{longer} [existing]{existing} as a [country]{country}, [city]{city}, etc.",
+      "examples": [
+        "He [said_1]{said} he had enough [explosive_1]{explosive} to [wipe_1]{wipe} the [island]{island} off the [map_1]{map}."
+      ],
+      "id": "off-the-map__3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "change into",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} being in one [state_1]{state}, [condition_1]{condition}, or form and [start_1]{start} being in another, or to [make_1]{make} something do this",
+      "examples": [
+        "At what [point_1]{point} [does]{does} [boiling]{boiling} [water_1]{water} [change_1]{change} into [vapor]{vapor}?"
+      ],
+      "id": "change-into__1"
+    },
+    {
+      "def": "in [story]{stories}, if a [person]{person} or thing [change_1]{changes} into something, or is [changed]{changed} into something, they become that thing by [magic_1]{magic}",
+      "examples": [
+        "The [frog]{frog} [changed]{changed} into a [handsome]{handsome} [prince]{prince}."
+      ],
+      "id": "change-into__3"
+    }
+  ]
+}

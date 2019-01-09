@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [state_1]{state} of being [famous_1]{famous}",
+      "entry": "fame",
+      "id": "fame#fame__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [famous_1]{famous} and [admire]{admired} for a [special_1]{special} [skill]{skill} or [achievement]{achievement}",
+      "entry": "renown",
+      "id": "renown#renown__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [famous_1]{famous}",
+      "entry": "celebrity",
+      "id": "celebrity#celebrity__4"
+    },
+    {
+      "comment": "the [state_1]{state} of being [important]{important} or well [known_1]{known}",
+      "entry": "prominence",
+      "id": "prominence#prominence__1"
+    },
+    {
+      "comment": "a [position_1]{position} of [power_1]{power}, [success]{success}, or [respect_1]{respect}",
+      "entry": "greatness",
+      "id": "greatness#greatness__1"
+    },
+    {
+      "comment": "the state of being very famous, especially as a movie star or entertainer",
+      "entry": "stardom",
+      "id": "stardom#stardom__1"
+    },
+    {
+      "comment": "the fact of being immortal or being famous enough to be remembered for a long time",
+      "entry": "immortality",
+      "id": "immortality#immortality__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone or something is [famous_1]{famous} for something [bad_1]{bad}",
+      "entry": "notoriety",
+      "id": "notoriety#notoriety__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which you get a [lot_1]{lot} of [public_1]{public} [attention]{attention}",
+      "entry": "the spotlight",
+      "id": "spotlight_1#spotlight_1__3"
+    },
+    {
+      "comment": "[thing]{things} that are [written_1]{written} or [said_1]{said} about a [person]{person}, [product]{product}, [event]{event}, etc. that [make_1]{make} them [well-known]{well-known}",
+      "entry": "exposure",
+      "id": "exposure#exposure__6"
+    }
+  ],
+  "thesaurus": "Fame and renown",
+  "type": "Synonyms"
+}

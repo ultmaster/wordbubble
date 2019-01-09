@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} [marked]{marked} by a [sign_1]{sign} at the side of a [road]{road} where [bus_1]{buses} [stop_1]{stop} to [let_1]{let} [passenger]{passengers} get on and off",
+      "entry": "bus stop",
+      "id": "bus-stop#bus-stop__1"
+    },
+    {
+      "comment": "the edge of a sidewalk  (=path built beside a road) that is closest to the road. The British word is kerb",
+      "entry": "curb",
+      "id": "curb_1#curb_1__1"
+    },
+    {
+      "comment": "a [slope_2#slope_2__5]{sloping} [wall_1]{wall} of [earth]{earth} or [stone_1]{stone} beside a [road]{road}, [railroad_1]{railroad}, or [river]{river}",
+      "entry": "embankment",
+      "id": "embankment#embankment__1"
+    },
+    {
+      "comment": "the [edge_1]{edge} of the [road]{road}, where [water_1]{water} [flow_1]{flows} [away_1]{away}",
+      "entry": "gutter",
+      "id": "gutter_1#gutter_1__2"
+    },
+    {
+      "comment": "a [line_1]{line} of [bush]{bushes}, [small_1]{small} [tree]{trees}, and [plant_1]{plants} along the [edge_1]{edge} of a [field_1]{field} or [road]{road}",
+      "entry": "hedgerow",
+      "id": "hedgerow#hedgerow__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [curb_1]{curb}",
+      "entry": "kerb",
+      "id": "kerb#kerb__2"
+    },
+    {
+      "comment": "a [tall]{tall} [post_1]{post} at the side of a [street_1]{street} with a [light_1]{light} on top",
+      "entry": "lamppost",
+      "id": "lamppost#lamppost__1"
+    },
+    {
+      "comment": "an [area]{area} [provided]{provided} by the side of a [road]{road} where [vehicle]{vehicles} can [stop_1]{stop} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "lay-by",
+      "id": "lay-by#lay-by__1"
+    },
+    {
+      "comment": "a [post_1]{post} at the side of a [road]{road} or [railroad_1]{railroad} [track_1]{track} that [show_1]{shows} the [distance_1]{distance} to a [particular_1]{particular} [place_1]{place}",
+      "entry": "milepost",
+      "id": "milepost#milepost__1"
+    },
+    {
+      "comment": "a [stone_1]{stone} at the side of a [road]{road} that [show_1]{shows} the [distance_1]{distance} to a [particular_1]{particular} [place_1]{place}",
+      "entry": "milestone",
+      "id": "milestone#milestone__1"
+    },
+    {
+      "comment": "a [sidewalk]{sidewalk}",
+      "entry": "pavement",
+      "id": "pavement#pavement__2"
+    },
+    {
+      "comment": "an [area]{area} of [ground_1]{ground} [covered_1]{covered} with a [hard_1]{hard} [surface_1]{surface}, [especially]{especially} one in which [brick_1]{bricks} or [block_1]{blocks} of [stone_1]{stone} form a [pattern_1]{pattern}",
+      "entry": "paving",
+      "id": "paving#paving__2"
+    },
+    {
+      "comment": "an [area]{area} next to a [major_1]{major} [highway]{highway} where [car]{cars} can [park_1]{park} and [people_1]{people} can rest, use the [toilet]{toilets}, and get [food]{food}",
+      "entry": "plaza",
+      "id": "plaza#plaza__3"
+    },
+    {
+      "comment": "a [place_1]{place} beside a [highway]{highway} where [driver]{drivers} can [stop_1]{stop} and get [food]{food}, use the [bathroom]{bathrooms}, etc.",
+      "entry": "rest area",
+      "id": "rest-area#rest-area__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} or [bar_1]{bar} on a [main_1]{main} [road]{road} in the [countryside]{countryside}",
+      "entry": "roadhouse",
+      "id": "roadhouse#roadhouse__1"
+    },
+    {
+      "comment": "the [area]{area} at the [edge_1]{edge} or side of a [road]{road}",
+      "entry": "roadside",
+      "id": "roadside#roadside__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [water_1]{water} [collect_1]{collects} along the side of a [road]{road}",
+      "entry": "runnel",
+      "id": "runnel#runnel__2"
+    },
+    {
+      "comment": "a [place_1]{place} beside a [highway]{highway} where [gas_1]{gas}, [food]{food}, [drink_1]{drinks}, and [toilet]{toilets} are [available]{available}",
+      "entry": "service area",
+      "id": "service-area#service-area__1"
+    },
+    {
+      "comment": "the [area]{area} of [ground_1]{ground} at the side of a [road]{road}, where [car]{cars} can [stop_1]{stop} if they [need_1]{need} to",
+      "entry": "shoulder",
+      "id": "shoulder_1#shoulder_1__7"
+    },
+    {
+      "comment": "an area along the side of a street that has a hard surface, used by people who are walking. The British word is pavement.",
+      "entry": "sidewalk",
+      "id": "sidewalk#sidewalk__1"
+    },
+    {
+      "comment": "[thing]{things} that have been [place_2]{placed} at the side of a [street_1]{street}, for [example]{example} [light_1]{lights}, [road]{road} [sign_1]{signs}, and [container]{containers} for [waste_1]{waste}",
+      "entry": "street furniture",
+      "id": "street-furniture#street-furniture__1"
+    },
+    {
+      "comment": "a [border_1]{border} along the side of a [road]{road}, often [covered_1]{covered} with [grass]{grass}",
+      "entry": "verge",
+      "id": "verge_2#verge_2__1"
+    },
+    {
+      "comment": "the side of a [road]{road}, [especially]{especially} in the [countryside]{countryside}",
+      "entry": "wayside",
+      "id": "wayside#wayside__1"
+    }
+  ],
+  "thesaurus": "The roadside and its features",
+  "type": "Related words"
+}

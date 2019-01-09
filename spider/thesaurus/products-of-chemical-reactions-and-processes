@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of a [substance]{substance} that has a [regular_1]{regular} [shape_1]{shape} with many sides and is [form_2]{formed} when the [substance]{substance} becomes [solid_1]{solid}",
+      "entry": "crystal",
+      "id": "crystal#crystal__5"
+    },
+    {
+      "comment": "a [poisonous]{poisonous} [chemical_1]{chemical} [produce_1]{produced} during the [process_1]{process} of [making]{making} [chemical_1]{chemicals} for [killing]{killing} [plant_1]{plants}",
+      "entry": "dioxin",
+      "id": "dioxin#dioxin__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} that has been [distill]{distilled}",
+      "entry": "distillate",
+      "id": "distillate#distillate__1"
+    },
+    {
+      "comment": "a liquid or gas that has passed through a filter in order to remove solid parts that are not wanted from it",
+      "entry": "filtrate",
+      "id": "filtrate#filtrate__1"
+    },
+    {
+      "comment": "a [solid_1]{solid} [substance]{substance} that has been [separated]{separated} from a [liquid_1]{liquid} it was in",
+      "entry": "precipitate",
+      "id": "precipitate_2#precipitate_2__1"
+    },
+    {
+      "comment": "a [substance]{substance} that [remains]{remains} after a [chemical_1]{chemical} [process_1]{process}",
+      "entry": "residue",
+      "id": "residue#residue__4"
+    },
+    {
+      "comment": "the rough red [substance]{substance} that [damage_2]{damages} the [surface_1]{surface} of [iron_1]{iron} and [steel_1]{steel}",
+      "entry": "rust",
+      "id": "rust_1#rust_1__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [white_1]{white} [substance]{substance} that [form_1]{forms} on the [inside_1]{inside} of [water_1]{water} [pipe_1]{pipes} and [container]{containers} that are [regularly]{regularly} [used]{used} for [heating]{heating} [water_1]{water}",
+      "entry": "scale",
+      "id": "scale_1#scale_1__30"
+    }
+  ],
+  "thesaurus": "Products of chemical reactions and processes",
+  "type": "Related words"
+}

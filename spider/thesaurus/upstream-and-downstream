@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "at or toward a [place_1]{place} that is [farther_1]{farther} along a [river]{river} as it [flow_1]{flows} in the [direction]{direction} of the [ocean]{ocean}",
+      "entry": "downriver",
+      "id": "downriver#downriver__1"
+    },
+    {
+      "comment": "in the [direction]{direction} that a [river]{river} or [stream_1]{stream} is [flowing]{flowing}",
+      "entry": "downstream",
+      "id": "downstream_1#downstream_1__1"
+    },
+    {
+      "comment": "in a [position_1]{position} [farther_1]{farther} along a [river]{river} or [stream_1]{stream} as it [flow_1]{flows} in the [direction]{direction} of the [ocean]{ocean}",
+      "entry": "downstream",
+      "id": "downstream_2#downstream_2__3"
+    },
+    {
+      "comment": "[moving]{moving} along a [river]{river} in the [opposite_1]{opposite} [direction]{direction} that the [water_1]{water} is [flowing]{flowing}, or at a [point_1]{point} along it in this [direction]{direction}",
+      "entry": "up",
+      "id": "up_1#up_1__34"
+    },
+    {
+      "comment": "in the [opposite_1]{opposite} [direction]{direction} to the way a [river]{river} [flow_1]{flows}",
+      "entry": "upriver",
+      "id": "upriver#upriver__1"
+    },
+    {
+      "comment": "in the [opposite_1]{opposite} [direction]{direction} to the way a [river]{river} or [stream_1]{stream} [flow_1]{flows}",
+      "entry": "upstream",
+      "id": "upstream#upstream__1"
+    }
+  ],
+  "thesaurus": "Upstream and downstream",
+  "type": "Related words"
+}

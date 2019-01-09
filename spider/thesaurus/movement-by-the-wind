@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something [blow_1]{blows} [away_1]{away} or is [blown]{blown} [away_1]{away}, the [wind_1]{wind} [move_1]{moves} it [away_1]{away} from you until you cannot see or [touch_1]{touch} it",
+      "entry": "blow away",
+      "id": "blow-away#blow-away__1"
+    },
+    {
+      "comment": "if something [blow_1]{blows} off or is [blown]{blown} off, the [wind_1]{wind} [make_1]{makes} it come off",
+      "entry": "blow off",
+      "id": "blow-off#blow-off__1"
+    },
+    {
+      "comment": "if something [blow_1]{blows} over or is [blown]{blown} over, the [wind_1]{wind} [make_1]{makes} it [fall_1]{fall}",
+      "entry": "blow over",
+      "id": "blow-over#blow-over__1"
+    },
+    {
+      "comment": "if something [blow_1]{blows} down or is [blown]{blown} down, the [wind_1]{wind} [make_1]{makes} it [fall_1]{fall}",
+      "entry": "blow down",
+      "id": "blow-down#blow-down__1"
+    },
+    {
+      "comment": "to [fly_1]{fly} without [use_1]{using} [power_1]{power}, [carry_1]{carried} by the [wind_1]{wind}",
+      "entry": "glide",
+      "id": "glide#glide__4"
+    },
+    {
+      "comment": "to be [blown]{blown} around in the [wind_1]{wind}",
+      "entry": "fly",
+      "id": "fly_1#fly_1__38"
+    },
+    {
+      "comment": "against the [force_1]{force} of a [strong]{strong} [wind_1]{wind}",
+      "entry": "in the teeth of something",
+      "id": "in-the-teeth-of-something#in-the-teeth-of-something__3"
+    },
+    {
+      "comment": "[carry_1]{carried} along by the [wind_1]{wind}",
+      "entry": "windblown",
+      "id": "windblown#windblown__1"
+    },
+    {
+      "comment": "if [snow_1]{snow} or [sand_1]{sand} [drift_1]{drifts}, the [wind_1]{wind} [blow_1]{blows} it into a [large_1]{large} [pile_1]{pile}",
+      "entry": "drift",
+      "id": "drift_1#drift_1__4"
+    },
+    {
+      "comment": "to move, or to be [move_1]{moved}, [slightly]{slightly} because of the [wind_1]{wind}",
+      "entry": "stir",
+      "id": "stir_1#stir_1__20"
+    }
+  ],
+  "thesaurus": "Movement by the wind",
+  "type": "Synonyms"
+}

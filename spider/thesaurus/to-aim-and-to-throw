@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to use your hand to [send_1]{send} an [object_1]{object} through the [air_1]{air}",
+      "entry": "throw",
+      "id": "throw_1#throw_1__1"
+    },
+    {
+      "comment": "to [aim_1]{aim} something at a [particular_1]{particular} [person]{person} or thing",
+      "entry": "direct",
+      "id": "direct_2#direct_2__1"
+    },
+    {
+      "comment": "your [ability_1]{ability} to hit something when you [throw_1]{throw}, [kick_1]{kick}, or [shoot_1]{shoot} something at it",
+      "entry": "aim",
+      "id": "aim_2#aim_2__7"
+    },
+    {
+      "comment": "to [throw_1]{throw} something somewhere [gently]{gently} or in a [slightly]{slightly} [careless]{careless} way",
+      "entry": "toss",
+      "id": "toss_1#toss_1__1"
+    },
+    {
+      "comment": "to [throw_1]{throw} something [careless#careless__13]{carelessly} or with a [lot_1]{lot} of [force_1]{force}",
+      "entry": "fling",
+      "id": "fling_1#fling_1__1"
+    },
+    {
+      "comment": "to [throw_1]{throw} something [use_1]{using} a [lot_1]{lot} of [force_1]{force}",
+      "entry": "hurl",
+      "id": "hurl#hurl__1"
+    },
+    {
+      "comment": "to [throw_1]{throw} something so that it [go_1]{goes} [high_1]{high} into the [air_1]{air}",
+      "entry": "lob",
+      "id": "lob#lob__2"
+    },
+    {
+      "comment": "to [aim_1]{aim} an [object_1]{object} at someone or something",
+      "entry": "point",
+      "id": "point_2#point_2__9"
+    },
+    {
+      "comment": "to [throw_1]{throw} something [use_1]{using} a [lot_1]{lot} of [force_1]{force}",
+      "entry": "pitch",
+      "id": "pitch_2#pitch_2__11"
+    },
+    {
+      "comment": "to [throw_1]{throw} something",
+      "entry": "project",
+      "id": "project_2#project_2__20"
+    }
+  ],
+  "thesaurus": "To aim and to throw",
+  "type": "Synonyms"
+}

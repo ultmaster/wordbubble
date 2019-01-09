@@ -1,0 +1,20 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} 15",
+      "examples": [
+        "his fifteenth [birthday]{birthday}"
+      ],
+      "id": "fifteenth__1"
+    },
+    {
+      "def": "one of 15 [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "You [spend]{spend} about a fifteenth of your [life]{life} [commute_1]{commuting}."
+      ],
+      "id": "fifteenth__3"
+    }
+  ],
+  "word": "fifteenth"
+}

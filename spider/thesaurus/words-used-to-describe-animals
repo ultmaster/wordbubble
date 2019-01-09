@@ -1,0 +1,386 @@
+{
+  "entries": [
+    {
+      "comment": "[capable]{capable} of [living_1]{living} both in [water_1]{water} and on [land_1]{land}",
+      "entry": "amphibious",
+      "id": "amphibious#amphibious__3"
+    },
+    {
+      "comment": "an [androgynous]{androgynous} [animal_1]{animal} or [plant_1]{plant} has both [male_1]{male} and [female_1]{female} [part_1]{parts}",
+      "entry": "androgynous",
+      "id": "androgynous#androgynous__2"
+    },
+    {
+      "comment": "an anthropoid ape or other animal is very similar to a human",
+      "entry": "anthropoid",
+      "id": "anthropoid#anthropoid__1"
+    },
+    {
+      "comment": "[growing]{growing} or [living_1]{living} in or [near_1]{near} [water_1]{water}",
+      "entry": "aquatic",
+      "id": "aquatic#aquatic__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [living_1]{living} in [tree]{trees}",
+      "entry": "arboreal",
+      "id": "arboreal#arboreal__1"
+    },
+    {
+      "comment": "an articulate animal has joints  (=parts of the body where two bones meet)",
+      "entry": "articulate",
+      "id": "articulate_1#articulate_1__5"
+    },
+    {
+      "comment": "an [asexual]{asexual} [creature]{creature} [does]{does} not have [sex_1]{sex} [organ]{organs}",
+      "entry": "asexual",
+      "id": "asexual#asexual__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} an [animal_1]{animal} that is [judge_2]{judged} the [best_1]{best} [example]{example} of its [type_1]{type} in a [competition]{competition} or show",
+      "entry": "best-of-breed",
+      "id": "best-of-breed#best-of-breed__1"
+    },
+    {
+      "comment": "[kept]{kept} in a [cage]{cage}",
+      "entry": "caged",
+      "id": "caged#caged__1"
+    },
+    {
+      "comment": "a captive wild animal is kept in a place such as a park or zoo instead of living in its natural environment",
+      "entry": "captive",
+      "id": "captive_1#captive_1__3"
+    },
+    {
+      "comment": "[cold-blooded]{cold-blooded} [animal_1]{animals} have a body [temperature]{temperature} that [change_1]{changes} to [suit_1]{suit} their [environment]{environment}",
+      "entry": "cold-blooded",
+      "id": "cold-blooded#cold-blooded__2"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [bird]{birds} and [animal_1]{animals} when there are more of them than [related_1]{related} [bird]{birds} and [animal_1]{animals}",
+      "entry": "common",
+      "id": "common_1#common_1__6"
+    },
+    {
+      "comment": "a [diurnal]{diurnal} [animal_1]{animal} is [awake_1]{awake} and [active]{active} during the [day]{day}",
+      "entry": "diurnal",
+      "id": "diurnal#diurnal__2"
+    },
+    {
+      "comment": "a [domestic_1]{domestic} [animal_1]{animal} is one that is [kept]{kept} as a [pet_1]{pet} or on a [farm_1]{farm}",
+      "entry": "domestic",
+      "id": "domestic_1#domestic_1__12"
+    },
+    {
+      "comment": "a [domesticated]{domesticated} [animal_1]{animal} has been [trained]{trained} to [live_1]{live} with or [work_1]{work} for [human_2]{humans}",
+      "entry": "domesticated",
+      "id": "domesticated#domesticated__1"
+    },
+    {
+      "comment": "[covered_1]{covered} in very [soft]{soft} [small_1]{small} [hair]{hairs} or [feather_1]{feathers}",
+      "entry": "downy",
+      "id": "downy#downy__1"
+    },
+    {
+      "comment": "a [draft_1]{draft} [animal_1]{animal} is [used]{used} for [pull_1]{pulling} [heavy_1]{heavy} [thing]{things}",
+      "entry": "draft",
+      "id": "draft_3#draft_3__2"
+    },
+    {
+      "comment": "an [extinct]{extinct} [animal_1]{animal}, [plant_1]{plant}, or [language]{language} no [long_1]{longer} [exist]{exists}",
+      "entry": "extinct",
+      "id": "extinct#extinct__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with [feather_1]{feathers}, or made from [feather_1]{feathers}",
+      "entry": "feathered",
+      "id": "feathered#feathered__1"
+    },
+    {
+      "comment": "a [feral]{feral} [cat]{cat} or other [animal_1]{animal} is one that [lives]{lives} in a [wild_1]{wild} [state_1]{state} but was once [kept]{kept} as a [pet_1]{pet} or [live_1]{lived} on a [farm_1]{farm}",
+      "entry": "feral",
+      "id": "feral#feral__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with very [soft]{soft} [hair]{hair} or [feather_1]{feathers}",
+      "entry": "fluffy",
+      "id": "fluffy#fluffy__1"
+    },
+    {
+      "comment": "[able_1]{able} to [fly_1]{fly}",
+      "entry": "flying",
+      "id": "flying_1#flying_1__1"
+    },
+    {
+      "comment": "[living_1]{living} in [water_1]{water} that [does]{does} not [contain]{contain} [salt_1]{salt}",
+      "entry": "freshwater",
+      "id": "freshwater#freshwater__3"
+    },
+    {
+      "comment": "[covered_1]{covered} with fur, or [covered_1]{covered} with something that [look_1]{looks} [like_1]{like} fur",
+      "entry": "furred",
+      "id": "furred#furred__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with fur",
+      "entry": "furry",
+      "id": "furry#furry__1"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of some [animal_1]{animals} and [plant_1]{plants} that are much [large_1]{larger} than others of the same [type_1]{type}",
+      "entry": "giant",
+      "id": "giant_2#giant_2__4"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [bird]{birds} or [animal_1]{animals} that are [large_1]{larger} than [related_1]{related} [bird]{birds} or [animal_1]{animals}",
+      "entry": "great",
+      "id": "great_1#great_1__28"
+    },
+    {
+      "comment": "[gregarious]{gregarious} [animal_1]{animals} or [bird]{birds} [live_1]{live} in [group_1]{groups}",
+      "entry": "gregarious",
+      "id": "gregarious#gregarious__2"
+    },
+    {
+      "comment": "[higher_1]{higher} [plant_1]{plants} and [animal_1]{animals} are the most [advanced]{advanced} and [developed]{developed}",
+      "entry": "higher",
+      "id": "higher_1#higher_1__5"
+    },
+    {
+      "comment": "with [horn_1]{horns}",
+      "entry": "horned",
+      "id": "horned#horned__1"
+    },
+    {
+      "comment": "a [pet_1]{pet} that is [housebroken]{housebroken} [know_1]{knows} that it must go [outside]{outside} or use a [special_1]{special} [container]{container} [inside_1]{inside} when it [need_1]{needs} to go to the [toilet]{toilet}",
+      "entry": "housebroken",
+      "id": "housebroken#housebroken__1"
+    },
+    {
+      "comment": "[indigenous]{indigenous} [plant_1]{plants} and [animal_1]{animals} [belong]{belong} to a [region]{region} because they [developed]{developed} there",
+      "entry": "indigenous",
+      "id": "indigenous#indigenous__2"
+    },
+    {
+      "comment": "a [juvenile_1]{juvenile} [animal_1]{animal} or [plant_1]{plant} is [young_1]{young}",
+      "entry": "juvenile",
+      "id": "juvenile_1#juvenile_1__7"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of some [animal_1]{animals}, [bird]{birds}, or [plant_1]{plants} to show that they are a [small_1]{smaller} [type_1]{type}",
+      "entry": "lesser",
+      "id": "lesser_1#lesser_1__5"
+    },
+    {
+      "comment": "a [lop-eared]{lop-eared} [animal_1]{animal} has long [ear]{ears} that [hang_1]{hang} by the side of its [head_1]{head}",
+      "entry": "lop-eared",
+      "id": "lop-eared#lop-eared__1"
+    },
+    {
+      "comment": "a [man-eating]{man-eating} [animal_1]{animal} [kill_1]{kills} and [eats]{eats} [people_1]{people}",
+      "entry": "man-eating",
+      "id": "man-eating#man-eating__1"
+    },
+    {
+      "comment": "a mangy animal has itchy skin and is starting to lose fur because it has the disease mange",
+      "entry": "mangy",
+      "id": "mangy#mangy__1"
+    },
+    {
+      "comment": "a [mature_1]{mature} [animal_1]{animal} or [plant_1]{plant} has [grown_1]{grown} to its full [size_1]{size}",
+      "entry": "mature",
+      "id": "mature_1#mature_1__7"
+    },
+    {
+      "comment": "a migratory bird or animal is one that migrates",
+      "entry": "migratory",
+      "id": "migratory#migratory__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [place_1]{place} where a [plant_1]{plant} or [animal_1]{animal} has always [live_1]{lived}",
+      "entry": "native",
+      "id": "native_1#native_1__13"
+    },
+    {
+      "comment": "a [naturalized]{naturalized} [plant_1]{plant} or [animal_1]{animal} is one that [grow]{grows} or [lives]{lives} in an [area]{area} that [people_1]{people} [brought]{brought} it to long [ago]{ago}",
+      "entry": "naturalized",
+      "id": "naturalized#naturalized__2"
+    },
+    {
+      "comment": "[nocturnal]{nocturnal} [animal_1]{animals} are [active]{active} at [night_1]{night} rather than during the [day]{day}",
+      "entry": "nocturnal",
+      "id": "nocturnal#nocturnal__1"
+    },
+    {
+      "comment": "an [omnivorous]{omnivorous} [animal_1]{animal} [eats]{eats} both [plant_1]{plants} and [meat]{meat}",
+      "entry": "omnivorous",
+      "id": "omnivorous#omnivorous__1"
+    },
+    {
+      "comment": "a [parasitic]{parasitic} [plant_1]{plant} or [animal_1]{animal} [lives]{lives} in or on another [type_1]{type} of [plant_1]{plant} or [animal_1]{animal} and [feed_1]{feeds} on it",
+      "entry": "parasitic",
+      "id": "parasitic#parasitic__1"
+    },
+    {
+      "comment": "a pedigree animal comes from a family whose members have been recorded for a long time and who are all of the same breed  (=type)",
+      "entry": "pedigree",
+      "id": "pedigree_2#pedigree_2__1"
+    },
+    {
+      "comment": "a [petrified]{petrified} [plant_1]{plant} or [animal_1]{animal} has [die_1]{died} and [gradually]{gradually} [changed]{changed} into [stone_1]{stone}",
+      "entry": "petrified",
+      "id": "petrified#petrified__4"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [pygmy_1]{pygmy}",
+      "entry": "pigmy",
+      "id": "pigmy#pigmy__1"
+    },
+    {
+      "comment": "[capable]{capable} of [produce_1]{producing} [poison_1]{poison}",
+      "entry": "poisonous",
+      "id": "poisonous#poisonous__3"
+    },
+    {
+      "comment": "a [polymorphous]{polymorphous} [animal_1]{animal} or [plant_1]{plant} has [different]{different} [form_1]{forms} at [different]{different} [stage_1]{stages} of its [development]{development}",
+      "entry": "polymorphous",
+      "id": "polymorphous#polymorphous__1"
+    },
+    {
+      "comment": "[relate]{relating} to [animal_1]{animals} that [kill_1]{kill} and [eat]{eat} other [animal_1]{animals}",
+      "entry": "predatory",
+      "id": "predatory#predatory__1"
+    },
+    {
+      "comment": "a purebred animal comes from parents of the same breed",
+      "entry": "purebred",
+      "id": "purebred#purebred__1"
+    },
+    {
+      "comment": "a [pygmy_1]{pygmy} [animal_1]{animal} or [plant_1]{plant} [belong]{belongs} to a [type_1]{type} that [does]{does} not [grow]{grow} very [big_1]{big}",
+      "entry": "pygmy",
+      "id": "pygmy_1#pygmy_1__1"
+    },
+    {
+      "comment": "a [rabid]{rabid} [animal_1]{animal} has [rabies]{rabies}",
+      "entry": "rabid",
+      "id": "rabid#rabid__3"
+    },
+    {
+      "comment": "a [rogue_1]{rogue} [wild_1]{wild} [animal_1]{animal} [lives]{lives} [apart]{apart} from other [member]{members} of its [group_1]{group} and is often [dangerous]{dangerous}",
+      "entry": "rogue",
+      "id": "rogue_1#rogue_1__3"
+    },
+    {
+      "comment": "[living_1]{living} in the [ocean]{ocean} or in [water_1]{water} that [contain]{contains} [salt_1]{salt}",
+      "entry": "saltwater",
+      "id": "saltwater#saltwater__1"
+    },
+    {
+      "comment": "a [savage_1]{savage} [animal_1]{animal} is [likely_1]{likely} to [attack_1]{attack} you",
+      "entry": "savage",
+      "id": "savage_1#savage_1__5"
+    },
+    {
+      "comment": "a [scaly]{scaly} [animal_1]{animal} has [skin_1]{skin} [like_1]{like} that of a [fish_1]{fish} or a [snake_1]{snake}",
+      "entry": "scaly",
+      "id": "scaly#scaly__1"
+    },
+    {
+      "comment": "a [shy_1]{shy} [animal_1]{animal} is [afraid]{afraid} of [people_1]{people} and [try_1]{tries} to [hide_1]{hide} from them",
+      "entry": "shy",
+      "id": "shy_1#shy_1__9"
+    },
+    {
+      "comment": "similar to a monkey or an ape, or connected with these animals",
+      "entry": "simian",
+      "id": "simian#simian__1"
+    },
+    {
+      "comment": "[social_1]{social} [animal_1]{animals} [live_1]{live} in [group_1]{groups} [instead]{instead} of [living_1]{living} alone",
+      "entry": "social",
+      "id": "social_1#social_1__17"
+    },
+    {
+      "comment": "a spineless animal does not have a spine",
+      "entry": "spineless",
+      "id": "spineless#spineless__3"
+    },
+    {
+      "comment": "a [dead_1]{dead} [animal_1]{animal} that is [stuffed]{stuffed} has been [fill_1]{filled} with a [substance]{substance} so that it [look_1]{looks} [alive]{alive}",
+      "entry": "stuffed",
+      "id": "stuffed#stuffed__3"
+    },
+    {
+      "comment": "a [tame_1]{tame} [animal_1]{animal} has been [trained]{trained} to [stay_1]{stay} [calm_1]{calm} when [people_1]{people} are [near_1]{near} it, because it is [used]{used} to being with them",
+      "entry": "tame",
+      "id": "tame_1#tame_1__1"
+    },
+    {
+      "comment": "[used]{used} about [plant_1]{plants} and [animal_1]{animals} that [live_1]{live} in [temperate]{temperate} [area]{areas}",
+      "entry": "temperate",
+      "id": "temperate#temperate__4"
+    },
+    {
+      "comment": "[territorial]{territorial} [animal_1]{animals} or [people_1]{people} do not [like_1]{like} other [animal_1]{animals} or [people_1]{people} [enter]{entering} an [area]{area} that they [believe]{believe} [belong]{belongs} to them",
+      "entry": "territorial",
+      "id": "territorial#territorial__3"
+    },
+    {
+      "comment": "if [plant_1]{plants} or [animal_1]{animals} are [tolerant]{tolerant} of [particular_1]{particular} [condition_1]{conditions}, they are [able_1]{able} to [exist]{exist} in those [condition_1]{conditions}",
+      "entry": "tolerant",
+      "id": "tolerant#tolerant__4"
+    },
+    {
+      "comment": "a [transgenic]{transgenic} [plant_1]{plant} or [animal_1]{animal} [contain]{contains} [gene]{genes} from a [different]{different} [plant_1]{plant} or [animal_1]{animal} that have been [introduce]{introduced} [use_1]{using} a [laboratory]{laboratory} [technique]{technique}",
+      "entry": "transgenic",
+      "id": "transgenic#transgenic__1"
+    },
+    {
+      "comment": "with a [tuft]{tuft} of [hair]{hair} or [feather_1]{feathers}",
+      "entry": "tufted",
+      "id": "tufted#tufted__1"
+    },
+    {
+      "comment": "an [animal_1]{animal} that is [untrained]{untrained} [does]{does} not [obey]{obey} [people_1]{people}",
+      "entry": "untrained",
+      "id": "untrained#untrained__2"
+    },
+    {
+      "comment": "[capable]{capable} of [produce_1]{producing} [poison_1]{poison}",
+      "entry": "venomous",
+      "id": "venomous#venomous__1"
+    },
+    {
+      "comment": "warm-blooded animals have a body that stays warm in both hot and cold environments. A cold-blooded animal has a body temperature that changes when their environment changes.",
+      "entry": "warm-blooded",
+      "id": "warm-blooded#warm-blooded__1"
+    },
+    {
+      "comment": "if a [bird]{bird} or [animal_1]{animal} has [webbed]{webbed} [feet]{feet}, it has [skin_1]{skin} between its [toe_1]{toes} to [help_1]{help} it to [swim_1]{swim} well",
+      "entry": "webbed",
+      "id": "webbed#webbed__1"
+    },
+    {
+      "comment": "with [toe_1]{toes} that are [join_1]{joined} by a [piece_1]{piece} of [skin_1]{skin}",
+      "entry": "web-footed",
+      "id": "web-footed#web-footed__1"
+    },
+    {
+      "comment": "a well-bred animal has good qualities because of good breeding",
+      "entry": "well-bred",
+      "id": "well-bred#well-bred__3"
+    },
+    {
+      "comment": "a [wild_1]{wild} [animal_1]{animal} or [plant_1]{plant} [lives]{lives} or [grow]{grows} on its own in [natural_1]{natural} [condition_1]{conditions} and is not [raised]{raised} by [human_2]{humans}",
+      "entry": "wild",
+      "id": "wild_1#wild_1__1"
+    },
+    {
+      "comment": "a [winged]{winged} [creature]{creature} has [wing_1]{wings}",
+      "entry": "winged",
+      "id": "winged#winged__1"
+    }
+  ],
+  "thesaurus": "Words used to describe animals",
+  "type": "Related words"
+}

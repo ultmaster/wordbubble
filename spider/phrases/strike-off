@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "strike off",
+  "senses": [
+    {
+      "def": "to go in a [particular_1]{particular} [direction]{direction} in a way that [show_1]{shows} [energy]{energy} or [determination]{determination}",
+      "examples": [
+        "They [struck]{struck} off across the [desert_1]{desert} without [supply_1]{supplies}.",
+        "[startled]{Startled} by the [noise]{noise}, he had [struck]{struck} off through the [wood]{woods}."
+      ],
+      "id": "strike-off__1"
+    },
+    {
+      "def": "to [remove]{remove} something from a [list_1]{list} or [record_1]{record}",
+      "examples": [
+        "We can [strike_1]{strike} that off [today_1]{today}\u2019s [agenda]{agenda} \u2013 it\u2019s been [settled]{settled}."
+      ],
+      "id": "strike-off__4"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [important]{important} part or [aspect]{aspect} of something",
+      "entry": "feature",
+      "id": "feature_1#feature_1__1"
+    },
+    {
+      "comment": "the [quality_1]{quality} of something is how [good_1]{good} or [bad_1]{bad} it is",
+      "entry": "quality",
+      "id": "quality_1#quality_1__8"
+    },
+    {
+      "comment": "one of the [thing]{things} that [influence_1]{influence} whether an [event]{event} [happen]{happens} or the way that it [happen]{happens}",
+      "entry": "factor",
+      "id": "factor_1#factor_1__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} part, [feature_1]{feature}, or [quality_1]{quality} of something",
+      "entry": "aspect",
+      "id": "aspect#aspect__1"
+    },
+    {
+      "comment": "a [basic_1]{basic} [quality_1]{quality} or [feature_1]{feature} of something",
+      "entry": "nature",
+      "id": "nature#nature__6"
+    },
+    {
+      "comment": "a [feature_1]{feature} of a [place_1]{place}",
+      "entry": "quality",
+      "id": "quality_1#quality_1__6"
+    },
+    {
+      "comment": "an [individual_1]{individual} [quality_1]{quality} or [feature_1]{feature} of something",
+      "entry": "component",
+      "id": "component#component__3"
+    },
+    {
+      "comment": "an [aspect]{aspect} of something such as a [situation]{situation} or someone\u2019s [character]{character}",
+      "entry": "facet",
+      "id": "facet#facet__1"
+    },
+    {
+      "comment": "a [quality_1]{quality} or [feature_1]{feature} that [belong]{belongs} to a [particular_1]{particular} [person]{person}, thing, or [situation]{situation}",
+      "entry": "peculiarity",
+      "id": "peculiarity#peculiarity__1"
+    },
+    {
+      "comment": "a [quality_1]{quality} or [feature_1]{feature} of something",
+      "entry": "property",
+      "id": "property#property__11"
+    }
+  ],
+  "thesaurus": "Features and qualities",
+  "type": "Synonyms"
+}

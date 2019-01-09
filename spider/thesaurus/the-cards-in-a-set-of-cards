@@ -1,0 +1,146 @@
+{
+  "entries": [
+    {
+      "comment": "in card games, a card with only one symbol and either the highest or lowest value in a suit",
+      "entry": "ace",
+      "id": "ace_1#ace_1__1"
+    },
+    {
+      "comment": "one of a set of small pieces of thick stiff paper used in games or activities such as tarot",
+      "entry": "card",
+      "id": "card_1#card_1__28"
+    },
+    {
+      "comment": "one of a set of 52 small pieces of thick stiff paper used for various games. The set is called a pack or deck and is divided into four suits: hearts, diamonds, clubs, and spades.",
+      "entry": "cards",
+      "id": "card_1#card_1__23"
+    },
+    {
+      "comment": "a [play_1]{playing} [card_1]{card} with a [pattern_1]{pattern} [like_1]{like} three [black_1]{black} [balls]{balls} on a [black_1]{black} stem on it",
+      "entry": "clubs",
+      "id": "club_1#club_1__20"
+    },
+    {
+      "comment": "the suit  (=group) of playing cards that have a pattern like three black balls on a black stem on them. The other suits are diamonds, hearts, and spades",
+      "entry": "clubs",
+      "id": "club_1#club_1__21"
+    },
+    {
+      "comment": "a set of cards used for playing card games. The usual British word is pack.",
+      "entry": "deck",
+      "id": "deck_1#deck_1__8"
+    },
+    {
+      "comment": "a playing card with the number two or two marks on it",
+      "entry": "deuce",
+      "id": "deuce#deuce__1"
+    },
+    {
+      "comment": "a [play_1]{playing} [card_1]{card} with a red [diamond]{diamond} [shape_1]{shape} on it",
+      "entry": "diamonds",
+      "id": "diamond#diamond__4"
+    },
+    {
+      "comment": "the suit  (=group) of playing cards with red diamond shapes on them. The other suits are clubs, hearts, and spades",
+      "entry": "diamonds",
+      "id": "diamond#diamond__5"
+    },
+    {
+      "comment": "a card with a picture of a king, queen, or jack on it in a set of cards used in card games",
+      "entry": "face card",
+      "id": "face-card#face-card__1"
+    },
+    {
+      "comment": "a playing card with a red heart shape on it",
+      "entry": "hearts",
+      "id": "heart_1#heart_1__16"
+    },
+    {
+      "comment": "the suit of playing cards that have red heart shapes on them. The other suits are diamonds, clubs, and spades",
+      "entry": "hearts",
+      "id": "heart_1#heart_1__17"
+    },
+    {
+      "comment": "a set of playing cards that has been built into a structure that could easily fall or be knocked down",
+      "entry": "house of cards",
+      "id": "house-of-cards#house-of-cards__2"
+    },
+    {
+      "comment": "a playing card that has a picture of a young man on it and is worth more than a ten and less than a queen",
+      "entry": "jack",
+      "id": "jack_1#jack_1__4"
+    },
+    {
+      "comment": "a type of playing card with a picture of a jester on it that is used in some card games",
+      "entry": "joker",
+      "id": "joker#joker__5"
+    },
+    {
+      "comment": "a playing card with the picture of a king on it",
+      "entry": "king",
+      "id": "king#king__8"
+    },
+    {
+      "comment": "a [jack_1]{jack} in [card_1]{card} [game_1]{games}",
+      "entry": "knave",
+      "id": "knave#knave__2"
+    },
+    {
+      "comment": "a [set_1]{set} of [card_1]{cards} [used]{used} for [play_1]{playing} [card_1]{card} [game_1]{games}",
+      "entry": "pack",
+      "id": "pack_2#pack_2__18"
+    },
+    {
+      "comment": "a [face_1]{face} [card_1]{card}",
+      "entry": "picture card",
+      "id": "picture-card#picture-card__1"
+    },
+    {
+      "comment": "a [card_1]{card} [used]{used} for [play_1]{playing} [card_1]{card} [game_1]{games}",
+      "entry": "playing card",
+      "id": "playing-card#playing-card__1"
+    },
+    {
+      "comment": "in a game of cards, a card with a picture of a queen on it",
+      "entry": "queen",
+      "id": "queen_1#queen_1__8"
+    },
+    {
+      "comment": "a playing card with a pattern like a pointed black leaf on it",
+      "entry": "spades",
+      "id": "spade#spade__2"
+    },
+    {
+      "comment": "the suit  (=group) of playing cards that has this pattern on them. The other suits are clubs, diamonds, and hearts",
+      "entry": "spades",
+      "id": "spade#spade__3"
+    },
+    {
+      "comment": "one of four sets of playing cards that together make a deck. Clubs, diamonds, hearts, and spades are the four suits.",
+      "entry": "suit",
+      "id": "suit_1#suit_1__9"
+    },
+    {
+      "comment": "a card belonging to the suit  (=one of the four types of cards) that players decide will be worth the most in a card game",
+      "entry": "trump",
+      "id": "trump_1#trump_1__1"
+    },
+    {
+      "comment": "a [trump_1]{trump}",
+      "entry": "trump card",
+      "id": "trump-card#trump-card__1"
+    },
+    {
+      "comment": "the suit that players decide will be worth the most in a card game",
+      "entry": "trumps",
+      "id": "trump_1#trump_1__2"
+    },
+    {
+      "comment": "in a [game_1]{game} of [card_1]{cards}, a [card_1]{card} that can be [used]{used} by a [player]{player} to [represent]{represent} any [card_1]{card} they [choose]{choose}",
+      "entry": "wild card",
+      "id": "wild-card#wild-card__2"
+    }
+  ],
+  "thesaurus": "The cards in a set of cards",
+  "type": "Related words"
+}

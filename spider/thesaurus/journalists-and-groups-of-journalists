@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone whose [job_1]{job} is to [report_1]{report} the [news]{news} for a [newspaper]{newspaper}, [magazine]{magazine}, [radio_1]{radio} [program_1]{program}, or [television]{television} [program_1]{program}",
+      "entry": "journalist",
+      "id": "journalist#journalist__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to be in [charge_1]{charge} of a [newspaper]{newspaper} or [magazine]{magazine}",
+      "entry": "editor",
+      "id": "editor#editor__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [write]{write} [article]{articles} or [make_1]{make} [broadcast_1]{broadcasts} about [event]{events} in the [news]{news}",
+      "entry": "reporter",
+      "id": "reporter#reporter__1"
+    },
+    {
+      "comment": "a [reporter]{reporter} who [write]{writes} a [regular_1]{regular} [series]{series} of [article]{articles} for a [particular_1]{particular} [newspaper]{newspaper} or [magazine]{magazine}",
+      "entry": "columnist",
+      "id": "columnist#columnist__1"
+    },
+    {
+      "comment": "a [newspaper]{newspaper} or [television]{television} [reporter]{reporter}, [especially]{especially} one who [deal_1]{deals} with a [particular_1]{particular} [subject_1]{subject} or [area]{area}",
+      "entry": "correspondent",
+      "id": "correspondent_1#correspondent_1__1"
+    },
+    {
+      "comment": "a man who is a [reporter]{reporter}",
+      "entry": "newsman",
+      "id": "newsman#newsman__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [write]{write} [article]{articles} in a [newspaper]{newspaper} or [magazine]{magazine} [give_1]{giving} their [opinion]{opinion} about a [new]{new} [play_1]{play}, [book_1]{book}, art [exhibit_1]{exhibit}, etc.",
+      "entry": "reviewer",
+      "id": "reviewer#reviewer__1"
+    },
+    {
+      "comment": "[reporter]{reporters} and [photographer]{photographers} who [work_1]{work} for [newspaper]{newspapers} or [news]{news} [magazine]{magazines}",
+      "entry": "press",
+      "id": "press_1#press_1__5"
+    },
+    {
+      "comment": "a [business]{business} that [provide]{provides} [newspaper]{newspapers} and [television]{television} [station_1]{stations} with [news]{news} from around the [world]{world}",
+      "entry": "news agency",
+      "id": "news-agency#news-agency__1"
+    },
+    {
+      "comment": "all the [reporter]{reporters} in a [particular_1]{particular} [place_1]{place} or at a [particular_1]{particular} [event]{event}",
+      "entry": "press corps",
+      "id": "press-corps#press-corps__1"
+    }
+  ],
+  "thesaurus": "Journalists and groups of journalists",
+  "type": "Synonyms"
+}

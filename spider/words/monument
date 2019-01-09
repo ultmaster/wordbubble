@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [structure_1]{structure} [built_1]{built} in a [public_1]{public} [place_1]{place} to [celebrate]{celebrate} an [important]{important} [person]{person} or [event]{event}",
+      "examples": [
+        "a monument to those who [die_1]{died} in the [attack_1]{attack}"
+      ],
+      "id": "monument__1"
+    },
+    {
+      "def": "a [place_1]{place} of [historical]{historical} [importance]{importance}, for [example]{example} an [old]{old} [building]{building}",
+      "examples": [
+        "[ancient]{ancient}/[historic]{historic} [monument]{monuments}"
+      ],
+      "id": "monument__3"
+    }
+  ],
+  "word": "monument"
+}

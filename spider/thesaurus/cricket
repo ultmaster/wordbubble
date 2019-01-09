@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "to hit the ball with a bat in a game such as baseball or cricket",
+      "entry": "bat",
+      "id": "bat_2#bat_2__1"
+    },
+    {
+      "comment": "in baseball or cricket, the team that is batting is trying to score runs  (=points) by hitting the ball",
+      "entry": "bat",
+      "id": "bat_2#bat_2__2"
+    },
+    {
+      "comment": "a player who tries to hit the ball in cricket",
+      "entry": "batsman",
+      "id": "batsman#batsman__1"
+    },
+    {
+      "comment": "a number that represents the average number of times that a baseball player gets a hit",
+      "entry": "batting average",
+      "id": "batting-average#batting-average__1"
+    },
+    {
+      "comment": "the outer edge of the playing area in cricket",
+      "entry": "boundary",
+      "id": "boundary#boundary__13"
+    },
+    {
+      "comment": "to throw the ball toward the batsman in the sport of cricket",
+      "entry": "bowl",
+      "id": "bowl_2#bowl_2__3"
+    },
+    {
+      "comment": "the [person]{person} [throw_1]{throwing} the [ball_1]{ball} toward the [batsman]{batsman} in the [sport_1]{sport} of [cricket]{cricket}",
+      "entry": "bowler",
+      "id": "bowler#bowler__2"
+    },
+    {
+      "comment": "the line in front of the wicket where a batsman stands to hit the ball in the game of cricket",
+      "entry": "crease",
+      "id": "crease_1#crease_1__5"
+    },
+    {
+      "comment": "a game played by two teams of 11 players who get points by hitting a ball with a bat and running between two sets of sticks called stumps. Someone who plays this sport is called a cricketer.",
+      "entry": "cricket",
+      "id": "cricket#cricket__2"
+    },
+    {
+      "comment": "an [informal]{informal} name for the Woolloongabba [cricket]{Cricket} [ground_1]{Ground} in Brisbane, Australia",
+      "entry": "Gabba",
+      "id": "gabba#gabba__1"
+    },
+    {
+      "comment": "to [achieve]{achieve} a [particular_1]{particular} [score_1]{score} when you hit the [ball_1]{ball} in a [sport_1]{sport} such as [baseball]{baseball}",
+      "entry": "hit",
+      "id": "hit_1#hit_1__31"
+    },
+    {
+      "comment": "if a player or team is out during a game of baseball or cricket, they are not batting anymore",
+      "entry": "out",
+      "id": "out_1#out_1__105"
+    },
+    {
+      "comment": "in baseball and cricket, the parts of the field that are farthest from the player who is batting",
+      "entry": "outfield",
+      "id": "outfield#outfield__1"
+    },
+    {
+      "comment": "in cricket, a series of six actions of bowling  (=throwing the ball) by the same bowler toward the same end of the ground",
+      "entry": "over",
+      "id": "over_2#over_2__1"
+    },
+    {
+      "comment": "if a [ball_1]{ball} [pitch_1]{pitches} in [golf]{golf}, it [hit_1]{hits} the [ground_1]{ground}",
+      "entry": "pitch",
+      "id": "pitch_2#pitch_2__25"
+    },
+    {
+      "comment": "one point in the game of cricket",
+      "entry": "run",
+      "id": "run_2#run_2__20"
+    },
+    {
+      "comment": "in cricket, one run  (=point)",
+      "entry": "single",
+      "id": "single_2#single_2__4"
+    },
+    {
+      "comment": "in the game of cricket, a place near the batsman where players stand when they are trying to catch the ball",
+      "entry": "slip",
+      "id": "slip_2#slip_2__14"
+    },
+    {
+      "comment": "in the game of cricket, a bowler who bowls the ball slowly and makes it spin a lot",
+      "entry": "spinner",
+      "id": "spinner#spinner__2"
+    },
+    {
+      "comment": "one of the three sticks behind the batsman in cricket",
+      "entry": "stump",
+      "id": "stump_1#stump_1__4"
+    },
+    {
+      "comment": "a [test_1]{test} [match_1]{match}",
+      "entry": "test",
+      "id": "test_1#test_1__23"
+    },
+    {
+      "comment": "in cricket and rugby, a game between two teams from different countries",
+      "entry": "test match",
+      "id": "test-match#test-match__1"
+    },
+    {
+      "comment": "in the game of cricket, the set of three sticks that the bowler tries to hit with the ball",
+      "entry": "wicket",
+      "id": "wicket#wicket__1"
+    },
+    {
+      "comment": "the player in a cricket team who stands behind the wicket and tries to catch the ball",
+      "entry": "wicket keeper",
+      "id": "wicket-keeper#wicket-keeper__1"
+    }
+  ],
+  "thesaurus": "Cricket",
+  "type": "Related words"
+}

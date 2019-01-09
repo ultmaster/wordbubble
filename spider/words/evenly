@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "so that all [part_1]{parts} of a [surface_1]{surface} are [covered_1]{covered} with the same amount of something",
+      "examples": [
+        "[sprinkle_1]{Sprinkle} the [sugar_1]{sugar} evenly over the [cake]{cake} [mixture]{mixture}.",
+        "[profit_1]{Profits} are evenly [distributed]{distributed} among the [director]{directors} at the [end_1]{end} of the [year]{year}."
+      ],
+      "id": "evenly__1"
+    },
+    {
+      "def": "with each [person]{person} [have]{having} an [equal_1]{equal} [chance_1]{chance} to [win_1]{win}",
+      "examples": [
+        "The two [team_1]{teams} are [fairly]{fairly} evenly [match_2]{matched}.",
+        "The [contest_1]{contest} [remains]{remains} evenly [balanced]{balanced}."
+      ],
+      "id": "evenly__5"
+    },
+    {
+      "def": "in a [regular_1]{regular} way, with [equal_1]{equal} [amount_1]{amounts} of [space_1]{space} or time between [thing]{things}",
+      "examples": [
+        "She was [asleep]{asleep} and [breathing]{breathing} evenly.",
+        "The [post_1]{posts} were evenly [spaced]{spaced}, about 20 [meter_1]{meters} [apart]{apart}."
+      ],
+      "id": "evenly__8"
+    },
+    {
+      "def": "[speak_1]{speaking} [calm_1#calm_1__15]{calmly} and without [emotion]{emotion}",
+      "examples": [],
+      "id": "evenly__11"
+    }
+  ],
+  "word": "evenly"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "as a [result_1]{result} of the [reason_1]{reason} that has [just_1]{just} been [mention_1]{mentioned}",
+      "entry": "therefore",
+      "id": "therefore#therefore__1"
+    },
+    {
+      "comment": "as a [result_1]{result}",
+      "entry": "consequently",
+      "id": "consequently#consequently__1"
+    },
+    {
+      "comment": "as a [result_1]{result} of something",
+      "entry": "accordingly",
+      "id": "accordingly#accordingly__1"
+    },
+    {
+      "comment": "as a [result_1]{result} of something",
+      "entry": "from",
+      "id": "from#from__42"
+    },
+    {
+      "comment": "as a [result_1]{result} of the [fact]{fact} that you have [just_1]{just} [mention_1]{mentioned}",
+      "entry": "thus",
+      "id": "thus#thus__1"
+    },
+    {
+      "comment": "[used]{used} for [introduce]{introducing} something that is a [result_1]{result} of the [fact]{fact} that has [just_1]{just} been [state_2]{stated}",
+      "entry": "hence",
+      "id": "hence#hence__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that one thing is the [result_1]{result} of another",
+      "entry": "as a consequence/in consequence",
+      "id": "as-a-consequence-in-consequence#as-a-consequence-in-consequence__1"
+    },
+    {
+      "comment": "because of, or as a [result_1]{result} of",
+      "entry": "by virtue of something",
+      "id": "by-virtue-of-something#by-virtue-of-something__1"
+    },
+    {
+      "comment": "an [ensuing]{ensuing} [event]{event} or [activity]{activity} [happen]{happens} after something else, often as a [result_1]{result} of it",
+      "entry": "ensuing",
+      "id": "ensuing#ensuing__1"
+    },
+    {
+      "comment": "a [knock-on]{knock-on} [effect_1]{effect} is the [indirect]{indirect} [result_1]{result} of something",
+      "entry": "knock-on",
+      "id": "knock-on#knock-on__1"
+    }
+  ],
+  "thesaurus": "As a result of something and describing effects and results",
+  "type": "Synonyms"
+}

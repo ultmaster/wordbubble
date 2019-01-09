@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "throw away",
+  "senses": [
+    {
+      "def": "to get [rid_1]{rid} of something that you no [long_1]{longer} [want_1]{want}, for [example]{example} by [put]{putting} it in a [garbage]{garbage} [container]{container}",
+      "examples": [
+        "I [threw]{threw} [away_1]{away} all the [broken_1]{broken} [toy_1]{toys}.",
+        "Have you [thrown]{thrown} the [paper_1]{papers} [away_1]{away}?"
+      ],
+      "id": "throw-away__1"
+    },
+    {
+      "def": "to [waste_1]{waste} something such as an [opportunity]{opportunity} or an [advantage]{advantage}, for [example]{example} by [doing]{doing} something [silly_1]{silly}",
+      "examples": [
+        "They [lost_1]{lost} the [game_1]{game} after [throw_1]{throwing} [away_1]{away} a fourteen-point [lead_1]{lead}."
+      ],
+      "id": "throw-away__4"
+    }
+  ]
+}

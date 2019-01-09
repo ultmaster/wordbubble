@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not too [busy_1]{busy} to do something",
+      "entry": "available",
+      "id": "available#available__8"
+    },
+    {
+      "comment": "if a [situation]{situation} or [period_1]{period} of time is [quiet_1]{quiet}, there is very [little_1]{little} [activity]{activity} [happening_1]{happening} then",
+      "entry": "quiet",
+      "id": "quiet_1#quiet_1__15"
+    },
+    {
+      "comment": "not [working]{working}",
+      "entry": "off-duty",
+      "id": "off-duty_2#off-duty_2__1"
+    },
+    {
+      "comment": "not [have]{having} enough [work_1]{work}, or not [have]{having} a [job_1]{job} in which you can use your [skill]{skills}",
+      "entry": "underemployed",
+      "id": "underemployed#underemployed__1"
+    },
+    {
+      "comment": "[worker]{workers} who are [idle_1]{idle} have no [work_1]{work} to do",
+      "entry": "idle",
+      "id": "idle_1#idle_1__4"
+    },
+    {
+      "comment": "not as [busy_1]{busy} or [successful]{successful} as [usual]{usual} in [business]{business}",
+      "entry": "slack",
+      "id": "slack_1#slack_1__8"
+    },
+    {
+      "comment": "[free_1]{free} time is time when you do not have any [work_1]{work} to do, so that you can do whatever you [want_1]{want}",
+      "entry": "free",
+      "id": "free_1#free_1__34"
+    },
+    {
+      "comment": "if a [period_1]{period} of time is [clear_1]{clear}, you have not [arrange]{arranged} to do anything during it",
+      "entry": "clear",
+      "id": "clear_1#clear_1__38"
+    },
+    {
+      "comment": "if [business]{business} is [subdued]{subdued}, it is not very [active]{active} or [busy_1]{busy}",
+      "entry": "subdued",
+      "id": "subdued#subdued__5"
+    },
+    {
+      "comment": "a [sleepy]{sleepy} [place_1]{place} is very [quiet_1]{quiet} and [does]{does} not have much [activity]{activity}",
+      "entry": "sleepy",
+      "id": "sleepy#sleepy__3"
+    }
+  ],
+  "thesaurus": "Not busy and not working",
+  "type": "Synonyms"
+}

@@ -1,0 +1,41 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [bird]{bird}, [insect]{insect}, or [aircraft]{aircraft} [hover]{hovers}, it [keep_1]{keeps} [itself]{itself} in the same [position_1]{position} in the [air_1]{air}",
+      "examples": [
+        "An [army]{army} [helicopter]{helicopter} [hover]{hovered} [overhead_1]{overhead}."
+      ],
+      "id": "hover__1"
+    },
+    {
+      "def": "to [stay_1]{stay} somewhere because you are [wait_1]{waiting} to do something or because you cannot [decide]{decide} what to do",
+      "examples": [
+        "The [waiter]{waiter} was [hover]{hovering} by their [table_1]{table}.",
+        "Her hand [hover]{hovered} over the [phone_1]{phone} for a [couple_1]{couple} of [seconds]{seconds}."
+      ],
+      "id": "hover__3"
+    },
+    {
+      "def": "to be in a [state_1]{state} or [situation]{situation} that may [change_1]{change} at any time",
+      "examples": [
+        "His [girlfriend]{girlfriend} is [hover]{hovering} between [life]{life} and [death]{death}."
+      ],
+      "id": "hover__6"
+    },
+    {
+      "def": "to be at or [near_1]{near} a [particular_1]{particular} [level_1]{level} without [change_1]{changing} much",
+      "examples": [
+        "Their [total_1]{total} [world]{world} [sale]{sales} hover around the 50,000,000 [mark_1]{mark}."
+      ],
+      "id": "hover__8"
+    },
+    {
+      "def": "to put the [mouse_1]{mouse} over an [icon]{icon} on a computer [screen_1]{screen} to get more [information]{information} without [pressing]{pressing} the [mouse_1]{mouse} [button_1]{button}",
+      "examples": [],
+      "id": "hover__10"
+    }
+  ],
+  "word": "hover"
+}

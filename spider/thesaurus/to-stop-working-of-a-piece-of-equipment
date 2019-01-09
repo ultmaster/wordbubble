@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if a [machine_1]{machine} or [vehicle]{vehicle} [break_1]{breaks} down, it [stop_1]{stops} [working]{working}",
+      "entry": "break down",
+      "id": "break-down#break-down__1"
+    },
+    {
+      "comment": "if something such as a [light_1]{light} or an [electricity]{electricity} [supply_1]{supply} [go_1]{goes} off, it [stop_1]{stops} [working]{working} or being [available]{available}",
+      "entry": "go off",
+      "id": "go-off#go-off__5"
+    },
+    {
+      "comment": "if a [machine_1]{machine} [shut_1]{shuts} off, or if someone [shut_1]{shuts} it off, it [stop_1]{stops} [working]{working}",
+      "entry": "shut off",
+      "id": "shut-off#shut-off__1"
+    },
+    {
+      "comment": "if something such as a [machine_1]{machine} or [clock_1]{clock} [run_1]{runs} down, or if you [run_1]{run} it down, it [gradually]{gradually} [stop_1]{stops} [working]{working} because it has no [power_1]{power}",
+      "entry": "run down",
+      "id": "run-down_1#run-down_1__6"
+    },
+    {
+      "comment": "to no [long_1]{longer} [work_1]{work}, or to cause something to no [long_1]{longer} [work_1]{work}",
+      "entry": "stop",
+      "id": "stop_1#stop_1__26"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [equipment]{equipment} [break_1]{breaks}, or if you [break_1]{break} it, it [stop_1]{stops} [working]{working} [correctly]{correctly} because a part of it is [damage_2]{damaged}",
+      "entry": "break",
+      "id": "break_1#break_1__10"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} [burn_1]{burns} out, or if it is [burn_1]{burned} out, it [get]{gets} too [hot]{hot} and [stop_1]{stops} [working]{working}",
+      "entry": "burn out",
+      "id": "burn-out#burn-out__6"
+    },
+    {
+      "comment": "if something such as a [machine_1]{machine} or an [organ]{organ} in your body [fail_1]{fails}, it no [long_1]{longer} [work_1]{works} [correctly]{correctly}",
+      "entry": "fail",
+      "id": "fail_1#fail_1__22"
+    },
+    {
+      "comment": "if an [engine]{engine} or [machine_1]{machine} [cut_1]{cuts} out, it [suddenly]{suddenly} [stop_1]{stops} [working]{working}",
+      "entry": "cut out",
+      "id": "cut-out#cut-out__12"
+    },
+    {
+      "comment": "if something such as a computer or an [electrical_1]{electrical} system [go_1]{goes} down, it [stop_1]{stops} [working]{working} for a [period_1]{period} of time",
+      "entry": "go down",
+      "id": "go-down#go-down__28"
+    }
+  ],
+  "thesaurus": "To stop working (of a piece of equipment)",
+  "type": "Synonyms"
+}

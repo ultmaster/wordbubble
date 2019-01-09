@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who have [join_1]{joined} together because they have [similar]{similar} [interest_1]{interests} or [goals]{goals}",
+      "entry": "association",
+      "id": "association#association__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} that is [officially]{officially} put in [charge_1]{charge} of something or [ask_1]{asked} to find out about something",
+      "entry": "commission",
+      "id": "commission_1#commission_1__3"
+    },
+    {
+      "comment": "a group of people who have a particular shared purpose or interest, for example a political party or charity",
+      "entry": "organization",
+      "id": "organization#organization__1"
+    },
+    {
+      "comment": "an [organization]{organization} for [people_1]{people} who have a [common_1]{common} interest in a [particular_1]{particular} [activity]{activity} or [subject_1]{subject}",
+      "entry": "club",
+      "id": "club_1#club_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who [make_1]{make} [decision_1]{decisions} or [judgment]{judgments}",
+      "entry": "panel",
+      "id": "panel_1#panel_1__7"
+    },
+    {
+      "comment": "a [group_1]{group} [organized]{organized} by and for [people_1]{people} who [share_1]{share} a [particular_1]{particular} [problem]{problem} or [medical_1]{medical} [condition_1]{condition}",
+      "entry": "support group",
+      "id": "support-group#support-group__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} [chosen_1]{chosen} to [deal_1]{deal} with a [particular_1]{particular} [problem]{problem} or [situation]{situation}",
+      "entry": "task force",
+      "id": "task-force#task-force__1"
+    },
+    {
+      "comment": "an [organized]{organized} [group_1]{group} of [people_1]{people} who [represent]{represent} a [particular_1]{particular} [area]{area} of [business]{business} or [society]{society} and [try_1]{try} to [influence_1]{influence} [politician]{politicians}",
+      "entry": "lobby",
+      "id": "lobby_1#lobby_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [number_1]{number} of [people_1]{people} who are [doing]{doing} the same thing or in the same [situation]{situation}",
+      "entry": "army",
+      "id": "army#army__8"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} in a [large_1]{larger} [society]{society} who are the same in some way",
+      "entry": "community",
+      "id": "community#community__9"
+    }
+  ],
+  "thesaurus": "Groups of people with shared interests or aims",
+  "type": "Synonyms"
+}

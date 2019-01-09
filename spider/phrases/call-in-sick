@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "call in sick",
+  "senses": [
+    {
+      "def": "to [phone_1]{phone} someone at the [place_1]{place} where you [work_1]{work} to [tell_1]{tell} them you are too [sick_1]{sick} to [work_1]{work}",
+      "examples": [
+        "He [call_1]{called} in [sick_1]{sick} and went [shopping]{shopping} with his [wife]{wife}."
+      ],
+      "id": "call-in-sick__1"
+    }
+  ]
+}

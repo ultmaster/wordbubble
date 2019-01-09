@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [join_1]{join} two [piece_1]{pieces} of [metal_1]{metal} by [heating]{heating} them and [pressing]{pressing} them together, or to become [join_1]{joined} by this [process_1]{process}",
+      "examples": [],
+      "id": "weld_1__1"
+    },
+    {
+      "def": "to [unite]{unite} [people_1]{people} or [thing]{things}",
+      "examples": [
+        "The [sky_1]{sky} and the [land_1]{land} are [weld_1]{welded} together in one [expanse]{expanse} of [gray_1]{gray}."
+      ],
+      "id": "weld_1__2"
+    }
+  ],
+  "word": "weld"
+}

@@ -1,0 +1,50 @@
+{
+  "part": "phrase",
+  "phrase": "hold on",
+  "senses": [
+    {
+      "def": "to [hold_1]{hold} something [tight_1#tight_1__40]{tightly} or [careful#careful__20]{carefully} so that you do not [drop_1]{drop} it or do not [fall_1]{fall}",
+      "examples": [
+        "[hold_1]{Hold} on [tight_1]{tight} everyone, the [boat]{boat}\u2019s [get]{getting} ready to go."
+      ],
+      "id": "hold-on__1"
+    },
+    {
+      "def": "to [wait_1]{wait}",
+      "examples": [
+        "We\u2019ll [hold_1]{hold} on another [minute_1]{minute}, then we\u2019ll have to go.",
+        "Can you [hurry_1]{hurry} up in the [bathroom]{bathroom}, I can\u2019t [hold_1]{hold} on much [long_1]{longer}."
+      ],
+      "id": "hold-on__3"
+    },
+    {
+      "def": "to keep [trying]{trying} to [win_1]{win} or [succeed]{succeed}",
+      "examples": [
+        "[davenport]{Davenport} [held]{held} on for the [win_1]{win}."
+      ],
+      "id": "hold-on__6"
+    },
+    {
+      "def": "to [manage]{manage} to [stay_1]{stay} [alive]{alive} or [continue]{continue} to do something or [deal_1]{deal} with something in a [difficult]{difficult} or [dangerous]{dangerous} [situation]{situation}",
+      "examples": [
+        "You [just_1]{just} have to [hold_1]{hold} on until the [ambulance]{ambulance} [arrive]{arrives}."
+      ],
+      "id": "hold-on__8"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone to [stop_1]{stop} or [wait_1]{wait}",
+      "examples": [
+        "[hold_1]{Hold} on! You [forgot]{forgot} your [card_1]{card}!"
+      ],
+      "id": "hold-on__10"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone to [listen_1]{listen} or [think_1]{think}",
+      "examples": [
+        "[hold_1]{Hold} on, that [won]{won}\u2019t [work_1]{work}.",
+        "Now [hold_1]{hold} on a [minute_1]{minute}! I never [said_1]{said} that."
+      ],
+      "id": "hold-on__12"
+    }
+  ]
+}

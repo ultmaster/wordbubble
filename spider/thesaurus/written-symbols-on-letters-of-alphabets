@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [mark_1]{mark} above a [letter_1]{letter} that [show_1]{shows} how you [pronounce]{pronounce} it",
+      "entry": "accent",
+      "id": "accent_1#accent_1__8"
+    },
+    {
+      "comment": "an acute accent is the mark \u00b4 above a letter in some languages that shows it is pronounced in a particular way",
+      "entry": "acute",
+      "id": "acute#acute__9"
+    },
+    {
+      "comment": "a [mark_1]{mark} under the [letter_1]{letter} \u201cc\u201d in some [language]{languages}, such as French and Portuguese, that [show_1]{shows} that \u201cc\u201d has the [sound_1]{sound} of the [letter_1]{letter} \u201cs,\u201d not \u201ck.\u201d It is [written_1]{written} as \u201c\u00e7.\u201d",
+      "entry": "cedilla",
+      "id": "cedilla#cedilla__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} ^ [written_1]{written} above a [vowel]{vowel} in some [language]{languages} such as French. A [circumflex]{circumflex} often [make_1]{makes} the [sound_1]{sound} of a [vowel]{vowel} [long_1]{longer}.",
+      "entry": "circumflex",
+      "id": "circumflex#circumflex__1"
+    },
+    {
+      "comment": "a [mark_1]{mark} that [show_1]{shows} how you should [pronounce]{pronounce} a [letter_1]{letter} in a [word_1]{word}",
+      "entry": "diacritic",
+      "id": "diacritic#diacritic__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} \u00a8 put above a [vowel]{vowel} that [follow]{follows} another [vowel]{vowel} to show that it is [pronounced]{pronounced} [separate_1#separate_1__13]{separately} from the other [vowel]{vowel}, for [example]{example} in the [word_1]{word} \u201c[naive]{na\u00efve}\u201d",
+      "entry": "dieresis",
+      "id": "dieresis#dieresis__1"
+    },
+    {
+      "comment": "the [mark_1]{mark} ` above a [letter_1]{letter} in French and some other [language]{languages} to show how that [letter_1]{letter} is [pronounced]{pronounced}",
+      "entry": "grave",
+      "id": "grave_3#grave_3__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} ~ that is [written_1]{written} over the [letter_1]{letter} \u201cn\u201d in Spanish, and \u201ca\u201d and \u201co\u201d in Portuguese to [change_1]{change} the way that they are [pronounced]{pronounced}",
+      "entry": "tilde",
+      "id": "tilde#tilde__1"
+    },
+    {
+      "comment": "the [mark_1]{mark} \u00a8, [written_1]{written} above a [vowel]{vowel} in some [language]{languages}, such as German, that [show_1]{shows} it is [pronounced]{pronounced} in a [particular_1]{particular} way",
+      "entry": "umlaut",
+      "id": "umlaut#umlaut__1"
+    }
+  ],
+  "thesaurus": "Written symbols on letters of alphabets",
+  "type": "Related words"
+}

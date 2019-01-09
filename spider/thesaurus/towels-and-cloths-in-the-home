@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [cloth]{cloth} [used]{used} for a [particular_1]{particular} [purpose]{purpose} such as [cleaning]{cleaning} or [covering]{covering} a [table_1]{table}",
+      "entry": "cloth",
+      "id": "cloth#cloth__3"
+    },
+    {
+      "comment": "a covering that you put over a teapot to keep the tea hot",
+      "entry": "cozy",
+      "id": "cozy_3#cozy_3__1"
+    },
+    {
+      "comment": "a [small_1]{small} [cloth]{cloth} that you use in the [kitchen]{kitchen} for [washing]{washing} or [dry_2]{drying} [dish_1]{dishes}",
+      "entry": "dishcloth",
+      "id": "dishcloth#dishcloth__1"
+    },
+    {
+      "comment": "a dishcloth",
+      "entry": "dishrag",
+      "id": "dishrag#dishrag__1"
+    },
+    {
+      "comment": "a [large_1]{large} [cloth]{cloth} that you use to [dry_1]{dry} [dish_1]{dishes} that have been [wash_1]{washed}",
+      "entry": "dishtowel",
+      "id": "dishtowel#dishtowel__1"
+    },
+    {
+      "comment": "a [cloth]{cloth} for [remove]{removing} [dust_1]{dust} from the [surface_1]{surfaces} of [furniture]{furniture}",
+      "entry": "dust cloth",
+      "id": "dust-cloth#dust-cloth__1"
+    },
+    {
+      "comment": "a [cloth]{cloth} or [brush_1]{brush} for [remove]{removing} [dust_1]{dust} from the [surface_1]{surfaces} of [furniture]{furniture}",
+      "entry": "duster",
+      "id": "duster#duster__1"
+    },
+    {
+      "comment": "a [washcloth]{washcloth}",
+      "entry": "facecloth",
+      "id": "facecloth#facecloth__1"
+    },
+    {
+      "comment": "a [washcloth]{washcloth}",
+      "entry": "face flannel",
+      "id": "face-flannel#face-flannel__1"
+    },
+    {
+      "comment": "a small piece of cloth used for washing yourself. The American word is washcloth.",
+      "entry": "flannel",
+      "id": "flannel#flannel__3"
+    },
+    {
+      "comment": "a small towel that you use for drying your hands",
+      "entry": "hand towel",
+      "id": "hand-towel#hand-towel__1"
+    },
+    {
+      "comment": "a long rough [object_1]{object} that you use for [washing]{washing} yourself. It is made from a [dried]{dried} [tropical]{tropical} [fruit_1]{fruit}.",
+      "entry": "loofah",
+      "id": "loofah#loofah__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [cloth]{cloth} or [paper_1]{paper} [used]{used} for [protect]{protecting} your [clothes]{clothes} and [wipe_1]{wiping} your [mouth_1]{mouth} and [hand_1]{hands} while you are [eat]{eating}",
+      "entry": "napkin",
+      "id": "napkin#napkin__1"
+    },
+    {
+      "comment": "a thick [piece_1]{piece} of [cloth]{cloth} [used]{used} for [protect]{protecting} your [hand_1]{hands} when you are [holding]{holding} a [hot]{hot} [cooking_1]{cooking} [pan_1]{pan}",
+      "entry": "potholder",
+      "id": "potholder#potholder__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [old]{old} [cloth]{cloth} [used]{used} for [cleaning]{cleaning} or [wipe_1]{wiping} something",
+      "entry": "rag",
+      "id": "rag_1#rag_1__1"
+    },
+    {
+      "comment": "a [table_1]{table} [napkin]{napkin}",
+      "entry": "serviette",
+      "id": "serviette#serviette__1"
+    },
+    {
+      "comment": "a [large_1]{large} [cloth]{cloth} for [covering]{covering} a [table_1]{table}",
+      "entry": "tablecloth",
+      "id": "tablecloth#tablecloth__1"
+    },
+    {
+      "comment": "a tablecloth and the napkins that you use for wiping your fingers and mouth during a meal",
+      "entry": "table linen",
+      "id": "table-linen#table-linen__1"
+    },
+    {
+      "comment": "a cover that is put over a teapot to keep the tea warm",
+      "entry": "tea cozy",
+      "id": "tea-cozy#tea-cozy__1"
+    },
+    {
+      "comment": "a [dishtowel]{dishtowel}",
+      "entry": "tea towel",
+      "id": "tea-towel#tea-towel__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [material_1]{material} [used]{used} for [dry_2]{drying} your [hand_1]{hands} or body, or for [dry_2]{drying} [dish_1]{dishes}",
+      "entry": "towel",
+      "id": "towel_1#towel_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [square_1]{square} [towel_1]{towel} [used]{used} for [washing]{washing} your [face_1]{face} or body",
+      "entry": "washcloth",
+      "id": "washcloth#washcloth__1"
+    },
+    {
+      "comment": "a [small_1]{small} [square_1]{square} [cloth]{cloth} [used]{used} for [washing]{washing} your [face_1]{face} and body",
+      "entry": "washrag",
+      "id": "washrag#washrag__1"
+    }
+  ],
+  "thesaurus": "Towels and cloths in the home",
+  "type": "Related words"
+}

@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [potato]{potato} that is [bake_1]{baked} and [serve_1]{served} with its [skin_1]{skin} on",
+      "entry": "baked potato",
+      "id": "baked-potato#baked-potato__1"
+    },
+    {
+      "comment": "a very thin round piece of potato cooked in hot oil and eaten cold. The British word is crisp",
+      "entry": "chip",
+      "id": "chip_1#chip_1__1"
+    },
+    {
+      "comment": "a French [fry_1]{fry}",
+      "entry": "chip",
+      "id": "chip_1#chip_1__3"
+    },
+    {
+      "comment": "a [potato]{potato} [chip_1]{chip}",
+      "entry": "crisp",
+      "id": "crisp_3#crisp_3__3"
+    },
+    {
+      "comment": "long thin pieces of potato cooked in hot oil. French fries are often simply called fries. The British word for this is chips.",
+      "entry": "French fries",
+      "id": "french-fries#french-fries__1"
+    },
+    {
+      "comment": "French fries",
+      "entry": "fries",
+      "id": "fries#fries__1"
+    },
+    {
+      "comment": "[potato]{potatoes} that are [cut_1]{cut} into very [small_1]{small} [piece_1]{pieces}, [pressed]{pressed} together, and [cooked]{cooked} in [oil_1]{oil}",
+      "entry": "hash browns",
+      "id": "hash-browns#hash-browns__1"
+    },
+    {
+      "comment": "potatoes that have been cooked, cut up, and then fried  (=cooked in oil), usually for breakfast",
+      "entry": "home fries",
+      "id": "home-fries#home-fries__1"
+    },
+    {
+      "comment": "a [bake_1]{baked} [potato]{potato}",
+      "entry": "jacket potato",
+      "id": "jacket-potato#jacket-potato__1"
+    },
+    {
+      "comment": "a traditional Jewish pancake made with potatoes",
+      "entry": "latke",
+      "id": "latke#latke__1"
+    },
+    {
+      "comment": "[mash_2]{mashed} [potato]{potatoes}",
+      "entry": "mash",
+      "id": "mash_1#mash_1__3"
+    },
+    {
+      "comment": "[potato]{potatoes} that have been [boil_1]{boiled} and are then [crushed]{crushed} with [milk_1]{milk} and [butter_1]{butter} until they are [smooth_1]{smooth}",
+      "entry": "mashed potatoes",
+      "id": "mashed-potatoes#mashed-potatoes__1"
+    },
+    {
+      "comment": "a food made by cooking small very thin pieces of potato in oil. The British word is crisp",
+      "entry": "potato chip",
+      "id": "potato-chip#potato-chip__1"
+    }
+  ],
+  "thesaurus": "Cooked potatoes",
+  "type": "Related words"
+}

@@ -1,0 +1,291 @@
+{
+  "entries": [
+    {
+      "comment": "an [object_1]{object} [used]{used} for [count_1]{counting} or [doing]{doing} [simple]{simple} [calculation]{calculations}, [consist]{consisting} of a [frame_1]{frame} with [small_1]{small} [balls]{balls} in a [row_1]{row}",
+      "entry": "abacus",
+      "id": "abacus#abacus__1"
+    },
+    {
+      "comment": "if one [mathematical]{mathematical} [quantity]{quantity} is a [function_1]{function} of another, it [change_1]{changes} [accord_2]{according} to how the [second_1]{second} [quantity]{quantity} [change_1]{changes}",
+      "entry": "a function of something",
+      "id": "a-function-of-something#a-function-of-something__3"
+    },
+    {
+      "comment": "a [set_1]{set} of [rule_1]{rules} for [solve]{solving} [problem]{problems} or [doing]{doing} [calculation]{calculations}, [especially]{especially} [rule_1]{rules} that a computer [use_1]{uses}",
+      "entry": "algorithm",
+      "id": "algorithm#algorithm__1"
+    },
+    {
+      "comment": "a [nearly]{nearly} [exact_1]{exact} [calculation]{calculation}, amount, [number_1]{number}, time, etc.",
+      "entry": "approximation",
+      "id": "approximation#approximation__1"
+    },
+    {
+      "comment": "an amount that is [calculated]{calculated} by [add_1]{adding} several [number_1]{numbers} together and [divide_1]{dividing} the [total_1]{total} by the [original_1]{original} [number_1]{number} of [thing]{things} you [added]{added} together",
+      "entry": "average",
+      "id": "average_1#average_1__4"
+    },
+    {
+      "comment": "in mathematics, an expression that has two parts connected by the sign + or the sign \u2013, for example 2x + 3y or x \u2013 12",
+      "entry": "binomial",
+      "id": "binomial#binomial__1"
+    },
+    {
+      "comment": "a [series]{series} of [number_1]{numbers} or [symbol]{symbols} that you [write]{write} when you are [calculating]{calculating} something",
+      "entry": "calculation",
+      "id": "calculation#calculation__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [ability_1]{ability} to [calculate]{calculate} [number_1]{numbers} or [amount_1]{amounts}",
+      "entry": "computational",
+      "id": "computational#computational__1"
+    },
+    {
+      "comment": "the [count_1]{counting} of [number_1]{numbers} [backward_1]{backward}, for [example]{example} from ten to [zero_1]{zero}, before something [important]{important} [happen]{happens}",
+      "entry": "countdown",
+      "id": "countdown#countdown__1"
+    },
+    {
+      "comment": "a [position_1]{position} that comes after the [decimal_1]{decimal} [point_1]{point} in a [decimal_1]{decimal}. 0.0164 has four [decimal_1]{decimal} [place_1]{places}",
+      "entry": "decimal place",
+      "id": "decimal-place#decimal-place__1"
+    },
+    {
+      "comment": "the [difference]{difference} between one [number_1]{number} or [measurement]{measurement} in a [series]{series} and the [average_1]{average} of all the [number_1]{numbers} or [measurement]{measurements} in the [series]{series}",
+      "entry": "deviation",
+      "id": "deviation#deviation__2"
+    },
+    {
+      "comment": "a [calculation]{calculation} in [mathematics]{mathematics} of how many times a [number_1]{number} is [contain]{contained} in a [large_1]{larger} [number_1]{number}",
+      "entry": "division",
+      "id": "division#division__16"
+    },
+    {
+      "comment": "a range of possible values of a variable",
+      "entry": "domain",
+      "id": "domain#domain__10"
+    },
+    {
+      "comment": "a [statement_1]{statement} that two [set_1]{sets} of [number_1]{numbers}, [letter_1]{letters}, or [symbol]{symbols} are [equal_1]{equal}",
+      "entry": "equation",
+      "id": "equation#equation__1"
+    },
+    {
+      "comment": "an expression written in a longer form",
+      "entry": "expansion",
+      "id": "expansion#expansion__9"
+    },
+    {
+      "comment": "a [small_1]{small} [number_1]{number} or [letter_1]{letter} [written_1]{written} above and to the [right_1]{right} of another [number_1]{number} to show how many times you should [multiply]{multiply} that [number_1]{number} by [itself]{itself}",
+      "entry": "exponent",
+      "id": "exponent#exponent__5"
+    },
+    {
+      "comment": "[showing]{showing} how many times you should [multiply]{multiply} a [number_1]{number} by [itself]{itself}",
+      "entry": "exponential",
+      "id": "exponential#exponential__3"
+    },
+    {
+      "comment": "a [group_1]{group} of [sign_1]{signs} and [number_1]{numbers} that show a [particular_1]{particular} [quantity]{quantity} or [idea]{idea}",
+      "entry": "expression",
+      "id": "expression#expression__17"
+    },
+    {
+      "comment": "[calculation]{calculations} that you do [use_1]{using} [number_1]{numbers}",
+      "entry": "figures",
+      "id": "figure_1#figure_1__12"
+    },
+    {
+      "comment": "a [group_1]{group} of [letter_1]{letters} or [number_1]{numbers} that [represent]{represents} a [rule_1]{rule} in [science]{science} or [mathematics]{mathematics}",
+      "entry": "formula",
+      "id": "formula#formula__5"
+    },
+    {
+      "comment": "a [calculation]{calculation} of the [size_1]{size}, [value_1]{value}, or amount of something when all the [fact]{facts} are not [available]{available} to you",
+      "entry": "guesstimate",
+      "id": "guesstimate#guesstimate__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [count_1]{count} all the [people_1]{people} in a [place_1]{place} or [organization]{organization}",
+      "entry": "head count",
+      "id": "head-count#head-count__1"
+    },
+    {
+      "comment": "the [lack_1]{lack} of the [ability_1]{ability} to do [basic_1]{basic} [mathematics]{mathematics}",
+      "entry": "innumeracy",
+      "id": "innumeracy#innumeracy__1"
+    },
+    {
+      "comment": "[unable]{unable} to do [basic_1]{basic} [mathematics]{mathematics}",
+      "entry": "innumerate",
+      "id": "innumerate#innumerate__1"
+    },
+    {
+      "comment": "in mathematics, the set of points described by a particular rule or equation",
+      "entry": "locus",
+      "id": "locus#locus__3"
+    },
+    {
+      "comment": "a [logarithm]{logarithm}",
+      "entry": "log",
+      "id": "log_1#log_1__4"
+    },
+    {
+      "comment": "in [mathematics]{mathematics}, the [number_1]{number} of times that a [number_1]{number} must be [multiply]{multiplied} by [itself]{itself} in [order_1]{order} to [produce_1]{produce} a [particular_1]{particular} [number_1]{number}",
+      "entry": "logarithm",
+      "id": "logarithm#logarithm__1"
+    },
+    {
+      "comment": "a [calculation]{calculation} in which you [divide_1]{divide} one [large_1]{large} [number_1]{number} by another",
+      "entry": "long division",
+      "id": "long-division#long-division__1"
+    },
+    {
+      "comment": "the amount by which a [number_1]{number} or [calculation]{calculation} may be [different]{different} from the [correct_1]{correct} one without [cause_2]{causing} a [problem]{problem}",
+      "entry": "margin of error",
+      "id": "margin-of-error#margin-of-error__1"
+    },
+    {
+      "comment": "mathematics. The British word is maths.",
+      "entry": "math",
+      "id": "math#math__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [involve]{involving} [mathematics]{mathematics}",
+      "entry": "mathematical",
+      "id": "mathematical#mathematical__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} or [teach]{teaches} [mathematics]{mathematics}",
+      "entry": "mathematician",
+      "id": "mathematician#mathematician__1"
+    },
+    {
+      "comment": "the study or use of numbers and shapes to calculate, represent, or describe things. Mathematics includes arithmetic, geometry, and algebra",
+      "entry": "mathematics",
+      "id": "mathematics#mathematics__1"
+    },
+    {
+      "comment": "[relate]{relating} to [mathematics]{mathematics}",
+      "entry": "mathematics",
+      "id": "mathematics#mathematics__4"
+    },
+    {
+      "comment": "[calculation]{calculations} [use_1]{using} [number_1]{numbers}",
+      "entry": "mathematics",
+      "id": "mathematics#mathematics__6"
+    },
+    {
+      "comment": "[mathematics]{mathematics}",
+      "entry": "maths",
+      "id": "maths#maths__1"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} of [number_1]{numbers} or [symbol]{symbols} in a [pattern_1]{pattern} from top to bottom and from [left_1]{left} to [right_1]{right}, [used]{used} for [solve]{solving} [problem]{problems} in [mathematics]{mathematics}",
+      "entry": "matrix",
+      "id": "matrix#matrix__3"
+    },
+    {
+      "comment": "[calculation]{calculations} that you do in your [mind_1]{mind}, without [writing]{writing} them down",
+      "entry": "mental arithmetic",
+      "id": "mental-arithmetic#mental-arithmetic__1"
+    },
+    {
+      "comment": "a [list_1]{list} that [show_1]{shows} the [result_1]{results} of [multiply]{multiplying} all the [combination]{combinations} of two [number_1]{numbers} between 1 and 12 together",
+      "entry": "multiplication table",
+      "id": "multiplication-table#multiplication-table__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [written_1]{written} [sign_1]{signs} or [shape_1]{shapes} that are [used]{used} in something such as [music]{music} or [mathematics]{mathematics}",
+      "entry": "notation",
+      "id": "notation#notation__1"
+    },
+    {
+      "comment": "[basic_1]{basic} [skill]{skills} in [mathematics]{mathematics}",
+      "entry": "numeracy",
+      "id": "numeracy#numeracy__1"
+    },
+    {
+      "comment": "someone who is [numerate]{numerate} has [basic_1]{basic} [skill]{skills} in [mathematics]{mathematics}",
+      "entry": "numerate",
+      "id": "numerate#numerate__1"
+    },
+    {
+      "comment": "a [result_1]{result} that is very [different]{different} from the other [result_1]{results} in a [set_1]{set}",
+      "entry": "outlier",
+      "id": "outlier#outlier__1"
+    },
+    {
+      "comment": "an expression in algebra  (=a type of mathematics) that contains two or more terms",
+      "entry": "polynomial",
+      "id": "polynomial#polynomial__1"
+    },
+    {
+      "comment": "a [calculation]{calculation} of how [likely_1]{likely} something is",
+      "entry": "probability",
+      "id": "probability#probability__6"
+    },
+    {
+      "comment": "a [calculation]{calculation} of the way that something will [change_1]{change} and [develop]{develop} in the [future_1]{future}, [especially]{especially} of how [fast_1]{fast} it will [grow]{grow} or become [small_1]{smaller}",
+      "entry": "projection",
+      "id": "projection#projection__1"
+    },
+    {
+      "comment": "a problem or statement in mathematics or logic that must be solved or proved true or false",
+      "entry": "proposition",
+      "id": "proposition_1#proposition_1__9"
+    },
+    {
+      "comment": "an equation in which a variable  (=quantity that can represent different amounts) is multiplied by itself once only",
+      "entry": "quadratic equation",
+      "id": "quadratic-equation#quadratic-equation__1"
+    },
+    {
+      "comment": "a [calculation]{calculation} or [measurement]{measurement}",
+      "entry": "reckoning",
+      "id": "reckoning#reckoning__1"
+    },
+    {
+      "comment": "the [answer_1]{answer} to a [problem]{problem} in [mathematics]{mathematics}",
+      "entry": "solution",
+      "id": "solution#solution__8"
+    },
+    {
+      "comment": "a simple calculation. To do a sum is to calculate something.",
+      "entry": "sum",
+      "id": "sum_1#sum_1__5"
+    },
+    {
+      "comment": "a [multiplication]{multiplication} [table_1]{table}",
+      "entry": "table",
+      "id": "table_1#table_1__12"
+    },
+    {
+      "comment": "a [record_1]{record} of the [number_1]{number} of [thing]{things} that someone has done, [won]{won}, or [achieve]{achieved}",
+      "entry": "tally",
+      "id": "tally_1#tally_1__1"
+    },
+    {
+      "comment": "a [number_1]{number} or [symbol]{symbol} [used]{used} in a [calculation]{calculation} in [mathematics]{mathematics}",
+      "entry": "term",
+      "id": "term_1#term_1__31"
+    },
+    {
+      "comment": "a [statement_1]{statement}, [especially]{especially} in [mathematics]{mathematics}, that can be [prove]{proved} to be [true_1]{true} by [reasoning]{reasoning}",
+      "entry": "theorem",
+      "id": "theorem#theorem__1"
+    },
+    {
+      "comment": "a [multiplication]{multiplication} [table_1]{table}",
+      "entry": "times table",
+      "id": "times-table#times-table__1"
+    },
+    {
+      "comment": "a letter representing a number that can change depending on the other numbers in an equation",
+      "entry": "variable",
+      "id": "variable_1#variable_1__3"
+    }
+  ],
+  "thesaurus": "General words relating to mathematics and geometry",
+  "type": "Related words"
+}

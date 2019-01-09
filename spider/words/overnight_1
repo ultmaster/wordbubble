@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "during the [night_1]{night}, or from one [evening_1]{evening} until the next [morning_1]{morning}",
+      "examples": [
+        "We [travel_1]{traveled} overnight.",
+        "They [stay_1]{stayed} overnight at the [hotel]{hotel}.",
+        "[soak_1]{Soak} the [bean_1]{beans} overnight in [cold_1]{cold} [water_1]{water}."
+      ],
+      "id": "overnight_1__1"
+    },
+    {
+      "def": "in a very [short_1]{short} time",
+      "examples": [
+        "Don\u2019t [expect]{expect} to become [famous_1]{famous} overnight."
+      ],
+      "id": "overnight_1__5"
+    }
+  ],
+  "word": "overnight"
+}

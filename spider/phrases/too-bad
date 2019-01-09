@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "too bad",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you are [sorry]{sorry} or [sympathetic]{sympathetic} about something",
+      "examples": [
+        "That\u2019s too [bad_1]{bad} about your [sister]{sister} [lose]{losing} her [job_1]{job}."
+      ],
+      "id": "too-bad__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you are not [sympathetic]{sympathetic} at all or you do not [really]{really} [care_1]{care} what someone else [think_1]{thinks}",
+      "examples": [
+        "If you don\u2019t [like_1]{like} the [truth]{truth}, that\u2019s [just_1]{just} too [bad_1]{bad}.",
+        "If they [like_1]{like} it, [fine_1]{fine}. If not, too [bad_1]{bad}!"
+      ],
+      "id": "too-bad__3"
+    }
+  ]
+}

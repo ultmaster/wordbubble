@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "sign on",
+  "senses": [
+    {
+      "def": "to [agree]{agree} to do something or to take part in something",
+      "examples": [
+        "[company]{Companies} have [sign_2]{signed} on as [business]{business} [partner_1]{partners} with [high_1]{high} [school_1]{schools} across the [country]{country}.",
+        "We\u2019re [hopeful_1]{hopeful} that they will [sign_1]{sign} on to this [plan_1]{plan}."
+      ],
+      "id": "sign-on__1"
+    },
+    {
+      "def": "to [write]{write} your name or a [secret_1]{secret} [word_1]{word} in [order_1]{order} to use a computer",
+      "examples": [
+        "You [need_1]{need} your [password]{password} to [sign_1]{sign} on."
+      ],
+      "id": "sign-on__4"
+    },
+    {
+      "def": "to [employ_1]{employ} someone to do a [job_1]{job}",
+      "examples": [
+        "We\u2019ve [sign_2]{signed} on three [new]{new} [employee]{employees}."
+      ],
+      "id": "sign-on__6"
+    },
+    {
+      "def": "to [apply]{apply} to [receive]{receive} [money]{money} from the [government]{government} when you have [lost_1]{lost} your [job_1]{job}",
+      "examples": [],
+      "id": "sign-on__8"
+    }
+  ]
+}

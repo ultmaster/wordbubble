@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "cross over",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to [belong]{belong} to a [different]{different} [group_1]{group} or [type_1]{type} from before",
+      "examples": [
+        "Several Latino [singer]{singers} have [cross_1]{crossed} over into [mainstream_1]{mainstream} [rock_1]{rock}."
+      ],
+      "id": "cross-over__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [supporting]{supporting} one [group_1]{group} and [start_1]{start} [supporting]{supporting} another",
+      "examples": [
+        "Another [member]{member} of the [government]{government} has [cross_1]{crossed} over to the [opposition]{opposition}."
+      ],
+      "id": "cross-over__3"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to do something in a [game_1]{game} that is not [allow]{allowed} by the [rule_1]{rules}",
+      "examples": [
+        "Johnson was [foul_2]{fouled} while [trying]{trying} to [make_1]{make} a [shot_1]{shot}."
+      ],
+      "id": "foul_2__1"
+    },
+    {
+      "def": "to hit a [ball_1]{ball} [outside]{outside} the [limit_1]{limits} of the [play_1]{playing} [area]{area} during a [game_1]{game} of [baseball]{baseball}",
+      "examples": [],
+      "id": "foul_2__4"
+    },
+    {
+      "def": "to [make_1]{make} something very [dirty_1]{dirty}",
+      "examples": [
+        "The [oil_1]{oil} [spillage]{spillage} [foul_2]{fouled} several [mile]{miles} of [beach_1]{beaches}."
+      ],
+      "id": "foul_2__5"
+    },
+    {
+      "def": "to become [twisted]{twisted} around part of a [machine_1]{machine}, [engine]{engine}, [vehicle]{vehicle}, etc. so that it cannot move",
+      "examples": [],
+      "id": "foul_2__7"
+    }
+  ],
+  "word": "foul"
+}

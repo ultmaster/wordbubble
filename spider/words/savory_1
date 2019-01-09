@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[pleasant]{pleasant} to [smell_1]{smell} or [taste_1]{taste}",
+      "examples": [
+        "a [delicious#delicious__8]{deliciously} savory [aroma]{aroma}"
+      ],
+      "id": "savory_1__1"
+    },
+    {
+      "def": "[morally]{morally} or [socially]{socially} [good_1]{good}",
+      "examples": [
+        "one of the less savory [area]{areas} of the [city]{city}"
+      ],
+      "id": "savory_1__3"
+    },
+    {
+      "def": "[tasting]{tasting} of [salt_1]{salt} or [spice_1]{spices} and not [sweet_1]{sweet}",
+      "examples": [],
+      "id": "savory_1__5"
+    }
+  ],
+  "word": "savory"
+}

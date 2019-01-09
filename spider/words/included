@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[contain]{contained} in something as part of the whole",
+      "examples": [
+        "The bill came to $467, [tax_1]{tax} included."
+      ],
+      "id": "included__1"
+    },
+    {
+      "def": "[form_2]{forming} part of a [group_1]{group}, [set_1]{set}, or [collection]{collection} of [thing]{things}",
+      "examples": [
+        "Other [people_1]{people}, [myself]{myself} included, [believe]{believe} that it\u2019s [reasonable]{reasonable} to have a [minimum_1]{minimum} [wage_1]{wage}."
+      ],
+      "id": "included__3"
+    }
+  ],
+  "word": "included"
+}

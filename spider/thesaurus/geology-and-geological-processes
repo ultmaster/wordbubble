@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "if [wind_1]{wind}, a [river]{river}, etc. [carve]{carves} something in the [land_1]{land}, its [action_1]{action} [form_1]{forms} it over a [period_1]{period} of many [year]{years}",
+      "entry": "carve",
+      "id": "carve#carve__6"
+    },
+    {
+      "comment": "if a [substance]{substance} is [deposit_2]{deposited} in the [soil_1]{soil} or in [rock_1]{rock}, it [gradually]{gradually} [gather_1]{gathers} there and [form_1]{forms} a [layer_1]{layer}",
+      "entry": "deposit",
+      "id": "deposit_2#deposit_2__5"
+    },
+    {
+      "comment": "a [process_1]{process} in which [layer_1]{layers} of a [substance]{substance} form [gradually]{gradually} over a [period_1]{period} of time",
+      "entry": "deposition",
+      "id": "deposition#deposition__2"
+    },
+    {
+      "comment": "a particular period of past time in geology",
+      "entry": "epoch",
+      "id": "epoch#epoch__2"
+    },
+    {
+      "comment": "to [gradually]{gradually} [damage_1]{damage} the [surface_1]{surface} of [rock_1]{rock} or [land_1]{land} so that it [begin]{begins} to [disappear]{disappear}, or to be [gradually]{gradually} [damage_2]{damaged} in this way",
+      "entry": "erode",
+      "id": "erode#erode__1"
+    },
+    {
+      "comment": "the [process_1]{process} by which the [surface_1]{surface} of [land_1]{land} or [rock_1]{rock} is [gradually]{gradually} [damage_2]{damaged} by [water_1]{water}, [wind_1]{wind}, etc. and [begin]{begins} to [disappear]{disappear}",
+      "entry": "erosion",
+      "id": "erosion#erosion__1"
+    },
+    {
+      "comment": "the [scientific]{scientific} [study_1]{study} of the [chemical_1]{chemical} [element]{elements} in the [earth]{earth}",
+      "entry": "geochemistry",
+      "id": "geochemistry#geochemistry__1"
+    },
+    {
+      "comment": "[relate]{relating} to [geology]{geology}, or to the [feature_1]{features} of the [earth]{Earth}\u2019s [surface_1]{surface}",
+      "entry": "geological",
+      "id": "geological#geological__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} [geology]{geology}",
+      "entry": "geologist",
+      "id": "geologist#geologist__1"
+    },
+    {
+      "comment": "the [scientific]{scientific} [study_1]{study} of the [structure_1]{structure} of the [earth]{Earth}, the way in which it was [form_2]{formed}, and how it has [changed]{changed} over time",
+      "entry": "geology",
+      "id": "geology#geology__1"
+    },
+    {
+      "comment": "the way that [particular_1]{particular} [rock_1]{rocks} or [area]{areas} of the [earth]{Earth}\u2019s [surface_1]{surface} are [form_2]{formed}",
+      "entry": "geology",
+      "id": "geology#geology__2"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} [geophysics]{geophysics}",
+      "entry": "geophysicist",
+      "id": "geophysicist#geophysicist__1"
+    },
+    {
+      "comment": "the [scientific]{scientific} [study_1]{study} of the [physical_1]{physical} [process_1]{processes} and [force_1]{forces} that [affect_1]{affect} the [earth]{Earth}",
+      "entry": "geophysics",
+      "id": "geophysics#geophysics__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [heat_1]{heat} at the [center_1]{center} of the [earth]{Earth}",
+      "entry": "geothermal",
+      "id": "geothermal#geothermal__1"
+    },
+    {
+      "comment": "the [process_1]{process} in which [land_1]{land} becomes [covered_1]{covered} by [glacier]{glaciers}",
+      "entry": "glaciation",
+      "id": "glaciation#glaciation__1"
+    },
+    {
+      "comment": "to form a layer of something such as soil or mud that gradually becomes hard and develops into rock",
+      "entry": "lay down",
+      "id": "lay-down#lay-down__5"
+    },
+    {
+      "comment": "[oil-bearing]{oil-bearing} [rock_1]{rocks} or [plant_1]{plants} [contain]{contain} [oil_1]{oil} of some [kind_1]{kind}",
+      "entry": "oil-bearing",
+      "id": "oil-bearing#oil-bearing__1"
+    },
+    {
+      "comment": "the [process_1]{process} by which [soil_1]{soil} is [gradually]{gradually} [removed]{removed} by the [rain_1]{rain}, [wind_1]{wind}, or [sea_1]{sea}",
+      "entry": "soil erosion",
+      "id": "soil-erosion#soil-erosion__1"
+    },
+    {
+      "comment": "the way in which [rock_1]{rock} [form_1]{forms} [different]{different} [layer_1]{layers}",
+      "entry": "stratification",
+      "id": "stratification#stratification__3"
+    },
+    {
+      "comment": "the [process_1]{process} by which a [building]{building} becomes [damage_2]{damaged} because the [land_1]{land} it is on has [sunk]{sunk}",
+      "entry": "subsidence",
+      "id": "subsidence#subsidence__1"
+    },
+    {
+      "comment": "the [process_1]{process} by which [land_1]{land} [sink_1]{sinks} to a [lower_1]{lower} [level_1]{level}",
+      "entry": "subsidence",
+      "id": "subsidence#subsidence__2"
+    },
+    {
+      "comment": "[thermal_1]{thermal} [water_1]{water} is [heated]{heated} by [natural_1]{natural} [process_1]{processes} in the [earth]{Earth}",
+      "entry": "thermal",
+      "id": "thermal_1#thermal_1__6"
+    }
+  ],
+  "thesaurus": "Geology and geological processes",
+  "type": "Related words"
+}

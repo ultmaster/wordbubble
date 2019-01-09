@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [likely_1]{likely} to [happen]{happen}",
+      "entry": "unlikely",
+      "id": "unlikely#unlikely__1"
+    },
+    {
+      "comment": "not [certain_1]{certain} or [likely_1]{likely} to [happen]{happen} or be [true_1]{true}",
+      "entry": "doubtful",
+      "id": "doubtful#doubtful__1"
+    },
+    {
+      "comment": "not [likely_1]{likely} to [happen]{happen}",
+      "entry": "remote",
+      "id": "remote_1#remote_1__8"
+    },
+    {
+      "comment": "not [likely_1]{likely} to [happen]{happen} or to be [true_1]{true}",
+      "entry": "improbable",
+      "id": "improbable#improbable__1"
+    },
+    {
+      "comment": "so [unlikely]{unlikely} that it is [difficult]{difficult} to [believe]{believe}",
+      "entry": "inconceivable",
+      "id": "inconceivable#inconceivable__3"
+    },
+    {
+      "comment": "if the [chance_1]{chances} of something [good_1]{good} [happening_1]{happening} are [dim_1]{dim}, it is not [likely_1]{likely} to [happen]{happen}",
+      "entry": "dim",
+      "id": "dim_1#dim_1__11"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [unlikely]{unlikely}",
+      "entry": "I don\u2019t suppose",
+      "id": "i-don-t-suppose#i-don-t-suppose__4"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [unlikely]{unlikely} to [happen]{happen}",
+      "entry": "you\u2019ll be lucky",
+      "id": "you-ll-be-lucky#you-ll-be-lucky__1"
+    },
+    {
+      "comment": "if there is no [question_1]{question} of something, it [definitely]{definitely} will not [happen]{happen}",
+      "entry": "there is no question of something",
+      "id": "there-is-no-question-of-something#there-is-no-question-of-something__1"
+    },
+    {
+      "comment": "if you [say_1]{say} that it\u2019s long [odds]{odds} that something will [happen]{happen}, you mean that it is not very [likely_1]{likely}",
+      "entry": "long odds",
+      "id": "long-odds#long-odds__1"
+    }
+  ],
+  "thesaurus": "Not likely to happen",
+  "type": "Synonyms"
+}

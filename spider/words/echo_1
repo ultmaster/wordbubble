@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [noise]{noise} [echo_1]{echoes}, it is [repeated]{repeated} because the [sound_1]{sound} [hit_1]{hits} a [surface_1]{surface} and [return_1]{returns}",
+      "examples": [
+        "Her [question_1]{question} [echo_1]{echoed} around the [room_1]{room}.",
+        "The [howl_1]{howl} of a [coyote]{coyote} [echo_1]{echoed} across the [canyon]{canyon}.",
+        "She [led_1]{led} him along [deserted]{deserted} [echo_1]{echoing} [corridor]{corridors}.",
+        "The [theater]{theater} [echo_1]{echoed} with [laughter]{laughter}."
+      ],
+      "id": "echo_1__1"
+    },
+    {
+      "def": "to [say_1]{say} the same [word_1]{words} that someone else has [said_1]{said}",
+      "examples": [
+        "Her [feeling_1]{feelings} are [echo_1]{echoed} by other [parent]{parents} whose [kid_1]{kids} have [left_1]{left} [home_1]{home}.",
+        "Blake [echo_1]{echoed} the [view_1]{views} of many [player]{players}."
+      ],
+      "id": "echo_1__8"
+    },
+    {
+      "def": "to [repeat_1]{repeat} a [quality_1]{quality} or [situation]{situation}",
+      "examples": [
+        "The Victorian [theme]{theme} is [echo_1]{echoed} in the [furnishings]{furnishings}.",
+        "This [pattern_1]{pattern} of [increased]{increased} [sale]{sales} was [echo_1]{echoed} across Europe."
+      ],
+      "id": "echo_1__12"
+    }
+  ],
+  "word": "echo"
+}

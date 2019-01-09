@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[able_1]{able} to be [obtain]{obtained}, [taken_1]{taken}, or [used]{used}",
+      "entry": "available",
+      "id": "available#available__1"
+    },
+    {
+      "comment": "[available]{available} for [people_1]{people} in [general_1]{general} to use",
+      "entry": "public",
+      "id": "public_1#public_1__1"
+    },
+    {
+      "comment": "[available]{available} to be [share_1]{shared}, or [given_1]{given} to someone, because it is [additional]{additional} to what you [need_1]{need} for yourself",
+      "entry": "spare",
+      "id": "spare_1#spare_1__6"
+    },
+    {
+      "comment": "a [place_1]{place} that is [vacant]{vacant} is [available]{available}, because no one else is [use_1]{using} it",
+      "entry": "vacant",
+      "id": "vacant#vacant__1"
+    },
+    {
+      "comment": "[available]{available}",
+      "entry": "going",
+      "id": "going_2#going_2__1"
+    },
+    {
+      "comment": "if a [road]{road}, [telephone_1]{telephone} [line_1]{line}, or other [method]{method} of [communication]{communication} [open_2]{opens}, or if someone [open_2]{opens} it, it becomes [available]{available} for [people_1]{people} to use",
+      "entry": "open",
+      "id": "open_2#open_2__32"
+    },
+    {
+      "comment": "[available]{available}, for [example]{example} for [people_1]{people} to [buy_1]{buy} or use",
+      "entry": "on offer",
+      "id": "on-offer#on-offer__1"
+    },
+    {
+      "comment": "[available]{available} only during a [particular_1]{particular} time of [year]{year}",
+      "entry": "seasonal",
+      "id": "seasonal#seasonal__1"
+    },
+    {
+      "comment": "[easy_1]{easy} for anyone to [obtain]{obtain} and use",
+      "entry": "accessible",
+      "id": "accessible#accessible__1"
+    },
+    {
+      "comment": "[available]{available} or [appropriate_1]{appropriate} to be [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "usable",
+      "id": "usable#usable__1"
+    }
+  ],
+  "thesaurus": "Available and to be, or to become available",
+  "type": "Synonyms"
+}

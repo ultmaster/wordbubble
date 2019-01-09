@@ -1,0 +1,23 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [use_1]{uses} something such as a [service_1]{service} or a [piece_1]{piece} of [equipment]{equipment}",
+      "examples": [
+        "[software]{Software} should be [design_2]{designed} to [meet_1]{meet} the [need_1]{needs} of [user]{users}.",
+        "[access_1]{Access} for [wheelchair]{wheelchair} [user]{users} is now [available]{available}.",
+        "Bicyclists, [like_1]{like} all [road]{road} [user]{users}, must [obey]{obey} [traffic_1]{traffic} [sign_1]{signs}.",
+        "[user]{Users} of the [network_1]{network} will [greatly]{greatly} [benefit_1]{benefit} from these [improvement]{improvements}."
+      ],
+      "id": "user__1"
+    },
+    {
+      "def": "someone who [regularly]{regularly} [take_1]{takes} [illegal_1]{illegal} [drug_1]{drugs}",
+      "examples": [
+        "the [spread_1]{spread} of the [disease]{disease} among [inject]{injecting} [drug_1]{drug} [user]{users}"
+      ],
+      "id": "user__7"
+    }
+  ],
+  "word": "user"
+}

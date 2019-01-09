@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the part of a computer that [control_1]{controls} and [perform]{performs} all its [operation]{operations}",
+      "examples": [],
+      "id": "processor__1"
+    },
+    {
+      "def": "a [food-processor]{food processor}",
+      "examples": [],
+      "id": "processor__2"
+    },
+    {
+      "def": "a [company]{company} that [treat_1]{treats} a [food]{food} or another [substance]{substance} to [make_1]{make} it ready for use",
+      "examples": [
+        "[meat]{meat} [producer]{producers} and [processor]{processors}"
+      ],
+      "id": "processor__4"
+    },
+    {
+      "def": "someone whose [job_1]{job} is to [deal_1]{deal} with [particular_1]{particular} [document_1]{documents}",
+      "examples": [
+        "a [loan_1]{loan} processor"
+      ],
+      "id": "processor__7"
+    }
+  ],
+  "word": "processor"
+}

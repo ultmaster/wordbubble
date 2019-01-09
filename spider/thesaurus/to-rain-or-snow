@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if it [rain_1]{rains}, [water_1]{water} [fall_1]{falls} in [drop_1]{drops} from [cloud_1]{clouds} in the [sky_1]{sky}",
+      "entry": "rain",
+      "id": "rain_2#rain_2__1"
+    },
+    {
+      "comment": "if it [snow_1]{snows}, [snow_1]{snow} [fall_1]{falls} from the [sky_1]{sky}",
+      "entry": "snow",
+      "id": "snow_2#snow_2__1"
+    },
+    {
+      "comment": "if [rain_1]{rain}, [snow_1]{snow}, etc. comes down, it [fall_1]{falls} to the [ground_1]{ground}, [especially]{especially} in [large_1]{large} [amount_1]{amounts}",
+      "entry": "come down",
+      "id": "come-down#come-down__3"
+    },
+    {
+      "comment": "if [rain_1]{rain} or [snow_1]{snow} is [pelt_1]{pelting} or is [pelt_1]{pelting} down, it comes down [quickly]{quickly} in [large_1]{large} [amount_1]{amounts}",
+      "entry": "pelt",
+      "id": "pelt_1#pelt_1__3"
+    },
+    {
+      "comment": "to [rain_1]{rain} very [hard_1]{hard}",
+      "entry": "pour",
+      "id": "pour#pour__9"
+    },
+    {
+      "comment": "to [rain_1]{rain} in a very [light_1]{light} way",
+      "entry": "drizzle",
+      "id": "drizzle_1#drizzle_1__1"
+    },
+    {
+      "comment": "if the [rain_1]{rain} [beat_1]{beats} down, it [rain_1]{rains} very [hard_1]{hard}",
+      "entry": "beat down",
+      "id": "beat-down#beat-down__3"
+    },
+    {
+      "comment": "if it [hail_1]{hails}, [small_1]{small} [balls]{balls} of [ice_1]{ice} [fall_1]{fall} from the [sky_1]{sky} [like_1]{like} [rain_1]{rain}",
+      "entry": "hail",
+      "id": "hail_1#hail_1__2"
+    },
+    {
+      "comment": "to [rain_1]{rain} in [large_1]{large} [amount_1]{amounts} and with a [lot_1]{lot} of [force_1]{force}",
+      "entry": "lash down",
+      "id": "lash-down#lash-down__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that very [heavy_1]{heavy} [rain_1]{rain} [start_1]{started} to [fall_1]{fall}",
+      "entry": "the heavens opened",
+      "id": "the-heavens-opened#the-heavens-opened__1"
+    }
+  ],
+  "thesaurus": "To rain or snow",
+  "type": "Synonyms"
+}

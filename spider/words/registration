@@ -1,0 +1,26 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [process_1]{process} of [recording]{recording} [name_1]{names} or [information]{information} on an [official_1]{official} [list_1]{list}",
+      "examples": [
+        "[voter]{voter}/[vehicle]{vehicle} registration",
+        "There\u2019s a registration [fee]{fee} of $50."
+      ],
+      "id": "registration__1"
+    },
+    {
+      "def": "the [process_1]{process} of [making]{making} the [arrangement]{arrangements} to take [class_1]{classes} at a [particular_1]{particular} [school_1]{school} or [university]{university}",
+      "examples": [
+        "[fall_1]{Fall} registration [start_1]{starts} next [week]{week}."
+      ],
+      "id": "registration__4"
+    },
+    {
+      "def": "an [official_1]{official} [document_1]{document} that [give_1]{gives} [detail_1]{details} of a [vehicle]{vehicle} and its [owner]{owner}",
+      "examples": [],
+      "id": "registration__6"
+    }
+  ],
+  "word": "registration"
+}

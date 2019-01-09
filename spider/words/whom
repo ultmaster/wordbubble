@@ -1,0 +1,24 @@
+{
+  "part": "pronoun",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} or [state_2]{stating} which [person]{person} is [affected]{affected} by an [action_1]{action} or is [involved]{involved} in something",
+      "examples": [
+        "Whom will they [choose]{choose} to [lead_1]{lead} them?",
+        "To whom [did]{did} you [speak_1]{speak}?",
+        "\u201cThey [say_1]{say} that Marlowe was [murder_2]{murdered}.\u201d \u201cBy whom?\u201d",
+        "[tell_1]{Tell} me whom you [admire]{admire} most."
+      ],
+      "id": "whom__1"
+    },
+    {
+      "def": "[used]{used} for [introduce]{introducing} [information]{information} that [show_1]{shows} which [person]{person} you are [talk_1]{talking} about, or for [add_1]{adding} more [information]{information} about a [specific]{specific} [person]{person}",
+      "examples": [
+        "There are over 6,000 [student]{students}, many of whom come from [overseas_1]{overseas}.",
+        "This is the [gentleman]{gentleman} whom I [mention_1]{mentioned} a [moment]{moment} [ago]{ago}."
+      ],
+      "id": "whom__6"
+    }
+  ],
+  "word": "whom"
+}

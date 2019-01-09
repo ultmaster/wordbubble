@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[money]{money} that you [pay_1]{pay} to take [class_1]{classes}, [especially]{especially} at a [college]{college}, [university]{university}, or [private_1]{private} [school_1]{school}",
+      "examples": [
+        "[tuition]{Tuition} [increased]{increased} by 5% at [state_1]{state} [university]{universities} this [year]{year}."
+      ],
+      "id": "tuition__1"
+    },
+    {
+      "def": "the [work_1]{work} that a [teacher]{teacher} [does]{does} when they [teach]{teach} a [particular_1]{particular} [subject_1]{subject}, [especially]{especially} to one [person]{person} or to a [small_1]{small} [group_1]{group}",
+      "examples": [
+        "He\u2019s been [get]{getting} [private_1]{private} tuition in French."
+      ],
+      "id": "tuition__3"
+    }
+  ],
+  "word": "tuition"
+}

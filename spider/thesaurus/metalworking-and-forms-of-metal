@@ -1,0 +1,266 @@
+{
+  "entries": [
+    {
+      "comment": "a metal block on which a blacksmith shapes metal objects with a hammer",
+      "entry": "anvil",
+      "id": "anvil#anvil__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [piece_1]{piece} of [metal_1]{metal}",
+      "entry": "bar",
+      "id": "bar_1#bar_1__9"
+    },
+    {
+      "comment": "to hit a [piece_1]{piece} of [metal_1]{metal} with a [special_1]{special} [hammer_1]{hammer} in [order_1]{order} to [make_1]{make} it [thinner]{thinner}",
+      "entry": "beat",
+      "id": "beat_1#beat_1__30"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [make_1]{make} [thing]{things} out of [metal_1]{metal}",
+      "entry": "blacksmith",
+      "id": "blacksmith#blacksmith__1"
+    },
+    {
+      "comment": "[gold_1]{gold} or [silver_1]{silver} in the form of [solid_1]{solid} [block_1]{blocks}",
+      "entry": "bullion",
+      "id": "bullion#bullion__1"
+    },
+    {
+      "comment": "to [rub_1]{rub} [metal_1]{metal} until it [shine_1]{shines}",
+      "entry": "burnish",
+      "id": "burnish#burnish__1"
+    },
+    {
+      "comment": "to [decorate]{decorate} [metal_1]{metal} [use_1]{using} a [special_1]{special} [tool_1]{tool}",
+      "entry": "chase",
+      "id": "chase_1#chase_1__22"
+    },
+    {
+      "comment": "a container used for heating substances or melting metals at very high temperatures",
+      "entry": "crucible",
+      "id": "crucible#crucible__1"
+    },
+    {
+      "comment": "[carat]{carat}",
+      "entry": "ct.",
+      "id": "ct_2#ct_2__2"
+    },
+    {
+      "comment": "a [layer_1]{layer} of a [metal_1]{metal} or another [substance]{substance} that has [form_2]{formed} in [soil_1]{soil} or [rock_1]{rock}",
+      "entry": "deposit",
+      "id": "deposit_1#deposit_1__8"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [metal_1]{metal} [object_1]{object} with a thin [layer_1]{layer} of another [metal_1]{metal}, [especially]{especially} [silver_1]{silver} or [gold_1]{gold}, [use_1]{using} [electricity]{electricity}",
+      "entry": "electroplate",
+      "id": "electroplate#electroplate__1"
+    },
+    {
+      "comment": "[delicate]{delicate} [pattern_1]{patterns} made from thin [gold_1]{gold} or [silver_1]{silver} [wire_1]{wire}, [used]{used} as [decoration]{decoration}",
+      "entry": "filigree",
+      "id": "filigree#filigree__1"
+    },
+    {
+      "comment": "very [small_1]{small} [piece_1]{pieces} of [metal_1]{metal} that have been [removed]{removed} from a [large_1]{larger} [piece_1]{piece}",
+      "entry": "filings",
+      "id": "filings#filings__1"
+    },
+    {
+      "comment": "to heat metal until it is soft, then hit it with a hammer or pour it into a mold to form different shapes",
+      "entry": "forge",
+      "id": "forge_1#forge_1__10"
+    },
+    {
+      "comment": "a place where metal is heated until it is soft, and then hit with a hammer or poured into a mold to form different shapes",
+      "entry": "forge",
+      "id": "forge_2#forge_2__1"
+    },
+    {
+      "comment": "a [factory]{factory} where [metal_1]{metal} or [glass]{glass} is [heated]{heated} and made into [different]{different} [object_1]{objects}",
+      "entry": "foundry",
+      "id": "foundry#foundry__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [surface_1]{surface} with a very thin [layer_1]{layer} of [gold_1]{gold}",
+      "entry": "gild",
+      "id": "gild#gild__1"
+    },
+    {
+      "comment": "a thin [layer_1]{layer} of [gold_1]{gold} or something [like_1]{like} [gold_1]{gold}, [used]{used} for [decorate]{decorating} [object_1]{objects}",
+      "entry": "gilt",
+      "id": "gilt_1#gilt_1__1"
+    },
+    {
+      "comment": "[gold_1]{gold} in the form of a [powder_1]{powder}",
+      "entry": "gold dust",
+      "id": "gold-dust#gold-dust__1"
+    },
+    {
+      "comment": "[gold_1]{gold} in the form of thin [sheet]{sheets}, [used]{used} for [covering]{covering} the [surface_1]{surface} of [object_1]{objects}",
+      "entry": "gold leaf",
+      "id": "gold-leaf#gold-leaf__1"
+    },
+    {
+      "comment": "an [official_1]{official} [mark_1]{mark} on an [object_1]{object} made of [gold_1]{gold} or [silver_1]{silver}, [showing]{showing} the [quality_1]{quality} of the [metal_1]{metal} and when and where the [object_1]{object} was made",
+      "entry": "hallmark",
+      "id": "hallmark#hallmark__4"
+    },
+    {
+      "comment": "a [block_1]{block} of [gold_1]{gold}, [silver_1]{silver}, or other [metal_1]{metal}",
+      "entry": "ingot",
+      "id": "ingot#ingot__1"
+    },
+    {
+      "comment": "something made of [iron_1]{iron}, [especially]{especially} something such as a [gate_1]{gate} or [fence_1]{fence}",
+      "entry": "ironwork",
+      "id": "ironwork#ironwork__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} how [pure]{pure} [gold_1]{gold} is. The [pure]{purest} [gold_1]{gold} is 24 [karat]{karats}",
+      "entry": "karat",
+      "id": "karat#karat__1"
+    },
+    {
+      "comment": "[metal_1]{metal}, [especially]{especially} [gold_1]{gold} or [silver_1]{silver}, in very thin [sheet]{sheets}, [used]{used} as a [decoration]{decoration}",
+      "entry": "leaf",
+      "id": "leaf_1#leaf_1__10"
+    },
+    {
+      "comment": "to [heat_1]{heat} a [metal_1]{metal} until it becomes [liquid_1]{liquid}, [especially]{especially} in [order_1]{order} to [make_1]{make} something [new]{new} from it",
+      "entry": "melt down",
+      "id": "melt-down#melt-down__1"
+    },
+    {
+      "comment": "[used]{used} about something that is made of [metal_1]{metal}",
+      "entry": "metal",
+      "id": "metal#metal__5"
+    },
+    {
+      "comment": "[loss]{loss} of [strength]{strength} in something made of [metal_1]{metal} that could cause it to [break_1]{break}",
+      "entry": "metal fatigue",
+      "id": "metal-fatigue#metal-fatigue__1"
+    },
+    {
+      "comment": "the [skill]{skill} of [making]{making} [thing]{things} out of [metal_1]{metal}",
+      "entry": "metalwork",
+      "id": "metalwork#metalwork__1"
+    },
+    {
+      "comment": "[metal_1]{metal} [object_1]{objects}, or the [metal_1]{metal} [part_1]{parts} of something",
+      "entry": "metalwork",
+      "id": "metalwork#metalwork__2"
+    },
+    {
+      "comment": "to shape or polish metal  (=make it shine) using a machine",
+      "entry": "mill",
+      "id": "mill_2#mill_2__3"
+    },
+    {
+      "comment": "a rough [lump_1]{lump} of [gold_1]{gold} or other [metal_1]{metal} as it is found in the [earth]{earth}",
+      "entry": "nugget",
+      "id": "nugget#nugget__1"
+    },
+    {
+      "comment": "[object_1]{objects} made of [pewter]{pewter}",
+      "entry": "pewter",
+      "id": "pewter#pewter__2"
+    },
+    {
+      "comment": "a thin [layer_1]{layer} of [silver_1]{silver} or [gold_1]{gold} that [cover_1]{covers} a less [valuable]{valuable} [metal_1]{metal} to [improve_1]{improve} its [appearance]{appearance}",
+      "entry": "plate",
+      "id": "plate_1#plate_1__20"
+    },
+    {
+      "comment": "to [cover_1]{cover} a [metal_1]{metal} [object_1]{object} with a thin [layer_1]{layer} of [gold_1]{gold} or [silver_1]{silver}",
+      "entry": "plate",
+      "id": "plate_2#plate_2__1"
+    },
+    {
+      "comment": "to [protect]{protect} something with a [piece_1]{piece} of [metal_1]{metal}",
+      "entry": "plate",
+      "id": "plate_2#plate_2__2"
+    },
+    {
+      "comment": "a thin [layer_1]{layer} of [metal_1]{metal}, [especially]{especially} [silver_1]{silver} or [gold_1]{gold}, that [cover_1]{covers} a [metal_1]{metal} [object_1]{object}",
+      "entry": "plating",
+      "id": "plating#plating__1"
+    },
+    {
+      "comment": "[metal_1]{metal} that has been [cut_1]{cut} into [large_1]{large} thin [piece_1]{pieces}",
+      "entry": "sheet metal",
+      "id": "sheet-metal#sheet-metal__1"
+    },
+    {
+      "comment": "a thin [layer_1]{layer} of [silver_1]{silver} [covering]{covering} the [outside]{outside} of an [object_1]{object}",
+      "entry": "silver plate",
+      "id": "silver-plate#silver-plate__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [make_1]{make} [thing]{things} out of [silver_1]{silver}",
+      "entry": "silversmith",
+      "id": "silversmith#silversmith__1"
+    },
+    {
+      "comment": "to [heat_1]{heat} [rock_1]{rock} in [order_1]{order} to [remove]{remove} the [metal_1]{metal} that it [contain]{contains}",
+      "entry": "smelt",
+      "id": "smelt_1#smelt_1__1"
+    },
+    {
+      "comment": "a place where iron objects are made and repaired by a blacksmith",
+      "entry": "smithy",
+      "id": "smithy#smithy__1"
+    },
+    {
+      "comment": "a [soft]{soft} [metal_1]{metal} that becomes [liquid_1]{liquid} when [heated]{heated} and is [used]{used} for [join_1]{joining} two other [metal_1]{metal} [surface_1]{surfaces} together",
+      "entry": "solder",
+      "id": "solder_1#solder_1__1"
+    },
+    {
+      "comment": "to [join_1]{join} two [metal_1]{metal} [surface_1]{surfaces} together [use_1]{using} [solder_1]{solder}",
+      "entry": "solder",
+      "id": "solder_2#solder_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} [steel_1]{steel} [hard_1]{hard} by [heating]{heating} it and then [making]{making} it [cold_1]{cold}",
+      "entry": "temper",
+      "id": "temper_2#temper_2__1"
+    },
+    {
+      "comment": "a green or green-blue substance that appears on the metal copper as a result of a reaction to the air",
+      "entry": "verdigris",
+      "id": "verdigris#verdigris__1"
+    },
+    {
+      "comment": "to [join_1]{join} two [piece_1]{pieces} of [metal_1]{metal} by [heating]{heating} them and [pressing]{pressing} them together, or to become [join_1]{joined} by this [process_1]{process}",
+      "entry": "weld",
+      "id": "weld_1#weld_1__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [weld_1]{welding}, or the [place_1]{place} where two [piece_1]{pieces} of [metal_1]{metal} are [weld_1]{welded}",
+      "entry": "weld",
+      "id": "weld_2#weld_2__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [weld_1]{weld} [metal_1]{metal}",
+      "entry": "welder",
+      "id": "welder#welder__1"
+    },
+    {
+      "comment": "a long thin piece of metal like a thread",
+      "entry": "wire",
+      "id": "wire_1#wire_1__1"
+    },
+    {
+      "comment": "[contain]{containing} [wire_1]{wire}",
+      "entry": "wired",
+      "id": "wired#wired__5"
+    },
+    {
+      "comment": "[wire_1]{wire}",
+      "entry": "wiring",
+      "id": "wiring#wiring__3"
+    }
+  ],
+  "thesaurus": "Metalworking and forms of metal",
+  "type": "Related words"
+}

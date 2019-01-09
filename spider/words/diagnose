@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to find out what [physical_1]{physical} or [mental]{mental} [problem]{problem} someone has by [examine]{examining} them",
+      "examples": [
+        "These [question_1]{questions} [help_1]{help} [doctor_1]{doctors} diagnose [personality]{personality} [disorder]{disorders}.",
+        "When Eva was first [diagnose]{diagnosed} with [cancer_1]{cancer} she was twenty.",
+        "A [psychiatrist]{psychiatrist} [diagnose]{diagnosed} her as [severely]{severely} [depressed]{depressed}."
+      ],
+      "id": "diagnose__1"
+    },
+    {
+      "def": "to find out why something such as a [piece_1]{piece} of [equipment]{equipment} or [software]{software} is not [working]{working}",
+      "examples": [
+        "[scan_1]{Scanning} [software]{software} can diagnose [general_1]{general} [disk]{disk} [fault_1]{faults}."
+      ],
+      "id": "diagnose__5"
+    }
+  ],
+  "word": "diagnose"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "come with",
+  "senses": [
+    {
+      "def": "to [exist]{exist} or [develop]{develop} as a [result_1]{result} of something",
+      "examples": [
+        "the [kind_1]{kind} of [skill]{skill} that comes with [year]{years} of [practice_1]{practice}"
+      ],
+      "id": "come-with__1"
+    },
+    {
+      "def": "to be [provided]{provided} together with something",
+      "examples": [
+        "In those [day]{days} the [house_1]{house} came with the [job_1]{job}.",
+        "All our [computer]{computers} come with a 3-year [guarantee_1]{guarantee}."
+      ],
+      "id": "come-with__3"
+    }
+  ]
+}

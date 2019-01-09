@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to go [past_1]{past} something",
+      "entry": "pass",
+      "id": "pass_1#pass_1__1"
+    },
+    {
+      "comment": "to go around something",
+      "entry": "round",
+      "id": "round_3#round_3__1"
+    },
+    {
+      "comment": "to go over, under, or [past_1]{past} an [object_1]{object} without [touching_1]{touching} it",
+      "entry": "clear",
+      "id": "clear_2#clear_2__31"
+    },
+    {
+      "comment": "to go [past_1]{past}",
+      "entry": "pass by",
+      "id": "pass-by#pass-by__1"
+    },
+    {
+      "comment": "to [pass_1]{pass} very [close_1]{close} to something",
+      "entry": "shave",
+      "id": "shave_1#shave_1__5"
+    },
+    {
+      "comment": "to go around something that is [stop_1]{stopping} you from [going_1]{going} where you [want_1]{want}",
+      "entry": "circumvent",
+      "id": "circumvent#circumvent__3"
+    },
+    {
+      "comment": "to [sail_1]{sail} or [fly_1]{fly} [completely]{completely} around something, [especially]{especially} the [world]{world} or an [island]{island}",
+      "entry": "circumnavigate",
+      "id": "circumnavigate#circumnavigate__1"
+    },
+    {
+      "comment": "to go from one [place_1]{place} to another by a way that is not the [short_1]{shortest} or [usual]{usual} way",
+      "entry": "detour",
+      "id": "detour_2#detour_2__1"
+    },
+    {
+      "comment": "to [try_1]{try} not to go [near_1]{near} someone or something",
+      "entry": "avoid",
+      "id": "avoid#avoid__1"
+    },
+    {
+      "comment": "to move with [complete_1]{complete} [freedom]{freedom} around a [large_1]{large} [area]{area}",
+      "entry": "range",
+      "id": "range_2#range_2__7"
+    }
+  ],
+  "thesaurus": "To move past or around an area or object",
+  "type": "Synonyms"
+}

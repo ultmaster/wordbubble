@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "get down",
+  "senses": [
+    {
+      "def": "to [write]{write} something somewhere",
+      "examples": [
+        "[let_1]{Let} me get your [address_1]{address} down.",
+        "Someone [managed]{managed} to get down the [license_1]{license} [plate_1]{plate} [number_1]{number} of the [car]{car}."
+      ],
+      "id": "get-down__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} [sad_1]{sad} or [lose]{lose} [hope_1]{hope}",
+      "examples": [
+        "[doing]{Doing} the same thing every [day]{day} can get you down.",
+        "She [get]{gets} down at times, but mostly she [cope]{copes} very well."
+      ],
+      "id": "get-down__4"
+    },
+    {
+      "def": "to [manage]{manage} to [swallow_1]{swallow} [food]{food} or a [drink_1]{drink}",
+      "examples": [
+        "Even though you are [sick_1]{sick}, you should [try_1]{try} to get down a [little_1]{little} [food]{food}."
+      ],
+      "id": "get-down__8"
+    },
+    {
+      "def": "to [lower_1]{lower} your [head_1]{head} and body [quickly]{quickly} in [order_1]{order} to [avoid]{avoid} being hit by something",
+      "examples": [
+        "[incoming]{Incoming} fire! Get down!"
+      ],
+      "id": "get-down__10"
+    }
+  ]
+}

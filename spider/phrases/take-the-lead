@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "take the lead",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [winning]{winning} a [race_1]{race} or [competition]{competition}",
+      "examples": [
+        "She [took]{took} the [lead_1]{lead} ten [mile]{miles} into the [marathon]{marathon}."
+      ],
+      "id": "take-the-lead__1"
+    },
+    {
+      "def": "to [accept]{accept} [responsibility]{responsibility} for [dealing]{dealing} with a [situation]{situation}",
+      "examples": [
+        "The [united]{United} [state_1]{States} [took]{took} the [lead_1]{lead} in [trying]{trying} to [salvage_1]{salvage} a [deal_1]{deal} at the [peace]{peace} [talk_1]{talks}."
+      ],
+      "id": "take-the-lead__3"
+    },
+    {
+      "def": "to do something as an [example]{example} for others to [follow]{follow}",
+      "examples": [
+        "American [farmer]{farmers} [took]{took} the [lead_1]{lead} by [send_1]{sending} [tons]{tons} of [grain]{grain} to the [drought-stricken]{drought-stricken} [area]{areas}."
+      ],
+      "id": "take-the-lead__5"
+    }
+  ]
+}

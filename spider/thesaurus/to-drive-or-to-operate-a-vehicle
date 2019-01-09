@@ -1,0 +1,406 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} a [car]{car} go [backward_1]{backward}",
+      "entry": "back up",
+      "id": "back-up#back-up__14"
+    },
+    {
+      "comment": "to [stop_1]{stop} someone from [moving]{moving} their [car]{car} out of a [place_1]{place}",
+      "entry": "block in",
+      "id": "block-in#block-in__1"
+    },
+    {
+      "comment": "to [surround_1]{surround} a [person]{person} or [vehicle]{vehicle}, so that they cannot move or [leave_1]{leave} a [place_1]{place}",
+      "entry": "box in",
+      "id": "box-in#box-in__1"
+    },
+    {
+      "comment": "to fasten your seat belt in a car, airplane, etc.",
+      "entry": "buckle up",
+      "id": "buckle-up#buckle-up__1"
+    },
+    {
+      "comment": "in a car, to accelerate so fast that the wheels spin and smoke comes off the tires",
+      "entry": "burn rubber",
+      "id": "burn-rubber#burn-rubber__1"
+    },
+    {
+      "comment": "to take someone somewhere by [bus_1]{bus}",
+      "entry": "bus",
+      "id": "bus_2#bus_2__1"
+    },
+    {
+      "comment": "to [avoid]{avoid} the [center_1]{center} of a [town]{town} or [city]{city} by [use_1]{using} a [road]{road} that [go_1]{goes} around it",
+      "entry": "bypass",
+      "id": "bypass_2#bypass_2__3"
+    },
+    {
+      "comment": "if a [group_1]{group} of [car]{car} [owner]{owners} [car-pool_2]{car-pool}, they [agree]{agree} to [travel_1]{travel} together to [work_1]{work}, [school_1]{school}, etc., so that only one [car]{car} is [used]{used} at a time",
+      "entry": "car-pool",
+      "id": "car-pool_2#car-pool_2__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} [carry_1]{carries} someone or something somewhere, it [take_1]{takes} them there",
+      "entry": "carry",
+      "id": "carry_1#carry_1__12"
+    },
+    {
+      "comment": "to [drive_1]{drive} [past_1]{past} another [car]{car} that is [traveling]{traveling} in the same [direction]{direction} as you and then move in front of it too [soon]{soon}",
+      "entry": "carve up",
+      "id": "carve-up#carve-up__4"
+    },
+    {
+      "comment": "to start driving in a lower gear",
+      "entry": "change down",
+      "id": "change-down#change-down__1"
+    },
+    {
+      "comment": "to start using a different gear when you are driving a car or riding a bicycle",
+      "entry": "change gear/gears",
+      "id": "change-gear-gears#change-gear-gears__3"
+    },
+    {
+      "comment": "to start driving in a higher gear",
+      "entry": "change up",
+      "id": "change-up#change-up__1"
+    },
+    {
+      "comment": "to [drive_1]{drive} a [rich_1]{rich} and [important]{important} [person]{person} around in their [car]{car} as your [job_1]{job}, [usually]{usually} [wearing]{wearing} a [special_1]{special} [uniform_1]{uniform}",
+      "entry": "chauffeur",
+      "id": "chauffeur_2#chauffeur_2__1"
+    },
+    {
+      "comment": "to continue to move in a car or on a bicycle after you have switched off the engine or have stopped pedaling with your legs",
+      "entry": "coast",
+      "id": "coast_2#coast_2__1"
+    },
+    {
+      "comment": "if a [car]{car} [corner_1]{corners}, it [move_1]{moves} around a [corner_1]{corner} or [curve_1]{curve} in the [road]{road}",
+      "entry": "corner",
+      "id": "corner_2#corner_2__8"
+    },
+    {
+      "comment": "to [travel_1]{travel} at a [steady_1]{steady} [speed_1]{speed} in a [car]{car} or [airplane]{airplane}",
+      "entry": "cruise",
+      "id": "cruise_2#cruise_2__9"
+    },
+    {
+      "comment": "to [drive_1]{drive} [past_1]{past} a [vehicle]{vehicle} and move [quickly]{quickly} in front of it in a [dangerous]{dangerous} way",
+      "entry": "cut in",
+      "id": "cut-in#cut-in__4"
+    },
+    {
+      "comment": "to [suddenly]{suddenly} [leave_1]{leave} a [line_1]{line} of [traffic_1]{traffic} and [join_1]{join} another one",
+      "entry": "cut out",
+      "id": "cut-out#cut-out__13"
+    },
+    {
+      "comment": "to [drive_1]{drive} a [train_1]{train} or [bus_1]{bus} that is [carry_1]{carrying} no [passenger]{passengers} or [goods]{goods} on it",
+      "entry": "deadhead",
+      "id": "deadhead_1#deadhead_1__2"
+    },
+    {
+      "comment": "to move, [progress_1]{progress}, or [drive_1]{drive} more [slowly]{slowly}",
+      "entry": "decelerate",
+      "id": "decelerate#decelerate__1"
+    },
+    {
+      "comment": "to [make_1]{make} your [car]{car} [spin_1]{spin} in [tight_1]{tight} [circle_1]{circles}, [especially]{especially} on [ice_1]{ice}",
+      "entry": "do doughnuts",
+      "id": "do-doughnuts#do-doughnuts__1"
+    },
+    {
+      "comment": "to change to a lower gear when driving a car",
+      "entry": "downshift",
+      "id": "downshift#downshift__1"
+    },
+    {
+      "comment": "to [control_1]{control} a [vehicle]{vehicle} so that it [move_1]{moves} somewhere",
+      "entry": "drive",
+      "id": "drive_1#drive_1__1"
+    },
+    {
+      "comment": "to [know_1]{know} how to [drive_1]{drive} a [vehicle]{vehicle}",
+      "entry": "drive",
+      "id": "drive_1#drive_1__6"
+    },
+    {
+      "comment": "to get somewhere by [driving]{driving} a [car]{car}",
+      "entry": "drive",
+      "id": "drive_1#drive_1__9"
+    },
+    {
+      "comment": "to [drive_1]{drive} a [particular_1]{particular} [type_1]{type} of [vehicle]{vehicle} [regularly]{regularly}",
+      "entry": "drive",
+      "id": "drive_1#drive_1__14"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [drive_1]{drives} off, the [vehicle]{vehicle} [start_1]{starts} [moving]{moving} and [leaves]{leaves}",
+      "entry": "drive off",
+      "id": "drive-off#drive-off__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [drive_1]{drives} up, the [vehicle]{vehicle} [move_1]{moves} [near_1]{near} to a [person]{person} or [place_1]{place} and [stop_1]{stops}",
+      "entry": "drive up",
+      "id": "drive-up#drive-up__1"
+    },
+    {
+      "comment": "to take someone by [car]{car} to [different]{different} [place_1]{places}",
+      "entry": "ferry",
+      "id": "ferry_2#ferry_2__3"
+    },
+    {
+      "comment": "to go to where someone is and [bring]{bring} them [home_1]{home}, [especially]{especially} in your [car]{car}",
+      "entry": "fetch",
+      "id": "fetch#fetch__9"
+    },
+    {
+      "comment": "to press the accelerator of a vehicle down to the floor in order to increase its speed",
+      "entry": "floor",
+      "id": "floor_2#floor_2__3"
+    },
+    {
+      "comment": "to allow another vehicle to go before you when you are driving. The usual American word is yield",
+      "entry": "give way",
+      "id": "give-way#give-way__6"
+    },
+    {
+      "comment": "to make a car engine work very quickly by pressing your foot on the accelerator",
+      "entry": "gun",
+      "id": "gun_2#gun_2__1"
+    },
+    {
+      "comment": "to [start_1]{start} [driving]{driving} a [car]{car} very [fast_1]{fast}",
+      "entry": "gun",
+      "id": "gun_2#gun_2__2"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} [handle_1]{handles} well or [badly]{badly}, it is [easy_1]{easy} or [difficult]{difficult} to [control_1]{control}",
+      "entry": "handle",
+      "id": "handle_1#handle_1__22"
+    },
+    {
+      "comment": "the [handling]{handling} of a [vehicle]{vehicle} is how [easy_1]{easy} it is to [control_1]{control}",
+      "entry": "handling",
+      "id": "handling#handling__11"
+    },
+    {
+      "comment": "to [turn_1]{turn} [left_1]{left} or [right_1]{right} when you are [driving]{driving}",
+      "entry": "hang a left/right",
+      "id": "hang-a-left-right#hang-a-left-right__1"
+    },
+    {
+      "comment": "to do a U-turn  (=in which you turn a vehicle round to face the opposite direction)",
+      "entry": "hang a U-ey",
+      "id": "u-ey#u-ey__2"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} [hold_1]{holds} the [road]{road} well, it is [easy_1]{easy} to [control_1]{control}, even when you [drive_1]{drive} [fast_1]{fast} around [curve_1]{curves}",
+      "entry": "hold the road",
+      "id": "hold-the-road#hold-the-road__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [driving]{driving} [use_1]{using} [method]{methods} that are [intended_1]{intended} to use [fuel_1]{fuel} in the most [efficient]{efficient} way without [wasting]{wasting} any",
+      "entry": "hypermiling",
+      "id": "hypermiling#hypermiling__1"
+    },
+    {
+      "comment": "to signal a turn in a vehicle by using an indicator",
+      "entry": "indicate",
+      "id": "indicate#indicate__15"
+    },
+    {
+      "comment": "to put your foot very suddenly and hard on the brake of a vehicle because you want to stop quickly",
+      "entry": "jam on the brakes/jam the brakes on",
+      "id": "jam-on#jam-on__1"
+    },
+    {
+      "comment": "to [start_1]{start} a [car]{car} by [connect]{connecting} it to another [car]{car}",
+      "entry": "jump",
+      "id": "jump_1#jump_1__38"
+    },
+    {
+      "comment": "to start a car by connecting its engine to another car\u2019s engine with jumper cables",
+      "entry": "jump-start",
+      "id": "jump-start#jump-start__1"
+    },
+    {
+      "comment": "if a vehicle or driver jumps the curb, they drive up onto the sidewalk",
+      "entry": "jump the curb",
+      "id": "jump-the-curb#jump-the-curb__1"
+    },
+    {
+      "comment": "to [press_1]{press} the [horn_1]{horn} of a [car]{car} in a [determined]{determined} way",
+      "entry": "lean on",
+      "id": "lean-on#lean-on__5"
+    },
+    {
+      "comment": "any of the gears that you use when you are driving slowly or up a hill",
+      "entry": "low gear",
+      "id": "low-gear#low-gear__1"
+    },
+    {
+      "comment": "[relate]{relating} to [car]{cars} or the [activity]{activity} of [driving]{driving} them",
+      "entry": "motoring",
+      "id": "motoring_2#motoring_2__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} [move_1]{moves} off, it [start_1]{starts} to move",
+      "entry": "move off",
+      "id": "move-off#move-off__1"
+    },
+    {
+      "comment": "to [pass_1]{pass} another [vehicle]{vehicle}",
+      "entry": "overtake",
+      "id": "overtake#overtake__5"
+    },
+    {
+      "comment": "to go [past_1]{past} another [vehicle]{vehicle}",
+      "entry": "pass",
+      "id": "pass_1#pass_1__5"
+    },
+    {
+      "comment": "to [suddenly]{suddenly} [make_1]{make} a [car]{car} [start_1]{start} [moving]{moving} very [quickly]{quickly} so that it [make_1]{makes} a [lot_1]{lot} of [noise]{noise}",
+      "entry": "peel out",
+      "id": "peel-out#peel-out__1"
+    },
+    {
+      "comment": "to take someone who is [wait_1]{waiting} by the [road]{road} into your [vehicle]{vehicle} and take them somewhere",
+      "entry": "pick up",
+      "id": "pick-up#pick-up__15"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} [away_1]{away}, they [start_1]{start} to move",
+      "entry": "pull away",
+      "id": "pull-away#pull-away__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} in somewhere, they [stop_1]{stop} there",
+      "entry": "pull in",
+      "id": "pull-in#pull-in__3"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} into a [place_1]{place}, they [stop_1]{stop} there",
+      "entry": "pull into",
+      "id": "pull-into#pull-into__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} off a [road]{road}, they [stop_1]{stop} by the side of it",
+      "entry": "pull off",
+      "id": "pull-off#pull-off__4"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} out, they move onto a [road]{road} or onto a part of a [road]{road} where the [traffic_1]{traffic} is [moving]{moving} [fast_1]{faster}",
+      "entry": "pull out",
+      "id": "pull-out#pull-out__2"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} over, they [stop_1]{stop} by the side of the [road]{road}",
+      "entry": "pull over",
+      "id": "pull-over#pull-over__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} up, they [stop_1]{stop}",
+      "entry": "pull up",
+      "id": "pull-up_1#pull-up_1__1"
+    },
+    {
+      "comment": "if you rev an engine, or if it revs, you press the gas pedal with your foot when the vehicle is not moving in order to make the engine operate faster",
+      "entry": "rev",
+      "id": "rev_1#rev_1__1"
+    },
+    {
+      "comment": "to go [backward_1]{backward} in a [vehicle]{vehicle}, or to [make_1]{make} a [vehicle]{vehicle} do this",
+      "entry": "reverse",
+      "id": "reverse_1#reverse_1__8"
+    },
+    {
+      "comment": "a [test_1]{test} to [check_1]{check} whether a [vehicle]{vehicle} [work_1]{works} well, done by [driving]{driving} it on the [road]{road}",
+      "entry": "road test",
+      "id": "road-test_1#road-test_1__2"
+    },
+    {
+      "comment": "to [test_1]{test} something, [especially]{especially} a [vehicle]{vehicle}, to [check_1]{check} that it [work_1]{works} well on the [road]{road}",
+      "entry": "road-test",
+      "id": "road-test_2#road-test_2__1"
+    },
+    {
+      "comment": "to take someone somewhere in your [car]{car}",
+      "entry": "run",
+      "id": "run_1#run_1__46"
+    },
+    {
+      "comment": "to [stop_1]{stop} a [vehicle]{vehicle} so that a [passenger]{passenger} can get out",
+      "entry": "set down",
+      "id": "set-down#set-down__7"
+    },
+    {
+      "comment": "to change from one gear to another when you are driving a car",
+      "entry": "shift",
+      "id": "shift_1#shift_1__14"
+    },
+    {
+      "comment": "to [drive_1]{drive} a [car]{car} [fast_1]{faster} than the [fast_1]{fastest} [speed_1]{speed} [legally]{legally} [allow]{allowed}",
+      "entry": "speed",
+      "id": "speed_2#speed_2__6"
+    },
+    {
+      "comment": "to go somewhere [quickly]{quickly} in a [car]{car}, on a [bicycle]{bicycle}, etc.",
+      "entry": "spin",
+      "id": "spin_1#spin_1__12"
+    },
+    {
+      "comment": "to [control_1]{control} the [direction]{direction} in which a [vehicle]{vehicle} [move_1]{moves}",
+      "entry": "steer",
+      "id": "steer_1#steer_1__1"
+    },
+    {
+      "comment": "to [drive_1]{drive} very [close_1]{close} to the [vehicle]{vehicle} in front of you",
+      "entry": "tailgate",
+      "id": "tailgate_2#tailgate_2__1"
+    },
+    {
+      "comment": "a way of [turning]{turning} your [car]{car} around in which you [turn_1]{turn} and [drive_1]{drive} to [face_1]{face} one side of the [road]{road}, then [drive_1]{drive} [backward_1]{backward}, and then [turn_1]{turn} and [drive_1]{drive} in the [direction]{direction} that you came from",
+      "entry": "three-point turn",
+      "id": "three-point-turn#three-point-turn__1"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [speed_1]{speed} of a [vehicle]{vehicle} by [increase_1]{increasing} the [supply_1]{supply} of [fuel_1]{fuel} to the [engine]{engine}",
+      "entry": "throttle up",
+      "id": "throttle-up#throttle-up__1"
+    },
+    {
+      "comment": "to [drive_1]{drive} a [vehicle]{vehicle}, [especially]{especially} in a [relaxed]{relaxed} way or without any [specific]{specific} [purpose]{purpose}",
+      "entry": "tool",
+      "id": "tool_2#tool_2__1"
+    },
+    {
+      "comment": "a [turning]{turning} [radius]{radius}",
+      "entry": "turning circle",
+      "id": "turning-circle#turning-circle__1"
+    },
+    {
+      "comment": "the [small_1]{smallest} amount of [space_1]{space} in which a [vehicle]{vehicle} can move in a [complete_1]{complete} [circle_1]{circle}",
+      "entry": "turning radius",
+      "id": "turning-radius#turning-radius__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} the [road]{road} that you are [traveling]{traveling} along in [order_1]{order} to go along another one that [lead_1]{leads} [away_1]{away} from it",
+      "entry": "turn off",
+      "id": "turn-off_1#turn-off_1__8"
+    },
+    {
+      "comment": "an [act_1]{act} of [turning]{turning} a [vehicle]{vehicle} in [order_1]{order} to [travel_1]{travel} in the [opposite_1]{opposite} [direction]{direction}",
+      "entry": "U-turn",
+      "id": "u-turn#u-turn__2"
+    },
+    {
+      "comment": "to [allow]{allow} another [vehicle]{vehicle} to go before you when you are [driving]{driving}",
+      "entry": "yield",
+      "id": "yield_1#yield_1__14"
+    }
+  ],
+  "thesaurus": "To drive, or to operate a vehicle",
+  "type": "Related words"
+}

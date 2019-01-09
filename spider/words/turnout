@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [number_1]{number} of [people_1]{people} who come to an [event]{event}",
+      "examples": [
+        "[sunny]{Sunny} [weather_1]{weather} [help_1]{helped} [boost_1]{boost} the turnout at Sunday\u2019s [rally_1]{rally}.",
+        "We\u2019re [expect]{expecting} a very low turnout for the [local_1]{local} [election]{elections}."
+      ],
+      "id": "turnout__1"
+    },
+    {
+      "def": "a [place_1]{place} along a [narrow_1]{narrow} [road]{road} where the [road]{road} becomes [wide_1]{wider} so [car]{cars} can [pass_1]{pass} each other",
+      "examples": [],
+      "id": "turnout__5"
+    }
+  ],
+  "word": "turnout"
+}

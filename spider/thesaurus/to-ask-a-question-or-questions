@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [speak_1]{speak} or [write]{write} to someone in [order_1]{order} to get [information]{information} from them",
+      "entry": "ask",
+      "id": "ask_1#ask_1__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone [question_1]{questions} [formally]{formally} or [officially]{officially}",
+      "entry": "question",
+      "id": "question_2#question_2__3"
+    },
+    {
+      "comment": "to [ask_1]{ask} a [question_1]{question} in a very [firm_1]{firm} or [angry]{angry} way",
+      "entry": "demand",
+      "id": "demand_1#demand_1__7"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone a [question_1]{question}",
+      "entry": "put to",
+      "id": "put-to#put-to__4"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone for [information]{information} about something",
+      "entry": "inquire",
+      "id": "inquire#inquire__1"
+    },
+    {
+      "comment": "to [try_1]{try} to find out the [truth]{truth} about something, [especially]{especially} by [ask_1]{asking} a [lot_1]{lot} of [question_1]{questions}",
+      "entry": "probe",
+      "id": "probe_2#probe_2__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone, [especially]{especially} someone [famous_1]{famous}, [question_1]{questions} about themselves, their [work_1]{work}, or their [idea]{ideas}, in [order_1]{order} to [publish]{publish} or [broadcast_1]{broadcast} the [information]{information}",
+      "entry": "interview",
+      "id": "interview_2#interview_2__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone, for [example]{example} a [prisoner]{prisoner} or [criminal_1]{criminal}, a [lot_1]{lot} of [question_1]{questions} in an [angry]{angry} or [threatening]{threatening} way, in [order_1]{order} to get [information]{information}",
+      "entry": "interrogate",
+      "id": "interrogate#interrogate__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone a [question_1]{question} that is [difficult]{difficult} or [embarrassing]{embarrassing} to [answer_1]{answer}",
+      "entry": "put someone on the spot",
+      "id": "put-someone-on-the-spot#put-someone-on-the-spot__1"
+    },
+    {
+      "comment": "to [ask_1]{ask} someone [question_1]{questions} because you [want_1]{want} them to give you [advice]{advice} or [information]{information}",
+      "entry": "pick someone\u2019s brains",
+      "id": "pick-someone-s-brains#pick-someone-s-brains__1"
+    }
+  ],
+  "thesaurus": "To ask a question or questions",
+  "type": "Synonyms"
+}

@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "someone or something that is [backlit]{backlit} has [light_1]{light} [shining]{shining} at them from behind",
+      "entry": "backlit",
+      "id": "backlit#backlit__1"
+    },
+    {
+      "comment": "lit only by candles",
+      "entry": "candlelit",
+      "id": "candlelit#candlelit__1"
+    },
+    {
+      "comment": "[direct_1]{direct} [heat_1]{heat} or [light_1]{light} comes [straight_1]{straight} at a [person]{person} or [object_1]{object} and is not [reflect]{reflected} or [reduce]{reduced} in [strength]{strength}",
+      "entry": "direct",
+      "id": "direct_1#direct_1__18"
+    },
+    {
+      "comment": "a [floodlit]{floodlit} [event]{event}, [area]{area}, or [building]{building} is [lit_1]{lit} at [night_1]{night} by [use_1]{using} [floodlight]{floodlights}",
+      "entry": "floodlit",
+      "id": "floodlit#floodlit__1"
+    },
+    {
+      "comment": "a [fluorescent]{fluorescent} [substance]{substance} [produce_1]{produces} [light_1]{light} when you [pass_1]{pass} [electricity]{electricity} through it",
+      "entry": "fluorescent",
+      "id": "fluorescent#fluorescent__3"
+    },
+    {
+      "comment": "[use_1]{using} [halogen_1]{halogen} to [produce_1]{produce} [light_1]{light} or [heat_1]{heat}",
+      "entry": "halogen",
+      "id": "halogen_2#halogen_2__1"
+    },
+    {
+      "comment": "relating to or using a type of light that can be felt as heat but cannot be seen. It has wavelengths that are longer than those of light that can be seen, but shorter than those of radio waves.",
+      "entry": "infrared",
+      "id": "infrared#infrared__1"
+    },
+    {
+      "comment": "[provided]{provided} with [light_1]{light} from the [moon_1]{moon}",
+      "entry": "moonlit",
+      "id": "moonlit#moonlit__1"
+    },
+    {
+      "comment": "[produce_1]{producing} a [weak]{weak} [light_1]{light} without any [heat_1]{heat}",
+      "entry": "phosphorescent",
+      "id": "phosphorescent#phosphorescent__1"
+    },
+    {
+      "comment": "a [soft]{soft} [light_1]{light} or [color_1]{color} is [pale_1]{pale}, [gentle]{gentle} and [pleasant]{pleasant} to [look_1]{look} at",
+      "entry": "soft",
+      "id": "soft#soft__11"
+    },
+    {
+      "comment": "with a [pale_1]{pale} [light_1]{light} that is [pleasant]{pleasant} and [relaxing]{relaxing}",
+      "entry": "softly",
+      "id": "softly#softly__5"
+    },
+    {
+      "comment": "[bright_1]{bright} with [light_1]{light} from the [star_1]{stars}",
+      "entry": "starlit",
+      "id": "starlit#starlit__1"
+    },
+    {
+      "comment": "[strong]{strong} [light_1]{light} or [strong]{strong} [color_1]{colors} are very [bright_1]{bright}",
+      "entry": "strong",
+      "id": "strong#strong__37"
+    },
+    {
+      "comment": "[bright_1#bright_1__20]{brightly} [lit_1]{lit} by the [sun_1]{sun}",
+      "entry": "sunlit",
+      "id": "sunlit#sunlit__1"
+    },
+    {
+      "comment": "[bright_1]{bright} with [light_1]{light} from the [sun_1]{sun}",
+      "entry": "sunny",
+      "id": "sunny#sunny__1"
+    },
+    {
+      "comment": "lit only by twilight",
+      "entry": "twilit",
+      "id": "twilit#twilit__1"
+    },
+    {
+      "comment": "ultraviolet light is beyond the normal range of colors that humans can see. Too much ultraviolet light can be bad for your skin. It is often simply called UV.",
+      "entry": "ultraviolet",
+      "id": "ultraviolet#ultraviolet__1"
+    },
+    {
+      "comment": "[ultraviolet]{ultraviolet}",
+      "entry": "UV",
+      "id": "uv#uv__1"
+    },
+    {
+      "comment": "wintry sunlight is pale, and produces little warmth",
+      "entry": "wintry",
+      "id": "wintry#wintry__4"
+    }
+  ],
+  "thesaurus": "Words used to describe types of light",
+  "type": "Related words"
+}

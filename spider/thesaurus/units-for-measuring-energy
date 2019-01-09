@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [pressure_1]{pressure}",
+      "entry": "atmosphere",
+      "id": "atmosphere#atmosphere__9"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} how much [energy]{energy} you get from [food]{food}. [people_1]{People} who are [worried]{worried} about [get]{getting} [fat_1]{fat} [pay_1]{pay} a [lot_1]{lot} of [attention]{attention} to the [number_1]{number} of [calorie]{calories} in their [food]{food}",
+      "entry": "calorie",
+      "id": "calorie#calorie__1"
+    },
+    {
+      "comment": "the complete range of electromagnetic waves from the shortest, which are gamma rays, to the longest, which are radio waves",
+      "entry": "electromagnetic spectrum",
+      "id": "electromagnetic-spectrum#electromagnetic-spectrum__1"
+    },
+    {
+      "comment": "[joule]{joule}",
+      "entry": "J.",
+      "id": "j_2#j_2__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [work_1]{work} or [energy]{energy}",
+      "entry": "joule",
+      "id": "joule#joule__1"
+    },
+    {
+      "comment": "a unit for measuring electrical energy. The written abbreviation is kWh.",
+      "entry": "kilowatt-hour",
+      "id": "kilowatt-hour#kilowatt-hour__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [force_1]{force}",
+      "entry": "newton",
+      "id": "newton#newton__1"
+    },
+    {
+      "comment": "a [unit]{unit} of [energy]{energy} in the form of [light_1]{light}",
+      "entry": "photon",
+      "id": "photon#photon__1"
+    },
+    {
+      "comment": "a [unit]{unit} [used]{used} for [measure_2]{measuring} very [small_1]{small} [amount_1]{amounts} of [energy]{energy}",
+      "entry": "quantum",
+      "id": "quantum#quantum__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} [heat_1]{heat}, [contain]{containing} 100,000 British [thermal_1]{Thermal} [unit]{Units}",
+      "entry": "therm",
+      "id": "therm#therm__1"
+    }
+  ],
+  "thesaurus": "Units for measuring energy",
+  "type": "Related words"
+}

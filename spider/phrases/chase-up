@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "chase up",
+  "senses": [
+    {
+      "def": "to find out what is being done about something",
+      "examples": [
+        "My [department]{department} is [responsible]{responsible} for [chase_1]{chasing} up [delivery]{deliveries}."
+      ],
+      "id": "chase-up__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone who should have done something why they have not done it",
+      "examples": [
+        "Why don\u2019t you [chase_1]{chase} up those [software]{software} [people_1]{people} [today_1]{today}?"
+      ],
+      "id": "chase-up__3"
+    }
+  ]
+}

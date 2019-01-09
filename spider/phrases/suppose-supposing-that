@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "suppose/supposing (that)",
+  "senses": [
+    {
+      "def": "[used]{used} for [introduce]{introducing} a [possible_1]{possible} [situation]{situation} or [action_1]{action} and the [result_1]{results} of it",
+      "examples": [
+        "[suppose]{Suppose} you [won]{won} the [lottery]{lottery}, what would you do with the [money]{money}?"
+      ],
+      "id": "suppose-supposing-that__1"
+    },
+    {
+      "def": "[used]{used} for [suggest]{suggesting} something",
+      "examples": [
+        "Hey, [suppose]{suppose} we [stop_1]{stop} for a [lunch_1]{lunch} [break_1]{break} now?"
+      ],
+      "id": "suppose-supposing-that__3"
+    }
+  ]
+}

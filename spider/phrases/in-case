@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "in case",
+  "senses": [
+    {
+      "def": "if",
+      "examples": [
+        "In [case_1]{case} you can\u2019t come, give me a call before I [leave_1]{leave} for [work_1]{work}."
+      ],
+      "id": "in-case__1"
+    },
+    {
+      "def": "in [order_1]{order} to be [prepared]{prepared} for something that may [happen]{happen}",
+      "examples": [
+        "Take an [umbrella_1]{umbrella} in [case_1]{case} it [rain_1]{rains}.",
+        "I\u2019ll [make_1]{make} some [sandwich_1]{sandwiches}, [just_1]{just} in [case_1]{case} we get [hungry_1]{hungry} [later_1]{later}.",
+        "In [case_1]{case} of [bad_1]{bad} [weather_1]{weather}, the [wedding]{wedding} will be [held]{held} [indoors]{indoors}."
+      ],
+      "id": "in-case__3"
+    },
+    {
+      "def": "[used]{used} for [explain]{explaining} why you are [doing]{doing} something",
+      "examples": [
+        "In [case_1]{case} you were [wonder_1]{wondering}, I\u2019m here to see your [brother_1]{brother}, not you."
+      ],
+      "id": "in-case__7"
+    }
+  ]
+}

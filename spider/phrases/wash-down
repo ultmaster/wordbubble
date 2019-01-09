@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "wash down",
+  "senses": [
+    {
+      "def": "to [drink_1]{drink} something after [put]{putting} [food]{food} or [medication]{medication} in your [mouth_1]{mouth}, [especially]{especially} so that you can [swallow_1]{swallow} more [easily]{easily}",
+      "examples": [
+        "He had a [large_1]{large} [slice_1]{slice} of [pizza]{pizza} [wash_1]{washed} down with [beer]{beer}."
+      ],
+      "id": "wash-down__1"
+    },
+    {
+      "def": "to [wash_1]{wash} the whole [surface_1]{surface} of something",
+      "examples": [
+        "Use [hot]{hot} [water_1]{water} and [detergent]{detergent} to [wash_1]{wash} down [kitchen]{kitchen} [counter_1]{counters}."
+      ],
+      "id": "wash-down__3"
+    }
+  ]
+}

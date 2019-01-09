@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "not [cause_2]{causing} any [physical_1]{physical} [pain_1]{pain}",
+      "entry": "painless",
+      "id": "painless#painless__1"
+    },
+    {
+      "comment": "a part of your body that is [numb_1]{numb} has no [feeling_1]{feeling}",
+      "entry": "numb",
+      "id": "numb_1#numb_1__1"
+    },
+    {
+      "comment": "not [feeling_1]{feeling} the [physical_1]{physical} [effect_1]{effect} of something such as [pain_1]{pain}, [heat_1]{heat}, or [cold_1]{cold}",
+      "entry": "insensitive",
+      "id": "insensitive#insensitive__5"
+    },
+    {
+      "comment": "if a part of your body is [dead_1]{dead}, you cannot [feel_1]{feel} it or move it [normally]{normally}",
+      "entry": "dead",
+      "id": "dead_1#dead_1__29"
+    },
+    {
+      "comment": "[lacking]{lacking} [physical_1]{physical} [feeling_1]{feeling}",
+      "entry": "insensible",
+      "id": "insensible#insensible__2"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [physically]{physically} [relaxed]{relaxed}, without [pain_1]{pain} or other [unpleasant]{unpleasant} [feeling_1]{feelings}",
+      "entry": "comfortable",
+      "id": "comfortable#comfortable__1"
+    },
+    {
+      "comment": "[making]{making} you [lose]{lose} [feeling_1]{feeling} in a part of your body",
+      "entry": "numbing",
+      "id": "numbing#numbing__1"
+    },
+    {
+      "comment": "the [condition_1]{condition} of being [unable]{unable} to [feel_1]{feel} [pain_1]{pain} while [conscious_1]{conscious}",
+      "entry": "analgesia",
+      "id": "analgesia#analgesia__1"
+    },
+    {
+      "comment": "if a part of your body [go_1]{goes} to [sleep_1]{sleep}, you cannot [feel_1]{feel} it for a [short_1]{short} time because it has not been [get]{getting} enough [blood_1]{blood}",
+      "entry": "go to sleep",
+      "id": "go-to-sleep#go-to-sleep__3"
+    }
+  ],
+  "thesaurus": "Without pain or feeling",
+  "type": "Synonyms"
+}

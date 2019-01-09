@@ -1,0 +1,311 @@
+{
+  "entries": [
+    {
+      "comment": "to come to the [door_1]{door} when someone [arrive]{arrives} at your [house_1]{house}, or [pick_1]{pick} up the [phone_1]{phone} when it [ring_1]{rings}",
+      "entry": "answer",
+      "id": "answer_1#answer_1__9"
+    },
+    {
+      "comment": "if someone\u2019s [telephone_1]{telephone} is [busy_1]{busy}, it is being [used]{used} when you [try_1]{try} to call",
+      "entry": "busy",
+      "id": "busy_1#busy_1__19"
+    },
+    {
+      "comment": "the [sound_1]{sound} you [hear]{hear} when you call someone and they are already [speak_1]{speaking} on the [phone_1]{phone}",
+      "entry": "busy signal",
+      "id": "busy-signal#busy-signal__1"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} a [person]{person} or [organization]{organization} that [provide]{provides} a [service_1]{service} and [ask_1]{ask} them to come",
+      "entry": "call",
+      "id": "call_1#call_1__6"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} someone",
+      "entry": "call",
+      "id": "call_1#call_1__18"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} someone again, or to [telephone_1]{telephone} someone who [telephone_2]{telephoned} you [earlier_1]{earlier}",
+      "entry": "call back",
+      "id": "call-back#call-back__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} a [telephone_1]{telephone} call",
+      "entry": "caller",
+      "id": "caller#caller__1"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} the [place_1]{place} where you [work_1]{work} and [say_1]{say} where you are or what you are [doing]{doing}",
+      "entry": "call in sick",
+      "id": "call-in_1#call-in_1__10"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} the [place_1]{place} where you [work_1]{work} and [say_1]{say} you will not come to [work_1]{work} because you are [sick_1]{sick}",
+      "entry": "call in sick",
+      "id": "call-in_1#call-in_1__12"
+    },
+    {
+      "comment": "to [phone_1]{phone} someone at the [place_1]{place} where you [work_1]{work} to [tell_1]{tell} them you are too [sick_1]{sick} to [work_1]{work}",
+      "entry": "call in sick",
+      "id": "call-in-sick#call-in-sick__1"
+    },
+    {
+      "comment": "to make a phone call that is paid for by the person who receives the call. The British expression is reverse the charges.",
+      "entry": "call someone collect",
+      "id": "collect_2#collect_2__2"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} someone",
+      "entry": "call up",
+      "id": "call-up_1#call-up_1__1"
+    },
+    {
+      "comment": "to use a [smartphone]{smartphone} to show on [social_1]{social} [media]{media} that you have [arrive]{arrived} at a [place_1]{place}",
+      "entry": "check into",
+      "id": "check-into#check-into__5"
+    },
+    {
+      "comment": "if someone or something [cut_1]{cuts} you off when you are [talk_1]{talking} on the [telephone_1]{telephone}, they [make_1]{make} the [telephone_1]{telephone} [line_1]{line} [stop_1]{stop} [working]{working}",
+      "entry": "cut off",
+      "id": "cut-off#cut-off__19"
+    },
+    {
+      "comment": "to [press_1]{press} the [buttons]{buttons}, or to [turn_1]{turn} the [dial_1]{dial}, on a [telephone_1]{telephone} in [order_1]{order} to call someone",
+      "entry": "dial",
+      "id": "dial_1#dial_1__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} the [telephone_1]{telephone} [connection]{connection} between two [people_1]{people} or [computer]{computers}",
+      "entry": "disconnect",
+      "id": "disconnect_1#disconnect_1__5"
+    },
+    {
+      "comment": "if a [telephone_1]{telephone} [line_1]{line} is [engaged]{engaged}, it is [busy_1]{busy}",
+      "entry": "engaged",
+      "id": "engaged#engaged__7"
+    },
+    {
+      "comment": "to [answer_1]{answer} the [door_1]{door} or [telephone_1]{telephone}",
+      "entry": "get",
+      "id": "get#get__129"
+    },
+    {
+      "comment": "to [reach_1]{reach} someone by [telephone_1]{telephone}",
+      "entry": "get",
+      "id": "get#get__144"
+    },
+    {
+      "comment": "to be [connected]{connected} to a [place_1]{place} by [telephone_1]{telephone}",
+      "entry": "get through",
+      "id": "get-through#get-through__7"
+    },
+    {
+      "comment": "to [phone_1]{phone} someone",
+      "entry": "give someone a bell",
+      "id": "give-someone-a-bell#give-someone-a-bell__1"
+    },
+    {
+      "comment": "to [phone_1]{phone} someone",
+      "entry": "give someone a buzz",
+      "id": "give-someone-a-buzz#give-someone-a-buzz__1"
+    },
+    {
+      "comment": "to call someone on the [telephone_1]{telephone}",
+      "entry": "give someone a jingle",
+      "id": "give-someone-a-jingle#give-someone-a-jingle__1"
+    },
+    {
+      "comment": "to [phone_1]{phone} someone",
+      "entry": "give someone a ring",
+      "id": "give-someone-a-ring#give-someone-a-ring__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [use_1]{using} a [telephone_1]{telephone} at the [end_1]{end} of a [conversation]{conversation}",
+      "entry": "hang up",
+      "id": "hang-up_1#hang-up_1__1"
+    },
+    {
+      "comment": "to wait in order to speak to someone on the telephone. You can also say that you hold the line",
+      "entry": "hold",
+      "id": "hold_1#hold_1__75"
+    },
+    {
+      "comment": "if a [telephone_1]{telephone} system [jam_1]{jams} or is [jammed]{jammed}, it [stop_1]{stops} [working]{working} because too many [people_1]{people} are [making]{making} [call_1]{calls} at the same time",
+      "entry": "jam",
+      "id": "jam_2#jam_2__13"
+    },
+    {
+      "comment": "a [jammed]{jammed} [telephone_1]{telephone} system [does]{does} not [work_1]{work} because too many [people_1]{people} are [making]{making} [call_1]{calls} at the same time",
+      "entry": "jammed",
+      "id": "jammed#jammed__5"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} someone",
+      "entry": "make a (phone) call",
+      "id": "make-a-phone-call#make-a-phone-call__1"
+    },
+    {
+      "comment": "if a telephone is off the hook, the receiver  (=the part you speak into) has not been put into its place, and so you cannot receive any calls",
+      "entry": "off the hook",
+      "id": "off-the-hook#off-the-hook__1"
+    },
+    {
+      "comment": "[wait_1]{waiting} to [speak_1]{speak} to someone on the [telephone_1]{telephone}, after your call has been [answer_1]{answered}",
+      "entry": "on hold",
+      "id": "on-hold#on-hold__3"
+    },
+    {
+      "comment": "on the [telephone_1]{telephone}",
+      "entry": "on the line",
+      "id": "on-the-line#on-the-line__3"
+    },
+    {
+      "comment": "[use_1]{using} the [telephone_1]{telephone} to [talk_1]{talk} to someone",
+      "entry": "on the telephone",
+      "id": "on-the-telephone#on-the-telephone__1"
+    },
+    {
+      "comment": "to use a [telephone_1]{telephone} to call someone",
+      "entry": "phone",
+      "id": "phone_2#phone_2__1"
+    },
+    {
+      "comment": "to [phone_1]{phone} someone again, or to [phone_1]{phone} someone who [phone_2]{phoned} you [earlier_1]{earlier} when you were [away_1]{away} or were too [busy_1]{busy} to [speak_1]{speak} to them",
+      "entry": "phone back",
+      "id": "phone-back#phone-back__1"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} the [place_1]{place} where you [work_1]{work} in [order_1]{order} to give a [message_1]{message}",
+      "entry": "phone in",
+      "id": "phone-in_1#phone-in_1__1"
+    },
+    {
+      "comment": "to [telephone_1]{telephone} a [radio_1]{radio} or [television]{television} [program_1]{program} with a [question_1]{question} or [comment_1]{comment}",
+      "entry": "phone in",
+      "id": "phone-in_1#phone-in_1__4"
+    },
+    {
+      "comment": "to [phone_1]{phone} several [people_1]{people} or [company]{companies} in [order_1]{order} to [arrange]{arrange} something or to get [information]{information}",
+      "entry": "phone round",
+      "id": "phone-round#phone-round__1"
+    },
+    {
+      "comment": "to give someone a [particular_1]{particular} [piece_1]{piece} of [information]{information} [use_1]{using} the [phone_1]{phone}",
+      "entry": "phone through",
+      "id": "phone-through#phone-through__1"
+    },
+    {
+      "comment": "to [contact_1]{contact} someone by [phone_1]{phone} or [e-mail_1]{email}",
+      "entry": "ping",
+      "id": "ping_1#ping_1__4"
+    },
+    {
+      "comment": "to call someone [accidentally]{accidentally} by [pressing]{pressing} their [number_1]{number} when your [phone_1]{phone} is in your [pocket_1]{pocket} or [bag_1]{bag}",
+      "entry": "pocket-dial",
+      "id": "pocket-dial#pocket-dial__1"
+    },
+    {
+      "comment": "to [pass_1]{pass} the [telephone_1]{telephone} to someone so they can [speak_1]{speak} to the [person]{person} you have been [talk_1]{talking} to",
+      "entry": "put on",
+      "id": "put-on_1#put-on_1__17"
+    },
+    {
+      "comment": "to put the telephone receiver back onto its base after you have finished talking to someone",
+      "entry": "put the phone down",
+      "id": "put-down#put-down__23"
+    },
+    {
+      "comment": "to [end_1]{end} a [telephone_1]{telephone} [conversation]{conversation} with someone before they have [finished]{finished} [speak_1]{speaking}",
+      "entry": "put the phone down",
+      "id": "put-down#put-down__25"
+    },
+    {
+      "comment": "if you put a [person]{person} or call through, you [connect]{connect} someone to the [person]{person} they [want_1]{want} to [speak_1]{speak} to on the [telephone_1]{telephone}",
+      "entry": "put through",
+      "id": "put-through#put-through__11"
+    },
+    {
+      "comment": "to [press_1]{press} one or more [buttons]{buttons} on a [phone_1]{phone} for a [second_1]{second} time when you are [trying]{trying} to [phone_1]{phone} someone",
+      "entry": "redial",
+      "id": "redial#redial__1"
+    },
+    {
+      "comment": "to [make_1]{make} the [person]{person} who you are [calling]{calling} on the [telephone_1]{telephone} [agree]{agree} to [pay_1]{pay} for the call",
+      "entry": "reverse the charges",
+      "id": "reverse-the-charges#reverse-the-charges__1"
+    },
+    {
+      "comment": "a [sound_1]{sound} [produce_1]{produced} by a [phone_1]{phone} when someone [call_1]{calls} you",
+      "entry": "ring",
+      "id": "ring_2#ring_2__29"
+    },
+    {
+      "comment": "to [phone_1]{phone} several [people_1]{people} or [corporation]{corporations}, etc. in [order_1]{order} to [arrange]{arrange} something or to get [information]{information}",
+      "entry": "ring round",
+      "id": "ring-round#ring-round__1"
+    },
+    {
+      "comment": "to [speak_1]{speak} to someone on the [telephone_1]{telephone}",
+      "entry": "speak",
+      "id": "speak_1#speak_1__21"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} someone who has [call_1]{called} you on the [telephone_1]{telephone} and has [ask_1]{asked} to [talk_1]{talk} to you that they are [speak_1]{speaking} to the [right_1]{right} [person]{person}",
+      "entry": "speak",
+      "id": "speak_1#speak_1__23"
+    },
+    {
+      "comment": "to [speak_1]{speak} to someone [use_1]{using} the [telephone_1]{telephone}",
+      "entry": "telephone",
+      "id": "telephone_2#telephone_2__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} for a [business]{business} or [organization]{organization} [answer_1]{answering} the [telephone_1]{telephone} and [direct_2]{directing} [call_1]{calls} to the [right_1]{right} [people_1]{people}",
+      "entry": "telephonist",
+      "id": "telephonist#telephonist__1"
+    },
+    {
+      "comment": "the system, [technology]{technology}, or [business]{business} of [telephone_1]{telephone} [communication]{communication}",
+      "entry": "telephony",
+      "id": "telephony#telephony__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} who someone is when you are [telephone_2]{telephoning} them",
+      "entry": "that",
+      "id": "that#that__62"
+    },
+    {
+      "comment": "[used]{used} when [ask_1]{asking} to [speak_1]{speak} to someone on the [telephone_1]{telephone}",
+      "entry": "there",
+      "id": "there#there__35"
+    },
+    {
+      "comment": "[used]{used} when you are [saying]{saying} who you are in a [telephone_1]{telephone} [conversation]{conversation} or on the [radio_1]{radio} or [television]{television}, or when [ask_1]{asking} who you are [speak_1]{speaking} to on the [telephone_1]{telephone}",
+      "entry": "this",
+      "id": "this#this__31"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you are [connected]{connected} to someone by [phone_1]{phone}",
+      "entry": "through",
+      "id": "through#through__42"
+    },
+    {
+      "comment": "to use [electronic]{electronic} [equipment]{equipment} to find out where a [telephone_1]{telephone} call was made",
+      "entry": "trace something to something",
+      "id": "trace-something-to-something#trace-something-to-something__1"
+    },
+    {
+      "comment": "to [let_1]{let} someone [speak_1]{speak} to another [person]{person} by [change_1]{changing} [telephone_1]{telephone} [lines]{lines} for them",
+      "entry": "transfer",
+      "id": "transfer_1#transfer_1__16"
+    },
+    {
+      "comment": "to connect a special piece of equipment to a telephone wire that lets you listen to conversations secretly. The usual British word is tap.",
+      "entry": "wiretap",
+      "id": "wiretap_2#wiretap_2__1"
+    }
+  ],
+  "thesaurus": "Using a telephone",
+  "type": "Related words"
+}

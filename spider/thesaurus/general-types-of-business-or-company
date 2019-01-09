@@ -1,0 +1,491 @@
+{
+  "entries": [
+    {
+      "comment": "a [company]{company} that [regularly]{regularly} [buy_1]{buys} [goods]{goods} or [service_1]{services} from another [company]{company}",
+      "entry": "account",
+      "id": "account_1#account_1__16"
+    },
+    {
+      "comment": "a [company]{company} that is [bought]{bought} by another [company]{company}",
+      "entry": "acquisition",
+      "id": "acquisition#acquisition__3"
+    },
+    {
+      "comment": "an [organization]{organization} or [company]{company} that is [connected]{connected} with or [controlled_1]{controlled} by a [large_1]{larger} [group_1]{group}",
+      "entry": "affiliate",
+      "id": "affiliate_2#affiliate_2__1"
+    },
+    {
+      "comment": "a [business]{business} that [provide]{provides} a [service_1]{service} for [people_1]{people} or [company]{companies}, [especially]{especially} by [give_1]{giving} them [information]{information} or [making]{making} [arrangement]{arrangements}",
+      "entry": "agency",
+      "id": "agency#agency__7"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [does]{does} [business]{business} for another [person]{person} or [company]{company}, for [example]{example} by [selling]{selling} their [product]{products} or by [dealing]{dealing} with their [customer]{customers}",
+      "entry": "agent",
+      "id": "agent#agent__1"
+    },
+    {
+      "comment": "an [important]{important} [store_1]{store} or [business]{business} that [attract]{attracts} other [business]{businesses} to the [area]{area} where it is",
+      "entry": "anchor",
+      "id": "anchor_1#anchor_1__9"
+    },
+    {
+      "comment": "a [group_1]{group} of [business]{businesses} or [industry]{industries} that form an [important]{important} part of an [economy_1]{economy}",
+      "entry": "base",
+      "id": "base_1#base_1__21"
+    },
+    {
+      "comment": "[important]{important} [business]{business} [activity]{activity} that [make_1]{makes} a [lot_1]{lot} of [money]{money}",
+      "entry": "big business",
+      "id": "big-business#big-business__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [business]{business}, [especially]{especially} in the [television]{television} or [entertainment]{entertainment} [industry]{industry}",
+      "entry": "the biz",
+      "id": "the-biz#the-biz__1"
+    },
+    {
+      "comment": "a company or investment that makes a lot of money and is safe to invest in",
+      "entry": "blue chip",
+      "id": "blue-chip#blue-chip__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [area]{area} of [business]{business}",
+      "entry": "business",
+      "id": "business#business__14"
+    },
+    {
+      "comment": "an organization that buys or sells products or services for money. This word often refers to a small organization that is owned and run by one person or a few people, while company can also refer to large organizations",
+      "entry": "business",
+      "id": "business#business__30"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} or [company]{companies} who all [agree]{agree} to [sell_1]{sell} something at the same [price_1]{price} so that they can all [make_1]{make} [profit_1]{profits} without [competing]{competing} with one another",
+      "entry": "cartel",
+      "id": "cartel#cartel__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [business]{businesses} such as [store_1]{stores}, [hotel]{hotels}, or [restaurant]{restaurants} that all [belong]{belong} to the same [person]{person} or [company]{company}",
+      "entry": "chain",
+      "id": "chain_1#chain_1__20"
+    },
+    {
+      "comment": "[company]{Company}",
+      "entry": "Co.",
+      "id": "co_3#co_3__1"
+    },
+    {
+      "comment": "an [organization]{organization} that [provide]{provides} [service_1]{services}, or that [make_1]{makes} or [sell_1]{sells} [goods]{goods} for [money]{money}",
+      "entry": "company",
+      "id": "company#company__1"
+    },
+    {
+      "comment": "[connected]{connected} with a [company]{company} or with the [people_1]{people} in a [company]{company}",
+      "entry": "company",
+      "id": "company#company__6"
+    },
+    {
+      "comment": "a [company]{company} that [sell_1]{sells} the same [goods]{goods} or [service_1]{services} as another [company]{company}",
+      "entry": "competitor",
+      "id": "competitor#competitor__1"
+    },
+    {
+      "comment": "a [business]{business}",
+      "entry": "concern",
+      "id": "concern_1#concern_1__24"
+    },
+    {
+      "comment": "a [large_1]{large} [business]{business} [organization]{organization} [form_2]{formed} when several [different]{different} [business]{businesses} [join_1]{join} together",
+      "entry": "conglomerate",
+      "id": "conglomerate#conglomerate__1"
+    },
+    {
+      "comment": "a [cooperative_1]{cooperative}",
+      "entry": "co-op",
+      "id": "co-op#co-op__1"
+    },
+    {
+      "comment": "a [business]{business} or other [organization]{organization} [own_2]{owned} by the [people_1]{people} who [work_1]{work} in it who also [share_1]{share} the [profit_1]{profits}",
+      "entry": "cooperative",
+      "id": "cooperative_2#cooperative_2__1"
+    },
+    {
+      "comment": "[corporation]{corporation}",
+      "entry": "Corp.",
+      "id": "corp#corp__1"
+    },
+    {
+      "comment": "a [company]{company}, [especially]{especially} a [large_1]{large} one",
+      "entry": "corporate",
+      "id": "corporate_2#corporate_2__1"
+    },
+    {
+      "comment": "a [large_1]{large} [company]{company} or [business]{business} [organization]{organization}",
+      "entry": "corporation",
+      "id": "corporation#corporation__1"
+    },
+    {
+      "comment": "a [business]{business} that [involve]{involves} [people_1]{people} [produce_1]{producing} [thing]{things} at [home_1]{home}",
+      "entry": "cottage industry",
+      "id": "cottage-industry#cottage-industry__1"
+    },
+    {
+      "comment": "a [legal]{legal} [business]{business} that is [used]{used} for [hiding]{hiding} an [illegal_1]{illegal} or [secret_1]{secret} [activity]{activity}",
+      "entry": "cover",
+      "id": "cover_2#cover_2__14"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [buy_1]{buys} and [sell_1]{sells} a [particular_1]{particular} [product]{product}",
+      "entry": "dealer",
+      "id": "dealer#dealer__1"
+    },
+    {
+      "comment": "a [business]{business} that [sell_1]{sells} the [product]{products} of a [particular_1]{particular} [company]{company}, [especially]{especially} [car]{cars}",
+      "entry": "dealership",
+      "id": "dealership#dealership__1"
+    },
+    {
+      "comment": "a [large_1]{large} [powerful]{powerful} [group_1]{group} of [company]{companies} [ruled]{ruled} by one [person]{person} or [company]{company}",
+      "entry": "empire",
+      "id": "empire#empire__4"
+    },
+    {
+      "comment": "a [business]{business} [company]{company} or [organization]{organization}",
+      "entry": "enterprise",
+      "id": "enterprise#enterprise__1"
+    },
+    {
+      "comment": "an [institution]{institution}, [organization]{organization}, or [business]{business}",
+      "entry": "establishment",
+      "id": "establishment#establishment__1"
+    },
+    {
+      "comment": "a [business]{business} or [company]{company}",
+      "entry": "firm",
+      "id": "firm_2#firm_2__1"
+    },
+    {
+      "comment": "the 500 [large_1]{largest} [company]{companies} in the U.S.",
+      "entry": "the Fortune 500",
+      "id": "the-fortune-500#the-fortune-500__1"
+    },
+    {
+      "comment": "a [business]{business} that [operate]{operates} under a [franchise_1]{franchise} system",
+      "entry": "franchise",
+      "id": "franchise_1#franchise_1__5"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that has the [franchise_1]{franchise} to [sell_1]{sell} a [particular_1]{particular} [type_1]{type} of [goods]{goods} or [service_1]{services}",
+      "entry": "franchisee",
+      "id": "franchisee#franchisee__1"
+    },
+    {
+      "comment": "a [business]{business} that [sell_1]{sells} [franchise_1]{franchises}",
+      "entry": "franchiser",
+      "id": "franchiser#franchiser__1"
+    },
+    {
+      "comment": "a very [large_1]{large} and [successful]{successful} [company]{company}",
+      "entry": "giant",
+      "id": "giant_1#giant_1__1"
+    },
+    {
+      "comment": "a [business]{business} that seems [likely_1]{likely} to [continue]{continue} to [make_1]{make} a [profit_1]{profit}",
+      "entry": "going concern",
+      "id": "going-concern#going-concern__1"
+    },
+    {
+      "comment": "a [business]{business} or an [activity]{activity} that [make_1]{makes} [large_1]{large} [amount_1]{amounts} of [money]{money} very [easily]{easily}",
+      "entry": "goldmine",
+      "id": "goldmine#goldmine__1"
+    },
+    {
+      "comment": "an organization that consists of several companies or other institutions: can be followed by a singular or plural verb",
+      "entry": "group",
+      "id": "group_1#group_1__27"
+    },
+    {
+      "comment": "an [industry]{industry} that is [growing]{growing} [quickly]{quickly}",
+      "entry": "growth industry",
+      "id": "growth-industry#growth-industry__1"
+    },
+    {
+      "comment": "a company that owns the majority of the shares in another company",
+      "entry": "holding company",
+      "id": "holding-company#holding-company__1"
+    },
+    {
+      "comment": "a [company]{company} or [organization]{organization} [involved]{involved} in a [particular_1]{particular} [activity]{activity}",
+      "entry": "house",
+      "id": "house_1#house_1__6"
+    },
+    {
+      "comment": "Incorporated: used in the U.S. after the name of a large company, or a group of companies working together under one name",
+      "entry": "Inc.",
+      "id": "inc#inc__1"
+    },
+    {
+      "comment": "a [small_1]{small} [independent_1]{independent} [company]{company}, [especially]{especially} one that [make_1]{makes} [movie]{movies} or [music]{music}",
+      "entry": "indie",
+      "id": "indie_2#indie_2__1"
+    },
+    {
+      "comment": "an [activity]{activity} or [business]{business} that has become very [successful]{successful}, [especially]{especially} one that you [think_1]{think} [make_1]{makes} an [unfair]{unfair} [profit_1]{profit} or is not [necessary_1]{necessary}",
+      "entry": "industry",
+      "id": "industry#industry__9"
+    },
+    {
+      "comment": "a [company]{company} or [organization]{organization} that [exist]{exists}, [work_1]{works}, or has [member]{members} in more than one [country]{country}",
+      "entry": "international",
+      "id": "international_2#international_2__3"
+    },
+    {
+      "comment": "a company that anyone can invest in by buying shares in it",
+      "entry": "joint-stock company",
+      "id": "joint-stock-company#joint-stock-company__1"
+    },
+    {
+      "comment": "an [industry]{industry} or [area]{area} of [economic]{economic} [activity]{activity} that is [base_2]{based} [mainly]{mainly} on [information]{information} and [knowledge]{knowledge} rather than on the [production]{production} of [goods]{goods}",
+      "entry": "knowledge industry",
+      "id": "knowledge-industry#knowledge-industry__1"
+    },
+    {
+      "comment": "a [business]{business} [activity]{activity}, [especially]{especially} [trade_1]{trade}, that is very [successful]{successful}",
+      "entry": "land-office business",
+      "id": "land-office-business#land-office-business__1"
+    },
+    {
+      "comment": "[industry]{industry} in which [small_1]{small} [goods]{goods} are [produce_1]{produced}, for [example]{example} [thing]{things} that you use in the [house_1]{house}",
+      "entry": "light industry",
+      "id": "light-industry#light-industry__1"
+    },
+    {
+      "comment": "a company whose owners are legally responsible for only a limited amount of its debts",
+      "entry": "limited company",
+      "id": "limited-company#limited-company__1"
+    },
+    {
+      "comment": "Limited Liability Company: a type of corporation whose owners have limited liability  (=they are not legally responsible for all losses)",
+      "entry": "LLC",
+      "id": "llc#llc__1"
+    },
+    {
+      "comment": "[limited]{Limited}: [used]{used} after the name of some [company]{companies}",
+      "entry": "Ltd.",
+      "id": "ltd#ltd__1"
+    },
+    {
+      "comment": "a [company]{company} that [sell_1]{sells} more of its [product]{products} than any other [company]{company} of its [type_1]{type}",
+      "entry": "market leader",
+      "id": "market-leader#market-leader__1"
+    },
+    {
+      "comment": "a [person]{person} or [business]{business} that [buy_1]{buys} and [sell_1]{sells} [goods]{goods}, [especially]{especially} one that [trade_1]{trades} with other [country]{countries}",
+      "entry": "merchant",
+      "id": "merchant#merchant__1"
+    },
+    {
+      "comment": "a company that has a monopoly",
+      "entry": "monopolist",
+      "id": "monopolist#monopolist__1"
+    },
+    {
+      "comment": "a [large_1]{large} [company]{company} that has [office]{offices}, [store_1]{stores}, or [factory]{factories} in several [country]{countries}",
+      "entry": "multinational",
+      "id": "multinational_2#multinational_2__1"
+    },
+    {
+      "comment": "a [mutual_1]{mutual} [company]{company}",
+      "entry": "mutual",
+      "id": "mutual_2#mutual_2__1"
+    },
+    {
+      "comment": "[used]{used} about [product]{products} and [company]{companies}",
+      "entry": "newcomer",
+      "id": "newcomer#newcomer__6"
+    },
+    {
+      "comment": "the part of an [industry]{industry} that [sell_1]{sells} a [particular_1]{particular} [type_1]{type} of [product]{product} or [service_1]{service} to the [small_1]{small} [number_1]{number} of [customer]{customers} who [want_1]{want} it",
+      "entry": "niche market",
+      "id": "niche-market#niche-market__1"
+    },
+    {
+      "comment": "a [company]{company}, [group_1]{group}, or [organization]{organization} that has [developed]{developed} from a [large_1]{larger} one",
+      "entry": "offshoot",
+      "id": "offshoot#offshoot__1"
+    },
+    {
+      "comment": "an [organization]{organization} in which one [person]{person} [does]{does} everything",
+      "entry": "one-man band",
+      "id": "one-man-band#one-man-band__2"
+    },
+    {
+      "comment": "a [company]{company}, or a part of a [large_1]{large} [company]{company}",
+      "entry": "operation",
+      "id": "operation#operation__19"
+    },
+    {
+      "comment": "an [organization]{organization}, [especially]{especially} a [small_1]{small} [business]{business}",
+      "entry": "outfit",
+      "id": "outfit_1#outfit_1__3"
+    },
+    {
+      "comment": "a [parent]{parent} [company]{company}",
+      "entry": "parent",
+      "id": "parent#parent__4"
+    },
+    {
+      "comment": "a [company]{company} or [organization]{organization} that [own_2]{owns} or [control_1]{controls} a [small_1]{smaller} [company]{company} or [organization]{organization} of the same [type_1]{type}",
+      "entry": "parent company",
+      "id": "parent-company#parent-company__1"
+    },
+    {
+      "comment": "a [company]{company} [own_2]{owned} by two or more [partner_1]{partners}",
+      "entry": "partnership",
+      "id": "partnership#partnership__3"
+    },
+    {
+      "comment": "a [company]{company} that [try_1]{tries} to take [control_1]{control} of other [company]{companies}",
+      "entry": "predator",
+      "id": "predator#predator__3"
+    },
+    {
+      "comment": "a company owned by a person or group of people who do not sell shares  (=the right to share profits) to the public",
+      "entry": "private company",
+      "id": "private-company#private-company__1"
+    },
+    {
+      "comment": "[business]{business} and [industry]{industry} that is [own_2]{owned} and [managed]{managed} by [independent_1]{independent} [people_1]{people} or [business]{businesses}, rather than by the [government]{government}",
+      "entry": "private enterprise",
+      "id": "private-enterprise#private-enterprise__1"
+    },
+    {
+      "comment": "a business that is managed and owned by an individual professional person such as a doctor, lawyer, or dentist",
+      "entry": "private practice",
+      "id": "private-practice#private-practice__1"
+    },
+    {
+      "comment": "all the [business]{businesses}, [industry]{industries}, and [service_1]{services} that are not [own_2]{owned} or [managed]{managed} by the [government]{government}",
+      "entry": "the private sector",
+      "id": "the-private-sector#the-private-sector__1"
+    },
+    {
+      "comment": "[proprietary]{proprietary}: [used]{used} in Australia, [new]{New} Zealand, and [south_1]{South} Africa after the name of a [company]{company}",
+      "entry": "pty",
+      "id": "pty#pty__1"
+    },
+    {
+      "comment": "a [public_1]{public} [corporation]{corporation}",
+      "entry": "public company",
+      "id": "public-company#public-company__1"
+    },
+    {
+      "comment": "a company whose shares you can buy on the stock exchange",
+      "entry": "public corporation",
+      "id": "public-corporation#public-corporation__1"
+    },
+    {
+      "comment": "in the U.K., a company in which people can invest their money. It has plc at the end of its name.",
+      "entry": "public limited company",
+      "id": "public-limited-company#public-limited-company__1"
+    },
+    {
+      "comment": "the [industry]{industries} and [service_1]{services}, for [example]{example} [school_1]{schools}, that are [support_1]{supported} by [tax_1]{tax} [money]{money} and [controlled_1]{controlled} by the [government]{government} of a [country]{country} or an [area]{area}",
+      "entry": "public sector",
+      "id": "public-sector#public-sector__1"
+    },
+    {
+      "comment": "a [service_1]{service} that [help_1]{helps} [people_1]{people} without [charge_2]{charging} them any [money]{money} for it",
+      "entry": "public service",
+      "id": "public-service#public-service__2"
+    },
+    {
+      "comment": "[used]{used} after the [name_1]{names} of some [company]{companies} to show that they are [privately]{privately} [own_2]{owned}",
+      "entry": "Pvt.",
+      "id": "pvt_2#pvt_2__1"
+    },
+    {
+      "comment": "a [small_1]{smaller} [business]{business} that [want_1]{wants} to [expand]{expand}",
+      "entry": "scale-up",
+      "id": "scale-up_2#scale-up_2__1"
+    },
+    {
+      "comment": "a [company]{company} that [does]{does} not own anything or do any [work_1]{work} as an [independent_1]{independent} [company]{company}, but is [used]{used} by its [owner]{owners} to [carry_1]{carry} out [particular_1]{particular} [business]{business} or to [control_1]{control} other [company]{companies}",
+      "entry": "shell company",
+      "id": "shell-company#shell-company__1"
+    },
+    {
+      "comment": "a [business]{business} that has a [small_1]{small} [number_1]{number} of [employee]{employees}, [usually]{usually} less than 100",
+      "entry": "small business",
+      "id": "small-business#small-business__1"
+    },
+    {
+      "comment": "[small_1]{small} and [medium-sized]{medium-sized} [enterprise]{enterprise}: a [business]{business} that has a [small_1]{small} or [medium_1]{medium} [number_1]{number} of [employee]{employees}, [usually]{usually} less than 250",
+      "entry": "SME",
+      "id": "sme#sme__1"
+    },
+    {
+      "comment": "a [business]{business} that is a [combination]{combination} of a [public_1]{public} and [private_1]{private} [company]{company} and [put]{puts} its [profit_1]{profits} back into the [business]{business} or [community]{community}",
+      "entry": "social enterprise",
+      "id": "social-enterprise#social-enterprise__1"
+    },
+    {
+      "comment": "a [person]{person} who [own_2]{owns} and [run_1]{runs} a [business]{business} on their own rather than with a [partner_1]{partner} or [partner_1]{partners}",
+      "entry": "sole trader",
+      "id": "sole-trader#sole-trader__1"
+    },
+    {
+      "comment": "a [small_1]{small} [business]{business} that is [just_1]{just} being [start_1]{started}",
+      "entry": "start-up",
+      "id": "start-up_2#start-up_2__2"
+    },
+    {
+      "comment": "a business whose money is divided up into shares that are owned by different people",
+      "entry": "stock company",
+      "id": "stock-company#stock-company__1"
+    },
+    {
+      "comment": "a [company]{company} that is [own_2]{owned} by a [large_1]{larger} [company]{company}",
+      "entry": "subsidiary",
+      "id": "subsidiary_1#subsidiary_1__1"
+    },
+    {
+      "comment": "a [company]{company} that [want_1]{wants} to [buy_1]{buy} another [company]{company}",
+      "entry": "suitor",
+      "id": "suitor#suitor__2"
+    },
+    {
+      "comment": "a [company]{company}, [organization]{organization}, or [country]{country} that [supply_1]{supplies} or [sell_1]{sells} a [product]{product} or a [service_1]{service}",
+      "entry": "supplier",
+      "id": "supplier#supplier__1"
+    },
+    {
+      "comment": "the part of the [economy_1]{economy} that [consist]{consists} of [charity]{charities} and other [non-profit]{non-profit} [organization]{organizations}",
+      "entry": "the third sector",
+      "id": "the-third-sector#the-third-sector__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [area]{area} of [business]{business} or [industry]{industry}",
+      "entry": "trade",
+      "id": "trade_1#trade_1__13"
+    },
+    {
+      "comment": "the [people_1]{people} or [company]{companies} who [work_1]{work} in a [particular_1]{particular} [business]{business} or [industry]{industry}",
+      "entry": "trade",
+      "id": "trade_1#trade_1__15"
+    },
+    {
+      "comment": "a [new]{new} [business]{business} or [activity]{activity}",
+      "entry": "venture",
+      "id": "venture_1#venture_1__1"
+    },
+    {
+      "comment": "a [firm_1]{firm} that is [making]{making} enough [money]{money} to [pay_1]{pay} the interest on its [debt]{debts} but would [fail_1]{fail} if interest [rate_1]{rates} went up because it is not [functioning]{functioning} as a [business]{business}",
+      "entry": "zombie company",
+      "id": "zombie-company#zombie-company__1"
+    }
+  ],
+  "thesaurus": "General types of business or company",
+  "type": "Related words"
+}

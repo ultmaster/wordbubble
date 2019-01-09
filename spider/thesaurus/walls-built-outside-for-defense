@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [wall_1]{wall} [built_1]{built} across a [river]{river} in [order_1]{order} to [control_1]{control} the [level_1]{level} of the [water_1]{water}",
+      "entry": "barrage",
+      "id": "barrage_1#barrage_1__4"
+    },
+    {
+      "comment": "a [strong]{strong} [wall_1]{wall} that [protect]{protects} a [beach_1]{beach} from the [force_1]{force} of the [wave_1]{waves}",
+      "entry": "breakwater",
+      "id": "breakwater#breakwater__1"
+    },
+    {
+      "comment": "a [wall_1]{wall} that is [built_1]{built} for [defense]{defense}",
+      "entry": "bulwark",
+      "id": "bulwark#bulwark__4"
+    },
+    {
+      "comment": "a [wall_1]{wall} [built_1]{built} across a [river]{river} to [stop_1]{stop} the [water_1]{water} from [flowing]{flowing}, [especially]{especially} in [order_1]{order} to [create]{create} a [lake]{lake} or to [help_1]{help} to [produce_1]{produce} [electric]{electric} [power_1]{power}",
+      "entry": "dam",
+      "id": "dam_1#dam_1__1"
+    },
+    {
+      "comment": "a [high_1]{high} [wide_1]{wide} [wall_1]{wall} that [prevent]{prevents} a [lake]{lake} or [river]{river} from [flooding]{flooding} the [surrounding]{surrounding} [land_1]{land}",
+      "entry": "dike",
+      "id": "dike#dike__1"
+    },
+    {
+      "comment": "a wall built from pieces of stone that fit together without mortar",
+      "entry": "dry-stone wall",
+      "id": "dry-stone-wall#dry-stone-wall__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [dike]{dike}",
+      "entry": "dyke",
+      "id": "dyke#dyke__5"
+    },
+    {
+      "comment": "a [wall_1]{wall} made from a [pile_1]{pile} of [dirt]{dirt}, [built_1]{built} in the [past_1]{past} to [defend]{defend} a [place_1]{place} against [attack_1]{attack}",
+      "entry": "earthwork",
+      "id": "earthwork#earthwork__1"
+    },
+    {
+      "comment": "a wall built out into the ocean to protect the beach from eroding  (=being destroyed by the force of the water)",
+      "entry": "groin",
+      "id": "groin#groin__2"
+    },
+    {
+      "comment": "a [wall_1]{wall} [built_1]{built} out into the [ocean]{ocean} to [protect]{protect} the [beach_1]{beach} from being [destroy]{destroyed} by the [water_1]{water}",
+      "entry": "groyne",
+      "id": "groyne#groyne__1"
+    },
+    {
+      "comment": "a [wall_1]{wall} of [soil_1]{soil} [built_1]{built} along the side of a [river]{river}",
+      "entry": "levee",
+      "id": "levee#levee__1"
+    },
+    {
+      "comment": "a [strong]{strong} [wall_1]{wall} [built_1]{built} from the [land_1]{land} into the [sea_1]{sea} to [protect]{protect} the [land_1]{land} from the [wave_1]{waves}",
+      "entry": "mole",
+      "id": "mole#mole__5"
+    },
+    {
+      "comment": "a low [wall_1]{wall} at the [edge_1]{edge} of something [high_1]{high} such as a [bridge_1]{bridge} or a [roof_1]{roof}",
+      "entry": "parapet",
+      "id": "parapet#parapet__1"
+    },
+    {
+      "comment": "a low [wall_1]{wall} that [protect]{protects} [soldier_1]{soldiers} in the [place_1]{place} they are [shooting]{shooting} from",
+      "entry": "parapet",
+      "id": "parapet#parapet__2"
+    },
+    {
+      "comment": "a [wall_1]{wall} that is [built_1]{built} to [prevent]{prevent} [earth]{earth} or [water_1]{water} from [moving]{moving} [forward_1]{forward}",
+      "entry": "retaining wall",
+      "id": "retaining-wall#retaining-wall__1"
+    },
+    {
+      "comment": "a [wall_1]{wall} at the [edge_1]{edge} of the [ocean]{ocean} that is [built_1]{built} to [stop_1]{stop} the [water_1]{water} from [flowing]{flowing} onto the [land_1]{land}",
+      "entry": "sea wall",
+      "id": "sea-wall#sea-wall__1"
+    },
+    {
+      "comment": "a [wall_1]{wall} made of [large_1]{large} [wooden]{wooden} [post_1]{posts}",
+      "entry": "stockade",
+      "id": "stockade#stockade__1"
+    },
+    {
+      "comment": "a [strong]{strong} [upright_1]{upright} [structure_1]{structure} that [protect]{protects} an [area]{area} from the [ocean]{ocean} or from [flooding]{flooding}",
+      "entry": "wall",
+      "id": "wall_1#wall_1__13"
+    }
+  ],
+  "thesaurus": "Walls built outside for defense",
+  "type": "Related words"
+}

@@ -1,0 +1,23 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[capable]{capable} of being [changed]{changed}",
+      "examples": [
+        "a variable-rate [loan_1]{loan}/[mortgage_1]{mortgage}",
+        "The [temperature]{temperature} in the [main_1]{main} [building]{building} is variable.",
+        "[wind_1]{Winds} will be variable.",
+        "a [continuous#continuous__6]{continuously} variable [set_1]{set} of [condition_1]{conditions}"
+      ],
+      "id": "variable_2__1"
+    },
+    {
+      "def": "not always of the same [quality_1]{quality}",
+      "examples": [
+        "The [standard_1]{standard} of [teaching]{teaching} is very variable."
+      ],
+      "id": "variable_2__7"
+    }
+  ],
+  "word": "variable"
+}

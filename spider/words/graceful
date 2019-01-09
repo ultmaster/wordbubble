@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "graceful [movement]{movement} is [smooth_1]{smooth} and [beautiful]{beautiful}",
+      "examples": [
+        "She [rose_1]{rose} to her [feet]{feet} in one graceful [movement]{movement}."
+      ],
+      "id": "graceful__1"
+    },
+    {
+      "def": "a graceful [shape_1]{shape} or [object_1]{object} is [attractive]{attractive}",
+      "examples": [
+        "graceful Moorish [architecture]{architecture}",
+        "graceful [arms]{arms} and [feet]{feet}"
+      ],
+      "id": "graceful__3"
+    },
+    {
+      "def": "[showing]{showing} [good_1]{good} [manner]{manners} and [respect_1]{respect} for other [people_1]{people}",
+      "examples": [
+        "She was [extremely]{extremely} graceful in [defeat_1]{defeat}.",
+        "a graceful [refusal]{refusal}"
+      ],
+      "id": "graceful__6"
+    }
+  ],
+  "word": "graceful"
+}

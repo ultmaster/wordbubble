@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [number_1]{number} of times that something [happen]{happens} during a [period_1]{period} of time",
+      "entry": "frequency",
+      "id": "frequency#frequency__1"
+    },
+    {
+      "comment": "the [number_1]{number} of times something [happen]{happens}, or the [number_1]{number} of [example]{examples} of something within a [particular_1]{particular} [period_1]{period} of time",
+      "entry": "rate",
+      "id": "rate_1#rate_1__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [event]{events} do not [happen]{happen} at [regular_1]{regular} times",
+      "entry": "irregularity",
+      "id": "irregularity#irregularity__3"
+    },
+    {
+      "comment": "a [measurement]{measurement} of how long something is in time",
+      "entry": "length",
+      "id": "length#length__7"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} how often something [happen]{happens}",
+      "entry": "basis",
+      "id": "basis#basis__8"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} or [ask_1]{asking} whether someone [does]{does} something a [lot_1]{lot} or whether something [happen]{happens} a [lot_1]{lot} or to a [great_1]{great} [degree]{degree}",
+      "entry": "much",
+      "id": "much_1#much_1__19"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} or [ask_1]{asking} about the amount of time that something [last_2]{lasts}",
+      "entry": "long",
+      "id": "long_1#long_1__20"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} how often something [happen]{happens}",
+      "entry": "time",
+      "id": "time_1#time_1__39"
+    },
+    {
+      "comment": "[separated]{separated} by [period_1]{periods} of time that are not [equal_1]{equal}",
+      "entry": "irregular",
+      "id": "irregular_1#irregular_1__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about how often something has [happen]{happened}",
+      "entry": "for the first/last etc. time",
+      "id": "for-the-first-last-etc-time#for-the-first-last-etc-time__1"
+    }
+  ],
+  "thesaurus": "General words relating to frequency and duration",
+  "type": "Synonyms"
+}

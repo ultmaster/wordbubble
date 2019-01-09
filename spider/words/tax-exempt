@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if something is [tax_1]{tax}-[exempt_1]{exempt}, you do not have to [pay_1]{pay} [tax_1]{tax} on it",
+      "examples": [
+        "tax-exempt [saving_1]{savings}"
+      ],
+      "id": "tax-exempt__1"
+    },
+    {
+      "def": "a [person]{person} or [organization]{organization} that is [tax_1]{tax}-[exempt_1]{exempt} [does]{does} not have to [pay_1]{pay} [tax_1]{tax}",
+      "examples": [],
+      "id": "tax-exempt__3"
+    }
+  ],
+  "word": "tax-exempt"
+}

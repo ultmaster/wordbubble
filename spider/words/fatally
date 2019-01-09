@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "so [severely]{severely} that you [die_1]{die} as a [result_1]{result}",
+      "examples": [
+        "fatally [injured]{injured}/[wounded]{wounded}/[shot_1]{shot}"
+      ],
+      "id": "fatally__1"
+    },
+    {
+      "def": "so [seriously]{seriously} that [complete_1]{complete} [failure]{failure} is the [result_1]{result}",
+      "examples": [
+        "The [senator]{senators} have fatally [underestimate_1]{underestimated} [public_1]{public} [feeling_1]{feeling} on the [matter_1]{matter}.",
+        "The [prosecution]{prosecution} [case_1]{case} was fatally [flawed]{flawed}."
+      ],
+      "id": "fatally__3"
+    }
+  ],
+  "word": "fatally"
+}

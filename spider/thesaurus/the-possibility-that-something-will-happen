@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [chance_1]{chance} that something might [happen]{happen} or be [true_1]{true}",
+      "entry": "possibility",
+      "id": "possibility#possibility__1"
+    },
+    {
+      "comment": "the [possibility]{possibility} that something will [happen]{happen}",
+      "entry": "chance",
+      "id": "chance_1#chance_1__11"
+    },
+    {
+      "comment": "something that is [likely_1]{likely} to [happen]{happen} or be [true_1]{true}",
+      "entry": "probability",
+      "id": "probability#probability__4"
+    },
+    {
+      "comment": "the [chance_1]{chance} that something might [happen]{happen}",
+      "entry": "likelihood",
+      "id": "likelihood#likelihood__1"
+    },
+    {
+      "comment": "a [strong]{strong} [suggestion]{suggestion} that something will [happen]{happen} or be [given_1]{given}",
+      "entry": "promise",
+      "id": "promise_2#promise_2__8"
+    },
+    {
+      "comment": "the [chance_1]{chance} that something will [continue]{continue} to [exist]{exist} or be [successful]{successful}",
+      "entry": "future",
+      "id": "future_1#future_1__15"
+    },
+    {
+      "comment": "the [possibility]{possibility} that something [bad_1]{bad} is [going_1]{going} to [happen]{happen}",
+      "entry": "threat",
+      "id": "threat#threat__15"
+    },
+    {
+      "comment": "the [possibility]{possibility} that something will [happen]{happen} or [develop]{develop} in the [future_1]{future}",
+      "entry": "potentiality",
+      "id": "potentiality#potentiality__1"
+    },
+    {
+      "comment": "a [reasonable]{reasonable} [chance_1]{chance} that something will [happen]{happen}",
+      "entry": "sporting chance",
+      "id": "sporting-chance#sporting-chance__1"
+    },
+    {
+      "comment": "the [degree]{degree} to which someone is [likely_1]{likely} to [achieve]{achieve} something",
+      "entry": "someone\u2019s chances",
+      "id": "someone-s-chances#someone-s-chances__1"
+    }
+  ],
+  "thesaurus": "The possibility that something will happen",
+  "type": "Synonyms"
+}

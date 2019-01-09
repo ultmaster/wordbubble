@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[cause_2]{causing} someone to [die_1]{die}",
+      "examples": [
+        "a fatal [road]{road} [accident]{accident}",
+        "In the [nineteenth]{nineteenth} [century]{century} [childbirth]{childbirth} often [prove]{proved} fatal."
+      ],
+      "id": "fatal__1"
+    },
+    {
+      "def": "with very serious [negative_1]{negative} [effect_1]{effects}",
+      "examples": [
+        "The [recession]{recession} has [prove]{proved} fatal to many [business]{businesses}.",
+        "The [sudden_1]{sudden} [resignation]{resignations} [dealt]{dealt} a fatal [blow_1]{blow} to the [society]{society}.",
+        "I made the fatal [mistake_1]{mistake} of [fall_1]{falling} in [love_1]{love} with him.",
+        "[yesterday_1]{Yesterday}\u2019s [report_1]{report} [highlight_1]{highlighted} fatal [flaw]{flaws} in the system."
+      ],
+      "id": "fatal__4"
+    }
+  ],
+  "word": "fatal"
+}

@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "to [fail_1]{fail} a [test_1]{test} very [badly]{badly}",
+      "entry": "bomb",
+      "id": "bomb_2#bomb_2__7"
+    },
+    {
+      "comment": "to [fail_1]{fail} a [test_1]{test} or a [course_1]{course} in [school_1]{school}",
+      "entry": "dip out",
+      "id": "dip-out#dip-out__3"
+    },
+    {
+      "comment": "to be [unsuccessful]{unsuccessful} in [achieve]{achieving} a [satisfactory]{satisfactory} [level_1]{level} or [standard_1]{standard}",
+      "entry": "fail",
+      "id": "fail_1#fail_1__16"
+    },
+    {
+      "comment": "to [fail_1]{fail} a [test_1]{test} or a [course_1]{course} in [school_1]{school}",
+      "entry": "flunk",
+      "id": "flunk#flunk__1"
+    },
+    {
+      "comment": "to [reach_1]{reach} a [good_1]{good} enough [standard_1]{standard} to [pass_1]{pass} a [test_1]{test}",
+      "entry": "get through",
+      "id": "get-through#get-through__12"
+    },
+    {
+      "comment": "to be [successful]{successful} in an [examination]{examination} or [test_1]{test} by [achieve]{achieving} a [satisfactory]{satisfactory} [standard_1]{standard}",
+      "entry": "pass",
+      "id": "pass_1#pass_1__15"
+    },
+    {
+      "comment": "to become a [member]{member} of a [particular_1]{particular} [profession]{profession} after a [period_1]{period} of [training]{training} or [study_1]{study}",
+      "entry": "qualify",
+      "id": "qualify#qualify__9"
+    },
+    {
+      "comment": "to [retake_1]{retake} an [examination]{examination}",
+      "entry": "resit",
+      "id": "resit#resit__1"
+    },
+    {
+      "comment": "to take an [examination]{examination} again because you [failed]{failed} it on the [previous_1]{previous} [occasion_1]{occasion}",
+      "entry": "retake",
+      "id": "retake_1#retake_1__4"
+    },
+    {
+      "comment": "to [achieve]{achieve} a [particular_1]{particular} amount, [level_1]{level}, etc. in a [test_1]{test}",
+      "entry": "score",
+      "id": "score_1#score_1__4"
+    },
+    {
+      "comment": "to take an [examination]{examination}",
+      "entry": "sit",
+      "id": "sit#sit__29"
+    },
+    {
+      "comment": "to do an [examination]{examination} in a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "take",
+      "id": "take_1#take_1__66"
+    }
+  ],
+  "thesaurus": "To sit, pass or fail an examination or test",
+  "type": "Related words"
+}

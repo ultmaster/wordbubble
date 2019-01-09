@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "on the road",
+  "senses": [
+    {
+      "def": "[traveling]{traveling} in a [car]{car}, [bus_1]{bus}, or [truck_1]{truck}, [especially]{especially} for a long [distance_1]{distance} or a long [period_1]{period} of time",
+      "examples": [
+        "We\u2019ve been on the [road]{road} now for five [hour]{hours}."
+      ],
+      "id": "on-the-road__1"
+    },
+    {
+      "def": "if [entertainer]{entertainers} are on the [road]{road}, they are [traveling]{traveling} to many [different]{different} [place_1]{places} to [perform]{perform}",
+      "examples": [
+        "The [band_1]{band} was on the [road]{road} for [seven]{seven} [month]{months} last [year]{year}."
+      ],
+      "id": "on-the-road__3"
+    },
+    {
+      "def": "[going_1]{going} from one [place_1]{place} to another because you do not have a [permanent_1]{permanent} [home_1]{home}",
+      "examples": [
+        "It was a time when a [lot_1]{lot} of [people_1]{people} were out of [work_1]{work} and had to [live_1]{live} [life]{life} on the [road]{road}."
+      ],
+      "id": "on-the-road__5"
+    }
+  ]
+}

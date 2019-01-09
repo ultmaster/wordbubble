@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "mark out",
+  "senses": [
+    {
+      "def": "to show the [shape_1]{shape} of something by [drawing]{drawing} it on a [surface_1]{surface}",
+      "examples": [
+        "The [shape_1]{shape} of the [pond]{pond} is [marked]{marked} out first with a [spade]{spade}."
+      ],
+      "id": "mark-out__1"
+    },
+    {
+      "def": "to show that someone or something is [different]{different} from others",
+      "examples": [
+        "His [talent]{talent} has [marked]{marked} him out as one of the [great_1]{greatest} [runners]{runners} ever."
+      ],
+      "id": "mark-out__3"
+    },
+    {
+      "def": "to show that someone or something will do something in the [future_1]{future}",
+      "examples": [
+        "It was the [kind_1]{kind} of [sing_1]{singing} [voice_1]{voice} that [mark_1]{marks} someone out for a [professional_1]{professional} [career_1]{career}."
+      ],
+      "id": "mark-out__5"
+    }
+  ]
+}

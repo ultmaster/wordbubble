@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go up in smoke",
+  "senses": [
+    {
+      "def": "if your [plan_1]{plans} or [dream_1]{dreams} go up in [smoke_1]{smoke}, they are [destroy]{destroyed}",
+      "examples": [
+        "Without a [scholarship]{scholarship}, her [dream_1]{dreams} of [college]{college} would go up in [smoke_1]{smoke}."
+      ],
+      "id": "go-up-in-smoke__1"
+    },
+    {
+      "def": "to be [destroy]{destroyed} by fire",
+      "examples": [
+        "It would take [just_1]{just} one [match_1]{match} for this whole [place_1]{place} to go up in [smoke_1]{smoke}."
+      ],
+      "id": "go-up-in-smoke__3"
+    }
+  ]
+}

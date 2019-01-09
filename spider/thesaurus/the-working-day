@@ -1,0 +1,216 @@
+{
+  "entries": [
+    {
+      "comment": "at the [place_1]{place} where you [work_1]{work}",
+      "entry": "at work",
+      "id": "at-work#at-work__1"
+    },
+    {
+      "comment": "to be [working]{working} during the [day]{day} [instead]{instead} of at [night_1]{night}",
+      "entry": "be on days",
+      "id": "be-on-days#be-on-days__1"
+    },
+    {
+      "comment": "the time that a [professional_1]{professional} [person]{person} such as a [lawyer]{lawyer} can [charge_1]{charge} a [client]{client} for",
+      "entry": "billable time",
+      "id": "billable-time#billable-time__1"
+    },
+    {
+      "comment": "a [day]{day} on which most [people_1]{people} [work_1]{work} and [business]{business} is done",
+      "entry": "business day",
+      "id": "business-day#business-day__1"
+    },
+    {
+      "comment": "the [hour]{hours} that a [store_1]{store} or other [business]{business} is [usually]{usually} [open_1]{open}",
+      "entry": "business hours",
+      "id": "business-hours#business-hours__1"
+    },
+    {
+      "comment": "in a [factory]{factory}, to [pass_1]{pass} a [special_1]{special} [card_1]{card} through a [piece_1]{piece} of [equipment]{equipment} to [record_1]{record} that you have [arrive]{arrived} at [work_1]{work}",
+      "entry": "clock in",
+      "id": "clock-in#clock-in__1"
+    },
+    {
+      "comment": "in a [factory]{factory}, to [pass_1]{pass} a [special_1]{special} [card_1]{card} through a [piece_1]{piece} of [equipment]{equipment} to [record_1]{record} that you are [leave_1]{leaving} [work_1]{work}",
+      "entry": "clock off",
+      "id": "clock-off#clock-off__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of not [concentrate_1]{concentrating} on your [work_1]{work} because you [wish_1]{wish} it was time to [stop_1]{stop}",
+      "entry": "clock-watching",
+      "id": "clock-watching#clock-watching__1"
+    },
+    {
+      "comment": "to go to [work_1]{work}",
+      "entry": "come in",
+      "id": "come-in#come-in__9"
+    },
+    {
+      "comment": "a period during working hours when workers must be at work even if they are on flextime",
+      "entry": "core time",
+      "id": "core-time#core-time__1"
+    },
+    {
+      "comment": "a [day]{day} on which [employee]{employees} are [allow]{allowed} to [wear_1]{wear} [informal]{informal} [clothes]{clothes} to [work_1]{work}",
+      "entry": "dress-down day",
+      "id": "dress-down-day#dress-down-day__1"
+    },
+    {
+      "comment": "a system in which [worker]{workers} [choose]{choose} the [hour]{hours} each [day]{day} that they [work_1]{work}, as long as the [hour]{hours} [add_1]{add} up to the same [number_1]{number} of [hour]{hours} every [week]{week} or [month]{month}",
+      "entry": "flextime",
+      "id": "flextime#flextime__1"
+    },
+    {
+      "comment": "[full-time_1]{full-time}",
+      "entry": "FT",
+      "id": "ft_1#ft_1__1"
+    },
+    {
+      "comment": "done for the number of hours that people normally work in a complete week. Part-time work or study is done during just some of these hours",
+      "entry": "full-time",
+      "id": "full-time_1#full-time_1__1"
+    },
+    {
+      "comment": "during the [number_1]{number} of [hour]{hours} that [people_1]{people} [normally]{normally} [work_1]{work} in a [complete_1]{complete} [week]{week}",
+      "entry": "full-time",
+      "id": "full-time_2#full-time_2__1"
+    },
+    {
+      "comment": "if you [work_1]{work} long [hour]{hours} or a long [day]{day}, you [work_1]{work} more than [usual]{usual}",
+      "entry": "long",
+      "id": "long_1#long_1__15"
+    },
+    {
+      "comment": "to [work_1]{work} at [different]{different} times from [usual]{usual} because you have not [work_1]{worked} enough at the [normal_1]{normal} times",
+      "entry": "make up",
+      "id": "make-up#make-up__18"
+    },
+    {
+      "comment": "the amount of work that one person can do in an hour. Some people avoid using this word because they think it is offensive to women, and they use person-hour instead.",
+      "entry": "man-hour",
+      "id": "man-hour#man-hour__1"
+    },
+    {
+      "comment": "[working]{working} at [night_1]{night}",
+      "entry": "night",
+      "id": "night_2#night_2__7"
+    },
+    {
+      "comment": "if someone [work_1]{works} [night_1]{nights}, or is on [night_1]{nights}, they go to [work_1]{work} at [night_1]{night}",
+      "entry": "nights",
+      "id": "night_1#night_1__9"
+    },
+    {
+      "comment": "the [period_1]{period} of time that [people_1]{people} [work_1]{work} at [night_1]{night}, [instead]{instead} of [working]{working} during the [day]{day}",
+      "entry": "night shift",
+      "id": "night-shift#night-shift__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [work_1]{work} during the [night_1]{night}",
+      "entry": "night shift",
+      "id": "night-shift#night-shift__3"
+    },
+    {
+      "comment": "a [nine-to-five]{nine-to-five} [job_1]{job} is a [normal_1]{normal} [office]{office} [job_1]{job}, in which you [usually]{usually} [work_1]{work} from nine o\u2019[clock_1]{clock} until five o\u2019[clock_1]{clock}",
+      "entry": "nine-to-five",
+      "id": "nine-to-five#nine-to-five__1"
+    },
+    {
+      "comment": "[extra_1]{extra} [hour]{hours} that someone [work_1]{works} at their [job_1]{job}",
+      "entry": "overtime",
+      "id": "overtime_1#overtime_1__1"
+    },
+    {
+      "comment": "a [place_1]{place} where someone [go_1]{goes} to [live_1]{live}, [study_1]{study}, or [work_1]{work}",
+      "entry": "placement",
+      "id": "placement#placement__3"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [spending]{spending} more [hour]{hours} at [work_1]{work} than you are [paid_1]{paid} for [accord_2]{according} to your [contract_1]{contract}",
+      "entry": "presenteeism",
+      "id": "presenteeism#presenteeism__1"
+    },
+    {
+      "comment": "to [record_1]{record} the time you [arrive]{arrive} at [work_1]{work} by [put]{putting} a [card_1]{card} into a [machine_1]{machine}",
+      "entry": "punch in",
+      "id": "punch-in#punch-in__3"
+    },
+    {
+      "comment": "to [record_1]{record} the time that you [leave_1]{leave} [work_1]{work} by [put]{putting} a [card_1]{card} into a [machine_1]{machine}",
+      "entry": "punch out",
+      "id": "punch-out#punch-out__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [work_1]{work} time in a [factory]{factory}, [hospital]{hospital}, or other [place_1]{place} where some [people_1]{people} [work_1]{work} during the [day]{day} and some [work_1]{work} at [night_1]{night}",
+      "entry": "shift",
+      "id": "shift_2#shift_2__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [work_1]{work} during a [particular_1]{particular} [shift_1]{shift}",
+      "entry": "shift",
+      "id": "shift_2#shift_2__4"
+    },
+    {
+      "comment": "a [period_1]{period} of [work_1]{work} that is [divided]{divided} into two [separate_1]{separate} [part_1]{parts} with a long [break_1]{break} between them",
+      "entry": "split shift",
+      "id": "split-shift#split-shift__1"
+    },
+    {
+      "comment": "a [fixed]{fixed} [period_1]{period} of [work_1]{work} from 3 or 4 o\u2019[clock_1]{clock} in the [afternoon_1]{afternoon} to 11 or 12 o\u2019[clock_1]{clock} at [night_1]{night}",
+      "entry": "swing shift",
+      "id": "swing-shift#swing-shift__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [work_1]{work} on the [swing_1]{swing} [shift_1]{shift}",
+      "entry": "swing shift",
+      "id": "swing-shift#swing-shift__2"
+    },
+    {
+      "comment": "a [card_1]{card} that is [used]{used} in a time [clock_1]{clock} for [recording]{recording} what time you [start_1]{start} and [finish_1]{finish} [work_1]{work}",
+      "entry": "time card",
+      "id": "time-card#time-card__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} on which you [write]{write} the [hour]{hours} that you have [work_1]{worked} in a [particular_1]{particular} [period_1]{period}",
+      "entry": "time sheet",
+      "id": "time-sheet#time-sheet__1"
+    },
+    {
+      "comment": "an [unsociable]{unsociable} [job_1]{job} is one in which you have to [work_1]{work} at [unusual]{unusual} times of the [day]{day} so that you do not have much time to [spend]{spend} with your [family_1]{family} or [friend_1]{friends}",
+      "entry": "unsociable",
+      "id": "unsociable#unsociable__2"
+    },
+    {
+      "comment": "someone who [work_1]{works} [unsocial]{unsocial} [hour]{hours} [work_1]{works} at [unusual]{unusual} times of the [day]{day}, so that they do not have much time to [spend]{spend} with their [family_1]{family} or [friend_1]{friends}",
+      "entry": "unsocial",
+      "id": "unsocial#unsocial__1"
+    },
+    {
+      "comment": "time when you are [working]{working} and cannot [relax]{relax}",
+      "entry": "uptime",
+      "id": "uptime#uptime__2"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to the [situation]{situation} or [place_1]{place} in an [office]{office} where [people_1]{people} [talk_1]{talk} in an [informal]{informal} way",
+      "entry": "water cooler",
+      "id": "water-cooler#water-cooler__2"
+    },
+    {
+      "comment": "the time that someone [spend]{spends} [doing]{doing} their [job_1]{job}",
+      "entry": "work",
+      "id": "work_2#work_2__7"
+    },
+    {
+      "comment": "the [period_1]{period} of time you [work_1]{work} in one [day]{day}",
+      "entry": "workday",
+      "id": "workday#workday__1"
+    },
+    {
+      "comment": "a [workday]{workday}",
+      "entry": "working day",
+      "id": "working-day#working-day__1"
+    }
+  ],
+  "thesaurus": "The working day",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [travel_1]{travel} to a [place_1]{place} along a [particular_1]{particular} [road]{road} or as part of a [transportation]{transportation} [service_1]{service}",
+      "entry": "go",
+      "id": "go_1#go_1__22"
+    },
+    {
+      "comment": "to [travel_1]{travel} in a [car]{car}, [train_1]{train}, [airplane]{airplane}, [boat]{boat}, etc., [especially]{especially} as a [passenger]{passenger}",
+      "entry": "ride",
+      "id": "ride_1#ride_1__11"
+    },
+    {
+      "comment": "to [travel_1]{travel} [regularly]{regularly} to and from [work_1]{work}",
+      "entry": "commute",
+      "id": "commute_1#commute_1__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} to a [place_1]{place} that is [farther_1]{farther} [north_1]{north} or is [large_1]{larger} or more [important]{important} than the [place_1]{place} you are [leave_1]{leaving}",
+      "entry": "come up",
+      "id": "come-up#come-up__11"
+    },
+    {
+      "comment": "to [travel_1]{travel} to a [place_1]{place} that is [small_1]{smaller} or less [important]{important} than the [place_1]{place} you are [leave_1]{leaving}",
+      "entry": "go down",
+      "id": "go-down#go-down__14"
+    },
+    {
+      "comment": "to [travel_1]{travel} by [ask_1]{asking} other [people_1]{people} to take you in their [car]{car}, by [standing_1]{standing} on the side of a [road]{road} and [holding]{holding} out your [thumb_1]{thumb} or a [sign_1]{sign}",
+      "entry": "hitch",
+      "id": "hitch_1#hitch_1__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} [frequently]{frequently} between two [place_1]{places}, or to take [people_1]{people} [frequently]{frequently} between two [place_1]{places}",
+      "entry": "shuttle",
+      "id": "shuttle_2#shuttle_2__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} by [ask_1]{asking} other [people_1]{people} to take you in their [car]{car}, by [standing_1]{standing} on the side of a [road]{road} and [holding]{holding} out your [thumb_1]{thumb} or a [sign_1]{sign}",
+      "entry": "hitchhike",
+      "id": "hitchhike#hitchhike__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} a [particular_1]{particular} [distance_1]{distance}",
+      "entry": "cover",
+      "id": "cover_1#cover_1__33"
+    },
+    {
+      "comment": "to [drive_1]{drive} around [slowly]{slowly} in a [car]{car} for [pleasure]{pleasure}",
+      "entry": "cruise",
+      "id": "cruise_2#cruise_2__7"
+    }
+  ],
+  "thesaurus": "To travel in a vehicle",
+  "type": "Synonyms"
+}

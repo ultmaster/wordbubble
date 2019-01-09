@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [deliberately]{deliberately} move an [object_1]{object} so that it [touch_1]{touches} another [object_1]{object} with [force_1]{force}",
+      "entry": "hit",
+      "id": "hit_1#hit_1__14"
+    },
+    {
+      "comment": "to hit someone or something with your fist  (=closed hand), usually as hard as you can",
+      "entry": "punch",
+      "id": "punch_1#punch_1__1"
+    },
+    {
+      "comment": "to hit someone or something with your hand, a [tool_1]{tool}, or a [weapon]{weapon}",
+      "entry": "strike",
+      "id": "strike_1#strike_1__11"
+    },
+    {
+      "comment": "to hit something [hard_1]{hard}, [making]{making} a [loud_1]{loud} [noise]{noise}",
+      "entry": "bang",
+      "id": "bang_1#bang_1__1"
+    },
+    {
+      "comment": "to hit something, [cause_2]{causing} [damage_1]{damage} or [harm_1]{harm}",
+      "entry": "knock",
+      "id": "knock_1#knock_1__1"
+    },
+    {
+      "comment": "to hit an [object_1]{object} or part of the body with your [hand_1]{hands}",
+      "entry": "beat",
+      "id": "beat_1#beat_1__23"
+    },
+    {
+      "comment": "to hit something against an [object_1]{object} or [surface_1]{surface} with a [lot_1]{lot} of [force_1]{force}, [cause_2]{causing} [injury]{injury} or [damage_1]{damage}",
+      "entry": "smash",
+      "id": "smash_1#smash_1__5"
+    },
+    {
+      "comment": "to hit someone or something with your fist  (=closed hand)",
+      "entry": "thump",
+      "id": "thump_1#thump_1__7"
+    },
+    {
+      "comment": "to hit something very [hard_1]{hard} several times",
+      "entry": "batter",
+      "id": "batter_1#batter_1__3"
+    },
+    {
+      "comment": "to hit something and [force_1]{force} it somewhere",
+      "entry": "knock",
+      "id": "knock_1#knock_1__3"
+    }
+  ],
+  "thesaurus": "To hit an object",
+  "type": "Synonyms"
+}

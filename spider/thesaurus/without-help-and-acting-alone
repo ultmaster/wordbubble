@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "if you do something alone, you do it without any [help_1]{help} from other [people_1]{people}",
+      "entry": "alone",
+      "id": "alone#alone__11"
+    },
+    {
+      "comment": "done by one [person]{person} alone, without any [help_1]{help}",
+      "entry": "solo",
+      "id": "solo_2#solo_2__1"
+    },
+    {
+      "comment": "done or [decided]{decided} by one [country]{country}, [group_1]{group}, or [person]{person}, often without [considering]{considering} what other [country]{countries}, etc. [think_1]{think} or [want_1]{want}",
+      "entry": "unilateral",
+      "id": "unilateral#unilateral__1"
+    },
+    {
+      "comment": "without [help_1]{help}",
+      "entry": "unassisted",
+      "id": "unassisted#unassisted__1"
+    },
+    {
+      "comment": "without [help_1]{help}, or in a [direct_1]{direct} way, [instead]{instead} of by a [representative_1]{representative}",
+      "entry": "personally",
+      "id": "personally#personally__4"
+    },
+    {
+      "comment": "done without [help_1]{help}",
+      "entry": "unsupported",
+      "id": "unsupported#unsupported__2"
+    },
+    {
+      "comment": "without any [help_1]{help}",
+      "entry": "(all) on your own",
+      "id": "all-on-your-own#all-on-your-own__5"
+    },
+    {
+      "comment": "by yourself or for yourself [instead]{instead} of with or for someone else",
+      "entry": "on your own account",
+      "id": "on-your-own-account#on-your-own-account__1"
+    },
+    {
+      "comment": "done by one [person]{person} without [help_1]{help} from anyone else",
+      "entry": "single-handed",
+      "id": "single-handed#single-handed__1"
+    }
+  ],
+  "thesaurus": "Without help and acting alone",
+  "type": "Synonyms"
+}

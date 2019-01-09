@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "fill in",
+  "senses": [
+    {
+      "def": "to [add_1]{add} [information]{information} such as your name or [address_1]{address} in the empty [space_1]{spaces} on an [official_1]{official} [document_1]{document}",
+      "examples": [
+        "Please fill in your name and [address_1]{address} in the [space_1]{space} [provided]{provided}.",
+        "I [spent_1]{spent} over two [hour]{hours} [filling_1]{filling} in the [application]{application} form.",
+        "Fill in the [missing]{missing} [word_1]{words}.",
+        "We [know_1]{know} [roughly]{roughly} how the system [work_1]{works}, but Brian is here to fill in the [blank_2]{blanks}."
+      ],
+      "id": "fill-in_1__1"
+    },
+    {
+      "def": "to give someone [detail_1]{details} about something",
+      "examples": [
+        "My [secretary]{secretary} will fill you in on the [detail_1]{details}."
+      ],
+      "id": "fill-in_1__8"
+    },
+    {
+      "def": "to do someone\u2019s [job_1]{job} for them while they are [away_1]{away}",
+      "examples": [
+        "I\u2019m [filling_1]{filling} in for the [receptionist]{receptionist} at the [moment]{moment}."
+      ],
+      "id": "fill-in_1__10"
+    }
+  ]
+}

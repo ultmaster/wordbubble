@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [short_1]{short} [period_1]{period} of [good_1]{good} [weather_1]{weather} during a long [period_1]{period} of [bad_1]{bad} [weather_1]{weather}",
+      "entry": "a break in the weather",
+      "id": "a-break-in-the-weather#a-break-in-the-weather__1"
+    },
+    {
+      "comment": "if the [weather_1]{weather} [break_1]{breaks}, it [change_1]{changes} [unexpected#unexpected__4]{unexpectedly}, and [usually]{usually} becomes [worse_1]{worse}",
+      "entry": "break",
+      "id": "break_1#break_1__52"
+    },
+    {
+      "comment": "if the [sun_1]{sun} [break_1]{breaks} through the [cloud_1]{clouds}, it [appear]{appears} from behind them",
+      "entry": "break through",
+      "id": "break-through#break-through__7"
+    },
+    {
+      "comment": "if the [weather_1]{weather} [brighten]{brightens} up, it becomes [sunny]{sunnier}",
+      "entry": "brighten up",
+      "id": "brighten-up#brighten-up__6"
+    },
+    {
+      "comment": "if the [sky_1]{sky} or the [weather_1]{weather} [clear_2]{clears}, the [weather_1]{weather} becomes [bright_1]{brighter} and there are no more [cloud_1]{clouds}, [rain_1]{rain}, etc.",
+      "entry": "clear",
+      "id": "clear_2#clear_2__14"
+    },
+    {
+      "comment": "if the [weather_1]{weather} [clear_2]{clears} up, the [cloud_1]{clouds} or [rain_1]{rain} go [away_1]{away}",
+      "entry": "clear up",
+      "id": "clear-up#clear-up__4"
+    },
+    {
+      "comment": "if the [weather_1]{weather} [close_1]{closes} in, it becomes [unpleasant]{unpleasant}",
+      "entry": "close in",
+      "id": "close-in#close-in__4"
+    },
+    {
+      "comment": "to become [dark_1]{darker} because [gray_1]{gray} [cloud_1]{clouds} are [form_2]{forming} in the [sky_1]{sky}",
+      "entry": "cloud",
+      "id": "cloud_2#cloud_2__1"
+    },
+    {
+      "comment": "if [bad_1]{bad} [weather_1]{weather} such as [wind_1]{wind} or [rain_1]{rain} [ease_1]{eases}, it becomes less [strong]{strong}",
+      "entry": "ease",
+      "id": "ease_1#ease_1__16"
+    },
+    {
+      "comment": "[weather_1]{weather} that is [fickle]{fickle} [change_1]{changes} often and [unexpected#unexpected__4]{unexpectedly}",
+      "entry": "fickle",
+      "id": "fickle#fickle__2"
+    },
+    {
+      "comment": "if something such as cloud or fog lifts, the weather improves and you can see clearly again",
+      "entry": "lift",
+      "id": "lift_1#lift_1__22"
+    },
+    {
+      "comment": "if [ice_1]{ice} or [snow_1]{snow} [melt_1]{melts} [away_1]{away}, it [change_1]{changes} into [water_1]{water} as it [get]{gets} [warmer]{warmer}",
+      "entry": "melt away",
+      "id": "melt-away#melt-away__4"
+    },
+    {
+      "comment": "if the [weather_1]{weather} [thaw_1]{thaws}, it becomes [warmer]{warmer} and [cause_1]{causes} [ice_1]{ice} or [snow_1]{snow} to [change_1]{change} into [liquid_1]{liquid}",
+      "entry": "thaw",
+      "id": "thaw_1#thaw_1__3"
+    },
+    {
+      "comment": "a [period_1]{period} of [warmer]{warmer} [weather_1]{weather} that [cause_1]{causes} [ice_1]{ice} and [snow_1]{snow} to [turn_1]{turn} into [water_1]{water}",
+      "entry": "thaw",
+      "id": "thaw_2#thaw_2__1"
+    },
+    {
+      "comment": "if [weather_1]{weather} [track_1]{tracks} in a [particular_1]{particular} [direction]{direction}, it [move_1]{moves} in that [direction]{direction}",
+      "entry": "track",
+      "id": "track_2#track_2__9"
+    }
+  ],
+  "thesaurus": "Changes in the weather",
+  "type": "Related words"
+}

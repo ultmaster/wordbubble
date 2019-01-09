@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "when your [stomach_1]{stomach} [digest_1]{digests} [food]{food}, it [change_1]{changes} it into the [substance]{substances} that your body [need_1]{needs}",
+      "examples": [
+        "[cheese]{Cheese} can be [difficult]{difficult} to digest."
+      ],
+      "id": "digest_1__1"
+    },
+    {
+      "def": "to [understand]{understand} [information]{information} when there is a [lot_1]{lot} of it or it is [difficult]{difficult} or [unexpected]{unexpected}",
+      "examples": [
+        "There was a [pause_1]{pause} while she [digest_1]{digested} this [piece_1]{piece} of [news]{news}."
+      ],
+      "id": "digest_1__3"
+    }
+  ],
+  "word": "digest"
+}

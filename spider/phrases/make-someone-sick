@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make someone sick",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone become very [angry]{angry} or [upset_1]{upset}",
+      "examples": [
+        "The way he [treat_1]{treats} her [make_1]{makes} me [sick_1]{sick}."
+      ],
+      "id": "make-someone-sick__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} very [jealous]{jealous}",
+      "examples": [
+        "You [make_1]{make} me [sick_1]{sick}! You\u2019re so [lucky]{lucky}!"
+      ],
+      "id": "make-someone-sick__3"
+    }
+  ]
+}

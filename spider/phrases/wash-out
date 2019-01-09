@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "wash out",
+  "senses": [
+    {
+      "def": "to [wash_1]{wash} something [quickly]{quickly}, [especially]{especially} the [inside_1]{inside} of a [container]{container}",
+      "examples": [
+        "Don\u2019t you ever [wash_1]{wash} out your [coffee]{coffee} [cup_1]{cups}?"
+      ],
+      "id": "wash-out__1"
+    },
+    {
+      "def": "if a [substance]{substance} [wash_1]{washes} out of [cloth]{cloth}, it can be [removed]{removed} by [washing]{washing}",
+      "examples": [
+        "[permanent_1]{Permanent} [dye_1]{dyes} [won]{won}\u2019t [wash_1]{wash} out.",
+        "All the [color_1]{color} has [wash_1]{washed} out of these [old]{old} [curtain]{curtains}."
+      ],
+      "id": "wash-out__3"
+    },
+    {
+      "def": "if [rain_1]{rain} [wash_1]{washes} out an [event]{event}, it [prevent]{prevents} it from [take_1]{taking} [place_1]{place} or from [continuing]{continuing}",
+      "examples": [
+        "It [look_1]{looked} [like_1]{like} the first [game_1]{game} of the [season_1]{season} would be [wash_1]{washed} out."
+      ],
+      "id": "wash-out__6"
+    }
+  ]
+}

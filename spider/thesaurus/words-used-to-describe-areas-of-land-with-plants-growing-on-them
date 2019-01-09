@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [green_1]{green} [area]{area} has a [lot_1]{lot} of [grass]{grass}, [plant_1]{plants}, or [tree]{trees}",
+      "entry": "green",
+      "id": "green_1#green_1__19"
+    },
+    {
+      "comment": "[fill_1]{filled} with [tree]{trees}",
+      "entry": "wooded",
+      "id": "wooded#wooded__1"
+    },
+    {
+      "comment": "[covered_1]{covered} in [grass]{grass}",
+      "entry": "grassy",
+      "id": "grassy#grassy__1"
+    },
+    {
+      "comment": "a [leafy]{leafy} [place_1]{place} [contain]{contains} a [lot_1]{lot} of [tree]{trees} and [plant_1]{plants}",
+      "entry": "leafy",
+      "id": "leafy#leafy__3"
+    },
+    {
+      "comment": "[covered_1]{covered} with [tree]{trees}",
+      "entry": "forested",
+      "id": "forested#forested__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with [small_1]{small} [bush]{bushes} and [tree]{trees}",
+      "entry": "scrubby",
+      "id": "scrubby#scrubby__2"
+    },
+    {
+      "comment": "a [coniferous]{coniferous} [forest]{forest} has [mainly]{mainly} [conifer]{conifers} [growing]{growing} in it",
+      "entry": "coniferous",
+      "id": "coniferous#coniferous__2"
+    },
+    {
+      "comment": "a [woody]{woody} [area]{area} has many [tree]{trees}",
+      "entry": "woody",
+      "id": "woody#woody__2"
+    },
+    {
+      "comment": "[used]{used} about [place_1]{places} where many [plant_1]{plants} [grow]{grow}",
+      "entry": "lush",
+      "id": "lush_1#lush_1__2"
+    },
+    {
+      "comment": "[green_1]{green} because of all the [plant_1]{plants} and [tree]{trees} that [grow]{grow} there",
+      "entry": "verdant",
+      "id": "verdant#verdant__1"
+    }
+  ],
+  "thesaurus": "Words used to describe areas of land with plants growing on them",
+  "type": "Synonyms"
+}

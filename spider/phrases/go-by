@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "go by",
+  "senses": [
+    {
+      "def": "if time [go_1]{goes} by, it [pass_1]{passes}",
+      "examples": [
+        "Last [month]{month} went by so [fast_1]{fast}."
+      ],
+      "id": "go-by__1"
+    },
+    {
+      "def": "to [accept]{accept} what someone or something [say_1]{says} when you are [deciding]{deciding} what to do or [think_1]{think}",
+      "examples": [
+        "[going_1]{Going} by what Tim [said_1]{said}, we should be there by mid-afternoon.",
+        "[police_1]{Police} [officer]{officers} [protect]{protect} themselves from [criticism]{criticism} by [going_1]{going} by the [book_1]{book}.",
+        "It\u2019s never very wise to go by [appearance]{appearances}."
+      ],
+      "id": "go-by__3"
+    },
+    {
+      "def": "to use a [particular_1]{particular} name for yourself that is not your [real_1]{real} name",
+      "examples": [
+        "In the 1970s she went by the name of Ricki."
+      ],
+      "id": "go-by__8"
+    },
+    {
+      "def": "to move [past_1]{past} a [place_1]{place} or [stop_1]{stop} there for a [short_1]{short} time during a [trip_1]{trip}",
+      "examples": [
+        "I went by the [post_1]{post} [office]{office} on the way [home_1]{home}."
+      ],
+      "id": "go-by__10"
+    }
+  ]
+}

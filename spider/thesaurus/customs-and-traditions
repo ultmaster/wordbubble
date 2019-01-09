@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that [people_1]{people} do that is [traditional]{traditional} or [usual]{usual}",
+      "entry": "custom",
+      "id": "custom_1#custom_1__1"
+    },
+    {
+      "comment": "very [old]{old} [customs]{customs}, [belief]{beliefs}, or [story]{stories}, [considered]{considered} together",
+      "entry": "tradition",
+      "id": "tradition#tradition__4"
+    },
+    {
+      "comment": "a way of [doing]{doing} something, [especially]{especially} as a [result_1]{result} of [habit]{habit}, [custom_1]{custom}, or [tradition]{tradition}",
+      "entry": "practice",
+      "id": "practice_1#practice_1__8"
+    },
+    {
+      "comment": "an [important]{important} [tradition]{tradition} on which [society]{society} is [base_2]{based}",
+      "entry": "institution",
+      "id": "institution#institution__5"
+    },
+    {
+      "comment": "something such as a [tradition]{tradition} or [problem]{problem} that [exist]{exists} as a [result_1]{result} of something that [happen]{happened} in the [past_1]{past}",
+      "entry": "legacy",
+      "id": "legacy#legacy__3"
+    },
+    {
+      "comment": "the [customs]{customs} or [accepted]{accepted} [social_1]{social} [behavior]{behavior} of a [particular_1]{particular} [group_1]{group} of [people_1]{people}",
+      "entry": "manners",
+      "id": "manner#manner__11"
+    },
+    {
+      "comment": "the [traditional]{traditional} [practice_1]{practices} and [moral_1]{moral} [value_1]{values} of a [particular_1]{particular} [society]{society} or [group_1]{group} of [people_1]{people}",
+      "entry": "mores",
+      "id": "mores#mores__1"
+    },
+    {
+      "comment": "[following_1]{following} the [method]{method} and [principle]{principles} that a [well-known]{well-known} [person]{person} or [group_1]{group} [used]{used} in the [past_1]{past}",
+      "entry": "in the tradition of",
+      "id": "in-the-tradition-of#in-the-tradition-of__1"
+    },
+    {
+      "comment": "a custom in which children visit your home at Halloween and say \u201cTrick or treat?\u201d as a way of asking for candy",
+      "entry": "trick or treat",
+      "id": "trick-or-treat#trick-or-treat__1"
+    },
+    {
+      "comment": "[interesting]{interesting} [detail_1]{details} about the [typical]{typical} [feature_1]{features}, [customs]{customs}, etc. of a [place_1]{place}",
+      "entry": "local color",
+      "id": "local-color#local-color__1"
+    }
+  ],
+  "thesaurus": "Customs and traditions",
+  "type": "Synonyms"
+}

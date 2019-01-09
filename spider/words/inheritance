@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[property]{property} or [money]{money} that you [receive]{receive} from someone when they [die_1]{die}",
+      "examples": [
+        "[advice]{advice} for [people_1]{people} who have [recently]{recently} [received]{received} an inheritance",
+        "French [law]{laws} of inheritance",
+        "the inheritance of [property]{property}"
+      ],
+      "id": "inheritance__1"
+    },
+    {
+      "def": "something that you [receive]{receive} from your [parent]{parents} or from [people_1]{people} who [live_1]{lived} before you",
+      "examples": [
+        "The three [country]{countries} [share_1]{shared} a [common_1]{common} [linguistic]{linguistic} and [religious]{religious} inheritance.",
+        "the inheritance of a [gift_1]{gift} for [music]{music}"
+      ],
+      "id": "inheritance__6"
+    }
+  ],
+  "word": "inheritance"
+}

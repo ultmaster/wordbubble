@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "start up",
+  "senses": [
+    {
+      "def": "to [bring]{bring} a [business]{business}, [organization]{organization}, or [project_1]{project} into [existence]{existence}",
+      "examples": [
+        "The [agency]{agency} [help_1]{helps} over 1,000 [company]{companies} [start_1]{start} up each [year]{year}.",
+        "She [left_1]{left} the [company]{company} last [year]{year} to [start_1]{start} up her own [business]{business}."
+      ],
+      "id": "start-up_1__1"
+    },
+    {
+      "def": "to [switch_1]{switch} on a [machine_1]{machine} or [engine]{engine}, [especially]{especially} a [motor_1]{motor} [vehicle]{vehicle}",
+      "examples": [
+        "She [got_1]{got} into the [car]{car} and [start_1]{started} up the [engine]{engine}."
+      ],
+      "id": "start-up_1__4"
+    }
+  ]
+}

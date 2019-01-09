@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to take [air_1]{air} into your [lung]{lungs} through your [nose_1]{nose} or [mouth_1]{mouth} and [let_1]{let} it out again",
+      "entry": "breathe",
+      "id": "breathe#breathe__1"
+    },
+    {
+      "comment": "to [push_1]{push} out [air_1]{air} from your [mouth_1]{mouth}",
+      "entry": "blow",
+      "id": "blow_1#blow_1__8"
+    },
+    {
+      "comment": "to [breathe]{breathe} out [slowly]{slowly} [making]{making} a long [soft]{soft} [sound_1]{sound}, [especially]{especially} because you are [disappointed]{disappointed}, [tired]{tired}, [annoyed]{annoyed}, or [relaxed]{relaxed}",
+      "entry": "sigh",
+      "id": "sigh_1#sigh_1__1"
+    },
+    {
+      "comment": "to [breathe]{breathe} [air_1]{air}, [smoke_1]{smoke}, or other [substance]{substances} into your [lung]{lungs}",
+      "entry": "inhale",
+      "id": "inhale#inhale__1"
+    },
+    {
+      "comment": "if you [choke_1]{choke}, or if something [choke_1]{chokes} you, you cannot [breathe]{breathe} because there is not enough [air_1]{air} or because something is [block_2]{blocking} your [throat]{throat}",
+      "entry": "choke",
+      "id": "choke_1#choke_1__1"
+    },
+    {
+      "comment": "to [quickly]{quickly} take in [large_1]{large} [breath]{breaths} of [air_1]{air}",
+      "entry": "gulp",
+      "id": "gulp_1#gulp_1__3"
+    },
+    {
+      "comment": "to [breathe]{breathe} in [suddenly]{suddenly}, for [example]{example} because you are [surprised]{surprised}, [shocked]{shocked}, or in [pain_1]{pain}",
+      "entry": "gasp",
+      "id": "gasp_1#gasp_1__1"
+    },
+    {
+      "comment": "to [breathe]{breathe} or [blow_1]{blow} out [air_1]{air} [noisy#noisy__7]{noisily}, [especially]{especially} because you have been [running_1]{running}, [climbing]{climbing}, etc.",
+      "entry": "puff",
+      "id": "puff_1#puff_1__3"
+    },
+    {
+      "comment": "to take time to [start_1]{start} to [breathe]{breathe} [normally]{normally} again after [physical_1]{physical} [exercise_1]{exercise}",
+      "entry": "catch your breath",
+      "id": "catch-your-breath#catch-your-breath__1"
+    },
+    {
+      "comment": "to have [difficulty]{difficulty} [breathing]{breathing}",
+      "entry": "fight for breath",
+      "id": "fight-for-breath#fight-for-breath__1"
+    }
+  ],
+  "thesaurus": "To breathe, or to have difficulty breathing",
+  "type": "Synonyms"
+}

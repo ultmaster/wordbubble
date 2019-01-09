@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "to begin with",
+  "senses": [
+    {
+      "def": "[used]{used} for [introduce]{introducing} the first thing in a [list_1]{list} of [thing]{things} you are [going_1]{going} to [say_1]{say}",
+      "examples": [
+        "\u201cWhy were you [annoyed]{annoyed}?\u201d \u201cWell, to [begin]{begin} with, I [miss_1]{missed} my [bus_1]{bus}.\u201d"
+      ],
+      "id": "to-begin-with__1"
+    },
+    {
+      "def": "before or during the first part of an [activity]{activity} or [process_1]{process}",
+      "examples": [
+        "How [did]{did} you get [involved]{involved} to [begin]{begin} with?"
+      ],
+      "id": "to-begin-with__3"
+    }
+  ]
+}

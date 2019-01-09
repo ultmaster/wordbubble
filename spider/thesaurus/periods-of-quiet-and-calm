@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} or [situation]{situation} where there is not much [noise]{noise} or [activity]{activity}",
+      "entry": "quiet",
+      "id": "quiet_2#quiet_2__1"
+    },
+    {
+      "comment": "a [calm_1]{calm} [quiet_1]{quiet} [situation]{situation} in which you are not [annoyed]{annoyed} by [noise]{noise} or other [people_1]{people}",
+      "entry": "peace",
+      "id": "peace#peace__15"
+    },
+    {
+      "comment": "a [quiet_1]{quiet} [period_1]{period} during a very [active]{active} or [violent]{violent} [situation]{situation}",
+      "entry": "lull",
+      "id": "lull_2#lull_2__1"
+    },
+    {
+      "comment": "a [period_1]{period} when there is less [activity]{activity}",
+      "entry": "slowdown",
+      "id": "slowdown#slowdown__1"
+    },
+    {
+      "comment": "the time when you are not [working]{working} or are not [busy_1]{busy}",
+      "entry": "leisure",
+      "id": "leisure#leisure__6"
+    },
+    {
+      "comment": "a very [quiet_1]{quiet} or [peaceful]{peaceful} [state_1]{state}",
+      "entry": "quietude",
+      "id": "quietude#quietude__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when something [does]{does} not [happen]{happen}",
+      "entry": "hiatus",
+      "id": "hiatus#hiatus__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [little_1]{little} [activity]{activity} or [slow_1]{slow} [progress_1]{progress}",
+      "entry": "low gear",
+      "id": "low-gear#low-gear__2"
+    },
+    {
+      "comment": "a [period_1]{period} of less [activity]{activity} than [usual]{usual}",
+      "entry": "slack",
+      "id": "slack_2#slack_2__3"
+    },
+    {
+      "comment": "[used]{used} about something that is not very [exciting]{exciting} at all",
+      "entry": "highlight",
+      "id": "highlight_2#highlight_2__4"
+    }
+  ],
+  "thesaurus": "Periods of quiet and calm",
+  "type": "Synonyms"
+}

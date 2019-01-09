@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [act_1]{act} of [repeat_1]{repeating} something",
+      "entry": "repetition",
+      "id": "repetition#repetition__1"
+    },
+    {
+      "comment": "[involve]{involving} [repeat_1]{repeating} the same [action_1]{action} over long [period_1]{periods} of time",
+      "entry": "repetitive",
+      "id": "repetitive#repetitive__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which you go back to a [previous_1]{previous} [activity]{activity} or [condition_1]{condition}",
+      "entry": "return",
+      "id": "return_2#return_2__5"
+    },
+    {
+      "comment": "the process of repeating a mathematical or computer operation, starting with the result of the previous operation each time",
+      "entry": "iteration",
+      "id": "iteration#iteration__1"
+    },
+    {
+      "comment": "an [iterative]{iterative} [process_1]{process} is one that you [repeat_1]{repeat} again and again, [use_1]{using} the [result_1]{results} from the [previous_1]{previous} [stage_1]{stage}",
+      "entry": "iterative",
+      "id": "iterative#iterative__1"
+    },
+    {
+      "comment": "[involve]{involving} a [process_1]{process} that [continue]{continues} to be [repeated]{repeated} again and again",
+      "entry": "recursive",
+      "id": "recursive#recursive__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [repeat_1]{repeating} something",
+      "entry": "reprise",
+      "id": "reprise_1#reprise_1__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [photograph_2]{photographing} or [recording]{recording} something again because it was not [satisfactory]{satisfactory}",
+      "entry": "retake",
+      "id": "retake_2#retake_2__1"
+    },
+    {
+      "comment": "a [situation]{situation} that [happen]{happens} [repeatedly]{repeatedly} in [exactly]{exactly} the same way",
+      "entry": "Groundhog Day",
+      "id": "groundhog-day#groundhog-day__2"
+    },
+    {
+      "comment": "to [realize]{realize} again that you [like_1]{like} something by [doing]{doing} it again after not [doing]{doing} it for a long time",
+      "entry": "rediscover",
+      "id": "rediscover#rediscover__1"
+    }
+  ],
+  "thesaurus": "Repetition and repetitive",
+  "type": "Synonyms"
+}

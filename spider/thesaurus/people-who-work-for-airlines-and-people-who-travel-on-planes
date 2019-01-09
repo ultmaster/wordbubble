@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "the [pilot_1]{pilot} and other [people_1]{people} who [work_1]{work} on an [airplane]{airplane} when it is [flying_1]{flying}",
+      "entry": "aircrew",
+      "id": "aircrew#aircrew__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [work_1]{work} as [air_1]{air} [traffic_1]{traffic} [controller]{controllers}",
+      "entry": "air traffic control",
+      "id": "air-traffic-control#air-traffic-control__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [organize]{organize} the [movement]{movement} of [airplane]{airplanes} in a [particular_1]{particular} [area]{area} by [give_1]{giving} [instruction]{instructions} to [pilot_1]{pilots} by [radio_1]{radio}",
+      "entry": "air traffic controller",
+      "id": "air-traffic-controller#air-traffic-controller__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} [pilot_1]{pilot}",
+      "entry": "aviator",
+      "id": "aviator#aviator__1"
+    },
+    {
+      "comment": "someone whose job is to deal with passengers\u2019 baggage at an airport",
+      "entry": "baggage handler",
+      "id": "baggage-handler#baggage-handler__1"
+    },
+    {
+      "comment": "the [people_1]{people} on an [airplane]{airplane} whose [job_1]{job} is to take [care_1]{care} of the [passenger]{passengers}",
+      "entry": "cabin crew",
+      "id": "cabin-crew#cabin-crew__1"
+    },
+    {
+      "comment": "the [person]{person} in [charge_1]{charge} of a [ship_1]{ship} or [aircraft]{aircraft}",
+      "entry": "captain",
+      "id": "captain_1#captain_1__1"
+    },
+    {
+      "comment": "a [pilot_1]{pilot} whose [job_1]{job} is to [share_1]{share} the [responsibility]{responsibility} for [flying_1]{flying} an [aircraft]{aircraft} with the [main_1]{main} [pilot_1]{pilot}",
+      "entry": "copilot",
+      "id": "copilot#copilot__1"
+    },
+    {
+      "comment": "a man who is a member of the crew of a ship, aircraft, etc.",
+      "entry": "crewman",
+      "id": "crewman#crewman__1"
+    },
+    {
+      "comment": "someone who [control_1]{controls} the [engine]{engines} on a [ship_1]{ship} or [aircraft]{aircraft}",
+      "entry": "engineer",
+      "id": "engineer_1#engineer_1__2"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} [pilot_1]{pilot}",
+      "entry": "flier",
+      "id": "flier#flier__3"
+    },
+    {
+      "comment": "someone who [travel_1]{travels} by [airplane]{airplane}",
+      "entry": "flier",
+      "id": "flier#flier__5"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to take [care_1]{care} of [passenger]{passengers} on an [airplane]{airplane}",
+      "entry": "flight attendant",
+      "id": "flight-attendant#flight-attendant__1"
+    },
+    {
+      "comment": "the people involved with flying a plane including the pilots, the flight engineer and the navigator. The people involved with looking after the passengers are the cabin crew.",
+      "entry": "flight crew",
+      "id": "flight-crew#flight-crew__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to be [responsible]{responsible} for the [engine]{engines}, [electrical_1]{electrical} [system]{systems}, etc., of a [plane_1]{plane} while it is [flying_1]{flying} somewhere",
+      "entry": "flight engineer",
+      "id": "flight-engineer#flight-engineer__1"
+    },
+    {
+      "comment": "someone who often travels by airplane, especially with the same airline",
+      "entry": "frequent flier",
+      "id": "frequent-flier#frequent-flier__1"
+    },
+    {
+      "comment": "the people who clean, check, and repair aircraft or spacecraft while they are on the ground",
+      "entry": "ground crew",
+      "id": "ground-crew#ground-crew__1"
+    },
+    {
+      "comment": "the people who work for an airline in an airport rather than on an aircraft",
+      "entry": "ground staff",
+      "id": "ground-staff#ground-staff__1"
+    },
+    {
+      "comment": "a [female_1]{female} [flight]{flight} [attendant_1]{attendant}",
+      "entry": "hostess",
+      "id": "hostess#hostess__5"
+    },
+    {
+      "comment": "someone who [flies]{flies} an [aircraft]{aircraft}",
+      "entry": "pilot",
+      "id": "pilot_1#pilot_1__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [help_1]{help} [passenger]{passengers} at an [airport]{airport} with their [bag_1]{bags}",
+      "entry": "skycap",
+      "id": "skycap#skycap__1"
+    },
+    {
+      "comment": "a [guard_1]{guard} who [make_1]{makes} [certain_1]{certain} that [passenger]{passengers} [stay_1]{stay} [safe_1]{safe} on [plane_1]{plane} [flight]{flights}",
+      "entry": "sky marshal",
+      "id": "sky-marshal#sky-marshal__1"
+    },
+    {
+      "comment": "a man whose [job_1]{job} is to take [care_1]{care} of the [passenger]{passengers} on an [airplane]{airplane}, [train_1]{train}, or [ship_1]{ship}, [especially]{especially} [serving]{serving} them with [food]{food} and [drink_1]{drink}",
+      "entry": "steward",
+      "id": "steward#steward__1"
+    },
+    {
+      "comment": "a [female_1]{female} [flight]{flight} [attendant_1]{attendant}",
+      "entry": "stewardess",
+      "id": "stewardess#stewardess__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [fly_1]{fly} [airplane]{airplanes} to [test_1]{test} their [performance]{performance}",
+      "entry": "test pilot",
+      "id": "test-pilot#test-pilot__1"
+    },
+    {
+      "comment": "a [pilot_1]{pilot} whose [aircraft]{aircraft} [flies]{flies} behind and [outside]{outside} the [leading]{leading} [aircraft]{aircraft} in a [formation]{formation}",
+      "entry": "wingman",
+      "id": "wingman#wingman__3"
+    }
+  ],
+  "thesaurus": "People who work for airlines and people who travel on planes",
+  "type": "Related words"
+}

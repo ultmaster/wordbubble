@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that you [say_1]{say} or [write]{write} that is not [true_1]{true} and that you [know_1]{know} is not [true_1]{true}",
+      "entry": "lie",
+      "id": "lie_2#lie_2__1"
+    },
+    {
+      "comment": "a [story]{story}, [excuse_1]{excuse}, etc. that is not [true_1]{true}",
+      "entry": "invention",
+      "id": "invention#invention__5"
+    },
+    {
+      "comment": "a [statement_1]{statement} that is not [true_1]{true}",
+      "entry": "falsehood",
+      "id": "falsehood#falsehood__1"
+    },
+    {
+      "comment": "a [lie_1]{lie}",
+      "entry": "untruth",
+      "id": "untruth#untruth__1"
+    },
+    {
+      "comment": "[false]{false} or [incorrect]{incorrect} [information]{information}, [especially]{especially} when it is [intended_1]{intended} to [trick_1]{trick} someone",
+      "entry": "misinformation",
+      "id": "misinformation#misinformation__1"
+    },
+    {
+      "comment": "a [story]{story} or [piece_1]{piece} of [information]{information} that someone [fabricate]{fabricates}",
+      "entry": "fabrication",
+      "id": "fabrication#fabrication__1"
+    },
+    {
+      "comment": "a [lie_1]{lie} [told]{told} to [avoid]{avoid} [making]{making} someone [upset_1]{upset}, not for your own [advantage]{advantage} or in [order_1]{order} to [harm_1]{harm} someone else",
+      "entry": "white lie",
+      "id": "white-lie#white-lie__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} that is only [partly]{partly} [true_1]{true} or that [give_1]{gives} only some of the [fact]{facts}",
+      "entry": "half-truth",
+      "id": "half-truth#half-truth__1"
+    },
+    {
+      "comment": "a [story]{story} that is [just_1]{just} a [series]{series} of [lie_1]{lies}",
+      "entry": "a tissue of lies",
+      "id": "a-tissue-of-lies#a-tissue-of-lies__1"
+    },
+    {
+      "comment": "[false]{false} [information]{information} that is [intended_1]{intended} to [make_1]{make} [people_1]{people} [believe]{believe} something that is not [true_1]{true}",
+      "entry": "disinformation",
+      "id": "disinformation#disinformation__1"
+    }
+  ],
+  "thesaurus": "Lies",
+  "type": "Synonyms"
+}

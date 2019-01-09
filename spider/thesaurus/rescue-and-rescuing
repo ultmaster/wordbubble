@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [transport_1]{transport} someone to a [hospital]{hospital} by [helicopter]{helicopter} or [plane_1]{plane}",
+      "entry": "medevac",
+      "id": "medevac#medevac__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [saving_1]{saving} someone or something from [danger]{danger}, [failure]{failure}, or an [unpleasant]{unpleasant} [situation]{situation}",
+      "entry": "rescue",
+      "id": "rescue_2#rescue_2__1"
+    },
+    {
+      "comment": "to [save_1]{save} someone from a [dangerous]{dangerous} or [unpleasant]{unpleasant} [situation]{situation}",
+      "entry": "rescue",
+      "id": "rescue_1#rescue_1__1"
+    },
+    {
+      "comment": "the organizations that deal with fire, crime, accidents, and injuries, for example the police and the fire departments",
+      "entry": "emergency services",
+      "id": "emergency-services#emergency-services__1"
+    },
+    {
+      "comment": "to [save_1]{save} [property]{property} or [possession]{possessions} from a [building]{building} that has been [damage_2]{damaged} or [destroy]{destroyed} in a fire, [flood_1]{flood}, etc.",
+      "entry": "salvage",
+      "id": "salvage_1#salvage_1__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [saving_1]{saving} someone from the [ocean]{ocean} [use_1]{using} a [helicopter]{helicopter}",
+      "entry": "air-sea rescue",
+      "id": "air-sea-rescue#air-sea-rescue__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [look_1]{looking} for [people_1]{people} who are [lost_1]{lost} and may [need_1]{need} [medical_1]{medical} [treatment]{treatment}, [especially]{especially} after an [accident]{accident}",
+      "entry": "search and rescue",
+      "id": "search-and-rescue#search-and-rescue__1"
+    },
+    {
+      "comment": "[property]{property} that has been [save_1]{saved} from being [destroy]{destroyed} or [damage_2]{damaged}",
+      "entry": "salvage",
+      "id": "salvage_2#salvage_2__1"
+    },
+    {
+      "comment": "the [process_1]{process} of being [save_1]{saved} from [danger]{danger} or [harm_1]{harm}",
+      "entry": "deliverance",
+      "id": "deliverance#deliverance__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that everyone must [help_1]{help} because there is an [emergency_1]{emergency}",
+      "entry": "all hands on deck",
+      "id": "all-hands-on-deck#all-hands-on-deck__1"
+    }
+  ],
+  "thesaurus": "Rescue and rescuing",
+  "type": "Synonyms"
+}

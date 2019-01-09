@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in brief",
+  "senses": [
+    {
+      "def": "[use_1]{using} as few [word_1]{words} as [possible_1]{possible}, and without many [detail_1]{details}",
+      "examples": [
+        "The [plan_1]{plan} is to [change_1]{change} the [radio_1]{radio} [station_1]{station}\u2019s [style_1]{style}: in [brief_1]{brief}, less [talk_1]{talk} and more [music]{music}."
+      ],
+      "id": "in-brief__1"
+    },
+    {
+      "def": "without many [detail_1]{details}",
+      "examples": [
+        "I only [heard]{heard} the [news]{news} in [brief_1]{brief}."
+      ],
+      "id": "in-brief__3"
+    }
+  ]
+}

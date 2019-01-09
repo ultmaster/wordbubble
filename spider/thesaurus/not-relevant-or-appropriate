@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [important]{important} or not [relevant]{relevant} to what you are [discuss]{discussing} or [doing]{doing}",
+      "entry": "irrelevant",
+      "id": "irrelevant#irrelevant__1"
+    },
+    {
+      "comment": "not [appropriate_1]{appropriate} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "inappropriate",
+      "id": "inappropriate#inappropriate__1"
+    },
+    {
+      "comment": "not [important]{important} or [relevant]{relevant}",
+      "entry": "unimportant",
+      "id": "unimportant#unimportant__1"
+    },
+    {
+      "comment": "not [considered]{considered} [important]{important} or [relevant]{relevant}",
+      "entry": "marginal",
+      "id": "marginal_1#marginal_1__3"
+    },
+    {
+      "comment": "not [important]{important} or [relevant]{relevant}",
+      "entry": "immaterial",
+      "id": "immaterial#immaterial__1"
+    },
+    {
+      "comment": "not [connected]{connected} to a [subject_1]{subject} that you are [thinking_1]{thinking} about or [discuss]{discussing}",
+      "entry": "unrelated",
+      "id": "unrelated#unrelated__1"
+    },
+    {
+      "comment": "not [relate]{relating} to the [subject_1]{subject} or [situation]{situation} that you are [dealing]{dealing} with",
+      "entry": "extraneous",
+      "id": "extraneous#extraneous__1"
+    },
+    {
+      "comment": "not [relate]{relating} to a [real_1]{real} [situation]{situation}, and therefore not [relevant]{relevant}",
+      "entry": "academic",
+      "id": "academic_1#academic_1__8"
+    },
+    {
+      "comment": "not [relevant]{relevant} or [important]{important} to the [subject_1]{subject} you are [discuss]{discussing}",
+      "entry": "beside the point",
+      "id": "beside-the-point#beside-the-point__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something [does]{does} not [matter_1]{matter} because it is not [relevant]{relevant}",
+      "entry": "neither here nor there",
+      "id": "neither-here-nor-there#neither-here-nor-there__1"
+    }
+  ],
+  "thesaurus": "Not relevant or appropriate",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "press for",
+  "senses": [
+    {
+      "def": "to [try_1]{try} in a [determined]{determined} way to get something from someone",
+      "examples": [
+        "The more she [pressed]{pressed} him for an [explanation]{explanation}, the more he [refuse_1]{refused} to [speak_1]{speak}."
+      ],
+      "id": "press-for__1"
+    },
+    {
+      "def": "to [try_1]{try} in a [determined]{determined} way to [achieve]{achieve} something",
+      "examples": [
+        "The [committee]{committee} also [agreed]{agreed} to [press_1]{press} for [change_1]{changes} in the [current_1]{current} [finance_2]{financing} system."
+      ],
+      "id": "press-for__3"
+    }
+  ]
+}

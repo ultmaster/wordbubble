@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if part of an amount of something such as [money]{money} or [food]{food} is [left_1]{left} over, you still have some of it after you have [used]{used} or [eaten]{eaten} the rest of it",
+      "entry": "leave over",
+      "id": "leave-over#leave-over__1"
+    },
+    {
+      "comment": "still [left_1]{left} after other [people_1]{people} or [thing]{things} have [gone_1]{gone}, have been [dealt]{dealt} with, etc.",
+      "entry": "remaining",
+      "id": "remaining#remaining__1"
+    },
+    {
+      "comment": "still [alive]{alive} or [remaining]{remaining} after others are [dead_1]{dead} or [destroy]{destroyed}",
+      "entry": "surviving",
+      "id": "surviving#surviving__1"
+    },
+    {
+      "comment": "[remaining]{remaining} after the rest of something has [gone_1]{gone} or [end_2]{ended}",
+      "entry": "residual",
+      "id": "residual#residual__1"
+    },
+    {
+      "comment": "without a [known_1]{known} [owner]{owner}",
+      "entry": "unclaimed",
+      "id": "unclaimed#unclaimed__1"
+    },
+    {
+      "comment": "[remaining]{remaining} after you have [finished]{finished} [use_1]{using} the amount that you [want_1]{want} or [need_1]{need}",
+      "entry": "leftover",
+      "id": "leftover#leftover__1"
+    },
+    {
+      "comment": "[remaining]{remaining} or [existing]{existing}, but not [developed]{developed} or [working]{working}",
+      "entry": "vestigial",
+      "id": "vestigial#vestigial__2"
+    },
+    {
+      "comment": "[remaining]{remaining} in a [place_1]{place} after [people_1]{people} have [left_1]{left}",
+      "entry": "behind",
+      "id": "behind_1#behind_1__20"
+    },
+    {
+      "comment": "[used]{used} when [refer]{referring} to the part of an amount that [remains]{remains} after some of it has been [used]{used}",
+      "entry": "over",
+      "id": "over_1#over_1__93"
+    },
+    {
+      "comment": "[remaining]{remaining} after almost all of something has [disappear]{disappeared}",
+      "entry": "vestigial",
+      "id": "vestigial#vestigial__1"
+    }
+  ],
+  "thesaurus": "Remaining or leftover",
+  "type": "Synonyms"
+}

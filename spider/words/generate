@@ -1,0 +1,43 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} [money]{money}",
+      "examples": [
+        "The [business]{business} is not [generate]{generating} enough [revenue]{revenue} to [cover_1]{cover} its [cost_1]{costs}.",
+        "More and more of the [money]{money} in [state_1]{state} [budget_1]{budgets} is [generate]{generated} by [state_1]{state} and [local_1]{local} [lottery]{lotteries}."
+      ],
+      "id": "generate__1"
+    },
+    {
+      "def": "to [create]{create} [job_1]{jobs} or [work_1]{work}",
+      "examples": [
+        "The [new]{new} [car]{car} [factory]{factory} will generate a [lot_1]{lot} of [job_1]{jobs} in the [area]{area}."
+      ],
+      "id": "generate__4"
+    },
+    {
+      "def": "to [make_1]{make} a [lot_1]{lot} of [people_1]{people} [express_1]{express} [feeling_1]{feelings} or [opinion]{opinions} about something",
+      "examples": [
+        "The [advertising]{advertising} [campaign_1]{campaign} [generate]{generated} a [lot_1]{lot} of interest in our [work_1]{work}.",
+        "the [controversy]{controversy} [generate]{generated} by the [report_1]{report}"
+      ],
+      "id": "generate__6"
+    },
+    {
+      "def": "if a computer [generate]{generates} a [report_1]{report}, [image_1]{image}, etc., it [produce_1]{produces} it",
+      "examples": [
+        "computer-generated [animation]{animation}"
+      ],
+      "id": "generate__9"
+    },
+    {
+      "def": "to [produce_1]{produce} [power_1]{power}",
+      "examples": [
+        "75% of France\u2019s [electricity]{electricity} is [generate]{generated} by [nuclear]{nuclear} [reactor]{reactors}."
+      ],
+      "id": "generate__11"
+    }
+  ],
+  "word": "generate"
+}

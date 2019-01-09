@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "an [office]{office} where [information]{information} is [collected]{collected}, for [example]{example} for a [news]{news} [organization]{organization}",
+      "entry": "bureau",
+      "id": "bureau#bureau__7"
+    },
+    {
+      "comment": "the [office]{office} or [building]{building} from which an [organization]{organization} [control_1]{controls} its [activity]{activities}, for [example]{example} a [military]{military} [operation]{operation}",
+      "entry": "general headquarters",
+      "id": "general-headquarters#general-headquarters__1"
+    },
+    {
+      "comment": "the [main_1]{main} [office]{office} of an [organization]{organization} or [company]{company}, or the [people_1]{people} who [work_1]{work} there",
+      "entry": "head office",
+      "id": "head-office#head-office__1"
+    },
+    {
+      "comment": "the [place_1]{place} where a [company]{company} or [organization]{organization} has its [main_1]{main} [office]{offices}",
+      "entry": "headquarters",
+      "id": "headquarters#headquarters__1"
+    },
+    {
+      "comment": "a [building]{building} or [place_1]{place} where an [organization]{organization} is [base_2]{based}",
+      "entry": "home base",
+      "id": "home-base#home-base__3"
+    },
+    {
+      "comment": "the [place_1]{place} where a [company]{company} has its [main_1]{main} [office]{office}",
+      "entry": "home office",
+      "id": "home-office#home-office__2"
+    },
+    {
+      "comment": "[headquarters]{headquarters}",
+      "entry": "HQ",
+      "id": "hq#hq__1"
+    },
+    {
+      "comment": "a [room_1]{room} with one or more [desk]{desks} where [people_1]{people} [work_1]{work}",
+      "entry": "office",
+      "id": "office#office__14"
+    },
+    {
+      "comment": "the area where you work/have your business/live",
+      "entry": "place of work/business/residence",
+      "id": "place-of-work-business-residence#place-of-work-business-residence__1"
+    },
+    {
+      "comment": "the [place_1]{place} where you [work_1]{work}",
+      "entry": "the workplace",
+      "id": "workplace#workplace__1"
+    },
+    {
+      "comment": "[used]{used} in [general_1]{general} for [refer]{referring} to [place_1]{places} where [people_1]{people} [work_1]{work}",
+      "entry": "the workplace",
+      "id": "workplace#workplace__2"
+    },
+    {
+      "comment": "a [place_1]{place} where someone [go_1]{goes} to do their [job_1]{job}",
+      "entry": "works",
+      "id": "work_2#work_2__12"
+    }
+  ],
+  "thesaurus": "General words for offices and the workplace",
+  "type": "Related words"
+}

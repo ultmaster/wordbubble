@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "pay back",
+  "senses": [
+    {
+      "def": "to give someone the same amount of [money]{money} that you [borrow]{borrowed} from them",
+      "examples": [
+        "I\u2019ll be [able_1]{able} to [pay_1]{pay} you back next [week]{week}.",
+        "I don\u2019t [think_1]{think} we can [afford]{afford} to [pay_1]{pay} the full amount back now.",
+        "She\u2019ll [pay_1]{pay} us the rest back when she [get]{gets} her [paycheck]{paycheck}."
+      ],
+      "id": "pay-back__1"
+    },
+    {
+      "def": "to do something [bad_1]{bad} to someone because they have done something [bad_1]{bad} to you",
+      "examples": [
+        "She [knew]{knew} how to [pay_1]{pay} them back for the [trouble_1]{trouble} they had [cause_2]{caused}."
+      ],
+      "id": "pay-back__5"
+    }
+  ]
+}

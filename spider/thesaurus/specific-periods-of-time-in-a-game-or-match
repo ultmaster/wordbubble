@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [pause_1]{pause} in a [sport_1]{sports} [game_1]{game}",
+      "entry": "break",
+      "id": "break_2#break_2__16"
+    },
+    {
+      "comment": "[overtime_1]{overtime} at the [end_1]{end} of a [sport_1]{sports} [game_1]{game}",
+      "entry": "extra time",
+      "id": "extra-time#extra-time__1"
+    },
+    {
+      "comment": "the first part of a [sport_1]{sports} [match_1]{match}",
+      "entry": "first half",
+      "id": "first-half#first-half__1"
+    },
+    {
+      "comment": "one of the two equal periods of time into which a game of football, basketball, hockey, etc. is divided",
+      "entry": "half",
+      "id": "half#half__28"
+    },
+    {
+      "comment": "in [football]{football}, [basketball]{basketball}, and some other [team_1]{team} [sport_1]{sports}, a [period_1]{period} of rest between the two [halves]{halves} of a [game_1]{game}",
+      "entry": "halftime",
+      "id": "halftime#halftime__1"
+    },
+    {
+      "comment": "time [added]{added} at the [end_1]{end} of a [game_1]{game} because time has been [lost_1]{lost} [dealing]{dealing} with [injured]{injured} [player]{players}",
+      "entry": "injury time",
+      "id": "injury-time#injury-time__1"
+    },
+    {
+      "comment": "an [extra_1]{extra} [period_1]{period} of time [added]{added} to a [game_1]{game} because neither [team_1]{team} [won]{won} during [normal_1]{normal} time",
+      "entry": "overtime",
+      "id": "overtime_1#overtime_1__6"
+    },
+    {
+      "comment": "[happening_1]{happening} or [relate]{relating} to the time before a [sport_1]{sports} [game_1]{game}",
+      "entry": "pregame",
+      "id": "pregame#pregame__1"
+    },
+    {
+      "comment": "one of four [period_1]{periods} that a [game_1]{game} is [divided]{divided} into in some [sport_1]{sports}",
+      "entry": "quarter",
+      "id": "quarter_1#quarter_1__8"
+    },
+    {
+      "comment": "the [period_1]{period} of time before an [important]{important} [competition]{competition}",
+      "entry": "run-in",
+      "id": "run-in#run-in__3"
+    },
+    {
+      "comment": "a [period_1]{period} of time when a [game_1]{game} [stop_1]{stops} because of [injury]{injury} or [bad_1]{bad} [weather_1]{weather}",
+      "entry": "stoppage",
+      "id": "stoppage#stoppage__2"
+    },
+    {
+      "comment": "a [period_1]{period} of time [added]{added} to the [end_1]{end} of some [game_1]{games} such as [soccer]{soccer} because of time that was [lost_1]{lost} in the [game_1]{game} when someone was [injured]{injured}.",
+      "entry": "stoppage time",
+      "id": "stoppage-time#stoppage-time__1"
+    },
+    {
+      "comment": "an [extra_1]{extra} [period_1]{period} of time [added]{added} to the [end_1]{end} of a [game_1]{game} when both [player]{players} or [team_1]{teams} have the same [score_1]{score}, in which the [team_1]{team} that [score_1]{scores} first [win_1]{wins}",
+      "entry": "sudden death",
+      "id": "sudden-death#sudden-death__1"
+    }
+  ],
+  "thesaurus": "Specific periods of time in a game or match",
+  "type": "Related words"
+}

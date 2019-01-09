@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [trash_1]{trash} can",
+      "entry": "ashcan",
+      "id": "ashcan#ashcan__1"
+    },
+    {
+      "comment": "a small flat container where people who smoke put ash and the cigarettes they have finished smoking",
+      "entry": "ashtray",
+      "id": "ashtray#ashtray__1"
+    },
+    {
+      "comment": "a [wide_1]{wide} [flat_1]{flat} [container]{container} that is [used]{used} as a [toilet]{toilet} by [people_1]{people} who are too [sick_1]{sick} to get out of [bed_1]{bed}",
+      "entry": "bedpan",
+      "id": "bedpan#bedpan__1"
+    },
+    {
+      "comment": "a [container]{container} for [put]{putting} [garbage]{garbage} in",
+      "entry": "bin",
+      "id": "bin_1#bin_1__3"
+    },
+    {
+      "comment": "a [cesspool]{cesspool}",
+      "entry": "cesspit",
+      "id": "cesspit#cesspit__1"
+    },
+    {
+      "comment": "a round [container]{container} [kept]{kept} in a [bedroom]{bedroom} in the [past_1]{past} and [used]{used} as a [toilet]{toilet} during the [night_1]{night}",
+      "entry": "chamber pot",
+      "id": "chamber-pot#chamber-pot__1"
+    },
+    {
+      "comment": "a very large metal container used in the construction industry for waste. It is carried away by a truck when it is full.",
+      "entry": "Dumpster",
+      "id": "dumpster#dumpster__1"
+    },
+    {
+      "comment": "a [garbage]{garbage} can",
+      "entry": "dustbin",
+      "id": "dustbin#dustbin__1"
+    },
+    {
+      "comment": "a [small_1]{small} [flat_1]{flat} [container]{container} that you put on the [floor_1]{floor} and [brush_1]{brush} [dust_1]{dust} into",
+      "entry": "dustpan",
+      "id": "dustpan#dustpan__1"
+    },
+    {
+      "comment": "a large deep container with a lid that you keep outside for holding garbage that is ready to be collected. The British word is dustbin.",
+      "entry": "garbage can",
+      "id": "garbage-can#garbage-can__1"
+    },
+    {
+      "comment": "a [trash_1]{trash} can",
+      "entry": "litter bin",
+      "id": "litter-bin#litter-bin__1"
+    },
+    {
+      "comment": "a [large_1]{large} [container]{container} [bury]{buried} under the [ground_1]{ground} and [used]{used} for [collect_1]{collecting} [waste_1]{waste} from [toilet]{toilets}",
+      "entry": "septic tank",
+      "id": "septic-tank#septic-tank__1"
+    },
+    {
+      "comment": "a Dumpster",
+      "entry": "skip",
+      "id": "skip_2#skip_2__1"
+    },
+    {
+      "comment": "the [container]{container} where you put [waste_1]{waste} [material_1]{material}",
+      "entry": "the trash",
+      "id": "trash_1#trash_1__3"
+    },
+    {
+      "comment": "a [metal_1]{metal} or [plastic_1]{plastic} [container]{container} for [thing]{things} that you [want_1]{want} to get [rid_1]{rid} of",
+      "entry": "trash can",
+      "id": "trash-can#trash-can__1"
+    },
+    {
+      "comment": "a [small_1]{small} [open_1]{open} [container]{container} for [garbage]{garbage} such as [paper_1]{paper} you have [used]{used}",
+      "entry": "waste basket",
+      "id": "waste-basket#waste-basket__1"
+    },
+    {
+      "comment": "a [garbage]{garbage} can",
+      "entry": "waste bin",
+      "id": "waste-bin#waste-bin__1"
+    },
+    {
+      "comment": "a [waste_1]{waste} [basket]{basket}",
+      "entry": "wastepaper basket",
+      "id": "wastepaper-basket#wastepaper-basket__1"
+    }
+  ],
+  "thesaurus": "Containers for waste and rubbish",
+  "type": "Related words"
+}

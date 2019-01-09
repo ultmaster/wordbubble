@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [throw_1]{throw} something",
+      "examples": [
+        "Someone had [chuck_1]{chucked} a [brick_1]{brick} through their [window]{window}.",
+        "[chuck_1]{Chuck} me the [ball_1]{ball}, would you?",
+        "She came in, [chuck_1]{chucked} her [book_1]{books} on the [table_1]{table}, and went [straight_1]{straight} to her [room_1]{room}."
+      ],
+      "id": "chuck_1__1"
+    },
+    {
+      "def": "to get [rid_1]{rid} of something you do not [want_1]{want}",
+      "examples": [
+        "This is the [pile_1]{pile} of [thing]{things} we [need_1]{need}, and over here is the [pile_1]{pile} of [thing]{things} we can chuck out."
+      ],
+      "id": "chuck_1__6"
+    },
+    {
+      "def": "to [end_1]{end} a [relationship]{relationship} with someone",
+      "examples": [
+        "After two [year]{years} she [chuck_1]{chucked} her [boyfriend_1]{boyfriend}."
+      ],
+      "id": "chuck_1__8"
+    }
+  ],
+  "word": "chuck"
+}

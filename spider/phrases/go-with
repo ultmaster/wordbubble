@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "go with",
+  "senses": [
+    {
+      "def": "to be [provided]{provided} or [offer_1]{offered} together with something",
+      "examples": [
+        "[does]{Does} a [car]{car} go with the [job_1]{job}?",
+        "A [fair_1]{fair} amount of [stress_1]{stress} seems to go with [job_1]{jobs} [like_1]{like} this."
+      ],
+      "id": "go-with__1"
+    },
+    {
+      "def": "to seem [good_1]{good}, [natural_1]{natural}, or [attractive]{attractive} in [combination]{combination} with something",
+      "examples": [
+        "Which [shoe_1]{shoes} go [best_1]{best} with this [dress_1]{dress}?"
+      ],
+      "id": "go-with__5"
+    },
+    {
+      "def": "to have a [romantic_1]{romantic} or [sexual]{sexual} [relationship]{relationship} with someone",
+      "examples": [
+        "I [heard]{heard} that [carol]{Carol} is [going_1]{going} with the [guy]{guy} who [work_1]{works} [downstairs_1]{downstairs}."
+      ],
+      "id": "go-with__7"
+    },
+    {
+      "def": "to [choose]{choose} or [accept]{accept} something",
+      "examples": [
+        "I [think_1]{think} we should go with [yellow_1]{yellow} for the [wall_1]{walls}."
+      ],
+      "id": "go-with__10"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [door_1]{door} in a [fence_1]{fence} or [wall_1]{wall} that you go through to [enter]{enter} or [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "He [walk_1]{walked} through a [wooden]{wooden} gate into the [field_1]{field}.",
+        "Be [sure_1]{sure} to [close_1]{close} the gate to the [driveway]{driveway} when you [leave_1]{leave}.",
+        "A [crowd_1]{crowd} had [gather_1]{gathered} at the [gate_1]{gates} of the [palace]{palace}.",
+        "[wait_1]{Wait} for me [outside]{outside} the [school_1]{school} [gate_1]{gates}."
+      ],
+      "id": "gate_1__1"
+    },
+    {
+      "def": "the [place_1]{place} at an [airport]{airport} where [people_1]{people} get on an [airplane]{airplane}",
+      "examples": [
+        "[flight]{Flight} 267 is [boarding]{boarding} now from [gate_1]{Gate} 12."
+      ],
+      "id": "gate_1__8"
+    },
+    {
+      "def": "the [number_1]{number} of [people_1]{people} who go to see a [sport_1]{sports} [event]{event} or other [entertainment]{entertainment}",
+      "examples": [],
+      "id": "gate_1__10"
+    }
+  ],
+  "word": "gate"
+}

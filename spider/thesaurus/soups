@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a thick soup made from shellfish",
+      "entry": "bisque",
+      "id": "bisque#bisque__1"
+    },
+    {
+      "comment": "a [soup_1]{soup} made from [fish_1]{fish} and [vegetable]{vegetables}",
+      "entry": "bouillabaisse",
+      "id": "bouillabaisse#bouillabaisse__1"
+    },
+    {
+      "comment": "a [clear_1]{clear} [soup_1]{soup} made from [meat]{meat} and [vegetable]{vegetables}",
+      "entry": "bouillon",
+      "id": "bouillon#bouillon__1"
+    },
+    {
+      "comment": "[soup_1]{soup}, [especially]{especially} when it is [considered]{considered} to be [good_1]{good} for you",
+      "entry": "broth",
+      "id": "broth#broth__1"
+    },
+    {
+      "comment": "a thick soup usually made with fish or shellfish, milk or cream, and vegetables",
+      "entry": "chowder",
+      "id": "chowder#chowder__1"
+    },
+    {
+      "comment": "a type of Scottish soup made from chicken with leeks and other vegetables",
+      "entry": "cock-a-leekie",
+      "id": "cock-a-leekie#cock-a-leekie__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [clear_1]{clear} [soup_1]{soup} made from [meat]{meat} [juice_1]{juices}",
+      "entry": "consomm\u00e9",
+      "id": "consomme#consomme__1"
+    },
+    {
+      "comment": "a [soup_1]{soup} [contain]{containing} [cream_1]{cream}",
+      "entry": "cream of something",
+      "id": "cream-of-something#cream-of-something__1"
+    },
+    {
+      "comment": "a cold Spanish soup made mainly with raw tomatoes, onions, garlic and cucumber",
+      "entry": "gazpacho",
+      "id": "gazpacho#gazpacho__1"
+    },
+    {
+      "comment": "a thick soup made with chicken or fish and the vegetable okra, eaten mainly in the southern U.S.",
+      "entry": "gumbo",
+      "id": "gumbo#gumbo__1"
+    },
+    {
+      "comment": "a thick [soup_1]{soup} made from [meat]{meat}, [potato]{potatoes}, [onion]{onions}, and other [root_1]{root} [vegetable]{vegetables}",
+      "entry": "Irish stew",
+      "id": "irish-stew#irish-stew__1"
+    },
+    {
+      "comment": "a [type_1]{type} of Italian [soup_1]{soup} made from [vegetable]{vegetables} and [small_1]{small} [piece_1]{pieces} of [pasta]{pasta}",
+      "entry": "minestrone",
+      "id": "minestrone#minestrone__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [clear_1]{clear} [soup_1]{soup} with a [hot]{hot} [flavor_1]{flavor}",
+      "entry": "mulligatawny",
+      "id": "mulligatawny#mulligatawny__1"
+    },
+    {
+      "comment": "the tail of an ox eaten as food, often in soup",
+      "entry": "oxtail",
+      "id": "oxtail#oxtail__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [food]{food} that is made by [cooking_1]{cooking} [meat]{meat}, [fish_1]{fish}, [vegetable]{vegetables}, etc. with [water_1]{water} or [milk_1]{milk}",
+      "entry": "soup",
+      "id": "soup_1#soup_1__1"
+    }
+  ],
+  "thesaurus": "Soups",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "this is it",
+  "senses": [
+    {
+      "def": "[used]{used} before an [action_1]{action} or [event]{event} that will have an [important]{important} [effect_1]{effect} on the [final_1]{final} [result_1]{result}",
+      "examples": [
+        "Then they [said_1]{said}, \u201cCome on, show us what you can do.\u201d And I [thought_1]{thought}, \u201cThis is it.\u201d"
+      ],
+      "id": "this-is-it__1"
+    },
+    {
+      "def": "[used]{used} when [agree]{agreeing} with someone, by [saying]{saying} that they have [refer]{referred} to the most [important]{important} [aspect]{aspect} of a [situation]{situation}",
+      "examples": [
+        "\u201cThe [trouble_1]{trouble} is, the [government]{government} [won]{won}\u2019t [listen_1]{listen}.\u201d \u201cWell, this is it.\u201d"
+      ],
+      "id": "this-is-it__3"
+    }
+  ]
+}

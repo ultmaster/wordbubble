@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [public_1]{public} show where art or other [interesting]{interesting} [thing]{things} are put so that [people_1]{people} can go [look_1]{look} at them",
+      "entry": "exhibition",
+      "id": "exhibition#exhibition__1"
+    },
+    {
+      "comment": "an [exhibit_1]{exhibit}",
+      "entry": "show",
+      "id": "show_2#show_2__10"
+    },
+    {
+      "comment": "an [event]{event} where [people_1]{people} or [company]{companies} [bring]{bring} their [product]{products} for you to [look_1]{look} at or [buy_1]{buy}",
+      "entry": "fair",
+      "id": "fair_2#fair_2__2"
+    },
+    {
+      "comment": "a [series]{series} of [public_1]{public} [event]{events}, each of which [happen]{happens} in a [different]{different} [place_1]{place}",
+      "entry": "roadshow",
+      "id": "roadshow#roadshow__2"
+    },
+    {
+      "comment": "a [public_1]{public} [event]{event} or show of [industrial]{industrial} [product]{products} or [technology]{technology}",
+      "entry": "exposition",
+      "id": "exposition#exposition__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} on which [people_1]{people} are [invite_1]{invited} to go and [look_1]{look} at something",
+      "entry": "viewing",
+      "id": "viewing#viewing__7"
+    },
+    {
+      "comment": "an [exposition]{exposition} of [industrial]{industrial} [product]{products} or [technology]{technology}",
+      "entry": "expo",
+      "id": "expo#expo__1"
+    },
+    {
+      "comment": "an [exhibition]{exhibition} of art or other [interesting]{interesting} [thing]{things}",
+      "entry": "exhibit",
+      "id": "exhibit_2#exhibit_2__3"
+    },
+    {
+      "comment": "an [event]{event} at which [company]{companies} show their [new]{new} [product]{products}",
+      "entry": "trade show",
+      "id": "trade-show#trade-show__1"
+    },
+    {
+      "comment": "an [event]{event} at which [certain_1]{certain} [people_1]{people} are [invite_1]{invited} to see something such as a [movie]{movie} or an [exhibit_1]{exhibit} before it is [open_2]{opened} to the [public_1]{public}",
+      "entry": "private showing",
+      "id": "private-showing#private-showing__1"
+    }
+  ],
+  "thesaurus": "Expositions and shows",
+  "type": "Synonyms"
+}

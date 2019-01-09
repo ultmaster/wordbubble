@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[happening_1]{happening} between [people_1]{people} of [different]{different} [race_1]{races}",
+      "examples": [
+        "The [report_1]{report} [claim_1]{claimed} that racial [prejudice_1]{prejudice} was still [widespread]{widespread}.",
+        "The [government]{government} should do more to [promote]{promote} racial [equality]{equality}.",
+        "Martinez [claim_1]{claimed} he was a [victim]{victim} of racial [violence]{violence}."
+      ],
+      "id": "racial__1"
+    },
+    {
+      "def": "[relate]{relating} to someone\u2019s [race_1]{race}",
+      "examples": [
+        "The [school_1]{school} has [children]{children} from many [different]{different} racial [group_1]{groups}.",
+        "[people_1]{people} of [different]{different} racial [origin]{origins}"
+      ],
+      "id": "racial__6"
+    }
+  ],
+  "word": "racial"
+}

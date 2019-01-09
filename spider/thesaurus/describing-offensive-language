@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[dirty_1]{dirty} [language]{language} or [picture_1]{pictures} [deal_1]{deal} with [sex_1]{sex} in a way that [offend]{offends} some [people_1]{people}",
+      "entry": "dirty",
+      "id": "dirty_1#dirty_1__6"
+    },
+    {
+      "comment": "[offensive_1]{offensive} in a [sexual]{sexual} way",
+      "entry": "obscene",
+      "id": "obscene#obscene__1"
+    },
+    {
+      "comment": "[use_1]{using} [offensive_1]{offensive} or [insulting]{insulting} [language]{language}",
+      "entry": "abusive",
+      "id": "abusive#abusive__1"
+    },
+    {
+      "comment": "[vitriolic]{vitriolic} [language]{language} or [behavior]{behavior} is [cruel]{cruel} and full of hate",
+      "entry": "vitriolic",
+      "id": "vitriolic#vitriolic__1"
+    },
+    {
+      "comment": "[use_1]{using} a [lot_1]{lot} of [swear_1]{swear} [word_1]{words}",
+      "entry": "foul-mouthed",
+      "id": "foul-mouthed#foul-mouthed__1"
+    },
+    {
+      "comment": "[crude_1]{crude} [word_1]{words} or [action_1]{actions} are [offensive_1]{offensive} because they [refer]{refer} to [sex_1]{sex} in an [unpleasant]{unpleasant} way",
+      "entry": "crude",
+      "id": "crude_1#crude_1__3"
+    },
+    {
+      "comment": "[dealing]{dealing} with [sex_1]{sex} in a way that some [people_1]{people} find [offensive_1]{offensive}",
+      "entry": "blue",
+      "id": "blue_1#blue_1__7"
+    },
+    {
+      "comment": "[language]{language} or [humor_1]{humor} that is [ripe]{ripe} is [funny]{funny} but [slightly]{slightly} [rude]{rude}",
+      "entry": "ripe",
+      "id": "ripe#ripe__5"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about [behavior]{behavior} or [language]{language} that is very [sexual]{sexual} and only [appropriate_1]{appropriate} for [adult_1]{adults}",
+      "entry": "X-rated",
+      "id": "x-rated#x-rated__2"
+    }
+  ],
+  "thesaurus": "Describing offensive language",
+  "type": "Synonyms"
+}

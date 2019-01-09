@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an isolated [place_1]{place} is a long way from other [place_1]{places} and is often [difficult]{difficult} to get to",
+      "examples": [
+        "isolated [mountain]{mountain} [village_1]{villages}"
+      ],
+      "id": "isolated__1"
+    },
+    {
+      "def": "[happening_1]{happening} only once, or [existing]{existing} only in one [place_1]{place}",
+      "examples": [
+        "[unfortunately]{Unfortunately}, this is not an isolated [incident]{incident}."
+      ],
+      "id": "isolated__3"
+    },
+    {
+      "def": "[feeling_1]{feeling} alone and [unhappy]{unhappy}, with no [friend_1]{friends} to [support_1]{support} you",
+      "examples": [
+        "She has a very isolated [existence]{existence}.",
+        "Many [victim]{victims} [feel_1]{feel} isolated and [unable]{unable} to [talk_1]{talk} about their [experience_1]{experiences}.",
+        "During the Franco era, Spain was [politically]{politically} isolated from most of its [neighbor]{neighbors}."
+      ],
+      "id": "isolated__5"
+    }
+  ],
+  "word": "isolated"
+}

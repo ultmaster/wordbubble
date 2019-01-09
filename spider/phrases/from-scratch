@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "from scratch",
+  "senses": [
+    {
+      "def": "from a [point_1]{point} where nothing has been done, so that you have to do everything yourself",
+      "examples": [
+        "It [took]{took} only three [year]{years} to [write]{write} it from [scratch_1]{scratch}."
+      ],
+      "id": "from-scratch__1"
+    },
+    {
+      "def": "from the [beginning]{beginning} again, not [use_1]{using} all the [work_1]{work} that you have done before",
+      "examples": [
+        "We\u2019ll have to do the whole thing again from [scratch_1]{scratch}."
+      ],
+      "id": "from-scratch__3"
+    }
+  ]
+}

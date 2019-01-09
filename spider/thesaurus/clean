@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [dirty_1]{dirty}",
+      "entry": "clean",
+      "id": "clean_1#clean_1__1"
+    },
+    {
+      "comment": "[completely]{completely} [clean_1]{clean}, with no [bacteria]{bacteria}",
+      "entry": "sterile",
+      "id": "sterile#sterile__1"
+    },
+    {
+      "comment": "so [clean_1]{clean} and [neat]{neat} that there is no [dirt]{dirt}",
+      "entry": "immaculate",
+      "id": "immaculate#immaculate__1"
+    },
+    {
+      "comment": "[clean_1]{clean} and not [likely_1]{likely} to cause [illness]{illness} or [disease]{disease}",
+      "entry": "hygienic",
+      "id": "hygienic#hygienic__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [clean_1]{clean}",
+      "entry": "spotless",
+      "id": "spotless#spotless__1"
+    },
+    {
+      "comment": "something that is [pristine]{pristine} [look_1]{looks} very [clean_1]{clean}, [neat]{neat}, or [new]{new}",
+      "entry": "pristine",
+      "id": "pristine#pristine__1"
+    },
+    {
+      "comment": "[clean_1]{clean} and [shiny]{shiny} because of being [rub_1]{rubbed}, [usually]{usually} with a [chemical_1]{chemical} [substance]{substance}",
+      "entry": "polished",
+      "id": "polished#polished__1"
+    },
+    {
+      "comment": "[clean_1]{clean}, [bright_1]{bright}, and [attractive]{attractive} in [appearance]{appearance}",
+      "entry": "fresh",
+      "id": "fresh_1#fresh_1__20"
+    },
+    {
+      "comment": "[shiny]{shiny}, [clean_1]{clean}, and [look_1]{looking} very [healthy]{healthy} or [new]{new}",
+      "entry": "gleaming",
+      "id": "gleaming#gleaming__1"
+    },
+    {
+      "comment": "very [clean_1]{clean} and [neat]{neat}",
+      "entry": "spick and span",
+      "id": "spick-and-span#spick-and-span__1"
+    }
+  ],
+  "thesaurus": "Clean",
+  "type": "Synonyms"
+}

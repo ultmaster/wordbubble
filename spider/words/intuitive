@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[base_2]{based} on your [feeling_1]{feelings} [instead]{instead} of on [fact]{facts} or [evidence_1]{evidence}",
+      "examples": [
+        "an intuitive [guess_1]{guess}/[judgment]{judgment}/[understanding_1]{understanding}",
+        "His [temperament]{temperament} is more intuitive than [scientific]{scientific}."
+      ],
+      "id": "intuitive__1"
+    },
+    {
+      "def": "an intuitive system, [method]{method}, [piece_1]{piece} of [software]{software}, etc. is [easy_1]{easy} to use because the [process_1]{process} of [operate]{operating} it is very [obvious]{obvious}",
+      "examples": [
+        "The [new]{new} [version]{version} has a more intuitive [user]{user} [interface_1]{interface}."
+      ],
+      "id": "intuitive__5"
+    }
+  ],
+  "word": "intuitive"
+}

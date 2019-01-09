@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "not go far",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you cannot [buy_1]{buy} very much with a [particular_1]{particular} amount of [money]{money}",
+      "examples": [
+        "Twenty [dollar]{dollars} doesn\u2019t go very [far]{far} these [day]{days}."
+      ],
+      "id": "not-go-far_2__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that a [supply_1]{supply} of something is not enough",
+      "examples": [
+        "A few [sandwich_1]{sandwiches} [won]{won}\u2019t go [far]{far} among all of us."
+      ],
+      "id": "not-go-far_2__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "the [number_1]{number} 1,000,000",
+      "examples": [],
+      "id": "million__1"
+    },
+    {
+      "def": "a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things}",
+      "examples": [
+        "I\u2019ve [got_1]{got} a million [thing]{things} to do before I [leave_1]{leave}.",
+        "[million#million__2]{Millions} are [threaten]{threatened} by [disease]{disease} and [hunger_1]{hunger}.",
+        "They [received]{received} [million#million__2]{millions} of [letter_1]{letters} [ask_1]{asking} for [information]{information}.",
+        "She\u2019s made [million#million__2]{millions} on the [stock_1]{stock} [market_1]{market}."
+      ],
+      "id": "million__2"
+    }
+  ],
+  "word": "million"
+}

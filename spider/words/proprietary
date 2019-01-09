@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[own_2]{owned} by a [person]{person} or [company]{company} and [sold]{sold} under a [trademark]{trademark} or [patent_1]{patent}",
+      "examples": [
+        "proprietary [brand_1]{brands}/[drug_1]{drugs}",
+        "a proprietary interest/[right_1]{right}"
+      ],
+      "id": "proprietary__1"
+    },
+    {
+      "def": "[typical]{typical} of an [owner]{owner}",
+      "examples": [
+        "a proprietary [air_1]{air}/[attitude]{attitude}"
+      ],
+      "id": "proprietary__5"
+    }
+  ],
+  "word": "proprietary"
+}

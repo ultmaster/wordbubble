@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "right now",
+  "senses": [
+    {
+      "def": "at the [present_1]{present} time",
+      "examples": [
+        "We\u2019re [working]{working} on it [right_1]{right} now, so it should be ready [soon]{soon}."
+      ],
+      "id": "right-now__1"
+    },
+    {
+      "def": "[immediately]{immediately}",
+      "examples": [
+        "Go to [bed_1]{bed} [right_1]{right} now!"
+      ],
+      "id": "right-now__3"
+    }
+  ]
+}

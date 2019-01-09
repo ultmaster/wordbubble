@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a machine that prints a mark on a letter to show the date and place that it was mailed from. The usual American word is postage meter.",
+      "entry": "franking machine",
+      "id": "franking-machine#franking-machine__1"
+    },
+    {
+      "comment": "a [mailbox]{mailbox}",
+      "entry": "letterbox",
+      "id": "letterbox#letterbox__3"
+    },
+    {
+      "comment": "a [large_1]{large} [bag_1]{bag} made of rough [cloth]{cloth}, [used]{used} for [carry_1]{carrying} [letter_1]{letters}, [package_1]{packages}, etc. on [train_1]{trains}, [airplane]{airplanes}, [van]{vans}, etc.",
+      "entry": "mailbag",
+      "id": "mailbag#mailbag__1"
+    },
+    {
+      "comment": "a large strong bag used by a mail carrier for delivering letters, packages, etc.",
+      "entry": "mailbag",
+      "id": "mailbag#mailbag__2"
+    },
+    {
+      "comment": "a [container]{container} in a [public_1]{public} [place_1]{place} where you can [mail_1]{mail} [letter_1]{letters}",
+      "entry": "mailbox",
+      "id": "mailbox#mailbox__1"
+    },
+    {
+      "comment": "a box or other container for putting letters in when they are delivered to a house. The British word is letterbox.",
+      "entry": "mailbox",
+      "id": "mailbox#mailbox__2"
+    },
+    {
+      "comment": "a [container]{container} in a [building]{building} in which [mail_1]{mail} is put when it is [deliver]{delivered}",
+      "entry": "mail drop",
+      "id": "mail-drop#mail-drop__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [mail_1]{mail} or [message_1]{messages} can be [left_1]{left} for you to [collect_1]{collect}",
+      "entry": "mail drop",
+      "id": "mail-drop#mail-drop__2"
+    },
+    {
+      "comment": "[money]{money} that you [pay_1]{pay} in [order_1]{order} to [send_1]{send} [letter_1]{letters} and [package_1]{packages} through the [mail_1]{mail}",
+      "entry": "postage",
+      "id": "postage#postage__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [put]{puts} a [mark_1]{mark} on a [piece_1]{piece} of [mail_1]{mail}, [showing]{showing} the [date_1]{date} it was [sent]{sent} and the [postage]{postage} [paid_1]{paid}",
+      "entry": "postage meter",
+      "id": "postage-meter#postage-meter__1"
+    },
+    {
+      "comment": "[relate]{relating} to the system that [take_1]{takes} the [mail_1]{mail} to the [people_1]{people} it is [address_2]{addressed} to",
+      "entry": "postal",
+      "id": "postal#postal__1"
+    },
+    {
+      "comment": "a [mailbag]{mailbag}",
+      "entry": "postbag",
+      "id": "postbag#postbag__1"
+    },
+    {
+      "comment": "a [mailbox]{mailbox}",
+      "entry": "postbox",
+      "id": "postbox#postbox__1"
+    },
+    {
+      "comment": "an official mark that the post office puts on a letter or package to show when and where it was mailed",
+      "entry": "postmark",
+      "id": "postmark#postmark__1"
+    },
+    {
+      "comment": "to [stick_1]{stick} a [stamp_1]{stamp} on an [envelope]{envelope} that you are [mailing]{mailing}",
+      "entry": "stamp",
+      "id": "stamp_2#stamp_2__1"
+    }
+  ],
+  "thesaurus": "Equipment and services connected with the post office",
+  "type": "Related words"
+}

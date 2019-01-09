@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "could have (done something)",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that something was [possible_1]{possible} in the [past_1]{past}, even though it [did]{did} not [happen]{happen}",
+      "examples": [
+        "You could have been [kill_1]{killed}.",
+        "I could have [told]{told} you, but I didn\u2019t [think_1]{think} you would [listen_1]{listen}.",
+        "She could have [married]{married} Gerald if she\u2019d [wanted]{wanted} to."
+      ],
+      "id": "could-have-done-something__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that perhaps something was [true_1]{true}, although you do not [really]{really} [know_1]{know}",
+      "examples": [
+        "The [explosion]{explosion} could have been [cause_2]{caused} by a [gas_1]{gas} [leak_1]{leak}.",
+        "It could have been [dan]{Dan}, but I\u2019m not [sure_1]{sure}."
+      ],
+      "id": "could-have-done-something__5"
+    }
+  ]
+}

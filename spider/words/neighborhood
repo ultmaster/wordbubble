@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [particular_1]{particular} [area]{area} of a [city]{city} or [town]{town}",
+      "examples": [
+        "a [poor_1]{poor}/[middle-class]{middle-class}/[wealthy]{wealthy} neighborhood",
+        "a Chinese/Italian neighborhood",
+        "The whole neighborhood [get]{gets} together for a [party_1]{party} in July."
+      ],
+      "id": "neighborhood__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that an amount, time, etc. is about the same as another",
+      "examples": [
+        "We\u2019ll be [leave_1]{leaving} at about 2:00 or 2:10, in that neighborhood.",
+        "The [settlement]{settlements} were in the neighborhood of [half]{half} a [million]{million} [dollar]{dollars} per [victim]{victim}."
+      ],
+      "id": "neighborhood__6"
+    }
+  ],
+  "word": "neighborhood"
+}

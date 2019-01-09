@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an equivocal [statement_1]{statement} has more than one [possible_1]{possible} [meaning_1]{meaning} and is made in [order_1]{order} to [avoid]{avoid} [saying]{saying} something [clearly]{clearly}",
+      "examples": [
+        "an equivocal [answer_1]{answer}/[response]{response}"
+      ],
+      "id": "equivocal__1"
+    },
+    {
+      "def": "not [clearly]{clearly} [showing]{showing} the [real_1]{real} [situation]{situation} or [providing]{providing} a [definite]{definite} [result_1]{result}",
+      "examples": [
+        "[despite]{Despite} [extensive]{extensive} [research_1]{research}, the [evidence_1]{evidence} [remains]{remains} equivocal."
+      ],
+      "id": "equivocal__3"
+    }
+  ],
+  "word": "equivocal"
+}

@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "chip away",
+  "senses": [
+    {
+      "def": "to [remove]{remove} [small_1]{small} [piece_1]{pieces} from something [hard_1]{hard} by [hit_1]{hitting} it with a [tool_1]{tool}",
+      "examples": [
+        "Use a [hammer_1]{hammer} to [chip_1]{chip} [away_1]{away} the [edge_1]{edge}.",
+        "She was [chip_2]{chipping} [away_1]{away} at the [ground_1]{ground} with a [trowel]{trowel}."
+      ],
+      "id": "chip-away__1"
+    },
+    {
+      "def": "to [gradually]{gradually} [make_1]{make} something [weak]{weaker}, [small_1]{smaller}, or less [effective]{effective}",
+      "examples": [
+        "The [company]{company}\u2019s [dominance]{dominance} of the [market_1]{market} is [gradually]{gradually} being [chipped]{chipped} [away_1]{away}.",
+        "Her [comment_1]{comments} were [beginning]{beginning} to [chip_1]{chip} [away_1]{away} at his [self-confidence]{self-confidence}."
+      ],
+      "id": "chip-away__4"
+    }
+  ]
+}

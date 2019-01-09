@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if a [door_1]{door}, [window]{window}, [lid]{lid}, etc. is [closed]{closed}, it is [covering]{covering} an [open_1]{open} [area]{area}, [passage]{passage}, or hole",
+      "entry": "closed",
+      "id": "closed#closed__1"
+    },
+    {
+      "comment": "[fasten]{fastened} [firm_1#firm_1__28]{firmly}, in a [safe_1]{safe} way",
+      "entry": "secure",
+      "id": "secure_2#secure_2__13"
+    },
+    {
+      "comment": "[closed]{closed} with a [lid]{lid}, [cover_1]{cover}, etc. so that nothing can get in or out",
+      "entry": "sealed",
+      "id": "sealed#sealed__1"
+    },
+    {
+      "comment": "[closed]{closed} [tight_1#tight_1__40]{tightly} together",
+      "entry": "clenched",
+      "id": "clenched#clenched__1"
+    },
+    {
+      "comment": "not [open_2]{opened} yet",
+      "entry": "unopened",
+      "id": "unopened#unopened__1"
+    },
+    {
+      "comment": "[closed]{closed}",
+      "entry": "shut",
+      "id": "shut_2#shut_2__1"
+    },
+    {
+      "comment": "not [allow]{allowing} [air_1]{air} to [enter]{enter} or [leave_1]{leave}",
+      "entry": "airtight",
+      "id": "airtight#airtight__1"
+    },
+    {
+      "comment": "[closed]{closed} [tight_1#tight_1__40]{tightly}, so that no [air_1]{air} can get in or out",
+      "entry": "hermetic",
+      "id": "hermetic#hermetic__3"
+    },
+    {
+      "comment": "[fasten]{fastened} or [closed]{closed} [completely]{completely}",
+      "entry": "up",
+      "id": "up_1#up_1__57"
+    },
+    {
+      "comment": "in a [room_1]{room} or [container]{container} which is [fasten]{fastened} with a [lock_1]{lock}",
+      "entry": "under lock and key",
+      "id": "under-lock-and-key#under-lock-and-key__1"
+    }
+  ],
+  "thesaurus": "Closed",
+  "type": "Synonyms"
+}

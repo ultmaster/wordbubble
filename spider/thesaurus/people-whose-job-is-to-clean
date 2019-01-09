@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [clean_1]{clean} the [bedroom]{bedrooms} in a [hotel]{hotel}",
+      "entry": "chambermaid",
+      "id": "chambermaid#chambermaid__1"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [clean_1]{clean} a [building]{building}, [especially]{especially} someone else\u2019s [house_1]{house}",
+      "entry": "charwoman",
+      "id": "charwoman#charwoman__1"
+    },
+    {
+      "comment": "someone whose job is to clean the inside of chimneys",
+      "entry": "chimney sweep",
+      "id": "chimney-sweep#chimney-sweep__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [clean_1]{clean} the [room_1]{rooms} in a [building]{building}",
+      "entry": "cleaner",
+      "id": "cleaner#cleaner__3"
+    },
+    {
+      "comment": "a [woman]{woman} who [work_1]{works} as a [cleaner]{cleaner}",
+      "entry": "cleaning lady",
+      "id": "cleaning-lady#cleaning-lady__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} on a [ship_1]{ship} [doing]{doing} [job_1]{jobs} such as [cleaning]{cleaning}",
+      "entry": "deckhand",
+      "id": "deckhand#deckhand__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [cook_1]{cook} and [clean_1]{clean} in a [house_1]{house}, [hospital]{hospital}, etc.",
+      "entry": "domestic",
+      "id": "domestic_2#domestic_2__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [clean_1]{clean} someone else\u2019s [house_1]{house} and sometimes [cook_1]{cook} their [meal]{meals}",
+      "entry": "housekeeper",
+      "id": "housekeeper#housekeeper__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [clean_1]{clean} the [room_1]{rooms} in a [hotel]{hotel} or to [manage]{manage} the [staff_1]{staff} who do this",
+      "entry": "housekeeper",
+      "id": "housekeeper#housekeeper__2"
+    },
+    {
+      "comment": "a [woman]{woman} [servant]{servant} whose [job_1]{job} is to keep someone\u2019s [house_1]{house} [clean_1]{clean} and [neat]{neat}",
+      "entry": "housemaid",
+      "id": "housemaid#housemaid__1"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [clean_1]{clean} [room_1]{rooms}, [serve_1]{serve} [meal]{meals}, [wash_1]{wash} [clothes]{clothes}, etc. in a [house_1]{house}",
+      "entry": "maid",
+      "id": "maid#maid__1"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [clean_1]{clean} [room_1]{rooms} in a [hotel]{hotel}",
+      "entry": "maid",
+      "id": "maid#maid__2"
+    },
+    {
+      "comment": "a [chimney]{chimney} [sweep_1]{sweep}",
+      "entry": "sweep",
+      "id": "sweep_2#sweep_2__6"
+    },
+    {
+      "comment": "someone who [work_1]{works} at a [hotel]{hotel} whose [job_1]{job} is to [clean_1]{clean} the [guest_1]{guests}\u2019 [clothes]{clothes}",
+      "entry": "valet",
+      "id": "valet#valet__3"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [clean_1]{clean} [window]{windows}",
+      "entry": "window cleaner",
+      "id": "window-cleaner#window-cleaner__1"
+    }
+  ],
+  "thesaurus": "People whose job is to clean",
+  "type": "Related words"
+}

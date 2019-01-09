@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "live on",
+  "senses": [
+    {
+      "def": "to have a [particular_1]{particular} amount of [money]{money} to [buy_1]{buy} the [thing]{things} that you [need_1]{need} to [live_1]{live}",
+      "examples": [
+        "They have to [live_1]{live} on a [social_1]{Social} [security]{Security} [check_1]{check} of $500 a [month]{month}."
+      ],
+      "id": "live-on_2__1"
+    },
+    {
+      "def": "to [eat]{eat} a [particular_1]{particular} [kind_1]{kind} of [food]{food}",
+      "examples": [
+        "These [fish_1]{fish} [live_1]{live} on [small_1]{small} [sea_1]{sea} [creature]{creatures} such as [shrimp]{shrimp}.",
+        "They seem to [live_1]{live} on nothing but [hamburger]{hamburgers} and [fries]{fries}."
+      ],
+      "id": "live-on_2__3"
+    }
+  ]
+}

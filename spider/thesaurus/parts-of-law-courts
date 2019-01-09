@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [place_1]{place} where the [judge_1]{judge} [sit]{sits} in a [court_1]{court} of [law]{law}",
+      "entry": "bench",
+      "id": "bench_1#bench_1__5"
+    },
+    {
+      "comment": "a [room_1]{room} where [prisoner]{prisoners} are [kept]{kept} [temporarily]{temporarily} while they are [wait_1]{waiting} to go into a [court_1]{court} of [law]{law}",
+      "entry": "bullpen",
+      "id": "bullpen#bullpen__2"
+    },
+    {
+      "comment": "the [office]{offices} [used]{used} by [judge_1]{judges}",
+      "entry": "chambers",
+      "id": "chamber#chamber__9"
+    },
+    {
+      "comment": "a court of law that considers equity  (=the principle of what is fair) and not just existing laws when making decisions",
+      "entry": "chancery",
+      "id": "chancery#chancery__1"
+    },
+    {
+      "comment": "the part of a [court_1]{court} of [law]{law} where the [person]{person} who is [accuse]{accused} of a [crime_1]{crime} [stand_1]{stands} or [sit]{sits}",
+      "entry": "the dock",
+      "id": "dock_1#dock_1__4"
+    },
+    {
+      "comment": "the [place_1]{place} where the [jury]{jury} [sit]{sits} during a [trial_1]{trial}",
+      "entry": "jury box",
+      "id": "jury-box#jury-box__1"
+    },
+    {
+      "comment": "the [place_1]{place} in a [courtroom]{courtroom} or another [building]{building} where the [public_1]{public} can [sit]{sit} to [watch_1]{watch}",
+      "entry": "public gallery",
+      "id": "public-gallery#public-gallery__1"
+    },
+    {
+      "comment": "the part of a court of law where people stand to answer lawyers\u2019 questions. The usual British word is witness box.",
+      "entry": "stand",
+      "id": "stand_2#stand_2__14"
+    },
+    {
+      "comment": "[witness_1]{witness} [stand_1]{stand}",
+      "entry": "witness box",
+      "id": "witness-box#witness-box__1"
+    },
+    {
+      "comment": "the place in a court of law where the witness stands or sits when they are answering questions",
+      "entry": "witness stand",
+      "id": "witness-stand#witness-stand__1"
+    }
+  ],
+  "thesaurus": "Parts of law courts",
+  "type": "Related words"
+}

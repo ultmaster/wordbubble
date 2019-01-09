@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "comment": "[involve]{involving} [movement]{movement} in a [circle_1]{circle}",
+      "entry": "circular",
+      "id": "circular_1#circular_1__3"
+    },
+    {
+      "comment": "[turning]{turning} in a [circle_1]{circle} around a [central]{central} [point_1]{point}",
+      "entry": "revolving",
+      "id": "revolving#revolving__1"
+    },
+    {
+      "comment": "[moving]{moving} in a [circular_1]{circular} way",
+      "entry": "around",
+      "id": "around#around__2"
+    },
+    {
+      "comment": "[turning]{turning} around a [fixed]{fixed} [point_1]{point}",
+      "entry": "rotary",
+      "id": "rotary_1#rotary_1__1"
+    }
+  ],
+  "thesaurus": "Describing circular movements",
+  "type": "Synonyms"
+}

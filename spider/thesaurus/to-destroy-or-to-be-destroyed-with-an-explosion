@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something [blow_1]{blows} up, or if someone [blow_1]{blows} something up, it [explode]{explodes} and is [destroy]{destroyed}",
+      "entry": "blow up",
+      "id": "blow-up_1#blow-up_1__1"
+    },
+    {
+      "comment": "to [burst_1]{burst} with a [lot_1]{lot} of [force_1]{force} and a [loud_1]{loud} [noise]{noise}",
+      "entry": "explode",
+      "id": "explode#explode__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} something with an [explosion]{explosion}",
+      "entry": "blow apart",
+      "id": "blow-apart#blow-apart__1"
+    },
+    {
+      "comment": "if something self-destructs, it [destroy]{destroys} [itself]{itself}, [especially]{especially} by [explode]{exploding}",
+      "entry": "self-destruct",
+      "id": "self-destruct#self-destruct__1"
+    },
+    {
+      "comment": "to [damage_1]{damage} or [destroy]{destroy} something with a [bomb_1]{bomb} or [gun_1]{gun}",
+      "entry": "blast",
+      "id": "blast_2#blast_2__1"
+    },
+    {
+      "comment": "to [remove]{remove} and [destroy]{destroy} something by [shooting]{shooting} it or [making]{making} it [explode]{explode}",
+      "entry": "blow off",
+      "id": "blow-off#blow-off__4"
+    },
+    {
+      "comment": "to hit, [harm_1]{harm}, or [destroy]{destroy} someone or something, [usually]{usually} [use_1]{using} a [weapon]{weapon} or a [piece_1]{piece} of [equipment]{equipment} [developed]{developed} by [modern]{modern} [technology]{technology}",
+      "entry": "zap",
+      "id": "zap#zap__1"
+    },
+    {
+      "comment": "if something such as a fire, [storm_1]{storm}, or [bomb_1]{bomb} [rip_1]{rips} through a [place_1]{place}, it [damage_2]{damages} or [destroy]{destroys} the [place_1]{place} very [quickly]{quickly}",
+      "entry": "rip through",
+      "id": "rip-through#rip-through__1"
+    },
+    {
+      "comment": "if a bomb or firework bursts, it explodes",
+      "entry": "burst",
+      "id": "burst_1#burst_1__5"
+    },
+    {
+      "comment": "to [destroy]{destroy} part of something in an [explosion]{explosion}",
+      "entry": "blow a hole in something",
+      "id": "blow-a-hole-in-something#blow-a-hole-in-something__1"
+    }
+  ],
+  "thesaurus": "To destroy, or to be destroyed with an explosion",
+  "type": "Synonyms"
+}

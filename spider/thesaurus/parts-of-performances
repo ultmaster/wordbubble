@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "a [list_1]{list} of [event]{events} and [performer]{performers} at a [concert]{concert}, show, etc.",
+      "entry": "bill",
+      "id": "bill_1#bill_1__14"
+    },
+    {
+      "comment": "the time just after a play or show when the performers come to the front of the stage and the audience applauds",
+      "entry": "curtain call",
+      "id": "curtain-call#curtain-call__1"
+    },
+    {
+      "comment": "a [short_1]{short} [performance]{performance} [given_1]{given} after the [main_1]{main} [performance]{performance}, because the [audience]{audience} [ask_1]{asks} for more",
+      "entry": "encore",
+      "id": "encore_1#encore_1__1"
+    },
+    {
+      "comment": "the [end_1]{end} of a [performance]{performance} in a [theater]{theater}",
+      "entry": "the final curtain",
+      "id": "the-final-curtain#the-final-curtain__1"
+    },
+    {
+      "comment": "the last part of a [performance]{performance}, [usually]{usually} one that [involve]{involves} a [lot_1]{lot} of [performer]{performers} [sing_1]{singing} or [dancing]{dancing} together",
+      "entry": "finale",
+      "id": "finale#finale__1"
+    },
+    {
+      "comment": "the last and most [exciting]{exciting} part of a [play_1]{play}, [opera]{opera}, or other [entertainment]{entertainment}, [usually]{usually} [involve]{involving} all the [performer]{performers}",
+      "entry": "grand finale",
+      "id": "grand-finale#grand-finale__1"
+    },
+    {
+      "comment": "a [short_1]{short} [break_1]{break} in the [middle_1]{middle} of a [play_1]{play}, [movie]{movie}, [concert]{concert}, etc.",
+      "entry": "intermission",
+      "id": "intermission#intermission__1"
+    },
+    {
+      "comment": "an [intermission]{intermission}",
+      "entry": "interval",
+      "id": "interval#interval__8"
+    },
+    {
+      "comment": "an [entertainer]{entertainer}\u2019s [song]{songs}, [joke_1]{jokes}, etc",
+      "entry": "material",
+      "id": "material_1#material_1__11"
+    },
+    {
+      "comment": "the [action_1]{action} of [drop_1]{dropping} or [throw_1]{throwing} [away_1]{away} the [microphone]{microphone} at the [end_1]{end} of a [performance]{performance}, to show you [think_1]{think} it was [particularly]{particularly} [impressive]{impressive}",
+      "entry": "mic drop",
+      "id": "mic-drop#mic-drop__1"
+    },
+    {
+      "comment": "the first [act_1]{act} in a [performance]{performance} that has several [act_1]{acts}",
+      "entry": "opener",
+      "id": "opener#opener__6"
+    },
+    {
+      "comment": "all the [song]{songs}, [piece_1]{pieces} of [music]{music}, etc. that a [performer]{performer} [know_1]{knows} and is [able_1]{able} to [perform]{perform}",
+      "entry": "repertoire",
+      "id": "repertoire#repertoire__1"
+    },
+    {
+      "comment": "a [repertoire]{repertoire}",
+      "entry": "repertory",
+      "id": "repertory#repertory__3"
+    },
+    {
+      "comment": "a [set_1]{set} of [thing]{things} such as [joke_1]{jokes} or [song]{songs} that a [performer]{performer} [practice_1]{practices} and [use_1]{uses} [regularly]{regularly}",
+      "entry": "routine",
+      "id": "routine_1#routine_1__5"
+    },
+    {
+      "comment": "a [series]{series} of [song]{songs} that a [band_1]{band} or [singer]{singer} [play_1]{plays} or [sing_1]{sings} in a [performance]{performance}",
+      "entry": "set",
+      "id": "set_2#set_2__12"
+    },
+    {
+      "comment": "a [list_1]{list} of the [track_1]{tracks} [play_1]{played} by a [band_1]{band} or a DJ during a [particular_1]{particular} [performance]{performance} or [event]{event}",
+      "entry": "set list",
+      "id": "set-list#set-list__1"
+    },
+    {
+      "comment": "a [short_1]{short} [funny]{funny} [scene]{scene} that is [perform]{performed} within a [long_1]{longer} show",
+      "entry": "sketch",
+      "id": "sketch_1#sketch_1__4"
+    },
+    {
+      "comment": "the most [successful]{successful} [performer]{performer} or [performance]{performance} in a show, [especially]{especially} the one that most [people_1]{people} [want_1]{want} to see",
+      "entry": "star turn",
+      "id": "star-turn#star-turn__1"
+    },
+    {
+      "comment": "the [beginning]{beginning} of an [activity]{activity}, [especially]{especially} a [performance]{performance} of something",
+      "entry": "the top",
+      "id": "top_1#top_1__22"
+    },
+    {
+      "comment": "a [short_1]{short} [performance]{performance} [consist]{consisting} of a [song]{song}, a [piece_1]{piece} of [music]{music}, a [series]{series} of [joke_1]{jokes}, etc. as part of a [set_1]{set} of [performance]{performances}",
+      "entry": "turn",
+      "id": "turn_2#turn_2__22"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that the show is over",
+      "entry": "X has left the building",
+      "id": "x-has-left-the-building#x-has-left-the-building__1"
+    }
+  ],
+  "thesaurus": "Parts of performances",
+  "type": "Related words"
+}

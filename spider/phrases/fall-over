@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fall over",
+  "senses": [
+    {
+      "def": "if you [fall_1]{fall} over or [fall_1]{fall} over something, you [fall_1]{fall}, or almost [fall_1]{fall}, to the [ground_1]{ground}",
+      "examples": [
+        "The [room_1]{room} is full of [box_1]{boxes} and [people_1]{people} keep [fall_1]{falling} over them."
+      ],
+      "id": "fall-over__1"
+    },
+    {
+      "def": "if something [fall_1]{falls} over, it [fall_1]{falls} so that its side is on the [ground_1]{ground}",
+      "examples": [
+        "The [clothes]{clothes} [horse_1]{horse} had [fallen_1]{fallen} over and my [clean_1]{clean} [washing]{washing} was on the [floor_1]{floor}."
+      ],
+      "id": "fall-over__3"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [sink_1]{sink} in a [bathroom]{bathroom}",
+      "entry": "basin",
+      "id": "basin#basin__7"
+    },
+    {
+      "comment": "a [bathtub]{bathtub}",
+      "entry": "bath",
+      "id": "bath_1#bath_1__7"
+    },
+    {
+      "comment": "a long deep container that you fill with water and wash yourself in. The usual British word is bath.",
+      "entry": "bathtub",
+      "id": "bathtub#bathtub__1"
+    },
+    {
+      "comment": "a [large_1]{large} [bowl_1]{bowl} in a [bathroom]{bathroom} that you [sit]{sit} on to [wash_1]{wash} your bottom",
+      "entry": "bidet",
+      "id": "bidet#bidet__1"
+    },
+    {
+      "comment": "a [large_1]{large} [plastic_1]{plastic} [container]{container} that you [wash_1]{wash} [dish_1]{dishes} in",
+      "entry": "dishpan",
+      "id": "dishpan#dishpan__1"
+    },
+    {
+      "comment": "the [object_1]{object} [used]{used} to [perform]{perform} a [douche]{douche}",
+      "entry": "douche",
+      "id": "douche#douche__2"
+    },
+    {
+      "comment": "a [deep_1]{deep} round [container]{container} [fill_1]{filled} with [hot]{hot} [water_1]{water} for [people_1]{people} to [relax]{relax} in",
+      "entry": "hot tub",
+      "id": "hot-tub#hot-tub__1"
+    },
+    {
+      "comment": "a type of hot bath with bubbly water, in which people sit to relax",
+      "entry": "Jacuzzi",
+      "id": "jacuzzi#jacuzzi__1"
+    },
+    {
+      "comment": "a [bath_1]{bath} in [hot]{hot} [mud]{mud}, [used]{used} as a [health]{health} [treatment]{treatment}",
+      "entry": "mudbath",
+      "id": "mudbath#mudbath__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [produce_1]{produces} a [flow_1]{flow} of [water_1]{water} that you [stand_1]{stand} under to [wash_1]{wash} your body",
+      "entry": "shower",
+      "id": "shower_1#shower_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [open_1]{open} [container]{container} for [water_1]{water}, [usually]{usually} [attached]{attached} to a [wall_1]{wall} and [connected]{connected} to [pipe_1]{pipes} that [bring]{bring} the [water_1]{water} and [carry_1]{carry} it [away_1]{away}",
+      "entry": "sink",
+      "id": "sink_2#sink_2__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bath_1]{bath} that you can [sit]{sit} in but not [lie_1]{lie} in",
+      "entry": "sitz bath",
+      "id": "sitz-bath#sitz-bath__1"
+    },
+    {
+      "comment": "a bathtub or pool in which streams of air pass through the water",
+      "entry": "spa",
+      "id": "spa#spa__3"
+    },
+    {
+      "comment": "a [bathtub]{bathtub}",
+      "entry": "tub",
+      "id": "tub#tub__1"
+    },
+    {
+      "comment": "a type of bath in which you sit in a very hot room, then wash yourself and have a massage",
+      "entry": "Turkish bath",
+      "id": "turkish-bath#turkish-bath__1"
+    },
+    {
+      "comment": "the [container]{container} in a [bathroom]{bathroom} that [hold_1]{holds} [water_1]{water} for [washing]{washing} your [face_1]{face} and [hand_1]{hands}",
+      "entry": "washbasin",
+      "id": "washbasin#washbasin__1"
+    },
+    {
+      "comment": "a [tall]{tall} [table_1]{table} with a [bowl_1]{bowl} for [water_1]{water} [used]{used} in the [past_1]{past} for [washing]{washing} your [face_1]{face} or [hand_1]{hands}",
+      "entry": "washstand",
+      "id": "washstand#washstand__1"
+    },
+    {
+      "comment": "a [bath_1]{bath} in which the [water_1]{water} is [move_1]{moved} around by a [small_1]{small} [motor_1]{motor}, to [relax]{relax} you",
+      "entry": "whirlpool",
+      "id": "whirlpool#whirlpool__4"
+    }
+  ],
+  "thesaurus": "Baths, showers and basins",
+  "type": "Related words"
+}

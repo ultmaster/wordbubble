@@ -1,0 +1,41 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[base_2]{based} on the most [recent]{recent} [method]{methods} or [idea]{ideas}",
+      "examples": [
+        "advanced [technology]{technology}",
+        "an advanced [communication]{communications} system",
+        "advanced [nation]{nations}"
+      ],
+      "id": "advanced__1"
+    },
+    {
+      "def": "at a [high_1]{high} [academic_1]{academic} [level_1]{level}",
+      "examples": [
+        "advanced [mathematics]{mathematics}",
+        "advanced [undergraduate]{undergraduate} [course_1]{courses}",
+        "an advanced [student]{student}"
+      ],
+      "id": "advanced__6"
+    },
+    {
+      "def": "an advanced [illness]{illness} is [difficult]{difficult} or [impossible]{impossible} to [treat_1]{treat} because it has had time to [develop]{develop} [completely]{completely}",
+      "examples": [],
+      "id": "advanced__11"
+    },
+    {
+      "def": "[have]{having} [achieve]{achieved} a [high_1]{high} [standard_1]{standard} or [level_1]{level}",
+      "examples": [
+        "She is very advanced for her [age_1]{age}."
+      ],
+      "id": "advanced__12"
+    },
+    {
+      "def": "if a [clock_1]{clock} or [watch_1]{watch} is advanced, it [show_1]{shows} a time that is [later_1]{later} than the [correct_1]{correct} time",
+      "examples": [],
+      "id": "advanced__14"
+    }
+  ],
+  "word": "advanced"
+}

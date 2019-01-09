@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "an [expression]{expression} on your [face_1]{face} in which you [raise_1]{raise} the [corner_1]{corners} of your [mouth_1]{mouth} because you are [happy_1]{happy}, [pleased]{pleased}, or being [friendly_1]{friendly}, or because you [think_1]{think} something is [funny]{funny}",
+      "entry": "smile",
+      "id": "smile_2#smile_2__1"
+    },
+    {
+      "comment": "a [big_1]{big} [smile_1]{smile} that [show_1]{shows} your [teeth]{teeth}",
+      "entry": "grin",
+      "id": "grin_2#grin_2__1"
+    },
+    {
+      "comment": "a [wide_1]{wide} [happy_1]{happy} [smile_1]{smile}",
+      "entry": "beam",
+      "id": "beam_2#beam_2__6"
+    },
+    {
+      "comment": "an [unpleasant]{unpleasant} [smile_1]{smile} or [comment_1]{comment} that [show_1]{shows} you do not [respect_1]{respect} someone or something",
+      "entry": "sneer",
+      "id": "sneer_2#sneer_2__1"
+    },
+    {
+      "comment": "not sincere or [natural_1]{natural}",
+      "entry": "forced",
+      "id": "forced#forced__1"
+    }
+  ],
+  "thesaurus": "Smiles",
+  "type": "Synonyms"
+}

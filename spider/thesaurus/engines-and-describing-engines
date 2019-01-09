@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "the [power_1]{power} from an [engine]{engine} that [turn_1]{turns} the [wheel_1]{wheels} of a [vehicle]{vehicle}",
+      "entry": "drive",
+      "id": "drive_2#drive_2__18"
+    },
+    {
+      "comment": "a [machine_1]{machine} with [moving]{moving} [part_1]{parts} that [use_1]{uses} a [fuel_1]{fuel} to [produce_1]{produce} [movement]{movement}, for [example]{example} in a [road]{road} [vehicle]{vehicle} or [airplane]{airplane}",
+      "entry": "engine",
+      "id": "engine#engine__1"
+    },
+    {
+      "comment": "an [engine]{engine} that is [flooded]{flooded} has too much [fuel_1]{fuel} in it and will not [start_1]{start}",
+      "entry": "flooded",
+      "id": "flooded#flooded__3"
+    },
+    {
+      "comment": "to become [twisted]{twisted} around part of a [machine_1]{machine}, [engine]{engine}, [vehicle]{vehicle}, etc. so that it cannot move",
+      "entry": "foul",
+      "id": "foul_2#foul_2__7"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} the [power_1]{power} of a [vehicle]{vehicle}\u2019s [engine]{engine}",
+      "entry": "horsepower",
+      "id": "horsepower#horsepower__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} the [size_1]{size} of a [vehicle]{vehicle}\u2019s [engine]{engine}",
+      "entry": "liter",
+      "id": "liter#liter__3"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} the [mixture]{mixture} of [fuel_1]{fuel} and [air_1]{air} in an [engine]{engine} when there is too much [fuel_1]{fuel}",
+      "entry": "rich",
+      "id": "rich_1#rich_1__30"
+    },
+    {
+      "comment": "the amount of [power_1]{power} that an [engine]{engine} is [produce_1]{producing}",
+      "entry": "throttle",
+      "id": "throttle_1#throttle_1__2"
+    },
+    {
+      "comment": "an [engine]{engine} or a [machine_1]{machine} that [use_1]{uses} the [pressure_1]{pressure} of [liquid_1]{liquid} or [gas_1]{gas} on a [wheel_1]{wheel} to get [power_1]{power}",
+      "entry": "turbine",
+      "id": "turbine#turbine__1"
+    },
+    {
+      "comment": "a two-cycle engine is one in which the piston moves up and down once each time power is produced",
+      "entry": "two-cycle",
+      "id": "two-cycle#two-cycle__1"
+    },
+    {
+      "comment": "[two-cycle]{two-cycle}",
+      "entry": "two-stroke",
+      "id": "two-stroke#two-stroke__1"
+    },
+    {
+      "comment": "a powerful engine with eight cylinders that are arranged in the shape of a \u201cV\u201d",
+      "entry": "V8",
+      "id": "v8#v8__1"
+    }
+  ],
+  "thesaurus": "Engines and describing engines",
+  "type": "Related words"
+}

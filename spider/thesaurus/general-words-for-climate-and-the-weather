@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the conditions that exist in the atmosphere relating to temperature, precipitation  (=rain, snow, etc.), and other features",
+      "entry": "the weather",
+      "id": "weather_1#weather_1__1"
+    },
+    {
+      "comment": "the [type_1]{type} of [weather_1]{weather} that a [country]{country} or [region]{region} has",
+      "entry": "climate",
+      "id": "climate#climate__1"
+    },
+    {
+      "comment": "a [period_1]{period} when there is a [particular_1]{particular} [type_1]{type} of [weather_1]{weather}",
+      "entry": "spell",
+      "id": "spell_2#spell_2__4"
+    },
+    {
+      "comment": "one of the [large_1]{large} [area]{areas} that the [world]{world} is [divided]{divided} into [accord_2]{according} to its [temperature]{temperature}",
+      "entry": "zone",
+      "id": "zone_1#zone_1__10"
+    },
+    {
+      "comment": "the [scientific]{scientific} [study_1]{study} of [weather_1]{weather}",
+      "entry": "meteorology",
+      "id": "meteorology#meteorology__1"
+    },
+    {
+      "comment": "[appropriate_1]{appropriate} or [typical]{typical} of the time of [year]{year} it is now",
+      "entry": "seasonal",
+      "id": "seasonal#seasonal__4"
+    },
+    {
+      "comment": "a temperate climate or region is never extremely hot or extremely cold",
+      "entry": "temperate",
+      "id": "temperate#temperate__1"
+    },
+    {
+      "comment": "relating to the climate of a country or region",
+      "entry": "climatic",
+      "id": "climatic#climatic__1"
+    },
+    {
+      "comment": "a [report_1]{report} on [likely_1]{likely} [weather_1]{weather} [condition_1]{conditions} for a [period_1]{period} of time in the [future_1]{future}",
+      "entry": "weather forecast",
+      "id": "weather-forecast#weather-forecast__1"
+    },
+    {
+      "comment": "a piece of equipment that shows you what kind of weather to expect. It measures atmospheric pressure.",
+      "entry": "barometer",
+      "id": "barometer#barometer__1"
+    }
+  ],
+  "thesaurus": "General words for climate and the weather",
+  "type": "Synonyms"
+}

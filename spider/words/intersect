@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if [lines]{lines} or [road]{roads} intersect, they [join_1]{join} or cross each other",
+      "examples": [
+        "The [path]{path} [intersect]{intersects} the [road]{road} at a [sharp_1]{sharp} [angle_1]{angle}.",
+        "[rolling]{rolling} [countryside]{countryside} [intersect]{intersected} by [steep_1]{steep} [ravine]{ravines}"
+      ],
+      "id": "intersect__1"
+    },
+    {
+      "def": "to have some of the same [feature_1]{features} as something else",
+      "examples": [],
+      "id": "intersect__5"
+    }
+  ],
+  "word": "intersect"
+}

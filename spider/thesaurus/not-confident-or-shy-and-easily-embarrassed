@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[shy_1]{shy} [behavior]{behavior} [show_1]{shows} that someone is [nervous]{nervous} or not [confident]{confident}",
+      "entry": "shy",
+      "id": "shy_1#shy_1__4"
+    },
+    {
+      "comment": "not [confident]{confident}",
+      "entry": "uncertain",
+      "id": "uncertain#uncertain__11"
+    },
+    {
+      "comment": "someone who is [retiring]{retiring} [tend]{tends} to [avoid]{avoid} [social_1]{social} [activity]{activities} because they are [shy_1]{shy}",
+      "entry": "retiring",
+      "id": "retiring#retiring__1"
+    },
+    {
+      "comment": "not [confident]{confident} about yourself",
+      "entry": "insecure",
+      "id": "insecure#insecure__1"
+    },
+    {
+      "comment": "[shy_1]{shy} and [nervous]{nervous}",
+      "entry": "timid",
+      "id": "timid#timid__1"
+    },
+    {
+      "comment": "too [embarrassed]{embarrassed} or not [confident]{confident} enough to do something",
+      "entry": "inhibited",
+      "id": "inhibited#inhibited__1"
+    },
+    {
+      "comment": "not [confident]{confident}",
+      "entry": "tentative",
+      "id": "tentative#tentative__3"
+    },
+    {
+      "comment": "not [feeling_1]{feeling} [confident]{confident} or [relaxed]{relaxed} because you are in a [new]{new} [situation]{situation}, for [example]{example} with a [group_1]{group} of [people_1]{people} who you do not [know_1]{know}",
+      "entry": "lost",
+      "id": "lost_1#lost_1__11"
+    },
+    {
+      "comment": "not [have]{having} much [confidence]{confidence}, and [tend]{tending} to [behave]{behave} in a [nervous]{nervous} way",
+      "entry": "unsure of yourself",
+      "id": "unsure-of-yourself#unsure-of-yourself__1"
+    },
+    {
+      "comment": "not [confident]{confident} or [relaxed]{relaxed}",
+      "entry": "ill at ease",
+      "id": "ill-at-ease#ill-at-ease__1"
+    },
+    {
+      "comment": "less [good_1]{good} or [worthy_1]{worthy} than other [people_1]{people}",
+      "entry": "less than",
+      "id": "less-than_2#less-than_2__1"
+    }
+  ],
+  "thesaurus": "Not confident or shy and easily embarrassed",
+  "type": "Synonyms"
+}

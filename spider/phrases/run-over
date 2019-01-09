@@ -1,0 +1,46 @@
+{
+  "part": "phrase",
+  "phrase": "run over",
+  "senses": [
+    {
+      "def": "to hit someone or something with a [vehicle]{vehicle} and [drive_1]{drive} over them",
+      "examples": [
+        "Keeley was [run_1]{run} over by a [car]{car} [outside]{outside} her [house_1]{house}."
+      ],
+      "id": "run-over__1"
+    },
+    {
+      "def": "to [practice_1]{practice} what you are [going_1]{going} to [say_1]{say} in a [speech]{speech}, [performance]{performance}, etc.",
+      "examples": [
+        "She [kept]{kept} [running_1]{running} over her [lines]{lines}."
+      ],
+      "id": "run-over__3"
+    },
+    {
+      "def": "to [explain]{explain} something again so that someone [understand]{understands}",
+      "examples": [
+        "Would you [run_1]{run} over the [sequence_1]{sequence} of [event]{events} again?"
+      ],
+      "id": "run-over__5"
+    },
+    {
+      "def": "to [think_1]{think} a [lot_1]{lot} about something, such as a [decision_1]{decision} or [experience_1]{experience}",
+      "examples": [
+        "I couldn\u2019t [stop_1]{stop} [running_1]{running} it over in my [mind_1]{mind}."
+      ],
+      "id": "run-over__7"
+    },
+    {
+      "def": "to [continue]{continue} for [long_1]{longer} than [plan_2]{planned}",
+      "examples": [
+        "[sorry]{Sorry} I\u2019m [late_1]{late}, the [meeting]{meeting} [ran]{ran} over."
+      ],
+      "id": "run-over__9"
+    },
+    {
+      "def": "if a [container]{container} [run_1]{runs} over, there is too much [liquid_1]{liquid} in it",
+      "examples": [],
+      "id": "run-over__11"
+    }
+  ]
+}

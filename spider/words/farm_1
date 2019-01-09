@@ -1,0 +1,44 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [area]{area} of [land_1]{land} [used]{used} for [growing]{growing} [crop_1]{crops} or [keeping]{keeping} [animal_1]{animals}",
+      "examples": [
+        "Patrick [work_1]{worked} on a [neighboring]{neighboring} farm.",
+        "farm [building]{buildings}/[machinery]{machinery}/[implement_1]{implements}",
+        "farm [animal_1]{animals}/[produce_1]{produce}",
+        "farm [worker]{workers}/[laborer]{laborers}"
+      ],
+      "id": "farm_1__1"
+    },
+    {
+      "def": "a [place_1]{place} where a [particular_1]{particular} [type_1]{type} of [animal_1]{animal} is [produce_1]{produced} in [order_1]{order} to be [sold]{sold}",
+      "examples": [
+        "a [fish_1]{fish} farm"
+      ],
+      "id": "farm_1__7"
+    },
+    {
+      "def": "a [farmhouse]{farmhouse}",
+      "examples": [
+        "[visitor]{Visitors} often came to the farm on [weekend_1]{weekends}."
+      ],
+      "id": "farm_1__9"
+    },
+    {
+      "def": "a [place_1]{place} [involved]{involved} in [mass_1]{mass} [production]{production} to [maximize]{maximize} [profit_1]{profit} at the [expense_1]{expense} of [quality_1]{quality} or other [ethical]{ethical} [consideration]{considerations}",
+      "examples": [
+        "We don't [want_1]{want} to get a [dog_1]{dog} from a [puppy]{puppy} farm as the [animal_1]{animals} are often [treat_1]{treated} [badly]{badly}."
+      ],
+      "id": "farm_1__11"
+    },
+    {
+      "def": "a [server]{server} farm",
+      "examples": [
+        "[physical_1]{Physical} [server]{servers} [share_1]{share} the [load_1]{loads} and are more [likely_1]{likely} to be [base_2]{based} on \u2018[farm_1]{farms}\u2019 in Arizona rather than in the \u2018[cloud_1]{cloud}.\u2019"
+      ],
+      "id": "farm_1__12"
+    }
+  ],
+  "word": "farm"
+}

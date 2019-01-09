@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "hunt down",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to find every [member]{member} of a [group_1]{group}",
+      "examples": [
+        "Those who [protest_2]{protested} were [hunted]{hunted} down and [kill_1]{killed}."
+      ],
+      "id": "hunt-down__1"
+    },
+    {
+      "def": "to [try_1]{try} to find a [particular_1]{particular} thing or [person]{person}",
+      "examples": [
+        "They\u2019ll [actually]{actually} [hunt_1]{hunt} down [old]{old} [book_1]{books} for you."
+      ],
+      "id": "hunt-down__3"
+    }
+  ]
+}

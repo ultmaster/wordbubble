@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} something very [quietly]{quietly} so that other [people_1]{people} cannot [hear]{hear} you",
+      "entry": "whisper",
+      "id": "whisper_1#whisper_1__1"
+    },
+    {
+      "comment": "to [say_1]{say} something in a very [quiet_1]{quiet} [voice_1]{voice}",
+      "entry": "murmur",
+      "id": "murmur_1#murmur_1__1"
+    },
+    {
+      "comment": "to [talk_1]{talk} in a [quiet_1]{quiet} [voice_1]{voice} that is [difficult]{difficult} to [hear]{hear}, [especially]{especially} because you are [annoyed]{annoyed} or [embarrassed]{embarrassed}, or are [talk_1]{talking} to yourself",
+      "entry": "mutter",
+      "id": "mutter#mutter__1"
+    },
+    {
+      "comment": "to [say_1]{say} something in a low [angry]{angry} [voice_1]{voice}",
+      "entry": "hiss",
+      "id": "hiss_1#hiss_1__4"
+    },
+    {
+      "comment": "to [speak_1]{speak} or [say_1]{say} something in a low rough [voice_1]{voice} that [sound_1]{sounds} as if you have a [sore_1]{sore} [throat]{throat}",
+      "entry": "croak",
+      "id": "croak_1#croak_1__2"
+    },
+    {
+      "comment": "to [speak_1]{speak} in a [soft]{soft} [voice_1]{voice} that is [intended_1]{intended} to [make_1]{make} someone [feel_1]{feel} [calm_1]{calm}",
+      "entry": "croon",
+      "id": "croon#croon__2"
+    },
+    {
+      "comment": "to [speak_1]{speak} in a [quiet_1]{quiet} low [voice_1]{voice} that [sound_1]{sounds} [happy_1]{happy} or [attractive]{attractive}",
+      "entry": "purr",
+      "id": "purr#purr__3"
+    },
+    {
+      "comment": "to [say_1]{say} something very [quietly]{quietly}",
+      "entry": "breathe",
+      "id": "breathe#breathe__9"
+    },
+    {
+      "comment": "if you [say_1]{say} something under your [breath]{breath}, you [say_1]{say} it in a very [quiet_1]{quiet} way so that it is [difficult]{difficult} for [people_1]{people} to [hear]{hear}",
+      "entry": "under your breath",
+      "id": "under-your-breath#under-your-breath__1"
+    },
+    {
+      "comment": "to [say_1]{say} something in a [high_1]{high} [weak]{weak} [voice_1]{voice}",
+      "entry": "bleat",
+      "id": "bleat_1#bleat_1__3"
+    }
+  ],
+  "thesaurus": "To talk quietly or weakly",
+  "type": "Synonyms"
+}

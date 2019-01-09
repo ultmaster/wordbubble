@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "another [spelling]{spelling} of [dryer]{dryer}",
+      "entry": "drier",
+      "id": "drier#drier__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [dry_2]{dries} [thing]{things} such as [clothes]{clothes} or [hair]{hair}",
+      "entry": "dryer",
+      "id": "dryer#dryer__1"
+    },
+    {
+      "comment": "an [iron_1]{iron} for [pressing]{pressing} [clothes]{clothes}, [especially]{especially} an [old-fashioned_2]{old-fashioned} one that is [heated]{heated} on a fire",
+      "entry": "flat iron",
+      "id": "flat-iron#flat-iron__1"
+    },
+    {
+      "comment": "an [object_1]{object} with a [flat_1]{flat} [metal_1]{metal} [base_1]{base} that is [heated]{heated} and [used]{used} for [making]{making} [clothes]{clothes} [smooth_1]{smooth}",
+      "entry": "iron",
+      "id": "iron_1#iron_1__4"
+    },
+    {
+      "comment": "a [washing]{washing} [machine_1]{machine}",
+      "entry": "machine",
+      "id": "machine_1#machine_1__9"
+    },
+    {
+      "comment": "a [wringer]{wringer}",
+      "entry": "mangle",
+      "id": "mangle_2#mangle_2__1"
+    },
+    {
+      "comment": "an iron that uses steam to make clothes smooth",
+      "entry": "steam iron",
+      "id": "steam-iron#steam-iron__1"
+    },
+    {
+      "comment": "a [dryer]{dryer} for [clothes]{clothes}",
+      "entry": "tumble dryer",
+      "id": "tumble-dryer#tumble-dryer__1"
+    },
+    {
+      "comment": "a [washing]{washing} [machine_1]{machine}",
+      "entry": "washer",
+      "id": "washer#washer__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [wash_1]{washes} and [dry_2]{dries} [clothes]{clothes}",
+      "entry": "washer-dryer",
+      "id": "washer-dryer#washer-dryer__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} for [washing]{washing} [clothes]{clothes}",
+      "entry": "washing machine",
+      "id": "washing-machine#washing-machine__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [squeeze_1]{squeezing} [water_1]{water} out of [clothes]{clothes}",
+      "entry": "wringer",
+      "id": "wringer#wringer__1"
+    }
+  ],
+  "thesaurus": "Machines and equipment used for cleaning clothes",
+  "type": "Related words"
+}

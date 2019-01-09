@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [say_1]{say} something in a very [quiet_1]{quiet} [voice_1]{voice}",
+      "examples": [
+        "Frances [murmur_1]{murmured} an [apology]{apology} as she [left_1]{left}.",
+        "He was [murmur_1#murmur_1__7]{murmuring} in her [ear]{ear}."
+      ],
+      "id": "murmur_1__1"
+    },
+    {
+      "def": "to [make_1]{make} a [quiet_1]{quiet} [continuous]{continuous} [sound_1]{sound}",
+      "examples": [
+        "The [little_1]{little} [stream_1]{stream} [murmur_1]{murmured} at the [foot_1]{foot} of the [hill]{hill}."
+      ],
+      "id": "murmur_1__4"
+    },
+    {
+      "def": "to [complain]{complain} in a [quiet_1]{quiet} or [secret_1]{secret} way about someone or something",
+      "examples": [],
+      "id": "murmur_1__6"
+    }
+  ],
+  "word": "murmur"
+}

@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "to have a [bank_1]{bank} [account_1]{account} with a [particular_1]{particular} [bank_1]{bank}",
+      "entry": "bank",
+      "id": "bank_2#bank_2__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} [money]{money} into a [bank_1]{bank} [account_1]{account}",
+      "entry": "bank",
+      "id": "bank_2#bank_2__4"
+    },
+    {
+      "comment": "to [pay_1]{pay} [money]{money} into a [bank_1]{bank}",
+      "entry": "bank in",
+      "id": "bank-in#bank-in__1"
+    },
+    {
+      "comment": "to borrow money, especially from a bank, and agree to pay it back at a particular time. Money that you borrow is called a loan",
+      "entry": "borrow",
+      "id": "borrow#borrow__4"
+    },
+    {
+      "comment": "to [stop_1]{stop} [have]{having} an [account_1]{account} with a [bank_1]{bank}, [store_1]{store}, etc.",
+      "entry": "close",
+      "id": "close_1#close_1__32"
+    },
+    {
+      "comment": "if a [bank_1]{bank} [debit_1]{debits} your [account_1]{account}, it [take_1]{takes} [money]{money} out of it for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "debit",
+      "id": "debit_2#debit_2__1"
+    },
+    {
+      "comment": "to show that an amount of money is owed by recording it in a company\u2019s accounts or on a bank statement",
+      "entry": "debit",
+      "id": "debit_2#debit_2__2"
+    },
+    {
+      "comment": "to [pay_1]{pay} [money]{money} into a [bank_1]{bank} [account_1]{account}",
+      "entry": "deposit",
+      "id": "deposit_2#deposit_2__3"
+    },
+    {
+      "comment": "to take [money]{money} from a [bank_1]{bank} [account_1]{account}",
+      "entry": "draw",
+      "id": "draw_1#draw_1__41"
+    },
+    {
+      "comment": "to give a [bank_1]{bank} the [right_1]{right} to own a [valuable]{valuable} [possession]{possession}, [especially]{especially} your [house_1]{house}, if you do not [pay_1]{pay} back [money]{money} that you have [borrow]{borrowed} from them",
+      "entry": "mortgage",
+      "id": "mortgage_2#mortgage_2__1"
+    },
+    {
+      "comment": "to [start_1]{start} an [account_1]{account} with a [bank_1]{bank}",
+      "entry": "open",
+      "id": "open_2#open_2__41"
+    },
+    {
+      "comment": "to put [money]{money} into your [bank_1]{bank} [account_1]{account}",
+      "entry": "pay in",
+      "id": "pay-in#pay-in__1"
+    },
+    {
+      "comment": "to [regularly]{regularly} put [money]{money} in a [bank_1]{bank} or [invest]{invest} it so that you can use it [later_1]{later}",
+      "entry": "save",
+      "id": "save_1#save_1__21"
+    },
+    {
+      "comment": "to get [money]{money} from a [bank_1]{bank} or from a [person]{person} by [agree]{agreeing} to give them [goods]{goods} or [property]{property} if you cannot [return_1]{return} the [money]{money}",
+      "entry": "secure",
+      "id": "secure_1#secure_1__11"
+    },
+    {
+      "comment": "to move [money]{money} from one [bank_1]{bank} [account_1]{account} to another, [especially]{especially} [illegal_1#illegal_1__6]{illegally} or [dishonest#dishonest__3]{dishonestly}",
+      "entry": "siphon",
+      "id": "siphon_1#siphon_1__3"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [siphon_1]{siphon}",
+      "entry": "syphon",
+      "id": "syphon#syphon__1"
+    },
+    {
+      "comment": "to move [money]{money} from one [account_1]{account} or [bank_1]{bank} to another",
+      "entry": "transfer",
+      "id": "transfer_1#transfer_1__9"
+    },
+    {
+      "comment": "to [send_1]{send} [money]{money} [directly_1]{directly} from one [bank_1]{bank} to another [use_1]{using} an [electronic]{electronic} system",
+      "entry": "wire",
+      "id": "wire_2#wire_2__6"
+    },
+    {
+      "comment": "to take [money]{money} from a [bank_1]{bank} [account_1]{account}",
+      "entry": "withdraw",
+      "id": "withdraw#withdraw__20"
+    }
+  ],
+  "thesaurus": "To use a bank account",
+  "type": "Related words"
+}

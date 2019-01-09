@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "less [important]{important} than something else",
+      "entry": "secondary",
+      "id": "secondary#secondary__1"
+    },
+    {
+      "comment": "less [important]{important} than something else",
+      "entry": "subordinate",
+      "id": "subordinate_1#subordinate_1__4"
+    },
+    {
+      "comment": "[related_1]{related} to something but [considered]{considered} less [important]{important}",
+      "entry": "incidental",
+      "id": "incidental_1#incidental_1__1"
+    },
+    {
+      "comment": "[connected]{connected} with something, but less [important]{important} than the [main_1]{main} thing",
+      "entry": "ancillary",
+      "id": "ancillary_1#ancillary_1__1"
+    },
+    {
+      "comment": "[small_1]{smaller}, less [important]{important}, or less serious than something else",
+      "entry": "lesser",
+      "id": "lesser_1#lesser_1__1"
+    },
+    {
+      "comment": "next in [quality_1]{quality} or [importance]{importance} after someone or something that is the [best_1]{best} or most [important]{important}",
+      "entry": "second",
+      "id": "second_1#second_1__7"
+    },
+    {
+      "comment": "[related_1]{related} to something else but less [important]{important} than it",
+      "entry": "subsidiary",
+      "id": "subsidiary_2#subsidiary_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to something but less [important]{important} than it",
+      "entry": "collateral",
+      "id": "collateral_2#collateral_2__1"
+    },
+    {
+      "comment": "if one thing is [subordinate_3]{subordinated} to another thing, it is [considered]{considered} to be less [important]{important} than the other thing",
+      "entry": "subordinate",
+      "id": "subordinate_3#subordinate_3__1"
+    },
+    {
+      "comment": "[arrange]{arranged} or [list_2]{listed} so that each thing is [small_1]{smaller} or less [important]{important} than the thing before it",
+      "entry": "in descending order",
+      "id": "descending#descending__2"
+    }
+  ],
+  "thesaurus": "Less important than similar things",
+  "type": "Synonyms"
+}

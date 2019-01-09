@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} or [thing]{things} with [similar]{similar} [quality_1]{qualities} or [feature_1]{features} that [make_1]{make} them [different]{different} from other [group_1]{groups}",
+      "entry": "type",
+      "id": "type_1#type_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} or [thing]{things} that have [similar]{similar} [quality_1]{qualities}",
+      "entry": "category",
+      "id": "category#category__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [person]{person} or thing",
+      "entry": "kind",
+      "id": "kind_1#kind_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} or [thing]{things} with the same [quality_1]{qualities} or [feature_1]{features}",
+      "entry": "sort",
+      "id": "sort_1#sort_1__1"
+    },
+    {
+      "comment": "a [type_1]{type} of thing",
+      "entry": "variety",
+      "id": "variety#variety__11"
+    },
+    {
+      "comment": "a [group_1]{group} into which someone or something is put because of the [feature_1]{features} that they have",
+      "entry": "classification",
+      "id": "classification#classification__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [people_1]{people} or [thing]{things} that are [considered]{considered} as a [group_1]{group}",
+      "entry": "grouping",
+      "id": "grouping#grouping__1"
+    },
+    {
+      "comment": "a system for [organize]{organizing} [similar]{similar} [thing]{things} into [group_1]{groups}",
+      "entry": "taxonomy",
+      "id": "taxonomy#taxonomy__2"
+    },
+    {
+      "comment": "a [group_1]{group} of [thing]{things}, [animal_1]{animals}, or [people_1]{people} with [similar]{similar} [feature_1]{features} or [quality_1]{qualities}",
+      "entry": "class",
+      "id": "class_1#class_1__23"
+    },
+    {
+      "comment": "a [group_1]{group} that [contain]{contains} an [example]{example} of all or most [type_1]{types} of [people_1]{people} or [thing]{things}",
+      "entry": "cross section",
+      "id": "cross-section#cross-section__3"
+    }
+  ],
+  "thesaurus": "Categories and types",
+  "type": "Synonyms"
+}

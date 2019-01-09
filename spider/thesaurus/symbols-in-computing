@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "either of a [pair_1]{pair} of [symbol]{symbols} < or >, [used]{used} to [surround_1]{surround} [word_1]{words}, [number_1]{numbers}, or other [symbol]{symbols}, [especially]{especially} in [instruction]{instructions} for a computer",
+      "entry": "angle bracket",
+      "id": "angle-bracket#angle-bracket__1"
+    },
+    {
+      "comment": "the symbol \\ used for separating words or numbers, especially in the names of computer files. The similar symbol / is called a forward slash.",
+      "entry": "backslash",
+      "id": "backslash#backslash__1"
+    },
+    {
+      "comment": "a character that tells a computer to move the cursor to the beginning of the line",
+      "entry": "carriage return",
+      "id": "carriage-return#carriage-return__1"
+    },
+    {
+      "comment": "a [letter_1]{letter}, [number_1]{number}, or [symbol]{symbol} that is [written_1]{written}, [print_1]{printed}, or [used]{used} in computer [program_1]{programs}",
+      "entry": "character",
+      "id": "character#character__29"
+    },
+    {
+      "comment": "the way that you [say_1]{say} the [symbol]{symbol} . in an [internet]{Internet} or [e-mail_1]{e-mail} [address_1]{address}",
+      "entry": "dot",
+      "id": "dot_1#dot_1__6"
+    },
+    {
+      "comment": "an [hourglass]{hourglass} a",
+      "entry": "egg timer",
+      "id": "egg-timer#egg-timer__2"
+    },
+    {
+      "comment": "the [symbol]{symbol} /, often [used]{used} in [internet]{internet} [address_1]{addresses} and computer [instruction]{instructions}",
+      "entry": "forward slash",
+      "id": "forward-slash#forward-slash__1"
+    },
+    {
+      "comment": "the [pound_1]{pound} [sign_1]{sign} # found on [telephone_1]{telephones} and [keyboard_1]{keyboards}",
+      "entry": "hash",
+      "id": "hash_1#hash_1__3"
+    },
+    {
+      "comment": "a [symbol]{symbol} [used]{used} in computer [program_1]{programs} to show that the [program_1]{program} is [busy_1]{busy} and you should [wait_1]{wait}",
+      "entry": "hourglass",
+      "id": "hourglass#hourglass__2"
+    },
+    {
+      "comment": "a sign or symbol used for representing any letter or number. The most common wild card is the asterisk (*).",
+      "entry": "wild card",
+      "id": "wild-card#wild-card__1"
+    }
+  ],
+  "thesaurus": "Symbols in computing",
+  "type": "Related words"
+}

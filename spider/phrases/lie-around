@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "lie around",
+  "senses": [
+    {
+      "def": "if something is [lying]{lying} around somewhere, it has been [left_1]{left} there [instead]{instead} of being put in the [correct_1]{correct} [place_1]{place}",
+      "examples": [
+        "Never [leave_1]{leave} [cash_1]{cash} or other [valuables]{valuables} [lying]{lying} around.",
+        "You shouldn\u2019t [leave_1]{leave} [bottle_1]{bottles} of [pill]{pills} [lying]{lying} around the [house_1]{house}."
+      ],
+      "id": "lie-around__1"
+    },
+    {
+      "def": "to [spend]{spend} a [lot_1]{lot} of time [relaxing]{relaxing} and not [doing]{doing} anything",
+      "examples": [
+        "We [lay_1]{lay} around the [house_1]{house} all [day]{day} [just_1]{just} [play_1]{playing} [card_1]{cards} and [watch_1]{watching} [television]{television}."
+      ],
+      "id": "lie-around__4"
+    }
+  ]
+}

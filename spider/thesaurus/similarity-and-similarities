@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that [make_1]{makes} one thing seem [like_1]{like} another",
+      "entry": "similarity",
+      "id": "similarity#similarity__5"
+    },
+    {
+      "comment": "if there is a [resemblance]{resemblance} between two [people_1]{people} or [thing]{things}, they are [similar]{similar}, [especially]{especially} in their [appearance]{appearance}",
+      "entry": "resemblance",
+      "id": "resemblance#resemblance__1"
+    },
+    {
+      "comment": "a way in which [separate_1]{separate} [thing]{things} or [people_1]{people} are [similar]{similar} to each other",
+      "entry": "parallel",
+      "id": "parallel_2#parallel_2__1"
+    },
+    {
+      "comment": "a [connection]{connection} between two or more [similar]{similar} [thing]{things}",
+      "entry": "affinity",
+      "id": "affinity#affinity__5"
+    },
+    {
+      "comment": "a [feature_1]{feature} that everyone or everything in a [particular_1]{particular} [group_1]{group} has",
+      "entry": "common denominator",
+      "id": "common-denominator#common-denominator__2"
+    },
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people} or [thing]{things} [gradually]{gradually} become the same or very [similar]{similar}",
+      "entry": "convergence",
+      "id": "convergence#convergence__1"
+    },
+    {
+      "comment": "a [quality_1]{quality} or [feature_1]{feature} that [make_1]{makes} something [similar]{similar} to something else",
+      "entry": "parallelism",
+      "id": "parallelism#parallelism__2"
+    },
+    {
+      "comment": "a [situation]{situation} in which [idea]{ideas} or [opinion]{opinions} are the same",
+      "entry": "coincidence",
+      "id": "coincidence#coincidence__6"
+    },
+    {
+      "comment": "a [situation]{situation} in which there is a [balance_1]{balance} between [different]{different} [force_1]{forces} or [aspect]{aspects}",
+      "entry": "equilibrium",
+      "id": "equilibrium#equilibrium__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [thing]{things} [overlap_1]{overlap}",
+      "entry": "overlap",
+      "id": "overlap_2#overlap_2__1"
+    }
+  ],
+  "thesaurus": "Similarity and similarities",
+  "type": "Synonyms"
+}

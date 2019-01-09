@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[base_2]{based} only on what you have [heard]{heard}, not on what you are [certain_1]{certain} is [true_1]{true}",
+      "entry": "apparently",
+      "id": "apparently#apparently__1"
+    },
+    {
+      "comment": "[believe]{believed} or [said_1]{said} by some [people_1]{people} to be [true_1]{true}, although you may not [agree]{agree} with this",
+      "entry": "supposed",
+      "id": "supposed#supposed__1"
+    },
+    {
+      "comment": "[claim_1]{claimed} to be [true_1]{true}, even though this has not been [prove]{proved}",
+      "entry": "alleged",
+      "id": "alleged#alleged__1"
+    },
+    {
+      "comment": "not [certain_1]{certain} or [likely_1]{likely} to [happen]{happen} or be [true_1]{true}",
+      "entry": "doubtful",
+      "id": "doubtful#doubtful__1"
+    },
+    {
+      "comment": "in a way that [appear]{appears} to have a [particular_1]{particular} [quality_1]{quality}, even though this is [probably]{probably} not [true_1]{true}",
+      "entry": "seemingly",
+      "id": "seemingly#seemingly__1"
+    },
+    {
+      "comment": "if someone [allegedly]{allegedly} [does]{does} something, another [person]{person} [say_1]{says} that they have done it, even though this has not been [prove]{proved}",
+      "entry": "allegedly",
+      "id": "allegedly#allegedly__1"
+    },
+    {
+      "comment": "[base_2]{based} on [guess_1]{guesses} or on a [little_1]{little} [information]{information}, not on [fact]{facts}",
+      "entry": "speculative",
+      "id": "speculative#speculative__1"
+    },
+    {
+      "comment": "not [support_1]{supported} with [fact]{facts} or [evidence_1]{evidence}",
+      "entry": "unfounded",
+      "id": "unfounded#unfounded__1"
+    },
+    {
+      "comment": "[base_2]{based} on someone\u2019s [personal_1]{personal} [experience_1]{experience} or [information]{information} rather than on [fact]{facts} that can be [checked]{checked}",
+      "entry": "anecdotal",
+      "id": "anecdotal#anecdotal__1"
+    },
+    {
+      "comment": "an [unsubstantiated]{unsubstantiated} [argument]{argument}, [claim_1]{claim}, etc. is one for which you have no [evidence_1]{evidence}",
+      "entry": "unsubstantiated",
+      "id": "unsubstantiated#unsubstantiated__1"
+    }
+  ],
+  "thesaurus": "Not definite or based on fact",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to make or repair clothes using a needle and thread",
+      "entry": "sew",
+      "id": "sew#sew__1"
+    },
+    {
+      "comment": "to [repair_1]{repair} a [tear_1]{tear} or hole in a [piece_1]{piece} of [clothing]{clothing}",
+      "entry": "mend",
+      "id": "mend_1#mend_1__1"
+    },
+    {
+      "comment": "to [join_1]{join} [piece_1]{pieces} of [cloth]{cloth} together by [sewing]{sewing} them",
+      "entry": "stitch",
+      "id": "stitch_2#stitch_2__1"
+    },
+    {
+      "comment": "to [decorate]{decorate} [cloth]{cloth} with a [design_1]{design} of [colored_1]{colored} [stitch_1]{stitches}",
+      "entry": "embroider",
+      "id": "embroider#embroider__1"
+    },
+    {
+      "comment": "to [make_1]{make} [small_1]{small} [change_1]{changes} to a [piece_1]{piece} of [clothing]{clothing} so that it [fit_1]{fits} [better_1]{better}",
+      "entry": "alter",
+      "id": "alter#alter__6"
+    },
+    {
+      "comment": "to [baste]{baste} [piece_1]{pieces} of [cloth]{cloth} together",
+      "entry": "tack",
+      "id": "tack_2#tack_2__5"
+    },
+    {
+      "comment": "to [make_1]{make} a [piece_1]{piece} of [clothing]{clothing} or [cloth]{cloth} [short_1]{shorter} by [making]{making} a [fold_1]{fold} along the bottom [edge_1]{edge} and [fastener]{fastening} it with [stitch_1]{stitches}",
+      "entry": "turn up",
+      "id": "turn-up_1#turn-up_1__17"
+    },
+    {
+      "comment": "to [make_1]{make} a [piece_1]{piece} of [clothing]{clothing} more [narrow_1]{narrow} or [tight_1]{tight}, so that it [fit_1]{fits} you",
+      "entry": "take in",
+      "id": "take-in#take-in__10"
+    },
+    {
+      "comment": "to use the [extra_1]{extra} [cloth]{cloth} in a [fold_1]{fold} of a [piece_1]{piece} of [clothing]{clothing} to [make_1]{make} it [wide_1]{wider}",
+      "entry": "let out",
+      "id": "let-out#let-out__7"
+    },
+    {
+      "comment": "to [make_1]{make} the [lower_1]{lower} [edge_1]{edge} of a [piece_1]{piece} of [clothing]{clothing} [short_1]{shorter} by [use_1]{using} [pin_1]{pins}",
+      "entry": "pin up",
+      "id": "pin-up#pin-up__3"
+    }
+  ],
+  "thesaurus": "To sew, or to sew something",
+  "type": "Synonyms"
+}

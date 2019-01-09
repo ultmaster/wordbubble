@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a sheltered [place_1]{place} is not [affected]{affected} by [bad_1]{bad} [weather_1]{weather}",
+      "examples": [
+        "These [plant_1]{plants} will [flourish_1]{flourish} in a [sunny]{sunny} sheltered [position_1]{position}."
+      ],
+      "id": "sheltered__1"
+    },
+    {
+      "def": "someone who has had a sheltered [life]{life} has not had the [usual]{usual} [unpleasant]{unpleasant} [experience_1]{experiences} that most [people_1]{people} have in their [lives]{lives}",
+      "examples": [
+        "a sheltered [life]{life}/[upbringing]{upbringing}/[existence]{existence}"
+      ],
+      "id": "sheltered__3"
+    }
+  ],
+  "word": "sheltered"
+}

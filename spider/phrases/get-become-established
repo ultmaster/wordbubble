@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "get/become established",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [feeling_1]{feeling} [happy_1]{happy}, [confident]{confident}, and [successful]{successful} in a [new]{new} [job_1]{job} or [place_1]{place}",
+      "examples": [
+        "She was [just_1]{just} [beginning]{beginning} to get [established]{established} here."
+      ],
+      "id": "get-become-established__1"
+    },
+    {
+      "def": "to [start_1]{start} [growing]{growing} [successful#successful__11]{successfully} in a [new]{new} [place_1]{place}",
+      "examples": [
+        "The [plant_1]{plants} [quickly]{quickly} [produce_1]{produce} [new]{new} [root_1]{roots} and become [established]{established}."
+      ],
+      "id": "get-become-established__3"
+    }
+  ]
+}

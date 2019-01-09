@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [statement_1]{statement} about what someone or something is [like_1]{like}",
+      "entry": "description",
+      "id": "description#description__1"
+    },
+    {
+      "comment": "a [spoken_1]{spoken} [account_1]{account} of something that [happen]{happened} to you",
+      "entry": "story",
+      "id": "story#story__15"
+    },
+    {
+      "comment": "a [description]{description} or [idea]{idea} of what someone or something is [like_1]{like}",
+      "entry": "picture",
+      "id": "picture_1#picture_1__16"
+    },
+    {
+      "comment": "a [description]{description} of something that [happen]{happened}, [accord_2]{according} to one [person]{person}",
+      "entry": "version",
+      "id": "version#version__5"
+    },
+    {
+      "comment": "a [description]{description} of a [person]{person}, [group_1]{group}, or [organization]{organization} that [contain]{contains} all the [detail_1]{details} that someone [need_1]{needs}",
+      "entry": "profile",
+      "id": "profile_1#profile_1__5"
+    },
+    {
+      "comment": "a [spoken_1]{spoken} [account_1]{account} of someone\u2019s [experience_1]{experiences}, [especially]{especially} when they are made to seem more [exciting]{exciting} or [unpleasant]{unpleasant} than they [really]{really} were",
+      "entry": "tale",
+      "id": "tale#tale__3"
+    },
+    {
+      "comment": "a [description]{description} of someone or something, for [example]{example} in a [book_1]{book}",
+      "entry": "portrait",
+      "id": "portrait#portrait__2"
+    },
+    {
+      "comment": "the way that something or someone is [portray]{portrayed}",
+      "entry": "portrayal",
+      "id": "portrayal#portrayal__1"
+    },
+    {
+      "comment": "a [description]{description} of something [use_1]{using} [word_1]{words} or [picture_1]{pictures}",
+      "entry": "depiction",
+      "id": "depiction#depiction__1"
+    },
+    {
+      "comment": "the way in which someone or something is [describe]{described} as a [particular_1]{particular} [type_1]{type} of [person]{person} or thing",
+      "entry": "characterization",
+      "id": "characterization#characterization__3"
+    }
+  ],
+  "thesaurus": "Descriptions and stories",
+  "type": "Synonyms"
+}

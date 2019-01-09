@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [horse_1]{horse} or other [animal_1]{animal} [trot_1]{trots}, it [move_1]{moves} more [quickly]{quickly} than when [walking_1]{walking} but [does]{does} not [run_1]{run}",
+      "examples": [
+        "The [gray_1]{gray} [horse_1]{horse} came [trot_1]{trotting} [graceful#graceful__9]{gracefully} across the [field_1]{field}.",
+        "We [trot_1]{trotted} toward the first [fence_1]{fence}."
+      ],
+      "id": "trot_1__1"
+    },
+    {
+      "def": "to [walk_1]{walk} with [short_1]{short} [quick_1]{quick} [step_1]{steps}",
+      "examples": [
+        "He [hurried]{hurried} off, his [assistant_1]{assistants} [trot_1]{trotting} after him."
+      ],
+      "id": "trot_1__6"
+    }
+  ],
+  "word": "trot"
+}

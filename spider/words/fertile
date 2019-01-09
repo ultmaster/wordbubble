@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "fertile [land_1]{land} is [able_1]{able} to [produce_1]{produce} [good_1]{good} [crop_1]{crops} or [plant_1]{plants}",
+      "examples": [],
+      "id": "fertile__1"
+    },
+    {
+      "def": "a fertile [person]{person}, [animal_1]{animal}, or [plant_1]{plant} is [able_1]{able} to [produce_1]{produce} [baby_1]{babies}, [young_1]{young} [animal_1]{animals}, or [new]{new} [plant_1]{plants}",
+      "examples": [],
+      "id": "fertile__2"
+    },
+    {
+      "def": "a fertile [mind_1]{mind} or [situation]{situation} is [able_1]{able} to [produce_1]{produce} [good_1]{good} [idea]{ideas} or [result_1]{results}",
+      "examples": [
+        "This is [surely]{surely} fertile [ground_1]{ground} for [experimentation]{experimentation}.",
+        "a [child]{child}\u2019s fertile [imagination]{imagination}"
+      ],
+      "id": "fertile__3"
+    }
+  ],
+  "word": "fertile"
+}

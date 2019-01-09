@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a hereditary [disease]{disease} or [quality_1]{quality} is [pass_1]{passed} from a [parent]{parent} to a [child]{child} in their [gene]{genes}",
+      "examples": [
+        "Cystic fibrosis is a hereditary [condition_1]{condition}."
+      ],
+      "id": "hereditary__1"
+    },
+    {
+      "def": "a hereditary [title]{title} or [right_1]{right} is [officially]{officially} [pass_1]{passed} from a [parent]{parent} to their [child]{child}",
+      "examples": [],
+      "id": "hereditary__3"
+    }
+  ],
+  "word": "hereditary"
+}

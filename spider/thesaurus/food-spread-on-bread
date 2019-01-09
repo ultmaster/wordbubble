@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [solid_1]{solid} [yellow_1]{yellow} [food]{food} made from [cream_1]{cream} that you [spread_1]{spread} on [bread]{bread} or use in [cooking_1]{cooking}",
+      "entry": "butter",
+      "id": "butter_1#butter_1__1"
+    },
+    {
+      "comment": "[fish_1]{fish} [egg_1]{eggs} [eaten]{eaten} as [food]{food}, [usually]{usually} [spread_1]{spread} on [bread]{bread}. In many [country]{countries} [caviar]{caviar} is [considered]{considered} to be a [special_1]{special} and [expensive]{expensive} [food]{food}, [eaten]{eaten} [mainly]{mainly} by [rich_1]{rich} [people_1]{people}.",
+      "entry": "caviar",
+      "id": "caviar#caviar__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [sticky]{sticky} [food]{food} made from [boil_1]{boiled} [fruit_1]{fruit} and [sugar_1]{sugar} that is [usually]{usually} [spread_1]{spread} onto [bread]{bread}",
+      "entry": "jam",
+      "id": "jam_1#jam_1__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [sticky]{sticky} [food]{food} that is made from [boil_1]{boiled} [fruit_1]{fruit} [juice_1]{juice} and [sugar_1]{sugar} and is often [spread_1]{spread} on [bread]{bread}",
+      "entry": "jelly",
+      "id": "jelly#jelly__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [food]{food} made from [cooked]{cooked} [fruit_1]{fruit} such as [orange_1]{oranges} or [lemon]{lemons} that is [usually]{usually} [spread_1]{spread} onto [bread]{bread} and [eaten]{eaten} at [breakfast_1]{breakfast}",
+      "entry": "marmalade",
+      "id": "marmalade#marmalade__1"
+    },
+    {
+      "comment": "a [food]{food} made by [crushing]{crushing} [meat]{meat}, [fish_1]{fish}, or [vegetable]{vegetables}. It can be [added]{added} to other [food]{food} in [cooking_1]{cooking} or [spread_1]{spread} on [bread]{bread}",
+      "entry": "paste",
+      "id": "paste_1#paste_1__3"
+    },
+    {
+      "comment": "a [soft]{soft} [food]{food} made from [meat]{meat}, [fish_1]{fish}, or [vegetable]{vegetables} that you [spread_1]{spread} on [bread]{bread}",
+      "entry": "p\u00e2t\u00e9",
+      "id": "pate_2#pate_2__1"
+    },
+    {
+      "comment": "a [soft]{soft} [food]{food} made by [crushing]{crushing} [peanuts_1]{peanuts} that you [usually]{usually} [spread_1]{spread} on [bread]{bread}",
+      "entry": "peanut butter",
+      "id": "peanut-butter#peanut-butter__1"
+    },
+    {
+      "comment": "a sweet food made by boiling fruit and sugar together. A more usual word is jam.",
+      "entry": "preserve",
+      "id": "preserve_2#preserve_2__5"
+    },
+    {
+      "comment": "[soft]{soft} [food]{food} that you put on [bread]{bread} and [similar]{similar} [food]{foods}",
+      "entry": "spread",
+      "id": "spread_2#spread_2__9"
+    },
+    {
+      "comment": "a type of food from Australia, made from yeast  (=a substance that is used in making bread and alcohol) and usually spread on bread",
+      "entry": "Vegemite",
+      "id": "vegemite#vegemite__1"
+    }
+  ],
+  "thesaurus": "Food spread on bread",
+  "type": "Related words"
+}

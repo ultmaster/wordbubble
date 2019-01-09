@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} someone more [calm_1]{calm} and more [relaxed]{relaxed} when they are [feeling_1]{feeling} [nervous]{nervous}, [worried]{worried}, or [upset_1]{upset}",
+      "entry": "soothe",
+      "id": "soothe#soothe__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone [feel_1]{feel} less [sad_1]{sad}, [worried]{worried}, or [disappointed]{disappointed}",
+      "entry": "comfort",
+      "id": "comfort_2#comfort_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone [feel_1]{feel} less [worried]{worried} about something",
+      "entry": "reassure",
+      "id": "reassure#reassure__1"
+    },
+    {
+      "comment": "if you [allay]{allay} [feeling_1]{feelings} such as [fear_1]{fears}, [worry_1]{worries}, or [doubt_1]{doubts}, you [make_1]{make} someone [feel_1]{feel} less [afraid]{afraid}, [worried]{worried}, or full of [doubt_1]{doubt}",
+      "entry": "allay",
+      "id": "allay#allay__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} someone [feeling_1]{feeling} [worried]{worried}",
+      "entry": "put/set someone\u2019s mind at /ease/at rest",
+      "id": "put-set-someone-s-mind-at-ease-at-rest#put-set-someone-s-mind-at-ease-at-rest__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone who is [nervous]{nervous} [feel_1]{feel} more [relaxed]{relaxed}",
+      "entry": "put someone at (their) ease",
+      "id": "put-someone-at-their-ease#put-someone-at-their-ease__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [person]{person} or [animal_1]{animal} [calm_1]{calm} or [unconscious_1]{unconscious}, [especially]{especially} by [use_1]{using} a [drug_1]{drug}",
+      "entry": "tranquilize",
+      "id": "tranquilize#tranquilize__1"
+    },
+    {
+      "comment": "to [try_1]{try} to [make_1]{make} someone [feel_1]{feel} [better_1]{better} when they are [unhappy]{unhappy} or [disappointed]{disappointed}",
+      "entry": "console",
+      "id": "console_1#console_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [situation]{situation} more [relaxed]{relaxed} by [making]{making} [people_1]{people} [feel_1]{feel} less [angry]{angry} or less [worried]{worried}",
+      "entry": "defuse",
+      "id": "defuse#defuse__1"
+    },
+    {
+      "comment": "to [speak_1]{speak} to and [calm_1]{calm} someone who is [upset_1]{upset} or [nervous]{nervous}, [especially]{especially} because they have [taken_1]{taken} an [illegal_1]{illegal} [drug_1]{drug}",
+      "entry": "talk down",
+      "id": "talk-down#talk-down__3"
+    }
+  ],
+  "thesaurus": "To make someone less nervous or upset",
+  "type": "Synonyms"
+}

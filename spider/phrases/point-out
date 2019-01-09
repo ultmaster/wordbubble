@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "point out",
+  "senses": [
+    {
+      "def": "to show someone who a [person]{person} is or where something is",
+      "examples": [
+        "He [pointed]{pointed} out the [best_1]{best} [beach_1]{beaches} on the [map_1]{map}."
+      ],
+      "id": "point-out__1"
+    },
+    {
+      "def": "to [tell_1]{tell} someone something",
+      "examples": [
+        "[thank]{Thank} you for [pointing]{pointing} that out.",
+        "He [pointed]{pointed} out that we had two [hour]{hours} of [free_1]{free} time before [dinner]{dinner}."
+      ],
+      "id": "point-out__3"
+    }
+  ]
+}

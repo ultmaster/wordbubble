@@ -1,0 +1,20 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if two [object_1]{objects} overlap, or if one [overlap_1]{overlaps} the other, the [edge_1]{edge} of one [fit_1]{fits} over the [edge_1]{edge} of the other",
+      "examples": [
+        "The [roof_1]{roof} [tile_1]{tiles} [need_1]{need} to overlap a [little_1]{little} more."
+      ],
+      "id": "overlap_1__1"
+    },
+    {
+      "def": "if [subject_1]{subjects} overlap, or if one [overlap_1]{overlaps} the other, some [aspect]{aspects} are [share_1]{shared} by more than one [subject_1]{subject}",
+      "examples": [
+        "The [geology]{geology} and [geography]{geography} [course_1]{courses} [tend]{tend} to overlap."
+      ],
+      "id": "overlap_1__3"
+    }
+  ],
+  "word": "overlap"
+}

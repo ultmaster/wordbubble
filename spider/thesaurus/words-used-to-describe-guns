@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "an automatic weapon continues to shoot bullets until you take your finger off the trigger",
+      "entry": "automatic",
+      "id": "automatic_1#automatic_1__3"
+    },
+    {
+      "comment": "a [double-barreled]{double-barreled} [gun_1]{gun} has two [part_1]{parts} that [bullet]{bullets} come out from",
+      "entry": "double-barreled",
+      "id": "double-barreled#double-barreled__1"
+    },
+    {
+      "comment": "a [loaded]{loaded} [gun_1]{gun} has [bullet]{bullets} in it",
+      "entry": "loaded",
+      "id": "loaded#loaded__7"
+    },
+    {
+      "comment": "a [rapid-fire]{rapid-fire} [weapon]{weapon} is [design_2]{designed} to fire [bullet]{bullets} very [quickly]{quickly}",
+      "entry": "rapid-fire",
+      "id": "rapid-fire#rapid-fire__3"
+    },
+    {
+      "comment": "a [semiautomatic]{semiautomatic} [weapon]{weapon} [keep_1]{keeps} [moving]{moving} the next [bullet]{bullet} into [position_1]{position} and can be [fire_2]{fired} very [quickly]{quickly}",
+      "entry": "semiautomatic",
+      "id": "semiautomatic#semiautomatic__1"
+    }
+  ],
+  "thesaurus": "Words used to describe guns",
+  "type": "Related words"
+}

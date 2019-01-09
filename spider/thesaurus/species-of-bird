@@ -1,0 +1,446 @@
+{
+  "entries": [
+    {
+      "comment": "a [type_1]{type} of [small_1]{small} [chicken_1]{chicken}",
+      "entry": "bantam",
+      "id": "bantam#bantam__1"
+    },
+    {
+      "comment": "a type of owl with white and brown feathers and a face shaped like a heart",
+      "entry": "barn owl",
+      "id": "barn-owl#barn-owl__1"
+    },
+    {
+      "comment": "a [bright_1#bright_1__20]{brightly} [colored_1]{colored} [bird]{bird} that [lives]{lives} [mainly]{mainly} in [new]{New} [guinea_1]{Guinea}",
+      "entry": "bird of paradise",
+      "id": "bird-of-paradise#bird-of-paradise__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [bird]{bird} [common_1]{common} in Europe and [north_1]{North} America. The [male_1]{male} is [black_1]{black} with an [orange_1]{orange} [beak]{beak}.",
+      "entry": "blackbird",
+      "id": "blackbird#blackbird__1"
+    },
+    {
+      "comment": "a [small_1]{small} [blue_1]{blue} [bird]{bird} found in [north_1]{North} America",
+      "entry": "bluebird",
+      "id": "bluebird#bluebird__1"
+    },
+    {
+      "comment": "a [common_1]{common} [blue_1]{blue} [north_1]{North} American [bird]{bird} with [feather_1]{feathers} that come to a [point_1]{point} at the top of its [head_1]{head}",
+      "entry": "bluejay",
+      "id": "bluejay#bluejay__1"
+    },
+    {
+      "comment": "a small white North American bird that people hunt for food. It is a kind of quail.",
+      "entry": "bobwhite",
+      "id": "bobwhite#bobwhite__1"
+    },
+    {
+      "comment": "a small bright blue, green, or yellow bird often kept as a pet. Budgerigars are often called budgies.",
+      "entry": "budgerigar",
+      "id": "budgerigar#budgerigar__1"
+    },
+    {
+      "comment": "a [budgerigar]{budgerigar}",
+      "entry": "budgie",
+      "id": "budgie#budgie__1"
+    },
+    {
+      "comment": "a [small_1]{small} European [bird]{bird} with [gray_1]{gray} and [pink_1]{pink} [feather_1]{feathers}",
+      "entry": "bullfinch",
+      "id": "bullfinch#bullfinch__1"
+    },
+    {
+      "comment": "a [vulture]{vulture}",
+      "entry": "buzzard",
+      "id": "buzzard#buzzard__1"
+    },
+    {
+      "comment": "a [small_1]{small} [yellow_1]{yellow} [bird]{bird} that is [kept]{kept} as a [pet_1]{pet}, [known_1]{known} for its [beautiful]{beautiful} [sing_1]{singing}",
+      "entry": "canary",
+      "id": "canary#canary__1"
+    },
+    {
+      "comment": "a North American bird with a crest  (=a pointed group of feathers) on the top of its head. The male is bright red.",
+      "entry": "cardinal",
+      "id": "cardinal_1#cardinal_1__1"
+    },
+    {
+      "comment": "a pigeon that has been trained to carry messages",
+      "entry": "carrier pigeon",
+      "id": "carrier-pigeon#carrier-pigeon__1"
+    },
+    {
+      "comment": "a [small_1]{small} [north_1]{North} American [bird]{bird} with a [black_1]{black} and [white_1]{white} [head_1]{head} and [gray_1]{gray} [wing_1]{wings}",
+      "entry": "chickadee",
+      "id": "chickadee#chickadee__1"
+    },
+    {
+      "comment": "a bird kept for its eggs and meat. The sound it makes is called clucking. The female chicken is called a hen and the male is called a rooster. A baby chicken is called a chick.",
+      "entry": "chicken",
+      "id": "chicken_1#chicken_1__1"
+    },
+    {
+      "comment": "a large light-colored Australian bird with a crest of feathers on its head. A cockatoo is a type of parrot.",
+      "entry": "cockatoo",
+      "id": "cockatoo#cockatoo__1"
+    },
+    {
+      "comment": "a [large_1]{large} [black_1]{black} and [white_1]{white} [bird]{bird} that [lives]{lives} in [south_1]{South} America and [eats]{eats} [dead_1]{dead} [animal_1]{animals}",
+      "entry": "condor",
+      "id": "condor#condor__1"
+    },
+    {
+      "comment": "a large black bird that makes a loud sound called cawing",
+      "entry": "crow",
+      "id": "crow_1#crow_1__1"
+    },
+    {
+      "comment": "a gray bird that leaves its eggs in other birds\u2019 nests and makes a loud call that sounds like its name",
+      "entry": "cuckoo",
+      "id": "cuckoo_1#cuckoo_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [bird]{bird} that [does]{does} not [exist]{exist} any more and could not [fly_1]{fly}",
+      "entry": "dodo",
+      "id": "dodo#dodo__1"
+    },
+    {
+      "comment": "a [white_1]{white} [bird]{bird} often [used]{used} as a [sign_1]{sign} [meaning_1]{meaning} [peace]{peace}",
+      "entry": "dove",
+      "id": "dove_1#dove_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} Australian [bird]{bird} that has very long [legs]{legs} and cannot [fly_1]{fly}",
+      "entry": "emu",
+      "id": "emu_1#emu_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} with a [short_1]{short} thick [beak]{beak}. There are many [type_1]{types} of [finch]{finches}.",
+      "entry": "finch",
+      "id": "finch#finch__1"
+    },
+    {
+      "comment": "a North American bird with feathers of many different colors. It is a type of woodpecker.",
+      "entry": "flicker",
+      "id": "flicker_2#flicker_2__6"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} that [eats]{eats} [insect]{insects} by [catching]{catching} them in the [air_1]{air}",
+      "entry": "flycatcher",
+      "id": "flycatcher#flycatcher__1"
+    },
+    {
+      "comment": "a [turkey_1]{turkey}",
+      "entry": "gobbler",
+      "id": "gobbler#gobbler__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} with [yellow_1]{yellow} [feather_1]{feathers} on its [wing_1]{wings} that is [common_1]{common} in Europe",
+      "entry": "goldfinch",
+      "id": "goldfinch#goldfinch__1"
+    },
+    {
+      "comment": "a [large_1]{large} [brown_1]{brown} [bird]{bird} that [lives]{lives} on the [ground_1]{ground} and is [hunted]{hunted} for its [meat]{meat}",
+      "entry": "grouse",
+      "id": "grouse_1#grouse_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [brown_1]{brown} [bird]{bird} that is [common_1]{common} in [wood]{woods} in Europe",
+      "entry": "hedge sparrow",
+      "id": "hedge-sparrow#hedge-sparrow__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [bird]{bird} that can [fly_1]{fly} [home_1]{home} across long [distance_1]{distances}",
+      "entry": "homing pigeon",
+      "id": "homing-pigeon#homing-pigeon__1"
+    },
+    {
+      "comment": "a [tropical]{tropical} [bird]{bird} with a [large_1]{large} [beak]{beak}",
+      "entry": "hornbill",
+      "id": "hornbill#hornbill__1"
+    },
+    {
+      "comment": "a [small_1]{small} [black-and-white_2]{black-and-white} European [bird]{bird} that often [lives]{lives} under [roof_1]{roofs}",
+      "entry": "house martin",
+      "id": "house-martin#house-martin__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [bright_1#bright_1__20]{brightly} [colored_1]{colored} [bird]{bird} that [make_1]{makes} a low [continuous]{continuous} [noise]{noise} when it [move_1]{moves} its [wing_1]{wings}",
+      "entry": "hummingbird",
+      "id": "hummingbird#hummingbird__1"
+    },
+    {
+      "comment": "a bird with a black head and a gray body that steals shiny objects. It is a type of crow.",
+      "entry": "jackdaw",
+      "id": "jackdaw#jackdaw__1"
+    },
+    {
+      "comment": "a [noisy]{noisy} [colorful]{colorful} [bird]{bird} that [lives]{lives} in Europe, Asia, and [north_1]{North} America",
+      "entry": "jay",
+      "id": "jay#jay__1"
+    },
+    {
+      "comment": "a [jay]{jay}",
+      "entry": "jaybird",
+      "id": "jaybird#jaybird__1"
+    },
+    {
+      "comment": "the [bird]{bird} that is the [symbol]{symbol} of [new]{New} Zealand. It has a long thin [beak]{beak} and cannot [fly_1]{fly}.",
+      "entry": "kiwi",
+      "id": "kiwi#kiwi__1"
+    },
+    {
+      "comment": "an Australian [bird]{bird} that [make_1]{makes} a [sound_1]{sound} [like_1]{like} [laughter]{laughter}",
+      "entry": "kookaburra",
+      "id": "kookaburra#kookaburra__1"
+    },
+    {
+      "comment": "a small European bird with dark feathers, a white breast, and raised feathers on its head. A lapwing is sometimes called a peewit.",
+      "entry": "lapwing",
+      "id": "lapwing#lapwing__1"
+    },
+    {
+      "comment": "a [small_1]{small} [brown_1]{brown} [bird]{bird} that is [common_1]{common} in Europe and is [known_1]{known} for [sing_1]{singing} while it [flies]{flies}",
+      "entry": "lark",
+      "id": "lark#lark__1"
+    },
+    {
+      "comment": "a [small_1]{small} [brown_1]{brown} [bird]{bird} that [make_1]{makes} a [pleasant]{pleasant} [sound_1]{sound}",
+      "entry": "linnet",
+      "id": "linnet#linnet__1"
+    },
+    {
+      "comment": "a small colorful parrot  (=a tropical bird with a curved beak)",
+      "entry": "lovebird",
+      "id": "lovebird#lovebird__1"
+    },
+    {
+      "comment": "a [south_1]{South} American [bird]{bird} with a long tail and [bright_1#bright_1__20]{brightly} [colored_1]{colored} [feather_1]{feathers}",
+      "entry": "macaw",
+      "id": "macaw#macaw__1"
+    },
+    {
+      "comment": "a [noisy]{noisy} [black_1]{black} and [white_1]{white} [bird]{bird} with a long tail",
+      "entry": "magpie",
+      "id": "magpie#magpie__1"
+    },
+    {
+      "comment": "a large African stork  (=bird) with long legs and a long beak",
+      "entry": "marabou",
+      "id": "marabou#marabou__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} with long [wing_1]{wings} and a [short_1]{short} tail that [flies]{flies} very [fast_1]{fast}",
+      "entry": "martin",
+      "id": "martin#martin__1"
+    },
+    {
+      "comment": "a [north_1]{North} American [bird]{bird} with a [yellow_1]{yellow} [breast_1]{breast}, [known_1]{known} for its [sweet_1]{sweet} [song]{song}",
+      "entry": "meadowlark",
+      "id": "meadowlark#meadowlark__1"
+    },
+    {
+      "comment": "a [small_1]{small} white-and-gray [north_1]{North} American [bird]{bird} that [copy_1]{copies} the [song]{songs} of other [bird]{birds}",
+      "entry": "mockingbird",
+      "id": "mockingbird#mockingbird__1"
+    },
+    {
+      "comment": "a [black_1]{black} [bird]{bird} that is often [kept]{kept} as a [pet_1]{pet} and can [copy_1]{copy} [speech]{speech}",
+      "entry": "mynah bird",
+      "id": "mynah-bird#mynah-bird__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} [known_1]{known} for the [beautiful]{beautiful} way that it [sing_1]{sings} at [night_1]{night}",
+      "entry": "nightingale",
+      "id": "nightingale#nightingale__1"
+    },
+    {
+      "comment": "a [north_1]{North} American [bird]{bird} that is [black_1]{black} and [orange_1]{orange}, or [yellow_1]{yellow}",
+      "entry": "oriole",
+      "id": "oriole#oriole__1"
+    },
+    {
+      "comment": "a [black_1]{black} and [yellow_1]{yellow} [bird]{bird} that [lives]{lives} [mainly]{mainly} in Europe, Africa, and Asia",
+      "entry": "oriole",
+      "id": "oriole#oriole__2"
+    },
+    {
+      "comment": "a [large_1]{large} African [bird]{bird} with a long [neck_1]{neck} and long [legs]{legs} that [run_1]{runs} very [fast_1]{fast} but cannot [fly_1]{fly}",
+      "entry": "ostrich",
+      "id": "ostrich#ostrich__1"
+    },
+    {
+      "comment": "a large bird with a big head and eyes and a small sharp beak. Owls hunt small animals at night and make a sound called hooting.",
+      "entry": "owl",
+      "id": "owl#owl__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bright_1#bright_1__20]{brightly} [colored_1]{colored} [bird]{bird} sometimes [kept]{kept} as a [pet_1]{pet}",
+      "entry": "parakeet",
+      "id": "parakeet#parakeet__1"
+    },
+    {
+      "comment": "a [bright_1#bright_1__20]{brightly} [colored_1]{colored} [tropical]{tropical} [bird]{bird} that is often [kept]{kept} as a [pet_1]{pet} and can be [taught]{taught} to [say_1]{say} a few [word_1]{words}",
+      "entry": "parrot",
+      "id": "parrot_1#parrot_1__1"
+    },
+    {
+      "comment": "a [fat_1]{fat} [brown_1]{brown} [bird]{bird} that is [hunted]{hunted} for [sport_1]{sport} and [food]{food}",
+      "entry": "partridge",
+      "id": "partridge#partridge__1"
+    },
+    {
+      "comment": "a large brightly-colored male bird with long blue-green tail feathers that sometimes spread out and up. The female is called a peahen.",
+      "entry": "peacock",
+      "id": "peacock#peacock__1"
+    },
+    {
+      "comment": "a large brown bird that is a female peacock",
+      "entry": "peahen",
+      "id": "peahen#peahen__1"
+    },
+    {
+      "comment": "a [large_1]{large} [bird]{bird} with a long tail that is [hunted]{hunted} for [sport_1]{sport} and [food]{food}",
+      "entry": "pheasant",
+      "id": "pheasant#pheasant__1"
+    },
+    {
+      "comment": "a [brown_1]{brown} or [gray_1]{gray} [bird]{bird} that often [lives]{lives} in [city]{cities}",
+      "entry": "pigeon",
+      "id": "pigeon#pigeon__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} that [make_1]{makes} a [musical_1]{musical} [sound_1]{sound}",
+      "entry": "pipit",
+      "id": "pipit#pipit__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} that [people_1]{people} [shoot_1]{shoot} and [eat]{eat}",
+      "entry": "quail",
+      "id": "quail_1#quail_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [bird]{bird} with [shiny]{shiny} [black_1]{black} [feather_1]{feathers}",
+      "entry": "raven",
+      "id": "raven#raven__1"
+    },
+    {
+      "comment": "a [brown_1]{brown} and [white_1]{white} [bird]{bird} with a long tail that [run_1]{runs} very [fast_1]{fast} and [lives]{lives} in [deserts]{deserts} in [north_1]{North} America",
+      "entry": "roadrunner",
+      "id": "roadrunner#roadrunner__1"
+    },
+    {
+      "comment": "a [small_1]{small} [brown_1]{brown} European [bird]{bird} with a red [chest]{chest}. [robin]{Robins} are often [used]{used} as a [symbol]{symbol} of [winter_1]{winter} and are often [shown]{shown} on Christmas [card_1]{cards} and [decoration]{decorations}.",
+      "entry": "robin",
+      "id": "robin#robin__1"
+    },
+    {
+      "comment": "a [gray_1]{gray} [bird]{bird} with a red [chest]{chest} that [lives]{lives} in [north_1]{North} America",
+      "entry": "robin",
+      "id": "robin#robin__2"
+    },
+    {
+      "comment": "a large black European bird that is a type of crow and lives in big noisy groups",
+      "entry": "rook",
+      "id": "rook#rook__2"
+    },
+    {
+      "comment": "a brown-and-white European [bird]{bird} that [sing_1]{sings} while [flying_1]{flying}",
+      "entry": "skylark",
+      "id": "skylark#skylark__1"
+    },
+    {
+      "comment": "a [small_1]{small} [brown_1]{brown} [bird]{bird} that is [common_1]{common} in the U.S. and [northern]{northern} Europe",
+      "entry": "sparrow",
+      "id": "sparrow#sparrow__1"
+    },
+    {
+      "comment": "a [small_1]{small} European [bird]{bird} with [dark_1]{dark} [shiny]{shiny} [feather_1]{feathers}",
+      "entry": "starling",
+      "id": "starling#starling__1"
+    },
+    {
+      "comment": "a [large_1]{large} [bird]{bird} with long [legs]{legs} and a long [beak]{beak}, [said_1]{said} to [bring]{bring} [people_1]{people} their [new]{new} [baby_1]{babies}",
+      "entry": "stork",
+      "id": "stork#stork__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} whose tail has two [point_1]{points} [like_1]{like} a [fork_1]{fork}",
+      "entry": "swallow",
+      "id": "swallow_2#swallow_2__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} that [flies]{flies} [quickly]{quickly}",
+      "entry": "swift",
+      "id": "swift_2#swift_2__1"
+    },
+    {
+      "comment": "a [brown_1]{brown} [bird]{bird} that has [spot_1]{spots} on its front",
+      "entry": "thrush",
+      "id": "thrush#thrush__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} that is [common_1]{common} in Europe",
+      "entry": "tit",
+      "id": "tit#tit__3"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird}",
+      "entry": "titmouse",
+      "id": "titmouse#titmouse__1"
+    },
+    {
+      "comment": "a [large_1]{large}, [bright_1#bright_1__20]{brightly} [colored_1]{colored} [bird]{bird} with a [large_1]{large} [curved]{curved} [beak]{beak} that [lives]{lives} in [tropical]{tropical} America",
+      "entry": "toucan",
+      "id": "toucan#toucan__1"
+    },
+    {
+      "comment": "a large bird similar to a chicken that has no feathers on its head and is often eaten at Christmas and Thanksgiving. The sound that turkeys make is called gobbling.",
+      "entry": "turkey",
+      "id": "turkey_1#turkey_1__1"
+    },
+    {
+      "comment": "a bird similar to a pigeon that is sometimes used for representing love",
+      "entry": "turtle dove",
+      "id": "turtle-dove#turtle-dove__1"
+    },
+    {
+      "comment": "a [large_1]{large} [bird]{bird} that [eats]{eats} the [body]{bodies} of [dead_1]{dead} [animal_1]{animals}",
+      "entry": "vulture",
+      "id": "vulture#vulture__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bird]{bird} with a long tail that [quickly]{quickly} [move_1]{moves} up and down when the [bird]{bird} [walk_1]{walks}",
+      "entry": "wagtail",
+      "id": "wagtail#wagtail__1"
+    },
+    {
+      "comment": "a [small_1]{small} [brown_1]{brown} [bird]{bird} [hunted]{hunted} for [food]{food} or [sport_1]{sport}",
+      "entry": "woodcock",
+      "id": "woodcock#woodcock__1"
+    },
+    {
+      "comment": "a [bird]{bird} that [make_1]{makes} [hole_1]{holes} in [tree]{trees} [use_1]{using} its long [narrow_1]{narrow} [beak]{beak}",
+      "entry": "woodpecker",
+      "id": "woodpecker#woodpecker__1"
+    },
+    {
+      "comment": "a type of pigeon that lives mainly in forests",
+      "entry": "wood pigeon",
+      "id": "wood-pigeon#wood-pigeon__1"
+    },
+    {
+      "comment": "a [small_1]{small} [brown_1]{brown} [bird]{bird} with a [short_1]{short} tail that [point_1]{points} [upward_1]{upward}",
+      "entry": "wren",
+      "id": "wren#wren__1"
+    },
+    {
+      "comment": "a European [bird]{bird} that has a [yellow_1]{yellow} [head_1]{head} and a [musical_1]{musical} call",
+      "entry": "yellowhammer",
+      "id": "yellowhammer#yellowhammer__1"
+    }
+  ],
+  "thesaurus": "Species of bird",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if [people_1]{people} or [animal_1]{animals} [fight_1]{fight}, they hit, [kick_1]{kick}, or [bite_1]{bite} each other",
+      "entry": "fight",
+      "id": "fight_1#fight_1__8"
+    },
+    {
+      "comment": "to [fight_1]{fight} with someone",
+      "entry": "grapple",
+      "id": "grapple#grapple__1"
+    },
+    {
+      "comment": "to fight by holding and pushing someone but without hitting with your fists, especially as a sport",
+      "entry": "wrestle",
+      "id": "wrestle#wrestle__1"
+    },
+    {
+      "comment": "to [fight_1]{fight} in a [noisy]{noisy} way, [especially]{especially} in a [public_1]{public} [place_1]{place}",
+      "entry": "brawl",
+      "id": "brawl_2#brawl_2__1"
+    },
+    {
+      "comment": "if two [people_1]{people} [square_1]{square} off, they [prepare]{prepare} to [start_1]{start} [competing]{competing} or [fighting]{fighting} with each other",
+      "entry": "square off",
+      "id": "square-off#square-off__1"
+    },
+    {
+      "comment": "to become [involved]{involved} in a [fight_1]{fight} or an [argument]{argument} with someone",
+      "entry": "tangle with",
+      "id": "tangle-with#tangle-with__1"
+    },
+    {
+      "comment": "to [fight_1]{fight} or [argue]{argue} with someone, [especially]{especially} because you are both [trying]{trying} to get something",
+      "entry": "tussle",
+      "id": "tussle_2#tussle_2__1"
+    },
+    {
+      "comment": "to have a [short_1]{short} [fight_1]{fight} that is not very [violent]{violent}",
+      "entry": "scuffle",
+      "id": "scuffle_2#scuffle_2__1"
+    },
+    {
+      "comment": "if [people_1]{people} or [group_1]{groups} [face_1]{face} off, they [compete]{compete} or [fight_1]{fight} with each other",
+      "entry": "face off",
+      "id": "face-off_1#face-off_1__1"
+    },
+    {
+      "comment": "to [fight_1]{fight}",
+      "entry": "duke",
+      "id": "duke_2#duke_2__1"
+    }
+  ],
+  "thesaurus": "To fight physically",
+  "type": "Synonyms"
+}

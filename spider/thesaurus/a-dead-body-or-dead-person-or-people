@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the body of a [dead_1]{dead} [person]{person}",
+      "entry": "body",
+      "id": "body#body__10"
+    },
+    {
+      "comment": "the body of a [dead_1]{dead} [person]{person}",
+      "entry": "corpse",
+      "id": "corpse#corpse__1"
+    },
+    {
+      "comment": "the body of a [person]{person} or [animal_1]{animal} that has [die_1]{died}",
+      "entry": "remains",
+      "id": "remains#remains__1"
+    },
+    {
+      "comment": "a [dead_1]{dead} [human_1]{human} body",
+      "entry": "cadaver",
+      "id": "cadaver#cadaver__1"
+    },
+    {
+      "comment": "a [dead_1]{dead} [person]{person} or [people_1]{people}, [especially]{especially} when the [death]{death} or [death]{deaths} were [recent]{recent}",
+      "entry": "the deceased",
+      "id": "deceased#deceased__3"
+    },
+    {
+      "comment": "a [person]{person} who is [dead_1]{dead}, or [people_1]{people} who are [dead_1]{dead}",
+      "entry": "the departed",
+      "id": "departed#departed__2"
+    },
+    {
+      "comment": "[people_1]{people} who are [dead_1]{dead}",
+      "entry": "the dead",
+      "id": "dead_1#dead_1__12"
+    },
+    {
+      "comment": "a [dead_1]{dead} body that has been [treat_1]{treated} with [special_1]{special} [oil_1]{oils} and [wrap_1]{wrapped} in long [narrow_1]{narrow} [piece_1]{pieces} of [cloth]{cloth} to [prevent]{prevent} it from [decay_1]{decaying}, [especially]{especially} in [ancient]{ancient} Egypt",
+      "entry": "mummy",
+      "id": "mummy#mummy__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} [kill_1]{killed} in a [battle_1]{battle} or [accident]{accident}, or the [process_1]{process} of [count_1]{counting} them",
+      "entry": "body count",
+      "id": "body-count#body-count__1"
+    },
+    {
+      "comment": "the body of a dead person. This is an offensive way to talk about someone who is dead.",
+      "entry": "stiff",
+      "id": "stiff_3#stiff_3__1"
+    }
+  ],
+  "thesaurus": "A dead body or dead person or people",
+  "type": "Synonyms"
+}

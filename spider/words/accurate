@@ -1,0 +1,28 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[correct_1]{correct} or [true_1]{true} in every detail",
+      "examples": [
+        "We [need_1]{need} to get an accurate [estimate_1]{estimate} of what the [new]{new} [building]{building} will [cost_1]{cost}.",
+        "Would it be more accurate to [say_1]{say} that the [plan_1]{plan} [failed]{failed}?"
+      ],
+      "id": "accurate__1"
+    },
+    {
+      "def": "[able_1]{able} to do something in an [exact_1]{exact} way, without [making]{making} a [mistake_1]{mistake}",
+      "examples": [
+        "an accurate [clock_1]{clock}",
+        "He\u2019s very accurate in his [calculation]{calculations}.",
+        "a stop watch accurate to 0.01 of a second  (=never wrong by more than 0.01 of a second)"
+      ],
+      "id": "accurate__4"
+    },
+    {
+      "def": "an accurate [throw_1]{throw} or [shot_1]{shot} [go_1]{goes} where it is [intended_1]{intended} to go",
+      "examples": [],
+      "id": "accurate__8"
+    }
+  ],
+  "word": "accurate"
+}

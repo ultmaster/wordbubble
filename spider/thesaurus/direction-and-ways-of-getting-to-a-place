@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [path]{path} that someone or something [move_1]{moves} along when [going_1]{going} toward a [place_1]{place}",
+      "entry": "direction",
+      "id": "direction#direction__1"
+    },
+    {
+      "comment": "the [fact]{fact} of coming [close_2]{closer} in time or in [distance_1]{distance}",
+      "entry": "approach",
+      "id": "approach_2#approach_2__6"
+    },
+    {
+      "comment": "a way from one [place_1]{place} to another [passing_1]{passing} through a [lot_1]{lot} of [people_1]{people} or around a [lot_1]{lot} of [object_1]{objects}",
+      "entry": "path",
+      "id": "path#path__5"
+    },
+    {
+      "comment": "the [direction]{direction} that a [vehicle]{vehicle}, [especially]{especially} a [ship_1]{ship} or [airplane]{airplane}, is [traveling]{traveling} in or [plan_1]{plans} to [travel_1]{travel} in",
+      "entry": "course",
+      "id": "course_1#course_1__13"
+    },
+    {
+      "comment": "a way through a [place_1]{place}, [especially]{especially} when this is [difficult]{difficult}",
+      "entry": "passage",
+      "id": "passage#passage__7"
+    },
+    {
+      "comment": "the [direction]{direction} in which something [move_1]{moves}",
+      "entry": "track",
+      "id": "track_1#track_1__13"
+    },
+    {
+      "comment": "the [direction]{direction} or [path]{path} along which someone or something [move_1]{moves} or [look_1]{looks}",
+      "entry": "line",
+      "id": "line_1#line_1__53"
+    },
+    {
+      "comment": "the [direction]{direction} in which something is [standing_1]{standing} or [moving]{moving}",
+      "entry": "way",
+      "id": "way_1#way_1__24"
+    },
+    {
+      "comment": "[movement]{movement} [past_1]{past}, over, or through a [place_1]{place}",
+      "entry": "passage",
+      "id": "passage#passage__10"
+    },
+    {
+      "comment": "the [direction]{direction} from which something comes, or the [direction]{direction} from which you [look_1]{look} at something, [especially]{especially} when it is not [directly_1]{directly} in front of you",
+      "entry": "angle",
+      "id": "angle_1#angle_1__4"
+    }
+  ],
+  "thesaurus": "Direction and ways of getting to a place",
+  "type": "Synonyms"
+}

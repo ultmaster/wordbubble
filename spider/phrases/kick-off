@@ -1,0 +1,42 @@
+{
+  "part": "phrase",
+  "phrase": "kick off",
+  "senses": [
+    {
+      "def": "to [begin]{begin}, or to [begin]{begin} something",
+      "examples": [
+        "The show [kick_1]{kicks} off this [week]{week} in San Francisco.",
+        "I\u2019d [like_1]{like} to [kick_1]{kick} off with a [quick_1]{quick} [look_1]{look} at last [month]{month}\u2019s [sale]{sales} [figure_1]{figures}."
+      ],
+      "id": "kick-off__1"
+    },
+    {
+      "def": "when a [football]{football} [game_1]{game} [kick_1]{kicks} off, a [player]{player} [start_1]{starts} it by [kick_1]{kicking} the [ball_1]{ball}",
+      "examples": [
+        "The [game_1]{game} [kick_1]{kicks} off at 7:30."
+      ],
+      "id": "kick-off__4"
+    },
+    {
+      "def": "to [force_1]{force} someone to [leave_1]{leave} a [place_1]{place} or [activity]{activity}",
+      "examples": [
+        "He was [kick_1]{kicked} off the [golf]{golf} [course_1]{course} for [swear_1]{swearing}."
+      ],
+      "id": "kick-off__6"
+    },
+    {
+      "def": "to [make_1]{make} your [shoe_1]{shoes} come off by [shake_1]{shaking} your [feet]{feet}",
+      "examples": [
+        "Phyllis [kick_1]{kicked} off her [sandal]{sandals}."
+      ],
+      "id": "kick-off__8"
+    },
+    {
+      "def": "to [suddenly]{suddenly} become very [angry]{angry} or [upset_1]{upset} and [start_1]{start} [fighting]{fighting} or [argue]{arguing}",
+      "examples": [
+        "He [just_1]{just} [kick_1]{kicked} off without any [warning]{warning} when he [saw_1]{saw} her."
+      ],
+      "id": "kick-off__10"
+    }
+  ]
+}

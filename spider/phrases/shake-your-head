@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "shake your head",
+  "senses": [
+    {
+      "def": "to [say_1]{say} no by [turning]{turning} your [head_1]{head} from side to side",
+      "examples": [
+        "My [boss_1]{boss} [shook]{shook} his [head_1]{head} and I [knew]{knew} not to [ask_1]{ask} again."
+      ],
+      "id": "shake-your-head__1"
+    },
+    {
+      "def": "to show you do not [understand]{understand} something by [turning]{turning} your [head_1]{head} from side to side",
+      "examples": [
+        "She [just_1]{just} [smile_1]{smiled} and [shook]{shook} her [head_1]{head} as they [sat_1]{sat} and [discuss]{discussed} [hockey]{hockey}."
+      ],
+      "id": "shake-your-head__3"
+    }
+  ]
+}

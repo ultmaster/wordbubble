@@ -1,0 +1,25 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "urgent [thing]{things} are [thing]{things} that you [need_1]{need} to [deal_1]{deal} with [immediately]{immediately}",
+      "examples": [
+        "He had some urgent [business]{business} to [attend]{attend} to.",
+        "The [problem]{problem} is becoming [increasingly]{increasingly} urgent.",
+        "The [refugee]{refugees} are in urgent [need_1]{need} of [food]{food}.",
+        "His [newspaper]{newspaper} [publish]{published} an urgent [appeal_1]{appeal} to [stop_1]{stop} the [killing]{killing}.",
+        "urgent [aid_1]{aid} to [flood_1]{flood} [victim]{victims}",
+        "an urgent [review_1]{review} of [safety]{safety} [procedure]{procedures}"
+      ],
+      "id": "urgent__1"
+    },
+    {
+      "def": "[express_1]{expressing} the [feeling_1]{feeling} of [wanting]{wanting} something very much or [wanting]{wanting} it [immediately]{immediately}",
+      "examples": [
+        "Jean [spoke_1]{spoke}, her [voice_1]{voice} low and urgent."
+      ],
+      "id": "urgent__9"
+    }
+  ],
+  "word": "urgent"
+}

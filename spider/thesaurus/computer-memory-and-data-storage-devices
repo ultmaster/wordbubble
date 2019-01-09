@@ -1,0 +1,276 @@
+{
+  "entries": [
+    {
+      "comment": "a computer [disc]{disc} that can [store_1]{store} [large_1]{large} [amount_1]{amounts} of [information]{information} and that [produce_1]{produces} very [high_1]{high} [quality_1]{quality} [picture_1]{pictures} and [sound_1]{sounds}, [used]{used} [especially]{especially} for computer [game_1]{games} and /[movie]{movies}",
+      "entry": "blu-ray",
+      "id": "blu-ray#blu-ray__1"
+    },
+    {
+      "comment": "a disk that contains a program for starting a computer and the operating system software",
+      "entry": "boot disk",
+      "id": "boot-disk#boot-disk__1"
+    },
+    {
+      "comment": "an [area]{area} in a computer\u2019s [memory]{memory} where [information]{information} is [kept]{kept} [temporarily]{temporarily} when you are [send_1]{sending} it from one system or [program_1]{program} to another",
+      "entry": "buffer",
+      "id": "buffer_1#buffer_1__4"
+    },
+    {
+      "comment": "an [area]{area} of a computer\u2019s [memory]{memory} for [store_2]{storing} [information]{information} that is [regularly]{regularly} [need_1]{needed}",
+      "entry": "cache",
+      "id": "cache_1#cache_1__4"
+    },
+    {
+      "comment": "an [area]{area} of a computer\u2019s [memory]{memory} for [store_2]{storing} [information]{information} that is [regularly]{regularly} [need_1]{needed}",
+      "entry": "cache memory",
+      "id": "cache-memory#cache-memory__1"
+    },
+    {
+      "comment": "[compact_1]{compact} [disk]{disk}: a [small_1]{small} round [piece_1]{piece} of [hard_1]{hard} [plastic_1]{plastic} with [sound_1]{sound} [record_2]{recorded} on it or computer [information]{information} [store_2]{stored} on it",
+      "entry": "CD",
+      "id": "cd#cd__1"
+    },
+    {
+      "comment": "[compact_1]{compact} [disc]{disc} erasable: a CD that can have its [information]{information} [removed]{removed} and something else [record_2]{recorded} onto it",
+      "entry": "CDE",
+      "id": "cde#cde__1"
+    },
+    {
+      "comment": "[compact_1]{compact} [disc]{disc} recordable: an empty CD you can use only once to [record_1]{record} [music]{music} or [information]{information} from a computer",
+      "entry": "CD-R",
+      "id": "cd-r#cd-r__1"
+    },
+    {
+      "comment": "[compact_1]{compact} [disk]{disk} read-only [memory]{memory}: a CD that [store_1]{stores} [large_1]{large} [amount_1]{amounts} of [information]{information} for use by a computer",
+      "entry": "CD-ROM",
+      "id": "cd-rom#cd-rom__1"
+    },
+    {
+      "comment": "[compact_1]{compact} [disc]{disc} [rewritable]{rewritable}: a CD you can use as many times as you [want_1]{want} to [record_1]{record} [music]{music} or [information]{information} from a computer",
+      "entry": "CD-RW",
+      "id": "cd-rw#cd-rw__1"
+    },
+    {
+      "comment": "a [type_1]{type} of CD [used]{used} in the [past_1]{past} for [play_1]{playing} [video_1]{video}",
+      "entry": "CD-video",
+      "id": "cd-video#cd-video__1"
+    },
+    {
+      "comment": "a CD",
+      "entry": "compact disc",
+      "id": "compact-disc#compact-disc__1"
+    },
+    {
+      "comment": "a [card_1]{card} [contain]{containing} [electronic]{electronic} [information]{information} that you can read by [touching_1]{touching} the [card_1]{card} with a [special_1]{special} [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "contact card",
+      "id": "contact-card#contact-card__1"
+    },
+    {
+      "comment": "a [card_1]{card} [contain]{containing} [electronic]{electronic} [information]{information} that can be read from a [distance_1]{distance} with [special_1]{special} [equipment]{equipment} that [use_1]{uses} [radio_1]{radio} [wave_1]{waves}",
+      "entry": "contactless card",
+      "id": "contactless-card#contactless-card__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [disk]{disk}",
+      "entry": "disc",
+      "id": "disc#disc__1"
+    },
+    {
+      "comment": "a flat circular object such as a hard disk, DVD, etc. on which information from a computer can be stored",
+      "entry": "disk",
+      "id": "disk#disk__1"
+    },
+    {
+      "comment": "a CD or DVD",
+      "entry": "disk",
+      "id": "disk#disk__8"
+    },
+    {
+      "comment": "another name for a [floppy]{floppy} [disk]{disk}",
+      "entry": "diskette",
+      "id": "diskette#diskette__1"
+    },
+    {
+      "comment": "a double-density disk holds twice the amount of information as a standard disk",
+      "entry": "double-density",
+      "id": "double-density#double-density__1"
+    },
+    {
+      "comment": "a [music]{music} DVD that [contain]{contains} more [song]{songs} than a CD and has [better_1]{better} [sound_1]{sound} [quality_1]{quality}",
+      "entry": "DVD-A",
+      "id": "dvd-a#dvd-a__1"
+    },
+    {
+      "comment": "a DVD that you can use only once to [record_1]{record} [information]{information}, [especially]{especially} [image_1]{images}",
+      "entry": "DVD-R",
+      "id": "dvd-r#dvd-r__1"
+    },
+    {
+      "comment": "a computer DVD that can [hold_1]{hold} a [lot_1]{lot} more [information]{information} than a CD",
+      "entry": "DVD-ROM",
+      "id": "dvd-rom#dvd-rom__1"
+    },
+    {
+      "comment": "a DVD that you can use as many times as you [want_1]{want} to [record_1]{record} [information]{information}, [especially]{especially} [image_1]{images}",
+      "entry": "DVD-RW",
+      "id": "dvd-rw#dvd-rw__1"
+    },
+    {
+      "comment": "erasable-programmable read-only [memory]{memory}: computer [memory]{memory} that can be [changed]{changed} by a [user]{user} to [correct_1]{correct} a [problem]{problem} in the [program_1]{program} or to [add_1]{add} to what the [program_1]{program} can do",
+      "entry": "EPROM",
+      "id": "eprom#eprom__1"
+    },
+    {
+      "comment": "a small plastic disk drive that stores information and that you can carry around with you. You connect the flash drive to a computer when you want to use the information.",
+      "entry": "flash drive",
+      "id": "flash-drive#flash-drive__1"
+    },
+    {
+      "comment": "a type of computer memory that does not lose information when electrical power stops being available and from which you can erase  (=get rid of) information and then program it again",
+      "entry": "flash memory",
+      "id": "flash-memory#flash-memory__1"
+    },
+    {
+      "comment": "a small square plastic object used in the past for copying information from a computer. A floppy disk was often simply called a floppy.",
+      "entry": "floppy disk",
+      "id": "floppy-disk#floppy-disk__1"
+    },
+    {
+      "comment": "the part [inside_1]{inside} a computer that [store_1]{stores} the [information]{information} it [need_1]{needs} to [work_1]{work}",
+      "entry": "hard disk",
+      "id": "hard-disk#hard-disk__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [disk]{disk}",
+      "entry": "hard drive",
+      "id": "hard-drive#hard-drive__1"
+    },
+    {
+      "comment": "a part of a computer\u2019s [memory]{memory} where [e-mail_1]{e-mail} is [store_2]{stored}",
+      "entry": "mailbox",
+      "id": "mailbox#mailbox__3"
+    },
+    {
+      "comment": "a [substance]{substance} or an [object_1]{object} on which computer [information]{information} is [store_2]{stored} or [print_1]{printed}",
+      "entry": "medium",
+      "id": "medium_2#medium_2__11"
+    },
+    {
+      "comment": "the part of a computer in which [information]{information}, [instruction]{instructions}, and [program_1]{programs} are [store_2]{stored}",
+      "entry": "memory",
+      "id": "memory#memory__15"
+    },
+    {
+      "comment": "the [size_1]{size} of this part of a computer",
+      "entry": "memory",
+      "id": "memory#memory__16"
+    },
+    {
+      "comment": "the part of a computer where [information]{information} is [store_2]{stored}",
+      "entry": "memory bank",
+      "id": "memory-bank#memory-bank__1"
+    },
+    {
+      "comment": "a small disk drive that can store information for use in electronic equipment and that you carry around with you",
+      "entry": "Memory Stick",
+      "id": "memory-stick#memory-stick__1"
+    },
+    {
+      "comment": "a thin flat round piece of plastic that stores information such as music or written words that can be read using a laser  (=powerful narrow light). Optical disks include CD-ROMs and laserdisks.",
+      "entry": "optical disk",
+      "id": "optical-disk#optical-disk__1"
+    },
+    {
+      "comment": "a CD [contain]{containing} [photograph_1]{photographs} that you can [look_1]{look} at on a computer or [television]{television} [screen_1]{screen}",
+      "entry": "photo CD",
+      "id": "photo-cd#photo-cd__1"
+    },
+    {
+      "comment": "[random]{random} [access_1]{access} [memory]{memory}: the part of a computer that [program_1]{programs} are put into while you are [use_1]{using} them",
+      "entry": "RAM",
+      "id": "ram_3#ram_3__1"
+    },
+    {
+      "comment": "[ram_1]{RAM}",
+      "entry": "random access memory",
+      "id": "random-access-memory#random-access-memory__1"
+    },
+    {
+      "comment": "ROM",
+      "entry": "read-only memory",
+      "id": "read-only-memory#read-only-memory__1"
+    },
+    {
+      "comment": "a rewritable disk can be written on many times",
+      "entry": "rewritable",
+      "id": "rewritable#rewritable__1"
+    },
+    {
+      "comment": "read-only memory: computer memory that is permanent and cannot be changed. Computer memory where you can save and change information is called RAM.",
+      "entry": "ROM",
+      "id": "rom#rom__1"
+    },
+    {
+      "comment": "the main directory  (=place where files are stored) that contains all the other directories in a system of organizing information",
+      "entry": "root directory",
+      "id": "root-directory#root-directory__1"
+    },
+    {
+      "comment": "[secure_1]{secure} [digital]{digital} [card_1]{card}: a [type_1]{type} of [memory]{memory} [card_1]{card} that is [used]{used} in [camera]{cameras}, [tablet]{tablets} and [phone_1]{phones}",
+      "entry": "SD card",
+      "id": "sd-card#sd-card__1"
+    },
+    {
+      "comment": "single inline memory module: a part that is attached to the motherboard of a computer to add memory",
+      "entry": "SIMM",
+      "id": "simm#simm__1"
+    },
+    {
+      "comment": "the [area]{area} that is [available]{available} on a computer for [store_2]{storing} [information]{information}",
+      "entry": "space",
+      "id": "space_1#space_1__6"
+    },
+    {
+      "comment": "a part of a computer\u2019s [memory]{memory} where [information]{information} is [kept]{kept} for a [short_1]{short} [period_1]{period}",
+      "entry": "spool",
+      "id": "spool_1#spool_1__2"
+    },
+    {
+      "comment": "a system for [store_2]{storing} [information]{information} on a computer",
+      "entry": "stack",
+      "id": "stack_1#stack_1__10"
+    },
+    {
+      "comment": "the [ability_1]{ability} of a computer to [store_1]{store} [information]{information}, or the [process_1]{process} of [doing]{doing} this",
+      "entry": "storage",
+      "id": "storage#storage__9"
+    },
+    {
+      "comment": "one small area in a computer where information is stored, or a list of the files and programs stored there. A subdirectory is in a directory, often with other subdirectories",
+      "entry": "subdirectory",
+      "id": "subdirectory#subdirectory__1"
+    },
+    {
+      "comment": "a disk that holds the system software",
+      "entry": "system disk",
+      "id": "system-disk#system-disk__1"
+    },
+    {
+      "comment": "a small disk drive that can store information from a computer and that you can carry around with you",
+      "entry": "thumb drive",
+      "id": "thumb-drive#thumb-drive__1"
+    },
+    {
+      "comment": "computer [memory]{memory} that is [used]{used} as a [disk]{disk} to [store_1]{store} [information]{information}",
+      "entry": "virtual disk",
+      "id": "virtual-disk#virtual-disk__1"
+    },
+    {
+      "comment": "space on a computer\u2019s hard drive that the software can use as a temporary place to store information",
+      "entry": "virtual memory",
+      "id": "virtual-memory#virtual-memory__1"
+    }
+  ],
+  "thesaurus": "Computer memory and data storage devices",
+  "type": "Related words"
+}

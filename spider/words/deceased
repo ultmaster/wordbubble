@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[dead_1]{dead}",
+      "examples": [
+        "[flower_1]{flowers} on the [grave_2]{graves} of deceased [relative_2]{relatives}"
+      ],
+      "id": "deceased__1"
+    },
+    {
+      "def": "a [dead_1]{dead} [person]{person} or [people_1]{people}, [especially]{especially} when the [death]{death} or [death]{deaths} were [recent]{recent}",
+      "examples": [
+        "The deceased was a [highly]{highly} [respected]{respected} [member]{member} of the [farming]{farming} [community]{community}."
+      ],
+      "id": "deceased__3"
+    }
+  ],
+  "word": "deceased"
+}

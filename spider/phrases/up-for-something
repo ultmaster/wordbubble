@@ -1,0 +1,38 @@
+{
+  "part": "phrase",
+  "phrase": "up for something",
+  "senses": [
+    {
+      "def": "in a [situation]{situation} to be [considered]{considered} or [examine]{examined} for a [particular_1]{particular} [status]{status} or [job_1]{job}",
+      "examples": [
+        "The [senator]{senator} is up for [reelect#reelect__2]{reelection} in 2006.",
+        "She\u2019s up for [consideration]{consideration} for a [managerial]{managerial} [position_1]{position}.",
+        "Robinson will not be up for [parole_1]{parole} for another five [year]{years}.",
+        "The [contract_1]{contract} is up for [renewal]{renewal} next [year]{year}."
+      ],
+      "id": "up-for-something__1"
+    },
+    {
+      "def": "[available]{available} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "Most of the [house_1]{houses} are up for [sale]{sale}.",
+        "It was [agreed]{agreed} that the [baby_1]{baby} would be put up for [adoption]{adoption}."
+      ],
+      "id": "up-for-something__6"
+    },
+    {
+      "def": "[appear]{appearing} in a [court_1]{court} of [law]{law} because you have been [accuse]{accused} of a [crime_1]{crime}",
+      "examples": [
+        "He\u2019s up for [armed]{armed} [robbery]{robbery}."
+      ],
+      "id": "up-for-something__9"
+    },
+    {
+      "def": "[willing]{willing} to do a [particular_1]{particular} [activity]{activity}",
+      "examples": [
+        "\u201cWhat do you [feel_1]{feel} [like_1]{like} [doing]{doing}?\u201d \u201cI\u2019d be up for [just_1]{just} about anything.\u201d"
+      ],
+      "id": "up-for-something__11"
+    }
+  ]
+}

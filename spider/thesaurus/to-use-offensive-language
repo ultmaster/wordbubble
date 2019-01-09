@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "to use [word_1]{words} that are [deliberately]{deliberately} [offensive_1]{offensive}, for [example]{example} because you are [angry]{angry} with someone",
+      "entry": "swear",
+      "id": "swear#swear__1"
+    },
+    {
+      "comment": "to use [offensive_1]{offensive} or [impolite]{impolite} [language]{language}",
+      "entry": "curse",
+      "id": "curse_1#curse_1__1"
+    },
+    {
+      "comment": "to [say_1]{say} or [think_1]{think} [offensive_1]{offensive} or [impolite]{impolite} [word_1]{words} about someone or something",
+      "entry": "curse",
+      "id": "curse_1#curse_1__3"
+    },
+    {
+      "comment": "to [swear_1]{swear} [use_1]{using} [god_1]{God}\u2019s name in a way that [offend]{offends} [people_1]{people}",
+      "entry": "blaspheme",
+      "id": "blaspheme#blaspheme__2"
+    },
+    {
+      "comment": "to [speak_1]{speak} to someone in an [angry]{angry}, [offensive_1]{offensive} way",
+      "entry": "abuse",
+      "id": "abuse_2#abuse_2__9"
+    },
+    {
+      "comment": "to [swear_1]{swear}",
+      "entry": "cuss",
+      "id": "cuss_1#cuss_1__1"
+    },
+    {
+      "comment": "to [swear_1]{swear} a [lot_1]{lot}",
+      "entry": "swear like a trooper",
+      "id": "swear-like-a-trooper#swear-like-a-trooper__1"
+    }
+  ],
+  "thesaurus": "To use offensive language",
+  "type": "Synonyms"
+}

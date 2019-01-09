@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[wanting]{wanting} to [protect]{protect} someone from being [harm_2]{harmed} or [hurt_1]{hurt}",
+      "entry": "protective",
+      "id": "protective#protective__3"
+    },
+    {
+      "comment": "[intended_1]{intended} or [used]{used} for [protect]{protecting} a [place_1]{place} during an [attack_1]{attack}",
+      "entry": "defensive",
+      "id": "defensive_1#defensive_1__3"
+    },
+    {
+      "comment": "done or [used]{used} for [protection]{protection} against [possible_1]{possible} [harm_1]{harm} or [trouble_1]{trouble}",
+      "entry": "precautionary",
+      "id": "precautionary#precautionary__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [involved]{involved} in a [rescue_1]{rescue}",
+      "entry": "rescue",
+      "id": "rescue_2#rescue_2__4"
+    },
+    {
+      "comment": "[determined]{determined} to [stop_1]{stop} something from being [damage_2]{damaged} or [lost_1]{lost}",
+      "entry": "protective",
+      "id": "protective#protective__6"
+    },
+    {
+      "comment": "[involve]{involving} [responsibility]{responsibility} for [take_1]{taking} [care_1]{care} of [money]{money} or [property]{property} that [belong]{belongs} to someone else",
+      "entry": "fiduciary",
+      "id": "fiduciary_1#fiduciary_1__1"
+    },
+    {
+      "comment": "done in [order_1]{order} to [prevent]{prevent} someone from [dying_1]{dying}",
+      "entry": "lifesaving",
+      "id": "lifesaving_1#lifesaving_1__1"
+    },
+    {
+      "comment": "[trying]{trying} to [defend]{defend} something from [attack_1]{attacks} or [criticism]{criticism}",
+      "entry": "on the defensive",
+      "id": "defensive_2#defensive_2__2"
+    }
+  ],
+  "thesaurus": "Protective",
+  "type": "Synonyms"
+}

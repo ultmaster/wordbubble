@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "something [large_1]{large} and [ugly]{ugly}",
+      "entry": "monstrosity",
+      "id": "monstrosity#monstrosity__1"
+    },
+    {
+      "comment": "something that is [ugly]{ugly} or [unpleasant]{unpleasant} to [look_1]{look} at, [especially]{especially} a [building]{building}",
+      "entry": "eyesore",
+      "id": "eyesore#eyesore__1"
+    },
+    {
+      "comment": "something that is very [unpleasant]{unpleasant} or [frightening]{frightening}",
+      "entry": "horror",
+      "id": "horror#horror__3"
+    },
+    {
+      "comment": "a part that has been [added]{added} to something and [look_1]{looks} [ugly]{ugly}",
+      "entry": "excrescence",
+      "id": "excrescence#excrescence__1"
+    },
+    {
+      "comment": "a [combination]{combination} of two [color_1]{colors}, [pattern_1]{patterns}, etc. that do not [look_1]{look} [good_1]{good} together",
+      "entry": "clash",
+      "id": "clash_1#clash_1__14"
+    },
+    {
+      "comment": "something that [make_1]{makes} a [place_1]{place} [look_1]{look} less [attractive]{attractive}, for [example]{example} an [ugly]{ugly} [building]{building}",
+      "entry": "a blot on the landscape",
+      "id": "a-blot-on-the-landscape#a-blot-on-the-landscape__1"
+    },
+    {
+      "comment": "something that is [strange_1]{strange} or [unpleasant]{unpleasant} to [look_1]{look} at",
+      "entry": "a sight for sore eyes",
+      "id": "a-sight-for-sore-eyes#a-sight-for-sore-eyes__3"
+    },
+    {
+      "comment": "a [person]{person} or [place_1]{place} that is very [unusual]{unusual}, [messy]{messy}, or [unpleasant]{unpleasant} to [look_1]{look} at",
+      "entry": "sight",
+      "id": "sight_1#sight_1__22"
+    },
+    {
+      "comment": "a [person]{person} or thing that is [extremely]{extremely} [strange_1]{strange} and [ugly]{ugly}",
+      "entry": "grotesque",
+      "id": "grotesque_2#grotesque_2__1"
+    }
+  ],
+  "thesaurus": "Ugly things",
+  "type": "Synonyms"
+}

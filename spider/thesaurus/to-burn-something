@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [damage_1]{damage} or [destroy]{destroy} something with fire",
+      "entry": "burn",
+      "id": "burn_1#burn_1__7"
+    },
+    {
+      "comment": "to [make_1]{make} something [start_1]{start} [burning]{burning}",
+      "entry": "set light to something",
+      "id": "set-light-to-something#set-light-to-something__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} a [building]{building} or something [large_1]{large} with fire, or to be [destroy]{destroyed} in this way",
+      "entry": "burn down",
+      "id": "burn-down#burn-down__1"
+    },
+    {
+      "comment": "to [burn_1]{burn} something [completely]{completely}",
+      "entry": "incinerate",
+      "id": "incinerate#incinerate__1"
+    },
+    {
+      "comment": "to [burn_1]{burn} the [surface_1]{surface} of something with [extreme_1]{extreme} [heat_1]{heat}",
+      "entry": "sear",
+      "id": "sear#sear__1"
+    },
+    {
+      "comment": "if you [scorch]{scorch} something, or if it [scorch]{scorches}, it [burn_1]{burns} enough to [change_1]{change} [color_1]{color} or be [damage_2]{damaged} on the [surface_1]{surface}",
+      "entry": "scorch",
+      "id": "scorch#scorch__1"
+    },
+    {
+      "comment": "to [burn_1]{burn} something [slightly]{slightly} so that only the [edge_1]{edge} or [surface_1]{surface} is [affected]{affected}",
+      "entry": "singe",
+      "id": "singe_1#singe_1__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} something [completely]{completely}, [especially]{especially} by [burning]{burning} it",
+      "entry": "consume",
+      "id": "consume#consume__7"
+    },
+    {
+      "comment": "to [set_1]{set} fire to something",
+      "entry": "torch",
+      "id": "torch_2#torch_2__1"
+    },
+    {
+      "comment": "if a [building]{building} [burn_1]{burns} to the [ground_1]{ground}, it [burn_1]{burns} [completely]{completely}, so that there is nothing [left_1]{left}",
+      "entry": "to the ground",
+      "id": "to-the-ground#to-the-ground__1"
+    }
+  ],
+  "thesaurus": "To burn something",
+  "type": "Synonyms"
+}

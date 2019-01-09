@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "someone or something that is [funny]{funny} [make_1]{makes} you [laugh_1]{laugh}",
+      "entry": "funny",
+      "id": "funny#funny__1"
+    },
+    {
+      "comment": "[funny]{funny}",
+      "entry": "humorous",
+      "id": "humorous#humorous__1"
+    },
+    {
+      "comment": "[intended_1]{intended} to be [funny]{funny} or [friendly_1]{friendly} rather than serious",
+      "entry": "playful",
+      "id": "playful#playful__4"
+    },
+    {
+      "comment": "[funny]{funny} or [entertaining]{entertaining}",
+      "entry": "amusing",
+      "id": "amusing#amusing__1"
+    },
+    {
+      "comment": "[funny]{funny}",
+      "entry": "comic",
+      "id": "comic_1#comic_1__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [funny]{funny}",
+      "entry": "hilarious",
+      "id": "hilarious#hilarious__1"
+    },
+    {
+      "comment": "something that is [comical]{comical} [make_1]{makes} you [laugh_1]{laugh} because it is so [strange_1]{strange} or [silly_1]{silly}",
+      "entry": "comical",
+      "id": "comical#comical__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [funny]{funny}",
+      "entry": "hysterical",
+      "id": "hysterical#hysterical__6"
+    },
+    {
+      "comment": "[extremely]{extremely} [funny]{funny}",
+      "entry": "priceless",
+      "id": "priceless#priceless__5"
+    },
+    {
+      "comment": "[funny]{funny} and [clever]{clever}",
+      "entry": "wry",
+      "id": "wry#wry__1"
+    },
+    {
+      "comment": "[playful]{playful} or [related_1]{related} to [play_1]{play}",
+      "entry": "ludic",
+      "id": "ludic#ludic__1"
+    }
+  ],
+  "thesaurus": "Funny, playful and humorous",
+  "type": "Synonyms"
+}

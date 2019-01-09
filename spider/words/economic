@@ -1,0 +1,31 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to the [economy_1]{economy} of a [particular_1]{particular} [country]{country} or [region]{region}",
+      "examples": [
+        "[economic]{Economic} [growth]{growth} is [slow_2]{slowing} down.",
+        "[factor_1]{factors} that [hinder]{hinder} economic [development]{development}",
+        "an [attack_1]{attack} on the [government]{government}\u2019s economic [policy]{policies}",
+        "[new]{New} [opportunity]{opportunities} will [emerge]{emerge} as the economic [climate]{climate} [improve_1]{improves}.",
+        "Such [project_1]{projects} [offer_1]{offer} [social_1]{social} and economic [benefit_1]{benefits} to our [local_1]{local} [community]{communities}."
+      ],
+      "id": "economic__1"
+    },
+    {
+      "def": "not [costing]{costing} or [spending]{spending} much [money]{money}",
+      "examples": [
+        "We must [assist_1]{assist} our [client]{clients} in the most economic way."
+      ],
+      "id": "economic__10"
+    },
+    {
+      "def": "[making]{making} [satisfactory]{satisfactory} [profit_1]{profit} from [business]{business} [activity]{activities}",
+      "examples": [
+        "We are [going_1]{going} to have to [make_1]{make} some [cutback]{cutbacks} in [order_1]{order} to [continue]{continue} to be economic."
+      ],
+      "id": "economic__12"
+    }
+  ],
+  "word": "economic"
+}

@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "someone who makes animated movies or cartoons",
+      "entry": "animator",
+      "id": "animator#animator__1"
+    },
+    {
+      "comment": "someone whose job is to decide about the clothes, lights, and scenery for a play or movie",
+      "entry": "art director",
+      "id": "art-director#art-director__1"
+    },
+    {
+      "comment": "a [movie]{movie} [director]{director} who has almost [total_1]{total} [control_1]{control} over their [movie]{movies}",
+      "entry": "auteur",
+      "id": "auteur#auteur__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [help_1]{help} the [person]{person} in [charge_1]{charge} of [fitting_1]{fitting} or [repair_1]{repairing} the [electrical_1]{electrical} [equipment]{equipment} [need_1]{needed} for [making]{making} a [movie]{movie}",
+      "entry": "best boy",
+      "id": "best-boy#best-boy__1"
+    },
+    {
+      "comment": "a method used in movie making that involves filming the action in front of a background of a single color and later replacing the background with a scene",
+      "entry": "bluescreen",
+      "id": "bluescreen#bluescreen__1"
+    },
+    {
+      "comment": "someone who [operate]{operates} a [camera]{camera} for [making]{making} [movie]{movies} or [television]{television} [program_1]{programs}",
+      "entry": "cameraman",
+      "id": "cameraman#cameraman__1"
+    },
+    {
+      "comment": "someone who is in [charge_1]{charge} of [making]{making} a [movie]{movie} or [program_1]{program}, or [get]{getting} a [play_1]{play} ready for [performance]{performance}, [especially]{especially} by [telling]{telling} the [actor]{actors} and [technical]{technical} [staff_1]{staff} what to do",
+      "entry": "director",
+      "id": "director#director__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [work_1]{work} of a [director]{director}, [especially]{especially} a [movie]{movie} [director]{director}",
+      "entry": "directorial",
+      "id": "directorial#directorial__1"
+    },
+    {
+      "comment": "a [movie]{movie} [director]{director}, [especially]{especially} an [independent_1]{independent} [director]{director} who has full [control_1]{control} over the [movie]{movies} he or she [make_1]{makes}",
+      "entry": "filmmaker",
+      "id": "filmmaker#filmmaker__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [control_1]{control} the use of the [light_1]{lights} when a [movie]{movie} is being made",
+      "entry": "gaffer",
+      "id": "gaffer#gaffer__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to move [camera]{cameras} around while [television]{television} [program_1]{programs} or [movie]{movies} are being made",
+      "entry": "grip",
+      "id": "grip_1#grip_1__11"
+    },
+    {
+      "comment": "a [filmmaker]{filmmaker}",
+      "entry": "moviemaker",
+      "id": "moviemaker#moviemaker__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [organize]{organize} the [work_1]{work} and [money]{money} [involved]{involved} in [making]{making} a [movie]{movie}, [play_1]{play}, [television]{television} [program_1]{program}, CD, etc.",
+      "entry": "producer",
+      "id": "producer#producer__1"
+    },
+    {
+      "comment": "someone who is in [charge_1]{charge} of the [practical]{practical} [arrangement]{arrangements} for a [play_1]{play} or other show",
+      "entry": "stage manager",
+      "id": "stage-manager#stage-manager__1"
+    },
+    {
+      "comment": "a man whose [job_1]{job} is to [perform]{perform} [dangerous]{dangerous} [action_1]{actions} in a [movie]{movie}",
+      "entry": "stunt man",
+      "id": "stunt-man#stunt-man__1"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [perform]{perform} [dangerous]{dangerous} [action_1]{actions} in a [movie]{movie}",
+      "entry": "stunt woman",
+      "id": "stunt-woman#stunt-woman__1"
+    }
+  ],
+  "thesaurus": "People who work in movie-making and theater",
+  "type": "Related words"
+}

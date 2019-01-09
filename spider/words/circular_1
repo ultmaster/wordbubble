@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "in the [shape_1]{shape} of a [circle_1]{circle}",
+      "examples": [
+        "a circular [tray]{tray}",
+        "a circular [tour_1]{tour} of the [main_1]{main} [island]{islands}"
+      ],
+      "id": "circular_1__1"
+    },
+    {
+      "def": "a circular [argument]{argument} or [theory]{theory} [does]{does} not mean anything because it [consist]{consists} of a [series]{series} of [cause_1]{causes} and [effect_1]{effects} that [lead_1]{lead} you back to the [original_1]{original} cause",
+      "examples": [],
+      "id": "circular_1__5"
+    },
+    {
+      "def": "[sent]{sent} to many [people_1]{people} at the same time",
+      "examples": [
+        "a circular [letter_1]{letter}"
+      ],
+      "id": "circular_1__6"
+    }
+  ],
+  "word": "circular"
+}

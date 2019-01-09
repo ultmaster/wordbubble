@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[consist]{consisting} of [different]{different} [thing]{things}",
+      "examples": [
+        "mixed herbs/vegetables/nuts"
+      ],
+      "id": "mixed__1"
+    },
+    {
+      "def": "[partly]{partly} [good_1]{good} and [partly]{partly} [bad_1]{bad}",
+      "examples": [
+        "[reaction]{Reactions} to the [new]{new} [policy]{policy} have been mixed.",
+        "The [movie]{movie} [open_2]{opened} last [week]{week} to mixed [review_1]{reviews}."
+      ],
+      "id": "mixed__3"
+    },
+    {
+      "def": "[involve]{involving} [people_1]{people} of [different]{different} [age_1]{ages}, [ability_1]{abilities}, [race_1]{races}, etc.",
+      "examples": [
+        "a mixed [population]{population}",
+        "The [curriculum]{curriculum} is [design_2]{designed} for [student]{students} of mixed [ability_1]{abilities}."
+      ],
+      "id": "mixed__6"
+    }
+  ],
+  "word": "mixed"
+}

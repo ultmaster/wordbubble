@@ -1,0 +1,22 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[related_1]{related} to the [structure_1]{structure} of something such as a [building]{building}",
+      "examples": [
+        "structural [damage_1]{damage}",
+        "The [school_1]{school} [need_1]{needs} [major_1]{major} structural [repair_1]{repairs}.",
+        "structural [steel_1]{steel}"
+      ],
+      "id": "structural__1"
+    },
+    {
+      "def": "[related_1]{related} to the way that something such as an [institution]{institution} or [economy_1]{economy} is [organized]{organized}",
+      "examples": [
+        "[structural]{Structural} [change_1]{changes} were [need_1]{needed} in the [steel_1]{steel} [industry]{industry}."
+      ],
+      "id": "structural__6"
+    }
+  ],
+  "word": "structural"
+}

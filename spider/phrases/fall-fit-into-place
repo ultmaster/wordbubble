@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fall/fit into place",
+  "senses": [
+    {
+      "def": "if something [fall_1]{falls} or [fit_1]{fits} into [place_1]{place}, you [suddenly]{suddenly} [understand]{understand} something that you [previously]{previously} have been [unable]{unable} to [understand]{understand}",
+      "examples": [
+        "It all [fell_1]{fell} into [place_1]{place} when I [learned]{learned} he\u2019d been to [new]{New} York that [weekend_1]{weekend}."
+      ],
+      "id": "fall-fit-into-place__1"
+    },
+    {
+      "def": "if [thing]{things} [fall_1]{fall} or [fit_1]{fit} into [place_1]{place}, they [start_1]{start} to [happen]{happen} in the way that you [want_1]{want} them to",
+      "examples": [
+        "After [week]{weeks} of [total_1]{total} [chaos]{chaos}, [suddenly]{suddenly} everything [just_1]{just} [fell_1]{fell} into [place_1]{place}."
+      ],
+      "id": "fall-fit-into-place__3"
+    }
+  ]
+}

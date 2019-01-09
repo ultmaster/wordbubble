@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[blank_1]{blank} [paper_1]{paper} or a [blank_1]{blank} [space_1]{space} is empty and [contain]{contains} no [writing]{writing} or other [mark_1]{marks}",
+      "entry": "blank",
+      "id": "blank_1#blank_1__4"
+    },
+    {
+      "comment": "a [clean_1]{clean} [piece_1]{piece} of [paper_1]{paper} [does]{does} not have anything [written_1]{written} on it",
+      "entry": "clean",
+      "id": "clean_1#clean_1__31"
+    },
+    {
+      "comment": "[lined]{lined} [paper_1]{paper} has [lines]{lines} [print_1]{printed} on it to [help_1]{help} to you [write]{write} [straight_1]{straight}",
+      "entry": "lined",
+      "id": "lined#lined__1"
+    },
+    {
+      "comment": "made of [strong]{strong}, light-brown [paper_1]{paper}",
+      "entry": "manila",
+      "id": "manila#manila__1"
+    },
+    {
+      "comment": "[ruled]{ruled} [paper_1]{paper} has [straight_1]{straight} [lines]{lines} [print_1]{printed} on it",
+      "entry": "ruled",
+      "id": "ruled#ruled__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} something made of [special_1]{special} [paper_1]{paper} that [produce_1]{produces} a [particular_1]{particular} [smell_1]{smell} when you [scratch_1]{scratch} it",
+      "entry": "scratch-and-sniff",
+      "id": "scratch-and-sniff#scratch-and-sniff__1"
+    },
+    {
+      "comment": "[squared]{squared} [paper_1]{paper} has [small_1]{small} [square_1]{squares} [print_1]{printed} on it",
+      "entry": "squared",
+      "id": "squared#squared__1"
+    },
+    {
+      "comment": "[sticky]{sticky} [paper_1]{paper} or [plastic_1]{plastic} has [glue_1]{glue} on one side so that it [stick_1]{sticks} to a [surface_1]{surface}",
+      "entry": "sticky",
+      "id": "sticky#sticky__9"
+    }
+  ],
+  "thesaurus": "Words used to describe paper and pieces of paper",
+  "type": "Related words"
+}

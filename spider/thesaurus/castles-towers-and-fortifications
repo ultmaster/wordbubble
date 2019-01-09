@@ -1,0 +1,156 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area} of [land_1]{land} between the [outer_1]{outer} and [inner_1]{inner} [wall_1]{walls} of a [castle]{castle}",
+      "entry": "bailey",
+      "id": "bailey#bailey__1"
+    },
+    {
+      "comment": "a [wall_1]{wall} around the top of a [castle]{castle}, with [space_1]{spaces} through which [weapon]{weapons} could be [fire_2]{fired}",
+      "entry": "battlements",
+      "id": "battlements#battlements__1"
+    },
+    {
+      "comment": "the part of a [tower_1]{tower} that has a [bell_1]{bell} in it",
+      "entry": "belfry",
+      "id": "belfry#belfry__1"
+    },
+    {
+      "comment": "a [tower_1]{tower} of a [church]{church} or other [building]{building} in which there is a [bell_1]{bell}",
+      "entry": "bell tower",
+      "id": "bell-tower#bell-tower__1"
+    },
+    {
+      "comment": "a [tall]{tall} [tower_1]{tower} with a [bell_1]{bell} at the top, [especially]{especially} one [near_1]{near} a [church]{church} but not a part of it",
+      "entry": "campanile",
+      "id": "campanile#campanile__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [kasbah]{kasbah}",
+      "entry": "casbah",
+      "id": "casbah#casbah__2"
+    },
+    {
+      "comment": "in architecture, a castellated building is made to look like a castle, usually with battlements",
+      "entry": "castellated",
+      "id": "castellated#castellated__1"
+    },
+    {
+      "comment": "a [large_1]{large} [strong]{strong} [building]{building} with thick [wall_1]{walls}, [built_1]{built} in the [past_1]{past} to [protect]{protect} the [people_1]{people} [inside_1]{inside} from being [attack_2]{attacked}",
+      "entry": "castle",
+      "id": "castle#castle__1"
+    },
+    {
+      "comment": "a [castle]{castle} or [large_1]{large} [house_1]{house} in the French [countryside]{countryside}",
+      "entry": "chateau",
+      "id": "chateau#chateau__1"
+    },
+    {
+      "comment": "a [woman]{woman} in [charge_1]{charge} of a [castle]{castle} or [large_1]{large} [house_1]{house}",
+      "entry": "chatelaine",
+      "id": "chatelaine#chatelaine__1"
+    },
+    {
+      "comment": "a [castle]{castle} [intended_1]{intended} [originally]{originally} for the [defense]{defense} of a [city]{city}, [usually]{usually} [built_1]{built} on a [high_1]{high} [place_1]{place}",
+      "entry": "citadel",
+      "id": "citadel#citadel__1"
+    },
+    {
+      "comment": "in architecture, a crenelated wall or castle has battlements",
+      "entry": "crenelated",
+      "id": "crenelated#crenelated__1"
+    },
+    {
+      "comment": "a [bridge_1]{bridge} that can be [pull_1]{pulled} up to [let_1]{let} [ship_1]{ships} [pass_1]{pass} or to [stop_1]{stop} [people_1]{people} from [get]{getting} into a [castle]{castle}",
+      "entry": "drawbridge",
+      "id": "drawbridge#drawbridge__1"
+    },
+    {
+      "comment": "a [dark_1]{dark} [underground_1]{underground} [room_1]{room} in a [castle]{castle} that was [used]{used} as a [prison]{prison} in the [past_1]{past}",
+      "entry": "dungeon",
+      "id": "dungeon#dungeon__1"
+    },
+    {
+      "comment": "a [place_1]{place} that is [difficult]{difficult} to [attack_1]{attack} or get [control_1]{control} of, [usually]{usually} because it is on the top of a [hill]{hill} or [mountain]{mountain}",
+      "entry": "fastness",
+      "id": "fastness#fastness__1"
+    },
+    {
+      "comment": "a [strong]{strong} [building]{building}, often with a [high_1]{high} [wall_1]{wall} around it, [used]{used} by [soldier_1]{soldiers} for [defend]{defending} a [place_1]{place}",
+      "entry": "fort",
+      "id": "fort#fort__1"
+    },
+    {
+      "comment": "[strong]{strong} [building]{buildings}, [wall_1]{walls}, [tower_1]{towers}, etc. [built_1]{built} around a [place_1]{place} in [order_1]{order} to [defend]{defend} it",
+      "entry": "fortifications",
+      "id": "fortification#fortification__3"
+    },
+    {
+      "comment": "a [strong]{strong} well-protected [building]{building} [used]{used} for [defend]{defending} a [place_1]{place}",
+      "entry": "fortress",
+      "id": "fortress#fortress__1"
+    },
+    {
+      "comment": "a [castle]{castle} [built_1]{built} on a [high_1]{high} [place_1]{place} to [defend]{defend} a [north_1]{North} African [city]{city}",
+      "entry": "kasbah",
+      "id": "kasbah#kasbah__2"
+    },
+    {
+      "comment": "a [large_1]{large} [strong]{strong} [tower_1]{tower} in the [center_1]{center} of a [castle]{castle}",
+      "entry": "keep",
+      "id": "keep_2#keep_2__4"
+    },
+    {
+      "comment": "a [deep_1]{deep} [wide_1]{wide} hole, [usually]{usually} [fill_1]{filled} with [water_1]{water}, that [surround_1]{surrounds} a [castle]{castle} as [protection]{protection} against [attack_1]{attack}",
+      "entry": "moat",
+      "id": "moat#moat__1"
+    },
+    {
+      "comment": "a [heavy_1]{heavy} [iron_1]{iron} [gate_1]{gate} that can be [lower_2]{lowered} in front of the [entrance_1]{entrance} to a [castle]{castle} as a [defense]{defense}",
+      "entry": "portcullis",
+      "id": "portcullis#portcullis__1"
+    },
+    {
+      "comment": "a [high_1]{high} [hill]{hill} of [earth]{earth}, or a [stone_1]{stone} [wall_1]{wall}, [built_1]{built} around a [city]{city} or [castle]{castle} to [protect]{protect} it against an [enemy]{enemy}",
+      "entry": "rampart",
+      "id": "rampart#rampart__1"
+    },
+    {
+      "comment": "the [pointed]{pointed} top of a [church]{church} [tower_1]{tower} or other [building]{building}",
+      "entry": "spire",
+      "id": "spire#spire__1"
+    },
+    {
+      "comment": "a [tall]{tall} [pointed]{pointed} [tower_1]{tower} on a [church]{church}",
+      "entry": "steeple",
+      "id": "steeple#steeple__1"
+    },
+    {
+      "comment": "a [tall]{tall} [narrow_1]{narrow} [structure_1]{structure} that [form_1]{forms} the [high_1]{highest} part of a [church]{church} or other [building]{building}",
+      "entry": "tower",
+      "id": "tower_1#tower_1__5"
+    },
+    {
+      "comment": "a [castle]{castle} in London that was first [used]{used} as a [home_1]{home} for [king]{kings} and [queen_1]{queens}, then as a [prison]{prison}, and is now [used]{used} as a [museum]{museum}",
+      "entry": "the Tower of London",
+      "id": "the-tower-of-london#the-tower-of-london__1"
+    },
+    {
+      "comment": "a [small_1]{small} [tower_1]{tower} on the top of a [building]{building} such as a [castle]{castle}",
+      "entry": "turret",
+      "id": "turret#turret__2"
+    },
+    {
+      "comment": "a very [tall]{tall} [strong]{strong} [structure_1]{structure} that is [built_1]{built} to [defend]{defend} a [place_1]{place} or to keep [people_1]{people} [inside_1]{inside} a [place_1]{place}, for [example]{example} a [prison]{prison}, [castle]{castle}, or [city]{city}",
+      "entry": "wall",
+      "id": "wall_1#wall_1__7"
+    },
+    {
+      "comment": "a [tower_1]{tower} from where [guard_1]{guards} can see the whole [area]{area} that they are [guard_2]{guarding}",
+      "entry": "watchtower",
+      "id": "watchtower#watchtower__1"
+    }
+  ],
+  "thesaurus": "Castles, towers and fortifications",
+  "type": "Related words"
+}

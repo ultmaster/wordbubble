@@ -1,0 +1,23 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a residential [area]{area} is one in which most of the [building]{buildings} are [house_1]{houses}",
+      "examples": [],
+      "id": "residential__1"
+    },
+    {
+      "def": "a residential [school_1]{school} or [institution]{institution} is a [place_1]{place} where [people_1]{people} with [mental]{mental} or [physical_1]{physical} [problem]{problems} can [live_1]{live} while they are [given_1]{given} [treatment]{treatment} and being [care_1]{cared} for",
+      "examples": [],
+      "id": "residential__2"
+    },
+    {
+      "def": "[involve]{involving} [living_1]{living} at the [place_1]{place} where you are [working]{working}, [study_2]{studying}, or being [taken_1]{taken} [care_1]{care} of",
+      "examples": [
+        "a residential [course_1]{course}/[nursing]{nursing} [home_1]{home}/[worker]{worker}"
+      ],
+      "id": "residential__3"
+    }
+  ],
+  "word": "residential"
+}

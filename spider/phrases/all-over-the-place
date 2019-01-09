@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "all over the place",
+  "senses": [
+    {
+      "def": "in or to many [different]{different} [place_1]{places}",
+      "examples": [
+        "I [travel_1]{travel} all over the [place_1]{place} in my [job_1]{job}."
+      ],
+      "id": "all-over-the-place__1"
+    },
+    {
+      "def": "in a [messy]{messy} [state_1]{state}",
+      "examples": [
+        "You couldn\u2019t find anything because his [paper_1]{papers} were all over the [place_1]{place}."
+      ],
+      "id": "all-over-the-place__3"
+    },
+    {
+      "def": "not well [plan_2]{planned} or [organized]{organized}",
+      "examples": [
+        "Their [taxation]{taxation} [plan_1]{plans}, [frankly]{frankly}, are all over the [place_1]{place}."
+      ],
+      "id": "all-over-the-place__5"
+    }
+  ]
+}

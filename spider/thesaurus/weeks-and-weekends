@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [period_1]{period} of two [week]{weeks}",
+      "entry": "fortnight",
+      "id": "fortnight#fortnight__1"
+    },
+    {
+      "comment": "a [weekend_1]{weekend} when you have one or two [extra_1]{extra} [day]{days} [free_1]{free} in [addition]{addition} to the [usual]{usual} Saturday and Sunday",
+      "entry": "long weekend",
+      "id": "long-weekend#long-weekend__1"
+    },
+    {
+      "comment": "in, or [happening_1]{happening} in, the [middle_1]{middle} of the [week]{week}, [usually]{usually} from Tuesday to Thursday",
+      "entry": "midweek",
+      "id": "midweek#midweek__1"
+    },
+    {
+      "comment": "per [week]{week}",
+      "entry": "p.w.",
+      "id": "p-w#p-w__1"
+    },
+    {
+      "comment": "a [period_1]{period} of [seven]{seven} [day]{days}, [usually]{usually} [count_1]{counted} from a Sunday",
+      "entry": "week",
+      "id": "week#week__1"
+    },
+    {
+      "comment": "a [week]{week} in which [particular_1]{particular} [event]{events} [happen]{happen}",
+      "entry": "week",
+      "id": "week#week__5"
+    },
+    {
+      "comment": "the five [day]{days} from Monday to Friday, when most [people_1]{people} do [work_1]{work}",
+      "entry": "week",
+      "id": "week#week__7"
+    },
+    {
+      "comment": "any [period_1]{period} of [seven]{seven} [day]{days}",
+      "entry": "week",
+      "id": "week#week__10"
+    },
+    {
+      "comment": "a [day]{day} of the [week]{week} that is not Saturday or Sunday",
+      "entry": "weekday",
+      "id": "weekday#weekday__1"
+    },
+    {
+      "comment": "Saturday and Sunday",
+      "entry": "weekend",
+      "id": "weekend_1#weekend_1__1"
+    },
+    {
+      "comment": "[lasting]{lasting} for a [week]{week}",
+      "entry": "weeklong",
+      "id": "weeklong#weeklong__1"
+    },
+    {
+      "comment": "[happening_1]{happening} every [week]{week}",
+      "entry": "weekly",
+      "id": "weekly_1#weekly_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [period_1]{period} of one [week]{week}",
+      "entry": "weekly",
+      "id": "weekly_1#weekly_1__5"
+    },
+    {
+      "comment": "if something [happen]{happens} [weekly_1]{weekly}, it [happen]{happens} every [week]{week}",
+      "entry": "weekly",
+      "id": "weekly_3#weekly_3__1"
+    },
+    {
+      "comment": "the [evening_1]{evening} or [night_1]{night} of any [day]{day} except Saturday or Sunday",
+      "entry": "weeknight",
+      "id": "weeknight#weeknight__1"
+    },
+    {
+      "comment": "[week]{week}",
+      "entry": "wk.",
+      "id": "wk#wk__1"
+    },
+    {
+      "comment": "a [day]{day} of the [week]{week} when [people_1]{people} have to [work_1]{work}",
+      "entry": "workday",
+      "id": "workday#workday__3"
+    },
+    {
+      "comment": "a [workweek]{workweek}",
+      "entry": "working week",
+      "id": "working-week#working-week__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [hour]{hours} or [day]{days} you [work_1]{work} each [week]{week}",
+      "entry": "workweek",
+      "id": "workweek#workweek__1"
+    }
+  ],
+  "thesaurus": "Weeks and weekends",
+  "type": "Related words"
+}

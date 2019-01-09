@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} [yes_1]{yes} to an [invitation]{invitation} or [offer_1]{offer}",
+      "entry": "accept",
+      "id": "accept#accept__4"
+    },
+    {
+      "comment": "to [agree]{agree} to do something",
+      "entry": "consent",
+      "id": "consent_2#consent_2__3"
+    },
+    {
+      "comment": "to [agree]{agree} with or [officially]{officially} give [permission]{permission} for something",
+      "entry": "assent",
+      "id": "assent_2#assent_2__1"
+    },
+    {
+      "comment": "to [agree]{agree}, or to give [permission]{permission}",
+      "entry": "say yes",
+      "id": "say-yes#say-yes__1"
+    },
+    {
+      "comment": "to [accept]{accept} an [offer_1]{offer} or [invitation]{invitation} that someone has made",
+      "entry": "take up on",
+      "id": "take-up-on#take-up-on__1"
+    },
+    {
+      "comment": "to do what someone [want_1]{wants} or [agree]{agree} with what they [say_1]{say}",
+      "entry": "accede",
+      "id": "accede#accede__1"
+    },
+    {
+      "comment": "to [say_1]{say} that you are [pleased]{pleased} to [accept]{accept} or [consider]{consider} something such as an [opportunity]{opportunity} or a [question_1]{question}",
+      "entry": "welcome",
+      "id": "welcome_1#welcome_1__8"
+    }
+  ],
+  "thesaurus": "To say yes",
+  "type": "Synonyms"
+}

@@ -1,0 +1,291 @@
+{
+  "entries": [
+    {
+      "comment": "to [cook_1]{cook} [food]{food} in an [oven]{oven}",
+      "entry": "bake",
+      "id": "bake#bake__4"
+    },
+    {
+      "comment": "[food]{food} that is [bake_1]{baking} is being [cooked]{cooked} in an [oven]{oven}",
+      "entry": "bake",
+      "id": "bake#bake__7"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food}, [especially]{especially} [meat]{meat}, [outside]{outside} on a [barbecue_1]{barbecue} or over a fire",
+      "entry": "barbecue",
+      "id": "barbecue_2#barbecue_2__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} [meat]{meat} with [hot]{hot} [fat_1]{fat} or its own [juice_1]{juices} while it [cook_1]{cooks}",
+      "entry": "baste",
+      "id": "baste#baste__1"
+    },
+    {
+      "comment": "to be [cooking_1]{cooking} something",
+      "entry": "be slaving away over a hot stove",
+      "id": "be-slaving-away-over-a-hot-stove#be-slaving-away-over-a-hot-stove__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food} in [water_1]{water} that is [boiling]{boiling}",
+      "entry": "boil",
+      "id": "boil_1#boil_1__8"
+    },
+    {
+      "comment": "to be [cooked]{cooked} in [water_1]{water} that is [boiling]{boiling}",
+      "entry": "boil",
+      "id": "boil_1#boil_1__10"
+    },
+    {
+      "comment": "to become [small_1]{smaller} in [quantity]{quantity} after [cooking_1]{cooking} because some of the [liquid_1]{liquid} has [turn_1]{turned} to [gas_1]{gas}, or to [make_1]{make} something do this",
+      "entry": "boil down",
+      "id": "boil-down#boil-down__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} [meat]{meat} or [vegetable]{vegetables} [quickly]{quickly} in [oil_1]{oil}, then [add_1]{add} a [small_1]{small} amount of [liquid_1]{liquid} and [cook_1]{cook} them [slowly]{slowly} in a [container]{container} with a [lid]{lid} on",
+      "entry": "braise",
+      "id": "braise#braise__1"
+    },
+    {
+      "comment": "to cook something by putting it close to strong heat above or below it, for example in a part of the oven called the broiler or on a barbecue  (=fire for cooking outside)",
+      "entry": "broil",
+      "id": "broil#broil__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} something until it [turn_1]{turns} [brown_1]{brown}, or to become [brown_1]{brown} in this way",
+      "entry": "brown",
+      "id": "brown_3#brown_3__1"
+    },
+    {
+      "comment": "if [food]{food} [burn_1]{burns}, or if you [burn_1]{burn} it, it [get]{gets} [spoiled]{spoiled} by being [cooked]{cooked} for too long or at too [high_1]{high} a [temperature]{temperature}",
+      "entry": "burn",
+      "id": "burn_1#burn_1__13"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food} by [put]{putting} it over a fire made of [charcoal_1]{charcoal}",
+      "entry": "charbroil",
+      "id": "charbroil#charbroil__1"
+    },
+    {
+      "comment": "to [charbroil]{charbroil} [food]{food}",
+      "entry": "chargrill",
+      "id": "chargrill#chargrill__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [liquid_1]{liquid}, [especially]{especially} [butter_1]{butter}, [clear_1]{clear} and [pure]{pure}, by [use_1]{using} [heat_1]{heat}",
+      "entry": "clarify",
+      "id": "clarify#clarify__5"
+    },
+    {
+      "comment": "to [cook_1]{cook} an [egg_1]{egg} with [hot]{hot} [water_1]{water} that [does]{does} not [boil_1]{boil}",
+      "entry": "coddle",
+      "id": "coddle#coddle__2"
+    },
+    {
+      "comment": "to [prepare]{prepare} [food]{food} and [heat_1]{heat} it so that it is ready to [eat]{eat}",
+      "entry": "cook",
+      "id": "cook_1#cook_1__1"
+    },
+    {
+      "comment": "when [food]{food} [cook_1]{cooks}, it is [heated]{heated} so that it is ready to [eat]{eat}",
+      "entry": "cook",
+      "id": "cook_1#cook_1__6"
+    },
+    {
+      "comment": "to become [crisp_1]{crisp}, or to [cook_1]{cook} something until it becomes [crisp_1]{crisp}",
+      "entry": "crisp",
+      "id": "crisp_2#crisp_2__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} something such as [meat]{meat} or [vegetable]{vegetables} in a [sauce]{sauce} with a [hot]{hot} [flavor_1]{flavor}",
+      "entry": "curry",
+      "id": "curry_2#curry_2__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food} in [hot]{hot} [oil_1]{oil} or [fat_1]{fat}",
+      "entry": "fry",
+      "id": "fry_1#fry_1__1"
+    },
+    {
+      "comment": "to be [cooked]{cooked} in [hot]{hot} [oil_1]{oil} or [fat_1]{fat}",
+      "entry": "fry",
+      "id": "fry_1#fry_1__3"
+    },
+    {
+      "comment": "to [cook_1]{cook} something on a [griddle_1]{griddle}",
+      "entry": "griddle",
+      "id": "griddle_2#griddle_2__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} something over a fire on a [flat_1]{flat} [frame_1]{frame} of [metal_1]{metal} [bar_1]{bars}",
+      "entry": "grill",
+      "id": "grill_2#grill_2__1"
+    },
+    {
+      "comment": "to [broil]{broil} something",
+      "entry": "grill",
+      "id": "grill_2#grill_2__4"
+    },
+    {
+      "comment": "to [heat_1]{heat} [food]{food} that has already been [cooked]{cooked}, until every part of it is very [hot]{hot}",
+      "entry": "heat through",
+      "id": "heat-through#heat-through__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food} in a [microwave_1]{microwave}",
+      "entry": "microwave",
+      "id": "microwave_2#microwave_2__1"
+    },
+    {
+      "comment": "to heat or cook something in a microwave oven",
+      "entry": "nuke",
+      "id": "nuke_1#nuke_1__2"
+    },
+    {
+      "comment": "to [spoil]{spoil} [food]{food} by [cooking_1]{cooking} it for too long",
+      "entry": "overcook",
+      "id": "overcook#overcook__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} something for too long",
+      "entry": "overdo",
+      "id": "overdo#overdo__5"
+    },
+    {
+      "comment": "to [boil_1]{boil} [food]{food} until it is only [partly]{partly} [cooked]{cooked}",
+      "entry": "parboil",
+      "id": "parboil#parboil__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} something in [water_1]{water}, [milk_1]{milk}, or another [liquid_1]{liquid} that is [boiling]{boiling} [gently]{gently}",
+      "entry": "poach",
+      "id": "poach#poach__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} an [egg_1]{egg} without its [shell_1]{shell} in [water_1]{water} that is [boiling]{boiling} [gently]{gently}",
+      "entry": "poach",
+      "id": "poach#poach__3"
+    },
+    {
+      "comment": "if you [pop_1]{pop} [corn]{corn}, or if it [pops_1]{pops}, you [heat_1]{heat} [dried]{dried} [grain]{grains} of [corn]{corn} until they [burst_1]{burst}",
+      "entry": "pop",
+      "id": "pop_1#pop_1__10"
+    },
+    {
+      "comment": "to cook and store food in a sealed container in order to preserve it",
+      "entry": "pot",
+      "id": "pot_2#pot_2__2"
+    },
+    {
+      "comment": "to [start_1]{start} [cooking_1]{cooking} something",
+      "entry": "put on",
+      "id": "put-on_1#put-on_1__19"
+    },
+    {
+      "comment": "to [make_1]{make} a [sauce]{sauce} [thick_1]{thicker} and [increase_1]{increase} its [flavor_1]{flavor} by [boiling]{boiling} it",
+      "entry": "reduce",
+      "id": "reduce#reduce__12"
+    },
+    {
+      "comment": "to [make_1]{make} [food]{food} or a [drink_1]{drink} [hot]{hot} again",
+      "entry": "reheat",
+      "id": "reheat#reheat__1"
+    },
+    {
+      "comment": "to [heat_1]{heat} [solid_1]{solid} [fat_1]{fat} to [make_1]{make} it [liquid_1]{liquid}, or to [boil_1]{boil} [bone_1]{bones} and [piece_1]{pieces} of [meat]{meat} to [produce_1]{produce} [fat_1]{fat} that can be [used]{used} for [cooking_1]{cooking}",
+      "entry": "render",
+      "id": "render#render__15"
+    },
+    {
+      "comment": "to [cook_1]{cook} [meat]{meat} or [vegetable]{vegetables} in an [oven]{oven} or over a fire",
+      "entry": "roast",
+      "id": "roast_1#roast_1__1"
+    },
+    {
+      "comment": "to heat nuts or coffee beans until they are dry",
+      "entry": "roast",
+      "id": "roast_1#roast_1__2"
+    },
+    {
+      "comment": "to [quickly]{quickly} [produce_1]{produce} something such as a [meal]{meal} [use_1]{using} whatever is [available]{available}",
+      "entry": "rustle up",
+      "id": "rustle-up#rustle-up__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} something [quickly]{quickly} in a [small_1]{small} amount of [butter_1]{butter} or [oil_1]{oil}",
+      "entry": "saut\u00e9",
+      "id": "saute_1#saute_1__1"
+    },
+    {
+      "comment": "to [heat_1]{heat} [milk_1]{milk} until it is almost [boiling]{boiling}",
+      "entry": "scald",
+      "id": "scald_1#scald_1__3"
+    },
+    {
+      "comment": "to [mix_1]{mix} together the [white_1]{white} and [yellow_1]{yellow} [part_1]{parts} of an [egg_1]{egg} and [cook_1]{cook} it",
+      "entry": "scramble",
+      "id": "scramble_1#scramble_1__9"
+    },
+    {
+      "comment": "to [prevent]{prevent} the [flavor_1]{flavor}, [smell_1]{smell}, or [juice_1]{juice} of a [food]{food} from [get]{getting} out",
+      "entry": "seal in",
+      "id": "seal-in#seal-in__1"
+    },
+    {
+      "comment": "to [heat_1]{heat} the [surface_1]{surface} of a [piece_1]{piece} of [meat]{meat} for a [short_1]{short} time at a very [high_1]{high} [temperature]{temperature} to keep the [juice_1]{juices} [inside_1]{inside}",
+      "entry": "sear",
+      "id": "sear#sear__2"
+    },
+    {
+      "comment": "if a [food]{food}, [drink_1]{drink}, or [mixture]{mixture} [stand_1]{stands}, nothing is done to it so that its [flavor_1]{flavors} can [develop]{develop} and become [strong]{stronger}",
+      "entry": "stand",
+      "id": "stand_1#stand_1__57"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food} with [steam_1]{steam}",
+      "entry": "steam",
+      "id": "steam_2#steam_2__5"
+    },
+    {
+      "comment": "to [cook_1]{cook} [slowly]{slowly} in [liquid_1]{liquid}",
+      "entry": "stew",
+      "id": "stew_2#stew_2__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food} [quickly]{quickly} by [moving]{moving} it around in [hot]{hot} [oil_1]{oil}",
+      "entry": "stir-fry",
+      "id": "stir-fry#stir-fry__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [taste_1]{taste} [sweet_1]{sweeter} by [add_1]{adding} [sugar_1]{sugar} or a [sweet_1]{sweet} [flavor_1]{flavor} to it",
+      "entry": "sweeten",
+      "id": "sweeten#sweeten__1"
+    },
+    {
+      "comment": "to [make_1]{make} [bread]{bread} into [toast_1]{toast}",
+      "entry": "toast",
+      "id": "toast_2#toast_2__1"
+    },
+    {
+      "comment": "to [cook_1]{cook} [food]{food} by [put]{putting} it [close_1]{close} to [heat_1]{heat} until it [turn_1]{turns} [brown_1]{brown}",
+      "entry": "toast",
+      "id": "toast_2#toast_2__2"
+    },
+    {
+      "comment": "to [prepare]{prepare} something to [eat]{eat} very [quickly]{quickly}",
+      "entry": "whip up",
+      "id": "whip-up#whip-up__3"
+    },
+    {
+      "comment": "if you [wilt_1]{wilt} [vegetable]{vegetables} or they [wilt_1]{wilt}, you [cook_1]{cook} them [gently]{gently}, [usually]{usually} in a [little_1]{little} [fat_1]{fat} over [heat_1]{heat}",
+      "entry": "wilt",
+      "id": "wilt_1#wilt_1__5"
+    },
+    {
+      "comment": "to cook something in a microwave",
+      "entry": "zap",
+      "id": "zap#zap__3"
+    }
+  ],
+  "thesaurus": "Cook food or be cooked",
+  "type": "Related words"
+}

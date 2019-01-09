@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [female_1]{female} [worker]{worker} who [lead_1]{leads} a [team_1]{team} of [worker]{workers}, [usually]{usually} in a [factory]{factory}",
+      "entry": "forewoman",
+      "id": "forewoman#forewoman__1"
+    },
+    {
+      "comment": "a man of low [status]{status} who [work_1]{works} in a [factory]{factory}, on a [farm_1]{farm}, or in [industry]{industry}",
+      "entry": "man",
+      "id": "man_1#man_1__27"
+    },
+    {
+      "comment": "among the [worker]{workers} in a [factory]{factory}, rather than its [manager]{managers}",
+      "entry": "on the factory floor",
+      "id": "on-the-factory-floor#on-the-factory-floor__1"
+    },
+    {
+      "comment": "someone who [does]{does} a [particular_1]{particular} [kind_1]{kind} of [work_1]{work}, [especially]{especially} in a [factory]{factory}",
+      "entry": "operative",
+      "id": "operative_2#operative_2__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} at a [factory]{factory} [prepare]{preparing} and [wrapping]{wrapping} [food]{food} so that it can be [sold]{sold}",
+      "entry": "packer",
+      "id": "packer#packer__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to give [people_1]{people} their [salary]{salary} in the [army]{army} or a [factory]{factory}",
+      "entry": "paymaster",
+      "id": "paymaster#paymaster__1"
+    },
+    {
+      "comment": "the [worker]{workers} in a [factory]{factory}, not the [manager]{managers}",
+      "entry": "the shop floor",
+      "id": "shop-floor#shop-floor__2"
+    }
+  ],
+  "thesaurus": "People who work in a factory",
+  "type": "Related words"
+}

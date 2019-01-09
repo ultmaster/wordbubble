@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to go to a [conventional]{conventional} [store_1]{store} to [look_1]{look} at a [product]{product} before [buy_1]{buying} it [online]{online} for a [cheap_1]{cheaper} [price_1]{price}",
+      "entry": "showroom",
+      "id": "showroom_2#showroom_2__1"
+    },
+    {
+      "comment": "to go to [store_1]{stores} to [look_1]{look} at and [buy_1]{buy} [thing]{things}",
+      "entry": "shop",
+      "id": "shop_2#shop_2__1"
+    },
+    {
+      "comment": "to go to several [store_1]{stores} before you [decide]{decide} what [particular_1]{particular} thing to [buy_1]{buy}",
+      "entry": "shop around",
+      "id": "shop-around#shop-around__1"
+    },
+    {
+      "comment": "to [look_1]{look} at [thing]{things} in a [store_1]{store} without being [sure_1]{sure} whether you [want_1]{want} to [buy_1]{buy} anything",
+      "entry": "browse",
+      "id": "browse#browse__5"
+    },
+    {
+      "comment": "to [compare_1]{compare} [price_1]{prices} at [different]{different} [store_1]{stores} or [company]{companies} before you [buy_1]{buy} something",
+      "entry": "price",
+      "id": "price_2#price_2__5"
+    },
+    {
+      "comment": "to [exchange_1]{exchange} something you have [bought]{bought}",
+      "entry": "change",
+      "id": "change_1#change_1__24"
+    },
+    {
+      "comment": "to take something that you have [bought]{bought} back to a [store_1]{store} because it is [broken_1]{broken} or not [appropriate_1]{appropriate}",
+      "entry": "take back",
+      "id": "take-back#take-back__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} for your [goods]{goods} before [leave_1]{leaving} a [supermarket]{supermarket} or other [large_1]{large} [store_1]{store}",
+      "entry": "check out",
+      "id": "check-out#check-out__3"
+    },
+    {
+      "comment": "to go to a [town]{town}, [area]{area}, etc., [usually]{usually} so that you can go [shopping]{shopping}",
+      "entry": "hit the town/street, etc.",
+      "id": "hit-the-town-street-etc#hit-the-town-street-etc__3"
+    },
+    {
+      "comment": "to [buy_1]{buy} something from a [store_1]{store}, [cafe]{caf\u00e9}, etc. and [pay_1]{pay} for it [later_1]{later}",
+      "entry": "put something on the slate",
+      "id": "put-something-on-the-slate#put-something-on-the-slate__1"
+    }
+  ],
+  "thesaurus": "To shop, or to go shopping",
+  "type": "Synonyms"
+}

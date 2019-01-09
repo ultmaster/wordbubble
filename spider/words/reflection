@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [image_1]{image} that you see when you [look_1]{look} in a [mirror_1]{mirror} or other [shiny]{shiny} [surface_1]{surface}",
+      "examples": [
+        "Anna [stare_1]{stared} at her reflection in the [hall]{hall} [mirror_1]{mirror}.",
+        "We could see the reflection of [cloud_1]{clouds} on the [water_1]{water}."
+      ],
+      "id": "reflection__1"
+    },
+    {
+      "def": "[careful]{careful} [thought_1]{thought} about something",
+      "examples": [
+        "After a [period_1]{period} of [careful]{careful} reflection, Russell [decided]{decided} to [leave_1]{leave}.",
+        "At the time I [thought_1]{thought} I was [right_1]{right}, but on reflection I\u2019m not so [sure_1]{sure}."
+      ],
+      "id": "reflection__4"
+    },
+    {
+      "def": "something that [clearly]{clearly} [show_1]{shows} something",
+      "examples": [
+        "Your [choice_1]{choice} of [clothes]{clothes} is a reflection of your [personality]{personality}.",
+        "The [play_1]{play} isn\u2019t a [true_1]{true} reflection of Roman times."
+      ],
+      "id": "reflection__8"
+    },
+    {
+      "def": "the [process_1]{process} of [reflect]{reflecting} [light_1]{light}, [sound_1]{sound}, or [image_1]{images}",
+      "examples": [],
+      "id": "reflection__11"
+    }
+  ],
+  "word": "reflection"
+}

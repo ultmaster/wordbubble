@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "how much is/are...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} the [price_1]{price} of something",
+      "examples": [
+        "How much was that CD [player]{player} of yours?"
+      ],
+      "id": "how-much-is-are__1"
+    }
+  ]
+}

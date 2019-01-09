@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[lice]{lice}",
+      "entry": "cooties",
+      "id": "cooties#cooties__1"
+    },
+    {
+      "comment": "a parasite found in water that causes stomach infections",
+      "entry": "cryptosporidium",
+      "id": "cryptosporidium#cryptosporidium__1"
+    },
+    {
+      "comment": "a [small_1]{small} [jump_1]{jumping} [insect]{insect} that [lives]{lives} on [animal_1]{animals} and [bite_1]{bites} them",
+      "entry": "flea",
+      "id": "flea#flea__1"
+    },
+    {
+      "comment": "a long thin creature that lives in the intestines of humans and other animals, and that can cause disease",
+      "entry": "hookworm",
+      "id": "hookworm#hookworm__1"
+    },
+    {
+      "comment": "a plant or animal that has another plant or animal, called a parasite, living on it",
+      "entry": "host",
+      "id": "host_1#host_1__10"
+    },
+    {
+      "comment": "a [small_1]{small} [soft]{soft} [creature]{creature} that [stick_1]{sticks} to the [skin_1]{skin} of other [animal_1]{animals} in [order_1]{order} to [feed_1]{feed} on their [blood_1]{blood}. [leech]{Leeches} were often [used]{used} in the [past_1]{past} as a [type_1]{type} of [medical_1]{medical} [treatment]{treatment}.",
+      "entry": "leech",
+      "id": "leech#leech__1"
+    },
+    {
+      "comment": "[small_1]{small} [insect]{insects} that [live_1]{live} on [people_1]{people}\u2019s [skin_1]{skin} and in their [hair]{hair}. [lice]{Lice} is the [plural]{plural} of [louse_1]{louse}.",
+      "entry": "lice",
+      "id": "lice#lice__1"
+    },
+    {
+      "comment": "a [small_1]{small} [insect]{insect} that [lives]{lives} on the [body]{bodies} of [animal_1]{animals} and [people_1]{people}",
+      "entry": "louse",
+      "id": "louse_1#louse_1__2"
+    },
+    {
+      "comment": "a very [small_1]{small} [insect]{insect} that [lives]{lives} in [food]{foods}, on [plant_1]{plants}, or on [animal_1]{animals}",
+      "entry": "mite",
+      "id": "mite#mite__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} or [animal_1]{animal} that [lives]{lives} in or on another [type_1]{type} of [animal_1]{animal} and [feed_1]{feeds} on it",
+      "entry": "parasite",
+      "id": "parasite#parasite__2"
+    },
+    {
+      "comment": "to [live_1]{live} on or in a [host_1]{host} [organism]{organism} as a [parasite]{parasite}",
+      "entry": "parasitize",
+      "id": "parasitize#parasitize__1"
+    },
+    {
+      "comment": "a small worm that lives in the stomachs of people and some animals",
+      "entry": "roundworm",
+      "id": "roundworm#roundworm__1"
+    },
+    {
+      "comment": "a long flat worm that can live inside someone\u2019s body and make them very sick",
+      "entry": "tapeworm",
+      "id": "tapeworm#tapeworm__1"
+    },
+    {
+      "comment": "an [insect]{insect} that [suck_1]{sucks} your [blood_1]{blood}",
+      "entry": "tick",
+      "id": "tick_2#tick_2__1"
+    },
+    {
+      "comment": "a very small insect that is a parasite of honey bees and gives them a disease called varroatosis that kills them",
+      "entry": "varroa mite",
+      "id": "varroa-mite#varroa-mite__1"
+    },
+    {
+      "comment": "[small_1]{small} [creature]{creatures} that [look_1]{look} [like_1]{like} [worm_1]{worms} and [live_1]{live} [inside_1]{inside} the body of a [person]{person} or [animal_1]{animal} and [make_1]{make} them [sick_1]{sick}",
+      "entry": "worms",
+      "id": "worm_1#worm_1__3"
+    }
+  ],
+  "thesaurus": "Parasites",
+  "type": "Related words"
+}

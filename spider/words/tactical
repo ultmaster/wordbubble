@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a tactical [action_1]{action} is one that you do as part of a [plan_1]{plan} for [achieve]{achieving} what you [want_1]{want}",
+      "examples": [
+        "[get]{Getting} the [trial_1]{trial} [postpone]{postponed} was a tactical [victory]{victory}.",
+        "a tactical error/mistake  (=a bad decision or plan)"
+      ],
+      "id": "tactical__1"
+    },
+    {
+      "def": "[involve]{involving} [military]{military} [tactic]{tactics}",
+      "examples": [
+        "a tactical [analysis]{analysis}",
+        "tactical [disadvantage_1]{disadvantages}"
+      ],
+      "id": "tactical__4"
+    },
+    {
+      "def": "tactical [aircraft]{aircraft}, [missile]{missiles}, and other [weapon]{weapons} are [design_2]{designed} to be [used]{used} over [short_1]{short} [distance_1]{distances}",
+      "examples": [
+        "sea-based tactical [aircraft]{aircraft}"
+      ],
+      "id": "tactical__7"
+    }
+  ],
+  "word": "tactical"
+}

@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [process_1]{process} of [moving]{moving} a [plane_1]{plane} down onto the [ground_1]{ground} at the [end_1]{end} of a [trip_1]{trip}",
+      "examples": [
+        "Keep your seat-belt [fasten]{fastened} during take-off and landing.",
+        "The [pilot_1]{pilot} was [forced]{forced} to [make_1]{make} an [emergency_1]{emergency} landing.",
+        "The thick [grass]{grass} [gave]{gave} me a [soft]{soft} landing."
+      ],
+      "id": "landing__1"
+    },
+    {
+      "def": "the [area]{area} at the top of a [set_1]{set} of [stair]{stairs} or between the [section_1]{sections} of a [set_1]{set} of [stair]{stairs}",
+      "examples": [
+        "the third-floor landing"
+      ],
+      "id": "landing__6"
+    },
+    {
+      "def": "an [attack_1]{attack} by [soldier_1]{soldiers} [arrive]{arriving} somewhere by [boat]{boat}",
+      "examples": [
+        "the Grenada [landing]{landings}"
+      ],
+      "id": "landing__8"
+    },
+    {
+      "def": "a [place_1]{place} where you can [leave_1]{leave} a [boat]{boat}",
+      "examples": [],
+      "id": "landing__10"
+    }
+  ],
+  "word": "landing"
+}

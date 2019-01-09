@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [person]{person} or system that [make_1]{makes} a [judgment]{judgment} about the [value_1]{value}, [importance]{importance}, or [quality_1]{quality} of something",
+      "entry": "evaluator",
+      "id": "evaluator#evaluator__1"
+    },
+    {
+      "comment": "an [official_1]{official} whose [job_1]{job} is to [check_1]{check} that [thing]{things} are in the [correct_1]{correct} [condition_1]{condition} or that [people_1]{people} are [doing]{doing} what they should",
+      "entry": "inspector",
+      "id": "inspector#inspector__1"
+    },
+    {
+      "comment": "a [person]{person} or [organization]{organization} whose [job_1]{job} is to be [certain_1]{certain} that [company]{companies}, [system]{systems}, etc. [act_1]{act} [fairly]{fairly} and [follow]{follow} [rule_1]{rules}",
+      "entry": "regulator",
+      "id": "regulator#regulator__1"
+    },
+    {
+      "comment": "a [person]{person} or a [piece_1]{piece} of [equipment]{equipment} that [test_1]{tests} the [quality_1]{quality} of something",
+      "entry": "tester",
+      "id": "tester#tester__1"
+    },
+    {
+      "comment": "someone who [check_1]{checks} to see that something is done [fairly]{fairly} or [correctly]{correctly}",
+      "entry": "monitor",
+      "id": "monitor_2#monitor_2__7"
+    },
+    {
+      "comment": "someone who [check_1]{checks} the [quality_1]{quality} of [food]{foods} or [drink_1]{drinks} by [tasting]{tasting} them, [especially]{especially} as their [job_1]{job}",
+      "entry": "taster",
+      "id": "taster#taster__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to keep [equipment]{equipment} [working]{working} [correctly]{correctly}",
+      "entry": "serviceperson",
+      "id": "serviceperson#serviceperson__1"
+    },
+    {
+      "comment": "someone who is [paid_1]{paid} to [visit_1]{visit} [shop_1]{shops}, [restaurant]{restaurants} and other [business]{businesses} [pretend_1]{pretending} to be an [ordinary]{ordinary} [customer]{customer} in [order_1]{order} to find out how [good_1]{good} the [service_1]{service} is",
+      "entry": "mystery shopper",
+      "id": "mystery-shopper#mystery-shopper__1"
+    }
+  ],
+  "thesaurus": "People and organizations who test or check things",
+  "type": "Synonyms"
+}

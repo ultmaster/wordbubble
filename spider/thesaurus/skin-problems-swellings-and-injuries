@@ -1,0 +1,381 @@
+{
+  "entries": [
+    {
+      "comment": "an [injured]{injured} [area]{area} of [skin_1]{skin} on your body, [cause_2]{caused} by your [skin_1]{skin} [rubbing]{rubbing} [hard_1]{hard} against something",
+      "entry": "abrasion",
+      "id": "abrasion#abrasion__1"
+    },
+    {
+      "comment": "a painful swollen area on your skin or inside your body that is infected and filled with pus  (=unpleasant yellow liquid)",
+      "entry": "abscess",
+      "id": "abscess#abscess__1"
+    },
+    {
+      "comment": "an infection in which the skin between the toes becomes sore, cracked, and itchy",
+      "entry": "athlete\u2019s foot",
+      "id": "athlete-s-foot#athlete-s-foot__1"
+    },
+    {
+      "comment": "a red [painful]{painful} [area]{area} on your [skin_1]{skin} that you get from [lying]{lying} in one [position_1]{position} in [bed_1]{bed} for a long time",
+      "entry": "bedsore",
+      "id": "bedsore#bedsore__1"
+    },
+    {
+      "comment": "a [dark_1]{dark} [mark_1]{mark} that [form_1]{forms} on the [skin_1]{skin} around your [eye_1]{eye} as a [result_1]{result} of being hit",
+      "entry": "black eye",
+      "id": "black-eye#black-eye__1"
+    },
+    {
+      "comment": "a small black spot on your skin, caused by dirt or oil blocking a pore  (=one of the small holes in your skin)",
+      "entry": "blackhead",
+      "id": "blackhead#blackhead__1"
+    },
+    {
+      "comment": "a mark on someone\u2019s skin, such as a pimple or a scar",
+      "entry": "blemish",
+      "id": "blemish_1#blemish_1__2"
+    },
+    {
+      "comment": "a [swollen_1]{swollen} [area]{area} on your [skin_1]{skin} that is full of a [clear_1]{clear} [liquid_1]{liquid} and is [cause_2]{caused} by being [burn_1]{burned} or [rub_1]{rubbed}",
+      "entry": "blister",
+      "id": "blister_1#blister_1__1"
+    },
+    {
+      "comment": "a [colored_1]{colored} [mark_1]{mark} on something, [especially]{especially} a red [mark_1]{mark} on your [skin_1]{skin}",
+      "entry": "blotch",
+      "id": "blotch#blotch__1"
+    },
+    {
+      "comment": "a painful lump on your skin that has become infected and is filled with pus  (=an unpleasant yellow liquid)",
+      "entry": "boil",
+      "id": "boil_2#boil_2__1"
+    },
+    {
+      "comment": "an appearance of pimples on your skin",
+      "entry": "breakout",
+      "id": "breakout_1#breakout_1__2"
+    },
+    {
+      "comment": "if something such as [spot_1]{spots} [break_1]{break} out, or if you [break_1]{break} out in [spot_1]{spots}, [spot_1]{spots} [start_1]{start} to [appear]{appear} on your [skin_1]{skin}",
+      "entry": "break out",
+      "id": "break-out#break-out__8"
+    },
+    {
+      "comment": "to [make_1]{make} [particular_1]{particular} [mark_1]{marks} [appear]{appear} on someone\u2019s [skin_1]{skin}",
+      "entry": "bring out in",
+      "id": "bring-out-in#bring-out-in__1"
+    },
+    {
+      "comment": "a [mark_1]{mark} that you get on your body if you are hit or if you [knock_1]{knock} against something",
+      "entry": "bruise",
+      "id": "bruise_2#bruise_2__1"
+    },
+    {
+      "comment": "a [raised]{raised} part on your [skin_1]{skin} where you have been [injured]{injured}",
+      "entry": "bump",
+      "id": "bump_2#bump_2__3"
+    },
+    {
+      "comment": "a [painful]{painful} [swollen_1]{swollen} [area]{area} on the side of your [big_1]{big} [toe_1]{toe}",
+      "entry": "bunion",
+      "id": "bunion#bunion__1"
+    },
+    {
+      "comment": "an [injury]{injury} that you get when something [burn_1]{burns} your [skin_1]{skin}",
+      "entry": "burn",
+      "id": "burn_2#burn_2__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} thick [area]{area} of [skin_1]{skin} [cause_2]{caused} by [rubbing]{rubbing}, [especially]{especially} on your [hand_1]{hands} or [feet]{feet}",
+      "entry": "callus",
+      "id": "callus#callus__1"
+    },
+    {
+      "comment": "a [small_1]{small} [sore_1]{sore} [inside_1]{inside} the [mouth_1]{mouth}",
+      "entry": "canker sore",
+      "id": "canker-sore#canker-sore__1"
+    },
+    {
+      "comment": "if your [skin_1]{skin} [chaps]{chaps}, or if it is [chapped]{chapped}, it becomes [dry_1]{dry} and [painful]{painful}, [especially]{especially} because of [cold_1]{cold} [weather_1]{weather}",
+      "entry": "chap",
+      "id": "chap_1#chap_1__1"
+    },
+    {
+      "comment": "a [painful]{painful} [swollen_1]{swollen} [lump_1]{lump} on a [finger_1]{finger} or [toe_1]{toe}, [usually]{usually} in [cold_1]{cold} [weather_1]{weather}",
+      "entry": "chilblain",
+      "id": "chilblain#chilblain__1"
+    },
+    {
+      "comment": "a [rash_1]{rash} on the [inner_1]{inner} [thigh]{thighs} [cause_2]{caused} by them [rubbing]{rubbing} together in [hot]{hot} [weather_1]{weather}",
+      "entry": "chub rub",
+      "id": "chub-rub#chub-rub__1"
+    },
+    {
+      "comment": "if your [skin_1]{skin} [clear_2]{clears}, it [start_1]{starts} to become [smooth_1]{smooth} and [healthy]{healthy} again",
+      "entry": "clear",
+      "id": "clear_2#clear_2__42"
+    },
+    {
+      "comment": "a [sore_1]{sore} [area]{area} [near_1]{near} your [lip]{lips} that is [cause_2]{caused} by an [infection]{infection}",
+      "entry": "cold sore",
+      "id": "cold-sore#cold-sore__1"
+    },
+    {
+      "comment": "a [blue_1]{blue} or [purple_1]{purple} [mark_1]{mark} on your [skin_1]{skin} where you have been hit",
+      "entry": "contusion",
+      "id": "contusion#contusion__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [hard_1]{hard} [skin_1]{skin} on your [foot_1]{foot} that is [painful]{painful}",
+      "entry": "corn",
+      "id": "corn#corn__3"
+    },
+    {
+      "comment": "an [injury]{injury} on your [skin_1]{skin} where something [sharp_1]{sharp} has [cut_1]{cut} it",
+      "entry": "cut",
+      "id": "cut_2#cut_2__1"
+    },
+    {
+      "comment": "a [lump_1]{lump} [contain]{containing} [liquid_1]{liquid} that [grow]{grows} under your [skin_1]{skin} or [inside_1]{inside} your body",
+      "entry": "cyst",
+      "id": "cyst#cyst__1"
+    },
+    {
+      "comment": "[small_1]{small} [white_1]{white} [piece_1]{pieces} of [dry_1]{dry} [skin_1]{skin} in your [hair]{hair}",
+      "entry": "dandruff",
+      "id": "dandruff#dandruff__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which [part_1]{parts} of your [skin_1]{skin} become red and [sore_1]{sore} or [covered_1]{covered} in [spot_1]{spots}",
+      "entry": "dermatitis",
+      "id": "dermatitis#dermatitis__1"
+    },
+    {
+      "comment": "a medical condition that makes your skin dry, sore, and itchy",
+      "entry": "eczema",
+      "id": "eczema#eczema__1"
+    },
+    {
+      "comment": "if [spot_1]{spots} [erupt]{erupt} on your [skin_1]{skin}, a [lot_1]{lot} of them [suddenly]{suddenly} [appear]{appear} there",
+      "entry": "erupt",
+      "id": "erupt#erupt__8"
+    },
+    {
+      "comment": "a [cold_1]{cold} [sore_1]{sore}",
+      "entry": "fever blister",
+      "id": "fever-blister#fever-blister__1"
+    },
+    {
+      "comment": "a [burn_1]{burn} [cause_2]{caused} by being [near_1]{near} [sudden_1]{sudden} [strong]{strong} [heat_1]{heat}, for [example]{example} during an [explosion]{explosion}",
+      "entry": "flash burn",
+      "id": "flash-burn#flash-burn__1"
+    },
+    {
+      "comment": "an [injury]{injury} that [cut_1]{cuts} your [skin_1]{skin} but [does]{does} not [affect_1]{affect} your [bone_1]{bones} or [important]{important} [organ]{organs}",
+      "entry": "flesh wound",
+      "id": "flesh-wound#flesh-wound__1"
+    },
+    {
+      "comment": "a [painful]{painful} [lump_1]{lump} full of [liquid_1]{liquid} on your [skin_1]{skin}, often on the back of the [wrist]{wrist}",
+      "entry": "ganglion",
+      "id": "ganglion#ganglion__2"
+    },
+    {
+      "comment": "a long [deep_1]{deep} [cut_1]{cut} in your [skin_1]{skin} or in the [surface_1]{surface} of something",
+      "entry": "gash",
+      "id": "gash_1#gash_1__1"
+    },
+    {
+      "comment": "to [begin]{begin} to [attack_1]{attack} or [criticize]{criticize} someone who you [think_1]{think} is [attack_2]{attacking} you",
+      "entry": "go on the offensive",
+      "id": "go-on-the-offensive#go-on-the-offensive__1"
+    },
+    {
+      "comment": "a [break_1]{break} in the [surface_1]{surface} of your [skin_1]{skin}, [usually]{usually} [cause_2]{caused} by [fall_1]{falling} down",
+      "entry": "graze",
+      "id": "graze_2#graze_2__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [hematoma]{hematoma}",
+      "entry": "haematoma",
+      "id": "haematoma#haematoma__2"
+    },
+    {
+      "comment": "a [painful]{painful} [piece_1]{piece} of [loose_1]{loose} [skin_1]{skin} at the side of a [nail_1]{nail}",
+      "entry": "hangnail",
+      "id": "hangnail#hangnail__1"
+    },
+    {
+      "comment": "the white center of a pimple on your skin",
+      "entry": "head",
+      "id": "head_1#head_1__23"
+    },
+    {
+      "comment": "painful or itchy red spots on your skin that are caused by getting too hot",
+      "entry": "heat rash",
+      "id": "heat-rash#heat-rash__1"
+    },
+    {
+      "comment": "a soft lump in the tissues of the body consisting of blood that has become thick and stopped flowing",
+      "entry": "hematoma",
+      "id": "hematoma#hematoma__1"
+    },
+    {
+      "comment": "a [small_1]{small} red [mark_1]{mark} that [appear]{appears} on the [skin_1]{skin} when someone has [suck_1]{sucked} or [bitten]{bitten} it in a [sexual]{sexual} way",
+      "entry": "hickey",
+      "id": "hickey#hickey__1"
+    },
+    {
+      "comment": "a [painful]{painful} [feeling_1]{feeling} in a part of the body, often with red [skin_1]{skin} or [swelling]{swelling}",
+      "entry": "irritation",
+      "id": "irritation#irritation__5"
+    },
+    {
+      "comment": "an unpleasant feeling on your skin that makes you want to scratch it  (=rub it with your nails)",
+      "entry": "itch",
+      "id": "itch_2#itch_2__1"
+    },
+    {
+      "comment": "a [deep_1]{deep} [cut_1]{cut} in someone\u2019s [flesh_1]{flesh}",
+      "entry": "laceration",
+      "id": "laceration#laceration__1"
+    },
+    {
+      "comment": "an area of damaged skin. A more usual word is wound.",
+      "entry": "lesion",
+      "id": "lesion#lesion__1"
+    },
+    {
+      "comment": "a [brown_1]{brown} [spot_1]{spot} that [people_1]{people} often get on their [skin_1]{skin} as they become [old]{older}",
+      "entry": "liver spot",
+      "id": "liver-spot#liver-spot__1"
+    },
+    {
+      "comment": "a [small_1]{small} [hard_1]{hard} part on or under your [skin_1]{skin} that is [cause_2]{caused} by [illness]{illness} or [injury]{injury}",
+      "entry": "lump",
+      "id": "lump_1#lump_1__7"
+    },
+    {
+      "comment": "an [area]{area} of [color_1]{color} on something such as a [person]{person}\u2019s or [animal_1]{animal}\u2019s [skin_1]{skin} that is [different]{different} in [color_1]{color} from the rest",
+      "entry": "mark",
+      "id": "mark_1#mark_1__6"
+    },
+    {
+      "comment": "a [small_1]{small} red [lump_1]{lump} on your [skin_1]{skin}, [especially]{especially} on your [face_1]{face}",
+      "entry": "pimple",
+      "id": "pimple#pimple__1"
+    },
+    {
+      "comment": "a [small_1]{small} [mass_1]{mass} of [hard_1]{hard} [flesh_1]{flesh} on the bottom of your [foot_1]{foot}",
+      "entry": "plantar wart",
+      "id": "plantar-wart#plantar-wart__1"
+    },
+    {
+      "comment": "a small permanent mark on your skin that goes inward, caused by a disease such as chickenpox or acne",
+      "entry": "pockmark",
+      "id": "pockmark#pockmark__1"
+    },
+    {
+      "comment": "a [skin_1]{skin} [condition_1]{condition} in which you get very [small_1]{small} red [spot_1]{spots} that you [want_1]{want} to [rub_1]{rub}, [cause_2]{caused} by [hot]{hot} [weather_1]{weather}",
+      "entry": "prickly heat",
+      "id": "prickly-heat#prickly-heat__1"
+    },
+    {
+      "comment": "a [spot_1]{spot} on your [skin_1]{skin} that is [fill_1]{filled} with [liquid_1]{liquid}",
+      "entry": "pustule",
+      "id": "pustule#pustule__1"
+    },
+    {
+      "comment": "an area of small red spots on your skin, caused by an illness or an allergic reaction to something that you have touched, eaten, etc.",
+      "entry": "rash",
+      "id": "rash_1#rash_1__1"
+    },
+    {
+      "comment": "a painful infected part of your body that has pus coming out of it",
+      "entry": "running sore",
+      "id": "running-sore#running-sore__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [layer_1]{layer} of [dry_1]{dry} [blood_1]{blood} that [form_1]{forms} when a [cut_1]{cut} on your [skin_1]{skin} is [get]{getting} [better_1]{better}",
+      "entry": "scab",
+      "id": "scab#scab__1"
+    },
+    {
+      "comment": "a [burn_1]{burn} on your [skin_1]{skin} [cause_2]{caused} by very [hot]{hot} [liquid_1]{liquid} or [steam_1]{steam}",
+      "entry": "scald",
+      "id": "scald_2#scald_2__1"
+    },
+    {
+      "comment": "a [permanent_1]{permanent} [mark_1]{mark} on your [skin_1]{skin} where you have been [injured]{injured}",
+      "entry": "scar",
+      "id": "scar_1#scar_1__1"
+    },
+    {
+      "comment": "a [cut_1]{cut} on the [surface_1]{surface} of your [skin_1]{skin}",
+      "entry": "scratch",
+      "id": "scratch_2#scratch_2__1"
+    },
+    {
+      "comment": "a [small_1]{small} [painful]{painful} [area]{area} of [skin_1]{skin} that is [injured]{injured} or [infected]{infected}",
+      "entry": "sore",
+      "id": "sore_2#sore_2__1"
+    },
+    {
+      "comment": "a small red mark that you get on your skin if you have a disease such as measles or chickenpox",
+      "entry": "spot",
+      "id": "spot_1#spot_1__16"
+    },
+    {
+      "comment": "the [condition_1]{condition} of [have]{having} red [sore_1]{sore} [skin_1]{skin} that is [cause_2]{caused} by [stay_1]{staying} in the [sun_1]{sun} for too long",
+      "entry": "sunburn",
+      "id": "sunburn#sunburn__1"
+    },
+    {
+      "comment": "an [area]{area} of your body that has [increased]{increased} in [size_1]{size} as a [result_1]{result} of an [injury]{injury} or an [illness]{illness}",
+      "entry": "swelling",
+      "id": "swelling#swelling__1"
+    },
+    {
+      "comment": "a plantar [wart]{wart}",
+      "entry": "verruca",
+      "id": "verruca#verruca__1"
+    },
+    {
+      "comment": "a [disease]{disease} that [make_1]{makes} the [skin_1]{skin} [turn_1]{turn} [white_1]{white}",
+      "entry": "vitiligo",
+      "id": "vitiligo#vitiligo__1"
+    },
+    {
+      "comment": "a small hard lump that grows on your skin caused by a virus",
+      "entry": "wart",
+      "id": "wart#wart__1"
+    },
+    {
+      "comment": "a [mark_1]{mark} on the [skin_1]{skin} where it has been hit or [injured]{injured}",
+      "entry": "weal",
+      "id": "weal#weal__2"
+    },
+    {
+      "comment": "a red [raised]{raised} [area]{area} on the [skin_1]{skin} [cause_2]{caused} by [injury]{injury} or [illness]{illness}",
+      "entry": "welt",
+      "id": "welt#welt__1"
+    },
+    {
+      "comment": "red [skin_1]{skin} that you get when you have been in a [strong]{strong} [wind_1]{wind}",
+      "entry": "windburn",
+      "id": "windburn#windburn__1"
+    },
+    {
+      "comment": "an injury in which your skin or flesh is damaged, usually seriously. When a wound gets better it heals",
+      "entry": "wound",
+      "id": "wound_1#wound_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [raised]{raised} [infected]{infected} [mark_1]{mark} on your [face_1]{face}",
+      "entry": "zit",
+      "id": "zit#zit__1"
+    }
+  ],
+  "thesaurus": "Skin problems, swellings and injuries",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "guard against",
+  "senses": [
+    {
+      "def": "to [help_1]{help} to [prevent]{prevent} something from [happening_1]{happening}",
+      "examples": [
+        "[fiber]{Fiber} in the [diet_1]{diet} is [thought_1]{thought} to [guard_1]{guard} against [heart_1]{heart} [disease]{disease}."
+      ],
+      "id": "guard-against__1"
+    },
+    {
+      "def": "to [try_1]{try} to [prevent]{prevent} something from [happening_1]{happening}",
+      "examples": [
+        "We [need_1]{need} to [guard_1]{guard} against the [possibility]{possibility} of [people_1]{people} [lose]{losing} interest."
+      ],
+      "id": "guard-against__3"
+    }
+  ]
+}

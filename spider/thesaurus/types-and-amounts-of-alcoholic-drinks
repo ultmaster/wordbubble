@@ -1,0 +1,256 @@
+{
+  "entries": [
+    {
+      "comment": "[drink_1]{drinks} such as [wine_1]{wine} and [beer]{beer} that can [make_1]{make} [people_1]{people} [drunk_1]{drunk}",
+      "entry": "alcohol",
+      "id": "alcohol#alcohol__1"
+    },
+    {
+      "comment": "the [substance]{substance} in [drink_1]{drinks} such as [wine_1]{wine} and [beer]{beer} that [make_1]{makes} you [drunk_1]{drunk}",
+      "entry": "alcohol",
+      "id": "alcohol#alcohol__4"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} that is [drunk_1]{drunk} before a [meal]{meal}",
+      "entry": "aperitif",
+      "id": "aperitif#aperitif__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} of [strong]{strong} [alcohol]{alcohol}",
+      "entry": "belt",
+      "id": "belt_1#belt_1__15"
+    },
+    {
+      "comment": "[alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "booze",
+      "id": "booze_1#booze_1__1"
+    },
+    {
+      "comment": "a [weak]{weak} [alcoholic_1]{alcoholic} [drink_1]{drink} that you [drink_1]{drink} [immediately]{immediately} after a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink}, or a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink} that you [drink_1]{drink} [immediately]{immediately} after a [weak]{weak} one",
+      "entry": "chaser",
+      "id": "chaser#chaser__1"
+    },
+    {
+      "comment": "a [drink_1]{drink}, [usually]{usually} with a [lot_1]{lot} of [alcohol]{alcohol} in it, made by [mix_1]{mixing} [different]{different} [drink_1]{drinks} together",
+      "entry": "cocktail",
+      "id": "cocktail#cocktail__1"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} made from a [mixture]{mixture} of two or more [drink_1]{drinks}, [especially]{especially} [wine_1]{wine} and [fruit_1]{fruit} [juice_1]{juice}",
+      "entry": "cup",
+      "id": "cup_1#cup_1__18"
+    },
+    {
+      "comment": "an amount of a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink} that is [twice_1]{twice} the [usual]{usual} amount",
+      "entry": "double",
+      "id": "double_3#double_3__1"
+    },
+    {
+      "comment": "a small amount of an alcoholic drink, especially whiskey",
+      "entry": "dram",
+      "id": "dram#dram__1"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "drink",
+      "id": "drink_2#drink_2__8"
+    },
+    {
+      "comment": "a [small_1]{small} [bottle_1]{bottle} of [beer]{beer}",
+      "entry": "dumpy",
+      "id": "dumpy_2#dumpy_2__1"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} [taken_1]{taken} in the [morning_1]{morning} to [wake_1]{wake} up",
+      "entry": "eye opener",
+      "id": "eye-opener#eye-opener__2"
+    },
+    {
+      "comment": "a bottle of an alcoholic drink containing one fifth of a gallon",
+      "entry": "fifth",
+      "id": "fifth_2#fifth_2__1"
+    },
+    {
+      "comment": "any [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "firewater",
+      "id": "firewater#firewater__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [alcoholic_1]{alcoholic} [drink_1]{drink} [serve_1]{served} with a [lot_1]{lot} of [small_1]{small} [piece_1]{pieces} of [ice_1]{ice}",
+      "entry": "frapp\u00e9",
+      "id": "frappe#frappe__2"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} that [make_1]{makes} you [feel_1]{feel} [better_1]{better} when you [drank]{drank} too much [alcohol]{alcohol} the [night_1]{night} before",
+      "entry": "the hair of the dog (that bit you)",
+      "id": "the-hair-of-the-dog-that-bit-you#the-hair-of-the-dog-that-bit-you__1"
+    },
+    {
+      "comment": "half a pint of a drink, especially beer",
+      "entry": "half",
+      "id": "half#half__30"
+    },
+    {
+      "comment": "[strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink}, [especially]{especially} [drink_1]{drink} that is made [illegal_1#illegal_1__6]{illegally}",
+      "entry": "hooch",
+      "id": "hooch#hooch__1"
+    },
+    {
+      "comment": "a [drink_1]{drink}, [especially]{especially} an [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "libation",
+      "id": "libation#libation__1"
+    },
+    {
+      "comment": "[drink_1]{drinks}, [especially]{especially} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "liquid refreshment",
+      "id": "liquid-refreshment#liquid-refreshment__1"
+    },
+    {
+      "comment": "[alcoholic_1]{alcoholic} [drink_1]{drinks}, [especially]{especially} [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "liquor",
+      "id": "liquor#liquor__1"
+    },
+    {
+      "comment": "a [standard_1]{standard} amount of [alcohol]{alcohol} [serve_1]{served} in a [bar_1]{bar}, [restaurant]{restaurant}, etc.",
+      "entry": "measure",
+      "id": "measure_1#measure_1__15"
+    },
+    {
+      "comment": "a very [small_1]{small} [bottle_1]{bottle} of [alcoholic_1]{alcoholic} [drink_1]{drink}, [especially]{especially} a [spirit_1]{spirit}",
+      "entry": "miniature",
+      "id": "miniature_2#miniature_2__4"
+    },
+    {
+      "comment": "a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink} that is [produce_1]{produced} and [sold]{sold} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "moonshine",
+      "id": "moonshine#moonshine__1"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} that you have [just_1]{just} before you go to [bed_1]{bed}",
+      "entry": "nightcap",
+      "id": "nightcap#nightcap__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "nip",
+      "id": "nip_2#nip_2__3"
+    },
+    {
+      "comment": "a [glass]{glass} of [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "one",
+      "id": "one#one__51"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} that you have [quickly]{quickly} before you [leave_1]{leave} a [place_1]{place}",
+      "entry": "one for the road",
+      "id": "one-for-the-road#one-for-the-road__1"
+    },
+    {
+      "comment": "a [pint]{pint} of [beer]{beer}",
+      "entry": "pint",
+      "id": "pint#pint__3"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [drink_1]{drink} made with [fruit_1]{fruit} [juice_1]{juice} and [usually]{usually} [alcohol]{alcohol}",
+      "entry": "punch",
+      "id": "punch_2#punch_2__5"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} that is [inexpensive]{inexpensive} and not of [good_1]{good} [quality_1]{quality}",
+      "entry": "rotgut",
+      "id": "rotgut#rotgut__1"
+    },
+    {
+      "comment": "[alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "the sauce",
+      "id": "sauce#sauce__4"
+    },
+    {
+      "comment": "a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink} [serve_1]{served} in [small_1]{small} [amount_1]{amounts}",
+      "entry": "short",
+      "id": "short_3#short_3__5"
+    },
+    {
+      "comment": "a [small_1]{small} amount of a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "shot",
+      "id": "shot_2#shot_2__24"
+    },
+    {
+      "comment": "an alcoholic drink consisting of tequila and lemonade that you traditionally drink quickly after banging the glass on the table",
+      "entry": "slammer",
+      "id": "slammer#slammer__1"
+    },
+    {
+      "comment": "an amount of a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink} that you [drink_1]{drink} [quickly]{quickly}",
+      "entry": "slug",
+      "id": "slug_1#slug_1__2"
+    },
+    {
+      "comment": "a strong alcoholic drink such as whiskey or brandy",
+      "entry": "spirit",
+      "id": "spirit_1#spirit_1__22"
+    },
+    {
+      "comment": "alcoholic drinks, especially alcoholic spirits",
+      "entry": "strong drink",
+      "id": "strong-drink#strong-drink__1"
+    },
+    {
+      "comment": "a [small_1]{small} [wide_1]{wide} [bottle_1]{bottle} of [beer]{beer}",
+      "entry": "stubby",
+      "id": "stubby_2#stubby_2__1"
+    },
+    {
+      "comment": "a can of beer that holds 16 ounces",
+      "entry": "tallboy",
+      "id": "tallboy#tallboy__1"
+    },
+    {
+      "comment": "[strong]{strong} [alcohol]{alcohol} and [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "(the) hard stuff",
+      "id": "the-hard-stuff#the-hard-stuff__1"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "tincture",
+      "id": "tincture#tincture__2"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} that you [drink_1]{drink} [regularly]{regularly}",
+      "entry": "tipple",
+      "id": "tipple_1#tipple_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of a [strong]{strong} [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "tot",
+      "id": "tot_1#tot_1__2"
+    },
+    {
+      "comment": "a can of a [drink_1]{drink}, [especially]{especially} [beer]{beer}",
+      "entry": "tube",
+      "id": "tube#tube__9"
+    },
+    {
+      "comment": "the amount of [drink_1]{drink} that a [tumbler]{tumbler} can [contain]{contain}",
+      "entry": "tumbler",
+      "id": "tumbler#tumbler__2"
+    },
+    {
+      "comment": "[used]{used} for [measure_2]{measuring} the amount of [alcohol]{alcohol} that [people_1]{people} [drink_1]{drink}",
+      "entry": "unit",
+      "id": "unit#unit__20"
+    },
+    {
+      "comment": "[used]{used} in a [bar_1]{bar} for [order_2]{ordering} the same [alcoholic_1]{alcoholic} [drink_1]{drink} that you [usually]{usually} have, or for [ask_1]{asking} a [customer]{customer} if that is what they [want_1]{want}",
+      "entry": "the usual",
+      "id": "the-usual#the-usual__1"
+    },
+    {
+      "comment": "[moonshine]{moonshine}",
+      "entry": "white lightning",
+      "id": "white-lightning#white-lightning__1"
+    }
+  ],
+  "thesaurus": "Types and amounts of alcoholic drinks",
+  "type": "Related words"
+}

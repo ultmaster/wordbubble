@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [total_1]{total} [number_1]{number} of [people_1]{people} who have been [kill_1]{killed} or [hurt_1]{hurt}",
+      "examples": [
+        "the [mounting_1]{mounting} toll of [failed]{failed} [business]{businesses}"
+      ],
+      "id": "toll_1__1"
+    },
+    {
+      "def": "the [loud_1]{loud} [slow_1]{slow} [repeated]{repeated} [sound_1]{sound} of a [large_1]{large} [bell_1]{bell}",
+      "examples": [],
+      "id": "toll_1__4"
+    },
+    {
+      "def": "an amount of [money]{money} that you [pay_1]{pay} to use a [bridge_1]{bridge} or a [road]{road}",
+      "examples": [
+        "toll [charge_1]{charges}"
+      ],
+      "id": "toll_1__5"
+    }
+  ],
+  "word": "toll"
+}

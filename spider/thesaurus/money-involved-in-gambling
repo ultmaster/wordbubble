@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a small piece of plastic used instead of money when gambling  (=playing games for money)",
+      "entry": "chip",
+      "id": "chip_1#chip_1__11"
+    },
+    {
+      "comment": "a [large_1]{large} amount of [money]{money} that someone [win_1]{wins} in a [card_1]{card} [game_1]{game}, or another [game_1]{game} [involve]{involving} [money]{money}",
+      "entry": "jackpot",
+      "id": "jackpot#jackpot__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that is [collected]{collected} by the [people_1]{people} [play_1]{playing} a [game_1]{game} that is [paid_1]{paid} to the [winner]{winner}",
+      "entry": "kitty",
+      "id": "kitty#kitty__4"
+    },
+    {
+      "comment": "an amount of [money]{money} that [people_1]{people} [share_1]{share} or [compete]{compete} for, [especially]{especially} in a [card_1]{card} [game_1]{game}",
+      "entry": "pot",
+      "id": "pot_1#pot_1__8"
+    },
+    {
+      "comment": "a situation in which no one wins the prize money from a lottery competition and it is added on to the money for the next competition",
+      "entry": "rollover",
+      "id": "rollover#rollover__3"
+    },
+    {
+      "comment": "money that is likely to win a bet or make a profit because it is bet or invested by people with a lot of knowledge about the situation",
+      "entry": "smart money",
+      "id": "smart-money#smart-money__3"
+    },
+    {
+      "comment": "an amount of [money]{money} that you [risk_1]{risk} [lose]{losing} when you [try_1]{try} to [guess_1]{guess} the [result_1]{result} of a [race_1]{race} or [competition]{competition}",
+      "entry": "stakes",
+      "id": "stake_1#stake_1__4"
+    },
+    {
+      "comment": "in a horse or dog race, the odds of a particular runner just before the race starts, representing the amount of money that you will win if you bet on it",
+      "entry": "starting price",
+      "id": "starting-price#starting-price__2"
+    },
+    {
+      "comment": "[money]{money} that you [win_1]{win}",
+      "entry": "winnings",
+      "id": "winnings#winnings__1"
+    }
+  ],
+  "thesaurus": "Money involved in gambling",
+  "type": "Related words"
+}

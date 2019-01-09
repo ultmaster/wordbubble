@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "I know",
+  "senses": [
+    {
+      "def": "[used]{used} for [agree]{agreeing} with what someone [say_1]{says}",
+      "examples": [
+        "\u201cHe\u2019s a [complete_1]{complete} [idiot]{idiot}.\u201d \u201c[yeah]{Yeah}, I [know_1]{know}.\u201d"
+      ],
+      "id": "i-know__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you [understand]{understand} someone and [feel_1]{feel} [sympathy]{sympathy} for them",
+      "examples": [
+        "I [know_1]{know} how [hard_1]{hard} this is for you."
+      ],
+      "id": "i-know__3"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you [know_1]{know} there is a [problem]{problem}, but you do not [think_1]{think} it is [important]{important}",
+      "examples": [
+        "I [know_1]{know}, I should have [told]{told} you I\u2019d be [late_1]{late}.",
+        "I [know_1]{know} the [plan_1]{plan} is [pretty_1]{pretty} rough, but you get the [idea]{idea}."
+      ],
+      "id": "i-know__5"
+    },
+    {
+      "def": "[used]{used} when you have a [sudden_1]{sudden} [idea]{idea}",
+      "examples": [
+        "I [know_1]{know}, [let_1]{let}\u2019s go to the [movie]{movies} [instead]{instead}."
+      ],
+      "id": "i-know__8"
+    }
+  ]
+}

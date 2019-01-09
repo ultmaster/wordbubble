@@ -1,0 +1,33 @@
+{
+  "part": "conjunction",
+  "senses": [
+    {
+      "def": "[used]{used} when someone [does]{does} not [know_1]{know} which of two [possibility]{possibilities} is [true_1]{true}",
+      "examples": [
+        "They [ask_1]{asked} us whether we were [married]{married}.",
+        "There is some [doubt_1]{doubt} as to whether the [illness]{illness} is [infectious]{infectious}.",
+        "She doesn\u2019t even [know_1]{know} whether her [daughter_1]{daughter} is [dead_1]{dead} or [alive]{alive}.",
+        "I still don\u2019t [know_1]{know} whether or not he\u2019s [planning]{planning} to come."
+      ],
+      "id": "whether__1"
+    },
+    {
+      "def": "[used]{used} when someone can [choose]{choose} between two [possibility]{possibilities}",
+      "examples": [
+        "[employee]{Employees} are [deciding]{deciding} whether to [accept]{accept} the [offer_1]{offer}.",
+        "There was a [debate_1]{debate} over whether or not to [send_1]{send} [troop_1]{troops}."
+      ],
+      "id": "whether__6"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that it [does]{does} not [matter_1]{matter} which of two [possibility]{possibilities} is [true_1]{true}, because the [situation]{situation} will be the same",
+      "examples": [
+        "Whether you [like_1]{like} it or not, you\u2019ll have to [change_1]{change} your [lifestyle]{lifestyle}.",
+        "Whether we [win_1]{win} or whether we [lose]{lose}, we will [respect_1]{respect} the [democratic]{democratic} [process_1]{process}.",
+        "The [trip_1]{trip}, whether by [car]{car} or by [train_1]{train}, [take_1]{takes} under four [hour]{hours}."
+      ],
+      "id": "whether__9"
+    }
+  ],
+  "word": "whether"
+}

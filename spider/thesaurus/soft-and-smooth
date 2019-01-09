@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [soft]{soft} [material_1]{material} or [surface_1]{surface} is one that is [pleasant]{pleasant} to [touch_1]{touch} and not rough or [stiff_1]{stiff}",
+      "entry": "soft",
+      "id": "soft#soft__4"
+    },
+    {
+      "comment": "[sleek_1]{sleek} fur or [hair]{hair} is [smooth_1]{smooth} and [shiny]{shiny}",
+      "entry": "sleek",
+      "id": "sleek_1#sleek_1__1"
+    },
+    {
+      "comment": "very [soft]{soft}, [smooth_1]{smooth}, or [shiny]{shiny}",
+      "entry": "silky",
+      "id": "silky#silky__1"
+    },
+    {
+      "comment": "very [soft]{soft} or [smooth_1]{smooth}",
+      "entry": "velvety",
+      "id": "velvety#velvety__1"
+    },
+    {
+      "comment": "smooth and shiny like wax",
+      "entry": "waxy",
+      "id": "waxy#waxy__1"
+    },
+    {
+      "comment": "[shiny]{shiny} and [smooth_1]{smooth} to [touch_1]{touch}",
+      "entry": "satiny",
+      "id": "satiny#satiny__1"
+    },
+    {
+      "comment": "[soft]{soft} and [delicate]{delicate}",
+      "entry": "feathery",
+      "id": "feathery#feathery__3"
+    },
+    {
+      "comment": "[smooth_1]{smooth} and [shiny]{shiny} or [wet_1]{wet}",
+      "entry": "slick",
+      "id": "slick_1#slick_1__1"
+    },
+    {
+      "comment": "made of something very [soft]{soft} such as [wool]{wool}",
+      "entry": "fluffy",
+      "id": "fluffy#fluffy__3"
+    },
+    {
+      "comment": "very [soft]{soft}, [smooth_1]{smooth}, or [shiny]{shiny}",
+      "entry": "silken",
+      "id": "silken#silken__1"
+    }
+  ],
+  "thesaurus": "Soft and smooth",
+  "type": "Synonyms"
+}

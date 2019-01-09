@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "bits and pieces",
+  "senses": [
+    {
+      "def": "someone\u2019s [possession]{possessions} or [furniture]{furniture}",
+      "examples": [
+        "We have a few [bit_1]{bits} and [piece_1]{pieces} of [furniture]{furniture}, but that\u2019s all."
+      ],
+      "id": "bits-and-pieces__1"
+    },
+    {
+      "def": "[small_1]{small} [individual_1]{individual} [thing]{things}",
+      "examples": [
+        "Then there are all the other [bit_1]{bits} and [piece_1]{pieces} [involved]{involved} in a [wedding]{wedding}: [invitation]{invitations}, [photo_1]{photos}, and [car]{car} [rental_1]{rental}."
+      ],
+      "id": "bits-and-pieces__3"
+    }
+  ]
+}

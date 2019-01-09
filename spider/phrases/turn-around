@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "turn around",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} being [unsuccessful]{unsuccessful} and to [start_1]{start} being [successful]{successful}, or to [make_1]{make} something do this",
+      "examples": [
+        "That\u2019s the [moment]{moment} when the [game_1]{game} [turn_1]{turned} around, Miami [coach_1]{coach} Kevin Loughery [said_1]{said}.",
+        "The $400 [million]{million} [loan_1]{loan} will [help_1]{help} [turn_1]{turn} the Russian [economy_1]{economy} around."
+      ],
+      "id": "turn-around__1"
+    },
+    {
+      "def": "to [complete_1]{complete} a [piece_1]{piece} of [work_1]{work}, [process_1]{process}, or [activity]{activity} within a [particular_1]{particular} time",
+      "examples": [
+        "We can [produce_1]{produce} [quality_1]{quality} [work_1]{work} and [turn_1]{turn} it around very [quickly]{quickly}."
+      ],
+      "id": "turn-around__4"
+    },
+    {
+      "def": "to [consider]{consider} or [express_1]{express} something in a [different]{different} way",
+      "examples": [
+        "If you [turn_1]{turn} this [argument]{argument} around, you\u2019ll see that it\u2019s [equally]{equally} [valid]{valid}."
+      ],
+      "id": "turn-around__6"
+    }
+  ]
+}

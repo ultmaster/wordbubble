@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "hold out",
+  "senses": [
+    {
+      "def": "to [hold_1]{hold} something where someone else can [reach_1]{reach} it",
+      "examples": [
+        "Gail [held]{held} out her [glass]{glass} to be [refill_1]{refilled}.",
+        "She [held]{held} out her hand to him."
+      ],
+      "id": "hold-out__1"
+    },
+    {
+      "def": "to [continue]{continue} to be enough or [continue]{continue} to [exist]{exist}",
+      "examples": [
+        "How long will your [money]{money} [hold_1]{hold} out?",
+        "I [wonder_1]{wonder} whether her [stamina]{stamina} will [hold_1]{hold} out."
+      ],
+      "id": "hold-out__4"
+    },
+    {
+      "def": "to [continue]{continue} to [defend]{defend} a [place_1]{place} that is being [attack_2]{attacked}",
+      "examples": [
+        "We can only [hold_1]{hold} out for a few more [hour]{hours}."
+      ],
+      "id": "hold-out__7"
+    }
+  ]
+}

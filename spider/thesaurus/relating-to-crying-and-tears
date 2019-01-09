@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [drop_1]{drop} of [liquid_1]{liquid} that comes from your [eye_1]{eye} when you cry",
+      "entry": "tears",
+      "id": "tear_2#tear_2__1"
+    },
+    {
+      "comment": "a [single_1]{single} [tear_1]{tear}",
+      "entry": "teardrop",
+      "id": "teardrop#teardrop__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when you have [tear_1]{tears} coming from your [eye_1]{eyes}, [especially]{especially} because you are [sad_1]{sad}",
+      "entry": "cry",
+      "id": "cry_2#cry_2__8"
+    },
+    {
+      "comment": "[crying]{crying}, or [feeling_1]{feeling} as if you [want_1]{want} to cry",
+      "entry": "tearful",
+      "id": "tearful#tearful__1"
+    },
+    {
+      "comment": "the [act_1]{act} or [sound_1]{sound} of someone [crying]{crying}",
+      "entry": "weeping",
+      "id": "weeping#weeping__1"
+    },
+    {
+      "comment": "if you [feel_1]{feel} [weepy]{weepy}, you [want_1]{want} to cry",
+      "entry": "weepy",
+      "id": "weepy#weepy__1"
+    },
+    {
+      "comment": "[crying]{crying} a [little_1]{little}, or [feeling_1]{feeling} that you might cry",
+      "entry": "misty-eyed",
+      "id": "misty-eyed#misty-eyed__1"
+    },
+    {
+      "comment": "[misty]{misty} [eye_1]{eyes} have [tear_1]{tears} in them",
+      "entry": "misty",
+      "id": "misty#misty__6"
+    },
+    {
+      "comment": "to [make_1]{make} you cry, or to [feel_1]{feel} as if you are [going_1]{going} to cry",
+      "entry": "bring tears to your eyes",
+      "id": "bring-tears-to-your-eyes#bring-tears-to-your-eyes__1"
+    },
+    {
+      "comment": "a [kind_1]{kind} way of [telling]{telling} someone to [stop_1]{stop} [crying]{crying}",
+      "entry": "dry your eyes",
+      "id": "dry-your-eyes#dry-your-eyes__1"
+    }
+  ],
+  "thesaurus": "Relating to crying and tears",
+  "type": "Synonyms"
+}

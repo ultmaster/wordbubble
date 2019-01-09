@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[feeling_1]{feeling} [tired]{tired} and [wanting]{wanting} to [sleep_1]{sleep}",
+      "examples": [
+        "I [felt_1]{felt} very sleepy after [lunch_1]{lunch}."
+      ],
+      "id": "sleepy__1"
+    },
+    {
+      "def": "a sleepy [place_1]{place} is very [quiet_1]{quiet} and [does]{does} not have much [activity]{activity}",
+      "examples": [
+        "a sleepy [little_1]{little} [village_1]{village}"
+      ],
+      "id": "sleepy__3"
+    }
+  ],
+  "word": "sleepy"
+}

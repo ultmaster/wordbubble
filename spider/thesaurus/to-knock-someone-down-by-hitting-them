@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to hit someone very [hard_1]{hard}, so that they [fall_1]{fall} or become [unconscious_1]{unconscious}",
+      "entry": "knock",
+      "id": "knock_1#knock_1__5"
+    },
+    {
+      "comment": "to hit someone with enough [force_1]{force} to [make_1]{make} them [fall_1]{fall} down",
+      "entry": "strike down",
+      "id": "strike-down#strike-down__4"
+    },
+    {
+      "comment": "to hit someone with a [vehicle]{vehicle} so that they are [injured]{injured} or [kill_1]{killed}",
+      "entry": "knock down",
+      "id": "knock-down#knock-down__3"
+    },
+    {
+      "comment": "to hit someone so [hard_1]{hard} that they [fall_1]{fall} to the [ground_1]{ground}",
+      "entry": "deck",
+      "id": "deck_2#deck_2__1"
+    },
+    {
+      "comment": "to hit someone [hard_1]{hard} so that they [fall_1]{fall} to the [ground_1]{ground}",
+      "entry": "floor",
+      "id": "floor_2#floor_2__6"
+    },
+    {
+      "comment": "to hit or [shoot_1]{shoot} someone so that they [fall_1]{fall} down",
+      "entry": "take down",
+      "id": "take-down#take-down__6"
+    },
+    {
+      "comment": "to [knock_1]{knock} someone down by [hit_1]{hitting} them [hard_1]{hard}",
+      "entry": "flatten",
+      "id": "flatten#flatten__8"
+    },
+    {
+      "comment": "to hit someone so [hard_1]{hard} that they [fall_1]{fall} and cannot get up",
+      "entry": "punch someone\u2019s lights out",
+      "id": "punch-out#punch-out__3"
+    },
+    {
+      "comment": "to [knock_1]{knock} someone down by [hit_1]{hitting} them",
+      "entry": "fell",
+      "id": "fell_1#fell_1__2"
+    },
+    {
+      "comment": "to hit someone so [hard_1]{hard} that they [fall_1]{fall} to the [ground_1]{ground} and become [unconscious_1]{unconscious}",
+      "entry": "lay out",
+      "id": "lay-out#lay-out__12"
+    }
+  ],
+  "thesaurus": "To knock someone down by hitting them",
+  "type": "Synonyms"
+}

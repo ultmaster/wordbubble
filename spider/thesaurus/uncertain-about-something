@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [feeling_1]{feeling} [sure_1]{sure} about what to do, whether something is [true_1]{true}, etc.",
+      "entry": "uncertain",
+      "id": "uncertain#uncertain__8"
+    },
+    {
+      "comment": "not [certain_1]{certain} about something",
+      "entry": "unsure",
+      "id": "unsure#unsure__1"
+    },
+    {
+      "comment": "not [feeling_1]{feeling} [certain_1]{certain} about something",
+      "entry": "doubtful",
+      "id": "doubtful#doubtful__8"
+    },
+    {
+      "comment": "not [sure_1]{sure} about the [truth]{truth} or [quality_1]{quality} of something, or whether you should do something",
+      "entry": "dubious",
+      "id": "dubious#dubious__1"
+    },
+    {
+      "comment": "not [definite]{definite}, or not [certain_1]{certain}",
+      "entry": "tentative",
+      "id": "tentative#tentative__1"
+    },
+    {
+      "comment": "[thinking_1]{thinking} that something may not be [true_1]{true} or [right_1]{right}",
+      "entry": "unconvinced",
+      "id": "unconvinced#unconvinced__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [skeptical]{skeptical}",
+      "entry": "sceptical",
+      "id": "sceptical#sceptical__1"
+    },
+    {
+      "comment": "[confused]{confused} and not [certain_1]{certain} what to do",
+      "entry": "bewildered",
+      "id": "bewildered#bewildered__1"
+    },
+    {
+      "comment": "[showing]{showing} that you have [doubt_1]{doubts}",
+      "entry": "questioning",
+      "id": "questioning_2#questioning_2__1"
+    },
+    {
+      "comment": "[have]{having} an [opinion]{opinion} but not [completely]{completely} [sure_1]{sure} about it",
+      "entry": "inclined to think/believe/agree etc.",
+      "id": "inclined-to-think-believe-agree-etc#inclined-to-think-believe-agree-etc__1"
+    }
+  ],
+  "thesaurus": "Uncertain about something",
+  "type": "Synonyms"
+}

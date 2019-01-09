@@ -1,0 +1,311 @@
+{
+  "entries": [
+    {
+      "comment": "[use_1]{using} [clear_1]{clear} [strong]{strong} [letter_1]{letters} or [lines]{lines}",
+      "entry": "bold",
+      "id": "bold_1#bold_1__10"
+    },
+    {
+      "comment": "[print_1]{printed} [use_1]{using} [dark_1]{darker} or [thick_1]{thicker} [letter_1]{letters} than other [print_1]{printed} [letter_1]{letters}",
+      "entry": "bold",
+      "id": "bold_1#bold_1__12"
+    },
+    {
+      "comment": "a way of [printing]{printing} [letter_1]{letters} that [make_1]{makes} them [thick_1]{thicker} and [dark_1]{darker} than [usual]{usual}",
+      "entry": "bold",
+      "id": "bold_2#bold_2__1"
+    },
+    {
+      "comment": "a way of [writing]{writing} a [closed]{closed} [compound_1]{compound} where a [capital_1]{capital} [letter_1]{letter} is [used]{used} at the [start_1]{start} of the [second_1]{second} [word_1]{word}",
+      "entry": "CamelCase",
+      "id": "camelcase#camelcase__1"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [capitalize]{capitalize}",
+      "entry": "capitalise",
+      "id": "capitalise#capitalise__2"
+    },
+    {
+      "comment": "to [write]{write} something [use_1]{using} [capital_1]{capital} [letter_1]{letters}",
+      "entry": "capitalize",
+      "id": "capitalize#capitalize__1"
+    },
+    {
+      "comment": "a [style_1]{style} of [writing]{writing} in which the [letter_1]{letters} are [careful#careful__20]{carefully} [form_2]{formed} in [curved]{curved} [flowing]{flowing} [shape_1]{shapes}",
+      "entry": "copperplate",
+      "id": "copperplate#copperplate__1"
+    },
+    {
+      "comment": "a [line_1]{line} of [small_1]{small} [spot_1]{spots} of [ink_1]{ink} that are very [close_1]{close} together",
+      "entry": "dotted line",
+      "id": "dotted-line#dotted-line__1"
+    },
+    {
+      "comment": "a [complete_1]{complete} [set_1]{set} of [letter_1]{letters} and [number_1]{numbers} in one [size_1]{size} and [style_1]{style}, [used]{used} for [printing]{printing} or for computer [document_1]{documents}",
+      "entry": "font",
+      "id": "font#font__1"
+    },
+    {
+      "comment": "the [size_1]{size}, [shape_1]{shape}, and [appearance]{appearance} of a [book_1]{book}, [magazine]{magazine}, or [newspaper]{newspaper}",
+      "entry": "format",
+      "id": "format_1#format_1__3"
+    },
+    {
+      "comment": "[print_1]{printed} on a whole [page_1]{page} of a [newspaper]{newspaper} or [magazine]{magazine}",
+      "entry": "full-page",
+      "id": "full-page#full-page__1"
+    },
+    {
+      "comment": "a long [sheet]{sheet} of [paper_1]{paper} on which a [book_1]{book} is first [print_1]{printed}, so that any [mistake_1]{mistakes} can be [correct_2]{corrected} before the [final_1]{final} [page_1]{pages} are [print_1]{printed}",
+      "entry": "galley",
+      "id": "galley#galley__3"
+    },
+    {
+      "comment": "a long flat container that holds type  (=small blocks with letters on them), used for printing books",
+      "entry": "galley",
+      "id": "galley#galley__4"
+    },
+    {
+      "comment": "[gothic_1#gothic_1__2]{Gothic} [printing]{printing} or [writing]{writing} [use_1]{uses} thick [lines]{lines} and [pointed]{pointed} [shape_1]{shapes}",
+      "entry": "Gothic",
+      "id": "gothic_1#gothic_1__4"
+    },
+    {
+      "comment": "a [line_1]{line} or [piece_1]{piece} of [writing]{writing} that is [repeated]{repeated} at the top of every [page_1]{page} of a [book_1]{book} or computer [document_1]{document}",
+      "entry": "header",
+      "id": "header#header__1"
+    },
+    {
+      "comment": "a [design_1]{design} [print_1]{printed} at the top of a [piece_1]{piece} of [writing]{writing}",
+      "entry": "headpiece",
+      "id": "headpiece#headpiece__2"
+    },
+    {
+      "comment": "only [just_1]{just} [print_1]{printed}, or only [just_1]{just} [received]{received}",
+      "entry": "hot off the press(es)",
+      "id": "hot-off-the-press-es#hot-off-the-press-es__1"
+    },
+    {
+      "comment": "a [single_1]{single} [occasion_1]{occasion} when a [number_1]{number} of [copy_1]{copies} of a [book_1]{book} are [print_1]{printed}",
+      "entry": "impression",
+      "id": "impression#impression__14"
+    },
+    {
+      "comment": "to [start_1]{start} a [line_1]{line} of [writing]{writing} or [printing]{printing} [farther_1]{farther} from the [edge_1]{edge} of the [page_1]{page} than the other [lines]{lines}",
+      "entry": "indent",
+      "id": "indent_1#indent_1__1"
+    },
+    {
+      "comment": "a [space_1]{space} at the side of a [page_1]{page} that is made by [indent_1]{indenting} a [line_1]{line}",
+      "entry": "indent",
+      "id": "indent_2#indent_2__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [indent_1]{indenting} [lines]{lines} of [writing]{writing}",
+      "entry": "indentation",
+      "id": "indentation#indentation__3"
+    },
+    {
+      "comment": "an [indent_1]{indent} in a [line_1]{line}",
+      "entry": "indentation",
+      "id": "indentation#indentation__4"
+    },
+    {
+      "comment": "to put something such as a [small_1]{small} [picture_1]{picture} onto a [print_1]{printed} [page_1]{page}",
+      "entry": "inset",
+      "id": "inset_2#inset_2__1"
+    },
+    {
+      "comment": "[italic]{italic} [letter_1]{letters} [slope_1]{slope} to the [right_1]{right}",
+      "entry": "italic",
+      "id": "italic#italic__1"
+    },
+    {
+      "comment": "to [write]{write} or [print_1]{print} something in [italics]{italics}, often for [emphasis]{emphasis}",
+      "entry": "italicize",
+      "id": "italicize#italicize__1"
+    },
+    {
+      "comment": "[italics]{italics} are [letter_1]{letters} that [slope_1]{slope} to the [right_1]{right}, [like_1]{like} the [letter_1]{letters} [used]{used} for the [example]{examples} in this [dictionary]{dictionary}. [italics]{Italics} are often [used]{used} to [emphasize]{emphasize} [particular_1]{particular} [word_1]{words} in a [piece_1]{piece} of [print_1]{printed} [writing]{writing}.",
+      "entry": "italics",
+      "id": "italics#italics__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} the [letter_1]{letters} at the [right_1]{right} or [left_1]{left} [edge_1]{edge} of a [print_1]{printed} [page_1]{page} form a [straight_1]{straight} [line_1]{line}",
+      "entry": "justification",
+      "id": "justification#justification__4"
+    },
+    {
+      "comment": "[print_1]{printed} on a [page_1]{page} so that the [letter_1]{letters} at the [right_1]{right} or [left_1]{left} [edge_1]{edge} form a [straight_1]{straight} [line_1]{line}",
+      "entry": "justified",
+      "id": "justified#justified__6"
+    },
+    {
+      "comment": "to [make_1]{make} the [left_1]{left} or [right_1]{right} [edge_1]{edges} of [writing]{writing} form a [straight_1]{straight} [line_1]{line} when [typing]{typing} or [printing]{printing}",
+      "entry": "justify",
+      "id": "justify#justify__7"
+    },
+    {
+      "comment": "a way of arranging a page so that its long sides are at the top and bottom. The other way of arranging a page, with the short sides at the top and bottom, is called portrait.",
+      "entry": "landscape",
+      "id": "landscape_1#landscape_1__8"
+    },
+    {
+      "comment": "the way in which the [word_1]{words} and [picture_1]{pictures} on a [page_1]{page} are [arrange]{arranged}",
+      "entry": "layout",
+      "id": "layout#layout__5"
+    },
+    {
+      "comment": "the ordinary small form in which letters are written or printed. Big letters like those at the beginning of a sentence or name are called upper case or capital letters",
+      "entry": "lower case",
+      "id": "lower-case#lower-case__1"
+    },
+    {
+      "comment": "the way that [word_1]{words} and [picture_1]{pictures} are [arrange]{arranged} on a [page_1]{page} before a [newspaper]{newspaper}, [magazine]{magazine}, or [book_1]{book} is [print_1]{printed}",
+      "entry": "makeup",
+      "id": "makeup#makeup__8"
+    },
+    {
+      "comment": "the [space_1]{space} at the [left_1]{left} or [right_1]{right} side of a [page_1]{page} where [word_1]{words} are not [usually]{usually} [print_1]{printed} or [written_1]{written}",
+      "entry": "margin",
+      "id": "margin#margin__1"
+    },
+    {
+      "comment": "a [line_1]{line} [drawn_1]{drawn} down the side of an empty [page_1]{page} in [order_1]{order} to [mark_1]{mark} the [area]{area} of a [margin]{margin}",
+      "entry": "margin",
+      "id": "margin#margin__3"
+    },
+    {
+      "comment": "something that [show_1]{shows} what [print_1]{printed} [word_1]{words} and [picture_1]{pictures} will [look_1]{look} [like_1]{like}",
+      "entry": "mockup",
+      "id": "mockup#mockup__3"
+    },
+    {
+      "comment": "a [method]{method} of [printing]{printing} in which [ink_1]{ink} is put onto [paper_1]{paper} from another [surface_1]{surface}",
+      "entry": "offset",
+      "id": "offset_2#offset_2__3"
+    },
+    {
+      "comment": "to [print_1]{print} something on top of [word_1]{words} or [picture_1]{pictures} that have already been [print_1]{printed}",
+      "entry": "overprint",
+      "id": "overprint#overprint__1"
+    },
+    {
+      "comment": "the [number_1]{numbers} on the [page_1]{pages} of a [book_1]{book} or other [document_1]{document}, or the [process_1]{process} of [put]{putting} [number_1]{numbers} on [page_1]{pages}",
+      "entry": "pagination",
+      "id": "pagination#pagination__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [metal_1]{metal} [used]{used}, [especially]{especially} in the [past_1]{past}, for [printing]{printing} the [word_1]{words} and [picture_1]{pictures} in [book_1]{books}",
+      "entry": "plate",
+      "id": "plate_1#plate_1__22"
+    },
+    {
+      "comment": "a way of arranging a page so that its short sides are at the top and bottom. The other way of arranging a page, with the long sides at the top and bottom, is called landscape.",
+      "entry": "portrait",
+      "id": "portrait#portrait__4"
+    },
+    {
+      "comment": "to produce words, numbers, pictures, etc. on paper, using a printer or printing press",
+      "entry": "print",
+      "id": "print_1#print_1__1"
+    },
+    {
+      "comment": "[letter_1]{letters} or other [symbol]{symbols} made by [pressing]{pressing} [ink_1]{ink}, [paint_1]{paint}, etc. on [paper_1]{paper} or a [similar]{similar} [surface_1]{surface}",
+      "entry": "print",
+      "id": "print_2#print_2__6"
+    },
+    {
+      "comment": "a [person]{person} or [business]{business} that [print_1]{prints} [document_1]{documents} or [picture_1]{pictures}, etc. for [private_1]{private} [customer]{customers} or other [business]{businesses}",
+      "entry": "printer",
+      "id": "printer#printer__3"
+    },
+    {
+      "comment": "the process of making books, newspapers, etc., using a printing press to put words and pictures onto paper",
+      "entry": "printing",
+      "id": "printing#printing__1"
+    },
+    {
+      "comment": "[relate]{relating} to [printing]{printing}",
+      "entry": "printing",
+      "id": "printing#printing__2"
+    },
+    {
+      "comment": "a large size of paper used in printing that measures about 26 x 20 centimeters",
+      "entry": "quarto",
+      "id": "quarto#quarto__1"
+    },
+    {
+      "comment": "the [usual]{usual} [style_1]{style} of [printing]{printing} that [use_1]{uses} [plain_1]{plain} [upright_1]{upright} [letter_1]{letters}",
+      "entry": "Roman",
+      "id": "roman_2#roman_2__3"
+    },
+    {
+      "comment": "a [style_1]{style} of [print_1]{printed} [letter_1]{letters} that have no [extra_1]{extra} [lines]{lines} or [curve_1]{curves} at their [edge_1]{edges}",
+      "entry": "sans serif",
+      "id": "sans-serif#sans-serif__1"
+    },
+    {
+      "comment": "a font  (=set of letters and numbers) used to display text on a computer screen",
+      "entry": "screen font",
+      "id": "screen-font#screen-font__1"
+    },
+    {
+      "comment": "a [short_1]{short} [line_1]{line} at the top or bottom of a [print_1]{printed} [letter_1]{letter}",
+      "entry": "serif",
+      "id": "serif#serif__1"
+    },
+    {
+      "comment": "to [arrange]{arrange} [letter_1]{letters} and [word_1]{words} on a [special_1]{special} [machine_1]{machine} into the [correct_1]{correct} [order_1]{order} so that you can [print_1]{print} something",
+      "entry": "set",
+      "id": "set_1#set_1__55"
+    },
+    {
+      "comment": "[small_1]{small} [letter_1]{letters} are [written_1]{written} [use_1]{using} the [small_1]{small} form of the [letter_1]{letter}, for [example]{example} \u201ca,\u201d \u201cb,\u201d \u201cc,\u201d etc..",
+      "entry": "small",
+      "id": "small_1#small_1__17"
+    },
+    {
+      "comment": "the [width]{width} of one [letter_1]{letter} of the [alphabet]{alphabet} when you are [typing]{typing}",
+      "entry": "space",
+      "id": "space_1#space_1__33"
+    },
+    {
+      "comment": "[written_1]{written} or [print_1]{printed} in very [small_1]{small} [print_1]{print} above a [letter_1]{letter}, [number_1]{number}, or [symbol]{symbol}",
+      "entry": "superscript",
+      "id": "superscript#superscript__1"
+    },
+    {
+      "comment": "[letter_1]{letters} [print_1]{printed} in a [book_1]{book}, [magazine]{magazine}, or [newspaper]{newspaper}, or [type_2]{typed} [use_1]{using} a [keyboard_1]{keyboard}",
+      "entry": "type",
+      "id": "type_1#type_1__7"
+    },
+    {
+      "comment": "a [set_1]{set} of [letter_1]{letters} and [number_1]{numbers} of the same [design_1]{design}, [used]{used} in [printing]{printing} or on a computer",
+      "entry": "typeface",
+      "id": "typeface#typeface__1"
+    },
+    {
+      "comment": "the [job_1]{job} of [arrange]{arranging} [word_1]{words} and [letter_1]{letters} for [printing]{printing}",
+      "entry": "typesetting",
+      "id": "typesetting#typesetting__1"
+    },
+    {
+      "comment": "[relate]{relating} to the way in which a [document_1]{document} has been [print_1]{printed}",
+      "entry": "typographical",
+      "id": "typographical#typographical__1"
+    },
+    {
+      "comment": "the [arrangement]{arrangement} and [appearance]{appearance} of the [word_1]{words} and [letter_1]{letters} in a [print_1]{printed} [document_1]{document}, [book_1]{book}, etc.",
+      "entry": "typography",
+      "id": "typography#typography__1"
+    },
+    {
+      "comment": "[space_1]{space} on a [page_1]{page} that has [deliberately]{deliberately} been [left_1]{left} empty",
+      "entry": "white space",
+      "id": "white-space#white-space__1"
+    }
+  ],
+  "thesaurus": "Printing and fonts and print layout",
+  "type": "Related words"
+}

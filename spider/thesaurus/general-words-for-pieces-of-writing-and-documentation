@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "[text_1]{texts} that are [written_1]{written} in an [academic_1]{academic} [style_1]{style}",
+      "entry": "academic writing",
+      "id": "academic-writing#academic-writing__3"
+    },
+    {
+      "comment": "the [letter_1]{letters} that someone [send_1]{sends} and [receive]{receives}",
+      "entry": "correspondence",
+      "id": "correspondence#correspondence__3"
+    },
+    {
+      "comment": "[document_1]{documents} [used]{used} for [prove]{proving} that something is [true_1]{true}",
+      "entry": "documentation",
+      "id": "documentation#documentation__1"
+    },
+    {
+      "comment": "[print_1]{printed} [thing]{things} such as [notice_1]{notices} and [ticket_1]{tickets}, that [people_1]{people} read or use but do not keep",
+      "entry": "ephemera",
+      "id": "ephemera#ephemera__2"
+    },
+    {
+      "comment": "[document_1]{documents}, etc. that are [used]{used} for a [particular_1]{particular} [activity]{activity}",
+      "entry": "material",
+      "id": "material_1#material_1__13"
+    },
+    {
+      "comment": "a [set_1]{set} of [document_1]{documents} [wrap_1]{wrapped} together",
+      "entry": "pack",
+      "id": "pack_2#pack_2__3"
+    },
+    {
+      "comment": "a [set_1]{set} of [document_1]{documents} [wrap_1]{wrapped} together, [give_1]{giving} [information]{information} about something",
+      "entry": "packet",
+      "id": "packet#packet__8"
+    },
+    {
+      "comment": "[document_1]{documents} [relate]{relating} to [work_1]{work}, [study_1]{study}, or [personal_1]{personal} [matter_1]{matters}",
+      "entry": "paper",
+      "id": "paper_1#paper_1__10"
+    },
+    {
+      "comment": "[official_1]{official} [document_1]{documents} such as your [passport]{passport}",
+      "entry": "papers",
+      "id": "paper_1#paper_1__8"
+    },
+    {
+      "comment": "the [document_1]{documents} that you [need_1]{need} for a [particular_1]{particular} [activity]{activity} or [occasion_1]{occasion}",
+      "entry": "paperwork",
+      "id": "paperwork#paperwork__3"
+    },
+    {
+      "comment": "[advertisement]{advertisements} or [document_1]{documents} that [contain]{contain} or [consist]{consist} of [print_1]{printed} [word_1]{words}",
+      "entry": "printed matter",
+      "id": "printed-matter#printed-matter__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} that has been [changed]{changed} in [order_1]{order} to [improve_1]{improve} it",
+      "entry": "rewrite",
+      "id": "rewrite_2#rewrite_2__1"
+    },
+    {
+      "comment": "the [written_1]{written} [word_1]{words} of a [play_1]{play}, [movie]{movie}, [television]{television} [program_1]{program}, [speech]{speech}, etc.",
+      "entry": "script",
+      "id": "script_1#script_1__1"
+    },
+    {
+      "comment": "[thing]{things} such as a [book_1]{books}, [poem]{poems}, and [newspaper]{newspaper} [article]{articles}",
+      "entry": "writing",
+      "id": "writing#writing__1"
+    },
+    {
+      "comment": "[used]{used} about [word_1]{words} [written_1]{written} or [print_1]{printed} on something",
+      "entry": "writing",
+      "id": "writing#writing__4"
+    }
+  ],
+  "thesaurus": "General words for pieces of writing and documentation",
+  "type": "Related words"
+}

@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [throw_1]{throw} or [drop_1]{drop} [thing]{things} so that they [spread_1]{spread} over an [area]{area}",
+      "examples": [
+        "I [scattered]{scattered} some [grain]{grain} on the [floor_1]{floor} of the hen [house_1]{house}.",
+        "The [children]{children} had [scattered]{scattered} [toy_1]{toys} all over the [floor_1]{floor}."
+      ],
+      "id": "scatter__1"
+    },
+    {
+      "def": "if a [group_1]{group} of [people_1]{people} or [animal_1]{animals} scatter, they [suddenly]{suddenly} move [away_1]{away} in [different]{different} [direction]{directions}",
+      "examples": [
+        "The [rabbit]{rabbits} [scattered]{scattered} when they [heard]{heard} our [footstep]{footsteps}.",
+        "The [enemy]{enemy} [force_1]{forces} had been [scattered]{scattered} and were [unable]{unable} to [regroup]{regroup}."
+      ],
+      "id": "scatter__4"
+    }
+  ],
+  "word": "scatter"
+}

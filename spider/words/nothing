@@ -1,0 +1,44 @@
+{
+  "part": "pronoun",
+  "senses": [
+    {
+      "def": "not anything",
+      "examples": [
+        "There was nothing in the [room_1]{room} except for a [mattress]{mattress}.",
+        "She [wait_1]{waited} and [watch_1]{watched}, but nothing [happen]{happened}.",
+        "I [knew]{knew} nothing at all about [take_1]{taking} [care_1]{care} of [baby_1]{babies}.",
+        "The [smoke_1]{smoke} [alarm_1]{alarms} were [working]{working}, but it seemed nothing else was.",
+        "I [saw_1]{saw} nothing [strange_1]{strange} in the [situation]{situation}.",
+        "There\u2019s nothing [wrong_1]{wrong} with [tourism]{tourism} \u2013 it\u2019s [good_1]{good} for [business]{business}.",
+        "The [kid_1]{kids} [complain]{complain} that there\u2019s nothing to do there.",
+        "Some of them had had nothing to [eat]{eat} for three [day]{days}."
+      ],
+      "id": "nothing__1"
+    },
+    {
+      "def": "not anything that is [important]{important} or [worth_1]{worth} [thinking_1]{thinking} about",
+      "examples": [
+        "You\u2019re [just_1]{just} [making]{making} a [big_1]{big} [fuss_1]{fuss} about nothing.",
+        "Do I mean nothing to you?",
+        "A [minor_1]{minor} [headache]{headache} is nothing to get too [worried]{worried} about.",
+        "\u201cWhat [did]{did} you do while I was [gone_1]{gone}?\u201d \u201cNothing much.\u201d"
+      ],
+      "id": "nothing__10"
+    },
+    {
+      "def": "no [money]{money}",
+      "examples": [
+        "The [car]{car} is [worth_1]{worth} nothing now."
+      ],
+      "id": "nothing__15"
+    },
+    {
+      "def": "[used]{used} in a [score_1]{score} to mean \u201c[zero_1]{zero}\u201d",
+      "examples": [
+        "Our [team_1]{team} [beat_1]{beat} the [eagle]{Eagles}, four \u2013 nothing."
+      ],
+      "id": "nothing__17"
+    }
+  ],
+  "word": "nothing"
+}

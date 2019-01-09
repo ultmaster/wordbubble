@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} [light_1]{light} or [sound_1]{sound} from [reach_1]{reaching} something",
+      "entry": "block out",
+      "id": "block-out#block-out__1"
+    },
+    {
+      "comment": "to keep [light_1]{light} from [shining]{shining} [directly_1]{directly} onto or into something",
+      "entry": "shade",
+      "id": "shade_2#shade_2__1"
+    },
+    {
+      "comment": "to become [dark_1]{darker}, or to [make_1]{make} something [dark_1]{darker}",
+      "entry": "darken",
+      "id": "darken#darken__1"
+    },
+    {
+      "comment": "if a [light_1]{light} [dim_2]{dims}, or if someone [dim_2]{dims} it, it becomes less [bright_1]{bright}",
+      "entry": "dim",
+      "id": "dim_2#dim_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [light_1]{light} [stop_1]{stop} [shining]{shining}",
+      "entry": "extinguish",
+      "id": "extinguish#extinguish__3"
+    },
+    {
+      "comment": "to [stop_1]{stop} [light_1]{light} from [get]{getting} to something",
+      "entry": "shadow",
+      "id": "shadow_2#shadow_2__4"
+    },
+    {
+      "comment": "to [prevent]{prevent} [light_1]{light} from [shining]{shining} [directly_1]{directly} on something",
+      "entry": "overshadow",
+      "id": "overshadow#overshadow__5"
+    },
+    {
+      "comment": "to [stop_1]{stop} something such as [noise]{noise} or [light_1]{light} from [reach_1]{reaching} a [place_1]{place}",
+      "entry": "cut out",
+      "id": "cut-out#cut-out__14"
+    }
+  ],
+  "thesaurus": "To reduce, or to stop light",
+  "type": "Synonyms"
+}

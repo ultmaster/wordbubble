@@ -1,0 +1,52 @@
+{
+  "part": "phrase",
+  "phrase": "work out",
+  "senses": [
+    {
+      "def": "to [deal_1]{deal} with a [problem]{problem} in a [satisfactory]{satisfactory} way",
+      "examples": [
+        "We\u2019ve [work_1]{worked} out our [difference]{differences}.",
+        "I can\u2019t [work_1]{work} out what to do.",
+        "I was [born]{born} in 1947: you [work_1]{work} out my [age_1]{age}."
+      ],
+      "id": "work-out__1"
+    },
+    {
+      "def": "to do [physical_1]{physical} [exercise_1]{exercise} as a way of [stay_1]{staying} in [shape_1]{shape}",
+      "examples": [
+        "He [work_1]{works} out at the [local_1]{local} [gym]{gym} every [day]{day}."
+      ],
+      "id": "work-out__7"
+    },
+    {
+      "def": "to be [successful]{successful}, or to [end_1]{end} in a [particular_1]{particular} way",
+      "examples": [
+        "If it doesn\u2019t [work_1]{work} out, you can always come back here."
+      ],
+      "id": "work-out__9"
+    },
+    {
+      "def": "to find a [satisfactory]{satisfactory} way of [doing]{doing} something",
+      "examples": [
+        "An [international_1]{international} [peace]{peace} [plan_1]{plan} has been [work_1]{worked} out.",
+        "The [exact_1]{exact} [detail_1]{details} of the [event]{event} [haven]{haven}\u2019t been [work_1]{worked} out yet.",
+        "We [haven]{haven}\u2019t [work_1]{worked} out a [date_1]{date} for the [meeting]{meeting}."
+      ],
+      "id": "work-out__11"
+    },
+    {
+      "def": "to [add_1]{add} up to a [particular_1]{particular} amount",
+      "examples": [
+        "The [mortgage_1]{mortgage} [work_1]{works} out to about $660 a [month]{month}."
+      ],
+      "id": "work-out__16"
+    },
+    {
+      "def": "to [understand]{understand} someone or something",
+      "examples": [
+        "I can\u2019t [work_1]{work} him out."
+      ],
+      "id": "work-out__19"
+    }
+  ]
+}

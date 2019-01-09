@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[contain]{containing} nothing",
+      "entry": "empty",
+      "id": "empty_1#empty_1__1"
+    },
+    {
+      "comment": "not [contain]{containing} any [sound_1]{sound}, [picture_1]{pictures}, or [information]{information}",
+      "entry": "blank",
+      "id": "blank_1#blank_1__8"
+    },
+    {
+      "comment": "[contain]{containing} nothing",
+      "entry": "bare",
+      "id": "bare_1#bare_1__11"
+    },
+    {
+      "comment": "empty [inside_1]{inside}",
+      "entry": "hollow",
+      "id": "hollow_1#hollow_1__1"
+    },
+    {
+      "comment": "[left_1]{left} empty or no [long_1]{longer} [used]{used}",
+      "entry": "abandoned",
+      "id": "abandoned#abandoned__1"
+    },
+    {
+      "comment": "a [deserted]{deserted} [place_1]{place} has no [people_1]{people} in it",
+      "entry": "deserted",
+      "id": "deserted#deserted__1"
+    },
+    {
+      "comment": "something such as a [building]{building} or [piece_1]{piece} of [land_1]{land} that is [derelict_1]{derelict} is empty, not [used]{used}, and in a [bad_1]{bad} [condition_1]{condition}",
+      "entry": "derelict",
+      "id": "derelict_1#derelict_1__1"
+    },
+    {
+      "comment": "not [contain]{containing} a [lot_1]{lot} of [people_1]{people} or [thing]{things}",
+      "entry": "uncrowded",
+      "id": "uncrowded#uncrowded__1"
+    },
+    {
+      "comment": "if a [surface_1]{surface}, [road]{road}, or [passage]{passage} is [clear_1]{clear}, there is nothing on it that [block_1]{blocks} it or [get]{gets} in the way",
+      "entry": "clear",
+      "id": "clear_1#clear_1__22"
+    },
+    {
+      "comment": "empty, or without something, [especially]{especially} something that is [usually]{usually} [present_1]{present}",
+      "entry": "void",
+      "id": "void_2#void_2__1"
+    }
+  ],
+  "thesaurus": "Empty of people or things",
+  "type": "Synonyms"
+}

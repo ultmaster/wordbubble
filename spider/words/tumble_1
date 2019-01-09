@@ -1,0 +1,38 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [price_1]{price} or [value_1]{value} [tumble_1]{tumbles}, it [suddenly]{suddenly} becomes much [lower_1]{lower}",
+      "examples": [
+        "[unemployment]{Unemployment} [tumble_1]{tumbled} to 5.6% in November."
+      ],
+      "id": "tumble_1__1"
+    },
+    {
+      "def": "if a [building]{building} or other [structure_1]{structure} [tumble_1]{tumbles}, it [fall_1]{falls} to the [ground_1]{ground}",
+      "examples": [
+        "It seemed that the [wall_1]{walls} had [tumble_1]{tumbled} from the [inside_1]{inside}."
+      ],
+      "id": "tumble_1__3"
+    },
+    {
+      "def": "if [water_1]{water} [tumble_1]{tumbles} somewhere, a [lot_1]{lot} of it [flow_1]{flows} there",
+      "examples": [
+        "[great_1]{Great} [white_1]{white} [cloud_1]{clouds} [tumble_1]{tumbled} over the [mountain]{mountain} [peak_1]{peaks} above us."
+      ],
+      "id": "tumble_1__6"
+    },
+    {
+      "def": "if an [organization]{organization} or system [tumble_1]{tumbles}, it [suddenly]{suddenly} [stop_1]{stops} [existing]{existing}",
+      "examples": [],
+      "id": "tumble_1__9"
+    },
+    {
+      "def": "to do [gymnastic]{gymnastic} [movement]{movements} in which you [roll_1]{roll} your body over on the [floor_1]{floor}",
+      "examples": [],
+      "id": "tumble_1__10"
+    }
+  ],
+  "word": "tumble"
+}

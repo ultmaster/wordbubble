@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "make of",
+  "senses": [
+    {
+      "def": "to use [chance_1]{chances} and [opportunity]{opportunities} in [order_1]{order} to be [successful]{successful}",
+      "examples": [
+        "This [job_1]{job} is whatever you [make_1]{make} of it.",
+        "I [want_1]{want} to [make_1]{make} something of my [new]{new} [life]{life} here."
+      ],
+      "id": "make-of__1"
+    },
+    {
+      "def": "to [understand]{understand} someone or the [meaning_1]{meaning} of something in a [particular_1]{particular} way",
+      "examples": [
+        "I don\u2019t [know_1]{know} what to [make_1]{make} of our [new]{new} [teacher]{teacher}.",
+        "What do you [make_1]{make} of this [news]{news}?"
+      ],
+      "id": "make-of__4"
+    }
+  ]
+}

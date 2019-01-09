@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [large_1]{large} [group_1]{group} of [apartment]{apartment} [building]{buildings}",
+      "entry": "apartment complex",
+      "id": "apartment-complex#apartment-complex__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [building]{buildings} where [member]{members} of the [military]{military} [live_1]{live} and [work_1]{work}",
+      "entry": "barracks",
+      "id": "barracks#barracks__1"
+    },
+    {
+      "comment": "a [building]{building} that is part of a [large_1]{larger} [building]{building} or [group_1]{group} of [building]{buildings}",
+      "entry": "block",
+      "id": "block_1#block_1__16"
+    },
+    {
+      "comment": "a [building]{building}, [group_1]{group} of [building]{buildings}, or [area]{area} where a [particular_1]{particular} [activity]{activity} is [perform]{performed}",
+      "entry": "center",
+      "id": "center_1#center_1__5"
+    },
+    {
+      "comment": "a [group_1]{group} of [building]{buildings} together, or a [building]{building} that has several [part_1]{parts}",
+      "entry": "complex",
+      "id": "complex_2#complex_2__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [building]{buildings} that have been [built_1]{built} together on a [piece_1]{piece} of [land_1]{land}",
+      "entry": "development",
+      "id": "development#development__16"
+    },
+    {
+      "comment": "a [group_1]{group} of [building]{buildings} that are [built_1]{built} [close_1]{close} to each other",
+      "entry": "huddle",
+      "id": "huddle_2#huddle_2__3"
+    },
+    {
+      "comment": "a very [large_1]{large} [group_1]{group} of [building]{buildings}",
+      "entry": "megaplex",
+      "id": "megaplex#megaplex__2"
+    }
+  ],
+  "thesaurus": "Groups of buildings",
+  "type": "Related words"
+}

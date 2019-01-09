@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "no [long_1]{longer} [modern]{modern} or [fashionable]{fashionable}",
+      "entry": "old-fashioned",
+      "id": "old-fashioned_1#old-fashioned_1__1"
+    },
+    {
+      "comment": "[old-fashioned_2]{old-fashioned}, [simple]{simple}, and without [modern]{modern} [feature_1]{features} or [comfort_1]{comforts}",
+      "entry": "primitive",
+      "id": "primitive_1#primitive_1__9"
+    },
+    {
+      "comment": "no [long_1]{longer} [used]{used} because of being [replace]{replaced} by something [new]{newer} and more [effective]{effective}",
+      "entry": "obsolete",
+      "id": "obsolete#obsolete__1"
+    },
+    {
+      "comment": "no [long_1]{longer} [modern]{modern} or [fashionable]{fashionable}",
+      "entry": "dated",
+      "id": "dated#dated__1"
+    },
+    {
+      "comment": "[old-fashioned_2]{old-fashioned} in a way that you [admire]{admire}",
+      "entry": "old-time",
+      "id": "old-time#old-time__1"
+    },
+    {
+      "comment": "an [old-world]{old-world} [quality_1]{quality} or [place_1]{place} is [old-fashioned_2]{old-fashioned} in a [pleasant]{pleasant} and [attractive]{attractive} way",
+      "entry": "old-world",
+      "id": "old-world#old-world__1"
+    },
+    {
+      "comment": "[low-tech]{low-tech} [equipment]{equipment} is [simple]{simple} and [usually]{usually} [old-fashioned_2]{old-fashioned}",
+      "entry": "low-tech",
+      "id": "low-tech#low-tech__1"
+    },
+    {
+      "comment": "[used]{used} about something that is very [old-fashioned_2]{old-fashioned} and [need_1]{needs} to be [changed]{changed}",
+      "entry": "archaic",
+      "id": "archaic#archaic__3"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is not [fashionable]{fashionable} [anymore]{anymore}",
+      "entry": "out",
+      "id": "out_1#out_1__66"
+    },
+    {
+      "comment": "too [old]{old} or too [old-fashioned_2]{old-fashioned} to be [useful]{useful}",
+      "entry": "antiquated",
+      "id": "antiquated#antiquated__1"
+    }
+  ],
+  "thesaurus": "Old-fashioned",
+  "type": "Synonyms"
+}

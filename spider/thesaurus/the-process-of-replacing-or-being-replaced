@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} of [replace]{replacing} one [person]{person} or thing with another",
+      "entry": "replacement",
+      "id": "replacement#replacement__3"
+    },
+    {
+      "comment": "the [action_1]{action} of [replace]{replacing} someone or something with someone or something else",
+      "entry": "substitution",
+      "id": "substitution#substitution__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which one [person]{person} or thing is [replace]{replaced} by another",
+      "entry": "change",
+      "id": "change_2#change_2__11"
+    },
+    {
+      "comment": "the [process_1]{process} of [replace]{replacing} one thing with another from the same [group_1]{group} in a [fixed]{fixed} [order_1]{order}",
+      "entry": "rotation",
+      "id": "rotation#rotation__5"
+    },
+    {
+      "comment": "[used]{used} for [replace]{replacing} something",
+      "entry": "replacement",
+      "id": "replacement#replacement__5"
+    }
+  ],
+  "thesaurus": "The process of replacing or being replaced",
+  "type": "Synonyms"
+}

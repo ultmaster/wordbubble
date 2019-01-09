@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [series]{series} of [game_1]{games} [play_1]{played} by the [best_1]{best} [team_1]{teams} in a [sport_1]{sport} in [order_1]{order} to [decide]{decide} the [final_1]{final} [winner]{winner}",
+      "examples": [
+        "a playoff [game_1]{game}"
+      ],
+      "id": "playoff__1"
+    },
+    {
+      "def": "an [extra_1]{extra} [game_1]{game} [play_1]{played} to [decide]{decide} the [winner]{winner} after a [game_1]{game} or [series]{series} of [game_1]{games} [end_1]{ends} with an [equal_1]{equal} [score_1]{score}",
+      "examples": [],
+      "id": "playoff__4"
+    }
+  ],
+  "word": "playoff"
+}

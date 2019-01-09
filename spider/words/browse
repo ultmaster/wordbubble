@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [look_1]{look} for [information]{information} on a computer, [especially]{especially} on the Internet",
+      "examples": [
+        "[cell]{cell} [phone_1]{phones} that can browse the [web]{Web}",
+        "an [excellent]{excellent} [graphical]{graphical} [interface_1]{interface} for [browsing]{browsing} [web]{Web} [page_1]{pages}"
+      ],
+      "id": "browse__1"
+    },
+    {
+      "def": "to [look_1]{look} at [thing]{things} in a [store_1]{store} without being [sure_1]{sure} whether you [want_1]{want} to [buy_1]{buy} anything",
+      "examples": [
+        "\u201cCan I [help_1]{help} you, [sir]{Sir}?\u201d \u201cNo [thanks_1]{thanks}, I\u2019m [just_1]{just} [browsing]{browsing}.\u201d",
+        "[customer]{Customers} are [welcome_1]{welcome} to browse.",
+        "I browse through the help-wanted [ad]{ads} from time to time, but [really]{really} I am [quite]{quite} [happy_1]{happy} where I am."
+      ],
+      "id": "browse__5"
+    },
+    {
+      "def": "if [animal_1]{animals} browse, they [feed_1]{feed} on [plant_1]{plants}, [especially]{especially} the [leaves]{leaves} on [tree]{trees}",
+      "examples": [
+        "The system was very [effective]{effective} in [stop_1]{stopping} [deer]{deer} [browsing]{browsing} on the [new]{new} [leaves]{leaves} in [spring_1]{spring}."
+      ],
+      "id": "browse__10"
+    }
+  ],
+  "word": "browse"
+}

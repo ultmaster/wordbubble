@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "ask for",
+  "senses": [
+    {
+      "def": "to [speak_1]{speak} or [write]{write} to someone because you [want_1]{want} them to give you something",
+      "examples": [
+        "He\u2019s always [reluctant]{reluctant} to [ask_1]{ask} for anyone\u2019s [help_1]{help}."
+      ],
+      "id": "ask-for__1"
+    },
+    {
+      "def": "to [say_1]{say} that you [want_1]{want} someone to come and [speak_1]{speak} to you",
+      "examples": [
+        "There\u2019s someone in the [store_1]{store} [ask_1]{asking} for the [manager]{manager}."
+      ],
+      "id": "ask-for__3"
+    }
+  ]
+}

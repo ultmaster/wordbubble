@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "write out",
+  "senses": [
+    {
+      "def": "to [complete_1]{complete} an [official_1]{official} [document_1]{document} by [writing]{writing} [information]{information} on it",
+      "examples": [
+        "It only [take_1]{takes} a [minute_1]{minute} to [write]{write} out a [prescription]{prescription}."
+      ],
+      "id": "write-out__1"
+    },
+    {
+      "def": "to [write]{write} something again, [usually]{usually} in a more [complete_1]{complete} form",
+      "examples": [
+        "Could you [write]{write} out [exactly]{exactly} what you [need_1]{need} me to do?"
+      ],
+      "id": "write-out__3"
+    },
+    {
+      "def": "to [remove]{remove} a [character]{character} from a [television]{television} or [radio_1]{radio} [series]{series} by [writing]{writing} [story]{stories} that do not [include]{include} them",
+      "examples": [
+        "[rating]{Ratings} [fell_1]{fell} when the [star_1]{star} was [written_1]{written} out of the show."
+      ],
+      "id": "write-out__5"
+    }
+  ]
+}

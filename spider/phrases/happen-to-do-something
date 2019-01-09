@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "happen to do something",
+  "senses": [
+    {
+      "def": "to do something by [chance_1]{chance}",
+      "examples": [
+        "I [happen]{happened} to [meet_1]{meet} an [old]{old} [friend_1]{friend} in [town]{town}."
+      ],
+      "id": "happen-to-do-something__1"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} something [politely]{politely}",
+      "examples": [
+        "Do you [happen]{happen} to have a [pen_1]{pen} I can [borrow]{borrow}?"
+      ],
+      "id": "happen-to-do-something__3"
+    },
+    {
+      "def": "[used]{used} for [express_1]{expressing} an [opinion]{opinion} [firm_1#firm_1__28]{firmly}, because you are [angry]{angry}",
+      "examples": [
+        "I [happen]{happen} to [live_1]{live} here too \u2013 don\u2019t [leave_1]{leave} your [garbage]{garbage} everywhere!"
+      ],
+      "id": "happen-to-do-something__5"
+    }
+  ]
+}

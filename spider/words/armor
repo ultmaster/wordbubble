@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[metal_1]{metal} [clothing]{clothing} that [soldier_1]{soldiers} [wore]{wore} in the Middle Ages to [protect]{protect} their [body]{bodies}",
+      "examples": [
+        "a [knight_1]{knight} in armor",
+        "a [suit_1]{suit} of armor"
+      ],
+      "id": "armor__1"
+    },
+    {
+      "def": "[layer_1]{layers} of [hard_1]{hard} [metal_1]{metal} that [cover_1]{cover} a [military]{military} [vehicle]{vehicle} to [protect]{protect} it from [attack_1]{attack}",
+      "examples": [
+        "[missile]{missiles} that are [capable]{capable} of [penetrating]{penetrating} a [tank_1]{tank}\u2019s armor"
+      ],
+      "id": "armor__5"
+    },
+    {
+      "def": "[hard_1]{hard} [layer_1]{layers} that [cover_1]{cover} the [body]{bodies} of some [animal_1]{animals}, such as a [rhinoceros]{rhinoceros} or an [armadillo]{armadillo}",
+      "examples": [],
+      "id": "armor__8"
+    }
+  ],
+  "word": "armor"
+}

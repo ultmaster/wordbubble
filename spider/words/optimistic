@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is optimistic is [hopeful_1]{hopeful} about the [future_1]{future} and [tend]{tends} to [expect]{expect} that [good_1]{good} [thing]{things} will [happen]{happen}",
+      "examples": [
+        "She [said_1]{said} that she was optimistic about the [future_1]{future} of the [company]{company}.",
+        "I [remain]{remain} optimistic that a [peaceful]{peaceful} [settlement]{settlement} of the [dispute_1]{dispute} can be [achieve]{achieved}.",
+        "The [sixties]{sixties} were, in [general_1]{general}, an optimistic [decade]{decade}."
+      ],
+      "id": "optimistic__1"
+    },
+    {
+      "def": "[base_2]{based} on [belief]{beliefs} that are too [confident]{confident}",
+      "examples": [
+        "Their [profit_1]{profit} [forecast_1]{forecasts} were a [little_1]{little} optimistic."
+      ],
+      "id": "optimistic__6"
+    }
+  ],
+  "word": "optimistic"
+}

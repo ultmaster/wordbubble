@@ -1,0 +1,21 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to give [card_1]{cards} to the [people_1]{people} [play_1]{playing} a [game_1]{game} of [card_1]{cards}",
+      "examples": [
+        "Whose [turn_1]{turn} is it to deal?",
+        "Each [player]{player} is [dealt]{dealt} three [card_1]{cards}."
+      ],
+      "id": "deal_2__1"
+    },
+    {
+      "def": "to [buy_1]{buy} and [sell_1]{sell} [illegal_1]{illegal} [drug_1]{drugs}",
+      "examples": [
+        "Many [drug_1]{drug} [addict]{addicts} deal as well."
+      ],
+      "id": "deal_2__4"
+    }
+  ],
+  "word": "deal"
+}

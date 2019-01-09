@@ -1,0 +1,28 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a net amount of [money]{money} is the [total_1]{total} amount after [tax_1]{taxes} or [cost_1]{costs} have been [removed]{removed}",
+      "examples": [
+        "net [profit_1]{profits} of $143,000",
+        "[net_1]{Net} [earnings]{earnings} per [share_1]{share} [amount_2]{amounted} to $0.78."
+      ],
+      "id": "net_2__1"
+    },
+    {
+      "def": "a net [effect_1]{effect} or [result_1]{result} is the [final_1]{final} one, after everything has been [considered]{considered}",
+      "examples": [
+        "The net [effect_1]{effect} of this [policy]{policy} has been [higher_1]{higher} [employment]{employment} but [lower_1]{lower} [wage_1]{wages}."
+      ],
+      "id": "net_2__5"
+    },
+    {
+      "def": "the net [weight_1]{weight} of something is its [weight_1]{weight} without its [container]{container}",
+      "examples": [
+        "a [box_1]{box} of [candy]{candy} [weigh]{weighing} 500 [gram]{grams} net"
+      ],
+      "id": "net_2__7"
+    }
+  ],
+  "word": "net"
+}

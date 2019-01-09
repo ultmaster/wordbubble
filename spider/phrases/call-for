@@ -1,0 +1,38 @@
+{
+  "part": "phrase",
+  "phrase": "call for",
+  "senses": [
+    {
+      "def": "to [say_1]{say} [publicly]{publicly} that something must [happen]{happen}",
+      "examples": [
+        "Several of the [newspaper]{newspapers} were [calling]{calling} for his [resignation]{resignation}.",
+        "[protester]{Protesters} were [calling]{calling} for a [ban_1]{ban} on the [production]{production} of GM [food]{foods}."
+      ],
+      "id": "call-for__1"
+    },
+    {
+      "def": "to [make_1]{make} something [necessary_1]{necessary} or [appropriate_1]{appropriate}",
+      "examples": [
+        "I [really]{really} don\u2019t [think_1]{think} that [remark_1]{remark} was [call_1]{called} for!",
+        "The [present_1]{present} [crisis]{crisis} [call_1]{calls} for [mature_1]{mature} [judgment]{judgment} on the part of our [leader]{leaders}.",
+        "[skill]{Skill} and [initiative]{initiative} are [call_1]{called} for in this [job_1]{job}."
+      ],
+      "id": "call-for__5"
+    },
+    {
+      "def": "to go somewhere and get someone or something in [order_1]{order} to take them to another [place_1]{place}",
+      "examples": [
+        "I\u2019ll call for you at eight.",
+        "Has he [call_1]{called} for his [package_1]{package} yet?"
+      ],
+      "id": "call-for__11"
+    },
+    {
+      "def": "to [say_1]{say} that something, [especially]{especially} a [particular_1]{particular} [kind_1]{kind} of [weather_1]{weather}, will [probably]{probably} [happen]{happen}",
+      "examples": [
+        "For this [afternoon_1]{afternoon} the [forecast_1]{forecast} [call_1]{calls} for [partly]{partly} [cloudy]{cloudy} [skies]{skies} with only [widely]{widely} [scattered]{scattered} [shower_1]{showers}."
+      ],
+      "id": "call-for__14"
+    }
+  ]
+}

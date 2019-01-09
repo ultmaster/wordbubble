@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "from another [country]{country}, or in another [country]{country}",
+      "examples": [
+        "[working]{Working} in a foreign [country]{country} [take_1]{takes} some [get]{getting} [used]{used} to.",
+        "Do you [speak_1]{speak} any foreign [language]{languages}?",
+        "They\u2019ve already had two foreign [vacation_1]{vacations} this [year]{year}.",
+        "foreign [policy]{policy}",
+        "the part of the [newspaper]{newspaper} [dealing]{dealing} with foreign [affair]{affairs}"
+      ],
+      "id": "foreign__1"
+    },
+    {
+      "def": "not [typical]{typical} of something or someone and therefore not [expected]{expected} or [familiar]{familiar}",
+      "examples": [
+        "In some [version]{versions} of free-market [economics]{economics}, the [notion]{notion} of [public_1]{public} [service_1]{service} is [quite]{quite} foreign.",
+        "She was in a [state_1]{state} of [deep_1]{deep} [depression]{depression} that was [totally]{totally} foreign to her [nature]{nature}."
+      ],
+      "id": "foreign__8"
+    },
+    {
+      "def": "not [form_2]{forming} a [normal_1]{normal} part of the body\u2019s [immune]{immune} system",
+      "examples": [
+        "the [immune]{immune} system\u2019s [response]{response} to foreign [protein]{proteins}"
+      ],
+      "id": "foreign__11"
+    }
+  ],
+  "word": "foreign"
+}

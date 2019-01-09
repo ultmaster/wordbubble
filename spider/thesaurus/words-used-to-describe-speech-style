@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "if you [talk_1]{talk} in a [bantering]{bantering} way, you are [joke_2]{joking} or [laugh_1]{laughing} at someone",
+      "entry": "bantering",
+      "id": "bantering#bantering__1"
+    },
+    {
+      "comment": "if someone [say_1]{says} something [brokenly]{brokenly}, there are [space_1]{spaces} between their [word_1]{words}, [especially]{especially} because they are [upset_1]{upset} or [angry]{angry}",
+      "entry": "brokenly",
+      "id": "brokenly#brokenly__1"
+    },
+    {
+      "comment": "[used]{used} in [informal]{informal} [conversation]{conversation} rather than in [writing]{writing} or [formal_1]{formal} [language]{language}",
+      "entry": "colloquial",
+      "id": "colloquial#colloquial__1"
+    },
+    {
+      "comment": "very [clear_1]{clear} about what you [say_1]{say} so that everyone [understand]{understands} you",
+      "entry": "definite",
+      "id": "definite#definite__6"
+    },
+    {
+      "comment": "[said_1]{said} [directly_1]{directly} and [definitely]{definitely}",
+      "entry": "flat",
+      "id": "flat_1#flat_1__18"
+    },
+    {
+      "comment": "in a [firm_1]{firm} and [definite]{definite} way [intended_1]{intended} to [end_1]{end} [discussion]{discussion} of a [subject_1]{subject}",
+      "entry": "flatly",
+      "id": "flatly#flatly__1"
+    },
+    {
+      "comment": "[spoken_1]{spoken} well and without [difficulty]{difficulty}",
+      "entry": "fluent",
+      "id": "fluent#fluent__3"
+    },
+    {
+      "comment": "[unable]{unable} to [speak_1]{speak} in a [sensible]{sensible} way, [especially]{especially} because you are [frightened]{frightened} or [shocked]{shocked}",
+      "entry": "gibbering",
+      "id": "gibbering#gibbering__1"
+    },
+    {
+      "comment": "with a [lot_1]{lot} of [pause_1]{pauses} between [word_1]{words} or [movement]{movements}, often because of a [lack_1]{lack} of [confidence]{confidence}",
+      "entry": "halting",
+      "id": "halting#halting__1"
+    },
+    {
+      "comment": "an [imperative_1]{imperative} [voice_1]{voice} or way of [speak_1]{speaking} is [confident]{confident} and [determined]{determined} and [show_1]{shows} that you [expect]{expect} to be [obey]{obeyed}",
+      "entry": "imperative",
+      "id": "imperative_1#imperative_1__5"
+    },
+    {
+      "comment": "[spoken_1]{spoken} but not [written_1]{written}",
+      "entry": "oral",
+      "id": "oral_1#oral_1__1"
+    },
+    {
+      "comment": "[tend]{tending} to [shout_1]{shout} a [lot_1]{lot}",
+      "entry": "shouty",
+      "id": "shouty#shouty__1"
+    },
+    {
+      "comment": "[stilted]{stilted} [movement]{movements} or [word_1]{words} are not [relaxed]{relaxed} and [natural_1]{natural}",
+      "entry": "stilted",
+      "id": "stilted#stilted__1"
+    },
+    {
+      "comment": "[voluble]{voluble} [speech]{speech} is [quick_1]{quick} and [continuous]{continuous}",
+      "entry": "voluble",
+      "id": "voluble#voluble__2"
+    },
+    {
+      "comment": "someone who is well [spoken_1]{spoken} has an [intelligent]{intelligent} and [pleasant]{pleasant} way of [speak_1]{speaking}",
+      "entry": "well-spoken",
+      "id": "well-spoken#well-spoken__1"
+    },
+    {
+      "comment": "[word_1]{words} that are well [spoken_1]{spoken} are [chosen_1]{chosen} well and [express_1]{express} [exactly]{exactly} what the [speaker]{speaker} [want_1]{wants} to [say_1]{say}",
+      "entry": "well-spoken",
+      "id": "well-spoken#well-spoken__2"
+    },
+    {
+      "comment": "[use_1]{using} a [lot_1]{lot} of long [word_1]{words} to [try_1]{try} to [impress]{impress} [people_1]{people} but not [really]{really} [saying]{saying} very much",
+      "entry": "windy",
+      "id": "windy#windy__5"
+    }
+  ],
+  "thesaurus": "Words used to describe speech style",
+  "type": "Related words"
+}

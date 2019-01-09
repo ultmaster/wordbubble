@@ -1,0 +1,41 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[showing]{showing} that someone [like_2]{likes} or [approve]{approves} of someone or something",
+      "examples": [
+        "[reaction]{Reaction} to the [plan_1]{plan} has been [generally]{generally} favorable.",
+        "The [general_1]{general} was [portray]{portrayed} in a more favorable [light_1]{light} in a [recent]{recent} [study_1]{study} be the U.S. [defense]{Defense} [department]{Department}.",
+        "Most [senior_1]{senior} [staff_1]{staff} were favorable to the [idea]{idea}."
+      ],
+      "id": "favorable__1"
+    },
+    {
+      "def": "[give_1]{giving} someone or something an [advantage]{advantage} or a [benefit_1]{benefit}",
+      "examples": [
+        "They [decided]{decided} to [delay_1]{delay} the [trip_1]{trip} until [condition_1]{conditions} were more favorable.",
+        "[part-time]{Part-time} [worker]{workers} should not [receive]{receive} less favorable [treatment]{treatment} than [full-timer]{full-timers}.",
+        "[government]{Government} [policy]{policies} were [overwhelmingly]{overwhelmingly} favorable to [employee]{employees}.",
+        "We are [offering]{offering} very favorable [term_1]{terms} to our [regular_1]{regular} [customer]{customers}."
+      ],
+      "id": "favorable__5"
+    },
+    {
+      "def": "[showing]{showing} that something [good_1]{good} is [likely_1]{likely} to [happen]{happen}",
+      "examples": [
+        "a favorable [weather_1]{weather} [forecast_1]{forecast}",
+        "[analyst]{Analysts} [said_1]{said} the [outlook]{outlook} was favorable after [stock_1]{stocks} [closed]{closed} on Friday."
+      ],
+      "id": "favorable__11"
+    },
+    {
+      "def": "[give_1]{giving} [agreement]{agreement} to something",
+      "examples": [
+        "We are [hope_1]{hoping} for a favorable [reply_1]{reply} from the [committee]{committee}."
+      ],
+      "id": "favorable__14"
+    }
+  ],
+  "word": "favorable"
+}

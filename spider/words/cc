@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "abbreviation",
+  "senses": [
+    {
+      "def": "[cubic]{cubic} [centimeter]{centimeter}: used for measuring the amount of a liquid or the size of an engine",
+      "examples": [
+        "a 750cc [motorcycle]{motorcycle}"
+      ],
+      "id": "cc__1"
+    },
+    {
+      "def": "[used]{used} on a [business]{business} [letter_1]{letter} or e-[mail_1]{mail} for [saying]{saying} that a [copy_1]{copy} is being [sent]{sent} to the [person]{person} [mention_1]{mentioned}",
+      "examples": [
+        "To [jack_1]{Jack} [brown_1]{Brown}, cc: Paul Davis."
+      ],
+      "id": "cc__3"
+    }
+  ],
+  "word": "cc"
+}

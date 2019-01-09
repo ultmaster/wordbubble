@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if there is a causal [connection]{connection} or [relationship]{relationship} between two [event]{events}, one [event]{event} [cause_1]{causes} the other",
+      "examples": [
+        "They long [ago]{ago} [established]{established} a causal [link_1]{link} between [smoking]{smoking} and [lung]{lung} [cancer_1]{cancer}."
+      ],
+      "id": "causal__1"
+    },
+    {
+      "def": "a causal [conjunction]{conjunction} such as \u201cbecause\u201d [introduce]{introduces} a [statement_1]{statement} [describe]{describing} the cause of something",
+      "examples": [],
+      "id": "causal__3"
+    }
+  ],
+  "word": "causal"
+}

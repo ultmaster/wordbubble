@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "on the rocks",
+  "senses": [
+    {
+      "def": "if a [business]{business} or [relationship]{relationship} is on the [rock_1]{rocks}, it is [have]{having} serious [difficulty]{difficulties} and is [likely_1]{likely} to [fail_1]{fail} [soon]{soon}",
+      "examples": [
+        "His [marriage]{marriage} is on the [rock_1]{rocks}."
+      ],
+      "id": "on-the-rocks__1"
+    },
+    {
+      "def": "if an [alcoholic_1]{alcoholic} [drink_1]{drink} is [serve_1]{served} on the [rock_1]{rocks}, it is [serve_1]{served} with [ice_1]{ice}",
+      "examples": [
+        "[scotch_1]{scotch} on the [rock_1]{rocks}"
+      ],
+      "id": "on-the-rocks__3"
+    }
+  ]
+}

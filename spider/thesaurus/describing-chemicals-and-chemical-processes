@@ -1,0 +1,151 @@
+{
+  "entries": [
+    {
+      "comment": "producing a chemical or biological reaction",
+      "entry": "active",
+      "id": "active#active__20"
+    },
+    {
+      "comment": "[use_1]{using} [oxygen]{oxygen}",
+      "entry": "aerobic",
+      "id": "aerobic#aerobic__2"
+    },
+    {
+      "comment": "containing an alkali or consisting of an alkali",
+      "entry": "alkaline",
+      "id": "alkaline#alkaline__1"
+    },
+    {
+      "comment": "[alkaline]{alkaline}",
+      "entry": "alkaloid",
+      "id": "alkaloid_2#alkaloid_2__1"
+    },
+    {
+      "comment": "[living_1]{living} or [happening_1]{happening} without [oxygen]{oxygen} from the [air_1]{air}",
+      "entry": "anaerobic",
+      "id": "anaerobic#anaerobic__1"
+    },
+    {
+      "comment": "[cause_2]{causing} a [chemical_1]{chemical} [reaction]{reaction} to [happen]{happen} more [quickly]{quickly}",
+      "entry": "catalytic",
+      "id": "catalytic#catalytic__1"
+    },
+    {
+      "comment": "[involve]{involving} [chemistry]{chemistry} or [produce_1]{produced} by a [method]{method} [used]{used} in [chemistry]{chemistry}",
+      "entry": "chemical",
+      "id": "chemical_2#chemical_2__1"
+    },
+    {
+      "comment": "a method of describing the process involved in a chemical reaction, using chemical symbols to show the reactants and products",
+      "entry": "chemical equation",
+      "id": "chemical-equation#chemical-equation__1"
+    },
+    {
+      "comment": "[concentrated]{concentrated} [liquid_1]{liquids} or [substance]{substances} have been made [strong]{stronger} by [have]{having} [water_1]{water} [removed]{removed}",
+      "entry": "concentrated",
+      "id": "concentrated#concentrated__1"
+    },
+    {
+      "comment": "a [corrosive]{corrosive} [substance]{substance} [contain]{contains} [chemical_1]{chemicals} that can cause [damage_1]{damage}",
+      "entry": "corrosive",
+      "id": "corrosive#corrosive__1"
+    },
+    {
+      "comment": "a crude substance is still in its natural state and has not yet been refined for use by chemical processes",
+      "entry": "crude",
+      "id": "crude_1#crude_1__5"
+    },
+    {
+      "comment": "a dehydrated chemical compound has lost hydrogen or oxygen atoms in the ratio 2:1",
+      "entry": "dehydrated",
+      "id": "dehydrated#dehydrated__3"
+    },
+    {
+      "comment": "[consist]{consisting} of a [simple]{simple} [chemical_1]{chemical} [element]{element}",
+      "entry": "elemental",
+      "id": "elemental#elemental__3"
+    },
+    {
+      "comment": "an endothermic reaction is a chemical reaction in which heat is absorbed, not produced",
+      "entry": "endothermic",
+      "id": "endothermic#endothermic__1"
+    },
+    {
+      "comment": "an exothermic reaction is a chemical reaction in which heat is produced, not absorbed",
+      "entry": "exothermic",
+      "id": "exothermic#exothermic__1"
+    },
+    {
+      "comment": "not [combined]{combined} with another [substance]{substance}, or not [attached]{attached} to anything else",
+      "entry": "free",
+      "id": "free_1#free_1__37"
+    },
+    {
+      "comment": "[produce_1]{producing} [electricity]{electricity}, [especially]{especially} by [chemical_1]{chemical} [action_1]{action}",
+      "entry": "galvanic",
+      "id": "galvanic#galvanic__1"
+    },
+    {
+      "comment": "an [inactive]{inactive} [chemical_1]{chemical} [substance]{substance} [does]{does} not [react]{react} [strongly]{strongly} with other [substance]{substances}",
+      "entry": "inactive",
+      "id": "inactive#inactive__9"
+    },
+    {
+      "comment": "[industrial-strength]{industrial-strength} [substance]{substances} or [chemical_1]{chemicals} are [strong]{strong} enough to use in [industry]{industry}",
+      "entry": "industrial-strength",
+      "id": "industrial-strength#industrial-strength__1"
+    },
+    {
+      "comment": "an [inert]{inert} [substance]{substance} [does]{does} not [produce_1]{produce} a [chemical_1]{chemical} [reaction]{reaction} when it is [mixed]{mixed} with other [substance]{substances}",
+      "entry": "inert",
+      "id": "inert#inert__2"
+    },
+    {
+      "comment": "not [consist]{consisting} of or [produce_1]{produced} from any [living_1]{living} thing",
+      "entry": "inorganic",
+      "id": "inorganic#inorganic__1"
+    },
+    {
+      "comment": "an insoluble substance does not dissolve and disappear when you put it into liquid",
+      "entry": "insoluble",
+      "id": "insoluble#insoluble__1"
+    },
+    {
+      "comment": "the total of the atomic weights of all the elements in a compound",
+      "entry": "molecular weight",
+      "id": "molecular-weight#molecular-weight__1"
+    },
+    {
+      "comment": "a neutral chemical is neither an acid nor a base",
+      "entry": "neutral",
+      "id": "neutral_1#neutral_1__14"
+    },
+    {
+      "comment": "a [reactive]{reactive} [substance]{substance} [experience_1]{experiences} a [chemical_1]{chemical} [reaction]{reaction} when it is [mixed]{mixed} with another [substance]{substance}",
+      "entry": "reactive",
+      "id": "reactive#reactive__3"
+    },
+    {
+      "comment": "a chemical solution that is saturated has as much of a solid substance as possible mixed in it as part of the liquid",
+      "entry": "saturated",
+      "id": "saturated#saturated__6"
+    },
+    {
+      "comment": "used about chemical or biological changes or processes that happen suddenly in a natural way",
+      "entry": "spontaneous",
+      "id": "spontaneous#spontaneous__6"
+    },
+    {
+      "comment": "relating to or containing sulfur",
+      "entry": "sulfurous",
+      "id": "sulfurous#sulfurous__1"
+    },
+    {
+      "comment": "an [unstable]{unstable} [substance]{substance} [react]{reacts} very [easily]{easily} with other [chemical_1]{chemical} [substance]{substances} and can be [dangerous]{dangerous}",
+      "entry": "unstable",
+      "id": "unstable#unstable__6"
+    }
+  ],
+  "thesaurus": "Describing chemicals and chemical processes",
+  "type": "Related words"
+}

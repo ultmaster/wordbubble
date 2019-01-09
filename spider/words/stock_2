@@ -1,0 +1,28 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [store_1]{store} [stock_1]{stocks} [goods]{goods}, it has them [available]{available} for [sale]{sale}",
+      "examples": [
+        "Do you stock [fishing]{fishing} [rod]{rods}?"
+      ],
+      "id": "stock_2__1"
+    },
+    {
+      "def": "to fill a [place_1]{place} with [thing]{things} that you will [need_1]{need}",
+      "examples": [
+        "They had [stock_2]{stocked} their [refrigerator]{refrigerator} with [plenty]{plenty} of [food]{food} before the [big_1]{big} [game_1]{game}.",
+        "The [bathroom]{bathroom} was [stock_2]{stocked} with [expensive]{expensive} [toilet]{toilet} [article]{articles}."
+      ],
+      "id": "stock_2__3"
+    },
+    {
+      "def": "to put [fish_1]{fish} in a [lake]{lake} or [river]{river}",
+      "examples": [
+        "a [river]{river} [stock_2]{stocked} with [trout]{trout}"
+      ],
+      "id": "stock_2__6"
+    }
+  ],
+  "word": "stock"
+}

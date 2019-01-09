@@ -1,0 +1,371 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that should be [play_1]{played} or [sung]{sung} [slowly]{slowly}",
+      "entry": "adagio",
+      "id": "adagio_2#adagio_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that has a [simple]{simple} [tune_1]{tune}",
+      "entry": "air",
+      "id": "air_1#air_1__18"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that should be [play_1]{played} or [sung]{sung} [quickly]{quickly}",
+      "entry": "allegro",
+      "id": "allegro_2#allegro_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that should be [play_1]{played} or [sung]{sung} at a [fairly]{fairly} [slow_1]{slow} [speed_1]{speed}",
+      "entry": "andante",
+      "id": "andante_2#andante_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that has been [changed]{changed} for a [particular_1]{particular} [type_1]{type} of [voice_1]{voice} or [instrument]{instrument}",
+      "entry": "arrangement",
+      "id": "arrangement#arrangement__16"
+    },
+    {
+      "comment": "the [musical_1]{musical} part for a [bass_1]{bass} [voice_1]{voice} or for an [instrument]{instrument} that [play_1]{plays} very low [note_1]{notes}",
+      "entry": "bass",
+      "id": "bass_1#bass_1__4"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [religious]{religious} [music]{music} [perform]{performed} by [singer]{singers} and an [orchestra]{orchestra}",
+      "entry": "cantata",
+      "id": "cantata#cantata__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [religious]{religious} [music]{music} [sung]{sung} [use_1]{using} a very [limited]{limited} [range_1]{range} of [note_1]{notes}, or [music]{music} of this [type_1]{type}",
+      "entry": "chant",
+      "id": "chant_1#chant_1__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that is [sung]{sung} by a [large_1]{large} [group_1]{group} of [people_1]{people}",
+      "entry": "chorus",
+      "id": "chorus_1#chorus_1__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} for a [musical_1]{musical} [instrument]{instrument} and an [orchestra]{orchestra}",
+      "entry": "concerto",
+      "id": "concerto#concerto__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that has been [record_2]{recorded}",
+      "entry": "cut",
+      "id": "cut_2#cut_2__29"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [written_1]{written} or [play_1]{played} for [people_1]{people} to [dance_1]{dance} to",
+      "entry": "dance",
+      "id": "dance_2#dance_2__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [record_2]{recorded} [music]{music} that a [new]{new} [singer]{singer} or [group_1]{group} [send_1]{sends} to a [recording]{recording} [company]{company}",
+      "entry": "demo",
+      "id": "demo#demo__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [sung]{sung} or [play_1]{played} by two [people_1]{people}",
+      "entry": "duet",
+      "id": "duet#duet__1"
+    },
+    {
+      "comment": "a [duet]{duet} for two [instrument]{instruments}",
+      "entry": "duo",
+      "id": "duo#duo__5"
+    },
+    {
+      "comment": "a short loud piece of music played on a musical instrument such as a trumpet to announce a special person or event",
+      "entry": "fanfare",
+      "id": "fanfare#fanfare__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [classical]{classical} [music]{music} that [does]{does} not have a [fixed]{fixed} form",
+      "entry": "fantasia",
+      "id": "fantasia#fantasia__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [classical]{classical} [music]{music} [base_2]{based} on other [well-known]{well-known} [tune_1]{tunes}",
+      "entry": "fantasia",
+      "id": "fantasia#fantasia__2"
+    },
+    {
+      "comment": "a [musical_1]{musical} [note_1]{note} or [piece_1]{piece} of [music]{music} that should be [play_1]{played} or [sung]{sung} [loud_1#loud_1__12]{loudly}",
+      "entry": "forte",
+      "id": "forte_1#forte_1__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [classical]{classical} [music]{music} that [repeat_1]{repeats} a [simple]{simple} [tune_1]{tune} and [develop]{develops} it into a [complicated]{complicated} [pattern_1]{pattern} [use_1]{using} [different]{different} [instrument]{instruments} or [voice_1]{voices}",
+      "entry": "fugue",
+      "id": "fugue#fugue__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [popular]{popular} [music]{music} with a [good_1]{good} [beat_1]{beat}",
+      "entry": "groove",
+      "id": "groove#groove__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [instrumental_1]{instrumental} [music]{music}",
+      "entry": "instrumental",
+      "id": "instrumental_2#instrumental_2__1"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [music]{music} [play_1]{played} between the [separate_1]{separate} [part_1]{parts} of a [play_1]{play}",
+      "entry": "interlude",
+      "id": "interlude#interlude__3"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [music]{music} [play_1]{played} between the [main_1]{main} [part_1]{parts} of an [opera]{opera} or a [long_1]{longer} [piece_1]{piece} of [music]{music}",
+      "entry": "intermezzo",
+      "id": "intermezzo#intermezzo__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that should be [play_1]{played} or [sung]{sung} [slowly]{slowly} and in a serious way",
+      "entry": "largo",
+      "id": "largo_2#largo_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} with a [strong]{strong} [beat_1]{beat} that [match_1]{matches} the [step_1]{steps} [taken_1]{taken} by [march_1]{marching} [soldier_1]{soldiers}",
+      "entry": "march",
+      "id": "march_2#march_2__7"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [create]{created} by [combine_1]{combining} two or more [piece_1]{pieces} of [record_2]{recorded} [music]{music}, [usually]{usually} by [add_1]{adding} the [voice_1]{voice} from one [recording]{recording} to the [music]{music} of another",
+      "entry": "mashup",
+      "id": "mashup#mashup__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [written_1]{written} for some of the [prayer]{prayers} in the [mass_1]{mass}",
+      "entry": "mass",
+      "id": "mass_1#mass_1__17"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [consist]{consisting} of a [collection]{collection} of [tune_1]{tunes} or [song]{songs} that someone [play_1]{plays} or [sing_1]{sings} one after another",
+      "entry": "medley",
+      "id": "medley#medley__1"
+    },
+    {
+      "comment": "a [tune_1]{tune} or [song]{song}, [especially]{especially} a [simple]{simple} one",
+      "entry": "melody",
+      "id": "melody#melody__1"
+    },
+    {
+      "comment": "the [main_1]{main} [tune_1]{tune} in a [piece_1]{piece} of [music]{music} with several [part_1]{parts} that are [sung]{sung} or [play_1]{played} together",
+      "entry": "melody",
+      "id": "melody#melody__3"
+    },
+    {
+      "comment": "a [remix]{remix}",
+      "entry": "mix",
+      "id": "mix_2#mix_2__11"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [music]{music} [written_1]{written} in a [slow_1]{slow} or [sad_1]{sad} [style_1]{style}, [especially]{especially} for the [piano_1]{piano}",
+      "entry": "nocturne",
+      "id": "nocturne#nocturne__1"
+    },
+    {
+      "comment": "a [song]{song} or [piece_1]{piece} of [music]{music}, [especially]{especially} one that is part of a [long_1]{longer} [performance]{performance}",
+      "entry": "number",
+      "id": "number_1#number_1__19"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [written_1]{written} for a [group_1]{group} of eight [musician]{musicians} or [singer]{singers}",
+      "entry": "octet",
+      "id": "octet#octet__1"
+    },
+    {
+      "comment": "[opus]{opus}",
+      "entry": "op.",
+      "id": "op_2#op_2__1"
+    },
+    {
+      "comment": "a piece of music, or a collection of pieces of music, written by a particular composer",
+      "entry": "opus",
+      "id": "opus#opus__1"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [classical]{classical} [music]{music} for [singer]{singers} and an [orchestra]{orchestra}, [usually]{usually} [base_2]{based} on a [religious]{religious} [story]{story}",
+      "entry": "oratorio",
+      "id": "oratorio#oratorio__1"
+    },
+    {
+      "comment": "a tune played on a set of bells in bell-ringing",
+      "entry": "peal",
+      "id": "peal_1#peal_1__2"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [music]{music}, often one that is [play_1]{played} on the [piano_1]{piano}",
+      "entry": "prelude",
+      "id": "prelude#prelude__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [play_1]{played} before a [ceremony]{ceremony} in a [church]{church}",
+      "entry": "prelude",
+      "id": "prelude#prelude__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} for a [quartet]{quartet} to [perform]{perform}",
+      "entry": "quartet",
+      "id": "quartet#quartet__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} for five [musician]{musicians} or [singer]{singers} to [perform]{perform}",
+      "entry": "quintet",
+      "id": "quintet#quintet__2"
+    },
+    {
+      "comment": "a piece of ragtime music",
+      "entry": "rag",
+      "id": "rag_1#rag_1__7"
+    },
+    {
+      "comment": "a [piece_1]{piece} of Indian [music]{music} [base_2]{based} on a [traditional]{traditional} [pattern_1]{pattern} of [note_1]{notes}",
+      "entry": "raga",
+      "id": "raga#raga__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [record_2]{recorded} [music]{music} that you can [buy_1]{buy}",
+      "entry": "record",
+      "id": "record_1#record_1__13"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} or [speech]{speech} that has been [record_2]{recorded}",
+      "entry": "recording",
+      "id": "recording#recording__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that is [produce_1]{produced} by [combine_1]{combining} [part_1]{parts} of an [existing]{existing} [piece_1]{piece} of [music]{music} with [new]{new} [sound_1]{sounds}",
+      "entry": "remix",
+      "id": "remix#remix__1"
+    },
+    {
+      "comment": "a piece of music that you ask a musician or a DJ to play",
+      "entry": "request",
+      "id": "request_1#request_1__7"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that can be [perform]{performed} as part of this [ceremony]{ceremony}",
+      "entry": "requiem",
+      "id": "requiem#requiem__2"
+    },
+    {
+      "comment": "a piece of music traditionally played on the bugle in the morning to wake up soldiers, or the time when it is played",
+      "entry": "reveille",
+      "id": "reveille#reveille__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} or [writing]{writing} that is [different]{different} from its [original_1]{original} form",
+      "entry": "rework",
+      "id": "rework_2#rework_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [classical]{classical} [music]{music} that is not [regular_1]{regular} in form and [express_1]{expresses} [strong]{strong} [emotion]{emotion}",
+      "entry": "rhapsody",
+      "id": "rhapsody#rhapsody__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that is [quick_1]{quick} and [lively]{lively}",
+      "entry": "scherzo",
+      "id": "scherzo#scherzo__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [written_1]{written} for a [septet]{septet} to [perform]{perform}",
+      "entry": "septet",
+      "id": "septet#septet__2"
+    },
+    {
+      "comment": "a [song]{song} or a [piece_1]{piece} of [music]{music} that is [traditionally]{traditionally} [perform]{performed} by a man [outside]{outside} the [house_1]{house} of the [woman]{woman} who he [love_1]{loves}",
+      "entry": "serenade",
+      "id": "serenade_1#serenade_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [added]{added} to [word_1]{words}, [especially]{especially} to the [word_1]{words} of a [poem]{poem}",
+      "entry": "setting",
+      "id": "setting#setting__11"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [written_1]{written} for a [sextet]{sextet} to [perform]{perform}",
+      "entry": "sextet",
+      "id": "sextet#sextet__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} or a part of a [piece_1]{piece} of [music]{music} that is [perform]{performed} by one [person]{person}",
+      "entry": "solo",
+      "id": "solo_1#solo_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [classical]{classical} [music]{music} for one [instrument]{instrument}, [usually]{usually} the [piano_1]{piano}, or for one [instrument]{instrument} and a [piano_1]{piano}",
+      "entry": "sonata",
+      "id": "sonata#sonata__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} with [word_1]{words} that you [sing_1]{sing}",
+      "entry": "song",
+      "id": "song#song__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [written_1]{written} for a [string_1]{string} [quartet]{quartet}",
+      "entry": "string quartet",
+      "id": "string-quartet#string-quartet__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that is [written_1]{written} to [help_1]{help} [people_1]{people} to [practice_1]{practice} a [musical_1]{musical} [instrument]{instrument}",
+      "entry": "study",
+      "id": "study_1#study_1__14"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [classical]{classical} [music]{music} [play_1]{played} by a [symphony]{symphony} [orchestra]{orchestra}",
+      "entry": "symphony",
+      "id": "symphony#symphony__1"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [music]{music} that is [play_1]{played} at the [beginning]{beginning} and [end_1]{end} of a [radio_1]{radio} or [television]{television} [program_1]{program} or a [movie]{movie}",
+      "entry": "theme",
+      "id": "theme#theme__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [classical]{classical} [music]{music} for an [orchestra]{orchestra} that [tell_1]{tells} a [story]{story} or [describe]{describes} a [place_1]{place}",
+      "entry": "tone poem",
+      "id": "tone-poem#tone-poem__1"
+    },
+    {
+      "comment": "a song or piece of music that is recorded on a CD, tape, or record",
+      "entry": "track",
+      "id": "track_1#track_1__23"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} for three [musician]{musicians} to [play_1]{play}",
+      "entry": "trio",
+      "id": "trio#trio__3"
+    },
+    {
+      "comment": "a [song]{song} or [piece_1]{piece} of [music]{music}",
+      "entry": "tune",
+      "id": "tune_1#tune_1__1"
+    },
+    {
+      "comment": "a section of music where the singers or players all perform the same note or notes that are an octave apart",
+      "entry": "unison",
+      "id": "unison#unison__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} that is [base_2]{based} on or is [similar]{similar} to another [piece_1]{piece}",
+      "entry": "variation",
+      "id": "variation#variation__13"
+    },
+    {
+      "comment": "a [short_1]{short} [piece_1]{piece} of [organ]{organ} [music]{music} [play_1]{played} at [church]{church}",
+      "entry": "voluntary",
+      "id": "voluntary_2#voluntary_2__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [music]{music} [traditionally]{traditionally} [play_1]{played} when a [woman]{woman} [arrive]{arrives} at her [wedding]{wedding} or when she and her [husband]{husband} [leave_1]{leave} after it",
+      "entry": "wedding march",
+      "id": "wedding-march#wedding-march__1"
+    }
+  ],
+  "thesaurus": "Pieces of music",
+  "type": "Related words"
+}

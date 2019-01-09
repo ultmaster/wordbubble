@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a reward that you get for being successful in a sport, competition, or game, or for being better than others at something. Someone who has won a prize is called a prize winner",
+      "entry": "prize",
+      "id": "prize_1#prize_1__1"
+    },
+    {
+      "comment": "a [prize_1]{prize} that someone is [given_1]{given} because they have [achieve]{achieved} something [important]{important}",
+      "entry": "honor",
+      "id": "honor_1#honor_1__9"
+    },
+    {
+      "comment": "a [prize_1]{prize} or other [reward_1]{reward} that is [given_1]{given} to someone who has [achieve]{achieved} something",
+      "entry": "award",
+      "id": "award_1#award_1__1"
+    },
+    {
+      "comment": "the [position_1]{position} of being a [champion_1]{champion}",
+      "entry": "championship",
+      "id": "championship#championship__3"
+    },
+    {
+      "comment": "an [honor_1]{honor} [given_1]{given} to someone for their [work_1]{work}",
+      "entry": "accolade",
+      "id": "accolade#accolade__1"
+    },
+    {
+      "comment": "an [honor_1]{honor} [given_1]{given} to someone who has [achieve]{achieved} a very [high_1]{high} [standard_1]{standard} in their [work_1]{work} or who has [help_1]{helped} many [people_1]{people}",
+      "entry": "distinction",
+      "id": "distinction#distinction__14"
+    },
+    {
+      "comment": "a [prize_1]{prize} or [successful]{successful} [position_1]{position} that a [lot_1]{lot} of [people_1]{people} [want_1]{want} to have very much",
+      "entry": "glittering prize",
+      "id": "glittering-prize#glittering-prize__1"
+    },
+    {
+      "comment": "an international prize given each year for chemistry, physics, medicine, literature, economics, and for work toward world peace. Someone who has won a Nobel Prize is often referred to as a Nobel laureate.",
+      "entry": "Nobel Prize",
+      "id": "nobel-prize#nobel-prize__1"
+    },
+    {
+      "comment": "a [small_1]{small} [prize_1]{prize} [given_1]{given} to someone who has [failed]{failed} to [win_1]{win}",
+      "entry": "consolation prize",
+      "id": "consolation-prize#consolation-prize__1"
+    },
+    {
+      "comment": "an [official_1]{official} [prize_1]{prize} [given_1]{given} to someone who has done something very [good_1]{good} or [brave_1]{brave}",
+      "entry": "commendation",
+      "id": "commendation#commendation__2"
+    }
+  ],
+  "thesaurus": "Prizes and honors for other achievements",
+  "type": "Synonyms"
+}

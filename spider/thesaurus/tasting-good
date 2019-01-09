@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[tasty]{tasty} [food]{food} has a [nice]{nice} [flavor_1]{flavor}",
+      "entry": "tasty",
+      "id": "tasty#tasty__1"
+    },
+    {
+      "comment": "[food]{food} that is [edible]{edible} is [safe_1]{safe} or [good_1]{good} enough to [eat]{eat}",
+      "entry": "edible",
+      "id": "edible#edible__1"
+    },
+    {
+      "comment": "[appetizing]{appetizing} [food]{food} [smell_1]{smells} or [look_1]{looks} very [good_1]{good}",
+      "entry": "appetizing",
+      "id": "appetizing#appetizing__1"
+    },
+    {
+      "comment": "[tasting]{tasting} [especially]{especially} [good_1]{good}",
+      "entry": "flavorful",
+      "id": "flavorful#flavorful__1"
+    },
+    {
+      "comment": "with a very [pleasant]{pleasant} [taste_1]{taste} or [smell_1]{smell}",
+      "entry": "delicious",
+      "id": "delicious#delicious__1"
+    },
+    {
+      "comment": "[juicy]{juicy} [food]{food} [taste_1]{tastes} [good_1]{good} because it [contain]{contains} a [lot_1]{lot} of [liquid_1]{liquid}",
+      "entry": "juicy",
+      "id": "juicy#juicy__1"
+    },
+    {
+      "comment": "[tasting]{tasting} [good_1]{good} enough to [eat]{eat} or [drink_1]{drink}",
+      "entry": "palatable",
+      "id": "palatable#palatable__1"
+    },
+    {
+      "comment": "[succulent_1]{succulent} [meat]{meat}, [fruit_1]{fruit}, etc. is full of [juice_1]{juice} and [taste_1]{tastes} [good_1]{good}",
+      "entry": "succulent",
+      "id": "succulent_1#succulent_1__1"
+    },
+    {
+      "comment": "with a [taste_1]{taste} or [smell_1]{smell} that is [strong]{strong} and [bitter_1]{bitter} in a [pleasant]{pleasant} way",
+      "entry": "tangy",
+      "id": "tangy#tangy__1"
+    },
+    {
+      "comment": "a full [flavor_1]{flavor} is [strong]{strong} in a [pleasant]{pleasant} way",
+      "entry": "full",
+      "id": "full#full__32"
+    }
+  ],
+  "thesaurus": "Tasting good",
+  "type": "Synonyms"
+}

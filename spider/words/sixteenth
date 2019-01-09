@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} 16",
+      "examples": [
+        "my sixteenth [birthday]{birthday}"
+      ],
+      "id": "sixteenth__1"
+    },
+    {
+      "def": "one of 16 [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "An [ounce]{ounce} is one sixteenth of a [pound_1]{pound}."
+      ],
+      "id": "sixteenth__3"
+    }
+  ],
+  "word": "sixteenth"
+}

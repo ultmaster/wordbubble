@@ -1,0 +1,38 @@
+{
+  "part": "phrase",
+  "phrase": "fit in",
+  "senses": [
+    {
+      "def": "to [belong]{belong} to a [group_1]{group}, [plan_1]{plan}, or [situation]{situation}",
+      "examples": [
+        "He [explain]{explained} the [project_1]{project} to me and how my [job_1]{job} [fit_1]{fits} in.",
+        "He didn\u2019t [fit_1]{fit} in with her [plan_1]{plans}, so she [left_1]{left} him."
+      ],
+      "id": "fit-in__1"
+    },
+    {
+      "def": "to be [accepted]{accepted} by a [group_1]{group} of [people_1]{people} because you are [similar]{similar} to them",
+      "examples": [
+        "I [tried_1]{tried} to [fit_1]{fit} in, but they were all much [younger]{younger} than I was.",
+        "She [fitted]{fitted} in with her [new]{new} [colleague]{colleagues} [right_1]{right} [away_1]{away}."
+      ],
+      "id": "fit-in__4"
+    },
+    {
+      "def": "to have enough time to [deal_1]{deal} with someone or something",
+      "examples": [
+        "He [fit_1]{fits} in his [work_1]{work} around his [family_1]{family} [commitment]{commitments}.",
+        "Dr. Halden can [fit_1]{fit} you in this [morning_1]{morning} at 10."
+      ],
+      "id": "fit-in__7"
+    },
+    {
+      "def": "to have [space_1]{space} for someone or something",
+      "examples": [
+        "How many [lines]{lines} can you [fit_1]{fit} in per [page_1]{page}?",
+        "I\u2019ll come in your [car]{car}, if you can [fit_1]{fit} me in."
+      ],
+      "id": "fit-in__10"
+    }
+  ]
+}

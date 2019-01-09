@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "a [substance]{substance} that [produce_1]{produces} an [allergic]{allergic} [reaction]{reaction} in someone",
+      "entry": "allergen",
+      "id": "allergen#allergen__1"
+    },
+    {
+      "comment": "[affected]{affected} by an [allergy]{allergy}",
+      "entry": "allergic",
+      "id": "allergic#allergic__1"
+    },
+    {
+      "comment": "[cause_2]{caused} by an [allergy]{allergy}",
+      "entry": "allergic",
+      "id": "allergic#allergic__3"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you become [sick_1]{sick} or your [skin_1]{skin} becomes [covered_1]{covered} with red [mark_1]{marks} as a [reaction]{reaction} to something you [eat]{eat}, [breathe]{breathe}, or [touch_1]{touch}",
+      "entry": "allergy",
+      "id": "allergy#allergy__1"
+    },
+    {
+      "comment": "a serious medical reaction caused by someone eating or touching something that they are allergic to  (=something that makes them sick). Common causes are nuts, eggs, and drugs such as penicillin.",
+      "entry": "anaphylactic shock",
+      "id": "anaphylactic-shock#anaphylactic-shock__1"
+    },
+    {
+      "comment": "anaphylactic [shock_1]{shock}",
+      "entry": "anaphylaxis",
+      "id": "anaphylaxis#anaphylaxis__1"
+    },
+    {
+      "comment": "a harmful substance that causes your body to produce antibodies to fight it",
+      "entry": "antigen",
+      "id": "antigen#antigen__1"
+    },
+    {
+      "comment": "[used]{used} about [food]{food} and [drink_1]{drink} which [does]{does} not [contain]{contain} [certain_1]{certain} [element]{elements}, because they can be [harmful]{harmful} or because [people_1]{people} [prefer]{prefer} to [avoid]{avoid} [eat]{eating} them",
+      "entry": "free-from",
+      "id": "free-from#free-from__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [sensitive]{sensitive} to [certain_1]{certain} [substance]{substances}",
+      "entry": "hypersensitive",
+      "id": "hypersensitive#hypersensitive__3"
+    },
+    {
+      "comment": "unlikely to cause an allergic reaction  (=an illness or skin reaction produced in some people by certain substances)",
+      "entry": "hypoallergenic",
+      "id": "hypoallergenic#hypoallergenic__1"
+    },
+    {
+      "comment": "if someone has an [intolerance]{intolerance} to a [particular_1]{particular} [food]{food} or [drink_1]{drink}, they cannot [eat]{eat} it or [drink_1]{drink} it because it [make_1]{makes} them [sick_1]{sick}",
+      "entry": "intolerance",
+      "id": "intolerance#intolerance__4"
+    },
+    {
+      "comment": "[unable]{unable} to [eat]{eat} a [particular_1]{particular} [type_1]{type} of [food]{food} because it [make_1]{makes} you [sick_1]{sick}",
+      "entry": "intolerant",
+      "id": "intolerant#intolerant__4"
+    },
+    {
+      "comment": "a [substance]{substance} that [hurt_1]{hurts} a part of your body and [make_1]{makes} it [painful]{painful}, red, or [swollen_1]{swollen}",
+      "entry": "irritant",
+      "id": "irritant#irritant__3"
+    },
+    {
+      "comment": "to [hurt_1]{hurt} a part of your body, [making]{making} it [painful]{painful}, red, or [swollen_1]{swollen}",
+      "entry": "irritate",
+      "id": "irritate#irritate__4"
+    },
+    {
+      "comment": "a measurement of how much pollen there is in the air at a particular time, often given on weather reports in the summer for people who are allergic to pollen",
+      "entry": "pollen count",
+      "id": "pollen-count#pollen-count__1"
+    },
+    {
+      "comment": "to become [sick_1]{sick} when you [eat]{eat} a [particular_1]{particular} [food]{food} or take a [particular_1]{particular} [drug_1]{drug}",
+      "entry": "react",
+      "id": "react#react__8"
+    },
+    {
+      "comment": "a [bad_1]{bad} [effect_1]{effect} on your body [cause_2]{caused} by [food]{food}, [medicine]{medicine}, or another [substance]{substance}",
+      "entry": "reaction",
+      "id": "reaction#reaction__12"
+    },
+    {
+      "comment": "a [tendency]{tendency} to have a [strong]{strong} [physical_1]{physical} [reaction]{reaction} to something",
+      "entry": "sensitivity",
+      "id": "sensitivity#sensitivity__6"
+    },
+    {
+      "comment": "to [make_1]{make} someone\u2019s body become too [sensitive]{sensitive} to something such as a [particular_1]{particular} [food]{food} or [plant_1]{plant}, often by [eat]{eating} or [touching_1]{touching} it",
+      "entry": "sensitize",
+      "id": "sensitize#sensitize__3"
+    },
+    {
+      "comment": "to be [able_1]{able} to [eat]{eat} a [particular_1]{particular} [food]{food} or to take a [particular_1]{particular} [treatment]{treatment} with no [bad_1]{bad} [effect_1]{effects}",
+      "entry": "tolerate",
+      "id": "tolerate#tolerate__9"
+    }
+  ],
+  "thesaurus": "Allergies and allergy",
+  "type": "Related words"
+}

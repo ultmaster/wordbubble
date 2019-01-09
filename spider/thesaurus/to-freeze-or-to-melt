@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "if [frozen_1]{frozen} [food]{food} [defrost]{defrosts}, or if you [defrost]{defrost} it, it becomes [warmer]{warmer} until it is no [long_1]{longer} [frozen_1]{frozen}",
+      "entry": "defrost",
+      "id": "defrost#defrost__1"
+    },
+    {
+      "comment": "if a freezer or fridge defrosts, or if you defrost it, you switch it off so that the ice inside starts to melt",
+      "entry": "defrost",
+      "id": "defrost#defrost__2"
+    },
+    {
+      "comment": "if [water_1]{water} [freeze_1]{freezes}, or if something [freeze_1]{freezes} it, it [get]{gets} very [cold_1]{cold} and [change_1]{changes} into [ice_1]{ice}",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__1"
+    },
+    {
+      "comment": "if a [liquid_1]{liquid} [freeze_1]{freezes} or something [freeze_1]{freezes} it, it becomes [solid_1]{solid} because it has [reach_1]{reached} a low [temperature]{temperature}",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__4"
+    },
+    {
+      "comment": "if a [substance]{substance} [freeze_1]{freezes}, or if something [freeze_1]{freezes} it, it becomes very [cold_1]{cold} and [hard_1]{hard}",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__6"
+    },
+    {
+      "comment": "if you [freeze_1]{freeze} a [human_1]{human} body or a part of the body, you [preserve_1]{preserve} it by [making]{making} it [extremely]{extremely} [cold_1]{cold}",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__15"
+    },
+    {
+      "comment": "if something [freeze_1]{freezes} up, it becomes so [cold_1]{cold} that it [does]{does} not [work_1]{work} or cannot move",
+      "entry": "freeze up",
+      "id": "freeze-up#freeze-up__1"
+    },
+    {
+      "comment": "to [change_1]{change} a [solid_1]{solid} [substance]{substance} into a [liquid_1]{liquid}",
+      "entry": "melt",
+      "id": "melt#melt__1"
+    },
+    {
+      "comment": "to be [changed]{changed} from a [solid_1]{solid} [substance]{substance} into a [liquid_1]{liquid}",
+      "entry": "melt",
+      "id": "melt#melt__3"
+    },
+    {
+      "comment": "if [ice_1]{ice} or [snow_1]{snow} [melt_1]{melts} [away_1]{away}, it [change_1]{changes} into [water_1]{water} as it [get]{gets} [warmer]{warmer}",
+      "entry": "melt away",
+      "id": "melt-away#melt-away__4"
+    },
+    {
+      "comment": "if [ice_1]{ice} or [snow_1]{snow} [thaw_1]{thaws}, or if something [thaw_1]{thaws} it, it becomes [warmer]{warmer} and [change_1]{changes} into [liquid_1]{liquid}",
+      "entry": "thaw",
+      "id": "thaw_1#thaw_1__1"
+    }
+  ],
+  "thesaurus": "To freeze, or to melt",
+  "type": "Related words"
+}

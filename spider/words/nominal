@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} about something that is [officially]{officially} [describe]{described} in a [particular_1]{particular} way when it is not [really]{really} [true_1]{true} or [correct_1]{correct}",
+      "examples": [
+        "[area]{areas} under nominal [government]{government} [control_1]{control}",
+        "He is still the nominal [leader]{leader} of the [organization]{organization}."
+      ],
+      "id": "nominal__1"
+    },
+    {
+      "def": "a nominal amount of [money]{money} is a very [small_1]{small} amount which is much less than something is [really]{really} [worth_1]{worth}",
+      "examples": [
+        "[transportation]{Transportation} can be [provided]{provided} for a nominal [sum_1]{sum}.",
+        "a nominal [fee]{fee}/[charge_1]{charge}/[cost_1]{cost}"
+      ],
+      "id": "nominal__4"
+    },
+    {
+      "def": "the nominal amount or [value_1]{value} of something is its [official_1]{official} amount or [value_1]{value} and not the [real_1]{real} one",
+      "examples": [
+        "[share_1]{shares} with a nominal [value_1]{value} of \u00a31,000"
+      ],
+      "id": "nominal__7"
+    },
+    {
+      "def": "[concerning_1]{concerning} a [noun_1]{noun}, or [used]{used} as a [noun_1]{noun}",
+      "examples": [],
+      "id": "nominal__9"
+    }
+  ],
+  "word": "nominal"
+}

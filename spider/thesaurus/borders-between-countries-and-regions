@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [official_1]{official} [line_1]{line} [separate_2]{separating} two [country]{countries} or [state_1]{states}",
+      "entry": "border",
+      "id": "border_1#border_1__1"
+    },
+    {
+      "comment": "a [border_1]{border} between two [region]{regions}",
+      "entry": "line",
+      "id": "line_1#line_1__13"
+    },
+    {
+      "comment": "something such as a [line_1]{line} on a [map_1]{map} that [mark_1]{marks} where one [area]{area} of [land_1]{land} [end_1]{ends} and another [begin]{begins}",
+      "entry": "boundary",
+      "id": "boundary#boundary__1"
+    },
+    {
+      "comment": "a [border_1]{border} between two [country]{countries}, [especially]{especially} one with [official_1]{official} [point_1]{points} where [people_1]{people} or [vehicle]{vehicles} cross",
+      "entry": "frontier",
+      "id": "frontier#frontier__1"
+    },
+    {
+      "comment": "a [border_1]{border} between one [state_1]{state} and another in a [country]{country} with [state_1]{states}",
+      "entry": "state line",
+      "id": "state-line#state-line__1"
+    },
+    {
+      "comment": "one of the [area]{areas} that are [separated]{separated} from each other by something such as a [border_1]{border} or a [river]{river}",
+      "entry": "side",
+      "id": "side_1#side_1__7"
+    },
+    {
+      "comment": "the [area]{area} [close_1]{close} to a [border_1]{border}",
+      "entry": "border",
+      "id": "border_1#border_1__7"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} between two [country]{countries} that is not [controlled_1]{controlled} by either of them",
+      "entry": "no-man\u2019s-land",
+      "id": "no-man-s-land#no-man-s-land__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [establish]{establishing} [border_1]{borders} or [limit_1]{limits} between [area]{areas}, [group_1]{groups}, or [thing]{things}",
+      "entry": "demarcation",
+      "id": "demarcation#demarcation__1"
+    },
+    {
+      "comment": "the [place_1]{place} where someone or something [officially]{officially} [enter]{enters} a [country]{country}",
+      "entry": "port of entry",
+      "id": "port-of-entry#port-of-entry__1"
+    }
+  ],
+  "thesaurus": "Borders between countries and regions",
+  "type": "Synonyms"
+}

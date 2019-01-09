@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [group_1]{group} of [student]{students} who are [taught]{taught} together",
+      "entry": "class",
+      "id": "class_1#class_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who [finish_1]{finish} a [course_1]{course} of [study_1]{study} together in the same [year]{year}",
+      "entry": "class",
+      "id": "class_1#class_1__13"
+    },
+    {
+      "comment": "a [list_1]{list} of the [student]{students} at a [college]{college} or [university]{university} who have [achieve]{achieved} the [best_1]{best} [grade_1]{grades}",
+      "entry": "dean\u2019s list",
+      "id": "dean-s-list#dean-s-list__1"
+    },
+    {
+      "comment": "a [class_1]{class} at [school_1]{school}",
+      "entry": "form",
+      "id": "form_1#form_1__28"
+    },
+    {
+      "comment": "an organization for students in high school or college who get very good grades",
+      "entry": "honor society",
+      "id": "honor-society#honor-society__1"
+    },
+    {
+      "comment": "the last [stage_1]{stage} of [school_1]{school} in England, Wales and [northern]{Northern} Ireland for [student]{students} between the [age_1]{ages} of 16 and 18",
+      "entry": "sixth form",
+      "id": "sixth-form#sixth-form__1"
+    },
+    {
+      "comment": "the [group_1]{group} of [student]{students} in a [school_1]{school} who have been [elect_1]{elected} by other [student]{students} to [make_1]{make} [decision_1]{decisions} about [student]{student} [activity]{activities}",
+      "entry": "student council",
+      "id": "student-council#student-council__1"
+    },
+    {
+      "comment": "the system by which [decision_1]{decisions} about [student]{student} [life]{life} and [activity]{activities} at a [high_1]{high} [school_1]{school}, [college]{college}, or [university]{university} are made by a [group_1]{group} of [student]{students} who are [elect_1]{elected} by the other [student]{students}",
+      "entry": "student government",
+      "id": "student-government#student-government__1"
+    },
+    {
+      "comment": "an [elect_1]{elected} [group_1]{group} of [student]{student} [official_2]{officials}",
+      "entry": "student government",
+      "id": "student-government#student-government__2"
+    }
+  ],
+  "thesaurus": "Student bodies and groups of students",
+  "type": "Related words"
+}

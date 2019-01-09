@@ -1,0 +1,30 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "one of the [thing]{things} that [influence_1]{influence} whether an [event]{event} [happen]{happens} or the way that it [happen]{happens}",
+      "examples": [
+        "We have [tried_1]{tried} to [identify]{identify} the [factor_1]{factors} that [influence_1]{influence} the [age_1]{age} at which [children]{children} [leave_1]{leave} [school_1]{school}.",
+        "[public_1]{Public} [pressure_1]{pressure} was a factor in the [administration]{administration}\u2019s [decision_1]{decision}.",
+        "[lack_1]{Lack} of [exercise_1]{exercise} is also a [risk_1]{risk} factor for [heart_1]{heart} [disease]{disease}.",
+        "[safety]{Safety} is the [single_1]{single} most [important]{important} factor in a [car]{car}\u2019s [design_1]{design}."
+      ],
+      "id": "factor_1__1"
+    },
+    {
+      "def": "a [measurement]{measurement} that [show_1]{shows} how [strong]{strong} or [large_1]{large} something is",
+      "examples": [
+        "Use a [sunscreen]{sunscreen} with a [high_1]{high} [protection]{protection} factor."
+      ],
+      "id": "factor_1__7"
+    },
+    {
+      "def": "a [number_1]{number} that you can [divide_1]{divide} a [large_1]{larger} [number_1]{number} by [exactly]{exactly}",
+      "examples": [
+        "2 and 3 are [factor_1]{factors} of 6."
+      ],
+      "id": "factor_1__9"
+    }
+  ],
+  "word": "factor"
+}

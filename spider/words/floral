@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "made of [flower_1]{flowers}, or [decorate]{decorated} with [picture_1]{pictures} of [flower_1]{flowers}",
+      "examples": [
+        "a [pretty_1]{pretty} floral [dress_1]{dress}"
+      ],
+      "id": "floral__1"
+    },
+    {
+      "def": "[smell_2]{smelling} of [flower_1]{flowers}",
+      "examples": [
+        "a floral [scent_1]{scent}"
+      ],
+      "id": "floral__3"
+    }
+  ],
+  "word": "floral"
+}

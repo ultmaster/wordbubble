@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "how would you like...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [offering]{offering} someone something that you [think_1]{think} they will [enjoy]{enjoy}",
+      "examples": [
+        "How would you [like_1]{like} a [glass]{glass} of [lemonade]{lemonade}?",
+        "How would you [like_1]{like} to take the [afternoon_1]{afternoon} off?"
+      ],
+      "id": "how-would-you-like__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone to [consider]{consider} how they would [feel_1]{feel} if something [bad_1]{bad} [happen]{happened} to them, [especially]{especially} if it has already [happen]{happened} to you",
+      "examples": [
+        "How would you [like_1]{like} someone [insulting]{insulting} you in [public_1]{public}?",
+        "How would you [like_1]{like} it if I [stay_1]{stayed} out all [night_1]{night} without [telling]{telling} you where I was?"
+      ],
+      "id": "how-would-you-like__4"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a barbed hook or arrow has a sharp curved point on one side",
+      "entry": "barbed",
+      "id": "barbed#barbed__2"
+    },
+    {
+      "comment": "a [double-edged]{double-edged} [knife_1]{knife} or [sword]{sword} has two [sharp_1]{sharp} sides",
+      "entry": "double-edged",
+      "id": "double-edged#double-edged__1"
+    },
+    {
+      "comment": "a [dull_1]{dull} [blade]{blade} is not [sharp_1]{sharp}",
+      "entry": "dull",
+      "id": "dull_1#dull_1__16"
+    },
+    {
+      "comment": "a [keen_1]{keen} [blade]{blade} is very [sharp_1]{sharp}",
+      "entry": "keen",
+      "id": "keen_1#keen_1__8"
+    },
+    {
+      "comment": "[used]{used} about [thing]{things} that are [design_2]{designed} to be [used]{used} by [left-handed]{left-handed} [people_1]{people}",
+      "entry": "left-handed",
+      "id": "left-handed#left-handed__4"
+    },
+    {
+      "comment": "with a very [sharp_1]{sharp} [edge_1]{edge} or [blade]{blade}",
+      "entry": "razor-edged",
+      "id": "razor-edged#razor-edged__1"
+    },
+    {
+      "comment": "very [sharp_1]{sharp}",
+      "entry": "razor-sharp",
+      "id": "razor-sharp#razor-sharp__1"
+    },
+    {
+      "comment": "a [serrated]{serrated} [object_1]{object} such as a [knife_1]{knife} or [blade]{blade} has a [row_1]{row} of [regular_1]{regular} [sharp_1]{sharp} [point_1]{points} along its [edge_1]{edge}",
+      "entry": "serrated",
+      "id": "serrated#serrated__1"
+    },
+    {
+      "comment": "a [sharp_1]{sharp} [object_1]{object} has an [edge_1]{edge} that can [cut_1]{cut} or an [end_1]{end} that is [pointed]{pointed}",
+      "entry": "sharp",
+      "id": "sharp_1#sharp_1__1"
+    },
+    {
+      "comment": "a [two-edged]{two-edged} [weapon]{weapon} has a [blade]{blade} with two [sharp_1]{sharp} [edge_1]{edges}",
+      "entry": "two-edged",
+      "id": "two-edged#two-edged__1"
+    }
+  ],
+  "thesaurus": "Words used to describe tools and parts of tools",
+  "type": "Related words"
+}

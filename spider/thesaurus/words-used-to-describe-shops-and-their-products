@@ -1,0 +1,276 @@
+{
+  "entries": [
+    {
+      "comment": "if you are all out, you have none of a [particular_1]{particular} [product]{product} [left_1]{left} to [sell_1]{sell}",
+      "entry": "all out",
+      "id": "all-out_1#all-out_1__1"
+    },
+    {
+      "comment": "something that you have [bought]{bought} without [seeing]{seeing} it first",
+      "entry": "a pig in a poke",
+      "id": "a-pig-in-a-poke#a-pig-in-a-poke__1"
+    },
+    {
+      "comment": "[brand-name_2]{brand-name}",
+      "entry": "branded",
+      "id": "branded#branded__1"
+    },
+    {
+      "comment": "[brand-name_2]{brand-name} [goods]{goods} are made by [well-known]{well-known} [company]{companies} and have the [company]{company} name on their [label_1]{label} or [container]{container}",
+      "entry": "brand-name",
+      "id": "brand-name_2#brand-name_2__1"
+    },
+    {
+      "comment": "if a [store_1]{store} has a [cash-and-carry]{cash-and-carry} [policy]{policy}, [customer]{customers} must [pay_1]{pay} [cash_1]{cash} and take whatever they [buy_1]{buy} with them",
+      "entry": "cash-and-carry",
+      "id": "cash-and-carry#cash-and-carry__1"
+    },
+    {
+      "comment": "[produce_1]{produced} in [order_1]{order} to be [sold]{sold}",
+      "entry": "commercial",
+      "id": "commercial_1#commercial_1__6"
+    },
+    {
+      "comment": "in [order_1]{order} to be [sold]{sold}",
+      "entry": "commercially",
+      "id": "commercially#commercially__4"
+    },
+    {
+      "comment": "[intended_1]{intended} to be [bought]{bought}, [used]{used}, and then [gotten]{gotten} [rid_1]{rid} of",
+      "entry": "consumable",
+      "id": "consumable_1#consumable_1__1"
+    },
+    {
+      "comment": "[create]{created} [especially]{especially} for a [particular_1]{particular} [person]{person}",
+      "entry": "custom",
+      "id": "custom_2#custom_2__1"
+    },
+    {
+      "comment": "[design_2]{designed} and [built_1]{built} for one [particular_1]{particular} [person]{person}",
+      "entry": "custom-built",
+      "id": "custom-built#custom-built__1"
+    },
+    {
+      "comment": "[design_2]{designed} and made for one [particular_1]{particular} [person]{person}",
+      "entry": "custom-made",
+      "id": "custom-made#custom-made__1"
+    },
+    {
+      "comment": "[used]{used} about [place_1]{places} that [sell_1]{sell} [cut-rate]{cut-rate} [goods]{goods}",
+      "entry": "cut-rate",
+      "id": "cut-rate#cut-rate__3"
+    },
+    {
+      "comment": "a [discontinued]{discontinued} [product]{product} is no [long_1]{longer} [produce_1]{produced} or [sold]{sold}",
+      "entry": "discontinued",
+      "id": "discontinued#discontinued__1"
+    },
+    {
+      "comment": "something that is [disposable]{disposable} is [design_2]{designed} to be [thrown]{thrown} [away_1]{away} after you have [used]{used} it once or a few times",
+      "entry": "disposable",
+      "id": "disposable#disposable__1"
+    },
+    {
+      "comment": "a generic drug or other product does not have a trademark and is sold without a company\u2019s name on it",
+      "entry": "generic",
+      "id": "generic#generic__4"
+    },
+    {
+      "comment": "[relate]{relating} to [groceries]{groceries} or [grocery_1]{grocery} [store_1]{stores}",
+      "entry": "grocery",
+      "id": "grocery_2#grocery_2__1"
+    },
+    {
+      "comment": "made by a [person]{person}, not by a [machine_1]{machine}, and [usually]{usually} made with [great_1]{great} [skill]{skill}",
+      "entry": "handcrafted",
+      "id": "handcrafted#handcrafted__1"
+    },
+    {
+      "comment": "made by a [person]{person}, [instead]{instead} of by a [machine_1]{machine}",
+      "entry": "handmade",
+      "id": "handmade#handmade__1"
+    },
+    {
+      "comment": "made in someone\u2019s [home_1]{home} rather than in a [factory]{factory}",
+      "entry": "home-made",
+      "id": "home-made#home-made__1"
+    },
+    {
+      "comment": "within a [large_1]{large} [store_1]{store}",
+      "entry": "in-store",
+      "id": "in-store#in-store__1"
+    },
+    {
+      "comment": "[licensed]{licensed} [product]{products} are [product]{products} that someone has [official_1]{official} [permission]{permission} to use or to own",
+      "entry": "licensed",
+      "id": "licensed#licensed__3"
+    },
+    {
+      "comment": "easy to sell in order to get cash",
+      "entry": "liquid",
+      "id": "liquid_2#liquid_2__5"
+    },
+    {
+      "comment": "[involve]{involving} [thing]{things} that can be [sold]{sold} and [bought]{bought} [easily]{easily}",
+      "entry": "liquid",
+      "id": "liquid_2#liquid_2__7"
+    },
+    {
+      "comment": "made by a [machine_1]{machine} [instead]{instead} of by hand",
+      "entry": "machine-made",
+      "id": "machine-made#machine-made__1"
+    },
+    {
+      "comment": "made [accord_2]{according} to the [specific]{specific} [request_1]{requests} of a [particular_1]{particular} [person]{person}",
+      "entry": "made-to-order",
+      "id": "made-to-order#made-to-order__1"
+    },
+    {
+      "comment": "a [marketable]{marketable} [product]{product} can be [sold]{sold} because [people_1]{people} [want_1]{want} to [buy_1]{buy} it",
+      "entry": "marketable",
+      "id": "marketable#marketable__1"
+    },
+    {
+      "comment": "[produce_1]{produced} in [large_1]{large} [quantity]{quantities} to be [sold]{sold} to many [customer]{customers}",
+      "entry": "mass-market",
+      "id": "mass-market#mass-market__1"
+    },
+    {
+      "comment": "made in [large_1]{large} [quantity]{quantities} by [use_1]{using} [machine_1]{machines}",
+      "entry": "mass-produced",
+      "id": "mass-produced#mass-produced__1"
+    },
+    {
+      "comment": "of a [good_1]{good} enough [quality_1]{quality} to be [sold]{sold}",
+      "entry": "merchantable",
+      "id": "merchantable#merchantable__1"
+    },
+    {
+      "comment": "a [mobile_1]{mobile} [library]{library}, etc. is in a [vehicle]{vehicle} so that it can be [move_1]{moved} from one [place_1]{place} to another",
+      "entry": "mobile",
+      "id": "mobile_1#mobile_1__4"
+    },
+    {
+      "comment": "[used]{used} about [product]{products} and [company]{companies}",
+      "entry": "newcomer",
+      "id": "newcomer#newcomer__6"
+    },
+    {
+      "comment": "made and [sold]{sold} for a low [price_1]{price} by a [company]{company} whose name is not [well-known]{well-known}, and",
+      "entry": "off-brand",
+      "id": "off-brand#off-brand__1"
+    },
+    {
+      "comment": "[sold]{sold} for [general_1]{general} use, not made for a [particular_1]{particular} [person]{person} or [purpose]{purpose}",
+      "entry": "off-the-shelf",
+      "id": "off-the-shelf_1#off-the-shelf_1__1"
+    },
+    {
+      "comment": "[used]{used} in [store_1]{stores} to [mark_1]{mark} some [type_1]{types} of [clothing]{clothing} in which one [piece_1]{piece} of [clothing]{clothing} can [fit_1]{fit} any [size_1]{size} of [person]{person}",
+      "entry": "one-size-fits-all",
+      "id": "one-size-fits-all#one-size-fits-all__2"
+    },
+    {
+      "comment": "if a [store_1]{store}, [restaurant]{restaurant}, etc. is [open_1]{open}, [people_1]{people} are [working]{working} there and the [public_1]{public} can use or [visit_1]{visit} it",
+      "entry": "open",
+      "id": "open_1#open_1__1"
+    },
+    {
+      "comment": "a [pop-up_2]{pop-up} [restaurant]{restaurant}, [store_1]{store}, [gallery]{gallery}, etc. [open_2]{opens} for a [short_1]{short} time, sometimes in a [surprising]{surprising} [location]{location}",
+      "entry": "pop-up",
+      "id": "pop-up_2#pop-up_2__5"
+    },
+    {
+      "comment": "[used]{used} about something for [sale]{sale} that is not [new]{new}",
+      "entry": "pre-enjoyed",
+      "id": "pre-enjoyed#pre-enjoyed__1"
+    },
+    {
+      "comment": "owned by a person or company and sold under a trademark or patent",
+      "entry": "proprietary",
+      "id": "proprietary#proprietary__1"
+    },
+    {
+      "comment": "already [existing]{existing} or [available]{available}, and not [need_1]{needing} to be [create]{created} or [invent]{invented} for a [particular_1]{particular} [situation]{situation}",
+      "entry": "ready-made",
+      "id": "ready-made#ready-made__4"
+    },
+    {
+      "comment": "a [natural_1]{natural} [substance]{substance} that is [refined]{refined} is now [pure]{pure} because other [thing]{things} have been [removed]{removed} from it",
+      "entry": "refined",
+      "id": "refined#refined__1"
+    },
+    {
+      "comment": "[directly_1]{directly} to the [public_1]{public} in [store_1]{stores}, by [mail_1]{mail} or [telephone_1]{telephone}, or over the [internet]{Internet}",
+      "entry": "retail",
+      "id": "retail_3#retail_3__1"
+    },
+    {
+      "comment": "[returnable]{returnable} [bottle_1]{bottles} or other [container]{containers} can be [taken_1]{taken} back to a [store_1]{store} so that they can be [used]{used} again",
+      "entry": "returnable",
+      "id": "returnable#returnable__3"
+    },
+    {
+      "comment": "[easy_1]{easy} to [sell_1]{sell} or [able_1]{able} to be [sold]{sold}",
+      "entry": "salable",
+      "id": "salable#salable__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [salable]{salable}",
+      "entry": "saleable",
+      "id": "saleable#saleable__1"
+    },
+    {
+      "comment": "something that is [produce_1]{produced} to [compete]{compete} with something else and [make_1]{make} it less [successful]{successful}",
+      "entry": "spoiler",
+      "id": "spoiler#spoiler__4"
+    },
+    {
+      "comment": "[bought]{bought} from a [store_1]{store}, [instead]{instead} of being made at [home_1]{home}",
+      "entry": "store-bought",
+      "id": "store-bought#store-bought__1"
+    },
+    {
+      "comment": "a [product]{product} such as a [toy_1]{toy} or a [book_1]{book} that is [connected]{connected} with a [successful]{successful} [movie]{movie} or [television]{television} [program_1]{program}",
+      "entry": "tie-in",
+      "id": "tie-in#tie-in__1"
+    },
+    {
+      "comment": "[complete_1]{complete} and ready to be [used]{used} [immediately]{immediately}",
+      "entry": "turnkey",
+      "id": "turnkey#turnkey__1"
+    },
+    {
+      "comment": "[unbranded]{unbranded} [goods]{goods} are not [marked]{marked} with a name of the [company]{company} that [make_1]{makes} them",
+      "entry": "unbranded",
+      "id": "unbranded#unbranded__1"
+    },
+    {
+      "comment": "not [given_1]{given} a [price_1]{price}, or not [marked]{marked} with a [price_1]{price}",
+      "entry": "unpriced",
+      "id": "unpriced#unpriced__1"
+    },
+    {
+      "comment": "[impossible]{impossible} to [sell_1]{sell}, [usually]{usually} because of being in [bad_1]{bad} [condition_1]{condition}",
+      "entry": "unsalable",
+      "id": "unsalable#unsalable__1"
+    },
+    {
+      "comment": "not [sold]{sold}",
+      "entry": "unsold",
+      "id": "unsold#unsold__1"
+    },
+    {
+      "comment": "a [well-stocked]{well-stocked} [store_1]{store} has [plenty]{plenty} of [thing]{things} in it to [choose]{choose} from",
+      "entry": "well-stocked",
+      "id": "well-stocked#well-stocked__1"
+    },
+    {
+      "comment": "goods or services that are zero-rated do not have the tax called VAT added to them",
+      "entry": "zero-rated",
+      "id": "zero-rated#zero-rated__1"
+    }
+  ],
+  "thesaurus": "Words used to describe shops and their products",
+  "type": "Related words"
+}

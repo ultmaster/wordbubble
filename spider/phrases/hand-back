@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "hand back",
+  "senses": [
+    {
+      "def": "to give something back to someone",
+      "examples": [
+        "Jean [hand_2]{handed} the [letter_1]{letter} back to Doug.",
+        "The [officer]{officer} [hand_2]{handed} me my [passport]{passport} back."
+      ],
+      "id": "hand-back__1"
+    },
+    {
+      "def": "to [say_1]{say} that you have [finished]{finished} [making]{making} a [television]{television} or [news]{news} [report_1]{report} from a [place_1]{place} to [people_1]{people} and that you now [let_1]{let} someone in the [studio]{studio} [speak_1]{speak} [instead]{instead}",
+      "examples": [
+        "Now I\u2019ll hand you back to Fiona in the [studio]{studio}."
+      ],
+      "id": "hand-back__4"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "conflict of interest(s)",
+  "senses": [
+    {
+      "def": "a [situation]{situation} in which someone cannot [make_1]{make} [fair_1]{fair} [decision_1]{decisions} because they will be [affected]{affected} by the [result_1]{results}",
+      "examples": [
+        "If the [judge_1]{judge} is [related_1]{related} to the [defendant]{defendant} there is a [clear_1]{clear} [conflict_1]{conflict} of interest."
+      ],
+      "id": "conflict-of-interest-s__1"
+    },
+    {
+      "def": "a [situation]{situation} in which something that is [good_1]{good} for one [person]{person} is [bad_1]{bad} for another [person]{person}",
+      "examples": [],
+      "id": "conflict-of-interest-s__3"
+    }
+  ]
+}

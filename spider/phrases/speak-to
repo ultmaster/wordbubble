@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "speak to",
+  "senses": [
+    {
+      "def": "to [talk_1]{talk} to someone who has done something [wrong_1]{wrong} in an [effort]{effort} to [persuade]{persuade} them to [improve_1]{improve} their [behavior]{behavior}",
+      "examples": [
+        "You [really]{really} [ought]{ought} to [speak_1]{speak} to him about coming [late_1]{late} to [class_1]{class}."
+      ],
+      "id": "speak-to__1"
+    },
+    {
+      "def": "to [answer_1]{answer} a [question_1]{question} or [talk_1]{talk} about a [particular_1]{particular} [subject_1]{subject}",
+      "examples": [
+        "I\u2019m [afraid]{afraid} I can\u2019t [speak_1]{speak} to that in detail.",
+        "Can you [speak_1]{speak} to the [advantage]{advantages} of [perform]{performing} in the [small_1]{smaller} [venue]{venues}?"
+      ],
+      "id": "speak-to__3"
+    }
+  ]
+}

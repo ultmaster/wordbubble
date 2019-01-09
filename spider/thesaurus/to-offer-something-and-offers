@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [let_1]{let} someone [know_1]{know} that you will give them something if they [want_1]{want} it",
+      "entry": "offer",
+      "id": "offer_1#offer_1__1"
+    },
+    {
+      "comment": "to [offer_1]{offer} something for [people_1]{people} to [consider]{consider} or [judge_1]{judge}",
+      "entry": "present",
+      "id": "present_2#present_2__10"
+    },
+    {
+      "comment": "to [offer_1]{offer} someone something by [moving]{moving} it toward them",
+      "entry": "proffer",
+      "id": "proffer#proffer__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} in which you [offer_1]{offer} to give someone something if they [want_1]{want} it",
+      "entry": "offer",
+      "id": "offer_2#offer_2__1"
+    },
+    {
+      "comment": "something that you [offer_1]{offer} or give to someone in [return_1]{return} for something that they have [offer_1]{offered} or [given_1]{given} you",
+      "entry": "quid pro quo",
+      "id": "quid-pro-quo#quid-pro-quo__1"
+    },
+    {
+      "comment": "to offer someone something such as an explanation or apology",
+      "entry": "proffer",
+      "id": "proffer#proffer__2"
+    },
+    {
+      "comment": "a very [good_1]{good} [offer_1]{offer}",
+      "entry": "an offer someone can\u2019t refuse",
+      "id": "an-offer-someone-can-t-refuse#an-offer-someone-can-t-refuse__1"
+    },
+    {
+      "comment": "to [offer_1]{offer} something [good_1]{good} or [helpful]{helpful} to someone who [does]{does} not [value_1]{value} it",
+      "entry": "cast pearls before swine",
+      "id": "cast-pearls-before-swine#cast-pearls-before-swine__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} in which you [offer_1]{offer} to do something",
+      "entry": "offer",
+      "id": "offer_2#offer_2__9"
+    },
+    {
+      "comment": "an [offer_1]{offer} made as an [answer_1]{answer} to another [offer_1]{offer} that you do not [want_1]{want} to [accept]{accept}, for [example]{example} an [offer_1]{offer} by the [seller]{seller} of a [higher_1]{higher} [price_1]{price} than was [offer_1]{offered} by the [buyer]{buyer}, but [lower_1]{lower} than the first [price_1]{price} that was [ask_1]{asked}",
+      "entry": "counteroffer",
+      "id": "counteroffer#counteroffer__1"
+    }
+  ],
+  "thesaurus": "To offer something and offers",
+  "type": "Synonyms"
+}

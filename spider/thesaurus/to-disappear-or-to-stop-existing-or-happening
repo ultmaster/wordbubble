@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone has [left_1]{left} an [organization]{organization}, [stop_1]{stopped} an [activity]{activity}, etc.",
+      "entry": "X has left the building",
+      "id": "x-has-left-the-building#x-has-left-the-building__2"
+    },
+    {
+      "comment": "if someone or something [disappear]{disappears}, they move somewhere where they can no [long_1]{longer} be [seen]{seen}",
+      "entry": "disappear",
+      "id": "disappear#disappear__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [happening_1]{happening}",
+      "entry": "finish",
+      "id": "finish_1#finish_1__5"
+    },
+    {
+      "comment": "to [stop_1]{stop} [existing]{existing} or being [noticeable]{noticeable}",
+      "entry": "go away",
+      "id": "go-away#go-away__5"
+    },
+    {
+      "comment": "to [disappear]{disappear}, or to [stop_1]{stop} [existing]{existing}",
+      "entry": "die",
+      "id": "die_1#die_1__9"
+    },
+    {
+      "comment": "if something [stop_1]{stops}, it [does]{does} not [continue]{continue}",
+      "entry": "stop",
+      "id": "stop_1#stop_1__11"
+    },
+    {
+      "comment": "to [disappear]{disappear} [slowly]{slowly}",
+      "entry": "fade away",
+      "id": "fade-away#fade-away__1"
+    },
+    {
+      "comment": "to [disappear]{disappear} in a [sudden_1]{sudden} and [mysterious]{mysterious} way",
+      "entry": "vanish",
+      "id": "vanish#vanish__1"
+    },
+    {
+      "comment": "if a [group_1]{group} or [organization]{organization} [dissolve]{dissolves}, or if someone [dissolve]{dissolves} it, it [stop_1]{stops} [existing]{existing}",
+      "entry": "dissolve",
+      "id": "dissolve#dissolve__5"
+    },
+    {
+      "comment": "if something such as a [feeling_1]{feeling} or [quality_1]{quality} [evaporate]{evaporates}, it [suddenly]{suddenly} [disappear]{disappears}",
+      "entry": "evaporate",
+      "id": "evaporate#evaporate__2"
+    }
+  ],
+  "thesaurus": "To disappear, or to stop existing or happening",
+  "type": "Synonyms"
+}

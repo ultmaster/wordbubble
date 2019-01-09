@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "pin down",
+  "senses": [
+    {
+      "def": "to [hold_1]{hold} someone [firm_1#firm_1__28]{firmly} on the [ground_1]{ground} or on a [surface_1]{surface} so that they cannot move",
+      "examples": [
+        "He [pin_2]{pinned} me down on the [bed_1]{bed} and [tickled]{tickled} me."
+      ],
+      "id": "pin-down__1"
+    },
+    {
+      "def": "to [understand]{understand} or describe something [exactly]{exactly}",
+      "examples": [
+        "[official_2]{Officials} are [trying]{trying} to [pin_1]{pin} down the cause of [widespread]{widespread} [power_1]{power} [outage]{outages}."
+      ],
+      "id": "pin-down__3"
+    },
+    {
+      "def": "to [force_1]{force} someone to [make_1]{make} a [decision_1]{decision} about something",
+      "examples": [
+        "We [finally]{finally} [pin_2]{pinned} him down and [got_1]{got} him to [agree]{agree} to a [meeting]{meeting}."
+      ],
+      "id": "pin-down__5"
+    },
+    {
+      "def": "to keep [soldier_1]{soldiers} in a [place_1]{place} so that they cannot move",
+      "examples": [
+        "The [allied]{Allied} [army]{armies} had been [pin_2]{pinned} down by the Germans."
+      ],
+      "id": "pin-down__7"
+    }
+  ]
+}

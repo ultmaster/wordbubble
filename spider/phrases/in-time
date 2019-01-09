@@ -1,0 +1,39 @@
+{
+  "part": "phrase",
+  "phrase": "in time",
+  "senses": [
+    {
+      "def": "[early_1]{early} enough",
+      "examples": [
+        "I [want_1]{want} to be [home_1]{home} in time for [dinner]{dinner}.",
+        "If we [leave_1]{leave} now, we\u2019ll be at the [airport]{airport} in [plenty]{plenty} of time.",
+        "We [got_1]{got} to the [airport]{airport} [just_1]{just} in time."
+      ],
+      "id": "in-time__1"
+    },
+    {
+      "def": "after a [fairly]{fairly} long [period_1]{period} of time",
+      "examples": [
+        "He\u2019ll [forget]{forget} about it in time."
+      ],
+      "id": "in-time__5"
+    },
+    {
+      "def": "[used]{used} for [talk_1]{talking} about a [particular_1]{particular} time in the [future_1]{future}, [measured]{measured} from now",
+      "examples": [
+        "In two [hour]{hours}\u2019 time, we\u2019ll be in Paris."
+      ],
+      "id": "in-time__7"
+    },
+    {
+      "def": "if you do something such as move your body in time to a [piece_1]{piece} of [music]{music}, your [movement]{movements} are at the same [speed_1]{speed} and [beat_1]{beat} as the [music]{music}",
+      "examples": [],
+      "id": "in-time__9"
+    },
+    {
+      "def": "if [musician]{musicians} are in time with each other, they are all [play_1]{playing} at the same [speed_1]{speed}",
+      "examples": [],
+      "id": "in-time__10"
+    }
+  ]
+}

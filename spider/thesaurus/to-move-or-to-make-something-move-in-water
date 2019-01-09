@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [sink_1]{sink} below the [surface_1]{surface} of the [water_1]{water}",
+      "entry": "go down",
+      "id": "go-down#go-down__5"
+    },
+    {
+      "comment": "if [water_1]{water} or [air_1]{air} [carry_1]{carries} something or someone, it [take_1]{takes} them with it as it [move_1]{moves} along",
+      "entry": "carry",
+      "id": "carry_1#carry_1__10"
+    },
+    {
+      "comment": "to [disappear]{disappear} below the [surface_1]{surface} of the [water_1]{water}",
+      "entry": "sink",
+      "id": "sink_1#sink_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} something, [especially]{especially} a [boat]{boat}, [disappear]{disappear} below the [surface_1]{surface} of the [water_1]{water}",
+      "entry": "sink",
+      "id": "sink_1#sink_1__4"
+    },
+    {
+      "comment": "if [fish_1]{fish} [swim_1]{swim}, they move in [water_1]{water}",
+      "entry": "swim",
+      "id": "swim_1#swim_1__9"
+    },
+    {
+      "comment": "to [sink_1]{sink} below the [surface_1]{surface} of the [water_1]{water}",
+      "entry": "go under",
+      "id": "go-under#go-under__1"
+    },
+    {
+      "comment": "to [force_1]{force} someone\u2019s [head_1]{head} under [water_1]{water} for a [short_1]{short} time, often in rough [play_1]{play}",
+      "entry": "duck",
+      "id": "duck_2#duck_2__4"
+    },
+    {
+      "comment": "to move [noisy#noisy__7]{noisily} in [water_1]{water}",
+      "entry": "splash",
+      "id": "splash_1#splash_1__8"
+    },
+    {
+      "comment": "to [push_1]{push} someone\u2019s [head_1]{head} and [shoulder_1]{shoulders} under [water_1]{water} as a [joke_1]{joke}",
+      "entry": "dunk",
+      "id": "dunk#dunk__3"
+    },
+    {
+      "comment": "to go [completely]{completely} under [water_1]{water}",
+      "entry": "submerge",
+      "id": "submerge#submerge__3"
+    }
+  ],
+  "thesaurus": "To move, or to make something move in water",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [remove]{remove} something or someone from [inside_1]{inside} or under something by [moving]{moving} them toward you",
+      "entry": "pull",
+      "id": "pull_1#pull_1__1"
+    },
+    {
+      "comment": "to [pull_1]{pull} or take something [away_1]{away} [quickly]{quickly}",
+      "entry": "snatch",
+      "id": "snatch_1#snatch_1__1"
+    },
+    {
+      "comment": "to [remove]{remove} something [quickly]{quickly} by [pull_1]{pulling} [hard_1]{hard}",
+      "entry": "rip",
+      "id": "rip_1#rip_1__11"
+    },
+    {
+      "comment": "to [pull_1]{pull} something [gently]{gently} from somewhere",
+      "entry": "draw",
+      "id": "draw_1#draw_1__15"
+    },
+    {
+      "comment": "to [remove]{remove} something by [pull_1]{pulling} it [away_1]{away} from something else with [force_1]{force}",
+      "entry": "tear",
+      "id": "tear_1#tear_1__11"
+    },
+    {
+      "comment": "to [pull_1]{pull} something [away_1]{away} from someone [use_1]{using} [force_1]{force}",
+      "entry": "wrest",
+      "id": "wrest#wrest__3"
+    },
+    {
+      "comment": "to [pull_1]{pull} a [piece_1]{piece} of [fruit_1]{fruit} from a [tree]{tree}, or a [flower_1]{flower} or [leaf_1]{leaf} from a [plant_1]{plant}",
+      "entry": "pluck",
+      "id": "pluck_1#pluck_1__3"
+    },
+    {
+      "comment": "to [pull_1]{pull} someone or something out of the [water_1]{water}",
+      "entry": "fish out",
+      "id": "fish-out#fish-out__1"
+    },
+    {
+      "comment": "to use [force_1]{force} to [remove]{remove} something that is [attached]{attached} into or onto something else",
+      "entry": "pull",
+      "id": "pull_1#pull_1__14"
+    },
+    {
+      "comment": "to [pull_1]{pull} something out of a [bag_1]{bag} or other [container]{container}",
+      "entry": "fish out",
+      "id": "fish-out#fish-out__3"
+    }
+  ],
+  "thesaurus": "To remove by pulling",
+  "type": "Synonyms"
+}

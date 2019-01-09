@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "keep score",
+  "senses": [
+    {
+      "def": "to keep a [record_1]{record} of the [score_1]{score} in a [game_1]{game}",
+      "examples": [],
+      "id": "keep-score__1"
+    },
+    {
+      "def": "to [count_1]{count} the [number_1]{number} of times that something [happen]{happens}",
+      "examples": [
+        "It\u2019s not the first time they\u2019ve [beaten]{beaten} us, but who\u2019s [keeping]{keeping} [score_1]{score}?"
+      ],
+      "id": "keep-score__2"
+    }
+  ]
+}

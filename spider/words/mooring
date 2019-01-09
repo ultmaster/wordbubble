@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [place_1]{place} where a [boat]{boat} or [ship_1]{ship} can be [tied]{tied} up",
+      "examples": [],
+      "id": "mooring__1"
+    },
+    {
+      "def": "the [rope_1]{ropes} or [chain_1]{chains} that a [boat]{boat} or [ship_1]{ship} is [tied]{tied} to",
+      "examples": [
+        "The [vessel]{vessel} had [lost_1]{lost} its mooring and was [drift_1]{drifting}."
+      ],
+      "id": "mooring__2"
+    }
+  ],
+  "word": "mooring"
+}

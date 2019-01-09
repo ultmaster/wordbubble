@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "pack away",
+  "senses": [
+    {
+      "def": "to put something back into the [container]{container} where it is [store_2]{stored}, after you have [finished]{finished} [use_1]{using} it",
+      "examples": [
+        "We [packed]{packed} [away_1]{away} the [picnic_1]{picnic} [thing]{things} and [start_1]{started} [walking_1]{walking} [home_1]{home}."
+      ],
+      "id": "pack-away__1"
+    },
+    {
+      "def": "to [eat]{eat} a [large_1]{large} [quantity]{quantity} of [food]{food}",
+      "examples": [
+        "She can [really]{really} [pack_1]{pack} it [away_1]{away}."
+      ],
+      "id": "pack-away__3"
+    }
+  ]
+}

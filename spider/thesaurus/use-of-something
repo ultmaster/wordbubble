@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [particular_1]{particular} use that something has",
+      "entry": "application",
+      "id": "application#application__9"
+    },
+    {
+      "comment": "the use of something such as [fuel_1]{fuel} or [energy]{energy}, or the amount that [people_1]{people} use",
+      "entry": "consumption",
+      "id": "consumption#consumption__5"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} use of something so that you gain as much as [possible_1]{possible} from it",
+      "entry": "exploitation",
+      "id": "exploitation#exploitation__4"
+    },
+    {
+      "comment": "the [process_1]{process} of [use_1]{using} something",
+      "entry": "usage",
+      "id": "usage#usage__6"
+    },
+    {
+      "comment": "[used]{used} about the way that something such as a [rule_1]{rule} or an [idea]{idea} is [used]{used}",
+      "entry": "operation",
+      "id": "operation#operation__17"
+    },
+    {
+      "comment": "the use of a [particular_1]{particular} [method]{method}, [process_1]{process}, [law]{law}, etc.",
+      "entry": "application",
+      "id": "application#application__11"
+    },
+    {
+      "comment": "the [process_1]{process} of [implement_1]{implementing} something",
+      "entry": "implementation",
+      "id": "implementation#implementation__1"
+    },
+    {
+      "comment": "the [continuous]{continuous} use that something has over a [period_1]{period} of time",
+      "entry": "wear",
+      "id": "wear_2#wear_2__1"
+    },
+    {
+      "comment": "the [decision_1]{decision} to use or [accept]{accept} a [particular_1]{particular} [idea]{idea}, [method]{method}, [law]{law}, or [attitude]{attitude}",
+      "entry": "adoption",
+      "id": "adoption#adoption__4"
+    },
+    {
+      "comment": "someone who [use_1]{uses} something such as a [service_1]{service} or a [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "user",
+      "id": "user#user__1"
+    }
+  ],
+  "thesaurus": "Use of something",
+  "type": "Synonyms"
+}

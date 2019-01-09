@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "measure up",
+  "senses": [
+    {
+      "def": "to be [good_1]{good} enough",
+      "examples": [
+        "The [machine_1]{machines} are being [tried_1]{tried} out to see how they [measure_1]{measure} up.",
+        "Will he [measure_1]{measure} up to the [challenge_1]{challenges} that [lie_1]{lie} [ahead]{ahead} of him?"
+      ],
+      "id": "measure-up__1"
+    },
+    {
+      "def": "to [measure_1]{measure} something in [preparation]{preparation} for [making]{making}, [building]{building}, or [fitting_1]{fitting} something else",
+      "examples": [
+        "I [measure_1]{measure} up the [board_1]{boards} and then [joe_2]{Joe} [cut_1]{cuts} them."
+      ],
+      "id": "measure-up__4"
+    }
+  ]
+}

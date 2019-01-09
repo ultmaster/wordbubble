@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "there is/are etc.",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that someone or something is in a [particular_1]{particular} [place_1]{place}",
+      "examples": [
+        "There\u2019s a [woman]{woman} in the other [room_1]{room} who [want_1]{wants} to [talk_1]{talk} to you.",
+        "How many [people_1]{people} were there at the [concert]{concert}?"
+      ],
+      "id": "there-is-are-etc__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that someone or something [exist]{exists} or that something [happen]{happens}",
+      "examples": [
+        "There is a [small_1]{small} [problem]{problem} that we [need_1]{need} to [discuss]{discuss}.",
+        "There have already been four serious [accident]{accidents} on this [stretch_1]{stretch} of [road]{road}."
+      ],
+      "id": "there-is-are-etc__4"
+    }
+  ]
+}

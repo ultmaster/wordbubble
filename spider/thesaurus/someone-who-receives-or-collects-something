@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who will [receive]{receive} [money]{money}, [property]{property}, or a [title]{title} when another [person]{person} [die_1]{dies}",
+      "entry": "heir",
+      "id": "heir#heir__1"
+    },
+    {
+      "comment": "the next [person]{person} to have a [particular_1]{particular} [job_1]{job} or to [continue]{continue} someone\u2019s [work_1]{work} or [idea]{ideas}",
+      "entry": "heir",
+      "id": "heir#heir__5"
+    },
+    {
+      "comment": "someone who [get]{gets} [money]{money} or other [thing]{things} from someone who has [die_1]{died}",
+      "entry": "beneficiary",
+      "id": "beneficiary#beneficiary__1"
+    },
+    {
+      "comment": "someone who [accept]{accepts} or [want_1]{wants} something that is [offer_1]{offered}",
+      "entry": "taker",
+      "id": "taker#taker__1"
+    },
+    {
+      "comment": "someone who inherits something",
+      "entry": "inheritor",
+      "id": "inheritor#inheritor__1"
+    },
+    {
+      "comment": "someone who [take_1]{takes} something",
+      "entry": "taker",
+      "id": "taker#taker__3"
+    },
+    {
+      "comment": "someone who [receive]{receives} something from someone else",
+      "entry": "receiver",
+      "id": "receiver#receiver__5"
+    },
+    {
+      "comment": "someone who [receive]{receives} something",
+      "entry": "recipient",
+      "id": "recipient#recipient__1"
+    },
+    {
+      "comment": "the [person]{person} that a [letter_1]{letter} or [package_1]{package} is [address_2]{addressed} to",
+      "entry": "addressee",
+      "id": "addressee#addressee__1"
+    },
+    {
+      "comment": "someone who [like_2]{likes} to [collect_1]{collect} and keep [thing]{things}",
+      "entry": "magpie",
+      "id": "magpie#magpie__3"
+    }
+  ],
+  "thesaurus": "Someone who receives or collects something",
+  "type": "Synonyms"
+}

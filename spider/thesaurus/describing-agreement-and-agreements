@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [agreed]{agreed} [price_1]{price}, [limit_1]{limit}, [date_1]{date}, etc. is one that [people_1]{people} have [talk_1]{talked} about and [accepted]{accepted}",
+      "entry": "agreed",
+      "id": "agreed#agreed__1"
+    },
+    {
+      "comment": "if an [agreement]{agreement}, [contract_1]{contract}, [decision_1]{decision}, etc. is [binding_1]{binding}, you must do what it [say_1]{says}",
+      "entry": "binding",
+      "id": "binding_1#binding_1__1"
+    },
+    {
+      "comment": "[qualified]{qualified} [support_1]{support} or [agreement]{agreement} is not [completely]{completely} [positive_1]{positive} because someone has some [doubt_1]{doubts} or [criticism]{criticisms}",
+      "entry": "qualified",
+      "id": "qualified#qualified__1"
+    },
+    {
+      "comment": "[agreed]{agreed} to or [state_2]{stated} in a [contract_1]{contract}",
+      "entry": "contractual",
+      "id": "contractual#contractual__1"
+    },
+    {
+      "comment": "a [renewable]{renewable} [contract_1]{contract}, [agreement]{agreement}, etc. can be [continued]{continued} for a [long_1]{longer} [period_1]{period} of time",
+      "entry": "renewable",
+      "id": "renewable#renewable__1"
+    },
+    {
+      "comment": "a [unanimous]{unanimous} [decision_1]{decision}, [vote_1]{vote}, [agreement]{agreement}, etc. is one that everyone [agree]{agrees} with and [support_1]{supports}",
+      "entry": "unanimous",
+      "id": "unanimous#unanimous__1"
+    },
+    {
+      "comment": "if there is [broad_1]{broad} [agreement]{agreement} about something, most [people_1]{people} [agree]{agree} about it in a [general_1]{general} way, even if they do not [agree]{agree} on all its [detail_1]{details}",
+      "entry": "broad",
+      "id": "broad_1#broad_1__13"
+    },
+    {
+      "comment": "[agreed]{agreed} to by all the [people_1]{people} [involved]{involved}",
+      "entry": "consensual",
+      "id": "consensual#consensual__1"
+    },
+    {
+      "comment": "something that is [broadly]{broadly} [accepted]{accepted} is [accepted]{accepted} by most [people_1]{people} in a [general_1]{general} way, even if they do not [agree]{agree} about all the [detail_1]{details}",
+      "entry": "broadly",
+      "id": "broadly#broadly__1"
+    },
+    {
+      "comment": "to be [agreed]{agreed} without [have]{having} to be [discuss]{discussed}",
+      "entry": "be understood",
+      "id": "be-understood#be-understood__1"
+    }
+  ],
+  "thesaurus": "Describing agreement and agreements",
+  "type": "Synonyms"
+}

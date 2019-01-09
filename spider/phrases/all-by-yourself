@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "(all) by yourself",
+  "senses": [
+    {
+      "def": "without [help_1]{help} from anyone else",
+      "examples": [
+        "[did]{Did} you [paint_1]{paint} the [room_1]{room} all by yourself?"
+      ],
+      "id": "all-by-yourself__1"
+    },
+    {
+      "def": "alone",
+      "examples": [
+        "I\u2019m [sure_1]{sure} you [like_1]{like} to be by yourself sometimes."
+      ],
+      "id": "all-by-yourself__3"
+    }
+  ]
+}

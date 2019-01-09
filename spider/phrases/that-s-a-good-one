@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "that\u2019s a good one",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} a [joke_1]{joke} is very [funny]{funny}",
+      "examples": [],
+      "id": "that-s-a-good-one__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} that what someone has [said_1]{said} is not [true_1]{true} and is [intended_1]{intended} to [trick_1]{trick} you",
+      "examples": [
+        "You were [invite_1]{invited} to the [white_1]{White} [house_1]{House}? That\u2019s a [good_1]{good} one!"
+      ],
+      "id": "that-s-a-good-one__2"
+    }
+  ]
+}

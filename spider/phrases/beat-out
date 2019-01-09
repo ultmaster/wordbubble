@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "beat out",
+  "senses": [
+    {
+      "def": "to [succeed]{succeed} in [winning]{winning} or [gain_1]{gaining} something that someone else [want_1]{wants}",
+      "examples": [
+        "Atlanta [beat_1]{beat} out Athens for the [privilege]{privilege} of [host_2]{hosting} the 1996 Olympics."
+      ],
+      "id": "beat-out__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [tell_1]{tell} you something by [hit_1]{hitting} them",
+      "examples": [
+        "He [claim_1]{claims} that the [confession]{confession} was [beaten]{beaten} out of him."
+      ],
+      "id": "beat-out__3"
+    },
+    {
+      "def": "to [make_1]{make} a [pattern_1]{pattern} of [sound_1]{sounds} by [hit_1]{hitting} an [instrument]{instrument} or other [object_1]{object}",
+      "examples": [
+        "[drummer]{drummers} [beating]{beating} out a [rhythm]{rhythm}"
+      ],
+      "id": "beat-out__5"
+    },
+    {
+      "def": "to [stop_1]{stop} a fire from [burning]{burning} by [hit_1]{hitting} it with something",
+      "examples": [
+        "She [beat_1]{beat} out the [flame_1]{flames} with a [branch_1]{branch}."
+      ],
+      "id": "beat-out__7"
+    }
+  ]
+}

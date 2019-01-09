@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "spread out",
+  "senses": [
+    {
+      "def": "if [people_1]{people} in a [group_1]{group} [spread_1]{spread} out, they move [away_1]{away} from one another so that they [cover_1]{cover} a [large_1]{large} [area]{area}",
+      "examples": [
+        "[let_1]{Let}\u2019s [spread_1]{spread} out more and [search_1]{search} the whole [field_1]{field}."
+      ],
+      "id": "spread-out__1"
+    },
+    {
+      "def": "to [separate_1]{separate} [thing]{things} that were together and put them [separate_1#separate_1__13]{separately} on a [surface_1]{surface}",
+      "examples": [
+        "We [spread_1]{spread} our [paper_1]{papers} out on the [table_1]{table}."
+      ],
+      "id": "spread-out__3"
+    },
+    {
+      "def": "to [cover_1]{cover} a [large_1]{large} [area]{area} of [land_1]{land} that you can see in front of you",
+      "examples": [
+        "She [gaze_1]{gazed} at the [sprawling]{sprawling} [city]{city} [spread_1]{spread} out below her."
+      ],
+      "id": "spread-out__7"
+    },
+    {
+      "def": "to put [people_1]{people} in many [part_1]{parts} of a [large_1]{large} [area]{area}",
+      "examples": [
+        "The [peacekeeping]{peacekeeping} [force_1]{forces} are now [spread_1]{spread} out over most of the [country]{country}."
+      ],
+      "id": "spread-out__9"
+    }
+  ]
+}

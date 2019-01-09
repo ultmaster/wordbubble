@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "ship out",
+  "senses": [
+    {
+      "def": "to move [goods]{goods} or [people_1]{people} [away_1]{away} from a [place_1]{place}",
+      "examples": [
+        "[thousand#thousand__2]{Thousands} of [tons]{tons} of [steel_1]{steel} were [ship_2]{shipped} out from the [dock_1]{docks}."
+      ],
+      "id": "ship-out__1"
+    },
+    {
+      "def": "to [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "The [situation]{situation} [look_1]{looked} [bad_1]{bad} and [tourist]{tourists} were [shipping]{shipping} out."
+      ],
+      "id": "ship-out__3"
+    }
+  ]
+}

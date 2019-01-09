@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "report back",
+  "senses": [
+    {
+      "def": "to [tell_1]{tell} or [send_1]{send} someone [information]{information} that you have [discover]{discovered}",
+      "examples": [
+        "[investigator]{Investigators} will [report_1]{report} back with their [findings]{findings} as [soon]{soon} as [possible_1]{possible}.",
+        "He [promise_1]{promised} to [investigate]{investigate} it and then [report_1]{report} back to the [committee]{committee}."
+      ],
+      "id": "report-back__1"
+    },
+    {
+      "def": "to [return_1]{return} to a [place_1]{place} in [order_1]{order} to [say_1]{say} that you are [present_1]{present} or ready to [start_1]{start} [working]{working} again",
+      "examples": [
+        "[striking]{Striking} [worker]{workers} should [report_1]{report} back to their [supervisor]{supervisors} on Monday."
+      ],
+      "id": "report-back__4"
+    }
+  ]
+}

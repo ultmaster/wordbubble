@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[feeling_1]{feeling} [guilty]{guilty} or [embarrassed]{embarrassed} because you have done something [wrong_1]{wrong}, or [think_1]{think} that you have not [reach_1]{reached} a [standard_1]{standard} that [people_1]{people} [expect]{expect}",
+      "entry": "ashamed",
+      "id": "ashamed#ashamed__1"
+    },
+    {
+      "comment": "[ashamed]{ashamed} of something and [worried]{worried} about what other [people_1]{people} will [think_1]{think} of you",
+      "entry": "embarrassed",
+      "id": "embarrassed#embarrassed__1"
+    },
+    {
+      "comment": "[ashamed]{ashamed} and [sorry]{sorry} because you have done something [wrong_1]{wrong}",
+      "entry": "guilty",
+      "id": "guilty#guilty__1"
+    },
+    {
+      "comment": "[ashamed]{ashamed}, [embarrassed]{embarrassed}, or [unhappy]{unhappy} about something that you have done",
+      "entry": "sorry",
+      "id": "sorry#sorry__6"
+    },
+    {
+      "comment": "[embarrassed]{embarrassed} because of something [stupid_1]{stupid} that you have done",
+      "entry": "foolish",
+      "id": "foolish#foolish__6"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [embarrassed]{embarrassed} or [nervous]{nervous}",
+      "entry": "uncomfortable",
+      "id": "uncomfortable#uncomfortable__9"
+    },
+    {
+      "comment": "very [sorry]{sorry} or [ashamed]{ashamed} because you have done something [bad_1]{bad}",
+      "entry": "contrite",
+      "id": "contrite#contrite__1"
+    },
+    {
+      "comment": "[ashamed]{ashamed} and [sorry]{sorry} because you [recognize]{recognize} that you have done something [wrong_1]{wrong}",
+      "entry": "repentant",
+      "id": "repentant#repentant__1"
+    },
+    {
+      "comment": "[embarrassed]{embarrassed} or [ashamed]{ashamed} about something that you have done",
+      "entry": "abashed",
+      "id": "abashed#abashed__1"
+    },
+    {
+      "comment": "to [feel_1]{feel} or [look_1]{look} [ashamed]{ashamed} or [unimportant]{unimportant}, [especially]{especially} because of something that someone has [said_1]{said} or done",
+      "entry": "feel/look small",
+      "id": "feel-look-small#feel-look-small__1"
+    }
+  ],
+  "thesaurus": "Feeling ashamed or embarrassed",
+  "type": "Synonyms"
+}

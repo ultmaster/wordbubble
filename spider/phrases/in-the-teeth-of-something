@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in the teeth of something",
+  "senses": [
+    {
+      "def": "[despite]{despite} something such as [problem]{problems} or [difficulty]{difficulties}",
+      "examples": [
+        "The bill was [pass_1]{passed} in the [teeth]{teeth} of [strong]{strong} [opposition]{opposition}."
+      ],
+      "id": "in-the-teeth-of-something__1"
+    },
+    {
+      "def": "against the [force_1]{force} of a [strong]{strong} [wind_1]{wind}",
+      "examples": [
+        "She [struggle_1]{struggled} across the [moor_1]{moor} in the [teeth]{teeth} of [gale]{gale} [force_1]{force} [wind_1]{winds}."
+      ],
+      "id": "in-the-teeth-of-something__3"
+    }
+  ]
+}

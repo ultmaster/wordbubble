@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "not [healthy]{healthy}, because of a [medical_1]{medical} [condition_1]{condition} or an [injury]{injury}",
+      "entry": "ill",
+      "id": "ill_1#ill_1__1"
+    },
+    {
+      "comment": "[physically]{physically} [weak]{weak} and not very [healthy]{healthy}",
+      "entry": "frail",
+      "id": "frail#frail__1"
+    },
+    {
+      "comment": "not [feeling_1]{feeling} [healthy]{healthy} or [strong]{strong} because you do not take [regular_1]{regular} [exercise_1]{exercise}",
+      "entry": "unfit",
+      "id": "unfit#unfit__1"
+    },
+    {
+      "comment": "[sick_1]{sicker} than before",
+      "entry": "worse",
+      "id": "worse_1#worse_1__6"
+    },
+    {
+      "comment": "not very [strong]{strong} or [healthy]{healthy}",
+      "entry": "fragile",
+      "id": "fragile#fragile__10"
+    },
+    {
+      "comment": "[used]{used} about a [person]{person} or [animal_1]{animal} that has an [infectious]{infectious} [disease]{disease}",
+      "entry": "infectious",
+      "id": "infectious#infectious__3"
+    },
+    {
+      "comment": "[sick_1]{sick}, or not [physically]{physically} [fit_1]{fit}",
+      "entry": "unhealthy",
+      "id": "unhealthy#unhealthy__1"
+    },
+    {
+      "comment": "no [long_1]{longer} [strong]{strong} or [healthy]{healthy}",
+      "entry": "failing",
+      "id": "failing_2#failing_2__1"
+    },
+    {
+      "comment": "[sick_1]{sick}",
+      "entry": "unwell",
+      "id": "unwell#unwell__1"
+    },
+    {
+      "comment": "if you are [sick_1]{sick}, you do not [feel_1]{feel} well",
+      "entry": "sick",
+      "id": "sick_1#sick_1__1"
+    },
+    {
+      "comment": "[suffering]{suffering} from the [effect_1]{effects} of [drinking]{drinking} too much [alcohol]{alcohol}",
+      "entry": "babalaas",
+      "id": "babalaas_2#babalaas_2__1"
+    }
+  ],
+  "thesaurus": "Feeling and being unhealthy or ill",
+  "type": "Synonyms"
+}

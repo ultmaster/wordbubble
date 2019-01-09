@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "the way that someone [walk_1]{walks}",
+      "entry": "gait",
+      "id": "gait#gait__1"
+    },
+    {
+      "comment": "a way of [walking_1]{walking} that is [affected]{affected} by an [injured]{injured} [leg_1]{leg} or [foot_1]{foot}",
+      "entry": "limp",
+      "id": "limp_3#limp_3__1"
+    },
+    {
+      "comment": "a [step_1]{step} that you take when you [walk_1]{walk} or [run_1]{run}",
+      "entry": "pace",
+      "id": "pace_1#pace_1__7"
+    },
+    {
+      "comment": "a [slow_1]{slow} [noisy]{noisy} way of [walking_1]{walking}",
+      "entry": "shuffle",
+      "id": "shuffle_2#shuffle_2__1"
+    },
+    {
+      "comment": "a way of [walking_1]{walking} in which you [stagger_1]{stagger}",
+      "entry": "stagger",
+      "id": "stagger_2#stagger_2__1"
+    },
+    {
+      "comment": "a [short_1]{short} [movement]{movement} made by [put]{putting} one [foot_1]{foot} in front of the other",
+      "entry": "step",
+      "id": "step_1#step_1__1"
+    },
+    {
+      "comment": "the [particular_1]{particular} way that someone [walk_1]{walks}, that sometimes [show_1]{shows} how they are [feeling_1]{feeling}",
+      "entry": "step",
+      "id": "step_1#step_1__11"
+    },
+    {
+      "comment": "a long [confident]{confident} [step_1]{step}",
+      "entry": "stride",
+      "id": "stride_1#stride_1__1"
+    },
+    {
+      "comment": "a way of [walking_1]{walking} with long [step_1]{steps}",
+      "entry": "stride",
+      "id": "stride_1#stride_1__3"
+    },
+    {
+      "comment": "the [distance_1]{distance} that you go in one long [step_1]{step}",
+      "entry": "stride",
+      "id": "stride_1#stride_1__5"
+    },
+    {
+      "comment": "a [proud]{proud} and [confident]{confident} way of [walking_1]{walking}",
+      "entry": "strut",
+      "id": "strut_2#strut_2__2"
+    },
+    {
+      "comment": "the way that someone [walk_1]{walks}",
+      "entry": "walk",
+      "id": "walk_2#walk_2__5"
+    }
+  ],
+  "thesaurus": "Ways of walking",
+  "type": "Related words"
+}

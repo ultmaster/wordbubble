@@ -1,0 +1,191 @@
+{
+  "entries": [
+    {
+      "comment": "to be [attack_2]{attacked} with [guns]{guns}",
+      "entry": "come under fire",
+      "id": "come-under-fire#come-under-fire__3"
+    },
+    {
+      "comment": "[protection]{protection} from [attack_1]{attack}, [especially]{especially} from someone with a [gun_1]{gun}",
+      "entry": "cover",
+      "id": "cover_2#cover_2__12"
+    },
+    {
+      "comment": "[bullet]{bullets} coming from two [direction]{directions}, [fire_2]{fired} by two [people_1]{people} or [army]{armies} who are [shooting]{shooting} at each other",
+      "entry": "crossfire",
+      "id": "crossfire#crossfire__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [fire_2]{firing} a [weapon]{weapon}",
+      "entry": "discharge",
+      "id": "discharge_2#discharge_2__12"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a [situation]{situation} in which someone is [shot_1]{shot} from a [moving]{moving} [car]{car}",
+      "entry": "drive-by",
+      "id": "drive-by_1#drive-by_1__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [shooting]{shooting} someone from a [moving]{moving} [car]{car}",
+      "entry": "drive-by",
+      "id": "drive-by_2#drive-by_2__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone [shoot_1]{shoots} at another [person]{person} and the other [person]{person} [shoot_1]{shoots} back",
+      "entry": "exchange",
+      "id": "exchange_1#exchange_1__6"
+    },
+    {
+      "comment": "[shot_2]{shots} from a [gun_1]{gun}",
+      "entry": "fire",
+      "id": "fire_1#fire_1__14"
+    },
+    {
+      "comment": "a [fight_1]{fight} in which [guns]{guns} are [used]{used}, [involve]{involving} [soldier_1]{soldiers} or the [police_1]{police}",
+      "entry": "fire fight",
+      "id": "fire-fight#fire-fight__1"
+    },
+    {
+      "comment": "[shot_2]{shots} [fire_2]{fired} at you [accidentally]{accidentally} by [soldier_1]{soldiers} from your own [army]{army}",
+      "entry": "friendly fire",
+      "id": "friendly-fire#friendly-fire__1"
+    },
+    {
+      "comment": "a [series]{series} of [shot_2]{shots} [fire_2]{fired} from several [guns]{guns} at the same time",
+      "entry": "fusillade",
+      "id": "fusillade#fusillade__1"
+    },
+    {
+      "comment": "[law]{laws} that [prevent]{prevent} [people_1]{people} from [keeping]{keeping} and [use_1]{using} [guns]{guns}",
+      "entry": "gun control",
+      "id": "gun-control#gun-control__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} between [people_1]{people} [use_1]{using} [guns]{guns}",
+      "entry": "gunfight",
+      "id": "gunfight#gunfight__1"
+    },
+    {
+      "comment": "[shot_2]{shots} from [guns]{guns}",
+      "entry": "gunfire",
+      "id": "gunfire#gunfire__1"
+    },
+    {
+      "comment": "the [sound_1]{sound} made by [guns]{guns} being [shot_1]{shot}",
+      "entry": "gunfire",
+      "id": "gunfire#gunfire__3"
+    },
+    {
+      "comment": "the [sound_1]{sound} that is made when someone [fire_1]{fires} a [gun_1]{gun}",
+      "entry": "gunshot",
+      "id": "gunshot#gunshot__1"
+    },
+    {
+      "comment": "in a [position_1]{position} where you will be [hurt_1]{hurt} if someone [shoot_1]{shoots} a [gun_1]{gun}",
+      "entry": "in the line of fire",
+      "id": "in-the-line-of-fire#in-the-line-of-fire__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [shoot_1]{shoot} [skillful#skillful__5]{skillfully}",
+      "entry": "marksmanship",
+      "id": "marksmanship#marksmanship__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [gun_1]{gun} or an [engine]{engine} [does]{does} not [work_1]{work} in the [right_1]{right} way",
+      "entry": "misfire",
+      "id": "misfire_2#misfire_2__1"
+    },
+    {
+      "comment": "the [national_1]{National} [rifle_1]{Rifle} [association]{Association}: an [organization]{organization} in the U.S. that [support_1]{supports} [own_2]{owning} [guns]{guns}",
+      "entry": "the NRA",
+      "id": "the-nra#the-nra__1"
+    },
+    {
+      "comment": "with the [gun_1]{gun} [held]{held} very [close_1]{close} to the [person]{person} who is [shot_1]{shot}",
+      "entry": "point-blank",
+      "id": "point-blank#point-blank__4"
+    },
+    {
+      "comment": "an [open_1]{open} [area]{area} of [land_1]{land} where [people_1]{people} can [practice_1]{practice} [fire_2]{firing} [guns]{guns}",
+      "entry": "range",
+      "id": "range_1#range_1__24"
+    },
+    {
+      "comment": "the [sudden_1]{sudden} [backward_1]{backward} [movement]{movement} of a [gun_1]{gun} when it is [fire_2]{fired}",
+      "entry": "recoil",
+      "id": "recoil_2#recoil_2__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [loud_1]{loud} [noise]{noise} [cause_2]{caused} by a [gun_1]{gun} or an [explosion]{explosion}",
+      "entry": "report",
+      "id": "report_1#report_1__19"
+    },
+    {
+      "comment": "a place where people practice shooting with a rifle",
+      "entry": "rifle range",
+      "id": "rifle-range#rifle-range__1"
+    },
+    {
+      "comment": "a [game_1]{game} in which [people_1]{people} [shoot_1]{shoot} themselves with a [gun_1]{gun} that can [hold_1]{hold} six [bullet]{bullets} but has only one in it, so that they do not [know_1]{know} if they will be [kill_1]{killed}",
+      "entry": "Russian roulette",
+      "id": "russian-roulette#russian-roulette__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [fire_2]{firing} a [number_1]{number} of [guns]{guns} or other [weapon]{weapons} at the same time",
+      "entry": "salvo",
+      "id": "salvo#salvo__1"
+    },
+    {
+      "comment": "a [violent]{violent} [act_1]{act} in which someone, [usually]{usually} a [student]{student}, [use_1]{uses} a [gun_1]{gun} to [kill_1]{kill} or [injure]{injure} [teacher]{teachers}, [student]{students}, and [staff_1]{staff}",
+      "entry": "school shooting",
+      "id": "school-shooting#school-shooting__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone is [attack_2]{attacked} by a [person]{person} with a [gun_1]{gun}",
+      "entry": "shooting",
+      "id": "shooting#shooting__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [practice_1]{practice} [shooting]{shooting} [object_1]{objects} with a [gun_1]{gun}",
+      "entry": "shooting gallery",
+      "id": "shooting-gallery#shooting-gallery__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} or [competition]{competition} [use_1]{using} [guns]{guns}",
+      "entry": "shooting match",
+      "id": "shooting-match#shooting-match__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} [use_1]{using} [guns]{guns}",
+      "entry": "shoot-out",
+      "id": "shoot-out#shoot-out__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [fire_2]{firing} a [gun_1]{gun}",
+      "entry": "shot",
+      "id": "shot_2#shot_2__1"
+    },
+    {
+      "comment": "a [sound_1]{sound} of a [gun_1]{gun} being [fire_2]{fired}",
+      "entry": "shot",
+      "id": "shot_2#shot_2__5"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to someone who [regularly]{regularly} [shoot_1]{shoots}, [especially]{especially} [relate]{relating} to how well or how [badly]{badly} they do it",
+      "entry": "shot",
+      "id": "shot_2#shot_2__7"
+    },
+    {
+      "comment": "a [competition]{competition} in which [people_1]{people} [shoot_1]{shoot} [guns]{guns} at [object_1]{objects}",
+      "entry": "turkey shoot",
+      "id": "turkey-shoot#turkey-shoot__3"
+    },
+    {
+      "comment": "a [lot_1]{lot} of [shot_2]{shots} from [guns]{guns} at the same time",
+      "entry": "volley",
+      "id": "volley_1#volley_1__5"
+    }
+  ],
+  "thesaurus": "Gunfire and shooting",
+  "type": "Related words"
+}

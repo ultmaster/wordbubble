@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "lock away",
+  "senses": [
+    {
+      "def": "to put something in a [place_1]{place} or [container]{container} which you [fasten]{fasten} with a [lock_1]{lock}",
+      "examples": [
+        "[valuable]{Valuable} [item]{items} should be [lock_1]{locked} [away_1]{away}."
+      ],
+      "id": "lock-away__1"
+    },
+    {
+      "def": "to put someone in a [prison]{prison}, or in a [hospital]{hospital} for [mental#mental__12]{mentally} ill [people_1]{people}",
+      "examples": [
+        "After the [murder_1]{murder} he was [lock_1]{locked} [away_1]{away} for 50 [year]{years}."
+      ],
+      "id": "lock-away__3"
+    },
+    {
+      "def": "to go somewhere where you can be alone",
+      "examples": [
+        "James [lock_1]{locked} [himself]{himself} [away_1]{away} in his [bedroom]{bedroom}."
+      ],
+      "id": "lock-away__5"
+    }
+  ]
+}

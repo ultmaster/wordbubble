@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "make a move",
+  "senses": [
+    {
+      "def": "to [change_1]{change} [position_1]{position}, or to move in a [particular_1]{particular} way or [direction]{direction}",
+      "examples": [
+        "Don\u2019t [make_1]{make} a move; they\u2019ll see you.",
+        "He made a [quick_1]{quick} move for his [gun_1]{gun}."
+      ],
+      "id": "make-a-move__1"
+    },
+    {
+      "def": "to [start_1]{start} [doing]{doing} something to [achieve]{achieve} a [goal]{goal} or [solve]{solve} a [problem]{problem}",
+      "examples": [
+        "No one made a move to [help_1]{help}."
+      ],
+      "id": "make-a-move__4"
+    },
+    {
+      "def": "to [begin]{begin} to [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "We should [make_1]{make} a move before it [get]{gets} any [later_1]{later}."
+      ],
+      "id": "make-a-move__6"
+    }
+  ]
+}

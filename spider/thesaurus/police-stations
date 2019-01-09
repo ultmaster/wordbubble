@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a [police_1]{police} [station_1]{station}",
+      "entry": "cop shop",
+      "id": "cop-shop#cop-shop__1"
+    },
+    {
+      "comment": "a [small_1]{small} [prison]{prison} in a [town]{town}, where the [police_1]{police} can keep a [criminal_1]{criminal} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "lockup",
+      "id": "lockup#lockup__1"
+    },
+    {
+      "comment": "the building where the local police force works",
+      "entry": "police station",
+      "id": "police-station#police-station__1"
+    },
+    {
+      "comment": "the [police_1]{police} [station_1]{station} that is in [charge_1]{charge} of a [particular_1]{particular} [district]{district} in a [town]{town} or [city]{city}",
+      "entry": "precinct",
+      "id": "precinct#precinct__3"
+    },
+    {
+      "comment": "a [local_1]{local} [police_1]{police} or fire [station_1]{station}",
+      "entry": "station house",
+      "id": "station-house#station-house__1"
+    },
+    {
+      "comment": "a room in a police station where prisoners are kept",
+      "entry": "tank",
+      "id": "tank_1#tank_1__10"
+    }
+  ],
+  "thesaurus": "Police stations",
+  "type": "Related words"
+}

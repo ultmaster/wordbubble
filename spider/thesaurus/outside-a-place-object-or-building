@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[outside]{outside}",
+      "entry": "outwith",
+      "id": "outwith#outwith__1"
+    },
+    {
+      "comment": "not [inside_1]{inside} a [building]{building}",
+      "entry": "outside",
+      "id": "outside#outside__2"
+    },
+    {
+      "comment": "[outside]{outside} a [particular_1]{particular} [area]{area}",
+      "entry": "beyond",
+      "id": "beyond_1#beyond_1__5"
+    },
+    {
+      "comment": "not in a [building]{building}",
+      "entry": "outdoors",
+      "id": "outdoors_1#outdoors_1__1"
+    },
+    {
+      "comment": "on or [relate]{relating} to the [outside]{outside} part of something",
+      "entry": "exterior",
+      "id": "exterior_2#exterior_2__1"
+    },
+    {
+      "comment": "not [inside_1]{inside} a [building]{building}",
+      "entry": "out",
+      "id": "out_1#out_1__17"
+    },
+    {
+      "comment": "on or from the [outside]{outside} of something such as a [building]{building} or someone\u2019s body",
+      "entry": "external",
+      "id": "external#external__7"
+    },
+    {
+      "comment": "on or around the [outside]{outside} of something",
+      "entry": "outer",
+      "id": "outer#outer__1"
+    },
+    {
+      "comment": "done [outside]{outside}",
+      "entry": "outdoor",
+      "id": "outdoor#outdoor__1"
+    },
+    {
+      "comment": "any [place_1]{place} that is [outside]{outside}",
+      "entry": "the open air",
+      "id": "the-open-air#the-open-air__1"
+    }
+  ],
+  "thesaurus": "Outside a place, object or building",
+  "type": "Synonyms"
+}

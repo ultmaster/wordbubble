@@ -1,0 +1,336 @@
+{
+  "entries": [
+    {
+      "comment": "the sixth note in the musical scale of C major",
+      "entry": "A",
+      "id": "a_1#a_1__2"
+    },
+    {
+      "comment": "the musical key based on the note B",
+      "entry": "b",
+      "id": "b_1#b_1__3"
+    },
+    {
+      "comment": "the seventh note of a musical scale in C major",
+      "entry": "B",
+      "id": "b_1#b_1__2"
+    },
+    {
+      "comment": "the [lower_1]{lower} [half]{half} of the full [range_1]{range} of [musical_1]{musical} [note_1]{notes}",
+      "entry": "bass",
+      "id": "bass_1#bass_1__5"
+    },
+    {
+      "comment": "the [main_1]{main} [pattern_1]{pattern} of [sound_1]{sounds} in a [piece_1]{piece} of [music]{music}, or the [strong]{strongest} [sound_1]{sounds} in this [pattern_1]{pattern}",
+      "entry": "beat",
+      "id": "beat_2#beat_2__6"
+    },
+    {
+      "comment": "a unit of measurement for a piece of music. Each measure has a particular number of beats",
+      "entry": "beat",
+      "id": "beat_2#beat_2__12"
+    },
+    {
+      "comment": "the first note in the musical scale of C major",
+      "entry": "C",
+      "id": "c_2#c_2__2"
+    },
+    {
+      "comment": "three or more [musical_1]{musical} [note_1]{notes} [play_1]{played} together",
+      "entry": "chord",
+      "id": "chord#chord__1"
+    },
+    {
+      "comment": "a [quarter_1]{quarter} [note_1]{note}",
+      "entry": "crotchet",
+      "id": "crotchet#crotchet__1"
+    },
+    {
+      "comment": "the second note in the musical scale of C major",
+      "entry": "D",
+      "id": "d_1#d_1__2"
+    },
+    {
+      "comment": "a thirty-second [note_1]{note}",
+      "entry": "demisemiquaver",
+      "id": "demisemiquaver#demisemiquaver__1"
+    },
+    {
+      "comment": "the first or eighth note in the sol-fa musical scale",
+      "entry": "do",
+      "id": "do_3#do_3__1"
+    },
+    {
+      "comment": "a musical note that is played or sung two semitones lower than usual",
+      "entry": "double flat",
+      "id": "double-flat#double-flat__1"
+    },
+    {
+      "comment": "a musical note that is played or sung two semitones higher than usual",
+      "entry": "double sharp",
+      "id": "double-sharp#double-sharp__1"
+    },
+    {
+      "comment": "the first beat of music in a measure",
+      "entry": "downbeat",
+      "id": "downbeat_2#downbeat_2__1"
+    },
+    {
+      "comment": "the [steady_1]{steady} [beat_1]{beat} of [music]{music} [play_1]{played} on [drum_1]{drums}",
+      "entry": "drumbeat",
+      "id": "drumbeat#drumbeat__2"
+    },
+    {
+      "comment": "the third note in the musical scale of C major",
+      "entry": "E",
+      "id": "e_1#e_1__2"
+    },
+    {
+      "comment": "a musical note played for one-eighth as long as a whole note",
+      "entry": "eighth note",
+      "id": "eighth-note#eighth-note__1"
+    },
+    {
+      "comment": "the fourth note in the musical scale of C major",
+      "entry": "F",
+      "id": "f_1#f_1__2"
+    },
+    {
+      "comment": "the fourth note in the sol-fa musical scale",
+      "entry": "fa",
+      "id": "fa#fa__1"
+    },
+    {
+      "comment": "a musical note that is one halftone lower than a particular note",
+      "entry": "flat",
+      "id": "flat_3#flat_3__3"
+    },
+    {
+      "comment": "the fifth note in the musical scale of C major",
+      "entry": "G",
+      "id": "g_1#g_1__2"
+    },
+    {
+      "comment": "a [grace_1]{grace} [note_1]{note}",
+      "entry": "grace",
+      "id": "grace_1#grace_1__19"
+    },
+    {
+      "comment": "an [extra_1]{extra} [musical_1]{musical} [note_1]{note} [added]{added} in a [piece_1]{piece} of [music]{music}",
+      "entry": "grace note",
+      "id": "grace-note#grace-note__1"
+    },
+    {
+      "comment": "a musical note that is equal to two quarter notes. The British word is minim.",
+      "entry": "half note",
+      "id": "half-note#half-note__1"
+    },
+    {
+      "comment": "an amount by which one sound is higher or lower than another, equal to 1/12 of an octave. This difference occurs between any two notes that are next to each other on a piano.",
+      "entry": "half step",
+      "id": "half-step#half-step__1"
+    },
+    {
+      "comment": "a half step",
+      "entry": "half tone",
+      "id": "half-tone#half-tone__1"
+    },
+    {
+      "comment": "a soft high note played on a stringed instrument by not pressing the string all the way down",
+      "entry": "harmonic",
+      "id": "harmonic_2#harmonic_2__1"
+    },
+    {
+      "comment": "a difference in pitch between two musical notes",
+      "entry": "interval",
+      "id": "interval#interval__7"
+    },
+    {
+      "comment": "a [set_1]{set} of [musical_1]{musical} [note_1]{notes} that are [base_2]{based} on one [particular_1]{particular} [note_1]{note}",
+      "entry": "key",
+      "id": "key_1#key_1__13"
+    },
+    {
+      "comment": "the sixth note in the sol-fa musical scale",
+      "entry": "la",
+      "id": "la_1#la_1__1"
+    },
+    {
+      "comment": "the third note in the sol-fa musical scale",
+      "entry": "mi",
+      "id": "mi_1#mi_1__1"
+    },
+    {
+      "comment": "the C [note_1]{note} that is [near_1]{near} the [middle_1]{middle} of the [keyboard_1]{keyboard} on a [piano_1]{piano}",
+      "entry": "middle C",
+      "id": "middle-c#middle-c__1"
+    },
+    {
+      "comment": "a [half]{half} [note_1]{note}",
+      "entry": "minim",
+      "id": "minim#minim__1"
+    },
+    {
+      "comment": "the [print_1]{printed} [symbol]{symbols} that [represent]{represent} the [sound_1]{sounds} of [music]{music} that [musician]{musicians} or [singer]{singers} read when they are [perform]{performing}",
+      "entry": "music",
+      "id": "music#music__8"
+    },
+    {
+      "comment": "a musical note that is not a sharp or a flat, or the written sign showing this",
+      "entry": "natural",
+      "id": "natural_2#natural_2__3"
+    },
+    {
+      "comment": "an individual sound in music. A group of notes played together is called a chord and a series of notes that form a separate set is called a scale",
+      "entry": "note",
+      "id": "note_1#note_1__21"
+    },
+    {
+      "comment": "a [written_1]{written} [sign_1]{sign} that [represent]{represents} a [musical_1]{musical} [note_1]{note}",
+      "entry": "note",
+      "id": "note_1#note_1__24"
+    },
+    {
+      "comment": "a series of eight musical notes in a musical scale",
+      "entry": "octave",
+      "id": "octave#octave__1"
+    },
+    {
+      "comment": "the lowest and highest notes of a musical scale played together",
+      "entry": "octave",
+      "id": "octave#octave__3"
+    },
+    {
+      "comment": "the [high_1]{high} or low [quality_1]{quality} of a [musical_1]{musical} [note_1]{note}",
+      "entry": "pitch",
+      "id": "pitch_1#pitch_1__1"
+    },
+    {
+      "comment": "a [strong]{strong} [regular_1]{regular} [beat_1]{beat} in [music]{music}",
+      "entry": "pulse",
+      "id": "pulse_1#pulse_1__10"
+    },
+    {
+      "comment": "a short musical note that is played for one quarter of the time of a whole note",
+      "entry": "quarter note",
+      "id": "quarter-note#quarter-note__1"
+    },
+    {
+      "comment": "an [eighth]{eighth} [note_1]{note}",
+      "entry": "quaver",
+      "id": "quaver_2#quaver_2__2"
+    },
+    {
+      "comment": "all the [musical_1]{musical} [note_1]{notes} that a [person]{person} can [sing_1]{sing} or an [instrument]{instrument} can [play_1]{play}, from the [high_1]{highest} to the [low_1]{lowest}",
+      "entry": "range",
+      "id": "range_1#range_1__11"
+    },
+    {
+      "comment": "the second note in the sol-fa musical scale",
+      "entry": "re",
+      "id": "re_2#re_2__1"
+    },
+    {
+      "comment": "the [range_1]{range} of [musical_1]{musical} [sound_1]{sounds} that a [voice_1]{voice} or a [musical_1]{musical} [instrument]{instrument} can [produce_1]{produce}",
+      "entry": "register",
+      "id": "register_2#register_2__6"
+    },
+    {
+      "comment": "the note that forms the base of a chord in music",
+      "entry": "root",
+      "id": "root_1#root_1__15"
+    },
+    {
+      "comment": "a [series]{series} of [musical_1]{musical} [note_1]{notes} in a [fixed]{fixed} [order_1]{order} from the [low_1]{lowest} to the [high_1]{highest} or the [high_1]{highest} to the [low_1]{lowest}",
+      "entry": "scale",
+      "id": "scale_1#scale_1__27"
+    },
+    {
+      "comment": "a whole [note_1]{note}",
+      "entry": "semibreve",
+      "id": "semibreve#semibreve__1"
+    },
+    {
+      "comment": "a [sixteenth]{sixteenth} [note_1]{note}",
+      "entry": "semiquaver",
+      "id": "semiquaver#semiquaver__1"
+    },
+    {
+      "comment": "a [half]{half} [step_1]{step}",
+      "entry": "semitone",
+      "id": "semitone#semitone__1"
+    },
+    {
+      "comment": "a musical note that is played or sung a half step higher than usual",
+      "entry": "sharp",
+      "id": "sharp_3#sharp_3__1"
+    },
+    {
+      "comment": "a musical note that continues for the length of one sixteenth of a whole note",
+      "entry": "sixteenth note",
+      "id": "sixteenth-note#sixteenth-note__1"
+    },
+    {
+      "comment": "the fifth note in the sol-fa musical scale",
+      "entry": "so",
+      "id": "so_2#so_2__1"
+    },
+    {
+      "comment": "the [musical_1]{musical} [note_1]{note} so",
+      "entry": "sol",
+      "id": "sol_1#sol_1__1"
+    },
+    {
+      "comment": "the musical system in which the notes in a scale are represented by the seven short words \u201cdo,\u201d \u201cre,\u201d \u201cmi,\u201d \u201cfa,\u201d \u201cso,\u201d \u201cla,\u201d and \u201cti\u201d",
+      "entry": "sol-fa",
+      "id": "sol-fa#sol-fa__1"
+    },
+    {
+      "comment": "the [middle_1]{middle} and [higher_1]{higher} [range_1]{range} of [musical_1]{musical} [note_1]{notes} [written_1]{written} for [men]{men} to [sing_1]{sing}",
+      "entry": "tenor",
+      "id": "tenor#tenor__1"
+    },
+    {
+      "comment": "the seventh note in the sol-fa musical scale",
+      "entry": "ti",
+      "id": "ti#ti__1"
+    },
+    {
+      "comment": "an amount equal to two half steps by which a musical note is higher or lower than another note",
+      "entry": "tone",
+      "id": "tone_1#tone_1__21"
+    },
+    {
+      "comment": "the first note in a musical scale",
+      "entry": "tonic",
+      "id": "tonic_1#tonic_1__9"
+    },
+    {
+      "comment": "the [high_1]{highest} [sound_1]{sounds} in [music]{music}",
+      "entry": "treble",
+      "id": "treble_1#treble_1__1"
+    },
+    {
+      "comment": "a [slight_1]{slight} [shake_1]{shaking} [sound_1]{sound} in a [musical_1]{musical} [note_1]{note} or in someone\u2019s [voice_1]{voice}",
+      "entry": "tremolo",
+      "id": "tremolo#tremolo__1"
+    },
+    {
+      "comment": "the [length]{length} of time that a [musical_1]{musical} [note_1]{note} [last_2]{lasts} for",
+      "entry": "value",
+      "id": "value_1#value_1__27"
+    },
+    {
+      "comment": "a [shake_1]{shaking} [effect_1]{effect} on a [musical_1]{musical} [note_1]{note}",
+      "entry": "vibrato",
+      "id": "vibrato#vibrato__1"
+    },
+    {
+      "comment": "a musical note that has the same value as two half notes",
+      "entry": "whole note",
+      "id": "whole-note#whole-note__1"
+    }
+  ],
+  "thesaurus": "Notes in the musical scale",
+  "type": "Related words"
+}

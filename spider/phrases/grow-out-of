@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "grow out of",
+  "senses": [
+    {
+      "def": "if [children]{children} [grow]{grow} out of [clothes]{clothes}, they [grow]{grow} [big_1]{bigger} and the [clothes]{clothes} become too [small_1]{small} for them",
+      "examples": [],
+      "id": "grow-out-of__1"
+    },
+    {
+      "def": "if someone [grow]{grows} out of a [habit]{habit}, they [stop_1]{stop} [doing]{doing} it, because they are [old]{older} or [wise_1]{wiser}",
+      "examples": [
+        "They [thought_1]{thought} I would [grow]{grow} out of my [fear_1]{fear} of [spider]{spiders}."
+      ],
+      "id": "grow-out-of__2"
+    },
+    {
+      "def": "to [develop]{develop} from something, or to [exist]{exist} as a [result_1]{result} of it",
+      "examples": [
+        "Other [issue_1]{issues} [grew]{grew} out of the [policy]{policy} [review_1]{review}.",
+        "The [poem]{poems} [grew]{grew} out of her [disturbed]{disturbed} [imagination]{imagination}."
+      ],
+      "id": "grow-out-of__4"
+    }
+  ]
+}

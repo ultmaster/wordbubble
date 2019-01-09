@@ -1,0 +1,31 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} two",
+      "examples": [
+        "This is the second [program_1]{program} in a [series]{series} on [rural]{rural} [health]{health}.",
+        "His [horse_1]{horse} [finished]{finished} second in the Kentucky [derby]{Derby}.",
+        "Goteborg is Sweden\u2019s second [large_1]{largest} [city]{city}."
+      ],
+      "id": "second_1__1"
+    },
+    {
+      "def": "in [addition]{addition} to the first one",
+      "examples": [
+        "The [bookcase]{bookcase} [need_1]{needs} a second [coat_1]{coat} of [paint_1]{paint}."
+      ],
+      "id": "second_1__5"
+    },
+    {
+      "def": "next in [quality_1]{quality} or [importance]{importance} after someone or something that is the [best_1]{best} or most [important]{important}",
+      "examples": [
+        "She was our second [choice_1]{choice} for the [job_1]{job}.",
+        "Gloria [play_1]{played} second [violin]{violin} in the [school_1]{school} [orchestra]{orchestra}.",
+        "In [term_1]{terms} of [career_1]{career} [point_1]{points}, he\u2019s second only to Jabbar."
+      ],
+      "id": "second_1__7"
+    }
+  ],
+  "word": "second"
+}

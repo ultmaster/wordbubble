@@ -1,0 +1,181 @@
+{
+  "entries": [
+    {
+      "comment": "the name of a user on a network or Internet system",
+      "entry": "account name",
+      "id": "account-name#account-name__1"
+    },
+    {
+      "comment": "[bring]{bring} your own [device]{device}: the [practice_1]{practice} of [allow]{allowing} [employee]{employees} or [student]{students} to [bring]{bring} their own [computing]{computing} [device]{devices} to [work_1]{work}, [college]{college}, etc and use them on the [organization]{organization}\u2019s [network_1]{network}",
+      "entry": "BYOD",
+      "id": "byod#byod__1"
+    },
+    {
+      "comment": "used for referring to a network  (=group of computers) in which each computer is either a client or a server. Clients are the individual computers that run programs, or the equipment connected to them such as printers, and servers are the powerful computers that supply the information that makes them work.",
+      "entry": "client-server",
+      "id": "client-server#client-server__1"
+    },
+    {
+      "comment": "an arrangement in which a company keeps computers that other companies use as their Internet servers all in one place",
+      "entry": "colocation",
+      "id": "colocation#colocation__1"
+    },
+    {
+      "comment": "an [instruction]{instruction} that you give to a computer to [make_1]{make} it do something",
+      "entry": "command",
+      "id": "command_1#command_1__3"
+    },
+    {
+      "comment": "to make it possible for someone to communicate using a computer network",
+      "entry": "connect up",
+      "id": "connect-up#connect-up__4"
+    },
+    {
+      "comment": "a computer network that only a small number of people have the right to use and that is mainly used for sharing computer files, often illegally",
+      "entry": "the darknet",
+      "id": "the-darknet#the-darknet__1"
+    },
+    {
+      "comment": "a piece of software that runs on a server computer on a network and allows users on different computers to be able to use a database",
+      "entry": "database server",
+      "id": "database-server#database-server__1"
+    },
+    {
+      "comment": "electronic data interchange: the movement of information between computers in different companies using a network, for example the Internet",
+      "entry": "EDI",
+      "id": "edi#edi__1"
+    },
+    {
+      "comment": "a computer that controls or performs a particular job for all the computers connected to a network",
+      "entry": "end system",
+      "id": "end-system#end-system__1"
+    },
+    {
+      "comment": "a system in which several [computer]{computers} in an [area]{area} are [directly_1]{directly} [connected]{connected} to each other by [wire_1]{wires}",
+      "entry": "Ethernet",
+      "id": "ethernet#ethernet__1"
+    },
+    {
+      "comment": "a network of websites and e-mail systems that can be used by people who belong to an organization and by some others outside the organization who have signed an agreement",
+      "entry": "extranet",
+      "id": "extranet#extranet__1"
+    },
+    {
+      "comment": "a computer that stores information that can be used by people with other computers connected to the same network",
+      "entry": "file server",
+      "id": "file-server#file-server__1"
+    },
+    {
+      "comment": "the sharing of computer files by several people working on different computers, especially using a computer network",
+      "entry": "file-sharing",
+      "id": "file-sharing#file-sharing__1"
+    },
+    {
+      "comment": "a computer network that allows people to publish and obtain information on the Internet without leaving any sign of who they are",
+      "entry": "freenet",
+      "id": "freenet#freenet__1"
+    },
+    {
+      "comment": "a way of connecting two computer networks so that information can pass between them",
+      "entry": "gateway",
+      "id": "gateway#gateway__7"
+    },
+    {
+      "comment": "the main computer in a network that controls certain processes or files",
+      "entry": "host",
+      "id": "host_1#host_1__12"
+    },
+    {
+      "comment": "a network  (=system connecting computers) within an organization that only members of that organization can use",
+      "entry": "intranet",
+      "id": "intranet#intranet__1"
+    },
+    {
+      "comment": "[local_1]{local} [area]{area} [network_1]{network}: a system that [allow]{allows} [computer]{computers} in the same [building]{building} or [group_1]{group} of [building]{buildings} to [communicate]{communicate} with each other",
+      "entry": "LAN",
+      "id": "lan#lan__1"
+    },
+    {
+      "comment": "Light Fidelity: a method of transmitting data wirelessly using LED  (=light-emitting diode) technology",
+      "entry": "Li-Fi",
+      "id": "li-fi#li-fi__1"
+    },
+    {
+      "comment": "Logical Link Control: a part of a computer networking system",
+      "entry": "LLC",
+      "id": "llc#llc__2"
+    },
+    {
+      "comment": "a LAN",
+      "entry": "local area network",
+      "id": "local-area-network#local-area-network__1"
+    },
+    {
+      "comment": "a system in which a [set_1]{set} of [computer]{computers} are [able_1]{able} to [communicate]{communicate} with each other",
+      "entry": "net",
+      "id": "net_1#net_1__7"
+    },
+    {
+      "comment": "a [set_1]{set} of [computer]{computers} that are [connected]{connected} to each other so that each computer can [send_1]{send} and [receive]{receive} [information]{information} to and from the other [computer]{computers}",
+      "entry": "network",
+      "id": "network_1#network_1__8"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [develop]{develop} and [manage]{manage} a computer [network_1]{network}",
+      "entry": "network administrator",
+      "id": "network-administrator#network-administrator__1"
+    },
+    {
+      "comment": "the activity of connecting computers in a network",
+      "entry": "networking",
+      "id": "networking#networking__2"
+    },
+    {
+      "comment": "a point on a computer network where a message can be created or received",
+      "entry": "node",
+      "id": "node#node__5"
+    },
+    {
+      "comment": "used for describing a computer network in which each computer can pass information directly to another without the need for a central server",
+      "entry": "peer-to-peer",
+      "id": "peer-to-peer#peer-to-peer__1"
+    },
+    {
+      "comment": "a computer that controls or performs a particular job for all the computers in a network",
+      "entry": "server",
+      "id": "server#server__1"
+    },
+    {
+      "comment": "an extremely powerful computer that controls a network or networks of other computers",
+      "entry": "superserver",
+      "id": "superserver#superserver__1"
+    },
+    {
+      "comment": "the process of sending information to or receiving information from another computer using the Internet, a modem, or a local area network",
+      "entry": "telecomputing",
+      "id": "telecomputing#telecomputing__1"
+    },
+    {
+      "comment": "a [situation]{situation} where many [people_1]{people} in [different]{different} [place_1]{places} are [able_1]{able} to use the same computer at the same time",
+      "entry": "timesharing",
+      "id": "timesharing#timesharing__1"
+    },
+    {
+      "comment": "a [message_1]{message} that is [sent]{sent} from a [single_1]{single} computer on a [network_1]{network} to one other computer on the [network_1]{network}",
+      "entry": "unicast",
+      "id": "unicast#unicast__1"
+    },
+    {
+      "comment": "[virtual]{virtual} [private_1]{private} [network_1]{network}: a way of [create]{creating} a [secure_1]{secure} [private_1]{private} [network_1]{network} [use_1]{using} a [public_1]{public} [encrypt]{encrypted} [network_1]{network} such as the [internet]{internet}. It is [used]{used} by [business]{businesses} for [employee]{employees} to [communicate]{communicate} and by [people_1]{people} who [want_1]{want} to [avoid]{avoid} [censorship]{censorship} and other [online]{online} [restriction]{restrictions}.",
+      "entry": "VPN",
+      "id": "vpn#vpn__1"
+    },
+    {
+      "comment": "software designed to improve the flow of electronic documents around an office network, from user to user",
+      "entry": "workflow",
+      "id": "workflow#workflow__1"
+    }
+  ],
+  "thesaurus": "Computer networking systems",
+  "type": "Related words"
+}

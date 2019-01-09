@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "if you have [broken_1]{broken} [sleep_1]{sleep} or a [broken_1]{broken} [night_1]{night}, you [sleep_1]{sleep} [badly]{badly}, [waking]{waking} up often",
+      "entry": "broken",
+      "id": "broken_1#broken_1__21"
+    },
+    {
+      "comment": "a [deep_1]{deep} [sleep_1]{sleep} is one that you do not [wake_1]{wake} up [easily]{easily} from",
+      "entry": "deep",
+      "id": "deep_1#deep_1__21"
+    },
+    {
+      "comment": "[dreamless]{dreamless} [sleep_1]{sleep} is [sleep_1]{sleep} with no [dream_1]{dreams}",
+      "entry": "dreamless",
+      "id": "dreamless#dreamless__1"
+    },
+    {
+      "comment": "someone who [does]{does} not [wake_1]{wake} [easily]{easily} when they are [sleep_1]{sleeping}",
+      "entry": "heavy sleeper",
+      "id": "heavy-sleeper#heavy-sleeper__1"
+    },
+    {
+      "comment": "while you are [sleep_1]{sleeping}",
+      "entry": "in your sleep",
+      "id": "in-your-sleep#in-your-sleep__1"
+    },
+    {
+      "comment": "a light sleep is one in which you wake up often. Someone who often wakes up while they are sleeping is called a light sleeper.",
+      "entry": "light",
+      "id": "light_2#light_2__37"
+    },
+    {
+      "comment": "if you [sleep_1]{sleep} [lightly]{lightly}, you [wake_1]{wake} up very [easily]{easily}",
+      "entry": "lightly",
+      "id": "lightly#lightly__14"
+    },
+    {
+      "comment": "someone who [wake_1]{wakes} [easily]{easily} when they are [sleep_1]{sleeping}",
+      "entry": "light sleeper",
+      "id": "light-sleeper#light-sleeper__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [walking_1]{walking} and sometimes [doing]{doing} [thing]{things} while you are still [sleep_1]{sleeping}",
+      "entry": "noctambulism",
+      "id": "noctambulism#noctambulism__1"
+    },
+    {
+      "comment": "someone who is [sleep_1]{sleeping}",
+      "entry": "sleeper",
+      "id": "sleeper#sleeper__1"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to someone who has been [sleep_1]{sleeping} for a long time",
+      "entry": "Sleeping Beauty",
+      "id": "sleeping-beauty#sleeping-beauty__1"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to someone, [especially]{especially} a [child]{child}, when they have been [sleep_1]{sleeping} and have [start_1]{started} to [wake_1]{wake} up",
+      "entry": "sleepyhead",
+      "id": "sleepyhead#sleepyhead__1"
+    },
+    {
+      "comment": "someone who walks while they are sleeping. A less formal word is sleepwalker.",
+      "entry": "somnambulist",
+      "id": "somnambulist#somnambulist__1"
+    },
+    {
+      "comment": "[sound_1]{sound} [sleep_1]{sleep} is one that is [difficult]{difficult} to [wake_1]{wake} you from",
+      "entry": "sound",
+      "id": "sound_3#sound_3__16"
+    },
+    {
+      "comment": "if you [sleep_1]{sleep} [soundly]{soundly}, you [sleep_1]{sleep} well and it is not [easy_1]{easy} to [wake_1]{wake} you",
+      "entry": "soundly",
+      "id": "soundly#soundly__7"
+    },
+    {
+      "comment": "someone who regularly sleeps badly/well",
+      "entry": "terrible/good etc. sleeper",
+      "id": "terrible-good-etc-sleeper#terrible-good-etc-sleeper__1"
+    },
+    {
+      "comment": "if someone has an [uneasy]{uneasy} [sleep_1]{sleep}, they do not rest very well while they are [sleep_1]{sleeping}",
+      "entry": "uneasy",
+      "id": "uneasy#uneasy__5"
+    }
+  ],
+  "thesaurus": "Sleepers and describing sleep",
+  "type": "Related words"
+}

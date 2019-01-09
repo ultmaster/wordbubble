@@ -1,0 +1,27 @@
+{
+  "part": "pronoun",
+  "senses": [
+    {
+      "def": "[used]{used} [instead]{instead} of \u201csomeone\u201d when [ask_1]{asking} or [saying]{saying} whether there is even one [person]{person}",
+      "examples": [
+        "Was there anyone at [home_1]{home}?",
+        "[did]{Did} he [mention_1]{mention} anyone [special_1]{special}?",
+        "I\u2019m not [blame_1]{blaming} anyone for what [happen]{happened}.",
+        "Is anyone else coming with us?"
+      ],
+      "id": "anyone__1"
+    },
+    {
+      "def": "[used]{used} when it is not [important]{important} which [person]{person} you are [refer]{referring} to, because what you are [saying]{saying} [apply]{applies} to everyone, or everyone of a [particular_1]{particular} [type_1]{type}",
+      "examples": [
+        "Anyone can [make_1]{make} a [mistake_1]{mistake}.",
+        "If anyone [ask_1]{asks} for me, [tell_1]{tell} them I\u2019m [busy_1]{busy}.",
+        "You can [invite_1]{invite} anyone you [want_1]{want}.",
+        "Sherwood [probably]{probably} [know_1]{knows} more than anyone else about the [subject_1]{subject}.",
+        "It was the [kind_1]{kind} of [accident]{accident} that could [happen]{happen} to almost anyone."
+      ],
+      "id": "anyone__6"
+    }
+  ],
+  "word": "anyone"
+}

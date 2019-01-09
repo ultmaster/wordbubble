@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "if there is a [distance_1]{distance} between two [people_1]{people}, their [relationship]{relationship} is not [friendly_1]{friendly} or [close_1]{close}",
+      "entry": "distance",
+      "id": "distance_1#distance_1__14"
+    },
+    {
+      "comment": "[unfriendly]{unfriendly} or [threatening]{threatening} [behavior]{behavior} or [feeling_1]{feelings} toward someone",
+      "entry": "hostility",
+      "id": "hostility#hostility__1"
+    },
+    {
+      "comment": "an [unfriendly]{unfriendly} [attitude]{attitude} and a [lack_1]{lack} of [humor_1]{humor}",
+      "entry": "severity",
+      "id": "severity#severity__5"
+    },
+    {
+      "comment": "[proud]{proud} and [unfriendly]{unfriendly} [behavior]{behavior}",
+      "entry": "hauteur",
+      "id": "hauteur#hauteur__1"
+    },
+    {
+      "comment": "a way of [speak_1]{speaking} or [behave]{behaving} that is not very [friendly_1]{friendly} and [does]{does} not [encourage]{encourage} other [people_1]{people} to [talk_1]{talk} to you",
+      "entry": "distance",
+      "id": "distance_1#distance_1__15"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that [people_1]{people} are being very [unfriendly]{unfriendly} or are [deliberately]{deliberately} [cause_2]{causing} [problem]{problems}",
+      "entry": "the knives are out",
+      "id": "the-knives-are-out#the-knives-are-out__1"
+    }
+  ],
+  "thesaurus": "Unfriendliness",
+  "type": "Synonyms"
+}

@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "miles an/per hour",
+  "senses": [
+    {
+      "def": "the [number_1]{number} of [mile]{miles} that a [vehicle]{vehicle} [travel_1]{travels} in an [hour]{hour}",
+      "examples": [
+        "[driving]{driving} at 50 [mile]{miles} an [hour]{hour}"
+      ],
+      "id": "miles-an-per-hour__1"
+    }
+  ]
+}

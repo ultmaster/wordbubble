@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "in an [earlier_1]{earlier} part of a [piece_1]{piece} of [writing]{writing} or [higher_1]{higher} up a [page_1]{page}",
+      "entry": "above",
+      "id": "above#above__6"
+    },
+    {
+      "comment": "in a [later_1]{later} part of a [piece_1]{piece} of [writing]{writing}",
+      "entry": "below",
+      "id": "below#below__4"
+    },
+    {
+      "comment": "[following_1]{following} something else in a [piece_1]{piece} of [writing]{writing}",
+      "entry": "after",
+      "id": "after_1#after_1__23"
+    },
+    {
+      "comment": "[mention_1]{mentioned} before in an [earlier_1]{earlier} part of a [piece_1]{piece} of [writing]{writing}",
+      "entry": "aforementioned",
+      "id": "aforementioned#aforementioned__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that a [particular_1]{particular} [word_1]{word} or [abbreviation]{abbreviation} will be [used]{used} [instead]{instead} of a name in a [document_1]{document}",
+      "entry": "hereafter",
+      "id": "hereafter#hereafter__3"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} where you can find more [information]{information}",
+      "entry": "see",
+      "id": "see_1#see_1__28"
+    },
+    {
+      "comment": "in a [particular_1]{particular} [place_1]{place}, [activity]{activity}, or [piece_1]{piece} of [writing]{writing} that has been [mention_1]{mentioned}",
+      "entry": "therein",
+      "id": "therein#therein__1"
+    },
+    {
+      "comment": "a [person]{person} or a [group_1]{group} of [people_1]{people} who have [sign_2]{signed} their [name_1]{names} at the bottom of a [formal_1]{formal} [document_1]{document}",
+      "entry": "the undersigned",
+      "id": "the-undersigned#the-undersigned__1"
+    },
+    {
+      "comment": "[used]{used} in [written_1]{written} [language]{language} to mean that something has already been [mention_1]{mentioned} [earlier_1]{earlier} in the same [document_1]{document}",
+      "entry": "above-mentioned",
+      "id": "above-mentioned#above-mentioned__1"
+    },
+    {
+      "comment": "[aforementioned]{aforementioned}",
+      "entry": "aforesaid",
+      "id": "aforesaid#aforesaid__1"
+    },
+    {
+      "comment": "from that [point_1]{point} [onward_2]{onwards} in a [document_1]{document}",
+      "entry": "thereinafter",
+      "id": "thereinafter#thereinafter__1"
+    }
+  ],
+  "thesaurus": "Referring to parts of documents or pieces of writing",
+  "type": "Synonyms"
+}

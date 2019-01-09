@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [type_1]{type} of very thick [string_1]{string} that can be [used]{used} for [tying]{tying} or [pull_1]{pulling} [thing]{things}",
+      "entry": "rope",
+      "id": "rope_1#rope_1__1"
+    },
+    {
+      "comment": "a [series]{series} of [metal_1]{metal} [ring_1]{rings} [connected]{connected} to each other, [used]{used} for [fastener]{fastening}, [pull_1]{pulling}, or [lift_1]{lifting} [thing]{things}",
+      "entry": "chain",
+      "id": "chain_1#chain_1__1"
+    },
+    {
+      "comment": "thin [rope_1]{rope}, [usually]{usually} made of [twisted]{twisted} [fiber]{fibers} and [used]{used} for [tying]{tying} [thing]{things} together",
+      "entry": "string",
+      "id": "string_1#string_1__1"
+    },
+    {
+      "comment": "[strong]{strong} thick [metal_1]{metal} [rope_1]{rope}",
+      "entry": "cable",
+      "id": "cable_1#cable_1__4"
+    },
+    {
+      "comment": "[strong]{strong} thick [string_1]{string}",
+      "entry": "cord",
+      "id": "cord#cord__2"
+    },
+    {
+      "comment": "a [strong]{strong} [belt_1]{belt} or [rope_1]{rope} [used]{used} for [prevent]{preventing} [people_1]{people} from [fall_1]{falling} when they are [working]{working} in a [high_1]{high} [place_1]{place}",
+      "entry": "safety belt",
+      "id": "safety-belt#safety-belt__2"
+    },
+    {
+      "comment": "a thin [circle_1]{circle} of [rubber]{rubber} [used]{used} for [holding]{holding} [thing]{things} together",
+      "entry": "rubber band",
+      "id": "rubber-band#rubber-band__1"
+    },
+    {
+      "comment": "a [small_1]{small} [object_1]{object} that [hold_1]{holds} something in [position_1]{position}",
+      "entry": "clip",
+      "id": "clip_2#clip_2__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [strong]{strong} [string_1]{string} made by [twist_1]{twisting} several [piece_1]{pieces} of [string_1]{string} together",
+      "entry": "twine",
+      "id": "twine_1#twine_1__1"
+    },
+    {
+      "comment": "something that is [design_2]{designed} to [hold_1]{hold} or [support_1]{support} another [object_1]{object}",
+      "entry": "holder",
+      "id": "holder#holder__5"
+    }
+  ],
+  "thesaurus": "Things used for tying and fastening",
+  "type": "Synonyms"
+}

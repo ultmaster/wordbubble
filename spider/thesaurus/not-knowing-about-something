@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [knowing]{knowing} something that you should [know_1]{know} or [need_1]{need} to [know_1]{know}",
+      "entry": "ignorant",
+      "id": "ignorant#ignorant__1"
+    },
+    {
+      "comment": "without [knowledge]{knowledge} of something",
+      "entry": "unacquainted",
+      "id": "unacquainted#unacquainted__1"
+    },
+    {
+      "comment": "not [knowing]{knowing} what [kind_1]{kind} of [situation]{situation} you are [involved]{involved} in, for [example]{example} because someone has [trick_2]{tricked} or [cheat_1]{cheated} you",
+      "entry": "unknowing",
+      "id": "unknowing#unknowing__1"
+    },
+    {
+      "comment": "not [knowing]{knowing} about something that is [happening_1]{happening} or will [happen]{happen}",
+      "entry": "unsuspecting",
+      "id": "unsuspecting#unsuspecting__1"
+    },
+    {
+      "comment": "if you are [unfamiliar]{unfamiliar} with something, you have no [knowledge]{knowledge} or [experience_1]{experience} of it",
+      "entry": "unfamiliar",
+      "id": "unfamiliar#unfamiliar__1"
+    },
+    {
+      "comment": "without [knowledge]{knowledge} or [information]{information} about something",
+      "entry": "uninformed",
+      "id": "uninformed#uninformed__3"
+    },
+    {
+      "comment": "[unable]{unable} to [understand]{understand} something because it is [extremely]{extremely} [complicated]{complicated}",
+      "entry": "lost",
+      "id": "lost_1#lost_1__23"
+    },
+    {
+      "comment": "if you are [hazy]{hazy} about a [particular_1]{particular} [subject_1]{subject}, you do not [know_1]{know} or [understand]{understand} much about it",
+      "entry": "hazy",
+      "id": "hazy#hazy__6"
+    },
+    {
+      "comment": "[lacking]{lacking} [knowledge]{knowledge} in a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "illiterate",
+      "id": "illiterate#illiterate__3"
+    },
+    {
+      "comment": "[showing]{showing} a [lack_1]{lack} of [knowledge]{knowledge} of a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "ill-informed",
+      "id": "ill-informed#ill-informed__2"
+    }
+  ],
+  "thesaurus": "Not knowing about something",
+  "type": "Synonyms"
+}

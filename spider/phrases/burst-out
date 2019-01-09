@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "burst out",
+  "senses": [
+    {
+      "def": "to [suddenly]{suddenly} [start_1]{start} [laugh_1]{laughing} or [crying]{crying}",
+      "examples": [
+        "I almost [burst_1]{burst} out [laugh_1]{laughing} when I [saw_1]{saw} what she was [wearing]{wearing}."
+      ],
+      "id": "burst-out__1"
+    },
+    {
+      "def": "to [suddenly]{suddenly} [say_1]{say} or [shout_1]{shout} something",
+      "examples": [
+        "\u201cI hate you!\u201d Julia [suddenly]{suddenly} [burst_1]{burst} out."
+      ],
+      "id": "burst-out__3"
+    }
+  ]
+}

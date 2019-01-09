@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [wide_1]{wide} [piece_1]{piece} of [cloth]{cloth} with a [message_1]{message} on it, often [stretched]{stretched} between two [pole_1]{poles}",
+      "entry": "banner",
+      "id": "banner_1#banner_1__1"
+    },
+    {
+      "comment": "a flat wide surface such as a bulletin board or blackboard placed upright and used for showing information",
+      "entry": "board",
+      "id": "board_1#board_1__11"
+    },
+    {
+      "comment": "a [board_1]{board} on a [wall_1]{wall} where you can put [information]{information} or [picture_1]{pictures} for other [people_1]{people} to see",
+      "entry": "bulletin board",
+      "id": "bulletin-board#bulletin-board__2"
+    },
+    {
+      "comment": "if something [carry_1]{carries} a [message_1]{message} or [warning]{warning}, it has it [written_1]{written} on it",
+      "entry": "carry",
+      "id": "carry_1#carry_1__32"
+    },
+    {
+      "comment": "a [sign_1]{sign} in a [building]{building} or [department]{department} [store_1]{store} that [tell_1]{tells} you where to find something or someone",
+      "entry": "directory",
+      "id": "directory#directory__3"
+    },
+    {
+      "comment": "a [sign_1]{sign} that you [hang_1]{hang} on a [door_1]{door}, [especially]{especially} in a [hotel]{hotel}, to [say_1]{say} that you do not [want_1]{want} to be [interrupt]{interrupted}",
+      "entry": "do not disturb",
+      "id": "do-not-disturb#do-not-disturb__1"
+    },
+    {
+      "comment": "[used]{used} on [sign_1]{signs} to [tell_1]{tell} [people_1]{people} not to go into a [place_1]{place}",
+      "entry": "keep out",
+      "id": "keep-out#keep-out__3"
+    },
+    {
+      "comment": "[used]{used} on [sign_1]{signs} or in [instruction]{instructions} to [say_1]{say} that something is not [allow]{allowed}",
+      "entry": "no",
+      "id": "no_1#no_1__25"
+    },
+    {
+      "comment": "an [instruction]{instruction}, [especially]{especially} one [print_1]{printed} on a [sign_1]{sign}, that [people_1]{people} are not [allow]{allowed} to go into a [street_1]{street}, [area]{area}, [building]{building}, or [room_1]{room}",
+      "entry": "no entry",
+      "id": "no-entry#no-entry__1"
+    },
+    {
+      "comment": "a [sign_1]{sign} put in a [public_1]{public} [place_1]{place} that [announce]{announces} something or [warn]{warns} [people_1]{people} about something",
+      "entry": "notice",
+      "id": "notice_2#notice_2__1"
+    },
+    {
+      "comment": "a board that has announcements and other information on it. The usual American word is bulletin board.",
+      "entry": "noticeboard",
+      "id": "noticeboard#noticeboard__1"
+    },
+    {
+      "comment": "[used]{used} on [sign_1]{signs} to [warn]{warn} [people_1]{people} not to [enter]{enter} a [place_1]{place} or [area]{area}",
+      "entry": "No trespassing",
+      "id": "no-trespassing#no-trespassing__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [metal_1]{metal} or [stone_1]{stone} that is [hung_1]{hung} on a [wall_1]{wall} or [building]{building} for [decoration]{decoration}, or to give [information]{information}",
+      "entry": "plaque",
+      "id": "plaque#plaque__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [metal_1]{metal} or [plastic_1]{plastic} that is [fixed]{fixed} to something and [used]{used} for [showing]{showing} [information]{information} such as someone\u2019s name or a [number_1]{number}",
+      "entry": "plate",
+      "id": "plate_1#plate_1__17"
+    },
+    {
+      "comment": "[sign_1]{signs} in a [public_1]{public} [place_1]{place}",
+      "entry": "signage",
+      "id": "signage#signage__1"
+    },
+    {
+      "comment": "a [sign_1]{sign} next to a [road]{road} [showing]{showing} where something is",
+      "entry": "signpost",
+      "id": "signpost_1#signpost_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} something very [clear_1]{clear} or [noticeable]{noticeable}",
+      "entry": "signpost",
+      "id": "signpost_2#signpost_2__1"
+    },
+    {
+      "comment": "[marked]{marked} by [signpost_1]{signposts}",
+      "entry": "signposted",
+      "id": "signposted#signposted__1"
+    }
+  ],
+  "thesaurus": "Notices and signposts",
+  "type": "Related words"
+}

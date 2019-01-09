@@ -1,0 +1,38 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "something such as a [room_1]{room} or [piece_1]{piece} of [equipment]{equipment} that is [provided]{provided} at a [place_1]{place} for [people_1]{people} to use",
+      "examples": [
+        "The [hotel]{hotel} has [excellent]{excellent} [recreational]{recreational} [facility]{facilities}.",
+        "There are [plan_1]{plans} to [improve_1]{improve} the [restroom]{restroom} [facility]{facilities} at the [bus_1]{bus} [station_1]{station}.",
+        "[does]{Does} the [company]{company} [offer_1]{offer} any [facility]{facilities} for [staff_1]{staff} with [young_1]{young} [children]{children}?",
+        "All the [room_1]{rooms} have [private_1]{private} [facility]{facilities}."
+      ],
+      "id": "facility__1"
+    },
+    {
+      "def": "a [special_1]{special} [feature_1]{feature} of a [particular_1]{particular} [tool_1]{tool}, system, etc.",
+      "examples": [
+        "The [software]{software} has the facility to [produce_1]{produce} high-quality [graphics]{graphics}."
+      ],
+      "id": "facility__7"
+    },
+    {
+      "def": "an [area]{area} or [building]{building} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "He [work_1]{works} at the [company]{company}\u2019s [manufacturing]{manufacturing} facility in Texas.",
+        "Haynes was [taken_1]{taken} to a [psychiatric]{psychiatric} facility for [evaluation]{evaluation}."
+      ],
+      "id": "facility__9"
+    },
+    {
+      "def": "a [natural_1]{natural} [ability_1]{ability} to do something well",
+      "examples": [
+        "He has a facility for [language]{languages}."
+      ],
+      "id": "facility__12"
+    }
+  ],
+  "word": "facility"
+}

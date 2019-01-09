@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[operate]{operated} by a [machine_1]{machine} or system of [moving]{moving} [part_1]{parts}",
+      "examples": [
+        "mechanical [toy_1]{toys}",
+        "a mechanical [wheelchair]{wheelchair}",
+        "The system has [shut_1]{shut} down because of mechanical [problem]{problems}.",
+        "He\u2019s very mechanical so he\u2019s [sure_1]{sure} to [know_1]{know} what\u2019s [wrong_1]{wrong}."
+      ],
+      "id": "mechanical__1"
+    },
+    {
+      "def": "done without [thinking_1]{thinking} or without any [attempt_1]{attempt} to be [original_1]{original}",
+      "examples": [
+        "I found her [purely]{purely} mechanical [explanation]{explanations} [inadequate]{inadequate}."
+      ],
+      "id": "mechanical__8"
+    },
+    {
+      "def": "[relate]{relating} to or [produce_1]{produced} by [physical_1]{physical} [force_1]{forces}",
+      "examples": [
+        "the mechanical [property]{properties} of [gas_1]{gases}"
+      ],
+      "id": "mechanical__10"
+    }
+  ],
+  "word": "mechanical"
+}

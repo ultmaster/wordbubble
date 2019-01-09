@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [rate_1]{rate} at which someone or something [move_1]{moves}",
+      "entry": "speed",
+      "id": "speed_1#speed_1__1"
+    },
+    {
+      "comment": "the [speed_1]{speed} at which something [happen]{happens} or is done",
+      "entry": "pace",
+      "id": "pace_1#pace_1__1"
+    },
+    {
+      "comment": "the [speed_1]{speed} that something [move_1]{moves} at in one [direction]{direction}",
+      "entry": "velocity",
+      "id": "velocity#velocity__1"
+    },
+    {
+      "comment": "the [speed_1]{speed} at which something [happen]{happens}",
+      "entry": "tempo",
+      "id": "tempo#tempo__2"
+    },
+    {
+      "comment": "the [speed_1]{speed} at which something [happen]{happens} within a [particular_1]{particular} [period_1]{period} of time",
+      "entry": "rate",
+      "id": "rate_1#rate_1__8"
+    },
+    {
+      "comment": "the [speed_1]{speed} with which a [moving]{moving} [object_1]{object} [keep_1]{keeps} [moving]{moving} or [move_1]{moves} [fast_1]{faster}",
+      "entry": "momentum",
+      "id": "momentum#momentum__6"
+    },
+    {
+      "comment": "the [speed_1]{speed} at which you move",
+      "entry": "pace",
+      "id": "pace_1#pace_1__14"
+    },
+    {
+      "comment": "the [speed_1]{speed} at which you [walk_1]{walk} or [run_1]{run}",
+      "entry": "stride",
+      "id": "stride_1#stride_1__7"
+    },
+    {
+      "comment": "a [slow_1]{slow} [steady_1]{steady} [speed_1]{speed}",
+      "entry": "jog",
+      "id": "jog_2#jog_2__3"
+    },
+    {
+      "comment": "the [rate_1]{rate} at which a [machine_1]{machine} [work_1]{works}",
+      "entry": "speed",
+      "id": "speed_1#speed_1__7"
+    }
+  ],
+  "thesaurus": "General words for speed",
+  "type": "Synonyms"
+}

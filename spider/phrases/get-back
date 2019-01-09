@@ -1,0 +1,49 @@
+{
+  "part": "phrase",
+  "phrase": "get back",
+  "senses": [
+    {
+      "def": "to [return_1]{return} to a [place_1]{place}",
+      "examples": [
+        "It\u2019s [late_1]{late}, I [ought]{ought} to get back.",
+        "[dad_1]{Dad} always [got_1]{got} back [home_1]{home} in time for [dinner]{dinner}.",
+        "What time [does]{does} Sara get back from [work_1]{work}?"
+      ],
+      "id": "get-back__1"
+    },
+    {
+      "def": "to [receive]{receive} or have something again after a time when it was [taken_1]{taken} or [lost_1]{lost}",
+      "examples": [
+        "She [left_1]{left} her [briefcase]{briefcase} on the [train_1]{train} and she doesn\u2019t [know_1]{know} how to get it back."
+      ],
+      "id": "get-back__5"
+    },
+    {
+      "def": "to do something to [hurt_1]{hurt} or [upset_1]{upset} someone because they have done something to [hurt_1]{hurt} or [upset_1]{upset} you",
+      "examples": [],
+      "id": "get-back__8"
+    },
+    {
+      "def": "to [make_1]{make} something [return_1]{return} to the [state_1]{state} or [condition_1]{condition} it was in before",
+      "examples": [
+        "It [won]{won}\u2019t take long for us to get [thing]{things} back the way they were.",
+        "I [woke_1]{woke} [early_1]{early} and couldn\u2019t get back to [sleep_1]{sleep}.",
+        "She [need_1]{needs} to get back in [control_1]{control} of her [life]{life}."
+      ],
+      "id": "get-back__9"
+    },
+    {
+      "def": "to [start_1]{start} [doing]{doing} something again after not [doing]{doing} it for a [period_1]{period} of time",
+      "examples": [
+        "She was [eager]{eager} to get back to [work_1]{work} after she had her [baby_1]{baby}.",
+        "A [year]{year} after his [band_1]{band} [broke_1]{broke} up, he [want_1]{wants} to get back into [music]{music} again."
+      ],
+      "id": "get-back__14"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone to move [away_1]{away} because they are in [danger]{danger}",
+      "examples": [],
+      "id": "get-back__17"
+    }
+  ]
+}

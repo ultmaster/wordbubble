@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} [holding]{holding} something",
+      "entry": "release",
+      "id": "release_1#release_1__13"
+    },
+    {
+      "comment": "to [stop_1]{stop} [holding]{holding} someone or something",
+      "entry": "let go (of someone/something)",
+      "id": "let-go-of-someone-something#let-go-of-someone-something__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [touching_1]{touching} someone or something",
+      "entry": "take/get your hands off",
+      "id": "take-get-your-hands-off#take-get-your-hands-off__1"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} someone to [stop_1]{stop} [touching_1]{touching} someone or something",
+      "entry": "get off",
+      "id": "get-off#get-off__16"
+    },
+    {
+      "comment": "to [start_1]{start} [holding]{holding} someone or something less [tight_1#tight_1__40]{tightly}",
+      "entry": "loose",
+      "id": "loose_3#loose_3__5"
+    },
+    {
+      "comment": "to not [touch_1]{touch} something, or to [prevent]{prevent} something from [touching_1]{touching} something",
+      "entry": "keep off",
+      "id": "keep-off#keep-off__1"
+    },
+    {
+      "comment": "to not [touch_1]{touch} someone or something",
+      "entry": "keep your hands off",
+      "id": "keep-your-hands-off#keep-your-hands-off__1"
+    },
+    {
+      "comment": "to [hold_1]{hold} someone or something less [tight_1#tight_1__40]{tightly}",
+      "entry": "loosen your grip/hold (on)",
+      "id": "loosen-your-grip-hold-on#loosen-your-grip-hold-on__3"
+    },
+    {
+      "comment": "to [hold_1]{hold} something less [tight_1#tight_1__40]{tightly}",
+      "entry": "relax your grip/hold",
+      "id": "relax-your-grip-hold#relax-your-grip-hold__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [holding]{holding} someone or something",
+      "entry": "let someone/something go",
+      "id": "let-someone-something-go#let-someone-something-go__1"
+    }
+  ],
+  "thesaurus": "To stop holding or touching something",
+  "type": "Synonyms"
+}

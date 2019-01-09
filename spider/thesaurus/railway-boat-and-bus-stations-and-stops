@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "a [structure_1]{structure} that [protect]{protects} you from the [weather_1]{weather} while you are [wait_1]{waiting} for a [bus_1]{bus}",
+      "entry": "bus shelter",
+      "id": "bus-shelter#bus-shelter__1"
+    },
+    {
+      "comment": "a [building]{building} where [bus_1]{buses} [start_1]{start} and [finish_1]{finish} their [trip_1]{trips}, or where [bus_1]{buses} that [travel_1]{travel} long [distance_1]{distances} [stop_1]{stop} to [let_1]{let} [passenger]{passengers} get on and off",
+      "entry": "bus station",
+      "id": "bus-station#bus-station__1"
+    },
+    {
+      "comment": "a [railroad_1]{railroad} [station_1]{station} or a [bus_1]{bus} [station_1]{station}",
+      "entry": "depot",
+      "id": "depot#depot__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [bus_1]{buses} or [train_1]{train} [engine]{engines} are [kept]{kept} when they are not being [used]{used}",
+      "entry": "depot",
+      "id": "depot#depot__4"
+    },
+    {
+      "comment": "the [place_1]{place} that a [ferry_1]{ferry} [operate]{operates} from",
+      "entry": "ferry",
+      "id": "ferry_1#ferry_1__5"
+    },
+    {
+      "comment": "an [area]{area} next to a [railroad_1]{railroad} [track_1]{track} where [passenger]{passengers} get onto and off [train_1]{trains}",
+      "entry": "platform",
+      "id": "platform#platform__7"
+    },
+    {
+      "comment": "a [building]{building} or [place_1]{place} where [bus_1]{buses}, [train_1]{trains}, or other [public_1]{public} [vehicle]{vehicles} [stop_1]{stop} so that [passenger]{passengers} can get on or off",
+      "entry": "station",
+      "id": "station_1#station_1__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [bus_1]{bus} or [train_1]{train} [stop_1]{stops} for [passenger]{passengers} to get on or off",
+      "entry": "stop",
+      "id": "stop_2#stop_2__7"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} where [train_1]{train}, [boat]{boat}, or [bus_1]{bus} [service_1]{services} [start_1]{start} and [finish_1]{finish}",
+      "entry": "terminal",
+      "id": "terminal_1#terminal_1__1"
+    },
+    {
+      "comment": "the [end_1]{end} of a [bus_1]{bus} or [train_1]{train} [line_1]{line}",
+      "entry": "terminus",
+      "id": "terminus#terminus__1"
+    },
+    {
+      "comment": "a [bus_1]{bus} or [train_1]{train} [terminal_1]{terminal}",
+      "entry": "terminus",
+      "id": "terminus#terminus__2"
+    },
+    {
+      "comment": "a [station_1]{station} between the [major_1]{major} [station_1]{stations} on a [railroad_1]{railroad} [line_1]{line}",
+      "entry": "way station",
+      "id": "way-station#way-station__1"
+    }
+  ],
+  "thesaurus": "Railway, boat and bus stations and stops",
+  "type": "Related words"
+}

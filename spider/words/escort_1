@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to go somewhere with a [person]{person}, [vehicle]{vehicle}, [ship_1]{ship}, etc. in [order_1]{order} to [protect]{protect} them or to [prevent]{prevent} them from [escape_1]{escaping}",
+      "examples": [
+        "Her [bodyguard]{bodyguards} [escort_1]{escorted} her through the [airport]{airport}.",
+        "a [battleship]{battleship} [escort_1]{escorted} by several [small_1]{smaller} [vessel]{vessels}"
+      ],
+      "id": "escort_1__1"
+    },
+    {
+      "def": "to go somewhere with someone in [order_1]{order} to be [certain_1]{certain} that they [arrive]{arrive} at the [right_1]{right} [place_1]{place}",
+      "examples": [
+        "She [escort_1]{escorted} him to the front [door_1]{door}."
+      ],
+      "id": "escort_1__4"
+    },
+    {
+      "def": "to go with someone to a [formal_1]{formal} [social_1]{social} [event]{event} as their [partner_1]{partner}",
+      "examples": [
+        "Denise was [escort_1]{escorted} by her [uncle]{uncle}."
+      ],
+      "id": "escort_1__6"
+    }
+  ],
+  "word": "escort"
+}

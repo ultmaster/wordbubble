@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not as [good_1]{good} as someone or something else",
+      "examples": [
+        "It [produce_1]{produces} [photograph_1]{photographs} of inferior [quality_1]{quality}.",
+        "an inferior [student]{student}",
+        "This [design_1]{design} is inferior to the one the German [company]{company} [proposed]{proposed}.",
+        "inferior [product]{products}"
+      ],
+      "id": "inferior_1__1"
+    },
+    {
+      "def": "[lower_1]{lower} in [status]{status} or [rank_1]{rank} than someone or something else",
+      "examples": [
+        "an inferior [court_1]{court}",
+        "A [corporal_1]{corporal} is inferior to a [sergeant]{sergeant}."
+      ],
+      "id": "inferior_1__8"
+    }
+  ],
+  "word": "inferior"
+}

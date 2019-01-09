@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [stay_1]{stay} in a [particular_1]{particular} [place_1]{place} or [position_1]{position} and not [leave_1]{leave} it",
+      "entry": "remain",
+      "id": "remain#remain__11"
+    },
+    {
+      "comment": "to [remain]{remain} in a [particular_1]{particular} [place_1]{place}",
+      "entry": "stay",
+      "id": "stay_1#stay_1__1"
+    },
+    {
+      "comment": "to [stay_1]{stay} in one [place_1]{place} because you [expect]{expect} or [hope_1]{hope} that something will [happen]{happen}",
+      "entry": "wait",
+      "id": "wait_1#wait_1__1"
+    },
+    {
+      "comment": "to [stay_1]{stay} in a [state_1]{state}, [position_1]{position}, or [place_1]{place} without [change_1]{changing} or [moving]{moving}",
+      "entry": "keep",
+      "id": "keep_1#keep_1__1"
+    },
+    {
+      "comment": "to [stay_1]{stay} somewhere [long_1]{longer} than is [necessary_1]{necessary}, or to [spend]{spend} [long_1]{longer} [doing]{doing} something than is [necessary_1]{necessary}, because it is [enjoyable]{enjoyable} or [helpful]{helpful} to you",
+      "entry": "linger",
+      "id": "linger#linger__1"
+    },
+    {
+      "comment": "if a [car]{car}, [train_1]{train}, [airplane]{airplane}, etc. [stand_1]{stands} somewhere, it [remains]{remains} there without [moving]{moving}, [wait_1]{waiting} to be [used]{used}",
+      "entry": "stand",
+      "id": "stand_1#stand_1__29"
+    },
+    {
+      "comment": "to [remain]{remain} somewhere after everyone else has [left_1]{left}",
+      "entry": "stay behind",
+      "id": "stay-behind#stay-behind__1"
+    },
+    {
+      "comment": "to [stay_1]{stay} somewhere [long_1]{longer} than you should",
+      "entry": "tarry",
+      "id": "tarry_1#tarry_1__1"
+    },
+    {
+      "comment": "to [remain]{remain} in a [place_1]{place} for [long_1]{longer} than you [originally]{originally} [intended_1]{intended}, [especially]{especially} in [order_1]{order} to [wait_1]{wait} for something to [happen]{happen}",
+      "entry": "stick around",
+      "id": "stick-around#stick-around__1"
+    },
+    {
+      "comment": "to [remain]{remain} in one [place_1]{place} or [position_1]{position}",
+      "entry": "stay put",
+      "id": "stay-put#stay-put__1"
+    }
+  ],
+  "thesaurus": "To remain in a place or situation",
+  "type": "Synonyms"
+}

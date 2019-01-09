@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "hold on to",
+  "senses": [
+    {
+      "def": "to [hold_1]{hold} something [tight_1#tight_1__40]{tightly} or [careful#careful__20]{carefully} so that you do not [drop_1]{drop} it or do not [fall_1]{fall}",
+      "examples": [
+        "[hold_1]{Hold} on to the [seat_1]{seat} in front when we go around the [corner_1]{corner}.",
+        "[hold_1]{Hold} onto your [purse_1]{purse}, [won]{won}\u2019t you?"
+      ],
+      "id": "hold-on-to__1"
+    },
+    {
+      "def": "to not [lose]{lose} something, or to not [let_1]{let} someone else have it",
+      "examples": [
+        "[hold_1]{Hold} on to the [instruction]{instructions} in [case_1]{case} you have any [problem]{problems}."
+      ],
+      "id": "hold-on-to__4"
+    },
+    {
+      "def": "to [continue]{continue} [feeling_1]{feeling} or [believe]{believing} something",
+      "examples": [
+        "I always [held]{held} on to the [belief]{belief} that one [day]{day} he would [succeed]{succeed}."
+      ],
+      "id": "hold-on-to__6"
+    },
+    {
+      "def": "to [stop_1]{stop} someone from [leave_1]{leaving} you or from [doing]{doing} what they [want_1]{want}",
+      "examples": [
+        "A [mother_1]{mother} can\u2019t [hold_1]{hold} on to her [children]{children} for ever."
+      ],
+      "id": "hold-on-to__8"
+    }
+  ]
+}

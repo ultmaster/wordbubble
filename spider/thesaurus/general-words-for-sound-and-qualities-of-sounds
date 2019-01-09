@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the [strength]{strength} of [color_1]{color}, [sound_1]{sound}, [light_1]{light}, or [temperature]{temperature}",
+      "entry": "intensity",
+      "id": "intensity#intensity__6"
+    },
+    {
+      "comment": "a [sound_1]{sound}",
+      "entry": "noise",
+      "id": "noise#noise__5"
+    },
+    {
+      "comment": "a [set_1]{set} of [sound_1]{sounds} that are [repeated]{repeated} [regularly]{regularly}, for [example]{example} in a [poem]{poem}",
+      "entry": "pattern",
+      "id": "pattern_1#pattern_1__11"
+    },
+    {
+      "comment": "a sound that something makes as a result of sound waves from another object",
+      "entry": "resonance",
+      "id": "resonance#resonance__4"
+    },
+    {
+      "comment": "a [sound_1]{sound} that is [repeated]{repeated} many times as it [hit_1]{hits} two [opposite_1]{opposite} [surface_1]{surfaces}, so that it [make_1]{makes} a [place_1]{place} seem to [shake_1]{shake} [slightly]{slightly}",
+      "entry": "reverberation",
+      "id": "reverberation#reverberation__1"
+    },
+    {
+      "comment": "something that you can [hear]{hear}",
+      "entry": "sound",
+      "id": "sound_1#sound_1__1"
+    },
+    {
+      "comment": "the [music]{music}, [talk_1]{talking}, and other [noise]{noises} that come from a [radio_1]{radio}, [television]{television}, [movie]{movie}, etc.",
+      "entry": "sound",
+      "id": "sound_1#sound_1__7"
+    },
+    {
+      "comment": "the [loud_1#loud_1__13]{loudness} of a [radio_1]{radio}, [television]{television}, etc.",
+      "entry": "sound",
+      "id": "sound_1#sound_1__9"
+    },
+    {
+      "comment": "the amount of [light_1]{light}, [heat_1]{heat}, [sound_1]{sound}, etc. that comes from something",
+      "entry": "strength",
+      "id": "strength#strength__36"
+    }
+  ],
+  "thesaurus": "General words for sound and qualities of sounds",
+  "type": "Related words"
+}

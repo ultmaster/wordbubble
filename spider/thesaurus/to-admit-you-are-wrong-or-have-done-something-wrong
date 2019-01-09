@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} that you have done something [wrong_1]{wrong} or [illegal_1]{illegal}",
+      "entry": "admit",
+      "id": "admit#admit__8"
+    },
+    {
+      "comment": "to [admit]{admit} that you have done something [wrong_1]{wrong}",
+      "entry": "confess",
+      "id": "confess#confess__6"
+    },
+    {
+      "comment": "to [admit]{admit} that you have done something [bad_1]{bad} or [embarrassing]{embarrassing}",
+      "entry": "own up",
+      "id": "own-up#own-up__1"
+    },
+    {
+      "comment": "to [admit]{admit} that something you [said_1]{said} to or about someone was [wrong_1]{wrong}",
+      "entry": "take back",
+      "id": "take-back#take-back__3"
+    },
+    {
+      "comment": "to [tell_1]{tell} the [truth]{truth} about something [wrong_1]{wrong} that you have done so that you can [stop_1]{stop} [feeling_1]{feeling} [guilty]{guilty} about it",
+      "entry": "make a clean breast of something",
+      "id": "make-a-clean-breast-of-something#make-a-clean-breast-of-something__1"
+    },
+    {
+      "comment": "to [admit]{admit} that you were [wrong_1]{wrong} about something",
+      "entry": "eat your words",
+      "id": "eat-your-words#eat-your-words__1"
+    },
+    {
+      "comment": "to [admit]{admit} that you were [wrong_1]{wrong} about something",
+      "entry": "eat humble pie",
+      "id": "eat-humble-pie#eat-humble-pie__1"
+    },
+    {
+      "comment": "to [admit]{admit} that you were [wrong_1]{wrong} about something",
+      "entry": "eat crow",
+      "id": "eat-crow#eat-crow__1"
+    },
+    {
+      "comment": "to [admit]{admit} that you have [committed]{committed} a [crime_1]{crime}",
+      "entry": "confess",
+      "id": "confess#confess__1"
+    },
+    {
+      "comment": "to [admit]{admit} to something [embarrassing]{embarrassing} or something you have done [wrong_1]{wrong}",
+      "entry": "cop to",
+      "id": "cop-to#cop-to__1"
+    }
+  ],
+  "thesaurus": "To admit you are wrong or have done something wrong",
+  "type": "Synonyms"
+}

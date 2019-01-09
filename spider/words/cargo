@@ -1,0 +1,15 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[thing]{things} that are being [sent]{sent} by [ship_1]{ship}, [airplane]{airplane}, [train_1]{train}, or [truck_1]{truck}",
+      "examples": [
+        "The [ship_1]{ship} and all its cargo [sank]{sank}.",
+        "a cargo [ship_1]{ship}/[airplane]{airplane}"
+      ],
+      "id": "cargo__1"
+    }
+  ],
+  "word": "cargo"
+}

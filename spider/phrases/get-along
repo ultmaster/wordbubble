@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "get along",
+  "senses": [
+    {
+      "def": "if [people_1]{people} get along, they [like_1]{like} each other and are [friendly_1]{friendly} to each other",
+      "examples": [
+        "Richard and his [sister]{sister} don\u2019t get along.",
+        "I get along well with most of my [colleague]{colleagues}."
+      ],
+      "id": "get-along__1"
+    },
+    {
+      "def": "to [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "You\u2019d [better_1]{better} be [get]{getting} along now."
+      ],
+      "id": "get-along__4"
+    },
+    {
+      "def": "to [manage]{manage} to [continue]{continue} [doing]{doing} something or [make_1]{make} [progress_1]{progress} in a [situation]{situation}",
+      "examples": [
+        "I [got_1]{got} along much [better_1]{better} in my [new]{new} [job_1]{job}.",
+        "How are you [get]{getting} along with your [schoolwork]{schoolwork}?",
+        "You [know_1]{know} I couldn\u2019t get along without you."
+      ],
+      "id": "get-along__6"
+    }
+  ]
+}

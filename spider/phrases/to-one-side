@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "to one side",
+  "senses": [
+    {
+      "def": "if you take someone to one side, you [talk_1]{talk} to them [away_1]{away} from other [people_1]{people} because you [want_1]{want} to [say_1]{say} something [private_1]{private} to them",
+      "examples": [
+        "I [took]{took} her to one side to [explain]{explain} why everyone was [upset_1]{upset} with her."
+      ],
+      "id": "to-one-side__1"
+    },
+    {
+      "def": "if you put something to one side, you do not [talk_1]{talk} about it or [deal_1]{deal} with it now",
+      "examples": [
+        "[let_1]{Let}\u2019s [set_1]{set} the [question_1]{question} of [blame_1]{blame} to one side for a [minute_1]{minute}."
+      ],
+      "id": "to-one-side__3"
+    },
+    {
+      "def": "in a [place_1]{place} that is not [directly_1]{directly} in front of you",
+      "examples": [
+        "He [laid]{laid} the [paper_1]{papers} to one side and [continued]{continued} [working]{working}.",
+        "He [pushed]{pushed} us to one side and went in."
+      ],
+      "id": "to-one-side__5"
+    }
+  ]
+}

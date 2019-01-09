@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "mix up",
+  "senses": [
+    {
+      "def": "to [think_1]{think} that one [person]{person} or thing is another [person]{person} or thing",
+      "examples": [
+        "I [think_1]{think} I\u2019m [mix_1]{mixing} him up with someone else.",
+        "They [look_1]{look} so [alike_1]{alike} that it\u2019s [easy_1]{easy} to [mix_1]{mix} them up."
+      ],
+      "id": "mix-up_1__1"
+    },
+    {
+      "def": "to put [thing]{things} together without any [order_1]{order}",
+      "examples": [
+        "I [sorted]{sorted} all the [paper_1]{papers} and you\u2019ve [mixed]{mixed} them up again."
+      ],
+      "id": "mix-up_1__4"
+    }
+  ]
+}

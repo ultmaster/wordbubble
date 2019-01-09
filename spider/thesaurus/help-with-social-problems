@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "an [organization]{organization} that [deal_1]{deals} with [social_1]{social} [problem]{problems}",
+      "entry": "agency",
+      "id": "agency#agency__5"
+    },
+    {
+      "comment": "[money]{money} that a [national_1]{national} [government]{government} [give_1]{gives} to [local_1]{local} [government]{governments} to [pay_1]{pay} for [service_1]{services} such as [education]{education} and [health]{health}",
+      "entry": "block grant",
+      "id": "block-grant#block-grant__1"
+    },
+    {
+      "comment": "a profession that involves taking care of other people, for example social work and nursing",
+      "entry": "caring profession",
+      "id": "caring-profession#caring-profession__1"
+    },
+    {
+      "comment": "work that a social worker does to help a particular person or group of people with social problems. The person who does this work is called a case worker.",
+      "entry": "case work",
+      "id": "case-work#case-work__1"
+    },
+    {
+      "comment": "[help_1]{help} for [people_1]{people} [living_1]{living} in their [home_1]{homes} who [need_1]{need} [help_1]{help} in [take_1]{taking} [care_1]{care} of themselves",
+      "entry": "community care",
+      "id": "community-care#community-care__1"
+    },
+    {
+      "comment": "the [business]{business} of [caring]{caring} for [old]{old} [people_1]{people}",
+      "entry": "eldercare",
+      "id": "eldercare#eldercare__1"
+    },
+    {
+      "comment": "the [supply_1]{supply} of [thing]{things} such as [water_1]{water}, [gas_1]{gas}, [electricity]{electricity}, [health]{health} [care_1]{care}, and [education]{education}",
+      "entry": "essential services",
+      "id": "essential-services#essential-services__1"
+    },
+    {
+      "comment": "the [service_1]{services} that take [care_1]{care} of [people_1]{people}\u2019s [health]{health}",
+      "entry": "health care",
+      "id": "health-care#health-care__1"
+    },
+    {
+      "comment": "a [public_1]{public} [service_1]{service} that is [responsible]{responsible} for [providing]{providing} [medical_1]{medical} [care_1]{care}",
+      "entry": "health service",
+      "id": "health-service#health-service__1"
+    },
+    {
+      "comment": "the [job_1]{job} or [activity]{activity} of [providing]{providing} [house_1]{houses} for [people_1]{people}",
+      "entry": "housing",
+      "id": "housing#housing__4"
+    },
+    {
+      "comment": "a [service_1]{service} that [bring]{brings} [cooked]{cooked} [meal]{meals} to the [home_1]{homes} of [people_1]{people} who are too [old]{old} or [sick_1]{sick} to [cook_1]{cook} for themselves",
+      "entry": "meals on wheels",
+      "id": "meals-on-wheels#meals-on-wheels__1"
+    },
+    {
+      "comment": "a system of [government]{government} [health]{health} [care_1]{care} for [poor_1]{poor} [people_1]{people}",
+      "entry": "Medicaid",
+      "id": "medicaid#medicaid__1"
+    },
+    {
+      "comment": "a system in the U.S. in which the [government]{government} [pay_1]{pays} part of the [cost_1]{cost} of [medical_1]{medical} [treatment]{treatment} for [people_1]{people} who are over 65 [year]{years} [old]{old}",
+      "entry": "Medicare",
+      "id": "medicare#medicare__1"
+    },
+    {
+      "comment": "someone whose job is to give help and advice to people on probation after committing a crime and to check that they are behaving well",
+      "entry": "probation officer",
+      "id": "probation-officer#probation-officer__1"
+    },
+    {
+      "comment": "a [service_1]{service} that the [government]{government} [pay_1]{pays} for, such as [education]{education}",
+      "entry": "public service",
+      "id": "public-service#public-service__1"
+    },
+    {
+      "comment": "the [money]{money} that the [government]{government} [pay_1]{pays} for [project_1]{projects} [relate]{relating} to [education]{education}, [defense]{defense}, etc.",
+      "entry": "public spending",
+      "id": "public-spending#public-spending__1"
+    },
+    {
+      "comment": "a system [provided]{provided} by a [government]{government} or [official_1]{official} [organization]{organization} for the [need_1]{needs} of the [public_1]{public}",
+      "entry": "service",
+      "id": "service_1#service_1__1"
+    },
+    {
+      "comment": "[service_1]{services} and [support_1]{support} that [people_1]{people} [need_1]{need} in [order_1]{order} to [live_1]{live} [decent]{decent} [lives]{lives}, [especially]{especially} [support_1]{support} with the [task_1]{tasks} of [daily_1]{daily} [living_1]{living} that is [provided]{provided} to [people_1]{people} in their own [home_1]{homes}",
+      "entry": "social care",
+      "id": "social-care#social-care__1"
+    },
+    {
+      "comment": "one of the [service_1]{services} [provided]{provided} by a [government]{government} or [private_1]{private} [organization]{organization} for [people_1]{people} with [social_1]{social} [problem]{problems}",
+      "entry": "social service",
+      "id": "social-service#social-service__1"
+    },
+    {
+      "comment": "someone who is [trained]{trained} to give [help_1]{help} and [advice]{advice} to [people_1]{people} who have [severe]{severe} [social_1]{social} [problem]{problems}",
+      "entry": "social worker",
+      "id": "social-worker#social-worker__1"
+    },
+    {
+      "comment": "the [policy]{policy} of [put]{putting} a [lot_1]{lot} of [people_1]{people} in an [institution]{institution} without [thinking_1]{thinking} much about the [quality_1]{quality} of [education]{education} or [treatment]{treatment} that they [receive]{receive}",
+      "entry": "warehousing",
+      "id": "warehousing#warehousing__2"
+    },
+    {
+      "comment": "[care_1]{care} [provided]{provided} by the [state_1]{state} or another [organization]{organization} for [people_1]{people} in [need_1]{need}",
+      "entry": "welfare",
+      "id": "welfare#welfare__1"
+    },
+    {
+      "comment": "the system by which a [country]{country} [take_1]{takes} [care_1]{care} of its [citizen]{citizens} by [providing]{providing} them with [education]{education}, [medical_1]{medical} [care_1]{care}, or [money]{money} if they are [unable]{unable} to [work_1]{work}",
+      "entry": "the welfare state",
+      "id": "welfare-state#welfare-state__2"
+    },
+    {
+      "comment": "a [place_1]{place} where [women]{women} can go with their [children]{children} in [order_1]{order} to [escape_1]{escape} from a [violent]{violent} [husband]{husband} or [partner_1]{partner}",
+      "entry": "women\u2019s shelter",
+      "id": "women-s-shelter#women-s-shelter__1"
+    },
+    {
+      "comment": "a [counselor]{counselor} for [young_1]{young} [people_1]{people}",
+      "entry": "youth worker",
+      "id": "youth-worker#youth-worker__1"
+    }
+  ],
+  "thesaurus": "Help with social problems",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [describe]{describing} a [sound_1]{sound} that is [strong]{strong} and very [easy_1]{easy} to [hear]{hear}",
+      "entry": "loud",
+      "id": "loud_1#loud_1__1"
+    },
+    {
+      "comment": "full of [noise]{noise}",
+      "entry": "noisy",
+      "id": "noisy#noisy__4"
+    },
+    {
+      "comment": "a [shrill_1]{shrill} [noise]{noise} or [voice_1]{voice} is very [loud_1]{loud}, [high_1]{high}, and [unpleasant]{unpleasant}",
+      "entry": "shrill",
+      "id": "shrill_1#shrill_1__1"
+    },
+    {
+      "comment": "very [loud_1]{loud}, [high_1]{high}, and [unpleasant]{unpleasant}",
+      "entry": "piercing",
+      "id": "piercing_1#piercing_1__1"
+    },
+    {
+      "comment": "so [loud_1]{loud} that you can [hear]{hear} nothing else",
+      "entry": "deafening",
+      "id": "deafening#deafening__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [loud_1]{loud}",
+      "entry": "ear-splitting",
+      "id": "ear-splitting#ear-splitting__1"
+    },
+    {
+      "comment": "a [resounding]{resounding} [sound_1]{sound} is very [loud_1]{loud} and [continue]{continues} for a long time",
+      "entry": "resounding",
+      "id": "resounding#resounding__3"
+    },
+    {
+      "comment": "[extremely]{extremely} [noisy]{noisy} and [loud_1]{loud}",
+      "entry": "uproarious",
+      "id": "uproarious#uproarious__1"
+    },
+    {
+      "comment": "very [lively]{lively} and [noisy]{noisy}",
+      "entry": "riotous",
+      "id": "riotous#riotous__1"
+    },
+    {
+      "comment": "to be [unable]{unable} to [hear]{hear} because a [place_1]{place} is very [noisy]{noisy}",
+      "entry": "can\u2019t hear yourself think",
+      "id": "can-t-hear-yourself-think#can-t-hear-yourself-think__1"
+    }
+  ],
+  "thesaurus": "Describing loud and noisy sounds",
+  "type": "Synonyms"
+}

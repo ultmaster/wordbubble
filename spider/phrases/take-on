@@ -1,0 +1,42 @@
+{
+  "part": "phrase",
+  "phrase": "take on",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to [employ_1]{employ} someone",
+      "examples": [
+        "We\u2019re not [take_1]{taking} on any [new]{new} [worker]{workers} at this time."
+      ],
+      "id": "take-on__1"
+    },
+    {
+      "def": "to [develop]{develop} a [particular_1]{particular} [character]{character} or [appearance]{appearance}",
+      "examples": [
+        "Our [website]{website} is [take_1]{taking} on a [new]{new} [look_1]{look}.",
+        "The war [took]{took} on a [different]{different} [meaning_1]{meaning} for everyone [involved]{involved}."
+      ],
+      "id": "take-on__3"
+    },
+    {
+      "def": "to [accept]{accept} some [work_1]{work} or [responsibility]{responsibility}",
+      "examples": [
+        "I can\u2019t take on any more [work_1]{work} at the [moment]{moment}."
+      ],
+      "id": "take-on__6"
+    },
+    {
+      "def": "to [fight_1]{fight} or [compete]{compete} against someone",
+      "examples": [
+        "This [evening_1]{evening} the [packer]{Packers} take on the [eagle]{Eagles}."
+      ],
+      "id": "take-on__8"
+    },
+    {
+      "def": "to [decide]{decide} to do something without [ask_1]{asking} [permission]{permission} from anyone else",
+      "examples": [
+        "My [mother_1]{mother} [took]{took} it on [herself]{herself} to [invite_1]{invite} them."
+      ],
+      "id": "take-on__10"
+    }
+  ]
+}

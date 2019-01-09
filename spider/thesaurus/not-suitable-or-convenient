@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [appropriate_1]{appropriate} for a [particular_1]{particular} [situation]{situation}, [purpose]{purpose}, or [person]{person}",
+      "entry": "unsuitable",
+      "id": "unsuitable#unsuitable__1"
+    },
+    {
+      "comment": "not [appropriate_1]{appropriate} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "inappropriate",
+      "id": "inappropriate#inappropriate__1"
+    },
+    {
+      "comment": "[cause_2]{causing} [difficulty]{difficulties} or [extra_1]{extra} [effort]{effort}",
+      "entry": "inconvenient",
+      "id": "inconvenient#inconvenient__1"
+    },
+    {
+      "comment": "not [suitable]{suitable} or [right_1]{right} [accord_2]{according} to [accepted]{accepted} [standard_1]{standards} of [social_1]{social} or [professional_1]{professional} [behavior]{behavior}",
+      "entry": "improper",
+      "id": "improper#improper__1"
+    },
+    {
+      "comment": "not the [right_1]{right} [type_1]{type} of [person]{person} or thing, for [example]{example} for a [particular_1]{particular} [job_1]{job} or [purpose]{purpose}",
+      "entry": "unsuited",
+      "id": "unsuited#unsuited__1"
+    },
+    {
+      "comment": "not [appropriate_1]{appropriate}, [usual]{usual}, or [normal_1]{normal}",
+      "entry": "untoward",
+      "id": "untoward#untoward__1"
+    },
+    {
+      "comment": "[happening_1]{happening} at a time that is not [appropriate_1]{appropriate}, for [example]{example} because it [cause_1]{causes} [additional]{additional} [problem]{problems}",
+      "entry": "untimely",
+      "id": "untimely#untimely__1"
+    },
+    {
+      "comment": "[unseemly]{unseemly} [behavior]{behavior} is [embarrassing]{embarrassing} or [upset_2]{upsets} [people_1]{people} because it is not [appropriate_1]{appropriate} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "unseemly",
+      "id": "unseemly#unseemly__1"
+    },
+    {
+      "comment": "[behavior]{behavior} that is [unbecoming]{unbecoming} is [inappropriate]{inappropriate} for a [particular_1]{particular} [type_1]{type} of [person]{person}",
+      "entry": "unbecoming",
+      "id": "unbecoming#unbecoming__1"
+    },
+    {
+      "comment": "an [inopportune]{inopportune} time or [moment]{moment} is not [convenient]{convenient}, [appropriate_1]{appropriate}, or [right_1]{right}",
+      "entry": "inopportune",
+      "id": "inopportune#inopportune__1"
+    }
+  ],
+  "thesaurus": "Not suitable or convenient",
+  "type": "Synonyms"
+}

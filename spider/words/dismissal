@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [act_1]{act} of [making]{making} someone [leave_1]{leave} their [job_1]{job}",
+      "examples": [
+        "The [investigation]{investigation} [led_1]{led} to five [dismissal]{dismissals}."
+      ],
+      "id": "dismissal__1"
+    },
+    {
+      "def": "a [refusal]{refusal} to [accept]{accept} that something might be [true_1]{true} or [important]{important}",
+      "examples": [
+        "the [committee]{committee}\u2019s dismissal of their [complaint]{complaints}"
+      ],
+      "id": "dismissal__3"
+    },
+    {
+      "def": "an [order_1]{order} [telling]{telling} [people_1]{people} that they can [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "the dismissal of [juror]{jurors}"
+      ],
+      "id": "dismissal__5"
+    },
+    {
+      "def": "a [decision_1]{decision} by a [judge_1]{judge} that a [court_1]{court} [case_1]{case} should not [continue]{continue}",
+      "examples": [],
+      "id": "dismissal__7"
+    }
+  ],
+  "word": "dismissal"
+}

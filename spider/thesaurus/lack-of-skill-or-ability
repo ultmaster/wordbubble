@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "the [fact]{fact} of not being [able_1]{able} to do something",
+      "entry": "inability",
+      "id": "inability#inability__1"
+    },
+    {
+      "comment": "[lack_1]{lack} of [skill]{skill} or [ability_1]{ability} to do something [correctly]{correctly} or well",
+      "entry": "incompetence",
+      "id": "incompetence#incompetence__1"
+    },
+    {
+      "comment": "a [lack_1]{lack} of [ability_1]{ability}",
+      "entry": "incapacity",
+      "id": "incapacity#incapacity__3"
+    },
+    {
+      "comment": "[lack_1]{lack} of [ability_1]{ability} or [skill]{skill}",
+      "entry": "ineptitude",
+      "id": "ineptitude#ineptitude__1"
+    },
+    {
+      "comment": "a [lack_1]{lack} of [confidence]{confidence} that [make_1]{makes} someone [feel_1]{feel} they are not [good_1]{good} enough to [deal_1]{deal} with a [particular_1]{particular} [situation]{situation} or with [life]{life} in [general_1]{general}",
+      "entry": "inadequacy",
+      "id": "inadequacy#inadequacy__5"
+    }
+  ],
+  "thesaurus": "Lack of skill or ability",
+  "type": "Synonyms"
+}

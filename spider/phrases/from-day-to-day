@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "from day to day",
+  "senses": [
+    {
+      "def": "in a way that [change_1]{changes} [quickly]{quickly} or often",
+      "examples": [
+        "He seems to [change_1]{change} his [opinion]{opinion} from [day]{day} to [day]{day}."
+      ],
+      "id": "from-day-to-day__1"
+    },
+    {
+      "def": "without [thinking_1]{thinking} about what is [going_1]{going} to [happen]{happen} in the [future_1]{future}",
+      "examples": [
+        "They [live_1]{lived} from [day]{day} to [day]{day}."
+      ],
+      "id": "from-day-to-day__3"
+    }
+  ]
+}

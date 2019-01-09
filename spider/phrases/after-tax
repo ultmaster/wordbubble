@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "after tax",
+  "senses": [
+    {
+      "def": "an amount of [money]{money} after [tax_1]{tax} is the amount that is [left_1]{left} after you have [paid_1]{paid} [tax_1]{tax} on it",
+      "examples": [
+        "She [earn]{earns} $1200 a [month]{month} after [tax_1]{tax}."
+      ],
+      "id": "after-tax__1"
+    }
+  ]
+}

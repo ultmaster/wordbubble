@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "an [arterial]{arterial} [road]{road} or [railroad_1]{railroad} is part of a [large_1]{larger} [road]{road} or [rail_1]{rail} system",
+      "entry": "arterial",
+      "id": "arterial#arterial__4"
+    },
+    {
+      "comment": "a [fast_1]{fast} [road]{road} is one on which you can [drive_1]{drive} [quickly]{quickly}",
+      "entry": "fast",
+      "id": "fast_1#fast_1__11"
+    },
+    {
+      "comment": "[leading]{leading} to a [large_1]{larger} [road]{road}, [railroad_1]{railroad} [line_1]{line}, or [air_1]{air} [service_1]{service}",
+      "entry": "feeder",
+      "id": "feeder_2#feeder_2__1"
+    },
+    {
+      "comment": "an [impassable]{impassable} [road]{road}, [path]{path}, etc. is [impossible]{impossible} to [travel_1]{travel} along, [especially]{especially} because the [weather_1]{weather} is too [bad_1]{bad}",
+      "entry": "impassable",
+      "id": "impassable#impassable__1"
+    },
+    {
+      "comment": "with [car]{cars} [traveling]{traveling} in one [direction]{direction} only",
+      "entry": "one-way",
+      "id": "one-way#one-way__1"
+    },
+    {
+      "comment": "if a [road]{road} or a [river]{river} is [passable]{passable}, it is not [block_2]{blocked} and can be [travel_1]{traveled} on",
+      "entry": "passable",
+      "id": "passable#passable__3"
+    },
+    {
+      "comment": "a [sharp_1]{sharp} [bend_1]{bend} [change_1]{changes} [direction]{direction} [suddenly]{suddenly}",
+      "entry": "sharp",
+      "id": "sharp_1#sharp_1__10"
+    },
+    {
+      "comment": "a [slow_1]{slow} [road]{road} or part of a [road]{road} is one where you cannot [travel_1]{travel} [fast_1]{fast}",
+      "entry": "slow",
+      "id": "slow_1#slow_1__22"
+    },
+    {
+      "comment": "a [tight_1]{tight} [bend_1]{bend} on a [road]{road} is [difficult]{difficult} to [drive_1]{drive} around because it [curve_1]{curves} a [lot_1]{lot}",
+      "entry": "tight",
+      "id": "tight_1#tight_1__29"
+    },
+    {
+      "comment": "[allow]{allowing} [vehicle]{vehicles} to [travel_1]{travel} in both [direction]{directions}",
+      "entry": "two-way",
+      "id": "two-way#two-way__3"
+    },
+    {
+      "comment": "an [untrodden]{untrodden} [surface_1]{surface} has not been [walk_1]{walked} on",
+      "entry": "untrodden",
+      "id": "untrodden#untrodden__1"
+    }
+  ],
+  "thesaurus": "Describing roads, paths and areas of land",
+  "type": "Related words"
+}

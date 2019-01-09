@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} of [bring]{bringing} [goods]{goods} or [letter_1]{letters} to a [place_1]{place}",
+      "entry": "delivery",
+      "id": "delivery#delivery__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [send_1]{sending} someone to another [person]{person} or [place_1]{place} for [help_1]{help}, [information]{information}, or [advice]{advice}",
+      "entry": "referral",
+      "id": "referral#referral__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [deliver]{delivering} [goods]{goods} to someone who has [bought]{bought} them",
+      "entry": "consignment",
+      "id": "consignment#consignment__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [send_1]{sending} a [payment]{payment} through the [mail_1]{mail}",
+      "entry": "remittance",
+      "id": "remittance#remittance__2"
+    },
+    {
+      "comment": "the [act_1]{act} of [leave_1]{leaving} or [deliver]{delivering} something in a [place_1]{place} that has been [agreed]{agreed}, [especially]{especially} something [secret_1]{secret} or [illegal_1]{illegal}",
+      "entry": "drop",
+      "id": "drop_2#drop_2__19"
+    },
+    {
+      "comment": "[used]{used} about the time or [place_1]{place} that you [deliver]{deliver} something somewhere",
+      "entry": "drop-off",
+      "id": "drop-off_3#drop-off_3__1"
+    },
+    {
+      "comment": "if a [company]{company} [deliver]{delivers} [thing]{things} to your [door_1]{door}, it [deliver]{delivers} them [directly_1]{directly} to your [house_1]{house}",
+      "entry": "to your door",
+      "id": "to-your-door#to-your-door__1"
+    },
+    {
+      "comment": "[failure]{failure} to [deliver]{deliver} something",
+      "entry": "nondelivery",
+      "id": "nondelivery#nondelivery__1"
+    }
+  ],
+  "thesaurus": "Relating to sending or taking",
+  "type": "Synonyms"
+}

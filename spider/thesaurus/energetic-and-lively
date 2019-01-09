@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is [active]{active} [does]{does} a [lot_1]{lot} of [different]{different} [activity]{activities} and has a [lot_1]{lot} of [energy]{energy} and [interest_1]{interests}",
+      "entry": "active",
+      "id": "active#active__1"
+    },
+    {
+      "comment": "full of [energy]{energy} and [life]{life}",
+      "entry": "vital",
+      "id": "vital#vital__6"
+    },
+    {
+      "comment": "full of [energy]{energy} and [feeling_1]{feeling} [happy_1]{happy} and [excited]{excited}",
+      "entry": "alive",
+      "id": "alive#alive__9"
+    },
+    {
+      "comment": "full of [activity]{activity}",
+      "entry": "alive",
+      "id": "alive#alive__12"
+    },
+    {
+      "comment": "very [lively]{lively} and [enthusiastic]{enthusiastic}, with a [lot_1]{lot} of [energy]{energy} and [determination]{determination}",
+      "entry": "dynamic",
+      "id": "dynamic_1#dynamic_1__1"
+    },
+    {
+      "comment": "full of [energy]{energy} and [enthusiasm]{enthusiasm}",
+      "entry": "lively",
+      "id": "lively#lively__1"
+    },
+    {
+      "comment": "an [energetic]{energetic} [person]{person} has a [lot_1]{lot} of [energy]{energy} and is very [active]{active}",
+      "entry": "energetic",
+      "id": "energetic#energetic__1"
+    },
+    {
+      "comment": "[enthusiastic]{enthusiastic} and [determined]{determined}",
+      "entry": "energetic",
+      "id": "energetic#energetic__4"
+    },
+    {
+      "comment": "full of [energy]{energy}, [enthusiasm]{enthusiasm}, or [determination]{determination}",
+      "entry": "vigorous",
+      "id": "vigorous#vigorous__1"
+    },
+    {
+      "comment": "[lively]{lively} or [active]{active}",
+      "entry": "animated",
+      "id": "animated#animated__1"
+    }
+  ],
+  "thesaurus": "Energetic and lively",
+  "type": "Synonyms"
+}

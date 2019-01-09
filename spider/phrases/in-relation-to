@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in relation to",
+  "senses": [
+    {
+      "def": "[concerning_1]{concerning} something",
+      "examples": [
+        "I have nothing further to [say_1]{say} in [relation]{relation} to this [matter_1]{matter}."
+      ],
+      "id": "in-relation-to__1"
+    },
+    {
+      "def": "in [comparison]{comparison} to something",
+      "examples": [
+        "[unemployment]{Unemployment} here is [high_1]{high} in [relation]{relation} to [national_1]{national} [level_1]{levels}."
+      ],
+      "id": "in-relation-to__3"
+    }
+  ]
+}

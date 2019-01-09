@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "the day/week/weekend etc. before",
+  "senses": [
+    {
+      "def": "the [previous_1]{previous} [day]{day}/week/weekend etc.",
+      "examples": [
+        "She [mention_1]{mentioned} a TV show she\u2019d [watch_1]{watched} the [night_1]{night} before."
+      ],
+      "id": "the-day-week-weekend-etc-before__1"
+    }
+  ]
+}

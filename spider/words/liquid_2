@@ -1,0 +1,27 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "in the form of a liquid",
+      "examples": [
+        "liquid [detergent]{detergent}",
+        "The [sample_1]{samples} were [frozen_1]{frozen} in liquid [nitrogen]{nitrogen}."
+      ],
+      "id": "liquid_2__1"
+    },
+    {
+      "def": "liquid [eye_1]{eyes} are [clear_1]{clear} and [shiny]{shiny}",
+      "examples": [],
+      "id": "liquid_2__4"
+    },
+    {
+      "def": "[easy_1]{easy} to [sell_1]{sell} in [order_1]{order} to get [cash_1]{cash}",
+      "examples": [
+        "a [highly]{highly} liquid form of [investment]{investment}",
+        "The [debt]{debt} [market_1]{market} was more liquid than the [equity_1]{equity} [market_1]{market}."
+      ],
+      "id": "liquid_2__5"
+    }
+  ],
+  "word": "liquid"
+}

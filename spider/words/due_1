@@ -1,0 +1,45 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if something is due to [happen]{happen}, it is [expected]{expected} to [happen]{happen} or should [happen]{happen}",
+      "examples": [
+        "The [case_1]{case} is due to go to [court_1]{court} next [month]{month}.",
+        "A [new]{new} [version]{version} of the [software]{software} is due in the next [couple_1]{couple} of [week]{weeks}.",
+        "The [prisoner]{prisoners} are not due for [release_1]{release} until next [year]{year}.",
+        "I\u2019m due for a [raise_1]{raise}.",
+        "I\u2019m due at a [meeting]{meeting} in ten [minute_1]{minutes}.",
+        "[student]{Students}\u2019 [term_1]{term} [paper_1]{papers} are due next Monday.",
+        "Her [baby_1]{baby} is due in May.",
+        "When are you due?"
+      ],
+      "id": "due_1__1"
+    },
+    {
+      "def": "if [money]{money} is due, it is time for it to be [paid_1]{paid}",
+      "examples": [
+        "The [rent_1]{rent} is due on the first [day]{day} of each [month]{month}.",
+        "You must [repay]{repay} the [loan_1]{loan}, and any interest that is due on it.",
+        "$10,000 is due to her under [clause]{clause} 5.1 of her [contract_1]{contract}."
+      ],
+      "id": "due_1__13"
+    },
+    {
+      "def": "[accord_2]{according} to the [usual]{usual} [standard_1]{standards} or [rule_1]{rules}",
+      "examples": [
+        "A [driver]{driver} has to have due [regard_1]{regard} for the [safety]{safety} of other [road]{road} [user]{users}.",
+        "The [committee]{committee} [reach_1]{reached} its [decision_1]{decision} after [give_1]{giving} due [consideration]{consideration} to the [view_1]{views} of the [public_1]{public}."
+      ],
+      "id": "due_1__17"
+    },
+    {
+      "def": "if something is due to someone, they should [receive]{receive} it",
+      "examples": [
+        "I have been [given_1]{given} a [lot_1]{lot} of [support_1]{support} by my [colleague]{colleagues}, for which [thanks_1]{thanks} are due.",
+        "Some [credit_1]{credit} is due to the [government]{government} for this [improvement]{improvement}."
+      ],
+      "id": "due_1__21"
+    }
+  ],
+  "word": "due"
+}

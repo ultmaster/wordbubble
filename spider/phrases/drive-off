@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "drive off",
+  "senses": [
+    {
+      "def": "if a [vehicle]{vehicle} or [driver]{driver} [drive_1]{drives} off, the [vehicle]{vehicle} [start_1]{starts} [moving]{moving} and [leaves]{leaves}",
+      "examples": [
+        "They [stood]{stood} and [wave_2]{waved} as we [drove_1]{drove} off."
+      ],
+      "id": "drive-off__1"
+    },
+    {
+      "def": "to [force_1]{force} someone to go [away_1]{away}, [especially]{especially} when they are [attack_2]{attacking} or [threatening]{threatening} you",
+      "examples": [
+        "They [fire_2]{fired} their [guns]{guns} to [drive_1]{drive} off an [attack_1]{attack} from a [pack_1]{pack} of [dog_1]{dogs}."
+      ],
+      "id": "drive-off__3"
+    }
+  ]
+}

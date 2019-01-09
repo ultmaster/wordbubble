@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture}, [usually]{usually} one that is not [worth_1]{worth} much",
+      "entry": "a stick of furniture",
+      "id": "a-stick-of-furniture#a-stick-of-furniture__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} that is [sold]{sold} in [part_1]{parts}, which the [customer]{customer} must then put together",
+      "entry": "flat-pack",
+      "id": "flat-pack#flat-pack__1"
+    },
+    {
+      "comment": "such [thing]{things} as [furniture]{furniture}, [carpet_1]{carpets}, and [curtain]{curtains}",
+      "entry": "furnishings",
+      "id": "furnishings#furnishings__1"
+    },
+    {
+      "comment": "the [chair_1]{chairs}, [table_1]{tables}, [bed_1]{beds}, etc. that you put in a [room_1]{room} or [house_1]{house} so that you can [live_1]{live} in it",
+      "entry": "furniture",
+      "id": "furniture#furniture__1"
+    },
+    {
+      "comment": "a [possession]{possession} that can be [move_1]{moved} from one [place_1]{place} to another, [especially]{especially} a [piece_1]{piece} of [furniture]{furniture}",
+      "entry": "movable",
+      "id": "movable_2#movable_2__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [matching]{matching} [piece_1]{pieces} of [furniture]{furniture}",
+      "entry": "suite",
+      "id": "suite#suite__6"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} or [equipment]{equipment} that [fit_1]{fits} together with other [piece_1]{pieces} of the same [type_1]{type}",
+      "entry": "unit",
+      "id": "unit#unit__10"
+    }
+  ],
+  "thesaurus": "General words for furniture and furnishings",
+  "type": "Related words"
+}

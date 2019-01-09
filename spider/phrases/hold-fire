@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "hold fire",
+  "senses": [
+    {
+      "def": "to [wait_1]{wait} before you take [action_1]{action}",
+      "examples": [
+        "The [federal]{Federal} [reserve_1]{Reserve} has [decided]{decided} to [hold_1]{hold} fire and not [raise_1]{raise} interest [rate_1]{rates} [right_1]{right} now."
+      ],
+      "id": "hold-fire__1"
+    },
+    {
+      "def": "to not [shoot_1]{shoot} at someone",
+      "examples": [
+        "He [ordered]{ordered} his [men]{men} to [hold_1]{hold} their fire."
+      ],
+      "id": "hold-fire__3"
+    }
+  ]
+}

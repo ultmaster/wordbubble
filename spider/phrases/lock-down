@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "lock down",
+  "senses": [
+    {
+      "def": "to [make_1]{make} [people_1]{people} [stay_1]{stay} in a [lock_1]{locked} [indoor]{indoor} [space_1]{space} during an [emergency_1]{emergency} in [order_1]{order} to keep them [safe_1]{safe}",
+      "examples": [
+        "[police_1]{Police} have [lock_1]{locked} down the [entire]{entire} [area]{area}."
+      ],
+      "id": "lock-down__1"
+    },
+    {
+      "def": "to [limit_1]{limit} use of a computer [network_1]{network} to only the [user]{users} who have [permission]{permission} to use it",
+      "examples": [
+        "[make_1]{Make} [sure_1]{sure} the [stuff_1]{stuff} you [post_1]{post} to [facebook]{Facebook} is [lock_1]{locked} down [tight_1]{tight}."
+      ],
+      "id": "lock-down__3"
+    },
+    {
+      "def": "to [make_1]{make} an [arrangement]{arrangement} [definite]{definite} so that it will not [change_1]{change}",
+      "examples": [
+        "We [need_1]{need} to [lock_1]{lock} down the [new]{new} [schedule_1]{schedule} as [soon]{soon} as [possible_1]{possible}."
+      ],
+      "id": "lock-down__5"
+    }
+  ]
+}

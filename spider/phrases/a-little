@@ -1,0 +1,37 @@
+{
+  "part": "phrase",
+  "phrase": "a little",
+  "senses": [
+    {
+      "def": "a [small_1]{small} amount",
+      "examples": [
+        "We [managed]{managed} to [save_1]{save} a [little_1]{little} [money]{money}.",
+        "With a [little_1]{little} [luck_1]{luck}, you might [write]{write} the next best-seller!",
+        "[mix_1]{Mix} in a [little_1]{little} of the [flour_1]{flour} to [make_1]{make} the [liquid_1]{liquid} [thick_1]{thicker}.",
+        "Doesn\u2019t Helen [speak_1]{speak} a [little_1]{little} [bit_1]{bit} of Chinese?",
+        "She [need_1]{needs} some [help_1]{help} \u2013 [just_1]{just} a [little_1]{little}, anyway.",
+        "I [think_1]{think} I have a [little_1]{little} more [patience]{patience} than you.",
+        "I [wish_1]{wish} there was a [little_1]{little} [bit_1]{bit} less [noise]{noise} around here."
+      ],
+      "id": "a-little__1"
+    },
+    {
+      "def": "to a [small_1]{small} [degree]{degree}",
+      "examples": [
+        "The whole [situation]{situation} [make_1]{makes} me a [little_1]{little} [nervous]{nervous}.",
+        "I [held]{held} her a [little_1]{little} [close_2]{closer}.",
+        "She was a [little_1]{little} [disappointed]{disappointed} with the [job_1]{job}.",
+        "This may be a [little_1]{little} [bit_1]{bit} [painful]{painful}."
+      ],
+      "id": "a-little__9"
+    },
+    {
+      "def": "for a [short_1]{short} time",
+      "examples": [
+        "You should rest a [little_1]{little}.",
+        "Come [talk_1]{talk} with me for a [little_1]{little} [bit_1]{bit}."
+      ],
+      "id": "a-little__14"
+    }
+  ]
+}

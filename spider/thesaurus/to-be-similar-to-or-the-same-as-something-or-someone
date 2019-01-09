@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if one thing [match_1]{matches} another, or if they [match_1]{match}, they are the same or have [similar]{similar} [quality_1]{qualities}",
+      "entry": "match",
+      "id": "match_2#match_2__1"
+    },
+    {
+      "comment": "to be the same as something else, or very much [like_1]{like} it",
+      "entry": "correspond",
+      "id": "correspond#correspond__1"
+    },
+    {
+      "comment": "to be the same as or [equal_1]{equal} to something else",
+      "entry": "amount to",
+      "id": "amount_2#amount_2__2"
+    },
+    {
+      "comment": "if [idea]{ideas} or [opinion]{opinions} [coincide]{coincide}, they [agree]{agree} with each other",
+      "entry": "coincide",
+      "id": "coincide#coincide__4"
+    },
+    {
+      "comment": "to be [similar]{similar} to something",
+      "entry": "parallel",
+      "id": "parallel_3#parallel_3__1"
+    },
+    {
+      "comment": "to be [similar]{similar} to something but not [exactly]{exactly} the same",
+      "entry": "approximate",
+      "id": "approximate_2#approximate_2__3"
+    },
+    {
+      "comment": "to [agree]{agree} with or be the same as something else",
+      "entry": "accord with",
+      "id": "accord-with#accord-with__1"
+    },
+    {
+      "comment": "to be [similar]{similar} to someone or something",
+      "entry": "invite comparison with",
+      "id": "invite-comparison-with#invite-comparison-with__1"
+    },
+    {
+      "comment": "to have the same [feature_1]{features} as something else",
+      "entry": "have something in common (with something)",
+      "id": "have-something-in-common-with-something#have-something-in-common-with-something__1"
+    },
+    {
+      "comment": "to be [similar]{similar}",
+      "entry": "bear/stand comparison (with)",
+      "id": "bear-stand-comparison-with#bear-stand-comparison-with__3"
+    }
+  ],
+  "thesaurus": "To be similar to, or the same as, something or someone",
+  "type": "Synonyms"
+}

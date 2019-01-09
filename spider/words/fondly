@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "in a way that [show_1]{shows} that you [like_1]{like} and [care_1]{care} about someone",
+      "examples": [
+        "She [smile_1]{smiled} fondly at her [brother_1]{brother} and his [wife]{wife}.",
+        "He is fondly [remember]{remembered} as a [wonderful]{wonderful} [teacher]{teacher}.",
+        "Dave still [speak_1]{speaks} fondly of his [day]{days} as a [football]{football} [player]{player}."
+      ],
+      "id": "fondly__1"
+    },
+    {
+      "def": "in a way that is not [sensible]{sensible} because what you [hope_1]{hope} or [believe]{believe} is [unlikely]{unlikely} to be [true_1]{true}",
+      "examples": [
+        "His [parent]{parents} fondly [imagine]{imagined} that he would [continue]{continue} the [family_1]{family} [business]{business}."
+      ],
+      "id": "fondly__6"
+    }
+  ],
+  "word": "fondly"
+}

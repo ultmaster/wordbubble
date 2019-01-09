@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[like_1]{like} most [people_1]{people} or [thing]{things} of the same [type_1]{type}",
+      "entry": "typical",
+      "id": "typical#typical__1"
+    },
+    {
+      "comment": "[typical]{typical} of the [thing]{things} that [people_1]{people} have [usually]{usually} done",
+      "entry": "traditional",
+      "id": "traditional#traditional__4"
+    },
+    {
+      "comment": "[normal_1]{normal}, or [typical]{typical} of what [happen]{happens} or of what [people_1]{people} do in most [situation]{situations}",
+      "entry": "usual",
+      "id": "usual#usual__1"
+    },
+    {
+      "comment": "[completely]{completely} [typical]{typical}",
+      "entry": "classic",
+      "id": "classic_1#classic_1__5"
+    },
+    {
+      "comment": "[typical]{typical} of someone or something",
+      "entry": "characteristic",
+      "id": "characteristic_2#characteristic_2__1"
+    },
+    {
+      "comment": "very [typical]{typical} of a [particular_1]{particular} [type_1]{type} of [person]{person} or thing",
+      "entry": "archetypal",
+      "id": "archetypal#archetypal__1"
+    },
+    {
+      "comment": "very [typical]{typical} as an [example]{example} of a [particular_1]{particular} thing",
+      "entry": "prototypical",
+      "id": "prototypical#prototypical__1"
+    },
+    {
+      "comment": "[usual]{usual} in a [particular_1]{particular} [society]{society} or [situation]{situation}",
+      "entry": "customary",
+      "id": "customary#customary__1"
+    },
+    {
+      "comment": "the [essential_1]{essential} [feature_1]{features} of something are its most [basic_1]{basic} and [typical]{typical} [feature_1]{features}",
+      "entry": "essential",
+      "id": "essential_1#essential_1__13"
+    },
+    {
+      "comment": "someone who is [conventional]{conventional} [follow]{follows} the [usual]{usual} and [accepted]{accepted} [opinion]{opinions} and ways of [behave]{behaving}, [especially]{especially} without [questioning_1]{questioning} them",
+      "entry": "conventional",
+      "id": "conventional#conventional__6"
+    }
+  ],
+  "thesaurus": "Typical, traditional and usual",
+  "type": "Synonyms"
+}

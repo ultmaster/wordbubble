@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "knock down",
+  "senses": [
+    {
+      "def": "to [deliberately]{deliberately} [destroy]{destroy} a [building]{building} or [wall_1]{wall}",
+      "examples": [
+        "The [far]{far} [wall_1]{wall} could be [knock_1]{knocked} down to [make_1]{make} the [room_1]{room} [big_1]{bigger}."
+      ],
+      "id": "knock-down__1"
+    },
+    {
+      "def": "to hit someone with a [vehicle]{vehicle} so that they are [injured]{injured} or [kill_1]{killed}",
+      "examples": [
+        "[sue]{Sue} was [knock_1]{knocked} down [just_1]{just} [yard]{yards} from her [home_1]{home}."
+      ],
+      "id": "knock-down__3"
+    },
+    {
+      "def": "to [reduce]{reduce} a [price_1]{price} or amount",
+      "examples": [
+        "They [knock_1]{knocked} the [price_1]{price} of a [glass]{glass} of [wine_1]{wine} down to $1.45."
+      ],
+      "id": "knock-down__5"
+    },
+    {
+      "def": "to show that something such as an [idea]{idea} or [suggestion]{suggestion} is not [good_1]{good} or [useful]{useful}",
+      "examples": [
+        "It was a [theory]{theory} that was [easily]{easily} [knock_1]{knocked} down."
+      ],
+      "id": "knock-down__7"
+    }
+  ]
+}

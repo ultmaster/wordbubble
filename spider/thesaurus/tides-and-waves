@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "the [movement]{movement} of [wave_1]{waves} as they [leave_1]{leave} the [land_1]{land}",
+      "entry": "backwash",
+      "id": "backwash#backwash__1"
+    },
+    {
+      "comment": "a [large_1]{large} [wave_1]{wave} in the [ocean]{ocean}",
+      "entry": "billow",
+      "id": "billow_2#billow_2__3"
+    },
+    {
+      "comment": "a [large_1]{large} [wave_1]{wave} that [roll_1]{rolls} over onto a [beach_1]{beach}",
+      "entry": "breaker",
+      "id": "breaker#breaker__1"
+    },
+    {
+      "comment": "the top part of a [wave_1]{wave}",
+      "entry": "cap",
+      "id": "cap_1#cap_1__11"
+    },
+    {
+      "comment": "the [white_1]{white} top of a [wave_1]{wave}",
+      "entry": "crest",
+      "id": "crest_1#crest_1__2"
+    },
+    {
+      "comment": "the [rising]{rising} of the [level_1]{level} of the [ocean]{ocean} each [day]{day} until it [reach_1]{reaches} its [high_1]{highest} [point_1]{point} and [begin]{begins} to [fall_1]{fall} again",
+      "entry": "flood tide",
+      "id": "flood-tide#flood-tide__1"
+    },
+    {
+      "comment": "the time when the [ocean]{ocean} [reach_1]{reaches} the [high_1]{highest} [level_1]{level}",
+      "entry": "high tide",
+      "id": "high-tide#high-tide__1"
+    },
+    {
+      "comment": "the time when the [water_1]{water} in a [lake]{lake}, [river]{river}, or the [ocean]{ocean} is above its [normal_1]{normal} [level_1]{level}, [especially]{especially} because of a [flood_1]{flood}",
+      "entry": "high water",
+      "id": "high-water#high-water__1"
+    },
+    {
+      "comment": "a [mark_1]{mark} that [show_1]{shows} the [high_1]{highest} [level_1]{level} that a [lake]{lake}, a [river]{river}, or the [sea_1]{sea} has [risen]{risen} to",
+      "entry": "high water mark",
+      "id": "high-water-mark#high-water-mark__1"
+    },
+    {
+      "comment": "the time when the [ocean]{ocean} is at its [low_1]{lowest} [level_1]{level}",
+      "entry": "low tide",
+      "id": "low-tide#low-tide__1"
+    },
+    {
+      "comment": "the time when the [water_1]{water} in a [river]{river} or the [ocean]{ocean} is at its [low_1]{lowest} [level_1]{level}",
+      "entry": "low water",
+      "id": "low-water#low-water__1"
+    },
+    {
+      "comment": "a tide that has the least amount of change between the highest and lowest levels of the ocean",
+      "entry": "neap tide",
+      "id": "neap-tide#neap-tide__1"
+    },
+    {
+      "comment": "a [small_1]{small} [wave_1]{wave} or [series]{series} of [wave_1]{waves} on the [surface_1]{surface} of a [liquid_1]{liquid}",
+      "entry": "ripple",
+      "id": "ripple_2#ripple_2__1"
+    },
+    {
+      "comment": "an [area]{area} of rough [sea_1]{sea} where [water_1]{water} [current_2]{currents} [meet_1]{meet}",
+      "entry": "riptide",
+      "id": "riptide#riptide__1"
+    },
+    {
+      "comment": "a [large_1]{large} [strong]{strong} [wave_1]{wave} that [roll_1]{rolls} toward the [land_1]{land}",
+      "entry": "roller",
+      "id": "roller#roller__5"
+    },
+    {
+      "comment": "the [condition_1]{condition} of the [sea_1]{sea}, [especially]{especially} the way that it is [affected]{affected} by the [weather_1]{weather}",
+      "entry": "sea",
+      "id": "sea#sea__12"
+    },
+    {
+      "comment": "the [average_1]{average} [level_1]{level} of the [ocean]{ocean} in [relation]{relation} to the [land_1]{land}. The [height]{heights} of [part_1]{parts} of the [land_1]{land} are [measured]{measured} from [sea_1]{sea} [level_1]{level}",
+      "entry": "sea level",
+      "id": "sea-level#sea-level__1"
+    },
+    {
+      "comment": "a time when there is a [big_1]{big} [difference]{difference} between the [high_1]{highest} and [low_1]{lowest} [level_1]{levels} of the [ocean]{ocean}",
+      "entry": "spring tide",
+      "id": "spring-tide#spring-tide__1"
+    },
+    {
+      "comment": "a white mass of bubbles on the top of a wave",
+      "entry": "spume",
+      "id": "spume#spume__1"
+    },
+    {
+      "comment": "the waves of the ocean as they move onto a beach, falling to produce foam  (=white water)",
+      "entry": "surf",
+      "id": "surf_2#surf_2__1"
+    },
+    {
+      "comment": "the [movement]{movement} of the [wave_1]{waves} in the [ocean]{ocean}",
+      "entry": "swell",
+      "id": "swell_2#swell_2__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [wave_1]{wave} that [cause_1]{causes} a [lot_1]{lot} of [damage_1]{damage} when it [hit_1]{hits} the [land_1]{land}",
+      "entry": "tidal wave",
+      "id": "tidal-wave#tidal-wave__1"
+    },
+    {
+      "comment": "the way that the level of the ocean regularly rises and falls during the day. The tide comes in or rises, then it turns and goes out or falls, and then turns again. At its highest point the tide is in and it is high tide, and at its lowest point the tide is out and it is low tide.",
+      "entry": "tide",
+      "id": "tide_1#tide_1__1"
+    },
+    {
+      "comment": "a [tidemark]{tidemark}",
+      "entry": "tideline",
+      "id": "tideline#tideline__1"
+    },
+    {
+      "comment": "a [mark_1]{mark} [left_1]{left} by the [ocean]{ocean} at the [high_1]{highest} [point_1]{point} it [reach_1]{reaches} on the [land_1]{land}",
+      "entry": "tidemark",
+      "id": "tidemark#tidemark__1"
+    },
+    {
+      "comment": "a low [area]{area} between two [high_1]{high} [wave_1]{waves} or [hill]{hills}",
+      "entry": "trough",
+      "id": "trough#trough__3"
+    },
+    {
+      "comment": "a very large wave or series of waves caused when something such as an earthquake moves a large quantity of water in the ocean",
+      "entry": "tsunami",
+      "id": "tsunami#tsunami__1"
+    },
+    {
+      "comment": "a [current_1]{current} that [move_1]{moves} below the [surface_1]{surface} or below another [current_1]{current} in an [ocean]{ocean} or a [river]{river}",
+      "entry": "undercurrent",
+      "id": "undercurrent#undercurrent__1"
+    },
+    {
+      "comment": "a [current_1]{current} below the [surface_1]{surface} of an [ocean]{ocean} or a [river]{river}, that [move_1]{moves} in the [opposite_1]{opposite} [direction]{direction} to the [water_1]{water} above it",
+      "entry": "undertow",
+      "id": "undertow#undertow__1"
+    },
+    {
+      "comment": "a [line_1]{line} of [water_1]{water} that [rise_1]{rises} up on the [surface_1]{surface} of an [ocean]{ocean}, [lake]{lake}, or [river]{river}",
+      "entry": "the waves",
+      "id": "wave_1#wave_1__1"
+    },
+    {
+      "comment": "[wave_1]{waves} that are [white_1]{white} at the top",
+      "entry": "whitecaps",
+      "id": "whitecaps#whitecaps__1"
+    }
+  ],
+  "thesaurus": "Tides and waves",
+  "type": "Related words"
+}

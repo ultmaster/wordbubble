@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to move [forward_1]{forward} by [jump_1]{jumping} on one [foot_1]{foot}",
+      "examples": [
+        "The [little_1]{little} [girl]{girl} was [hopping]{hopping} along next to her [mother_1]{mother}.",
+        "He [hop_1]{hopped} over the [puddle]{puddle}."
+      ],
+      "id": "hop_1__1"
+    },
+    {
+      "def": "to get into, onto, or out of a [vehicle]{vehicle} [quickly]{quickly}, [usually]{usually} to go a [short_1]{short} [distance_1]{distance}",
+      "examples": [
+        "[hop_1]{Hop} in. I\u2019ll give you a [lift_1]{lift} into [town]{town}.",
+        "So we [hop_1]{hopped} a [plane_1]{plane} to Boston for the [meeting]{meeting}."
+      ],
+      "id": "hop_1__6"
+    },
+    {
+      "def": "to move from one thing to another in a way that is not [plan_2]{planned}",
+      "examples": [
+        "[worker]{Workers} are [hopping]{hopping} from [job_1]{job} to [job_1]{job} as never before."
+      ],
+      "id": "hop_1__10"
+    }
+  ],
+  "word": "hop"
+}

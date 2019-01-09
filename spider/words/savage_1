@@ -1,0 +1,45 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[cruel]{cruel} and [unpleasant]{unpleasant} or [violent]{violent}",
+      "examples": [
+        "a savage [attack_1]{attack}/[beating]{beating}/[murder_1]{murder}",
+        "A savage [look_1]{look} [flit_1]{flitted} across his [face_1]{face}.",
+        "She [took]{took} a savage [pleasure]{pleasure} in [pointing]{pointing} out their [mistake_1]{mistakes}."
+      ],
+      "id": "savage_1__1"
+    },
+    {
+      "def": "[extremely]{extremely} [severe]{severe}",
+      "examples": [
+        "savage [cut_1]{cuts} in [public_1]{public} [service_1]{services}",
+        "[lose]{Losing} his [job_1]{job} had been a savage [blow_1]{blow}."
+      ],
+      "id": "savage_1__6"
+    },
+    {
+      "def": "a savage [area]{area} of [land_1]{land} has no [building]{buildings} on it and [look_1]{looks} very [cold_1]{cold}",
+      "examples": [
+        "a [bare_1]{bare} savage [landscape_1]{landscape}",
+        "a savage [coastline]{coastline}"
+      ],
+      "id": "savage_1__9"
+    },
+    {
+      "def": "[criticize]{criticizing} someone or something very much",
+      "examples": [
+        "She [wrote]{wrote} a savage [review_1]{review} of the [book_1]{book}.",
+        "a savage [attack_1]{attack} on the [government]{government}\u2019s [policy]{policies}"
+      ],
+      "id": "savage_1__12"
+    },
+    {
+      "def": "an [insulting]{insulting} way of [describe]{describing} someone or something from a [culture_1]{culture} that is not [considered]{considered} to be [advanced]{advanced}. This is now [considered]{considered} [offensive_1]{offensive}.",
+      "examples": [],
+      "id": "savage_1__15"
+    }
+  ],
+  "word": "savage"
+}

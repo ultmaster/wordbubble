@@ -1,0 +1,23 @@
+{
+  "part": "preposition",
+  "senses": [
+    {
+      "def": "[going_1]{going} through one [place_1]{place} on the way to another [place_1]{place}",
+      "examples": [
+        "They [flew]{flew} from [new]{New} York to [new]{New} Delhi via Frankfurt.",
+        "The [plan_1]{plan} was to [carry_1]{carry} [gas_1]{gas} via Iran to [turkey_1]{Turkey}."
+      ],
+      "id": "via__1"
+    },
+    {
+      "def": "[use_1]{using} a [particular_1]{particular} [method]{method} or [person]{person} to [send_1]{send} or [deliver]{deliver} something",
+      "examples": [
+        "Blake [spoke_1]{spoke} to the [audience]{audience} [live_1]{live} via [satellite]{satellite} from San Diego.",
+        "It\u2019s [easy_1]{easy} to [check_1]{check} your [bank_1]{bank} [account_1]{account} via the [internet]{Internet}.",
+        "We [received]{received} a [message_1]{message} from Davis via Paul Adams."
+      ],
+      "id": "via__4"
+    }
+  ],
+  "word": "via"
+}

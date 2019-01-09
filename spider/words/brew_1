@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} [beer]{beer}",
+      "examples": [],
+      "id": "brew_1__1"
+    },
+    {
+      "def": "if [tea]{tea} or [coffee]{coffee} is [brew_1]{brewing}, or if you are [brew_1]{brewing} it, you have made it and [left_1]{left} it to [develop]{develop} a [strong]{stronger} [flavor_1]{flavor}",
+      "examples": [],
+      "id": "brew_1__3"
+    },
+    {
+      "def": "if something [bad_1]{bad} is [brew_1]{brewing}, it is [beginning]{beginning} to [happen]{happen}",
+      "examples": [
+        "A [storm_1]{storm} was [brew_1]{brewing}.",
+        "The [crisis]{crisis} had been [brew_1]{brewing} since the [start_1]{start} of the [year]{year}."
+      ],
+      "id": "brew_1__4"
+    }
+  ],
+  "word": "brew"
+}

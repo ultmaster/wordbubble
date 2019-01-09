@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [transparent]{transparent} [object_1]{object} or [substance]{substance} is [clear_1]{clear} or thin enough for you to see [thing]{things} through",
+      "entry": "transparent",
+      "id": "transparent#transparent__1"
+    },
+    {
+      "comment": "[opaque]{opaque} [glass]{glass}, [liquid_1]{liquid}, etc. is [difficult]{difficult} to see through",
+      "entry": "opaque",
+      "id": "opaque#opaque__1"
+    },
+    {
+      "comment": "[clear_1]{clear} enough for [light_1]{light} to [pass_1]{pass} through but not [completely]{completely} [clear_1]{clear}",
+      "entry": "translucent",
+      "id": "translucent#translucent__1"
+    },
+    {
+      "comment": "[completely]{completely} [transparent]{transparent} and very [bright_1]{bright}",
+      "entry": "crystal clear",
+      "id": "crystal-clear#crystal-clear__1"
+    },
+    {
+      "comment": "[transparent]{transparent}",
+      "entry": "clear",
+      "id": "clear_1#clear_1__13"
+    },
+    {
+      "comment": "[used]{used} about [thing]{things} that are [usually]{usually} [clear_1]{clear} or [transparent]{transparent} when they have a [slightly]{slightly} [white_1]{white} [appearance]{appearance}",
+      "entry": "milky",
+      "id": "milky#milky__3"
+    },
+    {
+      "comment": "not [clear_1]{clear} because there is [smoke_1]{smoke}, [dust_1]{dust}, or [water_1]{water} in the [air_1]{air}",
+      "entry": "hazy",
+      "id": "hazy#hazy__1"
+    },
+    {
+      "comment": "a [cloudy]{cloudy} [liquid_1]{liquid} is not [clear_1]{clear}",
+      "entry": "cloudy",
+      "id": "cloudy#cloudy__3"
+    },
+    {
+      "comment": "very [transparent]{transparent} and [bright_1]{bright}",
+      "entry": "crystalline",
+      "id": "crystalline#crystalline__2"
+    },
+    {
+      "comment": "[transparent]{transparent}, or [clear_1]{clear}",
+      "entry": "limpid",
+      "id": "limpid#limpid__1"
+    }
+  ],
+  "thesaurus": "Transparent and opaque",
+  "type": "Synonyms"
+}

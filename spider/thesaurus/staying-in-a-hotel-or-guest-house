@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [ticket_1]{ticket}, [hotel]{hotel} [room_1]{room}, etc. that is [bookable]{bookable} can be [bought]{bought} or [arrange]{arranged} before you [need_1]{need} to use it",
+      "entry": "bookable",
+      "id": "bookable#bookable__1"
+    },
+    {
+      "comment": "to [arrange]{arrange} for yourself or someone else to [stay_1]{stay} at a [hotel]{hotel}, [hospital]{hospital}, etc.",
+      "entry": "book in",
+      "id": "book-in#book-in__1"
+    },
+    {
+      "comment": "to [announce]{announce} that you have [arrive]{arrived} at a [hotel]{hotel} or [event]{event} so that your name can be put on an [official_1]{official} [record_1]{record}",
+      "entry": "book in",
+      "id": "book-in#book-in__2"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} to [buy_1]{buy} a [travel_1]{travel} [ticket_1]{ticket}, [stay_1]{stay} in a [hotel]{hotel} [room_1]{room}, etc. at a [later_1]{later} [date_1]{date}",
+      "entry": "booking",
+      "id": "booking#booking__1"
+    },
+    {
+      "comment": "to arrive at a hotel where you have arranged to stay and give your personal details to the person working at the reception desk",
+      "entry": "check in",
+      "id": "check-in_1#check-in_1__1"
+    },
+    {
+      "comment": "to [deal_1]{deal} with someone when they [arrive]{arrive} at a [hotel]{hotel} or at an [airport]{airport} from which they have [arrange]{arranged} to [fly_1]{fly}",
+      "entry": "check in",
+      "id": "check-in_1#check-in_1__7"
+    },
+    {
+      "comment": "to arrive at a hotel where you have arranged to stay and give your personal details to the person working at the reception desk",
+      "entry": "check into",
+      "id": "check-into#check-into__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [hotel]{hotel} after [pay_1]{paying} the bill",
+      "entry": "check out",
+      "id": "check-out#check-out__1"
+    },
+    {
+      "comment": "someone who is [pay_1]{paying} to [stay_1]{stay} at a [hotel]{hotel} or [eat]{eat} in a [restaurant]{restaurant}",
+      "entry": "guest",
+      "id": "guest_1#guest_1__6"
+    },
+    {
+      "comment": "a [visit_1]{visit} in which you [pay_1]{pay} to [stay_1]{stay} in someone\u2019s [house_1]{house} rather than in a [hotel]{hotel}",
+      "entry": "homestay",
+      "id": "homestay#homestay__1"
+    },
+    {
+      "comment": "a [hotel]{hotel} [guest_1]{guest} who [leaves]{leaves} a [hotel]{hotel} at a [later_1]{later} time than when [guest_1]{guests} [usually]{usually} have to [leave_1]{leave}",
+      "entry": "late checkout",
+      "id": "late-checkout#late-checkout__1"
+    },
+    {
+      "comment": "someone who [use_1]{uses} a [particular_1]{particular} [restaurant]{restaurant}, [bar_1]{bar}, or other [business]{business}",
+      "entry": "patron",
+      "id": "patron#patron__1"
+    },
+    {
+      "comment": "the use of a [restaurant]{restaurant}, [bar_1]{bar}, or other [business]{business}",
+      "entry": "patronage",
+      "id": "patronage#patronage__5"
+    },
+    {
+      "comment": "to give your details to a hotel before you arrive there, instead of doing it when you check in",
+      "entry": "pre-register",
+      "id": "pre-register#pre-register__1"
+    },
+    {
+      "comment": "the price for a room in a hotel that is advertised in the hotel and does not include any discounts",
+      "entry": "rack rate",
+      "id": "rack-rate#rack-rate__1"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} by which something such as a [room_1]{room} in a [hotel]{hotel} or a [seat_1]{seat} in a [theater]{theater} is [kept]{kept} for you to use [later_1]{later}",
+      "entry": "reservation",
+      "id": "reservation#reservation__1"
+    },
+    {
+      "comment": "to [make_1]{make} an [arrangement]{arrangement} so that something such as a [room_1]{room} in a [hotel]{hotel} or a [seat_1]{seat} in a [theater]{theater} is [kept]{kept} for you to use [later_1]{later}",
+      "entry": "reserve",
+      "id": "reserve_2#reserve_2__1"
+    }
+  ],
+  "thesaurus": "Staying in a hotel or guest house",
+  "type": "Related words"
+}

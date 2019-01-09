@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make friends",
+  "senses": [
+    {
+      "def": "to become [friend_1]{friends}",
+      "examples": [
+        "They made [friend_1]{friends} with the [children]{children} next [door_1]{door}."
+      ],
+      "id": "make-friends__1"
+    },
+    {
+      "def": "to form [friendship]{friendships}",
+      "examples": [
+        "You\u2019ll [make_1]{make} a [lot_1]{lot} of [new]{new} [friend_1]{friends} at [college]{college}."
+      ],
+      "id": "make-friends__3"
+    }
+  ]
+}

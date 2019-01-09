@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fill out",
+  "senses": [
+    {
+      "def": "to [add_1]{add} [information]{information} such as your name or [address_1]{address} in the empty [space_1]{spaces} on an [official_1]{official} [document_1]{document}",
+      "examples": [
+        "It [took]{took} me a long time to fill out the [application]{application} form."
+      ],
+      "id": "fill-out__1"
+    },
+    {
+      "def": "if someone [fill_1]{fills} out, their body becomes less thin",
+      "examples": [
+        "Sam\u2019s [really]{really} [fill_1]{filled} out, hasn\u2019t he?"
+      ],
+      "id": "fill-out__3"
+    }
+  ]
+}

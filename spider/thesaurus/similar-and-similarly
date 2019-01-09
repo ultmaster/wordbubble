@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[thing]{things} that are [similar]{similar} [share_1]{share} some [quality_1]{qualities} but are not [exactly]{exactly} the same",
+      "entry": "similar",
+      "id": "similar#similar__1"
+    },
+    {
+      "comment": "[similar]{similar} to someone or something else, or in a [similar]{similar} way to someone or something else",
+      "entry": "like",
+      "id": "like_1#like_1__2"
+    },
+    {
+      "comment": "[fairly]{fairly} [similar]{similar} to another thing, so that it is [reasonable]{reasonable} to [compare_1]{compare} them",
+      "entry": "comparable",
+      "id": "comparable#comparable__1"
+    },
+    {
+      "comment": "[consist]{consisting} of [thing]{things} that are very [similar]{similar} or all of the same [type_1]{type}",
+      "entry": "homogeneous",
+      "id": "homogeneous#homogeneous__1"
+    },
+    {
+      "comment": "if [people_1]{people} or [thing]{things} are [alike_1]{alike}, they are [similar]{similar} in some way",
+      "entry": "alike",
+      "id": "alike_2#alike_2__1"
+    },
+    {
+      "comment": "if two [thing]{things} are [indistinguishable]{indistinguishable}, you cannot see any [difference]{difference} between them",
+      "entry": "indistinguishable",
+      "id": "indistinguishable#indistinguishable__1"
+    },
+    {
+      "comment": "very [similar]{similar} to something",
+      "entry": "near",
+      "id": "near_1#near_1__15"
+    },
+    {
+      "comment": "[similar]{similar} to someone or something else but not [exactly]{exactly} the same",
+      "entry": "close",
+      "id": "close_2#close_2__19"
+    },
+    {
+      "comment": "[similar]{similar} to",
+      "entry": "not unlike",
+      "id": "not-unlike#not-unlike__1"
+    },
+    {
+      "comment": "[similar]{similar}, but not [exactly]{exactly} the same",
+      "entry": "sort of",
+      "id": "sort-of#sort-of__4"
+    }
+  ],
+  "thesaurus": "Similar and similarly",
+  "type": "Synonyms"
+}

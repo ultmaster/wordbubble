@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "drop out",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} something such as an [activity]{activity}, [school_1]{school}, or [competition]{competition} before you have [finished]{finished} what you [intended_1]{intended} to do",
+      "examples": [
+        "She was [injured]{injured} in the first round and had to [drop_1]{drop} out.",
+        "Too many [student]{students} [drop_1]{drop} out of [college]{college} after only one [year]{year}."
+      ],
+      "id": "drop-out__1"
+    },
+    {
+      "def": "to [decide]{decide} not to have an [ordinary]{ordinary} [job_1]{job} or [life]{life} because you do not [want_1]{want} to be part of [society]{society}",
+      "examples": [
+        "He [decided]{decided} to [drop_1]{drop} out and [spend]{spend} his [life]{life} [traveling]{traveling}."
+      ],
+      "id": "drop-out__4"
+    }
+  ]
+}

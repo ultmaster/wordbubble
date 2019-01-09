@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "dig around",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to find something [inside_1]{inside} a [place_1]{place} or [container]{container} by [searching]{searching} in every part of it",
+      "examples": [
+        "She [dug]{dug} around in her [purse_1]{purse} for a [pen_1]{pen}."
+      ],
+      "id": "dig-around__1"
+    },
+    {
+      "def": "to [try_1]{try} very [hard_1]{hard} to find out [information]{information} about someone, [especially]{especially} when they do not [want_1]{want} you to",
+      "examples": [],
+      "id": "dig-around__3"
+    }
+  ]
+}

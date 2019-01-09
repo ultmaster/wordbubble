@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "in a [firm_1]{firm} and [definite]{definite} way [intended_1]{intended} to [end_1]{end} [discussion]{discussion} of a [subject_1]{subject}",
+      "examples": [
+        "He flatly [deny]{denied} being [near_1]{near} the [scene]{scene} of the [crime_1]{crime}."
+      ],
+      "id": "flatly__1"
+    },
+    {
+      "def": "without [showing]{showing} any [emotion]{emotion} or interest",
+      "examples": [
+        "\u201cHow can I [help_1]{help} you?\u201d the [clerk_1]{clerk} [ask_1]{asked} flatly."
+      ],
+      "id": "flatly__3"
+    }
+  ],
+  "word": "flatly"
+}

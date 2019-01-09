@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [process_1]{process} of [put]{putting} a [dead_1]{dead} body into a [grave_1]{grave} in the [ground_1]{ground} at a [funeral]{funeral}",
+      "examples": [
+        "The [family_1]{family} [chose]{chose} [cremate#cremate__2]{cremation} rather than burial.",
+        "burial [rite]{rites}",
+        "a burial [mound]{mound}"
+      ],
+      "id": "burial__1"
+    },
+    {
+      "def": "the [act_1]{act} of [bury]{burying} something in the [ground_1]{ground}",
+      "examples": [
+        "the burial of [toxic]{toxic} [waste_1]{waste}"
+      ],
+      "id": "burial__5"
+    }
+  ],
+  "word": "burial"
+}

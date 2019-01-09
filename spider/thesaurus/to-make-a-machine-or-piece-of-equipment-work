@@ -1,0 +1,216 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} a [piece_1]{piece} of [equipment]{equipment} or a [process_1]{process} [start_1]{start} [working]{working}",
+      "entry": "activate",
+      "id": "activate#activate__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} [start_1]{start} [working]{working}",
+      "entry": "actuate",
+      "id": "actuate#actuate__1"
+    },
+    {
+      "comment": "to [make_1]{make} something such as a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} do what you [want_1]{want} it to do by being [skillful]{skillful}, [gentle]{gentle}, and [patient_1]{patient}",
+      "entry": "coax",
+      "id": "coax#coax__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [machine_1]{machine}, system, [vehicle]{vehicle}, etc. move or [operate]{operate} in the way that you [want_1]{want} it to",
+      "entry": "control",
+      "id": "control_2#control_2__5"
+    },
+    {
+      "comment": "to [start_1]{start} an [engine]{engine} or [machine_1]{machine} by [turning]{turning} a [crank_1]{crank}",
+      "entry": "crank",
+      "id": "crank_2#crank_2__1"
+    },
+    {
+      "comment": "to make something come out from a machine, for example a DVD from a DVD player or a CD from a computer",
+      "entry": "eject",
+      "id": "eject#eject__4"
+    },
+    {
+      "comment": "to [make_1]{make} [electricity]{electricity} or another form of [power_1]{power} [flow_1]{flow} into a [machine_1]{machine}",
+      "entry": "energize",
+      "id": "energize#energize__2"
+    },
+    {
+      "comment": "if a part of a [machine_1]{machine} [engage]{engages}, or if you [engage]{engage} it, it [fit_1]{fits} into another part so that they [work_1]{work} together",
+      "entry": "engage",
+      "id": "engage#engage__6"
+    },
+    {
+      "comment": "to [switch_1]{switch} a [bright_1]{bright} [light_1]{light} on, or on and off, [especially]{especially} as a [signal_1]{signal}",
+      "entry": "flash",
+      "id": "flash_1#flash_1__5"
+    },
+    {
+      "comment": "to move a [switch_1]{switch} in [order_1]{order} to [turn_1]{turn} something such as a [light_1]{light} or [machine_1]{machine} on or off",
+      "entry": "flick",
+      "id": "flick_1#flick_1__9"
+    },
+    {
+      "comment": "to [switch_1]{switch} a [light_1]{light}, [machine_1]{machine}, etc. on or off",
+      "entry": "flip a switch",
+      "id": "flip-a-switch#flip-a-switch__1"
+    },
+    {
+      "comment": "to [switch_1]{switch} on a [light_1]{light}, [machine_1]{machine}, etc.",
+      "entry": "flip on",
+      "id": "flip-on#flip-on__1"
+    },
+    {
+      "comment": "to turn a part on a camera, telescope, microscope, etc. until you can see something clearly",
+      "entry": "focus",
+      "id": "focus_1#focus_1__8"
+    },
+    {
+      "comment": "to put [grease_1]{grease} on something to [make_1]{make} it [work_1]{work} [smoothly]{smoothly}",
+      "entry": "grease",
+      "id": "grease_2#grease_2__1"
+    },
+    {
+      "comment": "if you have the [radio_1]{radio}, [television]{television}, [heating]{heating}, etc. on, you have [switch_1]{switched} it on and it is [working]{working}",
+      "entry": "have on",
+      "id": "have-on#have-on__5"
+    },
+    {
+      "comment": "to [press_1]{press} something such as a [switch_1]{switch} on a [machine_1]{machine}, [vehicle]{vehicle}, or computer in [order_1]{order} to [make_1]{make} it do something",
+      "entry": "hit",
+      "id": "hit_1#hit_1__28"
+    },
+    {
+      "comment": "to put [oil_1]{oil} on the [part_1]{parts} of a [machine_1]{machine} that move to [make_1]{make} them move more [smoothly]{smoothly}",
+      "entry": "lubricate",
+      "id": "lubricate#lubricate__1"
+    },
+    {
+      "comment": "to provide a place, machine, or system with the people needed to operate it. Some people avoid using this word because they think it is offensive to women, and they use staff or crew instead",
+      "entry": "man",
+      "id": "man_2#man_2__1"
+    },
+    {
+      "comment": "to use and [control_1]{control} a [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "operate",
+      "id": "operate#operate__5"
+    },
+    {
+      "comment": "to [make_1]{make} something such as a [radio_1]{radio}, CD, etc. [start_1]{start} to [produce_1]{produce} [sound_1]{sounds}, or to be made to do this",
+      "entry": "play",
+      "id": "play_1#play_1__20"
+    },
+    {
+      "comment": "to give a [machine_1]{machine} or [vehicle]{vehicle} [power_1]{power}",
+      "entry": "power",
+      "id": "power_2#power_2__1"
+    },
+    {
+      "comment": "to [push_1]{push} something such as a [button_1]{button} or [switch_1]{switch} in [order_1]{order} to [make_1]{make} a [piece_1]{piece} of [equipment]{equipment} [start_1]{start} [working]{working}",
+      "entry": "press",
+      "id": "press_2#press_2__8"
+    },
+    {
+      "comment": "to move a [handle_1]{handle} that [control_1]{controls} a [machine_1]{machine} so that the [machine_1]{machine} [work_1]{works}",
+      "entry": "pull",
+      "id": "pull_1#pull_1__11"
+    },
+    {
+      "comment": "to [make_1]{make} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} [start_1]{start} [working]{working}, [especially]{especially} by [pressing]{pressing} a [switch_1]{switch}",
+      "entry": "put on",
+      "id": "put-on_1#put-on_1__25"
+    },
+    {
+      "comment": "to put a [video_1]{video}, CD, etc. in a [piece_1]{piece} of [equipment]{equipment} so that you can [watch_1]{watch} it or [listen_1]{listen} to it",
+      "entry": "put on",
+      "id": "put-on_1#put-on_1__27"
+    },
+    {
+      "comment": "to [press_1]{press} a [special_1]{special} [button_1]{button} or to [make_1]{make} [change_1]{changes} so that a [machine_1]{machine} will [work_1]{work} again or [work_1]{work} in a [different]{different} way",
+      "entry": "reset",
+      "id": "reset#reset__1"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or [engine]{engine} [run_1]{runs}, or if you [run_1]{run} it, it is [working]{working}",
+      "entry": "run",
+      "id": "run_1#run_1__19"
+    },
+    {
+      "comment": "to [switch_1]{switch} on a [machine_1]{machine} or [engine]{engine}, [especially]{especially} a [motor_1]{motor} [vehicle]{vehicle}",
+      "entry": "start",
+      "id": "start_1#start_1__50"
+    },
+    {
+      "comment": "to [switch_1]{switch} on a [machine_1]{machine} or [engine]{engine}, [especially]{especially} a [motor_1]{motor} [vehicle]{vehicle}",
+      "entry": "start up",
+      "id": "start-up_1#start-up_1__4"
+    },
+    {
+      "comment": "if you [switch_1]{switch} on something such as a [light_1]{light} or a [machine_1]{machine}, or if it [switch_1]{switches} on, you [make_1]{make} it [start_1]{start} [working]{working}",
+      "entry": "switch on",
+      "id": "switch-on#switch-on__1"
+    },
+    {
+      "comment": "to [try_1]{try} [use_1]{using} something such as a [machine_1]{machine} or a [product]{product} to find out whether it [work_1]{works} [correctly]{correctly} or is [satisfactory]{satisfactory}",
+      "entry": "test",
+      "id": "test_2#test_2__11"
+    },
+    {
+      "comment": "if you [throw_1]{throw} a [switch_1]{switch}, [handle_1]{handle}, etc., you move it up or down, for [example]{example} in [order_1]{order} to [start_1]{start} or [stop_1]{stop} a [machine_1]{machine}",
+      "entry": "throw",
+      "id": "throw_1#throw_1__23"
+    },
+    {
+      "comment": "to [make_1]{make} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} [start_1]{start} to [work_1]{work}",
+      "entry": "trigger",
+      "id": "trigger_1#trigger_1__7"
+    },
+    {
+      "comment": "to [make_1]{make} a [switch_1]{switch} go on or off, [especially]{especially} by [accident]{accident}",
+      "entry": "trip",
+      "id": "trip_2#trip_2__8"
+    },
+    {
+      "comment": "to [reduce]{reduce} the amount of [sound_1]{sound}, [heat_1]{heat}, or [light_1]{light} [produce_1]{produced} by a [piece_1]{piece} of [equipment]{equipment} by [pressing]{pressing} a [button_1]{button} or [moving]{moving} a [switch_1]{switch}",
+      "entry": "turn down",
+      "id": "turn-down#turn-down__4"
+    },
+    {
+      "comment": "to [make_1]{make} a [piece_1]{piece} of [equipment]{equipment} [start_1]{start} [working]{working} by [pressing]{pressing} a [button_1]{button} or [moving]{moving} a [switch_1]{switch}",
+      "entry": "turn on",
+      "id": "turn-on_1#turn-on_1__1"
+    },
+    {
+      "comment": "to start using a supply of water, gas, or electricity by turning a faucet, pressing a button, or moving a switch",
+      "entry": "turn on",
+      "id": "turn-on_1#turn-on_1__3"
+    },
+    {
+      "comment": "to [increase_1]{increase} the amount of [sound_1]{sound}, [heat_1]{heat}, or [light_1]{light} [produce_1]{produced} by a [piece_1]{piece} of [equipment]{equipment} by [pressing]{pressing} a [button_1]{button} or [moving]{moving} a [switch_1]{switch}",
+      "entry": "turn up",
+      "id": "turn-up_1#turn-up_1__1"
+    },
+    {
+      "comment": "to [turn_1]{turn} a [switch_1]{switch} on a [piece_1]{piece} of [equipment]{equipment} or a [machine_1]{machine}",
+      "entry": "twiddle",
+      "id": "twiddle#twiddle__1"
+    },
+    {
+      "comment": "to do something [use_1]{using} a [machine_1]{machine}, [tool_1]{tool}, [skill]{skill}, [method]{method}, etc. in [order_1]{order} to do a [job_1]{job} or to [achieve]{achieve} a [result_1]{result}",
+      "entry": "use",
+      "id": "use_1#use_1__1"
+    },
+    {
+      "comment": "if you [warm_1]{warm} up a [machine_1]{machine} or an [engine]{engine}, you [turn_1]{turn} it on and [wait_1]{wait} for a [little_1]{little} while until it is ready to be [used]{used}",
+      "entry": "warm up",
+      "id": "warm-up_1#warm-up_1__8"
+    },
+    {
+      "comment": "to [operate]{operate} something such as a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "work",
+      "id": "work_1#work_1__20"
+    }
+  ],
+  "thesaurus": "To make a machine or piece of equipment work",
+  "type": "Related words"
+}

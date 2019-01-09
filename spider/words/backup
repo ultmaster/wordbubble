@@ -1,0 +1,40 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [copy_1]{copy} of [information]{information} on your computer that you [make_1]{make} in [case_1]{case} you [lose]{lose} the [information]{information}",
+      "examples": [
+        "[remember]{Remember} to do [regular_1]{regular} [backup]{backups}.",
+        "a backup [copy_1]{copy}"
+      ],
+      "id": "backup__1"
+    },
+    {
+      "def": "[people_1]{people} or [equipment]{equipment} that can be [used]{used} when [extra_1]{extra} [help_1]{help} is [need_1]{needed}",
+      "examples": [
+        "I\u2019ve [got_1]{got} my [mother_1]{mother} as a backup in [case_1]{case} the [babysitter]{babysitter} [cancel]{cancels}.",
+        "They [realize]{realized} that Sykes was [armed]{armed}, and [radio_2]{radioed} for backup.",
+        "a backup [generator]{generator}/[crew_1]{crew}"
+      ],
+      "id": "backup__4"
+    },
+    {
+      "def": "an [increase_1]{increase} in the amount of something that [happen]{happens} when its [normal_1]{normal} [flow_1]{flow} is [stop_1]{stopped}",
+      "examples": [
+        "a backup in [traffic_1]{traffic}",
+        "a backup of [sewage]{sewage} into a [building]{building}"
+      ],
+      "id": "backup__8"
+    },
+    {
+      "def": "[music]{music} that is [play_1]{played} or [sung]{sung} to [add_1]{add} to the [main_1]{main} [singer]{singer}\u2019s [voice_1]{voice}",
+      "examples": [
+        "Her [sister]{sister} [go_1]{goes} on [tour_1]{tour} with her and [sing_1]{sings} backup.",
+        "a backup [vocalist]{vocalist}"
+      ],
+      "id": "backup__11"
+    }
+  ],
+  "word": "backup"
+}

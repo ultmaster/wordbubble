@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a low [sound_1]{sound} made when one [hard_1]{hard} [heavy_1]{heavy} [object_1]{object} [hit_1]{hits} another",
+      "entry": "clunk",
+      "id": "clunk#clunk__1"
+    },
+    {
+      "comment": "a low [continuous]{continuous} [sound_1]{sound}",
+      "entry": "drone",
+      "id": "drone_2#drone_2__1"
+    },
+    {
+      "comment": "a long low [sound_1]{sound} made by something as it [move_1]{moves}",
+      "entry": "groan",
+      "id": "groan_2#groan_2__2"
+    },
+    {
+      "comment": "a [frightening]{frightening} or [unfriendly]{unfriendly} low [noise]{noise}",
+      "entry": "growl",
+      "id": "growl_2#growl_2__1"
+    },
+    {
+      "comment": "a low [continuous]{continuous} [sound_1]{sound}",
+      "entry": "grumble",
+      "id": "grumble_2#grumble_2__3"
+    },
+    {
+      "comment": "a low [continuous]{continuous} [noise]{noise} made by a [machine_1]{machine} or a [lot_1]{lot} of [people_1]{people} [talk_1]{talking}",
+      "entry": "hum",
+      "id": "hum_2#hum_2__1"
+    },
+    {
+      "comment": "a long low [sound_1]{sound} made by something such as the [wind_1]{wind}",
+      "entry": "moan",
+      "id": "moan_2#moan_2__3"
+    },
+    {
+      "comment": "the [high_1]{high} or low [quality_1]{quality} of a [sound_1]{sound}",
+      "entry": "pitch",
+      "id": "pitch_1#pitch_1__3"
+    },
+    {
+      "comment": "a low [sound_1]{sound} made by something [heavy_1]{heavy} [fall_1]{falling} or [hit_1]{hitting} something",
+      "entry": "thud",
+      "id": "thud_1#thud_1__1"
+    }
+  ],
+  "thesaurus": "Low sounds",
+  "type": "Related words"
+}

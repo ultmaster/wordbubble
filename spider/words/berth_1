@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [place_1]{place} at a [port]{port} where a [ship_1]{ship} [stay_1]{stays} for a [period_1]{period} of time",
+      "examples": [],
+      "id": "berth_1__1"
+    },
+    {
+      "def": "a [bed_1]{bed} on a [train_1]{train} or [ship_1]{ship}",
+      "examples": [
+        "the [upper_1]{upper}/[lower_1]{lower} berth"
+      ],
+      "id": "berth_1__2"
+    }
+  ],
+  "word": "berth"
+}

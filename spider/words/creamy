@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[yellow_1]{yellow}-[white_1]{white} in [color_1]{color}",
+      "examples": [
+        "She had [golden]{golden} [hair]{hair} and creamy [skin_1]{skin}."
+      ],
+      "id": "creamy__1"
+    },
+    {
+      "def": "a creamy [substance]{substance} is thick, [soft]{soft}, and [smooth_1]{smooth} and [does]{does} not [flow_1]{flow} [easily]{easily}",
+      "examples": [
+        "[beat_1]{Beat} the [butter_1]{butter} in a [large_1]{large} [bowl_1]{bowl} until creamy."
+      ],
+      "id": "creamy__3"
+    },
+    {
+      "def": "[contain]{containing} or made from [cream_1]{cream}",
+      "examples": [
+        "We had [fish_1]{fish} with a creamy [sauce]{sauce}."
+      ],
+      "id": "creamy__5"
+    }
+  ],
+  "word": "creamy"
+}

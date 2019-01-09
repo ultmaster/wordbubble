@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to put [secret_1]{secret} [information]{information} into [code_1]{code}  (=a system of words, numbers, or symbols that hides its real meaning)",
+      "examples": [],
+      "id": "encode__1"
+    },
+    {
+      "def": "to [express_1]{express} what you [want_1]{want} to [say_1]{say} in a [language]{language}. To [decode]{decode} [word_1]{words} in a [language]{language} is to [understand]{understand} them when you see or [hear]{hear} them.",
+      "examples": [],
+      "id": "encode__2"
+    },
+    {
+      "def": "to [change_1]{change} [information]{information} or [instruction]{instructions} into a form that a computer can use",
+      "examples": [],
+      "id": "encode__3"
+    }
+  ],
+  "word": "encode"
+}

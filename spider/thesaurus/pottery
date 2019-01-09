@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[ceramic]{ceramic} [object_1]{objects}, [decoration]{decorations}, or art",
+      "entry": "ceramics",
+      "id": "ceramics#ceramics__2"
+    },
+    {
+      "comment": "a [soft]{soft} [white_1]{white} [clay]{clay} [used]{used} for [making]{making} [expensive]{expensive} [cup_1]{cups}, [plate_1]{plates}, etc.",
+      "entry": "china clay",
+      "id": "china-clay#china-clay__1"
+    },
+    {
+      "comment": "to [bake_1]{bake} [clay]{clay} at a very [high_1]{high} [temperature]{temperature} so that it becomes very [hard_1]{hard}",
+      "entry": "fire",
+      "id": "fire_2#fire_2__12"
+    },
+    {
+      "comment": "a [type_1]{type} of [oven]{oven} [used]{used} for [bake_1]{baking} [clay]{clay}, [brick_1]{bricks}, etc. to [make_1]{make} them [hard_1]{hard}",
+      "entry": "kiln",
+      "id": "kiln#kiln__1"
+    },
+    {
+      "comment": "to prepare dough or clay by pressing it continuously",
+      "entry": "knead",
+      "id": "knead#knead__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} [dish_1]{dishes} or other [object_1]{objects} out of [clay]{clay}",
+      "entry": "potter",
+      "id": "potter_1#potter_1__1"
+    },
+    {
+      "comment": "a round [flat_1]{flat} [wheel_1]{wheel} that a [potter_1]{potter} [use_1]{uses} to [make_1]{make} [dish_1]{dishes} or [container]{containers} out of [clay]{clay}",
+      "entry": "potter\u2019s wheel",
+      "id": "potter-s-wheel#potter-s-wheel__1"
+    },
+    {
+      "comment": "[object_1]{objects} such as [plate_1]{plates} and [cup_1]{cups} that are made out of [clay]{clay} and [bake_1]{baked} in an [oven]{oven} so that they become [hard_1]{hard}",
+      "entry": "pottery",
+      "id": "pottery#pottery__1"
+    },
+    {
+      "comment": "liquid clay used in making pots",
+      "entry": "slip",
+      "id": "slip_2#slip_2__13"
+    }
+  ],
+  "thesaurus": "Pottery",
+  "type": "Related words"
+}

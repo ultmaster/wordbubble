@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to the [chemical_1]{chemical} [substance]{substances} and [process_1]{processes} in [living_1]{living} [thing]{things}",
+      "entry": "biochemical",
+      "id": "biochemical#biochemical__1"
+    },
+    {
+      "comment": "the [variety]{variety} of [different]{different} [type_1]{types} of [plant_1]{plant} and [animal_1]{animal} [life]{life} in a [particular_1]{particular} [region]{region}",
+      "entry": "biodiversity",
+      "id": "biodiversity#biodiversity__1"
+    },
+    {
+      "comment": "[relate]{relating} to [living_1]{living} [thing]{things}",
+      "entry": "biological",
+      "id": "biological#biological__1"
+    },
+    {
+      "comment": "the [natural_1]{natural} [process_1]{processes} that [control_1]{control} how a [living_1]{living} thing [lives]{lives}",
+      "entry": "biology",
+      "id": "biology#biology__2"
+    },
+    {
+      "comment": "the [animal_1]{animals} and [plant_1]{plants} found in a [particular_1]{particular} [area]{area}",
+      "entry": "biology",
+      "id": "biology#biology__4"
+    },
+    {
+      "comment": "the [study_1]{study} of [system]{systems} and [substance]{substances} [used]{used} in [nature]{nature} in [order_1]{order} to find [solution]{solutions} to [human_1]{human} and [technical]{technical} [problem]{problems}",
+      "entry": "biomimicry",
+      "id": "biomimicry#biomimicry__1"
+    },
+    {
+      "comment": "the use of [bacteria]{bacteria} and [plant_1]{plant} and [animal_1]{animal} [cell]{cells} for [industrial]{industrial} or [scientific]{scientific} [purpose]{purposes}, for [example]{example} to [make_1]{make} [drug_1]{drugs} or [chemical_1]{chemicals}",
+      "entry": "biotechnology",
+      "id": "biotechnology#biotechnology__1"
+    },
+    {
+      "comment": "something such as bacteria or a virus that causes disease",
+      "entry": "pathogen",
+      "id": "pathogen#pathogen__1"
+    },
+    {
+      "comment": "[relate]{relating} to the way that the body of a [living_1]{living} thing [operate]{operates}",
+      "entry": "physiological",
+      "id": "physiological#physiological__1"
+    },
+    {
+      "comment": "[relate]{relating} to [physiology]{physiology} as a [science]{science}",
+      "entry": "physiological",
+      "id": "physiological#physiological__3"
+    },
+    {
+      "comment": "the way that the body of a [particular_1]{particular} [living_1]{living} thing [operate]{operates}",
+      "entry": "physiology",
+      "id": "physiology#physiology__2"
+    }
+  ],
+  "thesaurus": "General words relating to biological sciences",
+  "type": "Related words"
+}

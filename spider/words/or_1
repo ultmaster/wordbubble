@@ -1,0 +1,59 @@
+{
+  "boundary": true,
+  "part": "conjunction",
+  "senses": [
+    {
+      "def": "[used]{used} for [connect]{connecting} [possibility]{possibilities} or [choice_1]{choices}. In a [list_1]{list}, \u201cor\u201d is [usually]{usually} [used]{used} only before the last [possibility]{possibility} or [choice_1]{choice}",
+      "examples": [
+        "Which [color_1]{color} do you [want_1]{want} \u2013 red, [green_1]{green}, [yellow_1]{yellow}, or [blue_1]{blue}?",
+        "He\u2019s [probably]{probably} at [lunch_1]{lunch} or in a [meeting]{meeting}.",
+        "\u201cWhen will you get the [result_1]{results}?\u201d \u201cEither [tomorrow_1]{tomorrow} or the [day]{day} after.\u201d",
+        "You don\u2019t [care_1]{care} whether he [lives]{lives} or [die_1]{dies}, do you?",
+        "The [jury]{jury} must [decide]{decide} whether the [prisoner]{prisoner} is [guilty]{guilty} or not."
+      ],
+      "id": "or_1__1"
+    },
+    {
+      "def": "[used]{used} for [including]{including} someone or something else in a [negative_1]{negative} [statement_1]{statement}",
+      "examples": [
+        "She\u2019s had nothing to [eat]{eat} or [drink_1]{drink} all [day]{day}.",
+        "I never had any [help_1]{help} or [advice]{advice} from my [parent]{parents}."
+      ],
+      "id": "or_1__7"
+    },
+    {
+      "def": "[used]{used} between two [similar]{similar} [number_1]{numbers} for [showing]{showing} that you do not [know_1]{know} what the [exact_1]{exact} [number_1]{number} is",
+      "examples": [
+        "I can [photocopy_1]{photocopy} your [note_1]{notes}. It\u2019ll only take a [minute_1]{minute} or two.",
+        "The [car]{car} has to be [service_2]{serviced} every five or six [thousand]{thousand} [mile]{miles}."
+      ],
+      "id": "or_1__10"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} what will [happen]{happen} if someone [does]{does} not do something",
+      "examples": [
+        "The [soldier_1]{soldiers} [told]{told} everyone to [leave_1]{leave} or they would be [shot_1]{shot}.",
+        "We must [deal_1]{deal} with the [problem]{problem} now, or else it will be too [late_1]{late}.",
+        "You\u2019d better do what I say, or else  (=I will do something bad to you)."
+      ],
+      "id": "or_1__13"
+    },
+    {
+      "def": "[used]{used} for [introduce]{introducing} a [comment_1]{comment} that [correct_2]{corrects} or [add_1]{adds} more [information]{information} to what you have [just_1]{just} [said_1]{said}",
+      "examples": [
+        "There are six [cash_1]{cash} [machine_1]{machines}, or ATMs, in the [main_1]{main} [airport]{airport} [terminal_1]{terminal}.",
+        "This is a [problem]{problem} for the [government]{government}, or rather for a [federal]{federal} [agency]{agency}, to [deal_1]{deal} with."
+      ],
+      "id": "or_1__17"
+    },
+    {
+      "def": "[used]{used} when you are [trying]{trying} to show that something must be [true_1]{true}, by [saying]{saying} that the [situation]{situation} would be [different]{different} if it was not [true_1]{true}",
+      "examples": [
+        "The [candidate]{candidate} [obviously]{obviously} hasn\u2019t [chosen_1]{chosen} a [running_1]{running} [mate_1]{mate} or he would have made the [announcement]{announcement}.",
+        "It must be something serious, or else they wouldn\u2019t have [radio_2]{radioed} for [help_1]{help}."
+      ],
+      "id": "or_1__20"
+    }
+  ],
+  "word": "or"
+}

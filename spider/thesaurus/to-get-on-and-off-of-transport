@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to get into a [bus_1]{bus}, [plane_1]{plane}, or [train_1]{train}",
+      "entry": "get on",
+      "id": "get-on#get-on__1"
+    },
+    {
+      "comment": "if a [plane_1]{plane} or [ship_1]{ship} is [boarding]{boarding}, [passenger]{passengers} are being [allow]{allowed} to get on it",
+      "entry": "board",
+      "id": "board_2#board_2__4"
+    },
+    {
+      "comment": "to move from one [bus_1]{bus}, [vehicle]{vehicle}, [airplane]{airplane}, or [boat]{boat} to another as part of a [long_1]{longer} [trip_1]{trip}",
+      "entry": "transfer",
+      "id": "transfer_1#transfer_1__11"
+    },
+    {
+      "comment": "to get on a [ship_1]{ship} in [order_1]{order} to [begin]{begin} a [trip_1]{trip}, or to put someone or something on a [ship_1]{ship}",
+      "entry": "embark",
+      "id": "embark#embark__1"
+    },
+    {
+      "comment": "to get on a [train_1]{train}, [bus_1]{bus}, [airplane]{airplane}, or [boat]{boat} that is [traveling]{traveling} somewhere",
+      "entry": "catch",
+      "id": "catch_1#catch_1__26"
+    },
+    {
+      "comment": "to [leave_1]{leave} one [airplane]{airplane}, [train_1]{train}, [bus_1]{bus}, etc. to get on another",
+      "entry": "change",
+      "id": "change_1#change_1__31"
+    },
+    {
+      "comment": "[leave_1]{leaving} a [plane_1]{plane}, [train_1]{train}, [bus_1]{bus}, etc.",
+      "entry": "off",
+      "id": "off_1#off_1__6"
+    },
+    {
+      "comment": "in or into a [bus_1]{bus}, [train_1]{train}, [airplane]{airplane}, etc.",
+      "entry": "on",
+      "id": "on#on__72"
+    },
+    {
+      "comment": "to get out of an [airplane]{airplane} when it [land_1]{lands}",
+      "entry": "deplane",
+      "id": "deplane#deplane__1"
+    },
+    {
+      "comment": "to get off or out of a [vehicle]{vehicle}",
+      "entry": "go down",
+      "id": "go-down#go-down__36"
+    }
+  ],
+  "thesaurus": "To get on and off of transport",
+  "type": "Synonyms"
+}

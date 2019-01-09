@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a magnetic [piece_1]{piece} of [metal_1]{metal} can [make_1]{make} [iron_1]{iron} or [steel_1]{steel} [object_1]{objects} come to it so that they seem to [stick_1]{stick} to it",
+      "examples": [
+        "a magnetic [screwdriver]{screwdriver}",
+        "a [strong]{strong} magnetic [force_1]{force}",
+        "a magnetic [card_1]{card}/[disk]{disk}"
+      ],
+      "id": "magnetic__1"
+    },
+    {
+      "def": "[able_1]{able} to [attract]{attract} and interest [people_1]{people} very [strongly]{strongly}",
+      "examples": [
+        "his magnetic [personality]{personality}"
+      ],
+      "id": "magnetic__6"
+    }
+  ],
+  "word": "magnetic"
+}

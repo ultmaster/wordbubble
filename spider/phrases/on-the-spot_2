@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "on the spot",
+  "senses": [
+    {
+      "def": "in the [exact_1]{exact} [place_1]{place} where something is [happening_1]{happening}",
+      "examples": [
+        "We\u2019ll have a [police_1]{police} [officer]{officer} on the [spot_1]{spot} [immediately]{immediately}."
+      ],
+      "id": "on-the-spot_2__1"
+    },
+    {
+      "def": "[immediately]{immediately}",
+      "examples": [
+        "Any [worker]{workers} found [b-boying]{breaking} these [rule_1]{rules} will be [fire_2]{fired} on the [spot_1]{spot}."
+      ],
+      "id": "on-the-spot_2__3"
+    }
+  ]
+}

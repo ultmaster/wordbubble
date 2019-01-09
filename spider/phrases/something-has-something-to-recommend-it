@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "something has something to recommend it",
+  "senses": [
+    {
+      "def": "something has [feature_1]{features} that [make_1]{make} it [useful]{useful} or [attractive]{attractive}",
+      "examples": [
+        "As [action_1]{action} [movie]{movies} go, this one has [little_1]{little} to [recommend]{recommend} it."
+      ],
+      "id": "something-has-something-to-recommend-it__1"
+    }
+  ]
+}

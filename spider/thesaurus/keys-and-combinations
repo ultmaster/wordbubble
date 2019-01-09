@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "a [set_1]{set} of [key_1]{keys} that are together on a [metal_1]{metal} ring",
+      "entry": "bunch",
+      "id": "bunch_1#bunch_1__9"
+    },
+    {
+      "comment": "a set of numbers that allows you to open a lock or door or turn off an alarm",
+      "entry": "code",
+      "id": "code_1#code_1__13"
+    },
+    {
+      "comment": "a [series]{series} of [number_1]{numbers} or [letter_1]{letters} [used]{used} for [operate]{operating} a [combination]{combination} [lock_1]{lock}",
+      "entry": "combination",
+      "id": "combination#combination__9"
+    },
+    {
+      "comment": "a [small_1]{small} [electronic]{electronic} [device]{device} that [fit_1]{fits} in a [pocket_1]{pocket} and [lock_1]{locks} or [open_2]{opens} a [lock_1]{lock} on a [door_1]{door}, [especially]{especially} a [car]{car} [door_1]{door}",
+      "entry": "fob",
+      "id": "fob_2#fob_2__4"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [metal_1]{metal} [used]{used} for [opening_1]{opening} or [lock_1]{locking} a [door_1]{door} or a [container]{container}, or for [start_1]{starting} the [motor_1]{motor} of a [vehicle]{vehicle}",
+      "entry": "key",
+      "id": "key_1#key_1__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} ring [used]{used} for [keeping]{keeping} [key_1]{keys} together",
+      "entry": "key ring",
+      "id": "key-ring#key-ring__1"
+    },
+    {
+      "comment": "the [key_1]{key} for [opening_1]{opening} the [lock_1]{lock} of an [outer_1]{outer} [door_1]{door} from the [outside]{outside}",
+      "entry": "latchkey",
+      "id": "latchkey#latchkey__1"
+    },
+    {
+      "comment": "a [key_1]{key} that will [open_1]{open} all the [door_1]{doors} in a [building]{building}",
+      "entry": "master key",
+      "id": "master-key#master-key__1"
+    },
+    {
+      "comment": "a [key_1]{key} that [open_2]{opens} all the [lock_1]{locks} in a [building]{building} such as a [hotel]{hotel} or [office]{office}",
+      "entry": "pass key",
+      "id": "pass-key#pass-key__1"
+    },
+    {
+      "comment": "a [key_1]{key} to a [place_1]{place} [used]{used} for [secret_1]{secret} or [dangerous]{dangerous} [activity]{activities}, [given_1]{given} only to [people_1]{people} with [official_1]{official} [permission]{permission} to [enter]{enter} it",
+      "entry": "pass key",
+      "id": "pass-key#pass-key__2"
+    },
+    {
+      "comment": "a [key_1]{key} that can [open_1]{open} many [different]{different} [lock_1]{locks}",
+      "entry": "skeleton key",
+      "id": "skeleton-key#skeleton-key__1"
+    },
+    {
+      "comment": "a [plastic_1]{plastic} [card_1]{card} that you [pass_1]{pass} through a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} that [read_1]{reads} the [information]{information} [store_2]{stored} on the [card_1]{card}, for [example]{example} in [order_1]{order} to [open_1]{open} a [door_1]{door} or to [pay_1]{pay} for something",
+      "entry": "swipe card",
+      "id": "swipe-card#swipe-card__1"
+    }
+  ],
+  "thesaurus": "Keys and combinations",
+  "type": "Related words"
+}

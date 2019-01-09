@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the amount of [money]{money} that you [earn]{earn}",
+      "examples": [
+        "Over the last [decade]{decade}, earnings [rose_1]{rose} [fast_1]{faster} than [price_1]{prices}.",
+        "The [calculation]{calculation} is [base_2]{based} on your [average_1]{average} earnings during this [period_1]{period}."
+      ],
+      "id": "earnings__1"
+    },
+    {
+      "def": "the [profit_1]{profit} made by a [company]{company}",
+      "examples": [
+        "The [company]{company} [report_2]{reported} that earnings were down last [quarter_1]{quarter}.",
+        "[foreign]{foreign} [exchange_1]{exchange} earnings"
+      ],
+      "id": "earnings__4"
+    }
+  ],
+  "word": "earnings"
+}

@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [operate]{operate} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment}",
+      "examples": [
+        "a [crane_1]{crane} operator"
+      ],
+      "id": "operator__1"
+    },
+    {
+      "def": "someone who [work_1]{works} for a [telephone_1]{telephone} [company]{company} and [help_1]{helps} [people_1]{people} with [call_1]{calls}",
+      "examples": [],
+      "id": "operator__3"
+    },
+    {
+      "def": "a [person]{person} or [company]{company} that [run_1]{runs} a [business]{business}",
+      "examples": [
+        "a [bus_1]{bus}/[ferry_1]{ferry}/[coach_1]{coach} operator"
+      ],
+      "id": "operator__4"
+    },
+    {
+      "def": "someone who is very [good_1]{good} at [get]{getting} what they [want_1]{want}, sometimes by [trick_2]{tricking} other [people_1]{people}",
+      "examples": [
+        "He was a [shrewd]{shrewd} operator who [skillful#skillful__5]{skillfully} [manipulate]{manipulated} the [press_1]{press}."
+      ],
+      "id": "operator__7"
+    }
+  ],
+  "word": "operator"
+}

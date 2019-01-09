@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "all the time without [stop_1]{stopping}",
+      "examples": [
+        "Our [database]{database} is being continually [update_1]{updated}.",
+        "[pharmacy]{Pharmacy} is a continually [change_1]{changing} [field_1]{field}."
+      ],
+      "id": "continually__1"
+    },
+    {
+      "def": "again and again, often in an [annoying]{annoying} way",
+      "examples": [
+        "She continually [moan_1]{moaned} about her [job_1]{job}."
+      ],
+      "id": "continually__4"
+    }
+  ],
+  "word": "continually"
+}

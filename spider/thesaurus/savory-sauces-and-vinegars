@@ -1,0 +1,256 @@
+{
+  "entries": [
+    {
+      "comment": "a sauce made from mayonnaise and garlic",
+      "entry": "aioli",
+      "id": "aioli#aioli__1"
+    },
+    {
+      "comment": "a clear slightly brown jelly that you put fish or meat into and allow to become cold before eating",
+      "entry": "aspic",
+      "id": "aspic#aspic__1"
+    },
+    {
+      "comment": "a [cold_1]{cold} [spicy]{spicy} [sauce]{sauce} made from [vegetable]{vegetables} or [fruit_1]{fruit}",
+      "entry": "atchar",
+      "id": "atchar#atchar__1"
+    },
+    {
+      "comment": "an expensive type of sweet dark vinegar",
+      "entry": "balsamic vinegar",
+      "id": "balsamic-vinegar#balsamic-vinegar__1"
+    },
+    {
+      "comment": "a [special_1]{special} [sauce]{sauce} [used]{used} for [add_1]{adding} [flavor_1]{flavor} to [food]{food}, [especially]{especially} [meat]{meat}, before [cooking_1]{cooking} it on a [barbecue_1]{barbecue}",
+      "entry": "barbecue sauce",
+      "id": "barbecue-sauce#barbecue-sauce__1"
+    },
+    {
+      "comment": "a small square of dried stock  (=clear liquid with a meat or vegetable flavor), used for making soups",
+      "entry": "bouillon cube",
+      "id": "bouillon-cube#bouillon-cube__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [used]{used} for [give_1]{giving} [flavor_1]{flavor} when [cooking_1]{cooking}",
+      "entry": "broth",
+      "id": "broth#broth__3"
+    },
+    {
+      "comment": "[ketchup]{ketchup}",
+      "entry": "catsup",
+      "id": "catsup#catsup__1"
+    },
+    {
+      "comment": "a cold food made from fruit, spices, and vinegar, eaten with meat or cheese",
+      "entry": "chutney",
+      "id": "chutney#chutney__1"
+    },
+    {
+      "comment": "a [smooth_1]{smooth} [sauce]{sauce} made from [crushed]{crushed} [fruit_1]{fruit} or [vegetable]{vegetables}",
+      "entry": "coulis",
+      "id": "coulis#coulis__1"
+    },
+    {
+      "comment": "a thick [cold_1]{cold} [sauce]{sauce} for [dip_1]{dipping} [piece_1]{pieces} of [food]{food} into before [eat]{eating} them",
+      "entry": "dip",
+      "id": "dip_2#dip_2__1"
+    },
+    {
+      "comment": "a [mixture]{mixture} of [food]{food} that you put [inside_1]{inside} [meat]{meat} before you [cook_1]{cook} it",
+      "entry": "dressing",
+      "id": "dressing#dressing__2"
+    },
+    {
+      "comment": "[oil_1]{oil} and [liquid_1]{liquid} that is [produce_1]{produced} by [meat]{meat} when it is [cooked]{cooked}",
+      "entry": "drippings",
+      "id": "drippings#drippings__1"
+    },
+    {
+      "comment": "a [sauce]{sauce} made from the [juice_1]{juices} of [cooked]{cooked} [meat]{meat} [mixed]{mixed} with [flour_1]{flour}",
+      "entry": "gravy",
+      "id": "gravy#gravy__1"
+    },
+    {
+      "comment": "a sauce made from crushed avocado, often eaten with Mexican food",
+      "entry": "guacamole",
+      "id": "guacamole#guacamole__1"
+    },
+    {
+      "comment": "a smooth sauce made with the yolks of eggs  (=the yellow part), butter, and lemon juice. Hollandaise sauce is sometimes simply called hollandaise.",
+      "entry": "hollandaise sauce",
+      "id": "hollandaise-sauce#hollandaise-sauce__1"
+    },
+    {
+      "comment": "[sauce]{sauce} made from [horseradish]{horseradish} that is [eaten]{eaten} [cold_1]{cold} with [meat]{meat}",
+      "entry": "horseradish",
+      "id": "horseradish#horseradish__2"
+    },
+    {
+      "comment": "a sauce that is made with meat juice and is made solid by adding gelatin",
+      "entry": "jelly",
+      "id": "jelly#jelly__4"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} that comes out of something, [especially]{especially} [meat]{meat}, when you [cook_1]{cook} it",
+      "entry": "juice",
+      "id": "juice_1#juice_1__4"
+    },
+    {
+      "comment": "a thin [sauce]{sauce} made from [meat]{meat} [juice_1]{juice}",
+      "entry": "jus",
+      "id": "jus#jus__1"
+    },
+    {
+      "comment": "a thick red [sauce]{sauce} made from [tomato]{tomatoes}",
+      "entry": "ketchup",
+      "id": "ketchup#ketchup__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} that you put [food]{food} into to give it a [special_1]{special} [flavor_1]{flavor} before [cooking_1]{cooking} it",
+      "entry": "marinade",
+      "id": "marinade_1#marinade_1__1"
+    },
+    {
+      "comment": "[mayonnaise]{mayonnaise}",
+      "entry": "mayo",
+      "id": "mayo#mayo__1"
+    },
+    {
+      "comment": "a thick white sauce made from egg yolks and oil, eaten especially with salads and cold food",
+      "entry": "mayonnaise",
+      "id": "mayonnaise#mayonnaise__1"
+    },
+    {
+      "comment": "a sauce made from mint leaves, vinegar, and sugar, and usually eaten with lamb or other meat",
+      "entry": "mint sauce",
+      "id": "mint-sauce#mint-sauce__1"
+    },
+    {
+      "comment": "a sauce made with oysters, used in East Asian cooking",
+      "entry": "oyster sauce",
+      "id": "oyster-sauce#oyster-sauce__1"
+    },
+    {
+      "comment": "a thick [green_1]{green} [sauce]{sauce} made with [olive_1]{olive} [oil_1]{oil}, [basil]{basil}, and [pine_1]{pine} [nuts_1]{nuts}",
+      "entry": "pesto",
+      "id": "pesto#pesto__1"
+    },
+    {
+      "comment": "a thick [yellow_1]{yellow} [sauce]{sauce} [contain]{containing} [small_1]{small} [piece_1]{pieces} of [onion]{onion} and other [vegetable]{vegetables}, [eaten]{eaten} [cold_1]{cold} with other [cold_1]{cold} [food]{foods} or on [sandwich_1]{sandwiches}",
+      "entry": "piccalilli",
+      "id": "piccalilli#piccalilli__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} with a [strong]{strong} [taste_1]{taste} that [vegetable]{vegetables} are [preserve_1]{preserved} in",
+      "entry": "pickle",
+      "id": "pickle_1#pickle_1__2"
+    },
+    {
+      "comment": "a thick sauce consisting of vegetables or fruit preserved in vinegar, eaten especially with cold food",
+      "entry": "pickle",
+      "id": "pickle_1#pickle_1__3"
+    },
+    {
+      "comment": "a very hot-tasting [sauce]{sauce} made with [chili]{chili} [pepper_1]{peppers}, often [eaten]{eaten} with [chicken_1]{chicken}",
+      "entry": "piri-piri",
+      "id": "piri-piri#piri-piri__1"
+    },
+    {
+      "comment": "[food]{food} that has been [mixed]{mixed} or [crushed]{crushed} to form a thick [smooth_1]{smooth} [sauce]{sauce}",
+      "entry": "pur\u00e9e",
+      "id": "puree#puree__1"
+    },
+    {
+      "comment": "a cold sauce that you put on food such as hot dogs and hamburgers",
+      "entry": "relish",
+      "id": "relish_2#relish_2__3"
+    },
+    {
+      "comment": "a sauce made from tomatoes, onions, chili peppers, and spices, served with Mexican or Spanish food",
+      "entry": "salsa",
+      "id": "salsa#salsa__1"
+    },
+    {
+      "comment": "a [sauce]{sauce} made from [peanuts_1]{peanuts} and [serve_1]{served} with [satay]{satay}",
+      "entry": "satay",
+      "id": "satay#satay__2"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [food]{food} that you put on other [food]{foods} to give them a [particular_1]{particular} [flavor_1]{flavor}",
+      "entry": "sauce",
+      "id": "sauce#sauce__1"
+    },
+    {
+      "comment": "[soy]{soy} [sauce]{sauce}",
+      "entry": "soy",
+      "id": "soy#soy__2"
+    },
+    {
+      "comment": "a [dark_1]{dark} [brown_1]{brown} [sauce]{sauce} made from [soybean]{soybeans}",
+      "entry": "soy sauce",
+      "id": "soy-sauce#soy-sauce__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} made by [boiling]{boiling} [meat]{meat}, [bone_1]{bones}, or [vegetable]{vegetables} and [used]{used} for [making]{making} [soup_1]{soups} and [sauce]{sauces}",
+      "entry": "stock",
+      "id": "stock_1#stock_1__17"
+    },
+    {
+      "comment": "a [bouillon]{bouillon} [cube_1]{cube}",
+      "entry": "stock cube",
+      "id": "stock-cube#stock-cube__1"
+    },
+    {
+      "comment": "[food]{food} that has been [cut_1]{cut} into [small_1]{small} [piece_1]{pieces} and [place_2]{placed} [inside_1]{inside} [meat]{meat} or [vegetable]{vegetables}",
+      "entry": "stuffing",
+      "id": "stuffing#stuffing__1"
+    },
+    {
+      "comment": "a red [sauce]{sauce} [used]{used} for [add_1]{adding} a [strong]{strong} [flavor_1]{flavor} to [food]{foods}",
+      "entry": "Tabasco",
+      "id": "tabasco#tabasco__1"
+    },
+    {
+      "comment": "a thick [paste_1]{paste} made from [ground_1]{ground} [sesame]{sesame} [seed_1]{seeds}, [used]{used} in [middle_1]{Middle} [eastern]{Eastern} [cooking_1]{cooking}",
+      "entry": "tahini",
+      "id": "tahini#tahini__1"
+    },
+    {
+      "comment": "a [white_1]{white} [sauce]{sauce} that you [eat]{eat} [cold_1]{cold} with [fish_1]{fish}",
+      "entry": "tartar sauce",
+      "id": "tartar-sauce#tartar-sauce__1"
+    },
+    {
+      "comment": "a sauce for salads and cold vegetables, made from oil, vinegar, and spices",
+      "entry": "vinaigrette",
+      "id": "vinaigrette#vinaigrette__1"
+    },
+    {
+      "comment": "a sour liquid made by allowing wine or cider to become acid, used for adding flavor to food",
+      "entry": "vinegar",
+      "id": "vinegar#vinegar__1"
+    },
+    {
+      "comment": "a [sauce]{sauce} with a very [strong]{strong} [taste_1]{taste} that is [eaten]{eaten} with Japanese [food]{food}",
+      "entry": "wasabi",
+      "id": "wasabi#wasabi__2"
+    },
+    {
+      "comment": "a [sauce]{sauce} made from [flour_1]{flour}, [milk_1]{milk}, and [butter_1]{butter}",
+      "entry": "white sauce",
+      "id": "white-sauce#white-sauce__1"
+    },
+    {
+      "comment": "a type of vinegar made from wine",
+      "entry": "wine vinegar",
+      "id": "wine-vinegar#wine-vinegar__1"
+    },
+    {
+      "comment": "a [brown_1]{brown} [sauce]{sauce} with a [strong]{strong} [taste_1]{taste} that you [buy_1]{buy} in [bottle_1]{bottles} and use for [add_1]{adding} [flavor_1]{flavor} to [food]{food}",
+      "entry": "Worcestershire sauce",
+      "id": "worcestershire-sauce#worcestershire-sauce__1"
+    }
+  ],
+  "thesaurus": "Savory sauces and vinegars",
+  "type": "Related words"
+}

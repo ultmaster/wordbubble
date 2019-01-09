@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [job_1]{job} of a [teacher]{teacher}",
+      "entry": "teaching",
+      "id": "teaching#teaching__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [educate]{educating} [people_1]{people} in [school_1]{schools}, [college]{colleges}, and [university]{universities}, and all the [policy]{policies} and [arrangement]{arrangements} [concerning_1]{concerning} this",
+      "entry": "education",
+      "id": "education#education__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [training]{training} [people_1]{people} or of being [trained]{trained} for a [profession]{profession} or [activity]{activity}",
+      "entry": "training",
+      "id": "training#training__1"
+    },
+    {
+      "comment": "the [teaching]{teaching} of a [particular_1]{particular} [subject_1]{subject} or [skill]{skill}",
+      "entry": "instruction",
+      "id": "instruction#instruction__10"
+    },
+    {
+      "comment": "the [work_1]{work} that a [teacher]{teacher} [does]{does} when they [teach]{teach} a [particular_1]{particular} [subject_1]{subject}, [especially]{especially} to one [person]{person} or to a [small_1]{small} [group_1]{group}",
+      "entry": "tuition",
+      "id": "tuition#tuition__3"
+    },
+    {
+      "comment": "the [method]{methods} and [principle]{principles} of [teaching]{teaching}",
+      "entry": "pedagogy",
+      "id": "pedagogy#pedagogy__1"
+    },
+    {
+      "comment": "the use of a [mentor_1]{mentor} to [teach]{teach} a less [experienced]{experienced} [person]{person} about their [job_1]{job} or a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "mentoring",
+      "id": "mentoring#mentoring__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [give_1]{giving} a [student]{student} [extra_1]{extra} [private_1]{private} [teaching]{teaching} in a [particular_1]{particular} [subject_1]{subject}, [especially]{especially} in [order_1]{order} to [help_1]{help} them with an [examination]{examination} that they are [going_1]{going} to take",
+      "entry": "coaching",
+      "id": "coaching#coaching__2"
+    },
+    {
+      "comment": "[information]{information} or [training]{training} that you are [given_1]{given} before you [start_1]{start} a [new]{new} [job_1]{job} or [activity]{activity}",
+      "entry": "orientation",
+      "id": "orientation#orientation__7"
+    },
+    {
+      "comment": "the [act_1]{act} of [providing]{providing} someone with the [opportunity]{opportunity} to [experience_1]{experience} [new]{new} [idea]{ideas}, [activity]{activities}, etc.",
+      "entry": "exposure",
+      "id": "exposure#exposure__12"
+    }
+  ],
+  "thesaurus": "General words for teaching",
+  "type": "Synonyms"
+}

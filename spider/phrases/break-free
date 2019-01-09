@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "break free",
+  "senses": [
+    {
+      "def": "to [escape_1]{escape} from someone who is [trying]{trying} to [hold_1]{hold} you",
+      "examples": [],
+      "id": "break-free__1"
+    },
+    {
+      "def": "to [escape_1]{escape} from an [unpleasant]{unpleasant} [person]{person} or [situation]{situation} that [control_1]{controls} your [life]{life}",
+      "examples": [
+        "She\u2019ll never be [happy_1]{happy} until she [break_1]{breaks} [free_1]{free} of her [family_1]{family}."
+      ],
+      "id": "break-free__2"
+    }
+  ]
+}

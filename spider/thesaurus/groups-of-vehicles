@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[aircraft]{aircraft}, [ship_1]{ships}, and [train_1]{trains} that [travel_1]{travel} from one [place_1]{place} to another",
+      "entry": "traffic",
+      "id": "traffic_1#traffic_1__7"
+    },
+    {
+      "comment": "a [group_1]{group} of [vehicle]{vehicles}, [plane_1]{planes}, [boat]{boats}, or [train_1]{trains}, [especially]{especially} when they are [own_2]{owned} by one [organization]{organization} or [person]{person}",
+      "entry": "fleet",
+      "id": "fleet_1#fleet_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [vehicle]{vehicles} or [ship_1]{ships} [traveling]{traveling} together, often with other [vehicle]{vehicles} or [ship_1]{ships} [providing]{providing} [protection]{protection} for them",
+      "entry": "convoy",
+      "id": "convoy#convoy__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [car]{cars} [traveling]{traveling} with someone very [important]{important}",
+      "entry": "motorcade",
+      "id": "motorcade#motorcade__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [small_1]{small} [boat]{boats} or [ship_1]{ships}",
+      "entry": "flotilla",
+      "id": "flotilla#flotilla__1"
+    },
+    {
+      "comment": "a group of military vehicles, especially airplanes or submarines, that travel and fight together",
+      "entry": "pack",
+      "id": "pack_2#pack_2__16"
+    },
+    {
+      "comment": "the [vehicle]{vehicles} that are [traveling]{traveling} in an [area]{area} at a [particular_1]{particular} time",
+      "entry": "traffic",
+      "id": "traffic_1#traffic_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [car]{cars} [own_2]{owned} by a [company]{company} that can be [used]{used} by [people_1]{people} who [work_1]{work} for the [company]{company}",
+      "entry": "car pool",
+      "id": "car-pool_1#car-pool_1__2"
+    }
+  ],
+  "thesaurus": "Groups of vehicles",
+  "type": "Synonyms"
+}

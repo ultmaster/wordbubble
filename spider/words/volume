@@ -1,0 +1,37 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [loud_1#loud_1__13]{loudness} of a [sound_1]{sound} from a [television]{television}, [radio_1]{radio}, etc.",
+      "examples": [
+        "Can you [turn_1]{turn} the volume up a [little_1]{little}, please?"
+      ],
+      "id": "volume__1"
+    },
+    {
+      "def": "an amount of something",
+      "examples": [
+        "an [increase_1]{increase} in the volume of [traffic_1]{traffic}",
+        "The [total_1]{total} volume of [trade_1]{trade} has [reach_1]{reached} $200 [million]{million}.",
+        "Some [student]{students} cannot [cope]{cope} with the [huge]{huge} volume of [work_1]{work}."
+      ],
+      "id": "volume__3"
+    },
+    {
+      "def": "the amount of [space_1]{space} something [fill_1]{fills}, or the amount of [space_1]{space} in a [container]{container}",
+      "examples": [
+        "The [gas_1]{gas} [tank_1]{tank} has a volume of over 20 [gallon]{gallons}.",
+        "[let_1]{Let} the [bread]{bread} [rise_1]{rise} to [twice_1]{twice} its [original_1]{original} volume."
+      ],
+      "id": "volume__7"
+    },
+    {
+      "def": "a [book_1]{book}",
+      "examples": [
+        "the first volume in a [new]{new} [series]{series} of [book_1]{books} on [fine_1]{fine} art"
+      ],
+      "id": "volume__10"
+    }
+  ],
+  "word": "volume"
+}

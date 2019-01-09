@@ -1,0 +1,23 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[working]{working} by [electricity]{electricity}",
+      "examples": [
+        "an electric [motor_1]{motor}/[drill_1]{drill}/[razor]{razor}/[toothbrush]{toothbrush}",
+        "[house_1]{houses} without electric [light_1]{light}",
+        "an electric [outlet]{outlet}/[plug_1]{plug}/[cord]{cord}",
+        "an electric [current_1]{current}"
+      ],
+      "id": "electric__1"
+    },
+    {
+      "def": "[extremely]{extremely} [exciting]{exciting}",
+      "examples": [
+        "The [atmosphere]{atmosphere} here [tonight_1]{tonight} is [absolutely]{absolutely} electric."
+      ],
+      "id": "electric__8"
+    }
+  ],
+  "word": "electric"
+}

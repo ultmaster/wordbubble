@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "an [occasion_1]{occasion} when someone or something [fall_1]{falls} to the [ground_1]{ground}",
+      "entry": "fall",
+      "id": "fall_2#fall_2__3"
+    },
+    {
+      "comment": "the [act_1]{act} of [moving]{moving} down to a [lower_1]{lower} [place_1]{place} or [position_1]{position}",
+      "entry": "descent",
+      "id": "descent#descent__1"
+    },
+    {
+      "comment": "a [quick_1]{quick} [fall_1]{fall} from a [high_1]{high} [position_1]{position}",
+      "entry": "plunge",
+      "id": "plunge_2#plunge_2__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [fall_1]{fall} because you hit your [foot_1]{foot} on something",
+      "entry": "trip",
+      "id": "trip_1#trip_1__11"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone [fall_1]{falls} to the [ground_1]{ground}",
+      "entry": "tumble",
+      "id": "tumble_2#tumble_2__3"
+    },
+    {
+      "comment": "the [action_1]{action} of [slide_2]{sliding} or [fall_1]{falling}",
+      "entry": "slip",
+      "id": "slip_2#slip_2__9"
+    },
+    {
+      "comment": "the [action_1]{action} of [hit_1]{hitting} the [ground_1]{ground} when you [fall_1]{fall} or [jump_1]{jump} from somewhere [high_1]{high}",
+      "entry": "landing",
+      "id": "landing#landing__4"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when something [fall_1]{falls} to the [ground_1]{ground} from the [sky_1]{sky} or from a [high_1]{high} [place_1]{place}",
+      "entry": "fall",
+      "id": "fall_2#fall_2__7"
+    },
+    {
+      "comment": "a [fall_1]{fall} [backward_1]{backward} into a [sitting]{sitting} [position_1]{position}, [especially]{especially} when it is done [deliberately]{deliberately} to [make_1]{make} [people_1]{people} [laugh_1]{laugh}",
+      "entry": "pratfall",
+      "id": "pratfall#pratfall__1"
+    }
+  ],
+  "thesaurus": "Movements downwards",
+  "type": "Synonyms"
+}

@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "lined [paper_1]{paper} has [lines]{lines} [print_1]{printed} on it to [help_1]{help} to you [write]{write} [straight_1]{straight}",
+      "examples": [],
+      "id": "lined__1"
+    },
+    {
+      "def": "[clothing]{clothing} that is lined has another [layer_1]{layer} of [cloth]{cloth} on the [inside_1]{inside}",
+      "examples": [
+        "a lined [skirt_1]{skirt}",
+        "a fur-lined [jacket]{jacket}"
+      ],
+      "id": "lined__2"
+    },
+    {
+      "def": "lined [skin_1]{skin} has a [lot_1]{lot} of [lines]{lines} on it, which you get as you become [old]{older}",
+      "examples": [
+        "a [deeply]{deeply} lined [face_1]{face}"
+      ],
+      "id": "lined__5"
+    }
+  ],
+  "word": "lined"
+}

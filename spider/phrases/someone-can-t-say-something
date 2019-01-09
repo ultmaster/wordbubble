@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "someone can\u2019t say (something)",
+  "senses": [
+    {
+      "def": "a [polite]{polite} way of [saying]{saying} that you do not [know_1]{know} something",
+      "examples": [
+        "We can\u2019t [say_1]{say} when the [train_1]{train} will [arrive]{arrive}."
+      ],
+      "id": "someone-can-t-say-something__1"
+    },
+    {
+      "def": "a [polite]{polite} way of [saying]{saying} that you do not [want_1]{want} to give [information]{information} to someone",
+      "examples": [
+        "We can\u2019t [say_1]{say} what\u2019s in the [report_1]{report} \u2013 it\u2019s [highly]{highly} [confidential]{confidential}."
+      ],
+      "id": "someone-can-t-say-something__3"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you do not have a [particular_1]{particular} [opinion]{opinion}",
+      "examples": [
+        "I can\u2019t [say_1]{say} I [blame_1]{blame} you for being [annoyed]{annoyed}."
+      ],
+      "id": "someone-can-t-say-something__5"
+    }
+  ]
+}

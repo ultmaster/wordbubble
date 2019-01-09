@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[arrange]{arranged} in [row_1]{rows}, with each [row_1]{row} [slightly]{slightly} [higher_1]{higher} than the [row_1]{row} in front",
+      "examples": [
+        "tiered [seating]{seating}",
+        "a tiered [auditorium]{auditorium}"
+      ],
+      "id": "tiered__1"
+    },
+    {
+      "def": "a tiered [organization]{organization} or system has several [level_1]{levels} in it",
+      "examples": [
+        "a tiered [pricing]{pricing} system"
+      ],
+      "id": "tiered__4"
+    }
+  ],
+  "word": "tiered"
+}

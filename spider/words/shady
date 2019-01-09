@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[sheltered]{sheltered} from the [hot]{hot} [sun_1]{sun}",
+      "examples": [],
+      "id": "shady__1"
+    },
+    {
+      "def": "[secret_1]{secret} and [probably]{probably} [dishonest]{dishonest} or [illegal_1]{illegal}",
+      "examples": [
+        "shady [deal_1]{deals}/[dealing#dealing__3]{dealings}"
+      ],
+      "id": "shady__2"
+    },
+    {
+      "def": "[shifty]{shifty} or [elusive]{elusive}",
+      "examples": [
+        "He is a shady [running_1]{running} back."
+      ],
+      "id": "shady__4"
+    }
+  ],
+  "word": "shady"
+}

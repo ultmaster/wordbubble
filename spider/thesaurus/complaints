@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [written_1]{written} or [spoken_1]{spoken} [statement_1]{statement} in which someone [say_1]{says} they are not [satisfied]{satisfied} with something",
+      "entry": "complaint",
+      "id": "complaint#complaint__1"
+    },
+    {
+      "comment": "a [strong]{strong} [complaint]{complaint} or [disagreement]{disagreement}",
+      "entry": "protest",
+      "id": "protest_1#protest_1__1"
+    },
+    {
+      "comment": "a [complaint]{complaint} about being [treat_1]{treated} in an [unfair]{unfair} way",
+      "entry": "grievance",
+      "id": "grievance#grievance__1"
+    },
+    {
+      "comment": "a [minor_1]{minor} [complaint]{complaint} about something",
+      "entry": "grumble",
+      "id": "grumble_2#grumble_2__1"
+    },
+    {
+      "comment": "a long [loud_1]{loud} and [angry]{angry} [complaint]{complaint} about something",
+      "entry": "rant",
+      "id": "rant_2#rant_2__1"
+    },
+    {
+      "comment": "a [complaint]{complaint} about someone or something that you [make_1]{make} in a [quiet_1]{quiet} or [secret_1]{secret} way",
+      "entry": "murmur",
+      "id": "murmur_2#murmur_2__8"
+    },
+    {
+      "comment": "a [strong]{strong} [protest_1]{protest}, [complaint]{complaint}, or [criticism]{criticism} about something",
+      "entry": "remonstrance",
+      "id": "remonstrance#remonstrance__1"
+    },
+    {
+      "comment": "an [annoying]{annoying} [complaint]{complaint}, [especially]{especially} about something that is not [important]{important}",
+      "entry": "moan",
+      "id": "moan_2#moan_2__4"
+    },
+    {
+      "comment": "a [complaint]{complaint}",
+      "entry": "beef",
+      "id": "beef_1#beef_1__8"
+    },
+    {
+      "comment": "a [complaint]{complaint} about something that is [annoying]{annoying} but not very [important]{important}",
+      "entry": "gripe",
+      "id": "gripe_1#gripe_1__1"
+    },
+    {
+      "comment": "a [complaint]{complaint} or [mocking]{mocking} [comment_1]{comment}",
+      "entry": "chirp",
+      "id": "chirp_2#chirp_2__5"
+    }
+  ],
+  "thesaurus": "Complaints",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [situation]{situation} in which [harm_1]{harm}, [death]{death}, [damage_1]{damage}, or [destruction]{destruction} is [possible_1]{possible}",
+      "entry": "danger",
+      "id": "danger#danger__1"
+    },
+    {
+      "comment": "an [urgent]{urgent}, [difficult]{difficult}, or [dangerous]{dangerous} [situation]{situation}",
+      "entry": "crisis",
+      "id": "crisis#crisis__1"
+    },
+    {
+      "comment": "an [unexpected]{unexpected} [situation]{situation} [involve]{involving} [danger]{danger} in which [immediate]{immediate} [action_1]{action} is [necessary_1]{necessary}",
+      "entry": "emergency",
+      "id": "emergency_1#emergency_1__1"
+    },
+    {
+      "comment": "an [exciting]{exciting}, [unusual]{unusual}, and sometimes [dangerous]{dangerous} [experience_1]{experience}",
+      "entry": "adventure",
+      "id": "adventure#adventure__1"
+    },
+    {
+      "comment": "something [exciting]{exciting} or [dangerous]{dangerous} that someone is [involved]{involved} in",
+      "entry": "escapade",
+      "id": "escapade#escapade__1"
+    },
+    {
+      "comment": "a [situation]{situation} or [process_1]{process} with many [possible_1]{possible} [problem]{problems} or [danger]{dangers}",
+      "entry": "minefield",
+      "id": "minefield#minefield__3"
+    },
+    {
+      "comment": "a [situation]{situation} in which there is a [lot_1]{lot} of [damage_1]{damage} or [destruction]{destruction}, or in which something cannot [continue]{continue} in its [normal_1]{normal} way because of [problem]{problems}",
+      "entry": "havoc",
+      "id": "havoc#havoc__1"
+    },
+    {
+      "comment": "a very [dangerous]{dangerous} [situation]{situation}",
+      "entry": "precipice",
+      "id": "precipice#precipice__2"
+    },
+    {
+      "comment": "a [situation]{situation} or an [activity]{activity} that could cause [harm_1]{harm} or [danger]{danger}",
+      "entry": "threat",
+      "id": "threat#threat__8"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that a [situation]{situation} is [likely_1]{likely} to [develop]{develop} in a very [bad_1]{bad} way",
+      "entry": "a disaster waiting to happen",
+      "id": "a-disaster-waiting-to-happen#a-disaster-waiting-to-happen__1"
+    }
+  ],
+  "thesaurus": "Dangerous or exciting situations",
+  "type": "Synonyms"
+}

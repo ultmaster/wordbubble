@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the thing or [person]{person} that is [meant]{meant} by a [word_1]{word} or [phrase_1]{phrase}",
+      "entry": "referent",
+      "id": "referent#referent__1"
+    },
+    {
+      "comment": "something that you are [discuss]{discussing}, [considering]{considering}, or [dealing]{dealing} with",
+      "entry": "matter",
+      "id": "matter_1#matter_1__1"
+    },
+    {
+      "comment": "a [subject_1]{subject} that [people_1]{people} [discuss]{discuss} or [argue]{argue} about, [especially]{especially} [relate]{relating} to [society]{society}, [politics]{politics}, etc.",
+      "entry": "issue",
+      "id": "issue_1#issue_1__1"
+    },
+    {
+      "comment": "an [idea]{idea}, [problem]{problem}, [situation]{situation}, etc. that you [discuss]{discuss} or [write]{write} about",
+      "entry": "subject",
+      "id": "subject_1#subject_1__1"
+    },
+    {
+      "comment": "the [main_1]{main} [subject_1]{subject} of something such as a [book_1]{book}, [speech]{speech}, art [exhibit_1]{exhibit}, or [discussion]{discussion}",
+      "entry": "theme",
+      "id": "theme#theme__1"
+    },
+    {
+      "comment": "a [subject_1]{subject} that you [write]{write} or [speak_1]{speak} about",
+      "entry": "topic",
+      "id": "topic#topic__1"
+    },
+    {
+      "comment": "an [individual_1]{individual} [subject_1]{subject} that you are [discuss]{discussing} or [dealing]{dealing} with",
+      "entry": "item",
+      "id": "item#item__4"
+    },
+    {
+      "comment": "an [issue_1]{issue} that [need_1]{needs} to be [discuss]{discussed} and [dealt]{dealt} with",
+      "entry": "question",
+      "id": "question_1#question_1__10"
+    },
+    {
+      "comment": "the [subject_1]{subject}, [idea]{idea}, or [information]{information} being [talk_1]{talked} about or [written_1]{written} about",
+      "entry": "ground",
+      "id": "ground_1#ground_1__28"
+    },
+    {
+      "comment": "the [thing]{things} that are [discuss]{discussed} in a [speech]{speech} or a [piece_1]{piece} of [writing]{writing}, or are [shown]{shown} in a [piece_1]{piece} of art",
+      "entry": "subject matter",
+      "id": "subject-matter#subject-matter__1"
+    }
+  ],
+  "thesaurus": "Something that you are discussing",
+  "type": "Synonyms"
+}

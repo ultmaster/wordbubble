@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "the counter where alcoholic drinks are served in a bar or restaurant",
+      "entry": "bar",
+      "id": "bar_1#bar_1__4"
+    },
+    {
+      "comment": "a [coaster]{coaster}",
+      "entry": "beer mat",
+      "id": "beer-mat#beer-mat__1"
+    },
+    {
+      "comment": "a [small_1]{small} [flat_1]{flat} [object_1]{object} that you put under a [cup_1]{cup} to [protect]{protect} the [table_1]{table}",
+      "entry": "coaster",
+      "id": "coaster#coaster__1"
+    },
+    {
+      "comment": "a request for people in a bar to order their last drinks before the bar closes. The British word is last orders.",
+      "entry": "last call",
+      "id": "last-call#last-call__1"
+    },
+    {
+      "comment": "a last call in a [bar_1]{bar}",
+      "entry": "last orders",
+      "id": "last-orders#last-orders__1"
+    },
+    {
+      "comment": "a man who [spend]{spends} a [lot_1]{lot} of time in [expensive]{expensive} [bar_1]{bars} and [hotel]{hotels}, and [like_2]{likes} being with [rich_1]{rich} [people_1]{people}",
+      "entry": "lounge lizard",
+      "id": "lounge-lizard#lounge-lizard__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you get [free_1]{free} [drink_1]{drinks}, for [example]{example} at a [wedding]{wedding}",
+      "entry": "open bar",
+      "id": "open-bar#open-bar__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} in a [place_1]{place} such as a [bar_1]{bar} or [club_1]{club} when anyone can go on [stage_1]{stage} and [sing_1]{sing}, [tell_1]{tell} [joke_1]{jokes}, etc.",
+      "entry": "open mic",
+      "id": "open-mic#open-mic__1"
+    },
+    {
+      "comment": "[food]{food}, [drink_1]{drink}, or a [product]{product} that a [customer]{customer} has [ask_1]{asked} for",
+      "entry": "order",
+      "id": "order_1#order_1__15"
+    },
+    {
+      "comment": "to [work_1]{work} in a [bar_1]{bar} [serving]{serving} [drink_1]{drinks}",
+      "entry": "pull pints",
+      "id": "pull-pints#pull-pints__1"
+    },
+    {
+      "comment": "to [work_1]{work} behind a [bar_1]{bar} [serving]{serving} [drink_1]{drinks}",
+      "entry": "tend bar",
+      "id": "tend-bar#tend-bar__1"
+    },
+    {
+      "comment": "[used]{used} for [order_2]{ordering} another [drink_1]{drink} [like_1]{like} the one you have [just_1]{just} had",
+      "entry": "(the) same again",
+      "id": "the-same-again#the-same-again__1"
+    }
+  ],
+  "thesaurus": "In bars, pubs and clubs",
+  "type": "Related words"
+}

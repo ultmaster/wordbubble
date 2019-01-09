@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "at the [present_1]{present} time",
+      "entry": "now",
+      "id": "now_1#now_1__1"
+    },
+    {
+      "comment": "on this [day]{day}",
+      "entry": "today",
+      "id": "today_1#today_1__1"
+    },
+    {
+      "comment": "at the [present_1]{present} time",
+      "entry": "currently",
+      "id": "currently#currently__1"
+    },
+    {
+      "comment": "at the [present_1]{present} time",
+      "entry": "presently",
+      "id": "presently#presently__3"
+    },
+    {
+      "comment": "at the [present_1]{present} time, not in the [past_1]{past}",
+      "entry": "nowadays",
+      "id": "nowadays#nowadays__1"
+    },
+    {
+      "comment": "now",
+      "entry": "at the moment",
+      "id": "at-the-moment#at-the-moment__1"
+    },
+    {
+      "comment": "at the [present_1]{present} time",
+      "entry": "right now",
+      "id": "right-now#right-now__1"
+    },
+    {
+      "comment": "now",
+      "entry": "at this juncture",
+      "id": "at-this-juncture#at-this-juncture__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about [thing]{things} that are [happening_1]{happening} or are [true_1]{true} now",
+      "entry": "these days",
+      "id": "these-days#these-days__1"
+    },
+    {
+      "comment": "at the [period_1]{period} of time that is [happening_1]{happening} now",
+      "entry": "today",
+      "id": "today_1#today_1__5"
+    }
+  ],
+  "thesaurus": "At the present time",
+  "type": "Synonyms"
+}

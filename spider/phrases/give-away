@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "give away",
+  "senses": [
+    {
+      "def": "to [tell_1]{tell} [information]{information} or [fact]{facts} that you should keep [secret_1]{secret}",
+      "examples": [
+        "If [capture_1]{captured}, they might give [away_1]{away} [vital]{vital} [military]{military} [secret_1]{secrets}.",
+        "Her [face_1]{face} [gave]{gave} nothing [away_1]{away}."
+      ],
+      "id": "give-away__1"
+    },
+    {
+      "def": "to [provide]{provide} someone with something that you no [long_1]{longer} [want_1]{want} or [need_1]{need}",
+      "examples": [
+        "Any [plant_1]{plants} that were [left_1]{left} I [gave]{gave} [away_1]{away} to [neighbor]{neighbors}.",
+        "Ten [thousand]{thousand} [copy_1]{copies} of the [software]{software} [package_1]{package} are being [given_1]{given} [away_1]{away}."
+      ],
+      "id": "give-away__5"
+    },
+    {
+      "def": "in [sport_1]{sports}, to [allow]{allow} an [opponent]{opponent} to [win_1]{win} because you [make_1]{make} a [silly_1]{silly} [mistake_1]{mistake}",
+      "examples": [
+        "They [gave]{gave} [away_1]{away} two [run_1]{runs} in the first [half]{half}."
+      ],
+      "id": "give-away__9"
+    },
+    {
+      "def": "if a man [give_1]{gives} a [woman]{woman} [away_1]{away} on her [wedding]{wedding} [day]{day}, he [lead_1]{leads} her toward the man she is [going_1]{going} to [marry]{marry}",
+      "examples": [],
+      "id": "give-away__11"
+    }
+  ]
+}

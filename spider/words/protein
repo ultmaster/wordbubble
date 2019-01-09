@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [substance]{substance} in [food]{foods} such as [meat]{meat}, [egg_1]{eggs}, and [milk_1]{milk} that [people_1]{people} [need_1]{need} in [order_1]{order} to [grow]{grow} and be [healthy]{healthy}",
+      "examples": [],
+      "id": "protein__1"
+    },
+    {
+      "def": "[food]{foods} [consist]{consisting} of protein; [used]{used} as a [modifier]{modifier}",
+      "examples": [
+        "I'll have an [egg_1]{Egg} and [spinach]{Spinach} [protein]{Protein} [pot_1]{Pot}.",
+        "protein [waffle_1]{waffles}/[pancake]{pancakes}"
+      ],
+      "id": "protein__2"
+    }
+  ],
+  "word": "protein"
+}

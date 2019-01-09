@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[large_1]{large} and [heavy_1]{heavy}",
+      "examples": [
+        "Richard is a [really]{really} hefty [guy]{guy}."
+      ],
+      "id": "hefty__1"
+    },
+    {
+      "def": "a hefty amount of [money]{money} is a [large_1]{large} and [impressive]{impressive} amount",
+      "examples": [
+        "a hefty [sum_1]{sum}/[fine_1]{fine}/[bonus]{bonus}"
+      ],
+      "id": "hefty__3"
+    },
+    {
+      "def": "a hefty [push_1]{push}, [kick_1]{kick}, etc. is done with a [lot_1]{lot} of [force_1]{force}",
+      "examples": [],
+      "id": "hefty__5"
+    }
+  ],
+  "word": "hefty"
+}

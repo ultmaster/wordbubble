@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [complaint]{complaint} about being [treat_1]{treated} in an [unfair]{unfair} way",
+      "examples": [
+        "[manager]{Managers} were [present_2]{presented} with a long [list_1]{list} of [grievance]{grievances}.",
+        "[people_1]{People} [know_1]{know} who to go to if they have a grievance."
+      ],
+      "id": "grievance__1"
+    },
+    {
+      "def": "a [feeling_1]{feeling} that you have been [treat_1]{treated} in an [unfair]{unfair} way",
+      "examples": [
+        "For [year]{years} he [nurse_2]{nursed} a grievance against his former [employer]{employer}."
+      ],
+      "id": "grievance__4"
+    }
+  ],
+  "word": "grievance"
+}

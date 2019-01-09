@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to go to see someone and [spend]{spend} some time with them",
+      "entry": "visit",
+      "id": "visit_1#visit_1__1"
+    },
+    {
+      "comment": "to [visit_1]{visit} a [person]{person} or a [place_1]{place}",
+      "entry": "go around",
+      "id": "go-around#go-around__9"
+    },
+    {
+      "comment": "to [visit_1]{visit} someone, [usually]{usually} for a [short_1]{short} time",
+      "entry": "call",
+      "id": "call_1#call_1__68"
+    },
+    {
+      "comment": "to [make_1]{make} a [short_1]{short} [visit_1]{visit} somewhere",
+      "entry": "drop by",
+      "id": "drop-by#drop-by__1"
+    },
+    {
+      "comment": "to [visit_1]{visit} someone, [usually]{usually} for a [short_1]{short} time",
+      "entry": "call on",
+      "id": "call-on#call-on__9"
+    },
+    {
+      "comment": "to [meet_1]{meet} or [visit_1]{visit} someone who you [know_1]{know} by [arrangement]{arrangement}",
+      "entry": "see",
+      "id": "see_1#see_1__15"
+    },
+    {
+      "comment": "to [visit_1]{visit} someone for a [short_1]{short} time on your way to another [place_1]{place}, [especially]{especially} if they are [sick_1]{sick} or may [need_1]{need} [help_1]{help}",
+      "entry": "look in",
+      "id": "look-in_1#look-in_1__1"
+    },
+    {
+      "comment": "to [visit_1]{visit} someone in the [place_1]{place} where they are, [especially]{especially} their [house_1]{house}",
+      "entry": "come over",
+      "id": "come-over#come-over__3"
+    },
+    {
+      "comment": "to [visit_1]{visit} someone or something",
+      "entry": "pay someone/something a /visit/call",
+      "id": "pay-someone-something-a-visit-call#pay-someone-something-a-visit-call__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [short_1]{short} [visit_1]{visit} to a [person]{person} or [place_1]{place}",
+      "entry": "swing by",
+      "id": "swing-by#swing-by__1"
+    }
+  ],
+  "thesaurus": "To visit a person or place, or to be visited by someone",
+  "type": "Synonyms"
+}

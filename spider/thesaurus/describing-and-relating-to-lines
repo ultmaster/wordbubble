@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a [continuous]{continuous} [line_1]{line}, [curve_1]{curve}, etc. [continue]{continues} without a [break_1]{break} or [space_1]{space}",
+      "entry": "continuous",
+      "id": "continuous#continuous__4"
+    },
+    {
+      "comment": "coming from [different]{different} [direction]{directions} to [reach_1]{reach} the same [point_1]{point}",
+      "entry": "convergent",
+      "id": "convergent#convergent__1"
+    },
+    {
+      "comment": "a [diagonal_1]{diagonal} [line_1]{line} is [straight_1]{straight} and [slope_2#slope_2__5]{sloping} and [connect]{connects} [opposite_1]{opposite} [corner_1]{corners} of a [flat_1]{flat} [shape_1]{shape}",
+      "entry": "diagonal",
+      "id": "diagonal_1#diagonal_1__1"
+    },
+    {
+      "comment": "in a [straight_1]{straight} [slope_2#slope_2__5]{sloping} [line_1]{line} across a [surface_1]{surface}",
+      "entry": "diagonal",
+      "id": "diagonal_1#diagonal_1__2"
+    },
+    {
+      "comment": "[relate]{relating} to the [length]{length} of a [line_1]{line}",
+      "entry": "linear",
+      "id": "linear#linear__6"
+    },
+    {
+      "comment": "[going_1]{going} from the top to the bottom of something",
+      "entry": "longitudinal",
+      "id": "longitudinal#longitudinal__3"
+    },
+    {
+      "comment": "an [oblique]{oblique} [line_1]{line} is [slope_2#slope_2__5]{sloping}",
+      "entry": "oblique",
+      "id": "oblique#oblique__5"
+    },
+    {
+      "comment": "[lines]{lines} that are [parallel_1]{parallel} are the same [distance_1]{distance} [apart]{apart} at every [point_1]{point} along their whole [length]{length}",
+      "entry": "parallel",
+      "id": "parallel_1#parallel_1__1"
+    },
+    {
+      "comment": "[have]{having} long [narrow_1]{narrow} [raised]{raised} [lines]{lines}, or [form_2]{forming} one long [narrow_1]{narrow} [raised]{raised} [line_1]{line}",
+      "entry": "ridged",
+      "id": "ridged#ridged__1"
+    },
+    {
+      "comment": "full of [bend_1]{bends} and [twist_1]{twists}",
+      "entry": "serpentine",
+      "id": "serpentine#serpentine__1"
+    },
+    {
+      "comment": "a [solid_1]{solid} [line_1]{line} is [continuous]{continuous}, with no [break_1]{breaks} in it",
+      "entry": "solid",
+      "id": "solid_1#solid_1__6"
+    },
+    {
+      "comment": "something that is [straight_1]{straight} [does]{does} not [bend_1]{bend} or [curve_1]{curve}",
+      "entry": "straight",
+      "id": "straight_1#straight_1__1"
+    },
+    {
+      "comment": "without a [bend_1]{bend} or [curve_1]{curve}",
+      "entry": "straight",
+      "id": "straight_2#straight_2__1"
+    },
+    {
+      "comment": "something such as a [line_1]{line} that is [tangential]{tangential} to something [touch_1]{touches} its [edge_1]{edge} but [does]{does} not [pass_1]{pass} through it",
+      "entry": "tangential",
+      "id": "tangential#tangential__2"
+    },
+    {
+      "comment": "a [wavy]{wavy} [line_1]{line} or [wavy]{wavy} [hair]{hair} has a [lot_1]{lot} of [wave_1]{waves} or [curl_1]{curls} in it",
+      "entry": "wavy",
+      "id": "wavy#wavy__1"
+    },
+    {
+      "comment": "a [wiggly]{wiggly} [line_1]{line} has a [lot_1]{lot} of [curve_1]{curves} in it",
+      "entry": "wiggly",
+      "id": "wiggly#wiggly__1"
+    }
+  ],
+  "thesaurus": "Describing and relating to lines",
+  "type": "Related words"
+}

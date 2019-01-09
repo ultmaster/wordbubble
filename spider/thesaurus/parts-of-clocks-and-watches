@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "the piece of glass or plastic that protects the face of a clock or watch",
+      "entry": "crystal",
+      "id": "crystal#crystal__10"
+    },
+    {
+      "comment": "the part of a clock or watch that is round and has hands that move to show you the time",
+      "entry": "dial",
+      "id": "dial_2#dial_2__2"
+    },
+    {
+      "comment": "the front of a [clock_1]{clock}, where the [number_1]{numbers} are",
+      "entry": "face",
+      "id": "face_1#face_1__23"
+    },
+    {
+      "comment": "a [small_1]{small} [chain_1]{chain} that [connect]{connects} a [fob_1]{fob} [watch_1]{watch} to your [clothing]{clothing}",
+      "entry": "fob",
+      "id": "fob_2#fob_2__1"
+    },
+    {
+      "comment": "the [hand_1]{hands} on a [clock_1]{clock} are the long [part_1]{parts} that move around and show the time",
+      "entry": "hand",
+      "id": "hand_1#hand_1__16"
+    },
+    {
+      "comment": "the thing that points to the hour on a clock or watch. The thing that points to the minute is called the minute hand, and the thing that points to the seconds is called the second hand.",
+      "entry": "hour hand",
+      "id": "hour-hand#hour-hand__1"
+    },
+    {
+      "comment": "liquid crystal display: a thin screen on a piece of electronic equipment such as a calculator, a clock, or a computer that shows the time or other information",
+      "entry": "LCD",
+      "id": "lcd_1#lcd_1__1"
+    },
+    {
+      "comment": "light-emitting diode: a piece of electronic equipment that produces light and is used especially in computer screens, digital watches, and calculators",
+      "entry": "LED",
+      "id": "led_2#led_2__1"
+    },
+    {
+      "comment": "the [moving]{moving} part on a [clock_1]{clock} or [watch_1]{watch} that [point_1]{points} to the [number_1]{number} of [minute_1]{minutes} [past_1]{past} the [hour]{hour}",
+      "entry": "minute hand",
+      "id": "minute-hand#minute-hand__1"
+    },
+    {
+      "comment": "the [moving]{moving} [part_1]{parts} of a [clock_1]{clock} or [watch_1]{watch}",
+      "entry": "movement",
+      "id": "movement#movement__19"
+    },
+    {
+      "comment": "a long thin [bar_1]{bar} with a [weight_1]{weight} at the [lower_1]{lower} [end_1]{end} that [swing_1]{swings} from side to side, [usually]{usually} in [order_1]{order} to keep a [clock_1]{clock} [working]{working}",
+      "entry": "pendulum",
+      "id": "pendulum#pendulum__1"
+    },
+    {
+      "comment": "a [hard_1]{hard} [shiny]{shiny} [stone_1]{stone} often [used]{used} [inside_1]{inside} [electronic]{electronic} [equipment]{equipment} and [watch_1]{watches}",
+      "entry": "quartz",
+      "id": "quartz#quartz__1"
+    },
+    {
+      "comment": "the hand on some watches and clocks that moves quickly, showing the seconds",
+      "entry": "second hand",
+      "id": "second-hand#second-hand__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [plastic_1]{plastic}, [leather]{leather}, or [cloth]{cloth} [used]{used} for [holding]{holding} a [watch_1]{watch} on your [wrist]{wrist}",
+      "entry": "watchband",
+      "id": "watchband#watchband__1"
+    },
+    {
+      "comment": "the [leather]{leather} or [plastic_1]{plastic} part of a [wristwatch]{wristwatch} that [go_1]{goes} around your [wrist]{wrist}",
+      "entry": "wristband",
+      "id": "wristband#wristband__2"
+    }
+  ],
+  "thesaurus": "Parts of clocks and watches",
+  "type": "Related words"
+}

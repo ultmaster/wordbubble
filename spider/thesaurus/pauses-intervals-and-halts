@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [short_1]{short} time when someone [stop_1]{stops} [doing]{doing} something before [start_1]{starting} again",
+      "entry": "pause",
+      "id": "pause_2#pause_2__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time between two [event]{events}",
+      "entry": "interval",
+      "id": "interval#interval__1"
+    },
+    {
+      "comment": "a [temporary]{temporary} or [permanent_1]{permanent} [stop_1]{stop} in a [process_1]{process}",
+      "entry": "halt",
+      "id": "halt_1#halt_1__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which something [happen]{happens} [later_1]{later} or more [slowly]{slowly} than you [expected]{expected}",
+      "entry": "delay",
+      "id": "delay_2#delay_2__1"
+    },
+    {
+      "comment": "a [short_1]{short} [period_1]{period} of time between two [long_1]{longer} [period_1]{periods}",
+      "entry": "interlude",
+      "id": "interlude#interlude__1"
+    },
+    {
+      "comment": "a time at which one thing [end_1]{ends} [completely]{completely} and a [new]{new} thing [begin]{begins}",
+      "entry": "break",
+      "id": "break_2#break_2__18"
+    },
+    {
+      "comment": "a time during which something [interrupt]{interrupts} a [process_1]{process} or [activity]{activity}",
+      "entry": "interruption",
+      "id": "interruption#interruption__5"
+    },
+    {
+      "comment": "a short time between periods of work in an official organization, especially a court or parliament",
+      "entry": "recess",
+      "id": "recess_1#recess_1__1"
+    },
+    {
+      "comment": "a [short_1]{short} [break_1]{break} in the [middle_1]{middle} of a [play_1]{play}, [movie]{movie}, [concert]{concert}, etc.",
+      "entry": "intermission",
+      "id": "intermission#intermission__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time in which you are [allow]{allowed} to [change_1]{change} your [mind_1]{mind} about a [contract_1]{contract} or [agreement]{agreement} that you have [sign_2]{signed}",
+      "entry": "cooling-off period",
+      "id": "cooling-off-period#cooling-off-period__2"
+    }
+  ],
+  "thesaurus": "Pauses, intervals and halts",
+  "type": "Synonyms"
+}

@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [walk_1]{walks} for [pleasure]{pleasure} or for [exercise_1]{exercise}",
+      "entry": "walker",
+      "id": "walker#walker__1"
+    },
+    {
+      "comment": "someone who is [walking_1]{walking}, [especially]{especially} in a [town]{town} or [city]{city}, [instead]{instead} of [driving]{driving} or [riding]{riding}",
+      "entry": "pedestrian",
+      "id": "pedestrian_1#pedestrian_1__1"
+    },
+    {
+      "comment": "someone who [go_1]{goes} for long [walk_1]{walks} for [enjoyment]{enjoyment}",
+      "entry": "rambler",
+      "id": "rambler#rambler__1"
+    },
+    {
+      "comment": "someone who is [walking_1]{walking} [past_1]{past} a [place_1]{place}, [especially]{especially} when an [accident]{accident} or [violent]{violent} [event]{event} [happen]{happens}",
+      "entry": "passer-by",
+      "id": "passer-by#passer-by__1"
+    },
+    {
+      "comment": "someone who is [going_1]{going} more [slowly]{slowly} than other [people_1]{people}",
+      "entry": "straggler",
+      "id": "straggler#straggler__1"
+    },
+    {
+      "comment": "a [person]{person} who [travel_1]{travels} by [walking_1]{walking}",
+      "entry": "wayfarer",
+      "id": "wayfarer#wayfarer__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [going_1]{going} for [walk_1]{walks}",
+      "entry": "walking",
+      "id": "walking_1#walking_1__1"
+    },
+    {
+      "comment": "the activity of walking for long distances in the countryside. Someone who does this is called a hiker.",
+      "entry": "hiking",
+      "id": "hiking#hiking__1"
+    }
+  ],
+  "thesaurus": "Walkers and walking for pleasure",
+  "type": "Synonyms"
+}

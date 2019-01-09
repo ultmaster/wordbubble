@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [solid_1]{solid} [block_1]{block} of a [substance]{substance} such as [chocolate]{chocolate} or [soap_1]{soap}",
+      "entry": "bar",
+      "id": "bar_1#bar_1__16"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [contain]{containing} [oil_1]{oil} with a [pleasant]{pleasant} [smell_1]{smell} that you [add_1]{add} to the [water_1]{water} when you take a [bath_1]{bath}",
+      "entry": "bath oil",
+      "id": "bath-oil#bath-oil__1"
+    },
+    {
+      "comment": "a [substance]{substance} with a [pleasant]{pleasant} [smell_1]{smell} that you [add_1]{add} to the [water_1]{water} when you take a [bath_1]{bath}",
+      "entry": "bath salts",
+      "id": "bath-salts#bath-salts__1"
+    },
+    {
+      "comment": "a liquid soap that produces a lot of bubbles when you add it to the water in a bath",
+      "entry": "bubble bath",
+      "id": "bubble-bath#bubble-bath__1"
+    },
+    {
+      "comment": "a [small_1]{small} [hard_1]{hard} [block_1]{block} of something, [especially]{especially} [soap_1]{soap}",
+      "entry": "cake",
+      "id": "cake#cake__8"
+    },
+    {
+      "comment": "to [produce_1]{produce} [foam_1]{foam}",
+      "entry": "foam",
+      "id": "foam_2#foam_2__1"
+    },
+    {
+      "comment": "the white mass of bubbles produced when you mix soap and water",
+      "entry": "lather",
+      "id": "lather_1#lather_1__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} a [lather_1]{lather}",
+      "entry": "lather",
+      "id": "lather_2#lather_2__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [liquid_1]{liquid} [soap_1]{soap} [used]{used} for [washing]{washing} yourself in a [shower_1]{shower}",
+      "entry": "shower gel",
+      "id": "shower-gel#shower-gel__1"
+    },
+    {
+      "comment": "a substance that you use with water to wash your body or an object. It can be a liquid, but is usually a solid piece called a bar of soap.",
+      "entry": "soap",
+      "id": "soap_1#soap_1__1"
+    },
+    {
+      "comment": "the white bubbles that are formed when you mix soap with water",
+      "entry": "soapsuds",
+      "id": "soapsuds#soapsuds__1"
+    },
+    {
+      "comment": "[covered_1]{covered} in [soap_1]{soap}, or [contain]{containing} [soap_1]{soap}",
+      "entry": "soapy",
+      "id": "soapy#soapy__1"
+    },
+    {
+      "comment": "[similar]{similar} to [soap_1]{soap}",
+      "entry": "soapy",
+      "id": "soapy#soapy__3"
+    },
+    {
+      "comment": "a lot of small bubbles on top of water that has soap in it",
+      "entry": "suds",
+      "id": "suds#suds__1"
+    }
+  ],
+  "thesaurus": "Soap and bath products",
+  "type": "Related words"
+}

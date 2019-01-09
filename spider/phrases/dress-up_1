@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "dress up",
+  "senses": [
+    {
+      "def": "to put on [clothes]{clothes} that [make_1]{make} you [look_1]{look} [like_1]{like} someone else, for [fun_1]{fun}",
+      "examples": [
+        "All [children]{children} [love_1]{love} [dressing]{dressing} up.",
+        "They had [dressed]{dressed} up as [prince]{princes} and [princess]{princesses}.",
+        "For her [birthday]{birthday} [party_1]{party}, they [dressed]{dressed} her up as a [ballerina]{ballerina}."
+      ],
+      "id": "dress-up_1__1"
+    },
+    {
+      "def": "to put on [clothes]{clothes} that are more [formal_1]{formal} than the [clothes]{clothes} you [usually]{usually} [wear_1]{wear}",
+      "examples": [
+        "Jonah had [obviously]{obviously} made an [effort]{effort} to [dress_1]{dress} up for the [occasion_1]{occasion}."
+      ],
+      "id": "dress-up_1__6"
+    },
+    {
+      "def": "to [make_1]{make} something seem more [impressive]{impressive} than it [really]{really} is",
+      "examples": [
+        "He [try_1]{tries} to [dress_1]{dress} it up, but he\u2019s [basically]{basically} a [waiter]{waiter}."
+      ],
+      "id": "dress-up_1__8"
+    }
+  ]
+}

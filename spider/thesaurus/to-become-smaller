@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to become [small_1]{smaller} in [size_1]{size}",
+      "entry": "shrink",
+      "id": "shrink_1#shrink_1__1"
+    },
+    {
+      "comment": "if a [substance]{substance} such as [metal_1]{metal} [contract_1]{contracts}, it becomes [small_1]{smaller}",
+      "entry": "contract",
+      "id": "contract_2#contract_2__4"
+    },
+    {
+      "comment": "to [make_1]{make} something [small_1]{smaller} or [firm_1]{firmer} by [pressing]{pressing} it, or to become [small_1]{smaller} or [firm_1]{firmer} in this way",
+      "entry": "compact",
+      "id": "compact_2#compact_2__1"
+    },
+    {
+      "comment": "if part of an [object_1]{object} or [animal_1]{animal} [retract]{retracts}, or if it is [retract]{retracted}, it is [pull_1]{pulled} [backward_1]{backward} or [inside_1]{inside} it",
+      "entry": "retract",
+      "id": "retract#retract__3"
+    },
+    {
+      "comment": "to become [small_1]{smaller} or [narrow_1]{narrower}, or to [make_1]{make} something do this",
+      "entry": "constrict",
+      "id": "constrict#constrict__1"
+    },
+    {
+      "comment": "to become [big_1]{bigger} or [strong]{stronger} and then [small_1]{smaller} or [weak]{weaker}",
+      "entry": "wax and wane",
+      "id": "wax-and-wane#wax-and-wane__1"
+    },
+    {
+      "comment": "to become [small_1]{smaller} in [number_1]{number}, amount, or [size_1]{size}",
+      "entry": "thin",
+      "id": "thin_2#thin_2__4"
+    },
+    {
+      "comment": "the [process_1]{process} of becoming [small_1]{smaller} in [size_1]{size}",
+      "entry": "shrinkage",
+      "id": "shrinkage#shrinkage__1"
+    },
+    {
+      "comment": "the [process_1]{process} of becoming [small_1]{smaller}",
+      "entry": "contraction",
+      "id": "contraction#contraction__1"
+    }
+  ],
+  "thesaurus": "To become smaller",
+  "type": "Synonyms"
+}

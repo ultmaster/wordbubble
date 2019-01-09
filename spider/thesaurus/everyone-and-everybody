@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "every [person]{person} in a [group_1]{group}",
+      "entry": "everyone",
+      "id": "everyone#everyone__1"
+    },
+    {
+      "comment": "everyone",
+      "entry": "everybody",
+      "id": "everybody#everybody__1"
+    },
+    {
+      "comment": "every [person]{person} or thing",
+      "entry": "all",
+      "id": "all_1#all_1__20"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that a [total_1]{total} [number_1]{number} or amount [include]{includes} everyone or everything",
+      "entry": "altogether",
+      "id": "altogether_1#altogether_1__11"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that everything or everyone else is [included]{included}",
+      "entry": "...and all",
+      "id": "and-all#and-all__1"
+    },
+    {
+      "comment": "everyone",
+      "entry": "one and all",
+      "id": "one-and-all#one-and-all__1"
+    },
+    {
+      "comment": "[involve]{involving} everyone or everything in a [place_1]{place} or [situation]{situation}",
+      "entry": "across-the-board",
+      "id": "across-the-board#across-the-board__1"
+    },
+    {
+      "comment": "[involve]{involving} or [affecting]{affecting} everyone in the [world]{world}",
+      "entry": "universal",
+      "id": "universal_1#universal_1__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something [affect_1]{affects} or [include]{includes} everyone",
+      "entry": "without distinction (of something)",
+      "id": "without-distinction-of-something#without-distinction-of-something__1"
+    },
+    {
+      "comment": "[including]{including} everyone or everything, [especially]{especially} all the [cost_1]{costs}, [charge_1]{charges}, and [service_1]{services} that [make_1]{make} up the [total_1]{total} [price_1]{price} of something",
+      "entry": "all-inclusive",
+      "id": "all-inclusive#all-inclusive__1"
+    }
+  ],
+  "thesaurus": "Everyone and everybody",
+  "type": "Synonyms"
+}

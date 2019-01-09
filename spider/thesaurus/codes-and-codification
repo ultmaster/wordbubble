@@ -1,0 +1,151 @@
+{
+  "entries": [
+    {
+      "comment": "[use_1]{using} [letter_1]{letters} and [number_1]{numbers}",
+      "entry": "alphanumeric",
+      "id": "alphanumeric#alphanumeric__1"
+    },
+    {
+      "comment": "if someone breaks a code  (=a secret way of writing), they learn how to understand it",
+      "entry": "break",
+      "id": "break_1#break_1__57"
+    },
+    {
+      "comment": "[completely]{completely} [automated]{automated} [public_1]{public} Turing [test_1]{test} to [tell_1]{tell} [computer]{computers} and [human_2]{humans} [apart]{apart}: a system for [check_1]{checking} that a [human_1]{human} is [use_1]{using} a computer, often [consist]{consisting} of a [group_1]{group} of [letter_1]{letters} in [strange_1]{strange} [shape_1]{shapes} that the [person]{person} must [type_1]{type} again",
+      "entry": "CAPTCHA",
+      "id": "captcha#captcha__1"
+    },
+    {
+      "comment": "a [secret_1]{secret} system of [writing]{writing}, [used]{used} for [send_1]{sending} [message_1]{messages} so that no one can [understand]{understand} them [unless]{unless} they [know_1]{know} the system",
+      "entry": "cipher",
+      "id": "cipher#cipher__1"
+    },
+    {
+      "comment": "a system of words, numbers, or signs used for sending secret messages. To put a message into code is to encode it, and to translate it back from code is to decode it",
+      "entry": "code",
+      "id": "code_1#code_1__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [number_1]{numbers} or [letter_1]{letters} that [give_1]{gives} [information]{information} about something, for [example]{example} by [showing]{showing} what it is or when it was made",
+      "entry": "code",
+      "id": "code_1#code_1__9"
+    },
+    {
+      "comment": "to [mark_1]{mark} something with a [code_1]{code} that [give_1]{gives} [information]{information} about it",
+      "entry": "code",
+      "id": "code_2#code_2__1"
+    },
+    {
+      "comment": "to [mark_1]{mark} something with a [code_1]{code} [instead]{instead} of a name, so that [people_1]{people} do not [know_1]{know} what it is",
+      "entry": "code",
+      "id": "code_2#code_2__3"
+    },
+    {
+      "comment": "to put a [message_1]{message} in [code_1]{code} so that it is [secret_1]{secret}",
+      "entry": "code",
+      "id": "code_2#code_2__5"
+    },
+    {
+      "comment": "[marked]{marked} with [letter_1]{letters} or [number_1]{numbers} that give [information]{information}",
+      "entry": "coded",
+      "id": "coded#coded__1"
+    },
+    {
+      "comment": "[marked]{marked} with [number_1]{numbers} or [letter_1]{letters} [instead]{instead} of a name",
+      "entry": "coded",
+      "id": "coded#coded__3"
+    },
+    {
+      "comment": "[written_1]{written} [use_1]{using} a [secret_1]{secret} system of [word_1]{words} or [sign_1]{signs}",
+      "entry": "coded",
+      "id": "coded#coded__7"
+    },
+    {
+      "comment": "a name for someone or something that you use when you [want_1]{want} to keep their [real_1]{real} name [secret_1]{secret}",
+      "entry": "code name",
+      "id": "code-name#code-name__1"
+    },
+    {
+      "comment": "a secret message written in code",
+      "entry": "cryptogram",
+      "id": "cryptogram#cryptogram__1"
+    },
+    {
+      "comment": "the use of codes to put information on a website into a form that can only be read by users with permission",
+      "entry": "cryptography",
+      "id": "cryptography#cryptography__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [cipher]{cipher}",
+      "entry": "cypher",
+      "id": "cypher#cypher__1"
+    },
+    {
+      "comment": "a long signal used for sending messages in Morse code. Short signals are called dots.",
+      "entry": "dash",
+      "id": "dash_2#dash_2__12"
+    },
+    {
+      "comment": "to succeed in understanding the meaning of something written in a secret system of letters or symbols called a code",
+      "entry": "decipher",
+      "id": "decipher#decipher__3"
+    },
+    {
+      "comment": "to succeed in understanding the meaning of a message written in code",
+      "entry": "decode",
+      "id": "decode#decode__1"
+    },
+    {
+      "comment": "to change digital electronic signals into a picture and sound on your television",
+      "entry": "decode",
+      "id": "decode#decode__3"
+    },
+    {
+      "comment": "to change information that was in a code that could not be read or understood into a form that can be read and understood",
+      "entry": "decrypt",
+      "id": "decrypt#decrypt__1"
+    },
+    {
+      "comment": "a short flash of light or sound used in Morse code  (=a system for sending messages, used especially in the past). A long flash or sound is called a dash.",
+      "entry": "dot",
+      "id": "dot_1#dot_1__5"
+    },
+    {
+      "comment": "to put secret information into code  (=a system of words, numbers, or symbols that hides its real meaning)",
+      "entry": "encode",
+      "id": "encode#encode__1"
+    },
+    {
+      "comment": "to put information into code  (=a system of words, numbers, or symbols that hides its real meaning)",
+      "entry": "encrypt",
+      "id": "encrypt#encrypt__1"
+    },
+    {
+      "comment": "a system of [send_1]{sending} [message_1]{messages} [use_1]{using} [signal_1]{signals} of [sound_1]{sound} or [light_1]{light} that [represent]{represent} the [letter_1]{letters} of the [alphabet]{alphabet}",
+      "entry": "Morse code",
+      "id": "morse-code#morse-code__1"
+    },
+    {
+      "comment": "a way of keeping Internet messages secret in which a single key  (=letter or number) changes the message into code and back again",
+      "entry": "private key cryptography",
+      "id": "private-key-cryptography#private-key-cryptography__1"
+    },
+    {
+      "comment": "a system for [send_1]{sending} [message_1]{messages} in which you [hold_1]{hold} two [flag_1]{flags} in [various]{various} [position_1]{positions} to [represent]{represent} [different]{different} [letter_1]{letters} and [number_1]{numbers}",
+      "entry": "semaphore",
+      "id": "semaphore#semaphore__1"
+    },
+    {
+      "comment": "a [quick_1]{quick} way of [writing]{writing} that [use_1]{uses} [symbol]{symbols} to [represent]{represent} [letter_1]{letters}, [word_1]{words}, or [phrase_1]{phrases}, [used]{used} [especially]{especially} when you [write]{write} what someone is [saying]{saying} as they are [talk_1]{talking}",
+      "entry": "shorthand",
+      "id": "shorthand#shorthand__1"
+    },
+    {
+      "comment": "to change a signal or message that has been sent in code into a form that you can understand",
+      "entry": "unscramble",
+      "id": "unscramble#unscramble__3"
+    }
+  ],
+  "thesaurus": "Codes and codification",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "without question",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that something is [definitely]{definitely} [true_1]{true}",
+      "examples": [
+        "He is without [question_1]{question} the [best_1]{best} [player]{player} on our [team_1]{team}."
+      ],
+      "id": "without-question__1"
+    },
+    {
+      "def": "if someone [does]{does} something without [question_1]{question}, they do it without [ask_1]{asking} any [question_1]{questions}",
+      "examples": [
+        "He [expected]{expected} the [children]{children} to [obey]{obey} without [question_1]{question}."
+      ],
+      "id": "without-question__3"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [build_1]{build} a [particular_1]{particular} [type_1]{type} of [vehicle]{vehicle}, system, or [machine_1]{machine}",
+      "examples": [
+        "a [firm_1]{firm} of [boat]{boat} [builder]{builders}",
+        "The [software]{software} has several [new]{new} [feature_1]{features} put in by the builder."
+      ],
+      "id": "builder__1"
+    },
+    {
+      "def": "someone whose [job_1]{job} is to [repair_1]{repair} and [build_1]{build} [house_1]{houses}",
+      "examples": [
+        "The [builder]{builders} will [start_1]{start} [work_1]{work} [tomorrow_1]{tomorrow}."
+      ],
+      "id": "builder__4"
+    },
+    {
+      "def": "something that [help_1]{helps} to [produce_1]{produce} or [improve_1]{improve} something",
+      "examples": [
+        "a [confidence]{confidence}/[skill]{skills} builder"
+      ],
+      "id": "builder__6"
+    }
+  ],
+  "word": "builder"
+}

@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "a [partly]{partly} [enclosed]{enclosed} [area]{area} that is [used]{used} for a [particular_1]{particular} [purpose]{purpose}, for [example]{example} [parking]{parking} a [car]{car}",
+      "entry": "bay",
+      "id": "bay_1#bay_1__3"
+    },
+    {
+      "comment": "to put a [piece_1]{piece} of [equipment]{equipment} on a [wheel_1]{wheel} of a [car]{car} to [stop_1]{stop} it being [move_1]{moved} because it is [illegal_1#illegal_1__6]{illegally} [park_2]{parked}",
+      "entry": "clamp",
+      "id": "clamp_1#clamp_1__6"
+    },
+    {
+      "comment": "a Denver [boot_1]{boot}",
+      "entry": "clamp",
+      "id": "clamp_2#clamp_2__2"
+    },
+    {
+      "comment": "to [park_1]{park} your [car]{car} [parallel_1]{parallel} to another [car]{car} that is already [park_2]{parked} at the side of the [road]{road}",
+      "entry": "double-park",
+      "id": "double-park#double-park__1"
+    },
+    {
+      "comment": "in the U.K., two [yellow_1]{yellow} [lines]{lines} along the side of a [road]{road} that mean you are not [allow]{allowed} to [park_1]{park} your [vehicle]{vehicle} there",
+      "entry": "double yellow line",
+      "id": "double-yellow-line#double-yellow-line__2"
+    },
+    {
+      "comment": "a [parking]{parking} [meter_1]{meter}",
+      "entry": "meter",
+      "id": "meter_1#meter_1__4"
+    },
+    {
+      "comment": "a woman whose job is to check that cars are parked legally. The British word for a woman or man who does this job is traffic warden.",
+      "entry": "meter maid",
+      "id": "meter-maid#meter-maid__1"
+    },
+    {
+      "comment": "a [parking]{parking} [lot_1]{lot}",
+      "entry": "motor park",
+      "id": "motor-park#motor-park__2"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [park_1]{park} your [car]{car} that is not on a [road]{road}",
+      "entry": "off-street parking",
+      "id": "off-street-parking#off-street-parking__1"
+    },
+    {
+      "comment": "to move a [vehicle]{vehicle} into a [place_1]{place} where you are [going_1]{going} to [leave_1]{leave} it for a [period_1]{period} of time",
+      "entry": "park",
+      "id": "park_2#park_2__1"
+    },
+    {
+      "comment": "a [transportation]{transportation} system in which [driver]{drivers} [leave_1]{leave} their [car]{cars} in a [place_1]{place} [outside]{outside} a [town]{town} and [travel_1]{travel} by [train_1]{train} or [bus_1]{bus} into the [town]{town}",
+      "entry": "park and ride",
+      "id": "park-and-ride#park-and-ride__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [put]{putting} a [vehicle]{vehicle} into a [place_1]{place} and [leave_1]{leaving} it there",
+      "entry": "parking",
+      "id": "parking#parking__1"
+    },
+    {
+      "comment": "[space_1]{space} where [motor_1]{motor} [vehicle]{vehicles} can be [left_1]{left}",
+      "entry": "parking",
+      "id": "parking#parking__4"
+    },
+    {
+      "comment": "a [building]{building} where [people_1]{people} can [park_1]{park} their [car]{cars}",
+      "entry": "parking garage",
+      "id": "parking-garage#parking-garage__1"
+    },
+    {
+      "comment": "an area or building where people can park their cars. The British word is car park.",
+      "entry": "parking lot",
+      "id": "parking-lot#parking-lot__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} in the [street_1]{street} that you put [coin_1]{coins} into to [pay_1]{pay} for [leave_1]{leaving} your [car]{car} there",
+      "entry": "parking meter",
+      "id": "parking-meter#parking-meter__1"
+    },
+    {
+      "comment": "a building or underground parking area having several levels reached by ramps  (=slopes), where automobiles can be parked temporarily",
+      "entry": "parking ramp",
+      "id": "parking-ramp#parking-ramp__1"
+    },
+    {
+      "comment": "an official document put on your car telling you that you have broken a rule about parking and must pay a fine",
+      "entry": "parking ticket",
+      "id": "parking-ticket#parking-ticket__1"
+    },
+    {
+      "comment": "a [place_1]{place} where the [police_1]{police} take your [car]{car} if you have [park_2]{parked} it [illegal_1#illegal_1__6]{illegally}",
+      "entry": "pound",
+      "id": "pound_1#pound_1__5"
+    },
+    {
+      "comment": "to take a [vehicle]{vehicle} [away_1]{away} from a [place_1]{place} by [tow_1]{towing} it, [especially]{especially} because it is [park_2]{parked} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "tow away",
+      "id": "tow-away#tow-away__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you should not [leave_1]{leave} your [car]{car} [park_2]{parked}. If you do [leave_1]{leave} your [car]{car} there, it is [likely_1]{likely} to be [taken_1]{taken} [away_1]{away} by the [police_1]{police}.",
+      "entry": "towaway zone",
+      "id": "towaway-zone#towaway-zone__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [check_1]{check} that [vehicle]{vehicles} are [legally]{legally} [park_2]{parked}",
+      "entry": "traffic warden",
+      "id": "traffic-warden#traffic-warden__1"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} by which a [staff_1]{staff} [member]{member} of a [restaurant]{restaurant}, [hotel]{hotel}, etc. [park_1]{parks} [customer]{customers}\u2019 [car]{cars} for them",
+      "entry": "valet parking",
+      "id": "valet-parking#valet-parking__1"
+    }
+  ],
+  "thesaurus": "Car parking and parking control",
+  "type": "Related words"
+}

@@ -1,0 +1,23 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [reason_1]{reason} you give for something that has [happen]{happened} or something you have done",
+      "examples": [
+        "I [expected]{expected} an explanation and an [apology]{apology}.",
+        "The explanation for this is [simple]{simple}.",
+        "He [gave]{gave} a [detailed]{detailed} explanation of the [event]{events} [leading]{leading} up to the [accident]{accident}.",
+        "You had [better_1]{better} give me some [sort_1]{sort} of explanation!"
+      ],
+      "id": "explanation__1"
+    },
+    {
+      "def": "a [description]{description} of how something [work_1]{works} or of how to do something",
+      "examples": [
+        "This [book_1]{book} [provide]{provides} a [clear_1]{clear} explanation of how to use the [internet]{Internet}."
+      ],
+      "id": "explanation__6"
+    }
+  ],
+  "word": "explanation"
+}

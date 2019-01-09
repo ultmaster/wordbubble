@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "camp out",
+  "senses": [
+    {
+      "def": "to [sleep_1]{sleep} [outside]{outside}, with or without a [tent]{tent} or other [shelter_1]{shelter}",
+      "examples": [
+        "He [plan_2]{planned} to [camp_1]{camp} out in the [wild_1]{wild}."
+      ],
+      "id": "camp-out__1"
+    },
+    {
+      "def": "to [stay_1]{stay} in a [place_1]{place} without the [furniture]{furniture} and [equipment]{equipment} that you would [normally]{normally} have",
+      "examples": [],
+      "id": "camp-out__3"
+    }
+  ]
+}

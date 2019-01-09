@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "find out",
+  "senses": [
+    {
+      "def": "to [discover]{discover} a [fact]{fact} or [piece_1]{piece} of [information]{information}",
+      "examples": [
+        "We may never find out the [truth]{truth} about what [happen]{happened}.",
+        "The [police_1]{police} are [determined]{determined} to find out who [kill_1]{killed} Louise.",
+        "Her [parent]{parents} found out that she had a [boyfriend_1]{boyfriend}.",
+        "I don\u2019t [want_1]{want} anyone else to find out about this."
+      ],
+      "id": "find-out__1"
+    },
+    {
+      "def": "to [discover]{discover} that someone has been [dishonest]{dishonest}",
+      "examples": [
+        "It was only a [matter_1]{matter} of time before someone found him out."
+      ],
+      "id": "find-out__6"
+    }
+  ]
+}

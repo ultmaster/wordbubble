@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "blow away",
+  "senses": [
+    {
+      "def": "if something [blow_1]{blows} [away_1]{away} or is [blown]{blown} [away_1]{away}, the [wind_1]{wind} [move_1]{moves} it [away_1]{away} from you until you cannot see or [touch_1]{touch} it",
+      "examples": [
+        "His hat [blew]{blew} [away_1]{away} on the [roller]{roller} [coaster]{coaster}.",
+        "She [switch_1]{switched} on the [fan_1]{fan} to [blow_1]{blow} [away_1]{away} the [smoke_1]{smoke}."
+      ],
+      "id": "blow-away__1"
+    },
+    {
+      "def": "to [kill_1]{kill} someone by [shooting]{shooting} them",
+      "examples": [],
+      "id": "blow-away__4"
+    },
+    {
+      "def": "to [impress]{impress} someone very much or [make_1]{make} them very [excited]{excited}",
+      "examples": [
+        "When I [heard]{heard} that [song]{song} for the first time it [just_1]{just} [blew]{blew} me [away_1]{away}."
+      ],
+      "id": "blow-away__5"
+    },
+    {
+      "def": "to [defeat_1]{defeat} someone [completely]{completely} and [easily]{easily}",
+      "examples": [
+        "In the [second_1]{second} [half]{half} we [completely]{completely} [blew]{blew} them [away_1]{away}."
+      ],
+      "id": "blow-away__7"
+    }
+  ]
+}

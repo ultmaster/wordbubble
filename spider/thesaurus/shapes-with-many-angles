@@ -1,0 +1,226 @@
+{
+  "entries": [
+    {
+      "comment": "a [shape_1]{shape} [like_1]{like} a \u201cV\u201d",
+      "entry": "chevron",
+      "id": "chevron#chevron__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with one long [upright_1]{upright} [line_1]{line} and one [short_1]{shorter} [line_1]{line} across it, [used]{used} as a [symbol]{symbol} of Christianity",
+      "entry": "the Cross",
+      "id": "cross_2#cross_2__1"
+    },
+    {
+      "comment": "an [object_1]{object} [like_1]{like} a [box_1]{box} with six [square_1]{square} sides that are all the same [size_1]{size}",
+      "entry": "cube",
+      "id": "cube_1#cube_1__1"
+    },
+    {
+      "comment": "a shape like a box that is similar to a cube, but with surfaces that are rectangles, not squares",
+      "entry": "cuboid",
+      "id": "cuboid_1#cuboid_1__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with four [straight_1]{straight} [equal_1]{equal} sides that [stand_1]{stands} on one of its [corner_1]{corners}",
+      "entry": "diamond",
+      "id": "diamond#diamond__3"
+    },
+    {
+      "comment": "a triangle whose sides are all the same length",
+      "entry": "equilateral triangle",
+      "id": "equilateral-triangle#equilateral-triangle__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} that becomes [wide_1]{wider} at one [end_1]{end}",
+      "entry": "flare",
+      "id": "flare_1#flare_1__3"
+    },
+    {
+      "comment": "a [shape_1]{shape} that can be [repeatedly]{repeatedly} [divided]{divided} into [part_1]{parts} that are [small_1]{smaller} [copy_1]{copies} of the [original_1]{original} [shape_1]{shape}",
+      "entry": "fractal",
+      "id": "fractal#fractal__1"
+    },
+    {
+      "comment": "a geometric shape with seven straight sides. Something in the shape of a heptagon is heptagonal.",
+      "entry": "heptagon",
+      "id": "heptagon#heptagon__1"
+    },
+    {
+      "comment": "a geometric shape with six straight sides. Something in the shape of a hexagon is hexagonal.",
+      "entry": "hexagon",
+      "id": "hexagon#hexagon__1"
+    },
+    {
+      "comment": "a star with six points that is made from two triangles. The Star of David is a common hexagram.",
+      "entry": "hexagram",
+      "id": "hexagram#hexagram__1"
+    },
+    {
+      "comment": "a triangle in which two sides are the same length",
+      "entry": "isosceles triangle",
+      "id": "isosceles-triangle#isosceles-triangle__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with four [slope_2#slope_2__5]{sloping} sides",
+      "entry": "lozenge",
+      "id": "lozenge#lozenge__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with four [straight_1]{straight} sides and four 90\u00ba [angle_1]{angles}. Two of the [parallel_1]{parallel} sides are [long_1]{longer} than the other two sides.",
+      "entry": "oblong",
+      "id": "oblong#oblong__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} that is [long_1]{longer} than it is [wide_1]{wide}",
+      "entry": "oblong",
+      "id": "oblong#oblong__2"
+    },
+    {
+      "comment": "a [shape_1]{shape} with eight [straight_1]{straight} sides",
+      "entry": "octagon",
+      "id": "octagon#octagon__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with four [straight_1]{straight} sides in which [opposite_1]{opposite} sides are of [equal_1]{equal} [length]{length} and are [parallel_1]{parallel} to each other",
+      "entry": "parallelogram",
+      "id": "parallelogram#parallelogram__1"
+    },
+    {
+      "comment": "an [object_1]{object} or [shape_1]{shape} that [look_1]{looks} [like_1]{like} the top of a [mountain]{mountain}",
+      "entry": "peak",
+      "id": "peak_1#peak_1__13"
+    },
+    {
+      "comment": "a [shape_1]{shape} with five sides, [usually]{usually} of [equal_1]{equal} [length]{length}, and [angle_1]{angles} [great_1]{greater} than 90\u00b0",
+      "entry": "pentagon",
+      "id": "pentagon#pentagon__1"
+    },
+    {
+      "comment": "a [star_1]{star} with five [point_1]{points} that is often [used]{used} as a [magic_1]{magic} [symbol]{symbol}",
+      "entry": "pentagram",
+      "id": "pentagram#pentagram__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [shape_1]{shape} with three or more sides and [angle_1]{angles}",
+      "entry": "polygon",
+      "id": "polygon#polygon__1"
+    },
+    {
+      "comment": "a [solid_1]{solid} [shape_1]{shape} with many [flat_1]{flat} sides",
+      "entry": "polyhedron",
+      "id": "polyhedron#polyhedron__1"
+    },
+    {
+      "comment": "a solid object that has a regular shape and can be cut into slices that all have the same shape. A prism usually has two or more sides shaped like a triangle.",
+      "entry": "prism",
+      "id": "prism#prism__1"
+    },
+    {
+      "comment": "an [object_1]{object} with the [shape_1]{shape} of a [pyramid]{pyramid}",
+      "entry": "pyramid",
+      "id": "pyramid#pyramid__2"
+    },
+    {
+      "comment": "a [shape_1]{shape} that is a [quarter_1]{quarter} of a [circle_1]{circle}",
+      "entry": "quadrant",
+      "id": "quadrant#quadrant__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [shape_1]{shape} with four sides such as a [square_1]{square}",
+      "entry": "quadrilateral",
+      "id": "quadrilateral#quadrilateral__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with four [straight_1]{straight} sides and four [angle_1]{angles} of 90\u00ba",
+      "entry": "rectangle",
+      "id": "rectangle#rectangle__1"
+    },
+    {
+      "comment": "a [parallelogram]{parallelogram}",
+      "entry": "rhomboid",
+      "id": "rhomboid_1#rhomboid_1__1"
+    },
+    {
+      "comment": "a shape with four straight sides of equal length and angles that are not 90\u00b0. The more usual word is diamond.",
+      "entry": "rhombus",
+      "id": "rhombus#rhombus__1"
+    },
+    {
+      "comment": "a flat shape with three straight sides and three angles, one of which is a right angle",
+      "entry": "right triangle",
+      "id": "right-triangle#right-triangle__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with three [angle_1]{angles} and three [straight_1]{straight} sides of [different]{different} [length]{lengths}",
+      "entry": "scalene triangle",
+      "id": "scalene-triangle#scalene-triangle__1"
+    },
+    {
+      "comment": "[square_1]{square}",
+      "entry": "sq.",
+      "id": "sq#sq__1"
+    },
+    {
+      "comment": "a shape with four straight sides of equal length and four corners called right angles",
+      "entry": "square",
+      "id": "square_1#square_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of something [shaped_1]{shaped} [like_1]{like} a [square_1]{square}",
+      "entry": "square",
+      "id": "square_1#square_1__3"
+    },
+    {
+      "comment": "a [sign_1]{sign} [like_1]{like} a [star_1]{star} with a [lot_1]{lot} of [point_1]{points}, [used]{used} for [example]{example} in [computer]{computers}, on a [telephone_1]{telephone}, or for [marking]{marking} something as [important]{important}",
+      "entry": "star",
+      "id": "star_1#star_1__22"
+    },
+    {
+      "comment": "an [object_1]{object} or [shape_1]{shape} with five or more [point_1]{points} that [look_1]{looks} [like_1]{like} a [star_1]{star}",
+      "entry": "star",
+      "id": "star_1#star_1__25"
+    },
+    {
+      "comment": "a shape or pattern of lines coming out from a center point like the rays of a star",
+      "entry": "starburst",
+      "id": "starburst#starburst__1"
+    },
+    {
+      "comment": "a star with six points formed by putting a triangle upside down on top of another triangle. It is used to represent Judaism and the state of Israel.",
+      "entry": "Star of David",
+      "id": "star-of-david#star-of-david__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} with four [straight_1]{straight} sides that are not [parallel_1]{parallel} to each other",
+      "entry": "trapezium",
+      "id": "trapezium#trapezium__1"
+    },
+    {
+      "comment": "a [trapezoid]{trapezoid}",
+      "entry": "trapezium",
+      "id": "trapezium#trapezium__2"
+    },
+    {
+      "comment": "a [shape_1]{shape} with four [straight_1]{straight} sides, two of which are [parallel_1]{parallel}",
+      "entry": "trapezoid",
+      "id": "trapezoid#trapezoid__1"
+    },
+    {
+      "comment": "a [trapezium]{trapezium}",
+      "entry": "trapezoid",
+      "id": "trapezoid#trapezoid__2"
+    },
+    {
+      "comment": "a [flat_1]{flat} [shape_1]{shape} that has three [straight_1]{straight} sides and three [angle_1]{angles}",
+      "entry": "triangle",
+      "id": "triangle#triangle__1"
+    },
+    {
+      "comment": "something that has the [shape_1]{shape} of a [triangle]{triangle}",
+      "entry": "triangle",
+      "id": "triangle#triangle__2"
+    }
+  ],
+  "thesaurus": "Shapes with many angles",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "something that is conditional will only [happen]{happen} if something else [happen]{happens}",
+      "examples": [
+        "[conditional]{Conditional} [planning]{planning} [approval]{approval} was [granted]{granted}.",
+        "The [job_1]{job} [offer_1]{offer} is conditional on [passing_1]{passing} a [medical_1]{medical} [examination]{examination}."
+      ],
+      "id": "conditional__1"
+    },
+    {
+      "def": "a conditional [clause]{clause} [usually]{usually} [begin]{begins} with \u201cif\u201d or \u201c[unless]{unless}\u201d and [say_1]{says} what must [happen]{happen} or [exist]{exist} in [order_1]{order} for the [information]{information} in the [main_1]{main} part of the [sentence_1]{sentence} to be [true_1]{true}",
+      "examples": [],
+      "id": "conditional__4"
+    }
+  ],
+  "word": "conditional"
+}

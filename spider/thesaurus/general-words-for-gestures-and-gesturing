@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [movement]{movement} that you [make_1]{make} with your body",
+      "entry": "action",
+      "id": "action#action__12"
+    },
+    {
+      "comment": "the [movement]{movements} or [position_1]{positions} of your body that show other [people_1]{people} what you are [thinking_1]{thinking} or [feeling_1]{feeling}",
+      "entry": "body language",
+      "id": "body-language#body-language__1"
+    },
+    {
+      "comment": "a [confident]{confident} [movement]{movement} made so that other [people_1]{people} [notice_1]{notice}",
+      "entry": "flourish",
+      "id": "flourish_2#flourish_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} [movement]{movements} with your [hand_1]{hands} and [arms]{arms} when you are [talk_1]{talking}, [usually]{usually} because you [want_1]{want} to [emphasize]{emphasize} what you are [saying]{saying} or because you are [excited]{excited}",
+      "entry": "gesticulate",
+      "id": "gesticulate#gesticulate__1"
+    },
+    {
+      "comment": "a [movement]{movement} that [communicate]{communicates} a [feeling_1]{feeling} or [instruction]{instruction}",
+      "entry": "gesture",
+      "id": "gesture_1#gesture_1__1"
+    },
+    {
+      "comment": "the use of [movement]{movement} to [communicate]{communicate}, [especially]{especially} in [dance_1]{dance}",
+      "entry": "gesture",
+      "id": "gesture_1#gesture_1__5"
+    },
+    {
+      "comment": "a hand [movement]{movement} that you use to [control_1]{control} something such as a [smartphone]{smartphone} or [tablet]{tablet}",
+      "entry": "gesture",
+      "id": "gesture_1#gesture_1__6"
+    },
+    {
+      "comment": "something that you do to [communicate]{communicate} your [intention]{intentions} toward someone, [especially]{especially} [good_1]{good} [intention]{intentions}",
+      "entry": "gesture",
+      "id": "gesture_1#gesture_1__8"
+    },
+    {
+      "comment": "to [make_1]{make} a [movement]{movement} with your [hand_1]{hands} or [head_1]{head} in [order_1]{order} to show or [tell_1]{tell} someone something",
+      "entry": "gesture",
+      "id": "gesture_2#gesture_2__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} a [story]{story} or [express_1]{express} yourself without [word_1]{words}, [use_1]{using} only the [movement]{movements} of your body and [face_1]{face}",
+      "entry": "mime",
+      "id": "mime_1#mime_1__1"
+    },
+    {
+      "comment": "the use of only the [movement]{movements} of your body and [face_1]{face} to [tell_1]{tell} a [story]{story} or [express_1]{express} yourself",
+      "entry": "mime",
+      "id": "mime_2#mime_2__1"
+    },
+    {
+      "comment": "a [movement]{movement} or [sound_1]{sound} that you [make_1]{make} that [tell_1]{tells} other [people_1]{people} what you [want_1]{want}, how you [feel_1]{feel}, what they should do, etc.",
+      "entry": "sign",
+      "id": "sign_1#sign_1__20"
+    },
+    {
+      "comment": "a [movement]{movement} that you [make_1]{make} with your [hand_1]{hands} that has a [special_1]{special} [meaning_1]{meaning}",
+      "entry": "sign",
+      "id": "sign_1#sign_1__22"
+    },
+    {
+      "comment": "a [movement]{movement} or [sound_1]{sound} made by someone that has a [special_1]{special} [meaning_1]{meaning} to another [person]{person}",
+      "entry": "signal",
+      "id": "signal_1#signal_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [movement]{movement} or [sound_1]{sound} that has a [special_1]{special} [meaning_1]{meaning} to another [person]{person}",
+      "entry": "signal",
+      "id": "signal_2#signal_2__1"
+    }
+  ],
+  "thesaurus": "General words for gestures and gesturing",
+  "type": "Related words"
+}

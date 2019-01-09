@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to use [violence]{violence} to [harm_1]{harm} a [person]{person}, [animal_1]{animal}, or [place_1]{place}",
+      "entry": "attack",
+      "id": "attack_2#attack_2__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone [violently]{violently}",
+      "entry": "assault",
+      "id": "assault_2#assault_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [sudden_1]{sudden} [violent]{violent} or [illegal_1]{illegal} [attack_1]{attack} on someone or something",
+      "entry": "strike at",
+      "id": "strike-at#strike-at__5"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone or something",
+      "entry": "set on",
+      "id": "set-on#set-on__3"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone in a [public_1]{public} [place_1]{place} and [steal_1]{steal} their [money]{money}, [jewelry]{jewelry}, or other [possession]{possessions}",
+      "entry": "mug",
+      "id": "mug_2#mug_2__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone [violently]{violently}",
+      "entry": "fly at",
+      "id": "fly-at#fly-at__1"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone after [hiding]{hiding} and [wait_1]{waiting} for them",
+      "entry": "ambush",
+      "id": "ambush_2#ambush_2__1"
+    },
+    {
+      "comment": "to [physically]{physically} [attack_1]{attack} or [severely]{severely} [criticize]{criticize} someone",
+      "entry": "assail",
+      "id": "assail#assail__3"
+    },
+    {
+      "comment": "to [attack_1]{attack} someone [physically]{physically}",
+      "entry": "go for",
+      "id": "go-for#go-for__9"
+    },
+    {
+      "comment": "to [suddenly]{suddenly} move toward someone in [order_1]{order} to [threaten]{threaten} them or [attack_1]{attack} them [physically]{physically}",
+      "entry": "come at",
+      "id": "come-at#come-at__1"
+    }
+  ],
+  "thesaurus": "To attack a person or object",
+  "type": "Synonyms"
+}

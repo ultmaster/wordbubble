@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to take the [lid]{lid} or [cover_1]{cover} off something",
+      "entry": "uncover",
+      "id": "uncover#uncover__5"
+    },
+    {
+      "comment": "to [remove]{remove} something that [cover_1]{covers} something",
+      "entry": "strip away",
+      "id": "strip-away#strip-away__1"
+    },
+    {
+      "comment": "to [remove]{remove} something that [cover_1]{covers} something",
+      "entry": "strip",
+      "id": "strip_1#strip_1__7"
+    },
+    {
+      "comment": "to [remove]{remove} the [paper_1]{paper} or [plastic_1]{plastic} from around something such as a [package_1]{package}",
+      "entry": "unwrap",
+      "id": "unwrap#unwrap__1"
+    },
+    {
+      "comment": "to show something that was [covered_1]{covered} or [hidden_1]{hidden}",
+      "entry": "reveal",
+      "id": "reveal_1#reveal_1__7"
+    },
+    {
+      "comment": "to [allow]{allow} something that is [usually]{usually} [covered_1]{covered} or [hidden_1]{hidden} to be [seen]{seen}",
+      "entry": "expose",
+      "id": "expose_1#expose_1__5"
+    },
+    {
+      "comment": "to [allow]{allow} someone to see something by [moving]{moving} the thing that [cover_1]{covers} or [hide_1]{hides} it",
+      "entry": "disclose",
+      "id": "disclose#disclose__5"
+    },
+    {
+      "comment": "to [allow]{allow} someone to see a [private_1]{private} part of your body [accidentally]{accidentally} or [deliberately]{deliberately}",
+      "entry": "expose yourself (to someone)",
+      "id": "expose-yourself-to-someone#expose-yourself-to-someone__1"
+    },
+    {
+      "comment": "to [push_1]{push} the [cover_1]{covers} on a [bed_1]{bed} [away_1]{away} from you [quickly]{quickly}, for [example]{example} before you get out of [bed_1]{bed}",
+      "entry": "throw back",
+      "id": "throw-back#throw-back__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [outer_1]{outer} [layer_1]{layer} of something, [usually]{usually} the [skin_1]{skin} of an [animal_1]{animal}",
+      "entry": "flay",
+      "id": "flay#flay__2"
+    }
+  ],
+  "thesaurus": "To remove a cover from something",
+  "type": "Synonyms"
+}

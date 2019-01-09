@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "push on",
+  "senses": [
+    {
+      "def": "to [continue]{continue} a [trip_1]{trip}, [especially]{especially} after [stop_1]{stopping} for a [period_1]{period} of time",
+      "examples": [
+        "The next [day]{day} we [pushed]{pushed} on toward [phoenix]{Phoenix}."
+      ],
+      "id": "push-on__1"
+    },
+    {
+      "def": "to [continue]{continue} [doing]{doing} something, [especially]{especially} when you do not have much time",
+      "examples": [
+        "There\u2019s a [lot_1]{lot} to do, so [let_1]{let}\u2019s [push_1]{push} on.",
+        "I\u2019ve [pushed]{pushed} on with the [work_1]{work} because I [want_1]{want} to [finish_1]{finish} it [today_1]{today}."
+      ],
+      "id": "push-on__3"
+    }
+  ]
+}

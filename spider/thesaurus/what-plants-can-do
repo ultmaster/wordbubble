@@ -1,0 +1,206 @@
+{
+  "entries": [
+    {
+      "comment": "if a [plant_1]{plant} [bear_1]{bears} [flower_1]{flowers} or [fruit_1]{fruit}, it [produce_1]{produces} them",
+      "entry": "bear",
+      "id": "bear_1#bear_1__35"
+    },
+    {
+      "comment": "if a [tree]{tree} or [plant_1]{plant} [bear_1]{bears} [fruit_1]{fruit}, it [produce_1]{produces} [fruit_1]{fruit}",
+      "entry": "bear fruit",
+      "id": "bear-fruit#bear-fruit__3"
+    },
+    {
+      "comment": "if a [tree]{tree} or [plant_1]{plant} [bloom_1]{blooms}, it [produce_1]{produces} [flower_1]{flowers} that have [open_2]{opened}",
+      "entry": "bloom",
+      "id": "bloom_1#bloom_1__1"
+    },
+    {
+      "comment": "if a [tree]{tree} [blossom_1]{blossoms}, it [produce_1]{produces} [flower_1]{flowers}",
+      "entry": "blossom",
+      "id": "blossom_2#blossom_2__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} [bud_1]{buds}",
+      "entry": "bud",
+      "id": "bud_2#bud_2__1"
+    },
+    {
+      "comment": "if [strong]{stronger} [plant_1]{plants} [choke_1]{choke} [weak]{weaker} ones, they [surround_1]{surround} them and [stop_1]{stop} them from [growing]{growing}",
+      "entry": "choke",
+      "id": "choke_1#choke_1__16"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [climb_1]{climbs} up or over something, it [grow]{grows} up it",
+      "entry": "climb",
+      "id": "climb_1#climb_1__29"
+    },
+    {
+      "comment": "if a [flower_1]{flower} comes out, it [open_2]{opens}",
+      "entry": "come out",
+      "id": "come-out#come-out__31"
+    },
+    {
+      "comment": "if a [plant_1]{plant} comes up, it [start_1]{starts} to [appear]{appear} above the [ground_1]{ground}",
+      "entry": "come up",
+      "id": "come-up#come-up__20"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [die_1]{dies} back, the part above the [ground_1]{ground} [die_1]{dies} but the [root_1]{roots} [stay_1]{stay} [alive]{alive}",
+      "entry": "die back",
+      "id": "die-back#die-back__1"
+    },
+    {
+      "comment": "if a [flower_1]{flower} [fade]{fades}, it [start_1]{starts} to [die_1]{die}",
+      "entry": "fade",
+      "id": "fade#fade__14"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [flower_1]{flowers}, it [produce_1]{produces} [flower_1]{flowers}",
+      "entry": "flower",
+      "id": "flower_2#flower_2__1"
+    },
+    {
+      "comment": "if a [tree]{tree} or [plant_1]{plant} [fruit_1]{fruits}, it [produce_1]{produces} [fruit_1]{fruit}",
+      "entry": "fruit",
+      "id": "fruit_2#fruit_2__1"
+    },
+    {
+      "comment": "to [develop]{develop} from a [seed_1]{seed} and [begin]{begin} to [grow]{grow} into a [plant_1]{plant}, or to [make_1]{make} a [seed_1]{seed} [develop]{develop} in this way",
+      "entry": "germinate",
+      "id": "germinate#germinate__1"
+    },
+    {
+      "comment": "to [start_1]{start} [growing]{growing} [successful#successful__11]{successfully} in a [new]{new} [place_1]{place}",
+      "entry": "get/become established",
+      "id": "get-become-established#get-become-established__3"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [go_1]{goes} or [run_1]{runs} to [seed_1]{seed}, it [start_1]{starts} [produce_1]{producing} [seed_1]{seeds} after it has [produce_1]{produced} [flower_1]{flowers}",
+      "entry": "go/run to seed",
+      "id": "go-run-to-seed#go-run-to-seed__3"
+    },
+    {
+      "comment": "if [plant_1]{plants} or [tree]{trees} [grow]{grow}, they [develop]{develop} and get [large_1]{larger} or [tall]{taller}",
+      "entry": "grow",
+      "id": "grow#grow__7"
+    },
+    {
+      "comment": "if [tree]{trees} or [plant_1]{plants} [grow]{grow} somewhere, they [exist]{exist} there",
+      "entry": "grow",
+      "id": "grow#grow__11"
+    },
+    {
+      "comment": "if a [plant_1]{plant} or [animal_1]{animal} [mimic_1]{mimics} another [plant_1]{plant} or [animal_1]{animal} or [mimic_1]{mimics} something in its [environment]{environment}, it [make_1]{makes} [itself]{itself} [look_1]{look} [like_1]{like} it in [order_1]{order} to be less [noticeable]{noticeable} to its [enemy]{enemies}",
+      "entry": "mimic",
+      "id": "mimic_1#mimic_1__4"
+    },
+    {
+      "comment": "if something such as a [flower_1]{flower} [open_2]{opens}, it [move_1]{moves} into its [wide_1]{widest} [position_1]{position} and you can see its full [shape_1]{shape}",
+      "entry": "open",
+      "id": "open_2#open_2__5"
+    },
+    {
+      "comment": "if [plant_1]{plants} or [animal_1]{animals} [overwinter]{overwinter} somewhere, they [live_1]{live} through the [winter_1]{winter} there without [dying_1]{dying}",
+      "entry": "overwinter",
+      "id": "overwinter#overwinter__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} [pod_1]{pods}",
+      "entry": "pod",
+      "id": "pod_2#pod_2__2"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [put]{puts} down [root_1]{roots}, its [root_1]{roots} become [strong]{strong} and [established]{established}",
+      "entry": "put down roots",
+      "id": "put-down-roots#put-down-roots__3"
+    },
+    {
+      "comment": "if a [plant_1]{plant} or [tree]{tree} [put]{puts} [forth]{forth} [leaves]{leaves}, [root_1]{roots}, etc., it [start_1]{starts} to [grow]{grow}",
+      "entry": "put forth",
+      "id": "put-forth#put-forth__3"
+    },
+    {
+      "comment": "to become [ripe]{ripe}, or to [make_1]{make} something [ripe]{ripe}",
+      "entry": "ripen",
+      "id": "ripen#ripen__1"
+    },
+    {
+      "comment": "to [grow]{grow} [root_1]{roots}, or to [make_1]{make} a [plant_1]{plant} [grow]{grow} [root_1]{roots}",
+      "entry": "root",
+      "id": "root_2#root_2__1"
+    },
+    {
+      "comment": "to [grow]{grow} in a [particular_1]{particular} [direction]{direction}",
+      "entry": "run",
+      "id": "run_1#run_1__80"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [run_1]{runs} [riot_1]{riot}, it [grow]{grows} in an [uncontrolled]{uncontrolled} way",
+      "entry": "run riot",
+      "id": "run-riot#run-riot__4"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [seed_1]{seeds}, it [produce_1]{produces} [seed_1]{seeds}",
+      "entry": "seed",
+      "id": "seed_2#seed_2__6"
+    },
+    {
+      "comment": "if something such as a [plant_1]{plant} [shrivel]{shrivels} or [shrivel]{shrivels} up, it becomes [small_1]{smaller} and [thinner]{thinner} than [usual]{usual} and it [does]{does} not [look_1]{look} [fresh_1]{fresh} and [healthy]{healthy}",
+      "entry": "shrivel",
+      "id": "shrivel#shrivel__1"
+    },
+    {
+      "comment": "if a [leaf_1]{leaf} or other part of a [plant_1]{plant} is [sprout_1]{sprouting}, it is [beginning]{beginning} to [grow]{grow} on the [plant_1]{plant}",
+      "entry": "sprout",
+      "id": "sprout_1#sprout_1__1"
+    },
+    {
+      "comment": "if a plant sprouts, new leaves or shoots begin to grow on it",
+      "entry": "sprout",
+      "id": "sprout_1#sprout_1__2"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [sting_1]{stings} you, it [make_1]{makes} a [mark_1]{mark} on your [skin_1]{skin} and [hurt_1]{hurts} you when you [touch_1]{touch} it",
+      "entry": "sting",
+      "id": "sting_1#sting_1__4"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [take_1]{takes} [root_1]{root}, it [begin]{begins} to [grow]{grow} somewhere",
+      "entry": "take root",
+      "id": "take-root#take-root__1"
+    },
+    {
+      "comment": "if [plant_1]{plants} or [animal_1]{animals} [tolerate]{tolerate} [particular_1]{particular} [condition_1]{conditions}, they are [able_1]{able} to [exist]{exist} in those [condition_1]{conditions}",
+      "entry": "tolerate",
+      "id": "tolerate#tolerate__8"
+    },
+    {
+      "comment": "if a plant transpires, water passes from the surface of its leaves into the air as vapor",
+      "entry": "transpire",
+      "id": "transpire#transpire__4"
+    },
+    {
+      "comment": "to [start_1]{start} [produce_1]{producing} [leaves]{leaves} or [flower_1]{flowers}",
+      "entry": "vegetate",
+      "id": "vegetate#vegetate__2"
+    },
+    {
+      "comment": "if a [plant_1]{plant} [wilt_1]{wilts}, it [gradually]{gradually} [bend_1]{bends} toward the [ground_1]{ground} because it [need_1]{needs} [water_1]{water} or is [dying_1]{dying}",
+      "entry": "wilt",
+      "id": "wilt_1#wilt_1__1"
+    },
+    {
+      "comment": "if [plant_1]{plants} or [flower_1]{flowers} [wither]{wither}, they become [drier]{drier} and [start_1]{start} to [die_1]{die}",
+      "entry": "wither",
+      "id": "wither#wither__4"
+    },
+    {
+      "comment": "to [produce_1]{produce} [fruit_1]{fruit}, [vegetable]{vegetables}, or other [food]{foods}",
+      "entry": "yield",
+      "id": "yield_1#yield_1__7"
+    }
+  ],
+  "thesaurus": "What plants can do",
+  "type": "Related words"
+}

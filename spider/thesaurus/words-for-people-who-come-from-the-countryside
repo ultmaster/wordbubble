@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [lives]{lives} in a [village_1]{village}",
+      "entry": "villager",
+      "id": "villager#villager__1"
+    },
+    {
+      "comment": "a man who [lives]{lives} in the [countryside]{countryside}",
+      "entry": "countryman",
+      "id": "countryman#countryman__2"
+    },
+    {
+      "comment": "a [woman]{woman} who [lives]{lives} in the [countryside]{countryside}",
+      "entry": "countrywoman",
+      "id": "countrywoman#countrywoman__2"
+    },
+    {
+      "comment": "an [insulting]{insulting} [word_1]{word} for a [person]{person} who has always [live_1]{lived} in the [country]{country} and [does]{does} not [know_1]{know} about [life]{life} in the [city]{cities}",
+      "entry": "hick",
+      "id": "hick#hick__1"
+    },
+    {
+      "comment": "someone who comes from the [countryside]{countryside}",
+      "entry": "rustic",
+      "id": "rustic_2#rustic_2__1"
+    },
+    {
+      "comment": "an insulting word for someone who lives in the country. This word is used by people who think that people from the country are not intelligent or educated.",
+      "entry": "bumpkin",
+      "id": "bumpkin#bumpkin__1"
+    },
+    {
+      "comment": "an [insulting]{insulting} [word_1]{word} for someone who comes from the [country]{country} and [does]{does} not have a [lot_1]{lot} of [knowledge]{knowledge} or [experience_1]{experience} of [living_1]{living} in [city]{cities}",
+      "entry": "hayseed",
+      "id": "hayseed#hayseed__1"
+    },
+    {
+      "comment": "someone who is not very [intelligent]{intelligent} or who [does]{does} not [know_1]{know} a [lot_1]{lot} about the [world]{world}, [usually]{usually} because they come from a [small_1]{small} [town]{town} or [village_1]{village}",
+      "entry": "yokel",
+      "id": "yokel#yokel__1"
+    },
+    {
+      "comment": "someone who is not from a [country]{country}\u2019s [capital_1]{capital} [city]{city} or a [large_1]{large} [city]{city}",
+      "entry": "provincial",
+      "id": "provincial_2#provincial_2__1"
+    },
+    {
+      "comment": "an [insulting]{insulting} [word_1]{word} for someone from the [countryside]{countryside} who [does]{does} not have much [experience_1]{experience} of [city]{city} [life]{life}",
+      "entry": "country cousin",
+      "id": "country-cousin#country-cousin__1"
+    }
+  ],
+  "thesaurus": "Words for people who come from the countryside",
+  "type": "Synonyms"
+}

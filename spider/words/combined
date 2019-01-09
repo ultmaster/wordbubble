@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "done by [people_1]{people} or [group_1]{groups} [working]{working} together",
+      "examples": [
+        "[crime_1]{Crime} [figure_1]{figures} are [drop_1]{dropping}, because of the combined [effort]{effort} by [resident_1]{residents} and the [police_1]{police}."
+      ],
+      "id": "combined__1"
+    },
+    {
+      "def": "[form_2]{formed} by [add_1]{adding} [thing]{things} together",
+      "examples": [
+        "What is your combined [family_1]{family} [income]{income}?",
+        "a combined [total_1]{total} of 24,000 [troop_1]{troops}"
+      ],
+      "id": "combined__3"
+    }
+  ],
+  "word": "combined"
+}

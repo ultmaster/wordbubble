@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in/within sight",
+  "senses": [
+    {
+      "def": "in any [place_1]{place} that you can see from where you are",
+      "examples": [
+        "There was nobody in [sight_1]{sight}."
+      ],
+      "id": "in-within-sight__1"
+    },
+    {
+      "def": "[used]{used} about something that is [going_1]{going} to [happen]{happen} [soon]{soon}",
+      "examples": [
+        "[political]{Political} [independence]{independence} seemed to be in [sight_1]{sight}."
+      ],
+      "id": "in-within-sight__3"
+    }
+  ]
+}

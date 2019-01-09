@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "confidential [document_1]{documents} or [information]{information} must be [kept]{kept} [secret_1]{secret}",
+      "examples": [
+        "The [report_1]{reports} are [treat_1]{treated} as [strictly]{strictly} confidential."
+      ],
+      "id": "confidential__1"
+    },
+    {
+      "def": "[showing]{showing} that what you are [going_1]{going} to [say_1]{say} must be [kept]{kept} [secret_1]{secret}",
+      "examples": [
+        "His confidential [manner]{manner} [led_1]{led} me to [expect]{expect} [important]{important} [news]{news}."
+      ],
+      "id": "confidential__3"
+    }
+  ],
+  "word": "confidential"
+}

@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "[seed_1]{seeds} that you give to [bird]{birds} as [food]{food}",
+      "entry": "birdseed",
+      "id": "birdseed#birdseed__1"
+    },
+    {
+      "comment": "a [substance]{substance} made of [crushed]{crushed} [bone_1]{bones}, [used]{used} as [food]{food} for [animal_1]{animals} or for [helping]{helping} [plant_1]{plants} to [grow]{grow}",
+      "entry": "bone meal",
+      "id": "bone-meal#bone-meal__1"
+    },
+    {
+      "comment": "the [seed_1]{seeds} of a [corn]{corn} [plant_1]{plant} that are [cooked]{cooked} as [food]{food} or [fed_1]{fed} to [animal_1]{animals}",
+      "entry": "corn",
+      "id": "corn#corn__2"
+    },
+    {
+      "comment": "food that animals such as cows and sheep bring back into their mouths to chew again after they have swallowed it",
+      "entry": "cud",
+      "id": "cud#cud__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [hard_1]{hard} [dry_1]{dry} [food]{food} [given_1]{given} to [dog_1]{dogs}",
+      "entry": "dog biscuit",
+      "id": "dog-biscuit#dog-biscuit__1"
+    },
+    {
+      "comment": "[food]{food} [given_1]{given} to [animal_1]{animals}",
+      "entry": "feed",
+      "id": "feed_2#feed_2__1"
+    },
+    {
+      "comment": "a [bag_1]{bag} that you put around a [horse_1]{horse}\u2019s [head_1]{head} and fill with [food]{food}",
+      "entry": "feedbag",
+      "id": "feedbag#feedbag__1"
+    },
+    {
+      "comment": "a [powder_1]{powder} of [dried]{dried} [fish_1]{fish} that you use to [feed_1]{feed} [animal_1]{animals} or to [fertilize]{fertilize} the [soil_1]{soil} to [help_1]{help} [plant_1]{plants} to [grow]{grow}",
+      "entry": "fishmeal",
+      "id": "fishmeal#fishmeal__1"
+    },
+    {
+      "comment": "food, especially hay or straw, for animals such as cows and horses",
+      "entry": "fodder",
+      "id": "fodder#fodder__1"
+    },
+    {
+      "comment": "[food]{food} for [animal_1]{animals}, [especially]{especially} [crop_1]{crops} [grown_1]{grown} for [horse_1]{horses} and [cow_1]{cows}",
+      "entry": "forage",
+      "id": "forage_2#forage_2__1"
+    },
+    {
+      "comment": "long [grass]{grass} that has been [cut_1]{cut} and [dried]{dried}, [used]{used} for [feeding]{feeding} [animal_1]{animals}",
+      "entry": "hay",
+      "id": "hay#hay__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [dry_1]{dry} [dog_1]{dog} [food]{food}",
+      "entry": "kibble",
+      "id": "kibble#kibble__1"
+    },
+    {
+      "comment": "a [mixture]{mixture} of [crushed]{crushed} [grain]{grains} [used]{used} as [food]{food} for [animal_1]{animals}",
+      "entry": "mash",
+      "id": "mash_1#mash_1__2"
+    },
+    {
+      "comment": "[crushed]{crushed} [grain]{grain}, [used]{used} as [food]{food} for [people_1]{people} or [animal_1]{animals}",
+      "entry": "meal",
+      "id": "meal#meal__9"
+    },
+    {
+      "comment": "a [type_1]{type} of [grain]{grain} often [used]{used} as [food]{food} for [bird]{birds}",
+      "entry": "millet",
+      "id": "millet#millet__1"
+    },
+    {
+      "comment": "[dry_1]{dry} [food]{food} for [horse_1]{horses} and [cow_1]{cows}",
+      "entry": "provender",
+      "id": "provender#provender__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [grass]{grass} that is [used]{used} for [feeding]{feeding} [animal_1]{animals}",
+      "entry": "rye grass",
+      "id": "rye-grass#rye-grass__1"
+    },
+    {
+      "comment": "[grass]{grass} and [plant_1]{plants} that are [preserve_1]{preserved} and [used]{used} for [feeding]{feeding} [farm_1]{farm} [animal_1]{animals}",
+      "entry": "silage",
+      "id": "silage#silage__1"
+    },
+    {
+      "comment": "[waste_1]{waste} [food]{food} or [drink_1]{drink} [fed_1]{fed} to [pig_1]{pigs} and other [animal_1]{animals} on [farm_1]{farms}",
+      "entry": "slops",
+      "id": "slop_2#slop_2__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [contain]{containing} [waste_1]{waste} [food]{food}, [used]{used} for [feeding]{feeding} [pig_1]{pigs}",
+      "entry": "swill",
+      "id": "swill_1#swill_1__1"
+    }
+  ],
+  "thesaurus": "Food for animals",
+  "type": "Related words"
+}

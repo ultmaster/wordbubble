@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [clean_1]{clean} or [dry_1]{dry} something by [moving]{moving} a [cloth]{cloth} or something [soft]{soft} over it",
+      "examples": [
+        "[let_1]{Let} me [just_1]{just} wipe the [table_1]{table} before you [sit]{sit} down.",
+        "[wipe_1]{Wipe} your [mouth_1]{mouth}. You\u2019ve [got_1]{got} [chocolate]{chocolate} all over it.",
+        "She [wipe_1]{wiped} [away_1]{away} her [tear_1]{tears}.",
+        "He [wipe_1]{wiped} his [mouth_1]{mouth} with his [napkin]{napkin}.",
+        "[wipe_1]{Wipe} your [hand_1]{hands} before [touching_1]{touching} [food]{food}.",
+        "I [wish_1]{wish} you wouldn\u2019t wipe your [hand_1]{hands} on your [clothes]{clothes}.",
+        "He [wipe_1]{wiped} the [sweat_1]{sweat} from his [forehead]{forehead}."
+      ],
+      "id": "wipe_1__1"
+    },
+    {
+      "def": "to [apply]{apply} a [substance]{substance} to a [surface_1]{surface} by [moving]{moving} a [cloth]{cloth}, a [piece_1]{piece} of [paper_1]{paper}, or your [finger_1]{finger} over it",
+      "examples": [
+        "She [shook]{shook} the [thermometer]{thermometer} [vigorous#vigorous__9]{vigorously}, and then [wipe_1]{wiped} the [end_1]{end} with [antiseptic]{antiseptic}."
+      ],
+      "id": "wipe_1__12"
+    },
+    {
+      "def": "to [remove]{remove} [information]{information} from a computer [disk]{disk} or from a [video_1]{video} or [audio_1]{audio} [tape_1]{tape}",
+      "examples": [
+        "[did]{Did} you wipe the [hard_1]{hard} [drive_1]{drive}?"
+      ],
+      "id": "wipe_1__14"
+    }
+  ],
+  "word": "wipe"
+}

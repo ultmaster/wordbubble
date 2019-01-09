@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "move in on",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to [control_1]{control} something that someone else [controlled_1]{controlled} before",
+      "examples": [
+        "A [number_1]{number} of [competitor]{competitors} are [moving]{moving} in on our [sale]{sales} [territory]{territory}."
+      ],
+      "id": "move-in-on__1"
+    },
+    {
+      "def": "to get [close_2]{closer} to a [person]{person} or [place_1]{place}, [especially]{especially} to [arrest_1]{arrest} or [attack_1]{attack} them",
+      "examples": [
+        "The [police_1]{police} are [beginning]{beginning} to move in on their [principal_1]{principal} [suspect_1]{suspects}."
+      ],
+      "id": "move-in-on__3"
+    }
+  ]
+}

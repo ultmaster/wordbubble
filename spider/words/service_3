@@ -1,0 +1,27 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} by the [staff_1]{staff} of a [building]{building} or [organization]{organization}, and not by [customer]{customers} or the [public_1]{public}",
+      "examples": [
+        "the service [door_1]{door}/[elevator_1]{elevator}"
+      ],
+      "id": "service_3__1"
+    },
+    {
+      "def": "[relate]{relating} to or [belong]{belonging} to the [military]{military}",
+      "examples": [
+        "service [personnel]{personnel}"
+      ],
+      "id": "service_3__3"
+    },
+    {
+      "def": "[providing]{providing} [help_1]{help}, [information]{information}, or [advice]{advice} for the [public_1]{public} in [exchange_1]{exchange} for [payment]{payment}",
+      "examples": [
+        "the service [sector]{sector}"
+      ],
+      "id": "service_3__5"
+    }
+  ],
+  "word": "service"
+}

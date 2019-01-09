@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} of [add_1]{adding} two or more [number_1]{numbers} or [amount_1]{amounts} together to [make_1]{make} a [total_1]{total}",
+      "entry": "addition",
+      "id": "addition#addition__7"
+    },
+    {
+      "comment": "the [process_1]{process} of [doing]{doing} a [calculation]{calculation}",
+      "entry": "arithmetic",
+      "id": "arithmetic_1#arithmetic_1__3"
+    },
+    {
+      "comment": "[calculation]{calculation} of the [cost_1]{cost} or [value_1]{value} of something, or the amount of the [cost_1]{cost} or [value_1]{value}",
+      "entry": "assessment",
+      "id": "assessment#assessment__8"
+    },
+    {
+      "comment": "the [process_1]{process} of [calculating]{calculating} something",
+      "entry": "calculation",
+      "id": "calculation#calculation__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [calculating]{calculating} a [number_1]{number} or amount",
+      "entry": "computation",
+      "id": "computation#computation__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [change_1]{changing} [calculation]{calculations} or [measurement]{measurements} to [make_1]{make} them more [accurate]{accurate}",
+      "entry": "correction",
+      "id": "correction#correction__15"
+    },
+    {
+      "comment": "[calculation]{calculation} of the [expected]{expected} [cost_1]{cost} of a [plan_1]{plan}, [business]{business} [proposal]{proposal}, etc.",
+      "entry": "costing",
+      "id": "costing#costing__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [saying]{saying} [number_1]{numbers} in [order_1]{order}, up to a [particular_1]{particular} [number_1]{number}",
+      "entry": "count",
+      "id": "count_2#count_2__7"
+    },
+    {
+      "comment": "the [process_1]{process} of [take_1]{taking} an amount or [number_1]{number} from a [total_1]{total}",
+      "entry": "deduction",
+      "id": "deduction#deduction__3"
+    },
+    {
+      "comment": "the [process_1]{process} of [calculating]{calculating} something or [discover]{discovering} it by [examine]{examining} [evidence_1]{evidence}",
+      "entry": "determination",
+      "id": "determination#determination__9"
+    },
+    {
+      "comment": "the [process_1]{process} of [add_1]{adding} a [number_1]{number} to [itself]{itself} a [particular_1]{particular} [number_1]{number} of times",
+      "entry": "multiplication",
+      "id": "multiplication#multiplication__1"
+    },
+    {
+      "comment": "[work_1]{work} that [involve]{involves} [doing]{doing} a [lot_1]{lot} of [calculation]{calculations}, [especially]{especially} when you [think_1]{think} this is [boring_1]{boring}",
+      "entry": "number crunching",
+      "id": "number-crunching#number-crunching__1"
+    },
+    {
+      "comment": "the process of subtracting one number or amount from another. The process of adding numbers or amounts together is addition.",
+      "entry": "subtraction",
+      "id": "subtraction#subtraction__1"
+    }
+  ],
+  "thesaurus": "The process of calculating",
+  "type": "Related words"
+}

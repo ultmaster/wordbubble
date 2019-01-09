@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "build on",
+  "senses": [
+    {
+      "def": "to [build_1]{build} a [new]{new} [room_1]{room} or part onto the [outside]{outside} of a [building]{building}",
+      "examples": [
+        "They\u2019ve had an [extension]{extension} [built_1]{built} onto the side of the [building]{building}."
+      ],
+      "id": "build-on__1"
+    },
+    {
+      "def": "to do something in [addition]{addition} to what you have already [achieve]{achieved}",
+      "examples": [
+        "We [need_1]{need} to [build_1]{build} on the [idea]{ideas} we have had so [far]{far}."
+      ],
+      "id": "build-on__3"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [bumpy]{bumpy} [ride_1]{ride}, [flight]{flight}, or [trip_1]{trip} is [uncomfortable]{uncomfortable} because of [bad_1]{bad} [weather_1]{weather} or a [bad_1]{bad} [road]{road}",
+      "entry": "bumpy",
+      "id": "bumpy#bumpy__3"
+    },
+    {
+      "comment": "if you [travel_1]{travel} somewhere by way of a [place_1]{place}, you go through that [place_1]{place} on your [trip_1]{trip}",
+      "entry": "by way of something",
+      "id": "by-way-of-something#by-way-of-something__4"
+    },
+    {
+      "comment": "a circuitous journey, path, etc. is longer than it needs to be because it is not direct",
+      "entry": "circuitous",
+      "id": "circuitous#circuitous__1"
+    },
+    {
+      "comment": "[take_1]{taking} someone or something [directly_1]{directly} from one [place_1]{place} to the [place_1]{place} they [need_1]{need} to go to",
+      "entry": "door-to-door",
+      "id": "door-to-door#door-to-door__4"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about the [total_1]{total} [length]{length} of a [trip_1]{trip} from the [place_1]{place} where you [start_1]{start} to the [place_1]{place} where you [arrive]{arrive}",
+      "entry": "(from) door to door",
+      "id": "from-door-to-door#from-door-to-door__1"
+    },
+    {
+      "comment": "[going_1]{going} [directly_1]{directly} from one [place_1]{place} to another",
+      "entry": "nonstop",
+      "id": "nonstop#nonstop__3"
+    },
+    {
+      "comment": "[outbound]{outbound}",
+      "entry": "outward",
+      "id": "outward_1#outward_1__6"
+    },
+    {
+      "comment": "on [land_1]{land} [instead]{instead} of by [boat]{boat} or [airplane]{airplane}",
+      "entry": "overland",
+      "id": "overland#overland__1"
+    },
+    {
+      "comment": "to or in a [country]{country} across the [ocean]{ocean}",
+      "entry": "overseas",
+      "id": "overseas_2#overseas_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to the part of a [trip_1]{trip} that [involve]{involves} [going_1]{going} back to a [place_1]{place} or coming back from a [place_1]{place}",
+      "entry": "return",
+      "id": "return_3#return_3__3"
+    },
+    {
+      "comment": "[going_1]{going} round the [world]{world}, and [return_1]{returning} to the [place_1]{place} that you [start_1]{started} from",
+      "entry": "round-the-world",
+      "id": "round-the-world#round-the-world__1"
+    },
+    {
+      "comment": "a [transatlantic]{transatlantic} [flight]{flight} or [trip_1]{trip} [involve]{involves} [crossing]{crossing} the Atlantic [ocean]{Ocean}",
+      "entry": "transatlantic",
+      "id": "transatlantic#transatlantic__1"
+    },
+    {
+      "comment": "a transcontinental flight, railroad, or road goes from one side of a continent to the other, for example across Asia or America",
+      "entry": "transcontinental",
+      "id": "transcontinental#transcontinental__1"
+    },
+    {
+      "comment": "[going_1]{going} through one [place_1]{place} on the way to another [place_1]{place}",
+      "entry": "via",
+      "id": "via#via__1"
+    }
+  ],
+  "thesaurus": "Words used to describe journeys",
+  "type": "Related words"
+}

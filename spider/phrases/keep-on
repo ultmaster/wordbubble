@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "keep on",
+  "senses": [
+    {
+      "def": "to [continue]{continue} [doing]{doing} something",
+      "examples": [
+        "My [sister]{sister} [kept]{kept} on [ask_1]{asking} me [question_1]{question} after [question_1]{question}."
+      ],
+      "id": "keep-on__1"
+    },
+    {
+      "def": "to [continue]{continue} to [employ_1]{employ} someone",
+      "examples": [
+        "Only [highly]{highly} [skilled]{skilled} [people_1]{people} were [kept]{kept} on after the [merger]{merger}."
+      ],
+      "id": "keep-on__3"
+    },
+    {
+      "def": "to [continue]{continue} [talk_1]{talking} about something in a way that [annoy]{annoys} [people_1]{people}",
+      "examples": [
+        "I don\u2019t [know_1]{know} why you keep on about this."
+      ],
+      "id": "keep-on__5"
+    }
+  ]
+}

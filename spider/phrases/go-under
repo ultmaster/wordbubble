@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "go under",
+  "senses": [
+    {
+      "def": "to [sink_1]{sink} below the [surface_1]{surface} of the [water_1]{water}",
+      "examples": [
+        "The [crowd_1]{crowd} [watch_1]{watched} as the [ship_1]{ship} went [slowly]{slowly} under."
+      ],
+      "id": "go-under__1"
+    },
+    {
+      "def": "if something such as a [business]{business} [go_1]{goes} under, it [fail_1]{fails} [completely]{completely} and [stop_1]{stops} [operate]{operating}",
+      "examples": [
+        "Is the [film_1]{film} [industry]{industry} [going_1]{going} under?"
+      ],
+      "id": "go-under__3"
+    },
+    {
+      "def": "to become [unconscious_1]{unconscious} when a [doctor_1]{doctor} [give_1]{gives} you an [anesthetic]{anesthetic} before an [operation]{operation}",
+      "examples": [],
+      "id": "go-under__5"
+    }
+  ]
+}

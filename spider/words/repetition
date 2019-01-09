@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [act_1]{act} of [repeat_1]{repeating} something",
+      "examples": [
+        "[good_1]{Good} [writing]{writing} [avoid]{avoids} [unnecessary]{unnecessary} repetition.",
+        "[boring_1]{boring} repetition of the same [old]{old} [exercise_1]{exercises}"
+      ],
+      "id": "repetition__1"
+    },
+    {
+      "def": "something that [happen]{happens} in the same way as an [earlier_1]{earlier} [event]{event}",
+      "examples": [
+        "They [want_1]{want} to [avoid]{avoid} a repetition of the [damaging]{damaging} [strike_1]{strikes} of the [previous_1]{previous} [decade]{decade}."
+      ],
+      "id": "repetition__4"
+    }
+  ],
+  "word": "repetition"
+}

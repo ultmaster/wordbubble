@@ -1,0 +1,22 @@
+{
+  "part": "preposition",
+  "senses": [
+    {
+      "def": "at one [point_1]{point} within a [period_1]{period} of time or a [process_1]{process}",
+      "examples": [
+        "Fournier was [kill_1]{killed} in [action_1]{action} during [world]{World} War I.",
+        "During his [visit_1]{visit} to [south_1]{South} Africa, the [president_1]{president} met [archbishop]{Archbishop} [tutu]{Tutu}."
+      ],
+      "id": "during__1"
+    },
+    {
+      "def": "through all of a [period_1]{period} of time",
+      "examples": [
+        "During the [summer]{summer} [season_1]{season}, all the [hotel]{hotels} are full.",
+        "Many [creature]{creatures} [stay_1]{stay} [underground_1]{underground} during [daylight]{daylight} [hour]{hours}."
+      ],
+      "id": "during__4"
+    }
+  ],
+  "word": "during"
+}

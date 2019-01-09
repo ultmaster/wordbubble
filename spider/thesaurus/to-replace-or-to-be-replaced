@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to be [used]{used} for [doing]{doing} the same [job_1]{job} as something that was [used]{used} before",
+      "entry": "replace",
+      "id": "replace#replace__8"
+    },
+    {
+      "comment": "to [replace]{replace} something with a [new]{new} or [different]{different} thing",
+      "entry": "change",
+      "id": "change_1#change_1__17"
+    },
+    {
+      "comment": "to [replace]{replace} something that is [old]{old} or [damage_2]{damaged}",
+      "entry": "renew",
+      "id": "renew#renew__10"
+    },
+    {
+      "comment": "if one thing [supersede]{supersedes} another, it [replace]{replaces} the other thing, [especially]{especially} because it is more [modern]{modern} or more [useful]{useful}",
+      "entry": "supersede",
+      "id": "supersede#supersede__1"
+    },
+    {
+      "comment": "to [replace]{replace} one thing with another",
+      "entry": "swap",
+      "id": "swap_1#swap_1__6"
+    },
+    {
+      "comment": "to [remove]{remove} one thing and put something else in its [place_1]{place}",
+      "entry": "substitute",
+      "id": "substitute_1#substitute_1__5"
+    },
+    {
+      "comment": "to be [replace]{replaced} by something, [especially]{especially} something [new]{newer} or [better_1]{better}",
+      "entry": "give way",
+      "id": "give-way#give-way__8"
+    },
+    {
+      "comment": "to be [replace]{replaced} by someone or something",
+      "entry": "make way (for)",
+      "id": "make-way-for#make-way-for__3"
+    },
+    {
+      "comment": "to [replace]{replace} someone when they [finish_1]{finish} [work_1]{work}",
+      "entry": "relieve",
+      "id": "relieve#relieve__4"
+    },
+    {
+      "comment": "to [follow]{follow} and [replace]{replace} something",
+      "entry": "succeed",
+      "id": "succeed#succeed__13"
+    }
+  ],
+  "thesaurus": "To replace, or to be replaced",
+  "type": "Synonyms"
+}

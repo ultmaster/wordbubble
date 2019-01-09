@@ -1,0 +1,22 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[contain]{containing} [poison_1]{poison}",
+      "examples": [
+        "poisonous [gas_1]{gases}/[plant_1]{plants}",
+        "a poisonous [snake_1]{snake}"
+      ],
+      "id": "poisonous__1"
+    },
+    {
+      "def": "[cause_2]{causing} a [lot_1]{lot} of [damage_1]{damage} or [harm_1]{harm}",
+      "examples": [
+        "the poisonous [spread_1]{spread} of [urban]{urban} [sprawl_1]{sprawl}",
+        "a poisonous [letter_1]{letter}"
+      ],
+      "id": "poisonous__5"
+    }
+  ],
+  "word": "poisonous"
+}

@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "comment": "if you do something under [protest_1]{protest}, you [say_1]{say} that you do not [think_1]{think} it is [right_1]{right} or [fair_1]{fair}",
+      "entry": "under protest",
+      "id": "under-protest#under-protest__1"
+    },
+    {
+      "comment": "because of being [threaten]{threatened}",
+      "entry": "under threat",
+      "id": "under-threat#under-threat__1"
+    },
+    {
+      "comment": "if someone [make_1]{makes} you do something against your will, you do not [want_1]{want} to do it",
+      "entry": "against your will",
+      "id": "against-your-will#against-your-will__1"
+    },
+    {
+      "comment": "if you do something on [sufferance]{sufferance}, someone [allow]{allows} you to do it but [does]{does} not [really]{really} [want_1]{want} you to do it",
+      "entry": "on sufferance",
+      "id": "sufferance#sufferance__2"
+    }
+  ],
+  "thesaurus": "In an unwilling way",
+  "type": "Synonyms"
+}

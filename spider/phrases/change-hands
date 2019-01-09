@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "change hands",
+  "senses": [
+    {
+      "def": "if something [change_1]{changes} [hand_1]{hands}, it [get]{gets} a [new]{new} [owner]{owner}",
+      "examples": [
+        "The [house_1]{house} has [changed]{changed} [hand_1]{hands} several times in the last few [year]{years}."
+      ],
+      "id": "change-hands__1"
+    },
+    {
+      "def": "if [money]{money} [change_1]{changes} [hand_1]{hands}, one [person]{person} [give_1]{gives} it to another as [payment]{payment}, sometimes in a [dishonest]{dishonest} way",
+      "examples": [
+        "No [money]{money} [actually]{actually} [changed]{changed} [hand_1]{hands}."
+      ],
+      "id": "change-hands__3"
+    }
+  ]
+}

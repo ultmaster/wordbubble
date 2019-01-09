@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "end with",
+  "senses": [
+    {
+      "def": "to have something as the [final_1]{final} part",
+      "examples": [
+        "The [festival]{festival} [end_2]{ended} with [firework]{fireworks}."
+      ],
+      "id": "end-with__1"
+    },
+    {
+      "def": "to [add_1]{add} something as the [final_1]{final} part of something else",
+      "examples": [
+        "Why [did]{did} you [end_1]{end} your [essay]{essay} with a [quotation]{quotation} from Shakespeare?"
+      ],
+      "id": "end-with__3"
+    }
+  ]
+}

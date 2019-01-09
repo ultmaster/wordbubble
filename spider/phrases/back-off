@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "back off",
+  "senses": [
+    {
+      "def": "to move [backward_1]{backward} in [order_1]{order} to get [farther_1]{farther} [away_1]{away} from something",
+      "examples": [
+        "Everyone back off and [let_1]{let} the [doctor_1]{doctor} through."
+      ],
+      "id": "back-off__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [criticize]{criticizing} someone or [telling]{telling} them what to do",
+      "examples": [
+        "Back off, OK? I\u2019ll [tell_1]{tell} you when I\u2019m ready!"
+      ],
+      "id": "back-off__3"
+    }
+  ]
+}

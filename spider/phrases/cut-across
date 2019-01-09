@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "cut across",
+  "senses": [
+    {
+      "def": "to go across an [area]{area} of [land_1]{land} [instead]{instead} of [going_1]{going} around the [edge_1]{edge} of it",
+      "examples": [
+        "We [cut_1]{cut} across the [field_1]{field} to [save_1]{save} time."
+      ],
+      "id": "cut-across__1"
+    },
+    {
+      "def": "to [affect_1]{affect} two or more [different]{different} [group_1]{groups}",
+      "examples": [
+        "These [problem]{problems} [cut_1]{cut} across [class_1]{class} [boundary]{boundaries}."
+      ],
+      "id": "cut-across__5"
+    }
+  ]
+}

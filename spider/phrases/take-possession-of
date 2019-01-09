@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "take possession (of)",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to own something",
+      "examples": [
+        "The [town]{town} of Winterset [took]{took} [possession]{possession} of the [castle]{castle} in 1947."
+      ],
+      "id": "take-possession-of__1"
+    },
+    {
+      "def": "if something [take_1]{takes} [possession]{possession} of you, it [start_1]{starts} to [control_1]{control} you or have a [strong]{strong} [effect_1]{effect} on you",
+      "examples": [
+        "[fear_1]{Fear} had [taken_1]{taken} [possession]{possession} of his [soul]{soul}."
+      ],
+      "id": "take-possession-of__3"
+    },
+    {
+      "def": "to [start_1]{start} to have or [control_1]{control} the [ball_1]{ball} in a [sport_1]{sport} such as [football]{football}",
+      "examples": [
+        "The [titan]{Titans} will take [possession]{possession} on the 35 [yard]{yard} [line_1]{line}."
+      ],
+      "id": "take-possession-of__5"
+    }
+  ]
+}

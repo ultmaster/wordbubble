@@ -1,0 +1,25 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "almost the same as the thing that is [mention_1]{mentioned}",
+      "examples": [
+        "The [company]{company} had [create]{created} a virtual [monopoly]{monopoly}.",
+        "It\u2019s a virtual [impossibility]{impossibility}.",
+        "[business]{Business} has come to a virtual [standstill]{standstill}.",
+        "The [servant]{servants} [rarely]{rarely} [leave_1]{leave} the [house_1]{house} and [live_1]{live} [like_1]{like} virtual [prisoner]{prisoners}."
+      ],
+      "id": "virtual__1"
+    },
+    {
+      "def": "[create]{created} by [computer]{computers}, or [appear]{appearing} on [computer]{computers} or the Internet",
+      "examples": [
+        "[student]{Students} would get their [degree]{degrees} from virtual [university]{universities}.",
+        "a virtual [community]{community}",
+        "a virtual [pet_1]{pet}"
+      ],
+      "id": "virtual__6"
+    }
+  ],
+  "word": "virtual"
+}

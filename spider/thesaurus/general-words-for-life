@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "the [period_1]{period} of time from someone\u2019s [birth]{birth} until their [death]{death}",
+      "entry": "life",
+      "id": "life#life__1"
+    },
+    {
+      "comment": "the [length]{length} of time that a [person]{person} or [animal_1]{animal} [lives]{lives} or is [expected]{expected} to [live_1]{live}",
+      "entry": "lifespan",
+      "id": "lifespan#lifespan__1"
+    },
+    {
+      "comment": "the [period_1]{period} of time when someone is [alive]{alive}",
+      "entry": "lifetime",
+      "id": "lifetime#lifetime__1"
+    },
+    {
+      "comment": "someone\u2019s [life]{life}",
+      "entry": "universe",
+      "id": "universe#universe__4"
+    },
+    {
+      "comment": "the [length]{length} of time that someone is [likely_1]{likely} to [live_1]{live}",
+      "entry": "life expectancy",
+      "id": "life-expectancy#life-expectancy__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about [life]{life} in a [general_1]{general} way",
+      "entry": "things",
+      "id": "thing#thing__37"
+    },
+    {
+      "comment": "an [aspect]{aspect} of [life]{life}",
+      "entry": "thing",
+      "id": "thing#thing__40"
+    }
+  ],
+  "thesaurus": "General words for life",
+  "type": "Synonyms"
+}

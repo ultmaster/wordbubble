@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "meat from a pig that is treated with smoke or salt, and is often cooked in rashers  (=thin pieces)",
+      "entry": "bacon",
+      "id": "bacon#bacon__1"
+    },
+    {
+      "comment": "the [meat]{meat} from a [cow_1]{cow}",
+      "entry": "beef",
+      "id": "beef_1#beef_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to this [meat]{meat}",
+      "entry": "beef",
+      "id": "beef_1#beef_1__4"
+    },
+    {
+      "comment": "the [meat]{meat} of a [chicken_1]{chicken}",
+      "entry": "chicken",
+      "id": "chicken_1#chicken_1__2"
+    },
+    {
+      "comment": "the [meat]{meat} from a [crab]{crab} [eaten]{eaten} as [food]{food}",
+      "entry": "crab",
+      "id": "crab#crab__2"
+    },
+    {
+      "comment": "the meat from a crab",
+      "entry": "crabmeat",
+      "id": "crabmeat#crabmeat__1"
+    },
+    {
+      "comment": "meat from a part of a bird such as its leg that is darker than the rest. Lighter meat is called white meat.",
+      "entry": "dark meat",
+      "id": "dark-meat#dark-meat__1"
+    },
+    {
+      "comment": "the [meat]{meat} of a [duck_1]{duck}",
+      "entry": "duck",
+      "id": "duck_1#duck_1__3"
+    },
+    {
+      "comment": "the [meat]{meat} of a [goose_1]{goose}",
+      "entry": "goose",
+      "id": "goose_1#goose_1__2"
+    },
+    {
+      "comment": "[meat]{meat} from a [cow_1]{cow} that has been [cut_1]{cut} into very [small_1]{small} [piece_1]{pieces}",
+      "entry": "ground beef",
+      "id": "ground-beef#ground-beef__1"
+    },
+    {
+      "comment": "horse meat",
+      "entry": "horseflesh",
+      "id": "horseflesh#horseflesh__1"
+    },
+    {
+      "comment": "the [meat]{meat} from a [young_1]{young} [sheep]{sheep}",
+      "entry": "lamb",
+      "id": "lamb_1#lamb_1__2"
+    },
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [meat]{meat}",
+      "entry": "meat",
+      "id": "meat#meat__2"
+    },
+    {
+      "comment": "[meat]{meat} that is [cut_1]{cut} into very [small_1]{small} [piece_1]{pieces}, [shaped_1]{shaped} into a [ball_1]{ball}, and [cooked]{cooked}",
+      "entry": "meatball",
+      "id": "meatball#meatball__1"
+    },
+    {
+      "comment": "[ground_1]{ground} [beef_1]{beef}",
+      "entry": "mince",
+      "id": "mince_2#mince_2__1"
+    },
+    {
+      "comment": "[mince_1]{minced} [meat]{meat}",
+      "entry": "mincemeat",
+      "id": "mincemeat#mincemeat__2"
+    },
+    {
+      "comment": "the [meat]{meat} from an [adult_1]{adult} [sheep]{sheep}",
+      "entry": "mutton",
+      "id": "mutton#mutton__1"
+    },
+    {
+      "comment": "the [organ]{organs} of [animal_1]{animals} that have been [kill_1]{killed} for [food]{food}",
+      "entry": "offal",
+      "id": "offal#offal__1"
+    },
+    {
+      "comment": "the [meat]{meat} from a [partridge]{partridge}",
+      "entry": "partridge",
+      "id": "partridge#partridge__2"
+    },
+    {
+      "comment": "the [meat]{meat} from a [pheasant]{pheasant}",
+      "entry": "pheasant",
+      "id": "pheasant#pheasant__2"
+    },
+    {
+      "comment": "the [meat]{meat} from a [pig_1]{pig}",
+      "entry": "pork",
+      "id": "pork#pork__1"
+    },
+    {
+      "comment": "[meat]{meat} from [bird]{birds} such as [chicken_1]{chickens}",
+      "entry": "poultry",
+      "id": "poultry#poultry__3"
+    },
+    {
+      "comment": "this [bird]{bird} [eaten]{eaten} as [food]{food}",
+      "entry": "quail",
+      "id": "quail_1#quail_1__2"
+    },
+    {
+      "comment": "the [meat]{meat} from a [rabbit]{rabbit}",
+      "entry": "rabbit",
+      "id": "rabbit#rabbit__2"
+    },
+    {
+      "comment": "meat such as beef or lamb that is red before it is cooked and dark after you have cooked it. Meat that is pale after you have cooked it is called white meat.",
+      "entry": "red meat",
+      "id": "red-meat#red-meat__1"
+    },
+    {
+      "comment": "the [meat]{meat} of a [turkey_1]{turkey}",
+      "entry": "turkey",
+      "id": "turkey_1#turkey_1__2"
+    },
+    {
+      "comment": "[meat]{meat} from a [young_1]{young} [cow_1]{cow}",
+      "entry": "veal",
+      "id": "veal#veal__1"
+    },
+    {
+      "comment": "the meat from a deer",
+      "entry": "venison",
+      "id": "venison#venison__1"
+    },
+    {
+      "comment": "meat such as chicken or pork that is pale after you have cooked it. Meat that is dark after cooking is called red meat.",
+      "entry": "white meat",
+      "id": "white-meat#white-meat__1"
+    },
+    {
+      "comment": "meat from the top part of a bird, for example its breast. Meat from the lower part is called dark meat.",
+      "entry": "white meat",
+      "id": "white-meat#white-meat__2"
+    },
+    {
+      "comment": "the [meat]{meat} of a [wild_1]{wild} [pig_1]{pig}",
+      "entry": "wild boar",
+      "id": "wild-boar#wild-boar__2"
+    }
+  ],
+  "thesaurus": "Types of meat",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [fact]{fact} that someone is a [candidate]{candidate} in an [election]{election}",
+      "entry": "candidacy",
+      "id": "candidacy#candidacy__1"
+    },
+    {
+      "comment": "one of the [people_1]{people} [competing]{competing} in an [election]{election}",
+      "entry": "candidate",
+      "id": "candidate#candidate__1"
+    },
+    {
+      "comment": "[candidacy]{candidacy}",
+      "entry": "candidature",
+      "id": "candidature#candidature__1"
+    },
+    {
+      "comment": "the [person]{person} or thing [considered]{considered} the most [likely_1]{likely} to [win_1]{win} a [competition]{competition}, [game_1]{game}, or [election]{election}",
+      "entry": "front-runner",
+      "id": "front-runner#front-runner__1"
+    },
+    {
+      "comment": "someone who is [likely_1]{likely} to [stand_1]{stand} or is [standing_1]{standing} for [election]{election} to be [president_1]{president}",
+      "entry": "presidentiable",
+      "id": "presidentiable#presidentiable__1"
+    },
+    {
+      "comment": "someone who [take_1]{takes} part in an [election]{election} for two [job_1]{jobs} with another [person]{person}, and who will get the less [important]{important} [job_1]{job} if they [win_1]{win}",
+      "entry": "running mate",
+      "id": "running-mate#running-mate__1"
+    },
+    {
+      "comment": "a [list_1]{list} of [people_1]{people} who are [trying]{trying} to [win_1]{win} an [election]{election}",
+      "entry": "slate",
+      "id": "slate_1#slate_1__4"
+    },
+    {
+      "comment": "all the [people_1]{people} in a [political]{political} [party_1]{party} who you can [vote_1]{vote} for in an [election]{election}",
+      "entry": "straight ticket",
+      "id": "straight-ticket#straight-ticket__1"
+    },
+    {
+      "comment": "an extra name that a voter adds to a ballot  (=the piece of paper on which you vote)",
+      "entry": "write-in",
+      "id": "write-in_2#write-in_2__1"
+    },
+    {
+      "comment": "someone whose name voters add to a ballot in order to try to elect them",
+      "entry": "write-in candidate",
+      "id": "write-in-candidate#write-in-candidate__1"
+    }
+  ],
+  "thesaurus": "Candidates in elections",
+  "type": "Related words"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "look to",
+  "senses": [
+    {
+      "def": "to [hope_1]{hope} or [expect]{expect} to get [help_1]{help}, [advice]{advice}, etc. from someone",
+      "examples": [
+        "As [young_1]{young} [children]{children}, we [look_1]{looked} to our [parent]{parents} for [guidance]{guidance}.",
+        "They\u2019re [look_1]{looking} to me to [help_1]{help} [improve_1]{improve} [sale]{sales} [figure_1]{figures}."
+      ],
+      "id": "look-to__1"
+    },
+    {
+      "def": "to [direct_1]{direct} your [thought_1]{thoughts} or [attention]{attention} to something",
+      "examples": [
+        "The [party_1]{party} [need_1]{needs} to [look_1]{look} to the [future_1]{future} and [forget]{forget} its [past_1]{past} [problem]{problems}."
+      ],
+      "id": "look-to__4"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to give someone [money]{money} that you have [borrow]{borrowed} from them",
+      "examples": [
+        "The [loan_1]{loan} must be [repaid]{repaid} in full.",
+        "When do you [think_1]{think} you will be [able_1]{able} to repay us?"
+      ],
+      "id": "repay__1"
+    },
+    {
+      "def": "to [reward_1]{reward} someone who has [help_1]{helped} you or been [kind_1]{kind} to you",
+      "examples": [
+        "How will I ever be [able_1]{able} to repay you?",
+        "They would find a way of [repay]{repaying} the [family_1]{family}\u2019s [kindness]{kindness}.",
+        "We\u2019ll never be [able_1]{able} to repay you for everything you\u2019ve done for us.",
+        "She had [tried_1]{tried} to be a [good_1]{good} [wife]{wife}, and he [repaid]{repaid} her by [cheat_1]{cheating} on her."
+      ],
+      "id": "repay__4"
+    },
+    {
+      "def": "to be [worth_1]{worth} the time or [effort]{effort} [need_1]{needed} to do something",
+      "examples": [
+        "It\u2019s a [fascinating]{fascinating} [museum]{museum}, and [certainly]{certainly} [repay]{repays} a [visit_1]{visit}."
+      ],
+      "id": "repay__10"
+    }
+  ],
+  "word": "repay"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "keep pace (with)",
+  "senses": [
+    {
+      "def": "to move at the same [speed_1]{speed} as someone or something else",
+      "examples": [
+        "Ron had to [run_1]{run} to keep [pace_1]{pace} with Guido."
+      ],
+      "id": "keep-pace-with__1"
+    },
+    {
+      "def": "to [develop]{develop} or [progress_1]{progress} at the same [rate_1]{rate} as something else",
+      "examples": [
+        "The [government]{government} is not [allow]{allowing} [salary]{salaries} to keep [pace_1]{pace} with [inflation]{inflation}."
+      ],
+      "id": "keep-pace-with__3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "pretax [profit_1]{profit} or [income]{income} is the amount of [profit_1]{profit} or [income]{income} before [tax_1]{tax} is [paid_1]{paid}",
+      "examples": [
+        "pretax [income]{income}/[profit_1]{profit}/[loss]{losses}"
+      ],
+      "id": "pretax__1"
+    }
+  ],
+  "word": "pretax"
+}

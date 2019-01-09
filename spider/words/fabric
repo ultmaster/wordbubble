@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[cloth]{cloth}, [especially]{especially} when it is [used]{used} for [making]{making} [thing]{things} such as [clothes]{clothes} or [curtain]{curtains}",
+      "examples": [
+        "[plain_1]{plain}/[patterned]{patterned}/[floral]{floral} fabric",
+        "a [wide_1]{wide} [range_1]{range} of [furnish]{furnishing} [fabric]{fabrics}"
+      ],
+      "id": "fabric__1"
+    },
+    {
+      "def": "the [basic_1]{basic} [structure_1]{structure} of a [society]{society} or [organization]{organization}",
+      "examples": [
+        "[small_1]{Small} [shop_1]{shops} [help_1]{help} to [maintain]{maintain} the fabric of [neighborhood]{neighborhood} [life]{life}.",
+        "[drug_1]{Drug} [abuse_1]{abuse} [pose_1]{poses} a [major_1]{major} [threat]{threat} to the fabric of [society]{society}."
+      ],
+      "id": "fabric__4"
+    },
+    {
+      "def": "the [roof_1]{roof} and [wall_1]{walls} of a [building]{building}",
+      "examples": [
+        "The fabric of the [building]{building} has [deteriorate]{deteriorated} [badly]{badly}."
+      ],
+      "id": "fabric__7"
+    }
+  ],
+  "word": "fabric"
+}

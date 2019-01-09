@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "in front",
+  "senses": [
+    {
+      "def": "a [little_1]{little} [farther_1]{farther} [forward_1]{forward} than someone or something",
+      "examples": [
+        "I [pass_1]{passed} the [car]{car} in front."
+      ],
+      "id": "in-front__1"
+    },
+    {
+      "def": "[winning]{winning} a [competition]{competition}, [game_1]{game}, or [election]{election} that is not yet [finished]{finished}",
+      "examples": [
+        "Owen [score_1]{scored} to put his [team_1]{team} in front."
+      ],
+      "id": "in-front__3"
+    },
+    {
+      "def": "[outside]{outside} the part of a [building]{building} that [face_1]{faces} [forward_1]{forward}",
+      "examples": [
+        "a [house_1]{house} with a [yard]{yard} in front"
+      ],
+      "id": "in-front__5"
+    }
+  ]
+}

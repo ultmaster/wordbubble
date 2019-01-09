@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} in which [people_1]{people} [enter]{enter} a [country]{country} in [order_1]{order} to [live_1]{live} there [permanently]{permanently}",
+      "entry": "immigration",
+      "id": "immigration#immigration__1"
+    },
+    {
+      "comment": "the [right_1]{right} to [stay_1]{stay} in a [country]{country}, [given_1]{given} by a [government]{government} to [protect]{protect} someone who has [escaped]{escaped} from war or [political]{political} [trouble_1]{trouble} in their own [country]{country}",
+      "entry": "asylum",
+      "id": "asylum#asylum__1"
+    },
+    {
+      "comment": "someone who has been [forced]{forced} to [live_1]{live} in a [foreign]{foreign} [country]{country} because they cannot [live_1]{live} in their own [country]{country}, [usually]{usually} for [political]{political} [reason_1]{reasons}",
+      "entry": "exile",
+      "id": "exile_1#exile_1__8"
+    },
+    {
+      "comment": "the [legal]{legal} [right_1]{right} to [live_1]{live} in a [country]{country} that is not your own",
+      "entry": "residence",
+      "id": "residence#residence__7"
+    },
+    {
+      "comment": "someone who [leaves]{leaves} their [country]{country}, [especially]{especially} during a war or other [threatening]{threatening} [event]{event}",
+      "entry": "refugee",
+      "id": "refugee#refugee__1"
+    },
+    {
+      "comment": "someone who comes to [live_1]{live} in a [country]{country} from another [country]{country}",
+      "entry": "immigrant",
+      "id": "immigrant#immigrant__1"
+    },
+    {
+      "comment": "someone who [lives]{lives} in a [country]{country} that is not their own [country]{country}",
+      "entry": "expatriate",
+      "id": "expatriate#expatriate__1"
+    },
+    {
+      "comment": "a [migrant_1]{migrant} [person]{person} or [animal_1]{animal} is one that [travel_1]{travels} to a [different]{different} [place_1]{place} or [country]{country} in [order_1]{order} to [stay_1]{stay} there",
+      "entry": "migrant",
+      "id": "migrant_2#migrant_2__1"
+    },
+    {
+      "comment": "someone who leaves their country in order to live in another country. They are known in their new country as an immigrant.",
+      "entry": "emigrant",
+      "id": "emigrant#emigrant__1"
+    },
+    {
+      "comment": "someone who has [left_1]{left} their [country]{country} in [order_1]{order} to [live_1]{live} somewhere else, [especially]{especially} because they [disagree]{disagree} with their [country]{country}\u2019s [political]{political} system",
+      "entry": "\u00e9migr\u00e9",
+      "id": "emigre#emigre__1"
+    }
+  ],
+  "thesaurus": "Moving to and living in a different country",
+  "type": "Synonyms"
+}

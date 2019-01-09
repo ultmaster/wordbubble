@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "run dry",
+  "senses": [
+    {
+      "def": "if a [river]{river} [run_1]{runs} [dry_1]{dry}, there is no [water_1]{water} [left_1]{left} in it",
+      "examples": [],
+      "id": "run-dry__1"
+    },
+    {
+      "def": "if a [supply_1]{supply} of something such as [money]{money} [run_1]{runs} [dry_1]{dry}, there is no more of it [left_1]{left}",
+      "examples": [
+        "[supply_1]{Supplies} of [vaccine]{vaccines} could [run_1]{run} [dry_1]{dry} if there is an [epidemic_1]{epidemic}."
+      ],
+      "id": "run-dry__2"
+    }
+  ]
+}

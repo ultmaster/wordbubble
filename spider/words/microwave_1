@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [oven]{oven} that [cook_1]{cooks} [food]{food} very [quickly]{quickly} by [passing_1]{passing} [electricity]{electricity} through it, [instead]{instead} of [use_1]{using} [heat_1]{heat}",
+      "examples": [],
+      "id": "microwave_1__1"
+    },
+    {
+      "def": "a [type_1]{type} of electromagnetic wave [used]{used} in [radio_1]{radio} [communication]{communication}, [radar]{radar}, and [cooking_1]{cooking}",
+      "examples": [
+        "microwave [radiation]{radiation}"
+      ],
+      "id": "microwave_1__2"
+    }
+  ],
+  "word": "microwave"
+}

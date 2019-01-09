@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[covering]{covering} the whole [floor_1]{floor} of a [room_1]{room}",
+      "examples": [
+        "wall-to-wall [carpeting]{carpeting}"
+      ],
+      "id": "wall-to-wall__1"
+    },
+    {
+      "def": "[filling_1]{filling} a [space_1]{space} or time [completely]{completely}, [especially]{especially} in an [unpleasant]{unpleasant} way",
+      "examples": [
+        "The [beach_1]{beach} was wall-to-wall [music]{music}."
+      ],
+      "id": "wall-to-wall__3"
+    }
+  ],
+  "word": "wall-to-wall"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [evil_1]{evil} [person]{person} [does]{does} very [bad_1]{bad} or [cruel]{cruel} [thing]{things}",
+      "entry": "evil",
+      "id": "evil_1#evil_1__1"
+    },
+    {
+      "comment": "very [evil_1]{evil} or [cruel]{cruel}",
+      "entry": "atrocious",
+      "id": "atrocious#atrocious__1"
+    },
+    {
+      "comment": "[behave]{behaving} in a [cruel]{cruel}, [evil_1]{evil}, or [criminal_1]{criminal} way",
+      "entry": "bad",
+      "id": "bad_1#bad_1__36"
+    },
+    {
+      "comment": "[threatening]{threatening} to do [harm_1]{harm} or to do something [evil_1]{evil}",
+      "entry": "sinister",
+      "id": "sinister#sinister__1"
+    },
+    {
+      "comment": "[evil_1]{evil}, or [intended_1]{intended} for an [evil_1]{evil} [purpose]{purpose}",
+      "entry": "devilish",
+      "id": "devilish_1#devilish_1__1"
+    },
+    {
+      "comment": "[immoral]{immoral} or [evil_1]{evil}",
+      "entry": "depraved",
+      "id": "depraved#depraved__1"
+    },
+    {
+      "comment": "very [evil_1]{evil} and [cruel]{cruel}",
+      "entry": "satanic",
+      "id": "satanic#satanic__3"
+    },
+    {
+      "comment": "[evil_1]{evil} or [cruel]{cruel}",
+      "entry": "diabolical",
+      "id": "diabolical#diabolical__1"
+    },
+    {
+      "comment": "very [evil_1]{evil}",
+      "entry": "fiendish",
+      "id": "fiendish#fiendish__1"
+    },
+    {
+      "comment": "[evil_1]{evil}",
+      "entry": "villainous",
+      "id": "villainous#villainous__1"
+    }
+  ],
+  "thesaurus": "Evil",
+  "type": "Synonyms"
+}

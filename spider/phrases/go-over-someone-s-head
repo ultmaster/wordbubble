@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go over someone\u2019s head",
+  "senses": [
+    {
+      "def": "to go to a more [important]{important} or [powerful]{powerful} [person]{person} in [order_1]{order} to get what you [want_1]{want}",
+      "examples": [
+        "I was [furious]{furious} that he went over my [head_1]{head} and [complain]{complained} to my [manager]{manager}."
+      ],
+      "id": "go-over-someone-s-head__1"
+    },
+    {
+      "def": "to be too [difficult]{difficult} for someone to [understand]{understand}",
+      "examples": [
+        "A [lot_1]{lot} of what was [said_1]{said} in the [meeting]{meeting} went [right_1]{right} over my [head_1]{head}."
+      ],
+      "id": "go-over-someone-s-head__3"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "no doubt",
+  "senses": [
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that something seems [certain_1]{certain} or very [likely_1]{likely}",
+      "examples": [
+        "No [doubt_1]{doubt} she\u2019ll [tell_1]{tell} me everything when she\u2019s ready."
+      ],
+      "id": "no-doubt__1"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that you [accept]{accept} something is [probably]{probably} [true_1]{true}, but this [does]{does} not [change_1]{change} your [opinion]{opinion}",
+      "examples": [
+        "No [doubt_1]{doubt} she\u2019s very [nice]{nice}, but I [just_1]{just} don\u2019t [like_1]{like} her."
+      ],
+      "id": "no-doubt__3"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that something is [definitely]{definitely} [true_1]{true}",
+      "examples": [
+        "No [doubt_1]{doubt} about it, we\u2019ve [got_1]{got} [problem]{problems}."
+      ],
+      "id": "no-doubt__5"
+    }
+  ]
+}

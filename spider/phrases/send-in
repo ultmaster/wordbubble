@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "send in",
+  "senses": [
+    {
+      "def": "to [arrange]{arrange} for [people_1]{people} or [equipment]{equipment} to go to a [place_1]{place}",
+      "examples": [
+        "[government]{Government} [force_1]{forces} were [sent]{sent} in to [fight_1]{fight} the [rebellion]{rebellion}."
+      ],
+      "id": "send-in__1"
+    },
+    {
+      "def": "to [send_1]{send} a [letter_1]{letter} or [document_1]{document} to an [organization]{organization}",
+      "examples": [
+        "[entry]{Entry} [form_1]{forms} must be [sent]{sent} in by December 21.",
+        "Keep [send_1]{sending} your [letter_1]{letters} and [suggestion]{suggestions} in to this [station_1]{station}."
+      ],
+      "id": "send-in__3"
+    }
+  ]
+}

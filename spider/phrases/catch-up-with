@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "catch up with",
+  "senses": [
+    {
+      "def": "to find and [arrest_1]{arrest} someone who has [committed]{committed} a [crime_1]{crime} after [searching]{searching} for them or [chase_1]{chasing} them",
+      "examples": [
+        "The [police_1]{police} will [catch_1]{catch} up with you [sooner]{sooner} or [later_1]{later}."
+      ],
+      "id": "catch-up-with__1"
+    },
+    {
+      "def": "to [begin]{begin} to have an [effect_1]{effect} on someone",
+      "examples": [
+        "The [lack_1]{lack} of [sleep_1]{sleep} [caught_1]{caught} up with her, and she [began]{began} to [doze]{doze} off."
+      ],
+      "id": "catch-up-with__3"
+    },
+    {
+      "def": "[used]{used} in [journalism]{journalism} as a way of [introduce]{introducing} an [interview_1]{interview} with someone",
+      "examples": [
+        "We [caught_1]{caught} up with [writer]{writer} and [environmental]{environmental} [campaigner]{campaigner} George Monbiot [ahead]{ahead} of his [book_1]{book} [tour_1]{tour}."
+      ],
+      "id": "catch-up-with__5"
+    }
+  ]
+}

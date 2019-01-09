@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [cable_1]{cable}  (=set of wires) that [carry_1]{carries} [telephone_1]{telephone} [signal_1]{signals} under or over the [ground_1]{ground}, [used]{used} when [compare_1]{comparing} this to [signal_1]{signals} [sent]{sent} [use_1]{using} a [satellite]{satellite}",
+      "examples": [
+        "landline [technology]{technology}"
+      ],
+      "id": "landline__1"
+    },
+    {
+      "def": "a [telephone_1]{telephone} that is not a [cell]{cell} [phone_1]{phone}",
+      "examples": [
+        "I\u2019ll [try_1]{try} you again when I get to a landline."
+      ],
+      "id": "landline__3"
+    }
+  ],
+  "word": "landline"
+}

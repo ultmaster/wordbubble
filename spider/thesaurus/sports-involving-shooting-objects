@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a [circular_1]{circular} [clay]{clay} [object_1]{object} [thrown]{thrown} into the [air_1]{air} by a [machine_1]{machine} so you can [shoot_1]{shoot} at it",
+      "entry": "clay pigeon",
+      "id": "clay-pigeon#clay-pigeon__1"
+    },
+    {
+      "comment": "an outdoor game in which people shoot each other using guns that fire pellets filled with paint",
+      "entry": "paintball",
+      "id": "paintball#paintball__1"
+    },
+    {
+      "comment": "any [sport_1]{sport} or [activity]{activity} in which [guns]{guns} are [used]{used}",
+      "entry": "shooting",
+      "id": "shooting#shooting__4"
+    },
+    {
+      "comment": "the sport of shooting circular clay objects known as clay pigeons that are thrown into the air by a machine",
+      "entry": "skeet shooting",
+      "id": "skeet-shooting#skeet-shooting__1"
+    },
+    {
+      "comment": "the [activity]{activity} or [sport_1]{sport} of [shooting]{shooting} at [clay]{clay} [object_1]{objects} [thrown]{thrown} into the [air_1]{air} by a [machine_1]{machine}",
+      "entry": "trapshooting",
+      "id": "trapshooting#trapshooting__1"
+    }
+  ],
+  "thesaurus": "Sports involving shooting objects",
+  "type": "Related words"
+}

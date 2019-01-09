@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [write]{write} a [piece_1]{piece} of [music]{music}",
+      "examples": [
+        "The [song]{song} was [specially]{specially} [composed]{composed} for their [wedding]{wedding}.",
+        "He [sat_1]{sat} down and [composed]{composed} a [letter_1]{letter} of [resignation]{resignation}."
+      ],
+      "id": "compose__1"
+    },
+    {
+      "def": "to [arrange]{arrange} the [part_1]{parts} of something such as a [photograph_1]{photograph} or a [painting]{painting} in [order_1]{order} to get a [particular_1]{particular} [effect_1]{effect}",
+      "examples": [],
+      "id": "compose__5"
+    },
+    {
+      "def": "to form something",
+      "examples": [
+        "[muscle_1]{Muscle} is [composed]{composed} of two [different]{different} [type_1]{types} of [protein]{protein}."
+      ],
+      "id": "compose__6"
+    }
+  ],
+  "word": "compose"
+}

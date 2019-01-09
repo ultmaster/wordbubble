@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "wearable [technology]{technology} or art is [worn_1]{worn} on the body",
+      "examples": [
+        "Our [lightweight_1]{lightweight} yet [rugged]{rugged} wearable [computer]{computers} are [built_1]{built} with the [latest]{latest} [data]{data} [capture_1]{capture} and [voice_1]{voice} [technology]{technology}.",
+        "The [wearable]{Wearable} Art [blog_1]{Blog} [showcase_1]{showcases} [jewelry]{jewelry}, [fashion_1]{fashion} and [accessory]{accessories} [handcrafted]{handcrafted} by [artist]{artists} from around the [world]{world}."
+      ],
+      "id": "wearable__1"
+    },
+    {
+      "def": "wearable [clothes]{clothes} are [comfortable]{comfortable} and [easy_1]{easy} to [wear_1]{wear}",
+      "examples": [
+        "What\u2019s your [pick_1]{pick} as the most-wearable [jacket]{jacket} for [fall_1]{fall}?"
+      ],
+      "id": "wearable__4"
+    }
+  ],
+  "word": "wearable"
+}

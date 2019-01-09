@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "of the day",
+  "senses": [
+    {
+      "def": "[existing]{existing} at a [particular_1]{particular} [period_1]{period} of time",
+      "examples": [
+        "These [official_2]{officials} are [appointed]{appointed} by the [government]{government} of the [day]{day}."
+      ],
+      "id": "of-the-day__1"
+    },
+    {
+      "def": "[serve_1]{served} on a [particular_1]{particular} [day]{day} in a [restaurant]{restaurant}",
+      "examples": [
+        "the [soup_1]{soup} of the [day]{day}"
+      ],
+      "id": "of-the-day__3"
+    }
+  ]
+}

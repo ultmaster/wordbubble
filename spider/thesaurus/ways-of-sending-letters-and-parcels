@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "the system for [send_1]{sending} [mail_1]{mail} by [airplane]{airplane}",
+      "entry": "airmail",
+      "id": "airmail#airmail__1"
+    },
+    {
+      "comment": "if a [letter_1]{letter} is [deliver]{delivered} by hand, it is not [deliver]{delivered} by the [mail_1]{mail} [service_1]{service}",
+      "entry": "by hand",
+      "id": "by-hand#by-hand__2"
+    },
+    {
+      "comment": "if you [reply_1]{reply} to a [letter_1]{letter} by [return_1]{return} of [post_1]{post}, you [write]{write} back to the [person]{person} who [wrote]{wrote} to you, [immediately]{immediately} after you have [received]{received} their [letter_1]{letter}",
+      "entry": "by return (of post)",
+      "id": "by-return-of-post#by-return-of-post__1"
+    },
+    {
+      "comment": "C.O.D.",
+      "entry": "cash on delivery",
+      "id": "cash-on-delivery#cash-on-delivery__1"
+    },
+    {
+      "comment": "mail that is recorded when you send it and again when the post office delivers it The person you sent it to signs their name to prove they received it. The British word is recorded delivery.",
+      "entry": "certified mail",
+      "id": "certified-mail#certified-mail__1"
+    },
+    {
+      "comment": "[cash_1]{cash} on [delivery]{delivery}: a system by which you [pay_1]{pay} for [goods]{goods} that you have [ordered]{ordered} when they are [deliver]{delivered} to you",
+      "entry": "C.O.D.",
+      "id": "c-o-d#c-o-d__1"
+    },
+    {
+      "comment": "an [express_1]{express} [service_1]{service} [deliver]{delivers} [mail_1]{mail} or [package_1]{packages} more [quickly]{quickly} than the [ordinary]{ordinary} [service_1]{service}",
+      "entry": "express",
+      "id": "express_2#express_2__8"
+    },
+    {
+      "comment": "a [service_1]{service} that [deliver]{delivers} [mail_1]{mail} or [package_1]{packages} more [quickly]{quickly} than the [ordinary]{ordinary} [service_1]{service}",
+      "entry": "express",
+      "id": "express_3#express_3__3"
+    },
+    {
+      "comment": "[use_1]{using} a [service_1]{service} that [deliver]{delivers} [mail_1]{mail} or [package_1]{packages} more [quickly]{quickly} than the [ordinary]{ordinary} [service_1]{service}",
+      "entry": "express",
+      "id": "express_4#express_4__1"
+    },
+    {
+      "comment": "the [class_1]{class} of [mail_1]{mail} that is [used]{used} for [send_1]{sending} [letter_1]{letters}",
+      "entry": "first class",
+      "id": "first-class_1#first-class_1__3"
+    },
+    {
+      "comment": "[relate]{relating} to the [class_1]{class} of [mail_1]{mail} that is [used]{used} for [send_1]{sending} [letter_1]{letters}",
+      "entry": "first class",
+      "id": "first-class_2#first-class_2__4"
+    },
+    {
+      "comment": "[use_1]{using} the most [expensive]{expensive} form of [transportation]{transportation} or [mail_1]{mail}",
+      "entry": "first class",
+      "id": "first-class_3#first-class_3__1"
+    },
+    {
+      "comment": "a [post_1]{post} [office]{office} that you use when you are [traveling]{traveling}. [letter_1]{Letters} are [sent]{sent} there for you and [kept]{kept} until you [pick_1]{pick} them up.",
+      "entry": "general delivery",
+      "id": "general-delivery#general-delivery__1"
+    },
+    {
+      "comment": "the system for sending and delivering letters, packages, etc. to houses, offices, etc. The usual British word is post",
+      "entry": "the mail",
+      "id": "mail_1#mail_1__5"
+    },
+    {
+      "comment": "the [mail_1]{mail} [service_1]{service} [used]{used} for [send_1]{sending} [package_1]{packages} in the U.S.",
+      "entry": "parcel post",
+      "id": "parcel-post#parcel-post__1"
+    },
+    {
+      "comment": "the [government]{government} [department]{department} in the U.S. that [deliver]{delivers} the [mail_1]{mail}",
+      "entry": "the Postal Service",
+      "id": "the-postal-service#the-postal-service__1"
+    },
+    {
+      "comment": "an arrangement in which your mail is sent to a post office in a different area so that you can collect it while you are traveling",
+      "entry": "poste restante",
+      "id": "poste-restante#poste-restante__1"
+    },
+    {
+      "comment": "letters and packages that are sent postpaid do not cost the person who sends them anything for their postage because someone else has already paid for it",
+      "entry": "postpaid",
+      "id": "postpaid#postpaid__1"
+    },
+    {
+      "comment": "a system for [send_1]{sending} [letter_1]{letters} and [package_1]{packages} for which you [pay_1]{pay} a [small_1]{small} [insurance]{insurance} [charge_1]{charge} to be [certain_1]{certain} they are [deliver]{delivered} [safely]{safely}",
+      "entry": "registered mail",
+      "id": "registered-mail#registered-mail__1"
+    },
+    {
+      "comment": "a system in the U.S. for [send_1]{sending} [newspaper]{newspapers} and [magazine]{magazines} in the [mail_1]{mail}",
+      "entry": "second class",
+      "id": "second-class_1#second-class_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to a system in the U.S. for [send_1]{sending} [newspaper]{newspapers} and [magazine]{magazines} in the [mail_1]{mail}",
+      "entry": "second-class",
+      "id": "second-class_2#second-class_2__6"
+    },
+    {
+      "comment": "a post office service that delivers letters or packages faster than usual for an extra payment",
+      "entry": "special delivery",
+      "id": "special-delivery#special-delivery__1"
+    },
+    {
+      "comment": "[mail_1]{mail} that is [sent]{sent} by [train_1]{train}, [truck_1]{truck}, or [ship_1]{ship}",
+      "entry": "surface mail",
+      "id": "surface-mail#surface-mail__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [inexpensive]{inexpensive} [mail_1]{mail} in the U.S., [usually]{usually} [used]{used} for [send_1]{sending} [advertisement]{advertisements}",
+      "entry": "third class",
+      "id": "third-class_1#third-class_1__1"
+    }
+  ],
+  "thesaurus": "Ways of sending letters and parcels",
+  "type": "Related words"
+}

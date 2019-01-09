@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[canned]{canned} [food]{food} has been [preserve_1]{preserved} in a [metal_1]{metal} [container]{container} without [air_1]{air}",
+      "entry": "canned",
+      "id": "canned#canned__1"
+    },
+    {
+      "comment": "[chilled]{chilled} [food]{food} or [drink_1]{drink} has been made [cold_1]{cold} in [order_1]{order} to [make_1]{make} it more [pleasant]{pleasant} or to keep it [fresh_1]{fresh}",
+      "entry": "chilled",
+      "id": "chilled#chilled__1"
+    },
+    {
+      "comment": "[dehydrated]{dehydrated} [food]{food} has been [preserve_1]{preserved} by [have]{having} all its [water_1]{water} [removed]{removed}",
+      "entry": "dehydrated",
+      "id": "dehydrated#dehydrated__2"
+    },
+    {
+      "comment": "[desiccated]{desiccated} [food]{food} has had all the [water_1]{water} [taken_1]{taken} out of it in [order_1]{order} to [preserve_1]{preserve} it",
+      "entry": "desiccated",
+      "id": "desiccated#desiccated__1"
+    },
+    {
+      "comment": "[dried]{dried} [substance]{substances} such as [food]{food}, [milk_1]{milk}, or [flower_1]{flowers} have had the [water_1]{water} [removed]{removed} from them",
+      "entry": "dried",
+      "id": "dried#dried__1"
+    },
+    {
+      "comment": "[food]{food} that is [freeze-dried]{freeze-dried} is made [dry_1]{dry} very [quickly]{quickly} at very low [temperature]{temperatures} in [order_1]{order} to [preserve_1]{preserve} it",
+      "entry": "freeze-dried",
+      "id": "freeze-dried#freeze-dried__1"
+    },
+    {
+      "comment": "[preserve_1]{preserved} by being made [extremely]{extremely} [cold_1]{cold} and [store_2]{stored} at a very low [temperature]{temperature}",
+      "entry": "frozen",
+      "id": "frozen_1#frozen_1__1"
+    },
+    {
+      "comment": "preserved in vinegar or salt water",
+      "entry": "pickled",
+      "id": "pickled#pickled__2"
+    },
+    {
+      "comment": "[canned]{canned}",
+      "entry": "tinned",
+      "id": "tinned#tinned__1"
+    },
+    {
+      "comment": "[food]{food} that is [vacuum-packed]{vacuum-packed} is [wrap_1]{wrapped} [use_1]{using} a [process_1]{process} in which all the [air_1]{air} is [removed]{removed}",
+      "entry": "vacuum-packed",
+      "id": "vacuum-packed#vacuum-packed__1"
+    }
+  ],
+  "thesaurus": "Preserved in a particular way",
+  "type": "Related words"
+}

@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[circumstantial]{circumstantial} [evidence_1]{evidence} [make_1]{makes} it seem [likely_1]{likely} that something is [true_1]{true} but [does]{does} not [prove]{prove} it",
+      "entry": "circumstantial",
+      "id": "circumstantial#circumstantial__1"
+    },
+    {
+      "comment": "[conclusive]{conclusive} [evidence_1]{evidence}, [proof_1]{proof}, or [information]{information} [prove]{proves} that something is [true_1]{true}",
+      "entry": "conclusive",
+      "id": "conclusive#conclusive__1"
+    },
+    {
+      "comment": "[corroborative]{corroborative} [evidence_1]{evidence} [support_1]{supports} what someone has [said_1]{said}",
+      "entry": "corroborative",
+      "id": "corroborative#corroborative__1"
+    },
+    {
+      "comment": "[documentary_1]{documentary} [proof_1]{proof} or [evidence_1]{evidence} is in the form of [document_1]{documents}",
+      "entry": "documentary",
+      "id": "documentary_2#documentary_2__2"
+    },
+    {
+      "comment": "[inadmissible]{inadmissible} [evidence_1]{evidence} cannot be [used]{used} in a [court_1]{court} of [law]{law}",
+      "entry": "inadmissible",
+      "id": "inadmissible#inadmissible__1"
+    },
+    {
+      "comment": "[providing]{providing} [proof_1]{proof} or [evidence_1]{evidence}",
+      "entry": "probative",
+      "id": "probative#probative__1"
+    },
+    {
+      "comment": "you can only [judge_1]{judge} the [quality_1]{quality} of something by [trying]{trying} it for yourself",
+      "entry": "the proof of the pudding (is in the eating)",
+      "id": "the-proof-of-the-pudding-is-in-the-eating#the-proof-of-the-pudding-is-in-the-eating__1"
+    },
+    {
+      "comment": "[showing]{showing} that something [exist]{exists}, or [showing]{showing} what something is [like_1]{like}",
+      "entry": "reflective",
+      "id": "reflective#reflective__2"
+    },
+    {
+      "comment": "[give_1]{giving} [sign_1]{signs} or [evidence_1]{evidence} of something",
+      "entry": "suggestive",
+      "id": "suggestive#suggestive__5"
+    },
+    {
+      "comment": "[helping]{helping} to [prove]{prove} that a [theory]{theory} or [claim_1]{claim} is [true_1]{true}",
+      "entry": "supporting",
+      "id": "supporting#supporting__4"
+    },
+    {
+      "comment": "[showing]{showing} the [existence]{existence} of a [problem]{problem} or of a [bad_1]{bad} [situation]{situation}",
+      "entry": "symptomatic",
+      "id": "symptomatic#symptomatic__1"
+    }
+  ],
+  "thesaurus": "Words used to describe proof and evidence",
+  "type": "Related words"
+}

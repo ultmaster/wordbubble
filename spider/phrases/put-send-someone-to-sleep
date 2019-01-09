@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "put/send someone to sleep",
+  "senses": [
+    {
+      "def": "to cause someone to [begin]{begin} [sleep_1]{sleeping}",
+      "examples": [
+        "The [motion_1]{motion} of the [car]{car} put me to [sleep_1]{sleep}.",
+        "[listen_1]{Listening} to him [talk_1]{talk} about [economics]{economics} would [send_1]{send} anyone to [sleep_1]{sleep}."
+      ],
+      "id": "put-send-someone-to-sleep__1"
+    },
+    {
+      "def": "to give someone a [drug_1]{drug} that [make_1]{makes} them [unconscious_1]{unconscious} for a [medical_1]{medical} [operation]{operation}",
+      "examples": [],
+      "id": "put-send-someone-to-sleep__4"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "licensed practical nurse: in the U.S., someone who has basic training in taking care of people who are ill but must work under a registered nurse or a doctor",
+      "entry": "LPN",
+      "id": "lpn#lpn__1"
+    },
+    {
+      "comment": "a [female_1]{female} [nurse_1]{nurse} whose [job_1]{job} is to take [care_1]{care} of [student]{students} in a [school_1]{school}",
+      "entry": "matron",
+      "id": "matron#matron__1"
+    },
+    {
+      "comment": "a [senior_1]{senior} [female_1]{female} [nurse_1]{nurse} in a [hospital]{hospital}",
+      "entry": "matron",
+      "id": "matron#matron__2"
+    },
+    {
+      "comment": "a [nurse_1]{nurse} whose [job_1]{job} is to take [care_1]{care} of [women]{women} when they are [give_1]{giving} [birth]{birth} to a [baby_1]{baby}",
+      "entry": "midwife",
+      "id": "midwife#midwife__1"
+    },
+    {
+      "comment": "someone who is [trained]{trained} to take [care_1]{care} of [sick_1]{sick} or [injured]{injured} [people_1]{people}, [usually]{usually} in a [hospital]{hospital}",
+      "entry": "nurse",
+      "id": "nurse_1#nurse_1__1"
+    },
+    {
+      "comment": "someone who performs basic health checks and gives immunizations at a doctor\u2019s surgery",
+      "entry": "nurse",
+      "id": "nurse_1#nurse_1__2"
+    },
+    {
+      "comment": "a [nurse_1]{nurse} who has been [trained]{trained} to [treat_1]{treat} [minor_1]{minor} [illness]{illnesses} that are [usually]{usually} [treat_1]{treated} by a [doctor_1]{doctor}",
+      "entry": "nurse practitioner",
+      "id": "nurse-practitioner#nurse-practitioner__1"
+    },
+    {
+      "comment": "a nurse in the U.S. with less training than a registered nurse, whose job is to provide ordinary care for people who are sick or disabled",
+      "entry": "practical nurse",
+      "id": "practical-nurse#practical-nurse__1"
+    },
+    {
+      "comment": "a nurse with a college degree in nursing who has passed a state examination. A registered nurse is sometimes called an RN.",
+      "entry": "registered nurse",
+      "id": "registered-nurse#registered-nurse__1"
+    },
+    {
+      "comment": "a [register_1]{registered} [nurse_1]{nurse}",
+      "entry": "R.N.",
+      "id": "r-n#r-n__1"
+    },
+    {
+      "comment": "a female nurse in charge of a hospital ward  (=a room for people who are sick in a hospital)",
+      "entry": "Sister",
+      "id": "sister#sister__12"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} to a [sister]{sister} in a [hospital]{hospital}",
+      "entry": "Sister",
+      "id": "sister#sister__14"
+    },
+    {
+      "comment": "a [lower_1]{lower} [level_1]{level} [nurse_1]{nurse}",
+      "entry": "staff nurse",
+      "id": "staff-nurse#staff-nurse__1"
+    }
+  ],
+  "thesaurus": "Types of nurse",
+  "type": "Related words"
+}

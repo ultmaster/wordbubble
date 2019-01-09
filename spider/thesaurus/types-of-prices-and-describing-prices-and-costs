@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "$90, 80 [cent]{cents}, etc. each",
+      "entry": "$90, 80 cents, etc. a clip",
+      "id": "90-80-cents-etc-a-clip#90-80-cents-etc-a-clip__1"
+    },
+    {
+      "comment": "if the [price_1]{price} of something is all in, it [include]{includes} everything",
+      "entry": "all in",
+      "id": "all-in_1#all-in_1__2"
+    },
+    {
+      "comment": "[all-inclusive]{all-inclusive}",
+      "entry": "all-in",
+      "id": "all-in_2#all-in_2__1"
+    },
+    {
+      "comment": "[including]{including} everyone or everything, [especially]{especially} all the [cost_1]{costs}, [charge_1]{charges}, and [service_1]{services} that [make_1]{make} up the [total_1]{total} [price_1]{price} of something",
+      "entry": "all-inclusive",
+      "id": "all-inclusive#all-inclusive__1"
+    },
+    {
+      "comment": "with no [extra_1]{extra} [amount_1]{amounts} of [money]{money} [included]{included} or [charged]{charged}",
+      "entry": "basic",
+      "id": "basic_1#basic_1__24"
+    },
+    {
+      "comment": "if an amount of [money]{money} is [chargeable]{chargeable}, it must be [paid_1]{paid}",
+      "entry": "chargeable",
+      "id": "chargeable#chargeable__1"
+    },
+    {
+      "comment": "[discounted]{discounted} [price_1]{prices} or [rate_1]{rates} are [lower_1]{lower} than [usual]{usual}",
+      "entry": "discounted",
+      "id": "discounted#discounted__1"
+    },
+    {
+      "comment": "more than a [particular_1]{particular} amount of [money]{money}",
+      "entry": "extra",
+      "id": "extra_3#extra_3__1"
+    },
+    {
+      "comment": "[fancy_1]{fancy} [price_1]{prices} are much [higher_1]{higher} than they should be",
+      "entry": "fancy",
+      "id": "fancy_1#fancy_1__12"
+    },
+    {
+      "comment": "[give_1]{giving} you a [lot_1]{lot} of [value_1]{value} for something you are [buy_1]{buying} or [selling]{selling}",
+      "entry": "good",
+      "id": "good_1#good_1__79"
+    },
+    {
+      "comment": "at [half]{half} the [usual]{usual} [price_1]{price}",
+      "entry": "half-price",
+      "id": "half-price#half-price__1"
+    },
+    {
+      "comment": "[including]{including} all [cost_1]{costs}",
+      "entry": "inclusive",
+      "id": "inclusive#inclusive__1"
+    },
+    {
+      "comment": "[inflated]{inflated} [price_1]{prices} or [amount_1]{amounts} are [higher_1]{higher} than they should be",
+      "entry": "inflated",
+      "id": "inflated#inflated__1"
+    },
+    {
+      "comment": "an [introductory]{introductory} [offer_1]{offer} or [price_1]{price} is a low [price_1]{price} that is [intended_1]{intended} to [encourage]{encourage} [people_1]{people} to [buy_1]{buy} a [new]{new} [product]{product}",
+      "entry": "introductory",
+      "id": "introductory#introductory__5"
+    },
+    {
+      "comment": "if something you [buy_1]{buy} is [nonrefundable]{nonrefundable}, the [money]{money} you [paid_1]{paid} for it will not be [given_1]{given} back to you",
+      "entry": "nonrefundable",
+      "id": "nonrefundable#nonrefundable__2"
+    },
+    {
+      "comment": "[premium_1]{premium} [price_1]{prices} are [higher_1]{higher} than [usual]{usual}",
+      "entry": "premium",
+      "id": "premium_2#premium_2__5"
+    },
+    {
+      "comment": "a [reasonable]{reasonable} [price_1]{price} is [fair_1]{fair} and not too [high_1]{high}",
+      "entry": "reasonable",
+      "id": "reasonable#reasonable__19"
+    },
+    {
+      "comment": "[steep_1]{steep} [price_1]{prices} are very [high_1]{high}",
+      "entry": "steep",
+      "id": "steep_1#steep_1__6"
+    },
+    {
+      "comment": "[upfront]{upfront} [cost_1]{costs} or [payment]{payments} are [paid_1]{paid} before you get the [goods]{goods} or [service_1]{services} that you are [buy_1]{buying}",
+      "entry": "upfront",
+      "id": "upfront#upfront__1"
+    },
+    {
+      "comment": "if you [say_1]{say} how much something is [worth_1]{worth}, you [state_1]{state} its [value_1]{value} in [money]{money}",
+      "entry": "worth",
+      "id": "worth_1#worth_1__1"
+    }
+  ],
+  "thesaurus": "Types of prices and describing prices and costs",
+  "type": "Related words"
+}

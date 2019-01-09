@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [country]{country}, [race_1]{race}, or [social_1]{social} [situation]{situation} that someone comes from",
+      "entry": "origin",
+      "id": "origin#origin__6"
+    },
+    {
+      "comment": "the [country]{country} where someone comes from",
+      "entry": "homeland",
+      "id": "homeland#homeland__1"
+    },
+    {
+      "comment": "the [place_1]{place} where someone was [born]{born}",
+      "entry": "birthplace",
+      "id": "birthplace#birthplace__1"
+    },
+    {
+      "comment": "the [city]{city} or [town]{town} where you [live_1]{lived} as a [child]{child}",
+      "entry": "hometown",
+      "id": "hometown#hometown__1"
+    },
+    {
+      "comment": "the [place_1]{place} where you and your [family_1]{family} were [born]{born}, [especially]{especially} when you [feel_1]{feel} [proud]{proud} of it",
+      "entry": "fatherland",
+      "id": "fatherland#fatherland__1"
+    },
+    {
+      "comment": "the [country]{country} where you were [born]{born} or that your [family_1]{family} [originally]{originally} came from",
+      "entry": "mother country",
+      "id": "mother-country#mother-country__1"
+    },
+    {
+      "comment": "the [place_1]{place}, [culture_1]{culture}, or [family_1]{family} that someone comes from [originally]{originally}",
+      "entry": "roots",
+      "id": "root_1#root_1__4"
+    },
+    {
+      "comment": "the country an immigrant was born in, or the country their family originally came from. This phrase is used especially by Americans for referring to countries in Europe.",
+      "entry": "the old country",
+      "id": "the-old-country#the-old-country__1"
+    },
+    {
+      "comment": "the [place_1]{place} where someone or something comes from",
+      "entry": "country/place/state of origin",
+      "id": "country-place-state-of-origin#country-place-state-of-origin__1"
+    },
+    {
+      "comment": "the [country]{country} in which someone was [born]{born}",
+      "entry": "someone\u2019s native soil",
+      "id": "someone-s-native-soil#someone-s-native-soil__1"
+    }
+  ],
+  "thesaurus": "The place where someone comes from",
+  "type": "Synonyms"
+}

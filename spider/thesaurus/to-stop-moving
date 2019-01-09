@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to no [long_1]{longer} move",
+      "entry": "stop",
+      "id": "stop_1#stop_1__13"
+    },
+    {
+      "comment": "to [stop_1]{stop} [moving]{moving}, or to [stop_1]{stop} a [person]{person} or [vehicle]{vehicle} from [moving]{moving}",
+      "entry": "halt",
+      "id": "halt_2#halt_2__4"
+    },
+    {
+      "comment": "to [stop_1]{stop} [moving]{moving} and keep [completely]{completely} still",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__21"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} comes to a full [stop_1]{stop}, it [slow_2]{slows} until it is [completely]{completely} still",
+      "entry": "come to a full stop",
+      "id": "come-to-a-full-stop#come-to-a-full-stop__1"
+    },
+    {
+      "comment": "to [stay_1]{stay} [completely]{completely} still",
+      "entry": "not move a muscle",
+      "id": "not-move-a-muscle#not-move-a-muscle__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [moving]{moving}",
+      "entry": "pull to a stop/halt",
+      "id": "pull-to-a-stop-halt#pull-to-a-stop-halt__1"
+    },
+    {
+      "comment": "to [finally]{finally} [stop_1]{stop} [moving]{moving}",
+      "entry": "come to rest",
+      "id": "come-to-rest#come-to-rest__1"
+    },
+    {
+      "comment": "to [stop_1]{stop}",
+      "entry": "come to a stop",
+      "id": "come-to-a-stop#come-to-a-stop__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [moving]{moving}",
+      "entry": "come/jerk/skid etc. to a stop",
+      "id": "come-jerk-skid-etc-to-a-stop#come-jerk-skid-etc-to-a-stop__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [moving]{moving} in a [sudden_1]{sudden} way, or to [make_1]{make} you [stop_1]{stop} [moving]{moving}",
+      "entry": "stop (you) in your tracks",
+      "id": "stop-you-in-your-tracks#stop-you-in-your-tracks__1"
+    }
+  ],
+  "thesaurus": "To stop moving",
+  "type": "Synonyms"
+}

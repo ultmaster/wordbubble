@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [free_1]{free} [does]{does} not [cost_1]{cost} anything",
+      "entry": "free",
+      "id": "free_1#free_1__1"
+    },
+    {
+      "comment": "a [complimentary]{complimentary} [ticket_1]{ticket}, [book_1]{book}, [meal]{meal}, etc. is [given_1]{given} to you for [free_1]{free} by a [person]{person} or [organization]{organization} that [normally]{normally} [sell_1]{sells} them",
+      "entry": "complimentary",
+      "id": "complimentary#complimentary__1"
+    },
+    {
+      "comment": "without any [payment]{payment}",
+      "entry": "for nothing",
+      "id": "for-nothing#for-nothing__1"
+    },
+    {
+      "comment": "done or [provided]{provided} [free_1]{free}",
+      "entry": "gratis",
+      "id": "gratis#gratis__1"
+    },
+    {
+      "comment": "if you do something all [expense_1]{expenses} [paid_1]{paid}, someone else [pay_1]{pays} for everything",
+      "entry": "all expenses paid",
+      "id": "all-expenses-paid#all-expenses-paid__1"
+    },
+    {
+      "comment": "[provided]{provided} [free_1]{free} of [charge_1]{charge}",
+      "entry": "courtesy",
+      "id": "courtesy_2#courtesy_2__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you do not have to [pay_1]{pay} for something",
+      "entry": "with someone\u2019s compliments",
+      "id": "with-someone-s-compliments#with-someone-s-compliments__1"
+    },
+    {
+      "comment": "[given_1]{given} to you [free_1]{free} in a [restaurant]{restaurant}, [hotel]{hotel}, [bar_1]{bar}, or [club_1]{club}",
+      "entry": "on the house",
+      "id": "on-the-house#on-the-house__1"
+    },
+    {
+      "comment": "without [pay_1]{paying} any [money]{money}",
+      "entry": "free",
+      "id": "free_3#free_3__1"
+    },
+    {
+      "comment": "no [charge_1]{charge}: [used]{used} for [showing]{showing} that a [customer]{customer} [does]{does} not have to [pay_1]{pay} anything for a [particular_1]{particular} [service_1]{service}",
+      "entry": "n/c",
+      "id": "n-c#n-c__1"
+    }
+  ],
+  "thesaurus": "Not costing anything",
+  "type": "Synonyms"
+}

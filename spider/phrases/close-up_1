@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "close up",
+  "senses": [
+    {
+      "def": "to [lock_1]{lock} the [door_1]{doors} of a [building]{building} or [business]{business}",
+      "examples": [
+        "As the [storm_1]{storm} [approach_1]{approached}, everyone [began]{began} [closing_1]{closing} up their [business]{businesses}.",
+        "All the [store_1]{stores} had [closed]{closed} up for the [night_1]{night}."
+      ],
+      "id": "close-up_1__1"
+    },
+    {
+      "def": "to move [people_1]{people} or [thing]{things} [close_2]{closer} together, or to move [close_2]{closer} together",
+      "examples": [
+        "The [runners]{runners} had [closed]{closed} up and were [moving]{moving} in a [tight_1]{tight} [little_1]{little} [pack_1]{pack}."
+      ],
+      "id": "close-up_1__4"
+    },
+    {
+      "def": "to [refuse_1]{refuse} to [talk_1]{talk} about your [true_1]{true} [feeling_1]{feelings} or [thought_1]{thoughts}",
+      "examples": [
+        "Why do you [close_1]{close} up every time I [mention_1]{mention} your [father_1]{father}?"
+      ],
+      "id": "close-up_1__8"
+    }
+  ]
+}

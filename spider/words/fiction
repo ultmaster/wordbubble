@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[book_1]{books} and [story]{stories} about [imaginary]{imaginary} [event]{events} and [people_1]{people}. Books that give [fact]{facts} about [real_1]{real} [event]{events}, [thing]{things}, or [people_1]{people} are [call_1]{called} non-fiction",
+      "examples": [
+        "[hardy]{Hardy} [wrote]{wrote} [poetry]{poetry} as well as fiction.",
+        "a [successful]{successful} [writer]{writer} of [romantic_1]{romantic} fiction"
+      ],
+      "id": "fiction__1"
+    },
+    {
+      "def": "a [report_1]{report}, [story]{story}, or [explanation]{explanation} that is not [true_1]{true}",
+      "examples": [
+        "His [alibi]{alibi} was [pure]{pure} fiction.",
+        "It is sometimes [difficult]{difficult} to [distinguish]{distinguish} [fact]{fact} from fiction in the [book_1]{book}."
+      ],
+      "id": "fiction__4"
+    }
+  ],
+  "word": "fiction"
+}

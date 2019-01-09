@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in the same breath",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that someone has [said_1]{said} two [thing]{things} that cannot both be [true_1]{true}",
+      "examples": [
+        "She [say_1]{says} the [treatment]{treatment} is [safe_1]{safe}, and then in the same [breath]{breath} [say_1]{says} that [patient_1]{patients} should be [warn]{warned} about [possible_1]{possible} side-effects."
+      ],
+      "id": "in-the-same-breath__1"
+    },
+    {
+      "def": "if you [talk_1]{talk} about two [people_1]{people} or [thing]{things} in the same [breath]{breath}, you [mention_1]{mention} them together because they are [similar]{similar}",
+      "examples": [
+        "I don\u2019t [think_1]{think} you can [mention_1]{mention} his [poetry]{poetry} in the same [breath]{breath} as that of Longfellow."
+      ],
+      "id": "in-the-same-breath__3"
+    }
+  ]
+}

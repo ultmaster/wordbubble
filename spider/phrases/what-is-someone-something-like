@@ -1,0 +1,15 @@
+{
+  "part": "phrase",
+  "phrase": "what is someone/something like?",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} about the [quality_1]{qualities} or [feature_1]{features} of a [person]{person} or thing",
+      "examples": [
+        "I [haven]{haven}\u2019t met Alan \u2013 what\u2019s he [like_1]{like}?",
+        "What was it [like_1]{like} [meeting]{meeting} Jill\u2019s [parent]{parents} for the first time?",
+        "She [took]{took} Andrew with her to show him what the [club_1]{club} was [like_1]{like}."
+      ],
+      "id": "what-is-someone-something-like__1"
+    }
+  ]
+}

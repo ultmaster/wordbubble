@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "on one [occasion_1]{occasion} only",
+      "entry": "once",
+      "id": "once#once__1"
+    },
+    {
+      "comment": "[happening_1]{happening} only once, or [existing]{existing} only in one [place_1]{place}",
+      "entry": "isolated",
+      "id": "isolated#isolated__3"
+    },
+    {
+      "comment": "something that is [unrepeatable]{unrepeatable} can only be done once or not very often because it is very [special_1]{special}",
+      "entry": "unrepeatable",
+      "id": "unrepeatable#unrepeatable__3"
+    },
+    {
+      "comment": "[happening_1]{happening}, done, or made only once",
+      "entry": "one-off",
+      "id": "one-off_2#one-off_2__1"
+    },
+    {
+      "comment": "a once in a [lifetime_1]{lifetime} [experience_1]{experience} is very [unusual]{unusual} or [special_1]{special}",
+      "entry": "once in a lifetime",
+      "id": "once-in-a-lifetime#once-in-a-lifetime__1"
+    },
+    {
+      "comment": "with one [sudden_1]{sudden} [action_1]{action}, or on one [single_1]{single} [occasion_1]{occasion}",
+      "entry": "in/at one fell swoop",
+      "id": "in-at-one-fell-swoop#in-at-one-fell-swoop__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or done once and not [repeated]{repeated}",
+      "entry": "one-shot",
+      "id": "one-shot#one-shot__1"
+    },
+    {
+      "comment": "something that only [happen]{happens} once",
+      "entry": "one-off",
+      "id": "one-off_1#one-off_1__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that this is the only time that something will [happen]{happen}",
+      "entry": "(just) this once",
+      "id": "just-this-once#just-this-once__1"
+    }
+  ],
+  "thesaurus": "Happening only once",
+  "type": "Synonyms"
+}

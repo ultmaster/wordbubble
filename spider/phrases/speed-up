@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "speed up",
+  "senses": [
+    {
+      "def": "to move or [happen]{happen} [fast_1]{faster}",
+      "examples": [
+        "You see [driver]{drivers} [speeding_1]{speeding} up when they should be [slow_2]{slowing} down."
+      ],
+      "id": "speed-up__1"
+    },
+    {
+      "def": "to [make_1]{make} something move or [happen]{happen} [fast_1]{faster}",
+      "examples": [
+        "We\u2019re [hope_1]{hoping} the [change_1]{changes} will [help_1]{help} [speed_1]{speed} [thing]{things} up."
+      ],
+      "id": "speed-up__3"
+    }
+  ]
+}

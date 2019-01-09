@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "the [action_1]{action} of [squeeze_1]{squeezing} something",
+      "entry": "squeeze",
+      "id": "squeeze_2#squeeze_2__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [pressing]{pressing} or [squeeze_1]{squeezing} something so that it becomes [small_1]{smaller}",
+      "entry": "compression",
+      "id": "compression#compression__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bite_1]{bite} or [squeeze_1]{squeeze}",
+      "entry": "nip",
+      "id": "nip_2#nip_2__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [squeeze_1]{squeezing} someone\u2019s [skin_1]{skin} between your [thumb_1]{thumb} and [finger_1]{finger} so that it [hurt_1]{hurts} them",
+      "entry": "pinch",
+      "id": "pinch_1#pinch_1__2"
+    },
+    {
+      "comment": "a [single_1]{single} [push_1]{push} on something such as a [button_1]{button} or [switch_1]{switch}",
+      "entry": "press",
+      "id": "press_1#press_1__19"
+    }
+  ],
+  "thesaurus": "The action or an instance of squeezing or pressing",
+  "type": "Synonyms"
+}

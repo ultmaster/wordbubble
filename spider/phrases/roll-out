@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "roll out",
+  "senses": [
+    {
+      "def": "to [introduce]{introduce} a [new]{new} [product]{product} or [service_1]{service}",
+      "examples": [
+        "Australia will [roll_1]{roll} out the [prototype]{prototype} of its [new]{new} [jet_1]{jet} [fighter]{fighter} in January."
+      ],
+      "id": "roll-out__1"
+    },
+    {
+      "def": "to [make_1]{make} something that is [wrap_1]{wrapped} around [itself]{itself} become [flat_1]{flat}",
+      "examples": [
+        "She [roll_1]{rolled} out the [document_1]{document} on the [table_1]{table}."
+      ],
+      "id": "roll-out__5"
+    }
+  ]
+}

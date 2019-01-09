@@ -1,0 +1,301 @@
+{
+  "entries": [
+    {
+      "comment": "a [trip_1]{trip} to a [place_1]{place} for [pleasure]{pleasure}, coming back the same [day]{day}",
+      "entry": "awayday",
+      "id": "awayday#awayday__3"
+    },
+    {
+      "comment": "a [trip_1]{trip} all the way around the [edge_1]{edge} of something",
+      "entry": "circuit",
+      "id": "circuit#circuit__7"
+    },
+    {
+      "comment": "the [trip_1]{trip} to and from [work_1]{work} every [day]{day}",
+      "entry": "commute",
+      "id": "commute_2#commute_2__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} by [boat]{boat} across a [river]{river} or [ocean]{ocean}",
+      "entry": "crossing",
+      "id": "crossing#crossing__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} on a [ship_1]{ship} for [pleasure]{pleasure}, [especially]{especially} one that [involve]{involves} [visit_1]{visiting} a [series]{series} of [place_1]{places}",
+      "entry": "cruise",
+      "id": "cruise_1#cruise_1__1"
+    },
+    {
+      "comment": "a very [short_1]{short} [holiday_1]{holiday} in which you go to a [place_1]{place} and come back on the same [day]{day}",
+      "entry": "daycation",
+      "id": "daycation#daycation__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} that you [make_1]{make} for [pleasure]{pleasure} in which you go to a [place_1]{place} and come back on the same [day]{day}",
+      "entry": "day trip",
+      "id": "day-trip#day-trip__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} in a [car]{car}",
+      "entry": "drive",
+      "id": "drive_2#drive_2__1"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} that you take for [pleasure]{pleasure}",
+      "entry": "excursion",
+      "id": "excursion#excursion__1"
+    },
+    {
+      "comment": "a long [trip_1]{trip} [organized]{organized} for a [particular_1]{particular} [purpose]{purpose}, [especially]{especially} to a [dangerous]{dangerous} or [distant]{distant} [place_1]{place}",
+      "entry": "expedition",
+      "id": "expedition#expedition__1"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} somewhere, [especially]{especially} for [pleasure]{pleasure}",
+      "entry": "expedition",
+      "id": "expedition#expedition__7"
+    },
+    {
+      "comment": "a [trip_1]{trip} to a [place_1]{place} to [learn]{learn} about it or to [search_1]{search} for something [valuable]{valuable} such as [oil_1]{oil}",
+      "entry": "exploration",
+      "id": "exploration#exploration__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} through [air_1]{air} or [space_1]{space} in a [vehicle]{vehicle} such as an [airplane]{airplane}",
+      "entry": "flight",
+      "id": "flight#flight__5"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip}",
+      "entry": "foray",
+      "id": "foray#foray__4"
+    },
+    {
+      "comment": "a [trip_1]{trip} to the most [important]{important} [city]{cities} in Europe that [young_1]{young} [men]{men} from [rich_1]{rich} [family_1]{families} made in the [past_1]{past}",
+      "entry": "the grand tour",
+      "id": "grand-tour#grand-tour__2"
+    },
+    {
+      "comment": "a short trip around a building or place with a person who tells you about what you are seeing or with a pair of headphones on which you can listen to a recorded description of what you are seeing",
+      "entry": "guided tour",
+      "id": "guided-tour#guided-tour__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} to the [holy]{holy} [city]{city} of [mecca_1]{Mecca} that Muslims [make_1]{make} as a [religious]{religious} [duty]{duty}",
+      "entry": "hajj",
+      "id": "hajj#hajj__1"
+    },
+    {
+      "comment": "a ride that you take for fun with other people in a wagon filled with hay, usually in the evening",
+      "entry": "hayride",
+      "id": "hayride#hayride__1"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip}",
+      "entry": "hop",
+      "id": "hop_2#hop_2__3"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} that you take for [fun_1]{fun}",
+      "entry": "jaunt",
+      "id": "jaunt#jaunt__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [travel_1]{travel} from one [place_1]{place} to another, [especially]{especially} when there is a long [distance_1]{distance} between the [place_1]{places}",
+      "entry": "journey",
+      "id": "journey_1#journey_1__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} or [meeting]{meeting} that [people_1]{people} [say_1]{say} is for [business]{business} but is [really]{really} for [pleasure]{pleasure}",
+      "entry": "junket",
+      "id": "junket#junket__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} that is made to [help_1]{help} someone who is in [danger]{danger} or is [have]{having} serious [problem]{problems}",
+      "entry": "mercy mission",
+      "id": "mercy-mission#mercy-mission__1"
+    },
+    {
+      "comment": "a [regular_1]{regular} [trip_1]{trip} that someone [make_1]{makes} in [order_1]{order} to [deliver]{deliver} [milk_1]{milk} to [people_1]{people}\u2019s [home_1]{homes}",
+      "entry": "milk round",
+      "id": "milk-round#milk-round__1"
+    },
+    {
+      "comment": "an [airplane]{airplane} or [train_1]{train} [trip_1]{trip} with [stop_1]{stops} at many [place_1]{places}",
+      "entry": "milk run",
+      "id": "milk-run#milk-run__1"
+    },
+    {
+      "comment": "a [regular_1]{regular} [trip_1]{trip} during which nothing [unusual]{unusual} [happen]{happens}, [especially]{especially} by [airplane]{airplane}",
+      "entry": "milk run",
+      "id": "milk-run#milk-run__2"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip}, [usually]{usually} on a [bus_1]{bus}, that [people_1]{people} take for [pleasure]{pleasure} without [knowing]{knowing} where they are [going_1]{going}",
+      "entry": "mystery tour",
+      "id": "mystery-tour#mystery-tour__1"
+    },
+    {
+      "comment": "a long [trip_1]{trip} during which many [thing]{things} [happen]{happen}",
+      "entry": "odyssey",
+      "id": "odyssey#odyssey__1"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} that you take for [enjoyment]{enjoyment}",
+      "entry": "outing",
+      "id": "outing#outing__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} [lasting]{lasting} one [night_1]{night}",
+      "entry": "overnighter",
+      "id": "overnighter#overnighter__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} or a [ticket_1]{ticket} for a [trip_1]{trip} by [ship_1]{ship} to a [place_1]{place}",
+      "entry": "passage",
+      "id": "passage#passage__16"
+    },
+    {
+      "comment": "a long [trip_1]{trip}",
+      "entry": "peregrination",
+      "id": "peregrination#peregrination__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} that a [religious]{religious} [person]{person} [make_1]{makes} to a [holy]{holy} [place_1]{place}",
+      "entry": "pilgrimage",
+      "id": "pilgrimage#pilgrimage__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} on a [plane_1]{plane} that [flies]{flies} [late_1]{late} at [night_1]{night}",
+      "entry": "red-eye",
+      "id": "red-eye#red-eye__1"
+    },
+    {
+      "comment": "a trip on a horse or other animal, on a bicycle or motorcycle, or in a vehicle",
+      "entry": "ride",
+      "id": "ride_2#ride_2__1"
+    },
+    {
+      "comment": "a free trip that you are given in someone\u2019s vehicle. The usual British word is lift",
+      "entry": "ride",
+      "id": "ride_2#ride_2__8"
+    },
+    {
+      "comment": "a long [trip_1]{trip} in a [car]{car}",
+      "entry": "road trip",
+      "id": "road-trip#road-trip__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} to a [place_1]{place} and back again",
+      "entry": "round trip",
+      "id": "round-trip_1#round-trip_1__1"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} in a [rowboat]{rowboat}",
+      "entry": "row",
+      "id": "row_1#row_1__6"
+    },
+    {
+      "comment": "a [trip_1]{trip} that a [train_1]{train}, [ship_1]{ship}, etc. [does]{does} [regularly]{regularly}",
+      "entry": "run",
+      "id": "run_2#run_2__21"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} that you do in a [car]{car} for [pleasure]{pleasure}",
+      "entry": "run",
+      "id": "run_2#run_2__24"
+    },
+    {
+      "comment": "a [trip_1]{trip}, [especially]{especially} one with a [definite]{definite} [purpose]{purpose}",
+      "entry": "sally",
+      "id": "sally_2#sally_2__3"
+    },
+    {
+      "comment": "a long and [difficult]{difficult} [trip_1]{trip}",
+      "entry": "schlep",
+      "id": "schlep_2#schlep_2__2"
+    },
+    {
+      "comment": "the [trip_1]{trip} by [car]{car} to [school_1]{school} each [morning_1]{morning} and back [home_1]{home} each [afternoon_1]{afternoon}",
+      "entry": "the school run",
+      "id": "the-school-run#the-school-run__1"
+    },
+    {
+      "comment": "a [series]{series} of [trip_1]{trips} that someone [make_1]{makes} to [different]{different} [place_1]{places}",
+      "entry": "someone\u2019s travels",
+      "id": "someone-s-travels#someone-s-travels__1"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} [away_1]{away} from a [place_1]{place}",
+      "entry": "sortie",
+      "id": "sortie_1#sortie_1__4"
+    },
+    {
+      "comment": "a [trip_1]{trip} into [space_1]{space}",
+      "entry": "space flight",
+      "id": "space-flight#space-flight__1"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} for [pleasure]{pleasure} in a [car]{car}",
+      "entry": "spin",
+      "id": "spin_2#spin_2__7"
+    },
+    {
+      "comment": "a [quick_1]{quick} [trip_1]{trip} through an [area]{area} in which you [make_1]{make} [short_1]{short} [visit_1]{visits} to several [place_1]{places}",
+      "entry": "swing",
+      "id": "swing_2#swing_2__11"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} in which you [drive_1]{drive} a [car]{car} to [decide]{decide} whether you [want_1]{want} to [buy_1]{buy} it",
+      "entry": "test drive",
+      "id": "test-drive#test-drive__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} in which you [visit_1]{visit} several [place_1]{places} for [pleasure]{pleasure}",
+      "entry": "tour",
+      "id": "tour_1#tour_1__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} in which a [person]{person} or [group_1]{group} [visit_1]{visits} several [different]{different} [place_1]{places} in [order_1]{order} to [play_1]{play} or [perform]{perform}",
+      "entry": "tour",
+      "id": "tour_1#tour_1__4"
+    },
+    {
+      "comment": "a [trip_1]{trip} in which a [politician]{politician} or [leader]{leader} [visit_1]{visits} several [place_1]{places} as a [representative_1]{representative} of their [country]{country} or in [order_1]{order} to get [support_1]{support}",
+      "entry": "tour",
+      "id": "tour_1#tour_1__8"
+    },
+    {
+      "comment": "a [short_1]{short} [trip_1]{trip} around a [building]{building} or [place_1]{place} in [order_1]{order} to see what is there",
+      "entry": "tour",
+      "id": "tour_1#tour_1__11"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you go somewhere and come back again",
+      "entry": "trip",
+      "id": "trip_1#trip_1__1"
+    },
+    {
+      "comment": "a long [trip_1]{trip}, [especially]{especially} by [boat]{boat} or into [space_1]{space}",
+      "entry": "voyage",
+      "id": "voyage_1#voyage_1__1"
+    },
+    {
+      "comment": "a long trip made through the Australian outback  (=areas that are far from cities or towns and are not used for growing crops) by Aborigines for religious and cultural reasons",
+      "entry": "walkabout",
+      "id": "walkabout#walkabout__1"
+    },
+    {
+      "comment": "[travel_1]{travels} in which you go from [place_1]{place} to [place_1]{place} without [stay_1]{staying} anywhere very long",
+      "entry": "wanderings",
+      "id": "wanderings#wanderings__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [visit_1]{visit} a [lot_1]{lot} of [place_1]{places} in a [short_1]{short} [period_1]{period} of time",
+      "entry": "whistle-stop tour",
+      "id": "whistle-stop-tour#whistle-stop-tour__1"
+    }
+  ],
+  "thesaurus": "Journeys",
+  "type": "Related words"
+}

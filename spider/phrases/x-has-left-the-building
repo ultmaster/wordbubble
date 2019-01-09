@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "X has left the building",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that the show is over",
+      "examples": [],
+      "id": "x-has-left-the-building__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that someone has [left_1]{left} an [organization]{organization}, [stop_1]{stopped} an [activity]{activity}, etc.",
+      "examples": [
+        "His [departure]{departure} was [announce]{announced} with the [word_1]{words}, \u201cShawn Michaels has [left_1]{left} the [building]{building}.\u201d"
+      ],
+      "id": "x-has-left-the-building__2"
+    }
+  ]
+}

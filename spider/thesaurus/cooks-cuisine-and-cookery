@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [describe]{describing} a [woman]{woman} who [cook_1]{cooks} very well",
+      "entry": "Betty Crocker",
+      "id": "betty-crocker#betty-crocker__1"
+    },
+    {
+      "comment": "someone who [cook_1]{cooks} [food]{food} in a [restaurant]{restaurant} as their [job_1]{job}",
+      "entry": "chef",
+      "id": "chef#chef__1"
+    },
+    {
+      "comment": "[cheffy]{cheffy} [food]{food}, [recipe]{recipes} or [technique]{techniques} are [complicated]{complicated} or [unusual]{unusual}, and therefore [typical]{typical} of what a [professional_1]{professional} [chef]{chef} might do",
+      "entry": "cheffy",
+      "id": "cheffy#cheffy__1"
+    },
+    {
+      "comment": "someone who [prepare]{prepares} and [cook_1]{cooks} [food]{food}, either as their [job_1]{job} or for [pleasure]{pleasure}",
+      "entry": "cook",
+      "id": "cook_2#cook_2__1"
+    },
+    {
+      "comment": "the [skill]{skill} or [activity]{activity} of [cooking_1]{cooking}",
+      "entry": "cookery",
+      "id": "cookery#cookery__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [prepare]{preparing} and [heating]{heating} [food]{food} so that it is ready to [eat]{eat}",
+      "entry": "cooking",
+      "id": "cooking_1#cooking_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to [cooking_1]{cooking}, or [suitable]{suitable} for use in [cooking_1]{cooking}",
+      "entry": "cooking",
+      "id": "cooking_2#cooking_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [high_1]{highest} [standard_1]{standard} of [quality_1]{quality} in [cooking_1]{cooking}",
+      "entry": "cordon bleu",
+      "id": "cordon-bleu#cordon-bleu__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [style_1]{style} of [cooking_1]{cooking} [food]{food}, [especially]{especially} the [style_1]{style} of a [particular_1]{particular} [country]{country} or [region]{region}",
+      "entry": "cuisine",
+      "id": "cuisine#cuisine__1"
+    },
+    {
+      "comment": "the [food]{food} you can [eat]{eat} in a [particular_1]{particular} [place_1]{place}, [especially]{especially} a [restaurant]{restaurant} or [hotel]{hotel}",
+      "entry": "cuisine",
+      "id": "cuisine#cuisine__3"
+    },
+    {
+      "comment": "[relate]{relating} to [food]{food} and how to [cook_1]{cook} it",
+      "entry": "culinary",
+      "id": "culinary#culinary__1"
+    },
+    {
+      "comment": "someone who [enjoy]{enjoys} [eat]{eating} or [cooking_1]{cooking} [different]{different} [type_1]{types} of [food]{food} and who [talk_1]{talks} a [lot_1]{lot} about [food]{food}",
+      "entry": "foodie",
+      "id": "foodie#foodie__1"
+    },
+    {
+      "comment": "[relate]{relating} to [skillful]{skillful} [cooking_1]{cooking} and the [enjoyment]{enjoyment} of [good_1]{good} [food]{food}",
+      "entry": "gastronomic",
+      "id": "gastronomic#gastronomic__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [cooking_1]{cooking} and [enjoy]{enjoying} [especially]{especially} [good_1]{good} [food]{food}",
+      "entry": "gastronomy",
+      "id": "gastronomy#gastronomy__1"
+    },
+    {
+      "comment": "a [gourmet_1]{gourmet} [cook_1]{cook} is someone who can [make_1]{make} very [good_1]{good} [food]{food}",
+      "entry": "gourmet",
+      "id": "gourmet_1#gourmet_1__3"
+    },
+    {
+      "comment": "very [good_1]{good} [cooking_1]{cooking}, [especially]{especially} French [cooking_1]{cooking}",
+      "entry": "haute cuisine",
+      "id": "haute-cuisine#haute-cuisine__1"
+    },
+    {
+      "comment": "one of the [food]{foods} or [liquid_1]{liquids} that you use in [making]{making} a [particular_1]{particular} [meal]{meal}",
+      "entry": "ingredient",
+      "id": "ingredient#ingredient__1"
+    },
+    {
+      "comment": "a [style_1]{style} of [cooking_1]{cooking} from France that [use_1]{uses} [light_1]{light} [sauce]{sauces} and [fresh_1]{fresh} [food]{food} [serve_1]{served} in an [attractive]{attractive} way",
+      "entry": "nouvelle cuisine",
+      "id": "nouvelle-cuisine#nouvelle-cuisine__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} [food]{food} ready for [cooking_1]{cooking} or [eat]{eating}",
+      "entry": "preparation",
+      "id": "preparation#preparation__6"
+    },
+    {
+      "comment": "a [set_1]{set} of [instruction]{instructions} for [cooking_1]{cooking} or [prepare]{preparing} a [particular_1]{particular} [food]{food}",
+      "entry": "recipe",
+      "id": "recipe#recipe__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} [worker]{worker} whose [job_1]{job} is to [cook_1]{cook} [food]{food} that can be [prepared]{prepared} [quickly]{quickly}",
+      "entry": "short-order cook",
+      "id": "short-order-cook#short-order-cook__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone cannot [cook_1]{cook} even the [simple]{simplest} [food]{food}",
+      "entry": "someone can\u2019t even boil an egg",
+      "id": "someone-can-t-even-boil-an-egg#someone-can-t-even-boil-an-egg__1"
+    }
+  ],
+  "thesaurus": "Cooks, cuisine and cookery",
+  "type": "Related words"
+}

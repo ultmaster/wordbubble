@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [produce_1]{produce} something such as [heat_1]{heat}, [light_1]{light}, or a [smell_1]{smell}",
+      "entry": "give off",
+      "id": "give-off#give-off__1"
+    },
+    {
+      "comment": "to [allow]{allow} a [substance]{substance} such as [smoke_1]{smoke} or [chemical_1]{chemicals} to [escape_1]{escape} into the [atmosphere]{atmosphere}",
+      "entry": "send out",
+      "id": "send-out#send-out__3"
+    },
+    {
+      "comment": "to [send_1]{send} something out into the [air_1]{air}, [especially]{especially} [gas_1]{gas}, [light_1]{light}, or [heat_1]{heat}",
+      "entry": "emit",
+      "id": "emit#emit__1"
+    },
+    {
+      "comment": "to [allow]{allow} [liquid_1]{liquid} or [gas_1]{gas} to [leave_1]{leave} a [place_1]{place}, [especially]{especially} when this has [harmful]{harmful} [effect_1]{effects}",
+      "entry": "discharge",
+      "id": "discharge_1#discharge_1__9"
+    },
+    {
+      "comment": "to [produce_1]{produce} something such as a [sound_1]{sound} or [light_1]{light}",
+      "entry": "give out",
+      "id": "give-out#give-out__7"
+    },
+    {
+      "comment": "if something such as a [sound_1]{sound} or [smell_1]{smell} [issue_1]{issues} from a [place_1]{place}, it comes out from there",
+      "entry": "issue from",
+      "id": "issue-from#issue-from__1"
+    },
+    {
+      "comment": "to [send_1]{send} out [light_1]{light}, [heat_1]{heat}, or [energy]{energy}",
+      "entry": "beam",
+      "id": "beam_1#beam_1__5"
+    },
+    {
+      "comment": "to [produce_1]{produce} a [liquid_1]{liquid} or [gas_1]{gas} in a [continuous]{continuous} [flow_1]{flow}",
+      "entry": "stream",
+      "id": "stream_2#stream_2__4"
+    },
+    {
+      "comment": "to [produce_1]{produce} [power_1]{power}",
+      "entry": "generate",
+      "id": "generate#generate__11"
+    },
+    {
+      "comment": "to [accidentally]{accidentally} [flow_1]{flow} out of a [container]{container}",
+      "entry": "spill",
+      "id": "spill_1#spill_1__3"
+    }
+  ],
+  "thesaurus": "To send something out into the air or environment",
+  "type": "Synonyms"
+}

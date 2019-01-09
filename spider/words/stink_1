@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [smell_1]{smell} very [unpleasant]{unpleasant}",
+      "examples": [
+        "This [cheese]{cheese} [stink_1]{stinks}!",
+        "The [kitchen]{kitchen} [stank]{stank} of [smoke_1]{smoke}.",
+        "It [really]{really} [stink_1]{stinks} in here."
+      ],
+      "id": "stink_1__1"
+    },
+    {
+      "def": "to be [bad_1]{bad} or [dishonest]{dishonest}",
+      "examples": [
+        "The whole [justice]{justice} system [stink_1]{stinks}.",
+        "The [deal_1]{deal} [stank]{stank} of [corruption]{corruption}."
+      ],
+      "id": "stink_1__5"
+    }
+  ],
+  "word": "stink"
+}

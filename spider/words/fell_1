@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [cut_1]{cut} down a [tree]{tree}",
+      "examples": [],
+      "id": "fell_1__1"
+    },
+    {
+      "def": "to [knock_1]{knock} someone down by [hit_1]{hitting} them",
+      "examples": [],
+      "id": "fell_1__2"
+    },
+    {
+      "def": "to sew a hem on [garment]{garments} with a [blind_1]{blind} [stitch_1]{stitch} either by hand or with a [special_1]{special} [machine_1]{machine} [call_1]{called} a [fell_1]{felling} [machine_1]{machine} or a [blind_1]{blind} [stitch_1]{stitch} [machine_1]{machine}",
+      "examples": [
+        "The [tailor_1]{tailor} is [fell_1]{felling} my [pants]{pants}.",
+        "At the [factory]{factory} the [better_1]{better} [garment]{garments} are hand [fell_1]{felled}"
+      ],
+      "id": "fell_1__3"
+    }
+  ],
+  "word": "fell"
+}

@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [phone_1]{phone} [booth]{booth}",
+      "entry": "box",
+      "id": "box_1#box_1__19"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} at the side of a [road]{road} that you can use for [calling]{calling} for [help_1]{help}",
+      "entry": "call box",
+      "id": "call-box#call-box__1"
+    },
+    {
+      "comment": "a [phone_1]{phone} [booth]{booth}",
+      "entry": "call box",
+      "id": "call-box#call-box__2"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} in a [public_1]{public} [place_1]{place} that you [pay_1]{pay} to use",
+      "entry": "pay phone",
+      "id": "pay-phone#pay-phone__1"
+    },
+    {
+      "comment": "a [small_1]{small} [enclosed]{enclosed} or [partly]{partly} [enclosed]{enclosed} [structure_1]{structure} with a [telephone_1]{telephone} [inside_1]{inside} that you [pay_1]{pay} to use",
+      "entry": "phone booth",
+      "id": "phone-booth#phone-booth__1"
+    },
+    {
+      "comment": "a [phone_1]{phone} [booth]{booth}",
+      "entry": "phone box",
+      "id": "phone-box#phone-box__1"
+    },
+    {
+      "comment": "a [phone_1]{phone} [booth]{booth}",
+      "entry": "telephone booth",
+      "id": "telephone-booth#telephone-booth__1"
+    },
+    {
+      "comment": "a [phone_1]{phone} [booth]{booth}",
+      "entry": "telephone box",
+      "id": "telephone-box#telephone-box__1"
+    },
+    {
+      "comment": "a [phone_1]{phone} [booth]{booth}",
+      "entry": "telephone kiosk",
+      "id": "telephone-kiosk#telephone-kiosk__1"
+    }
+  ],
+  "thesaurus": "Public telephones",
+  "type": "Related words"
+}

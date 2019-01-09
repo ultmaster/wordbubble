@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "settle into",
+  "senses": [
+    {
+      "def": "to become [familiar]{familiar} with a [new]{new} way of [life]{life}, [place_1]{place}, or [job_1]{job}, or to [make_1]{make} someone do this",
+      "examples": [
+        "How are you [settle_1]{settling} into your [new]{new} [home_1]{home}?"
+      ],
+      "id": "settle-into__1"
+    },
+    {
+      "def": "to [make_1]{make} yourself [comfortable]{comfortable} in a [place_1]{place} because you are [going_1]{going} to [stay_1]{stay} there for a long time",
+      "examples": [
+        "We [settled]{settled} into our [tent]{tent}."
+      ],
+      "id": "settle-into__3"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "a [pen_1]{pen} with a very [small_1]{small} [ball_1]{ball} at the [end_1]{end} from which [ink_1]{ink} [flow_1]{flows} as you [write]{write}",
+      "entry": "ballpoint",
+      "id": "ballpoint#ballpoint__1"
+    },
+    {
+      "comment": "a [ballpoint]{ballpoint}",
+      "entry": "Biro",
+      "id": "biro#biro__1"
+    },
+    {
+      "comment": "a [small_1]{small} [container]{container} with [ink_1]{ink} [inside_1]{inside} that you put into a [printer]{printer} or [pen_1]{pen}",
+      "entry": "cartridge",
+      "id": "cartridge#cartridge__3"
+    },
+    {
+      "comment": "a [pen_1]{pen} that has a [piece_1]{piece} of [felt_1]{felt} as its [writing]{writing} [point_1]{point}",
+      "entry": "felt-tip",
+      "id": "felt-tip#felt-tip__1"
+    },
+    {
+      "comment": "a [pen_1]{pen} that has a [container]{container} [inside_1]{inside} that you fill with [ink_1]{ink} in [order_1]{order} to [write]{write} with it",
+      "entry": "fountain pen",
+      "id": "fountain-pen#fountain-pen__1"
+    },
+    {
+      "comment": "a [soft]{soft} [black_1]{black} [substance]{substance} [used]{used} in [pencil_1]{pencils}",
+      "entry": "graphite",
+      "id": "graphite#graphite__1"
+    },
+    {
+      "comment": "a [bright_1#bright_1__20]{brightly} [colored_1]{colored} [pen_1]{pen}, [used]{used} for [marking]{marking} [important]{important} [word_1]{words} on a [document_1]{document}",
+      "entry": "highlighter",
+      "id": "highlighter#highlighter__1"
+    },
+    {
+      "comment": "a [container]{container} that you put on a [desk]{desk} for [holding]{holding} [pen_1]{pens} and [ink_1]{ink}",
+      "entry": "inkstand",
+      "id": "inkstand#inkstand__1"
+    },
+    {
+      "comment": "the long thin [black_1]{black} [center_1]{center} part of a [pencil_1]{pencil} that you [make_1]{make} [mark_1]{marks} with",
+      "entry": "lead",
+      "id": "lead_3#lead_3__3"
+    },
+    {
+      "comment": "a [pen_1]{pen} with a thick [soft]{soft} [point_1]{point} made of [fiber]{fibers}",
+      "entry": "marker",
+      "id": "marker#marker__4"
+    },
+    {
+      "comment": "a pencil made from plastic or metal rather than wood that is always sharp and ready to write with. The British word is propelling pencil.",
+      "entry": "mechanical pencil",
+      "id": "mechanical-pencil#mechanical-pencil__1"
+    },
+    {
+      "comment": "the [pointed]{pointed} [end_1]{end} of a [pen_1]{pen} that you [write]{write} with",
+      "entry": "nib",
+      "id": "nib#nib__1"
+    },
+    {
+      "comment": "an [object_1]{object} that you use for [writing]{writing} or [drawing]{drawing} with [ink_1]{ink}",
+      "entry": "pen",
+      "id": "pen_1#pen_1__1"
+    },
+    {
+      "comment": "[ink_1]{ink} from a [pen_1]{pen}",
+      "entry": "pen",
+      "id": "pen_1#pen_1__4"
+    },
+    {
+      "comment": "a long thin [object_1]{object}, [usually]{usually} made of [wood]{wood}, that you use for [writing]{writing} or [drawing]{drawing} by [pressing]{pressing} the [black_1]{black} or [colored_1]{colored} part in its [center_1]{center} against [paper_1]{paper} or some other [surface_1]{surface}",
+      "entry": "pencil",
+      "id": "pencil_1#pencil_1__1"
+    },
+    {
+      "comment": "the [substance]{substance} [inside_1]{inside} a [pencil_1]{pencil}, [used]{used} for [writing]{writing} or [drawing]{drawing}",
+      "entry": "pencil",
+      "id": "pencil_1#pencil_1__4"
+    },
+    {
+      "comment": "a [pencil_1]{pencil} with a [colored_1]{colored} [center_1]{center} made of [wax_1]{wax} rather than [graphite]{graphite}",
+      "entry": "pencil crayon",
+      "id": "pencil-crayon#pencil-crayon__1"
+    },
+    {
+      "comment": "an [old-fashioned_2]{old-fashioned} [pen_1]{pen} made from a [bird]{bird}\u2019s [feather_1]{feather}",
+      "entry": "quill",
+      "id": "quill#quill__3"
+    },
+    {
+      "comment": "a type of pen similar to a ballpoint that writes very smoothly",
+      "entry": "rollerball",
+      "id": "rollerball#rollerball__1"
+    },
+    {
+      "comment": "a [cover_1]{cover} for a [pen_1]{pen}",
+      "entry": "top",
+      "id": "top_1#top_1__14"
+    }
+  ],
+  "thesaurus": "Pens and pencils and their parts",
+  "type": "Related words"
+}

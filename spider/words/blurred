@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[difficult]{difficult} to see [clearly]{clearly}, or [cause_2]{causing} [difficulty]{difficulty} in [seeing]{seeing} something [clearly]{clearly}",
+      "examples": [
+        "blurred [photograph_1]{photographs}",
+        "[blurred]{blurry} [vision]{vision}",
+        "a blurred [shape_1]{shape}/[outline_1]{outline}"
+      ],
+      "id": "blurred__1"
+    },
+    {
+      "def": "[difficult]{difficult} to [understand]{understand} or [remember]{remember} [clearly]{clearly}",
+      "examples": [
+        "blurred [memory]{memories}",
+        "blurred [distinction]{distinctions}"
+      ],
+      "id": "blurred__5"
+    }
+  ],
+  "word": "blurred"
+}

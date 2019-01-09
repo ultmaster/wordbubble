@@ -1,0 +1,206 @@
+{
+  "entries": [
+    {
+      "comment": "a [military]{military} [officer]{officer} who [help_1]{helps} an [officer]{officer} of a [higher_1]{higher} [rank_1]{rank} by [doing]{doing} [office]{office} [work_1]{work}",
+      "entry": "adjutant",
+      "id": "adjutant#adjutant__1"
+    },
+    {
+      "comment": "a [military]{military} [officer]{officer} whose [job_1]{job} is to [help_1]{help} an [officer]{officer} of [higher_1]{higher} [rank_1]{rank}",
+      "entry": "aide-de-camp",
+      "id": "aide-de-camp#aide-de-camp__1"
+    },
+    {
+      "comment": "a [brigadier-general]{brigadier-general}",
+      "entry": "brigadier",
+      "id": "brigadier#brigadier__2"
+    },
+    {
+      "comment": "an officer of high rank in the U.S. Army, Marines, or Air Force",
+      "entry": "brigadier-general",
+      "id": "brigadier-general#brigadier-general__1"
+    },
+    {
+      "comment": "an officer of middle rank in the army, Marines, or U.S. Air Force",
+      "entry": "captain",
+      "id": "captain_1#captain_1__3"
+    },
+    {
+      "comment": "[commander]{Commander}",
+      "entry": "Cdr.",
+      "id": "cdr#cdr__1"
+    },
+    {
+      "comment": "the most [senior_1]{senior} [officer]{officer} in the [army]{army}, [navy]{navy}, or [air_1]{air} [force_1]{force}",
+      "entry": "chief of staff",
+      "id": "chief-of-staff#chief-of-staff__2"
+    },
+    {
+      "comment": "[commanding]{Commanding} [officer]{Officer}: an [officer]{officer} in [charge_1]{charge} of a [military]{military} [unit]{unit}",
+      "entry": "C.O.",
+      "id": "c-o_2#c-o_2__1"
+    },
+    {
+      "comment": "[colonel]{Colonel}",
+      "entry": "Col.",
+      "id": "col#col__1"
+    },
+    {
+      "comment": "an officer of high rank in the army, the marines, or the U.S. Air Force",
+      "entry": "colonel",
+      "id": "colonel#colonel__1"
+    },
+    {
+      "comment": "a [military]{military} [officer]{officer} of [high_1]{high} [rank_1]{rank} who [control_1]{controls} a [particular_1]{particular} [institution]{institution} or [group_1]{group} of [people_1]{people}",
+      "entry": "commandant",
+      "id": "commandant#commandant__1"
+    },
+    {
+      "comment": "an [officer]{officer} who is in [charge_1]{charge} of a [military]{military} [group_1]{group} or [operation]{operation}",
+      "entry": "commander",
+      "id": "commander#commander__1"
+    },
+    {
+      "comment": "an [officer]{officer} of any [rank_1]{rank} who [control_1]{controls} a [particular_1]{particular} [military]{military} [group_1]{group} or [operation]{operation}",
+      "entry": "commanding officer",
+      "id": "commanding-officer#commanding-officer__1"
+    },
+    {
+      "comment": "the [position_1]{position} of being an [officer]{officer} in the [military]{military}",
+      "entry": "commission",
+      "id": "commission_1#commission_1__5"
+    },
+    {
+      "comment": "a member of a commission",
+      "entry": "commissioner",
+      "id": "commissioner#commissioner__1"
+    },
+    {
+      "comment": "[corporal_1]{corporal}",
+      "entry": "Corp.",
+      "id": "corp#corp__2"
+    },
+    {
+      "comment": "an [officer]{officer} of [middle_1]{middle} [rank_1]{rank} in the U.S. [army]{army}, [air_1]{air} [force_1]{force}, or [marine_2]{Marines}",
+      "entry": "first lieutenant",
+      "id": "first-lieutenant#first-lieutenant__1"
+    },
+    {
+      "comment": "an [officer]{officer} of the U.S. [military]{military} of the [high_1]{highest} [rank_1]{rank} which is [shown]{shown} by the five [star_1]{stars} [worn_1]{worn} on their [uniform_1]{uniform}",
+      "entry": "five-star general",
+      "id": "five-star-general#five-star-general__1"
+    },
+    {
+      "comment": "an [officer]{officer} with a very [high_1]{high} [rank_1]{rank} in the U.S. [army]{Army} or [air_1]{Air} [force_1]{Force}",
+      "entry": "four-star general",
+      "id": "four-star-general#four-star-general__1"
+    },
+    {
+      "comment": "General: used in the name of an officer of high rank in the army, air force, or marines",
+      "entry": "Gen.",
+      "id": "gen#gen__1"
+    },
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} in the [army]{army}, [air_1]{air} [force_1]{force}, or [marine_2]{marines}",
+      "entry": "general",
+      "id": "general_2#general_2__1"
+    },
+    {
+      "comment": "the [group_1]{group} of [officer]{officers} of the [high_1]{highest} [rank_1]{rank} in a [country]{country}\u2019s [military]{military}",
+      "entry": "high command",
+      "id": "high-command#high-command__1"
+    },
+    {
+      "comment": "a person of low rank in the Marines or the British army",
+      "entry": "lance corporal",
+      "id": "lance-corporal#lance-corporal__1"
+    },
+    {
+      "comment": "[lieutenant]{Lieutenant}",
+      "entry": "Lieut.",
+      "id": "lieut#lieut__1"
+    },
+    {
+      "comment": "an [officer]{officer} of low [rank_1]{rank} in the [military]{military}",
+      "entry": "lieutenant",
+      "id": "lieutenant#lieutenant__1"
+    },
+    {
+      "comment": "a military officer with the rank below colonel/commander/general etc.",
+      "entry": "lieutenant colonel/commander/general etc.",
+      "id": "lieutenant#lieutenant__4"
+    },
+    {
+      "comment": "[lieutenant]{Lieutenant}",
+      "entry": "Lt.",
+      "id": "lt#lt__1"
+    },
+    {
+      "comment": "[major_1]{major}",
+      "entry": "Maj.",
+      "id": "maj#maj__1"
+    },
+    {
+      "comment": "[major_1]{major} [general_1]{general}",
+      "entry": "Maj. Gen.",
+      "id": "maj-gen#maj-gen__1"
+    },
+    {
+      "comment": "an officer of middle rank in the military, the marines, or the U.S. air force",
+      "entry": "major",
+      "id": "major_2#major_2__1"
+    },
+    {
+      "comment": "an [officer]{officer} of [high_1]{high} [rank_1]{rank} in the [army]{army} or the U.S. [air_1]{air} [force_1]{force}",
+      "entry": "major general",
+      "id": "major-general#major-general__1"
+    },
+    {
+      "comment": "an [officer]{officer} of very [high_1]{high} [rank_1]{rank} in an [army]{army} or [air_1]{air} [force_1]{force}",
+      "entry": "marshal",
+      "id": "marshal_1#marshal_1__6"
+    },
+    {
+      "comment": "a non-commissioned officer: someone of low rank in the army, air force, or marines who has earned the rank of officer after joining the military",
+      "entry": "NCO",
+      "id": "nco#nco__1"
+    },
+    {
+      "comment": "an [officer]{officer} of low [rank_1]{rank} in the [military]{military}",
+      "entry": "noncommissioned officer",
+      "id": "noncommissioned-officer#noncommissioned-officer__1"
+    },
+    {
+      "comment": "someone with a [position_1]{position} of [power_1]{power} and [authority]{authority} in the [military]{military}",
+      "entry": "officer",
+      "id": "officer#officer__1"
+    },
+    {
+      "comment": "someone who is next in [rank_1]{rank} to the [person]{person} in [charge_1]{charge} of something",
+      "entry": "second-in-command",
+      "id": "second-in-command#second-in-command__1"
+    },
+    {
+      "comment": "an officer of low rank in the army, the U.S. air force, or the Marines",
+      "entry": "second lieutenant",
+      "id": "second-lieutenant#second-lieutenant__1"
+    },
+    {
+      "comment": "a person of low rank in the army, air force, or marines",
+      "entry": "sergeant",
+      "id": "sergeant#sergeant__1"
+    },
+    {
+      "comment": "[sergeant]{sergeant}",
+      "entry": "Sgt.",
+      "id": "sgt#sgt__1"
+    },
+    {
+      "comment": "a [person]{person} with a [middle_1]{middle} [rank_1]{rank} in the [military]{military}",
+      "entry": "warrant officer",
+      "id": "warrant-officer#warrant-officer__1"
+    }
+  ],
+  "thesaurus": "Officers in the armed forces",
+  "type": "Related words"
+}

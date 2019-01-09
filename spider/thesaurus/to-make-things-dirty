@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something not [clean_1]{clean}, [especially]{especially} by [put]{putting} [mark_1]{marks} on it",
+      "entry": "dirty",
+      "id": "dirty_2#dirty_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} [air_1]{air}, [water_1]{water}, or [land_1]{land} too [dirty_1]{dirty} and [dangerous]{dangerous} for [people_1]{people} to use in a [safe_1]{safe} way",
+      "entry": "pollute",
+      "id": "pollute#pollute__1"
+    },
+    {
+      "comment": "to [spread_1]{spread} a [soft]{soft} or [liquid_1]{liquid} [substance]{substance} on a [surface_1]{surface} in a [messy]{messy} way",
+      "entry": "smear",
+      "id": "smear_1#smear_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [dirty_1]{dirty}, [pollute]{polluted}, or [poisonous]{poisonous} by [add_1]{adding} a [chemical_1]{chemical}, [waste_1]{waste}, or [infection]{infection}",
+      "entry": "contaminate",
+      "id": "contaminate#contaminate__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [dirty_1]{dirty} or not [neat]{neat}",
+      "entry": "mess up",
+      "id": "mess_2#mess_2__21"
+    },
+    {
+      "comment": "to [make_1]{make} something very [dirty_1]{dirty}",
+      "entry": "foul",
+      "id": "foul_2#foul_2__5"
+    },
+    {
+      "comment": "to [make_1]{make} the [surface_1]{surface} of something [dirty_1]{dirty} by [rubbing]{rubbing} it",
+      "entry": "smear",
+      "id": "smear_1#smear_1__6"
+    },
+    {
+      "comment": "to [make_1]{make} something [dirty_1]{dirty}",
+      "entry": "soil",
+      "id": "soil_2#soil_2__1"
+    },
+    {
+      "comment": "to put a [dirty_1]{dirty} [mark_1]{mark} on a [clean_1]{clean} [surface_1]{surface}",
+      "entry": "smudge",
+      "id": "smudge_2#smudge_2__2"
+    },
+    {
+      "comment": "to [make_1]{make} something [dirty_1]{dirty}",
+      "entry": "sully",
+      "id": "sully#sully__3"
+    }
+  ],
+  "thesaurus": "To make things dirty",
+  "type": "Synonyms"
+}

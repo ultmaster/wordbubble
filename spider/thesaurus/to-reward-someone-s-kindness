@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "to [reward_1]{reward} someone who has [help_1]{helped} you or been [kind_1]{kind} to you",
+      "entry": "repay",
+      "id": "repay#repay__4"
+    },
+    {
+      "comment": "to do or [say_1]{say} something to someone that is [similar]{similar} to something that they have done or [said_1]{said} to you",
+      "entry": "return",
+      "id": "return_1#return_1__13"
+    },
+    {
+      "comment": "to do something to someone who is [doing]{doing} the same thing to you",
+      "entry": "exchange",
+      "id": "exchange_2#exchange_2__13"
+    },
+    {
+      "comment": "to have the same [feeling_1]{feelings} toward someone that they have for you",
+      "entry": "reciprocate",
+      "id": "reciprocate#reciprocate__1"
+    },
+    {
+      "comment": "to do something for someone in [return_1]{return} for something that they [did]{did} for you",
+      "entry": "return the compliment",
+      "id": "return-the-compliment#return-the-compliment__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people} [reciprocate]{reciprocate}",
+      "entry": "reciprocity",
+      "id": "reciprocity#reciprocity__1"
+    },
+    {
+      "comment": "to do the same thing for someone that they have done for you",
+      "entry": "reciprocate",
+      "id": "reciprocate#reciprocate__3"
+    }
+  ],
+  "thesaurus": "To reward someone's kindness",
+  "type": "Synonyms"
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [write]{write} something [quickly]{quickly} and [careless#careless__13]{carelessly}",
+      "examples": [
+        "Tony [scribble_1#scribble_1__6]{scribbled} the [address_1]{address} on the back of an [envelope]{envelope}.",
+        "I [scribble_1#scribble_1__6]{scribbled} the [number_1]{numbers} down as they were read out."
+      ],
+      "id": "scribble_1__1"
+    },
+    {
+      "def": "to [make_1]{make} [mark_1]{marks} or [drawing]{drawings} with no [meaning_1]{meaning}",
+      "examples": [
+        "A [child]{child} had [scribble_1#scribble_1__6]{scribbled} on the [book_1]{book}."
+      ],
+      "id": "scribble_1__4"
+    }
+  ],
+  "word": "scribble"
+}

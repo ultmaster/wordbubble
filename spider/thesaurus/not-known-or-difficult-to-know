@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [known_1]{known} about by many [people_1]{people}",
+      "entry": "secret",
+      "id": "secret_2#secret_2__7"
+    },
+    {
+      "comment": "[understood]{understood} by only a few [people_1]{people}, not by everyone",
+      "entry": "private",
+      "id": "private_1#private_1__6"
+    },
+    {
+      "comment": "[private_1]{private} and not [known_1]{known} or [available]{available} to most [people_1]{people}",
+      "entry": "personal",
+      "id": "personal_1#personal_1__13"
+    },
+    {
+      "comment": "not [familiar]{familiar} or [known_1]{known} to you",
+      "entry": "strange",
+      "id": "strange_1#strange_1__10"
+    },
+    {
+      "comment": "if something is [unknown_1]{unknown}, [people_1]{people} do not [know_1]{know} about it or do not [know_1]{know} what it is",
+      "entry": "unknown",
+      "id": "unknown_1#unknown_1__1"
+    },
+    {
+      "comment": "not [clearly]{clearly} [known_1]{known} or [understood]{understood}",
+      "entry": "uncertain",
+      "id": "uncertain#uncertain__1"
+    },
+    {
+      "comment": "if something is [hidden_1]{hidden}, most [people_1]{people} do not [know_1]{know} about it or [understand]{understand} it",
+      "entry": "hidden",
+      "id": "hidden_1#hidden_1__1"
+    },
+    {
+      "comment": "not [recognize]{recognized} or [known_1]{known}",
+      "entry": "mysterious",
+      "id": "mysterious#mysterious__4"
+    },
+    {
+      "comment": "if someone is [anonymous]{anonymous}, no one [know_1]{knows} their name",
+      "entry": "anonymous",
+      "id": "anonymous#anonymous__1"
+    },
+    {
+      "comment": "not [known_1]{known} about, or not well [known_1]{known}",
+      "entry": "obscure",
+      "id": "obscure_1#obscure_1__1"
+    }
+  ],
+  "thesaurus": "Not known or difficult to know",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [subject_1]{subject} [field_1]{field} which has a [particular_1]{particular} [set_1]{set} of [vocabulary]{vocabulary} [associate_1]{associated} with it",
+      "entry": "domain",
+      "id": "domain#domain__7"
+    },
+    {
+      "comment": "the [particular_1]{particular} form of [word_1]{words} and [speech]{speech} that is [used]{used} by the [people_1]{people} of a [country]{country}, [area]{area}, or [social_1]{social} [group_1]{group}",
+      "entry": "language",
+      "id": "language#language__11"
+    },
+    {
+      "comment": "the [style_1]{style} or [type_1]{types} of [word_1]{words} [used]{used} by a [person]{person} or [group_1]{group}",
+      "entry": "language",
+      "id": "language#language__4"
+    },
+    {
+      "comment": "all the [word_1]{words} and [phrase_1]{phrases} in a [language]{language}",
+      "entry": "the lexicon",
+      "id": "lexicon#lexicon__1"
+    },
+    {
+      "comment": "all the [word_1]{words} in a [language]{language}",
+      "entry": "lexis",
+      "id": "lexis#lexis__1"
+    },
+    {
+      "comment": "the way that [word_1]{words} are [used]{used} by [people_1]{people} when they [speak_1]{speak} and [write]{write} their [language]{language}",
+      "entry": "usage",
+      "id": "usage#usage__1"
+    },
+    {
+      "comment": "[vocabulary]{vocabulary}",
+      "entry": "vocab",
+      "id": "vocab#vocab__1"
+    },
+    {
+      "comment": "all the [word_1]{words} that a [person]{person} [know_1]{knows}",
+      "entry": "vocabulary",
+      "id": "vocabulary#vocabulary__1"
+    },
+    {
+      "comment": "all the [word_1]{words} in a [particular_1]{particular} [language]{language}",
+      "entry": "vocabulary",
+      "id": "vocabulary#vocabulary__5"
+    },
+    {
+      "comment": "a [single_1]{single} [unit]{unit} of [written_1]{written} or [spoken_1]{spoken} [language]{language}",
+      "entry": "word",
+      "id": "word_1#word_1__1"
+    }
+  ],
+  "thesaurus": "The words of a language",
+  "type": "Synonyms"
+}

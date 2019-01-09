@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "sure thing",
+  "senses": [
+    {
+      "def": "[used]{used} for [agree]{agreeing} to something",
+      "examples": [
+        "\u201cCan you give me a hand [moving]{moving} this [table_1]{table}?\u201d \u201c[sure_1]{Sure} thing.\u201d"
+      ],
+      "id": "sure-thing__1"
+    },
+    {
+      "def": "[used]{used} as a [reply_1]{reply} when someone [thanks_1]{thanks} you",
+      "examples": [
+        "\u201c[thanks_1]{Thanks} for your call, [joe_2]{Joe}.\u201d \u201c[sure_1]{Sure} thing.\u201d"
+      ],
+      "id": "sure-thing__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "play up",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to [persuade]{persuade} [people_1]{people} to [believe]{believe} that something is more [important]{important} than it is",
+      "examples": [
+        "The [newspaper]{newspapers} have [really]{really} [play_1]{played} up the low [voter]{voter} [turnout]{turnout}."
+      ],
+      "id": "play-up__1"
+    },
+    {
+      "def": "to cause [difficulty]{difficulties} or [pain_1]{pain} for someone",
+      "examples": [
+        "The [printer]{printer}\u2019s [play_1]{playing} up again.",
+        "My back\u2019s been [play_1]{playing} me up all [day]{day}."
+      ],
+      "id": "play-up__3"
+    }
+  ]
+}

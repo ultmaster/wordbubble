@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "turn back",
+  "senses": [
+    {
+      "def": "to [return_1]{return} the same way that you came [instead]{instead} of [continuing]{continuing} on your way, or to [make_1]{make} someone do this",
+      "examples": [
+        "[bad_1]{Bad} [weather_1]{weather} [forced]{forced} them to [turn_1]{turn} back.",
+        "[refugee]{Refugees} who [reach_1]{reach} the [border_1]{border} may be [turn_1]{turned} back."
+      ],
+      "id": "turn-back__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [doing]{doing} something and to [return_1]{return} to a [previous_1]{previous} [situation]{situation} or [condition_1]{condition}",
+      "examples": [
+        "I\u2019ve [gone_1]{gone} too [far]{far} to [turn_1]{turn} back now."
+      ],
+      "id": "turn-back__4"
+    }
+  ]
+}

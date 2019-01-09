@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "the amount of [space_1]{space} between two [people_1]{people} or [thing]{things}",
+      "entry": "distance",
+      "id": "distance_1#distance_1__1"
+    },
+    {
+      "comment": "a [space_1]{space} or [distance_1]{distance} between two [thing]{things}",
+      "entry": "interval",
+      "id": "interval#interval__5"
+    },
+    {
+      "comment": "how [near_1]{near} something is to another thing, [especially]{especially} in [distance_1]{distance} or time",
+      "entry": "proximity",
+      "id": "proximity#proximity__1"
+    },
+    {
+      "comment": "the [fact]{fact} of being [near_1]{near} to someone or something, or [closely]{closely} [related_1]{related} to or very much [like_1]{like} someone",
+      "entry": "propinquity",
+      "id": "propinquity#propinquity__1"
+    },
+    {
+      "comment": "[lack_1]{lack} of a [connection]{connection} between [thing]{things} that should be [connected]{connected}",
+      "entry": "disjunction",
+      "id": "disjunction#disjunction__1"
+    },
+    {
+      "comment": "the [fact]{fact} that two [people_1]{people} or [thing]{things} are [far]{far} [apart]{apart} from each other",
+      "entry": "distance",
+      "id": "distance_1#distance_1__10"
+    }
+  ],
+  "thesaurus": "Closeness and distance",
+  "type": "Synonyms"
+}

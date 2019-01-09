@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "if you want",
+  "senses": [
+    {
+      "def": "[used]{used} for [offering]{offering} to do something",
+      "examples": [
+        "I\u2019ll [make_1]{make} some [coffee]{coffee} if you [want_1]{want}."
+      ],
+      "id": "if-you-want__1"
+    },
+    {
+      "def": "[used]{used} for [give_1]{giving} [permission]{permission} or [agree]{agreeing} with a [suggestion]{suggestion} that someone has made",
+      "examples": [
+        "\u201cShould we go next [week]{week}?\u201d \u201c[yeah]{Yeah}, if you [want_1]{want}.\u201d",
+        "\u201cCan I come with you?\u201d \u201cIf you [want_1]{want}.\u201d"
+      ],
+      "id": "if-you-want__3"
+    }
+  ]
+}

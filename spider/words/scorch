@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if you scorch something, or if it [scorch]{scorches}, it [burn_1]{burns} enough to [change_1]{change} [color_1]{color} or be [damage_2]{damaged} on the [surface_1]{surface}",
+      "examples": [
+        "The [forest]{forest} fire was [contain]{contained} after [scorching]{scorching} some ten [thousand]{thousand} [acre]{acres}.",
+        "Who [scorched]{scorched} this [pot_1]{pot}?"
+      ],
+      "id": "scorch__1"
+    },
+    {
+      "def": "if [extreme_1]{extreme} [heat_1]{heat} [scorch]{scorches} you, it is so [hot]{hot} that it is [painful]{painful}",
+      "examples": [
+        "The [hot]{hot} [pavement]{pavement} [scorched]{scorched} the [bottom_1]{bottoms} of their [bare_1]{bare} [feet]{feet}."
+      ],
+      "id": "scorch__4"
+    },
+    {
+      "def": "if [heat_1]{heat} or a [substance]{substance} put on a [plant_1]{plant} [scorch]{scorches} it, or if the [plant_1]{plant} [scorch]{scorches}, it becomes [dry_1]{dry} and [die_1]{dies}",
+      "examples": [
+        "If you [fertilize]{fertilize} the [plant_1]{plant} now, it will scorch."
+      ],
+      "id": "scorch__6"
+    }
+  ],
+  "word": "scorch"
+}

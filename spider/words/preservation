@@ -1,0 +1,38 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [process_1]{process} of [working]{working} to [protect]{protect} something [valuable]{valuable} so that it is not [damage_2]{damaged} or [destroy]{destroyed}",
+      "examples": [
+        "an [organization]{organization} [devoted]{devoted} to the preservation of [historic]{historic} [building]{buildings}",
+        "[preservation]{Preservation} of the [environment]{environment} is [vital]{vital}.",
+        "a preservation [society]{society}/[group_1]{group}/[project_1]{project}",
+        "the [jersey]{Jersey} [wildlife]{Wildlife} [preservation]{Preservation} [trust_1]{Trust}"
+      ],
+      "id": "preservation__1"
+    },
+    {
+      "def": "the [degree]{degree} to which something has not been [changed]{changed} by the [effect_1]{effects} of time or [weather_1]{weather}",
+      "examples": [
+        "The [carving]{carvings} are in a [poor_1]{poor} [state_1]{state} of preservation."
+      ],
+      "id": "preservation__7"
+    },
+    {
+      "def": "the [process_1]{process} of [trying]{trying} to [make_1]{make} a [situation]{situation} or [state_1]{state} [continue]{continue} without [change_1]{changing}",
+      "examples": [
+        "the preservation of [peace]{peace}/[public_1]{public} [order_1]{order}"
+      ],
+      "id": "preservation__9"
+    },
+    {
+      "def": "the [addition]{addition} of a [chemical_1]{chemical} [substance]{substance} to [food]{food} or [wood]{wood} in [order_1]{order} to [prevent]{prevent} it from [decay_1]{decaying}",
+      "examples": [
+        "[improved]{improved} [method]{methods} of [food]{food} preservation"
+      ],
+      "id": "preservation__11"
+    }
+  ],
+  "word": "preservation"
+}

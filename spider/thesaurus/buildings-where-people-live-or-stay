@@ -1,0 +1,411 @@
+{
+  "entries": [
+    {
+      "comment": "a [house_1]{house} [built_1]{built} [use_1]{using} [adobe]{adobe} [brick_1]{bricks}",
+      "entry": "adobe",
+      "id": "adobe#adobe__2"
+    },
+    {
+      "comment": "an [apartment]{apartment} [building]{building}",
+      "entry": "apartment",
+      "id": "apartment#apartment__3"
+    },
+    {
+      "comment": "a building containing many apartments. The British word is block of flats.",
+      "entry": "apartment building",
+      "id": "apartment-building#apartment-building__1"
+    },
+    {
+      "comment": "a [place_1]{place}, [usually]{usually} someone\u2019s [house_1]{house}, that [soldier_1]{soldiers} [live_1]{live} in [temporarily]{temporarily}, [especially]{especially} during a war",
+      "entry": "billet",
+      "id": "billet_1#billet_1__1"
+    },
+    {
+      "comment": "a [house_1]{house} in which [people_1]{people} [pay_1]{pay} to [live_1]{live} as [guest_1]{guests} with the [family_1]{family} who [own_2]{owns} it",
+      "entry": "boarding house",
+      "id": "boarding-house#boarding-house__1"
+    },
+    {
+      "comment": "a [small_1]{small} [house_1]{house} that is often all on one [level_1]{level}",
+      "entry": "bungalow",
+      "id": "bungalow#bungalow__1"
+    },
+    {
+      "comment": "a [house_1]{house} that is all on one [level_1]{level}",
+      "entry": "bungalow",
+      "id": "bungalow#bungalow__2"
+    },
+    {
+      "comment": "a [building]{building} where a [group_1]{group} of [worker]{workers} [sleep_1]{sleep}",
+      "entry": "bunkhouse",
+      "id": "bunkhouse#bunkhouse__1"
+    },
+    {
+      "comment": "a [small_1]{small} [simple]{simple} [wooden]{wooden} [house_1]{house} in the [mountain]{mountains} or in a [forest]{forest}",
+      "entry": "cabin",
+      "id": "cabin#cabin__1"
+    },
+    {
+      "comment": "a [wooden]{wooden} [house_1]{house} [built_1]{built} in a [mountain]{mountain} [area]{area}, [especially]{especially} in Switzerland. Its [roof_1]{roof} [usually]{usually} has [steep_1]{steep} sides.",
+      "entry": "chalet",
+      "id": "chalet#chalet__1"
+    },
+    {
+      "comment": "a [castle]{castle} or [large_1]{large} [house_1]{house} in the French [countryside]{countryside}",
+      "entry": "chateau",
+      "id": "chateau#chateau__1"
+    },
+    {
+      "comment": "a [condominium]{condominium}",
+      "entry": "condo",
+      "id": "condo#condo__1"
+    },
+    {
+      "comment": "a [building]{building} that [contain]{contains} several [apartment]{apartments}, each of which is [own_2]{owned} by the [people_1]{people} who [live_1]{live} there",
+      "entry": "condominium",
+      "id": "condominium#condominium__1"
+    },
+    {
+      "comment": "a [small_1]{small} [house_1]{house}, [usually]{usually} in a [village_1]{village} or the [countryside]{countryside}",
+      "entry": "cottage",
+      "id": "cottage#cottage__1"
+    },
+    {
+      "comment": "a [large_1]{large} [house_1]{house} in the [countryside]{countryside}, [usually]{usually} in the U.K. or Europe, [especially]{especially} one that has been [own_2]{owned} by the same [family_1]{family} for many [year]{years}",
+      "entry": "country house",
+      "id": "country-house#country-house__1"
+    },
+    {
+      "comment": "a [house_1]{house} in the [countryside]{countryside} in Russia that someone [lives]{lives} in on [weekend_1]{weekends} or during [vacation_1]{vacations}",
+      "entry": "dacha",
+      "id": "dacha#dacha__1"
+    },
+    {
+      "comment": "in the [past_1]{past}, a [large_1]{large} [house_1]{house} and the [land_1]{land} that [belong]{belonged} to it",
+      "entry": "demesne",
+      "id": "demesne#demesne__1"
+    },
+    {
+      "comment": "a [dormitory]{dormitory}",
+      "entry": "dorm",
+      "id": "dorm#dorm__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} in a [college]{college} or [university]{university}, where [student]{students} [live_1]{live}",
+      "entry": "dormitory",
+      "id": "dormitory#dormitory__2"
+    },
+    {
+      "comment": "a house that is joined to another house on one side. The British word is semi-detached house.",
+      "entry": "duplex",
+      "id": "duplex#duplex__1"
+    },
+    {
+      "comment": "a [house_1]{house}, [apartment]{apartment}, or other [shelter_1]{shelter} in which someone [lives]{lives}",
+      "entry": "dwelling",
+      "id": "dwelling#dwelling__1"
+    },
+    {
+      "comment": "a [house_1]{house} that is [used]{used} to [live_1]{live} in and not as an [office]{office} or other [workplace]{workplace}",
+      "entry": "dwelling house",
+      "id": "dwelling-house#dwelling-house__1"
+    },
+    {
+      "comment": "any one of a [group_1]{group} of [apartment]{apartment} [building]{buildings} that [surround_1]{surround} a [yard]{yard} or [garden_1]{garden}",
+      "entry": "garden apartment",
+      "id": "garden-apartment#garden-apartment__2"
+    },
+    {
+      "comment": "a large country house with farm buildings near it",
+      "entry": "grange",
+      "id": "grange#grange__1"
+    },
+    {
+      "comment": "a [small_1]{small} [hotel]{hotel} or [private_1]{private} [home_1]{home} where [people_1]{people} can [pay_1]{pay} to [spend]{spend} the [night_1]{night}",
+      "entry": "guest house",
+      "id": "guest-house#guest-house__1"
+    },
+    {
+      "comment": "a [small_1]{small} [house_1]{house} for [guest_1]{guests} on the [property]{property} of a [large_1]{larger} [house_1]{house}",
+      "entry": "guest house",
+      "id": "guest-house#guest-house__2"
+    },
+    {
+      "comment": "a [house_1]{house}",
+      "entry": "habitation",
+      "id": "habitation#habitation__4"
+    },
+    {
+      "comment": "the [main_1]{main} [house_1]{house} on a [hacienda]{hacienda}, where the [owner]{owner} [lives]{lives}",
+      "entry": "hacienda",
+      "id": "hacienda#hacienda__2"
+    },
+    {
+      "comment": "someone\u2019s [house_1]{house}",
+      "entry": "hacienda",
+      "id": "hacienda#hacienda__3"
+    },
+    {
+      "comment": "a [dormitory]{dormitory}",
+      "entry": "hall of residence",
+      "id": "hall-of-residence#hall-of-residence__1"
+    },
+    {
+      "comment": "a [building]{building} for [people_1]{people} to [buy_1]{buy} or [rent_1]{rent}",
+      "entry": "home",
+      "id": "home_1#home_1__21"
+    },
+    {
+      "comment": "a building where people who need special care can live and be cared for, for example an old-people\u2019s home or a children\u2019s home",
+      "entry": "home",
+      "id": "home_1#home_1__24"
+    },
+    {
+      "comment": "a [building]{building} where [people_1]{people} [living_1]{living} [away_1]{away} from [home_1]{home} can [stay_1]{stay} and get [meal]{meals} at low [price_1]{prices}",
+      "entry": "hostel",
+      "id": "hostel#hostel__2"
+    },
+    {
+      "comment": "a [building]{building} for [living_1]{living} in, [usually]{usually} where only one [family_1]{family} [lives]{lives}",
+      "entry": "house",
+      "id": "house_1#house_1__1"
+    },
+    {
+      "comment": "[building]{buildings} for [people_1]{people} to [live_1]{live} in",
+      "entry": "housing",
+      "id": "housing#housing__1"
+    },
+    {
+      "comment": "a [large_1]{large} [group_1]{group} of [house_1]{houses} [built_1]{built} at the same time and in the same [style_1]{style}",
+      "entry": "housing development",
+      "id": "housing-development#housing-development__1"
+    },
+    {
+      "comment": "a [small_1]{small} [simple]{simple} [house_1]{house} in the [countryside]{countryside} that [people_1]{people} [stay_1]{stay} in, for [example]{example} when they go [hunting]{hunting} or [fishing]{fishing}",
+      "entry": "lodge",
+      "id": "lodge_2#lodge_2__1"
+    },
+    {
+      "comment": "a [small_1]{small} [house_1]{house} [built_1]{built} on [land_1]{land} [belong]{belonging} to a [large_1]{large} [house_1]{house}",
+      "entry": "lodge",
+      "id": "lodge_2#lodge_2__2"
+    },
+    {
+      "comment": "a [room_2]{rooming} [house_1]{house}",
+      "entry": "lodging house",
+      "id": "lodging-house#lodging-house__1"
+    },
+    {
+      "comment": "a small simple house made of logs in the countryside or in the mountains",
+      "entry": "log cabin",
+      "id": "log-cabin#log-cabin__1"
+    },
+    {
+      "comment": "a house or apartment where two people go to be together, especially if they are having a secret love affair",
+      "entry": "love nest",
+      "id": "love-nest#love-nest__1"
+    },
+    {
+      "comment": "a [large_1]{large} [house_1]{house} with a [lot_1]{lot} of [land_1]{land} and [small_1]{small} [building]{buildings} around it",
+      "entry": "manor",
+      "id": "manor#manor__1"
+    },
+    {
+      "comment": "the [large_1]{large} [main_1]{main} [house_1]{house} on such an [area]{area} of [land_1]{land}",
+      "entry": "manor",
+      "id": "manor#manor__2"
+    },
+    {
+      "comment": "a [large_1]{large} [house_1]{house}, [especially]{especially} a [beautiful]{beautiful} one",
+      "entry": "mansion",
+      "id": "mansion#mansion__1"
+    },
+    {
+      "comment": "a house that is built from several large pre-manufactured  (=already built) pieces",
+      "entry": "manufactured home",
+      "id": "manufactured-home#manufactured-home__1"
+    },
+    {
+      "comment": "a [small_1]{small} and often [badly]{badly} [built_1]{built} [house_1]{house} [located]{located} with many other [similar]{similar} [house_1]{houses} on a [social_1]{social} [housing]{housing} [scheme_1]{scheme}",
+      "entry": "matchbox house",
+      "id": "matchbox-house#matchbox-house__1"
+    },
+    {
+      "comment": "a [house_1]{house} [built_1]{built} in a [factory]{factory} and [move_1]{moved} to a [piece_1]{piece} of [land_1]{land} on a [truck_1]{truck}",
+      "entry": "mobile home",
+      "id": "mobile-home#mobile-home__1"
+    },
+    {
+      "comment": "a [building]{building} where [orphan_1]{orphans} [live_1]{live} and are [taken_1]{taken} [care_1]{care} of",
+      "entry": "orphanage",
+      "id": "orphanage#orphanage__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [building]{building}, [especially]{especially} one [used]{used} as the [official_1]{official} [home_1]{home} of a [royal_1]{royal} [family_1]{family}, [president_1]{president}, or [important]{important} [religious]{religious} [leader]{leader}",
+      "entry": "Palace",
+      "id": "palace#palace__1"
+    },
+    {
+      "comment": "[used]{used} in the name of a [palace]{palace}",
+      "entry": "Palace",
+      "id": "palace#palace__3"
+    },
+    {
+      "comment": "a small apartment or house, especially in a city, that someone owns or rents in addition to their main house",
+      "entry": "pied-\u00e0-terre",
+      "id": "pied-a-terre#pied-a-terre__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [old]{old} [house_1]{house} or other [building]{building}",
+      "entry": "pile",
+      "id": "pile_1#pile_1__14"
+    },
+    {
+      "comment": "a [house_1]{house}, [apartment]{apartment}, etc. for [living_1]{living} in",
+      "entry": "place",
+      "id": "place_1#place_1__21"
+    },
+    {
+      "comment": "[room_1]{rooms} or [building]{buildings} for [people_1]{people} to [live_1]{live} in",
+      "entry": "quarters",
+      "id": "quarters#quarters__1"
+    },
+    {
+      "comment": "a [ranch_1]{ranch} [house_1]{house}",
+      "entry": "ranch",
+      "id": "ranch_1#ranch_1__4"
+    },
+    {
+      "comment": "a [house_1]{house} on one [level_1]{level}, often with a [roof_1]{roof} that [does]{does} not [slope_1]{slope} much",
+      "entry": "ranch house",
+      "id": "ranch-house#ranch-house__1"
+    },
+    {
+      "comment": "the main house on a ranch",
+      "entry": "ranch house",
+      "id": "ranch-house#ranch-house__2"
+    },
+    {
+      "comment": "a [house_1]{house} that was [built_1]{built} as part of a government-funded [social_1]{social} [housing]{housing} [project_1]{project}",
+      "entry": "RDP house",
+      "id": "rdp-house#rdp-house__1"
+    },
+    {
+      "comment": "a house that consists of rooms that people can rent. The British word is lodging house.",
+      "entry": "rooming house",
+      "id": "rooming-house#rooming-house__1"
+    },
+    {
+      "comment": "a [house_1]{house} in a [row_1]{row} of [similar]{similar} [house_1]{houses} [join_1]{joined} together on both sides",
+      "entry": "row house",
+      "id": "row-house#row-house__1"
+    },
+    {
+      "comment": "a [building]{building} that is [used]{used} for [hiding]{hiding} [people_1]{people} or [protect]{protecting} them from [danger]{danger}",
+      "entry": "safe house",
+      "id": "safe-house#safe-house__1"
+    },
+    {
+      "comment": "a [large_1]{large} [house_1]{house} in the [countryside]{countryside} that [belong]{belongs} to an [important]{important} [family_1]{family}",
+      "entry": "seat",
+      "id": "seat_1#seat_1__18"
+    },
+    {
+      "comment": "a [badly]{badly} [built_1]{built} [house_1]{house} made from [sheet]{sheets} of [wood]{wood}, [metal_1]{metal}, or other thin [material_1]{material}",
+      "entry": "shanty",
+      "id": "shanty#shanty__1"
+    },
+    {
+      "comment": "a [temporary]{temporary} [place_1]{place} to [live_1]{live} for [people_1]{people} who do not have their own [home_1]{homes}, or for [animal_1]{animals} who have been [treat_1]{treated} in a [cruel]{cruel} way",
+      "entry": "shelter",
+      "id": "shelter_1#shelter_1__8"
+    },
+    {
+      "comment": "a very [small_1]{small} [house_1]{house} or [room_1]{room}",
+      "entry": "shoebox",
+      "id": "shoebox#shoebox__2"
+    },
+    {
+      "comment": "a type of split-level house that is divided into different floors along its side",
+      "entry": "side split",
+      "id": "side-split#side-split__1"
+    },
+    {
+      "comment": "a [house_1]{house} in such an [area]{area}",
+      "entry": "slum",
+      "id": "slum_1#slum_1__2"
+    },
+    {
+      "comment": "a [small_1]{small} [house_1]{house} that someone [buy_1]{buys} as their first [home_1]{home}",
+      "entry": "starter home",
+      "id": "starter-home#starter-home__1"
+    },
+    {
+      "comment": "a [large_1]{large} [house_1]{house} in the U.K. that has an [interesting]{interesting} [history]{history} and [belong]{belongs}, or [used]{used} to [belong]{belong}, to an [important]{important} [family_1]{family}",
+      "entry": "stately home",
+      "id": "stately-home#stately-home__1"
+    },
+    {
+      "comment": "a [house_1]{house} that has more than one [level_1]{level}",
+      "entry": "storey house",
+      "id": "storey-house#storey-house__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} in a [city]{city}, [contain]{containing} several [apartment]{apartments}",
+      "entry": "tenement",
+      "id": "tenement#tenement__1"
+    },
+    {
+      "comment": "a [row_1]{row} [house_1]{house}",
+      "entry": "terrace",
+      "id": "terrace#terrace__4"
+    },
+    {
+      "comment": "a [row_1]{row} [house_1]{house}",
+      "entry": "terraced house",
+      "id": "terraced-house#terraced-house__1"
+    },
+    {
+      "comment": "an [apartment]{apartment} or [house_1]{house} that you [buy_1]{buy} with other [people_1]{people} so that you can each use it for a [particular_1]{particular} amount of time every [year]{year}",
+      "entry": "timeshare",
+      "id": "timeshare#timeshare__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [own_2]{owning} a [timeshare]{timeshare}",
+      "entry": "timesharing",
+      "id": "timesharing#timesharing__2"
+    },
+    {
+      "comment": "a [house_1]{house} that [share_1]{shares} [wall_1]{walls} with [house_1]{houses} on either side of it",
+      "entry": "townhouse",
+      "id": "townhouse#townhouse__1"
+    },
+    {
+      "comment": "a [house_1]{house} in a [city]{city} or [town]{town} [belong]{belonging} to someone who also has a [house_1]{house} in the [countryside]{countryside}",
+      "entry": "townhouse",
+      "id": "townhouse#townhouse__2"
+    },
+    {
+      "comment": "one of many [similar]{similar} [house_1]{houses} [built_1]{built} very [close_1]{close} together in one [area]{area}",
+      "entry": "tract house",
+      "id": "tract-house#tract-house__1"
+    },
+    {
+      "comment": "a [house_1]{house} [built_1]{built} during or in the [style_1]{style} of the Victorian [period_1]{period}",
+      "entry": "Victorian",
+      "id": "victorian_2#victorian_2__1"
+    },
+    {
+      "comment": "a [large_1]{large} [house_1]{house} with a [big_1]{big} [garden_1]{garden} in a [warm_1]{warm} [country]{country} or [region]{region}",
+      "entry": "villa",
+      "id": "villa#villa__1"
+    },
+    {
+      "comment": "a [poorhouse]{poorhouse} in Britain in the [past_1]{past}",
+      "entry": "workhouse",
+      "id": "workhouse#workhouse__1"
+    }
+  ],
+  "thesaurus": "Buildings where people live or stay",
+  "type": "Related words"
+}

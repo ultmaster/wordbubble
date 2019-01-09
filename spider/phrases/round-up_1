@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "round up",
+  "senses": [
+    {
+      "def": "to find and [arrest_1]{arrest} [people_1]{people}",
+      "examples": [
+        "[dozen#dozen__7]{Dozens} of [political]{political} [activist]{activists} have been [rounded]{rounded} up for [questioning_1]{questioning}."
+      ],
+      "id": "round-up_1__1"
+    },
+    {
+      "def": "to [bring]{bring} [animal_1]{animals} or [people_1]{people} together in one [place_1]{place} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "I [used]{used} to [help_1]{help} round up the [cow_1]{cows} at [milk_2]{milking} time.",
+        "[official_2]{Officials} were also [have]{having} [trouble_1]{trouble} [round_3]{rounding} up [truck_1]{truck} [driver]{drivers} to [make_1]{make} the [delivery]{deliveries}."
+      ],
+      "id": "round-up_1__3"
+    },
+    {
+      "def": "to [increase_1]{increase} a [number_1]{number} to the nearest whole [number_1]{number}, or the nearest [number_1]{number} [ending]{ending} in [zero_1]{zero}",
+      "examples": [],
+      "id": "round-up_1__6"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [teach]{teaches} or [does]{does} [research_1]{research} at a [college]{college} or [university]{university}",
+      "entry": "academic",
+      "id": "academic_2#academic_2__1"
+    },
+    {
+      "comment": "a teacher at a U.S. college or university who is above the level of instructor and below the level of associate professor",
+      "entry": "assistant professor",
+      "id": "assistant-professor#assistant-professor__1"
+    },
+    {
+      "comment": "a teacher who works at a college or university in the U.S. Associate professor is the position above assistant professor and below the highest teaching level of professor",
+      "entry": "associate professor",
+      "id": "associate-professor#associate-professor__1"
+    },
+    {
+      "comment": "the position or job of being a senior professor in a university",
+      "entry": "chair",
+      "id": "chair_1#chair_1__7"
+    },
+    {
+      "comment": "someone who [teach]{teaches} at a [university]{university}, [especially]{especially} at [oxford]{Oxford} or Cambridge",
+      "entry": "don",
+      "id": "don_2#don_2__1"
+    },
+    {
+      "comment": "an [expert_1]{expert} in [education]{education}",
+      "entry": "educationalist",
+      "id": "educationalist#educationalist__1"
+    },
+    {
+      "comment": "someone who is an [expert_1]{expert} in [education]{education}",
+      "entry": "educator",
+      "id": "educator#educator__2"
+    },
+    {
+      "comment": "the [status]{status} of a [senior_1]{senior} [member]{member} of a [university]{university} or [college]{college}",
+      "entry": "fellowship",
+      "id": "fellowship#fellowship__3"
+    },
+    {
+      "comment": "a teacher at a U.S. college or university who has the highest status and has the right to keep their job as long as they want. An associate professor has a lower rank than a full professor, and an assistant professor has a lower rank than an associate professor.",
+      "entry": "full professor",
+      "id": "full-professor#full-professor__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [teach]{teach} a [skill]{skill} or a [sport_1]{sport}",
+      "entry": "instructor",
+      "id": "instructor#instructor__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [teach]{teach} [student]{students} at [school_1]{school} or to [help_1]{help} with [teaching]{teaching} at [university]{university}",
+      "entry": "instructor",
+      "id": "instructor#instructor__5"
+    },
+    {
+      "comment": "someone who is [employ_1]{employed} by a [foreign]{foreign} [university]{university} to [teach]{teach} in their own [language]{language}",
+      "entry": "lector",
+      "id": "lector#lector__3"
+    },
+    {
+      "comment": "someone who [give_1]{gives} a [lecture_1]{lecture}",
+      "entry": "lecturer",
+      "id": "lecturer#lecturer__1"
+    },
+    {
+      "comment": "a [teacher]{teacher} at a [university]{university} or [college]{college}",
+      "entry": "lecturer",
+      "id": "lecturer#lecturer__3"
+    },
+    {
+      "comment": "the [job_1]{job} of a [lecturer]{lecturer}",
+      "entry": "lectureship",
+      "id": "lectureship#lectureship__1"
+    },
+    {
+      "comment": "a [professor]{professor}",
+      "entry": "prof",
+      "id": "prof_1#prof_1__1"
+    },
+    {
+      "comment": "a teacher in a college or university. Someone begins as an assistant professor, then becomes an associate professor, and finally a full professor",
+      "entry": "professor",
+      "id": "professor#professor__1"
+    },
+    {
+      "comment": "a senior teacher in a college or university. Someone begins as a lecturer, then becomes a senior lecturer, then sometimes a reader, and finally a professor.",
+      "entry": "professor",
+      "id": "professor#professor__6"
+    },
+    {
+      "comment": "the job of being a professor, or the period of time that someone has this job",
+      "entry": "professorship",
+      "id": "professorship#professorship__1"
+    },
+    {
+      "comment": "someone who teaches in a university in the U.K. with a position just below that of a professor",
+      "entry": "reader",
+      "id": "reader#reader__12"
+    },
+    {
+      "comment": "the job of being a reader in a university in the U.K.",
+      "entry": "readership",
+      "id": "readership#readership__4"
+    },
+    {
+      "comment": "a [professor]{professor} from one [university]{university} who is [teaching]{teaching} in another [university]{university} for a [short_1]{short} [period_1]{period}",
+      "entry": "visiting professor",
+      "id": "visiting-professor#visiting-professor__1"
+    }
+  ],
+  "thesaurus": "Teachers in college or university",
+  "type": "Related words"
+}

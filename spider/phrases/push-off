@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "push off",
+  "senses": [
+    {
+      "def": "if a [person]{person} or [boat]{boat} [push_1]{pushes} off, or if you [push_1]{push} a [boat]{boat} off, you [sail_1]{sail} [away_1]{away} from the [land_1]{land}",
+      "examples": [
+        "I [drag_1]{dragged} the [boat]{boat} down to the [water_1]{water} and [pushed]{pushed} off."
+      ],
+      "id": "push-off__1"
+    },
+    {
+      "def": "to [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "I\u2019ll [wait_1]{wait} ten [minute_1]{minutes} more; then I\u2019ll [push_1]{push} off for [home_1]{home}."
+      ],
+      "id": "push-off__3"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone [rude#rude__11]{rudely} and [angrily]{angrily} to go [away_1]{away}",
+      "examples": [
+        "[push_1]{Push} off, and [leave_1]{leave} me alone!"
+      ],
+      "id": "push-off__5"
+    }
+  ]
+}

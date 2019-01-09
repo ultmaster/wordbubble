@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "a product or group of products that has its own name and is made by one particular company. The word for a machine or vehicle made by one particular company is a make",
+      "entry": "brand",
+      "id": "brand_1#brand_1__1"
+    },
+    {
+      "comment": "the [product]{product} that more [people_1]{people} [buy_1]{buy} than any other [product]{product} of its [type_1]{type}",
+      "entry": "brand leader",
+      "id": "brand-leader#brand-leader__1"
+    },
+    {
+      "comment": "the name that a company chooses for its particular brand of product",
+      "entry": "brand name",
+      "id": "brand-name_1#brand-name_1__1"
+    },
+    {
+      "comment": "a [product]{product} that is made as a [result_1]{result} of [making]{making} another [product]{product}",
+      "entry": "byproduct",
+      "id": "byproduct#byproduct__1"
+    },
+    {
+      "comment": "something that can be [bought]{bought} and [sold]{sold}, [especially]{especially} a [basic_1]{basic} [food]{food} [product]{product} or [fuel_1]{fuel}",
+      "entry": "commodity",
+      "id": "commodity#commodity__1"
+    },
+    {
+      "comment": "something that has [developed]{developed} or been [obtain]{obtained} from something else",
+      "entry": "derivative",
+      "id": "derivative_1#derivative_1__1"
+    },
+    {
+      "comment": "the thing that is [produce_1]{produced} at the [end_1]{end} of a [process_1]{process}",
+      "entry": "end product",
+      "id": "end-product#end-product__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [product]{products} that were made at about the same time, [intended_1]{intended} as an [improvement]{improvement} on those that came before them",
+      "entry": "generation",
+      "id": "generation#generation__12"
+    },
+    {
+      "comment": "several [product]{products} [form_2]{forming} a [set_1]{set}, for [example]{example} because they are all of the same [type_1]{type} or are all [produce_1]{produced} by the same [company]{company}",
+      "entry": "line",
+      "id": "line_1#line_1__64"
+    },
+    {
+      "comment": "all the [different]{different} [product]{products} that a [company]{company} [produce_1]{produces}",
+      "entry": "lineup",
+      "id": "lineup#lineup__9"
+    },
+    {
+      "comment": "a [product]{product} made by a [particular_1]{particular} [company]{company}",
+      "entry": "make",
+      "id": "make_2#make_2__1"
+    },
+    {
+      "comment": "a [product]{product} that is [bought]{bought} by more [people_1]{people} than any other of its [type_1]{type}",
+      "entry": "market leader",
+      "id": "market-leader#market-leader__2"
+    },
+    {
+      "comment": "a [new]{new} [product]{product}, such as a [website]{website} or an [app_1]{app}, which has enough [feature_1]{features} and [functionality]{functionality} for [initial_1]{initial} [user]{users} whose [feedback]{feedback} will [help_1]{help} [complete_1]{complete} the [development]{development} of the [product]{product}; also [call_1]{called} MVP",
+      "entry": "minimum viable product",
+      "id": "minimum-viable-product#minimum-viable-product__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [vehicle]{vehicle} or [machine_1]{machine} that a [company]{company} [make_1]{makes}",
+      "entry": "model",
+      "id": "model_1#model_1__16"
+    },
+    {
+      "comment": "[minimum_1]{minimum} [viable]{viable} [product]{product}: a [new]{new} [product]{product}, such as a [website]{website} or [app_1]{app}, that has enough [feature_1]{features} and [functionality]{functionality} for [initial_1]{initial} [user]{users} whose [feedback]{feedback} will [help_1]{help} [complete_1]{complete} the [development]{development} of the [product]{product}",
+      "entry": "MVP",
+      "id": "mvp#mvp__2"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [production]{production} of something in [large_1]{large} [amount_1]{amounts}, [especially]{especially} [book_1]{books}, [poem]{poems}, [music]{music}, etc.",
+      "entry": "outpouring",
+      "id": "outpouring#outpouring__3"
+    },
+    {
+      "comment": "[material_1]{materials}, [equipment]{equipment}, and other [goods]{goods} that are [used]{used} to [make_1]{make} a [product]{product} that is [sold]{sold} to [customer]{customers}",
+      "entry": "producer goods",
+      "id": "producer-goods#producer-goods__1"
+    },
+    {
+      "comment": "something [produce_1]{produced} as a [result_1]{result} of a [process_1]{process} or system",
+      "entry": "product",
+      "id": "product#product__4"
+    },
+    {
+      "comment": "the first form of something [new]{new}, made before it is [produce_1]{produced} in [large_1]{large} [quantity]{quantities}",
+      "entry": "prototype",
+      "id": "prototype#prototype__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [related_1]{related} [product]{products}, [especially]{especially} [car]{cars}, made with the same [basic_1]{basic} [design_1]{design} by a [particular_1]{particular} [company]{company}",
+      "entry": "series",
+      "id": "series#series__9"
+    },
+    {
+      "comment": "[thing]{things} that are [bought]{bought} and [sold]{sold} that are not [metal_1]{metals}, for [example]{example} [coffee]{coffee}, [sugar_1]{sugar}, and [cotton_1]{cotton}",
+      "entry": "soft commodities",
+      "id": "soft-commodities#soft-commodities__1"
+    },
+    {
+      "comment": "[cloth]{cloth} and [thing]{things} made from [cloth]{cloth}, for [example]{example} [clothes]{clothes}",
+      "entry": "soft goods",
+      "id": "soft-goods#soft-goods__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [product]{products}",
+      "entry": "suite",
+      "id": "suite#suite__9"
+    },
+    {
+      "comment": "an [example]{example} of a [product]{product} that you can [try_1]{try} in [order_1]{order} to [decide]{decide} whether to [buy_1]{buy} it",
+      "entry": "tester",
+      "id": "tester#tester__3"
+    },
+    {
+      "comment": "a [single_1]{single} [example]{example} of a [product]{product} that a [company]{company} [make_1]{makes} in [large_1]{large} [number_1]{numbers}",
+      "entry": "unit",
+      "id": "unit#unit__21"
+    },
+    {
+      "comment": "a [typical]{typical} [object_1]{object} made in [large_1]{large} [number_1]{numbers} in a [factory]{factory}",
+      "entry": "widget",
+      "id": "widget#widget__2"
+    }
+  ],
+  "thesaurus": "Products and groups of products",
+  "type": "Related words"
+}

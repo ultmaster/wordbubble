@@ -1,0 +1,141 @@
+{
+  "entries": [
+    {
+      "comment": "an [item]{item} of [text_1]{text} or [media]{media} that has been put into a [digital]{digital} form that [include]{includes} the [right_1]{right} to use it",
+      "entry": "asset",
+      "id": "asset#asset__3"
+    },
+    {
+      "comment": "a [list_1]{list} of all the [book_1]{books} that a [company]{company} has [publish]{published} in the [past_1]{past} that are still [available]{available}",
+      "entry": "backlist",
+      "id": "backlist#backlist__1"
+    },
+    {
+      "comment": "a [list_1]{list} of [book_1]{books}, [article]{articles}, etc. that have been [publish]{published} on a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "bibliography",
+      "id": "bibliography#bibliography__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [compile]{compiling} a [book_1]{book} [use_1]{using} [different]{different} [piece_1]{pieces} of [information]{information} or [fact]{facts}",
+      "entry": "compilation",
+      "id": "compilation#compilation__3"
+    },
+    {
+      "comment": "the legal right to have control over the work of a writer, artist, musician, etc. If you own the copyright on something, it is your intellectual property, and other people must pay you to broadcast, publish, or perform it",
+      "entry": "copyright",
+      "id": "copyright_1#copyright_1__1"
+    },
+    {
+      "comment": "to [obtain]{obtain} or [claim_1]{claim} the [copyright_1]{copyright} of the [work_1]{work} of a [writer]{writer}, [artist]{artist}, [musician]{musician}, etc.",
+      "entry": "copyright",
+      "id": "copyright_2#copyright_2__1"
+    },
+    {
+      "comment": "[controlled_1]{controlled} or [protected]{protected} by [copyright_1]{copyright}",
+      "entry": "copyright",
+      "id": "copyright_3#copyright_3__1"
+    },
+    {
+      "comment": "control over the ways in which material used in digital formats can be used, for example making sure that people cannot copy or change it. Digital rights management is often simply called DRM.",
+      "entry": "digital rights management",
+      "id": "digital-rights-management#digital-rights-management__1"
+    },
+    {
+      "comment": "[digital]{digital} [right_3]{rights} [management]{management}: [control_1]{control} over the ways in which [material_1]{material} [used]{used} in [digital]{digital} [format_1]{formats} can be [used]{used}, for [example]{example} [making]{making} [sure_1]{sure} that [people_1]{people} cannot [copy_1]{copy} or [change_1]{change} it",
+      "entry": "DRM",
+      "id": "drm#drm__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [book_1]{book} or [document_1]{document} ready to be [publish]{published} by [correct_2]{correcting} the [mistake_1]{mistakes} and [making]{making} other [change_1]{changes}",
+      "entry": "edit",
+      "id": "edit_1#edit_1__1"
+    },
+    {
+      "comment": "a set of copies of a book that are published at the same time. A new edition of a book is different in some way from the edition before. A set of copies that are exactly the same as the set before is called a reprint",
+      "entry": "edition",
+      "id": "edition#edition__5"
+    },
+    {
+      "comment": "a [book_1]{book}, [magazine]{magazine}, etc. that is in [print_1]{print} is still [available]{available} to [buy_1]{buy} from its [publisher]{publisher}",
+      "entry": "in print",
+      "id": "in-print#in-print__3"
+    },
+    {
+      "comment": "[print_1]{printed} in a [book_1]{book}, [magazine]{magazine} or [newspaper]{newspaper}",
+      "entry": "in print",
+      "id": "in-print#in-print__1"
+    },
+    {
+      "comment": "[international_1]{International} [standard_1]{Standard} [book_1]{Book} [number_1]{Number}: an [individual_1]{individual} [number_1]{number} [given_1]{given} to every [book_1]{book} that is [publish]{published}",
+      "entry": "ISBN",
+      "id": "isbn#isbn__1"
+    },
+    {
+      "comment": "a [writer]{writer}\u2019s [original_1]{original} [page_1]{pages} of a [book_1]{book}, [article]{article}, or [document_1]{document} before it is [publish]{published}",
+      "entry": "manuscript",
+      "id": "manuscript#manuscript__1"
+    },
+    {
+      "comment": "a [book_1]{book}, [magazine]{magazine}, etc. that is out of [print_1]{print} is no [long_1]{longer} being [publish]{published}",
+      "entry": "out of print",
+      "id": "out-of-print#out-of-print__1"
+    },
+    {
+      "comment": "[publish]{published} after a [writer]{writer}\u2019s [death]{death}",
+      "entry": "posthumous",
+      "id": "posthumous#posthumous__3"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [printing]{printing} [newspaper]{newspapers}, [book_1]{books}, or [magazine]{magazines}",
+      "entry": "press",
+      "id": "press_1#press_1__11"
+    },
+    {
+      "comment": "anything that you read in a [book_1]{book}, [magazine]{magazine}, [newspaper]{newspaper}, etc.",
+      "entry": "the printed word",
+      "id": "the-printed-word#the-printed-word__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [copy_1]{copies} of something such as a [book_1]{book} or [newspaper]{newspaper} that are [print_1]{printed} at one time",
+      "entry": "printing",
+      "id": "printing#printing__5"
+    },
+    {
+      "comment": "a [machine_1]{machine} that is [used]{used} for [printing]{printing} [newspaper]{newspapers}, [book_1]{books}, [magazine]{magazines}, etc.",
+      "entry": "printing press",
+      "id": "printing-press#printing-press__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [copy_1]{copies} of a [book_1]{book} or [magazine]{magazine} that are [print_1]{printed} and [publish]{published} at one time",
+      "entry": "print run",
+      "id": "print-run#print-run__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [produce_1]{producing} a [book_1]{book}, [magazine]{magazine}, etc. for [people_1]{people} to [buy_1]{buy}",
+      "entry": "publication",
+      "id": "publication#publication__1"
+    },
+    {
+      "comment": "something such as a book, play, or piece of software that is in the public domain can be used by anyone and is not protected by copyright  (=a law that gives only one person the right to produce, sell, or use something)",
+      "entry": "public domain",
+      "id": "public-domain#public-domain__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [book_1]{book} is [reprint_1]{reprinted}",
+      "entry": "reprint",
+      "id": "reprint_2#reprint_2__2"
+    },
+    {
+      "comment": "the [legal]{legal} [authority]{authority} to [publish]{publish} a [book_1]{book}, [play_1]{play}, [movie]{movie}, [piece_1]{piece} of [music]{music}, etc. or to use it for a [performance]{performance} or [production]{production}",
+      "entry": "rights",
+      "id": "right_3#right_3__12"
+    },
+    {
+      "comment": "a [set_1]{set} of [book_1]{books}, [document_1]{documents}, etc. that are [publish]{published} with the same [design_1]{design} in [order_1]{order} to show that they [belong]{belong} to the same [group_1]{group}",
+      "entry": "series",
+      "id": "series#series__7"
+    }
+  ],
+  "thesaurus": "Relating to the business of publishing",
+  "type": "Related words"
+}

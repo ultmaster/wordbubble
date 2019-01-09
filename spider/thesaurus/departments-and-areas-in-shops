@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area} in a [large_1]{large} [store_1]{store} where you can [buy_1]{buy} [thing]{things} at low [price_1]{prices}, often [thing]{things} of low [quality_1]{quality}",
+      "entry": "bargain basement",
+      "id": "bargain-basement#bargain-basement__1"
+    },
+    {
+      "comment": "a [fitting_1]{fitting} [room_1]{room} at a [store_1]{store}",
+      "entry": "changing room",
+      "id": "changing-room#changing-room__2"
+    },
+    {
+      "comment": "the [place_1]{place} where you [pay_1]{pay} in a [supermarket]{supermarket} or other [large_1]{large} [store_1]{store}",
+      "entry": "checkout",
+      "id": "checkout#checkout__1"
+    },
+    {
+      "comment": "a [cold_1]{cold} [room_1]{room} for [store_2]{storing} [food]{food} in a [store_1]{store} or [restaurant]{restaurant}",
+      "entry": "cold store",
+      "id": "cold-store#cold-store__1"
+    },
+    {
+      "comment": "a long [flat_1]{flat} [surface_1]{surface} where [customer]{customers} are [serve_1]{served}, for [example]{example} in a [store_1]{store} or a [bank_1]{bank}",
+      "entry": "counter",
+      "id": "counter_1#counter_1__1"
+    },
+    {
+      "comment": "an [area]{area} in a [large_1]{large} [store_1]{store} that [sell_1]{sells} a [particular_1]{particular} [type_1]{type} of [goods]{goods}",
+      "entry": "department",
+      "id": "department#department__5"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} in a [clothing]{clothing} [store_1]{store} for [trying]{trying} on [clothes]{clothes}",
+      "entry": "dressing room",
+      "id": "dressing-room#dressing-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [clothing]{clothing} [store_1]{store} where you can put on [clothes]{clothes} before you [buy_1]{buy} them",
+      "entry": "fitting room",
+      "id": "fitting-room#fitting-room__1"
+    },
+    {
+      "comment": "the [thing]{things} that [people_1]{people} use when they are [making]{making} or [repair_1]{repairing} [clothes]{clothes}, or the part of a [large_1]{large} [store_1]{store} that [sell_1]{sells} [buttons]{buttons}, [needle_1]{needles}, etc.",
+      "entry": "haberdashery",
+      "id": "haberdashery#haberdashery__2"
+    },
+    {
+      "comment": "the [department]{department} of a [large_1]{large} [store_1]{store} that [sell_1]{sells} [clothes]{clothes} for [men]{men}",
+      "entry": "menswear",
+      "id": "menswear#menswear__2"
+    },
+    {
+      "comment": "a part of a [restaurant]{restaurant} or [supermarket]{supermarket} where you can get a [salad]{salad} or [food]{food} for [making]{making} a [salad]{salad}",
+      "entry": "salad bar",
+      "id": "salad-bar#salad-bar__1"
+    },
+    {
+      "comment": "a [storefront]{storefront}",
+      "entry": "shop front",
+      "id": "shop-front#shop-front__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [store_1]{store} or [office]{office} in which [goods]{goods} are [store_2]{stored}",
+      "entry": "stockroom",
+      "id": "stockroom#stockroom__1"
+    },
+    {
+      "comment": "the front of a [store_1]{store} that [face_1]{faces} the [street_1]{street}, where some [thing]{things} that are [sold]{sold} in the [store_1]{store} are [shown]{shown}",
+      "entry": "storefront",
+      "id": "storefront#storefront__1"
+    },
+    {
+      "comment": "a [similar]{similar} [frame_1]{frame} in a [store_1]{store}, [used]{used} [especially]{especially} for [showing]{showing} [goods]{goods} to the [public_1]{public}",
+      "entry": "window",
+      "id": "window#window__8"
+    }
+  ],
+  "thesaurus": "Departments and areas in shops",
+  "type": "Related words"
+}

@@ -1,0 +1,356 @@
+{
+  "entries": [
+    {
+      "comment": "an [exact_1]{exact} [position_1]{position}, [usually]{usually} [measured]{measured} from [north_1]{north}",
+      "entry": "bearing",
+      "id": "bearing#bearing__5"
+    },
+    {
+      "comment": "one of the four main points on a compass  (=a piece of equipment that shows direction)",
+      "entry": "cardinal point",
+      "id": "cardinal-point#cardinal-point__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [find_1]{finding} your way, with a [needle_1]{needle} that always [point_1]{points} [north_1]{north}",
+      "entry": "compass",
+      "id": "compass#compass__1"
+    },
+    {
+      "comment": "[directly_1]{directly} toward the [north_1]{north}, [south_1]{south}, east, or [west_1]{west}",
+      "entry": "due north/south/east/west",
+      "id": "due_3#due_3__2"
+    },
+    {
+      "comment": "East",
+      "entry": "E.",
+      "id": "e_3#e_3__1"
+    },
+    {
+      "comment": "[eastern]{Eastern}",
+      "entry": "E.",
+      "id": "e_3#e_3__2"
+    },
+    {
+      "comment": "toward the east",
+      "entry": "east",
+      "id": "east_2#east_2__1"
+    },
+    {
+      "comment": "in the east, or [facing]{facing} toward the east",
+      "entry": "east",
+      "id": "east_3#east_3__1"
+    },
+    {
+      "comment": "the [direction]{direction} that is in front of you when you are [facing]{facing} the [rising]{rising} [sun_1]{sun}, and is [usually]{usually} at the [right_1]{right} on a [map_1]{map}",
+      "entry": "the east",
+      "id": "east_1#east_1__1"
+    },
+    {
+      "comment": "toward or in the east",
+      "entry": "easterly",
+      "id": "easterly_1#easterly_1__2"
+    },
+    {
+      "comment": "[farthest_1]{farthest} toward the east",
+      "entry": "easternmost",
+      "id": "easternmost#easternmost__1"
+    },
+    {
+      "comment": "toward the east",
+      "entry": "eastward",
+      "id": "eastward_1#eastward_1__1"
+    },
+    {
+      "comment": "toward or in the east",
+      "entry": "eastward",
+      "id": "eastward_2#eastward_2__1"
+    },
+    {
+      "comment": "[eastward_1]{eastward}",
+      "entry": "eastwards",
+      "id": "eastwards#eastwards__1"
+    },
+    {
+      "comment": "the direction shown as north by a compass that is slightly different from true north",
+      "entry": "magnetic north",
+      "id": "magnetic-north#magnetic-north__1"
+    },
+    {
+      "comment": "a place on the Earth near the North Pole or the South Pole that a compass points toward",
+      "entry": "magnetic pole",
+      "id": "magnetic-pole#magnetic-pole__1"
+    },
+    {
+      "comment": "[north_1]{north}",
+      "entry": "N.",
+      "id": "n_3#n_3__1"
+    },
+    {
+      "comment": "[northern]{northern}",
+      "entry": "N.",
+      "id": "n_3#n_3__2"
+    },
+    {
+      "comment": "[northeast_1]{northeast}",
+      "entry": "NE",
+      "id": "ne#ne__2"
+    },
+    {
+      "comment": "[northeastern]{northeastern}",
+      "entry": "NE",
+      "id": "ne#ne__3"
+    },
+    {
+      "comment": "toward the [north_1]{north}",
+      "entry": "north",
+      "id": "north_2#north_2__1"
+    },
+    {
+      "comment": "in the [north_1]{north}, or [look_1]{looking} toward the [north_1]{north}",
+      "entry": "north",
+      "id": "north_3#north_3__1"
+    },
+    {
+      "comment": "the [direction]{direction} that is on your [left_1]{left} when you are [look_1]{looking} at the [sun_1]{sun} when it [rise_1]{rises}, and is [usually]{usually} at the top of a [map_1]{map}",
+      "entry": "the north",
+      "id": "north_1#north_1__1"
+    },
+    {
+      "comment": "the [direction]{direction} that is between [north_1]{north} and east",
+      "entry": "northeast",
+      "id": "northeast_1#northeast_1__1"
+    },
+    {
+      "comment": "in the [northeast_1]{northeast}, or [facing]{facing} toward the [northeast_1]{northeast}",
+      "entry": "northeast",
+      "id": "northeast_2#northeast_2__1"
+    },
+    {
+      "comment": "toward or in the [northeast_1]{northeast}",
+      "entry": "northeasterly",
+      "id": "northeasterly#northeasterly__1"
+    },
+    {
+      "comment": "in or from the [northeast_1]{northeast} of a [country]{country} or [region]{region}",
+      "entry": "northeastern",
+      "id": "northeastern#northeastern__1"
+    },
+    {
+      "comment": "toward or in the [north_1]{north}",
+      "entry": "northerly",
+      "id": "northerly#northerly__1"
+    },
+    {
+      "comment": "[farthest_1]{farthest} [north_1]{north}",
+      "entry": "northernmost",
+      "id": "northernmost#northernmost__1"
+    },
+    {
+      "comment": "toward or in the [north_1]{north}",
+      "entry": "northward",
+      "id": "northward#northward__1"
+    },
+    {
+      "comment": "toward the [north_1]{north}",
+      "entry": "northwards",
+      "id": "northwards#northwards__1"
+    },
+    {
+      "comment": "in the [northwest_1]{northwest}, or [facing]{facing} towards the [northwest_1]{northwest}",
+      "entry": "northwest",
+      "id": "northwest_2#northwest_2__1"
+    },
+    {
+      "comment": "toward or in the [northwest_1]{northwest}",
+      "entry": "northwesterly",
+      "id": "northwesterly#northwesterly__1"
+    },
+    {
+      "comment": "in or from the [northwest_1]{northwest} of a [country]{country} or [region]{region}",
+      "entry": "northwestern",
+      "id": "northwestern#northwestern__1"
+    },
+    {
+      "comment": "[northwest_1]{northwest}",
+      "entry": "NW",
+      "id": "nw#nw__1"
+    },
+    {
+      "comment": "[northwestern]{northwestern}",
+      "entry": "NW",
+      "id": "nw#nw__2"
+    },
+    {
+      "comment": "one of the 32 marks on a compass that show direction",
+      "entry": "point",
+      "id": "point_1#point_1__39"
+    },
+    {
+      "comment": "[south_1]{South}",
+      "entry": "S.",
+      "id": "s_3#s_3__1"
+    },
+    {
+      "comment": "[southern]{Southern}",
+      "entry": "S.",
+      "id": "s_3#s_3__3"
+    },
+    {
+      "comment": "[south_1]{south} east",
+      "entry": "SE",
+      "id": "se#se__1"
+    },
+    {
+      "comment": "toward the [south_1]{south}",
+      "entry": "south",
+      "id": "south_2#south_2__1"
+    },
+    {
+      "comment": "in the [south_1]{south}, or [facing]{facing} toward the [south_1]{south}",
+      "entry": "south",
+      "id": "south_3#south_3__1"
+    },
+    {
+      "comment": "the [direction]{direction} that is on your [right_1]{right} when you are [facing]{facing} the [rising]{rising} [sun_1]{sun} and is [usually]{usually} on the bottom of a [map_1]{map}",
+      "entry": "the south",
+      "id": "south_1#south_1__1"
+    },
+    {
+      "comment": "the [direction]{direction} that is between [south_1]{south} and east",
+      "entry": "southeast",
+      "id": "southeast_1#southeast_1__1"
+    },
+    {
+      "comment": "in the [southeast_1]{southeast}, or [facing]{facing} toward the [southeast_1]{southeast}",
+      "entry": "southeast",
+      "id": "southeast_2#southeast_2__1"
+    },
+    {
+      "comment": "toward or in the [southeast_1]{southeast}",
+      "entry": "southeasterly",
+      "id": "southeasterly#southeasterly__1"
+    },
+    {
+      "comment": "toward or in the [south_1]{south}",
+      "entry": "southerly",
+      "id": "southerly#southerly__1"
+    },
+    {
+      "comment": "in or from the [south_1]{south} of a [country]{country} or [region]{region}",
+      "entry": "southern",
+      "id": "southern#southern__1"
+    },
+    {
+      "comment": "[farthest_1]{farthest} [south_1]{south}",
+      "entry": "southernmost",
+      "id": "southernmost#southernmost__1"
+    },
+    {
+      "comment": "toward the [south_1]{south}",
+      "entry": "southward",
+      "id": "southward#southward__1"
+    },
+    {
+      "comment": "the [direction]{direction} that is between [south_1]{south} and [west_1]{west}",
+      "entry": "southwest",
+      "id": "southwest_1#southwest_1__1"
+    },
+    {
+      "comment": "toward or in the [southwest_1]{southwest}",
+      "entry": "southwest",
+      "id": "southwest_2#southwest_2__1"
+    },
+    {
+      "comment": "toward or in the [southwest_1]{southwest}",
+      "entry": "southwesterly",
+      "id": "southwesterly#southwesterly__1"
+    },
+    {
+      "comment": "[south_1]{South}",
+      "entry": "Sth.",
+      "id": "sth#sth__1"
+    },
+    {
+      "comment": "[southwest_1]{southwest}",
+      "entry": "SW",
+      "id": "sw#sw__1"
+    },
+    {
+      "comment": "southwestern",
+      "entry": "SW",
+      "id": "sw#sw__2"
+    },
+    {
+      "comment": "to find out where you are or what direction you are going in, using a special instrument such as a compass",
+      "entry": "take a bearing",
+      "id": "take-a-bearing#take-a-bearing__1"
+    },
+    {
+      "comment": "the north of the Earth calculated according to the Earth\u2019s axis  (=the imaginary line through its center that it turns around)",
+      "entry": "true north",
+      "id": "true-north#true-north__1"
+    },
+    {
+      "comment": "to the [north_1]{north}",
+      "entry": "upper",
+      "id": "upper_1#upper_1__11"
+    },
+    {
+      "comment": "[west_1]{West}",
+      "entry": "W.",
+      "id": "w_2#w_2__2"
+    },
+    {
+      "comment": "[western_1]{Western}",
+      "entry": "W.",
+      "id": "w_2#w_2__3"
+    },
+    {
+      "comment": "the [direction]{direction} that is behind you when you are [look_1]{looking} at the [rising]{rising} [sun_1]{sun}, [usually]{usually} on the [left_1]{left} on a [map_1]{map}",
+      "entry": "the west",
+      "id": "west_1#west_1__1"
+    },
+    {
+      "comment": "toward the [west_1]{west}",
+      "entry": "west",
+      "id": "west_2#west_2__1"
+    },
+    {
+      "comment": "in the [west_1]{west}, or [facing]{facing} toward the [west_1]{west}",
+      "entry": "west",
+      "id": "west_3#west_3__1"
+    },
+    {
+      "comment": "toward or in the [west_1]{west}",
+      "entry": "westerly",
+      "id": "westerly#westerly__1"
+    },
+    {
+      "comment": "in or from the [west_1]{west} of a [country]{country} or [place_1]{place}",
+      "entry": "western",
+      "id": "western_1#western_1__1"
+    },
+    {
+      "comment": "[farthest_1]{farthest} [west_1]{west}",
+      "entry": "westernmost",
+      "id": "westernmost#westernmost__1"
+    },
+    {
+      "comment": "toward the [west_1]{west}",
+      "entry": "westward",
+      "id": "westward_1#westward_1__1"
+    },
+    {
+      "comment": "toward or in the [west_1]{west}",
+      "entry": "westward",
+      "id": "westward_2#westward_2__1"
+    },
+    {
+      "comment": "[westward_1]{westward}",
+      "entry": "westwards",
+      "id": "westwards#westwards__1"
+    }
+  ],
+  "thesaurus": "The compass and points of the compass",
+  "type": "Related words"
+}

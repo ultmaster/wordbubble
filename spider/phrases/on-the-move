@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "on the move",
+  "senses": [
+    {
+      "def": "[traveling]{traveling} from [place_1]{place} to [place_1]{place}",
+      "examples": [
+        "We\u2019ll be on the move next [week]{week}, so you [won]{won}\u2019t be [able_1]{able} to [reach_1]{reach} us."
+      ],
+      "id": "on-the-move__1"
+    },
+    {
+      "def": "[busy_1]{busy} or [active]{active} all the time",
+      "examples": [
+        "He\u2019s always on the move and never has time to [talk_1]{talk}."
+      ],
+      "id": "on-the-move__3"
+    },
+    {
+      "def": "[developing]{developing} or [progress_2]{progressing} [quickly]{quickly}",
+      "examples": [
+        "It\u2019s an [industry]{industry} on the move."
+      ],
+      "id": "on-the-move__5"
+    }
+  ]
+}

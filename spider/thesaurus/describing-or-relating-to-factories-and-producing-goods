@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "[use_1]{using} [machine_1]{machines} or done by [machine_1]{machines}, [instead]{instead} of [people_1]{people}",
+      "entry": "automated",
+      "id": "automated#automated__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [factory]{factory} or [working]{working} in a [factory]{factory}",
+      "entry": "factory",
+      "id": "factory#factory__4"
+    },
+    {
+      "comment": "[relate]{relating} to [industry]{industry}",
+      "entry": "industrial",
+      "id": "industrial#industrial__1"
+    },
+    {
+      "comment": "[belong]{belonging} to or [connected]{connected} with [industry]{industry}",
+      "entry": "industry",
+      "id": "industry#industry__7"
+    },
+    {
+      "comment": "[manufacturing]{manufacturing}",
+      "entry": "mfg.",
+      "id": "mfg#mfg__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [making]{making} [product]{products} that will [quickly]{quickly} become [old-fashioned_2]{old-fashioned}, or will not last long, so that [people_1]{people} will [need_1]{need} to [replace]{replace} them",
+      "entry": "planned obsolescence",
+      "id": "planned-obsolescence#planned-obsolescence__1"
+    },
+    {
+      "comment": "a [series]{series} of [action_1]{actions} [used]{used} to [make_1]{make} a [product]{product}, or to [treat_1]{treat} it with [chemical_1]{chemicals}",
+      "entry": "process",
+      "id": "process_1#process_1__7"
+    },
+    {
+      "comment": "the amount of something that is made for [sale]{sale}, [especially]{especially} in a [factory]{factory}",
+      "entry": "production",
+      "id": "production#production__6"
+    },
+    {
+      "comment": "[relate]{relating} to [production]{production}",
+      "entry": "production",
+      "id": "production#production__8"
+    },
+    {
+      "comment": "[making]{making} or [growing]{growing} [thing]{things} in [large_1]{large} [quantity]{quantities}, [especially]{especially} so that they can be [sold]{sold}",
+      "entry": "productive",
+      "id": "productive#productive__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [production]{production} of [thing]{things} that can be [sold]{sold}",
+      "entry": "productive",
+      "id": "productive#productive__5"
+    },
+    {
+      "comment": "the [activity]{activity} of [examine]{examining} and [copy_2]{copying} a [product]{product} [developed]{developed} by another [company]{company} in [order_1]{order} to [make_1]{make} your own [product]{product}",
+      "entry": "reverse engineering",
+      "id": "reverse-engineering#reverse-engineering__1"
+    },
+    {
+      "comment": "the amount of something that a [company]{company} or [factory]{factory} [produce_1]{produces} at one time",
+      "entry": "run",
+      "id": "run_2#run_2__16"
+    },
+    {
+      "comment": "a [series]{series} of [process_1]{processes} [involved]{involved} in [supply_2]{supplying} a [product]{product} to someone",
+      "entry": "supply chain",
+      "id": "supply-chain#supply-chain__1"
+    },
+    {
+      "comment": "the time that it [take_1]{takes} a [company]{company} or an [institution]{institution} to [complete_1]{complete} a [process_1]{process}",
+      "entry": "turnaround",
+      "id": "turnaround#turnaround__2"
+    },
+    {
+      "comment": "the time when something was [produce_1]{produced}",
+      "entry": "vintage",
+      "id": "vintage_2#vintage_2__3"
+    },
+    {
+      "comment": "[produce_1]{producing} a [lot_1]{lot} or a [little_1]{little} of something",
+      "entry": "yielding",
+      "id": "yielding#yielding__3"
+    }
+  ],
+  "thesaurus": "Describing or relating to factories and producing goods",
+  "type": "Related words"
+}

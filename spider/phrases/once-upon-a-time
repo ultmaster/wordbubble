@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "once upon a time",
+  "senses": [
+    {
+      "def": "[used]{used} for [start_1]{starting} [children]{children}\u2019s [story]{stories}",
+      "examples": [
+        "Once upon a time, in a [faraway]{faraway} [land_1]{land}, [live_1]{lived} a [beautiful]{beautiful} [princess]{princess}."
+      ],
+      "id": "once-upon-a-time__1"
+    },
+    {
+      "def": "[used]{used} for [talk_1]{talking} about a [situation]{situation} that [exist]{existed} in the [past_1]{past} but no [long_1]{longer} [exist]{exists}, [especially]{especially} when it was [better_1]{better} than the [situation]{situation} now",
+      "examples": [
+        "Once upon a time, you could [leave_1]{leave} your [door_1]{doors} [unlock]{unlocked} at [night_1]{night} and not [worry_1]{worry} about someone [b-boying]{breaking} in."
+      ],
+      "id": "once-upon-a-time__3"
+    }
+  ]
+}

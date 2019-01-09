@@ -1,0 +1,196 @@
+{
+  "entries": [
+    {
+      "comment": "a [building]{building} where [weapon]{weapons} are [kept]{kept}",
+      "entry": "armory",
+      "id": "armory#armory__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [armory]{armory}",
+      "entry": "armoury",
+      "id": "armoury#armoury__2"
+    },
+    {
+      "comment": "a [building]{building} [used]{used} for [store_2]{storing} [guns]{guns} and [military]{military} [equipment]{equipment}",
+      "entry": "arsenal",
+      "id": "arsenal#arsenal__3"
+    },
+    {
+      "comment": "a [building]{building} or [shelter_1]{shelter} for [keeping]{keeping} [small_1]{small} [boat]{boats} in when they are not being [used]{used}, often at the [edge_1]{edge} of a [river]{river} or [lake]{lake}",
+      "entry": "boathouse",
+      "id": "boathouse#boathouse__1"
+    },
+    {
+      "comment": "a [government]{government} [building]{building} for [store_2]{storing} [goods]{goods} that have been [brought]{brought} into a [country]{country} before [tax_1]{tax} has been [paid_1]{paid} on them",
+      "entry": "bonded warehouse",
+      "id": "bonded-warehouse#bonded-warehouse__1"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} or [large_1]{large} [container]{container} where you [store_1]{store} [coal]{coal}",
+      "entry": "bunker",
+      "id": "bunker#bunker__5"
+    },
+    {
+      "comment": "a [room_1]{room} under a [building]{building}, below the [level_1]{level} of the [ground_1]{ground}, [usually]{usually} [used]{used} for [store_2]{storing} [thing]{things}",
+      "entry": "cellar",
+      "id": "cellar#cellar__1"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} or [space_1]{space} [built_1]{built} into a [wall_1]{wall} for [store_2]{storing} [thing]{things} such as [clothes]{clothes} or [sheet]{sheets}",
+      "entry": "closet",
+      "id": "closet_1#closet_1__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [room_1]{room} or [space_1]{space} in a [building]{building}, [usually]{usually} [used]{used} for [store_2]{storing} [thing]{things}",
+      "entry": "cubbyhole",
+      "id": "cubbyhole#cubbyhole__1"
+    },
+    {
+      "comment": "a [closet_1]{closet}",
+      "entry": "cupboard",
+      "id": "cupboard#cupboard__4"
+    },
+    {
+      "comment": "a [place_1]{place} where something is [store_2]{stored}",
+      "entry": "depository",
+      "id": "depository#depository__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} where [thing]{things} can be [store_2]{stored} until they are [need_1]{needed}",
+      "entry": "depot",
+      "id": "depot#depot__2"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} next to a [bedroom]{bedroom} where someone [keep_1]{keeps} their [clothes]{clothes} and [get]{gets} [dressed]{dressed}",
+      "entry": "dressing room",
+      "id": "dressing-room#dressing-room__3"
+    },
+    {
+      "comment": "a [building]{building} for [keeping]{keeping} a [car]{car} in, [especially]{especially} one that is [connected]{connected} to or [near_1]{near} a [house_1]{house}",
+      "entry": "garage",
+      "id": "garage_1#garage_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} for [store_2]{storing} [garden_1]{garden} [tool_1]{tools}, [bicycle]{bicycles}, and other [equipment]{equipment}",
+      "entry": "garden shed",
+      "id": "garden-shed#garden-shed__1"
+    },
+    {
+      "comment": "a [building]{building} where [grain]{grain} is [kept]{kept}",
+      "entry": "granary",
+      "id": "granary#granary__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [building]{building} where [airplane]{airplanes} are [kept]{kept}, [built_1]{built}, or [repair_1]{repaired}",
+      "entry": "hangar",
+      "id": "hangar#hangar__1"
+    },
+    {
+      "comment": "the area at the top of a farm building used for storing hay",
+      "entry": "hayloft",
+      "id": "hayloft#hayloft__1"
+    },
+    {
+      "comment": "a [cupboard]{cupboard} or [small_1]{small} [room_1]{room} where [food]{food} is [store_2]{stored}, [usually]{usually} in a [kitchen]{kitchen}",
+      "entry": "larder",
+      "id": "larder#larder__1"
+    },
+    {
+      "comment": "the upper floor in a farm building used for storing hay",
+      "entry": "loft",
+      "id": "loft_1#loft_1__3"
+    },
+    {
+      "comment": "a [space_1]{space} under the [roof_1]{roof} of a [building]{building}, often [used]{used} for [store_2]{storing} [thing]{things}",
+      "entry": "loft",
+      "id": "loft_1#loft_1__8"
+    },
+    {
+      "comment": "a [room_1]{room} or [building]{building} [used]{used} by the [military]{military} for [store_2]{storing} [bullet]{bullets} and [weapon]{weapons}",
+      "entry": "magazine",
+      "id": "magazine#magazine__7"
+    },
+    {
+      "comment": "a [separate_1]{separate} [building]{building} that [belong]{belongs} to a [house_1]{house} and is [used]{used}, for [example]{example}, for [keeping]{keeping} [animal_1]{animals} or [equipment]{equipment} in",
+      "entry": "outbuilding",
+      "id": "outbuilding#outbuilding__1"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} for [store_2]{storing} [food]{food}, [usually]{usually} next to the [kitchen]{kitchen}",
+      "entry": "pantry",
+      "id": "pantry#pantry__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [large_1]{large} [quantity]{quantities} of [thing]{things} are [store_2]{stored} or [kept]{kept} [safe_1]{safe}",
+      "entry": "repository",
+      "id": "repository#repository__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building}, [usually]{usually} made of [wood]{wood}, in which you [store_1]{store} [thing]{things}",
+      "entry": "shed",
+      "id": "shed_2#shed_2__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} where [large_1]{large} [machine_1]{machines} or [vehicle]{vehicles} are [kept]{kept}",
+      "entry": "shed",
+      "id": "shed_2#shed_2__3"
+    },
+    {
+      "comment": "a [tall]{tall} round [tower_1]{tower} on a [farm_1]{farm} [used]{used} for [store_2]{storing} [thing]{things} such as [grain]{grain}, [crop_1]{crops}, and [food]{food} for [animal_1]{animals}",
+      "entry": "silo",
+      "id": "silo#silo__1"
+    },
+    {
+      "comment": "[space_1]{space} where [thing]{things} can be [store_2]{stored}",
+      "entry": "storage",
+      "id": "storage#storage__4"
+    },
+    {
+      "comment": "a [place_1]{place} where a [supply_1]{supply} of something is [kept]{kept} until it is [need_1]{needed}",
+      "entry": "store",
+      "id": "store_1#store_1__8"
+    },
+    {
+      "comment": "the [place_1]{place} where these [supply_1]{supplies} are [kept]{kept}",
+      "entry": "store",
+      "id": "store_1#store_1__11"
+    },
+    {
+      "comment": "a [building]{building} or [room_1]{room} where [thing]{things} are [store_2]{stored}",
+      "entry": "storehouse",
+      "id": "storehouse#storehouse__1"
+    },
+    {
+      "comment": "a [room_1]{room} where [thing]{things} are [store_2]{stored}",
+      "entry": "storeroom",
+      "id": "storeroom#storeroom__1"
+    },
+    {
+      "comment": "a [room_1]{room}, often in a [bank_1]{bank}, for [protect]{protecting} [money]{money} and other [valuable]{valuable} [thing]{things} from being [stolen]{stolen} or [burn_1]{burned} in a fire",
+      "entry": "strongroom",
+      "id": "strongroom#strongroom__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building}, often made of [wood]{wood} and [usually]{usually} in a [yard]{yard}, [used]{used} for [store_2]{storing} [tool_1]{tools}",
+      "entry": "tool shed",
+      "id": "tool-shed#tool-shed__1"
+    },
+    {
+      "comment": "a [strongly]{strongly} [protected]{protected} [room_1]{room} in a [bank_1]{bank} where [money]{money}, [gold_1]{gold}, etc. is [kept]{kept}",
+      "entry": "vault",
+      "id": "vault_1#vault_1__2"
+    },
+    {
+      "comment": "a [big_1]{big} [building]{building} where [large_1]{large} [amount_1]{amounts} of [goods]{goods} are [store_2]{stored}",
+      "entry": "warehouse",
+      "id": "warehouse#warehouse__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} [used]{used} for [store_2]{storing} [wood]{wood} for [making]{making} [fire_1]{fires}",
+      "entry": "woodshed",
+      "id": "woodshed#woodshed__1"
+    }
+  ],
+  "thesaurus": "Buildings and places for storing things",
+  "type": "Related words"
+}

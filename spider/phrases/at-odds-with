@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "at odds (with)",
+  "senses": [
+    {
+      "def": "[disagree]{disagreeing} with someone",
+      "examples": [
+        "She [continued]{continued} to find [herself]{herself} at [odds]{odds} with the [chairman]{chairman}."
+      ],
+      "id": "at-odds-with__1"
+    },
+    {
+      "def": "if [thing]{things} are at [odds]{odds} with each other, they are [different]{different} or [opposite_1]{opposite} when they should be the same",
+      "examples": [
+        "This [statement_1]{statement} is [completely]{completely} at [odds]{odds} with what was [said_1]{said} last [week]{week}."
+      ],
+      "id": "at-odds-with__3"
+    }
+  ]
+}

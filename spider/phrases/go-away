@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "go away",
+  "senses": [
+    {
+      "def": "to move or [travel_1]{travel} [away_1]{away} from a [person]{person} or [place_1]{place}",
+      "examples": [
+        "If he\u2019s [bother_1]{bothering} you, [tell_1]{tell} him to go [away_1]{away}.",
+        "We\u2019ve [decided]{decided} to go [away_1]{away} for a long [weekend_1]{weekend}."
+      ],
+      "id": "go-away__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [existing]{existing} or being [noticeable]{noticeable}",
+      "examples": [
+        "The [pain_1]{pain} should go [away_1]{away} in a [couple_1]{couple} of [hour]{hours}."
+      ],
+      "id": "go-away__5"
+    }
+  ]
+}

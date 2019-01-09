@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "get at",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to [suggest]{suggest} something without [saying]{saying} it [directly_1]{directly}",
+      "examples": [
+        "What are you [get]{getting} at?"
+      ],
+      "id": "get-at__1"
+    },
+    {
+      "def": "to [discover]{discover} the [true_1]{true} [fact]{facts} about something",
+      "examples": [
+        "This was an [attempt_1]{attempt} to [stop_1]{stop} [reporter]{reporters} from [get]{getting} at the [truth]{truth}."
+      ],
+      "id": "get-at__3"
+    },
+    {
+      "def": "to [manage]{manage} to [reach_1]{reach} or [touch_1]{touch} something",
+      "examples": [
+        "I keep the [cookie]{cookies} up here where the [children]{children} can\u2019t get at them."
+      ],
+      "id": "get-at__5"
+    },
+    {
+      "def": "to [criticize]{criticize} someone again and again in a way that is [unfair]{unfair}",
+      "examples": [
+        "Why are you always [get]{getting} at me?"
+      ],
+      "id": "get-at__7"
+    }
+  ]
+}

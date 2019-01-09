@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "give back",
+  "senses": [
+    {
+      "def": "to give someone something that they [own_2]{owned} or had before",
+      "examples": [
+        "The [company]{company} had to give back all the [money]{money} [customer]{customers} had [paid_1]{paid}.",
+        "We [just_1]{just} [want_1]{want} them to give us back our [home_1]{home}."
+      ],
+      "id": "give-back__1"
+    },
+    {
+      "def": "to [allow]{allow} someone to [feel_1]{feel} an [emotion]{emotion} again that they had [stop_1]{stopped} [feeling_1]{feeling}",
+      "examples": [
+        "A [win_1]{win} [today_1]{today} could give her back her [confidence]{confidence}."
+      ],
+      "id": "give-back__4"
+    }
+  ]
+}

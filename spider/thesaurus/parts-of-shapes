@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "the point that is in the exact middle of a circle or sphere  (=a shape like a ball)",
+      "entry": "center",
+      "id": "center_1#center_1__3"
+    },
+    {
+      "comment": "the [distance_1]{distance} [measured]{measured} around the [edge_1]{edge} of a [circle_1]{circle} or a round [object_1]{object} or [area]{area}",
+      "entry": "circumference",
+      "id": "circumference#circumference__1"
+    },
+    {
+      "comment": "the [edge_1]{edge} of a [circle_1]{circle} or a round [object_1]{object} or [area]{area}",
+      "entry": "circumference",
+      "id": "circumference#circumference__4"
+    },
+    {
+      "comment": "the [shape_1]{shape} of the [outside]{outside} [edge_1]{edge} of something",
+      "entry": "contour",
+      "id": "contour#contour__1"
+    },
+    {
+      "comment": "the part of something square or rectangular where two edges meet",
+      "entry": "corner",
+      "id": "corner_1#corner_1__1"
+    },
+    {
+      "comment": "in [mathematics]{mathematics}, for [example]{example}, the [point_1]{point} where two [curve_1]{curves} [meet_1]{meet}",
+      "entry": "cusp",
+      "id": "cusp#cusp__1"
+    },
+    {
+      "comment": "one flat side of an object such as a cube  (=a shape with six square sides)",
+      "entry": "face",
+      "id": "face_1#face_1__22"
+    },
+    {
+      "comment": "the longest side of a right triangle",
+      "entry": "hypotenuse",
+      "id": "hypotenuse#hypotenuse__1"
+    },
+    {
+      "comment": "the total length of the sides of a shape such as a square or rectangle",
+      "entry": "perimeter",
+      "id": "perimeter#perimeter__2"
+    },
+    {
+      "comment": "a part of a [circle_1]{circle} that is [form_2]{formed} by [drawing]{drawing} two [straight_1]{straight} [lines]{lines} from the [center_1]{center} to the [outer_1]{outer} [edge_1]{edge}",
+      "entry": "sector",
+      "id": "sector#sector__10"
+    },
+    {
+      "comment": "any of the [edge_1]{edges} of a [flat_1]{flat} [shape_1]{shape}",
+      "entry": "side",
+      "id": "side_1#side_1__12"
+    },
+    {
+      "comment": "an [outside]{outside} [surface_1]{surface} of an [object_1]{object} or [shape_1]{shape} that is not its front, back, bottom, or top",
+      "entry": "side",
+      "id": "side_1#side_1__23"
+    }
+  ],
+  "thesaurus": "Parts of shapes",
+  "type": "Related words"
+}

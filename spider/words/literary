@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[involve]{involving} [book_1]{books} or the [activity]{activity} of [writing]{writing}, [reading]{reading}, or [study_2]{studying} [book_1]{books}",
+      "examples": [
+        "Dublin\u2019s [great_1]{great} literary [tradition]{tradition}",
+        "a [respected]{respected} literary [critic]{critic}",
+        "These [rhyme_1]{rhymes} have no literary [merit_1]{merit}.",
+        "She is not a literary [writer]{writer}."
+      ],
+      "id": "literary__1"
+    },
+    {
+      "def": "[relate]{relating} to the [kind_1]{kind} of [word_1]{words} that are [used]{used} only in [story]{stories} or [poem]{poems}, and not in [normal_1]{normal} [writing]{writing} or [speech]{speech}",
+      "examples": [
+        "literary [language]{language}"
+      ],
+      "id": "literary__7"
+    }
+  ],
+  "word": "literary"
+}

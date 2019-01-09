@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[moving]{moving} in two [opposite_1]{opposite} [direction]{directions}",
+      "examples": [
+        "two-way [traffic_1]{traffic}/[trade_1]{trade}/[communication]{communication}",
+        "a two-way [street_1]{street}"
+      ],
+      "id": "two-way__1"
+    },
+    {
+      "def": "[able_1]{able} both to [send_1]{send} and to [receive]{receive} [message_1]{messages}",
+      "examples": [
+        "a two-way [radio_1]{radio}"
+      ],
+      "id": "two-way__5"
+    }
+  ],
+  "word": "two-way"
+}

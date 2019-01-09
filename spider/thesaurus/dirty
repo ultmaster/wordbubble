@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [clean_1]{clean}",
+      "entry": "dirty",
+      "id": "dirty_1#dirty_1__1"
+    },
+    {
+      "comment": "very [dirty_1]{dirty}",
+      "entry": "filthy",
+      "id": "filthy_1#filthy_1__1"
+    },
+    {
+      "comment": "not [neat]{neat} or [dirty_1]{dirty}",
+      "entry": "messy",
+      "id": "messy#messy__1"
+    },
+    {
+      "comment": "[dirty_1]{dirty} and [need_1]{needing} to be [wash_1]{washed}",
+      "entry": "grubby",
+      "id": "grubby#grubby__1"
+    },
+    {
+      "comment": "very [dirty_1]{dirty}",
+      "entry": "grimy",
+      "id": "grimy#grimy__1"
+    },
+    {
+      "comment": "made [dirty_1]{dirty}, [pollute]{polluted}, or [poisonous]{poisonous} by the [addition]{addition} of a [chemical_1]{chemical}, [waste_1]{waste}, or [infection]{infection}",
+      "entry": "contaminated",
+      "id": "contaminated#contaminated__1"
+    },
+    {
+      "comment": "an [unsanitary]{unsanitary} [place_1]{place} is so [dirty_1]{dirty} that you might [catch_1]{catch} [disease]{diseases} by [going_1]{going} there",
+      "entry": "unsanitary",
+      "id": "unsanitary#unsanitary__1"
+    },
+    {
+      "comment": "[dirty_1]{dirty}, or not [pure]{pure}",
+      "entry": "unclean",
+      "id": "unclean#unclean__4"
+    },
+    {
+      "comment": "not [clean_1]{clean}, and [likely_1]{likely} to cause [disease]{disease}",
+      "entry": "unhygienic",
+      "id": "unhygienic#unhygienic__1"
+    },
+    {
+      "comment": "a [place_1]{place} that is [squalid]{squalid} is [dirty_1]{dirty} and [unpleasant]{unpleasant}",
+      "entry": "squalid",
+      "id": "squalid#squalid__1"
+    }
+  ],
+  "thesaurus": "Dirty",
+  "type": "Synonyms"
+}

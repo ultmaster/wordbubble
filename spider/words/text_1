@@ -1,0 +1,28 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the part of a [book_1]{book}, [magazine]{magazine}, or computer [document_1]{document} that [consist]{consists} of [writing]{writing} and [does]{does} not [include]{include} [picture_1]{pictures} or [note_1]{notes}",
+      "examples": [
+        "There are 200 [page_1]{pages} of text and [illustration]{illustrations}.",
+        "The text of the [lecture_1]{lecture} is [available]{available} from the [departmental]{departmental} [office]{office}.",
+        "We\u2019ll be [analyze]{analyzing} the [language]{language} of [literary]{literary} [text_1]{texts}.",
+        "Has everyone [finished]{finished} [reading]{reading} the text?"
+      ],
+      "id": "text_1__1"
+    },
+    {
+      "def": "a [textbook_1#textbook_1__1]{textbook}",
+      "examples": [
+        "[history]{history} [text_1]{texts}"
+      ],
+      "id": "text_1__10"
+    },
+    {
+      "def": "a [text-message]{text message}",
+      "examples": [],
+      "id": "text_1__12"
+    }
+  ],
+  "word": "text"
+}

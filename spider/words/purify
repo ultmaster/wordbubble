@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something [clean_1]{clean} by [remove]{removing} [dirty_1]{dirty} or [harmful]{harmful} [substance]{substances} from it",
+      "examples": [
+        "The [room_1]{rooms} are [equip]{equipped} with [system]{systems} that purify the [air_1]{air} and [water_1]{water}."
+      ],
+      "id": "purify__1"
+    },
+    {
+      "def": "to [make_1]{make} a [person]{person} [holy]{holy} or without [evil_1]{evil}",
+      "examples": [
+        "the [need_1]{need} to purify the [soul]{soul}",
+        "[holy]{holy} [vessel]{vessels} [purify]{purified} by a [priest]{priest}"
+      ],
+      "id": "purify__3"
+    }
+  ],
+  "word": "purify"
+}

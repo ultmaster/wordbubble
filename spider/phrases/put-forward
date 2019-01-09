@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "put forward",
+  "senses": [
+    {
+      "def": "to [offer_1]{offer} an [idea]{idea}, [opinion]{opinion}, [reason_1]{reason}, etc., [especially]{especially} so that [people_1]{people} can [discuss]{discuss} it and [make_1]{make} a [decision_1]{decision}",
+      "examples": [
+        "He [reject_1]{rejected} all the [proposal]{proposals} put [forward_1]{forward} by the [committee]{committee}.",
+        "Your name was put [forward_1]{forward} as a [possible_1]{possible} [team_1]{team} [leader]{leader}."
+      ],
+      "id": "put-forward__1"
+    },
+    {
+      "def": "to [change_1]{change} the time or [date_1]{date} of an [event]{event} so that it [happen]{happens} [earlier_1]{earlier} than [originally]{originally} [plan_2]{planned}",
+      "examples": [
+        "The [meeting]{meeting} has been put [forward_1]{forward} to Monday."
+      ],
+      "id": "put-forward__6"
+    },
+    {
+      "def": "to [change_1]{change} the time of a [clock_1]{clock} or [watch_1]{watch} to a [later_1]{later} time",
+      "examples": [
+        "The [pilot_1]{pilot} [remind]{reminded} us to put our [watch_1]{watches} [forward_1]{forward} by two [hour]{hours}."
+      ],
+      "id": "put-forward__8"
+    }
+  ]
+}

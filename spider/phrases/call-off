@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "call off",
+  "senses": [
+    {
+      "def": "to [decide]{decide} that something will not [happen]{happen}",
+      "examples": [
+        "She\u2019s [call_1]{called} off the [wedding]{wedding}.",
+        "If we have much more [rain_1]{rain}, the [game_1]{game} might be [call_1]{called} off.",
+        "With the [weather_1]{weather} [worsen#worsen__4]{worsening}, they\u2019ve [call_1]{called} off the [search_1]{search} for [survivor]{survivors}."
+      ],
+      "id": "call-off__1"
+    },
+    {
+      "def": "to [tell_1]{tell} an [animal_1]{animal} or [person]{person} to [stop_1]{stop} [attack_2]{attacking} or [chase_1]{chasing} someone",
+      "examples": [
+        "I [yell_1]{yelled} to the man to call off his [dog_1]{dog}."
+      ],
+      "id": "call-off__7"
+    }
+  ]
+}

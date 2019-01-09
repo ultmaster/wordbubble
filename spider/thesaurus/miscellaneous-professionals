@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[artist]{artists} and [repertoire]{repertoire}: the [people_1]{people} [employ_1]{employed} by a [record_1]{record} [company]{company} to find [new]{new} [singer]{singers} and [band_1]{bands} and [persuade]{persuade} them to [agree]{agree} to a [contract_1]{contract} to [make_1]{make} [record_1]{records} with the [company]{company}",
+      "entry": "A&R",
+      "id": "a-r#a-r__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [careful#careful__20]{carefully} [examine]{examine} a [situation]{situation}, [event]{event}, etc. in [order_1]{order} to [provide]{provide} other [people_1]{people} with [information]{information} about it",
+      "entry": "analyst",
+      "id": "analyst#analyst__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [organize]{organize} [cultural]{cultural} [project_1]{projects} or [social_1]{social} [event]{events} and get [people_1]{people} [interested]{interested} in them",
+      "entry": "animateur",
+      "id": "animateur#animateur__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [collect_1]{collect} something from [people_1]{people}",
+      "entry": "collector",
+      "id": "collector#collector__3"
+    },
+    {
+      "comment": "someone who [select_1]{selects} [item]{items} from among a [large_1]{large} [number_1]{number} of [possibility]{possibilities} for other [people_1]{people} to [consume]{consume} and [enjoy]{enjoy}; [applied]{applied} to many [area]{areas} [including]{including} [music]{music}, [design_1]{design}, [fashion_1]{fashion}, and [especially]{especially} [digital]{digital} [media]{media}",
+      "entry": "curator",
+      "id": "curator#curator__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to show [people_1]{people} how something [work_1]{works} or how to do something",
+      "entry": "demonstrator",
+      "id": "demonstrator#demonstrator__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [send_1]{send} [vehicle]{vehicles} where they are [need_1]{needed}",
+      "entry": "dispatcher",
+      "id": "dispatcher#dispatcher__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [control_1]{control} a [public_1]{public} or [sport_1]{sports} [event]{event}",
+      "entry": "marshal",
+      "id": "marshal_1#marshal_1__4"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to use this [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "mixer",
+      "id": "mixer#mixer__7"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [plan_1]{plan} the [direction]{direction} in which a [ship_1]{ship}, [airplane]{airplane}, or [car]{car} should [travel_1]{travel}",
+      "entry": "navigator",
+      "id": "navigator#navigator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [operate]{operate} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "operator",
+      "id": "operator#operator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to find and [employ_1]{employ} [people_1]{people} who have [special_1]{special} [ability_1]{ability}, [especially]{especially} for [work_1]{work} in [sport_1]{sports} and [entertainment]{entertainment}",
+      "entry": "scout",
+      "id": "scout_1#scout_1__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [look_1]{look} for [new]{new} [performer]{performers} or [sport_1]{sports} [player]{players}",
+      "entry": "talent scout",
+      "id": "talent-scout#talent-scout__1"
+    },
+    {
+      "comment": "someone with [technical]{technical} [training]{training} whose [job_1]{job} [involve]{involves} [use_1]{using} [special_1]{special} [equipment]{equipment} or [machine_1]{machines}",
+      "entry": "technician",
+      "id": "technician#technician__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} [involve]{involves} [use_1]{using} and [developing]{developing} [technology]{technology}",
+      "entry": "technologist",
+      "id": "technologist#technologist__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [solve]{solve} [problem]{problems} that an [organization]{organization} is [have]{having}",
+      "entry": "troubleshooter",
+      "id": "troubleshooter#troubleshooter__1"
+    }
+  ],
+  "thesaurus": "Miscellaneous professionals",
+  "type": "Related words"
+}

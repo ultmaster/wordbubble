@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[curve_2]{curving}, [pointing]{pointing}, or [facing]{facing} [upward_1]{upward}",
+      "examples": [
+        "upturned [face_1]{faces}",
+        "an upturned [nose_1]{nose}",
+        "Her upturned [collar_1]{collar} [protected]{protected} her [neck_1]{neck} from the [cold_1]{cold}."
+      ],
+      "id": "upturned__1"
+    },
+    {
+      "def": "an upturned [object_1]{object} has been [move_1]{moved} so that its top part is at the bottom",
+      "examples": [
+        "He was [sitting]{sitting} on an upturned [bucket_1]{bucket}."
+      ],
+      "id": "upturned__5"
+    }
+  ],
+  "word": "upturned"
+}

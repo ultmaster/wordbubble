@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "someone who has been [harm_2]{harmed}, [injured]{injured}, or [kill_1]{killed} as the [result_1]{result} of a [crime_1]{crime}",
+      "entry": "victim",
+      "id": "victim#victim__1"
+    },
+    {
+      "comment": "someone who is [injured]{injured} or [kill_1]{killed} in an [accident]{accident} or [military]{military} [action_1]{action}",
+      "entry": "casualty",
+      "id": "casualty#casualty__1"
+    },
+    {
+      "comment": "[people_1]{people} who have been [injured]{injured}",
+      "entry": "the injured",
+      "id": "injured#injured__5"
+    },
+    {
+      "comment": "someone who has had a part of their body [amputate]{amputated}",
+      "entry": "amputee",
+      "id": "amputee#amputee__1"
+    },
+    {
+      "comment": "someone who has been [affected]{affected} by a [bad_1]{bad} [situation]{situation} such as an [accident]{accident} or an [illness]{illness}",
+      "entry": "victim",
+      "id": "victim#victim__4"
+    },
+    {
+      "comment": "someone or something that is [damage_2]{damaged} or [suffer]{suffers} as a [result_1]{result} of something else",
+      "entry": "casualty",
+      "id": "casualty#casualty__4"
+    },
+    {
+      "comment": "[people_1]{people} who have been [injured]{injured}, [especially]{especially} in a war or an [accident]{accident}, but who can still [walk_1]{walk}",
+      "entry": "walking wounded",
+      "id": "walking-wounded#walking-wounded__1"
+    }
+  ],
+  "thesaurus": "Injured and wounded people",
+  "type": "Synonyms"
+}

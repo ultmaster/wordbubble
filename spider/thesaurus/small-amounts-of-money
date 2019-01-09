@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "an amount of [money]{money} that is so [small_1]{small} that it seems [unfair]{unfair}",
+      "entry": "pittance",
+      "id": "pittance#pittance__1"
+    },
+    {
+      "comment": "the [small_1]{smallest} amount of [food]{food} or [money]{money} that you [need_1]{need} to [stay_1]{stay} [alive]{alive}",
+      "entry": "subsistence",
+      "id": "subsistence#subsistence__2"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [money]{money} that you [carry_1]{carry} with you for [buy_1]{buying} [inexpensive]{inexpensive} [thing]{things}",
+      "entry": "pocket money",
+      "id": "pocket-money#pocket-money__1"
+    },
+    {
+      "comment": "a very [small_1]{small} amount of [money]{money}",
+      "entry": "peanuts",
+      "id": "peanuts#peanuts__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [money]{money} that you can [spend]{spend} for [pleasure]{pleasure}",
+      "entry": "pin money",
+      "id": "pin-money#pin-money__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that is too [small_1]{small} to be [satisfactory]{satisfactory}",
+      "entry": "chicken feed",
+      "id": "chicken-feed#chicken-feed__1"
+    },
+    {
+      "comment": "a very [small_1]{small} amount of [money]{money}",
+      "entry": "sou",
+      "id": "sou#sou__1"
+    },
+    {
+      "comment": "a [nominal]{nominal} amount of [money]{money} is a very [small_1]{small} amount which is much less than something is [really]{really} [worth_1]{worth}",
+      "entry": "nominal",
+      "id": "nominal#nominal__4"
+    },
+    {
+      "comment": "if an amount of [money]{money} [does]{does} not go [far]{far}, you cannot [buy_1]{buy} much with it",
+      "entry": "not go far",
+      "id": "not-go-far_1#not-go-far_1__1"
+    },
+    {
+      "comment": "a very [small_1]{small} amount of [money]{money}",
+      "entry": "a red cent",
+      "id": "a-red-cent#a-red-cent__1"
+    },
+    {
+      "comment": "[money]{money} [used]{used} to [buy_1]{buy} [lunch_1]{lunch} or [snack_1]{snacks}",
+      "entry": "baon",
+      "id": "baon#baon__3"
+    }
+  ],
+  "thesaurus": "Small amounts of money",
+  "type": "Synonyms"
+}

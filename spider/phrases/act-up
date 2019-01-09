@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "act up",
+  "senses": [
+    {
+      "def": "if [children]{children} [act_1]{act} up, they [behave]{behave} [badly]{badly}",
+      "examples": [
+        "The [kid_1]{kids} have been [acting_1]{acting} up again."
+      ],
+      "id": "act-up__1"
+    },
+    {
+      "def": "if a part of your body or a [piece_1]{piece} of [equipment]{equipment} [act_1]{acts} up, it [start_1]{starts} to become [painful]{painful} or to [develop]{develop} [problem]{problems}",
+      "examples": [
+        "I [hope_1]{hope} my back doesn\u2019t [start_1]{start} [acting_1]{acting} up again."
+      ],
+      "id": "act-up__3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "buy out",
+  "senses": [
+    {
+      "def": "to [pay_1]{pay} [money]{money} to your [business]{business} [partner_1]{partner} so that you can [control_1]{control} all of a [business]{business} you [previously]{previously} [own_2]{owned} together",
+      "examples": [
+        "The [board_1]{board} [member]{members} have [offer_1]{offered} to [buy_1]{buy} me out."
+      ],
+      "id": "buy-out__1"
+    },
+    {
+      "def": "to [pay_1]{pay} [money]{money} so that someone can [leave_1]{leave} an [organization]{organization}, [especially]{especially} the [military]{military}, before the time that they had [originally]{originally} [agreed]{agreed}",
+      "examples": [
+        "He [bought]{bought} [himself]{himself} out of the [army]{army}."
+      ],
+      "id": "buy-out__3"
+    }
+  ]
+}

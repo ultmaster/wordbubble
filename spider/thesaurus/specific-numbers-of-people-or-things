@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "a [pair_1]{pair} of [people_1]{people}, [animal_1]{animals}, or [object_1]{objects}",
+      "entry": "brace",
+      "id": "brace_2#brace_2__9"
+    },
+    {
+      "comment": "two [thing]{things} or [people_1]{people} of the same [type_1]{type}",
+      "entry": "couple",
+      "id": "couple_1#couple_1__1"
+    },
+    {
+      "comment": "two [people_1]{people} who are [doing]{doing} something together, who may or may not be [involved]{involved} in a [romantic_1]{romantic} [relationship]{relationship}",
+      "entry": "couple",
+      "id": "couple_1#couple_1__12"
+    },
+    {
+      "comment": "two [people_1]{people} who [work_1]{work} together or who often do [thing]{things} together",
+      "entry": "duo",
+      "id": "duo#duo__3"
+    },
+    {
+      "comment": "something that has two [part_1]{parts}; a [pair_1]{pair}",
+      "entry": "dyad",
+      "id": "dyad#dyad__1"
+    },
+    {
+      "comment": "a [group_1]{group} of four [people_1]{people} or [thing]{things}",
+      "entry": "four",
+      "id": "four_2#four_2__1"
+    },
+    {
+      "comment": "a [group_1]{group} of four [people_1]{people}",
+      "entry": "foursome",
+      "id": "foursome#foursome__1"
+    },
+    {
+      "comment": "two [thing]{things} of the same [type_1]{type} that [belong]{belong} together",
+      "entry": "pair",
+      "id": "pair_1#pair_1__1"
+    },
+    {
+      "comment": "one of the [thing]{things} that form a [pair_1]{pair}",
+      "entry": "pair",
+      "id": "pair_1#pair_1__6"
+    },
+    {
+      "comment": "a [single_1]{single} [unit]{unit} made up of two [similar]{similar} [part_1]{parts} [join_1]{joined} together",
+      "entry": "pair",
+      "id": "pair_1#pair_1__8"
+    },
+    {
+      "comment": "two [people_1]{people} who are [connected]{connected} with each other",
+      "entry": "pair",
+      "id": "pair_1#pair_1__12"
+    },
+    {
+      "comment": "two [people_1]{people} who are [doing]{doing} something together",
+      "entry": "pair",
+      "id": "pair_1#pair_1__16"
+    },
+    {
+      "comment": "a [pair_1]{pair} of [people_1]{people} or [thing]{things}",
+      "entry": "pairing",
+      "id": "pairing#pairing__2"
+    },
+    {
+      "comment": "a [group_1]{group} of four [people_1]{people} or [thing]{things}",
+      "entry": "quartet",
+      "id": "quartet#quartet__4"
+    },
+    {
+      "comment": "a [group_1]{group} of five [people_1]{people} or [thing]{things}",
+      "entry": "quintet",
+      "id": "quintet#quintet__3"
+    },
+    {
+      "comment": "a [group_1]{group} of 20 [people_1]{people} or [thing]{things}",
+      "entry": "scores",
+      "id": "score_2#score_2__12"
+    },
+    {
+      "comment": "a [group_1]{group} of six [people_1]{people} or [thing]{things}",
+      "entry": "sextet",
+      "id": "sextet#sextet__3"
+    },
+    {
+      "comment": "a [group_1]{group} of three [people_1]{people} or [thing]{things}",
+      "entry": "threesome",
+      "id": "threesome#threesome__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which three [people_1]{people} or [group_1]{groups} are [involved]{involved}, although they have [different]{different} [opinion]{opinions}, [idea]{ideas}, or [goals]{goals}",
+      "entry": "triangle",
+      "id": "triangle#triangle__7"
+    },
+    {
+      "comment": "a [series]{series} or [set_1]{set} of three [thing]{things} or [influence_1]{influences}",
+      "entry": "trifecta",
+      "id": "trifecta#trifecta__1"
+    },
+    {
+      "comment": "a [group_1]{group} of three [people_1]{people} or [thing]{things}",
+      "entry": "trinity",
+      "id": "trinity#trinity__1"
+    },
+    {
+      "comment": "a [group_1]{group} of three [people_1]{people} or [thing]{things}",
+      "entry": "trio",
+      "id": "trio#trio__1"
+    },
+    {
+      "comment": "a [set_1]{set} of three [thing]{things} of the same [type_1]{type}, for [example]{example} three [victory]{victories} in [similar]{similar} [sport_1]{sports} [event]{events}",
+      "entry": "triple",
+      "id": "triple_4#triple_4__2"
+    },
+    {
+      "comment": "a [group_1]{group} of three [powerful]{powerful} [people_1]{people}, [especially]{especially} [people_1]{people} in [charge_1]{charge} of something",
+      "entry": "triumvirate",
+      "id": "triumvirate#triumvirate__1"
+    },
+    {
+      "comment": "a [group_1]{group} of three [people_1]{people}, [country]{countries}, [organization]{organizations}, etc.",
+      "entry": "troika",
+      "id": "troika#troika__1"
+    },
+    {
+      "comment": "two [people_1]{people} who [spend]{spend} time together, for [example]{example} as a [team_1]{team} at [work_1]{work}, [play_1]{playing} [golf]{golf}, or in a [romantic_1]{romantic} or [sexual]{sexual} [relationship]{relationship}",
+      "entry": "twosome",
+      "id": "twosome#twosome__1"
+    }
+  ],
+  "thesaurus": "Specific numbers of people or things",
+  "type": "Related words"
+}

@@ -1,0 +1,35 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [place_1]{place} that [sell_1]{sells} [goods]{goods}",
+      "examples": [
+        "Some [store_1]{stores} are [overcharge]{overcharging} their [customer]{customers}.",
+        "a [grocery_1]{grocery} store",
+        "If you have any [comment_1]{comments}, could you please [speak_1]{speak} to the store [manager]{manager}."
+      ],
+      "id": "store_1__1"
+    },
+    {
+      "def": "a [supply_1]{supply} of something that is [kept]{kept} to be [used]{used} [later_1]{later}",
+      "examples": [
+        "a store of [food]{food} for the [winter_1]{winter}",
+        "The [building]{building} was [used]{used} as a [weapon]{weapons} store."
+      ],
+      "id": "store_1__6"
+    },
+    {
+      "def": "[supply_1]{supplies} of [food]{food} and [equipment]{equipment} [used]{used} by an [army]{army}",
+      "examples": [],
+      "id": "store_1__10"
+    },
+    {
+      "def": "a [large_1]{large} amount of something that is [kept]{kept} in your [memory]{memory}",
+      "examples": [
+        "She has [acquire]{acquired} such a [vast]{vast} store of [knowledge]{knowledge}."
+      ],
+      "id": "store_1__12"
+    }
+  ],
+  "word": "store"
+}

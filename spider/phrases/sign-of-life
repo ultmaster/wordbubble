@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "sign of life",
+  "senses": [
+    {
+      "def": "[evidence_1]{evidence} that a [person]{person} is [alive]{alive}",
+      "examples": [
+        "When the man was [finally]{finally} [rescue_1]{rescued}, he [show_1]{showed} no [sign_1]{sign} of [life]{life}."
+      ],
+      "id": "sign-of-life__1"
+    },
+    {
+      "def": "[evidence_1]{evidence} that there is someone in a [place_1]{place}",
+      "examples": [
+        "The only [sign_1]{sign} of [life]{life} in the [house_1]{house} was the [light_1]{light} from a [television]{television}."
+      ],
+      "id": "sign-of-life__3"
+    }
+  ]
+}

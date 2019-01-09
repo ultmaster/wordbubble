@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "never mind",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone not to [worry_1]{worry} or not to be [upset_1]{upset} about something",
+      "examples": [
+        "Never [mind_1]{mind} \u2013 you\u2019re all [right_1]{right} now.",
+        "The [store_1]{store}\u2019s [shut_1]{shut}, but never [mind_1]{mind}, we can come back [tomorrow_1]{tomorrow}."
+      ],
+      "id": "never-mind__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that the time when something is [wanted]{wanted}, [need_1]{needed}, or [possible_1]{possible} has [gone_1]{gone}",
+      "examples": [
+        "\u201cDo you still [want_1]{want} that [shopping]{shopping} done?\u201d \u201cNo, never [mind_1]{mind} \u2013 it\u2019s too [late_1]{late} now.\u201d"
+      ],
+      "id": "never-mind__4"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} your [opinion]{opinions} or [feeling_1]{feelings} about something",
+      "examples": [
+        "I\u2019m [sick_1]{sick} of [snow_1]{snow} already, never [mind_1]{mind} by the [end_1]{end} of the [winter_1]{winter}."
+      ],
+      "id": "never-mind__6"
+    }
+  ]
+}

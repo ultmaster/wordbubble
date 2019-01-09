@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [allow]{allowed} to go above a [particular_1]{particular} [number_1]{number}, amount, or [level_1]{level}",
+      "entry": "limited",
+      "id": "limited#limited__1"
+    },
+    {
+      "comment": "[prevent]{preventing} someone or something from [developing]{developing} or [improve_1]{improving}",
+      "entry": "limiting",
+      "id": "limiting#limiting__1"
+    },
+    {
+      "comment": "[intended_1]{intended} only for [people_1]{people} who have been [given_1]{given} [special_1]{special} [permission]{permission}",
+      "entry": "restricted",
+      "id": "restricted#restricted__1"
+    },
+    {
+      "comment": "[strictly]{strictly} [limiting]{limiting} or [control_2]{controlling} someone or something",
+      "entry": "restrictive",
+      "id": "restrictive#restrictive__1"
+    },
+    {
+      "comment": "[limiting]{limiting} something, or [prevent]{preventing} something from being done",
+      "entry": "prohibitive",
+      "id": "prohibitive#prohibitive__3"
+    },
+    {
+      "comment": "[limited]{limited} to a [particular_1]{particular} [person]{person}, thing, or [group_1]{group} and not [share_1]{shared} with others",
+      "entry": "exclusive",
+      "id": "exclusive_1#exclusive_1__3"
+    },
+    {
+      "comment": "[limited]{limited} to one [particular_1]{particular} thing",
+      "entry": "specific",
+      "id": "specific#specific__5"
+    },
+    {
+      "comment": "[existing]{existing} only in [limited]{limited} [number_1]{numbers} or [amount_1]{amounts}, or [continuing]{continuing} only for a [limited]{limited} time or [distance_1]{distance}",
+      "entry": "finite",
+      "id": "finite#finite__1"
+    },
+    {
+      "comment": "as long as a [situation]{situation} [stay_1]{stays} within what is [considered]{considered} [reasonable]{reasonable}",
+      "entry": "within limits",
+      "id": "within-limits#within-limits__1"
+    },
+    {
+      "comment": "if something is under [control_1]{control}, [people_1]{people} are [able_1]{able} to [limit_1]{limit} it or [make_1]{make} it do what they [want_1]{want} it to do",
+      "entry": "under control",
+      "id": "under-control#under-control__1"
+    }
+  ],
+  "thesaurus": "Limited and limiting",
+  "type": "Synonyms"
+}

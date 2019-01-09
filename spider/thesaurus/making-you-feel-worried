@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[bad_1]{bad} or [dangerous]{dangerous} enough to [make_1]{make} you [worried]{worried}",
+      "entry": "serious",
+      "id": "serious#serious__1"
+    },
+    {
+      "comment": "a [severe]{severe} [problem]{problem} is very serious and [worrying]{worrying}",
+      "entry": "severe",
+      "id": "severe#severe__1"
+    },
+    {
+      "comment": "so serious that you [feel_1]{feel} [worried]{worried}",
+      "entry": "grave",
+      "id": "grave_2#grave_2__1"
+    },
+    {
+      "comment": "[cause_2]{causing} you to [feel_1]{feel} [worried]{worried}",
+      "entry": "worrying",
+      "id": "worrying#worrying__1"
+    },
+    {
+      "comment": "[making]{making} you [feel_1]{feel} [extremely]{extremely} [worried]{worried} or [upset_1]{upset}",
+      "entry": "disturbing",
+      "id": "disturbing#disturbing__1"
+    },
+    {
+      "comment": "[frightening]{frightening} or [worrying]{worrying}",
+      "entry": "alarming",
+      "id": "alarming#alarming__1"
+    },
+    {
+      "comment": "[involve]{involving} or [cause_2]{causing} a [lot_1]{lot} of [pressure_1]{pressure} or [worry_1]{worry}",
+      "entry": "stressful",
+      "id": "stressful#stressful__1"
+    },
+    {
+      "comment": "[making]{making} you [feel_1]{feel} [extremely]{extremely} [unhappy]{unhappy}, [worried]{worried}, or [upset_1]{upset}",
+      "entry": "distressing",
+      "id": "distressing#distressing__1"
+    },
+    {
+      "comment": "an [anxious]{anxious} time or [situation]{situation} is one in which you [worry_1]{worry} about something",
+      "entry": "anxious",
+      "id": "anxious#anxious__8"
+    },
+    {
+      "comment": "[making]{making} you [feel_1]{feel} [nervous]{nervous} and not [relaxed]{relaxed}, [usually]{usually} because you are [worried]{worried} about what is [going_1]{going} to [happen]{happen}",
+      "entry": "tense",
+      "id": "tense_1#tense_1__1"
+    },
+    {
+      "comment": "[making]{making} you [feel_1]{feel} [worried]{worried}",
+      "entry": "concerning",
+      "id": "concerning_2#concerning_2__1"
+    }
+  ],
+  "thesaurus": "Making you feel worried",
+  "type": "Synonyms"
+}

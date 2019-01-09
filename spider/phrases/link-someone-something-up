@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "link (someone/something) up",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a [connection]{connection} between two or more [thing]{things}",
+      "examples": [
+        "The [space_1]{space} [shuttle_1]{shuttle} will [link_1]{link} up with the [space_1]{space} [station_1]{station} this [afternoon_1]{afternoon}."
+      ],
+      "id": "link-someone-something-up__1"
+    },
+    {
+      "def": "to [connect]{connect} one thing or [person]{person} to another",
+      "examples": [
+        "We found [various]{various} [bit_1]{bits} of [information]{information} and [tried_1]{tried} to [link_1]{link} them up."
+      ],
+      "id": "link-someone-something-up__3"
+    },
+    {
+      "def": "to [join_1]{join} with someone in [order_1]{order} to do something together",
+      "examples": [
+        "We are [interested]{interested} in [link_1]{linking} up with an [overseas_1]{overseas} [club_1]{club}."
+      ],
+      "id": "link-someone-something-up__5"
+    },
+    {
+      "def": "to [connect]{connect} [computer]{computers} or computer [system]{systems} so that [electronic]{electronic} [message_1]{messages} can be [sent]{sent} between them",
+      "examples": [
+        "All our [computer]{computers} [link_1]{link} up to a [central]{central} [server]{server}.",
+        "The [internet]{Internet} [allow]{allows} [user]{users} to [link_1]{link} up with [people_1]{people} from anywhere in the [world]{world}."
+      ],
+      "id": "link-someone-something-up__7"
+    }
+  ]
+}

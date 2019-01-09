@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [collect_1]{collects} [thing]{things} for [fun_1]{fun}",
+      "examples": [
+        "an [avid]{avid} [stamp_1]{stamp} collector"
+      ],
+      "id": "collector__1"
+    },
+    {
+      "def": "someone whose [job_1]{job} is to [collect_1]{collect} something from [people_1]{people}",
+      "examples": [
+        "the [ticket_1]{ticket} collector"
+      ],
+      "id": "collector__3"
+    }
+  ],
+  "word": "collector"
+}

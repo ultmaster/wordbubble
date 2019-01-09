@@ -1,0 +1,22 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [paper_1]{paper} or a [set_1]{set} of [paper_1]{papers} [contain]{containing} [official_1]{official} [information]{information}",
+      "examples": [
+        "He [refuse_1]{refused} to [sign_1]{sign} the [document_1]{documents}.",
+        "[document_1]{Documents} [relate]{relating} to his [private_1]{private} [life]{life} were [stolen]{stolen} in the [burglary]{burglary}.",
+        "A [secret_1]{secret} [policy]{policy} document was [leak_1]{leaked} to the [newspaper]{newspapers}."
+      ],
+      "id": "document_1__1"
+    },
+    {
+      "def": "a computer [file_1]{file} that you can [write]{write} in",
+      "examples": [
+        "The [program_1]{program} will [automatically]{automatically} [save_1]{save} any [document_1]{documents} you have [open_1]{open}."
+      ],
+      "id": "document_1__5"
+    }
+  ],
+  "word": "document"
+}

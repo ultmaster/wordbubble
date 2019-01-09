@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "on many [occasion_1]{occasions}, or in many [situation]{situations}",
+      "entry": "often",
+      "id": "often#often__1"
+    },
+    {
+      "comment": "often",
+      "entry": "frequently",
+      "id": "frequently#frequently__1"
+    },
+    {
+      "comment": "[frequently]{frequently}",
+      "entry": "regularly",
+      "id": "regularly#regularly__4"
+    },
+    {
+      "comment": "many times",
+      "entry": "repeatedly",
+      "id": "repeatedly#repeatedly__1"
+    },
+    {
+      "comment": "often, or for a long time",
+      "entry": "a lot",
+      "id": "lot_1#lot_1__8"
+    },
+    {
+      "comment": "often",
+      "entry": "all the time",
+      "id": "all-the-time#all-the-time__1"
+    },
+    {
+      "comment": "[happening_1]{happening} [frequently]{frequently}, or [existing]{existing} in [large_1]{large} [amount_1]{amounts} or [number_1]{numbers}",
+      "entry": "common",
+      "id": "common_1#common_1__1"
+    },
+    {
+      "comment": "[happening_1]{happening} often",
+      "entry": "frequent",
+      "id": "frequent_1#frequent_1__1"
+    },
+    {
+      "comment": "[happening_1]{happening} again and again, often in an [annoying]{annoying} way",
+      "entry": "continual",
+      "id": "continual#continual__3"
+    },
+    {
+      "comment": "[happening_1]{happening} so often that you become [annoyed]{annoyed} as a [result_1]{result}",
+      "entry": "perpetual",
+      "id": "perpetual#perpetual__1"
+    }
+  ],
+  "thesaurus": "Often and many times",
+  "type": "Synonyms"
+}

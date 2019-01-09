@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who you have [invite_1]{invited} to your [home_1]{home}, for a [party_1]{party} or a [meal]{meal}, or to [stay_1]{stay} the [night_1]{night}",
+      "entry": "guest",
+      "id": "guest_1#guest_1__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [important]{important} [guest_1]{guest} at a [meeting]{meeting}, [party_1]{party}, or other [event]{event}",
+      "entry": "guest of honor",
+      "id": "guest-of-honor#guest-of-honor__1"
+    },
+    {
+      "comment": "someone who [visit_1]{visits} a [place_1]{place} or a [person]{person}",
+      "entry": "visitor",
+      "id": "visitor#visitor__1"
+    },
+    {
+      "comment": "a [guest_1]{guest} or [guest_1]{guests}",
+      "entry": "company",
+      "id": "company#company__18"
+    },
+    {
+      "comment": "someone who comes to your [house_1]{house} for a [short_1]{short} [visit_1]{visit}",
+      "entry": "caller",
+      "id": "caller#caller__3"
+    },
+    {
+      "comment": "someone who is [living_1]{living} with you in your [house_1]{house} for a [short_1]{short} time, for [example]{example} a [friend_1]{friend} who is [visit_1]{visiting} you",
+      "entry": "house guest",
+      "id": "house-guest#house-guest__1"
+    },
+    {
+      "comment": "someone who [pay_1]{pays} to [live_1]{live} in a [house_1]{house} as a [guest_1]{guest} of the [family_1]{family} who [own_2]{owns} it",
+      "entry": "boarder",
+      "id": "boarder#boarder__1"
+    },
+    {
+      "comment": "someone who has been [invite_1]{invited} to a [party_1]{party}, [meeting]{meeting}, or other [event]{event} by the [people_1]{people} [organize]{organizing} it",
+      "entry": "guest",
+      "id": "guest_1#guest_1__14"
+    },
+    {
+      "comment": "a man who [go_1]{goes} to a [party_1]{party} alone and [does]{does} not [bring]{bring} a [woman]{woman} [friend_1]{friend}",
+      "entry": "stag",
+      "id": "stag#stag__2"
+    },
+    {
+      "comment": "an [important]{important} [visitor]{visitor} who [receive]{receives} [special_1]{special} [treatment]{treatment}",
+      "entry": "visiting fireman",
+      "id": "visiting-fireman#visiting-fireman__1"
+    }
+  ],
+  "thesaurus": "Visitors and guests",
+  "type": "Synonyms"
+}

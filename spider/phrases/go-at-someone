@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "go at someone",
+  "senses": [
+    {
+      "def": "to [attack_1]{attack} someone [violently]{violently}",
+      "examples": [
+        "The two [boy_1]{boys} were [going_1]{going} at each other [like_1]{like} mad [dog_1]{dogs}."
+      ],
+      "id": "go-at-someone__1"
+    },
+    {
+      "def": "to do something with a [lot_1]{lot} of [enthusiasm]{enthusiasm} or [energy]{energy}",
+      "examples": [
+        "Harbury was [young_1]{young} and [ambitious]{ambitious} and went at [thing]{things} with a [daunting]{daunting} [eager#eager__8]{eagerness}."
+      ],
+      "id": "go-at-someone__3"
+    }
+  ]
+}

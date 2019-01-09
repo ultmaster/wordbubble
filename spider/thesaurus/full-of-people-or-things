@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[contain]{containing} the [large_1]{largest} amount that will [fit_1]{fit} in a [particular_1]{particular} [place_1]{place}",
+      "entry": "full",
+      "id": "full#full__1"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [people_1]{people}, [especially]{especially} too many",
+      "entry": "crowded",
+      "id": "crowded#crowded__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [crowded]{crowded}",
+      "entry": "packed",
+      "id": "packed#packed__1"
+    },
+    {
+      "comment": "full of [people_1]{people}",
+      "entry": "busy",
+      "id": "busy_1#busy_1__11"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [thing]{things} or [people_1]{people} [close_1]{close} together",
+      "entry": "dense",
+      "id": "dense#dense__3"
+    },
+    {
+      "comment": "[small_1]{small} and [crowded]{crowded}",
+      "entry": "cramped",
+      "id": "cramped#cramped__1"
+    },
+    {
+      "comment": "[completely]{completely} full",
+      "entry": "bulging",
+      "id": "bulging#bulging__1"
+    },
+    {
+      "comment": "with so many [vehicle]{vehicles} or [people_1]{people} that it is [difficult]{difficult} to move around",
+      "entry": "congested",
+      "id": "congested#congested__1"
+    },
+    {
+      "comment": "[contain]{containing} or [consist]{consisting} of an [extremely]{extremely} [large_1]{large} [number_1]{number} of [people_1]{people}, [animal_1]{animals}, or [object_1]{objects} that are all [moving]{moving} around",
+      "entry": "teeming",
+      "id": "teeming#teeming__1"
+    },
+    {
+      "comment": "very [crowded]{crowded} with [people_1]{people} or [thing]{things}",
+      "entry": "jammed",
+      "id": "jammed#jammed__1"
+    }
+  ],
+  "thesaurus": "Full of people or things",
+  "type": "Synonyms"
+}

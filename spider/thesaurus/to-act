@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "to [perform]{perform} in [play_1]{plays} or [movie]{movies}",
+      "entry": "act",
+      "id": "act_2#act_2__17"
+    },
+    {
+      "comment": "to [say_1]{say} something in a [speech]{speech}, [play_1]{play}, etc. without [prepare]{preparing} or [writing]{writing} it before you [say_1]{say} it",
+      "entry": "ad-lib",
+      "id": "ad-lib_1#ad-lib_1__1"
+    },
+    {
+      "comment": "if [actor]{actors} [costar_1]{costar} in a [movie]{movie} or [play_1]{play}, they [act_1]{act} the [main_1]{main} [part_1]{parts} together",
+      "entry": "costar",
+      "id": "costar_2#costar_2__1"
+    },
+    {
+      "comment": "to take the [place_1]{place} of an [actor]{actor} by [pretend_1]{pretending} to be them in [difficult]{difficult} or [dangerous]{dangerous} [part_1]{parts} of a [movie]{movie}",
+      "entry": "double for",
+      "id": "double-for#double-for__1"
+    },
+    {
+      "comment": "to [perform]{perform} a [story]{story} or [event]{event} as a [play_1]{play}",
+      "entry": "enact",
+      "id": "enact#enact__1"
+    },
+    {
+      "comment": "if an [actor]{actor} [overact]{overacts}, they [perform]{perform} with too much [energy]{energy} or [emotion]{emotion} so that their [performance]{performance} seems [false]{false}",
+      "entry": "overact",
+      "id": "overact#overact__1"
+    },
+    {
+      "comment": "to have a [particular_1]{particular} part in a [play_1]{play} or [movie]{movie}",
+      "entry": "play",
+      "id": "play_1#play_1__24"
+    },
+    {
+      "comment": "to [act_1]{act} in a [particular_1]{particular} [play_1]{play}",
+      "entry": "play",
+      "id": "play_1#play_1__29"
+    },
+    {
+      "comment": "if an [actor]{actor} [portray]{portrays} a [person]{person}, they [play_1]{play} the part of that [person]{person} in a [movie]{movie}, [play_1]{play}, etc.",
+      "entry": "portray",
+      "id": "portray#portray__6"
+    },
+    {
+      "comment": "to be the [main_1]{main} [actor]{actor} or [performer]{performer} in a [movie]{movie}, [play_1]{play}, [television]{television} [program_1]{program}, etc.",
+      "entry": "star",
+      "id": "star_2#star_2__1"
+    },
+    {
+      "comment": "if a [movie]{movie}, [play_1]{play}, [television]{television} [program_1]{program}, etc. [star_1]{stars} someone, they are the [main_1]{main} [actor]{actor} or [performer]{performer} in it",
+      "entry": "star",
+      "id": "star_2#star_2__6"
+    },
+    {
+      "comment": "to [work_1]{work} as an [actor]{actor}",
+      "entry": "tread the boards",
+      "id": "tread-the-boards#tread-the-boards__1"
+    },
+    {
+      "comment": "to [work_1]{work} as an [understudy_1]{understudy} for a [particular_1]{particular} [actor]{actor}",
+      "entry": "understudy",
+      "id": "understudy_2#understudy_2__1"
+    }
+  ],
+  "thesaurus": "To act",
+  "type": "Related words"
+}

@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an amount of a [drug_1]{drug} that has been [measured]{measured} so that you can take it",
+      "examples": [
+        "If you are in [pain_1]{pain}, [increase_1]{increase} the dose of [painkiller]{painkillers}.",
+        "[take_1]{Taking} a low dose of [aspirin]{aspirin} can [help_1]{help} [prevent]{prevent} [heart_1]{heart} [attack_1]{attacks}.",
+        "a [lethal]{lethal} dose of [morphine]{morphine}"
+      ],
+      "id": "dose_1__1"
+    },
+    {
+      "def": "an amount of a [particular_1]{particular} [quality_1]{quality}",
+      "examples": [
+        "Marcus [added]{added} a [healthy]{healthy} dose of [skepticism]{skepticism} to the [discussion]{discussion}.",
+        "[local_1]{Local} [people_1]{people} were [exposed]{exposed} to [high_1]{high} [dose_1]{doses} of [radiation]{radiation}."
+      ],
+      "id": "dose_1__6"
+    }
+  ],
+  "word": "dose"
+}

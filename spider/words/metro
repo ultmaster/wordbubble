@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [subway]{subway}",
+      "examples": [],
+      "id": "metro__1"
+    },
+    {
+      "def": "a [city]{city} with a [population]{population} of over one [million]{million}",
+      "examples": [
+        "[people_1]{People} [living_1]{living} in Delhi have a [higher_1]{higher} [incidence]{incidence} of [diabetes]{diabetes} and [hypertension]{hypertension} [compared]{compared} to other [metro]{metros} [like_1]{like} Mumbai."
+      ],
+      "id": "metro__2"
+    }
+  ],
+  "word": "metro"
+}

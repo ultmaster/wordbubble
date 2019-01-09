@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [physical_1]{physical} [feeling_1]{feeling}",
+      "examples": [
+        "a [tingle_1]{tingling} sensation",
+        "a sensation of [nausea]{nausea}",
+        "He had the [uncomfortable]{uncomfortable} sensation that he was being [watch_1]{watched}."
+      ],
+      "id": "sensation__1"
+    },
+    {
+      "def": "the [ability_1]{ability} to [feel_1]{feel} something, [especially]{especially} by [touching_1]{touching} it",
+      "examples": [
+        "When she [awoke]{awoke} she had [lost_1]{lost} all sensation in both of her [legs]{legs}."
+      ],
+      "id": "sensation__7"
+    },
+    {
+      "def": "an [event]{event} that [cause_1]{causes} a [lot_1]{lot} of [excitement]{excitement} and interest",
+      "examples": [
+        "The show [cause_2]{caused} a sensation when it was first [perform]{performed}."
+      ],
+      "id": "sensation__9"
+    }
+  ],
+  "word": "sensation"
+}

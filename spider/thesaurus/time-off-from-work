@@ -1,0 +1,186 @@
+{
+  "entries": [
+    {
+      "comment": "the [habit]{habit} of not being at [school_1]{school} or [work_1]{work} when you should be, [usually]{usually} without a [good_1]{good} [reason_1]{reason}",
+      "entry": "absenteeism",
+      "id": "absenteeism#absenteeism__1"
+    },
+    {
+      "comment": "a rest from the [work_1]{work} or [job_1]{job} that you [usually]{usually} do",
+      "entry": "break",
+      "id": "break_2#break_2__6"
+    },
+    {
+      "comment": "a [period_1]{period} of time when most [people_1]{people} do not go to [work_1]{work}",
+      "entry": "break",
+      "id": "break_2#break_2__12"
+    },
+    {
+      "comment": "someone who takes a long break from their job in order to travel or do a different job, especially charity work in another country",
+      "entry": "career gapper",
+      "id": "career-gapper#career-gapper__1"
+    },
+    {
+      "comment": "a [short_1]{short} [period_1]{period} of time when you [stop_1]{stop} [working]{working} to [eat]{eat} or [drink_1]{drink} something",
+      "entry": "coffee break",
+      "id": "coffee-break#coffee-break__1"
+    },
+    {
+      "comment": "time [away_1]{away} from [work_1]{work} that you are [allow]{allowed} to have because someone in your [family_1]{family} is [sick_1]{sick} or has [die_1]{died}",
+      "entry": "compassionate leave",
+      "id": "compassionate-leave#compassionate-leave__1"
+    },
+    {
+      "comment": "time off [work_1]{work} that is [given_1]{given} to you [instead]{instead} of [money]{money} because you have [work_1]{worked} [extra_1]{extra} [hour]{hours}",
+      "entry": "comp time",
+      "id": "comp-time#comp-time__1"
+    },
+    {
+      "comment": "time when you can [relax]{relax} and not [work_1]{work}",
+      "entry": "downtime",
+      "id": "downtime#downtime__2"
+    },
+    {
+      "comment": "time [away_1]{away} from [work_1]{work} that your [employer]{employer} [give_1]{gives} you so that you can [study_1]{study}",
+      "entry": "educational leave",
+      "id": "educational-leave#educational-leave__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time during which someone is [allow]{allowed} to be [away_1]{away} from a [job_1]{job} or the [military]{military}",
+      "entry": "furlough",
+      "id": "furlough_1#furlough_1__1"
+    },
+    {
+      "comment": "a [period_1]{period} during which an [employee]{employee} who is [leave_1]{leaving} an [organization]{organization} [continue]{continues} to be [paid_1]{paid} but [does]{does} not go to [work_1]{work}, in [order_1]{order} to [stop_1]{stop} them [access_2]{accessing} or [share_1]{sharing} [confidential]{confidential} [information]{information}",
+      "entry": "gardening leave",
+      "id": "gardening-leave#gardening-leave__1"
+    },
+    {
+      "comment": "a [day]{day} when you [work_1]{work} or go to [school_1]{school} only in the [morning_1]{morning} or the [afternoon_1]{afternoon}",
+      "entry": "half-day",
+      "id": "half-day#half-day__1"
+    },
+    {
+      "comment": "a [period_1]{period} during which a [piece_1]{piece} of [equipment]{equipment} or someone [working]{working} for an [organization]{organization} is not [doing]{doing} anything",
+      "entry": "idle time",
+      "id": "idle-time#idle-time__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when you are not [working]{working} or [perform]{performing} an [activity]{activity} such as a [sport_1]{sport}, [usually]{usually} because you are [sick_1]{sick} or [injured]{injured}",
+      "entry": "layoff",
+      "id": "layoff#layoff__2"
+    },
+    {
+      "comment": "a [period_1]{period} of time [away_1]{away} from your [job_1]{job}, [school_1]{school}, or the [military]{military}",
+      "entry": "leave",
+      "id": "leave_2#leave_2__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time that you [officially]{officially} [spend]{spend} [away_1]{away} from a [job_1]{job}, [school_1]{school}, or the [military]{military}",
+      "entry": "leave of absence",
+      "id": "leave-of-absence#leave-of-absence__1"
+    },
+    {
+      "comment": "the [period_1]{period} of time during which you [stop_1]{stop} [work_1]{work} to have [lunch_1]{lunch} and [relax]{relax}",
+      "entry": "lunch break",
+      "id": "lunch-break#lunch-break__1"
+    },
+    {
+      "comment": "a [lunch_1]{lunch} [break_1]{break} that [continue]{continues} for about an [hour]{hour}",
+      "entry": "lunch hour",
+      "id": "lunch-hour#lunch-hour__1"
+    },
+    {
+      "comment": "time before and after the [birth]{birth} of a [baby_1]{baby} when a [woman]{woman} is [allow]{allowed} to be [away_1]{away} from her [job_1]{job}",
+      "entry": "maternity leave",
+      "id": "maternity-leave#maternity-leave__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time [away_1]{away} from a [job_1]{job} because you or your [partner_1]{partner} has [just_1]{just} had a [baby_1]{baby}",
+      "entry": "maternity/paternity/parental leave",
+      "id": "maternity-paternity-parental-leave#maternity-paternity-parental-leave__1"
+    },
+    {
+      "comment": "time that you [spend]{spend} [relaxing]{relaxing} and [doing]{doing} [thing]{things} that you [enjoy]{enjoy} rather than time [spent_1]{spent} [doing]{doing} [thing]{things} for other [people_1]{people}",
+      "entry": "me time",
+      "id": "me-time#me-time__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time [away_1]{away} from [work_1]{work} that is [allow]{allowed} to a [parent]{parent} to [care_1]{care} for a [baby_1]{baby} or [child]{child}",
+      "entry": "parental leave",
+      "id": "parental-leave#parental-leave__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when a [father_1]{father} is [allow]{allowed} to be [away_1]{away} from [work_1]{work} after the [birth]{birth} of his [child]{child}",
+      "entry": "paternity leave",
+      "id": "paternity-leave#paternity-leave__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when you do not [work_1]{work} and can [relax]{relax} and have a [vacation_1]{vacation}",
+      "entry": "R and R",
+      "id": "r-and-r#r-and-r__2"
+    },
+    {
+      "comment": "a short time between periods of work in an official organization, especially a court or parliament",
+      "entry": "recess",
+      "id": "recess_1#recess_1__1"
+    },
+    {
+      "comment": "a [period_1]{period} [away_1]{away} from [work_1]{work} when [people_1]{people} such as [college]{college} or [university]{university} [teacher]{teachers} can [study_1]{study}, rest, or [travel_1]{travel}",
+      "entry": "sabbatical",
+      "id": "sabbatical#sabbatical__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when [sailor]{sailors} on a [ship_1]{ship} are [allow]{allowed} to go on [land_1]{land} and do not have to [work_1]{work}",
+      "entry": "shore leave",
+      "id": "shore-leave#shore-leave__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time during which you do not [work_1]{work} because you are [sick_1]{sick}",
+      "entry": "sick leave",
+      "id": "sick-leave_2#sick-leave_2__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time [away_1]{away} from a [job_1]{job} because you are [sick_1]{sick}",
+      "entry": "sick leave",
+      "id": "sick-leave_1#sick-leave_1__1"
+    },
+    {
+      "comment": "a [day]{day} when [school_1]{schools} and [business]{businesses} are [shut_1]{shut} because there is too much [snow_1]{snow} for [people_1]{people} to [travel_1]{travel}",
+      "entry": "snow day",
+      "id": "snow-day#snow-day__1"
+    },
+    {
+      "comment": "time when you do not have to [work_1]{work} or [study_1]{study} and when you can do what you [like_1]{like}",
+      "entry": "spare time",
+      "id": "spare-time#spare-time__1"
+    },
+    {
+      "comment": "to not go to [work_1]{work} or [school_1]{school} because you are [sick_1]{sick}",
+      "entry": "stay off",
+      "id": "stay-off#stay-off__3"
+    },
+    {
+      "comment": "to have a [particular_1]{particular} amount of time [away_1]{away} from [work_1]{work}",
+      "entry": "take off",
+      "id": "take-off#take-off__7"
+    },
+    {
+      "comment": "a [coffee]{coffee} [break_1]{break}",
+      "entry": "tea break",
+      "id": "tea-break#tea-break__1"
+    },
+    {
+      "comment": "time when you are not at [work_1]{work} or in [school_1]{school}",
+      "entry": "time off",
+      "id": "time-off#time-off__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when you [stop_1]{stop} what you [usually]{usually} do and you rest or do something else [instead]{instead}",
+      "entry": "time out",
+      "id": "time-out#time-out__2"
+    }
+  ],
+  "thesaurus": "Time off from work",
+  "type": "Related words"
+}

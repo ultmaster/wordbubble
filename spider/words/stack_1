@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [pile_1]{pile} of [thing]{things} [place_2]{placed} one on top of another",
+      "examples": [
+        "a stack of [unopened]{unopened} [mail_1]{mail}",
+        "There were [stack_1]{stacks} of [book_1]{books} on the [floor_1]{floor}.",
+        "a stack of [firewood]{firewood}"
+      ],
+      "id": "stack_1__1"
+    },
+    {
+      "def": "a [chimney]{chimney}  (=a tube for letting smoke or gases escape into the air)",
+      "examples": [
+        "[smokestack]{smokestack}"
+      ],
+      "id": "stack_1__7"
+    },
+    {
+      "def": "the [place_1]{place} in a [library]{library} where [book_1]{books} are [store_2]{stored} and, where [ordinary]{ordinary} [reader]{readers} cannot go",
+      "examples": [],
+      "id": "stack_1__9"
+    },
+    {
+      "def": "a system for [store_2]{storing} [information]{information} on a computer",
+      "examples": [],
+      "id": "stack_1__10"
+    }
+  ],
+  "word": "stack"
+}

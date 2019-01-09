@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to go back to a [place_1]{place} where you were [earlier_1]{earlier}, or to come back from a [place_1]{place} where you have [just_1]{just} been",
+      "entry": "return",
+      "id": "return_1#return_1__1"
+    },
+    {
+      "comment": "to [return_1]{return} to a [place_1]{place}",
+      "entry": "get back",
+      "id": "get-back#get-back__1"
+    },
+    {
+      "comment": "to [return_1]{return} to a [person]{person}, [place_1]{place}, [subject_1]{subject}, or [activity]{activity}",
+      "entry": "go back",
+      "id": "go-back#go-back__1"
+    },
+    {
+      "comment": "to [return_1]{return} to a [place_1]{place}",
+      "entry": "come back",
+      "id": "come-back#come-back__1"
+    },
+    {
+      "comment": "to [return_1]{return} the same way that you came [instead]{instead} of [continuing]{continuing} on your way, or to [make_1]{make} someone do this",
+      "entry": "turn back",
+      "id": "turn-back#turn-back__1"
+    },
+    {
+      "comment": "to return along the same path or route that you have just traveled along",
+      "entry": "retrace",
+      "id": "retrace#retrace__1"
+    },
+    {
+      "comment": "to [return_1]{return} to a [place_1]{place} in [order_1]{order} to [say_1]{say} that you are [present_1]{present} or ready to [start_1]{start} [working]{working} again",
+      "entry": "report back",
+      "id": "report-back#report-back__4"
+    },
+    {
+      "comment": "to [bring]{bring} something with you when you come back from a [place_1]{place}",
+      "entry": "bring back",
+      "id": "bring-back#bring-back__8"
+    },
+    {
+      "comment": "to [begin]{begin} [return_1]{returning} to a [place_1]{place}",
+      "entry": "start back",
+      "id": "start-back#start-back__1"
+    },
+    {
+      "comment": "to [manage]{manage} to [return_1]{return} to a [particular_1]{particular} [place_1]{place}",
+      "entry": "regain",
+      "id": "regain#regain__6"
+    }
+  ],
+  "thesaurus": "To return, or to return something to a place",
+  "type": "Synonyms"
+}

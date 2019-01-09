@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [liquid_1]{liquid} [used]{used} for [prevent]{preventing} [machine_1]{machines} from [get]{getting} too [hot]{hot}",
+      "entry": "coolant",
+      "id": "coolant#coolant__1"
+    },
+    {
+      "comment": "a substance that makes your body produce more urine",
+      "entry": "diuretic",
+      "id": "diuretic#diuretic__1"
+    },
+    {
+      "comment": "a thick [substance]{substance} [similar]{similar} to [oil_1]{oil}, [used]{used} on [machine_1]{machine} [part_1]{parts} for [making]{making} them [work_1]{work} [smoothly]{smoothly}",
+      "entry": "grease",
+      "id": "grease_1#grease_1__1"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} to fill a [space_1]{space}",
+      "entry": "infill",
+      "id": "infill#infill__2"
+    },
+    {
+      "comment": "a [substance]{substance} that you use to [lubricate]{lubricate} something",
+      "entry": "lubricant",
+      "id": "lubricant#lubricant__1"
+    },
+    {
+      "comment": "a substance used for making something move forward, for example fuel for sending a rocket into space",
+      "entry": "propellant",
+      "id": "propellant#propellant__1"
+    },
+    {
+      "comment": "a [substance]{substance} or [medicine]{medicine} that [look_1]{looks} [like_1]{like} [ordinary]{ordinary} [salt_1]{salt}, [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "salts",
+      "id": "salt_1#salt_1__4"
+    },
+    {
+      "comment": "a [substance]{substance} that [make_1]{makes} a part of your body [work_1]{work} [fast_1]{faster} or [better_1]{better}",
+      "entry": "stimulant",
+      "id": "stimulant#stimulant__1"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} for [making]{making} a [liquid_1]{liquid} thick",
+      "entry": "thickener",
+      "id": "thickener#thickener__1"
+    },
+    {
+      "comment": "a [substance]{substance} that [leaves]{leaves} [sign_1]{signs} of where it has been, for [example]{example} as it [pass_1]{passes} through someone\u2019s body",
+      "entry": "tracer",
+      "id": "tracer#tracer__2"
+    },
+    {
+      "comment": "a [substance]{substance} [used]{used} for [making]{making} [thing]{things} [white_1]{white} or [white_1]{whiter}",
+      "entry": "whitener",
+      "id": "whitener#whitener__1"
+    }
+  ],
+  "thesaurus": "Substances by function",
+  "type": "Related words"
+}

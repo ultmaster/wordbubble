@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [person]{person} [waver]{wavers}, they are not [certain_1]{certain} about what to [say_1]{say} or do",
+      "examples": [
+        "Cynthia was [waver]{wavering} between [visit_1]{visiting} her [parent]{parents} and [going_1]{going} to Mexico.",
+        "Sarah didn\u2019t once waver in her [support_1]{support} for the [team_1]{team}.",
+        "Alfred has not [waver]{wavered} from his [decision_1]{decision} to move to France."
+      ],
+      "id": "waver__1"
+    },
+    {
+      "def": "if a [light_1]{light} or [image_1]{image} [waver]{wavers}, it is not [steady_1]{steady} and it [shake_1]{shakes} or [change_1]{changes} a [lot_1]{lot}",
+      "examples": [
+        "[candlelight]{candlelight} [waver]{wavering} in a [warm_1]{warm} [draft_1]{draft}"
+      ],
+      "id": "waver__5"
+    }
+  ],
+  "word": "waver"
+}

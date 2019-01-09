@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "to [remove]{remove} [middleman]{middlemen} such as [retailer]{retailers} or [bank_1]{banks} from a [supply_1]{supply} [chain_1]{chain} by [providing]{providing} [goods]{goods} and [service_1]{services} [directly_1]{directly} to the [consumer]{consumer}",
+      "entry": "disintermediate",
+      "id": "disintermediate#disintermediate__1"
+    },
+    {
+      "comment": "to [sell_1]{sell} something, [especially]{especially} a [financial]{financial} [product]{product}, to someone who [does]{does} not [need_1]{need} it and often cannot use it",
+      "entry": "mis-sell",
+      "id": "mis-sell#mis-sell__1"
+    },
+    {
+      "comment": "to [persuade]{persuade} a [customer]{customer} to [buy_1]{buy} more of a [product]{product} or a more [expensive]{expensive} [product]{product} than they had [intended_1]{intended}",
+      "entry": "upsell",
+      "id": "upsell#upsell__1"
+    },
+    {
+      "comment": "to [exchange_1]{exchange} something for [money]{money}",
+      "entry": "sell",
+      "id": "sell_1#sell_1__1"
+    },
+    {
+      "comment": "to [sell_1]{sell} [goods]{goods} [directly_1]{directly} to the [public_1]{public} for their own use",
+      "entry": "retail",
+      "id": "retail_2#retail_2__1"
+    },
+    {
+      "comment": "to [sell_1]{sell} something on the [street_1]{street} or by [going_1]{going} to [customer]{customers}, [instead]{instead} of in a [store_1]{store}",
+      "entry": "peddle",
+      "id": "peddle#peddle__1"
+    },
+    {
+      "comment": "to [sell_1]{sell} something at an [auction_1]{auction}",
+      "entry": "auction",
+      "id": "auction_2#auction_2__1"
+    },
+    {
+      "comment": "if a [store_1]{store} [stock_1]{stocks} [goods]{goods}, it has them [available]{available} for [sale]{sale}",
+      "entry": "stock",
+      "id": "stock_2#stock_2__1"
+    }
+  ],
+  "thesaurus": "To sell something",
+  "type": "Synonyms"
+}

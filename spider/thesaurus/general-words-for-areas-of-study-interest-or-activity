@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [particular_1]{particular} [subject_1]{subject}, [type_1]{type} of [activity]{activity}, etc.",
+      "entry": "area",
+      "id": "area#area__1"
+    },
+    {
+      "comment": "a [subject_1]{subject} that you [study_1]{study}, or a [type_1]{type} of [work_1]{work} that you do",
+      "entry": "field",
+      "id": "field_1#field_1__15"
+    },
+    {
+      "comment": "a [subject_1]{subject} that [people_1]{people} [study_1]{study}, [especially]{especially} at a [university]{university}",
+      "entry": "discipline",
+      "id": "discipline_1#discipline_1__9"
+    },
+    {
+      "comment": "a [particular_1]{particular} [area]{area} of [activity]{activity} or [life]{life}",
+      "entry": "domain",
+      "id": "domain#domain__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [area]{area} of interest, [activity]{activity}, [work_1]{work}, etc. that is one of many [part_1]{parts} of [life]{life}",
+      "entry": "sphere",
+      "id": "sphere#sphere__2"
+    },
+    {
+      "comment": "a [particular_1]{particular} part of a [wide_1]{wider} [subject_1]{subject} that a [person]{person} [concentrate_1]{concentrates} on or is an [expert_1]{expert} in",
+      "entry": "specialty",
+      "id": "specialty#specialty__3"
+    },
+    {
+      "comment": "an [area]{area} of [knowledge]{knowledge}, [study_1]{study}, or [experience_1]{experience}",
+      "entry": "territory",
+      "id": "territory#territory__15"
+    },
+    {
+      "comment": "a [particular_1]{particular} interest or [activity]{activity}, and the [people_1]{people} and [place_1]{places} that are [involved]{involved} in it",
+      "entry": "scene",
+      "id": "scene#scene__14"
+    },
+    {
+      "comment": "a [particular_1]{particular} [area]{area} of [knowledge]{knowledge}, [experience_1]{experience}, interest, etc.",
+      "entry": "realm",
+      "id": "realm#realm__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [work_1]{work} or [area]{area} of interest",
+      "entry": "line",
+      "id": "line_1#line_1__61"
+    }
+  ],
+  "thesaurus": "General words for areas of study, interest or activity",
+  "type": "Synonyms"
+}

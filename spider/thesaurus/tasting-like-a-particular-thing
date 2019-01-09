@@ -1,0 +1,141 @@
+{
+  "entries": [
+    {
+      "comment": "[buttery]{buttery} [food]{food} has a [lot_1]{lot} of [butter_1]{butter} in it or [taste_1]{tastes} as if it has [butter_1]{butter} in it",
+      "entry": "buttery",
+      "id": "buttery#buttery__1"
+    },
+    {
+      "comment": "feeling or tasting like chalk",
+      "entry": "chalky",
+      "id": "chalky#chalky__3"
+    },
+    {
+      "comment": "[tasting]{tasting} [like_1]{like} [cheese]{cheese}, or [tasting]{tasting} of [cheese]{cheese}",
+      "entry": "cheesy",
+      "id": "cheesy#cheesy__3"
+    },
+    {
+      "comment": "made from or [tasting]{tasting} of [chocolate]{chocolate}",
+      "entry": "chocolate",
+      "id": "chocolate#chocolate__4"
+    },
+    {
+      "comment": "[chocolatey]{chocolatey} [food]{food} has a [lot_1]{lot} of [chocolate]{chocolate} in it",
+      "entry": "chocolatey",
+      "id": "chocolatey#chocolatey__1"
+    },
+    {
+      "comment": "[tasting]{tasting} or [smell_2]{smelling} [like_1]{like} [fish_1]{fish}",
+      "entry": "fishy",
+      "id": "fishy#fishy__1"
+    },
+    {
+      "comment": "[like_1]{like} [flour_1]{flour} in [taste_1]{taste} or [appearance]{appearance}",
+      "entry": "floury",
+      "id": "floury#floury__2"
+    },
+    {
+      "comment": "a [flowery]{flowery} [smell_1]{smell} or [taste_1]{taste} [remind]{reminds} you of [flower_1]{flowers}",
+      "entry": "flowery",
+      "id": "flowery#flowery__3"
+    },
+    {
+      "comment": "[tasting]{tasting} or [smell_2]{smelling} [like_1]{like} [fruit_1]{fruit}",
+      "entry": "fruity",
+      "id": "fruity#fruity__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [gamy]{gamy}",
+      "entry": "gamey",
+      "id": "gamey#gamey__1"
+    },
+    {
+      "comment": "with the [strong]{strong} [flavor_1]{flavor} of a [wild_1]{wild} [animal_1]{animal} or [bird]{bird}",
+      "entry": "gamy",
+      "id": "gamy#gamy__1"
+    },
+    {
+      "comment": "[smell_2]{smelling} or [tasting]{tasting} of [garlic]{garlic}",
+      "entry": "garlicky",
+      "id": "garlicky#garlicky__1"
+    },
+    {
+      "comment": "[contain]{containing} or [tasting]{tasting} of [ginger_1]{ginger}",
+      "entry": "ginger",
+      "id": "ginger_2#ginger_2__1"
+    },
+    {
+      "comment": "[sweet_1]{sweet} [like_1]{like} [honey]{honey}",
+      "entry": "honeyed",
+      "id": "honeyed#honeyed__2"
+    },
+    {
+      "comment": "with a [taste_1]{taste} [like_1]{like} [metal_1]{metal}",
+      "entry": "metallic",
+      "id": "metallic#metallic__7"
+    },
+    {
+      "comment": "flavored with mint",
+      "entry": "minted",
+      "id": "minted#minted__1"
+    },
+    {
+      "comment": "smelling or tasting of mint",
+      "entry": "minty",
+      "id": "minty#minty__1"
+    },
+    {
+      "comment": "[contain]{containing} [nuts_1]{nuts}, or [have]{having} the [taste_1]{taste} of [nuts_1]{nuts}",
+      "entry": "nutty",
+      "id": "nutty#nutty__3"
+    },
+    {
+      "comment": "similar to a peach in color, taste, or smell",
+      "entry": "peachy",
+      "id": "peachy#peachy__2"
+    },
+    {
+      "comment": "[flavored]{flavored} with or [tasting]{tasting} [like_1]{like} [pepper_1]{pepper}",
+      "entry": "peppery",
+      "id": "peppery#peppery__1"
+    },
+    {
+      "comment": "similar to a plum in color or flavor",
+      "entry": "plummy",
+      "id": "plummy#plummy__1"
+    },
+    {
+      "comment": "[contain]{containing} [salt_1]{salt}, or [tasting]{tasting} [like_1]{like} [salt_1]{salt}",
+      "entry": "salty",
+      "id": "salty#salty__1"
+    },
+    {
+      "comment": "[tasting]{tasting} or [smell_2]{smelling} of [smoke_1]{smoke}",
+      "entry": "smoky",
+      "id": "smoky#smoky__4"
+    },
+    {
+      "comment": "[tasting]{tasting} [sweet_1]{sweet} from [sugar_1]{sugar}",
+      "entry": "sugary",
+      "id": "sugary#sugary__1"
+    },
+    {
+      "comment": "[tasting]{tasting} [like_1]{like} [sugar_1]{sugar}",
+      "entry": "sweet",
+      "id": "sweet_1#sweet_1__1"
+    },
+    {
+      "comment": "made from [vanilla_1]{vanilla}, or with [vanilla_1]{vanilla} [added]{added} for [flavor_1]{flavor}",
+      "entry": "vanilla",
+      "id": "vanilla_2#vanilla_2__1"
+    },
+    {
+      "comment": "[tasting]{tasting} of [vinegar]{vinegar}",
+      "entry": "vinegary",
+      "id": "vinegary#vinegary__1"
+    }
+  ],
+  "thesaurus": "Tasting like a particular thing",
+  "type": "Related words"
+}

@@ -1,0 +1,166 @@
+{
+  "entries": [
+    {
+      "comment": "the amount of something that you can [carry_1]{carry} in your [arms]{arms}",
+      "entry": "armful",
+      "id": "armful#armful__1"
+    },
+    {
+      "comment": "the [thing]{things} in a [bag_1]{bag}, or the amount that it [contain]{contains}",
+      "entry": "bag",
+      "id": "bag_1#bag_1__5"
+    },
+    {
+      "comment": "the [thing]{things} in a [basket]{basket}, or the amount that it [contain]{contains}",
+      "entry": "basket",
+      "id": "basket#basket__4"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} or amount of something that can fill a [boat]{boat}",
+      "entry": "boatload",
+      "id": "boatload#boatload__1"
+    },
+    {
+      "comment": "the [thing]{things} in a [box_1]{box}, or the amount that a [box_1]{box} [contain]{contains}",
+      "entry": "box",
+      "id": "box_1#box_1__4"
+    },
+    {
+      "comment": "the [thing]{things} in a [box_1]{box}, or the amount that a [box_1]{box} [contain]{contains}",
+      "entry": "boxful",
+      "id": "boxful#boxful__1"
+    },
+    {
+      "comment": "the [thing]{things} in a [bucket_1]{bucket}, or the amount a [bucket_1]{bucket} [contain]{contains}",
+      "entry": "bucket",
+      "id": "bucket_1#bucket_1__2"
+    },
+    {
+      "comment": "the amount that is contained in a bucket",
+      "entry": "bucketful",
+      "id": "bucketful#bucketful__1"
+    },
+    {
+      "comment": "the amount that you can carry in a cart",
+      "entry": "cartload",
+      "id": "cartload#cartload__1"
+    },
+    {
+      "comment": "the amount that a [dessertspoon]{dessertspoon} [hold_1]{holds}",
+      "entry": "dessertspoon",
+      "id": "dessertspoon#dessertspoon__2"
+    },
+    {
+      "comment": "an amount of something that has [gotten]{gotten} into your [eye_1]{eye}",
+      "entry": "eyeful",
+      "id": "eyeful#eyeful__1"
+    },
+    {
+      "comment": "the amount of something that you can hold in your fist",
+      "entry": "fistful",
+      "id": "fistful#fistful__1"
+    },
+    {
+      "comment": "the [quantity]{quantity} of something that you can [hold_1]{hold} in your hand",
+      "entry": "handful",
+      "id": "handful#handful__1"
+    },
+    {
+      "comment": "a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things} in a [house_1]{house}, [especially]{especially} so many that it would be [difficult]{difficult} for more to [fit_1]{fit} in",
+      "entry": "houseful",
+      "id": "houseful#houseful__1"
+    },
+    {
+      "comment": "the amount that a [jigger]{jigger} [hold_1]{holds}",
+      "entry": "jigger",
+      "id": "jigger#jigger__2"
+    },
+    {
+      "comment": "the amount [contain]{contained} in a [ladle_1]{ladle}",
+      "entry": "ladle",
+      "id": "ladle_1#ladle_1__2"
+    },
+    {
+      "comment": "the [thing]{things} in a [pail]{pail}, or the amount that a [pail]{pail} [contain]{contains}",
+      "entry": "pail",
+      "id": "pail#pail__2"
+    },
+    {
+      "comment": "the [content_2]{contents} of a [pan_1]{pan}, or the amount that a [pan_1]{pan} [hold_1]{holds}",
+      "entry": "pan",
+      "id": "pan_1#pan_1__4"
+    },
+    {
+      "comment": "the amount of something that can be put in a [pocket_1]{pocket}",
+      "entry": "pocketful",
+      "id": "pocketful#pocketful__1"
+    },
+    {
+      "comment": "the amount that a pot can hold",
+      "entry": "potful",
+      "id": "potful#potful__1"
+    },
+    {
+      "comment": "the amount of [string_1]{string}, etc. on one [reel_1]{reel}",
+      "entry": "reel",
+      "id": "reel_1#reel_1__4"
+    },
+    {
+      "comment": "a [large_1]{large} [number_1]{number} of [people_1]{people} or [thing]{things} that fill a [room_1]{room}",
+      "entry": "roomful",
+      "id": "roomful#roomful__1"
+    },
+    {
+      "comment": "the [thing]{things} [inside_1]{inside} a [sack_1]{sack}",
+      "entry": "sack",
+      "id": "sack_1#sack_1__3"
+    },
+    {
+      "comment": "the amount that a sack can hold",
+      "entry": "sackful",
+      "id": "sackful#sackful__1"
+    },
+    {
+      "comment": "an amount of something that a [scoop_1]{scoop} [hold_1]{holds}",
+      "entry": "scoop",
+      "id": "scoop_2#scoop_2__3"
+    },
+    {
+      "comment": "the amount of [liquid_1]{liquid} or [powder_1]{powder} that comes out of a [container]{container} when you [shake_1]{shake} it once",
+      "entry": "shake",
+      "id": "shake_2#shake_2__5"
+    },
+    {
+      "comment": "an amount of [goods]{goods}, or a [number_1]{number} of [people_1]{people}, [carry_1]{carried} on a [ship_1]{ship}",
+      "entry": "shipload",
+      "id": "shipload#shipload__1"
+    },
+    {
+      "comment": "the amount of something that can [fit_1]{fit} on a [shovel_1]{shovel}",
+      "entry": "shovelful",
+      "id": "shovelful#shovelful__1"
+    },
+    {
+      "comment": "the amount of a [substance]{substance} that can be [contain]{contained} in a [spoon_1]{spoon}",
+      "entry": "spoonful",
+      "id": "spoonful#spoonful__1"
+    },
+    {
+      "comment": "the [quantity]{quantity} of [goods]{goods} that a [truck_1]{truck} can [carry_1]{carry}",
+      "entry": "truckload",
+      "id": "truckload#truckload__1"
+    },
+    {
+      "comment": "the amount of something that a [tub]{tub} [contain]{contains}",
+      "entry": "tub",
+      "id": "tub#tub__8"
+    },
+    {
+      "comment": "the amount of something that a tub contains",
+      "entry": "tubful",
+      "id": "tubful#tubful__1"
+    }
+  ],
+  "thesaurus": "Amounts of things described according to what holds them",
+  "type": "Related words"
+}

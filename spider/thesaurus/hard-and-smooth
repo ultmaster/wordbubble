@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[completely]{completely} even with no rough [area]{areas} or [lump_1]{lumps}",
+      "entry": "smooth",
+      "id": "smooth_1#smooth_1__1"
+    },
+    {
+      "comment": "[smooth_1]{smooth} on the [surface_1]{surface}, with no [lump_1]{lumps} or [slope_1]{slopes}",
+      "entry": "flat",
+      "id": "flat_1#flat_1__4"
+    },
+    {
+      "comment": "[flat_1]{flat} and [smooth_1]{smooth}",
+      "entry": "level",
+      "id": "level_2#level_2__3"
+    },
+    {
+      "comment": "[flat_1]{flat} and [level_1]{level}, without any [hole_1]{holes} or [raised]{raised} [area]{areas}",
+      "entry": "even",
+      "id": "even_2#even_2__1"
+    },
+    {
+      "comment": "a [slippery]{slippery} [surface_1]{surface}, [object_1]{object}, etc. is [difficult]{difficult} to move on or to [hold_1]{hold} because it is [smooth_1]{smooth}, [wet_1]{wet}, or [covered_1]{covered} in something such as [ice_1]{ice} or [oil_1]{oil}",
+      "entry": "slippery",
+      "id": "slippery#slippery__1"
+    },
+    {
+      "comment": "[smooth_1]{smooth} and [shiny]{shiny} [like_1]{like} [glass]{glass}",
+      "entry": "glassy",
+      "id": "glassy#glassy__1"
+    },
+    {
+      "comment": "[decorate]{decorated} or [protected]{protected} by a [smooth_1]{smooth} [shiny]{shiny} top [layer_1]{layer}",
+      "entry": "glazed",
+      "id": "glazed#glazed__3"
+    },
+    {
+      "comment": "looking or feeling slippery, especially in an unpleasant way",
+      "entry": "slithery",
+      "id": "slithery#slithery__1"
+    },
+    {
+      "comment": "in a way that [produce_1]{produces} a [smooth_1]{smooth}, even [surface_1]{surface}",
+      "entry": "smoothly",
+      "id": "smoothly#smoothly__8"
+    },
+    {
+      "comment": "not [pointed]{pointed} or [sharp_1]{sharp}",
+      "entry": "blunt",
+      "id": "blunt_1#blunt_1__1"
+    }
+  ],
+  "thesaurus": "Hard and smooth",
+  "type": "Synonyms"
+}

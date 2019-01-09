@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "on sale",
+  "senses": [
+    {
+      "def": "[available]{available} for [people_1]{people} to [buy_1]{buy}",
+      "examples": [
+        "[ticket_1]{Tickets} for the [performance]{performance} are on [sale]{sale} at the [box_1]{box} [office]{office}."
+      ],
+      "id": "on-sale__1"
+    },
+    {
+      "def": "[available]{available} for [people_1]{people} to [buy_1]{buy} at a [price_1]{price} that is less than the [usual]{usual} [price_1]{price}. The [british]{British} [expression]{expression} is on offer",
+      "examples": [
+        "[furniture]{Furniture} [usually]{usually} [go_1]{goes} on [sale]{sale} in January."
+      ],
+      "id": "on-sale__3"
+    }
+  ]
+}

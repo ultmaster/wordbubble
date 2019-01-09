@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "match up",
+  "senses": [
+    {
+      "def": "if one thing [match_1]{matches} up with another, or if they [match_1]{match} up, they are the same or have [similar]{similar} [quality_1]{qualities}",
+      "examples": [
+        "[information]{Information} [received]{received} from the two [informant]{informants} didn\u2019t [match_1]{match} up.",
+        "You have to [match_1]{match} up the [inventor]{inventor} to the [invention]{invention}."
+      ],
+      "id": "match-up__1"
+    },
+    {
+      "def": "to be as [good_1]{good} as someone or something",
+      "examples": [
+        "The British [sci-fi]{sci-fi} [movie]{movie} has never [match_2]{matched} up to its American [counterpart]{counterpart}.",
+        "His [performance]{performance} has not [match_2]{matched} up to [expectation]{expectations}."
+      ],
+      "id": "match-up__5"
+    }
+  ]
+}

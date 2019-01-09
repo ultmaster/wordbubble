@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[available]{available} for [people_1]{people} to [buy_1]{buy}",
+      "entry": "for sale",
+      "id": "for-sale#for-sale__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that a [new]{new} [product]{product}, [book_1]{book}, [record_1]{record}, etc. is [available]{available} for [people_1]{people} to [buy_1]{buy}",
+      "entry": "out",
+      "id": "out_1#out_1__56"
+    },
+    {
+      "comment": "[available]{available} for anyone to [buy_1]{buy} or [sell_1]{sell}",
+      "entry": "on the open market",
+      "id": "on-the-open-market#on-the-open-market__1"
+    },
+    {
+      "comment": "[available]{available}, for [example]{example} for [people_1]{people} to [buy_1]{buy} or use",
+      "entry": "on offer",
+      "id": "on-offer#on-offer__1"
+    },
+    {
+      "comment": "[available]{available} to [buy_1]{buy}",
+      "entry": "on the market",
+      "id": "on-the-market#on-the-market__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [available]{available} in a [store_1]{store}",
+      "entry": "in",
+      "id": "in_1#in_1__152"
+    },
+    {
+      "comment": "an [upcoming]{upcoming} [book_1]{book}, [record_1]{record}, or [movie]{movie} will [soon]{soon} be [available]{available} to [buy_1]{buy} or see",
+      "entry": "upcoming",
+      "id": "upcoming#upcoming__3"
+    },
+    {
+      "comment": "[available]{available} for [people_1]{people} to [buy_1]{buy}",
+      "entry": "on sale",
+      "id": "on-sale#on-sale__1"
+    },
+    {
+      "comment": "[available]{available} for [people_1]{people} to [buy_1]{buy}",
+      "entry": "up for sale",
+      "id": "up-for-sale#up-for-sale__1"
+    },
+    {
+      "comment": "to be [available]{available} to [buy_1]{buy} for the first time",
+      "entry": "hit the town/street, etc.",
+      "id": "hit-the-town-street-etc#hit-the-town-street-etc__1"
+    }
+  ],
+  "thesaurus": "Available to buy",
+  "type": "Synonyms"
+}

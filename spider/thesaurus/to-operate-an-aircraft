@@ -1,0 +1,191 @@
+{
+  "entries": [
+    {
+      "comment": "to take [people_1]{people} or [thing]{things} into or [away_1]{away} from a [place_1]{place} by [aircraft]{aircraft}, [especially]{especially} in a [dangerous]{dangerous} [situation]{situation}",
+      "entry": "airlift",
+      "id": "airlift_2#airlift_2__1"
+    },
+    {
+      "comment": "if an [airplane]{airplane} [bank_1]{banks}, it [turn_1]{turns} [quickly]{quickly} in the [air_1]{air}, with one [wing_1]{wing} [higher_1]{higher} than the other",
+      "entry": "bank",
+      "id": "bank_2#bank_2__7"
+    },
+    {
+      "comment": "to [fly_1]{fly} an [airplane]{airplane} low over [people_1]{people} or [building]{buildings}",
+      "entry": "buzz",
+      "id": "buzz_1#buzz_1__18"
+    },
+    {
+      "comment": "to be in [charge_1]{charge} of a [ship_1]{ship} or [aircraft]{aircraft}",
+      "entry": "captain",
+      "id": "captain_2#captain_2__3"
+    },
+    {
+      "comment": "if an [aircraft]{aircraft} [climb_1]{climbs}, it [move_1]{moves} up to a [higher_1]{higher} [position_1]{position} in the [air_1]{air}",
+      "entry": "climb",
+      "id": "climb_1#climb_1__21"
+    },
+    {
+      "comment": "if an [aircraft]{aircraft} comes down, it [land_1]{lands} or [crash_1]{crashes}",
+      "entry": "come down",
+      "id": "come-down#come-down__5"
+    },
+    {
+      "comment": "if an [aircraft]{aircraft} [ditch_1]{ditches}, or if the [pilot_1]{pilot} [ditch_1]{ditches} it, it comes down in the [ocean]{ocean} in an [emergency_1]{emergency}",
+      "entry": "ditch",
+      "id": "ditch_2#ditch_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} an [aircraft]{aircraft} [crash_1]{crash} to the [ground_1]{ground} by [attack_2]{attacking} it while it is [flying_1]{flying}",
+      "entry": "down",
+      "id": "down_3#down_3__3"
+    },
+    {
+      "comment": "to [let_1]{let} something [fall_1]{fall} from an [aircraft]{aircraft}",
+      "entry": "drop",
+      "id": "drop_1#drop_1__18"
+    },
+    {
+      "comment": "if a [pilot_1]{pilot} [eject]{ejects}, they are [deliberately]{deliberately} [thrown]{thrown} out of their [plane_1]{plane} by their [eject#eject__6]{ejection} [seat_1]{seat}, because the [plane_1]{plane} is [likely_1]{likely} to [crash_1]{crash}",
+      "entry": "eject",
+      "id": "eject#eject__5"
+    },
+    {
+      "comment": "to [test_1]{test} a [new]{new} [airplane]{airplane} by [flying_1]{flying} it in [order_1]{order} to [make_1]{make} [certain_1]{certain} that it is [safe_1]{safe}",
+      "entry": "flight-test",
+      "id": "flight-test#flight-test__1"
+    },
+    {
+      "comment": "if an [airplane]{airplane} [flies]{flies}, it [move_1]{moves} through the [air_1]{air}",
+      "entry": "fly",
+      "id": "fly_1#fly_1__10"
+    },
+    {
+      "comment": "to [control_1]{control} a [plane_1]{plane} when it is in the [air_1]{air}",
+      "entry": "fly",
+      "id": "fly_1#fly_1__12"
+    },
+    {
+      "comment": "to take [people_1]{people} or [goods]{goods} somewhere by [plane_1]{plane}",
+      "entry": "fly",
+      "id": "fly_1#fly_1__16"
+    },
+    {
+      "comment": "to [force_1]{force} an [airplane]{airplane} to [land_1]{land}",
+      "entry": "force down",
+      "id": "force-down#force-down__5"
+    },
+    {
+      "comment": "to [fly_1]{fly} in a [glider]{glider}",
+      "entry": "glide",
+      "id": "glide#glide__6"
+    },
+    {
+      "comment": "to [stop_1]{stop} an [airplane]{airplane} from [leave_1]{leaving} the [ground_1]{ground}, or to [stop_1]{stop} [people_1]{people} from [flying_1]{flying} somewhere",
+      "entry": "ground",
+      "id": "ground_2#ground_2__1"
+    },
+    {
+      "comment": "if a [plane_1]{plane} or [boat]{boat} [land_1]{lands} [people_1]{people} or [goods]{goods} somewhere, it [bring]{brings} them there",
+      "entry": "land",
+      "id": "land_2#land_2__6"
+    },
+    {
+      "comment": "if an [aircraft]{aircraft} [land_1]{lands}, it comes down to the [ground_1]{ground}",
+      "entry": "land",
+      "id": "land_2#land_2__8"
+    },
+    {
+      "comment": "to [bring]{bring} a [plane_1]{plane} down to the [ground_1]{ground}",
+      "entry": "land",
+      "id": "land_2#land_2__13"
+    },
+    {
+      "comment": "to [airlift_1]{airlift} something or someone",
+      "entry": "lift",
+      "id": "lift_1#lift_1__33"
+    },
+    {
+      "comment": "when an [aircraft]{aircraft} or [space_1]{space} [vehicle]{vehicle} [lift_1]{lifts} off, it [go_1]{goes} up from the [ground_1]{ground} into the [air_1]{air}",
+      "entry": "lift off",
+      "id": "lift-off_1#lift-off_1__1"
+    },
+    {
+      "comment": "if a [plane_1]{plane} [lose]{loses} [height]{height}, it [move_1]{moves} down to a [lower_1]{lower} [level_1]{level} in the [sky_1]{sky}, [usually]{usually} because of a [problem]{problem}",
+      "entry": "lose height",
+      "id": "lose-height#lose-height__1"
+    },
+    {
+      "comment": "to [fly_1]{fly} over an [area]{area} in an [airplane]{airplane}",
+      "entry": "overfly",
+      "id": "overfly#overfly__1"
+    },
+    {
+      "comment": "to [fly_1]{fly} an [aircraft]{aircraft}",
+      "entry": "pilot",
+      "id": "pilot_2#pilot_2__1"
+    },
+    {
+      "comment": "if a [ship_1]{ship} or [aircraft]{aircraft} [pitch_1]{pitches}, it [move_1]{moves} up and down [suddenly]{suddenly}",
+      "entry": "pitch",
+      "id": "pitch_2#pitch_2__23"
+    },
+    {
+      "comment": "if an [aircraft]{aircraft} [put]{puts} down, or if someone [put]{puts} it down, it [land_1]{lands}",
+      "entry": "put down",
+      "id": "put-down#put-down__18"
+    },
+    {
+      "comment": "if aircraft or pilots scramble, they take off quickly, for example to attack an enemy or because of an emergency",
+      "entry": "scramble",
+      "id": "scramble_1#scramble_1__11"
+    },
+    {
+      "comment": "if aircraft are scrambled, their crews are ordered to take off quickly, for example to attack an enemy or because of an emergency",
+      "entry": "scramble",
+      "id": "scramble_1#scramble_1__13"
+    },
+    {
+      "comment": "to [make_1]{make} [plane_1]{planes} [fly_1]{fly} above or below other [plane_1]{planes} while [wait_1]{waiting} to [land_1]{land}",
+      "entry": "stack",
+      "id": "stack_2#stack_2__8"
+    },
+    {
+      "comment": "to [fly_1]{fly} above or below other [plane_1]{planes} while [wait_1]{waiting} to [land_1]{land}",
+      "entry": "stack up",
+      "id": "stack-up#stack-up__7"
+    },
+    {
+      "comment": "if an [aircraft]{aircraft} [take_1]{takes} off, it [leaves]{leaves} the [ground_1]{ground} and [start_1]{starts} [flying_1]{flying}",
+      "entry": "take off",
+      "id": "take-off#take-off__3"
+    },
+    {
+      "comment": "to use a [radio_1]{radio} to [explain]{explain} to someone who is [flying_1]{flying} an [airplane]{airplane} how to [land_1]{land} it",
+      "entry": "talk down",
+      "id": "talk-down#talk-down__5"
+    },
+    {
+      "comment": "if an [airplane]{airplane} [taxi_2]{taxies}, it [move_1]{moves} on its [wheel_1]{wheels} on the [ground_1]{ground}",
+      "entry": "taxi",
+      "id": "taxi_2#taxi_2__1"
+    },
+    {
+      "comment": "if an [aircraft]{aircraft} or [space_1]{space} [vehicle]{vehicle} [touch_1]{touches} down, it [land_1]{lands}",
+      "entry": "touch down",
+      "id": "touch-down#touch-down__1"
+    },
+    {
+      "comment": "to change the position of the flaps on an airplane so that it is balanced and under control",
+      "entry": "trim",
+      "id": "trim_1#trim_1__9"
+    },
+    {
+      "comment": "if an airplane yaws, it turns to the side without moving up or down and without doing a roll",
+      "entry": "yaw",
+      "id": "yaw#yaw__2"
+    }
+  ],
+  "thesaurus": "To operate an aircraft",
+  "type": "Related words"
+}

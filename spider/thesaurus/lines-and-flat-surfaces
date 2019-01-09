@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "a [curved]{curved} [shape_1]{shape} or [line_1]{line}",
+      "entry": "arc",
+      "id": "arc_1#arc_1__1"
+    },
+    {
+      "comment": "a part of the [line_1]{line} that [form_1]{forms} the [outside]{outside} of a [circle_1]{circle}",
+      "entry": "arc",
+      "id": "arc_1#arc_1__6"
+    },
+    {
+      "comment": "an [imaginary]{imaginary} [line_1]{line} that [divide_1]{divides} a [square_1]{square}, [circle_1]{circle}, or other [regular_1]{regular} [shape_1]{shape} into two [equal_1]{equal} [halves]{halves}",
+      "entry": "axis",
+      "id": "axis#axis__3"
+    },
+    {
+      "comment": "a [straight_1]{straight} [line_1]{line} that [connect]{connects} two [point_1]{points} in a [circle_1]{circle} or [curved]{curved} [line_1]{line}",
+      "entry": "chord",
+      "id": "chord#chord__3"
+    },
+    {
+      "comment": "the way in which something [curve_1]{curves}",
+      "entry": "curvature",
+      "id": "curvature#curvature__1"
+    },
+    {
+      "comment": "a [straight_1]{straight} [slope_2#slope_2__5]{sloping} [line_1]{line} across a [flat_1]{flat} [shape_1]{shape} or [surface_1]{surface}",
+      "entry": "diagonal",
+      "id": "diagonal_2#diagonal_2__1"
+    },
+    {
+      "comment": "a [straight_1]{straight} [line_1]{line} that [cross_1]{crosses} a [circle_1]{circle} through the [center_1]{center}, or the [length]{length} of this [line_1]{line}",
+      "entry": "diameter",
+      "id": "diameter#diameter__1"
+    },
+    {
+      "comment": "a [horizontal_1]{horizontal} [line_1]{line} or [position_1]{position}",
+      "entry": "horizontal",
+      "id": "horizontal_2#horizontal_2__1"
+    },
+    {
+      "comment": "a flat surface that forms a slope, making an angle of less than 90 degrees with a horizontal surface",
+      "entry": "inclined plane",
+      "id": "inclined-plane#inclined-plane__1"
+    },
+    {
+      "comment": "an [edge_1]{edge} that [show_1]{shows} the [shape_1]{shape} of something",
+      "entry": "line",
+      "id": "line_1#line_1__11"
+    },
+    {
+      "comment": "a [line_1]{line} that [show_1]{shows} the [outer_1]{outer} [edge_1]{edge} or [shape_1]{shape} of something",
+      "entry": "outline",
+      "id": "outline_2#outline_2__8"
+    },
+    {
+      "comment": "a [curve_1]{curve} that is [similar]{similar} in [shape_1]{shape} to the [rising]{rising} and [fall_1]{falling} [path]{path} of an [object_1]{object} that is [thrown]{thrown} into the [air_1]{air}",
+      "entry": "parabola",
+      "id": "parabola#parabola__1"
+    },
+    {
+      "comment": "a [line_1]{line} that is [perpendicular_1]{perpendicular} to another [line_1]{line}",
+      "entry": "perpendicular",
+      "id": "perpendicular_2#perpendicular_2__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [surface_1]{surface}",
+      "entry": "plane",
+      "id": "plane_1#plane_1__9"
+    },
+    {
+      "comment": "a [flat_1]{flat} [surface_1]{surface} in which a [straight_1]{straight} [line_1]{line} between any two [point_1]{points} will [lie_1]{lie} [completely]{completely} on that [surface_1]{surface}",
+      "entry": "plane",
+      "id": "plane_1#plane_1__11"
+    },
+    {
+      "comment": "the [distance_1]{distance} from the [center_1]{center} of a [circle_1]{circle} to its [edge_1]{edge}, or a [straight_1]{straight} [line_1]{line} from the [center_1]{center} to the [edge_1]{edge}",
+      "entry": "radius",
+      "id": "radius#radius__1"
+    },
+    {
+      "comment": "a part of a [line_1]{line} or [curve_1]{curve} between any two [point_1]{points} on it",
+      "entry": "segment",
+      "id": "segment#segment__6"
+    },
+    {
+      "comment": "a part of a [circle_1]{circle} that is [form_2]{formed} by a [straight_1]{straight} [line_1]{line} [going_1]{going} across it but not [passing_1]{passing} through the [center_1]{center}",
+      "entry": "segment",
+      "id": "segment#segment__7"
+    },
+    {
+      "comment": "a [line_1]{line} with a [lot_1]{lot} of [curve_1]{curves} in it",
+      "entry": "squiggle",
+      "id": "squiggle#squiggle__1"
+    },
+    {
+      "comment": "[tangent]{tangent}",
+      "entry": "tan",
+      "id": "tan_4#tan_4__1"
+    },
+    {
+      "comment": "a [straight_1]{straight} [line_1]{line} that [touch_1]{touches} the [edge_1]{edge} of a [circle_1]{circle} but [does]{does} not [pass_1]{pass} through it",
+      "entry": "tangent",
+      "id": "tangent#tangent__1"
+    },
+    {
+      "comment": "the [high_1]{high} [curve_2]{curving} [line_1]{line} in which an [object_1]{object} such as a [missile]{missile} [move_1]{moves} through the [air_1]{air}",
+      "entry": "trajectory",
+      "id": "trajectory#trajectory__1"
+    },
+    {
+      "comment": "the [point_1]{point} in the [distance_1]{distance} where two [parallel_1]{parallel} [lines]{lines} [appear]{appear} to become one [line_1]{line}",
+      "entry": "vanishing point",
+      "id": "vanishing-point#vanishing-point__1"
+    },
+    {
+      "comment": "a [vertical_1]{vertical} [line_1]{line} or [position_1]{position}",
+      "entry": "vertical",
+      "id": "vertical_2#vertical_2__1"
+    },
+    {
+      "comment": "a [line_1]{line} or [movement]{movement} that [make_1]{makes} [sharp_1]{sharp} [angle_1]{angles} because it [suddenly]{suddenly} [change_1]{changes} from one [direction]{direction} to another",
+      "entry": "zigzag",
+      "id": "zigzag_1#zigzag_1__1"
+    }
+  ],
+  "thesaurus": "Lines and flat surfaces",
+  "type": "Related words"
+}

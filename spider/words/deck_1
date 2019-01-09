@@ -1,0 +1,43 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [outside]{outside} top part of a [ship_1]{ship} that you can [walk_1]{walk} on",
+      "examples": [
+        "A [lot_1]{lot} of [passenger]{passengers} were [sitting]{sitting} up on deck.",
+        "[john]{John} [stay_1]{stayed} below deck in his [cabin]{cabin}."
+      ],
+      "id": "deck_1__1"
+    },
+    {
+      "def": "one of the [level_1]{levels} on a [ship_1]{ship}, [train_1]{train}, or [stadium]{stadium}",
+      "examples": [
+        "the [first-class_2]{first-class} [cabin]{cabins} on the [upper_1]{upper} deck",
+        "We had [seat_1]{seats} in the [upper_1]{upper} deck for the [dodger]{Dodgers} [game_1]{game}."
+      ],
+      "id": "deck_1__4"
+    },
+    {
+      "def": "a [wooden]{wooden} [floor_1]{floor} that is [built_1]{built} onto the [outside]{outside} of the back of a [house_1]{house}",
+      "examples": [],
+      "id": "deck_1__7"
+    },
+    {
+      "def": "a [set_1]{set} of [card_1]{cards} [used]{used} for [play_1]{playing} [card_1]{card} [game_1]{games}. The [usual]{usual} [british]{British} [word_1]{word} is [pack_1]{pack}.",
+      "examples": [],
+      "id": "deck_1__8"
+    },
+    {
+      "def": "a [tape-deck]{tape deck}",
+      "examples": [],
+      "id": "deck_1__9"
+    },
+    {
+      "def": "the [turntable]{turntables}  (=flat round parts of a record player) that [dj_1]{DJ}s use for [mix_1]{mixing} [record_1]{records} on",
+      "examples": [],
+      "id": "deck_1__10"
+    }
+  ],
+  "word": "deck"
+}

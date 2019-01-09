@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[extremely]{extremely} [enjoyable]{enjoyable} or [exciting]{exciting}",
+      "examples": [
+        "It\u2019s been a marvelous [day]{day}.",
+        "a marvelous [performance]{performance}/[trip_1]{trip}/[party_1]{party}"
+      ],
+      "id": "marvelous__1"
+    },
+    {
+      "def": "[extremely]{extremely} [good_1]{good}",
+      "examples": [
+        "We were [serve_1]{served} [spaghetti]{spaghetti} with a marvelous [pesto]{pesto}."
+      ],
+      "id": "marvelous__4"
+    },
+    {
+      "def": "[extremely]{extremely} [impressive]{impressive} or with many [good_1]{good} [quality_1]{qualities}",
+      "examples": [
+        "He is a marvelous man."
+      ],
+      "id": "marvelous__6"
+    }
+  ],
+  "word": "marvelous"
+}

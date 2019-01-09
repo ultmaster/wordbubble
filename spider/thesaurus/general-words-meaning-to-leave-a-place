@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to go [away_1]{away} from a [place_1]{place}",
+      "entry": "leave",
+      "id": "leave_1#leave_1__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} one [place_1]{place} and [travel_1]{travel} to another",
+      "entry": "move on",
+      "id": "move-on#move-on__1"
+    },
+    {
+      "comment": "to move or [travel_1]{travel} [away_1]{away} from a [person]{person} or [place_1]{place}",
+      "entry": "go away",
+      "id": "go-away#go-away__1"
+    },
+    {
+      "comment": "to go [away_1]{away} from a [place_1]{place} and [allow]{allow} someone to [continue]{continue} [doing]{doing} something there",
+      "entry": "leave",
+      "id": "leave_1#leave_1__9"
+    },
+    {
+      "comment": "to [leave_1]{leave} your [home_1]{home} for a [period_1]{period} of time, [especially]{especially} for a [vacation_1]{vacation}",
+      "entry": "go away",
+      "id": "go-away#go-away__3"
+    },
+    {
+      "comment": "to [manage]{manage} to [leave_1]{leave} a [place_1]{place}, [especially]{especially} your [work_1]{work}",
+      "entry": "get away",
+      "id": "get-away#get-away__4"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [place_1]{place} [permanently]{permanently}",
+      "entry": "leave",
+      "id": "leave_1#leave_1__12"
+    },
+    {
+      "comment": "to move out of a [place_1]{place}",
+      "entry": "draw out",
+      "id": "draw-out#draw-out__4"
+    },
+    {
+      "comment": "to [leave_1]{leave} in a [particular_1]{particular} [state_1]{state} or [condition_1]{condition}",
+      "entry": "come away",
+      "id": "come-away#come-away__3"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [place_1]{place}, [especially]{especially} because it is [difficult]{difficult} or [dangerous]{dangerous} to [stay_1]{stay} there",
+      "entry": "abandon",
+      "id": "abandon_1#abandon_1__5"
+    }
+  ],
+  "thesaurus": "General words meaning to leave a place",
+  "type": "Synonyms"
+}

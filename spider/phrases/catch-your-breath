@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "catch your breath",
+  "senses": [
+    {
+      "def": "to take time to [start_1]{start} to [breathe]{breathe} [normally]{normally} again after [physical_1]{physical} [exercise_1]{exercise}",
+      "examples": [
+        "I had to [stop_1]{stop} about [halfway_1]{halfway} up the [hill]{hill} and [catch_1]{catch} my [breath]{breath}."
+      ],
+      "id": "catch-your-breath__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [breathing]{breathing} [suddenly]{suddenly} for a [short_1]{short} time because you are [surprised]{surprised} or [impressed]{impressed}",
+      "examples": [
+        "[beautiful]{beautiful} [scene]{scenes} that [make_1]{make} you [catch_1]{catch} your [breath]{breath}"
+      ],
+      "id": "catch-your-breath__3"
+    }
+  ]
+}

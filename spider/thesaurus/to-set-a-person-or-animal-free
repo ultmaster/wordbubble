@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [allow]{allow} a [person]{person} or [animal_1]{animal} to [leave_1]{leave} a [place_1]{place}",
+      "entry": "let out",
+      "id": "let-out#let-out__1"
+    },
+    {
+      "comment": "to [let_1]{let} someone [leave_1]{leave} a [place_1]{place} where they have been [kept]{kept}",
+      "entry": "release",
+      "id": "release_1#release_1__1"
+    },
+    {
+      "comment": "to [let_1]{let} a [person]{person} or [animal_1]{animal} go [free_1]{free} by [untie]{untying} the [rope_1]{rope} that is [keeping]{keeping} them somewhere",
+      "entry": "untie",
+      "id": "untie#untie__4"
+    },
+    {
+      "comment": "to give someone the [freedom]{freedom} to do what they [want_1]{want}, for [example]{example} by [take_1]{taking} them out of a [situation]{situation} in which their [behavior]{behavior} is [controlled_1]{controlled}",
+      "entry": "liberate",
+      "id": "liberate#liberate__3"
+    },
+    {
+      "comment": "to [allow]{allow} someone or something to be [free_1]{free} when they were [previously]{previously} [strictly]{strictly} [controlled_1]{controlled}",
+      "entry": "unleash",
+      "id": "unleash#unleash__3"
+    },
+    {
+      "comment": "to [remove]{remove} something [unpleasant]{unpleasant} that [affect_1]{affects} someone or [limit_1]{limits} their [behavior]{behavior}",
+      "entry": "free",
+      "id": "free_2#free_2__7"
+    },
+    {
+      "comment": "to [free_1]{free} someone from an [unpleasant]{unpleasant} [situation]{situation}",
+      "entry": "deliver",
+      "id": "deliver#deliver__29"
+    },
+    {
+      "comment": "to make a slave free",
+      "entry": "enfranchise",
+      "id": "enfranchise#enfranchise__2"
+    },
+    {
+      "comment": "to [allow]{allow} a [person]{person} or [animal_1]{animal} to go [free_1]{free}",
+      "entry": "let someone go",
+      "id": "let-someone-go#let-someone-go__1"
+    },
+    {
+      "comment": "to give [freedom]{freedom} and [right_3]{rights} to someone",
+      "entry": "emancipate",
+      "id": "emancipate#emancipate__1"
+    }
+  ],
+  "thesaurus": "To set a person or animal free",
+  "type": "Synonyms"
+}

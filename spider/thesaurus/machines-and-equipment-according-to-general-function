@@ -1,0 +1,191 @@
+{
+  "entries": [
+    {
+      "comment": "a [machine_1]{machine} that [shake_1]{shakes} something",
+      "entry": "agitator",
+      "id": "agitator#agitator__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [weigh]{weighing} [thing]{things}, [consist]{consisting} of a [bar_1]{bar} with a [small_1]{small} [dish_1]{dish} at each [end_1]{end}",
+      "entry": "balance",
+      "id": "balance_1#balance_1__27"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [produce_1]{produces} a [strong]{strong} [current_1]{current} of [air_1]{air}",
+      "entry": "blower",
+      "id": "blower#blower__1"
+    },
+    {
+      "comment": "a machine that heats water for making steam for a steam engine",
+      "entry": "boiler",
+      "id": "boiler#boiler__2"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} [used]{used} for [doing]{doing} [calculation]{calculations}",
+      "entry": "calculator",
+      "id": "calculator#calculator__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} with [wheel_1]{wheels} [used]{used} for [moving]{moving} something [heavy_1]{heavy}, [especially]{especially} a [large_1]{large} [gun_1]{gun}",
+      "entry": "carriage",
+      "id": "carriage#carriage__4"
+    },
+    {
+      "comment": "a piece of equipment used for providing a battery with electricity",
+      "entry": "charger",
+      "id": "charger#charger__1"
+    },
+    {
+      "comment": "a machine that compresses air or gas",
+      "entry": "compressor",
+      "id": "compressor#compressor__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [convert_1]{converting} something from one form into another",
+      "entry": "converter",
+      "id": "converter#converter__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [converter]{converter}",
+      "entry": "convertor",
+      "id": "convertor#convertor__2"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [keeping]{keeping} [liquid_1]{liquids} [cold_1]{cold}",
+      "entry": "cooler",
+      "id": "cooler#cooler__2"
+    },
+    {
+      "comment": "a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} that [count_1]{counts} something and [show_1]{shows} the [total_1]{total}",
+      "entry": "counter",
+      "id": "counter_1#counter_1__6"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [check_1]{checking} whether something is [present_1]{present}",
+      "entry": "detector",
+      "id": "detector#detector__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} for [dig_1]{digging} [large_1]{large} [hole_1]{holes} and [moving]{moving} [earth]{earth}",
+      "entry": "digger",
+      "id": "digger#digger__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} or [container]{container} that [give_1]{gives} you a [particular_1]{particular} [type_1]{type} of thing",
+      "entry": "dispenser",
+      "id": "dispenser#dispenser__1"
+    },
+    {
+      "comment": "a [large_1]{large} [machine_1]{machine} for [dig_1]{digging} [hole_1]{holes} in the [ground_1]{ground}",
+      "entry": "excavator",
+      "id": "excavator#excavator__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} or system that can [remove]{remove} something from another thing",
+      "entry": "extractor",
+      "id": "extractor#extractor__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [produce_1]{produces} [electricity]{electricity}",
+      "entry": "generator",
+      "id": "generator#generator__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [catching]{catching} and [lift_1]{lifting} [object_1]{objects}",
+      "entry": "grab",
+      "id": "grab_2#grab_2__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [help_1]{helps} you to find the [correct_1]{correct} [place_1]{place} or amount for something",
+      "entry": "guide",
+      "id": "guide_1#guide_1__23"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [make_1]{makes} the [air_1]{air} in a [room_1]{room} less [dry_1]{dry}",
+      "entry": "humidifier",
+      "id": "humidifier#humidifier__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [show_1]{shows} [information]{information}",
+      "entry": "indicator",
+      "id": "indicator#indicator__5"
+    },
+    {
+      "comment": "a solid bar, often made of metal, that you put under a heavy object to move it. A lever is a simple machine.",
+      "entry": "lever",
+      "id": "lever_1#lever_1__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} for [measure_2]{measuring} how much of something such as [gas_1]{gas}, [electricity]{electricity}, or [water_1]{water} you have [used]{used}",
+      "entry": "meter",
+      "id": "meter_1#meter_1__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [mix_1]{mixes} something",
+      "entry": "mixer",
+      "id": "mixer#mixer__1"
+    },
+    {
+      "comment": "a [large_1]{large} [machine_1]{machine} that [push_1]{pushes} [post_1]{posts} into the [ground_1]{ground} to [support_1]{support} [new]{new} [building]{buildings}",
+      "entry": "pile driver",
+      "id": "pile-driver#pile-driver__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [making]{making} something [flat_1]{flat} or [smooth_1]{smooth}",
+      "entry": "press",
+      "id": "press_1#press_1__15"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [crushing]{crushing} something or for [squeeze_1]{squeezing} [liquid_1]{liquid} out of it",
+      "entry": "press",
+      "id": "press_1#press_1__17"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} for [making]{making} a [liquid_1]{liquid} or [gas_1]{gas} move into or out of something",
+      "entry": "pump",
+      "id": "pump_1#pump_1__1"
+    },
+    {
+      "comment": "a piece of electronic equipment that reads information from plastic cards, tapes, etc.",
+      "entry": "reader",
+      "id": "reader#reader__8"
+    },
+    {
+      "comment": "a [large_1]{large} [heavy_1]{heavy} [tube]{tube} that you [roll_1]{roll} over [grass]{grass} or a [road]{road} in [order_1]{order} to [make_1]{make} it [flat_1]{flat} and [smooth_1]{smooth}",
+      "entry": "roller",
+      "id": "roller#roller__4"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [making]{making} the [surface_1]{surface} of [wood]{wood} or [metal_1]{metal} [smooth_1]{smooth}",
+      "entry": "sander",
+      "id": "sander#sander__1"
+    },
+    {
+      "comment": "a part of a [piece_1]{piece} of [equipment]{equipment} that [help_1]{helps} you to [choose]{choose} something",
+      "entry": "selector",
+      "id": "selector#selector__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [react]{reacts} to [physical_1]{physical} [change_1]{changes} such as the amount of [heat_1]{heat} or [light_1]{light} that [exist]{exists} somewhere",
+      "entry": "sensor",
+      "id": "sensor#sensor__1"
+    },
+    {
+      "comment": "a piece of equipment used for spraying liquids on things",
+      "entry": "sprayer",
+      "id": "sprayer#sprayer__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [equipment]{equipment} that [allow]{allows} something [attached]{attached} to it to [swivel_1]{swivel}",
+      "entry": "swivel",
+      "id": "swivel_2#swivel_2__1"
+    },
+    {
+      "comment": "a machine used for trimming something, for example hedges",
+      "entry": "trimmer",
+      "id": "trimmer#trimmer__1"
+    }
+  ],
+  "thesaurus": "Machines and equipment according to general function",
+  "type": "Related words"
+}

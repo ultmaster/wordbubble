@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [distance_1]{distance} of a [point_1]{point} on the [earth#earth__1]{Earth} from the [hemisphere]{equator}  (=the imaginary line around the middle of the Earth), [measured]{measured} in [degree]{degrees} [north_1]{north} or [south_1]{south}",
+      "examples": [],
+      "id": "latitude__1"
+    },
+    {
+      "def": "a [place_1]{place} or [region]{region} at a [particular_1]{particular} latitude",
+      "examples": [
+        "The [plant_1]{plant} [grow]{grows} [best_1]{best} in [cooler]{cooler} [latitude]{latitudes}."
+      ],
+      "id": "latitude__3"
+    },
+    {
+      "def": "[freedom]{freedom} to use your own [method]{methods} and [judgment]{judgment} in [doing]{doing} something",
+      "examples": [
+        "He was [allow]{allowed} a [lot_1]{lot} of latitude in [implement_1]{implementing} [company]{company} [policy]{policy}."
+      ],
+      "id": "latitude__5"
+    }
+  ],
+  "word": "latitude"
+}

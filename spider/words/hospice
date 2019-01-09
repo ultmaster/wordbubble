@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [hospital]{hospital} that [care_1]{cares} for [people_1]{people} who are [dying_1]{dying}",
+      "examples": [
+        "[volunteer_1]{Volunteers} [caring]{caring} for hospice [patient_1]{patients} [commonly]{commonly} [report_1]{report} how their own [lives]{lives} were [changed]{changed}."
+      ],
+      "id": "hospice__1"
+    },
+    {
+      "def": "a [program_1]{program} of [care_1]{care} for a [dying_1]{dying} [person]{person} [provided]{provided} by a hospice [organization]{organization}, [usually]{usually} in the [patient_1]{patient}\u2019s own [home_1]{home}",
+      "examples": [
+        "My [grandpa]{Grandpa} had been on hospice so it was an [expected]{expected} [death]{death}."
+      ],
+      "id": "hospice__3"
+    }
+  ],
+  "word": "hospice"
+}

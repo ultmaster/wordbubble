@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "put down for",
+  "senses": [
+    {
+      "def": "to [write]{write} on a [list_1]{list} that someone [agree]{agrees} to give or take something",
+      "examples": [
+        "I\u2019ll put you down for $20 then.",
+        "Can you put me down for one of the [puppy]{puppies}?"
+      ],
+      "id": "put-down-for__1"
+    },
+    {
+      "def": "to [write]{write} someone\u2019s name on a [list_1]{list} so that they can take part in an [activity]{activity} or become a [member]{member} of an [institution]{institution} or [organization]{organization}",
+      "examples": [
+        "I\u2019ve put my name down for the [trip_1]{trip} to Atlantic [city]{City}."
+      ],
+      "id": "put-down-for__4"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[contain]{containing} nothing",
+      "examples": [
+        "an empty [jar_1]{jar}",
+        "His [pocket_1]{pockets} were empty.",
+        "There were no empty [space_1]{spaces} in the [parking]{parking} [lot_1]{lot}.",
+        "an empty [room_1]{room}",
+        "Emma\u2019s [apartment]{apartment} [stood]{stood} empty for six [month]{months}.",
+        "The [beach_1]{beach} was [really]{really} empty.",
+        "the [early_1]{early} [morning_1]{morning}, when the [street_1]{streets} are empty of [traffic_1]{traffic}"
+      ],
+      "id": "empty_1__1"
+    },
+    {
+      "def": "[lacking]{lacking} [emotion]{emotion}, interest, or [purpose]{purpose}",
+      "examples": [
+        "Her [life]{life} [felt_1]{felt} empty and [meaningless]{meaningless}.",
+        "a [voice_1]{voice} [totally]{totally} empty of [expression]{expression}"
+      ],
+      "id": "empty_1__11"
+    },
+    {
+      "def": "empty [word_1]{words} or [promise_1]{promises} are [thing]{things} that you [say_1]{say} you will do but do not do",
+      "examples": [
+        "an empty [gesture_1]{gesture}"
+      ],
+      "id": "empty_1__14"
+    }
+  ],
+  "word": "empty"
+}

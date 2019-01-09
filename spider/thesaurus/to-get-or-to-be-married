@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if someone [marry]{marries} someone else, they are fomally [join_1]{joined} in [marriage]{marriage} with that [person]{person}",
+      "entry": "marry",
+      "id": "marry#marry__1"
+    },
+    {
+      "comment": "to [marry]{marry} someone",
+      "entry": "wed",
+      "id": "wed_1#wed_1__1"
+    },
+    {
+      "comment": "to [agree]{agree} [formally]{formally} to get [married]{married} to someone",
+      "entry": "contract a marriage",
+      "id": "contract-a-marriage#contract-a-marriage__1"
+    },
+    {
+      "comment": "to get [married]{married} to someone from a [different]{different} [religion]{religion}, [race_1]{race}, or [social_1]{social} [group_1]{group} from you",
+      "entry": "intermarry",
+      "id": "intermarry#intermarry__1"
+    },
+    {
+      "comment": "to get [married]{married} to someone who is [related_1]{related} to you",
+      "entry": "intermarry",
+      "id": "intermarry#intermarry__2"
+    },
+    {
+      "comment": "to get [married]{married} again",
+      "entry": "remarry",
+      "id": "remarry#remarry__1"
+    },
+    {
+      "comment": "if two [people_1]{people} [elope]{elope}, they go [away_1]{away} [secretly]{secretly} to get [married]{married}",
+      "entry": "elope",
+      "id": "elope#elope__1"
+    },
+    {
+      "comment": "to get [married]{married}",
+      "entry": "go/walk down the aisle",
+      "id": "go-walk-down-the-aisle#go-walk-down-the-aisle__1"
+    },
+    {
+      "comment": "to get [married]{married}",
+      "entry": "tie the knot",
+      "id": "tie-the-knot#tie-the-knot__1"
+    },
+    {
+      "comment": "to get [married]{married}",
+      "entry": "be joined in marriage/holy matrimony",
+      "id": "be-joined-in-marriage-holy-matrimony#be-joined-in-marriage-holy-matrimony__1"
+    }
+  ],
+  "thesaurus": "To get, or to be married",
+  "type": "Synonyms"
+}

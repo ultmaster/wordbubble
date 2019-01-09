@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[sold]{sold} in a [package_1]{package}",
+      "examples": [
+        "packaged [food]{foods}"
+      ],
+      "id": "packaged__1"
+    },
+    {
+      "def": "[deliberately]{deliberately} [create]{created} or [shown]{shown} in a way that is [intended_1]{intended} to be [interesting]{interesting} or [exciting]{exciting} to the [public_1]{public}",
+      "examples": [
+        "Is there [room_1]{room} for yet another packaged [pop_1]{pop} [group_1]{group}?"
+      ],
+      "id": "packaged__3"
+    }
+  ],
+  "word": "packaged"
+}

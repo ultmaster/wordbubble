@@ -1,0 +1,331 @@
+{
+  "entries": [
+    {
+      "comment": "one of the [written_1]{written} [symbol]{symbols} 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 that are [used]{used} in the [writing]{writing} [system]{systems} of many [country]{countries} to [represent]{represent} [number_1]{numbers}",
+      "entry": "Arabic numeral",
+      "id": "arabic-numeral#arabic-numeral__1"
+    },
+    {
+      "comment": "a [series]{series} of [number_1]{numbers} in which the same [number_1]{number} is [added]{added} to each [number_1]{number} to [produce_1]{produce} the next, for [example]{example} 3, 6, 9, 12",
+      "entry": "arithmetic progression",
+      "id": "arithmetic-progression#arithmetic-progression__1"
+    },
+    {
+      "comment": "a number that is used to form a system of counting. The usual system of counting uses base 10, and the binary system used in computers uses base 2.",
+      "entry": "base",
+      "id": "base_1#base_1__29"
+    },
+    {
+      "comment": "a number written before a variable  (=quantity that can change) that shows how much the variable is to be multiplied by",
+      "entry": "coefficient",
+      "id": "coefficient#coefficient__1"
+    },
+    {
+      "comment": "a [number_1]{number} that a [group_1]{group} of two or more other [number_1]{numbers} can be [divided]{divided} by [exactly]{exactly}. 4 is a [common_1]{common} [factor_1]{factor} of 8, 12, and 20",
+      "entry": "common factor",
+      "id": "common-factor#common-factor__1"
+    },
+    {
+      "comment": "a [number_1]{number} that can be [divided]{divided} [exactly]{exactly} by two or more other [number_1]{numbers}. 12 is a [common_1]{common} [multiple_1]{multiple} of 2, 3, and 4",
+      "entry": "common multiple",
+      "id": "common-multiple#common-multiple__1"
+    },
+    {
+      "comment": "a [number_1]{number} or amount that you have [calculated]{calculated}",
+      "entry": "computation",
+      "id": "computation#computation__2"
+    },
+    {
+      "comment": "a [number_1]{number} or amount that is always the same",
+      "entry": "constant",
+      "id": "constant_2#constant_2__3"
+    },
+    {
+      "comment": "the [cube_1]{cube} of a [number_1]{number} is the [large_1]{larger} [number_1]{number} that is the [result_1]{result} of [multiply]{multiplying} the [number_1]{number} by [itself]{itself} [twice_1]{twice}. For [example]{example}, the [cube_1]{cube} of 2 is 2 x 2 x 2, which is 8.",
+      "entry": "cube",
+      "id": "cube_1#cube_1__5"
+    },
+    {
+      "comment": "the [cube_1]{cube} [root_1]{root} of a [number_1]{number} is the [small_1]{smaller} [number_1]{number} that you [multiply]{multiply} by [itself]{itself} [twice_1]{twice} to [make_1]{make} the [number_1]{number}. For [example]{example}, the [cube_1]{cube} [root_1]{root} of 8 is 2.",
+      "entry": "cube root",
+      "id": "cube-root#cube-root__1"
+    },
+    {
+      "comment": "a number in a counting system based on the number ten that consists of numbers on either side of a decimal point. 0.5, 25.75, and 873.4 are all decimals.",
+      "entry": "decimal",
+      "id": "decimal_1#decimal_1__1"
+    },
+    {
+      "comment": "the number that is below the line in a fraction. In \u00be, 4 is the denominator. The number above the line is the numerator.",
+      "entry": "denominator",
+      "id": "denominator#denominator__1"
+    },
+    {
+      "comment": "one of the [written_1]{written} [number_1]{numbers} from 0 to 9",
+      "entry": "digit",
+      "id": "digit#digit__1"
+    },
+    {
+      "comment": "a [number_1]{number} that is [going_1]{going} to be [divided]{divided} by another [number_1]{number}",
+      "entry": "dividend",
+      "id": "dividend#dividend__2"
+    },
+    {
+      "comment": "the [number_1]{number} by which another [number_1]{number} is [divided]{divided}",
+      "entry": "divisor",
+      "id": "divisor#divisor__1"
+    },
+    {
+      "comment": "the [number_1]{numbers} 10 to 99",
+      "entry": "double digits",
+      "id": "double-digits#double-digits__1"
+    },
+    {
+      "comment": "[double_1]{double} [digit]{digits}",
+      "entry": "double figures",
+      "id": "double-figures#double-figures__1"
+    },
+    {
+      "comment": "a [number_1]{number} that can be [exactly]{exactly} [divided]{divided} by 2, such as 2, 4, 6, 8, etc.",
+      "entry": "even number",
+      "id": "even-number#even-number__1"
+    },
+    {
+      "comment": "a [number_1]{number} that you can [divide_1]{divide} a [large_1]{larger} [number_1]{number} by [exactly]{exactly}",
+      "entry": "factor",
+      "id": "factor_1#factor_1__9"
+    },
+    {
+      "comment": "the [total_1]{total} that you get when you [multiply]{multiply} a [number_1]{number} by all the whole [number_1]{numbers} below it",
+      "entry": "factorial",
+      "id": "factorial#factorial__1"
+    },
+    {
+      "comment": "a [number_1]{number}",
+      "entry": "figure",
+      "id": "figure_1#figure_1__5"
+    },
+    {
+      "comment": "an [official_1]{official} [number_1]{number} that has been [count_1]{counted} or [calculated]{calculated}",
+      "entry": "figures",
+      "id": "figure_1#figure_1__1"
+    },
+    {
+      "comment": "a [series]{series} of [number_1]{numbers} in which each [number_1]{number} is [multiply]{multiplied} by a [particular_1]{particular} [quantity]{quantity} in [order_1]{order} to get the next [number_1]{number}, for [example]{example} 1, 5, 25, 125",
+      "entry": "geometric progression",
+      "id": "geometric-progression#geometric-progression__1"
+    },
+    {
+      "comment": "144 of something",
+      "entry": "gross",
+      "id": "gross_2#gross_2__1"
+    },
+    {
+      "comment": "the [number_1]{number} of times something [happen]{happens}, [especially]{especially} something [bad_1]{bad}",
+      "entry": "incidence",
+      "id": "incidence#incidence__4"
+    },
+    {
+      "comment": "in mathematics, a variable whose value does not depend on the value of something else changing",
+      "entry": "independent variable",
+      "id": "independent-variable#independent-variable__1"
+    },
+    {
+      "comment": "a [number_1]{number} that [show_1]{shows} the [price_1]{price}, [value_1]{value}, or [level_1]{level} of something [compared]{compared} with something else",
+      "entry": "index",
+      "id": "index_1#index_1__3"
+    },
+    {
+      "comment": "a [number_1]{number} that [show_1]{shows} the [change_1]{change} in the [level_1]{level} of something such as a [price_1]{price} or [unemployment]{unemployment}, [compared]{compared} with an [earlier_1]{earlier} time",
+      "entry": "index number",
+      "id": "index-number#index-number__1"
+    },
+    {
+      "comment": "the [large_1]{largest} [number_1]{number} that [exist]{exists}",
+      "entry": "infinity",
+      "id": "infinity#infinity__6"
+    },
+    {
+      "comment": "a whole number that can be positive, negative, or zero",
+      "entry": "integer",
+      "id": "integer#integer__1"
+    },
+    {
+      "comment": "the [low_1]{lowest} [number_1]{number} that can be [divided]{divided} by all the [number_1]{numbers} in a [set_1]{set}",
+      "entry": "least common multiple",
+      "id": "least-common-multiple#least-common-multiple__1"
+    },
+    {
+      "comment": "the least [common_1]{common} [multiple_1]{multiple}",
+      "entry": "lowest common multiple",
+      "id": "lowest-common-multiple#lowest-common-multiple__1"
+    },
+    {
+      "comment": "a [number_1]{number} that is [important]{important} or has to be [reach_1]{reached} before something can [happen]{happen}",
+      "entry": "magic number",
+      "id": "magic-number#magic-number__1"
+    },
+    {
+      "comment": "a [number_1]{number} that is in the [middle_1]{middle} of a [set_1]{set} when they are [arrange]{arranged} in [order_1]{order}. For [example]{example}, in the [number_1]{numbers} 1, 3, 4, 8, 9, the [median_1]{median} is 4",
+      "entry": "median",
+      "id": "median_1#median_1__2"
+    },
+    {
+      "comment": "a number made up of a whole number and a fraction, for example 5\u00bd",
+      "entry": "mixed number",
+      "id": "mixed-number#mixed-number__1"
+    },
+    {
+      "comment": "a [number_1]{number} that you can [divide_1]{divide} by a [small_1]{smaller} [number_1]{number} an [exact_1]{exact} [number_1]{number} of times",
+      "entry": "multiple",
+      "id": "multiple_2#multiple_2__1"
+    },
+    {
+      "comment": "[number_1]{number}",
+      "entry": "no.",
+      "id": "no_3#no_3__1"
+    },
+    {
+      "comment": "[number_1]{numbers}",
+      "entry": "nos.",
+      "id": "nos#nos__1"
+    },
+    {
+      "comment": "a [sign_1]{sign} or [word_1]{word} that [represent]{represents} an amount or [quantity]{quantity}. 1, 2, 3, etc. and \u201cone,\u201d \u201ctwo,\u201d \u201cthree,\u201d etc. are [number_1]{numbers}",
+      "entry": "number",
+      "id": "number_1#number_1__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} the [position_1]{position} of something in a [series]{series}",
+      "entry": "number",
+      "id": "number_1#number_1__4"
+    },
+    {
+      "comment": "a [number_1]{number} that [mark_1]{marks} something in a way that [separates]{separates} it from everything else of its [type_1]{type}, so that you can [easily]{easily} find it or [discover]{discover} who it [belong]{belongs} to",
+      "entry": "number",
+      "id": "number_1#number_1__11"
+    },
+    {
+      "comment": "a [situation]{situation} in which [decision_1]{decisions} are [base_2]{based} on [point_1]{points} or [number_1]{numbers}, not on other [quality_1]{qualities} that may be more [important]{important}",
+      "entry": "numbers game",
+      "id": "numbers-game#numbers-game__1"
+    },
+    {
+      "comment": "the number that appears above the line in a common fraction",
+      "entry": "numerator",
+      "id": "numerator#numerator__1"
+    },
+    {
+      "comment": "a [number_1]{number} that cannot be [exactly]{exactly} [divided]{divided} by 2, such as 1, 3, 5, 7, etc.",
+      "entry": "odd number",
+      "id": "odd-number#odd-number__1"
+    },
+    {
+      "comment": "in [mathematics]{mathematics}, a [number_1]{number} [written_1]{written} as the [symbol]{symbol} \u03c0 that is [used]{used} to show the [relationship]{relationship} between the [distance_1]{distance} around a [circle_1]{circle} and the [distance_1]{distance} across it",
+      "entry": "pi",
+      "id": "pi#pi__1"
+    },
+    {
+      "comment": "a [number_1]{number} that is [higher_1]{higher} than [zero_1]{zero}",
+      "entry": "positive",
+      "id": "positive_2#positive_2__4"
+    },
+    {
+      "comment": "a [number_1]{number} that can only be [divided]{divided} [exactly]{exactly} by [itself]{itself} and the [number_1]{number} 1, for [example]{example} 7",
+      "entry": "prime number",
+      "id": "prime-number#prime-number__1"
+    },
+    {
+      "comment": "a [number_1]{number} that is the [result_1]{result} of [multiply]{multiplying} two other [number_1]{numbers}",
+      "entry": "product",
+      "id": "product#product__11"
+    },
+    {
+      "comment": "a [number_1]{number} or amount that is four times [big_1]{bigger} than another",
+      "entry": "quadruple",
+      "id": "quadruple_3#quadruple_3__1"
+    },
+    {
+      "comment": "the [number_1]{number} that is the [result_1]{result} of [divide_1]{dividing} one [number_1]{number} by another",
+      "entry": "quotient",
+      "id": "quotient#quotient__1"
+    },
+    {
+      "comment": "a [number_1]{number} or [symbol]{symbol} that [show_1]{shows} someone where they can find [information]{information} that they [need_1]{need}",
+      "entry": "reference",
+      "id": "reference_1#reference_1__16"
+    },
+    {
+      "comment": "in [mathematics]{mathematics}, the amount that is [left_1]{left} when one [number_1]{number} cannot be [divided]{divided} [exactly]{exactly} by another",
+      "entry": "remainder",
+      "id": "remainder_1#remainder_1__3"
+    },
+    {
+      "comment": "the root of a number is another number that, when multiplied by itself a particular number of times, equals that number. For example, 3 is the square root of 9 and the cube root of 27.",
+      "entry": "root",
+      "id": "root_1#root_1__13"
+    },
+    {
+      "comment": "a [number_1]{number} that [end_1]{ends} in 0, such as 40, 450, or 4000",
+      "entry": "round number",
+      "id": "round-number#round-number__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [number_1]{numbers} in [mathematics]{mathematics}",
+      "entry": "set",
+      "id": "set_2#set_2__29"
+    },
+    {
+      "comment": "the [number_1]{number} that is the [result_1]{result} of [multiply]{multiplying} one [number_1]{number} by [itself]{itself}",
+      "entry": "square",
+      "id": "square_1#square_1__7"
+    },
+    {
+      "comment": "a [number_1]{number} that is [squared]{squared} is [multiply]{multiplied} by [itself]{itself}",
+      "entry": "square",
+      "id": "square_3#square_3__1"
+    },
+    {
+      "comment": "a [number_1]{number} that you [multiply]{multiply} by [itself]{itself} to [produce_1]{produce} a [particular_1]{particular} [number_1]{number}. For [example]{example}, the [square_1]{square} [root_1]{root} of 9 is 3.",
+      "entry": "square root",
+      "id": "square-root#square-root__1"
+    },
+    {
+      "comment": "a [number_1]{number} that [show_1]{shows} how much [small_1]{smaller} or [large_1]{larger} a [number_1]{number} in a [set_1]{set} of [number_1]{numbers} is from the [average_1]{average} of the [set_1]{set}",
+      "entry": "standard deviation",
+      "id": "standard-deviation#standard-deviation__1"
+    },
+    {
+      "comment": "a [number_1]{number} that [represent]{represents} a [fact]{fact} or [describe]{describes} a [situation]{situation}",
+      "entry": "statistic",
+      "id": "statistic#statistic__7"
+    },
+    {
+      "comment": "a [group_1]{group} of [number_1]{numbers} that [represent]{represent} [fact]{facts} or that describe a [situation]{situation}",
+      "entry": "statistics",
+      "id": "statistic#statistic__1"
+    },
+    {
+      "comment": "[statistic]{statistics}",
+      "entry": "stats",
+      "id": "stats#stats__1"
+    },
+    {
+      "comment": "a whole [number_1]{number} less than 10",
+      "entry": "unit",
+      "id": "unit#unit__23"
+    },
+    {
+      "comment": "a [mathematical]{mathematical} [number_1]{number} or amount that is not [known_1]{known} and is [represent]{represented} by a [letter_1]{letter}",
+      "entry": "value",
+      "id": "value_1#value_1__26"
+    },
+    {
+      "comment": "a [number_1]{number} such as 1, 32, 144, etc., rather than a [number_1]{number} such as 0.1, 0.32, 1/2, 3/4, etc.",
+      "entry": "whole number",
+      "id": "whole-number#whole-number__1"
+    }
+  ],
+  "thesaurus": "Numbers and types of number",
+  "type": "Related words"
+}

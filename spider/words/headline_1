@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [title]{title} of a [newspaper]{newspaper} [story]{story} that is [print_1]{printed} in [large_1]{large} [letter_1]{letters}",
+      "examples": [
+        "The [front-page_2]{front-page} headline read \u201c[royal_1]{Royal} [love_1]{Love} [scandal]{Scandal}.\u201d"
+      ],
+      "id": "headline_1__1"
+    },
+    {
+      "def": "the most [important]{important} [story]{stories} in the [news]{news}",
+      "examples": [
+        "Here are the [news]{news} [headline_1]{headlines}.",
+        "The [fuel_1]{fuel} [crisis]{crisis} [continue]{continues} to [dominate]{dominate} the [headline_1]{headlines}."
+      ],
+      "id": "headline_1__3"
+    }
+  ],
+  "word": "headline"
+}

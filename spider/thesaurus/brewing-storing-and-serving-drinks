@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [beer]{beer}",
+      "entry": "brew",
+      "id": "brew_1#brew_1__1"
+    },
+    {
+      "comment": "a [company]{company} that [make_1]{makes} [beer]{beer}",
+      "entry": "brewer",
+      "id": "brewer#brewer__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [make_1]{make} [beer]{beer}",
+      "entry": "brewer",
+      "id": "brewer#brewer__2"
+    },
+    {
+      "comment": "a [place_1]{place} where [beer]{beer} is made",
+      "entry": "brewery",
+      "id": "brewery#brewery__1"
+    },
+    {
+      "comment": "a [company]{company} that [make_1]{makes} [beer]{beer}",
+      "entry": "brewery",
+      "id": "brewery#brewery__2"
+    },
+    {
+      "comment": "draft beer is served directly from a barrel rather than in bottles",
+      "entry": "draft",
+      "id": "draft_3#draft_3__1"
+    },
+    {
+      "comment": "if you [freshen]{freshen} someone\u2019s [drink_1]{drink}, you give them more to [drink_1]{drink}",
+      "entry": "freshen",
+      "id": "freshen#freshen__1"
+    },
+    {
+      "comment": "the white bubbles on the top of a glass of beer",
+      "entry": "head",
+      "id": "head_1#head_1__20"
+    },
+    {
+      "comment": "a very [small_1]{small} [glass]{glass} for [measure_2]{measuring} [alcohol]{alcohol}",
+      "entry": "jigger",
+      "id": "jigger#jigger__1"
+    },
+    {
+      "comment": "a mixture of malt and hot water used for making beer or whiskey",
+      "entry": "mash",
+      "id": "mash_1#mash_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [independent_1]{independent} [company]{company} that [produce_1]{produces} [small_1]{small} [quantity]{quantities} of [special_1]{special} [beer]{beers}",
+      "entry": "microbrewery",
+      "id": "microbrewery#microbrewery__1"
+    },
+    {
+      "comment": "beer that is on draft is served directly from a barrel rather than in bottles or cans",
+      "entry": "on draft",
+      "id": "on-draft#on-draft__1"
+    },
+    {
+      "comment": "to put some [drink_1]{drink} into a [glass]{glass} or [cup_1]{cup} from another [container]{container}",
+      "entry": "pour out",
+      "id": "pour-out#pour-out__1"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} someone to [tell_1]{tell} you when you have [given_1]{given} them enough of something, [especially]{especially} [food]{food} or [drink_1]{drink}",
+      "entry": "say when",
+      "id": "say-when#say-when__1"
+    },
+    {
+      "comment": "to [mix_1]{mix} a [drink_1]{drink} by [moving]{moving} it around with a [spoon_1]{spoon} or a [stick_1]{stick}",
+      "entry": "stir",
+      "id": "stir_1#stir_1__1"
+    },
+    {
+      "comment": "an object used for letting beer out of a keg",
+      "entry": "tap",
+      "id": "tap_2#tap_2__5"
+    },
+    {
+      "comment": "a tied house or pub is a pub that can only sell beer produced by one company",
+      "entry": "tied",
+      "id": "tied#tied__2"
+    },
+    {
+      "comment": "to give [water_1]{water} to an [animal_1]{animal}",
+      "entry": "water",
+      "id": "water_2#water_2__6"
+    },
+    {
+      "comment": "to give someone a [drink_1]{drink}",
+      "entry": "water",
+      "id": "water_2#water_2__8"
+    }
+  ],
+  "thesaurus": "Brewing, storing and serving drinks",
+  "type": "Related words"
+}

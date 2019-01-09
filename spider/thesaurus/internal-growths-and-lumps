@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a serious swelling in the wall of an artery  (=tube carrying blood round the body)",
+      "entry": "aneurysm",
+      "id": "aneurysm#aneurysm__1"
+    },
+    {
+      "comment": "a [big_1]{big} [painful]{painful} [lump_1]{lump} under your [skin_1]{skin}, [cause_2]{caused} by an [infection]{infection}",
+      "entry": "carbuncle",
+      "id": "carbuncle#carbuncle__1"
+    },
+    {
+      "comment": "a [lump_1]{lump} [contain]{containing} [liquid_1]{liquid} that [grow]{grows} under your [skin_1]{skin} or [inside_1]{inside} your body",
+      "entry": "cyst",
+      "id": "cyst#cyst__1"
+    },
+    {
+      "comment": "a [painful]{painful} [lump_1]{lump} full of [liquid_1]{liquid} on your [skin_1]{skin}, often on the back of the [wrist]{wrist}",
+      "entry": "ganglion",
+      "id": "ganglion#ganglion__2"
+    },
+    {
+      "comment": "a [lump_1]{lump} that [grow]{grows} [inside_1]{inside} or on a [person]{person}, [animal_1]{animal}, or [plant_1]{plant}, [cause_2]{caused} by [cell]{cells} that have [grown_1]{grown} in a way that is not [normal_1]{normal}",
+      "entry": "growth",
+      "id": "growth#growth__27"
+    },
+    {
+      "comment": "a large round part on someone\u2019s back that is caused by an unusual curve in their spine",
+      "entry": "hump",
+      "id": "hump_1#hump_1__4"
+    },
+    {
+      "comment": "a [small_1]{small} [hard_1]{hard} part on or under your [skin_1]{skin} that is [cause_2]{caused} by [illness]{illness} or [injury]{injury}",
+      "entry": "lump",
+      "id": "lump_1#lump_1__7"
+    },
+    {
+      "comment": "affecting the cells that form small lumps near the joints in your body",
+      "entry": "nodal",
+      "id": "nodal#nodal__1"
+    },
+    {
+      "comment": "a round lump in your body formed from cells or tissue",
+      "entry": "node",
+      "id": "node#node__2"
+    },
+    {
+      "comment": "a small round lump in your body formed from cells or tissue",
+      "entry": "nodule",
+      "id": "nodule#nodule__1"
+    },
+    {
+      "comment": "a small lump that grows on a stem inside hollow organs such as your nose or colon",
+      "entry": "polyp",
+      "id": "polyp#polyp__1"
+    }
+  ],
+  "thesaurus": "Internal growths and lumps",
+  "type": "Related words"
+}

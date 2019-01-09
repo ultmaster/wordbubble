@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "book on",
+  "senses": [
+    {
+      "def": "to [buy_1]{buy} [ticket_1]{tickets} for someone for a [specific]{specific} [trip_1]{trip} on an [airplane]{airplane}, [train_1]{train}, or [bus_1]{bus}",
+      "examples": [
+        "Could you [book_1]{book} me on the 8:30 [flight]{flight}?"
+      ],
+      "id": "book-on__1"
+    }
+  ]
+}

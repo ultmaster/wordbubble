@@ -1,0 +1,38 @@
+{
+  "part": "phrase",
+  "phrase": "fix up",
+  "senses": [
+    {
+      "def": "to [clean_1]{clean}, [repair_1]{repair}, or [decorate]{decorate} something",
+      "examples": [
+        "They take [old]{old} [furniture]{furniture} and [fix_1]{fix} it up.",
+        "I\u2019m [going_1]{going} to [fix_1]{fix} up the [house_1]{house} before my [mother-in-law]{mother-in-law} [arrive]{arrives}.",
+        "I [got_1]{got} all [fixed]{fixed} up for the [party_1]{party}.",
+        "Go and [fix_1]{fix} yourself up \u2013 the Clarks are coming over."
+      ],
+      "id": "fix-up__1"
+    },
+    {
+      "def": "to [arrange]{arrange} for something to [happen]{happen}",
+      "examples": [
+        "Perhaps we can [fix_1]{fix} up a [meeting]{meeting} for next [week]{week}."
+      ],
+      "id": "fix-up__6"
+    },
+    {
+      "def": "to [arrange]{arrange} for someone to have something that they [need_1]{need}",
+      "examples": [
+        "If you [need_1]{need} more [equipment]{equipment}, [mark_1]{Mark} will [fix_1]{fix} you up.",
+        "I can [fix_1]{fix} you up with a [place_1]{place} to [live_1]{live}."
+      ],
+      "id": "fix-up__8"
+    },
+    {
+      "def": "to [arrange]{arrange} for two [people_1]{people} to [meet_1]{meet} so that they might [begin]{begin} a [romantic_1]{romantic} [relationship]{relationship}",
+      "examples": [
+        "[jimmy_1]{Jimmy} [want_1]{wants} to [fix_1]{fix} [joe_2]{Joe} up with his [sister]{sister}."
+      ],
+      "id": "fix-up__11"
+    }
+  ]
+}

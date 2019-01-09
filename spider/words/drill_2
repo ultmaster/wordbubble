@@ -1,0 +1,38 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a hole [use_1]{using} a [special_1]{special} [tool_1]{tool} or [machine_1]{machine}",
+      "examples": [
+        "[drill_1]{Drill} two [hole_1]{holes} in the [wall_1]{wall}.",
+        "They had to drill through the [mountainside]{mountainside}.",
+        "They are [drill_2]{drilling} for [oil_1]{oil} in the [area]{area}."
+      ],
+      "id": "drill_2__1"
+    },
+    {
+      "def": "if [soldier_1]{soldiers} drill, or if they are [drill_2]{drilled}, they [practice_1]{practice} [thing]{things} such as [march_1]{marching} or [holding]{holding} [weapon]{weapons}",
+      "examples": [],
+      "id": "drill_2__5"
+    },
+    {
+      "def": "to [teach]{teach} someone by [making]{making} them [repeat_1]{repeat} something many times",
+      "examples": [
+        "[trainer]{Trainers} will be [drill_2]{drilling} [new]{new} [member]{members} of the [cabin]{cabin} [crew_1]{crew} on [safety]{safety} [procedure]{procedures}."
+      ],
+      "id": "drill_2__6"
+    },
+    {
+      "def": "to [kick_1]{kick} or hit a [ball_1]{ball} [hard_1]{hard}",
+      "examples": [],
+      "id": "drill_2__8"
+    },
+    {
+      "def": "to [plant_1]{plant} [seed_1]{seeds} in [lines]{lines}",
+      "examples": [],
+      "id": "drill_2__9"
+    }
+  ],
+  "word": "drill"
+}

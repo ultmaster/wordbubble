@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [fair_1]{fair} or [reasonable]{reasonable}",
+      "entry": "unfair",
+      "id": "unfair#unfair__1"
+    },
+    {
+      "comment": "an [unjust]{unjust} [decision_1]{decision}, [judgment]{judgment}, or [action_1]{action} is not [fair_1]{fair} or [reasonable]{reasonable}, or is not done [accord_2]{according} to [accepted]{accepted} [legal]{legal} or [moral_1]{moral} [standard_1]{standards}",
+      "entry": "unjust",
+      "id": "unjust#unjust__1"
+    },
+    {
+      "comment": "not [give_1]{giving} the same [treatment]{treatment} or [opportunity]{opportunities} to everyone, and therefore [unfair]{unfair}",
+      "entry": "unequal",
+      "id": "unequal#unequal__1"
+    },
+    {
+      "comment": "not [fair_1]{fair}",
+      "entry": "unreasonable",
+      "id": "unreasonable#unreasonable__1"
+    },
+    {
+      "comment": "something that is [one-sided]{one-sided} is [unfair]{unfair} because it [show_1]{shows} or [consider]{considers} only one [aspect]{aspect} of something",
+      "entry": "one-sided",
+      "id": "one-sided#one-sided__1"
+    },
+    {
+      "comment": "[used]{used} about [action_1]{actions} that are [considered]{considered} to be [unfair]{unfair}",
+      "entry": "arbitrary",
+      "id": "arbitrary#arbitrary__4"
+    },
+    {
+      "comment": "[prefer]{preferring} one [person]{person}, thing, or [idea]{idea} to another in a way that is [unfair]{unfair}",
+      "entry": "biased",
+      "id": "biased#biased__1"
+    },
+    {
+      "comment": "[unfair]{unfair}, or [illegal_1]{illegal}",
+      "entry": "wrongful",
+      "id": "wrongful#wrongful__1"
+    },
+    {
+      "comment": "not [fair_1]{fair}, or not [base_2]{based} on any [good_1]{good} [reason_1]{reason}",
+      "entry": "unjustified",
+      "id": "unjustified#unjustified__1"
+    },
+    {
+      "comment": "[supporting]{supporting} one [person]{person}, [group_1]{group}, or [opinion]{opinion} more than any others when you should be [fair_1]{fair} to all those [involved]{involved}",
+      "entry": "partial",
+      "id": "partial#partial__4"
+    }
+  ],
+  "thesaurus": "Unfair",
+  "type": "Synonyms"
+}

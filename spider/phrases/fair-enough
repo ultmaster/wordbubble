@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "fair enough",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you [understand]{understand} and [accept]{accept} what someone [say_1]{says}",
+      "examples": [
+        "\u201cShe [said_1]{said} she didn\u2019t [want_1]{want} to [work_1]{work} for anyone else.\u201d \u201cOK, [fair_1]{fair} enough.\u201d"
+      ],
+      "id": "fair-enough__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something seems [reasonable]{reasonable} but you do not [agree]{agree} with it [completely]{completely}",
+      "examples": [
+        "If you [want_1]{want} to [waste_1]{waste} your time, [fair_1]{fair} enough, but don\u2019t [waste_1]{waste} mine too."
+      ],
+      "id": "fair-enough__3"
+    }
+  ]
+}

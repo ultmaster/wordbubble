@@ -1,0 +1,596 @@
+{
+  "entries": [
+    {
+      "comment": "to get [information]{information}, [especially]{especially} from a computer",
+      "entry": "access",
+      "id": "access_2#access_2__1"
+    },
+    {
+      "comment": "to [collect_1]{collect} and [store_1]{store} computer [file_1]{files} in an [archive_1]{archive}",
+      "entry": "archive",
+      "id": "archive_2#archive_2__2"
+    },
+    {
+      "comment": "to create a multimediadocument or presentation, usually using a special computer program",
+      "entry": "author",
+      "id": "author_2#author_2__3"
+    },
+    {
+      "comment": "to [make_1]{make} a [copy_1]{copy} of [information]{information} on your computer",
+      "entry": "back up",
+      "id": "back-up#back-up__5"
+    },
+    {
+      "comment": "to [mark_1]{mark} a [piece_1]{piece} of [writing]{writing} or other [information]{information} on a computer [screen_1]{screen} so you can do something with it",
+      "entry": "block",
+      "id": "block_2#block_2__18"
+    },
+    {
+      "comment": "to use the [output_1]{output} of one [piece_1]{piece} of [software]{software} as [input_1]{input} to another, so that the [result_1]{results} of the first [process_1]{process} [help_1]{help} to [improve_1]{improve} the [result_1]{results} of the next one, and so on",
+      "entry": "bootstrap",
+      "id": "bootstrap#bootstrap__1"
+    },
+    {
+      "comment": "to [look_1]{look} for [information]{information} on a computer, [especially]{especially} on the [internet]{Internet}",
+      "entry": "browse",
+      "id": "browse#browse__1"
+    },
+    {
+      "comment": "if you [burn_1]{burn} a CD-ROM, you put [information]{information} onto it",
+      "entry": "burn",
+      "id": "burn_1#burn_1__38"
+    },
+    {
+      "comment": "to use a [piece_1]{piece} of [software]{software} [continuous#continuous__6]{continuously} to [check_1]{check} for [problem]{problems}",
+      "entry": "burn in",
+      "id": "burn-in_1#burn-in_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} [information]{information} in a computer [appear]{appear} on the [screen_1]{screen}",
+      "entry": "call up",
+      "id": "call-up_1#call-up_1__6"
+    },
+    {
+      "comment": "to put [information]{information} or [picture_1]{pictures} into a form that can be [used]{used} by a computer",
+      "entry": "capture",
+      "id": "capture_1#capture_1__19"
+    },
+    {
+      "comment": "to [write]{write} [instruction]{instructions} for a computer",
+      "entry": "code",
+      "id": "code_2#code_2__6"
+    },
+    {
+      "comment": "to use a computer program to change a set of instructions in a programming language into a form that can be used directly by a computer",
+      "entry": "compile",
+      "id": "compile#compile__3"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [size_1]{size} of a computer [file_1]{file} [use_1]{using} a [special_1]{special} [program_1]{program} so that it can be [store_2]{stored} [use_1]{using} less [space_1]{space}",
+      "entry": "compress",
+      "id": "compress_1#compress_1__5"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [computerize]{computerize}",
+      "entry": "computerise",
+      "id": "computerise#computerise__1"
+    },
+    {
+      "comment": "to use [computer]{computers} to do a [particular_1]{particular} [job_1]{job} or [kind_1]{kind} of [work_1]{work}",
+      "entry": "computerize",
+      "id": "computerize#computerize__1"
+    },
+    {
+      "comment": "to put two or more computer [file_1]{files} or [piece_1]{pieces} of computer [information]{information} together in [order_1]{order} to form a [single_1]{single} [unit]{unit}",
+      "entry": "concatenate",
+      "id": "concatenate_1#concatenate_1__1"
+    },
+    {
+      "comment": "to [arrange]{arrange} the [part_1]{parts} of something, [especially]{especially} the [software]{software} of a computer, so that it [work_1]{works} in the way you [want_1]{want} it to",
+      "entry": "configure",
+      "id": "configure#configure__1"
+    },
+    {
+      "comment": "to make it possible for someone to communicate using a computer network",
+      "entry": "connect up",
+      "id": "connect-up#connect-up__4"
+    },
+    {
+      "comment": "to [make_1]{make} a [copy_1]{copy} of a [piece_1]{piece} of computer [data]{data}, such as a [piece_1]{piece} of [writing]{writing} or a [program_1]{program}",
+      "entry": "copy",
+      "id": "copy_2#copy_2__7"
+    },
+    {
+      "comment": "to remove a part of a computer document, especially in order to paste it into another place or document",
+      "entry": "cut",
+      "id": "cut_1#cut_1__27"
+    },
+    {
+      "comment": "to move a [piece_1]{piece} of [writing]{writing} from one [place_1]{place} in a computer [file_1]{file} to another [place_1]{place}",
+      "entry": "cut and paste",
+      "id": "cut-and-paste#cut-and-paste__1"
+    },
+    {
+      "comment": "to move [information]{information} or [user]{users} of a computer system to a [new]{new} [place_1]{place} or to [new]{new} [equipment]{equipment} at the same time or in an [order_1]{order} that [cause_1]{causes} as few [problem]{problems} as [possible_1]{possible}",
+      "entry": "cut over",
+      "id": "cut-over#cut-over__1"
+    },
+    {
+      "comment": "to [look_1]{look} for and [remove]{remove} [mistake_1]{mistakes} from a computer [program_1]{program} so that it [work_1]{works} [correctly]{correctly}",
+      "entry": "debug",
+      "id": "debug#debug__1"
+    },
+    {
+      "comment": "to change a compressed computer file back to its full size",
+      "entry": "decompress",
+      "id": "decompress#decompress__2"
+    },
+    {
+      "comment": "to [defragment]{defragment} a computer",
+      "entry": "defrag",
+      "id": "defrag#defrag__1"
+    },
+    {
+      "comment": "to [carry_1]{carry} out an [operation]{operation} on a computer that [put]{puts} all the [file_1]{files} together and all the [free_1]{free} [space_1]{space} together, so that the computer [operate]{operates} [fast_1]{faster}",
+      "entry": "defragment",
+      "id": "defragment#defragment__1"
+    },
+    {
+      "comment": "to [remove]{remove} [information]{information} [store_2]{stored} in a computer",
+      "entry": "delete",
+      "id": "delete#delete__3"
+    },
+    {
+      "comment": "to [make_1]{make} a computer [program_1]{program} [available]{available}",
+      "entry": "deliver",
+      "id": "deliver#deliver__21"
+    },
+    {
+      "comment": "to [state_1]{state} that although a [piece_1]{piece} of [software]{software} can still be [used]{used} it is [better_1]{better} to [avoid]{avoid} it, because something [better_1]{better} has been [produce_1]{produced}",
+      "entry": "deprecate",
+      "id": "deprecate#deprecate__2"
+    },
+    {
+      "comment": "to give a computer an [instruction]{instruction} not to do something, [usually]{usually} one of a [list_1]{list} of [thing]{things} it could do",
+      "entry": "deselect",
+      "id": "deselect#deselect__1"
+    },
+    {
+      "comment": "to [change_1]{change} [picture_1]{pictures} or other [information]{information} into [electronic]{electronic} [signal_1]{signals}",
+      "entry": "digitize",
+      "id": "digitize#digitize__1"
+    },
+    {
+      "comment": "to move [information]{information} to your computer from another computer system or the [internet]{Internet}",
+      "entry": "download",
+      "id": "download_1#download_1__1"
+    },
+    {
+      "comment": "to organize data  (=computer information) according to different levels of detail, each level more detailed than the previous one",
+      "entry": "drill down",
+      "id": "drill-down#drill-down__1"
+    },
+    {
+      "comment": "to copy information that is stored inside a computer to another part of the same computer or onto something such as a disk",
+      "entry": "dump",
+      "id": "dump_1#dump_1__11"
+    },
+    {
+      "comment": "to [make_1]{make} [change_1]{changes} to a computer [file_1]{file} on [screen_1]{screen}",
+      "entry": "edit",
+      "id": "edit_1#edit_1__3"
+    },
+    {
+      "comment": "to [make_1]{make} [image_1]{images}, [sound_1]{sound}, or computer [software]{software} a part of other [software]{software}",
+      "entry": "embed",
+      "id": "embed_1#embed_1__5"
+    },
+    {
+      "comment": "to [make_1]{make} a computer or [piece_1]{piece} of [equipment]{equipment} [available]{available} for use by the [user]{user}",
+      "entry": "enable",
+      "id": "enable#enable__4"
+    },
+    {
+      "comment": "to [change_1]{change} [information]{information} or [instruction]{instructions} into a form that a computer can use",
+      "entry": "encode",
+      "id": "encode#encode__3"
+    },
+    {
+      "comment": "to put information into code  (=a system of words, numbers, or symbols that hides its real meaning)",
+      "entry": "encrypt",
+      "id": "encrypt#encrypt__1"
+    },
+    {
+      "comment": "to remove all the information stored on a computer disk, or all the sound or pictures recorded on a tape",
+      "entry": "erase",
+      "id": "erase#erase__1"
+    },
+    {
+      "comment": "to [make_1]{make} a computer use a [program_1]{program} or [carry_1]{carry} out an [instruction]{instruction}",
+      "entry": "execute",
+      "id": "execute#execute__10"
+    },
+    {
+      "comment": "to [copy_1]{copy} [information]{information} from a computer system so it can be [store_2]{stored} in another part of the computer or in a [different]{different} form",
+      "entry": "export",
+      "id": "export_2#export_2__6"
+    },
+    {
+      "comment": "to prepare a computer disk so that information can be stored on it",
+      "entry": "format",
+      "id": "format_2#format_2__1"
+    },
+    {
+      "comment": "to [arrange]{arrange} [written_1]{written} [material_1]{material} into a [particular_1]{particular} [format_1]{format}, [especially]{especially} in a computer [file_1]{file}",
+      "entry": "format",
+      "id": "format_2#format_2__2"
+    },
+    {
+      "comment": "the [activity]{activity} of [play_1]{playing} computer [game_1]{games}",
+      "entry": "gaming",
+      "id": "gaming#gaming__3"
+    },
+    {
+      "comment": "to use a computer to [connect]{connect} to someone else\u2019s computer [secretly]{secretly} and often [illegal_1#illegal_1__6]{illegally}, so that you can find or [change_1]{change} [information]{information} on it",
+      "entry": "hack",
+      "id": "hack_1#hack_1__10"
+    },
+    {
+      "comment": "to [build_1]{build} a computer system or other system so that it can only [operate]{operate} in a [certain_1]{certain} way and cannot be [changed]{changed} by the [user]{user}",
+      "entry": "hardwire",
+      "id": "hardwire#hardwire__1"
+    },
+    {
+      "comment": "to [mark_1]{mark} a [word_1]{word}, [picture_1]{picture}, [file_1]{file}, etc. on a computer [screen_1]{screen}, [usually]{usually} before [change_1]{changing} it or [copy_2]{copying} it",
+      "entry": "highlight",
+      "id": "highlight_1#highlight_1__9"
+    },
+    {
+      "comment": "if you [hook_1]{hook} up to a [place_1]{place} or to the [internet]{Internet}, or if you [hook_1]{hook} something up, you become [connected]{connected} to it through your computer",
+      "entry": "hook up",
+      "id": "hook-up#hook-up__3"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [embed_1]{embed}",
+      "entry": "imbed",
+      "id": "imbed#imbed__1"
+    },
+    {
+      "comment": "to move [information]{information} from one [file_1]{file} or [program_1]{program} into another",
+      "entry": "import",
+      "id": "import_2#import_2__7"
+    },
+    {
+      "comment": "to [prepare]{prepare} a [piece_1]{piece} of computer [equipment]{equipment} or [software]{software} for use",
+      "entry": "initialize",
+      "id": "initialize#initialize__1"
+    },
+    {
+      "comment": "to put a [new]{new} [program_1]{program} or [piece_1]{piece} of [software]{software} into a computer so that you can use it",
+      "entry": "install",
+      "id": "install#install__6"
+    },
+    {
+      "comment": "to [create]{create} an [instance_1]{instance} of something",
+      "entry": "instantiate",
+      "id": "instantiate#instantiate__1"
+    },
+    {
+      "comment": "to get [information]{information} from a computer by [use_1]{using} a [special_1]{special} [program_1]{program}",
+      "entry": "interrogate",
+      "id": "interrogate#interrogate__3"
+    },
+    {
+      "comment": "to [unlock]{unlock} the [operate]{operating} system of a [cell-phone]{cellphone} or other [device]{device} that [use_1]{uses} iOS so that it can [run_1]{run} [software]{software} it is not [normally]{normally} [authorize]{authorized} to use because of [restriction]{restrictions} [impose]{imposed} by the [manufacturer]{manufacturer}",
+      "entry": "jailbreak",
+      "id": "jailbreak_2#jailbreak_2__1"
+    },
+    {
+      "comment": "to [store_1]{store} [information]{information} by [writing]{writing} it or [put]{putting} it into a computer",
+      "entry": "keep",
+      "id": "keep_1#keep_1__37"
+    },
+    {
+      "comment": "to [connect]{connect} [computer]{computers} so that [information]{information} can be [sent]{sent} between them",
+      "entry": "link",
+      "id": "link_1#link_1__13"
+    },
+    {
+      "comment": "to [connect]{connect} [computer]{computers} or computer [system]{systems} so that [electronic]{electronic} [message_1]{messages} can be [sent]{sent} between them",
+      "entry": "link (someone/something) up",
+      "id": "link-someone-something-up#link-someone-something-up__7"
+    },
+    {
+      "comment": "to put [information]{information} or a [program_1]{program} into a computer",
+      "entry": "load",
+      "id": "load_2#load_2__12"
+    },
+    {
+      "comment": "to [prevent]{prevent} [information]{information} on a computer from being [changed]{changed} or [look_1]{looked} at by someone who [does]{does} not have [permission]{permission}",
+      "entry": "lock",
+      "id": "lock_1#lock_1__12"
+    },
+    {
+      "comment": "to [limit_1]{limit} use of a computer [network_1]{network} to only the [user]{users} who have [permission]{permission} to use it",
+      "entry": "lock down",
+      "id": "lock-down#lock-down__3"
+    },
+    {
+      "comment": "to [change_1]{change}, [correct_1]{correct}, or move [information]{information} [store_2]{stored} on a computer",
+      "entry": "manipulate",
+      "id": "manipulate#manipulate__8"
+    },
+    {
+      "comment": "to [start_1]{start} to use a [different]{different} computer system, or to [make_1]{make} someone do this",
+      "entry": "migrate",
+      "id": "migrate#migrate__3"
+    },
+    {
+      "comment": "to move [software]{software} or [hardware]{hardware} to a [different]{different} computer system",
+      "entry": "migrate",
+      "id": "migrate#migrate__4"
+    },
+    {
+      "comment": "to [make_1]{make} a computer [program_1]{program} [appear]{appear} as only a [small_1]{small} [picture_1]{picture} on your computer [screen_1]{screen} when you are not [use_1]{using} it",
+      "entry": "minimize",
+      "id": "minimize#minimize__5"
+    },
+    {
+      "comment": "to [gradually]{gradually} [change_1]{change} one [image_1]{image} into another [use_1]{using} computer [technology]{technology}, or to be [changed]{changed} in this way",
+      "entry": "morph",
+      "id": "morph#morph__1"
+    },
+    {
+      "comment": "to put [information]{information} [inside_1]{inside} a computer [program_1]{program} that [contain]{contains} other [information]{information} of the same [type_1]{type}",
+      "entry": "nest",
+      "id": "nest_2#nest_2__5"
+    },
+    {
+      "comment": "to [connect]{connect} [computer]{computers} together so that each computer can [send_1]{send} and [receive]{receive} [information]{information} to and from the other [computer]{computers}",
+      "entry": "network",
+      "id": "network_2#network_2__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} [information]{information} from a computer, for [example]{example} by [showing]{showing} it on a [screen_1]{screen} or by [printing]{printing} it",
+      "entry": "output",
+      "id": "output_2#output_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} [change_1]{changes} to a computer so that it [operate]{operates} [fast_1]{faster} than the [manufacturer]{manufacturer} [intended_1]{intended}",
+      "entry": "overclock",
+      "id": "overclock#overclock__1"
+    },
+    {
+      "comment": "to give a computer more [information]{information} than it can [process_1]{process}",
+      "entry": "overload",
+      "id": "overload#overload__4"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of [information]{information} in a computer [file_1]{file} by [replace]{replacing} it with other [information]{information}",
+      "entry": "overwrite",
+      "id": "overwrite#overwrite__1"
+    },
+    {
+      "comment": "to move [word_1]{words}, [picture_1]{pictures}, etc. on a computer [screen_1]{screen} from one [place_1]{place} to another",
+      "entry": "paste",
+      "id": "paste_2#paste_2__3"
+    },
+    {
+      "comment": "when [use_1]{using} a [touch_1]{touch} [screen_1]{screen}, to [bring]{bring} your [index_1]{index} [finger_1]{finger} and [thumb_1]{thumb} together or move them [apart]{apart} in [order_1]{order} to [make_1]{make} [thing]{things} on the [screen_1]{screen} [large_1]{larger} or [small_1]{smaller}",
+      "entry": "pinch",
+      "id": "pinch_2#pinch_2__5"
+    },
+    {
+      "comment": "to [send_1]{send} a [message_1]{message} from one computer to another to [test_1]{test} whether or not you can [reach_1]{reach} it or whether or not it is [working]{working}",
+      "entry": "ping",
+      "id": "ping_1#ping_1__3"
+    },
+    {
+      "comment": "if you [plug_1]{plug} into a [large_1]{larger} computer system, your computer becomes [connected]{connected} to it and you can get [information]{information} from it",
+      "entry": "plug into",
+      "id": "plug-into#plug-into__5"
+    },
+    {
+      "comment": "to add information to a computer file, for example to a database",
+      "entry": "populate",
+      "id": "populate#populate__3"
+    },
+    {
+      "comment": "to give a computer or other [machine_1]{machine} a [set_1]{set} of [instruction]{instructions} so that it will do what you [want_1]{want} [later_1]{later}",
+      "entry": "preprogram",
+      "id": "preprogram#preprogram__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} a [copy_1]{copy} of a computer [document_1]{document} from a [printer]{printer}",
+      "entry": "print out",
+      "id": "print-out#print-out__1"
+    },
+    {
+      "comment": "to put [information]{information} into a computer in [order_1]{order} to [organize]{organize} it",
+      "entry": "process",
+      "id": "process_2#process_2__3"
+    },
+    {
+      "comment": "to give a [series]{series} of [instruction]{instructions} to a computer or other [piece_1]{piece} of [equipment]{equipment} so that it will do something [automatically]{automatically}",
+      "entry": "program",
+      "id": "program_2#program_2__1"
+    },
+    {
+      "comment": "to take [information]{information} from one computer and put it onto another",
+      "entry": "pull off",
+      "id": "pull-off#pull-off__6"
+    },
+    {
+      "comment": "to change the format of information  (=the way it is stored and organized), especially information on a computer",
+      "entry": "reformat",
+      "id": "reformat#reformat__1"
+    },
+    {
+      "comment": "to [make_1]{make} something a [different]{different} [size_1]{size}, [especially]{especially} a [shape_1]{shape} on a computer [screen_1]{screen}",
+      "entry": "resize",
+      "id": "resize#resize__1"
+    },
+    {
+      "comment": "to find [information]{information} that is [store_2]{stored} in a computer in [order_1]{order} to use it again",
+      "entry": "retrieve",
+      "id": "retrieve#retrieve__8"
+    },
+    {
+      "comment": "to [try_1]{try} to [perform]{perform} a computer [operation]{operation} again",
+      "entry": "retry",
+      "id": "retry#retry__3"
+    },
+    {
+      "comment": "to [make_1]{make} [change_1]{changes} to something such as a computer [program_1]{program}",
+      "entry": "rewrite",
+      "id": "rewrite_1#rewrite_1__3"
+    },
+    {
+      "comment": "to copy music or video from a website or disc to a computer or hand-held device",
+      "entry": "rip",
+      "id": "rip_1#rip_1__17"
+    },
+    {
+      "comment": "to [unlock]{unlock} the [operate]{operating} system of a [cell-phone]{cellphone} or other [device]{device} that [use_1]{uses} [android]{Android} OS so that it can [run_1]{run} [software]{software} it is not [normally]{normally} [authorize]{authorized} to use because of [restriction]{restrictions} [impose]{imposed} by the [manufacturer]{manufacturer}",
+      "entry": "root",
+      "id": "root_2#root_2__6"
+    },
+    {
+      "comment": "to [start_1]{start} or to use a computer [program_1]{program}",
+      "entry": "run",
+      "id": "run_1#run_1__23"
+    },
+    {
+      "comment": "to [make_1]{make} a computer keep [information]{information} that you have put into it",
+      "entry": "save",
+      "id": "save_1#save_1__28"
+    },
+    {
+      "comment": "to use a piece of equipment to read and store information in digital form",
+      "entry": "scan",
+      "id": "scan_1#scan_1__14"
+    },
+    {
+      "comment": "to use a computer [program_1]{program} to [copy_1]{copy} [data]{data} from a [website]{website}",
+      "entry": "scrape",
+      "id": "scrape_1#scrape_1__16"
+    },
+    {
+      "comment": "to use a computer to [look_1]{look} for [information]{information}, [especially]{especially} on the [internet]{Internet}",
+      "entry": "search",
+      "id": "search_2#search_2__8"
+    },
+    {
+      "comment": "to choose something on a computer screen, usually from a menu  (=list) of choices",
+      "entry": "select",
+      "id": "select_1#select_1__5"
+    },
+    {
+      "comment": "to move [information]{information} for [printing]{printing} into a computer\u2019s [memory]{memory} so that it can [print_1]{print} [later_1]{later} and not [slow_1]{slow} down the computer",
+      "entry": "spool",
+      "id": "spool_2#spool_2__2"
+    },
+    {
+      "comment": "to [save_1]{save} [information]{information} in [electronic]{electronic} form, for [example]{example} in a computer\u2019s [memory]{memory}",
+      "entry": "store",
+      "id": "store_2#store_2__4"
+    },
+    {
+      "comment": "to [play_1]{play} [video_1]{video} or [sound_1]{sound} on a computer or [mobile_1]{mobile} [device]{device} by [get]{getting} it as a [continuous]{continuous} [stream_1]{stream} rather than [have]{having} to [download_1]{download} it; to [provide]{provide} [data]{data} in this way",
+      "entry": "stream",
+      "id": "stream_2#stream_2__13"
+    },
+    {
+      "comment": "to be [design_2]{designed} to [allow]{allow} something such as a [piece_1]{piece} of [software]{software} or computer [device]{device} to [work_1]{work} with it",
+      "entry": "support",
+      "id": "support_1#support_1__27"
+    },
+    {
+      "comment": "to [pass_1]{pass} a [plastic_1]{plastic} [card_1]{card} through a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} that [read_1]{reads} the [information]{information} [store_2]{stored} on the [card_1]{card}, for [example]{example} in [order_1]{order} to [open_1]{open} a [door_1]{door} or to [pay_1]{pay} for something",
+      "entry": "swipe",
+      "id": "swipe_1#swipe_1__6"
+    },
+    {
+      "comment": "to move your [finger_1]{finger} across the [screen_1]{screen} of a [smartphone]{smartphone} or [tablet]{tablet}",
+      "entry": "swipe",
+      "id": "swipe_1#swipe_1__7"
+    },
+    {
+      "comment": "to [make_1]{make} [sure_1]{sure} that a computer has an [exact_1]{exact} [copy_1]{copy} of the [data]{data} on something such as a [cell]{cell} [phone_1]{phone} or mp3 [player]{player} by [use_1]{using} [software]{software} that [compare_1]{compares} [data]{data} and [copy_1]{copies} or [remove]{removes} it",
+      "entry": "sync",
+      "id": "sync_2#sync_2__1"
+    },
+    {
+      "comment": "to [touch_1]{touch} the [screen_1]{screen} of a [mobile_1]{mobile} [device]{device} in [order_1]{order} to [make_1]{make} something [happen]{happen}",
+      "entry": "tap",
+      "id": "tap_1#tap_1__5"
+    },
+    {
+      "comment": "to arrange different windows on a computer screen so that you can see all of them next to one another",
+      "entry": "tile",
+      "id": "tile_2#tile_2__2"
+    },
+    {
+      "comment": "to [change_1]{change} [information]{information} in one computer [program_1]{program} or [language]{language} into a form that can be [used]{used} by a [different]{different} [program_1]{program} or [language]{language}",
+      "entry": "translate",
+      "id": "translate#translate__7"
+    },
+    {
+      "comment": "to [make_1]{make} [information]{information} that has been [removed]{removed} from a computer [exist]{exist} again",
+      "entry": "undelete",
+      "id": "undelete#undelete__1"
+    },
+    {
+      "comment": "to give a computer an [instruction]{instruction} to [ignore]{ignore} the last [change_1]{change} that you made to a [document_1]{document}",
+      "entry": "undo",
+      "id": "undo#undo__6"
+    },
+    {
+      "comment": "to [remove]{remove} a [program_1]{program} or [piece_1]{piece} of [software]{software} from a computer, [especially]{especially} [use_1]{using} a [special_1]{special} [program_1]{program}",
+      "entry": "uninstall",
+      "id": "uninstall#uninstall__1"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [size_1]{size} of a [file_1]{file} to its [original_1]{original} [size_1]{size} after it has been [reduce]{reduced} [use_1]{using} a computer [program_1]{program}",
+      "entry": "unpack",
+      "id": "unpack#unpack__5"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [size_1]{size} of a [file_1]{file} to its [original_1]{original} [size_1]{size} after it has been [reduce]{reduced}, [use_1]{using} a computer [program_1]{program}",
+      "entry": "unzip",
+      "id": "unzip#unzip__2"
+    },
+    {
+      "comment": "to [make_1]{make} a computer or other [machine_1]{machine} more [powerful]{powerful} or [effective]{effective}",
+      "entry": "upgrade",
+      "id": "upgrade_1#upgrade_1__1"
+    },
+    {
+      "comment": "to [look_1]{look} at [information]{information} on a computer [screen_1]{screen}",
+      "entry": "view",
+      "id": "view_2#view_2__10"
+    },
+    {
+      "comment": "to [make_1]{make} a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} or [software]{software} [able_1]{able} to [connect]{connect} to the [internet]{Internet}",
+      "entry": "web-enable",
+      "id": "web-enable#web-enable__1"
+    },
+    {
+      "comment": "to remove information from a computer disk or from a video or audio tape",
+      "entry": "wipe",
+      "id": "wipe_1#wipe_1__14"
+    },
+    {
+      "comment": "to [create]{create} a computer [program_1]{program}",
+      "entry": "write",
+      "id": "write#write__20"
+    },
+    {
+      "comment": "to compress a computer document so that it fills less space and can be stored more easily or sent by e-mail more quickly",
+      "entry": "zip",
+      "id": "zip_2#zip_2__5"
+    }
+  ],
+  "thesaurus": "To use or program a computer",
+  "type": "Related words"
+}

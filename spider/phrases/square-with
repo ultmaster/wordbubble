@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "square with",
+  "senses": [
+    {
+      "def": "if one [idea]{idea}, [opinion]{opinion}, [explanation]{explanation}, etc. [square_1]{squares} with another, they both seem [good_1]{good} or [reasonable]{reasonable}",
+      "examples": [
+        "Her [story]{story} doesn\u2019t [quite]{quite} [square_1]{square} with what the first [witness_1]{witness} [said_1]{said}.",
+        "It was [difficult]{difficult} to [square_1]{square} this [behavior]{behavior} with his [religious]{religious} [belief]{beliefs}.",
+        "[does]{Does} this [explanation]{explanation} [square_1]{square} [overall_1]{overall} with the [result_1]{results} of the [survey_1]{survey}?"
+      ],
+      "id": "square-with__1"
+    },
+    {
+      "def": "to get [permission]{permission} from someone to do something",
+      "examples": [
+        "I\u2019ll have to [square_1]{square} it with the [manager]{manager} first."
+      ],
+      "id": "square-with__5"
+    }
+  ]
+}

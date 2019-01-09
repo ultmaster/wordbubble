@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "fit together",
+  "senses": [
+    {
+      "def": "if [thing]{things} [fit_1]{fit} together, they are the [right_1]{right} [size_1]{size} or [shape_1]{shape} so that you can [join_1]{join} them",
+      "examples": [
+        "The [end_1]{ends} of the [tube]{tube} [fit_1]{fit} together.",
+        "I\u2019ve [got_1]{got} all the [piece_1]{pieces}; now I [just_1]{just} have to [fit_1]{fit} them together."
+      ],
+      "id": "fit-together__1"
+    },
+    {
+      "def": "if [idea]{ideas} or [fact]{facts} [fit_1]{fit} together, they can be [join_1]{joined} to [make_1]{make} a [sensible]{sensible} [story]{story} or [explanation]{explanation}",
+      "examples": [
+        "We have all the [evidence_1]{evidence}, but we don\u2019t [know_1]{know} yet how it [fit_1]{fits} together."
+      ],
+      "id": "fit-together__5"
+    }
+  ]
+}

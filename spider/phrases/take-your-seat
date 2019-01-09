@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "take your seat",
+  "senses": [
+    {
+      "def": "to [sit]{sit} down, [especially]{especially} in a [place_1]{place} that has been [kept]{kept} for you",
+      "examples": [
+        "They [took]{took} their [seat_1]{seats} in the front [row_1]{row}."
+      ],
+      "id": "take-your-seat__1"
+    },
+    {
+      "def": "to [begin]{begin} [work_1]{work} as a [member]{member} of a [legislature]{legislature}, [committee]{committee}, etc.",
+      "examples": [
+        "Who was the first [woman]{woman} to take her [seat_1]{seat} in the [senate]{Senate}?"
+      ],
+      "id": "take-your-seat__3"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "not [obvious]{obvious}, [definite]{definite}, or [easy_1]{easy} to [understand]{understand}",
+      "entry": "unclear",
+      "id": "unclear#unclear__1"
+    },
+    {
+      "comment": "not [obvious]{obvious}, and therefore [difficult]{difficult} to [notice_1]{notice}",
+      "entry": "subtle",
+      "id": "subtle#subtle__1"
+    },
+    {
+      "comment": "[underlying]{underlying} [cause_1]{causes}, [fact]{facts}, [idea]{ideas}, etc. are the [real_1]{real} or [basic_1]{basic} ones, although they are not [obvious]{obvious} or [directly_1]{directly} [state_2]{stated}",
+      "entry": "underlying",
+      "id": "underlying#underlying__1"
+    },
+    {
+      "comment": "if something is [hidden_1]{hidden}, most [people_1]{people} do not [know_1]{know} about it or [understand]{understand} it",
+      "entry": "hidden",
+      "id": "hidden_1#hidden_1__1"
+    },
+    {
+      "comment": "[unlikely]{unlikely} to [attract]{attract} [attention]{attention}",
+      "entry": "discreet",
+      "id": "discreet#discreet__3"
+    },
+    {
+      "comment": "not [notice_1]{noticed} or [seen]{seen}",
+      "entry": "undetected",
+      "id": "undetected#undetected__1"
+    },
+    {
+      "comment": "[felt_1]{felt} or [experienced]{experienced} in your own [mind_1]{mind} but not [obvious]{obvious} to other [people_1]{people}",
+      "entry": "inward",
+      "id": "inward_1#inward_1__1"
+    },
+    {
+      "comment": "not [attract]{attracting} much [attention]{attention} or [cause_2]{causing} much [reaction]{reaction} from other [people_1]{people}",
+      "entry": "unobtrusive",
+      "id": "unobtrusive#unobtrusive__1"
+    },
+    {
+      "comment": "a [subliminal]{subliminal} [influence_1]{influence} is one that may [affect_1]{affect} you even though you do not [notice_1]{notice} or [think_1]{think} about it",
+      "entry": "subliminal",
+      "id": "subliminal#subliminal__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you [think_1]{think} something is not at all [obvious]{obvious}",
+      "entry": "I/you/she etc. would never guess",
+      "id": "i-you-she-etc-would-never-guess#i-you-she-etc-would-never-guess__1"
+    },
+    {
+      "comment": "[used]{used} for [refer]{referring} to [political]{political} [message_1]{messages} that are [aim_1]{aimed} at [particular_1]{particular} [group_1]{groups} and will only be [fully]{fully} [understood]{understood} by them",
+      "entry": "dog whistle",
+      "id": "dog-whistle#dog-whistle__1"
+    }
+  ],
+  "thesaurus": "Not obvious",
+  "type": "Synonyms"
+}

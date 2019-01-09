@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "pull off",
+  "senses": [
+    {
+      "def": "to [succeed]{succeed} in [doing]{doing} something that is [difficult]{difficult}",
+      "examples": [
+        "[sandy]{Sandy} [managed]{managed} to [pull_1]{pull} off a [surprise_1]{surprise} [party_1]{party} for her [husband]{husband}.",
+        "They [nearly]{nearly} [managed]{managed} to get the [loan_1]{loan} but [just_1]{just} [failed]{failed} to [pull_1]{pull} it off."
+      ],
+      "id": "pull-off__1"
+    },
+    {
+      "def": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} off a [road]{road}, they [stop_1]{stop} by the side of it",
+      "examples": [
+        "If you\u2019re [feeling_1]{feeling} [sleepy]{sleepy}, [pull_1]{pull} off the [road]{road} [immediately]{immediately} and have a rest."
+      ],
+      "id": "pull-off__4"
+    },
+    {
+      "def": "to take [information]{information} from one computer and put it onto another",
+      "examples": [
+        "You can [pull_1]{pull} the [file_1]{files} you [need_1]{need} off the [internet]{Internet}."
+      ],
+      "id": "pull-off__6"
+    },
+    {
+      "def": "to take off [clothes]{clothes}, [especially]{especially} [quickly]{quickly}",
+      "examples": [
+        "She [pull_1]{pulled} the [dress_1]{dress} off over her [head_1]{head}."
+      ],
+      "id": "pull-off__8"
+    }
+  ]
+}

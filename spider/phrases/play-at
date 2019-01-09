@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "play at",
+  "senses": [
+    {
+      "def": "to do something without being very serious about it",
+      "examples": [
+        "I [think_1]{think} she\u2019s [just_1]{just} [play_1]{playing} at [running_1]{running} a [business]{business}."
+      ],
+      "id": "play-at__1"
+    },
+    {
+      "def": "if [children]{children} [play_1]{play} at something, they [pretend_1]{pretend} to be someone else or to be [involved]{involved} in a [particular_1]{particular} [type_1]{type} of [situation]{situation}",
+      "examples": [
+        "A [child]{child} [play_1]{playing} at [shopping]{shopping}, for [example]{example}, will [display_1]{display} [early_1]{early} [math_1]{math} [skill]{skills}."
+      ],
+      "id": "play-at__3"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "an amount of [money]{money} that [parent]{parents} give a [child]{child} [regularly]{regularly}",
+      "entry": "allowance",
+      "id": "allowance#allowance__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that someone [receive]{receives} [regularly]{regularly}, in [order_1]{order} to [pay_1]{pay} for the [thing]{things} they [need_1]{need}",
+      "entry": "allowance",
+      "id": "allowance#allowance__3"
+    },
+    {
+      "comment": "a [fixed]{fixed} amount of [money]{money} that someone [receive]{receives} [regularly]{regularly} each [year]{year}",
+      "entry": "annuity",
+      "id": "annuity#annuity__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that the [government]{government} or another [organization]{organization} [give_1]{gives} to someone so that they are [able_1]{able} to do something",
+      "entry": "award",
+      "id": "award_1#award_1__6"
+    },
+    {
+      "comment": "an amount of [money]{money} [given_1]{given} to someone to [pay_1]{pay} for their [study_1]{studies} at a [school_1]{school} or [college]{college}",
+      "entry": "bursary",
+      "id": "bursary#bursary__1"
+    },
+    {
+      "comment": "an amount of [money]{money} [given_1]{given} to an [advanced]{advanced} [student]{student} for [teaching]{teaching} and [doing]{doing} [research_1]{research}",
+      "entry": "fellowship",
+      "id": "fellowship#fellowship__5"
+    },
+    {
+      "comment": "a [type_1]{type} of [scholarship]{scholarship} that [pay_1]{pays} for the whole [cost_1]{cost} of someone's [study_1]{studies}",
+      "entry": "freeship",
+      "id": "freeship#freeship__1"
+    },
+    {
+      "comment": "an amount of money that the government or an organization gives you for a specific purpose and does not ask you to pay back. Money that you have to pay back is called a loan",
+      "entry": "grant",
+      "id": "grant_2#grant_2__1"
+    },
+    {
+      "comment": "an [allowance]{allowance} that a [child]{child} [get]{gets} from its [parent]{parents}",
+      "entry": "pocket money",
+      "id": "pocket-money#pocket-money__3"
+    },
+    {
+      "comment": "[money]{money} that is [given_1]{given} to [student]{students} from some [country]{countries}, [including]{including} the U.S., to [study_1]{study} at [oxford]{Oxford} [university]{University} in the U.K.",
+      "entry": "Rhodes Scholarship",
+      "id": "rhodes-scholarship#rhodes-scholarship__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that an [organization]{organization} [give_1]{gives} to someone so that they can [study_1]{study} at a [particular_1]{particular} [school_1]{school} or [university]{university}",
+      "entry": "scholarship",
+      "id": "scholarship#scholarship__1"
+    },
+    {
+      "comment": "[money]{money} [paid_1]{paid} [regularly]{regularly} to someone, [especially]{especially} a [priest]{priest}",
+      "entry": "stipend",
+      "id": "stipend#stipend__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that a [student]{student} is [given_1]{given} to [work_1]{work} on a [research_1]{research} [project_1]{project} at a [university]{university}",
+      "entry": "studentship",
+      "id": "studentship#studentship__1"
+    },
+    {
+      "comment": "an amount of [money]{money} that the [government]{government} or another [organization]{organization} [pay_1]{pays} to [help_1]{help} to [reduce]{reduce} the [cost_1]{cost} of a [product]{product} or [service_1]{service}",
+      "entry": "subsidy",
+      "id": "subsidy#subsidy__1"
+    },
+    {
+      "comment": "[money]{money} that is [given_1]{given}, [especially]{especially} by a [government]{government}, to [support_1]{support} the [work_1]{work} of an [institution]{institution}",
+      "entry": "subvention",
+      "id": "subvention#subvention__1"
+    }
+  ],
+  "thesaurus": "Grants and allowances",
+  "type": "Related words"
+}

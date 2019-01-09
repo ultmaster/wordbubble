@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [officially]{officially} [order_1]{order} someone to come to a [place_1]{place}, [especially]{especially} a [court_1]{court} of [law]{law}",
+      "examples": [
+        "He was [urgent#urgent__11]{urgently} [summon]{summoned} to Washington for [consultation]{consultations}.",
+        "She has been [summon]{summoned} to [appear]{appear} in [court_1]{court} for non-payment of [tax_1]{taxes}.",
+        "Maria [summon]{summoned} a [waiter]{waiter} and [ordered]{ordered} a [drink_1]{drink}.",
+        "[phone_1]{Phone} this [number_1]{number} if you [need_1]{need} to summon [help_1]{help}.",
+        "A fire [crew_1]{crew} [arrive]{arrived}, [took]{took} one [look_1]{look}, and [summon]{summoned} an [ambulance]{ambulance}."
+      ],
+      "id": "summon__1"
+    },
+    {
+      "def": "to [manage]{manage} to [produce_1]{produce} a [quality_1]{quality} or a [reaction]{reaction} that [help_1]{helps} you to [deal_1]{deal} with a [difficult]{difficult} [situation]{situation}",
+      "examples": [
+        "He couldn\u2019t summon the [strength]{strength} to [carry_1]{carry} on [fighting]{fighting}.",
+        "She could [barely]{barely} summon a [smile_1]{smile}."
+      ],
+      "id": "summon__9"
+    },
+    {
+      "def": "to [arrange]{arrange} a [formal_1]{formal} [meeting]{meeting} and [tell_1]{tell} [people_1]{people} to come to it",
+      "examples": [
+        "The [bank_1]{bank} [summon]{summoned} a [meeting]{meeting} of [creditor]{creditors}."
+      ],
+      "id": "summon__12"
+    }
+  ],
+  "word": "summon"
+}

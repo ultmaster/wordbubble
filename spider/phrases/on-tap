@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "on tap",
+  "senses": [
+    {
+      "def": "if [beer]{beer} is on [tap_1]{tap}, it can be [serve_1]{served} from a [large_1]{large} [container]{container} with a [tap_1]{tap}, [instead]{instead} of from a [bottle_1]{bottle}",
+      "examples": [
+        "We have a [light_1]{light} [beer]{beer} on [tap_1]{tap}, or [import_2]{imported} [beer]{beers} in [bottle_1]{bottles}."
+      ],
+      "id": "on-tap__1"
+    },
+    {
+      "def": "[easily]{easily} [available]{available}",
+      "examples": [
+        "The [internet]{Internet} [make_1]{makes} it [possible_1]{possible} to have all [kind_1]{kinds} of [information]{information} on [tap_1]{tap} at any time."
+      ],
+      "id": "on-tap__3"
+    },
+    {
+      "def": "[plan_2]{planned} for a [particular_1]{particular} time",
+      "examples": [
+        "What\u2019s on [tap_1]{tap} for [tomorrow_1]{tomorrow}?"
+      ],
+      "id": "on-tap__5"
+    }
+  ]
+}

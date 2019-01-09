@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "hang out",
+  "senses": [
+    {
+      "def": "to [hang_1]{hang} [wet_1]{wet} [clothes]{clothes} [outside]{outside} to [dry_1]{dry}",
+      "examples": [],
+      "id": "hang-out__3"
+    },
+    {
+      "def": "to [lean_1]{lean} out of a [window]{window} so that the top part of your body is [outside]{outside}",
+      "examples": [
+        "Two [student]{students} were [hanging_1]{hanging} out of the [second_1]{second} [floor_1]{floor} [window]{window}."
+      ],
+      "id": "hang-out__4"
+    }
+  ]
+}

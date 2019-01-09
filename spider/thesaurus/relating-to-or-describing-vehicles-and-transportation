@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "flex-fuel vehicles are able to use a mixture of petrol and ethanol",
+      "entry": "flex-fuel",
+      "id": "flex-fuel#flex-fuel__1"
+    },
+    {
+      "comment": "[relate]{relating} to [car]{cars} and other [motor_1]{motor} [vehicle]{vehicles}",
+      "entry": "automotive",
+      "id": "automotive#automotive__1"
+    },
+    {
+      "comment": "[relate]{relating} to [vehicle]{vehicles}",
+      "entry": "vehicular",
+      "id": "vehicular#vehicular__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [involve]{involving} [motor_1]{motor} [vehicle]{vehicles}",
+      "entry": "motor",
+      "id": "motor_2#motor_2__2"
+    },
+    {
+      "comment": "[safe_1]{safe} to [drive_1]{drive}",
+      "entry": "roadworthy",
+      "id": "roadworthy#roadworthy__1"
+    },
+    {
+      "comment": "in [good_1]{good} [condition_1]{condition} and [safe_1]{safe} to [travel_1]{travel} on the [ocean]{ocean}",
+      "entry": "seaworthy",
+      "id": "seaworthy#seaworthy__1"
+    },
+    {
+      "comment": "an [express_1]{express} [train_1]{train}, [bus_1]{bus}, etc. [make_1]{makes} a [particular_1]{particular} [trip_1]{trip} more [quickly]{quickly} than [ordinary]{ordinary} [train_1]{trains}, [bus_1]{buses}, etc.",
+      "entry": "express",
+      "id": "express_2#express_2__7"
+    },
+    {
+      "comment": "[heavy_1]{heavy} [machine_1]{machines}, [vehicle]{vehicles}, or [weapon]{weapons} are [large_1]{large} and [powerful]{powerful}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__13"
+    },
+    {
+      "comment": "an armored vehicle, such as a tank or a car for an important person, is covered with layers of hard metal to protect it from attack",
+      "entry": "armored",
+      "id": "armored#armored__1"
+    },
+    {
+      "comment": "[capable]{capable} of being [used]{used} both on [water_1]{water} and on [land_1]{land}",
+      "entry": "amphibious",
+      "id": "amphibious#amphibious__1"
+    }
+  ],
+  "thesaurus": "Relating to or describing vehicles and transportation",
+  "type": "Synonyms"
+}

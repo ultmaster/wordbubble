@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "without a [place_1]{place} to [live_1]{live}. Homeless [people_1]{people} sometimes [sleep_1]{sleep}, [eat]{eat}, and [wash_1]{wash} in a homeless shelter",
+      "examples": [
+        "[hostel]{hostels} for [young_1]{young} homeless [people_1]{people}",
+        "The [flood_1]{floods} have [kill_1]{killed} [hundred_2]{hundreds} and made [thousand#thousand__2]{thousands} homeless."
+      ],
+      "id": "homeless__1"
+    },
+    {
+      "def": "[people_1]{people} who are homeless",
+      "examples": [
+        "We [need_1]{need} to [provide]{provide} more [shelter_1]{shelters} for the homeless."
+      ],
+      "id": "homeless__4"
+    }
+  ],
+  "word": "homeless"
+}

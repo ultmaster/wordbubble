@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[thing]{things} such as [idea]{ideas}, [event]{events}, or [fact]{facts} that are [connected]{connected} are [related_1]{related} to each other",
+      "entry": "connected",
+      "id": "connected#connected__4"
+    },
+    {
+      "comment": "if two or more [thing]{things} are [related_1]{related}, there is a [connection]{connection} between them",
+      "entry": "related",
+      "id": "related_1#related_1__1"
+    },
+    {
+      "comment": "[related_1]{related} to or [connected]{connected} with something",
+      "entry": "corresponding",
+      "id": "corresponding#corresponding__1"
+    },
+    {
+      "comment": "[connected]{connected} with something",
+      "entry": "involved",
+      "id": "involved#involved__9"
+    },
+    {
+      "comment": "[thing]{things} that are [interdependent]{interdependent} are [related_1]{related} to one another in such a [close_1]{close} way that each one [need_1]{needs} the others in [order_1]{order} to [exist]{exist}",
+      "entry": "interdependent",
+      "id": "interdependent#interdependent__1"
+    },
+    {
+      "comment": "[thing]{things} that are [interrelated]{interrelated} [affect_1]{affect} each other because they are [related_1]{related} in some way",
+      "entry": "interrelated",
+      "id": "interrelated#interrelated__1"
+    },
+    {
+      "comment": "if something is [allied]{allied} to or with something else, it is [connected]{connected} with it or [working]{working} together with it",
+      "entry": "allied",
+      "id": "allied#allied__5"
+    },
+    {
+      "comment": "an [intimate_1]{intimate} [connection]{connection} between two [thing]{things} is a very [close_1]{close} [connection]{connection} between them",
+      "entry": "intimate",
+      "id": "intimate_1#intimate_1__10"
+    },
+    {
+      "comment": "[thing]{things} that are [inseparable]{inseparable} cannot [exist]{exist} or be [considered]{considered} [separate_1#separate_1__13]{separately}",
+      "entry": "inseparable",
+      "id": "inseparable#inseparable__2"
+    },
+    {
+      "comment": "if one [person]{person}, thing, or [idea]{idea} is [synonymous]{synonymous} with another, there is an [extremely]{extremely} [close_1]{close} [connection]{connection} between them, so that you cannot [think_1]{think} of one without also [thinking_1]{thinking} of the other",
+      "entry": "synonymous",
+      "id": "synonymous#synonymous__3"
+    },
+    {
+      "comment": "to [make_1]{make} [connection]{connections} between [people_1]{people} or [event]{events} that seem not to be [connected]{connected} so that you can [understand]{understand} what is [happening_1]{happening}",
+      "entry": "join the dots",
+      "id": "join-the-dots#join-the-dots__1"
+    }
+  ],
+  "thesaurus": "Connected with or related to something",
+  "type": "Synonyms"
+}

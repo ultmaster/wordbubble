@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "a [type_1]{type} of [belt_1]{belt} [worn_1]{worn} over one [shoulder_1]{shoulder} and across the [chest]{chest} with [pocket_1]{pockets} to [hold_1]{hold} [bullet]{bullets}",
+      "entry": "bandolier",
+      "id": "bandolier#bandolier__1"
+    },
+    {
+      "comment": "a gun cartridge that explodes when the gun is fired, but contains no bullet",
+      "entry": "blank",
+      "id": "blank_2#blank_2__3"
+    },
+    {
+      "comment": "a [blank_1]{blank} for a [gun_1]{gun}",
+      "entry": "blank cartridge",
+      "id": "blank-cartridge#blank-cartridge__1"
+    },
+    {
+      "comment": "[small_1]{small} [metal_1]{metal} [balls]{balls} that are [fire_2]{fired} from a [gun_1]{gun}",
+      "entry": "buckshot",
+      "id": "buckshot#buckshot__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [metal_1]{metal} that is [shot_1]{shot} from a [gun_1]{gun} and [cause_1]{causes} serious [damage_1]{damage} to the [person]{person} or thing it [hit_1]{hits}",
+      "entry": "bullet",
+      "id": "bullet#bullet__1"
+    },
+    {
+      "comment": "the [width]{width} of a [bullet]{bullet}",
+      "entry": "caliber",
+      "id": "caliber#caliber__4"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [caliber]{caliber}",
+      "entry": "calibre",
+      "id": "calibre#calibre__2"
+    },
+    {
+      "comment": "a [small_1]{small} [metal_1]{metal} [tube]{tube} [contain]{containing} a [bullet]{bullet} and a [substance]{substance} that will [explode]{explode} that you put [inside_1]{inside} a [gun_1]{gun}",
+      "entry": "cartridge",
+      "id": "cartridge#cartridge__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [bullet]{bullet} that [break_1]{breaks} into [small_1]{small} [piece_1]{pieces} as it [hit_1]{hits} someone",
+      "entry": "dum-dum",
+      "id": "dum-dum#dum-dum__1"
+    },
+    {
+      "comment": "[bullet]{bullets} or [bomb_1]{bombs} that are [shot_1]{shot} at [airplane]{airplanes} from the [ground_1]{ground}",
+      "entry": "flak",
+      "id": "flak#flak__3"
+    },
+    {
+      "comment": "the [bullet]{bullets} [shot_1]{shot} from a [gun_1]{gun}",
+      "entry": "gunshot",
+      "id": "gunshot#gunshot__3"
+    },
+    {
+      "comment": "live bullets are real, rather than blanks or rubber or plastic bullets",
+      "entry": "live",
+      "id": "live_2#live_2__13"
+    },
+    {
+      "comment": "a small round piece of steel or lead that is fired from a gun",
+      "entry": "pellet",
+      "id": "pellet#pellet__3"
+    },
+    {
+      "comment": "a [bullet]{bullet} made of [plastic_1]{plastic} [used]{used} for [control_2]{controlling} [large_1]{large} [violent]{violent} [crowd_1]{crowds} without [killing]{killing} [people_1]{people}",
+      "entry": "plastic bullet",
+      "id": "plastic-bullet#plastic-bullet__1"
+    },
+    {
+      "comment": "a [bullet]{bullet} or a [shot_1]{shot} that is [fire_2]{fired} from a [weapon]{weapon}",
+      "entry": "round",
+      "id": "round_2#round_2__13"
+    },
+    {
+      "comment": "a [bullet]{bullet} made of [hard_1]{hard} [rubber]{rubber} that is [design_2]{designed} to [injure]{injure} [people_1]{people} but not to [kill_1]{kill} them, [used]{used} [especially]{especially} by the [police_1]{police} or [army]{army} to [control_1]{control} [threatening]{threatening} [crowd_1]{crowds}",
+      "entry": "rubber bullet",
+      "id": "rubber-bullet#rubber-bullet__1"
+    },
+    {
+      "comment": "a [weapon]{weapon} [consist]{consisting} of a [metal_1]{metal} [container]{container} [fill_1]{filled} with a [substance]{substance} that [explode]{explodes}, [fire_2]{fired} from a [large_1]{large} [gun_1]{gun}",
+      "entry": "shell",
+      "id": "shell_1#shell_1__9"
+    },
+    {
+      "comment": "a [bullet]{bullet} that is [fire_2]{fired} from a [gun_1]{gun}",
+      "entry": "shot",
+      "id": "shot_2#shot_2__3"
+    },
+    {
+      "comment": "[small_1]{small} [metal_1]{metal} [balls]{balls} that are [fire_2]{fired} from a [shotgun]{shotgun}",
+      "entry": "shot",
+      "id": "shot_2#shot_2__31"
+    },
+    {
+      "comment": "a [bullet]{bullet}",
+      "entry": "slug",
+      "id": "slug_1#slug_1__4"
+    },
+    {
+      "comment": "a [bullet]{bullet} that [leaves]{leaves} a [line_1]{line} of [smoke_1]{smoke} behind it as it [travel_1]{travels} through the [air_1]{air}",
+      "entry": "tracer",
+      "id": "tracer#tracer__1"
+    }
+  ],
+  "thesaurus": "Bullets",
+  "type": "Related words"
+}

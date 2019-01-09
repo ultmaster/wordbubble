@@ -1,0 +1,41 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [tear_1]{tear} something [quickly]{quickly} and with a [lot_1]{lot} of [force_1]{force}",
+      "examples": [
+        "Jodie [ripped]{ripped} the [letter_1]{letter} [open_1]{open}.",
+        "[stop_1]{Stop} [pull_1]{pulling} my [shirt]{shirt} \u2013 you\u2019ll rip it.",
+        "Her [skirt_1]{skirt} was [ripped]{ripped} to [shred_1]{shreds}.",
+        "I [ripped]{ripped} my [jeans]{jeans} on a [sharp_1]{sharp} [nail_1]{nail}.",
+        "The [dog_1]{dog} went [wild_1]{wild}, [rip_1]{ripping} at the [tablecloth]{tablecloth}.",
+        "It\u2019ll rip if you keep [pull_1]{pulling} it.",
+        "A [bolt_1]{bolt} of [lightning_1]{lightning} had [ripped]{ripped} a hole in the [door_1]{door}."
+      ],
+      "id": "rip_1__1"
+    },
+    {
+      "def": "to [remove]{remove} something [quickly]{quickly} by [pull_1]{pulling} [hard_1]{hard}",
+      "examples": [
+        "We\u2019ve [ripped]{ripped} out the [old]{old} [fireplace]{fireplace} and put in a [new]{new} one.",
+        "He [ripped]{ripped} his [shirt]{shirt} off and [dive_1]{dived} into the [water_1]{water}.",
+        "[picture_1]{Pictures} had been [ripped]{ripped} from the [wall_1]{walls}."
+      ],
+      "id": "rip_1__11"
+    },
+    {
+      "def": "to take something from someone in a way that seems [unfair]{unfair}",
+      "examples": [
+        "She [saw_1]{saw} a [second_1]{second} [gold_1]{gold} [medal_1]{medal} [cruel#cruel__11]{cruelly} [ripped]{ripped} from her [grasp_1]{grasp} [yesterday_1]{yesterday}."
+      ],
+      "id": "rip_1__15"
+    },
+    {
+      "def": "to [copy_1]{copy} [music]{music} or [video_1]{video} from a [website]{website} or [disc]{disc} to a computer or hand-held [device]{device}",
+      "examples": [],
+      "id": "rip_1__17"
+    }
+  ],
+  "word": "rip"
+}

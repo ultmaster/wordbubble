@@ -1,0 +1,47 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[behave]{behaving} in a very [unfriendly]{unfriendly} or [threatening]{threatening} way toward someone",
+      "examples": [
+        "The [mayor]{mayor} found [himself]{himself} in the [middle_1]{middle} of a hostile [crowd_1]{crowd}.",
+        "She was [openly]{openly} hostile to him.",
+        "The [appearance]{appearance} of more [police_1]{police} [provoke]{provoked} a hostile [reaction]{reaction} from the [protester]{protesters}."
+      ],
+      "id": "hostile__1"
+    },
+    {
+      "def": "[opposing]{opposing} something",
+      "examples": [
+        "[public_1]{Public} [reaction]{reaction} to the war was [generally]{generally} hostile.",
+        "The [local_1]{local} [community]{community} was hostile to [plan_1]{plans} for a [new]{new} [highway]{highway}."
+      ],
+      "id": "hostile__5"
+    },
+    {
+      "def": "[belong]{belonging} to an [enemy]{enemy} in a war",
+      "examples": [
+        "The [northern]{northern} [half]{half} of the [island]{island} was [controlled_1]{controlled} by hostile [force_1]{forces}.",
+        "Their [plane_1]{plane} was now [flying_1]{flying} over hostile [territory]{territory}."
+      ],
+      "id": "hostile__8"
+    },
+    {
+      "def": "a hostile [place_1]{place} or [situation]{situation} is [difficult]{difficult} or [dangerous]{dangerous} to be in",
+      "examples": [
+        "[species]{species} that [live_1]{live} in the most hostile [environment]{environments} on the [planet]{planet}",
+        "a hostile [economic]{economic} [climate]{climate}"
+      ],
+      "id": "hostile__11"
+    },
+    {
+      "def": "done by one [company]{company} to another that [oppose]{opposes} its [action_1]{action}",
+      "examples": [
+        "a hostile [takeover]{takeover} [bid_1]{bid}"
+      ],
+      "id": "hostile__14"
+    }
+  ],
+  "word": "hostile"
+}

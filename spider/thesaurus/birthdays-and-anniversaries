@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "a [date_1]{date} when you [celebrate]{celebrate} something that [happen]{happened} in a [previous_1]{previous} [year]{year} that is [important]{important} to you",
+      "entry": "anniversary",
+      "id": "anniversary#anniversary__1"
+    },
+    {
+      "comment": "a [bicentennial]{bicentennial}",
+      "entry": "bicentenary",
+      "id": "bicentenary#bicentenary__1"
+    },
+    {
+      "comment": "the [day]{day} or [year]{year} [exactly]{exactly} 200 [year]{years} after an [important]{important} [event]{event}, or a [celebration]{celebration} of this",
+      "entry": "bicentennial",
+      "id": "bicentennial#bicentennial__1"
+    },
+    {
+      "comment": "the [day]{day} each [year]{year} that has the same [date_1]{date} as the one on which you were [born]{born}",
+      "entry": "birthday",
+      "id": "birthday#birthday__1"
+    },
+    {
+      "comment": "[intended_1]{intended} to [celebrate]{celebrate} someone\u2019s [birthday]{birthday}",
+      "entry": "birthday",
+      "id": "birthday#birthday__4"
+    },
+    {
+      "comment": "a [centennial]{centennial}",
+      "entry": "centenary",
+      "id": "centenary#centenary__1"
+    },
+    {
+      "comment": "a [day]{day} or [year]{year} that [people_1]{people} [celebrate]{celebrate} [exactly]{exactly} 100 [year]{years} after an [important]{important} [event]{event}",
+      "entry": "centennial",
+      "id": "centennial#centennial__1"
+    },
+    {
+      "comment": "the [day]{day}, [month]{month}, and [year]{year} when you were [born]{born}",
+      "entry": "date of birth",
+      "id": "date-of-birth#date-of-birth__1"
+    },
+    {
+      "comment": "60 [year]{years} after a [particular_1]{particular} [event]{event}, [especially]{especially} a [wedding]{wedding}",
+      "entry": "diamond anniversary",
+      "id": "diamond-anniversary#diamond-anniversary__1"
+    },
+    {
+      "comment": "an [event]{event} that [celebrate]{celebrates} the [fact]{fact} that something has [continued]{continued} for 60 [year]{years}",
+      "entry": "diamond jubilee",
+      "id": "diamond-jubilee#diamond-jubilee__1"
+    },
+    {
+      "comment": "50 [year]{years} after a [particular_1]{particular} [event]{event}, [especially]{especially} a [wedding]{wedding}",
+      "entry": "golden anniversary",
+      "id": "golden-anniversary#golden-anniversary__1"
+    },
+    {
+      "comment": "an [event]{event} that [celebrate]{celebrates} the [fact]{fact} that something has [continued]{continued} for 50 [year]{years}",
+      "entry": "golden jubilee",
+      "id": "golden-jubilee#golden-jubilee__1"
+    },
+    {
+      "comment": "a [day]{day} of the [year]{year} on which a [country]{country} [celebrate]{celebrates} its [freedom]{freedom} from [control_1]{control} by another [country]{country}",
+      "entry": "Independence Day",
+      "id": "independence-day#independence-day__2"
+    },
+    {
+      "comment": "a big celebration for a special occasion, especially an anniversary",
+      "entry": "jubilee",
+      "id": "jubilee#jubilee__1"
+    },
+    {
+      "comment": "in the Catholic religion, a special day celebrated each year in honor of the particular saint that a person is named for",
+      "entry": "name day",
+      "id": "name-day#name-day__1"
+    },
+    {
+      "comment": "a [celebration]{celebration} of an [important]{important} [event]{event} that [happen]{happened} 400 [year]{years} [ago]{ago}",
+      "entry": "quatercentenary",
+      "id": "quatercentenary#quatercentenary__1"
+    },
+    {
+      "comment": "a [date_1]{date} 400 [year]{years} after a [particular_1]{particular} [event]{event}",
+      "entry": "quatercentenary",
+      "id": "quatercentenary#quatercentenary__2"
+    },
+    {
+      "comment": "the [day]{day} when [people_1]{people} [celebrate]{celebrate} 40 [year]{years} of [marriage]{marriage}",
+      "entry": "ruby wedding",
+      "id": "ruby-wedding#ruby-wedding__1"
+    },
+    {
+      "comment": "in Australia, the [week]{week} after the final-year [school_1]{school} [examination]{examinations}, when [student]{students} [traditionally]{traditionally} take a [vacation_1]{vacation} to [celebrate]{celebrate} [leave_1]{leaving} [school_1]{school}",
+      "entry": "Schoolies Week",
+      "id": "schoolies-week#schoolies-week__1"
+    },
+    {
+      "comment": "25 [year]{years} after a [particular_1]{particular} [event]{event}, [especially]{especially} a [wedding]{wedding}",
+      "entry": "silver anniversary",
+      "id": "silver-anniversary#silver-anniversary__1"
+    },
+    {
+      "comment": "an [event]{event} that [celebrate]{celebrates} the [fact]{fact} that something has [continued]{continued} for 25 [year]{years}",
+      "entry": "silver jubilee",
+      "id": "silver-jubilee#silver-jubilee__1"
+    },
+    {
+      "comment": "a [silver_1]{silver} [anniversary]{anniversary}",
+      "entry": "silver wedding",
+      "id": "silver-wedding#silver-wedding__1"
+    },
+    {
+      "comment": "a [celebration]{celebration} that [take_1]{takes} [place_1]{place} when something has been in [existence]{existence} or has been [happening_1]{happening} for 300 [year]{years}",
+      "entry": "tercentenary",
+      "id": "tercentenary#tercentenary__1"
+    },
+    {
+      "comment": "someone\u2019s 21st [birthday]{birthday}, when they often have a [party_1]{party} to [celebrate]{celebrate} the [fact]{fact} that they have become a full [adult_1]{adult}",
+      "entry": "twenty-first",
+      "id": "twenty-first#twenty-first__1"
+    },
+    {
+      "comment": "a [wedding]{wedding} [anniversary]{anniversary}",
+      "entry": "wedding",
+      "id": "wedding#wedding__6"
+    },
+    {
+      "comment": "a [celebration]{celebration} of a [number_1]{number} of [year]{years} since two [people_1]{people} were [married]{married}",
+      "entry": "wedding anniversary",
+      "id": "wedding-anniversary#wedding-anniversary__1"
+    }
+  ],
+  "thesaurus": "Birthdays and anniversaries",
+  "type": "Related words"
+}

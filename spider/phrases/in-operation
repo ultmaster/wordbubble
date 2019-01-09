@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "in operation",
+  "senses": [
+    {
+      "def": "[working]{working} in the [normal_1]{normal} way",
+      "examples": [
+        "How long has the [business]{business} been in [operation]{operation}?",
+        "Only one of our [telephone_1]{telephone} [lines]{lines} is [currently]{currently} in [operation]{operation}."
+      ],
+      "id": "in-operation__1"
+    },
+    {
+      "def": "[existing]{existing} and [have]{having} an [effect_1]{effect} in a [situation]{situation}",
+      "examples": [
+        "[guidelines]{Guidelines} [governing]{governing} the use of [e-mail_1]{e-mail} are now in [operation]{operation}."
+      ],
+      "id": "in-operation__4"
+    }
+  ]
+}

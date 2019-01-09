@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "hide away",
+  "senses": [
+    {
+      "def": "to go to a [place_1]{place} where no one can find you because you [want_1]{want} to be alone",
+      "examples": [
+        "Kate\u2019s [experience_1]{experiences} would have made most [people_1]{people} [want_1]{want} to [hide_1]{hide} [away_1]{away}.",
+        "When he [get]{gets} [depressed]{depressed}, he [hide_1]{hides} [himself]{himself} [away_1]{away} and we never see him."
+      ],
+      "id": "hide-away__1"
+    },
+    {
+      "def": "to put something in a [place_1]{place} where no one can find it",
+      "examples": [
+        "She has some [chocolate]{chocolate} [cookie]{cookies} [hidden_1]{hidden} [away_1]{away} in her [drawer]{drawer}."
+      ],
+      "id": "hide-away__4"
+    }
+  ]
+}

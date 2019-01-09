@@ -1,0 +1,171 @@
+{
+  "entries": [
+    {
+      "comment": "a [set_1]{set} of [print_1]{printed} [lines]{lines} on a [product]{product}\u2019s [label_1]{label} that [tell_1]{tells} a computer [information]{information} about it such as its [price_1]{price}",
+      "entry": "bar code",
+      "id": "bar-code#bar-code__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that [allow]{allows} you to [buy_1]{buy} something at a [reduce]{reduced} [price_1]{price}",
+      "entry": "coupon",
+      "id": "coupon#coupon__1"
+    },
+    {
+      "comment": "a piece of paper that allows you to buy something that is rationed",
+      "entry": "coupon",
+      "id": "coupon#coupon__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that you [write]{write} your name and [address_1]{address} on and [send_1]{send} to someone, for [example]{example} to [enter]{enter} a [competition]{competition}",
+      "entry": "coupon",
+      "id": "coupon#coupon__4"
+    },
+    {
+      "comment": "a [card_1]{card} [given_1]{given} to [customer]{customers} of a [supermarket]{supermarket} or other [business]{business} that [give_1]{gives} them [benefit_1]{benefits} such as [price_1]{price} [reduction]{reductions}",
+      "entry": "courtesy card",
+      "id": "courtesy-card#courtesy-card__1"
+    },
+    {
+      "comment": "a [document_1]{document} that a [store_1]{store} [give_1]{gives} you [instead]{instead} of [money]{money} when you take back something you have [bought]{bought}",
+      "entry": "credit slip",
+      "id": "credit-slip#credit-slip__1"
+    },
+    {
+      "comment": "a [plastic_1]{plastic} [card_1]{card} that [allow]{allows} someone to [buy_1]{buy} [goods]{goods} or [service_1]{services} at a [reduce]{reduced} [price_1]{price}",
+      "entry": "discount card",
+      "id": "discount-card#discount-card__1"
+    },
+    {
+      "comment": "a [document_1]{document} that [give_1]{gives} [information]{information} about what is [inside_1]{inside} something such as a [package_1]{package}",
+      "entry": "docket",
+      "id": "docket#docket__2"
+    },
+    {
+      "comment": "a [label_1]{label} [used]{used} to [mark_1]{mark} [product]{products} that are [produce_1]{produced}, and that you can use and get [rid_1]{rid} of, without [harm_2]{harming} the [environment]{environment}",
+      "entry": "ecolabel",
+      "id": "ecolabel#ecolabel__1"
+    },
+    {
+      "comment": "a [food]{food} [stamp_1]{stamp}",
+      "entry": "food coupon",
+      "id": "food-coupon#food-coupon__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [paper_1]{paper} that is [used]{used} to [buy_1]{buy} [food]{food}, [given_1]{given} to [poor_1]{poor} [people_1]{people} by the U.S. [government]{government}",
+      "entry": "food stamp",
+      "id": "food-stamp#food-stamp__1"
+    },
+    {
+      "comment": "a [document_1]{document} that you [buy_1]{buy} in a [store_1]{store} as a [present_1]{present} for someone, so they can come to the [store_1]{store} [later_1]{later} and [exchange_1]{exchange} it for something they [want_1]{want}",
+      "entry": "gift certificate",
+      "id": "gift-certificate#gift-certificate__1"
+    },
+    {
+      "comment": "a [mark_1]{mark} on an [object_1]{object} that [show_1]{shows} who made it, who it [belong]{belongs} to, or what [organization]{organization} it is [connected]{connected} with",
+      "entry": "insignia",
+      "id": "insignia#insignia__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} or [material_1]{material} [fasten]{fastened} to an [object_1]{object} that [give_1]{gives} [information]{information} about it",
+      "entry": "label",
+      "id": "label_1#label_1__1"
+    },
+    {
+      "comment": "an [official_1]{official} [sign_1]{sign} on something that [show_1]{shows} who made it, who it [belong]{belongs} to, or that it is of a [particular_1]{particular} [standard_1]{standard} or [quality_1]{quality}",
+      "entry": "mark",
+      "id": "mark_1#mark_1__24"
+    },
+    {
+      "comment": "a ticket or card that allows someone to eat a meal or meals, for example in a dormitory at a college",
+      "entry": "meal ticket",
+      "id": "meal-ticket#meal-ticket__2"
+    },
+    {
+      "comment": "a [small_1]{small} [flat_1]{flat} [piece_1]{piece} of [metal_1]{metal}, [plastic_1]{plastic}, etc. with your name on it, that you [wear_1]{wear} to show [people_1]{people} who you are",
+      "entry": "name tag",
+      "id": "name-tag#name-tag__1"
+    },
+    {
+      "comment": "negotiable documents can be exchanged for money",
+      "entry": "negotiable",
+      "id": "negotiable#negotiable__4"
+    },
+    {
+      "comment": "a [marking]{marking} on a [product]{product}\u2019s [package_1]{package} that you can use to [prove]{prove} that you [bought]{bought} the [product]{product}",
+      "entry": "proof of purchase",
+      "id": "proof-of-purchase#proof-of-purchase__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that you can use to [buy_1]{buy} something [later_1]{later} that is not [available]{available} at the [moment]{moment}",
+      "entry": "rain check",
+      "id": "rain-check#rain-check__1"
+    },
+    {
+      "comment": "a [ticket_1]{ticket} for a [sport_1]{sports} [game_1]{game} that you can use again if [rain_1]{rain} [stop_1]{stops} the [game_1]{game}",
+      "entry": "rain check",
+      "id": "rain-check#rain-check__2"
+    },
+    {
+      "comment": "a [document_1]{document} that you get from someone [showing]{showing} that you have [given_1]{given} them [money]{money} or [goods]{goods}",
+      "entry": "receipt",
+      "id": "receipt#receipt__1"
+    },
+    {
+      "comment": "a technology that uses labels that produce radio signals to identify things such as goods, farm animals and vehicles. RFID has replaced bar codes in some stores.",
+      "entry": "RFID",
+      "id": "rfid#rfid__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [paper_1]{paper} that a [store_1]{store} [give_1]{gives} you [showing]{showing} how much [money]{money} you [pay_1]{pay} for something you [buy_1]{buy}",
+      "entry": "sales slip",
+      "id": "sales-slip#sales-slip__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that you use [temporarily]{temporarily} as [money]{money}",
+      "entry": "scrip",
+      "id": "scrip#scrip__1"
+    },
+    {
+      "comment": "a [special_1]{special} [mark_1]{mark} that you put on something, for [example]{example} a [document_1]{document}, to show that it is [legal]{legal} or [official_1]{official}",
+      "entry": "seal",
+      "id": "seal_2#seal_2__5"
+    },
+    {
+      "comment": "a [number_1]{number} that is [print_1]{printed} on [thing]{things} such as [electrical_1]{electrical} [goods]{goods} or [paper_1]{paper} [money]{money} so that each one can be [recognize]{recognized}",
+      "entry": "serial number",
+      "id": "serial-number#serial-number__1"
+    },
+    {
+      "comment": "a [small_1]{small} [plastic_1]{plastic} [card_1]{card} that [store_1]{stores} [information]{information} in [electronic]{electronic} form, [used]{used} for [example]{example} [like_1]{like} a [passport]{passport} or for [pay_1]{paying} for [thing]{things} in [store_1]{stores}",
+      "entry": "smart card",
+      "id": "smart-card#smart-card__1"
+    },
+    {
+      "comment": "a [small_1]{small} [official_1]{official} [piece_1]{piece} of [paper_1]{paper} that you [buy_1]{buy} and [collect_1]{collect} as a way of [pay_1]{paying} for something",
+      "entry": "stamp",
+      "id": "stamp_1#stamp_1__4"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [paper_1]{paper} or other [material_1]{material} that is [fixed]{fixed} to something to give [information]{information} about it, or is [fixed]{fixed} to someone to show who they are",
+      "entry": "tag",
+      "id": "tag_1#tag_1__1"
+    },
+    {
+      "comment": "a code consisting of 12 numbers that a product for sale has, and which is different for every product",
+      "entry": "UPC",
+      "id": "upc#upc__1"
+    },
+    {
+      "comment": "an [official_1]{official} [piece_1]{piece} of [paper_1]{paper} that you can use [instead]{instead} of [money]{money} to [buy_1]{buy} a [particular_1]{particular} [product]{product} or [service_1]{service}",
+      "entry": "voucher",
+      "id": "voucher#voucher__1"
+    },
+    {
+      "comment": "an [official_1]{official} [piece_1]{piece} of [paper_1]{paper} that [provide]{provides} [evidence_1]{evidence} for a [claim_1]{claim} that you are [making]{making}",
+      "entry": "voucher",
+      "id": "voucher#voucher__4"
+    }
+  ],
+  "thesaurus": "Vouchers, coupons, labels and receipts",
+  "type": "Related words"
+}

@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to [official_1]{official} [process_1]{processes} and the [people_1]{people} whose [job_1]{job} is to [make_1]{make} [sure_1]{sure} that they are [follow]{followed}",
+      "entry": "bureaucratic",
+      "id": "bureaucratic#bureaucratic__3"
+    },
+    {
+      "comment": "[relate]{relating} to the U.S. [congress_1]{Congress}",
+      "entry": "Congressional",
+      "id": "congressional#congressional__3"
+    },
+    {
+      "comment": "[relate]{relating} to the [constitution]{constitution} of a [country]{country} or [organization]{organization}",
+      "entry": "constitutional",
+      "id": "constitutional_1#constitutional_1__3"
+    },
+    {
+      "comment": "[relate]{relating} to the [development]{development} of a [country]{country} or [economy_1]{economy}",
+      "entry": "developmental",
+      "id": "developmental#developmental__3"
+    },
+    {
+      "comment": "[relate]{relating} to the [effort]{efforts} of a [government]{government} or [country]{country} to [increase_1]{increase} its [land_1]{land} or [power_1]{power}",
+      "entry": "expansionist",
+      "id": "expansionist#expansionist__1"
+    },
+    {
+      "comment": "[prefer]{preferring} to [deal_1]{deal} with [political]{political} [problem]{problems} by [use_1]{using} [military]{military} [force_1]{force} [instead]{instead} of more [peaceful]{peaceful} [method]{methods}",
+      "entry": "hawkish",
+      "id": "hawkish#hawkish__1"
+    },
+    {
+      "comment": "[wanting]{wanting} to take [control_1]{control} of other [country]{countries}",
+      "entry": "imperialist",
+      "id": "imperialist#imperialist__1"
+    },
+    {
+      "comment": "an Interior minister or government department is responsible for things that happen within a country, not for relations between that country and others",
+      "entry": "Interior",
+      "id": "interior_2#interior_2__3"
+    },
+    {
+      "comment": "[laissez-faire_1]{laissez-faire} [policy]{policies} [allow]{allow} [company]{companies} and the [economy_1]{economy} to [operate]{operate} without [government]{government} [control_1]{control}",
+      "entry": "laissez-faire",
+      "id": "laissez-faire_1#laissez-faire_1__1"
+    },
+    {
+      "comment": "a [nongovernmental]{nongovernmental} [organization]{organization} is not part of a [government]{government} but is [usually]{usually} [involved]{involved} in the [type_1]{type} of [work_1]{work} that [government]{government} [department]{departments} do",
+      "entry": "nongovernmental",
+      "id": "nongovernmental#nongovernmental__1"
+    },
+    {
+      "comment": "[used]{used} about [thing]{things} that are [decided]{decided} by a [government]{government}",
+      "entry": "official",
+      "id": "official_1#official_1__4"
+    },
+    {
+      "comment": "[pork]{pork} [barrel_1]{barrel} [politics]{politics} or [spending]{spending} [use_1]{uses} [government]{government} [money]{money} to give [benefit_1]{benefits} to [people_1]{people} in a [particular_1]{particular} [area]{area}, so that the [politician]{politician} who [represent]{represents} that [area]{area} will be more [popular]{popular}",
+      "entry": "pork barrel",
+      "id": "pork-barrel#pork-barrel__1"
+    },
+    {
+      "comment": "[own_2]{owned} by the [government]{government}, not by a [private_1]{private} [company]{company}",
+      "entry": "public",
+      "id": "public_1#public_1__11"
+    }
+  ],
+  "thesaurus": "Relating to or describing government policies",
+  "type": "Related words"
+}

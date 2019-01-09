@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to give someone something that they [want_1]{want} or [need_1]{need}",
+      "entry": "provide",
+      "id": "provide#provide__1"
+    },
+    {
+      "comment": "to [provide]{provide} someone or something with something that they [need_1]{need} or [want_1]{want}",
+      "entry": "supply",
+      "id": "supply_2#supply_2__1"
+    },
+    {
+      "comment": "to [provide]{provide} a [person]{person}, [object_1]{object}, or [place_1]{place} with the [thing]{things} that they [need_1]{need} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "equip",
+      "id": "equip#equip__1"
+    },
+    {
+      "comment": "to [provide]{provide} what someone [need_1]{needs}, by [doing]{doing} what is [necessary_1]{necessary}",
+      "entry": "arrange",
+      "id": "arrange#arrange__7"
+    },
+    {
+      "comment": "to [provide]{provide} something such as a [product]{product} or [service_1]{service}",
+      "entry": "offer",
+      "id": "offer_1#offer_1__10"
+    },
+    {
+      "comment": "to [provide]{provide} a [group_1]{group} of [people_1]{people} or an [area]{area} with something [useful]{useful}",
+      "entry": "serve",
+      "id": "serve_1#serve_1__30"
+    },
+    {
+      "comment": "to [provide]{provide} a [person]{person} or an [organization]{organization} with the [thing]{things} that they [need_1]{need} in [order_1]{order} to [operate]{operate} [effectively]{effectively}, [especially]{especially} [money]{money}",
+      "entry": "resource",
+      "id": "resource_2#resource_2__1"
+    },
+    {
+      "comment": "to [provide]{provide} [people_1]{people} with something they [want_1]{want} or [need_1]{need}, [especially]{especially} something [unusual]{unusual} or [special_1]{special}",
+      "entry": "cater to",
+      "id": "cater-to#cater-to__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} or [provide]{provide} something that [people_1]{people} [want_1]{want}",
+      "entry": "come up with",
+      "id": "come-up-with#come-up-with__3"
+    },
+    {
+      "comment": "to please someone by [give_1]{giving} them something that they [want_1]{want} or [need_1]{need}",
+      "entry": "satisfy",
+      "id": "satisfy#satisfy__1"
+    }
+  ],
+  "thesaurus": "To provide something needed or missing",
+  "type": "Synonyms"
+}

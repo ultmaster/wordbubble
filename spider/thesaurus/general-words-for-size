@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "how [large_1]{large} or [small_1]{small} something is",
+      "entry": "size",
+      "id": "size_1#size_1__1"
+    },
+    {
+      "comment": "the [exact_1]{exact} [size_1]{size}, [degree]{degree}, [strength]{strength}, etc. of something, [usually]{usually} [express_1]{expressed} in [number_1]{numbers} of [standard_1]{standard} [unit]{units}",
+      "entry": "measurements",
+      "id": "measurement#measurement__1"
+    },
+    {
+      "comment": "[size_1]{size}, either [great_1]{great} or [small_1]{small}",
+      "entry": "magnitude",
+      "id": "magnitude#magnitude__4"
+    },
+    {
+      "comment": "the [size_1]{size} or [area]{area} of something",
+      "entry": "extent",
+      "id": "extent#extent__8"
+    },
+    {
+      "comment": "the [size_1]{size} of something, [especially]{especially} when it is [big_1]{big}",
+      "entry": "scale",
+      "id": "scale_1#scale_1__1"
+    },
+    {
+      "comment": "[length]{length}, [height]{height}, or [width]{width}",
+      "entry": "dimension",
+      "id": "dimension#dimension__1"
+    },
+    {
+      "comment": "the [size_1]{size} or [shape_1]{shape} of something",
+      "entry": "proportions",
+      "id": "proportion#proportion__11"
+    },
+    {
+      "comment": "the [size_1]{size} around or along [different]{different} [part_1]{parts} of someone\u2019s body, [used]{used} for [deciding]{deciding} what [size_1]{size} [clothes]{clothes} they [need_1]{need}",
+      "entry": "measurements",
+      "id": "measurement#measurement__4"
+    },
+    {
+      "comment": "the [size_1]{size} of something",
+      "entry": "dimension",
+      "id": "dimension#dimension__3"
+    }
+  ],
+  "thesaurus": "General words for size",
+  "type": "Synonyms"
+}

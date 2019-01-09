@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "catch someone\u2019s eye",
+  "senses": [
+    {
+      "def": "if something [catch_1]{catches} your [eye_1]{eye}, you [suddenly]{suddenly} [notice_1]{notice} it",
+      "examples": [
+        "There was one [painting]{painting} that [caught_1]{caught} my [eye_1]{eye}."
+      ],
+      "id": "catch-someone-s-eye__1"
+    },
+    {
+      "def": "to get someone\u2019s [attention]{attention} by [look_1]{looking} at them",
+      "examples": [
+        "He [tried_1]{tried} to [catch_1]{catch} the [attendant_1]{attendant}\u2019s [eye_1]{eye} but the man was already [turning]{turning} [away_1]{away}."
+      ],
+      "id": "catch-someone-s-eye__3"
+    }
+  ]
+}

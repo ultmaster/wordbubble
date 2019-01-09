@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [drink_1]{drink}, [usually]{usually} with a [lot_1]{lot} of [alcohol]{alcohol} in it, made by [mix_1]{mixing} [different]{different} [drink_1]{drinks} together",
+      "examples": [],
+      "id": "cocktail__1"
+    },
+    {
+      "def": "a [combination]{combination} of [substance]{substances}, [especially]{especially} ones that are [harmful]{harmful} when [used]{used} together",
+      "examples": [
+        "The [smoke_1]{smoke} [contain]{contains} a cocktail of [toxic]{toxic} [chemical_1]{chemicals}.",
+        "a [disturbing]{disturbing} cocktail of [sex_1]{sex} and [violence]{violence}"
+      ],
+      "id": "cocktail__2"
+    }
+  ],
+  "word": "cocktail"
+}

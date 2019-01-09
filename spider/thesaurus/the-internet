@@ -1,0 +1,706 @@
+{
+  "entries": [
+    {
+      "comment": "the telephone number that is used to connect to an Internet service provider",
+      "entry": "access number",
+      "id": "access-number#access-number__1"
+    },
+    {
+      "comment": "the name of a user on a network or Internet system",
+      "entry": "account name",
+      "id": "account-name#account-name__1"
+    },
+    {
+      "comment": "a [series]{series} of [letter_1]{letters}, [number_1]{numbers}, and [symbol]{symbols} that show you where to find a [particular_1]{particular} [website]{website} on the [internet]{Internet}",
+      "entry": "address",
+      "id": "address_1#address_1__4"
+    },
+    {
+      "comment": "anonymous file transfer protocol: a set of rules for moving computer files from one computer to another, especially over the Internet, without having to say who you are or use a password",
+      "entry": "anonymous FTP",
+      "id": "anonymous-ftp#anonymous-ftp__1"
+    },
+    {
+      "comment": "a way of [check_1]{checking} who has [visit_1]{visited} a [company]{company}\u2019s [website]{website} that [show_1]{shows} the [user]{user}\u2019s system but not his or her name",
+      "entry": "blind certificate",
+      "id": "blind-certificate#blind-certificate__1"
+    },
+    {
+      "comment": "the imaginary place on the Internet where people\u2019s blogs go so that other people can read them and react to them",
+      "entry": "blogosphere",
+      "id": "blogosphere#blogosphere__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [radio_1]{radio} [technology]{technology} that [make_1]{makes} it [possible_1]{possible} for [electronic]{electronic} [communication]{communication} to [exist]{exist} between [cell]{cell} [phone_1]{phones}, the [internet]{Internet}, and [computer]{computers}",
+      "entry": "Bluetooth",
+      "id": "bluetooth#bluetooth__1"
+    },
+    {
+      "comment": "an [electronic]{electronic} way of [marking]{marking} an [internet]{Internet} [website]{website} so that you can [easily]{easily} find it again",
+      "entry": "bookmark",
+      "id": "bookmark_1#bookmark_1__2"
+    },
+    {
+      "comment": "a Boolean search is one using the words \u201cand,\u201d \u201cor,\u201d and \u201cnot\u201d to find a word or combination of words using an Internet search engine. For example you could ask to search for \u201ccar or automobile,\u201d or \u201cNew York and not New York state.\u201d",
+      "entry": "Boolean",
+      "id": "boolean#boolean__1"
+    },
+    {
+      "comment": "a [word_1]{word} such as \u201cand,\u201d \u201cor,\u201d or \u201cnot\u201d [used]{used} in a Boolean [search_1]{search} on the [internet]{Internet}",
+      "entry": "Boolean operator",
+      "id": "boolean-operator#boolean-operator__1"
+    },
+    {
+      "comment": "a [measurement]{measurement} of the [number_1]{number} of [people_1]{people} who [leave_1]{leave} a [website]{website} after they [look_1]{look} at only one [page_1]{page}",
+      "entry": "bounce rate",
+      "id": "bounce-rate#bounce-rate__1"
+    },
+    {
+      "comment": "[capable]{capable} of [carry_1]{carrying} [sound_1]{sound}, [picture_1]{pictures} and [video_1]{video} that are [sent]{sent} at [high_1]{high} [speed_1]{speeds}, [usually]{usually} above 1.544mbps",
+      "entry": "broadband",
+      "id": "broadband_1#broadband_1__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [connection]{connection} to the [internet]{Internet} that [allow]{allows} you to [receive]{receive} or [send_1]{send} a [lot_1]{lot} of [information]{information} very [quickly]{quickly}",
+      "entry": "broadband",
+      "id": "broadband_2#broadband_2__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [allow]{allows} you to [look_1]{look} at and [search_1]{search} through [information]{information} on the [internet]{Internet}",
+      "entry": "browser",
+      "id": "browser#browser__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [look_1]{looking} at [website]{websites} on the [internet]{Internet} in no [particular_1]{particular} [order_1]{order}",
+      "entry": "browsing",
+      "id": "browsing#browsing__1"
+    },
+    {
+      "comment": "a system in which a remote computer calls back the computer that has just called its number when trying to connect to the Internet, so that only the correct person can use the Internet",
+      "entry": "callback",
+      "id": "callback#callback__1"
+    },
+    {
+      "comment": "a computer or company on the Internet that provides or checks digital certificates to prove that a company is who it claims it is",
+      "entry": "certificate authority",
+      "id": "certificate-authority#certificate-authority__1"
+    },
+    {
+      "comment": "an area on the Internet or a computer network where people can exchange messages",
+      "entry": "chat room",
+      "id": "chat-room#chat-room__1"
+    },
+    {
+      "comment": "the [number_1]{number} of times a [website]{website} is [visit_1]{visited} in a [particular_1]{particular} [period_1]{period} of time",
+      "entry": "click rate",
+      "id": "click-rate#click-rate__1"
+    },
+    {
+      "comment": "the series of clicks of a computer mouse that someone makes when they look at websites on the Internet",
+      "entry": "clickstream",
+      "id": "clickstream#clickstream__1"
+    },
+    {
+      "comment": "the use of the [internet]{Internet} as a [tool_1]{tool} for [influence_2]{influencing} [public_1]{public} [opinion]{opinion} or [achieve]{achieving} [political]{political} or [social_1]{social} [aim_1]{aims}",
+      "entry": "clicktivism",
+      "id": "clicktivism#clicktivism__1"
+    },
+    {
+      "comment": "the amount of time that a computer is logged on  (=connected) to another computer through a modem. Many Internet service providers charge their customers according to their connect time.",
+      "entry": "connect time",
+      "id": "connect-time#connect-time__1"
+    },
+    {
+      "comment": "a [small_1]{small} [file_1]{file} that a [website]{website} [automatically]{automatically} [send_1]{sends} to your computer when you [connect]{connect} to the [website]{website}, [contain]{containing} [information]{information} about your use of the [internet]{Internet}",
+      "entry": "cookie",
+      "id": "cookie#cookie__3"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [collect_1]{collects} [document_1]{documents} and [links]{links} from the [internet]{Internet}",
+      "entry": "crawler",
+      "id": "crawler#crawler__2"
+    },
+    {
+      "comment": "the [activity]{activity} of [send_1]{sending} [message_1]{messages} or [image_1]{images} to someone [use_1]{using} the [internet]{Internet} or a [cell]{cell} [phone_1]{phone} in [order_1]{order} to [frighten]{frighten} or [upset_1]{upset} them",
+      "entry": "cyberbullying",
+      "id": "cyberbullying#cyberbullying__1"
+    },
+    {
+      "comment": "a [cafe]{caf\u00e9} with [computer]{computers} so that [customer]{customers} can use the [internet]{Internet}",
+      "entry": "cybercaf\u00e9",
+      "id": "cybercafe#cybercafe__1"
+    },
+    {
+      "comment": "[use_1]{using} the [internet]{Internet} where you [work_1]{work}, during [working]{working} [hour]{hours}, for [activity]{activities} that are not [related_1]{related} to [work_1]{work}",
+      "entry": "cyberloafing",
+      "id": "cyberloafing#cyberloafing__1"
+    },
+    {
+      "comment": "the Monday after the U.S. [thanksgiving_1]{Thanksgiving} [holiday_1]{holiday}, when there is a [big_1]{big} [increase_1]{increase} in [shopping]{shopping} on the [internet]{Internet}",
+      "entry": "cyber Monday",
+      "id": "cyber-monday#cyber-monday__1"
+    },
+    {
+      "comment": "the use of the [internet]{Internet} to have [sexual]{sexual} [experience_1]{experiences}, for [example]{example} by [have]{having} a [sexual]{sexual} [conversation]{conversation} with someone",
+      "entry": "cybersex",
+      "id": "cybersex#cybersex__1"
+    },
+    {
+      "comment": "[shopping]{shopping} for [goods]{goods} and [service_1]{services} on the [internet]{Internet}",
+      "entry": "cybershopping",
+      "id": "cybershopping#cybershopping__1"
+    },
+    {
+      "comment": "the [imaginary]{imaginary} [place_1]{place} that [e-mail_1]{e-mails} and other [piece_1]{pieces} of [information]{information} [pass_1]{pass} through when they are [going_1]{going} from one computer to another",
+      "entry": "cyberspace",
+      "id": "cyberspace#cyberspace__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [buy_1]{buying} the [right_1]{right} to own an [internet]{Internet} [address_1]{address} with the same name as that of a [well-known]{well-known} [company]{company} in [order_1]{order} to [make_1]{make} [money]{money} by [selling]{selling} the [address_1]{address} to that [company]{company}",
+      "entry": "cybersquatting",
+      "id": "cybersquatting#cybersquatting__1"
+    },
+    {
+      "comment": "the use of the [internet]{Internet} to [follow]{follow} and [watch_1]{watch} someone in a [threatening]{threatening} way",
+      "entry": "cyberstalking",
+      "id": "cyberstalking#cyberstalking__1"
+    },
+    {
+      "comment": "a type of search engine that collects information about users in order to provide them with relevant results for their searches",
+      "entry": "decision engine",
+      "id": "decision-engine#decision-engine__1"
+    },
+    {
+      "comment": "a part of the [world]{World} [wide_1]{Wide} [web]{Web} that cannot be [access_2]{accessed} [use_1]{using} [conventional]{conventional} [browser]{browsers}, often [used]{used} for [illegal_1]{illegal} or [criminal_1]{criminal} [activity]{activity}",
+      "entry": "the Deep Web",
+      "id": "the-deep-web#the-deep-web__1"
+    },
+    {
+      "comment": "an [attack_1]{attack} by a computer [hacker]{hacker} or [virus]{virus} in which a very [large_1]{large} [number_1]{number} of [message_1]{messages} are [sent]{sent} to a [website]{website} in a very [short_1]{short} time, so that it [stop_1]{stops} [working]{working} and [people_1]{people} cannot use it",
+      "entry": "denial of service attack",
+      "id": "denial-of-service-attack#denial-of-service-attack__1"
+    },
+    {
+      "comment": "[permission]{permission} from a [bank_1]{bank} to [buy_1]{buy} [goods]{goods} or [service_1]{services} on the [internet]{Internet}, [used]{used} [like_1]{like} [money]{money}",
+      "entry": "digital cash",
+      "id": "digital-cash#digital-cash__1"
+    },
+    {
+      "comment": "an electronic code  (=set of numbers and letters) that proves who someone is when they do business over the Internet or send an electronic message",
+      "entry": "digital certificate",
+      "id": "digital-certificate#digital-certificate__1"
+    },
+    {
+      "comment": "[information]{information} about a [person]{person} that can be [obtain]{obtained} by [analyze]{analyzing} what they do [online]{online}",
+      "entry": "digital footprint",
+      "id": "digital-footprint#digital-footprint__1"
+    },
+    {
+      "comment": "a [secret_1]{secret} way of [add_1]{adding} your name to an [electronic]{electronic} [message_1]{message} to [prove]{prove} that you are who you [say_1]{say} you are. [digital]{Digital} [signature_1]{signatures} are [used]{used} when you [buy_1]{buy} [goods]{goods} or [make_1]{make} [agreement]{agreements} on the [internet]{Internet}.",
+      "entry": "digital signature",
+      "id": "digital-signature#digital-signature__1"
+    },
+    {
+      "comment": "a [domain]{domain} name",
+      "entry": "domain",
+      "id": "domain#domain__11"
+    },
+    {
+      "comment": "an [address_1]{address} on the [internet]{Internet}",
+      "entry": "domain name",
+      "id": "domain-name#domain-name__1"
+    },
+    {
+      "comment": "the way that you [say_1]{say} the [symbol]{symbol} . in an [internet]{Internet} or [e-mail_1]{e-mail} [address_1]{address}",
+      "entry": "dot",
+      "id": "dot_1#dot_1__6"
+    },
+    {
+      "comment": "on or using the Internet: used with some nouns for making new words",
+      "entry": "e-",
+      "id": "e_2#e_2__1"
+    },
+    {
+      "comment": "[business]{business} done on the [internet]{Internet}",
+      "entry": "e-business",
+      "id": "e-business#e-business__1"
+    },
+    {
+      "comment": "[money]{money} that [exist]{exists} in [electronic]{electronic} form and is [used]{used} to [pay_1]{pay} for [thing]{things} over the [internet]{Internet}",
+      "entry": "e-cash",
+      "id": "e-cash#e-cash__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [obtain]{obtaining} [money]{money} [illegal_1#illegal_1__6]{illegally} [use_1]{using} the [internet]{Internet}",
+      "entry": "e-fraud",
+      "id": "e-fraud#e-fraud__1"
+    },
+    {
+      "comment": "the use of the [internet]{Internet} by [government]{government}, for [example]{example} to give [information]{information} to the [public_1]{public} or to [allow]{allow} [people_1]{people} to [vote_1]{vote} from their computer",
+      "entry": "e-government",
+      "id": "e-government#e-government__1"
+    },
+    {
+      "comment": "[method]{methods} of [learning]{learning} that [involve]{involve} the use of [computer]{computers} and the [internet]{Internet}",
+      "entry": "e-learning",
+      "id": "e-learning#e-learning__1"
+    },
+    {
+      "comment": "[e-cash]{e-cash}",
+      "entry": "e-money",
+      "id": "e-money#e-money__1"
+    },
+    {
+      "comment": "[electronic]{electronic} [signature_1]{signature}: a way of [add_1]{adding} your name to an [electronic]{electronic} [document_1]{document} such as an [e-mail_1]{e-mail}, [used]{used} when you are [buy_1]{buying} [goods]{goods} or [making]{making} [agreement]{agreements} on the [internet]{Internet}",
+      "entry": "e-signature",
+      "id": "e-signature#e-signature__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [selling]{selling} [thing]{things} on the [internet]{Internet}",
+      "entry": "e-tail",
+      "id": "e-tail#e-tail__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [vote_1]{voting} in an [election]{election} [use_1]{using} the [internet]{Internet}",
+      "entry": "e-voting",
+      "id": "e-voting#e-voting__1"
+    },
+    {
+      "comment": "a feature of web browsers that allows a user to store personal details about their credit card or bank account on the Internet",
+      "entry": "e-wallet",
+      "id": "e-wallet#e-wallet__1"
+    },
+    {
+      "comment": "a [magazine]{magazine} that you can read on the [internet]{Internet}",
+      "entry": "e-zine",
+      "id": "e-zine#e-zine__1"
+    },
+    {
+      "comment": "[story]{stories} for a [television]{television} [series]{series} [written_1]{written} by [people_1]{people} who [watch_1]{watch} the [series]{series} [regularly]{regularly}. The [story]{stories} are [publish]{published} on the [internet]{Internet}.",
+      "entry": "fanfic",
+      "id": "fanfic#fanfic__1"
+    },
+    {
+      "comment": "a statement that someone puts on an Internet discussion group because they want to get an angry reply or to start a flame war",
+      "entry": "flame bait",
+      "id": "flame-bait#flame-bait__1"
+    },
+    {
+      "comment": "a [period_1]{period} during which [people_1]{people} [send_1]{send} [angry]{angry} or [rude]{rude} [e-mail_1]{e-mails} to each other",
+      "entry": "flame war",
+      "id": "flame-war#flame-war__1"
+    },
+    {
+      "comment": "a system of [organize]{organizing} [information]{information} on a [website]{website} in which [different]{different} [user]{users} [add_1]{add} their own [word_1]{words} to describe the [information]{information} they find there so that other [user]{users} can use these [word_1]{words} to find the [information]{information}. [folksonomy]{Folksonomy} is a [combination]{combination} of the [word_1]{words} \u2019[folk_1]{folk}\u2019 and \u2019[taxonomy]{taxonomy}\u2019..",
+      "entry": "folksonomy",
+      "id": "folksonomy#folksonomy__1"
+    },
+    {
+      "comment": "a box on an Internet page that contains information that you can scroll through  (=go up and down by using the mouse). Pages usually contain several frames.",
+      "entry": "frame",
+      "id": "frame_1#frame_1__12"
+    },
+    {
+      "comment": "a computer network that allows people to publish and obtain information on the Internet without leaving any sign of who they are",
+      "entry": "freenet",
+      "id": "freenet#freenet__1"
+    },
+    {
+      "comment": "a [place_1]{place} on the [internet]{Internet} from which you can get [information]{information} about something, and which can be [guarded]{guarded}",
+      "entry": "gateway",
+      "id": "gateway#gateway__8"
+    },
+    {
+      "comment": "a system that [allow]{allows} [people_1]{people} to [connect]{connect} to [internet]{Internet} [site_1]{sites} that are not part of the [world]{World} [wide_1]{Wide} [web]{Web}",
+      "entry": "gopher",
+      "id": "gopher#gopher__4"
+    },
+    {
+      "comment": "a system that [allow]{allows} you to [connect]{connect} to the [internet]{Internet} [use_1]{using} [cell]{cell} [phone_1]{phones}",
+      "entry": "GPRS",
+      "id": "gprs#gprs__1"
+    },
+    {
+      "comment": "a [visit_1]{visit} by someone to a [particular_1]{particular} [website]{website}",
+      "entry": "hit",
+      "id": "hit_2#hit_2__15"
+    },
+    {
+      "comment": "a [home_1]{home} [page_1]{page}",
+      "entry": "home",
+      "id": "home_1#home_1__32"
+    },
+    {
+      "comment": "a [place_1]{place} on the [internet]{Internet} that you [choose]{choose} to [appear]{appear} first on your computer [screen_1]{screen} each time you [look_1]{look} at the [internet]{Internet}",
+      "entry": "home page",
+      "id": "home-page#home-page__2"
+    },
+    {
+      "comment": "a connection from one computer document to another by means of hypertext, especially on the Internet",
+      "entry": "hot link",
+      "id": "hot-link#hot-link__1"
+    },
+    {
+      "comment": "a [list_1]{list} of [website]{website} [address_1]{addresses} [store_2]{stored} in someone\u2019s computer or [shown]{shown} on an [internet]{Internet} [website]{website}",
+      "entry": "hot list",
+      "id": "hot-list#hot-list__2"
+    },
+    {
+      "comment": "a [place_1]{place} where a [wireless_1]{wireless} [internet]{internet} [connection]{connection} is [available]{available}",
+      "entry": "hotspot",
+      "id": "hotspot#hotspot__3"
+    },
+    {
+      "comment": "[instant_1]{instant} [messaging]{messaging}",
+      "entry": "IM",
+      "id": "im_1#im_1__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [communicate]{communicating} with someone [directly_1]{directly} over the [internet]{Internet} and [reply_1]{replying} to their [message_1]{messages} as [soon]{soon} as they [arrive]{arrive}",
+      "entry": "instant messaging",
+      "id": "instant-messaging#instant-messaging__1"
+    },
+    {
+      "comment": "a code for a particular computer that is used for sending messages to it on a network or on the Internet",
+      "entry": "Internet address",
+      "id": "internet-address#internet-address__1"
+    },
+    {
+      "comment": "a system that [allow]{allows} you to use the [internet]{Internet} to [communicate]{communicate} with your [bank_1]{bank}, [check_1]{check} your [account_1]{account}, [pay_1]{pay} [bill_1]{bills}, etc.",
+      "entry": "Internet banking",
+      "id": "internet-banking#internet-banking__1"
+    },
+    {
+      "comment": "a [cafe]{caf\u00e9} where [people_1]{people} can [pay_1]{pay} to use the [internet]{Internet}, [send_1]{send} [e-mail_1]{e-mails}, etc.",
+      "entry": "Internet caf\u00e9",
+      "id": "internet-cafe#internet-cafe__1"
+    },
+    {
+      "comment": "[connection]{connections} between [object_1]{objects} of all [kind_1]{kinds} via the [internet]{internet} that [enable]{enable} them to [communicate]{communicate} with [people_1]{people} and with each other",
+      "entry": "internet of things",
+      "id": "internet-of-things#internet-of-things__1"
+    },
+    {
+      "comment": "a method of communicating with other people immediately over the Internet, especially through discussion groups",
+      "entry": "Internet Relay Chat",
+      "id": "internet-relay-chat#internet-relay-chat__1"
+    },
+    {
+      "comment": "[internet]{internet} [relay_1]{relay} [chat_1]{chat}",
+      "entry": "IRC",
+      "id": "irc#irc__1"
+    },
+    {
+      "comment": "a list of authors, subjects, or types of messages that a user of an Internet newsgroup is not interested in and that allows the user to remove them",
+      "entry": "killfile",
+      "id": "killfile#killfile__1"
+    },
+    {
+      "comment": "a situation in which links on websites do not work",
+      "entry": "link rot",
+      "id": "link-rot#link-rot__1"
+    },
+    {
+      "comment": "the [quality_1]{qualities} of a [website]{website} such as how [attractive]{attractive} it [look_1]{looks}, how [easy_1]{easy} it is for [customer]{customers} to use, and how [successful]{successful} it is in [give_1]{giving} [customer]{customers} a [particular_1]{particular} [opinion]{opinion} about the [company]{company}",
+      "entry": "look and feel",
+      "id": "look-and-feel#look-and-feel__1"
+    },
+    {
+      "comment": "mobile-commerce: [commerce]{commerce} that is done over a [cell]{cell} [phone_1]{phone} or [similar]{similar} [equipment]{equipment}, [use_1]{using} [service_1]{services} that have an [internet]{Internet} [connection]{connection}",
+      "entry": "m-commerce",
+      "id": "m-commerce#m-commerce__1"
+    },
+    {
+      "comment": "an [image_1]{image}, [video_1]{video} or [piece_1]{piece} of [text_1]{text} that [spread_1]{spreads} very [quickly]{quickly} on the [internet]{Internet}",
+      "entry": "meme",
+      "id": "meme#meme__2"
+    },
+    {
+      "comment": "a system in which a [group_1]{group} of [internet]{Internet} [user]{users} [regularly]{regularly} [write]{write} [e-mail_1]{e-mail} [message_1]{messages} about a [particular_1]{particular} [subject_1]{subject} for other [member]{members} of the [group_1]{group} to read",
+      "entry": "message board",
+      "id": "message-board#message-board__1"
+    },
+    {
+      "comment": "putting short messages or photos on a personal blog, especially by using a mobile phone or instant messaging software",
+      "entry": "microblogging",
+      "id": "microblogging#microblogging__1"
+    },
+    {
+      "comment": "methods of learning that involve the use of mobile phones and handheld computers",
+      "entry": "m-learning",
+      "id": "m-learning#m-learning__1"
+    },
+    {
+      "comment": "the use of equipment such as cell phones or PDAs to put photographs on the Internet",
+      "entry": "moblogging",
+      "id": "moblogging#moblogging__1"
+    },
+    {
+      "comment": "a [method]{method} of [reduce]{reducing} the [size_1]{size} of a computer [file_1]{file} that [contain]{contains} [sound_1]{sound}, [especially]{especially} [music]{music}, so that it can be [sent]{sent} [quickly]{quickly} by [e-mail_1]{e-mail} or over the [internet]{Internet}",
+      "entry": "MP3",
+      "id": "mp3#mp3__1"
+    },
+    {
+      "comment": "a [method]{method} of [reduce]{reducing} the [size_1]{size} of a computer [file_1]{file} that [contain]{contains} [video_1]{video} and [audio_1]{audio} so that it can be [sent]{sent} [quickly]{quickly} by [e-mail_1]{e-mail} or over the [internet]{Internet}",
+      "entry": "MP4",
+      "id": "mp4#mp4__1"
+    },
+    {
+      "comment": "the publishing of information on the Internet using methods that do not cost a lot of money, for example using weblogs  (=websites that frequently have new personal information added to them)",
+      "entry": "nanopublishing",
+      "id": "nanopublishing#nanopublishing__1"
+    },
+    {
+      "comment": "the [polite]{polite} way of [express_1]{expressing} yourself or [communicate]{communicating} with other [people_1]{people} when you are [use_1]{using} the [internet]{Internet}",
+      "entry": "netiquette",
+      "id": "netiquette#netiquette__1"
+    },
+    {
+      "comment": "the [special_1]{special} [language]{language}, [abbreviation]{abbreviations}, and [expression]{expressions} [used]{used} by [people_1]{people} when [communicate]{communicating} [use_1]{using} the [internet]{Internet}",
+      "entry": "netspeak",
+      "id": "netspeak#netspeak__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [look_1]{looking} at [various]{various} [place_1]{places} one after the other on the [internet]{Internet}",
+      "entry": "Net surfing",
+      "id": "net-surfing#net-surfing__1"
+    },
+    {
+      "comment": "new technologies such as the Internet and digital television",
+      "entry": "new media",
+      "id": "new-media#new-media__1"
+    },
+    {
+      "comment": "a [place_1]{place} on the [internet]{Internet} where [people_1]{people} can [leave_1]{leave} [message_1]{messages} about a [subject_1]{subject} or [activity]{activity} that [interest_1]{interests} them, for other [people_1]{people} to read",
+      "entry": "newsgroup",
+      "id": "newsgroup#newsgroup__1"
+    },
+    {
+      "comment": "a computer program that allows someone to read and leave messages on Internet newsgroups",
+      "entry": "newsreader",
+      "id": "newsreader#newsreader__2"
+    },
+    {
+      "comment": "a system that [allow]{allows} you to [communicate]{communicate} with your [bank_1]{bank} on the [internet]{Internet}",
+      "entry": "online banking",
+      "id": "online-banking#online-banking__1"
+    },
+    {
+      "comment": "[open_1]{open} [trading]{trading} [protocol]{protocol}: a [set_1]{set} of [rule_1]{rules} that has been [developed]{developed} to [make_1]{make} [buy_1]{buying} and [selling]{selling} over the [internet]{Internet} [easy_1]{easier} and [safe_1]{safer}",
+      "entry": "OTP",
+      "id": "otp#otp__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [trying]{trying} to [trick_1]{trick} someone into [give_1]{giving} their [secret_1]{secret} [bank_1]{bank} [information]{information} by [send_1]{sending} them an [e-mail_1]{e-mail} that [look_1]{looks} as if it comes from their [bank_1]{bank} and that [ask_1]{asks} them to give their [account_1]{account} [number_1]{number} or [password]{password}",
+      "entry": "phishing",
+      "id": "phishing#phishing__1"
+    },
+    {
+      "comment": "a [telephone_1]{telephone} [number_1]{number} that a computer [call_1]{calls} in [order_1]{order} to be [connected]{connected} to the [internet]{Internet}",
+      "entry": "point of presence",
+      "id": "point-of-presence#point-of-presence__1"
+    },
+    {
+      "comment": "point of presence: a telephone number for an Internet service provider that can be used to connect to the Internet using a modem",
+      "entry": "POP",
+      "id": "pop_4#pop_4__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} that is [publish]{published} on the [internet]{Internet}",
+      "entry": "post",
+      "id": "post_1#post_1__10"
+    },
+    {
+      "comment": "[writing]{writing} or [image_1]{images} that are put [online]{online} where other [people_1]{people} can see them",
+      "entry": "posting",
+      "id": "posting#posting__3"
+    },
+    {
+      "comment": "point-to-point protocol: a method of sending information between computers on a network using a modem that is connected to the Internet",
+      "entry": "PPP",
+      "id": "ppp#ppp__1"
+    },
+    {
+      "comment": "point-to-point tunneling protocol: a method of sending information between computers on a public network so that only the people intended to see the information can see it",
+      "entry": "PPTP",
+      "id": "pptp#pptp__1"
+    },
+    {
+      "comment": "a computer system that [allow]{allows} [user]{users} to go to [popular]{popular} [website]{websites} more [quickly]{quickly}, by [store_2]{storing} [page_1]{pages} that are often [ask_1]{asked} for or have been [recently]{recently} [used]{used}",
+      "entry": "proxy server",
+      "id": "proxy-server#proxy-server__1"
+    },
+    {
+      "comment": "a [type_1]{type} of computer [technology]{technology} that [automatically]{automatically} [send_1]{sends} [information]{information} to your computer over the [internet]{Internet} so that you do not have to [request_1]{request} it",
+      "entry": "push technology",
+      "id": "push-technology#push-technology__1"
+    },
+    {
+      "comment": "[quick_1]{Quick} [response]{Response} [code_1]{code}: a [code_1]{code} [consist]{consisting} of a [pattern_1]{pattern} of [black_1]{black} and [white_1]{white} [square_1]{squares} which can be read by a [mobile_1]{mobile} [device]{device}, computer, etc. QR [code_1]{codes} are [used]{used} to [provide]{provide} further [information]{information} about something.",
+      "entry": "QR code",
+      "id": "qr-code#qr-code__1"
+    },
+    {
+      "comment": "the ability to connect to the Internet or to use your cell phone when you are traveling, without having to make long-distance or international phone calls",
+      "entry": "roaming",
+      "id": "roaming#roaming__1"
+    },
+    {
+      "comment": "a file that delivers information from a website, sometimes in a summary with links to the full document, to another website. RSS feeds are used mainly to supply the latest information to websites that are regularly updated.",
+      "entry": "RSS feed",
+      "id": "rss-feed#rss-feed__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [use_1]{using} a computer to find [information]{information}, [especially]{especially} on the [internet]{Internet}",
+      "entry": "search",
+      "id": "search_1#search_1__13"
+    },
+    {
+      "comment": "the [process_1]{process} of [searching]{searching} for [information]{information} on the [internet]{Internet}, or the [business]{business} and [technology]{technology} that [support_1]{supports} this",
+      "entry": "search",
+      "id": "search_1#search_1__15"
+    },
+    {
+      "comment": "a computer [program_1]{program} [used]{used} for [searching]{searching} for [information]{information} on the [internet]{Internet}",
+      "entry": "search engine",
+      "id": "search-engine#search-engine__1"
+    },
+    {
+      "comment": "a server that is suitable to use for doing business over the Internet because it can deal with information that has been encrypted  (=made safe by putting it into a form that not everyone can read)",
+      "entry": "secure server",
+      "id": "secure-server#secure-server__1"
+    },
+    {
+      "comment": "a building or a group of buildings that holds a large collection of servers for connecting to the Internet",
+      "entry": "server farm",
+      "id": "server-farm#server-farm__1"
+    },
+    {
+      "comment": "an [area]{area} on a [seller]{seller}\u2019s [website]{website} that [store_1]{stores} the [list_1]{list} of [item]{items} that a [customer]{customer} [choose]{chooses} to [buy_1]{buy}",
+      "entry": "shopping cart",
+      "id": "shopping-cart#shopping-cart__3"
+    },
+    {
+      "comment": "a [block_1]{block} of [writing]{writing} at the side of the [main_1]{main} [writing]{writing} in an [internet]{Internet} [document_1]{document}",
+      "entry": "sidebar",
+      "id": "sidebar#sidebar__1"
+    },
+    {
+      "comment": "a [network_1]{network} on the [internet]{Internet} that you can use to [make_1]{make} [telephone_1]{telephone} [call_1]{calls}",
+      "entry": "Skype",
+      "id": "skype#skype__1"
+    },
+    {
+      "comment": "[e-mail_1]{e-mails} that are [sent]{sent} to [large_1]{large} [number_1]{numbers} of [people_1]{people} on the [internet]{Internet}, [especially]{especially} when these are not [wanted]{wanted}",
+      "entry": "spam",
+      "id": "spam#spam__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [send_1]{sending} [e-mail_1]{e-mails} to [large_1]{large} [number_1]{numbers} of [people_1]{people} on the [internet]{Internet}, [especially]{especially} when these are not [wanted]{wanted}",
+      "entry": "spamming",
+      "id": "spamming#spamming__1"
+    },
+    {
+      "comment": "a program that searches for new websites on the Internet and builds them into a database that users can use to find documents containing a particular word, phrase or subject",
+      "entry": "spider",
+      "id": "spider#spider__2"
+    },
+    {
+      "comment": "the [word_1]{words} and [picture_1]{pictures} that first [appear]{appear} on a computer [screen_1]{screen} when you use the [internet]{Internet}",
+      "entry": "start page",
+      "id": "start-page#start-page__1"
+    },
+    {
+      "comment": "a [technology]{technology} for [get]{getting} [sound_1]{sound} or [video_1]{video} to your computer through the [internet]{Internet} as a [continuous]{continuous} [stream_1]{stream} so that you can [hear]{hear} the [sound_1]{sound} or see the [video_1]{video} before all the [information]{information} has been [received]{received} by your computer",
+      "entry": "streaming",
+      "id": "streaming#streaming__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [look_1]{looking} at [various]{various} [place_1]{places} one after another on the [internet]{Internet} or on [television]{television} to find something [interesting]{interesting}",
+      "entry": "surfing",
+      "id": "surfing#surfing__2"
+    },
+    {
+      "comment": "an [internet]{Internet} [discussion]{discussion} [group_1]{group} on a [particular_1]{particular} [subject_1]{subject}, sometimes [involve]{involving} [people_1]{people} with [special_1]{special} [knowledge]{knowledge} who [answer_1]{answer} [question_1]{questions}",
+      "entry": "talkboard",
+      "id": "talkboard#talkboard__1"
+    },
+    {
+      "comment": "a [software]{software} [program_1]{program} for [get]{getting} [information]{information} [store_2]{stored} on another computer on the [internet]{Internet} by [typing]{typing} [instruction]{instructions} into the other computer",
+      "entry": "Telnet",
+      "id": "telnet#telnet__1"
+    },
+    {
+      "comment": "a way in which several [internet]{internet} [user]{users} can [send_1]{send} [message_1]{messages} to each other [immediately]{immediately}",
+      "entry": "text chat",
+      "id": "text-chat#text-chat__1"
+    },
+    {
+      "comment": "a series of e-mail messages or messages on a bulletin board about a particular subject",
+      "entry": "thread",
+      "id": "thread_1#thread_1__11"
+    },
+    {
+      "comment": "the last part of an Internet address that comes after the dot, for example .edu, .com, or .uk",
+      "entry": "top-level domain",
+      "id": "top-level-domain#top-level-domain__1"
+    },
+    {
+      "comment": "a system for [send_1]{sending} [news]{news} and [information]{information} to [people_1]{people} over the [internet]{Internet}",
+      "entry": "Usenet",
+      "id": "usenet#usenet__1"
+    },
+    {
+      "comment": "something such as a [joke_1]{joke}, a [short_1]{short} [movie]{movie}, or an [advertisement]{advertisement} that is [funny]{funny} or [entertaining]{entertaining} and is [pass_1]{passed} around among [people_1]{people} [use_1]{using} the [internet]{Internet}",
+      "entry": "viral",
+      "id": "viral_2#viral_2__1"
+    },
+    {
+      "comment": "[voice_1]{voice} over [internet]{Internet} [protocol]{protocol}: a [technology]{technology} that [allow]{allows} [voice_1]{voice} [message_1]{messages} to be [sent]{sent} over the [internet]{Internet}",
+      "entry": "VoIP",
+      "id": "voip#voip__1"
+    },
+    {
+      "comment": "a [software]{software} [program_1]{program} that is [used]{used} for [find_1]{finding} and [look_1]{looking} at [page_1]{pages} on the [internet]{Internet}",
+      "entry": "web browser",
+      "id": "web-browser#web-browser__1"
+    },
+    {
+      "comment": "a [broadcast_1]{broadcast} on the [internet]{Internet}",
+      "entry": "webcast",
+      "id": "webcast#webcast__1"
+    },
+    {
+      "comment": "the use of the [internet]{Internet} as a way of [broadcast_1#broadcast_1__6]{broadcasting} [information]{information} [use_1]{using} [website]{websites}",
+      "entry": "webcasting",
+      "id": "webcasting#webcasting__1"
+    },
+    {
+      "comment": "the [business]{business} of [supply_2]{supplying} computer [space_1]{space} for [website]{websites}, which sometimes also [include]{includes} other [related_1]{related} [service_1]{services} such as [advice]{advice} in [create]{creating} the [website]{websites} themselves",
+      "entry": "web hosting",
+      "id": "web-hosting#web-hosting__1"
+    },
+    {
+      "comment": "a [talk_1]{talk} on a [subject_1]{subject} which is [given_1]{given} over the [internet]{Internet}, [allow]{allowing} a [group_1]{group} of [people_1]{people} in [different]{different} [place_1]{places} to [watch_1]{watch}, [listen_1]{listen} and sometimes [respond]{respond} on the same [occasion_1]{occasion}",
+      "entry": "webinar",
+      "id": "webinar#webinar__1"
+    },
+    {
+      "comment": "a [magazine]{magazine} that is [publish]{published} on the [internet]{Internet}",
+      "entry": "webzine",
+      "id": "webzine#webzine__1"
+    },
+    {
+      "comment": "a [list_1]{list} of [user]{users} and their [e-mail_1]{e-mail} [address_1]{addresses} [store_2]{stored} on the [internet]{Internet} to [help_1]{help} other [user]{users} to find an [e-mail_1]{e-mail} [address_1]{address}",
+      "entry": "white pages",
+      "id": "white-pages#white-pages__1"
+    },
+    {
+      "comment": "an [informal]{informal} [magazine]{magazine} [produce_1]{produced} either on [paper_1]{paper} or on the [internet]{Internet}, [written_1]{written} by [people_1]{people} who are not [professional_1]{professional} [writer]{writers}",
+      "entry": "zine",
+      "id": "zine#zine__1"
+    }
+  ],
+  "thesaurus": "The Internet",
+  "type": "Related words"
+}

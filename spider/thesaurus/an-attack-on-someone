@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [violent]{violent} [attempt_1]{attempt} to [harm_1]{harm} a [person]{person}, [animal_1]{animal}, or [place_1]{place}",
+      "entry": "attack",
+      "id": "attack_1#attack_1__1"
+    },
+    {
+      "comment": "a [physical_1]{physical} [attack_1]{attack} on someone, or the [crime_1]{crime} of [physically]{physically} [attack_2]{attacking} someone",
+      "entry": "assault",
+      "id": "assault_1#assault_1__1"
+    },
+    {
+      "comment": "an [attack_1]{attack}",
+      "entry": "onslaught",
+      "id": "onslaught#onslaught__2"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone [attack_1]{attacks} another [person]{person}",
+      "entry": "aggression",
+      "id": "aggression#aggression__5"
+    },
+    {
+      "comment": "an [attack_1]{attack} by [people_1]{people} or [animal_1]{animals} [running_1]{running} very [fast_1]{fast} toward someone or something",
+      "entry": "charge",
+      "id": "charge_1#charge_1__18"
+    },
+    {
+      "comment": "an [attack_1]{attack} against someone who has [just_1]{just} [attack_2]{attacked} you in a war, [game_1]{game}, or [argument]{argument}",
+      "entry": "counterattack",
+      "id": "counterattack_1#counterattack_1__1"
+    },
+    {
+      "comment": "[repeated]{repeated} [hard_1]{hard} [hit_1]{hits} or [heavy_1]{heavy} [attack_1]{attack}",
+      "entry": "pounding",
+      "id": "pounding#pounding__3"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} and [unexpected]{unexpected} [attack_1]{attack} on a [place_1]{place}, [especially]{especially} by [police_1]{police}",
+      "entry": "swoop",
+      "id": "swoop_2#swoop_2__2"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [attack_1]{attack} on an [opponent]{opponent}",
+      "entry": "salvo",
+      "id": "salvo#salvo__2"
+    },
+    {
+      "comment": "an [act_1]{act} of [hit_1]{hitting} someone many times, [especially]{especially} with a [stick_1]{stick}",
+      "entry": "tanning",
+      "id": "tanning#tanning__4"
+    }
+  ],
+  "thesaurus": "An attack on someone",
+  "type": "Synonyms"
+}

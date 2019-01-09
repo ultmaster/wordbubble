@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "grow up",
+  "senses": [
+    {
+      "def": "to [change_1]{change} from being a [baby_1]{baby} or [young_1]{young} [child]{child} to being an [old]{older} [child]{child} or [adult_1]{adult}",
+      "examples": [
+        "She\u2019s [really]{really} [start_1]{starting} to [grow]{grow} up now.",
+        "I [grew]{grew} up in Indiana.",
+        "He never [saw_1]{saw} his [father_1]{father} while he was [growing]{growing} up."
+      ],
+      "id": "grow-up__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [behave]{behaving} [like_1]{like} a [child]{child}, and become [wise_1]{wiser}",
+      "examples": [
+        "It wasn\u2019t until my [marriage]{marriage} [end_2]{ended} that I [really]{really} [start_1]{started} to [grow]{grow} up."
+      ],
+      "id": "grow-up__6"
+    },
+    {
+      "def": "to [start_1]{start} [existing]{existing} or being [seen]{seen}",
+      "examples": [
+        "the many [small_1]{small} [religious]{religious} [sect]{sects} that [grew]{grew} up and [flourish_1]{flourished} in the [area]{area}"
+      ],
+      "id": "grow-up__9"
+    }
+  ]
+}

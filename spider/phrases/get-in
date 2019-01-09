@@ -1,0 +1,56 @@
+{
+  "part": "phrase",
+  "phrase": "get in",
+  "senses": [
+    {
+      "def": "to [arrive]{arrive} at [home_1]{home} or at [work_1]{work}",
+      "examples": [
+        "You [got_1]{got} in very [late_1]{late} last [night_1]{night}!",
+        "[mark_1]{Mark} never [get]{gets} in before 9:30.",
+        "Our [flight]{flight} [got_1]{got} in on time.",
+        "The London [train_1]{train} [get]{gets} in at 10.05."
+      ],
+      "id": "get-in__1"
+    },
+    {
+      "def": "to be [accepted]{accepted} to [study_1]{study} at a [school_1]{school} or [chosen_1]{chosen} to [play_1]{play} for a [team_1]{team}, etc.",
+      "examples": [
+        "It\u2019s a very [exclusive_1]{exclusive} [school_1]{school} and you have to [pass_1]{pass} an [exam]{exam} to get in."
+      ],
+      "id": "get-in__7"
+    },
+    {
+      "def": "to be [elect_1]{elected} for a [political]{political} [job_1]{job}",
+      "examples": [
+        "In 1994 a [republican_1]{Republican} [majority]{majority} [got_1]{got} in."
+      ],
+      "id": "get-in__9"
+    },
+    {
+      "def": "to [deliver]{deliver} or [send_1]{send} something to a [person]{person} or [place_1]{place}",
+      "examples": [
+        "I have to get this [homework]{homework} in by the [end_1]{end} of the [week]{week}."
+      ],
+      "id": "get-in__11"
+    },
+    {
+      "def": "to [manage]{manage} to [fit_1]{fit} something such as an [activity]{activity} or [comment_1]{comment} into a [small_1]{small} amount of time",
+      "examples": [
+        "One [writer]{writer} [managed]{managed} to get in 20 [plug_1]{plugs} for his [new]{new} [book_1]{book} in a [single_1]{single} [interview_1]{interview}."
+      ],
+      "id": "get-in__13"
+    },
+    {
+      "def": "to [ask_1]{ask} someone to come to your [house_1]{house}, [office]{office}, etc. in [order_1]{order} to do something for you",
+      "examples": [
+        "We\u2019re [get]{getting} a [plumber]{plumber} in to [fix_1]{fix} the [leak_1]{leak}."
+      ],
+      "id": "get-in__15"
+    },
+    {
+      "def": "to [buy_1]{buy} or [collect_1]{collect} [thing]{things} that you [need_1]{need}",
+      "examples": [],
+      "id": "get-in__17"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "someone who has [committed]{committed} a [crime_1]{crime}",
+      "entry": "criminal",
+      "id": "criminal_1#criminal_1__1"
+    },
+    {
+      "comment": "someone who has [committed]{committed} a [crime_1]{crime}",
+      "entry": "offender",
+      "id": "offender#offender__1"
+    },
+    {
+      "comment": "the [criminal_1]{criminals} in a [particular_1]{particular} [community]{community}, [considered]{considered} as a [group_1]{group}",
+      "entry": "underworld",
+      "id": "underworld#underworld__1"
+    },
+    {
+      "comment": "someone, [especially]{especially} a [young_1]{young} [person]{person}, who [behave]{behaves} in a way that is [criminal_1]{criminal} or [immoral]{immoral}",
+      "entry": "delinquent",
+      "id": "delinquent_2#delinquent_2__1"
+    },
+    {
+      "comment": "a [young_1]{young} [person]{person} who has [committed]{committed} a [crime_1]{crime} or is [accuse]{accused} of [commit]{committing} a [crime_1]{crime}",
+      "entry": "juvenile",
+      "id": "juvenile_2#juvenile_2__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [criminal_1]{criminals} [working]{working} together",
+      "entry": "gang",
+      "id": "gang_1#gang_1__5"
+    },
+    {
+      "comment": "[criminal_1]{criminals} and their [activity]{activities}",
+      "entry": "lowlife",
+      "id": "lowlife#lowlife__2"
+    },
+    {
+      "comment": "someone who is [responsible]{responsible} for [doing]{doing} something [bad_1]{bad} or [illegal_1]{illegal}",
+      "entry": "culprit",
+      "id": "culprit#culprit__1"
+    },
+    {
+      "comment": "someone who [help_1]{helps} another [person]{person} to do something [illegal_1]{illegal} or [wrong_1]{wrong}",
+      "entry": "accomplice",
+      "id": "accomplice#accomplice__1"
+    },
+    {
+      "comment": "a [leader]{leader} of a [group_1]{group} of [people_1]{people} who are [doing]{doing} something [illegal_1]{illegal} or [wrong_1]{wrong}",
+      "entry": "ringleader",
+      "id": "ringleader#ringleader__1"
+    },
+    {
+      "comment": "someone who [commit]{commits} [crime_1]{crimes} again and again",
+      "entry": "repeat offender",
+      "id": "repeat-offender#repeat-offender__1"
+    },
+    {
+      "comment": "a first [offender]{offender}",
+      "entry": "first-time offender",
+      "id": "first-time-offender#first-time-offender__1"
+    },
+    {
+      "comment": "a [person]{person} who [commit]{commits} a [tort]{tort}",
+      "entry": "tortfeasor",
+      "id": "tortfeasor#tortfeasor__1"
+    },
+    {
+      "comment": "the person in a group of offenders who carries out the main part of a criminal act. If there is more than one principal offender, they are called joint principals.",
+      "entry": "principal offender",
+      "id": "principal-offender#principal-offender__1"
+    }
+  ],
+  "thesaurus": "General words for criminals",
+  "type": "Synonyms"
+}

@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[surround_1]{surrounded} by something and [separated]{separated} from what is [outside]{outside}",
+      "examples": [
+        "a [fear_1]{fear} of enclosed [space_1]{spaces}"
+      ],
+      "id": "enclosed__1"
+    },
+    {
+      "def": "[sent]{sent} in an [envelope]{envelope} with a [letter_1]{letter}",
+      "examples": [
+        "Please read the enclosed [document_1]{documents} [careful#careful__20]{carefully}."
+      ],
+      "id": "enclosed__3"
+    },
+    {
+      "def": "an enclosed [community]{community} or way of [life]{life} [does]{does} not have much [communication]{communication} with the [outside]{outside} [world]{world}",
+      "examples": [],
+      "id": "enclosed__5"
+    }
+  ],
+  "word": "enclosed"
+}

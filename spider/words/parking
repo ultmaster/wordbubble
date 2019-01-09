@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [process_1]{process} of [put]{putting} a [vehicle]{vehicle} into a [place_1]{place} and [leave_1]{leaving} it there",
+      "examples": [
+        "Denise isn\u2019t very [good_1]{good} at parking yet.",
+        "I [hope_1]{hope} we can find a parking [space_1]{space}."
+      ],
+      "id": "parking__1"
+    },
+    {
+      "def": "[space_1]{space} where [motor_1]{motor} [vehicle]{vehicles} can be [left_1]{left}",
+      "examples": [
+        "It\u2019s [hard_1]{hard} to find parking [near_1]{near} the [school_1]{school}."
+      ],
+      "id": "parking__4"
+    }
+  ],
+  "word": "parking"
+}

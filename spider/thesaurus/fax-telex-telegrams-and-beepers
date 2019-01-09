@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [telegram]{telegram}",
+      "entry": "cable",
+      "id": "cable_1#cable_1__6"
+    },
+    {
+      "comment": "to [send_1]{send} someone a [telegram]{telegram}",
+      "entry": "cable",
+      "id": "cable_2#cable_2__1"
+    },
+    {
+      "comment": "the first page of a fax message, giving information such as the name and fax number of the person sending it",
+      "entry": "cover page",
+      "id": "cover-page#cover-page__1"
+    },
+    {
+      "comment": "a [fax_1]{fax}",
+      "entry": "facsimile",
+      "id": "facsimile#facsimile__2"
+    },
+    {
+      "comment": "the system of [send_1]{sending} [document_1]{documents} [use_1]{using} a [fax_1]{fax} [machine_1]{machine}",
+      "entry": "fax",
+      "id": "fax_1#fax_1__2"
+    },
+    {
+      "comment": "a [document_1]{document} [sent]{sent} by a [fax_1]{fax} [machine_1]{machine}",
+      "entry": "fax",
+      "id": "fax_1#fax_1__3"
+    },
+    {
+      "comment": "to [send_1]{send} a [message_1]{message} to someone [use_1]{using} a [fax_1]{fax} [machine_1]{machine}",
+      "entry": "fax",
+      "id": "fax_2#fax_2__1"
+    },
+    {
+      "comment": "to communicate with someone by sending a message to their pager",
+      "entry": "page",
+      "id": "page_2#page_2__3"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [equipment]{equipment} that you [carry_1]{carry} with you that [make_1]{makes} a [noise]{noise} to [tell_1]{tell} you to [phone_1]{phone} someone or to go somewhere",
+      "entry": "pager",
+      "id": "pager#pager__1"
+    },
+    {
+      "comment": "a [message_1]{message} that you [send_1]{send} by [telegraph_1]{telegraph}, [used]{used} [especially]{especially} in the [past_1]{past} for [short_1]{short} [urgent]{urgent} [message_1]{messages}",
+      "entry": "telegram",
+      "id": "telegram#telegram__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [communicate]{communicating} in this way",
+      "entry": "telegraph",
+      "id": "telegraph_1#telegraph_1__2"
+    },
+    {
+      "comment": "to [send_1]{send} a [message_1]{message} by [telegraph_1]{telegraph}",
+      "entry": "telegraph",
+      "id": "telegraph_2#telegraph_2__1"
+    },
+    {
+      "comment": "done by [telegraph_1]{telegraph}",
+      "entry": "telegraphic",
+      "id": "telegraphic#telegraphic__2"
+    },
+    {
+      "comment": "the system of communicating by telegraph",
+      "entry": "telegraphy",
+      "id": "telegraphy#telegraphy__1"
+    },
+    {
+      "comment": "a system for sending and receiving messages using a telephone line and a machine called a teleprinter that prints the messages",
+      "entry": "telex",
+      "id": "telex_1#telex_1__1"
+    },
+    {
+      "comment": "a [message_1]{message} [sent]{sent} by [telex_1]{telex}, or the [machine_1]{machine} [used]{used} to [send_1]{send} or [receive]{receive} it",
+      "entry": "telex",
+      "id": "telex_1#telex_1__2"
+    },
+    {
+      "comment": "to [send_1]{send} a [message_1]{message} by [telex_1]{telex}",
+      "entry": "telex",
+      "id": "telex_2#telex_2__1"
+    },
+    {
+      "comment": "a [telegram]{telegram}",
+      "entry": "wire",
+      "id": "wire_1#wire_1__13"
+    },
+    {
+      "comment": "to send a telegram to someone",
+      "entry": "wire",
+      "id": "wire_2#wire_2__7"
+    }
+  ],
+  "thesaurus": "Fax, telex, telegrams and beepers",
+  "type": "Related words"
+}

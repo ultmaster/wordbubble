@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "if [traffic_1]{traffic} [back_3]{backs} up, or if it is [back_4]{backed} up, the [vehicle]{vehicles} are in a long [line_1]{line} and [wait_1]{waiting} to [continue]{continue} [moving]{moving}",
+      "entry": "back up",
+      "id": "back-up#back-up__6"
+    },
+    {
+      "comment": "a [place_1]{place} where a [road]{road} is [narrow_1]{narrow} or [block_2]{blocked}, [cause_2]{causing} [traffic_1]{traffic} to move very [slowly]{slowly}",
+      "entry": "bottleneck",
+      "id": "bottleneck#bottleneck__1"
+    },
+    {
+      "comment": "in a long [line_1]{line} of [vehicle]{vehicles} that are [close_1]{close} together and [moving]{moving} very [slowly]{slowly}",
+      "entry": "bumper-to-bumper",
+      "id": "bumper-to-bumper#bumper-to-bumper__1"
+    },
+    {
+      "comment": "[have]{having} a [lot_1]{lot} of [traffic_1]{traffic} [passing_1]{passing} through",
+      "entry": "busy",
+      "id": "busy_1#busy_1__13"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [place_1]{place} is [crowded]{crowded} with [people_1]{people} or [vehicle]{vehicles}, so that it is [difficult]{difficult} to move around",
+      "entry": "congestion",
+      "id": "congestion#congestion__1"
+    },
+    {
+      "comment": "a [payment]{payment} that you [make_1]{make} each [day]{day} for the [right_1]{right} to [drive_1]{drive} into a [city]{city} [center_1]{center}, [introduce]{introduced} as a way of [reduce]{reducing} [traffic_1]{traffic}",
+      "entry": "congestion charge",
+      "id": "congestion-charge#congestion-charge__1"
+    },
+    {
+      "comment": "if [traffic_1]{traffic} [filter_1]{filters} somewhere, it [turn_1]{turns} [right_1]{right} or [left_1]{left} when a [separate_1]{separate} [traffic_1]{traffic} [light_1]{light} [give_1]{gives} it the [signal_1]{signal} to go",
+      "entry": "filter",
+      "id": "filter_2#filter_2__11"
+    },
+    {
+      "comment": "a [situation]{situation} in which there are so many [car]{cars} on the [road]{roads} that [traffic_1]{traffic} cannot move",
+      "entry": "gridlock",
+      "id": "gridlock#gridlock__2"
+    },
+    {
+      "comment": "a [situation]{situation} in which [traffic_1]{traffic} [does]{does} not move or [move_1]{moves} only very [slowly]{slowly}",
+      "entry": "hold-up",
+      "id": "hold-up_2#hold-up_2__3"
+    },
+    {
+      "comment": "a long [line_1]{line} of [vehicle]{vehicles} that are not [moving]{moving}, or are [moving]{moving} very [slowly]{slowly}",
+      "entry": "jam",
+      "id": "jam_1#jam_1__4"
+    },
+    {
+      "comment": "if [car]{cars} are [nose_1]{nose} to tail, they are [moving]{moving} [slowly]{slowly} in a long [line_1]{line} with not much [space_1]{space} between them",
+      "entry": "nose to tail",
+      "id": "nose-to-tail#nose-to-tail__1"
+    },
+    {
+      "comment": "the [period_1]{period} of time during which the [crowd_1]{crowds} are the [large_1]{largest} or there is the most [traffic_1]{traffic}",
+      "entry": "the rush",
+      "id": "rush_2#rush_2__24"
+    },
+    {
+      "comment": "to [make_1]{make} something such as [traffic_1]{traffic} [unable]{unable} to move",
+      "entry": "snarl",
+      "id": "snarl#snarl__4"
+    },
+    {
+      "comment": "a [situation]{situation} in which [traffic_1]{traffic} coming from several [different]{different} [direction]{directions} is [prevent]{prevented} from [moving]{moving}",
+      "entry": "snarl-up",
+      "id": "snarl-up_2#snarl-up_2__1"
+    },
+    {
+      "comment": "the [fast_1]{fastest} [speed_1]{speed} [allow]{allowed} for [vehicle]{vehicles} in a [particular_1]{particular} [area]{area}",
+      "entry": "speed limit",
+      "id": "speed-limit#speed-limit__1"
+    },
+    {
+      "comment": "an [official_1]{official} [piece_1]{piece} of [paper_1]{paper} that [show_1]{shows} a [driver]{driver} that they must [pay_1]{pay} [money]{money} for [commit]{committing} a [traffic_1]{traffic} [offense]{offense}",
+      "entry": "ticket",
+      "id": "ticket_1#ticket_1__10"
+    },
+    {
+      "comment": "to give a [ticket_1]{ticket} to a [driver]{driver} who has [committed]{committed} a [traffic_1]{traffic} [offense]{offense}",
+      "entry": "ticket",
+      "id": "ticket_2#ticket_2__1"
+    },
+    {
+      "comment": "if [traffic_1]{traffic} is [tied]{tied} up, it is not [moving]{moving} very [quickly]{quickly}",
+      "entry": "tied up",
+      "id": "tied-up#tied-up__2"
+    },
+    {
+      "comment": "[connected]{connected} with [traffic_1]{traffic}, or [cause_2]{caused} by [traffic_1]{traffic}",
+      "entry": "traffic",
+      "id": "traffic_1#traffic_1__5"
+    },
+    {
+      "comment": "[method]{methods} of [slow_2]{slowing} down [traffic_1]{traffic}, for [example]{example} by [building]{building} [raised]{raised} [area]{areas} across [road]{roads}",
+      "entry": "traffic calming",
+      "id": "traffic-calming#traffic-calming__1"
+    },
+    {
+      "comment": "a [line_1]{line} of [vehicle]{vehicles} [wait_1]{waiting} behind something that is [block_2]{blocking} the [street_1]{street}",
+      "entry": "traffic jam",
+      "id": "traffic-jam#traffic-jam__1"
+    }
+  ],
+  "thesaurus": "Traffic movements and traffic jams",
+  "type": "Related words"
+}

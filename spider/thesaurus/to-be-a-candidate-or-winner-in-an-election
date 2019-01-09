@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [try_1]{try} to [win_1]{win} an [election]{election}",
+      "entry": "campaign",
+      "id": "campaign_2#campaign_2__4"
+    },
+    {
+      "comment": "to [ask_1]{ask} many [people_1]{people} in an [area]{area} for their [opinion]{opinions} and [encourage]{encourage} them to [vote_1]{vote} for someone or [support_1]{support} something",
+      "entry": "canvass",
+      "id": "canvass_1#canvass_1__1"
+    },
+    {
+      "comment": "to [try_1]{try} to be [elect_1]{elected} to an [official_1]{official} [job_1]{job} or [position_1]{position}",
+      "entry": "run",
+      "id": "run_1#run_1__38"
+    },
+    {
+      "comment": "to [run_1]{run} in an [election]{election}",
+      "entry": "stand",
+      "id": "stand_1#stand_1__64"
+    },
+    {
+      "comment": "to be [elect_1]{elected} for a [political]{political} [job_1]{job}",
+      "entry": "get in",
+      "id": "get-in#get-in__9"
+    },
+    {
+      "comment": "to [succeed]{succeed} in [keeping]{keeping} [control_1]{control} of a [particular_1]{particular} [area]{area} in an [election]{election}",
+      "entry": "hold",
+      "id": "hold_1#hold_1__61"
+    },
+    {
+      "comment": "to [win_1]{win} a [prize_1]{prize} in a [competition]{competition} or a [vote_1]{vote} in an [election]{election}",
+      "entry": "take",
+      "id": "take_1#take_1__53"
+    },
+    {
+      "comment": "to be the [elect_1]{elected} [representative_1]{representative} of a [particular_1]{particular} [area]{area} in a [legislature]{legislature} or [similar]{similar} [institution]{institution}",
+      "entry": "represent",
+      "id": "represent#represent__4"
+    },
+    {
+      "comment": "to [try_1]{try} to get [chosen_1]{chosen} in an [election]{election} for a [particular_1]{particular} [position_1]{position} or as a [member]{member} of a [particular_1]{particular} [institution]{institution}",
+      "entry": "stand for",
+      "id": "stand-for#stand-for__7"
+    },
+    {
+      "comment": "to [win_1]{win} or [lose]{lose} an [election]{election} by a very [large_1]{large} [number_1]{number} of [vote_1]{votes}",
+      "entry": "sweep to/from power",
+      "id": "sweep-to-from-power#sweep-to-from-power__1"
+    }
+  ],
+  "thesaurus": "To be a candidate or winner in an election",
+  "type": "Synonyms"
+}

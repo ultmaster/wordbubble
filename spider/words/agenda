@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "all the [thing]{things} that [need_1]{need} to be done or that [need_1]{need} to be [thought_1]{thought} about or [solve]{solved}",
+      "examples": [
+        "We [need_1]{need} to put [efficiency]{efficiency} [high_1]{high} on the agenda.",
+        "[get]{Getting} in [shape_1]{shape} is at the top of my agenda.",
+        "[cutting_1]{Cutting} the [number_1]{number} of [worker]{workers} is not on the agenda.",
+        "He has [set_1]{set} the agenda for [future_1]{future} [work_1]{work} in this [field_1]{field}."
+      ],
+      "id": "agenda__1"
+    },
+    {
+      "def": "a [list_1]{list} of [thing]{things} that [people_1]{people} will [discuss]{discuss} at a [meeting]{meeting}",
+      "examples": [
+        "[given_1]{Given} that time is [running_1]{running} [short_1]{short}, [let_1]{let}\u2019s move to the last [item]{item} on the agenda."
+      ],
+      "id": "agenda__6"
+    }
+  ],
+  "word": "agenda"
+}

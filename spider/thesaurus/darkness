@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [lack_1]{lack} of [light_1]{light}, [especially]{especially} because it is [night_1]{night}",
+      "entry": "darkness",
+      "id": "darkness#darkness__1"
+    },
+    {
+      "comment": "a [slightly]{slightly} [dark_1]{dark} [area]{area} where the [light_1]{light} from the [sun_1]{sun} [does]{does} not [reach_1]{reach} because it is [block_2]{blocked} by something",
+      "entry": "shade",
+      "id": "shade_1#shade_1__1"
+    },
+    {
+      "comment": "the [quality_1]{quality} of being [completely]{completely} [black_1]{black} or [completely]{completely} [dark_1]{dark}",
+      "entry": "blackness",
+      "id": "blackness#blackness__1"
+    },
+    {
+      "comment": "an [area]{area} of [darkness]{darkness} that is [create]{created} when something [block_1]{blocks} [light_1]{light}",
+      "entry": "shadow",
+      "id": "shadow_1#shadow_1__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which there is no [light_1]{light}, [especially]{especially} because it is [night_1]{night}",
+      "entry": "the dark",
+      "id": "dark_2#dark_2__1"
+    },
+    {
+      "comment": "[darkness]{darkness} in which it is [difficult]{difficult} to see [clearly]{clearly}",
+      "entry": "gloom",
+      "id": "gloom#gloom__1"
+    },
+    {
+      "comment": "[darkness]{darkness}, [dirt]{dirt}, or [bad_1]{bad} [light_1]{light} that it is [difficult]{difficult} to see through",
+      "entry": "murk",
+      "id": "murk#murk__1"
+    },
+    {
+      "comment": "[hidden_1]{hidden} in [darkness]{darkness} or [shadow_1]{shadows}",
+      "entry": "shadowy",
+      "id": "shadowy#shadowy__3"
+    },
+    {
+      "comment": "[dark_1]{dark} and [difficult]{difficult} to see through, [especially]{especially} because of [bad_1]{bad} [light_1]{light}, thick [cloud_1]{clouds}, or [dirt]{dirt} in the [air_1]{air} or [water_1]{water}",
+      "entry": "murky",
+      "id": "murky#murky__3"
+    },
+    {
+      "comment": "[dim_1]{dim} [place_1]{places} do not have much [light_1]{light} in them, so you cannot see very well",
+      "entry": "dim",
+      "id": "dim_1#dim_1__3"
+    }
+  ],
+  "thesaurus": "Darkness",
+  "type": "Synonyms"
+}

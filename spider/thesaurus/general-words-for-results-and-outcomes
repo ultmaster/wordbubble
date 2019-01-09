@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [cause_2]{caused} [directly_1]{directly} by something else that has [happen]{happened} [previously]{previously}",
+      "entry": "result",
+      "id": "result_1#result_1__1"
+    },
+    {
+      "comment": "the [final_1]{final} [result_1]{result} of a [process_1]{process}, [meeting]{meeting}, [activity]{activity}, etc.",
+      "entry": "outcome",
+      "id": "outcome#outcome__1"
+    },
+    {
+      "comment": "the [effect_1]{effect} that a [person]{person} or thing has on someone\u2019s [decision_1]{decisions}, [opinion]{opinions}, or [behavior]{behavior} or on the way something [happen]{happens}",
+      "entry": "influence",
+      "id": "influence_1#influence_1__1"
+    },
+    {
+      "comment": "a [result_1]{result} or [effect_1]{effect} of something",
+      "entry": "consequence",
+      "id": "consequence#consequence__1"
+    },
+    {
+      "comment": "a [change_1]{change} that is [produce_1]{produced} in one [person]{person} or thing by another",
+      "entry": "effect",
+      "id": "effect_1#effect_1__1"
+    },
+    {
+      "comment": "an [effect_1]{effect}, or an [influence_1]{influence}",
+      "entry": "impact",
+      "id": "impact_1#impact_1__1"
+    },
+    {
+      "comment": "any [additional]{additional} [result_1]{result} that you [did]{did} not [expect]{expect} or [want_1]{want}",
+      "entry": "side effect",
+      "id": "side-effect#side-effect__4"
+    },
+    {
+      "comment": "the [effect_1]{effects} and [result_1]{results} of something [bad_1]{bad} or [important]{important}",
+      "entry": "the aftermath",
+      "id": "the-aftermath#the-aftermath__1"
+    },
+    {
+      "comment": "the [result_1]{result} of an [activity]{activity} or [process_1]{process}",
+      "entry": "end result",
+      "id": "end-result#end-result__1"
+    },
+    {
+      "comment": "the [result_1]{result} of a [process_1]{process} or an [event]{event}",
+      "entry": "the upshot (of something)",
+      "id": "upshot#upshot__2"
+    }
+  ],
+  "thesaurus": "General words for results and outcomes",
+  "type": "Synonyms"
+}

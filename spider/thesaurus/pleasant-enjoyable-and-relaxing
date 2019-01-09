@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "[enjoyable]{enjoyable} or [attractive]{attractive} in a way that [make_1]{makes} you [feel_1]{feel} [pleased]{pleased} and [satisfied]{satisfied}",
+      "entry": "pleasant",
+      "id": "pleasant#pleasant__1"
+    },
+    {
+      "comment": "something that is [enjoyable]{enjoyable} [give_1]{gives} you [pleasure]{pleasure}",
+      "entry": "enjoyable",
+      "id": "enjoyable#enjoyable__1"
+    },
+    {
+      "comment": "[pleasant]{pleasant} and [making]{making} you [feel_1]{feel} [relaxed]{relaxed}",
+      "entry": "relaxing",
+      "id": "relaxing#relaxing__1"
+    },
+    {
+      "comment": "[attractive]{attractive}, [enjoyable]{enjoyable}, or [pleasant]{pleasant}",
+      "entry": "nice",
+      "id": "nice#nice__1"
+    },
+    {
+      "comment": "[pleasant]{pleasant} and [enjoyable]{enjoyable}",
+      "entry": "pleasing",
+      "id": "pleasing#pleasing__4"
+    },
+    {
+      "comment": "[give_1]{giving} you a [feeling_1]{feeling} of [happiness]{happiness}, [enjoyment]{enjoyment}, or [satisfaction]{satisfaction}",
+      "entry": "pleasurable",
+      "id": "pleasurable#pleasurable__1"
+    },
+    {
+      "comment": "[enjoyable]{enjoyable}, or [pleasant]{pleasant}",
+      "entry": "lovely",
+      "id": "lovely_1#lovely_1__1"
+    },
+    {
+      "comment": "[making]{making} you [feel_1]{feel} [happy_1]{happy} because of being [pleasant]{pleasant} or [enjoyable]{enjoyable}",
+      "entry": "cheerful",
+      "id": "cheerful#cheerful__5"
+    },
+    {
+      "comment": "[relaxing]{relaxing}, [quiet_1]{quiet}, and [peaceful]{peaceful}",
+      "entry": "restful",
+      "id": "restful#restful__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [good_1]{good} or [enjoyable]{enjoyable}",
+      "entry": "epic",
+      "id": "epic_2#epic_2__5"
+    },
+    {
+      "comment": "[enjoyable]{enjoyable} and [unexpected]{unexpected} or [unplanned]{unplanned}",
+      "entry": "cheeky",
+      "id": "cheeky#cheeky__5"
+    },
+    {
+      "comment": "another way of [saying]{saying} \"most [fun_1]{fun}\"",
+      "entry": "funnest",
+      "id": "funnest#funnest__1"
+    },
+    {
+      "comment": "another way of [saying]{saying} \"more [fun_1]{fun}\"",
+      "entry": "funner",
+      "id": "funner#funner__1"
+    }
+  ],
+  "thesaurus": "Pleasant, enjoyable and relaxing",
+  "type": "Synonyms"
+}

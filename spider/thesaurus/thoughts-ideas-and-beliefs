@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [word_1]{word}, [idea]{idea}, or [image_1]{image} that comes into your [mind_1]{mind}",
+      "entry": "thought",
+      "id": "thought_1#thought_1__1"
+    },
+    {
+      "comment": "a [thought_1]{thought} that you have about how to do something or how to [deal_1]{deal} with something",
+      "entry": "idea",
+      "id": "idea#idea__1"
+    },
+    {
+      "comment": "a [strong]{strong} [feeling_1]{feeling} that something is [true_1]{true} or [real_1]{real}",
+      "entry": "belief",
+      "id": "belief#belief__1"
+    },
+    {
+      "comment": "one or more [idea]{ideas} that [explain]{explain} how or why something [happen]{happens}",
+      "entry": "theory",
+      "id": "theory#theory__1"
+    },
+    {
+      "comment": "an [idea]{idea} of something that [exist]{exists}",
+      "entry": "concept",
+      "id": "concept#concept__1"
+    },
+    {
+      "comment": "a [strong]{strong} [belief]{belief} that something is [good_1]{good} and that you should [support_1]{support} it",
+      "entry": "commitment",
+      "id": "commitment#commitment__5"
+    },
+    {
+      "comment": "[strong]{strong} [belief]{belief} in or [trust_1]{trust} of someone or something",
+      "entry": "faith",
+      "id": "faith#faith__1"
+    },
+    {
+      "comment": "one of the [major_1]{major} [idea]{ideas} or [theory]{theories} that a system of [belief]{beliefs} is [base_2]{based} on, for [example]{example} in [religion]{religion} or [politics]{politics}",
+      "entry": "principle",
+      "id": "principle#principle__5"
+    },
+    {
+      "comment": "a [belief]{belief} or [attitude]{attitude} that someone [use_1]{uses} for [dealing]{dealing} with [life]{life} in [general_1]{general}",
+      "entry": "philosophy",
+      "id": "philosophy#philosophy__4"
+    },
+    {
+      "comment": "an [idea]{idea} about what is [good_1]{good} and [right_1]{right}, that you [try_1]{try} to [follow]{follow} in your [life]{life} and [behavior]{behavior}",
+      "entry": "ideal",
+      "id": "ideal_2#ideal_2__1"
+    }
+  ],
+  "thesaurus": "Thoughts, ideas and beliefs",
+  "type": "Synonyms"
+}

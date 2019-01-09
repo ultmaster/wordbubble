@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "a [special_1]{special} [tool_1]{tool} that you can [fix_1]{fix} to a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} to [make_1]{make} it do a [particular_1]{particular} [job_1]{job}",
+      "entry": "attachment",
+      "id": "attachment#attachment__8"
+    },
+    {
+      "comment": "a [tool_1]{tool} or part of a [tool_1]{tool} [used]{used} for [cutting_1]{cutting} or [making]{making} [hole_1]{holes} in [thing]{things}",
+      "entry": "bit",
+      "id": "bit_1#bit_1__12"
+    },
+    {
+      "comment": "the thin [sharp_1]{sharp} part of a [knife_1]{knife}, [tool_1]{tool}, or [weapon]{weapon} that [cut_1]{cuts} [thing]{things}",
+      "entry": "blade",
+      "id": "blade#blade__1"
+    },
+    {
+      "comment": "one of the many [stiff_1]{stiff} [fiber]{fibers} or [short_1]{short} [piece_1]{pieces} of [wire_1]{wire} or [plastic_1]{plastic} in a [brush_1]{brush}",
+      "entry": "bristle",
+      "id": "bristle_1#bristle_1__1"
+    },
+    {
+      "comment": "the long [wooden]{wooden} [handle_1]{handle} of a [broom]{broom}",
+      "entry": "broomstick",
+      "id": "broomstick#broomstick__2"
+    },
+    {
+      "comment": "the part of a [tool_1]{tool}, [piece_1]{piece} of [equipment]{equipment}, or [weapon]{weapon} that [does]{does} the [main_1]{main} [work_1]{work}",
+      "entry": "the business end",
+      "id": "the-business-end#the-business-end__1"
+    },
+    {
+      "comment": "the [end_1]{end} of the [handle_1]{handle} of a [gun_1]{gun} or [tool_1]{tool}",
+      "entry": "butt",
+      "id": "butt_1#butt_1__6"
+    },
+    {
+      "comment": "the part of a drill or lathe  (=tools for cutting) that holds the bit  (=the part that does the cutting) and keeps it steady",
+      "entry": "chuck",
+      "id": "chuck_2#chuck_2__2"
+    },
+    {
+      "comment": "a [curved]{curved} [end_1]{end} on a [tool_1]{tool} or [machine_1]{machine}, [used]{used} for [pull_1]{pulling} or [pick_1]{picking} [thing]{things} up",
+      "entry": "claw",
+      "id": "claw_1#claw_1__3"
+    },
+    {
+      "comment": "the [sharp_1]{sharp} side of a [blade]{blade} or [tool_1]{tool} that is [used]{used} for [cutting_1]{cutting} [thing]{things}",
+      "entry": "edge",
+      "id": "edge_1#edge_1__5"
+    },
+    {
+      "comment": "[tool_1]{tools} that you use for [put]{putting} [piece_1]{pieces} of [wood]{wood} or [coal]{coal} onto a fire",
+      "entry": "fire irons",
+      "id": "fire-irons#fire-irons__1"
+    },
+    {
+      "comment": "a piece of equipment that holds something in a fixed position so that you can work on it with a tool such as a drill",
+      "entry": "jig",
+      "id": "jig_1#jig_1__3"
+    },
+    {
+      "comment": "a long [sharp_1]{sharp} [point_1]{point}, [especially]{especially} one of the [point_1]{points} on a [fork_1]{fork}",
+      "entry": "prong",
+      "id": "prong#prong__1"
+    },
+    {
+      "comment": "a thin [flat_1]{flat} [blade]{blade} with a very [sharp_1]{sharp} [edge_1]{edge}, [used]{used} in a [razor]{razor}",
+      "entry": "razor blade",
+      "id": "razor-blade#razor-blade__1"
+    },
+    {
+      "comment": "a circular piece with a lot of small holes that is put on the end of a hose or watering can",
+      "entry": "rose",
+      "id": "rose_1#rose_1__7"
+    },
+    {
+      "comment": "the [handle_1]{handle} of a [tool_1]{tool}",
+      "entry": "shaft",
+      "id": "shaft_1#shaft_1__5"
+    },
+    {
+      "comment": "the long thin [straight_1]{straight} part of an [object_1]{object} such as a [key_1]{key} or a [tool_1]{tool}",
+      "entry": "shank",
+      "id": "shank#shank__2"
+    },
+    {
+      "comment": "a [cover_1]{cover} [used]{used} for [carry_1]{carrying} a [knife_1]{knife} or a [sword]{sword}",
+      "entry": "sheath",
+      "id": "sheath#sheath__1"
+    },
+    {
+      "comment": "one of the long pointed parts on a fork or a rake",
+      "entry": "tine",
+      "id": "tine#tine__1"
+    },
+    {
+      "comment": "one of a [row_1]{row} of [narrow_1]{narrow} [pointed]{pointed} [part_1]{parts} that form the [edge_1]{edge} of a [tool_1]{tool} or [machine_1]{machine}",
+      "entry": "tooth",
+      "id": "tooth#tooth__8"
+    }
+  ],
+  "thesaurus": "Parts of tools",
+  "type": "Related words"
+}

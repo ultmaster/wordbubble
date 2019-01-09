@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [position_1]{position} that your body is in when you [sit]{sit}, [stand_1]{stand}, or [walk_1]{walk}",
+      "entry": "posture",
+      "id": "posture_1#posture_1__1"
+    },
+    {
+      "comment": "the [particular_1]{particular} way in which someone [stand_1]{stands}, [move_1]{moves}, or [behave]{behaves}",
+      "entry": "bearing",
+      "id": "bearing#bearing__3"
+    },
+    {
+      "comment": "the way in which you [walk_1]{walk} or [stand_1]{stand}",
+      "entry": "deportment",
+      "id": "deportment#deportment__1"
+    },
+    {
+      "comment": "a [graceful]{graceful} [calm_1]{calm} way of [moving]{moving}, [standing_1]{standing}, or [sitting]{sitting}",
+      "entry": "poise",
+      "id": "poise_1#poise_1__2"
+    },
+    {
+      "comment": "a [position_1]{position} in which your body [remains]{remains} [steady_1]{steady} and [upright_1]{upright}",
+      "entry": "balance",
+      "id": "balance_1#balance_1__3"
+    },
+    {
+      "comment": "the [position_1]{position} you keep your body in when someone is [take_1]{taking} your [photograph_1]{photograph} or [painting]{painting} your [picture_1]{picture}",
+      "entry": "pose",
+      "id": "pose_2#pose_2__1"
+    },
+    {
+      "comment": "a way of [standing_1]{standing} or [holding]{holding} your body, [especially]{especially} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "stance",
+      "id": "stance#stance__5"
+    },
+    {
+      "comment": "the way that someone\u2019s body is [place_2]{placed}",
+      "entry": "position",
+      "id": "position_1#position_1__1"
+    },
+    {
+      "comment": "the [position_1]{position} of your body",
+      "entry": "attitude",
+      "id": "attitude#attitude__12"
+    },
+    {
+      "comment": "the way someone [move_1]{moves} their body when they are [walking_1]{walking}",
+      "entry": "carriage",
+      "id": "carriage#carriage__5"
+    }
+  ],
+  "thesaurus": "General words for postures and body positions",
+  "type": "Synonyms"
+}

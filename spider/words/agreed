@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an agreed [price_1]{price}, [limit_1]{limit}, [date_1]{date}, etc. is one that [people_1]{people} have [talk_1]{talked} about and [accepted]{accepted}",
+      "examples": [
+        "Her [husband]{husband} [failed]{failed} to [pay_1]{pay} her the agreed [sum_1]{sum} of [money]{money}.",
+        "We [wait_1]{waited} for a [knock_1]{knock}, which was the agreed [signal_1]{signal}.",
+        "There is no [generally]{generally} agreed upon [definition]{definition} of this [term_1]{term}."
+      ],
+      "id": "agreed__1"
+    },
+    {
+      "def": "if [people_1]{people} are agreed, they all [agree]{agree} about what to do",
+      "examples": [
+        "Are we all agreed on where we\u2019re [going_1]{going}?"
+      ],
+      "id": "agreed__5"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [agree]{agree} with a [suggestion]{suggestion}, or for [ask_1]{asking} [people_1]{people} if they [agree]{agree}",
+      "examples": [
+        "\u201cThe last one to [arrive]{arrive} [pay_1]{pays} for the [meal]{meal}.\u201d \u201c[agreed]{Agreed}.\u201d"
+      ],
+      "id": "agreed__7"
+    }
+  ],
+  "word": "agreed"
+}

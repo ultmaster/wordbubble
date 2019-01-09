@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [liquid_1]{liquid}, [solid_1]{solid}, or [gas_1]{gas}",
+      "entry": "substance",
+      "id": "substance#substance__1"
+    },
+    {
+      "comment": "a [substance]{substance}, [especially]{especially} one [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "material",
+      "id": "material_1#material_1__4"
+    },
+    {
+      "comment": "a [soft]{soft} [dry_1]{dry} [substance]{substance} that [look_1]{looks} [like_1]{like} [dust_1]{dust} or [sand_1]{sand}",
+      "entry": "powder",
+      "id": "powder_1#powder_1__1"
+    },
+    {
+      "comment": "a soft natural or artificial substance that becomes liquid when heated, used for making candles and models, for making wooden furniture shine, and for protecting objects from water",
+      "entry": "wax",
+      "id": "wax_1#wax_1__1"
+    },
+    {
+      "comment": "a [substance]{substance} that has had [water_1]{water} [removed]{removed} from it so that it has a [strong]{stronger} [effect_1]{effect}, [taste_1]{taste}, etc.",
+      "entry": "concentrate",
+      "id": "concentrate_2#concentrate_2__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [substance]{substance}",
+      "entry": "matter",
+      "id": "matter_1#matter_1__12"
+    },
+    {
+      "comment": "the [basic_1]{basic} [material_1]{material} or [substance]{substance} that [people_1]{people} use for [making]{making} something",
+      "entry": "stuff",
+      "id": "stuff_1#stuff_1__10"
+    },
+    {
+      "comment": "a [substance]{substance} that is not a [liquid_1]{liquid} or a [gas_1]{gas}",
+      "entry": "solid",
+      "id": "solid_2#solid_2__1"
+    },
+    {
+      "comment": "a [substance]{substance} that something [grow]{grows} in, [exist]{exists} in, or [move_1]{moves} through",
+      "entry": "medium",
+      "id": "medium_2#medium_2__8"
+    },
+    {
+      "comment": "a [chemical_1]{chemical} or other [substance]{substance} that has a [particular_1]{particular} [effect_1]{effect}",
+      "entry": "agent",
+      "id": "agent#agent__11"
+    }
+  ],
+  "thesaurus": "General words for materials and substances",
+  "type": "Synonyms"
+}

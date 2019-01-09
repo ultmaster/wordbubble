@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "other than",
+  "senses": [
+    {
+      "def": "in [addition]{addition} to someone or something",
+      "examples": [
+        "Are you [take_1]{taking} any [science]{science} [course_1]{courses} other than [chemistry]{chemistry}?"
+      ],
+      "id": "other-than__1"
+    },
+    {
+      "def": "except for someone or something",
+      "examples": [
+        "I had no [ambition]{ambitions} other than to have a [happy_1]{happy} [life]{life} and be [free_1]{free}."
+      ],
+      "id": "other-than__3"
+    }
+  ]
+}

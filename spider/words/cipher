@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [secret_1]{secret} system of [writing]{writing}, [used]{used} for [send_1]{sending} [message_1]{messages} so that no one can [understand]{understand} them [unless]{unless} they [know_1]{know} the system",
+      "examples": [
+        "The [letter_1]{letter} was [written_1]{written} in cipher."
+      ],
+      "id": "cipher__1"
+    },
+    {
+      "def": "someone who has no [power_1]{power}, or who is not [important]{important}",
+      "examples": [
+        "He was only a cipher."
+      ],
+      "id": "cipher__3"
+    },
+    {
+      "def": "a [design_1]{design} [combine_1]{combining} or [interweave]{interweaving} [letter_1]{letters} or [initial_2]{initials}; a [monogram]{monogram}",
+      "examples": [
+        "They had their family's cipher [engrave]{engraved} on [silver_1]{silver} [spoon_1]{spoons} and [fork_1]{forks}."
+      ],
+      "id": "cipher__5"
+    }
+  ],
+  "word": "cipher"
+}

@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[allow]{allowed} by the [law]{law}, or [correct_1]{correct} [accord_2]{according} to the [law]{law}",
+      "examples": [
+        "Are the [premises]{premises} being [used]{used} for legitimate [business]{business} [purpose]{purposes}?",
+        "The Scots [proclaim]{proclaimed} James Stuart as the legitimate heir to the British [throne]{throne}."
+      ],
+      "id": "legitimate__1"
+    },
+    {
+      "def": "[fair_1]{fair} and [reasonable]{reasonable}",
+      "examples": [
+        "It is [perfectly]{perfectly} legitimate to [ask_1]{ask} [question_1]{questions} about a [politician]{politician}\u2019s [personal_1]{personal} [life]{life}.",
+        "[did]{Did} he have a legitimate [excuse_1]{excuse} for being [late_1]{late}?"
+      ],
+      "id": "legitimate__4"
+    },
+    {
+      "def": "a legitimate [child]{child} is [born]{born} to [parent]{parents} who are [legally]{legally} [married]{married}",
+      "examples": [],
+      "id": "legitimate__7"
+    }
+  ],
+  "word": "legitimate"
+}

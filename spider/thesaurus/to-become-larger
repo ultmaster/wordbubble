@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if [children]{children} or [animal_1]{animals} [grow]{grow}, they become [tall]{taller} or [large_1]{larger}",
+      "entry": "grow",
+      "id": "grow#grow__1"
+    },
+    {
+      "comment": "to become [large_1]{larger} in [size_1]{size} and fill more [space_1]{space}",
+      "entry": "expand",
+      "id": "expand#expand__1"
+    },
+    {
+      "comment": "to become [large_1]{larger} than [normal_1]{normal}, [usually]{usually} because of [liquid_1]{liquid} [collect_1]{collecting} [inside_1]{inside}",
+      "entry": "swell",
+      "id": "swell_1#swell_1__1"
+    },
+    {
+      "comment": "if part of your body [dilate]{dilates}, it becomes [big_1]{bigger} and [wide_1]{wider}",
+      "entry": "dilate",
+      "id": "dilate#dilate__1"
+    },
+    {
+      "comment": "to become [inflated]{inflated}",
+      "entry": "inflate",
+      "id": "inflate#inflate__3"
+    },
+    {
+      "comment": "to become [big_1]{bigger}, more [successful]{successful}, more [popular]{popular}, etc., in a way that [make_1]{makes} your [previous_1]{previous} [method]{methods} or [activity]{activities} no [long_1]{longer} [appropriate_1]{appropriate}",
+      "entry": "outgrow",
+      "id": "outgrow#outgrow__5"
+    },
+    {
+      "comment": "to [grow]{grow} to full [adult_1]{adult} [size_1]{size}",
+      "entry": "mature",
+      "id": "mature_2#mature_2__3"
+    },
+    {
+      "comment": "to become [twice_1]{twice} as [big_1]{big}, [twice_1]{twice} as much, or [twice_1]{twice} as many",
+      "entry": "double",
+      "id": "double_2#double_2__1"
+    },
+    {
+      "comment": "to become [big_1]{bigger} or [strong]{stronger} and then [small_1]{smaller} or [weak]{weaker}",
+      "entry": "wax and wane",
+      "id": "wax-and-wane#wax-and-wane__1"
+    },
+    {
+      "comment": "to become much [large_1]{larger}",
+      "entry": "supersize",
+      "id": "supersize#supersize__2"
+    }
+  ],
+  "thesaurus": "To become larger",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone\u2019s [bestie]{bestie} is their [best_1]{best} [friend_1]{friend}",
+      "entry": "bestie",
+      "id": "bestie#bestie__1"
+    },
+    {
+      "comment": "[best_1]{best} [friend_1]{friend}(s) [forever]{forever}: [used]{used} in [social_1]{social} [media]{media} to [refer]{refer} to a very [close_1]{close} [friend_1]{friend}",
+      "entry": "BFF",
+      "id": "bff#bff__1"
+    },
+    {
+      "comment": "a man who [help_1]{helps} and [support_1]{supports} another man",
+      "entry": "wingman",
+      "id": "wingman#wingman__1"
+    },
+    {
+      "comment": "someone you [know_1]{know} well and [like_1]{like}, but who is not a [member]{member} of your [family_1]{family}",
+      "entry": "friends",
+      "id": "friend_1#friend_1__1"
+    },
+    {
+      "comment": "someone you [know_1]{know} a [little_1]{little}, who is not a [close_1]{close} [friend_1]{friend}",
+      "entry": "acquaintance",
+      "id": "acquaintance#acquaintance__1"
+    },
+    {
+      "comment": "a [friend_1]{friend} or [pet_1]{pet} that you [spend]{spend} a [lot_1]{lot} of time with",
+      "entry": "companion",
+      "id": "companion#companion__3"
+    },
+    {
+      "comment": "a [friend_1]{friend}",
+      "entry": "mate",
+      "id": "mate_1#mate_1__9"
+    },
+    {
+      "comment": "very [good_1]{good} [friend_1]{friends}",
+      "entry": "firm friends",
+      "id": "firm-friends#firm-friends__1"
+    },
+    {
+      "comment": "a [close_1]{close} [friend_1]{friend}",
+      "entry": "chum",
+      "id": "chum_1#chum_1__1"
+    },
+    {
+      "comment": "a [female_1]{female} [friend_1]{friend} of a [woman]{woman}",
+      "entry": "girlfriend",
+      "id": "girlfriend#girlfriend__4"
+    }
+  ],
+  "thesaurus": "Friends and acquaintances",
+  "type": "Synonyms"
+}

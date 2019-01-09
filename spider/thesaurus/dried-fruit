@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a [dry_1]{dry} [fruit_1]{fruit} that [grow]{grows} [inside_1]{inside} a [hard_1]{hard} [shell_1]{shell} on some [type_1]{types} of [tree]{tree} and [bush]{bush}. Many [kind_1]{kinds} of [nuts_1]{nuts} can be [eaten]{eaten}",
+      "entry": "nut",
+      "id": "nut#nut__1"
+    },
+    {
+      "comment": "a [small_1]{small} [dried]{dried} [fruit_1]{fruit}, [especially]{especially} one that is [black_1]{black}, that is [crushed]{crushed} to [make_1]{make} [pepper_1]{pepper}",
+      "entry": "peppercorn",
+      "id": "peppercorn#peppercorn__1"
+    },
+    {
+      "comment": "a dried plum  (=a type of fruit)",
+      "entry": "prune",
+      "id": "prune_2#prune_2__1"
+    },
+    {
+      "comment": "a dried grape",
+      "entry": "raisin",
+      "id": "raisin#raisin__1"
+    },
+    {
+      "comment": "a dried white grape, used especially in baking cakes",
+      "entry": "sultana",
+      "id": "sultana#sultana__1"
+    }
+  ],
+  "thesaurus": "Dried fruit",
+  "type": "Related words"
+}

@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [act_1]{act} of [killing]{killing} a [person]{person} as a [punishment]{punishment} for a [crime_1]{crime}",
+      "examples": [
+        "[convicted]{Convicted} [drug_1]{drug} traffickers may [face_1]{face} execution.",
+        "There have been no [execution]{executions} in this [state_1]{state} for almost 15 [year]{years}."
+      ],
+      "id": "execution__1"
+    },
+    {
+      "def": "the [act_1]{act} of [complete_2]{completing} something that you have [agreed]{agreed} or [plan_2]{planned} to do",
+      "examples": [
+        "He has [failed]{failed} in the execution of his [duty]{duties}."
+      ],
+      "id": "execution__4"
+    },
+    {
+      "def": "the [process_1]{process} of [making]{making} a computer use a [program_1]{program} or [carry_1]{carry} out an [instruction]{instruction}",
+      "examples": [],
+      "id": "execution__8"
+    }
+  ],
+  "word": "execution"
+}

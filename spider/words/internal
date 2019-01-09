@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[existing]{existing} or [happening_1]{happening} within a [country]{country}, not between [different]{different} [country]{countries}",
+      "examples": [
+        "an internal [flight]{flight}",
+        "They were [opposed]{opposed} to [foreign]{foreign} [involvement]{involvement} in their internal [affair]{affairs}.",
+        "an internal [memo]{memo}",
+        "an internal [inquiry]{inquiry}",
+        "internal [contradiction]{contradictions} in [government]{government} [policy]{policy}"
+      ],
+      "id": "internal__1"
+    },
+    {
+      "def": "[existing]{existing} or [happening_1]{happening} [inside_1]{inside} your body",
+      "examples": [
+        "internal [bleeding]{bleeding}/[injury]{injuries}/[organ]{organs}",
+        "Broadman\u2019s [face_1]{face} [look_1]{looked} as though some [vast]{vast} internal [struggle_1]{struggle} was [going_1]{going} on."
+      ],
+      "id": "internal__9"
+    },
+    {
+      "def": "[existing]{existing} or [happening_1]{happening} [inside_1]{inside} an [object_1]{object} or [building]{building}",
+      "examples": [
+        "internal [wall_1]{walls}"
+      ],
+      "id": "internal__13"
+    }
+  ],
+  "word": "internal"
+}

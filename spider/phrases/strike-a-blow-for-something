@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "strike a blow for something",
+  "senses": [
+    {
+      "def": "to do something to [help_1]{help} or to [support_1]{support} an [idea]{idea}, [movement]{movement}, or [group_1]{group}",
+      "examples": [
+        "She has [struck]{struck} a [blow_1]{blow} for [common_1]{common} [sense_1]{sense} and [human_1]{human} [decency]{decency}."
+      ],
+      "id": "strike-a-blow-for-something__1"
+    },
+    {
+      "def": "to do something to [harm_1]{harm} or [oppose]{oppose} an [idea]{idea}, [movement]{movement}, or [group_1]{group}",
+      "examples": [
+        "His [main_1]{main} [desire_1]{desire} was to [strike_1]{strike} a [blow_1]{blow} against the [communist_1]{communist} [force_1]{forces}."
+      ],
+      "id": "strike-a-blow-for-something__3"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "entries": [
+    {
+      "comment": "if a [car]{car} [backfire]{backfires}, its [engine]{engine} [make_1]{makes} a [loud_1]{loud} [noise]{noise} [like_1]{like} an [explosion]{explosion}",
+      "entry": "backfire",
+      "id": "backfire#backfire__3"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or [vehicle]{vehicle} [burn_1]{burns} up [fuel_1]{fuel}, it [use_1]{uses} the [fuel_1]{fuel} to [work_1]{work}",
+      "entry": "burn up",
+      "id": "burn-up#burn-up__5"
+    },
+    {
+      "comment": "if something such as a [machine_1]{machine} comes to [life]{life}, it [begin]{begins} to [work_1]{work}",
+      "entry": "come to life",
+      "id": "come-to-life#come-to-life__1"
+    },
+    {
+      "comment": "if an [engine]{engine} or [machine_1]{machine} [cut_1]{cuts} out, it [suddenly]{suddenly} [stop_1]{stops} [working]{working}",
+      "entry": "cut out",
+      "id": "cut-out#cut-out__12"
+    },
+    {
+      "comment": "a [set_1]{set} of [thing]{things} that a [machine_1]{machine} [does]{does} as part of a [process_1]{process}",
+      "entry": "cycle",
+      "id": "cycle_1#cycle_1__5"
+    },
+    {
+      "comment": "the [action_1]{action} of [part_1]{parts} of a [machine_1]{machine} when they [connect]{connect} with each other",
+      "entry": "engagement",
+      "id": "engagement#engagement__11"
+    },
+    {
+      "comment": "if an [engine]{engine} [fire_1]{fires}, it [start_1]{starts} to [work_1]{work}",
+      "entry": "fire",
+      "id": "fire_2#fire_2__11"
+    },
+    {
+      "comment": "if you [flood_1]{flood} an [engine]{engine}, or if it [flood_1]{floods}, too much [fuel_1]{fuel} [go_1]{goes} into it and it will not [start_1]{start}",
+      "entry": "flood",
+      "id": "flood_1#flood_1__17"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} [go_1]{goes}, it [operate]{operates} [correctly]{correctly}",
+      "entry": "go",
+      "id": "go_1#go_1__87"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or [vehicle]{vehicle} [grind_1]{grinds}, it [move_1]{moves} or [work_1]{works} [slowly]{slowly}, [noisy#noisy__7]{noisily}, and with [difficulty]{difficulty}",
+      "entry": "grind",
+      "id": "grind_1#grind_1__8"
+    },
+    {
+      "comment": "if [part_1]{parts} of a [machine_1]{machine} [grind_1]{grind}, or if someone [grind_1]{grinds} them, they [rub_1]{rub} together and [make_1]{make} an [unpleasant]{unpleasant} [noise]{noise}",
+      "entry": "grind",
+      "id": "grind_1#grind_1__11"
+    },
+    {
+      "comment": "if an [engine]{engine} [idle_2]{idles}, it [run_1]{runs} [slowly]{slowly} and [does]{does} not [produce_1]{produce} any [movement]{movement}",
+      "entry": "idle",
+      "id": "idle_2#idle_2__1"
+    },
+    {
+      "comment": "[working]{working} in the [normal_1]{normal} way",
+      "entry": "in operation",
+      "id": "in-operation#in-operation__1"
+    },
+    {
+      "comment": "if a [machine_1]{machine}, [lock_1]{lock}, [window]{window}, etc. [jam_1]{jams}, it [does]{does} not [work_1]{work} because something [stop_1]{stops} it from [moving]{moving}",
+      "entry": "jam",
+      "id": "jam_2#jam_2__9"
+    },
+    {
+      "comment": "to [work_1]{work} in a way that is not [continuous]{continuous} or [smooth_1]{smooth}",
+      "entry": "jump",
+      "id": "jump_1#jump_1__36"
+    },
+    {
+      "comment": "if an [engine]{engine} [kick_1]{kicks} over, it [start_1]{starts} to [work_1]{work}",
+      "entry": "kick over",
+      "id": "kick-over#kick-over__1"
+    },
+    {
+      "comment": "if an [engine]{engine} or [machine_1]{machine} [knock_1]{knocks}, it [make_1]{makes} [noise]{noises} that show it is not [working]{working} [correctly]{correctly}",
+      "entry": "knock",
+      "id": "knock_1#knock_1__14"
+    },
+    {
+      "comment": "to [fail_1]{fail} to [work_1]{work} or [operate]{operate} [correctly]{correctly}",
+      "entry": "malfunction",
+      "id": "malfunction_2#malfunction_2__1"
+    },
+    {
+      "comment": "if [part_1]{parts} of an [engine]{engine} or other [machine_1]{machine} [mesh_1]{mesh}, they [connect]{connect} with each other [tight_1#tight_1__40]{tightly} and [work_1]{work} together",
+      "entry": "mesh",
+      "id": "mesh_2#mesh_2__1"
+    },
+    {
+      "comment": "if an [engine]{engine} [misfire_1]{misfires}, the [fuel_1]{fuel} [does]{does} not [burn_1]{burn} in the [right_1]{right} way and it [does]{does} not [work_1]{work} [smoothly]{smoothly}",
+      "entry": "misfire",
+      "id": "misfire_1#misfire_1__2"
+    },
+    {
+      "comment": "if an [engine]{engine} [miss_1]{misses}, it [fail_1]{fails} to [burn_1]{burn} the [fuel_1]{fuel} and [lose]{loses} [power_1]{power}",
+      "entry": "miss",
+      "id": "miss_1#miss_1__31"
+    },
+    {
+      "comment": "one of a [series]{series} of ways that a [machine_1]{machine} can be made to [work_1]{work}",
+      "entry": "mode",
+      "id": "mode#mode__4"
+    },
+    {
+      "comment": "[used]{used} about a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment}, for [example]{example} a [television]{television}, that is [switch_1]{switched} on but not in use",
+      "entry": "on standby",
+      "id": "on-standby#on-standby__7"
+    },
+    {
+      "comment": "the [speed_1]{speed} and [effectiveness]{effectiveness} of a [machine_1]{machine} or [vehicle]{vehicle}",
+      "entry": "performance",
+      "id": "performance#performance__11"
+    },
+    {
+      "comment": "the power of a vehicle to accelerate  (=go faster) quickly",
+      "entry": "pickup",
+      "id": "pickup_1#pickup_1__3"
+    },
+    {
+      "comment": "if a car\u2019s engine pings, it makes a continuous knocking noise. The British word is pink.",
+      "entry": "ping",
+      "id": "ping_1#ping_1__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of a [machine_1]{machine} or [vehicle]{vehicle} to [operate]{operate} [quickly]{quickly} and [effectively]{effectively}",
+      "entry": "power",
+      "id": "power_1#power_1__26"
+    },
+    {
+      "comment": "if you rev an engine, or if it revs, you press the gas pedal with your foot when the vehicle is not moving in order to make the engine operate faster",
+      "entry": "rev",
+      "id": "rev_1#rev_1__1"
+    },
+    {
+      "comment": "if a [machine_1]{machine} such as a [camera]{camera} [roll_1]{rolls}, it [work_1]{works}",
+      "entry": "roll",
+      "id": "roll_1#roll_1__24"
+    },
+    {
+      "comment": "if a [machine_1]{machine} [sense_1]{senses} a [change_1]{change}, it [notice_1]{notices} that it is [happening_1]{happening}",
+      "entry": "sense",
+      "id": "sense_2#sense_2__6"
+    },
+    {
+      "comment": "if something such as an [engine]{engine} [splutter]{splutters}, it [make_1]{makes} a [series]{series} of [short_1]{short} [noise]{noises} because it is not [working]{working} well",
+      "entry": "splutter",
+      "id": "splutter#splutter__3"
+    },
+    {
+      "comment": "if an [engine]{engine} [sputter]{sputters}, it [make_1]{makes} [noise]{noises} [like_1]{like} [small_1]{small} [explosion]{explosions} and seems [likely_1]{likely} to [stop_1]{stop}",
+      "entry": "sputter",
+      "id": "sputter#sputter__2"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or its [engine]{engine} [stall_1]{stalls}, or if the [driver]{driver} [stall_1]{stalls} it, it [suddenly]{suddenly} [stop_1]{stops} [working]{working} because not enough [power_1]{power} is [reach_1]{reaching} the [engine]{engine}",
+      "entry": "stall",
+      "id": "stall_2#stall_2__4"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [equipment]{equipment} [take_1]{takes} something, it [use_1]{uses} that thing in [order_1]{order} to [work_1]{work}",
+      "entry": "take",
+      "id": "take_1#take_1__99"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [equipment]{equipment} [take_1]{takes} something, it is [able_1]{able} to [accept]{accept} the [size_1]{size} or [weight_1]{weight} of that thing without [b-boying]{breaking}",
+      "entry": "take",
+      "id": "take_1#take_1__102"
+    },
+    {
+      "comment": "if a [machine_1]{machine} [talk_1]{talks} to another [machine_1]{machine}, it [send_1]{sends} [information]{information} to that [machine_1]{machine}",
+      "entry": "talk",
+      "id": "talk_1#talk_1__27"
+    },
+    {
+      "comment": "if an [engine]{engine} [turn_1]{turns} over, or if you [turn_1]{turn} it over, it [start_1]{starts} or [continue]{continues} to [operate]{operate}",
+      "entry": "turn over",
+      "id": "turn-over#turn-over__3"
+    },
+    {
+      "comment": "time when a computer or other [machine_1]{machine} is [working]{working}",
+      "entry": "uptime",
+      "id": "uptime#uptime__1"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or an [engine]{engine} [warm_2]{warms} up, it becomes ready to be [used]{used} after someone [turn_1]{turns} it on",
+      "entry": "warm up",
+      "id": "warm-up_1#warm-up_1__9"
+    }
+  ],
+  "thesaurus": "Engine and machine behavior",
+  "type": "Related words"
+}

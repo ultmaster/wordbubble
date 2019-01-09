@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to go from one side of something such as a [room_1]{room} or [enclosed]{enclosed} [area]{area} to the other",
+      "entry": "cross",
+      "id": "cross_1#cross_1__4"
+    },
+    {
+      "comment": "to go across an [area]{area} of [land_1]{land} [instead]{instead} of [going_1]{going} around the [edge_1]{edge} of it",
+      "entry": "cut across",
+      "id": "cut-across#cut-across__1"
+    },
+    {
+      "comment": "to move [past_1]{past} or through a [group_1]{group} of [people_1]{people} or [thing]{things} by [use_1]{using} a part of your body to move them [away_1]{away} from you",
+      "entry": "push",
+      "id": "push_1#push_1__11"
+    },
+    {
+      "comment": "to [rude#rude__11]{rudely} [force_1]{force} your way into or through a [place_1]{place}",
+      "entry": "bulldoze",
+      "id": "bulldoze#bulldoze__4"
+    },
+    {
+      "comment": "to go through an [area]{area} [instead]{instead} of [going_1]{going} around the [edge_1]{edge} of it",
+      "entry": "cut through",
+      "id": "cut-through#cut-through__1"
+    },
+    {
+      "comment": "to get through or into a [small_1]{small} [space_1]{space}",
+      "entry": "squeeze",
+      "id": "squeeze_1#squeeze_1__8"
+    },
+    {
+      "comment": "to [pass_1]{pass} through or across something",
+      "entry": "cut",
+      "id": "cut_1#cut_1__45"
+    },
+    {
+      "comment": "to move over or across an [area]{area}",
+      "entry": "traverse",
+      "id": "traverse_1#traverse_1__1"
+    },
+    {
+      "comment": "if [thing]{things} such as [road]{roads} or [lines]{lines} cross, they go across each other",
+      "entry": "cross",
+      "id": "cross_1#cross_1__10"
+    },
+    {
+      "comment": "to move through a [group_1]{group} of [people_1]{people} by [push_1]{pushing} them [away_1]{away}",
+      "entry": "fight your way",
+      "id": "fight-your-way#fight-your-way__1"
+    }
+  ],
+  "thesaurus": "To move through an area or object",
+  "type": "Synonyms"
+}

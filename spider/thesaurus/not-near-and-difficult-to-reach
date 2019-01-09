@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[far]{far} [away_1]{away} from the [place_1]{place} where you are",
+      "entry": "distant",
+      "id": "distant#distant__1"
+    },
+    {
+      "comment": "a long [distance_1]{distance}",
+      "entry": "far",
+      "id": "far#far__2"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} how [far]{far} [away_1]{away} from each other [people_1]{people} or [thing]{things} are",
+      "entry": "apart",
+      "id": "apart#apart__3"
+    },
+    {
+      "comment": "[far]{far} [away_1]{away} in [distance_1]{distance} or [space_1]{space}",
+      "entry": "remote",
+      "id": "remote_1#remote_1__4"
+    },
+    {
+      "comment": "a [lonesome]{lonesome} [place_1]{place} is [far]{far} from where [people_1]{people} [live_1]{live}, and not many [people_1]{people} go there",
+      "entry": "lonely",
+      "id": "lonely#lonely__6"
+    },
+    {
+      "comment": "an [isolated]{isolated} [place_1]{place} is a long way from other [place_1]{places} and is often [difficult]{difficult} to get to",
+      "entry": "isolated",
+      "id": "isolated#isolated__1"
+    },
+    {
+      "comment": "[difficult]{difficult} or [impossible]{impossible} to [reach_1]{reach}",
+      "entry": "inaccessible",
+      "id": "inaccessible#inaccessible__1"
+    },
+    {
+      "comment": "[existing]{existing} [outside]{outside} and [away_1]{away} from a [particular_1]{particular} [place_1]{place}",
+      "entry": "outlying",
+      "id": "outlying#outlying__1"
+    },
+    {
+      "comment": "[far]{far} from [people_1]{people}, [place_1]{places}, or [thing]{things}, [especially]{especially} so that you [feel_1]{feel} [separated]{separated} from them",
+      "entry": "away",
+      "id": "away_1#away_1__19"
+    },
+    {
+      "comment": "[farthest_1]{farthest} [away_1]{away} from a [particular_1]{particular} [place_1]{place} or from the [center_1]{center} of something",
+      "entry": "outermost",
+      "id": "outermost#outermost__1"
+    }
+  ],
+  "thesaurus": "Not near and difficult to reach",
+  "type": "Synonyms"
+}

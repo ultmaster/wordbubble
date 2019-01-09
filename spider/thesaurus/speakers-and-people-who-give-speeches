@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [give_1]{gives} a [speech]{speech}, or who [talk_1]{talks} about a [subject_1]{subject} to a [group_1]{group}",
+      "entry": "speaker",
+      "id": "speaker#speaker__1"
+    },
+    {
+      "comment": "someone who [give_1]{gives} a [lecture_1]{lecture}",
+      "entry": "lecturer",
+      "id": "lecturer#lecturer__1"
+    },
+    {
+      "comment": "someone who [give_1]{gives} a [speech]{speech} or [give_1]{gives} someone a [prize_1]{prize} at a [ceremony]{ceremony}",
+      "entry": "presenter",
+      "id": "presenter#presenter__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} [speech]{speeches} in [public_1]{public}, [especially]{especially} someone who is [good_1]{good} at [doing]{doing} this",
+      "entry": "orator",
+      "id": "orator#orator__1"
+    },
+    {
+      "comment": "someone or something that [carry_1]{carries} or [communicate]{communicates} something, [especially]{especially} [news]{news}",
+      "entry": "conveyor",
+      "id": "conveyor#conveyor__2"
+    },
+    {
+      "comment": "a [person]{person}, [newspaper]{newspaper}, [organization]{organization}, etc. that [express_1]{expresses} a [particular_1]{particular} [idea]{idea} or that [represent]{represents} the [opinion]{opinions} of a [particular_1]{particular} [group_1]{group}",
+      "entry": "voice",
+      "id": "voice_1#voice_1__24"
+    },
+    {
+      "comment": "someone who is [talk_1]{talking}",
+      "entry": "speaker",
+      "id": "speaker#speaker__4"
+    },
+    {
+      "comment": "someone who [tell_1]{tells} something",
+      "entry": "teller",
+      "id": "teller#teller__3"
+    },
+    {
+      "comment": "a plenary speaker talks about a subject to all the people at a particular meeting or a conference",
+      "entry": "plenary",
+      "id": "plenary#plenary__3"
+    },
+    {
+      "comment": "someone who [explain]{explains} [thing]{things}",
+      "entry": "explainer",
+      "id": "explainer#explainer__3"
+    }
+  ],
+  "thesaurus": "Speakers and people who give speeches",
+  "type": "Synonyms"
+}

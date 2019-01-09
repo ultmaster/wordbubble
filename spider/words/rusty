@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a rusty [metal_1]{metal} [object_1]{object} is [covered_1]{covered} in [rust_1]{rust}",
+      "examples": [
+        "a rusty [old]{old} [car]{car}"
+      ],
+      "id": "rusty__1"
+    },
+    {
+      "def": "a [skill]{skill} that is rusty has not been [used]{used} [recently]{recently}",
+      "examples": [
+        "I [warn]{warn} you, my [piano_1]{piano} [play_1]{playing}\u2019s [pretty_1]{pretty} rusty.",
+        "I\u2019ll [try_1]{try} to [sing_1]{sing} for you, but I\u2019m very rusty."
+      ],
+      "id": "rusty__3"
+    },
+    {
+      "def": "red-[brown_1]{brown} in [color_1]{color}",
+      "examples": [],
+      "id": "rusty__7"
+    }
+  ],
+  "word": "rusty"
+}

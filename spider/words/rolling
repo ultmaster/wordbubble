@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "rolling [land_1]{land} has [gentle]{gentle} [slope_1]{slopes} [continuing]{continuing} for a long [distance_1]{distance}",
+      "examples": [
+        "Kate [long_4]{longed} to [return_1]{return} to the rolling [hill]{hills} of [new]{New} England.",
+        "rolling [wave_1]{waves}"
+      ],
+      "id": "rolling__1"
+    },
+    {
+      "def": "[continuing]{continuing} in a [series]{series} of [stage_1]{stages}",
+      "examples": [
+        "We have [recently]{recently} [institute_2]{instituted} a rolling [program_1]{program} of [maintenance]{maintenance} [work_1]{work}."
+      ],
+      "id": "rolling__5"
+    },
+    {
+      "def": "someone who has a rolling [walk_1]{walk} [move_1]{moves} their body from side to side as they [walk_1]{walk}",
+      "examples": [],
+      "id": "rolling__7"
+    }
+  ],
+  "word": "rolling"
+}

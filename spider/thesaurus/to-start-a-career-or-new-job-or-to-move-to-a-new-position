@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [start_1]{start} to [work_1]{work} for an [organization]{organization}",
+      "entry": "join",
+      "id": "join_1#join_1__10"
+    },
+    {
+      "comment": "to [join_1]{join} an [organization]{organization} or [start_1]{start} a [new]{new} [job_1]{job}",
+      "entry": "arrive",
+      "id": "arrive#arrive__12"
+    },
+    {
+      "comment": "to [start_1]{start} to take part in a [particular_1]{particular} [activity]{activity} or to [work_1]{work} in a [particular_1]{particular} [job_1]{job}",
+      "entry": "enter",
+      "id": "enter#enter__10"
+    },
+    {
+      "comment": "to [begin]{begin} a [new]{new} [job_1]{job}, [career_1]{career}, or [period_1]{period} of [education]{education}",
+      "entry": "start",
+      "id": "start_1#start_1__19"
+    },
+    {
+      "comment": "to get something that you [wanted]{wanted}, [especially]{especially} a [job_1]{job} or [opportunity]{opportunity}",
+      "entry": "land",
+      "id": "land_2#land_2__15"
+    },
+    {
+      "comment": "to do someone else\u2019s [job_1]{job} [temporarily]{temporarily} while they are not [available]{available} to do it",
+      "entry": "stand in",
+      "id": "stand-in_1#stand-in_1__1"
+    },
+    {
+      "comment": "to do someone else\u2019s [job_1]{job} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "substitute",
+      "id": "substitute_1#substitute_1__10"
+    },
+    {
+      "comment": "to [start_1]{start} to have [success]{success} in your [career_1]{career} or an [area]{area} of [activity]{activity}",
+      "entry": "break into",
+      "id": "break-into#break-into__5"
+    },
+    {
+      "comment": "to [send_1]{send} someone to [work_1]{work} with a [different]{different} [group_1]{group} of [people_1]{people} or in a [different]{different} [place_1]{place}, [especially]{especially} [temporarily]{temporarily}",
+      "entry": "attach",
+      "id": "attach#attach__14"
+    },
+    {
+      "comment": "to do someone\u2019s [job_1]{job} for them while they are [away_1]{away}",
+      "entry": "fill in",
+      "id": "fill-in_1#fill-in_1__10"
+    }
+  ],
+  "thesaurus": "To start a career or new job, or to move to a new position",
+  "type": "Synonyms"
+}

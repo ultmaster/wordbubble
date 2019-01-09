@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "one day/night/year etc.",
+  "senses": [
+    {
+      "def": "on a [particular_1]{particular} [day]{day}/night/year etc. in the [past_1]{past}",
+      "examples": [
+        "When Sam [failed]{failed} to [appear]{appear} one [evening_1]{evening}, my [worry_1]{worry} [increased]{increased}."
+      ],
+      "id": "one-day-night-year-etc__1"
+    },
+    {
+      "def": "on any [day]{day}/night/year etc. in the [future_1]{future}",
+      "examples": [
+        "She [knew]{knew} that one [day]{day} she\u2019d get [married]{married}."
+      ],
+      "id": "one-day-night-year-etc__3"
+    }
+  ]
+}

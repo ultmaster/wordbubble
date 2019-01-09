@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "at the [end_1]{end} of the [day]{day} before you go to [bed_1]{bed}",
+      "entry": "last thing (at night)",
+      "id": "last-thing-at-night#last-thing-at-night__1"
+    },
+    {
+      "comment": "during the night/day",
+      "entry": "by night/day",
+      "id": "by-night-day#by-night-day__1"
+    },
+    {
+      "comment": "[happening_1]{happening} at [night_1]{night}",
+      "entry": "nocturnal",
+      "id": "nocturnal#nocturnal__2"
+    },
+    {
+      "comment": "during the [night_1]{night}, or from one [evening_1]{evening} until the next [morning_1]{morning}",
+      "entry": "overnight",
+      "id": "overnight_1#overnight_1__1"
+    },
+    {
+      "comment": "[happening_1]{happening} [late_1]{late} at [night_1]{night}",
+      "entry": "late-night",
+      "id": "late-night#late-night__1"
+    },
+    {
+      "comment": "after it has become [night_1]{night}",
+      "entry": "after dark",
+      "id": "after-dark#after-dark__1"
+    },
+    {
+      "comment": "[open_1]{open} for [business]{business} at a [late_1]{late} [hour]{hour} of the [night_1]{night}",
+      "entry": "late-night",
+      "id": "late-night#late-night__3"
+    },
+    {
+      "comment": "a [starry]{starry} [sky_1]{sky} or [night_1]{night} is one where a [lot_1]{lot} of [star_1]{stars} can be [seen]{seen} in the [sky_1]{sky}",
+      "entry": "starry",
+      "id": "starry#starry__1"
+    },
+    {
+      "comment": "[near_1]{near} the [end_1]{end} of an [evening_1]{evening} or [night_1]{night}",
+      "entry": "late",
+      "id": "late_2#late_2__8"
+    },
+    {
+      "comment": "[provided]{provided} with [light_1]{light} from the [moon_1]{moon}",
+      "entry": "moonlit",
+      "id": "moonlit#moonlit__1"
+    }
+  ],
+  "thesaurus": "Happening at night and related to night",
+  "type": "Synonyms"
+}

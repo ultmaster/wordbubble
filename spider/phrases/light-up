@@ -1,0 +1,32 @@
+{
+  "part": "phrase",
+  "phrase": "light up",
+  "senses": [
+    {
+      "def": "to [light_1]{light} a [cigarette]{cigarette}",
+      "examples": [],
+      "id": "light-up__1"
+    },
+    {
+      "def": "to become [bright_1]{bright} or [light_1]{light}",
+      "examples": [
+        "There was a [flash_1]{flash} of [lightning_1]{lightning} and the [sky_1]{sky} [lit_1]{lit} up."
+      ],
+      "id": "light-up__5"
+    },
+    {
+      "def": "if a [light_1]{light} [light_1]{lights} up, it [start_1]{starts} to [shine_1]{shine}",
+      "examples": [
+        "A [warning]{warning} [signal_1]{signal} [lit_1]{lit} up on the [dashboard]{dashboard}."
+      ],
+      "id": "light-up__7"
+    },
+    {
+      "def": "if someone\u2019s [face_1]{face} or [eye_1]{eyes} [light_1]{light} up, they [express_1]{express} a [strong]{strong} [emotion]{emotion}, [usually]{usually} [happiness]{happiness} or [excitement]{excitement}",
+      "examples": [
+        "Antony\u2019s [eye_1]{eyes} [lit_1]{lit} up when Keiko [walk_1]{walked} into the [room_1]{room}."
+      ],
+      "id": "light-up__9"
+    }
+  ]
+}

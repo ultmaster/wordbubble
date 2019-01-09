@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "comment": "to [clean_1]{clean} [house_1]{houses} or [building]{buildings} as a [job_1]{job}",
+      "entry": "clean",
+      "id": "clean_2#clean_2__8"
+    },
+    {
+      "comment": "to [clean_1]{clean} a [building]{building}, [especially]{especially} someone\u2019s [house_1]{house}, as your [job_1]{job}",
+      "entry": "char",
+      "id": "char#char__3"
+    },
+    {
+      "comment": "to be [responsible]{responsible} for [cooking_1]{cooking} [meal]{meals} and [cleaning]{cleaning} a [house_1]{house} for someone",
+      "entry": "keep house (for someone)",
+      "id": "keep-house-for-someone#keep-house-for-someone__1"
+    },
+    {
+      "comment": "to [clean_1]{clean} a [house_1]{house} [completely]{completely}, [especially]{especially} at the [end_1]{end} of [winter_1]{winter}",
+      "entry": "spring-clean",
+      "id": "spring-clean#spring-clean__1"
+    }
+  ],
+  "thesaurus": "To do housework",
+  "type": "Synonyms"
+}

@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [special_1]{special} [benefit_1]{benefit} that is [available]{available} only to a [particular_1]{particular} [person]{person} or [group_1]{group}",
+      "examples": [
+        "[cheap_1]{Cheap} [air_1]{air} [travel_1]{travel} is one of the [privilege]{privileges} of [working]{working} for the [airline]{airline}.",
+        "The [country]{country} should [extend]{extend} [trade_1]{trade} [privilege]{privileges} to its [poor_1]{poorer} [neighbor]{neighbors}.",
+        "It\u2019s been a privilege to be [involved]{involved} in such an [interesting]{interesting} [project_1]{project}.",
+        "He was [exercise_2]{exercising} the [privilege]{privileges} of an [old]{old} man to be as [rude]{rude} as he [like_2]{liked}."
+      ],
+      "id": "privilege__1"
+    },
+    {
+      "def": "a way of [life]{life} that [involve]{involves} [have]{having} many [advantage]{advantages} and [opportunity]{opportunities}, without [working]{working} [hard_1]{hard} for them",
+      "examples": [
+        "a [life]{life} of privilege"
+      ],
+      "id": "privilege__8"
+    },
+    {
+      "def": "a [situation]{situation} in which [lawyer]{lawyers}, [doctor_1]{doctors}, and other [professional_1]{professional} [people_1]{people} are [legally]{legally} [allow]{allowed} to keep their [discussion]{discussions} with [people_1]{people} [secret_1]{secret}",
+      "examples": [
+        "doctor-patient privilege"
+      ],
+      "id": "privilege__10"
+    },
+    {
+      "def": "a [situation]{situation} in which [statement_1]{statements} made in a [court_1]{court} of [law]{law} or [parliament]{parliament} cannot be [held]{held} to be [defamatory]{defamatory}",
+      "examples": [],
+      "id": "privilege__13"
+    }
+  ],
+  "word": "privilege"
+}

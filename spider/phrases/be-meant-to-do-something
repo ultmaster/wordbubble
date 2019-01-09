@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "be meant to do something",
+  "senses": [
+    {
+      "def": "to have a [particular_1]{particular} [responsibility]{responsibility} or [duty]{duty}",
+      "examples": [
+        "You were [meant]{meant} to keep the [children]{children} out of [trouble_1]{trouble}."
+      ],
+      "id": "be-meant-to-do-something__1"
+    },
+    {
+      "def": "to have a [particular_1]{particular} [purpose]{purpose}. This is sometimes used for suggesting that something does not succeed very well",
+      "examples": [
+        "It was [meant]{meant} to be an [apology]{apology}, but it only made her [angry]{angry}."
+      ],
+      "id": "be-meant-to-do-something__3"
+    }
+  ]
+}

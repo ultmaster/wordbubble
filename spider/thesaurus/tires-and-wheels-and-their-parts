@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "a [bald]{bald} [tire_1]{tire} is no [long_1]{longer} [safe_1]{safe} to use because its [surface_1]{surface} is [worn_1]{worn} [smooth_1]{smooth}",
+      "entry": "bald",
+      "id": "bald#bald__4"
+    },
+    {
+      "comment": "a large wooden wheel from a cart",
+      "entry": "cartwheel",
+      "id": "cartwheel#cartwheel__3"
+    },
+    {
+      "comment": "an [edge_1]{edge} that [stick_1]{sticks} out on a [wheel_1]{wheel} so that it [stay_1]{stays} in the [correct_1]{correct} [position_1]{position}",
+      "entry": "flange",
+      "id": "flange#flange__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [tire_1]{tire} [does]{does} not have enough [air_1]{air} in it",
+      "entry": "flat",
+      "id": "flat_1#flat_1__21"
+    },
+    {
+      "comment": "if [shoe_1]{shoes} or [tire_1]{tires} have [grip_1]{grip}, they [hold_1]{hold} a [surface_1]{surface} [firm_1#firm_1__28]{firmly} and so do not [slip_1]{slip}",
+      "entry": "grip",
+      "id": "grip_1#grip_1__5"
+    },
+    {
+      "comment": "the part at the [center_1]{center} of a [wheel_1]{wheel}",
+      "entry": "hub",
+      "id": "hub#hub__4"
+    },
+    {
+      "comment": "a [metal_1]{metal} [cover_1]{cover} for the [central]{central} part of a [wheel_1]{wheel} on a [car]{car}",
+      "entry": "hubcap",
+      "id": "hubcap#hubcap__1"
+    },
+    {
+      "comment": "a [rubber]{rubber} [tube]{tube} [fill_1]{filled} with [air_1]{air} that [fit_1]{fits} [inside_1]{inside} a [tire_1]{tire}",
+      "entry": "inner tube",
+      "id": "inner-tube#inner-tube__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [car]{car} [tire_1]{tire} with [wire_1]{wires} [inside_1]{inside} that [make_1]{make} it [firm_1]{firmer} and [safe_1]{safer}",
+      "entry": "radial",
+      "id": "radial_2#radial_2__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [remold]{remold}",
+      "entry": "remould",
+      "id": "remould_1#remould_1__2"
+    },
+    {
+      "comment": "a [retread_1]{retread}",
+      "entry": "remould",
+      "id": "remould_2#remould_2__1"
+    },
+    {
+      "comment": "an [old]{old} [tire_1]{tire} with a [new]{new} [outer_1]{outer} [layer_1]{layer} of [rubber]{rubber}",
+      "entry": "retread",
+      "id": "retread_2#retread_2__1"
+    },
+    {
+      "comment": "a [spare_1]{spare} [tire_1]{tire}",
+      "entry": "spare",
+      "id": "spare_3#spare_3__3"
+    },
+    {
+      "comment": "an [extra_1]{extra} [wheel_1]{wheel} with a [tire_1]{tire} on it that you keep in your [car]{car} to use if a [tire_1]{tire} [get]{gets} [damage_2]{damaged}",
+      "entry": "spare tire",
+      "id": "spare-tire#spare-tire__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [spare_1]{spare} [tire_1]{tire}",
+      "entry": "spare tyre",
+      "id": "spare-tyre#spare-tyre__1"
+    },
+    {
+      "comment": "one of several thin [metal_1]{metal} [bar_1]{bars} that [connect]{connect} the [center_1]{center} of a [wheel_1]{wheel} to the [outside]{outside} part",
+      "entry": "spoke",
+      "id": "spoke_1#spoke_1__1"
+    },
+    {
+      "comment": "a [spare_1]{spare} [tire_1]{tire} that is [carry_1]{carried} in a [vehicle]{vehicle}",
+      "entry": "Stepney",
+      "id": "stepney#stepney__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [metal_1]{metal} on a [tire_1]{tire} to [prevent]{prevent} [slip_1]{slipping} on [snow_1]{snow} and [ice_1]{ice}",
+      "entry": "stud",
+      "id": "stud_1#stud_1__6"
+    },
+    {
+      "comment": "the [rubber]{rubber} [cover_1]{cover} of a [wheel_1]{wheel}, that is [fill_1]{filled} with [air_1]{air}",
+      "entry": "tire",
+      "id": "tire_1#tire_1__1"
+    },
+    {
+      "comment": "the [pattern_1]{pattern} of [lines]{lines} on the bottom of a [shoe_1]{shoe}",
+      "entry": "tread",
+      "id": "tread_2#tread_2__1"
+    },
+    {
+      "comment": "the part of a [tire_1]{tire} that [touch_1]{touches} the [road]{road}",
+      "entry": "tread",
+      "id": "tread_2#tread_2__2"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [tire_1]{tire}",
+      "entry": "tyre",
+      "id": "tyre#tyre__1"
+    },
+    {
+      "comment": "a round [object_1]{object} that [turn_1]{turns} around and around to [make_1]{make} a [car]{car}, [bicycle]{bicycle}, or other [vehicle]{vehicle} move",
+      "entry": "wheels",
+      "id": "wheel_1#wheel_1__1"
+    },
+    {
+      "comment": "a [tire_1]{tire} with a [wide_1]{wide} [white_1]{white} [line_1]{line} [paint_1]{painted} on its side",
+      "entry": "whitewall",
+      "id": "whitewall#whitewall__1"
+    }
+  ],
+  "thesaurus": "Tires and wheels and their parts",
+  "type": "Related words"
+}

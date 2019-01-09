@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [race_1]{race} in which [people_1]{people} [run_1]{run} on [road]{roads} over a [distance_1]{distance} of 42 [kilometer]{kilometers} or about 26 [mile]{miles}",
+      "examples": [],
+      "id": "marathon__1"
+    },
+    {
+      "def": "an [activity]{activity} that [take_1]{takes} a long time to [complete_1]{complete} and [need_1]{needs} a [lot_1]{lot} of [energy]{energy} and [determination]{determination}",
+      "examples": [
+        "The [meeting]{meeting} [turn_1]{turned} out to be a [bit_1]{bit} of a marathon.",
+        "marathon [talk_1]{talks}/[negotiation]{negotiations}"
+      ],
+      "id": "marathon__2"
+    }
+  ],
+  "word": "marathon"
+}

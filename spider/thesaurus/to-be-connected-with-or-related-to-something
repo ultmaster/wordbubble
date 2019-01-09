@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if [people_1]{people}, [thing]{things}, or [event]{events} are [link_1]{linked}, they are [related_1]{related} to each other in some way",
+      "entry": "link",
+      "id": "link_1#link_1__1"
+    },
+    {
+      "comment": "to be [closely]{closely} [connected]{connected} with a [situation]{situation} or an [event]{event}",
+      "entry": "surround",
+      "id": "surround_1#surround_1__8"
+    },
+    {
+      "comment": "to be [connected]{connected} or [related_1]{related} to something",
+      "entry": "correspond",
+      "id": "correspond#correspond__8"
+    },
+    {
+      "comment": "to be [connected]{connected} with something or to [influence_1]{influence} it",
+      "entry": "bear on",
+      "id": "bear-on#bear-on__1"
+    },
+    {
+      "comment": "if [thing]{things} [interrelate]{interrelate} or are [interrelated]{interrelated}, they [affect_1]{affect} each other because they are [connected]{connected} in some way",
+      "entry": "interrelate",
+      "id": "interrelate#interrelate__1"
+    },
+    {
+      "comment": "to be [directly_1]{directly} [related_1]{related} to something",
+      "entry": "pertain to",
+      "id": "pertain#pertain__2"
+    },
+    {
+      "comment": "to be [connected]{connected} with someone or something",
+      "entry": "have (something/anything) to do with",
+      "id": "do-with#do-with__11"
+    },
+    {
+      "comment": "to be [connected]{connected} with something in some way",
+      "entry": "be associated with",
+      "id": "be-associated-with#be-associated-with__1"
+    },
+    {
+      "comment": "[people_1]{people} or [thing]{things} that are [bound_1]{bound} together are [connected]{connected} by [quality_1]{qualities} that they all [share_1]{share}",
+      "entry": "be bound up/together",
+      "id": "be-bound-up-together#be-bound-up-together__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [related_1]{related} to something else, [especially]{especially} when you do not [know_1]{know} or do not give the [exact_1]{exact} [detail_1]{details}",
+      "entry": "have something to do with something",
+      "id": "have-something-to-do-with-something#have-something-to-do-with-something__1"
+    }
+  ],
+  "thesaurus": "To be connected with or related to something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "pull out",
+  "senses": [
+    {
+      "def": "if a [train_1]{train} [pull_1]{pulls} out, it [leaves]{leaves} a [station_1]{station}",
+      "examples": [
+        "She [just_1]{just} [pull_1]{pulled} out in front of me without [use_1]{using} her [turn_1]{turn} [signal_1]{signal}!"
+      ],
+      "id": "pull-out__1"
+    },
+    {
+      "def": "to [stop_1]{stop} being [involved]{involved} in an [activity]{activity}, [event]{event}, or [situation]{situation}",
+      "examples": [
+        "The [firm_1]{firm} is [pull_1]{pulling} out of the [personal_1]{personal} computer [business]{business}."
+      ],
+      "id": "pull-out__4"
+    },
+    {
+      "def": "if [soldier_1]{soldiers} [pull_1]{pull} out of a [place_1]{place}, or if someone [pull_1]{pulls} them out, they [leave_1]{leave}",
+      "examples": [],
+      "id": "pull-out__6"
+    }
+  ]
+}

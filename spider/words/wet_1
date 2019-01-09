@@ -1,0 +1,38 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[covered_1]{covered} with [water_1]{water} or another [liquid_1]{liquid}",
+      "examples": [
+        "wet [hair]{hair}/[grass]{grass}/[clothes]{clothes}",
+        "You\u2019d [better_1]{better} come in or you\u2019ll get wet.",
+        "My [sock_1]{socks} and [shoe_1]{shoes} were [soaking]{soaking} wet.",
+        "Her [forehead]{forehead} was wet with [sweat_1]{sweat}.",
+        "The [baby_1]{baby} [need_1]{needs} a [dry_1]{dry} [diaper]{diaper}, this one\u2019s all wet."
+      ],
+      "id": "wet_1__1"
+    },
+    {
+      "def": "not yet [dry_1]{dry} or [solid_1]{solid}",
+      "examples": [
+        "wet [paint_1]{paint}/[ink_1]{ink}/[cement_1]{cement}"
+      ],
+      "id": "wet_1__7"
+    },
+    {
+      "def": "if the [weather_1]{weather} is wet, it is [rain_2]{raining}",
+      "examples": [
+        "We\u2019ve had a [lot_1]{lot} of [cold_1]{cold}, wet, and [windy]{windy} [weather_1]{weather} [recently]{recently}.",
+        "The [climate]{climate} in Seattle is too wet for me.",
+        "Don\u2019t [stand_1]{stand} out there in the wet."
+      ],
+      "id": "wet_1__9"
+    },
+    {
+      "def": "someone who is wet [does]{does} not have much [confidence]{confidence} or [determination]{determination}",
+      "examples": [],
+      "id": "wet_1__14"
+    }
+  ],
+  "word": "wet"
+}

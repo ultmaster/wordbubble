@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} in the same [range_1]{range} as an [alto]{alto} [sing_1]{singing} [voice_1]{voice}",
+      "entry": "alto",
+      "id": "alto#alto__3"
+    },
+    {
+      "comment": "musical instruments made of brass such as trumpets and trombones",
+      "entry": "the brass",
+      "id": "brass#brass__7"
+    },
+    {
+      "comment": "all the [brass]{brass} [instrument]{instruments} in an [orchestra]{orchestra}",
+      "entry": "the brass",
+      "id": "brass#brass__9"
+    },
+    {
+      "comment": "the [instrument]{instruments} [play_1]{played} by these [musician]{musicians}",
+      "entry": "consort",
+      "id": "consort_2#consort_2__3"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument}, for [example]{example} a [piano_1]{piano} or a [guitar]{guitar}",
+      "entry": "instrument",
+      "id": "instrument#instrument__5"
+    },
+    {
+      "comment": "an object such as a piano, guitar, or drum that you use for playing music. Musical instruments are often simply called instruments.",
+      "entry": "musical instrument",
+      "id": "musical-instrument#musical-instrument__1"
+    },
+    {
+      "comment": "musical instruments such as drums, cymbals, or rattles that you play by hitting or shaking them. Someone who plays a percussion instrument is called a percussionist.",
+      "entry": "percussion",
+      "id": "percussion#percussion__1"
+    },
+    {
+      "comment": "the instruments or musicians in a band that provide the rhythm, for example the drums and bass guitar",
+      "entry": "rhythm section",
+      "id": "rhythm-section#rhythm-section__1"
+    },
+    {
+      "comment": "one of a group of musical instruments that have strings, for example the guitar and the violin",
+      "entry": "stringed instrument",
+      "id": "stringed-instrument#stringed-instrument__1"
+    },
+    {
+      "comment": "the stringed instruments in an orchestra, or the people who play them",
+      "entry": "strings",
+      "id": "string_1#string_1__16"
+    },
+    {
+      "comment": "a [musical_1]{musical} [instrument]{instrument} that [play_1]{plays} a [middle_1]{middle} [range_1]{range} of [musical_1]{musical} [note_1]{notes}",
+      "entry": "tenor",
+      "id": "tenor#tenor__4"
+    },
+    {
+      "comment": "a musical instrument that you play by blowing through it. Clarinets, saxophones, and flutes are wind instruments.",
+      "entry": "wind instrument",
+      "id": "wind-instrument#wind-instrument__1"
+    },
+    {
+      "comment": "musical instruments mainly made of wood that you play by blowing into them. Woodwind instruments include the flute, clarinet, and bassoon.",
+      "entry": "woodwind",
+      "id": "woodwind#woodwind__1"
+    },
+    {
+      "comment": "[belong]{belonging} to this [type_1]{type} of [instrument]{instrument}, or [use_1]{using} a [musical_1]{musical} [instrument]{instrument} of this [type_1]{type}",
+      "entry": "woodwind",
+      "id": "woodwind#woodwind__2"
+    }
+  ],
+  "thesaurus": "Types of musical instruments",
+  "type": "Related words"
+}

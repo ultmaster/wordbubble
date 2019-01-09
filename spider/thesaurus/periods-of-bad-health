@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [particular_1]{particular} [disease]{disease}, or a [period_1]{period} of being [sick_1]{sick}",
+      "entry": "illness",
+      "id": "illness#illness__4"
+    },
+    {
+      "comment": "a [short_1]{short} [period_1]{period} when you are [sick_1]{sick} or you [feel_1]{feel} [unhappy]{unhappy}",
+      "entry": "bout",
+      "id": "bout#bout__1"
+    },
+    {
+      "comment": "the [beginning]{beginning} or [return_1]{return} of an [illness]{illness}, or the [period_1]{period} during which you have it",
+      "entry": "attack",
+      "id": "attack_1#attack_1__14"
+    },
+    {
+      "comment": "a time when you [suddenly]{suddenly} [feel_1]{feel} ill",
+      "entry": "spell",
+      "id": "spell_2#spell_2__6"
+    },
+    {
+      "comment": "a [period_1]{period} of [illness]{illness} after you had been [get]{getting} [better_1]{better}",
+      "entry": "relapse",
+      "id": "relapse_2#relapse_2__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [disease]{disease} [suddenly]{suddenly} [return_1]{returns} after you have not had it for some time",
+      "entry": "flare-up",
+      "id": "flare-up_2#flare-up_2__3"
+    },
+    {
+      "comment": "a time when someone is [affected]{affected} by an [illness]{illness} or a [medical_1]{medical} [condition_1]{condition}",
+      "entry": "episode",
+      "id": "episode#episode__5"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [appearance]{appearance} of a [disease]{disease}",
+      "entry": "breakout",
+      "id": "breakout_1#breakout_1__5"
+    },
+    {
+      "comment": "a sudden attack of a disease such as epilepsy that makes your body shake",
+      "entry": "seizure",
+      "id": "seizure#seizure__4"
+    }
+  ],
+  "thesaurus": "Periods of bad health",
+  "type": "Synonyms"
+}

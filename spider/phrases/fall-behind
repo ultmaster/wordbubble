@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "fall behind",
+  "senses": [
+    {
+      "def": "to [make_1]{make} less [progress_1]{progress} or be less [successful]{successful} than other [people_1]{people} who are [doing]{doing} a [similar]{similar} [job_1]{job} or [activity]{activity}",
+      "examples": [
+        "My [daughter_1]{daughter} is [fall_1]{falling} behind with her [school_1]{school} [work_1]{work}."
+      ],
+      "id": "fall-behind__1"
+    },
+    {
+      "def": "to [fail_1]{fail} to do something or [pay_1]{pay} something at the time that you should",
+      "examples": [
+        "We [start_1]{started} to [fall_1]{fall} behind with the [rent_1]{rent}."
+      ],
+      "id": "fall-behind__3"
+    },
+    {
+      "def": "to move more [slowly]{slowly} than other [people_1]{people} so that you are behind them",
+      "examples": [
+        "After five [mile]{miles} [ta-ra]{Tara} was [tired]{tired} and [start_1]{started} to [fall_1]{fall} behind.",
+        "On the [hill]{hill} he [fell_1]{fell} behind the other [runners]{runners}."
+      ],
+      "id": "fall-behind__5"
+    }
+  ]
+}

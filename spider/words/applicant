@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [apply]{applies} for something, such as a [job_1]{job} or a [loan_1]{loan} of [money]{money}",
+      "examples": [
+        "[successful]{Successful} [applicant]{applicants} will be [notify]{notified} by [telephone_1]{telephone}.",
+        "[job_1]{job} [applicant]{applicants}"
+      ],
+      "id": "applicant__1"
+    },
+    {
+      "def": "the [person]{person} in a [court_1]{court} [case_1]{case} who [make_1]{makes} an [application]{application} to the [court_1]{court} for something",
+      "examples": [
+        "The applicant must [file_1]{file} these [document_1]{documents} with the [court_1]{court} within 45 [day]{days}."
+      ],
+      "id": "applicant__4"
+    }
+  ],
+  "word": "applicant"
+}

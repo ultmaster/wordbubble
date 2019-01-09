@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [wanting]{wanting} to [eat]{eat} any more because you have [eaten]{eaten} a [lot_1]{lot}",
+      "entry": "full",
+      "id": "full#full__19"
+    },
+    {
+      "comment": "[eat]{eating} or [drinking]{drinking} much more than you [need_1]{need}",
+      "entry": "gluttonous",
+      "id": "gluttonous#gluttonous__1"
+    },
+    {
+      "comment": "[wanting]{wanting} to [eat]{eat} or [drink_1]{drink} more [food]{food} than you [need_1]{need}",
+      "entry": "greedy",
+      "id": "greedy#greedy__1"
+    },
+    {
+      "comment": "a [light_1]{light} [eater]{eater} is someone who [does]{does} not [eat]{eat} much [food]{food}",
+      "entry": "light",
+      "id": "light_2#light_2__20"
+    },
+    {
+      "comment": "someone who is [piggy_1]{piggy} [eats]{eats} too much",
+      "entry": "piggy",
+      "id": "piggy_2#piggy_2__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} that you do not [want_1]{want} anything more to [eat]{eat} or [drink_1]{drink}",
+      "entry": "replete",
+      "id": "replete#replete__3"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone has [taken_1]{taken} more [food]{food} than they can [eat]{eat}",
+      "entry": "someone\u2019s eyes are bigger than their stomach",
+      "id": "someone-s-eyes-are-bigger-than-their-stomach#someone-s-eyes-are-bigger-than-their-stomach__1"
+    },
+    {
+      "comment": "someone who is [stuffed]{stuffed} has [eaten]{eaten} until they [feel_1]{feel} full or [sick_1]{sick}",
+      "entry": "stuffed",
+      "id": "stuffed#stuffed__1"
+    },
+    {
+      "comment": "so [strong]{strong} that it cannot be [satisfied]{satisfied}",
+      "entry": "unquenchable",
+      "id": "unquenchable#unquenchable__1"
+    },
+    {
+      "comment": "a [voracious]{voracious} [person]{person} or [animal_1]{animal} [eats]{eats} a [large_1]{large} amount of [food]{food}",
+      "entry": "voracious",
+      "id": "voracious#voracious__1"
+    }
+  ],
+  "thesaurus": "Words used to describe someone's appetite",
+  "type": "Related words"
+}

@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [light_1]{light} [dim_2]{dims}, or if someone [dim_2]{dims} it, it becomes less [bright_1]{bright}",
+      "examples": [
+        "The [theater]{theater} [light_1]{lights} [dim_2]{dimmed} and the show [began]{began}."
+      ],
+      "id": "dim_2__1"
+    },
+    {
+      "def": "if [feeling_1]{feelings} or [hope_1]{hopes} dim, or are [dim_2]{dimmed}, they become [weak]{weaker}",
+      "examples": [],
+      "id": "dim_2__3"
+    },
+    {
+      "def": "if your [eye_1]{eyes} dim, or if something [dim_2]{dims} them, you become less [able_1]{able} to see [clearly]{clearly}",
+      "examples": [],
+      "id": "dim_2__4"
+    }
+  ],
+  "word": "dim"
+}

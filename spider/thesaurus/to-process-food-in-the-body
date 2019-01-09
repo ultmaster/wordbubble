@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "when your [stomach_1]{stomach} [digest_1]{digests} [food]{food}, it [change_1]{changes} it into the [substance]{substances} that your body [need_1]{needs}",
+      "entry": "digest",
+      "id": "digest_1#digest_1__1"
+    },
+    {
+      "comment": "to take in and use food or other nutrients",
+      "entry": "assimilate",
+      "id": "assimilate#assimilate__5"
+    },
+    {
+      "comment": "if [food]{food} or [drink_1]{drink} [go_1]{goes} down, you [swallow_1]{swallow} it",
+      "entry": "go down",
+      "id": "go-down#go-down__22"
+    },
+    {
+      "comment": "to use [fat_1]{fat} or [energy]{energy} in your body",
+      "entry": "burn",
+      "id": "burn_1#burn_1__25"
+    },
+    {
+      "comment": "when [food]{food} or [drink_1]{drink} [go_1]{goes} down, it [go_1]{goes} from your [mouth_1]{mouth} to your [stomach_1]{stomach}",
+      "entry": "down",
+      "id": "down_1#down_1__65"
+    },
+    {
+      "comment": "to take in a [gas_1]{gas}, [liquid_1]{liquid}, or other [substance]{substance}",
+      "entry": "absorb",
+      "id": "absorb#absorb__1"
+    },
+    {
+      "comment": "if [food]{food} that you have [eaten]{eaten} [stay_1]{stays} down, it [stay_1]{stays} in your [stomach_1]{stomach} and you are not [sick_1]{sick}",
+      "entry": "stay down",
+      "id": "stay-down#stay-down__3"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [metabolize]{metabolize}",
+      "entry": "metabolise",
+      "id": "metabolise#metabolise__1"
+    },
+    {
+      "comment": "if your body [metabolize]{metabolizes} [food]{food}, [oxygen]{oxygen}, etc., it [change_1]{changes} it into a form that can be [used]{used} as [energy]{energy}",
+      "entry": "metabolize",
+      "id": "metabolize#metabolize__1"
+    }
+  ],
+  "thesaurus": "To process food in the body",
+  "type": "Synonyms"
+}

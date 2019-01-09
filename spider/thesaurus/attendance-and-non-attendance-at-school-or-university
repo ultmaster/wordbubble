@@ -1,0 +1,256 @@
+{
+  "entries": [
+    {
+      "comment": "a [period_1]{period} of time when someone is not at [work_1]{work} or at [school_1]{school} when they should be",
+      "entry": "absence",
+      "id": "absence#absence__4"
+    },
+    {
+      "comment": "the [habit]{habit} of not being at [school_1]{school} or [work_1]{work} when you should be, [usually]{usually} without a [good_1]{good} [reason_1]{reason}",
+      "entry": "absenteeism",
+      "id": "absenteeism#absenteeism__1"
+    },
+    {
+      "comment": "to go [regularly]{regularly} to a [place_1]{place}, for [example]{example} to a [school_1]{school} as a [student]{student} or to a [church]{church} as a [member]{member}",
+      "entry": "attend",
+      "id": "attend#attend__4"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} who are [present_1]{present} at an [event]{event} or in a [place_1]{place} such as a [school_1]{school} or [church]{church}",
+      "entry": "attendance",
+      "id": "attendance#attendance__1"
+    },
+    {
+      "comment": "the [fact]{fact} of being [present_1]{present} at an [event]{event} or of [going_1]{going} [regularly]{regularly} to [school_1]{school}, [church]{church}, etc.",
+      "entry": "attendance",
+      "id": "attendance#attendance__4"
+    },
+    {
+      "comment": "to go regularly to class for a college course without asking for or receiving credit for taking the course",
+      "entry": "audit",
+      "id": "audit_2#audit_2__5"
+    },
+    {
+      "comment": "to [live_1]{live} with other [student]{students} at [school_1]{school} or [college]{college} during the part of the [year]{year} that you go to [class_1]{classes}",
+      "entry": "board",
+      "id": "board_2#board_2__8"
+    },
+    {
+      "comment": "to not go to class/school when you should be there",
+      "entry": "cut class/school",
+      "id": "cut-class-school#cut-class-school__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} something such as an [activity]{activity}, [school_1]{school}, or [competition]{competition} before you have [finished]{finished} what you [intended_1]{intended} to do",
+      "entry": "drop out",
+      "id": "drop-out#drop-out__1"
+    },
+    {
+      "comment": "to put your name on the [official_1]{official} [list_1]{list} of [student]{students} who go to a [particular_1]{particular} [school_1]{school}, [university]{university}, [course_1]{course}, etc., or put another [person]{person}\u2019s name on the [list_1]{list} for them",
+      "entry": "enroll",
+      "id": "enroll#enroll__1"
+    },
+    {
+      "comment": "when someone is [officially]{officially} put on the [list_1]{list} of [student]{students} who go to a [school_1]{school}, [college]{college}, or [university]{university}",
+      "entry": "enrollment",
+      "id": "enrollment#enrollment__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} who are [take_1]{taking} a [course_1]{course} or [course_1]{courses} at a [school_1]{school} or [university]{university}",
+      "entry": "enrollment",
+      "id": "enrollment#enrollment__3"
+    },
+    {
+      "comment": "the [right_1]{right} to [join_1]{join} a [group_1]{group} or [organization]{organization}, for [example]{example} a [university]{university} or a [profession]{profession}",
+      "entry": "entrance",
+      "id": "entrance_1#entrance_1__10"
+    },
+    {
+      "comment": "someone who [join_1]{joins} a [profession]{profession}, [university]{university}, or [school_1]{school}",
+      "entry": "entrant",
+      "id": "entrant#entrant__2"
+    },
+    {
+      "comment": "to [expel]{expel} or [suspend]{suspend} a [child]{child} from [school_1]{school}",
+      "entry": "exclude",
+      "id": "exclude#exclude__9"
+    },
+    {
+      "comment": "a [child]{child}\u2019s [expulsion]{expulsion} or [suspension]{suspension} from [school_1]{school}",
+      "entry": "exclusion",
+      "id": "exclusion#exclusion__6"
+    },
+    {
+      "comment": "a [note_1]{note} [written_1]{written} by your [parent]{parent} or your [doctor_1]{doctor} that [explain]{explains} why you have [miss_1]{missed} [work_1]{work} or [school_1]{school}",
+      "entry": "excuse",
+      "id": "excuse_2#excuse_2__9"
+    },
+    {
+      "comment": "to [force_1]{force} a [student]{student} to [leave_1]{leave} a [school_1]{school} [permanently]{permanently}",
+      "entry": "expel",
+      "id": "expel#expel__4"
+    },
+    {
+      "comment": "an occasion when someone is officially forced to leave a school or college permanently. The usual British word is exclusion",
+      "entry": "expulsion",
+      "id": "expulsion#expulsion__4"
+    },
+    {
+      "comment": "to have to [leave_1]{leave} a [school_1]{school} because your [work_1]{work} is not [satisfactory]{satisfactory}",
+      "entry": "flunk out",
+      "id": "flunk-out#flunk-out__1"
+    },
+    {
+      "comment": "to be [accepted]{accepted} to [study_1]{study} at a [school_1]{school} or [chosen_1]{chosen} to [play_1]{play} for a [team_1]{team}, etc.",
+      "entry": "get in",
+      "id": "get-in#get-in__7"
+    },
+    {
+      "comment": "to be [accepted]{accepted} to [study_1]{study} at a [school_1]{school} or [chosen_1]{chosen} to [play_1]{play} for a [team_1]{team}, etc.",
+      "entry": "get into",
+      "id": "get-into#get-into__9"
+    },
+    {
+      "comment": "to be [told]{told} to [leave_1]{leave} your [job_1]{job} or your [school_1]{school}",
+      "entry": "get the boot",
+      "id": "get-the-boot#get-the-boot__1"
+    },
+    {
+      "comment": "when [school_1]{schools} or [student]{students} go back, [class_1]{classes} [begin]{begin} again after a long [holiday_1]{holiday}",
+      "entry": "go back",
+      "id": "go-back#go-back__13"
+    },
+    {
+      "comment": "to leave a university, especially Oxford or Cambridge, at the end of a term  (=period of study) or a course of study",
+      "entry": "go down",
+      "id": "go-down#go-down__34"
+    },
+    {
+      "comment": "to go to a university, especially Oxford or Cambridge, at the beginning of a term  (=period of study) or a course of study",
+      "entry": "go up",
+      "id": "go-up#go-up__21"
+    },
+    {
+      "comment": "to complete your studies at a school such as a high school, college, or university and get a diploma or a degree",
+      "entry": "graduate",
+      "id": "graduate_2#graduate_2__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you are [present_1]{present} in [class_1]{class} when the [teacher]{teacher} [call_1]{calls} the [name_1]{names} of all the [student]{students} in the [class_1]{class}",
+      "entry": "here",
+      "id": "here#here__48"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} [accepted]{accepted} by an [institution]{institution} such as a [school_1]{school}, [university]{university}, or [company]{company} at one time",
+      "entry": "intake",
+      "id": "intake#intake__8"
+    },
+    {
+      "comment": "to [stop_1]{stop} [working]{working} for an [organization]{organization} or [going_1]{going} to [school_1]{school} or [college]{college}",
+      "entry": "leave",
+      "id": "leave_1#leave_1__18"
+    },
+    {
+      "comment": "to [officially]{officially} become a [student]{student} at a [university]{university}",
+      "entry": "matriculate",
+      "id": "matriculate#matriculate__1"
+    },
+    {
+      "comment": "[repeated]{repeated} [failure]{failure} to be [present_1]{present} at a [place_1]{place}, for [example]{example} a [meeting]{meeting}, [class_1]{class}, etc. that you are [expected]{expected} to go to",
+      "entry": "nonattendance",
+      "id": "nonattendance#nonattendance__1"
+    },
+    {
+      "comment": "not at [work_1]{work}, for [example]{example} because you are not well or because it is not a [normal_1]{normal} [working]{working} [day]{day}",
+      "entry": "off",
+      "id": "off_1#off_1__35"
+    },
+    {
+      "comment": "to [officially]{officially} [complete_1]{complete} a [course_1]{course} at a [military]{military} or a [police_1]{police} [college]{college}",
+      "entry": "pass out",
+      "id": "pass-out#pass-out__5"
+    },
+    {
+      "comment": "[used]{used} when you do not go to [work_1]{work}",
+      "entry": "play hooky",
+      "id": "hooky#hooky__3"
+    },
+    {
+      "comment": "if a [student]{student} [play_1]{plays} [hooky]{hooky}, they do not go to [school_1]{school} on a [day]{day} when they are [expected]{expected} to",
+      "entry": "play hooky",
+      "id": "hooky#hooky__2"
+    },
+    {
+      "comment": "to [stay_1]{stay} [away_1]{away} from [school_1]{school} without [permission]{permission}",
+      "entry": "play truant",
+      "id": "play-truant#play-truant__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [job_1]{job} or [school_1]{school} [permanently]{permanently}",
+      "entry": "quit",
+      "id": "quit#quit__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} the [arrangement]{arrangements} to take [class_1]{classes} at a [particular_1]{particular} [school_1]{school} or [university]{university}",
+      "entry": "registration",
+      "id": "registration#registration__4"
+    },
+    {
+      "comment": "someone who has [just_1]{just} [left_1]{left} [school_1]{school} and is [look_1]{looking} for a [job_1]{job}",
+      "entry": "school-leaver",
+      "id": "school-leaver#school-leaver__1"
+    },
+    {
+      "comment": "[fear_1]{fear} of [going_1]{going} to [school_1]{school}",
+      "entry": "school refusal",
+      "id": "school-refusal#school-refusal__1"
+    },
+    {
+      "comment": "to not be at [work_1]{work} or [school_1]{school} when you should be there",
+      "entry": "skive",
+      "id": "skive#skive__1"
+    },
+    {
+      "comment": "to [avoid]{avoid} [going_1]{going} to [school_1]{school} or [work_1]{work} when you should go",
+      "entry": "skive off",
+      "id": "skive-off#skive-off__1"
+    },
+    {
+      "comment": "to not go to [work_1]{work} or [school_1]{school} because you are [sick_1]{sick}",
+      "entry": "stay off",
+      "id": "stay-off#stay-off__3"
+    },
+    {
+      "comment": "to [officially]{officially} [stop_1]{stop} someone from [doing]{doing} their [job_1]{job} or from [going_1]{going} to [school_1]{school} for a [limited]{limited} time because they have done something [wrong_1]{wrong}",
+      "entry": "suspend",
+      "id": "suspend#suspend__1"
+    },
+    {
+      "comment": "a [punishment]{punishment} in which someone is [removed]{removed} from a [team_1]{team}, [job_1]{job}, or [school_1]{school} for a [short_1]{short} time",
+      "entry": "suspension",
+      "id": "suspension#suspension__4"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you are [late_1]{late} for a [class_1]{class}, or a [record_1]{record} that a [teacher]{teacher} [keep_1]{keeps} of this",
+      "entry": "tardy",
+      "id": "tardy_2#tardy_2__1"
+    },
+    {
+      "comment": "time when you are not at [work_1]{work} or in [school_1]{school}",
+      "entry": "time off",
+      "id": "time-off#time-off__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [study_2]{studying} at one [school_1]{school} or [university]{university} and go to another",
+      "entry": "transfer",
+      "id": "transfer_1#transfer_1__4"
+    },
+    {
+      "comment": "the [act_1]{act} or [habit]{habit} of [stay_1]{staying} [away_1]{away} from [school_1]{school} without [permission]{permission}",
+      "entry": "truancy",
+      "id": "truancy#truancy__1"
+    }
+  ],
+  "thesaurus": "Attendance and non-attendance at school or university",
+  "type": "Related words"
+}

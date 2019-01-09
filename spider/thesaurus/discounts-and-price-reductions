@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [reduction]{reduction} in the [price_1]{price} of something",
+      "entry": "discount",
+      "id": "discount_1#discount_1__1"
+    },
+    {
+      "comment": "the amount by which the [price_1]{price} of something is [reduce]{reduced}",
+      "entry": "reduction",
+      "id": "reduction#reduction__5"
+    },
+    {
+      "comment": "a low [price_1]{price} that a [store_1]{store} [offer_1]{offers} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "special offer",
+      "id": "special-offer#special-offer__1"
+    },
+    {
+      "comment": "a reduction in the price of something that is offered if you pay the full amount immediately in cash",
+      "entry": "cash discount",
+      "id": "cash-discount#cash-discount__1"
+    },
+    {
+      "comment": "a [reduction]{reduction} in the [price_1]{price} of something for some [group_1]{groups} of [people_1]{people} such as [student]{students}",
+      "entry": "concession",
+      "id": "concession#concession__15"
+    },
+    {
+      "comment": "being [sold]{sold} for a [lower_1]{lower} [price_1]{price} for a [short_1]{short} time",
+      "entry": "on offer",
+      "id": "on-offer#on-offer__2"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that a [price_1]{price} has been [reduce]{reduced} by a [particular_1]{particular} amount",
+      "entry": "off",
+      "id": "off_1#off_1__52"
+    },
+    {
+      "comment": "a [special_1]{special} [offer_1]{offer} or [arrangement]{arrangement} by which you [pay_1]{pay} for one thing and get another one [free_1]{free}",
+      "entry": "twofer",
+      "id": "twofer#twofer__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [reduction]{reduction} in [price_1]{prices}, [profit_1]{profits}, etc.",
+      "entry": "nosedive",
+      "id": "nosedive_1#nosedive_1__1"
+    },
+    {
+      "comment": "available for people to buy at a price that is less than the usual price. The British expression is on offer",
+      "entry": "on sale",
+      "id": "on-sale#on-sale__3"
+    }
+  ],
+  "thesaurus": "Discounts and price reductions",
+  "type": "Synonyms"
+}

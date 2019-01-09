@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "something that [look_1]{looks} very [small_1]{small} because it is [far]{far} [away_1]{away}",
+      "entry": "dot",
+      "id": "dot_1#dot_1__3"
+    },
+    {
+      "comment": "a very [small_1]{small} [example]{example} or [model_1]{model} of something that is [usually]{usually} much [large_1]{larger}",
+      "entry": "miniature",
+      "id": "miniature_2#miniature_2__1"
+    },
+    {
+      "comment": "something [small_1]{small} that [contain]{contains} or [represent]{represents} all the [feature_1]{features} or [quality_1]{qualities} of something [large_1]{larger}",
+      "entry": "microcosm",
+      "id": "microcosm#microcosm__1"
+    },
+    {
+      "comment": "[used]{used} with some [noun_1]{nouns} to [make_1]{make} [noun_1]{nouns} [describe]{describing} something [small_1]{small}",
+      "entry": "-ette",
+      "id": "ette#ette__1"
+    },
+    {
+      "comment": "[used]{used} with some [noun_1]{nouns} to [make_1]{make} [noun_1]{nouns} [meaning_1]{meaning} something [small_1]{small}",
+      "entry": "-let",
+      "id": "let_3#let_3__1"
+    }
+  ],
+  "thesaurus": "Something that is small in size",
+  "type": "Synonyms"
+}

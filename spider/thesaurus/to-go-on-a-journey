@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to move or [travel_1]{travel} to a [place_1]{place} that is [away_1]{away} from where you are now",
+      "entry": "go",
+      "id": "go_1#go_1__1"
+    },
+    {
+      "comment": "to go from one [place_1]{place} to another, [especially]{especially} in a [vehicle]{vehicle}",
+      "entry": "travel",
+      "id": "travel_1#travel_1__7"
+    },
+    {
+      "comment": "to move or [travel_1]{travel} to the [place_1]{place} where you are",
+      "entry": "come",
+      "id": "come_1#come_1__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} to a [place_1]{place} in [order_1]{order} to [learn]{learn} about it or to [search_1]{search} for something [valuable]{valuable} such as [oil_1]{oil}",
+      "entry": "explore",
+      "id": "explore#explore__1"
+    },
+    {
+      "comment": "to go or [travel_1]{travel} to [different]{different} [place_1]{places}",
+      "entry": "get around",
+      "id": "get-around#get-around__1"
+    },
+    {
+      "comment": "to move or [travel_1]{travel} with no [particular_1]{particular} [purpose]{purpose}",
+      "entry": "roam",
+      "id": "roam#roam__1"
+    },
+    {
+      "comment": "to [travel_1]{travel} to many [different]{different} [country]{countries}",
+      "entry": "see the world",
+      "id": "see-the-world#see-the-world__1"
+    },
+    {
+      "comment": "to [spend]{spend} time [traveling]{traveling} around a [place_1]{place} without [have]{having} any [particular_1]{particular} [plan_1]{plans} about where you will go next",
+      "entry": "bum around",
+      "id": "bum-around#bum-around__3"
+    },
+    {
+      "comment": "to [travel_1]{travel} from [island]{island} to [island]{island} within the same [group_1]{group} of [island]{islands}, [especially]{especially} as part of a [vacation_1]{vacation}",
+      "entry": "island-hop",
+      "id": "island-hop#island-hop__1"
+    },
+    {
+      "comment": "to [visit_1]{visit} a [famous_1]{famous} [place_1]{place} as a [tourist]{tourist}",
+      "entry": "do",
+      "id": "do_1#do_1__85"
+    }
+  ],
+  "thesaurus": "To go on a journey",
+  "type": "Synonyms"
+}

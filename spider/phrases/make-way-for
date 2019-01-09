@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make way (for)",
+  "senses": [
+    {
+      "def": "to move [away_1]{away} so that someone or something can get [past_1]{past} you",
+      "examples": [
+        "We were [ask_1]{asked} to [make_1]{make} way for the [bride]{bride} and [groom_1]{groom}."
+      ],
+      "id": "make-way-for__1"
+    },
+    {
+      "def": "to be [replace]{replaced} by someone or something",
+      "examples": [
+        "Most of the [old]{old} [building]{buildings} have made way for [hotel]{hotels} and [office]{offices}."
+      ],
+      "id": "make-way-for__3"
+    }
+  ]
+}

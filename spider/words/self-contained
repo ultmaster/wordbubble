@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[complete_1]{complete} and [able_1]{able} to [work_1]{work} without the [help_1]{help} of anything else",
+      "examples": [
+        "The [device]{device} is self-contained, with an [internal]{internal} [battery]{battery}."
+      ],
+      "id": "self-contained__1"
+    },
+    {
+      "def": "not [need_1]{needing} the [help_1]{help} or [friendship]{friendship} of other [people_1]{people}",
+      "examples": [],
+      "id": "self-contained__3"
+    },
+    {
+      "def": "a self-[contain]{contained} [apartment]{apartment} is part of a [large_1]{larger} [house_1]{house} but has its own [kitchen]{kitchen} and [bathroom]{bathroom}",
+      "examples": [],
+      "id": "self-contained__4"
+    }
+  ],
+  "word": "self-contained"
+}

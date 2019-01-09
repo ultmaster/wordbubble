@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [moving]{moving}",
+      "entry": "still",
+      "id": "still_2#still_2__1"
+    },
+    {
+      "comment": "if something is [static_1]{static}, it [does]{does} not move or [change_1]{change}",
+      "entry": "static",
+      "id": "static_2#static_2__1"
+    },
+    {
+      "comment": "not [moving]{moving}",
+      "entry": "stationary",
+      "id": "stationary#stationary__1"
+    },
+    {
+      "comment": "not [moving]{moving} at all",
+      "entry": "motionless",
+      "id": "motionless#motionless__1"
+    },
+    {
+      "comment": "not [moving]{moving}",
+      "entry": "immobile",
+      "id": "immobile#immobile__1"
+    },
+    {
+      "comment": "not [moving]{moving}",
+      "entry": "inert",
+      "id": "inert#inert__4"
+    },
+    {
+      "comment": "not [moving]{moving} to [different]{different} [area]{areas}",
+      "entry": "sedentary",
+      "id": "sedentary#sedentary__4"
+    },
+    {
+      "comment": "not [touched]{touched} or [move_1]{moved} by anyone",
+      "entry": "undisturbed",
+      "id": "undisturbed#undisturbed__1"
+    },
+    {
+      "comment": "if something that should move [easily]{easily} is [stiff_1]{stiff}, it [does]{does} not move or [operate]{operate} as [easily]{easily} as you [expect]{expect}",
+      "entry": "stiff",
+      "id": "stiff_1#stiff_1__9"
+    },
+    {
+      "comment": "not [moving]{moving}",
+      "entry": "at rest",
+      "id": "at-rest#at-rest__1"
+    }
+  ],
+  "thesaurus": "Not moving",
+  "type": "Synonyms"
+}

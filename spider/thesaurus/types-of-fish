@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a [fish_1]{fish} or [animal_1]{animal} that [lives]{lives} and [eats]{eats} at the bottom of a [lake]{lake}, [river]{river}, the [ocean]{ocean}, etc.",
+      "entry": "bottom feeder",
+      "id": "bottom-feeder#bottom-feeder__3"
+    },
+    {
+      "comment": "an animal that lives in water and swims. It breathes by using its gills and moves by using its tail and fins. Saltwater fish live in the ocean and freshwater fish live in rivers and lakes",
+      "entry": "fish",
+      "id": "fish_1#fish_1__1"
+    },
+    {
+      "comment": "a type of ocean fish with a thin flat body. Sole and plaice are types of flatfish.",
+      "entry": "flatfish",
+      "id": "flatfish#flatfish__1"
+    },
+    {
+      "comment": "very [small_1]{small} [young_1]{young} [fish_1]{fish}",
+      "entry": "fry",
+      "id": "fry_2#fry_2__1"
+    },
+    {
+      "comment": "[pelagic]{pelagic} [fish_1]{fish} [live_1]{live} [near_1]{near} the [surface_1]{surface} of the [ocean]{ocean}",
+      "entry": "pelagic",
+      "id": "pelagic#pelagic__2"
+    }
+  ],
+  "thesaurus": "Types of fish",
+  "type": "Related words"
+}

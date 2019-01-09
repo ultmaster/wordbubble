@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [period_1]{period} of time when someone who has [recently]{recently} [obtain]{obtained} a [degree]{degree} as a [doctor_1]{doctor} [continue]{continues} their [training]{training} by [working]{working} in a [hospital]{hospital}",
+      "examples": [],
+      "id": "internship__1"
+    },
+    {
+      "def": "a [temporary]{temporary} [job_1]{job} that a [student]{student} or [recent]{recent} [graduate_1]{graduate} [take_1]{takes} in [order_1]{order} to get [experience_1]{experience} in the [area]{area} they [want_1]{want} to [work_1]{work} in",
+      "examples": [
+        "a [paid_1]{paid}/[unpaid]{unpaid} internship"
+      ],
+      "id": "internship__2"
+    }
+  ],
+  "word": "internship"
+}

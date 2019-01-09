@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if you are alone, there is no one else with you",
+      "entry": "alone",
+      "id": "alone#alone__2"
+    },
+    {
+      "comment": "alone",
+      "entry": "lone",
+      "id": "lone#lone__1"
+    },
+    {
+      "comment": "alone",
+      "entry": "solo",
+      "id": "solo_3#solo_3__1"
+    },
+    {
+      "comment": "in a [place_1]{place} or [situation]{situation} where there are no other [people_1]{people}",
+      "entry": "solitary",
+      "id": "solitary_1#solitary_1__3"
+    },
+    {
+      "comment": "someone who is [unaccompanied]{unaccompanied} [go_1]{goes} somewhere alone",
+      "entry": "unaccompanied",
+      "id": "unaccompanied#unaccompanied__1"
+    },
+    {
+      "comment": "alone",
+      "entry": "(all) on your own",
+      "id": "all-on-your-own#all-on-your-own__1"
+    },
+    {
+      "comment": "alone",
+      "entry": "(all) by yourself",
+      "id": "all-by-yourself#all-by-yourself__3"
+    },
+    {
+      "comment": "in a [place_1]{place} [away_1]{away} from other [people_1]{people}, [animal_1]{animals}, or [thing]{things}",
+      "entry": "in isolation",
+      "id": "in-isolation#in-isolation__3"
+    },
+    {
+      "comment": "a [home_1]{home} alone [situation]{situation} is one in which a [child]{child} is [left_1]{left} alone in a [house_1]{house} without an [adult_1]{adult}",
+      "entry": "home alone",
+      "id": "home-alone#home-alone__1"
+    },
+    {
+      "comment": "[kept]{kept} [away_1]{away} from the [noise]{noise}, [activity]{activity}, or [unpleasant]{unpleasant} [responsibility]{responsibilities} of [ordinary]{ordinary} [life]{life}",
+      "entry": "cloistered",
+      "id": "cloistered#cloistered__1"
+    }
+  ],
+  "thesaurus": "Alone",
+  "type": "Synonyms"
+}

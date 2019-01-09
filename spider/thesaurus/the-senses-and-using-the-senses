@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "used for describing the senses and abilities of someone who notices things very quickly and easily",
+      "entry": "acute",
+      "id": "acute#acute__6"
+    },
+    {
+      "comment": "if a [noise]{noise}, [smell_1]{smell}, or [sight_1]{sight} [assail]{assails} you, you [notice_1]{notice} it [immediately]{immediately} because it is very [unpleasant]{unpleasant} or [offensive_1]{offensive}",
+      "entry": "assail",
+      "id": "assail#assail__4"
+    },
+    {
+      "comment": "if a [noise]{noise}, [smell_1]{smell}, or [sight_1]{sight} [assault_1]{assaults} you, you [notice_1]{notice} it [immediately]{immediately} because it is very [unpleasant]{unpleasant} or [offensive_1]{offensive}",
+      "entry": "assault",
+      "id": "assault_2#assault_2__3"
+    },
+    {
+      "comment": "to be [able_1]{able} to [hear]{hear}, see, [smell_1]{smell}, or [taste_1]{taste} something [clearly]{clearly}",
+      "entry": "distinguish",
+      "id": "distinguish#distinguish__7"
+    },
+    {
+      "comment": "[keen_1]{keen} [sight_1]{sight}, [hearing]{hearing}, etc. [make_1]{makes} you very [good_1]{good} at [seeing]{seeing} [thing]{things}, [hearing]{hearing} [thing]{things}, etc.",
+      "entry": "keen",
+      "id": "keen_1#keen_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to the use of [sense_1]{sense} [organ]{organs} in your [muscle_1]{muscles} and other body [part_1]{parts} to [feel_1]{feel} the [position_1]{position} and [movement]{movements} of your body",
+      "entry": "kinesthetic",
+      "id": "kinesthetic#kinesthetic__1"
+    },
+    {
+      "comment": "to notice something using your senses  (=your ability to see, hear, smell, etc.)",
+      "entry": "perceive",
+      "id": "perceive#perceive__9"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [notice_1]{notice} something by [seeing]{seeing}, [hearing]{hearing}, [smell_2]{smelling}, etc.",
+      "entry": "perception",
+      "id": "perception#perception__4"
+    },
+    {
+      "comment": "a [physical_1]{physical} [feeling_1]{feeling}",
+      "entry": "sensation",
+      "id": "sensation#sensation__1"
+    },
+    {
+      "comment": "one of the natural abilities that most people have to see, hear, smell, taste, and feel things, known as the five senses",
+      "entry": "sense",
+      "id": "sense_1#sense_1__8"
+    },
+    {
+      "comment": "to [know_1]{know} about something through a [natural_1]{natural} [ability_1]{ability} or [feeling_1]{feeling}, without being [told]{told}",
+      "entry": "sense",
+      "id": "sense_2#sense_2__1"
+    },
+    {
+      "comment": "a part of your body that you use to see, [hear]{hear}, [smell_1]{smell}, [taste_1]{taste}, or [feel_1]{feel} something",
+      "entry": "sense organ",
+      "id": "sense-organ#sense-organ__1"
+    },
+    {
+      "comment": "relating to the senses of sight, hearing, smell, taste, and touch",
+      "entry": "sensory",
+      "id": "sensory#sensory__1"
+    },
+    {
+      "comment": "relating to or affecting your physical senses instead of your emotions or thoughts",
+      "entry": "sensuous",
+      "id": "sensuous#sensuous__3"
+    },
+    {
+      "comment": "capable of feeling things through physical senses",
+      "entry": "sentient",
+      "id": "sentient#sentient__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [notice_1]{notice} or [recognize]{recognize} [smell_1]{smells}",
+      "entry": "smell",
+      "id": "smell_1#smell_1__8"
+    },
+    {
+      "comment": "an [instance_1]{instance} of [smell_2]{smelling} something",
+      "entry": "smell",
+      "id": "smell_1#smell_1__11"
+    },
+    {
+      "comment": "to [notice_1]{notice} or [recognize]{recognize} the [smell_1]{smell} of something",
+      "entry": "smell",
+      "id": "smell_2#smell_2__9"
+    }
+  ],
+  "thesaurus": "The senses and using the senses",
+  "type": "Related words"
+}

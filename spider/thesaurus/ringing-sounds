@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "the [sound_1]{sound} that a [bell_1]{bell} [make_1]{makes} when it [ring_1]{rings}",
+      "entry": "bell",
+      "id": "bell_1#bell_1__9"
+    },
+    {
+      "comment": "a long [deep_1]{deep} [sound_1]{sound} that a [bell_1]{bell} [make_1]{makes}",
+      "entry": "bong",
+      "id": "bong#bong__2"
+    },
+    {
+      "comment": "a [ringing]{ringing} [sound_1]{sound} made by a [bell_1]{bell}, or by a [clock_1]{clock} with a [bell_1]{bell} [inside_1]{inside} it",
+      "entry": "chime",
+      "id": "chime_2#chime_2__1"
+    },
+    {
+      "comment": "the [short_1]{short} [sound_1]{sound} that a [bell_1]{bell} [make_1]{makes}",
+      "entry": "ding",
+      "id": "ding_1#ding_1__1"
+    },
+    {
+      "comment": "the [sound_1]{sound} that a [bell_1]{bell} [make_1]{makes}",
+      "entry": "ding-dong",
+      "id": "ding-dong#ding-dong__1"
+    },
+    {
+      "comment": "the [sound_1]{sound} that [small_1]{small} [metal_1]{metal} [object_1]{objects} [make_1]{make} when they hit each other",
+      "entry": "jingle",
+      "id": "jingle_2#jingle_2__2"
+    },
+    {
+      "comment": "a [sound_1]{sound} of several [bell_1]{bells} [ringing]{ringing}",
+      "entry": "peal",
+      "id": "peal_1#peal_1__1"
+    },
+    {
+      "comment": "a [short_1]{short} [high_1]{high} [sound_1]{sound} [like_1]{like} the [sound_1]{sound} of a [small_1]{small} [bell_1]{bell}",
+      "entry": "ping",
+      "id": "ping_2#ping_2__1"
+    },
+    {
+      "comment": "the [sound_1]{sound} that a [bell_1]{bell} [produce_1]{produces}",
+      "entry": "ring",
+      "id": "ring_2#ring_2__13"
+    },
+    {
+      "comment": "a [sound_1]{sound} [like_1]{like} a [bell_1]{bell}",
+      "entry": "ring",
+      "id": "ring_2#ring_2__17"
+    },
+    {
+      "comment": "the [high_1]{high} [clear_1]{clear} [sound_1]{sound} that a [small_1]{small} [bell_1]{bell} [make_1]{makes}",
+      "entry": "ting-a-ling",
+      "id": "ting-a-ling#ting-a-ling__1"
+    },
+    {
+      "comment": "a [high_1]{high} [ringing]{ringing} [sound_1]{sound}",
+      "entry": "tinkle",
+      "id": "tinkle_1#tinkle_1__1"
+    },
+    {
+      "comment": "the [sound_1]{sound} of [bell_1]{bells}",
+      "entry": "tintinnabulation",
+      "id": "tintinnabulation#tintinnabulation__1"
+    },
+    {
+      "comment": "a [warning]{warning} [signal_1]{signal} made by the [sound_1]{sound} of a [bell_1]{bell}",
+      "entry": "tocsin",
+      "id": "tocsin#tocsin__1"
+    },
+    {
+      "comment": "the [loud_1]{loud} [slow_1]{slow} [repeated]{repeated} [sound_1]{sound} of a [large_1]{large} [bell_1]{bell}",
+      "entry": "toll",
+      "id": "toll_1#toll_1__4"
+    }
+  ],
+  "thesaurus": "Ringing sounds",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "when [day]{day} [break_1]{breaks}, it [start_1]{starts} to get [light_1]{light} in the [morning_1]{morning}",
+      "entry": "break",
+      "id": "break_1#break_1__49"
+    },
+    {
+      "comment": "if [night_1]{night} or [darkness]{darkness} [close_1]{closes} in, it becomes [night_1]{night}, or it [get]{gets} [dark_1]{darker}",
+      "entry": "close in",
+      "id": "close-in#close-in__5"
+    },
+    {
+      "comment": "when [night_1]{night} [fall_1]{falls}, it becomes [dark_1]{dark}",
+      "entry": "night falls",
+      "id": "night-falls#night-falls__1"
+    },
+    {
+      "comment": "the [appearance]{appearance} of the [sky_1]{sky} when the [sun_1]{sun} first [appear]{appears} in the [morning_1]{morning}",
+      "entry": "sunrise",
+      "id": "sunrise#sunrise__3"
+    },
+    {
+      "comment": "the appearance of the sky when the sun goes down below the horizon at the end of a day",
+      "entry": "sunset",
+      "id": "sunset#sunset__3"
+    },
+    {
+      "comment": "the [light_1]{light} from the [sky_1]{sky} at [twilight]{twilight}",
+      "entry": "twilight",
+      "id": "twilight#twilight__3"
+    },
+    {
+      "comment": "when the [day]{days} [draw_1]{draw} out, it [remains]{remains} [light_1]{light} for [long_1]{longer} because it will [soon]{soon} be [spring_1]{spring}",
+      "entry": "draw out",
+      "id": "draw-out#draw-out__8"
+    },
+    {
+      "comment": "if a [day]{day} or [morning_1]{morning} [dawn_1]{dawns}, it [begin]{begins} to get [light_1]{light}",
+      "entry": "dawn",
+      "id": "dawn_2#dawn_2__3"
+    },
+    {
+      "comment": "when the [night_1]{nights} or [day]{days} [draw_1]{draw} in, it becomes [dark_1]{dark} [earlier_1]{earlier} in the [evening_1]{evening} because it will [soon]{soon} be [winter_1]{winter}",
+      "entry": "draw in",
+      "id": "draw-in#draw-in__1"
+    },
+    {
+      "comment": "if the [day]{days} [close_1]{close} in, there are [few]{fewer} [hour]{hours} of [light_1]{light} each [day]{day} because [fall_1]{Fall} is [start_1]{starting}",
+      "entry": "close in",
+      "id": "close-in#close-in__6"
+    }
+  ],
+  "thesaurus": "The coming of night and day",
+  "type": "Synonyms"
+}

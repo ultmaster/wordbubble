@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "first of all",
+  "senses": [
+    {
+      "def": "[used]{used} for [introduce]{introducing} the first of several [thing]{things} that you are [going_1]{going} to [say_1]{say}",
+      "examples": [
+        "First of all, I\u2019d [like_1]{like} to give you a [little_1]{little} [background]{background} [information]{information}."
+      ],
+      "id": "first-of-all__1"
+    },
+    {
+      "def": "before [doing]{doing} anything else",
+      "examples": [
+        "First of all, [clean_1]{clean} the [surface_1]{surface} that you are [going_1]{going} to [paint_1]{paint}."
+      ],
+      "id": "first-of-all__3"
+    }
+  ]
+}

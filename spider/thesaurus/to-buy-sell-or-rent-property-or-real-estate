@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} another [person]{person} or [organization]{organization} the [legal]{legal} [owner]{owner} of a [property]{property}",
+      "entry": "convey",
+      "id": "convey#convey__7"
+    },
+    {
+      "comment": "to [transfer_1]{transfer} an [estate]{estate}, [especially]{especially} by a lease",
+      "entry": "demise",
+      "id": "demise_2#demise_2__1"
+    },
+    {
+      "comment": "if the [people_1]{people} [buy_1]{buying} and [selling]{selling} a [house_1]{house} [exchange_1]{exchange} [contract_1]{contracts}, they each [sign_1]{sign} a [contract_1]{contract} so that the [sale]{sale} is [officially]{officially} [complete_1]{complete}",
+      "entry": "exchange contracts",
+      "id": "exchange-contracts#exchange-contracts__1"
+    },
+    {
+      "comment": "to have a [legal]{legal} [agreement]{agreement} in which someone [pay_1]{pays} you [money]{money} to use a [building]{building}, [land_1]{land}, or [equipment]{equipment} [belong]{belonging} to you for a [specific]{specific} [period_1]{period} of time",
+      "entry": "lease",
+      "id": "lease_2#lease_2__1"
+    },
+    {
+      "comment": "to have a [legal]{legal} [agreement]{agreement} in which you [pay_1]{pay} someone [money]{money} so you can use a [building]{building}, [land_1]{land}, or [equipment]{equipment} [belong]{belonging} to them for a [specific]{specific} [period_1]{period} of time",
+      "entry": "lease",
+      "id": "lease_2#lease_2__3"
+    },
+    {
+      "comment": "to [rent_1]{rent} a [room_1]{room}, [apartment]{apartment}, [house_1]{house}, etc. to someone",
+      "entry": "let",
+      "id": "let_1#let_1__15"
+    },
+    {
+      "comment": "to give a [bank_1]{bank} the [right_1]{right} to own a [valuable]{valuable} [possession]{possession}, [especially]{especially} your [house_1]{house}, if you do not [pay_1]{pay} back [money]{money} that you have [borrow]{borrowed} from them",
+      "entry": "mortgage",
+      "id": "mortgage_2#mortgage_2__1"
+    },
+    {
+      "comment": "to borrow more money in order to pay for a house or property, or to change the payment arrangements of an existing mortgage",
+      "entry": "remortgage",
+      "id": "remortgage#remortgage__1"
+    },
+    {
+      "comment": "to [pay_1]{pay} [money]{money} [regularly]{regularly} to use a [house_1]{house}, [room_1]{room}, [office]{office}, etc. that [belong]{belongs} to someone else",
+      "entry": "rent",
+      "id": "rent_2#rent_2__1"
+    },
+    {
+      "comment": "to [allow]{allow} a [house_1]{house}, [room_1]{room}, [office]{office}, etc. that you own to be [used]{used} by someone who [pay_1]{pays} you [regularly]{regularly} for [use_1]{using} it",
+      "entry": "rent",
+      "id": "rent_2#rent_2__8"
+    },
+    {
+      "comment": "to [rent_1]{rent} an [apartment]{apartment}, [house_1]{house}, etc. to someone when you are [rent_2]{renting} it from someone else",
+      "entry": "sublet",
+      "id": "sublet_1#sublet_1__1"
+    }
+  ],
+  "thesaurus": "To buy, sell or rent property or real estate",
+  "type": "Related words"
+}

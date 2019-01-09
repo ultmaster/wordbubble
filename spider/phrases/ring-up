@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "ring up",
+  "senses": [
+    {
+      "def": "to [record_1]{record} an amount of [money]{money} by [pressing]{pressing} [buttons]{buttons} on a cash register",
+      "examples": [
+        "She [rang]{rang} up our [purchase_1]{purchases} [quickly]{quickly} and we [left_1]{left}."
+      ],
+      "id": "ring-up__1"
+    },
+    {
+      "def": "to [make_1]{make} or [lose]{lose} a [particular_1]{particular} amount of [money]{money} in [sale]{sales}, [profit_1]{profits}, or [loss]{losses} in a [period_1]{period} of time",
+      "examples": [
+        "The [bank_1]{bank} [rang]{rang} up about $600 [million]{million} in [loss]{losses} on [bad_1]{bad} [loan_1]{loans}."
+      ],
+      "id": "ring-up__3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "[living_1]{living} and not [dead_1]{dead}",
+      "entry": "alive",
+      "id": "alive#alive__1"
+    },
+    {
+      "comment": "[alive]{alive} at the [present_1]{present} time",
+      "entry": "the living",
+      "id": "living_1#living_1__1"
+    },
+    {
+      "comment": "[living_1]{living} and not [dead_1]{dead}",
+      "entry": "live",
+      "id": "live_2#live_2__1"
+    },
+    {
+      "comment": "still [alive]{alive} or [remaining]{remaining} after others are [dead_1]{dead} or [destroy]{destroyed}",
+      "entry": "surviving",
+      "id": "surviving#surviving__1"
+    },
+    {
+      "comment": "[living_1]{living} or [existing]{existing} [forever]{forever}",
+      "entry": "immortal",
+      "id": "immortal_1#immortal_1__3"
+    },
+    {
+      "comment": "[alive]{alive}",
+      "entry": "animate",
+      "id": "animate_2#animate_2__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [alive]{alive}",
+      "entry": "life",
+      "id": "life#life__27"
+    }
+  ],
+  "thesaurus": "Alive",
+  "type": "Synonyms"
+}

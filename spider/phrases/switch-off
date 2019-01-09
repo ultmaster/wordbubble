@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "switch off",
+  "senses": [
+    {
+      "def": "if you [switch_1]{switch} off something such as a [light_1]{light} or a [machine_1]{machine}, or if it [switch_1]{switches} off, it [stop_1]{stops} [working]{working}",
+      "examples": [
+        "I [park_2]{parked} the [car]{car} and [switch_1]{switched} off the [engine]{engine}.",
+        "The [heat_1]{heat} has [switch_1]{switched} off."
+      ],
+      "id": "switch-off__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [listen_1]{listening} to someone, or to [stop_1]{stop} [thinking_1]{thinking} about something",
+      "examples": [
+        "He [just_1]{just} [switch_1]{switches} off and [ignore]{ignores} me."
+      ],
+      "id": "switch-off__4"
+    },
+    {
+      "def": "if [people_1]{people} [switch_1]{switch} off [doing]{doing} something, each of them [does]{does} it for a while, one after the other",
+      "examples": [],
+      "id": "switch-off__6"
+    }
+  ]
+}

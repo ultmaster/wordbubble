@@ -1,0 +1,41 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[far]{far} [away_1]{away} from the [place_1]{place} where you are",
+      "examples": [
+        "I could [faintly]{faintly} [hear]{hear} the distant [rumble_1]{rumble} of [traffic_1]{traffic}.",
+        "Her [eye_1]{eyes} [scan_1]{scanned} the distant [hill]{hills}.",
+        "The [castle]{castle} was four [mile]{miles} distant.",
+        "The [election]{elections} are still five [week]{weeks} distant.",
+        "One [day]{day}, in the distant [future_1]{future}, I might go and [live_1]{live} in Europe.",
+        "I [expect]{expect} to [return_1]{return} in the not too distant [future_1]{future}.",
+        "That [lovely_1]{lovely} [summer]{summer} on Hilton [head_1]{Head} already [felt_1]{felt} [like_1]{like} a distant [memory]{memory}."
+      ],
+      "id": "distant__1"
+    },
+    {
+      "def": "someone who is distant seems [unfriendly]{unfriendly} or [does]{does} not show their [feeling_1]{feelings}",
+      "examples": [
+        "[violet_1]{Violet} was [cold_1]{cold} and distant."
+      ],
+      "id": "distant__10"
+    },
+    {
+      "def": "[showing]{showing} that you are [thinking_1]{thinking} about something else",
+      "examples": [
+        "He [nod_1]{nodded} [slowly]{slowly}, a distant [look_1]{look} in his [eye_1]{eyes}."
+      ],
+      "id": "distant__12"
+    },
+    {
+      "def": "[related_1]{related}, but not in a [close_1]{close} way",
+      "examples": [
+        "a distant [relative_1]{relative}/[cousin]{cousin}"
+      ],
+      "id": "distant__14"
+    }
+  ],
+  "word": "distant"
+}

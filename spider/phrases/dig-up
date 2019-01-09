@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "dig up",
+  "senses": [
+    {
+      "def": "to find [information]{information} by [searching]{searching} [careful#careful__20]{carefully}",
+      "examples": [
+        "When we [investigate]{investigated} his [background]{background}, we [dug]{dug} up some [interesting]{interesting} [fact]{facts}."
+      ],
+      "id": "dig-up__1"
+    },
+    {
+      "def": "to [remove]{remove} something from under the [ground_1]{ground} by [dig_1]{digging}",
+      "examples": [
+        "We will have to [dig_1]{dig} that [tree]{tree} up.",
+        "They [dug]{dug} up a body in his [yard]{yard}."
+      ],
+      "id": "dig-up__3"
+    },
+    {
+      "def": "to [dig_1]{dig} [hole_1]{holes} in an [area]{area} of [land_1]{land}",
+      "examples": [
+        "They\u2019ve been [dig_1]{digging} up the [road]{road} [outside]{outside} our [house_1]{house}."
+      ],
+      "id": "dig-up__6"
+    }
+  ]
+}

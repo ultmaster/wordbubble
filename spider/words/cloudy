@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "full of [cloud_1]{clouds}",
+      "examples": [
+        "a [cool_1]{cool} cloudy [morning_1]{morning}"
+      ],
+      "id": "cloudy__1"
+    },
+    {
+      "def": "a cloudy [liquid_1]{liquid} is not [clear_1]{clear}",
+      "examples": [],
+      "id": "cloudy__3"
+    },
+    {
+      "def": "[confused]{confused}",
+      "examples": [
+        "His [judgment]{judgment} can sometimes be a [little_1]{little} cloudy."
+      ],
+      "id": "cloudy__4"
+    }
+  ],
+  "word": "cloudy"
+}

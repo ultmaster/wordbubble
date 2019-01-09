@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [group_1]{group} that [include]{includes} all [living_1]{living} [thing]{things} that have [similar]{similar} [feature_1]{features}. It [usually]{usually} has a [latin_1]{Latin} name.",
+      "entry": "genus",
+      "id": "genus#genus__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} or [animal_1]{animal} [group_1]{group} whose [member]{members} all have [similar]{similar} [general_1]{general} [feature_1]{features} and are [able_1]{able} to [produce_1]{produce} [young_1]{young} [plant_1]{plants} or [animal_1]{animals} together",
+      "entry": "species",
+      "id": "species#species__1"
+    },
+    {
+      "comment": "a group of plants or animals within a species that have slight genetic differences from other plants or animals in that species",
+      "entry": "subspecies",
+      "id": "subspecies#subspecies__1"
+    },
+    {
+      "comment": "one of the groups that scientists divide animals into. It consists of several classes.",
+      "entry": "phylum",
+      "id": "phylum#phylum__1"
+    },
+    {
+      "comment": "a group of animals or plants that are related. A family has fewer members than an order or class",
+      "entry": "family",
+      "id": "family_1#family_1__20"
+    },
+    {
+      "comment": "a group of animals or plants that are similar to each other. A race of animals or plants is smaller than a species.",
+      "entry": "race",
+      "id": "race_1#race_1__15"
+    },
+    {
+      "comment": "a large group of plants or animals that are related to each other. An order includes more than a family and less than a class.",
+      "entry": "order",
+      "id": "order_1#order_1__51"
+    },
+    {
+      "comment": "relating to a genus",
+      "entry": "generic",
+      "id": "generic#generic__5"
+    }
+  ],
+  "thesaurus": "Groups of living things",
+  "type": "Synonyms"
+}

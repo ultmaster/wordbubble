@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "make sure",
+  "senses": [
+    {
+      "def": "to [check_1]{check} something so that you can be [sure_1]{sure} about it",
+      "examples": [
+        "I [think_1]{think} I [lock_1]{locked} it but we\u2019d [better_1]{better} [make_1]{make} [sure_1]{sure}.",
+        "I [just_1]{just} [wanted]{wanted} to [make_1]{make} [sure_1]{sure} you [knew]{knew} where to go.",
+        "Always [make_1]{make} [sure_1]{sure} of your [fact]{facts} before [accusing]{accusing} anyone."
+      ],
+      "id": "make-sure__1"
+    },
+    {
+      "def": "to take the [action_1]{action} [necessary_1]{necessary} to be [sure_1]{sure} that something will [happen]{happen} or be done",
+      "examples": [
+        "[police_1]{Police} were there to [make_1]{make} [sure_1]{sure} there was no [violence]{violence}."
+      ],
+      "id": "make-sure__5"
+    }
+  ]
+}

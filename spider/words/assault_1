@@ -1,0 +1,37 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [physical_1]{physical} [attack_1]{attack} on someone, or the [crime_1]{crime} of [physically]{physically} [attack_2]{attacking} someone",
+      "examples": [
+        "an assault on a [young_1]{young} [student]{student}",
+        "He was [charged]{charged} with assault.",
+        "[guilty]{guilty} of [sexual]{sexual} assault"
+      ],
+      "id": "assault_1__1"
+    },
+    {
+      "def": "an [attack_1]{attack} by the [military]{military}",
+      "examples": [
+        "a NATO [air_1]{air} assault",
+        "the assault on Pohang-dong",
+        "an assault [rifle_1]{rifle}/[vehicle]{vehicle}/[weapon]{weapon}"
+      ],
+      "id": "assault_1__5"
+    },
+    {
+      "def": "a [strong]{strong} [criticism]{criticism}",
+      "examples": [
+        "The [article]{article} was a [vicious]{vicious} assault on [bell_1]{Bell}\u2019s [integrity]{integrity}."
+      ],
+      "id": "assault_1__10"
+    },
+    {
+      "def": "a serious [attempt_1]{attempt} to [achieve]{achieve} something [difficult]{difficult}",
+      "examples": [],
+      "id": "assault_1__12"
+    }
+  ],
+  "word": "assault"
+}

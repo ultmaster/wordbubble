@@ -1,0 +1,39 @@
+{
+  "part": "interjection",
+  "senses": [
+    {
+      "def": "[used]{used} as a [polite]{polite} way of [ask_1]{asking} for something or of [ask_1]{asking} someone to do something",
+      "examples": [
+        "Would you [help_1]{help} me with these [bag_1]{bags}, please?",
+        "Could I please have [change_1]{change} for a [dollar]{dollar}?",
+        "Would you please [tell_1]{tell} me how much this [cost_1]{costs}?"
+      ],
+      "id": "please_1__1"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} a [request_1]{request}, an [order_1]{order}, or a [statement_1]{statement}",
+      "examples": [
+        "Please [stop_1]{stop} [making]{making} all that [noise]{noise}!",
+        "\u201cDo you [mind_1]{mind} if we come in?\u201d \u201cPlease do.\u201d",
+        "Please [note_1]{note} that there will be no [class_1]{class} next Thursday.",
+        "[billy]{Billy}, please! I\u2019m [warning]{warning} you!"
+      ],
+      "id": "please_1__5"
+    },
+    {
+      "def": "[used]{used} as a [polite]{polite} way of [accepting]{accepting} something that someone has [offer_1]{offered} you",
+      "examples": [
+        "\u201cWould you [like_1]{like} some more [coffee]{coffee}?\u201d \u201c[yes_1]{Yes}, please.\u201d"
+      ],
+      "id": "please_1__11"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} someone has [said_1]{said} something [silly_1]{silly}",
+      "examples": [
+        "\u201cWhy don\u2019t you [join_1]{join} a [gym]{gym}?\u201d \u201cAt my [age_1]{age}? [oh_1]{Oh}, please!\u201d"
+      ],
+      "id": "please_1__13"
+    }
+  ],
+  "word": "please"
+}

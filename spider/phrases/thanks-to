@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "thanks to",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that someone or something is [responsible]{responsible} for something [good_1]{good} that [happen]{happened}",
+      "examples": [
+        "[thanks_1]{Thanks} to this [treatment]{treatment}, her [condition_1]{condition} has [improved]{improved}."
+      ],
+      "id": "thanks-to__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [blame_1]{blame} someone or something for something [bad_1]{bad} that [happen]{happened}",
+      "examples": [
+        "[air_1]{Air} [traffic_1]{traffic} is in [chaos]{chaos}, [thanks_1]{thanks} to the [government]{government}\u2019s [incompetence]{incompetence}."
+      ],
+      "id": "thanks-to__3"
+    }
+  ]
+}

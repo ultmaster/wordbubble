@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "cover for",
+  "senses": [
+    {
+      "def": "to do someone\u2019s [work_1]{work} while they are [sick_1]{sick} or not there",
+      "examples": [
+        "I\u2019m [just_1]{just} [covering]{covering} for Mrs. Tyler, so please [bear_1]{bear} with me."
+      ],
+      "id": "cover-for__1"
+    },
+    {
+      "def": "to [protect]{protect} someone from [punishment]{punishment}, for [example]{example} by [telling]{telling} a [lie_1]{lie} for them",
+      "examples": [
+        "If Pauline [ask_1]{asks} where I am, will you [cover_1]{cover} for me?"
+      ],
+      "id": "cover-for__3"
+    }
+  ]
+}

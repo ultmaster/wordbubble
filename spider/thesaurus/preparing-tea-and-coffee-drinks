@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} a [drink_1]{drink} of [tea]{tea} or [coffee]{coffee}",
+      "entry": "brew",
+      "id": "brew_1#brew_1__2"
+    },
+    {
+      "comment": "if [tea]{tea} or [coffee]{coffee} is [brew_1]{brewing}, or if you are [brew_1]{brewing} it, you have made it and [left_1]{left} it to [develop]{develop} a [strong]{stronger} [flavor_1]{flavor}",
+      "entry": "brew",
+      "id": "brew_1#brew_1__3"
+    },
+    {
+      "comment": "[flavored]{flavored} with [coffee]{coffee}, or [used]{used} for [store_2]{storing}, [making]{making}, or [drinking]{drinking} [coffee]{coffee}",
+      "entry": "coffee",
+      "id": "coffee#coffee__6"
+    },
+    {
+      "comment": "[extremely]{extremely} [small_1]{small} [piece_1]{pieces} of [crushed]{crushed} [coffee]{coffee} [bean_1]{beans}, [especially]{especially} after they have been [used]{used} for [making]{making} a [drink_1]{drink} of [coffee]{coffee}",
+      "entry": "grounds",
+      "id": "ground_1#ground_1__38"
+    },
+    {
+      "comment": "if [coffee]{coffee} [percolate]{percolates}, or if you [percolate]{percolate} it, it is made in a [container]{container} in which [hot]{hot} [water_1]{water} [pass_1]{passes} through [coffee]{coffee} [powder_1]{powder}",
+      "entry": "percolate",
+      "id": "percolate#percolate__3"
+    },
+    {
+      "comment": "to [boil_1]{boil} [water_1]{water}, [especially]{especially} for [making]{making} [tea]{tea}",
+      "entry": "put a kettle on",
+      "id": "put-a-kettle-on#put-a-kettle-on__1"
+    },
+    {
+      "comment": "the [dried]{dried} [cut_1]{cut} [leaves]{leaves} of the [tea]{tea} [bush]{bush}, [used]{used} for [making]{making} [tea]{tea}",
+      "entry": "tea",
+      "id": "tea#tea__6"
+    },
+    {
+      "comment": "a [small_1]{small} [paper_1]{paper} [bag_1]{bag} with [tea]{tea} [leaves]{leaves} [inside_1]{inside} that you put [boiling]{boiling} [water_1]{water} over to [make_1]{make} [tea]{tea}",
+      "entry": "tea bag",
+      "id": "tea-bag#tea-bag__1"
+    },
+    {
+      "comment": "a [leaf_1]{leaf} from the [tea]{tea} [plant_1]{plant} that is [dried]{dried}, [cut_1]{cut} into [small_1]{small} [piece_1]{pieces}, and [used]{used} for [making]{making} [tea]{tea}",
+      "entry": "tea leaf",
+      "id": "tea-leaf#tea-leaf__1"
+    }
+  ],
+  "thesaurus": "Preparing tea and coffee drinks",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [ability_1]{ability} to see something from a [particular_1]{particular} [place_1]{place}",
+      "entry": "view",
+      "id": "view_1#view_1__1"
+    },
+    {
+      "comment": "a [view_1]{view} that you can see in a [picture_1]{picture} or from the [place_1]{place} where you are",
+      "entry": "scene",
+      "id": "scene#scene__5"
+    },
+    {
+      "comment": "any [place_1]{place} that you can see from where you are",
+      "entry": "sight",
+      "id": "sight_1#sight_1__9"
+    },
+    {
+      "comment": "everything that you can see behind the [main_1]{main} thing you are [look_1]{looking} at",
+      "entry": "backdrop",
+      "id": "backdrop#backdrop__1"
+    },
+    {
+      "comment": "a [view_1]{view} of a [large_1]{large} [area]{area} of [land_1]{land} or [water_1]{water}",
+      "entry": "panorama",
+      "id": "panorama#panorama__1"
+    },
+    {
+      "comment": "a [place_1]{place} from which you can see or [watch_1]{watch} something",
+      "entry": "viewpoint",
+      "id": "viewpoint#viewpoint__5"
+    },
+    {
+      "comment": "a [view_1]{view} of a [large_1]{large} [area]{area}",
+      "entry": "perspective",
+      "id": "perspective#perspective__14"
+    },
+    {
+      "comment": "a [view_1]{view} of a [wide_1]{wide} [area]{area} of [land_1]{land} or [water_1]{water}, [especially]{especially} from a [high_1]{high} [place_1]{place}",
+      "entry": "prospect",
+      "id": "prospect_1#prospect_1__15"
+    },
+    {
+      "comment": "the [view_1]{view} that you can see from a [particular_1]{particular} [place_1]{place}, [especially]{especially} a [beautiful]{beautiful} [view_1]{view}",
+      "entry": "vista",
+      "id": "vista#vista__1"
+    },
+    {
+      "comment": "the [area]{area} or [place_1]{place} that can be [seen]{seen}",
+      "entry": "view",
+      "id": "view_1#view_1__7"
+    }
+  ],
+  "thesaurus": "Views and landscapes",
+  "type": "Synonyms"
+}

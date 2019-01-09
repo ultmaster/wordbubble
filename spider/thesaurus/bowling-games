@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [game_1]{game} in which [player]{players} [throw_1]{throw} [small_1]{small} [heavy_1]{heavy} [balls]{balls} toward a [small_1]{smaller} [ball_1]{ball} on the [ground_1]{ground}",
+      "entry": "boules",
+      "id": "boules#boules__1"
+    },
+    {
+      "comment": "to [play_1]{play} the [sport_1]{sport} of [bowling]{bowling}",
+      "entry": "bowl",
+      "id": "bowl_2#bowl_2__1"
+    },
+    {
+      "comment": "to [roll_1]{roll} a [ball_1]{ball} across the [floor_1]{floor} in the [sport_1]{sport} of [bowling]{bowling}",
+      "entry": "bowl",
+      "id": "bowl_2#bowl_2__2"
+    },
+    {
+      "comment": "someone who [play_1]{plays} the [sport_1]{sport} of [bowling]{bowling}",
+      "entry": "bowler",
+      "id": "bowler#bowler__1"
+    },
+    {
+      "comment": "an indoor game in which players roll heavy balls along a track, trying to knock down a group of ten pins  (=wooden objects that look like bottles)",
+      "entry": "bowling",
+      "id": "bowling#bowling__1"
+    },
+    {
+      "comment": "[lawn]{lawn} [bowling]{bowling}",
+      "entry": "bowls",
+      "id": "bowls#bowls__1"
+    },
+    {
+      "comment": "one of the parts in a game of bowling",
+      "entry": "frame",
+      "id": "frame_1#frame_1__13"
+    },
+    {
+      "comment": "an area of grass where people play lawn bowling  (=a game in which you roll balls along the ground)",
+      "entry": "green",
+      "id": "green_2#green_2__9"
+    },
+    {
+      "comment": "a game in which players roll balls across the ground, trying to get as close as possible to a small ball called the jack",
+      "entry": "lawn bowling",
+      "id": "lawn-bowling#lawn-bowling__1"
+    },
+    {
+      "comment": "one of the tall objects that you knock over in the game of bowling",
+      "entry": "pin",
+      "id": "pin_1#pin_1__11"
+    },
+    {
+      "comment": "a situation in bowling in which you succeed in knocking down all the pins  (=bottle shaped objects) with one ball",
+      "entry": "strike",
+      "id": "strike_2#strike_2__10"
+    },
+    {
+      "comment": "a [bowling]{bowling} [pin_1]{pin}",
+      "entry": "tenpin",
+      "id": "tenpin#tenpin__1"
+    },
+    {
+      "comment": "[bowling]{bowling}",
+      "entry": "tenpin bowling",
+      "id": "tenpin-bowling#tenpin-bowling__1"
+    },
+    {
+      "comment": "the [game_1]{game} of [bowling]{bowling}",
+      "entry": "tenpins",
+      "id": "tenpin#tenpin__2"
+    }
+  ],
+  "thesaurus": "Bowling games",
+  "type": "Related words"
+}

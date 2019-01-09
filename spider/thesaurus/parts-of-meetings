@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "a [list_1]{list} of [thing]{things} that [people_1]{people} will [discuss]{discuss} at a [meeting]{meeting}",
+      "entry": "agenda",
+      "id": "agenda#agenda__6"
+    },
+    {
+      "comment": "a [statement_1]{statement} from someone [saying]{saying} that they are [sorry]{sorry} that they cannot go to a [meeting]{meeting}",
+      "entry": "apologies",
+      "id": "apology#apology__7"
+    },
+    {
+      "comment": "a [list_1]{list} of [business]{business} to be [discuss]{discussed} or [thing]{things} to be done, [especially]{especially} at a [meeting]{meeting}",
+      "entry": "docket",
+      "id": "docket#docket__3"
+    },
+    {
+      "comment": "[meeting]{meeting} when only [member]{members} are [allow]{allowed} to be [present_1]{present}",
+      "entry": "in closed session",
+      "id": "in-closed-session#in-closed-session__1"
+    },
+    {
+      "comment": "[meeting]{meeting} to [deal_1]{deal} with [business]{business}",
+      "entry": "in session",
+      "id": "in-session#in-session__1"
+    },
+    {
+      "comment": "an [official_1]{official} [written_1]{written} [record_1]{record} of what is [discuss]{discussed} or [decided]{decided} at a [formal_1]{formal} [meeting]{meeting}",
+      "entry": "minutes",
+      "id": "minute_1#minute_1__16"
+    },
+    {
+      "comment": "a formal proposal that people discuss and then vote on in a meeting or debate. Someone proposes a motion  (=suggests it), and someone else must second it  (=say formally that they support it) before it is accepted for discussion",
+      "entry": "motion",
+      "id": "motion_1#motion_1__8"
+    },
+    {
+      "comment": "an [official_1]{official} [record_1]{record} [give_1]{giving} the [detail_1]{details} of what [happen]{happened} in a [meeting]{meeting}",
+      "entry": "proceedings",
+      "id": "proceedings#proceedings__5"
+    },
+    {
+      "comment": "the [small_1]{smallest} [number_1]{number} of [people_1]{people} who must be [present_1]{present} at a [meeting]{meeting} to [allow]{allow} [official_1]{official} [decision_1]{decisions} to be made",
+      "entry": "quorum",
+      "id": "quorum#quorum__1"
+    },
+    {
+      "comment": "a [formal_1]{formal} [proposal]{proposal} that is [considered]{considered} by an [organization]{organization} and is [usually]{usually} [vote_1]{voted} on at a [meeting]{meeting}",
+      "entry": "resolution",
+      "id": "resolution#resolution__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time during which an [institution]{institution} has its [regular_1]{regular} [meeting]{meetings}",
+      "entry": "session",
+      "id": "session_1#session_1__6"
+    },
+    {
+      "comment": "part of a [period_1]{period} of time during which a [class_1]{class} or [meeting]{meeting} [take_1]{takes} [place_1]{place}",
+      "entry": "session",
+      "id": "session_1#session_1__8"
+    }
+  ],
+  "thesaurus": "Parts of meetings",
+  "type": "Related words"
+}

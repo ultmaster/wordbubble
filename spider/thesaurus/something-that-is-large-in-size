@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is very [large_1]{large}, [wide_1]{wide}, and [solid_1]{solid}",
+      "entry": "bulk",
+      "id": "bulk_1#bulk_1__1"
+    },
+    {
+      "comment": "something that is very [large_1]{large}",
+      "entry": "monster",
+      "id": "monster_1#monster_1__2"
+    },
+    {
+      "comment": "something [large_1]{large} and [ugly]{ugly}",
+      "entry": "monstrosity",
+      "id": "monstrosity#monstrosity__1"
+    },
+    {
+      "comment": "something that is very [large_1]{large} or [successful]{successful}",
+      "entry": "biggie",
+      "id": "biggie#biggie__1"
+    },
+    {
+      "comment": "something that is much [large_1]{larger} than other [thing]{things} of the same [type_1]{type}",
+      "entry": "whopper",
+      "id": "whopper#whopper__1"
+    },
+    {
+      "comment": "someone or something that is very [large_1]{large} or [impressive]{impressive}",
+      "entry": "colossus",
+      "id": "colossus#colossus__1"
+    },
+    {
+      "comment": "something that is very [powerful]{powerful}, [especially]{especially} something that has a [bad_1]{bad} [effect_1]{effect}",
+      "entry": "juggernaut",
+      "id": "juggernaut#juggernaut__1"
+    },
+    {
+      "comment": "something that is very [large_1]{large} and [powerful]{powerful}",
+      "entry": "leviathan",
+      "id": "leviathan#leviathan__1"
+    },
+    {
+      "comment": "a large complicated structure made up of many smaller parts that forms one unit, for example the Earth or the universe. A small structure that is part of something larger is a microcosm.",
+      "entry": "macrocosm",
+      "id": "macrocosm#macrocosm__1"
+    },
+    {
+      "comment": "something that is very [big_1]{big} or very [impressive]{impressive}",
+      "entry": "stonker",
+      "id": "stonker#stonker__1"
+    }
+  ],
+  "thesaurus": "Something that is large in size",
+  "type": "Synonyms"
+}

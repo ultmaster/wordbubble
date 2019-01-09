@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something [occupy]{occupies} a [space_1]{space} or a [period_1]{period} of time, it is [present_1]{present} in it or [fill_1]{fills} it",
+      "entry": "occupy",
+      "id": "occupy#occupy__4"
+    },
+    {
+      "comment": "if something is [set_1]{set} somewhere, it is in that [place_1]{place} or [position_1]{position}",
+      "entry": "set",
+      "id": "set_1#set_1__4"
+    },
+    {
+      "comment": "to be [present_1]{present} in a [particular_1]{particular} [place_1]{place}, time, or [situation]{situation}",
+      "entry": "exist",
+      "id": "exist#exist__3"
+    },
+    {
+      "comment": "to be on a [particular_1]{particular} [surface_1]{surface} or in a [particular_1]{particular} [place_1]{place}",
+      "entry": "lie",
+      "id": "lie_1#lie_1__8"
+    },
+    {
+      "comment": "to be in a [particular_1]{particular} [place_1]{place}",
+      "entry": "sit",
+      "id": "sit#sit__18"
+    },
+    {
+      "comment": "if an [object_1]{object} or [building]{building} [stand_1]{stands} somewhere, it is in a [particular_1]{particular} [position_1]{position}",
+      "entry": "stand",
+      "id": "stand_1#stand_1__17"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone or something is in a [particular_1]{particular} [place_1]{place}",
+      "entry": "there is/are etc.",
+      "id": "there-is-are-etc#there-is-are-etc__1"
+    },
+    {
+      "comment": "if something is [concentrated]{concentrated} in an [area]{area}, that is where it [mainly]{mainly} [exist]{exists}",
+      "entry": "concentrate",
+      "id": "concentrate_1#concentrate_1__7"
+    },
+    {
+      "comment": "to be in the [right_1]{right} [place_1]{place}",
+      "entry": "belong",
+      "id": "belong#belong__1"
+    },
+    {
+      "comment": "to come to be in a [position_1]{position} or [place_1]{place}",
+      "entry": "get",
+      "id": "get#get__91"
+    }
+  ],
+  "thesaurus": "To be in a particular position or place",
+  "type": "Synonyms"
+}

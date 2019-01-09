@@ -1,0 +1,18 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "the [number_1]{number} 100",
+      "examples": [],
+      "id": "hundred_1__1"
+    },
+    {
+      "def": "a very [large_1]{large} [number_1]{number} or amount of [people_1]{people} or [thing]{things}",
+      "examples": [
+        "We [received]{received} [hundred_2]{hundreds} of [application]{applications} for the [job_1]{job}."
+      ],
+      "id": "hundred_1__2"
+    }
+  ],
+  "word": "hundred"
+}

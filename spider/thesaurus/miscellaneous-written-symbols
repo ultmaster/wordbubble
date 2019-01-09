@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [symbol]{symbol} [meaning_1]{meaning} \u201c[copyright_1]{copyright}\u201d",
+      "entry": "\u00a9",
+      "id": "c_1#c_1__1"
+    },
+    {
+      "comment": "a [sign_1]{sign} that [look_1]{looks} [like_1]{like} an [arrow]{arrow} \u27a1, [used]{used} for [showing]{showing} [people_1]{people} which [direction]{direction} to go in, or where to [look_1]{look} for something",
+      "entry": "arrow",
+      "id": "arrow#arrow__2"
+    },
+    {
+      "comment": "the symbol *. In a piece of writing, an asterisk is used after a word or phrase to show that more information is given in a footnote.",
+      "entry": "asterisk",
+      "id": "asterisk_1#asterisk_1__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} ^ [used]{used} when [correct_2]{correcting} [text_1]{texts} to show where [punctuation]{punctuation} is [missing]{missing}",
+      "entry": "caret",
+      "id": "caret#caret__1"
+    },
+    {
+      "comment": "a mark \u2713 that you put next to something to show that it is correct or that you have dealt with it. The British word is tick.",
+      "entry": "check",
+      "id": "check_2#check_2__20"
+    },
+    {
+      "comment": "the [symbol]{symbol} that you [write]{write} next to an [answer_1]{answer} to show that it is [correct_1]{correct}, or next to something on a [list_1]{list} to show that it has been done",
+      "entry": "checkmark",
+      "id": "checkmark#checkmark__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} X",
+      "entry": "cross",
+      "id": "cross_2#cross_2__15"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} your [choice_1]{choice} on a [written_1]{written} [list_1]{list} of [choice_1]{choices}",
+      "entry": "cross",
+      "id": "cross_2#cross_2__16"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that an [answer_1]{answer} is [wrong_1]{wrong}",
+      "entry": "cross",
+      "id": "cross_2#cross_2__18"
+    },
+    {
+      "comment": "the [symbol]{symbol} $, [used]{used} to show that an amount is in [dollar]{dollars}",
+      "entry": "dollar sign",
+      "id": "dollar-sign#dollar-sign__1"
+    },
+    {
+      "comment": "a [line_1]{line} [drawn_1]{drawn} on something that is [used]{used} for [measure_2]{measuring} or [count_1]{counting} something",
+      "entry": "hash mark",
+      "id": "hash-mark#hash-mark__1"
+    },
+    {
+      "comment": "[written_1]{written} [word_1]{words} or [symbol]{symbols} that are [difficult]{difficult} to read or [understand]{understand}",
+      "entry": "hieroglyphics",
+      "id": "hieroglyphics#hieroglyphics__2"
+    },
+    {
+      "comment": "a [written_1]{written} [sign_1]{sign} or [symbol]{symbol}, such as those [used]{used} in Chinese and Japanese [writing]{writing}, that [represent]{represents} an [idea]{idea} or a thing",
+      "entry": "ideogram",
+      "id": "ideogram#ideogram__1"
+    },
+    {
+      "comment": "a [written_1]{written} [symbol]{symbol} that [represent]{represents} a [word_1]{word}, for [example]{example} % [represent]{represents} \u201c[percent_1]{percent}\u201d",
+      "entry": "ideogram",
+      "id": "ideogram#ideogram__2"
+    },
+    {
+      "comment": "a [print_1]{printed} or [written_1]{written} [symbol]{symbol} that is not a [letter_1]{letter} or a [number_1]{number}",
+      "entry": "mark",
+      "id": "mark_1#mark_1__14"
+    },
+    {
+      "comment": "the [symbol]{symbol} X that someone who [does]{does} not [know_1]{know} how to [write]{write} [put]{puts} [instead]{instead} of their name on a [document_1]{document}",
+      "entry": "mark",
+      "id": "mark_1#mark_1__17"
+    },
+    {
+      "comment": "the [symbol]{symbol} #",
+      "entry": "pound sign",
+      "id": "pound-sign#pound-sign__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} \u00a3",
+      "entry": "pound sign",
+      "id": "pound-sign#pound-sign__2"
+    },
+    {
+      "comment": "a [check_1]{check} that you [write]{write} next to a [correct_1]{correct} [answer_1]{answer}",
+      "entry": "tick",
+      "id": "tick_2#tick_2__4"
+    }
+  ],
+  "thesaurus": "Miscellaneous written symbols",
+  "type": "Related words"
+}

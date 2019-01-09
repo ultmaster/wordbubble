@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "see in",
+  "senses": [
+    {
+      "def": "to [welcome_1]{welcome} a [visitor]{visitor} to a [building]{building} and take them to where they [want_1]{want} to go",
+      "examples": [
+        "The [ambassador]{ambassador} [wait_1]{waited} on the [step_1]{steps} to see the [visit_1]{visiting} [dignitary]{dignitaries} in."
+      ],
+      "id": "see-in__5"
+    },
+    {
+      "def": "to see the [inside_1]{inside} of a [building]{building} through a [window]{window} or an [open_1]{open} [door_1]{door}",
+      "examples": [
+        "[people_1]{People} can see in from the [street_1]{street}."
+      ],
+      "id": "see-in__7"
+    }
+  ]
+}

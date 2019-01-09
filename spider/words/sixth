@@ -1,0 +1,21 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} 6",
+      "examples": [
+        "the sixth of May",
+        "He was [place_2]{placed} sixth in the [tournament]{tournament}."
+      ],
+      "id": "sixth__1"
+    },
+    {
+      "def": "one of 6 [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "About five-sixths of the [group_1]{group} [said_1]{said} they [support_1]{supported} the [decision_1]{decision}."
+      ],
+      "id": "sixth__4"
+    }
+  ],
+  "word": "sixth"
+}

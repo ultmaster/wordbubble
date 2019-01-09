@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "to tell dancers which movements to make, especially for a square dance",
+      "entry": "call",
+      "id": "call_1#call_1__64"
+    },
+    {
+      "comment": "to [plan_1]{plan} the [movement]{movements} for [dancer]{dancers} to [perform]{perform}",
+      "entry": "choreograph",
+      "id": "choreograph#choreograph__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [plan_1]{plan} the [movement]{movements} that [dancer]{dancers} [perform]{perform} on [stage_1]{stage}",
+      "entry": "choreographer",
+      "id": "choreographer#choreographer__1"
+    },
+    {
+      "comment": "[relate]{relating} to [choreography]{choreography}",
+      "entry": "choreographic",
+      "id": "choreographic#choreographic__1"
+    },
+    {
+      "comment": "the art of [planning]{planning} a [series]{series} of [dance_1]{dance} [step_1]{steps} for a [group_1]{group} of [dancer]{dancers} to [perform]{perform} to a [piece_1]{piece} of [music]{music}",
+      "entry": "choreography",
+      "id": "choreography#choreography__1"
+    },
+    {
+      "comment": "the [dance_1]{dance} [step_1]{steps} that a [group_1]{group} of [dancer]{dancers} [perform]{performs} to a [piece_1]{piece} of [music]{music}",
+      "entry": "choreography",
+      "id": "choreography#choreography__2"
+    },
+    {
+      "comment": "the [activity]{activity} or [job_1]{job} of [dancing]{dancing} in [order_1]{order} to [entertain]{entertain} an [audience]{audience}",
+      "entry": "dance",
+      "id": "dance_2#dance_2__8"
+    },
+    {
+      "comment": "the way that you move your [feet]{feet} when you are [dancing]{dancing} or [play_1]{playing} [sport_1]{sports}",
+      "entry": "footwork",
+      "id": "footwork#footwork__1"
+    },
+    {
+      "comment": "the use of [movement]{movement} to [communicate]{communicate}, [especially]{especially} in [dance_1]{dance}",
+      "entry": "gesture",
+      "id": "gesture_1#gesture_1__5"
+    },
+    {
+      "comment": "in [dance_1]{dance}, [musical_2]{musicals}, [cabaret]{cabaret}, etc., the [action_1]{action} of [wave_2]{waving} the [hand_1]{hands} with the [palm_1]{palms} [facing]{facing} [forward_1]{forward} and the [finger_1]{fingers} [wide_1]{wide} [open_1]{open}, in [order_1]{order} to show [excitement]{excitement} or [enthusiasm]{enthusiasm}",
+      "entry": "jazz hands",
+      "id": "jazz-hands#jazz-hands__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [movement]{movement} of your [leg_1]{leg} [forward_1]{forward} and [upward_1]{upward}, [especially]{especially} in a [dance_1]{dance}",
+      "entry": "kick",
+      "id": "kick_2#kick_2__8"
+    },
+    {
+      "comment": "[able_1]{able} to move or [dance_1]{dance} in an [easy_1]{easy} and [graceful]{graceful} way",
+      "entry": "light on your feet",
+      "id": "light-on-your-feet#light-on-your-feet__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [movement]{movement} or [set_1]{set} of [movement]{movements} [perform]{performed} with your [feet]{feet} when you are [dancing]{dancing}",
+      "entry": "step",
+      "id": "step_1#step_1__9"
+    },
+    {
+      "comment": "a [dancer]{dancer} who is [wooden]{wooden} [move_1]{moves} in a very [stiff_1]{stiff} way that [does]{does} not [look_1]{look} [natural_1]{natural} or [graceful]{graceful}",
+      "entry": "wooden",
+      "id": "wooden#wooden__5"
+    }
+  ],
+  "thesaurus": "Dance movements and choreography",
+  "type": "Related words"
+}

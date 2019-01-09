@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "come to life",
+  "senses": [
+    {
+      "def": "if something such as a [machine_1]{machine} comes to [life]{life}, it [begin]{begins} to [work_1]{work}",
+      "examples": [],
+      "id": "come-to-life__1"
+    },
+    {
+      "def": "to seem [real_1]{real} and [natural_1]{natural}",
+      "examples": [
+        "a [style_1]{style} of [writing]{writing} that will [make_1]{make} your [character]{characters} come to [life]{life} on the [page_1]{page}"
+      ],
+      "id": "come-to-life__2"
+    },
+    {
+      "def": "to [start_1]{start} to become [exciting]{exciting} or [lively]{lively}",
+      "examples": [
+        "The [game_1]{game} [really]{really} came to [life]{life} in the [second_1]{second} [half]{half}."
+      ],
+      "id": "come-to-life__4"
+    },
+    {
+      "def": "to [start_1]{start} to be [alive]{alive}",
+      "examples": [],
+      "id": "come-to-life__6"
+    }
+  ]
+}

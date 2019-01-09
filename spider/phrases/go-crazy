@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "go crazy",
+  "senses": [
+    {
+      "def": "to become very [angry]{angry} about something",
+      "examples": [
+        "My [parent]{parents} will go [crazy_1]{crazy} if they find out."
+      ],
+      "id": "go-crazy__1"
+    },
+    {
+      "def": "to become [bored]{bored}, [impatient]{impatient}, and [upset_1]{upset}",
+      "examples": [
+        "If I [work_1]{work} there much [long_1]{longer} I\u2019ll go [crazy_1]{crazy}."
+      ],
+      "id": "go-crazy__3"
+    },
+    {
+      "def": "if an [audience]{audience} or [group_1]{group} of [people_1]{people} go [crazy_1]{crazy}, they become very [excited]{excited}",
+      "examples": [
+        "He [score_1]{scored} and the [crowd_1]{crowd} went [crazy_1]{crazy}."
+      ],
+      "id": "go-crazy__5"
+    }
+  ]
+}

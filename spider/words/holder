@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [own_2]{owns} something or who has been [given_1]{given} something",
+      "examples": [
+        "[ticket_1]{Ticket} [holder]{holders} should use [gate_1]{Gates} 7 and 8.",
+        "the former [world]{world} 400m [record_1]{record} holder",
+        "the holder of an [important]{important} [public_1]{public} [office]{office}"
+      ],
+      "id": "holder__1"
+    },
+    {
+      "def": "something that is [design_2]{designed} to [hold_1]{hold} or [support_1]{support} another [object_1]{object}",
+      "examples": [
+        "a [document_1]{document} holder",
+        "[candle]{candles} in [brass]{brass} [holder]{holders}"
+      ],
+      "id": "holder__5"
+    }
+  ],
+  "word": "holder"
+}

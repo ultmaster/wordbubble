@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "see off",
+  "senses": [
+    {
+      "def": "to go somewhere such as a [station_1]{station} or [airport]{airport} with someone in [order_1]{order} to [say_1]{say} [goodbye_1]{goodbye} to them",
+      "examples": [
+        "Anne [saw_1]{saw} [terrycloth]{Terry} off at the [station_1]{station}."
+      ],
+      "id": "see-off__1"
+    },
+    {
+      "def": "to [make_1]{make} someone go [away_1]{away} or [leave_1]{leave} a [place_1]{place}, [especially]{especially} by [chase_1]{chasing} them",
+      "examples": [
+        "The [dog_1]{dogs} will [soon]{soon} see off any [burglar]{burglars}."
+      ],
+      "id": "see-off__3"
+    },
+    {
+      "def": "to [deal_1]{deal} [successful#successful__11]{successfully} with someone or something, [especially]{especially} by [defeat_2]{defeating} them [easily]{easily}",
+      "examples": [
+        "She [managed]{managed} to see off the [challenge_1]{challenge} of her French [opponent]{opponent}."
+      ],
+      "id": "see-off__5"
+    }
+  ]
+}

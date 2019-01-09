@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "add to",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something such as a [feeling_1]{feeling} or a [quality_1]{quality} [great_1]{greater} or more [extreme_1]{extreme}",
+      "examples": [
+        "The [arrival]{arrival} of five more [guest_1]{guests} only [added]{added} to the [confusion]{confusion}."
+      ],
+      "id": "add-to__1"
+    },
+    {
+      "def": "to [make_1]{make} an amount or [number_1]{number} [great_1]{greater} by [add_1]{adding} another amount or [number_1]{number}",
+      "examples": [
+        "All her many [expense_1]{expenses} were [added]{added} to my bill.",
+        "[add_1]{Add} the amount of [tax_1]{tax} you [paid_1]{paid} to the [total_1]{total}."
+      ],
+      "id": "add-to__3"
+    }
+  ]
+}

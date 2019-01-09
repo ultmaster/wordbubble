@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "night falls",
+  "senses": [
+    {
+      "def": "when [night_1]{night} [fall_1]{falls}, it becomes [dark_1]{dark}",
+      "examples": [
+        "[night_1]{Night} was [fall_1]{falling} by the time they [arrive]{arrived} [home_1]{home}."
+      ],
+      "id": "night-falls__1"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "part": "phrase",
+  "phrase": "hang on",
+  "senses": [
+    {
+      "def": "to [hold_1]{hold} [tight_1#tight_1__40]{tightly} to something",
+      "examples": [
+        "[just_1]{Just} [sit]{sit} still and [hang_1]{hang} on [tight_1]{tight}!"
+      ],
+      "id": "hang-on__1"
+    },
+    {
+      "def": "to [wait_1]{wait} or be [patient_1]{patient}",
+      "examples": [
+        "I [think_1]{think} we should [hang_1]{hang} on and see the [end_1]{end} of the [game_1]{game}."
+      ],
+      "id": "hang-on__4"
+    },
+    {
+      "def": "to [depend]{depend} on something",
+      "examples": [
+        "Everything [hang_1]{hangs} on the [result_1]{result} of the [blood_1]{blood} [test_1]{test}."
+      ],
+      "id": "hang-on__6"
+    },
+    {
+      "def": "to [continue]{continue} [doing]{doing} something and [achieve]{achieve} [success]{success} even though there are [difficulty]{difficulties}",
+      "examples": [
+        "The [visit_1]{visiting} [team_1]{team} [hung_1]{hung} on for a [narrow_1]{narrow} [victory]{victory}."
+      ],
+      "id": "hang-on__8"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you have [just_1]{just} [realize]{realized} something",
+      "examples": [
+        "[hang_1]{Hang} on a [minute_1]{minute}! That isn\u2019t the [dress_1]{dress} she was [wearing]{wearing} [earlier_1]{earlier}."
+      ],
+      "id": "hang-on__10"
+    }
+  ]
+}

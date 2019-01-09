@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area} of [land_1]{land} with [small_1]{small} [tree]{trees} and [bush]{bushes} [growing]{growing} on it",
+      "entry": "brush",
+      "id": "brush_1#brush_1__12"
+    },
+    {
+      "comment": "a [type_1]{type} of [land_1]{land} in the [southwest_1]{southwest} of the U.S. where many [small_1]{small} [tree]{trees} and [bush]{bushes} [grow]{grow} [close_1]{close} together",
+      "entry": "chaparral",
+      "id": "chaparral#chaparral__1"
+    },
+    {
+      "comment": "an [area]{area} in a [forest]{forest} where there are no [tree]{trees} or [bush]{bushes}",
+      "entry": "clearing",
+      "id": "clearing#clearing__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} [covered_1]{covered} by [tree]{trees} and other [plant_1]{plants} [growing]{growing} [close_1]{close} together",
+      "entry": "forest",
+      "id": "forest#forest__1"
+    },
+    {
+      "comment": "an [area]{area} of a [forest]{forest} where there are no [tree]{trees} or [bush]{bushes}",
+      "entry": "glade",
+      "id": "glade#glade__1"
+    },
+    {
+      "comment": "a thick [tropical]{tropical} [forest]{forest}",
+      "entry": "jungle",
+      "id": "jungle#jungle__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} where [fruit_1]{fruit} [tree]{trees} are [grown_1]{grown}",
+      "entry": "orchard",
+      "id": "orchard#orchard__1"
+    },
+    {
+      "comment": "a [forest]{forest} in a [tropical]{tropical} [region]{region} of the [world]{world} where it [rain_1]{rains} a [lot_1]{lot}. [rain_1]{Rain} [forest]{forests} are [considered]{considered} to be [important]{important} [environmental]{environmental} [area]{areas} and many [people_1]{people} [want_1]{want} them to be [protected]{protected} by [law]{law}",
+      "entry": "rain forest",
+      "id": "rain-forest#rain-forest__1"
+    },
+    {
+      "comment": "[land_1]{land} with [small_1]{small} [bush]{bushes} and [tree]{trees} on it",
+      "entry": "scrubland",
+      "id": "scrubland#scrubland__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [covered_1]{covered} by [water_1]{water} where [tree]{trees} and [plant_1]{plants} [grow]{grow}",
+      "entry": "swamp",
+      "id": "swamp_2#swamp_2__1"
+    },
+    {
+      "comment": "an [area]{area} with a [lot_1]{lot} of [bush]{bushes} and [small_1]{small} [tree]{trees} [growing]{growing} very [close_1]{close} together",
+      "entry": "thicket",
+      "id": "thicket#thicket__1"
+    },
+    {
+      "comment": "an area of land filled with trees. You can also talk about woodlands, and this has the same meaning.",
+      "entry": "woodland",
+      "id": "woodland#woodland__1"
+    },
+    {
+      "comment": "a [large_1]{large} [forest]{forest} or any [small_1]{smaller} [area]{area} where there are many [tree]{trees} and [wild_1]{wild} [plant_1]{plants}",
+      "entry": "the woods",
+      "id": "wood#wood__9"
+    }
+  ],
+  "thesaurus": "Areas of land with trees growing on them",
+  "type": "Related words"
+}

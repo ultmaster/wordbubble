@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "the [normal_1]{normal} [temperature]{temperature} [inside_1]{inside} a [building]{building} that is neither too [hot]{hot} nor too [cold_1]{cold}",
+      "entry": "room temperature",
+      "id": "room-temperature#room-temperature__1"
+    },
+    {
+      "comment": "not [hot]{hot} or [cold_1]{cold} enough to be [enjoyable]{enjoyable}",
+      "entry": "lukewarm",
+      "id": "lukewarm#lukewarm__1"
+    },
+    {
+      "comment": "the normal temperature of your body, measured with a thermometer",
+      "entry": "body temperature",
+      "id": "body-temperature#body-temperature__1"
+    },
+    {
+      "comment": "the [pleasant]{pleasant} [cool_1]{cool} [temperature]{temperature} of a [place_1]{place} or time of [day]{day}",
+      "entry": "the cool",
+      "id": "cool_3#cool_3__1"
+    },
+    {
+      "comment": "[ambient_1]{ambient} [temperature]{temperature} is the [temperature]{temperature} of the [surrounding]{surrounding} [air_1]{air}",
+      "entry": "ambient",
+      "id": "ambient_1#ambient_1__3"
+    },
+    {
+      "comment": "[warm_1]{warm} when it should be [hot]{hot}",
+      "entry": "tepid",
+      "id": "tepid#tepid__1"
+    },
+    {
+      "comment": "[warm_1]{warm} when it should be [cold_1]{cold}",
+      "entry": "tepid",
+      "id": "tepid#tepid__3"
+    }
+  ],
+  "thesaurus": "Neither hot nor cold",
+  "type": "Synonyms"
+}

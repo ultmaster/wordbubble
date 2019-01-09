@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[recently]{recently} [create]{created}, [built_1]{built}, [invent]{invented}, or [plan_2]{planned}",
+      "entry": "new",
+      "id": "new#new__1"
+    },
+    {
+      "comment": "most [recent]{recent}, or [new]{newest}",
+      "entry": "latest",
+      "id": "latest#latest__1"
+    },
+    {
+      "comment": "[new]{new}, or [unusual]{unusual}",
+      "entry": "novel",
+      "id": "novel_2#novel_2__1"
+    },
+    {
+      "comment": "[use_1]{using} [new]{new} [idea]{ideas} or [method]{methods} that are not yet [prove]{proved} to be [successful]{successful} every time",
+      "entry": "experimental",
+      "id": "experimental#experimental__1"
+    },
+    {
+      "comment": "[new]{new}, [interesting]{interesting}, and [different]{different} from anything else",
+      "entry": "original",
+      "id": "original_1#original_1__5"
+    },
+    {
+      "comment": "done for the first time [use_1]{using} [new]{new} [method]{methods}",
+      "entry": "pioneering",
+      "id": "pioneering#pioneering__1"
+    },
+    {
+      "comment": "very [modern]{modern}, or [recent]{recent}",
+      "entry": "up-to-the-minute",
+      "id": "up-to-the-minute#up-to-the-minute__3"
+    },
+    {
+      "comment": "[clearly]{clearly} [new]{new} and [different]{different}",
+      "entry": "fresh",
+      "id": "fresh_1#fresh_1__11"
+    },
+    {
+      "comment": "[new]{new}, [original_1]{original}, and [advanced]{advanced}",
+      "entry": "innovative",
+      "id": "innovative#innovative__1"
+    },
+    {
+      "comment": "[new]{new} and [completely]{completely} [change_1]{changing} the way that something is done, [thought_1]{thought} about, or made",
+      "entry": "revolutionary",
+      "id": "revolutionary_1#revolutionary_1__3"
+    }
+  ],
+  "thesaurus": "New",
+  "type": "Synonyms"
+}

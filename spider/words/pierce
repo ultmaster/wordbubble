@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [sharp_1]{sharp} [object_1]{object} [pierce]{pierces} something, it [make_1]{makes} a hole in it",
+      "examples": [
+        "The [knife_1]{knife} [enter]{entered} his [chest]{chest} and [pierce]{pierced} his [heart_1]{heart}.",
+        "[pierce]{Pierce} the [potato]{potatoes} several times and [place_1]{place} in a [hot]{hot} [oven]{oven}.",
+        "I had my [ear]{ears} [pierce]{pierced} [year]{years} [ago]{ago}.",
+        "a [pierce]{pierced} [nose_1]{nose}",
+        "[passageway]{Passageways} were [pierce]{pierced} through the [wall_1]{walls} of the [cave_1]{caves}."
+      ],
+      "id": "pierce__1"
+    },
+    {
+      "def": "if [sound_1]{sound} or [light_1]{light} [pierce]{pierces} something, it [suddenly]{suddenly} [sound_1]{sounds} very [loud_1#loud_1__12]{loudly} or [shine_1]{shines} very [bright_1#bright_1__20]{brightly}",
+      "examples": [
+        "A [wolf_1]{wolf}\u2019s [howl_1]{howl} [pierce]{pierced} the [silence_1]{silence} of the [dark_1]{dark} [night_1]{night}.",
+        "Her [word_1]{words} [pierce]{pierced} Sophie\u2019s [heart_1]{heart}."
+      ],
+      "id": "pierce__10"
+    }
+  ],
+  "word": "pierce"
+}

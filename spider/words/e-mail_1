@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a system for [send_1]{sending} [message_1]{messages} from one computer to another",
+      "examples": [
+        "We [communicate]{communicate} by e-mail.",
+        "Do they have e-mail?"
+      ],
+      "id": "e-mail_1__1"
+    },
+    {
+      "def": "the [message_1]{messages} that you [receive]{receive} by e-[mail_1]{mail}",
+      "examples": [
+        "She [check_1]{checks} her e-mail first thing every [morning_1]{morning}.",
+        "[send_1]{Send} me an e-mail with the [detail_1]{details}."
+      ],
+      "id": "e-mail_1__4"
+    }
+  ],
+  "word": "e-mail"
+}

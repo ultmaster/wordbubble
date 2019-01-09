@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something is [possible_1]{possible}, it can be done",
+      "entry": "possible",
+      "id": "possible_1#possible_1__1"
+    },
+    {
+      "comment": "used for saying that it is possible for someone to do something. Forms such as have been able to and will be able to are sometimes considered as tenses of the verb can",
+      "entry": "be able to do something",
+      "id": "be-able-to-do-something#be-able-to-do-something__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that it is [possible_1]{possible} to do something in a [particular_1]{particular} way",
+      "entry": "may",
+      "id": "may_1#may_1__8"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [possible_1]{possible} in [theory]{theory}, although it has not yet been [tried_1]{tried}",
+      "entry": "in principle",
+      "id": "in-principle#in-principle__1"
+    },
+    {
+      "comment": "[able_1]{able} to be done, or [worth_1]{worth} [doing]{doing}",
+      "entry": "viable",
+      "id": "viable#viable__1"
+    },
+    {
+      "comment": "[possible_1]{possible} or [likely_1]{likely} to [succeed]{succeed}",
+      "entry": "feasible",
+      "id": "feasible#feasible__1"
+    },
+    {
+      "comment": "[able_1]{able} to be done or [used]{used} [successful#successful__11]{successfully}",
+      "entry": "practicable",
+      "id": "practicable#practicable__1"
+    },
+    {
+      "comment": "[possible_1]{possible} to [achieve]{achieve}, [reach_1]{reach}, or get",
+      "entry": "attainable",
+      "id": "attainable#attainable__1"
+    },
+    {
+      "comment": "[possible_1]{possible} for a [person]{person} to do",
+      "entry": "humanly possible",
+      "id": "humanly#humanly__2"
+    },
+    {
+      "comment": "[able_1]{able} to be done",
+      "entry": "doable",
+      "id": "doable#doable__1"
+    }
+  ],
+  "thesaurus": "Possible and able to be done",
+  "type": "Synonyms"
+}

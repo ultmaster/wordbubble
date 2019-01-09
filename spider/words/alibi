@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who has an alibi can [prove]{prove} that they were somewhere else when a [crime_1]{crime} was [committed]{committed} and so can [claim_1]{claim} to be not [guilty]{guilty}",
+      "examples": [
+        "His [wife]{wife}, of [course_1]{course}, [provided]{provided} him with an alibi.",
+        "[smith]{Smith} had a [cast-iron_2]{cast-iron} alibi since he was in [prison]{prison} at the time of the [crime_1]{crime}."
+      ],
+      "id": "alibi__1"
+    },
+    {
+      "def": "an [excuse_1]{excuse} for not [have]{having} done something that you should have done",
+      "examples": [
+        "[constant_1]{Constant} [government]{government} [interference]{interference} only [provide]{provides} [management]{management} with an alibi for [poor_1]{poor} [performance]{performance}."
+      ],
+      "id": "alibi__4"
+    }
+  ],
+  "word": "alibi"
+}

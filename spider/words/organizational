@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to an [organization]{organization}",
+      "examples": [
+        "[keeping]{Keeping} organizational IT [cost_1]{costs} in [line_1]{line} is a [tough_1]{tough} [job_1]{job}.",
+        "A [manager]{manager}\u2019s [job_1]{job} [involve]{involves} [motivate]{motivating} [people_1]{people} to [attain]{attain} organizational [goals]{goals}."
+      ],
+      "id": "organizational__1"
+    },
+    {
+      "def": "[relate]{relating} to the [action_1]{action} or [process_1]{process} of [planning]{planning} and [arrange]{arranging} something",
+      "examples": [
+        "The [individual_1]{individual} must [possess]{possess} [good_1]{good} organizational [skill]{skills}.",
+        "It\u2019s a [relatively]{relatively} [straightforward]{straightforward} organizational [task_1]{task}."
+      ],
+      "id": "organizational__4"
+    },
+    {
+      "def": "[relate]{relating} to the way in which the [different]{different} [part_1]{parts} of something are [combined]{combined} or [arrange]{arranged} and [work_1]{work} together",
+      "examples": [
+        "You can [create]{create} flowcharts, organizational [chart_1]{charts}, [map_1]{maps}, and much more.",
+        "She [guide_2]{guided} the [implementation]{implementation} of [significant]{significant} [change_1]{changes} in the [department]{department}\u2019s organizational [structure_1]{structure}."
+      ],
+      "id": "organizational__7"
+    }
+  ],
+  "word": "organizational"
+}

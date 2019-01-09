@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "up to someone",
+  "senses": [
+    {
+      "def": "if something is up to you, you are the [person]{person} who [make_1]{makes} a [decision_1]{decision} about it",
+      "examples": [
+        "Do you [want_1]{want} to [stay_1]{stay} or go? It\u2019s up to you."
+      ],
+      "id": "up-to-someone__1"
+    },
+    {
+      "def": "if something is up to you, you are [responsible]{responsible} for [doing]{doing} it",
+      "examples": [
+        "It\u2019s up to all of us to [try_1]{try} to [solve]{solve} the [problem]{problems} in our [neighborhood]{neighborhoods}."
+      ],
+      "id": "up-to-someone__3"
+    }
+  ]
+}

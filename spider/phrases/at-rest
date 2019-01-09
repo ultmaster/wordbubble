@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "at rest",
+  "senses": [
+    {
+      "def": "not [moving]{moving}",
+      "examples": [
+        "[blood_1]{Blood} [pressure_1]{pressure} is [normal_1]{normal} when the [patient_1]{patient} is at rest."
+      ],
+      "id": "at-rest__1"
+    },
+    {
+      "def": "an [expression]{expression} [meaning_1]{meaning} \u201c[dead_1]{dead},\u201d [used]{used} in [situation]{situations} where the [word_1]{word} \u201c[dead_1]{dead}\u201d might [upset_1]{upset} someone",
+      "examples": [],
+      "id": "at-rest__3"
+    }
+  ]
+}

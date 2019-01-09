@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [official_1]{official} [order_1]{order} to [stop_1]{stop} [communication]{communication}, [trade_1]{trade}, etc. with a [country]{country} that has [broken_1]{broken} [international_1]{international} [law]{law}",
+      "examples": [
+        "[economic]{economic}/[trade_1]{trade}/[international_1]{international} [sanction_1]{sanctions}",
+        "The [council]{Council} [wanted]{wanted} to [impose]{impose} [sanction_1]{sanctions} against the [country]{countries} [involved]{involved} in the [dispute_1]{dispute}.",
+        "[talk_1]{Talks} [continue]{continue} over the [condition_1]{conditions} for [lift_1]{lifting} [sanction_1]{sanctions}."
+      ],
+      "id": "sanction_1__1"
+    },
+    {
+      "def": "[official_1]{official} [permission]{permission} for [take_1]{taking} [action_1]{action}",
+      "examples": [
+        "War was [declared]{declared} without the sanction of [parliament]{parliament}."
+      ],
+      "id": "sanction_1__6"
+    },
+    {
+      "def": "a [threat]{threat} to [punish]{punish} someone for [b-boying]{breaking} a [rule_1]{rule}",
+      "examples": [
+        "Only the [medical_1]{medical} [council]{council} can [apply]{apply} a sanction against a [doctor_1]{doctor}."
+      ],
+      "id": "sanction_1__8"
+    }
+  ],
+  "word": "sanction"
+}

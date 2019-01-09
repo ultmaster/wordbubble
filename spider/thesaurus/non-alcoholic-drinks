@@ -1,0 +1,446 @@
+{
+  "entries": [
+    {
+      "comment": "a cup of coffee made by pouring a little espresso  (=strong Italian coffee) on top of hot water",
+      "entry": "americano",
+      "id": "americano#americano__1"
+    },
+    {
+      "comment": "a [bitter_1]{bitter} [substance]{substance} [used]{used} to [flavor_1]{flavor} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "angostura",
+      "id": "angostura#angostura__1"
+    },
+    {
+      "comment": "a [bitter_1]{bitter} [liquid_1]{liquid} made from [plant_1]{plants} or [root_1]{roots} that is [added]{added} to [alcoholic_1]{alcoholic} [drink_1]{drinks} to give [flavor_1]{flavor}",
+      "entry": "bitters",
+      "id": "bitters#bitters__1"
+    },
+    {
+      "comment": "an amount of [tea]{tea} [brew_1]{brewed} at one time and [serve_1]{served} in a [pot_1]{pot}",
+      "entry": "brew",
+      "id": "brew_2#brew_2__5"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} that [remains]{remains} when [fat_1]{fat} is [removed]{removed} from [cream_1]{cream} in [order_1]{order} to [make_1]{make} [butter_1]{butter}, [used]{used} in [cooking_1]{cooking} or as a [drink_1]{drink}",
+      "entry": "buttermilk",
+      "id": "buttermilk#buttermilk__1"
+    },
+    {
+      "comment": "strong coffee made with hot milk and often with cinnamon or chocolate powder on top",
+      "entry": "cappuccino",
+      "id": "cappuccino#cappuccino__1"
+    },
+    {
+      "comment": "[sweet_1]{sweet} [flavored]{flavored} [tea]{tea} of the [type_1]{type} often [sold]{sold} in [cafe]{caf\u00e9s}",
+      "entry": "chai",
+      "id": "chai#chai__1"
+    },
+    {
+      "comment": "[tea]{tea} that you [drink_1]{drink}",
+      "entry": "chai",
+      "id": "chai#chai__2"
+    },
+    {
+      "comment": "a [drink_1]{drink} made by [pour]{pouring} [hot]{hot} [water_1]{water} or [milk_1]{milk} over a [sweet_1]{sweet} [chocolate]{chocolate} [powder_1]{powder}, or a [cup_1]{cup} of this [drink_1]{drink}",
+      "entry": "chocolate",
+      "id": "chocolate#chocolate__8"
+    },
+    {
+      "comment": "a [drink_1]{drink} made from [apple]{apples}, or a [glass]{glass} of this [drink_1]{drink}",
+      "entry": "cider",
+      "id": "cider#cider__1"
+    },
+    {
+      "comment": "a [clear_1]{clear} [drink_1]{drink} made by [add_1]{adding} a [gas_1]{gas} to [water_1]{water}",
+      "entry": "club soda",
+      "id": "club-soda#club-soda__1"
+    },
+    {
+      "comment": "a [glass]{glass} of [club_1]{club} [soda]{soda}",
+      "entry": "club soda",
+      "id": "club-soda#club-soda__2"
+    },
+    {
+      "comment": "a [hot]{hot} chocolate-flavored [drink_1]{drink} made from [milk_1]{milk}, [cocoa]{cocoa}, and [sugar_1]{sugar}, or a [cup_1]{cup} of this [drink_1]{drink}",
+      "entry": "cocoa",
+      "id": "cocoa#cocoa__2"
+    },
+    {
+      "comment": "a hot, slightly bitter drink made by pouring hot water over brown powder consisting of coffee beans that have been ground  (=crushed into very small pieces). Coffee served without milk is called black coffee",
+      "entry": "coffee",
+      "id": "coffee#coffee__1"
+    },
+    {
+      "comment": "a [cup_1]{cup} of [coffee]{coffee}",
+      "entry": "coffee",
+      "id": "coffee#coffee__9"
+    },
+    {
+      "comment": "a type of sweet brown fizzy drink  (=with gas in it), or a glass of this drink",
+      "entry": "Coke",
+      "id": "coke#coke__1"
+    },
+    {
+      "comment": "a sweet brown fizzy drink  (=with gas in it), or a glass of this drink",
+      "entry": "cola",
+      "id": "cola#cola__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} fruit-flavored [drink_1]{drink} that you [mix_1]{mix} with [water_1]{water}",
+      "entry": "cordial",
+      "id": "cordial_2#cordial_2__2"
+    },
+    {
+      "comment": "a sweet drink with bubbles of gas in it that tastes of vanilla",
+      "entry": "cream soda",
+      "id": "cream-soda#cream-soda__1"
+    },
+    {
+      "comment": "[decaffeinated]{decaffeinated} [coffee]{coffee}, or a [cup_1]{cup} of this [drink_1]{drink}",
+      "entry": "decaf",
+      "id": "decaf#decaf__1"
+    },
+    {
+      "comment": "a [coffee]{coffee} with two [serving]{servings} of [cream_1]{cream} and two [sugar_1]{sugars}",
+      "entry": "double-double",
+      "id": "double-double#double-double__1"
+    },
+    {
+      "comment": "[water_1]{water} that is [safe_1]{safe} to [drink_1]{drink}",
+      "entry": "drinking water",
+      "id": "drinking-water#drinking-water__1"
+    },
+    {
+      "comment": "a drink that tastes of ginger and is often mixed with alcoholic drinks",
+      "entry": "dry ginger",
+      "id": "dry-ginger#dry-ginger__1"
+    },
+    {
+      "comment": "a [small_1]{small} [cup_1]{cup} of very [strong]{strong} [coffee]{coffee}, or this [type_1]{type} of [coffee]{coffee}",
+      "entry": "espresso",
+      "id": "espresso#espresso__1"
+    },
+    {
+      "comment": "an [espresso]{espresso}",
+      "entry": "expresso",
+      "id": "expresso#expresso__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [coffee]{coffee} [consist]{consisting} of [espresso]{espresso} with [hot]{hot} [steamed]{steamed} [milk_1]{milk}. It is [similar]{similar} to a [cappuccino]{cappuccino}, except that the [milk_1]{milk} is [creamy]{creamy} rather than [foamy]{foamy}.",
+      "entry": "flat white",
+      "id": "flat-white#flat-white__1"
+    },
+    {
+      "comment": "a [soft]{soft} [drink_1]{drink} with [ice_1]{ice} [cream_1]{cream} [floating]{floating} in it",
+      "entry": "float",
+      "id": "float_2#float_2__2"
+    },
+    {
+      "comment": "a [cold_1]{cold} thick [drink_1]{drink} made with [milk_1]{milk} and [flavored]{flavored} with [fruit_1]{fruit}",
+      "entry": "frapp\u00e9",
+      "id": "frappe#frappe__1"
+    },
+    {
+      "comment": "a [bright_1#bright_1__20]{brightly} [colored_1]{colored} [drink_1]{drink} that is [popular]{popular} with [people_1]{people} who [play_1]{play} [sport_1]{sports}",
+      "entry": "Gatorade",
+      "id": "gatorade#gatorade__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [drink_1]{drink} with a [ginger_1]{ginger} [flavor_1]{flavor}",
+      "entry": "ginger ale",
+      "id": "ginger-ale#ginger-ale__1"
+    },
+    {
+      "comment": "a [glass]{glass} or [bottle_1]{bottle} of [ginger_1]{ginger} [ale]{ale}",
+      "entry": "ginger ale",
+      "id": "ginger-ale#ginger-ale__2"
+    },
+    {
+      "comment": "a [drink_1]{drink} [similar]{similar} to [ginger_1]{ginger} [ale]{ale}, with a [strong]{stronger} [flavor_1]{flavor}, made with [ferment_1]{fermented} [ginger_1]{ginger}",
+      "entry": "ginger beer",
+      "id": "ginger-beer#ginger-beer__1"
+    },
+    {
+      "comment": "a [glass]{glass} or [bottle_1]{bottle} of [ginger_1]{ginger} [beer]{beer}",
+      "entry": "ginger beer",
+      "id": "ginger-beer#ginger-beer__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [tea]{tea} that is a [pale_1]{pale} [green_1]{green} [color_1]{color} and comes [mainly]{mainly} from [china_1]{China} or Japan",
+      "entry": "green tea",
+      "id": "green-tea#green-tea__1"
+    },
+    {
+      "comment": "a sweet thick red liquid that is used in drinks and is made from pomegranates",
+      "entry": "grenadine",
+      "id": "grenadine#grenadine__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} made by [mix_1]{mixing} [hot]{hot} [milk_1]{milk} or [water_1]{water} with [chocolate]{chocolate} [powder_1]{powder}",
+      "entry": "hot chocolate",
+      "id": "hot-chocolate#hot-chocolate__1"
+    },
+    {
+      "comment": "a [cup_1]{cup} of [hot]{hot} [chocolate]{chocolate}",
+      "entry": "hot chocolate",
+      "id": "hot-chocolate#hot-chocolate__2"
+    },
+    {
+      "comment": "[iced]{iced} [coffee]{coffee}",
+      "entry": "ice coffee",
+      "id": "ice-coffee#ice-coffee__1"
+    },
+    {
+      "comment": "a cold sweet drink made from ice cream, a sweet flavored liquid, and soda water",
+      "entry": "ice-cream soda",
+      "id": "ice-cream-soda#ice-cream-soda__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} made from [coffee]{coffee} [mixed]{mixed} with [ice_1]{ice} and [milk_1]{milk}, or a [glass]{glass} of this [drink_1]{drink}",
+      "entry": "iced coffee",
+      "id": "iced-coffee#iced-coffee__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} made from [tea]{tea} with [ice_1]{ice}, and sometimes [lemon]{lemon} or [sugar_1]{sugar}, or a [glass]{glass} of this [drink_1]{drink}",
+      "entry": "iced tea",
+      "id": "iced-tea#iced-tea__1"
+    },
+    {
+      "comment": "[iced]{iced} [tea]{tea}",
+      "entry": "ice tea",
+      "id": "ice-tea#ice-tea__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} of very [cold_1]{cold} [water_1]{water} with [small_1]{small} [piece_1]{pieces} of [ice_1]{ice} in it",
+      "entry": "ice water",
+      "id": "ice-water#ice-water__1"
+    },
+    {
+      "comment": "a [glass]{glass} of Irish [coffee]{coffee}",
+      "entry": "Irish coffee",
+      "id": "irish-coffee#irish-coffee__2"
+    },
+    {
+      "comment": "[coffee]{coffee}",
+      "entry": "java",
+      "id": "java_1#java_1__1"
+    },
+    {
+      "comment": "a drink made from dahi or yogurt mixed with water",
+      "entry": "lassi",
+      "id": "lassi#lassi__1"
+    },
+    {
+      "comment": "a drink made by mixing espresso  (=strong coffee) with hot milk with lots of bubbles of air in it",
+      "entry": "latte",
+      "id": "latte#latte__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} made from [lemon]{lemons}, [sugar_1]{sugar}, and [water_1]{water}, or a [glass]{glass} of this [drink_1]{drink}",
+      "entry": "lemonade",
+      "id": "lemonade#lemonade__1"
+    },
+    {
+      "comment": "a sweet, clear, fizzy drink  (=with gas in it) that tastes slightly of lemon, or a glass of this drink",
+      "entry": "lemonade",
+      "id": "lemonade#lemonade__2"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [drink_1]{drink} made from [lime]{limes} or [tasting]{tasting} of [lime]{limes}",
+      "entry": "lime",
+      "id": "lime#lime__5"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [green_1]{green} [drink_1]{drink} made from [lime]{limes} or [tasting]{tasting} of [lime]{limes}",
+      "entry": "limeade",
+      "id": "limeade#limeade__1"
+    },
+    {
+      "comment": "a [large_1]{large} [cold_1]{cold} [drink_1]{drink}, [usually]{usually} [contain]{containing} [little_1]{little} or no [alcohol]{alcohol}",
+      "entry": "long drink",
+      "id": "long-drink#long-drink__1"
+    },
+    {
+      "comment": "a cup of espresso with a little hot frothy milk added to it",
+      "entry": "macchiato",
+      "id": "macchiato#macchiato__1"
+    },
+    {
+      "comment": "a [milkshake]{milkshake} with [malt_1]{malt} [added]{added} to it",
+      "entry": "malt",
+      "id": "malt_1#malt_1__2"
+    },
+    {
+      "comment": "a sweet drink made by mixing milk with chocolate or fruit, and usually ice cream, or a glass of this drink",
+      "entry": "milkshake",
+      "id": "milkshake#milkshake__1"
+    },
+    {
+      "comment": "a [cold_1]{cold} [drink_1]{drink} that [does]{does} not [contain]{contain} [alcohol]{alcohol}",
+      "entry": "mineral",
+      "id": "mineral#mineral__4"
+    },
+    {
+      "comment": "water containing minerals that comes from under the ground and that you can buy in bottles and drink",
+      "entry": "mineral water",
+      "id": "mineral-water#mineral-water__1"
+    },
+    {
+      "comment": "a [glass]{glass} or [bottle_1]{bottle} of [mineral]{mineral} [water_1]{water}",
+      "entry": "mineral water",
+      "id": "mineral-water#mineral-water__2"
+    },
+    {
+      "comment": "a [drink_1]{drink} without [alcohol]{alcohol} that you [mix_1]{mix} with an [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "mixer",
+      "id": "mixer#mixer__5"
+    },
+    {
+      "comment": "a [drink_1]{drink} made by [mix_1]{mixing} [coffee]{coffee} and [chocolate]{chocolate} together, or a [cup_1]{cup} of this [drink_1]{drink}",
+      "entry": "mocha",
+      "id": "mocha#mocha__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [coffee]{coffee}",
+      "entry": "mocha",
+      "id": "mocha#mocha__2"
+    },
+    {
+      "comment": "[orange_1]{orange} [juice_1]{juice}",
+      "entry": "OJ",
+      "id": "oj#oj__1"
+    },
+    {
+      "comment": "a sweet fizzy drink  (=with gas in it) made from oranges, sugar, and water, or a glass of this drink. This is also called orange soda.",
+      "entry": "orangeade",
+      "id": "orangeade#orangeade__1"
+    },
+    {
+      "comment": "a [drink_1]{drink} made by [add_1]{adding} [water_1]{water} to a thick [liquid_1]{liquid} made from [orange_1]{oranges} and [sugar_1]{sugar}, or a [glass]{glass} of this [drink_1]{drink}",
+      "entry": "orange squash",
+      "id": "orange-squash#orange-squash__1"
+    },
+    {
+      "comment": "a sweet drink containing many bubbles",
+      "entry": "pop",
+      "id": "pop_2#pop_2__1"
+    },
+    {
+      "comment": "tea made from the leaves of a South African plant called rooibos, which is thought to be good for your health",
+      "entry": "rooibos",
+      "id": "rooibos#rooibos__1"
+    },
+    {
+      "comment": "a sweet carbonated drink that is not alcoholic, or a glass of this drink",
+      "entry": "root beer",
+      "id": "root-beer#root-beer__1"
+    },
+    {
+      "comment": "a sweet drink made from the roots of the sassafras plant",
+      "entry": "sarsaparilla",
+      "id": "sarsaparilla#sarsaparilla__1"
+    },
+    {
+      "comment": "a [milkshake]{milkshake}",
+      "entry": "shake",
+      "id": "shake_2#shake_2__4"
+    },
+    {
+      "comment": "a [children]{children}\u2019s [drink_1]{drink} made by [mix_1]{mixing} a [sweet_1]{sweet} [liquid_1]{liquid} with [crushed]{crushed} [ice_1]{ice}",
+      "entry": "slush",
+      "id": "slush#slush__3"
+    },
+    {
+      "comment": "a drink made from fruit, milk or cream, and ice cream",
+      "entry": "smoothie",
+      "id": "smoothie#smoothie__2"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [smoothie]{smoothie}",
+      "entry": "smoothy",
+      "id": "smoothy#smoothy__1"
+    },
+    {
+      "comment": "[club_1]{club} [soda]{soda}",
+      "entry": "soda",
+      "id": "soda#soda__1"
+    },
+    {
+      "comment": "[soda]{soda} [pop_1]{pop}",
+      "entry": "soda",
+      "id": "soda#soda__2"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [fizzy]{fizzy} [drink_1]{drink}",
+      "entry": "soda pop",
+      "id": "soda-pop#soda-pop__1"
+    },
+    {
+      "comment": "water with gas in it that you add to an alcoholic drink such as whiskey",
+      "entry": "soda water",
+      "id": "soda-water#soda-water__1"
+    },
+    {
+      "comment": "a [cold_1]{cold} [drink_1]{drink} that [does]{does} not [contain]{contain} any [alcohol]{alcohol}",
+      "entry": "soft drink",
+      "id": "soft-drink#soft-drink__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [drink_1]{drink} that is not [alcoholic_1]{alcoholic} that [people_1]{people} [drink_1]{drink} to give them [energy]{energy}",
+      "entry": "sports drink",
+      "id": "sports-drink#sports-drink__1"
+    },
+    {
+      "comment": "a [sweet_1]{sweet} [drink_1]{drink} made from [fruit_1]{fruit} [juice_1]{juice}, [sugar_1]{sugar}, and [water_1]{water}",
+      "entry": "squash",
+      "id": "squash_1#squash_1__4"
+    },
+    {
+      "comment": "sugar-sweetened [beverage]{beverage}: any [drink_1]{drink} that has had some form of [sugar_1]{sugar} [added]{added} to it",
+      "entry": "SSB",
+      "id": "ssb#ssb__1"
+    },
+    {
+      "comment": "any [drink_1]{drink} that has had a form of [sugar_1]{sugar} [added]{added} to it",
+      "entry": "sugar-sweetened beverage",
+      "id": "sugar-sweetened-beverage#sugar-sweetened-beverage__1"
+    },
+    {
+      "comment": "a hot brown drink made by pouring boiling water onto the dried leaves of the tea bush. The leaves are called tea leaves and can be bought in small paper bags called tea bags that are put into a cup or teapot",
+      "entry": "tea",
+      "id": "tea#tea__1"
+    },
+    {
+      "comment": "a [cup_1]{cup} of [tea]{tea}",
+      "entry": "tea",
+      "id": "tea#tea__4"
+    },
+    {
+      "comment": "a hot drink made by pouring boiling water onto the dried leaves, fruit, or flowers of other plants, especially herbs",
+      "entry": "tea",
+      "id": "tea#tea__8"
+    },
+    {
+      "comment": "a [cup_1]{cup} of this [drink_1]{drink}",
+      "entry": "tea",
+      "id": "tea#tea__10"
+    },
+    {
+      "comment": "a type of carbonated water  (=with gas in it) with a bitter taste, often mixed with a strong alcoholic drink, or a glass of this drink",
+      "entry": "tonic",
+      "id": "tonic_1#tonic_1__1"
+    },
+    {
+      "comment": "very [strong]{strong} [coffee]{coffee} [serve_1]{served} without [milk_1]{milk} and [usually]{usually} with [sugar_1]{sugar}",
+      "entry": "Turkish coffee",
+      "id": "turkish-coffee#turkish-coffee__1"
+    },
+    {
+      "comment": "a sour juice made from grapes that are not yet ready to eat",
+      "entry": "verjuice",
+      "id": "verjuice#verjuice__1"
+    }
+  ],
+  "thesaurus": "Non-alcoholic drinks",
+  "type": "Related words"
+}

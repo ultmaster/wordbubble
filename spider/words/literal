@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "the literal [meaning_1]{meaning} of a [word_1]{word} is its most [basic_1]{basic} [meaning_1]{meaning}",
+      "examples": [
+        "He is [clearly]{clearly} not [use_1]{using} the [word_1]{word} \u201c[dead_1]{dead}\u201d in its literal [sense_1]{sense}."
+      ],
+      "id": "literal__1"
+    },
+    {
+      "def": "a literal [translation]{translation} is one in which each [word_1]{word} is [translate]{translated} [separate_1#separate_1__13]{separately} in a way that [does]{does} not [sound_1]{sound} [natural_1]{natural}",
+      "examples": [],
+      "id": "literal__4"
+    },
+    {
+      "def": "[understanding_1]{understanding} [word_1]{words} or [idea]{ideas} only in a [basic_1]{basic} and [obvious]{obvious} way, and not their [hidden_1]{hidden} or more [unusual]{unusual} [meaning_1]{meanings}",
+      "examples": [
+        "[young_1]{Young} [children]{children} can be very literal."
+      ],
+      "id": "literal__5"
+    }
+  ],
+  "word": "literal"
+}

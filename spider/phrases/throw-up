@@ -1,0 +1,42 @@
+{
+  "part": "phrase",
+  "phrase": "throw up",
+  "senses": [
+    {
+      "def": "if you [throw_1]{throw} up or [throw_1]{throw} something up, [food]{food} and [drink_1]{drink} comes back up from your [stomach_1]{stomach} and out of your [mouth_1]{mouth}",
+      "examples": [
+        "I [feel_1]{feel} [terrible]{terrible}, I\u2019ve been [throw_1]{throwing} up all [night_1]{night}!",
+        "She ate a [good_1]{good} [breakfast_1]{breakfast} then [threw]{threw} it all back up."
+      ],
+      "id": "throw-up__1"
+    },
+    {
+      "def": "to [build_1]{build} something such as a [house_1]{house} [quickly]{quickly} and not very well",
+      "examples": [
+        "A [lean-to]{lean-to} was [hasty#hasty__5]{hastily} [thrown]{thrown} up to [provide]{provide} some [shelter_1]{shelter}."
+      ],
+      "id": "throw-up__4"
+    },
+    {
+      "def": "to cause something such as [dust_1]{dust} or [water_1]{water} to [rise_1]{rise} into the [air_1]{air}",
+      "examples": [
+        "The [car]{car} [wheel_1]{wheels} [threw]{threw} up a [shower_1]{shower} of [gravel]{gravel}."
+      ],
+      "id": "throw-up__6"
+    },
+    {
+      "def": "to [suddenly]{suddenly} [leave_1]{leave} something such as your [job_1]{job} or your [home_1]{home}",
+      "examples": [
+        "They [threw]{threw} up the whole [city]{city} [lifestyle]{lifestyle}."
+      ],
+      "id": "throw-up__8"
+    },
+    {
+      "def": "to [produce_1]{produce} something [new]{new} or [unexpected]{unexpected}",
+      "examples": [
+        "This system has [thrown]{thrown} up a few [problem]{problems}."
+      ],
+      "id": "throw-up__10"
+    }
+  ]
+}

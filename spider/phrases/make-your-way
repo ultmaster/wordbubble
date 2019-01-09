@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make your way",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [moving]{moving} toward a [place_1]{place}",
+      "examples": [
+        "We made our way to the front of the [crowd_1]{crowd}."
+      ],
+      "id": "make-your-way__1"
+    },
+    {
+      "def": "to [start_1]{start} to [make_1]{make} [progress_1]{progress} in a [career_1]{career} or [activity]{activity}",
+      "examples": [
+        "Edward was [just_1]{just} [beginning]{beginning} to [make_1]{make} his way in [life]{life}."
+      ],
+      "id": "make-your-way__3"
+    }
+  ]
+}

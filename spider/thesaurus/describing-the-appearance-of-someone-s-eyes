@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "[beady]{beady} [eye_1]{eyes} are [small_1]{small}, round, and [bright_1]{bright}",
+      "entry": "beady",
+      "id": "beady#beady__1"
+    },
+    {
+      "comment": "[bloodshot]{bloodshot} [eye_1]{eyes} are red in the part where they should be [white_1]{white}",
+      "entry": "bloodshot",
+      "id": "bloodshot#bloodshot__1"
+    },
+    {
+      "comment": "a [bug-eyed]{bug-eyed} [creature]{creature} or [person]{person} has [eye_1]{eyes} that [stick_1]{stick} out",
+      "entry": "bug-eyed",
+      "id": "bug-eyed#bug-eyed__1"
+    },
+    {
+      "comment": "[clear_1]{clear} [eye_1]{eyes} are [bright_1]{bright} and [healthy]{healthy}",
+      "entry": "clear",
+      "id": "clear_1#clear_1__25"
+    },
+    {
+      "comment": "[close-set]{close-set} [eye_1]{eyes} are very [near_1]{near} to each other",
+      "entry": "close-set",
+      "id": "close-set#close-set__1"
+    },
+    {
+      "comment": "[have]{having} [eye_1]{eyes} that [look_1]{look} toward each other [slightly]{slightly}",
+      "entry": "cross-eyed",
+      "id": "cross-eyed#cross-eyed__1"
+    },
+    {
+      "comment": "if someone\u2019s [eye_1]{eyes} are [dead_1]{dead}, or if their [voice_1]{voice} is [dead_1]{dead}, they [feel_1]{feel} or show no [emotion]{emotion}",
+      "entry": "dead",
+      "id": "dead_1#dead_1__31"
+    },
+    {
+      "comment": "[deep-set]{deep-set} [eye_1]{eyes} seem to be a long way back into your [face_1]{face}",
+      "entry": "deep-set",
+      "id": "deep-set#deep-set__1"
+    },
+    {
+      "comment": "someone who is [doe-eyed]{doe-eyed} has [big_1]{big} [attractive]{attractive} [eye_1]{eyes} and [look_1]{looks} as if they do not have much [experience_1]{experience} of [life]{life}",
+      "entry": "doe-eyed",
+      "id": "doe-eyed#doe-eyed__1"
+    },
+    {
+      "comment": "the [light_1]{light} [brown_1]{brown} and [slightly]{slightly} [green_1]{green} or [golden]{golden} [color_1]{color} of some [people_1]{people}\u2019s [eye_1]{eyes}",
+      "entry": "hazel",
+      "id": "hazel_2#hazel_2__2"
+    },
+    {
+      "comment": "if your [eye_1]{eyes} [look_1]{look} [heavy_1]{heavy}, they have a [sad_1]{sad} or [tired]{tired} [expression]{expression}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__51"
+    },
+    {
+      "comment": "[hollow_1]{hollow} [eye_1]{eyes} or [cheek]{cheeks} seem to have [sunk]{sunk} into your [head_1]{head}, for [example]{example} because you are [tired]{tired}, thin, or [sick_1]{sick}",
+      "entry": "hollow",
+      "id": "hollow_1#hollow_1__10"
+    },
+    {
+      "comment": "with your [eye_1]{eyes} [half]{half} [closed]{closed}",
+      "entry": "lidded",
+      "id": "lidded#lidded__1"
+    },
+    {
+      "comment": "[liquid_1]{liquid} [eye_1]{eyes} are [clear_1]{clear} and [shiny]{shiny}",
+      "entry": "liquid",
+      "id": "liquid_2#liquid_2__4"
+    },
+    {
+      "comment": "[piggy_1]{piggy} [eye_1]{eyes} are [small_1]{small} and not [attractive]{attractive}",
+      "entry": "piggy",
+      "id": "piggy_2#piggy_2__2"
+    },
+    {
+      "comment": "[have]{having} [eye_1]{eyes} that [stick_1]{stick} out",
+      "entry": "pop-eyed",
+      "id": "pop-eyed#pop-eyed__1"
+    },
+    {
+      "comment": "[rheumy]{rheumy} [eye_1]{eyes} [look_1]{look} red and [wet_1]{wet} because of [illness]{illness}, [sadness]{sadness}, or [old]{old} [age_1]{age}",
+      "entry": "rheumy",
+      "id": "rheumy#rheumy__1"
+    },
+    {
+      "comment": "[used]{used} about someone\u2019s [eye_1]{eyes} or [expression]{expression} when their [eye_1]{eyes} are [partly]{partly} [closed]{closed}, [usually]{usually} because they do not [want_1]{want} to show what they are [feeling_1]{feeling} or [thinking_1]{thinking}",
+      "entry": "shuttered",
+      "id": "shuttered#shuttered__2"
+    },
+    {
+      "comment": "[sunken]{sunken} [eye_1]{eyes} or [cheek]{cheeks} [curve_1]{curve} [inward_1]{inward}, often [showing]{showing} that someone is [sick_1]{sick} or [old]{old}",
+      "entry": "sunken",
+      "id": "sunken#sunken__6"
+    }
+  ],
+  "thesaurus": "Describing the appearance of someone's eyes",
+  "type": "Related words"
+}

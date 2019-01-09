@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "farm out",
+  "senses": [
+    {
+      "def": "to [send_1]{send} part of your [work_1]{work} to be done by [people_1]{people} [outside]{outside} a [company]{company}",
+      "examples": [
+        "We could always [farm_1]{farm} the [typing]{typing} out to [freelancer]{freelancers}."
+      ],
+      "id": "farm-out__1"
+    },
+    {
+      "def": "to [send_1]{send} someone to be [look_1]{looked} after by someone else",
+      "examples": [
+        "She [farm_2]{farmed} out all the [children]{children} to a childminder."
+      ],
+      "id": "farm-out__3"
+    }
+  ]
+}

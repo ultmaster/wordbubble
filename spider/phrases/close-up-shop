@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "close (up) shop",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [working]{working} at the [end_1]{end} of the [day]{day}",
+      "examples": [
+        "You\u2019ll have to come back [tomorrow_1]{tomorrow} \u2013 I\u2019m about to [close_1]{close} up [shop_1]{shop}."
+      ],
+      "id": "close-up-shop__1"
+    },
+    {
+      "def": "to [close_1]{close} down a [business]{business}",
+      "examples": [
+        "They [closed]{closed} [shop_1]{shop} last January when a [chain_1]{chain} [store_1]{store} [open_2]{opened} [nearby_1]{nearby}."
+      ],
+      "id": "close-up-shop__3"
+    }
+  ]
+}

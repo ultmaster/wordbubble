@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [sound_1]{sound} of a [kiss_1]{kiss} or [kiss_1]{kisses}",
+      "entry": "mwah",
+      "id": "mwah#mwah__1"
+    },
+    {
+      "comment": "to [touch_1]{touch} someone with your [lip]{lips} because you [love_1]{love} them or have [sexual]{sexual} [feeling_1]{feelings} for them",
+      "entry": "kiss",
+      "id": "kiss_1#kiss_1__1"
+    },
+    {
+      "comment": "to put your [arms]{arms} around someone to show your [love_1]{love} or [friendship]{friendship}",
+      "entry": "hug",
+      "id": "hug_1#hug_1__1"
+    },
+    {
+      "comment": "to [touch_1]{touch} someone [gently]{gently} several times with a [flat_1]{flat} hand to show that you [care_1]{care} about them or [want_1]{want} to [make_1]{make} them [feel_1]{feel} [better_1]{better}",
+      "entry": "pat",
+      "id": "pat_1#pat_1__1"
+    },
+    {
+      "comment": "to move your [hand_1]{hands} [gently]{gently} over someone\u2019s [face_1]{face} or body in a way that [show_1]{shows} you [love_1]{love} them",
+      "entry": "caress",
+      "id": "caress_1#caress_1__1"
+    },
+    {
+      "comment": "if you [cuddle_1]{cuddle} someone, you put your [arms]{arms} around them and [hold_1]{hold} them [close_1]{close} to show that you [like_1]{like} or [love_1]{love} them",
+      "entry": "cuddle",
+      "id": "cuddle_1#cuddle_1__1"
+    },
+    {
+      "comment": "to put your [arms]{arms} around someone because you [love_1]{love} them or because they are [unhappy]{unhappy}",
+      "entry": "hold",
+      "id": "hold_1#hold_1__18"
+    },
+    {
+      "comment": "to put your [arms]{arms} around someone in [order_1]{order} to show [love_1]{love} or [friendship]{friendship}",
+      "entry": "embrace",
+      "id": "embrace_1#embrace_1__5"
+    },
+    {
+      "comment": "to put your hand around someone else\u2019s hand",
+      "entry": "hold hands",
+      "id": "hold-hands#hold-hands__1"
+    },
+    {
+      "comment": "to [press_1]{press} your [nose_1]{nose} or [face_1]{face} against something [gently]{gently}",
+      "entry": "nuzzle",
+      "id": "nuzzle#nuzzle__1"
+    }
+  ],
+  "thesaurus": "Expressing affection physically",
+  "type": "Synonyms"
+}

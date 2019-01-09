@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [reach_1]{reach} a [place_1]{place} after [have]{having} been [sent]{sent} or [ordered]{ordered} from somewhere else",
+      "entry": "arrive",
+      "id": "arrive#arrive__5"
+    },
+    {
+      "comment": "to go or come into a [place_1]{place}",
+      "entry": "enter",
+      "id": "enter#enter__1"
+    },
+    {
+      "comment": "to [arrive]{arrive} somewhere",
+      "entry": "reach",
+      "id": "reach_1#reach_1__1"
+    },
+    {
+      "comment": "to [arrive]{arrive} at [home_1]{home} or at [work_1]{work}",
+      "entry": "get in",
+      "id": "get-in#get-in__1"
+    },
+    {
+      "comment": "to [arrive]{arrive} somewhere",
+      "entry": "come in",
+      "id": "come-in#come-in__3"
+    },
+    {
+      "comment": "to [arrive]{arrive} at a [place_1]{place}",
+      "entry": "get",
+      "id": "get#get__86"
+    },
+    {
+      "comment": "to [arrive]{arrive} at a [place_1]{place} by [plane_1]{plane} or [boat]{boat}",
+      "entry": "land",
+      "id": "land_2#land_2__1"
+    },
+    {
+      "comment": "to [arrive]{arrive} somewhere",
+      "entry": "appear",
+      "id": "appear#appear__12"
+    },
+    {
+      "comment": "to [arrive]{arrive} in a [place_1]{place}",
+      "entry": "draw in",
+      "id": "draw-in#draw-in__2"
+    },
+    {
+      "comment": "to [arrive]{arrive} somewhere, [especially]{especially} [unexpected#unexpected__4]{unexpectedly} or in a way that [cause_1]{causes} [problem]{problems}",
+      "entry": "land",
+      "id": "land_2#land_2__3"
+    }
+  ],
+  "thesaurus": "To arrive in a place, or to enter a place",
+  "type": "Synonyms"
+}

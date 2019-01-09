@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "[subject_1]{subjects} of [study_1]{study} that are not [scientific]{scientific}, such as [history]{history}, [literature]{literature}, and [language]{languages}",
+      "entry": "arts",
+      "id": "art_1#art_1__11"
+    },
+    {
+      "comment": "a science that involves studying the Earth, for example geography or geology",
+      "entry": "earth science",
+      "id": "earth-science#earth-science__1"
+    },
+    {
+      "comment": "subjects such as history, literature, and philosophy that are based on the study of human culture and ideas",
+      "entry": "the humanities",
+      "id": "the-humanities#the-humanities__1"
+    },
+    {
+      "comment": "the [study_1]{study} of the [process_1]{processes} [involved]{involved} in [collect_1]{collecting}, [organize]{organizing}, and [use_1]{using} computer [information]{information}",
+      "entry": "information science",
+      "id": "information-science#information-science__1"
+    },
+    {
+      "comment": "[school_1]{school} or [college]{college} [subject_1]{subjects} that give [student]{students} a [general_1]{general} [education]{education} and [teach]{teach} them to [think_1]{think}, rather than those [subject_1]{subjects} that [develop]{develop} [practical]{practical} [skill]{skills}",
+      "entry": "liberal arts",
+      "id": "liberal-arts#liberal-arts__1"
+    },
+    {
+      "comment": "[subject_1]{subjects} that [involve]{involve} the [study_1]{study} of [people_1]{people}, [animal_1]{animals}, or [plant_1]{plants}",
+      "entry": "life sciences",
+      "id": "life-sciences#life-sciences__1"
+    },
+    {
+      "comment": "[science]{sciences} that [deal_1]{deal} with the [physical_1]{physical} [world]{world}, [considered]{considered} as a [group_1]{group} or as [individual_1]{individual} [subject_1]{subjects} such as [physics]{physics}, [chemistry]{chemistry}, or [biology]{biology}",
+      "entry": "natural science",
+      "id": "natural-science#natural-science__1"
+    },
+    {
+      "comment": "sciences such as geography and physics that deal with things that are not alive. Sciences such as biology that deal with things that are alive are called life sciences.",
+      "entry": "physical science",
+      "id": "physical-science#physical-science__1"
+    },
+    {
+      "comment": "the [study_1]{study} and [knowledge]{knowledge} of the [physical_1]{physical} [world]{world} and its [behavior]{behavior} that is [base_2]{based} on [experiment_1]{experiments} and [fact]{facts} that can be [prove]{proved}, and is [organized]{organized} into a system",
+      "entry": "science",
+      "id": "science#science__1"
+    },
+    {
+      "comment": "an [area]{area} of [study_1]{study} that [use_1]{uses} [scientific]{scientific} [method]{methods}",
+      "entry": "science",
+      "id": "science#science__5"
+    },
+    {
+      "comment": "a [scientific]{scientific} [subject_1]{subject} such as [chemistry]{chemistry}, [physics]{physics}, or [biology]{biology}",
+      "entry": "science",
+      "id": "science#science__7"
+    },
+    {
+      "comment": "one of the separate subjects that deal with the way societies are organized, for example history or sociology. These subjects are referred to as the social sciences.",
+      "entry": "social science",
+      "id": "social-science#social-science__2"
+    }
+  ],
+  "thesaurus": "General areas of study",
+  "type": "Related words"
+}

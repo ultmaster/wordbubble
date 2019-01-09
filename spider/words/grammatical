@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to [grammar]{grammar} and the [study_1]{study} of [grammar]{grammar}",
+      "examples": [
+        "grammatical [analysis]{analysis}",
+        "grammatical [error]{errors}"
+      ],
+      "id": "grammatical__1"
+    },
+    {
+      "def": "a grammatical [sentence_1]{sentence} [follow]{follows} the [rule_1]{rules} of [grammar]{grammar} [correctly]{correctly}",
+      "examples": [
+        "Is this grammatical?"
+      ],
+      "id": "grammatical__4"
+    },
+    {
+      "def": "grammatical [word_1]{words} [help_1]{help} to give [sentence_1]{sentences} their [structure_1]{structure}, [instead]{instead} of [express_1]{expressing} a [particular_1]{particular} [meaning_1]{meaning}. Examples are [word_1]{words} such as \u201cof\u201d and \u201cfor.\u201d",
+      "examples": [],
+      "id": "grammatical__6"
+    }
+  ],
+  "word": "grammatical"
+}

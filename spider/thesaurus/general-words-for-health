@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [condition_1]{condition} of your body, [especially]{especially} whether or not you are [sick_1]{sick}",
+      "entry": "health",
+      "id": "health#health__1"
+    },
+    {
+      "comment": "the [physical_1]{physical} [state_1]{state} of a [person]{person} or [animal_1]{animal}, [especially]{especially} how [healthy]{healthy} they are",
+      "entry": "condition",
+      "id": "condition_1#condition_1__4"
+    },
+    {
+      "comment": "the [state_1]{state} of being [physically]{physically} [healthy]{healthy} and [strong]{strong}",
+      "entry": "fitness",
+      "id": "fitness#fitness__1"
+    },
+    {
+      "comment": "your [general_1]{general} [physical_1]{physical} [condition_1]{condition}, [health]{health}, and [strength]{strength}",
+      "entry": "constitution",
+      "id": "constitution#constitution__6"
+    },
+    {
+      "comment": "the [condition_1]{condition} of your [mind_1]{mind}",
+      "entry": "mental health",
+      "id": "mental-health#mental-health__1"
+    },
+    {
+      "comment": "the [satisfactory]{satisfactory} [state_1]{state} that someone or something should be in, that [involve]{involves} such [thing]{things} as being [happy_1]{happy}, [healthy]{healthy}, and [safe_1]{safe}, and [have]{having} enough [money]{money}",
+      "entry": "well-being",
+      "id": "well-being#well-being__1"
+    },
+    {
+      "comment": "a [state_1]{state} of [health]{health} that is not [good_1]{good}, [especially]{especially} over a long [period_1]{period}",
+      "entry": "ill health",
+      "id": "ill-health#ill-health__1"
+    },
+    {
+      "comment": "how [healthy]{healthy} or [fit_1]{fit} someone is",
+      "entry": "shape",
+      "id": "shape_1#shape_1__15"
+    },
+    {
+      "comment": "physical, mental, and emotional health, usually including a healthy way of living, such as a good diet and exercise",
+      "entry": "wellness",
+      "id": "wellness#wellness__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [affecting]{affecting} your [health]{health}",
+      "entry": "health",
+      "id": "health#health__7"
+    }
+  ],
+  "thesaurus": "General words for health",
+  "type": "Synonyms"
+}

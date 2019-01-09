@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a liquid used in some types of paint and varnish to prevent them from becoming too thick",
+      "entry": "acetone",
+      "id": "acetone#acetone__1"
+    },
+    {
+      "comment": "a bright yellow pigment  (=a substance added to something to give it color)",
+      "entry": "chrome yellow",
+      "id": "chrome-yellow#chrome-yellow__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [paint_1]{paint} that is [slightly]{slightly} [shiny]{shiny}",
+      "entry": "eggshell",
+      "id": "eggshell_1#eggshell_1__2"
+    },
+    {
+      "comment": "a type of paint that produces a surface that is not shiny. Paint that produces a shiny surface is called gloss.",
+      "entry": "emulsion",
+      "id": "emulsion#emulsion__3"
+    },
+    {
+      "comment": "a [type_1]{type} of [paint_1]{paint} [used]{used} for [making]{making} a [hard_1]{hard} [shiny]{shiny} [surface_1]{surface}",
+      "entry": "enamel",
+      "id": "enamel_1#enamel_1__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [paint_1]{paint} that [contain]{contains} [oil_1]{oil}",
+      "entry": "oil",
+      "id": "oil_1#oil_1__17"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [used]{used} for [making]{making} [paint_1]{paint} less thick",
+      "entry": "thinner",
+      "id": "thinner#thinner__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [paint_1]{paint} that is [mixed]{mixed} with [water_1]{water} for [painting]{painting} [picture_1]{pictures}",
+      "entry": "watercolor",
+      "id": "watercolor#watercolor__1"
+    }
+  ],
+  "thesaurus": "Types of paint and substances in paint",
+  "type": "Related words"
+}

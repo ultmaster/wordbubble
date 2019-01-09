@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[worth_1]{worth} a [lot_1]{lot} of [money]{money}",
+      "entry": "valuable",
+      "id": "valuable#valuable__1"
+    },
+    {
+      "comment": "[worth_1]{worth} a [lot_1]{lot} of [money]{money}",
+      "entry": "precious",
+      "id": "precious_1#precious_1__1"
+    },
+    {
+      "comment": "very [valuable]{valuable} and [impossible]{impossible} to [replace]{replace}",
+      "entry": "priceless",
+      "id": "priceless#priceless__1"
+    },
+    {
+      "comment": "[valuable]{valuable} or [rare]{rare} and [impossible]{impossible} to [replace]{replace} if [used]{used}, [lost_1]{lost}, or [destroy]{destroyed}",
+      "entry": "irreplaceable",
+      "id": "irreplaceable#irreplaceable__1"
+    },
+    {
+      "comment": "[worth_1]{worth} a [great_1]{great} [deal_1]{deal} of [money]{money}, or [bring]{bringing} a [great_1]{great} [deal_1]{deal} of [money]{money}",
+      "entry": "rich",
+      "id": "rich_1#rich_1__28"
+    },
+    {
+      "comment": "[old]{old} and [valuable]{valuable}",
+      "entry": "antique",
+      "id": "antique_1#antique_1__1"
+    },
+    {
+      "comment": "[considered]{considered} to be very [important]{important} or [valuable]{valuable}",
+      "entry": "prized",
+      "id": "prized#prized__1"
+    },
+    {
+      "comment": "very [valuable]{valuable} or [important]{important} to you",
+      "entry": "treasured",
+      "id": "treasured#treasured__1"
+    },
+    {
+      "comment": "[used]{used} about other [thing]{things} that are very [valuable]{valuable} or [reliable]{reliable}",
+      "entry": "gilt-edged",
+      "id": "gilt-edged#gilt-edged__2"
+    },
+    {
+      "comment": "very [valuable]{valuable} or [difficult]{difficult} to get because a [lot_1]{lot} of [people_1]{people} [want_1]{want} it",
+      "entry": "like gold dust",
+      "id": "like-gold-dust#like-gold-dust__1"
+    }
+  ],
+  "thesaurus": "Worth a lot of money",
+  "type": "Synonyms"
+}

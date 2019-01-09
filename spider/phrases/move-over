@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "move over",
+  "senses": [
+    {
+      "def": "to [change_1]{change} your [position_1]{position} in [order_1]{order} to [make_1]{make} [space_1]{space} for someone or something else",
+      "examples": [
+        "She [move_1]{moved} over to [let_1]{let} me [pass_1]{pass}."
+      ],
+      "id": "move-over__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [doing]{doing} something in [order_1]{order} to [let_1]{let} someone else do it",
+      "examples": [
+        "They seem to [expect]{expect} [old]{older} [musician]{musicians} to move over so that the [younger]{younger} ones can get a [chance_1]{chance}."
+      ],
+      "id": "move-over__3"
+    },
+    {
+      "def": "to [start_1]{start} to do something in a [different]{different} way",
+      "examples": [
+        "Most [company]{companies} [move_1]{moved} over to [direct_1]{direct} [payment]{payments} [year]{years} [ago]{ago}."
+      ],
+      "id": "move-over__5"
+    }
+  ]
+}

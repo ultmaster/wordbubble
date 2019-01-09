@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[belong]{belonging} to the [sex_1]{sex} that [does]{does} not give [birth]{birth}",
+      "entry": "male",
+      "id": "male_1#male_1__1"
+    },
+    {
+      "comment": "with [quality_1]{qualities} [thought_1]{thought} to be [typical]{typical} of [men]{men}",
+      "entry": "masculine",
+      "id": "masculine_1#masculine_1__1"
+    },
+    {
+      "comment": "[typical]{typical} of the way that a man is [traditionally]{traditionally} [expected]{expected} to [behave]{behave}, [especially]{especially} by being [strong]{strong} and [brave_1]{brave}",
+      "entry": "manly",
+      "id": "manly#manly__1"
+    },
+    {
+      "comment": "an [effeminate]{effeminate} man [look_1]{looks}, [behave]{behaves}, or [speak_1]{speaks} [like_1]{like} a [woman]{woman}",
+      "entry": "effeminate",
+      "id": "effeminate#effeminate__1"
+    },
+    {
+      "comment": "not [behave]{behaving} in a way that many [people_1]{people} [believe]{believe} a man should [behave]{behave}",
+      "entry": "unmanly",
+      "id": "unmanly#unmanly__1"
+    },
+    {
+      "comment": "[behave]{behaving} in a way [traditionally]{traditionally} [considered]{considered} [typical]{typical} of a man, for [example]{example} by being [strong]{strong} and [willing]{willing} to [fight_1]{fight}, and by [hiding]{hiding} your [feeling_1]{feelings}",
+      "entry": "macho",
+      "id": "macho#macho__1"
+    },
+    {
+      "comment": "[look_1]{looking} or [behave]{behaving} [like_1]{like} a [boy_1]{boy} or [typical]{typical} of a [boy_1]{boy}, [usually]{usually} in a way that you find [attractive]{attractive}",
+      "entry": "boyish",
+      "id": "boyish#boyish__1"
+    },
+    {
+      "comment": "[used]{used} about a man who [look_1]{looks} or [behave]{behaves} [like_1]{like} a [woman]{woman}",
+      "entry": "effete",
+      "id": "effete#effete__2"
+    },
+    {
+      "comment": "a man who is [camp_1]{camp} [behave]{behaves} in a way that [does]{does} not [follow]{follow} [traditional]{traditional} [idea]{ideas} about [male_1]{male} [behavior]{behavior}, [especially]{especially} in [order_1]{order} to [attract]{attract} [attention]{attention}",
+      "entry": "camp",
+      "id": "camp_3#camp_3__2"
+    },
+    {
+      "comment": "a [macho]{macho} [attitude]{attitude}",
+      "entry": "machismo",
+      "id": "machismo#machismo__1"
+    }
+  ],
+  "thesaurus": "Describing or relating to men and boys",
+  "type": "Synonyms"
+}

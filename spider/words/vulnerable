@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is vulnerable is [weak]{weak} or [easy_1]{easy} to [hurt_1]{hurt} [physically]{physically} or [mental#mental__12]{mentally}",
+      "examples": [
+        "The [government]{government} must [help_1]{help} the most vulnerable [group_1]{groups} in our [society]{society}.",
+        "Their [constant_1]{constant} [argument]{arguments} [left_1]{left} her [feeling_1]{feeling} [increasingly]{increasingly} vulnerable and [insecure]{insecure}."
+      ],
+      "id": "vulnerable__1"
+    },
+    {
+      "def": "a thing, [person]{person}, or [place_1]{place} that is vulnerable is [easy_1]{easy} to [attack_1]{attack}",
+      "examples": [
+        "The long Russian [frontier]{frontier} was [highly]{highly} vulnerable to a German [attack_1]{attack}.",
+        "While [feeding]{feeding}, the [bird]{birds} are vulnerable to [predator]{predators}.",
+        "This [procedure]{procedure} has [improved]{improved}, but it is still vulnerable to [criticism]{criticism}."
+      ],
+      "id": "vulnerable__4"
+    },
+    {
+      "def": "[easily]{easily} [damage_2]{damaged} by something [negative_1]{negative} or [harmful]{harmful}",
+      "examples": [
+        "We are in the vulnerable [position_1]{position} of [produce_1]{producing} [barely]{barely} [half]{half} our [food]{food}.",
+        "The [wound_1]{wound} is vulnerable to [infection]{infection}."
+      ],
+      "id": "vulnerable__8"
+    }
+  ],
+  "word": "vulnerable"
+}

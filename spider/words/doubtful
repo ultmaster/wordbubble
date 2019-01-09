@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [certain_1]{certain} or [likely_1]{likely} to [happen]{happen} or be [true_1]{true}",
+      "examples": [
+        "Already the whole [project_1]{project} was [look_1]{looking} doubtful.",
+        "It is doubtful whether he will [survive]{survive}.",
+        "Kirkwood is doubtful for [tonight_1]{tonight}\u2019s [game_1]{game}."
+      ],
+      "id": "doubtful__1"
+    },
+    {
+      "def": "not [satisfactory]{satisfactory} or [acceptable]{acceptable}",
+      "examples": [
+        "[document_1]{documents} of doubtful [authenticity]{authenticity}"
+      ],
+      "id": "doubtful__6"
+    },
+    {
+      "def": "not [feeling_1]{feeling} [certain_1]{certain} about something",
+      "examples": [
+        "You still seem a [little_1]{little} doubtful.",
+        "He was doubtful about the [accuracy]{accuracy} of the [result_1]{results}.",
+        "The [board_1]{board} was doubtful that her [estimate_1]{estimates} were [realistic]{realistic}."
+      ],
+      "id": "doubtful__8"
+    }
+  ],
+  "word": "doubtful"
+}

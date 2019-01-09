@@ -1,0 +1,196 @@
+{
+  "entries": [
+    {
+      "comment": "a test carried out on liquid taken from a pregnant woman\u2019s womb in order to find out if the baby has any medical problems",
+      "entry": "amniocentesis",
+      "id": "amniocentesis#amniocentesis__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [examination]{examination} of a [dead_1]{dead} [person]{person}\u2019s body to find out why they [die_1]{died}",
+      "entry": "autopsy",
+      "id": "autopsy#autopsy__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [test_1]{test} in which [cell]{cells} are [taken_1]{taken} from your body and [examine]{examined} to find out if they are [healthy]{healthy}",
+      "entry": "biopsy",
+      "id": "biopsy#biopsy__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [test_1]{test} in which a [small_1]{small} amount of [blood_1]{blood} is [taken_1]{taken} from someone and [test_2]{tested} to see if it [show_1]{shows} any [disease]{disease}, [drug_1]{drugs}, etc. in the body",
+      "entry": "blood test",
+      "id": "blood-test#blood-test__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [test_1]{test} in which computer [technology]{technology} is [used]{used} for [produce_1]{producing} an [image_1]{image} of the [inside_1]{inside} of a part of your body, or the [image_1]{image} that is [produce_1]{produced} in this way",
+      "entry": "CAT scan",
+      "id": "cat-scan#cat-scan__1"
+    },
+    {
+      "comment": "a [pap_1]{Pap} [smear_1]{smear}",
+      "entry": "cervical smear",
+      "id": "cervical-smear#cervical-smear__1"
+    },
+    {
+      "comment": "an [examination]{examination} of someone to find out whether they are [healthy]{healthy}",
+      "entry": "check",
+      "id": "check_2#check_2__6"
+    },
+    {
+      "comment": "an examination by a doctor or dentist to check that you have no problems",
+      "entry": "checkup",
+      "id": "checkup#checkup__1"
+    },
+    {
+      "comment": "a [cat]{CAT} [scan_1]{scan}",
+      "entry": "CT scan",
+      "id": "ct-scan#ct-scan__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} about what [disease]{disease} someone has, [base_2]{based} on [examine]{examining} them",
+      "entry": "diagnosis",
+      "id": "diagnosis#diagnosis__1"
+    },
+    {
+      "comment": "[electroencephalogram]{electroencephalogram}: a [medical_1]{medical} [test_1]{test} of [electrical_1]{electrical} [activity]{activity} in the [brain_1]{brain}",
+      "entry": "EEG",
+      "id": "eeg#eeg__2"
+    },
+    {
+      "comment": "a [medical_1]{medical} [examination]{examination}",
+      "entry": "exam",
+      "id": "exam#exam__9"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [doctor_1]{doctor} [look_1]{looks} [careful#careful__20]{carefully} at someone\u2019s body to [make_1]{make} [certain_1]{certain} they are [healthy]{healthy}",
+      "entry": "examination",
+      "id": "examination#examination__1"
+    },
+    {
+      "comment": "the result of a medical, chemical, or biological test that shows something such as a particular substance exists but is incorrect",
+      "entry": "false positive",
+      "id": "false-positive#false-positive__1"
+    },
+    {
+      "comment": "a photograph of a woman\u2019s breast taken using X-rays in order to discover whether she has breast cancer",
+      "entry": "mammogram",
+      "id": "mammogram#mammogram__1"
+    },
+    {
+      "comment": "the process of x-raying a woman\u2019s breast in order to discover whether she has breast cancer",
+      "entry": "mammography",
+      "id": "mammography#mammography__1"
+    },
+    {
+      "comment": "a [complete_1]{complete} [physical_1]{physical} [examination]{examination} of your body by a [doctor_1]{doctor}",
+      "entry": "medical",
+      "id": "medical_2#medical_2__1"
+    },
+    {
+      "comment": "a [physical_1]{physical} [examination]{examination}",
+      "entry": "medical examination",
+      "id": "medical-examination#medical-examination__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [test_1]{test} in which [image_1]{images} are made of the [organ]{organs} [inside_1]{inside} your body, or the [image_1]{image} that is [produce_1]{produced} in this way. MRI is a [short_1]{short} form of [magnetic]{magnetic} [resonance]{resonance} [imaging]{imaging}.",
+      "entry": "MRI scan",
+      "id": "mri-scan#mri-scan__1"
+    },
+    {
+      "comment": "a medical test in which cells are taken from a woman\u2019s cervix to check for cancer. The British word is cervical smear.",
+      "entry": "Pap smear",
+      "id": "pap-smear#pap-smear__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [test_1]{test} which [use_1]{uses} [radiation]{radiation} and computer [technology]{technology} to [produce_1]{produce} [detailed]{detailed} [three-dimensional]{three-dimensional} [image_1]{images} [showing]{showing} how well [tissue]{tissues} [inside_1]{inside} the body are [working]{working}, or an [image_1]{image} that is [produce_1]{produced} in this way. [pet_1]{PET} is a [short_1]{short} form of [positron]{positron} [emission]{emission} tomography.",
+      "entry": "PET scan",
+      "id": "pet-scan#pet-scan__1"
+    },
+    {
+      "comment": "a [physical_1]{physical} [examination]{examination}",
+      "entry": "physical",
+      "id": "physical_2#physical_2__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [examination]{examination} to find out whether someone is [healthy]{healthy} enough to do something such as a [particular_1]{particular} [job_1]{job}",
+      "entry": "physical examination",
+      "id": "physical-examination#physical-examination__1"
+    },
+    {
+      "comment": "a medical test result that shows someone has the disease or condition that was tested for. A false positive is a result that shows you have a disease or condition when you really do not have it.",
+      "entry": "positive",
+      "id": "positive_2#positive_2__3"
+    },
+    {
+      "comment": "a [medical_1]{medical} [examination]{examination} of a [dead_1]{dead} body to find out why the [person]{person} [die_1]{died}",
+      "entry": "postmortem",
+      "id": "postmortem#postmortem__1"
+    },
+    {
+      "comment": "[medical_1]{medical} [examination]{examinations}, [treatment]{treatments}, [advice]{advice}, etc. [intended_1]{intended} to [prevent]{prevent} [illness]{illness} or [discover]{discover} it before it becomes serious",
+      "entry": "preventive medicine",
+      "id": "preventive-medicine#preventive-medicine__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [test_1]{test} that [use_1]{uses} a [special_1]{special} [piece_1]{piece} of [equipment]{equipment} to [produce_1]{produce} a [picture_1]{picture} of the [inside_1]{inside} of your body",
+      "entry": "scan",
+      "id": "scan_2#scan_2__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [test_1]{test} that [use_1]{uses} a [special_1]{special} [piece_1]{piece} of [equipment]{equipment} to [produce_1]{produce} a [picture_1]{picture} of a [developing]{developing} [baby_1]{baby} [inside_1]{inside} a [pregnant]{pregnant} [woman]{woman}",
+      "entry": "scan",
+      "id": "scan_2#scan_2__3"
+    },
+    {
+      "comment": "[test_1]{tests} done to [check_1]{check} someone for a [particular_1]{particular} [disease]{disease}",
+      "entry": "screening",
+      "id": "screening#screening__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [check_1]{checking} [part_1]{parts} of your own body for [sign_1]{signs} of [disease]{disease}",
+      "entry": "self-examination",
+      "id": "self-examination#self-examination__2"
+    },
+    {
+      "comment": "a [pap_1]{Pap} [smear_1]{smear}",
+      "entry": "smear test",
+      "id": "smear-test#smear-test__1"
+    },
+    {
+      "comment": "a [test_1]{test} that is [used]{used} to find out if a [person]{person} has a [particular_1]{particular} [health]{health} [problem]{problem}",
+      "entry": "stress test",
+      "id": "stress-test#stress-test__3"
+    },
+    {
+      "comment": "a [small_1]{small} amount of a [substance]{substance} that has been [removed]{removed} from someone\u2019s body with a [swab_1]{swab}",
+      "entry": "swab",
+      "id": "swab_1#swab_1__2"
+    },
+    {
+      "comment": "an [examination]{examination} of a part of your body or of a [substance]{substance} [taken_1]{taken} from your body",
+      "entry": "test",
+      "id": "test_1#test_1__10"
+    },
+    {
+      "comment": "a [process_1]{process} in which a [substance]{substance} is [pass_1]{passed} through someone\u2019s body to show where a [problem]{problem} is",
+      "entry": "tracing",
+      "id": "tracing#tracing__2"
+    },
+    {
+      "comment": "a way of [produce_1]{producing} an [image_1]{image} of an [organ]{organ} [inside_1]{inside} someone\u2019s body [use_1]{using} [sound_1]{sound} [wave_1]{waves}",
+      "entry": "ultrasound",
+      "id": "ultrasound#ultrasound__1"
+    },
+    {
+      "comment": "a [series]{series} of [test_1]{tests} to find out if someone has [medical_1]{medical} [problem]{problems}",
+      "entry": "workup",
+      "id": "workup#workup__1"
+    },
+    {
+      "comment": "a [picture_1]{picture} of the [bone_1]{bones} or [organ]{organs} [inside_1]{inside} someone\u2019s body [taken_1]{taken} [use_1]{using} X-rays",
+      "entry": "X-ray",
+      "id": "x-ray_1#x-ray_1__2"
+    }
+  ],
+  "thesaurus": "Medical tests and examinations",
+  "type": "Related words"
+}

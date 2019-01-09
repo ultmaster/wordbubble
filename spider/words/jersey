@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [shirt]{shirt} [worn_1]{worn} as part of a [uniform_1]{uniform} in [sport_1]{sports} such as [football]{football}",
+      "examples": [],
+      "id": "jersey__1"
+    },
+    {
+      "def": "a [type_1]{type} of [cow_1]{cow} that is [white_1]{white} with [large_1]{large} [brown_1]{brown} [spot_1]{spots} and is [kept]{kept} by [farmer]{farmers} for its [milk_1]{milk}",
+      "examples": [],
+      "id": "jersey__3"
+    },
+    {
+      "def": "[knit]{knitted} [cloth]{cloth}",
+      "examples": [
+        "She came down [dressed]{dressed} in a [black_1]{black} jersey [dress_1]{dress}."
+      ],
+      "id": "jersey__4"
+    }
+  ],
+  "word": "jersey"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [process_1]{process} of [collect_1]{collecting} [thing]{things} for a [particular_1]{particular} [purpose]{purpose}, or an [instance_1]{instance} of this",
+      "entry": "collection",
+      "id": "collection#collection__12"
+    },
+    {
+      "comment": "the [process_1]{process} of [buy_1]{buying} something or [obtain]{obtaining} it in some other way",
+      "entry": "acquisition",
+      "id": "acquisition#acquisition__1"
+    },
+    {
+      "comment": "the [process_1]{process} or [activity]{activity} of [collect_1]{collecting} [information]{information}",
+      "entry": "gathering",
+      "id": "gathering_1#gathering_1__5"
+    },
+    {
+      "comment": "the [act_1]{act} of [get]{getting} [control_1]{control} of something from an [opponent]{opponent} in [business]{business} or [politics]{politics}",
+      "entry": "capture",
+      "id": "capture_2#capture_2__5"
+    },
+    {
+      "comment": "the [process_1]{process} by which something [increase_1]{increases} in amount or is [collected]{collected} together over time",
+      "entry": "accumulation",
+      "id": "accumulation#accumulation__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [get]{getting} something back that was [lost_1]{lost} or not in its [usual]{usual} [place_1]{place}",
+      "entry": "retrieval",
+      "id": "retrieval#retrieval__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when [animal_1]{animals} or [people_1]{people} are [forced]{forced} to [gather_1]{gather} together in one [place_1]{place}",
+      "entry": "round-up",
+      "id": "round-up_2#round-up_2__2"
+    },
+    {
+      "comment": "the [activity]{activity} of [collect_1]{collecting} [money]{money} for a [particular_1]{particular} [purpose]{purpose}, or the [money]{money} that is [collected]{collected}",
+      "entry": "collection",
+      "id": "collection#collection__16"
+    },
+    {
+      "comment": "the [act_1]{act} of [get]{getting} something again that was [lost_1]{lost}, [stolen]{stolen}, or [owe]{owed}",
+      "entry": "recovery",
+      "id": "recovery#recovery__6"
+    },
+    {
+      "comment": "the [activity]{activity} of [collect_1]{collecting} [money]{money} that [people_1]{people} must [pay_1]{pay}",
+      "entry": "collection",
+      "id": "collection#collection__18"
+    }
+  ],
+  "thesaurus": "The process of getting or collecting things or information",
+  "type": "Synonyms"
+}

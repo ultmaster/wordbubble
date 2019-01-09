@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if something is arguable, you are not [completely]{completely} [certain_1]{certain} whether it is [true_1]{true} or [correct_1]{correct}",
+      "examples": [
+        "Whether [good_1]{good} [student]{students} [make_1]{make} [good_1]{good} [teacher]{teachers} is arguable."
+      ],
+      "id": "arguable__1"
+    },
+    {
+      "def": "if a [fact]{fact} or [statement_1]{statement} is arguable, there is [evidence_1]{evidence} that it is [true_1]{true} or that [people_1]{people} [agree]{agree} with it",
+      "examples": [
+        "The [judge_1]{judge} [held]{held} that there was an arguable [case_1]{case} of [libel_1]{libel}."
+      ],
+      "id": "arguable__3"
+    }
+  ],
+  "word": "arguable"
+}

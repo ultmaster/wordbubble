@@ -1,0 +1,46 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[living_1]{living} in a [particular_1]{particular} [country]{country}, [area]{area}, or [city]{city} since [birth]{birth}",
+      "examples": [
+        "My [wife]{wife}\u2019s a native [new]{New} [yorker]{Yorker}, but I\u2019m from Atlanta.",
+        "Monique [return_1]{returns} to her native France every [summer]{summer}.",
+        "After a long [stay_1]{stay} in England he\u2019s back in his native [land_1]{land}."
+      ],
+      "id": "native_1__1"
+    },
+    {
+      "def": "native [ability_1]{abilities} or [quality_1]{qualities} are those that you have had since [birth]{birth}",
+      "examples": [
+        "[pupil]{Pupils} are [encourage]{encouraged} to [develop]{develop} their native [skill]{skills}."
+      ],
+      "id": "native_1__6"
+    },
+    {
+      "def": "[relate]{relating} to the first [people_1]{people} to [live_1]{live} in an [area]{area}",
+      "examples": [
+        "The [territory]{territory} was [divided]{divided} between the Burgundians and the native [population]{population}."
+      ],
+      "id": "native_1__8"
+    },
+    {
+      "def": "native [plant_1]{plants} or [animal_1]{animals} have always [exist]{existed} in a [place_1]{place}",
+      "examples": [
+        "[elephant]{Elephants} are native to Africa and Asia.",
+        "The [large_1]{larger} [frog]{frogs} are a native [species]{species}.",
+        "native [habitat]{habitat}"
+      ],
+      "id": "native_1__10"
+    },
+    {
+      "def": "[developed]{developed} for use on a [particular_1]{particular} [platform]{platform} or [device]{device}",
+      "examples": [
+        "[game_1]{Games} should be native [app_1]{apps}, and [pretty_1]{pretty} much everything else is [best_1]{best} done with HTML5/JS."
+      ],
+      "id": "native_1__15"
+    }
+  ],
+  "word": "native"
+}

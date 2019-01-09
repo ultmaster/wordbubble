@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "hand over",
+  "senses": [
+    {
+      "def": "to give something to someone by [holding]{holding} it in your hand and [offering]{offering} it to them",
+      "examples": [
+        "Albert [bowed]{bowed} and [hand_2]{handed} over the [letter_1]{letter}.",
+        "He [hand_2]{handed} the [car]{car} [key_1]{keys} over to Stella."
+      ],
+      "id": "hand-over__1"
+    },
+    {
+      "def": "to give someone to the [police_1]{police} or another [authority]{authority} that will become [responsible]{responsible} for them",
+      "examples": [
+        "The [suspect_1]{suspects} have now been [hand_2]{handed} over to the French [authority]{authorities}."
+      ],
+      "id": "hand-over__4"
+    },
+    {
+      "def": "to give [power_1]{power} or [control_1]{control} to someone else",
+      "examples": [
+        "They [formally]{formally} hand [power_1]{power} over to the [new]{new} [government]{government} next [week]{week}."
+      ],
+      "id": "hand-over__6"
+    },
+    {
+      "def": "to [stop_1]{stop} [speak_1]{speaking} to or [dealing]{dealing} with someone and [let_1]{let} someone else do it",
+      "examples": [
+        "I\u2019m now [going_1]{going} to hand over to my [colleague]{colleague} back in the [studio]{studio}.",
+        "[let_1]{Let} me hand you over to [john]{John}, who will show you around."
+      ],
+      "id": "hand-over__8"
+    }
+  ]
+}

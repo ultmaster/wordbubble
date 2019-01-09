@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "block in",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} someone from [moving]{moving} their [car]{car} out of a [place_1]{place}",
+      "examples": [
+        "When I came back to the [parking]{parking} [lot_1]{lot} my [car]{car} was [block_2]{blocked} in."
+      ],
+      "id": "block-in__1"
+    },
+    {
+      "def": "to [completely]{completely} [cover_1]{cover} a [large_1]{large} [area]{area} of something such as a [painting]{painting} with one [color_1]{color}",
+      "examples": [
+        "[broad_1]{Broad} [flat_1]{flat} [brush_1]{brushes} are [useful]{useful} when you are [block_2]{blocking} in [color_1]{color}."
+      ],
+      "id": "block-in__3"
+    },
+    {
+      "def": "to [plan_1]{plan} something [large_1]{large} or [complicated]{complicated} by [organize]{organizing} your [general_1]{general} [idea]{ideas} for it",
+      "examples": [
+        "[just_1]{Just} [block_1]{block} in the [main_1]{main} [point_1]{points} for now and we\u2019ll [sort_1]{sort} the [detail_1]{details} out [later_1]{later}."
+      ],
+      "id": "block-in__5"
+    }
+  ]
+}

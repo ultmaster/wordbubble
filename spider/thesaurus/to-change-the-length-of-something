@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to become [long_1]{longer}, or to [make_1]{make} something [long_1]{longer}",
+      "entry": "lengthen",
+      "id": "lengthen#lengthen__1"
+    },
+    {
+      "comment": "to [pull_1]{pull} something to [make_1]{make} it [long_1]{longer} or [wide_1]{wider}",
+      "entry": "stretch",
+      "id": "stretch_1#stretch_1__1"
+    },
+    {
+      "comment": "to become [short_1]{shorter}, or to [make_1]{make} something [short_1]{shorter}",
+      "entry": "shorten",
+      "id": "shorten#shorten__1"
+    },
+    {
+      "comment": "to become [long_1]{longer}, or to [make_1]{make} something [long_1]{longer}",
+      "entry": "elongate",
+      "id": "elongate#elongate__1"
+    },
+    {
+      "comment": "to use a [sharp_1]{sharp} [tool_1]{tool} to [make_1]{make} something [short_1]{shorter}",
+      "entry": "cut",
+      "id": "cut_1#cut_1__11"
+    },
+    {
+      "comment": "if your [hair]{hair} or [nail_1]{nails} [grow]{grow}, they become [long_1]{longer}",
+      "entry": "grow",
+      "id": "grow#grow__20"
+    },
+    {
+      "comment": "to [increase_1]{increase} the [length]{length} of something",
+      "entry": "extend",
+      "id": "extend#extend__23"
+    },
+    {
+      "comment": "to [make_1]{make} something [short_1]{shorter} in [length]{length} or time",
+      "entry": "telescope",
+      "id": "telescope_2#telescope_2__2"
+    },
+    {
+      "comment": "to [make_1]{make} something [short_1]{shorter}, [especially]{especially} by [remove]{removing} the [end_1]{end} or top of it",
+      "entry": "truncate",
+      "id": "truncate#truncate__1"
+    }
+  ],
+  "thesaurus": "To change the length of something",
+  "type": "Synonyms"
+}

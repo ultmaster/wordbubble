@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "not [near_1]{near} a [coast_1]{coast}",
+      "entry": "inland",
+      "id": "inland_1#inland_1__1"
+    },
+    {
+      "comment": "on [land_1]{land} beside an [ocean]{ocean}",
+      "entry": "coastal",
+      "id": "coastal#coastal__1"
+    },
+    {
+      "comment": "on [land_1]{land}, and not on the [sea_1]{sea}",
+      "entry": "ashore",
+      "id": "ashore#ashore__4"
+    },
+    {
+      "comment": "the [landward]{landward} side of something is the side that [face_1]{faces} toward the [land_1]{land} and [away_1]{away} from the [ocean]{ocean}",
+      "entry": "landward",
+      "id": "landward#landward__1"
+    },
+    {
+      "comment": "[close_1]{close} to the [ocean]{ocean}",
+      "entry": "maritime",
+      "id": "maritime#maritime__3"
+    },
+    {
+      "comment": "[away_1]{away} from the [coast_1]{coast}",
+      "entry": "upper",
+      "id": "upper_1#upper_1__13"
+    },
+    {
+      "comment": "[relate]{relating} to [island]{islands}",
+      "entry": "insular",
+      "id": "insular#insular__2"
+    },
+    {
+      "comment": "on [land_1]{land} rather than on the [ocean]{ocean}",
+      "entry": "onshore",
+      "id": "onshore#onshore__1"
+    }
+  ],
+  "thesaurus": "On land and away from the sea",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "draw blood",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [bleed]{bleed}",
+      "examples": [
+        "The [cat]{cat} [bit_1]{bit} me but it didn\u2019t [draw_1]{draw} [blood_1]{blood}."
+      ],
+      "id": "draw-blood__1"
+    },
+    {
+      "def": "to do something that [make_1]{makes} someone [suffer]{suffer} or [make_1]{makes} them [upset_1]{upset}",
+      "examples": [
+        "[king]{King} first [drew]{drew} [blood_1]{blood} when she [won]{won} the [opening_1]{opening} [set_1]{set} 6\u20131."
+      ],
+      "id": "draw-blood__3"
+    }
+  ]
+}

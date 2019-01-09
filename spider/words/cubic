@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "cubic [unit]{units} are [used]{used} for [measure_2]{measuring} [volume]{volume}  (=the amount of space in an object)",
+      "examples": [
+        "a cubic [meter_1]{meter}/[centimeter]{centimeter}"
+      ],
+      "id": "cubic__1"
+    },
+    {
+      "def": "[measured]{measured} in cubic [unit]{units}",
+      "examples": [
+        "cubic [capacity]{capacity}"
+      ],
+      "id": "cubic__3"
+    }
+  ],
+  "word": "cubic"
+}

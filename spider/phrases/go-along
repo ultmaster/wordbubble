@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "go along",
+  "senses": [
+    {
+      "def": "to [continue]{continue} to [happen]{happen} or [develop]{develop}",
+      "examples": [
+        "Everything was [going_1]{going} along [just_1]{just} [fine_1]{fine} until she [turn_1]{turned} up.",
+        "The [teacher]{teacher} seemed to be [making]{making} up the [lesson]{lesson} as he went along."
+      ],
+      "id": "go-along__1"
+    },
+    {
+      "def": "to [travel_1]{travel} somewhere with someone else",
+      "examples": [
+        "He\u2019s [going_1]{going} to [new]{New} York [tomorrow_1]{tomorrow} and I [think_1]{think} I might [just_1]{just} go along too."
+      ],
+      "id": "go-along__5"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if an [agreement]{agreement}, [offer_1]{offer}, or [official_1]{official} [document_1]{document} [expire]{expires}, the [period_1]{period} of time during which it [exist]{exists} or can be [used]{used} comes to an [end_1]{end}",
+      "examples": [
+        "The [loan_1]{loan} [offer_1]{offer} is due to expire this [week]{week}.",
+        "Your [contract_1]{contract} [expire]{expires} at the [end_1]{end} of the [month]{month}.",
+        "My [passport]{passport} [expire]{expires} in a [month]{month}."
+      ],
+      "id": "expire__1"
+    },
+    {
+      "def": "to [die_1]{die}",
+      "examples": [],
+      "id": "expire__5"
+    }
+  ],
+  "word": "expire"
+}

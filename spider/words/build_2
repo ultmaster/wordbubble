@@ -1,0 +1,35 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [size_1]{size} and [shape_1]{shape} of someone\u2019s body",
+      "examples": [
+        "He was of [medium_1]{medium} build and about my [height]{height}."
+      ],
+      "id": "build_2__1"
+    },
+    {
+      "def": "something that has been [built_1]{built} or the [act_1]{act} of [building]{building} something",
+      "examples": [
+        "The [quality_1]{quality} of the [latest]{latest} [home_1]{home} [build_1]{builds} is the [great_1]{greatest} ever.",
+        "Being of more [recent]{recent} build, our [cruise_1]{cruise} [ship_1]{ships} [offer_1]{offer} many more [balcony]{balcony} [cabin]{cabins} than other [ship_1]{ships}."
+      ],
+      "id": "build_2__4"
+    },
+    {
+      "def": "the [style_1]{style} or form in which something is [built_1]{built}",
+      "examples": [
+        "We [offer_1]{offer} [condor]{Condor} [bike_1]{bikes} on a [custom_1]{custom} build [basis]{basis}."
+      ],
+      "id": "build_2__7"
+    },
+    {
+      "def": "a [version]{version} of a computer [program_1]{program}",
+      "examples": [
+        "It is [important]{important} to have a [recent]{recent} build of the [main_1]{main} [program_1]{program} as well as the [script_2]{scripting} [module]{module}."
+      ],
+      "id": "build_2__9"
+    }
+  ],
+  "word": "build"
+}

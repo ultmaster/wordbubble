@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [group_1]{group} into which someone or something is put because of the [feature_1]{features} that they have",
+      "examples": [
+        "[hotel]{Hotels} within this classification [offer_1]{offer} only [basic_1]{basic} [facility]{facilities}."
+      ],
+      "id": "classification__1"
+    },
+    {
+      "def": "the [process_1]{process} of [put]{putting} [people_1]{people} or [thing]{things} into [particular_1]{particular} [group_1]{groups} [accord_2]{according} to the [feature_1]{features} that they have",
+      "examples": [
+        "the [collection]{collection} and classification of [data]{data}"
+      ],
+      "id": "classification__3"
+    }
+  ],
+  "word": "classification"
+}

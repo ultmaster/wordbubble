@@ -1,0 +1,201 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [study_1]{studies} [archaeology]{archaeology}",
+      "entry": "archaeologist",
+      "id": "archaeologist#archaeologist__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [archaeologist]{archaeologist}",
+      "entry": "archeologist",
+      "id": "archeologist#archeologist__1"
+    },
+    {
+      "comment": "someone who studies astrology to tell people about their lives",
+      "entry": "astrologer",
+      "id": "astrologer#astrologer__1"
+    },
+    {
+      "comment": "someone who studies the stars and planets using scientific equipment including telescopes",
+      "entry": "astronomer",
+      "id": "astronomer#astronomer__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} [astrophysics]{astrophysics}",
+      "entry": "astrophysicist",
+      "id": "astrophysicist#astrophysicist__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} [living_1]{living} [thing]{things}",
+      "entry": "biologist",
+      "id": "biologist#biologist__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} [plant_1]{plants}, [especially]{especially} as their [job_1]{job}",
+      "entry": "botanist",
+      "id": "botanist#botanist__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} [chemistry]{chemistry}",
+      "entry": "chemist",
+      "id": "chemist#chemist__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} [classics]{classics}",
+      "entry": "classicist",
+      "id": "classicist#classicist__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} [calculation]{calculations}",
+      "entry": "computer",
+      "id": "computer#computer__7"
+    },
+    {
+      "comment": "someone who [study_1]{studies} the [origin]{origin} and [nature]{nature} of the [universe]{universe}",
+      "entry": "cosmologist",
+      "id": "cosmologist#cosmologist__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} the [environment]{environment} and the way that [plant_1]{plants}, [animal_1]{animals}, and [human_2]{humans} [live_1]{live} together and [affect_1]{affect} each other",
+      "entry": "ecologist",
+      "id": "ecologist#ecologist__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} or [teach]{teaches} [economics]{economics}",
+      "entry": "economist",
+      "id": "economist#economist__2"
+    },
+    {
+      "comment": "someone who [study_1]{studies} the [future_1]{future} and [say_1]{says} what they [think_1]{think} [life]{life} will be [like_1]{like}",
+      "entry": "futurist",
+      "id": "futurist#futurist__1"
+    },
+    {
+      "comment": "the study of the future, including how people will live, work, and communicate. Someone who studies the future in this way is called a futurologist.",
+      "entry": "futurology",
+      "id": "futurology#futurology__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} or [work_1]{works} in [genetics]{genetics}",
+      "entry": "geneticist",
+      "id": "geneticist#geneticist__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} the [earth]{Earth}\u2019s [physical_1]{physical} [feature_1]{features} and the [people_1]{people}, [plant_1]{plants}, and [animal_1]{animals} that [live_1]{live} in [different]{different} [region]{regions}",
+      "entry": "geographer",
+      "id": "geographer#geographer__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} [geology]{geology}",
+      "entry": "geologist",
+      "id": "geologist#geologist__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} [geophysics]{geophysics}",
+      "entry": "geophysicist",
+      "id": "geophysicist#geophysicist__1"
+    },
+    {
+      "comment": "an [expert_1]{expert} in the [study_1]{study} of [grammar]{grammar}",
+      "entry": "grammarian",
+      "id": "grammarian#grammarian__1"
+    },
+    {
+      "comment": "a doctor who studies and treats medical conditions and diseases that affect women and their reproductive organs",
+      "entry": "gynecologist",
+      "id": "gynecologist#gynecologist__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} or [write]{writes} about [event]{events} in [history]{history}",
+      "entry": "historian",
+      "id": "historian#historian__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} and [speak_1]{speaks} a [lot_1]{lot} of [language]{languages}",
+      "entry": "linguist",
+      "id": "linguist#linguist__1"
+    },
+    {
+      "comment": "someone who [teach]{teaches} or [study_1]{studies} [linguistics]{linguistics}",
+      "entry": "linguist",
+      "id": "linguist#linguist__2"
+    },
+    {
+      "comment": "someone who [study_1]{studies} or [teach]{teaches} [mathematics]{mathematics}",
+      "entry": "mathematician",
+      "id": "mathematician#mathematician__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} [living_1]{living} [thing]{things} and their [environment]{environment}",
+      "entry": "naturalist",
+      "id": "naturalist#naturalist__1"
+    },
+    {
+      "comment": "someone who is an [expert_1]{expert} on [nutrition]{nutrition}",
+      "entry": "nutritionist",
+      "id": "nutritionist#nutritionist__1"
+    },
+    {
+      "comment": "someone from a [western_1]{western} [country]{country} who [study_1]{studies} the [language]{languages}, [culture_1]{cultures}, or [history]{history} of the [country]{countries} of [eastern]{eastern} Asia",
+      "entry": "orientalist",
+      "id": "orientalist#orientalist__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} [bird]{birds}",
+      "entry": "ornithologist",
+      "id": "ornithologist#ornithologist__1"
+    },
+    {
+      "comment": "a scientist who studies the causes of diseases and how they affect people, especially one who studies the causes of a person\u2019s death by performing an autopsy",
+      "entry": "pathologist",
+      "id": "pathologist#pathologist__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} and [try_1]{tries} to [explain]{explain} the [meaning_1]{meaning} of [thing]{things} such as [life]{life}, [knowledge]{knowledge}, or [belief]{beliefs}",
+      "entry": "philosopher",
+      "id": "philosopher#philosopher__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} [physics]{physics}, [especially]{especially} as their [job_1]{job}",
+      "entry": "physicist",
+      "id": "physicist#physicist__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} how [people_1]{people}\u2019s [mind_1]{minds} [work_1]{work} and how this [affect_1]{affects} their [behavior]{behavior}",
+      "entry": "psychologist",
+      "id": "psychologist#psychologist__1"
+    },
+    {
+      "comment": "someone who is [trained]{trained} in [science]{science}, [especially]{especially} someone whose [job_1]{job} is to do [scientific]{scientific} [research_1]{research}",
+      "entry": "scientist",
+      "id": "scientist#scientist__1"
+    },
+    {
+      "comment": "someone whose job is to study and work with statistics",
+      "entry": "statistician",
+      "id": "statistician#statistician__1"
+    },
+    {
+      "comment": "someone who [study_1]{studies} [god_1]{God} and [religion]{religion}",
+      "entry": "theologian",
+      "id": "theologian#theologian__1"
+    },
+    {
+      "comment": "a [theorist]{theorist}",
+      "entry": "theoretician",
+      "id": "theoretician#theoretician__1"
+    },
+    {
+      "comment": "someone who [develop]{develops} or [study_1]{studies} [theory]{theories} or [idea]{ideas} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "theorist",
+      "id": "theorist#theorist__1"
+    },
+    {
+      "comment": "a [scientist]{scientist} who [study_1]{studies} [animal_1]{animals}",
+      "entry": "zoologist",
+      "id": "zoologist#zoologist__1"
+    }
+  ],
+  "thesaurus": "People who study specific subjects",
+  "type": "Related words"
+}

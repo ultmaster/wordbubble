@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [sticky]{sticky} [substance]{substance} [stick_1]{sticks} to other [thing]{things}",
+      "entry": "sticky",
+      "id": "sticky#sticky__1"
+    },
+    {
+      "comment": "[able_1]{able} to [stick_1]{stick} to [thing]{things} or to [make_1]{make} [thing]{things} [stick_1]{stick} together",
+      "entry": "adhesive",
+      "id": "adhesive_2#adhesive_2__1"
+    },
+    {
+      "comment": "[sticky]{sticky}, or [covered_1]{covered} in something [sticky]{sticky}",
+      "entry": "gummy",
+      "id": "gummy#gummy__1"
+    },
+    {
+      "comment": "[able_1]{able} to [stick_1]{stick} to something without the [need_1]{need} for [glue_1]{glue}",
+      "entry": "self-adhesive",
+      "id": "self-adhesive#self-adhesive__1"
+    },
+    {
+      "comment": "thick and [sticky]{sticky}, often in an [unpleasant]{unpleasant} way",
+      "entry": "glutinous",
+      "id": "glutinous#glutinous__1"
+    },
+    {
+      "comment": "[slightly]{slightly} [sticky]{sticky}",
+      "entry": "tacky",
+      "id": "tacky#tacky__2"
+    },
+    {
+      "comment": "[sticky]{sticky} and [soft]{soft}",
+      "entry": "gooey",
+      "id": "gooey#gooey__1"
+    },
+    {
+      "comment": "[stick-on_2]{stick-on} [material_1]{material} has a [sticky]{sticky} [surface_1]{surface} so that you can [attach]{attach} it to something",
+      "entry": "stick-on",
+      "id": "stick-on_2#stick-on_2__1"
+    },
+    {
+      "comment": "a [viscous]{viscous} [liquid_1]{liquid} is thick and [sticky]{sticky}",
+      "entry": "viscous",
+      "id": "viscous#viscous__1"
+    },
+    {
+      "comment": "[sticky]{sticky} [object_1]{objects} are [covered_1]{covered} with a [substance]{substance} that [stick_1]{sticks} to [thing]{things}",
+      "entry": "sticky",
+      "id": "sticky#sticky__4"
+    }
+  ],
+  "thesaurus": "Sticky",
+  "type": "Synonyms"
+}

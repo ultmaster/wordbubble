@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people} hit each other",
+      "entry": "fight",
+      "id": "fight_2#fight_2__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} between two [group_1]{groups} of [people_1]{people}",
+      "entry": "battle",
+      "id": "battle_1#battle_1__5"
+    },
+    {
+      "comment": "a [fight_1]{fight}, [especially]{especially} an [organized]{organized} [fight_1]{fight}, between two [people_1]{people}",
+      "entry": "combat",
+      "id": "combat_1#combat_1__4"
+    },
+    {
+      "comment": "a [fight_1]{fight}, or a war",
+      "entry": "struggle",
+      "id": "struggle_2#struggle_2__4"
+    },
+    {
+      "comment": "a [noisy]{noisy} [fight_1]{fight} in a [public_1]{public} [place_1]{place}",
+      "entry": "brawl",
+      "id": "brawl_1#brawl_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [fight_1]{fight} that [last_2]{lasts} for a [short_1]{short} time and is not very [violent]{violent}",
+      "entry": "scuffle",
+      "id": "scuffle_1#scuffle_1__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} or [battle_1]{battle} between two [group_1]{groups} of [people_1]{people}",
+      "entry": "clash",
+      "id": "clash_1#clash_1__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people} hit, [kick_1]{kick}, or [bite_1]{bite} each other",
+      "entry": "fighting",
+      "id": "fighting#fighting__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} in which [people_1]{people} use their [fist]{fists} to hit each other",
+      "entry": "fist fight",
+      "id": "fist-fight#fist-fight__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} that [take_1]{takes} [place_1]{place} as one [group_1]{group} of [people_1]{people} [chase_1]{chases} another",
+      "entry": "running battle",
+      "id": "running-battle#running-battle__3"
+    },
+    {
+      "comment": "an [argument]{argument} or [fight_1]{fight} between [women]{women}",
+      "entry": "catfight",
+      "id": "catfight#catfight__1"
+    }
+  ],
+  "thesaurus": "Physical fights",
+  "type": "Synonyms"
+}

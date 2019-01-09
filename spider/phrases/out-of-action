@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "out of action",
+  "senses": [
+    {
+      "def": "if someone is out of [action_1]{action}, they are [injured]{injured} or too [sick_1]{sick} to [perform]{perform} their [usual]{usual} [activity]{activities}",
+      "examples": [
+        "Her [broken_1]{broken} [wrist]{wrist} will put her out of [action_1]{action} for at least a [month]{month}."
+      ],
+      "id": "out-of-action__1"
+    },
+    {
+      "def": "if something is out of [action_1]{action}, it cannot be [used]{used}, for [example]{example} because it is [broken_1]{broken} or is being [repair_1]{repaired} or [clean_2]{cleaned}",
+      "examples": [
+        "The [swimming]{swimming} [pool_1]{pool} is [currently]{currently} out of [action_1]{action}."
+      ],
+      "id": "out-of-action__3"
+    }
+  ]
+}

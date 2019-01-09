@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "(all) by itself",
+  "senses": [
+    {
+      "def": "not [near_1]{near} any others",
+      "examples": [
+        "His [house_1]{house} [stood]{stood} by [itself]{itself} on the [edge_1]{edge} of the [town]{town}."
+      ],
+      "id": "all-by-itself__1"
+    },
+    {
+      "def": "without [help_1]{help}, or without being made to do something",
+      "examples": [
+        "The [door_1]{door} [open_2]{opens} by [itself]{itself} as you [approach_1]{approach} it.",
+        "The [baby_1]{baby} will [soon]{soon} be [able_1]{able} to [stand_1]{stand} up all by [itself]{itself}."
+      ],
+      "id": "all-by-itself__3"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that one [particular_1]{particular} thing is the only thing [involved]{involved}",
+      "examples": [
+        "[nuclear]{Nuclear} [power_1]{power} by [itself]{itself} cannot [provide]{provide} for all our [energy]{energy} [need_1]{needs}."
+      ],
+      "id": "all-by-itself__6"
+    }
+  ]
+}

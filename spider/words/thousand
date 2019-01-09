@@ -1,0 +1,19 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "the [number_1]{number} 1,000",
+      "examples": [],
+      "id": "thousand__1"
+    },
+    {
+      "def": "a [large_1]{large} [number_1]{number} or amount of [people_1]{people} or [thing]{things}",
+      "examples": [
+        "The [flood_1]{floods} have [left_1]{left} [thousand#thousand__2]{thousands} [homeless]{homeless}.",
+        "I still have a thousand [thing]{things} to do."
+      ],
+      "id": "thousand__2"
+    }
+  ],
+  "word": "thousand"
+}

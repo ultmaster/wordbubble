@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "by most [people_1]{people}, or in most [situation]{situations}",
+      "examples": [
+        "The [duchess]{duchess} is popularly [known_1]{known} as \u201cFergie.\u201d",
+        "someone who was popularly [believe]{believed} to be [wealthy]{wealthy}"
+      ],
+      "id": "popularly__1"
+    },
+    {
+      "def": "a popularly [elect_1]{elected} [government]{government} is [elect_1]{elected} in a [democratic]{democratic} [election]{election}",
+      "examples": [
+        "a popularly [elect_1]{elected} [leader]{leader}/[party_1]{party}"
+      ],
+      "id": "popularly__4"
+    },
+    {
+      "def": "by [ordinary]{ordinary} [people_1]{people}, rather than by [expert_1]{experts}",
+      "examples": [],
+      "id": "popularly__6"
+    }
+  ],
+  "word": "popularly"
+}

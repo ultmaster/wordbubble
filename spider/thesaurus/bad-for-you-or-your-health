@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "[likely_1]{likely} to [harm_1]{harm} your [health]{health} or your body",
+      "entry": "bad",
+      "id": "bad_1#bad_1__12"
+    },
+    {
+      "comment": "not [good_1]{good} for you in a [physical_1]{physical} way",
+      "entry": "unhealthy",
+      "id": "unhealthy#unhealthy__6"
+    },
+    {
+      "comment": "[making]{making} someone [physically]{physically} or [mental#mental__12]{mentally} [weak]{weak}",
+      "entry": "debilitating",
+      "id": "debilitating#debilitating__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to [damage_1]{damage} your [success]{success} or [people_1]{people}\u2019s [opinion]{opinion} of you",
+      "entry": "bad",
+      "id": "bad_1#bad_1__15"
+    },
+    {
+      "comment": "not [good_1]{good} for you in an [emotional]{emotional} way",
+      "entry": "unhealthy",
+      "id": "unhealthy#unhealthy__8"
+    }
+  ],
+  "thesaurus": "Bad for you or your health",
+  "type": "Synonyms"
+}

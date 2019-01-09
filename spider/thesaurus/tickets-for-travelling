@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a [card_1]{card} that each [passenger]{passenger} has to show before they are [allow]{allowed} to get on an [airplane]{airplane} or a [ship_1]{ship}",
+      "entry": "boarding card",
+      "id": "boarding-card#boarding-card__1"
+    },
+    {
+      "comment": "a [boarding]{boarding} [card_1]{card}",
+      "entry": "boarding pass",
+      "id": "boarding-pass#boarding-pass__1"
+    },
+    {
+      "comment": "a [special_1]{special} [ticket_1]{ticket} that [allow]{allows} someone to [travel_1]{travel} by [bus_1]{bus} without [pay_1]{paying} each time",
+      "entry": "bus pass",
+      "id": "bus-pass#bus-pass__1"
+    },
+    {
+      "comment": "a [small_1]{small} [book_1]{book} of [ticket_1]{tickets} that you can use on [public_1]{public} [transportation]{transportation}",
+      "entry": "carnet",
+      "id": "carnet#carnet__1"
+    },
+    {
+      "comment": "a ticket in electronic form for something such as a flight or train journey that you buy on the Internet, so that you do not receive a paper ticket",
+      "entry": "e-ticket",
+      "id": "e-ticket#e-ticket__1"
+    },
+    {
+      "comment": "a card given to passengers arriving on a plane to fill in before passing through immigration and passport control",
+      "entry": "landing card",
+      "id": "landing-card#landing-card__1"
+    },
+    {
+      "comment": "a card given to passengers who have passed through customs and can leave a ship",
+      "entry": "landing card",
+      "id": "landing-card#landing-card__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [plane_1]{plane}, [train_1]{train}, etc. [ticket_1]{ticket} that you cannot [change_1]{change}, for [example]{example} if you [want_1]{want} to [travel_1]{travel} on a [different]{different} [day]{day}",
+      "entry": "restricted fare",
+      "id": "restricted-fare#restricted-fare__1"
+    },
+    {
+      "comment": "a [round-trip_2]{round-trip}",
+      "entry": "return",
+      "id": "return_2#return_2__16"
+    },
+    {
+      "comment": "a [ticket_1]{ticket} that you use several times within a [particular_1]{particular} [period_1]{period} of time that [cost_1]{costs} less than [pay_1]{paying} for [separate_1]{separate} [ticket_1]{tickets}",
+      "entry": "season ticket",
+      "id": "season-ticket#season-ticket__1"
+    },
+    {
+      "comment": "[one-way]{one-way}",
+      "entry": "single",
+      "id": "single_1#single_1__16"
+    },
+    {
+      "comment": "a [one-way]{one-way} [ticket_1]{ticket}",
+      "entry": "single",
+      "id": "single_2#single_2__14"
+    },
+    {
+      "comment": "a [ticket_1]{ticket} that you can use to [travel_1]{travel} to a [place_1]{place}, even though you may [change_1]{change} [train_1]{trains} or [plane_1]{planes} on the way",
+      "entry": "through ticket",
+      "id": "through-ticket#through-ticket__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that [show_1]{shows} you have [paid_1]{paid} for a [trip_1]{trip} on a [train_1]{train}, [airplane]{airplane}, etc.",
+      "entry": "ticket",
+      "id": "ticket_1#ticket_1__4"
+    },
+    {
+      "comment": "a [ticket_1]{ticket} that [allow]{allows} you to move from one [bus_1]{bus} or [train_1]{train} to another without [have]{having} to [pay_1]{pay} again",
+      "entry": "transfer",
+      "id": "transfer_2#transfer_2__6"
+    },
+    {
+      "comment": "a [pass_1]{pass} you can use on a [bus_1]{bus} or [train_1]{train}",
+      "entry": "travel card",
+      "id": "travel-card#travel-card__1"
+    }
+  ],
+  "thesaurus": "Tickets for travelling",
+  "type": "Related words"
+}

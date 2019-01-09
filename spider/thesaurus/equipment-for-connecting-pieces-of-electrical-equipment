@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "an [object_1]{object} that [allow]{allows} you to [connect]{connect} two [piece_1]{pieces} of [equipment]{equipment} of [different]{different} [type_1]{types} or [size_1]{sizes}",
+      "entry": "adapter",
+      "id": "adapter#adapter__1"
+    },
+    {
+      "comment": "an [object_1]{object} that [allow]{allows} you to use [electrical_1]{electrical} [equipment]{equipment} in [country]{countries} where there is a [different]{different} [type_1]{type} of [electricity]{electricity} [supply_1]{supply} from your own",
+      "entry": "adapter",
+      "id": "adapter#adapter__2"
+    },
+    {
+      "comment": "a metal object with sharp teeth that is shaped like an alligator\u2019s head and is used for connecting an electrical cable to something such as a battery. The usual British word is crocodile clip.",
+      "entry": "alligator clip",
+      "id": "alligator-clip#alligator-clip__1"
+    },
+    {
+      "comment": "thick [wire_1]{wire} [covered_1]{covered} with [plastic_1]{plastic} that is [used]{used} for [carry_1]{carrying} [electricity]{electricity} or [electronic]{electronic} [signal_1]{signals}",
+      "entry": "cable",
+      "id": "cable_1#cable_1__3"
+    },
+    {
+      "comment": "an [electrical_1]{electrical} [wire_1]{wire} that [connect]{connects} a [machine_1]{machine} to the [main_1]{main} [supply_1]{supply} of [electricity]{electricity}",
+      "entry": "cord",
+      "id": "cord#cord__1"
+    },
+    {
+      "comment": "an [alligator]{alligator} [clip_1]{clip}",
+      "entry": "crocodile clip",
+      "id": "crocodile-clip#crocodile-clip__1"
+    },
+    {
+      "comment": "a [connection]{connection} between two [electrical_1]{electrical} [system]{systems} or [piece_1]{pieces} of [equipment]{equipment}",
+      "entry": "hookup",
+      "id": "hookup#hookup__1"
+    },
+    {
+      "comment": "a type of electrical plug that fits into a socket with one hole",
+      "entry": "jack",
+      "id": "jack_1#jack_1__2"
+    },
+    {
+      "comment": "a socket that a jack fits into",
+      "entry": "jack",
+      "id": "jack_1#jack_1__3"
+    },
+    {
+      "comment": "an [electrical_1]{electrical} [cord]{cord}",
+      "entry": "lead",
+      "id": "lead_2#lead_2__25"
+    },
+    {
+      "comment": "a [connection]{connection} made between two [piece_1]{pieces} of [electronic]{electronic} [equipment]{equipment} so that they can [exchange_1]{exchange} [information]{information}",
+      "entry": "link",
+      "id": "link_2#link_2__5"
+    },
+    {
+      "comment": "a [place_1]{place} on a [wall_1]{wall} where you can [connect]{connect} [electrical_1]{electrical} [equipment]{equipment} to the [power_1]{power} [supply_1]{supply}",
+      "entry": "outlet",
+      "id": "outlet#outlet__9"
+    },
+    {
+      "comment": "one of the metal parts of an electrical plug that fits into the wall",
+      "entry": "pin",
+      "id": "pin_1#pin_1__7"
+    },
+    {
+      "comment": "an object used for connecting a piece of equipment to an electricity supply. It is fitted to the end of an electrical wire called a cord and you push it into a special hole in the wall called an outlet.",
+      "entry": "plug",
+      "id": "plug_2#plug_2__1"
+    },
+    {
+      "comment": "an [outlet]{outlet} in a [wall_1]{wall} where you [connect]{connect} a [piece_1]{piece} of [equipment]{equipment} to the [electricity]{electricity} [supply_1]{supply}",
+      "entry": "plug",
+      "id": "plug_2#plug_2__2"
+    },
+    {
+      "comment": "an electrical outlet",
+      "entry": "point",
+      "id": "point_1#point_1__40"
+    },
+    {
+      "comment": "an [electrical_1]{electrical} [outlet]{outlet}",
+      "entry": "power point",
+      "id": "power-point#power-point__1"
+    },
+    {
+      "comment": "an [electrical_1]{electrical} [outlet]{outlet}",
+      "entry": "socket",
+      "id": "socket#socket__1"
+    },
+    {
+      "comment": "the [electric]{electric} [wire_1]{wires} in a [building]{building}, [vehicle]{vehicle}, or [machine_1]{machine}",
+      "entry": "wiring",
+      "id": "wiring#wiring__1"
+    }
+  ],
+  "thesaurus": "Equipment for connecting pieces of electrical equipment",
+  "type": "Related words"
+}

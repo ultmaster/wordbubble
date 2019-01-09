@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [conversation]{conversation} about something, [usually]{usually} something [important]{important}",
+      "entry": "discussion",
+      "id": "discussion#discussion__1"
+    },
+    {
+      "comment": "a [discussion]{discussion} in which [people_1]{people} or [group_1]{groups} [state_1]{state} [different]{different} [opinion]{opinions} about a [subject_1]{subject}",
+      "entry": "debate",
+      "id": "debate_1#debate_1__1"
+    },
+    {
+      "comment": "a [discussion]{discussion} or [debate_1]{debate} between [people_1]{people} with [different]{different} [view_1]{views}, [opinion]{opinions}, etc.",
+      "entry": "argument",
+      "id": "argument#argument__7"
+    },
+    {
+      "comment": "[discussion]{discussion} between [people_1]{people} or [group_1]{groups} before they [make_1]{make} a [decision_1]{decision}",
+      "entry": "consultation",
+      "id": "consultation#consultation__1"
+    },
+    {
+      "comment": "a [thorough]{thorough} [examination]{examination} or [discussion]{discussion} of a [subject_1]{subject}, [idea]{idea}, etc.",
+      "entry": "exploration",
+      "id": "exploration#exploration__5"
+    },
+    {
+      "comment": "[discussion]{discussions} between [important]{important} [people_1]{people} from [opposing]{opposing} sides [design_2]{designed} to [help_1]{help} them [agree]{agree} about an [issue_1]{issue}",
+      "entry": "talks",
+      "id": "talk_2#talk_2__3"
+    },
+    {
+      "comment": "[formal_1]{formal} [discussion]{discussions} in which [people_1]{people} or [group_1]{groups} [try_1]{try} to [reach_1]{reach} an [agreement]{agreement}, [especially]{especially} in a [business]{business} or [political]{political} [situation]{situation}",
+      "entry": "negotiation",
+      "id": "negotiation#negotiation__1"
+    },
+    {
+      "comment": "a [discussion]{discussion} of something such as an [event]{event} or [theory]{theory}",
+      "entry": "commentary",
+      "id": "commentary#commentary__2"
+    },
+    {
+      "comment": "a [discussion]{discussion} about the [reason_1]{reasons} for a [bad_1]{bad} [situation]{situation}",
+      "entry": "inquest",
+      "id": "inquest#inquest__5"
+    },
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people} give each other [information]{information} or [discuss]{discuss} their [idea]{ideas} and [opinion]{opinions}",
+      "entry": "exchange",
+      "id": "exchange_1#exchange_1__3"
+    }
+  ],
+  "thesaurus": "Discussions and debates",
+  "type": "Synonyms"
+}

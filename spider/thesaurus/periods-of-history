@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a [period_1]{period} of [history]{history}",
+      "entry": "age",
+      "id": "age_1#age_1__21"
+    },
+    {
+      "comment": "a [historical]{historical} [period_1]{period} with a [particular_1]{particular} [character]{character} or [feature_1]{feature}",
+      "entry": "era",
+      "id": "era#era__8"
+    },
+    {
+      "comment": "the whole of time before the [present_1]{present}, and all [thing]{things} that [happen]{happened} in that time",
+      "entry": "history",
+      "id": "history#history__1"
+    },
+    {
+      "comment": "the [thing]{things} that have [happen]{happened} in a [particular_1]{particular} [place_1]{place} or to a [particular_1]{particular} [group_1]{group} of [people_1]{people}",
+      "entry": "history",
+      "id": "history#history__5"
+    },
+    {
+      "comment": "the time around the [end_1]{end} of one [century]{century} and the [beginning]{beginning} of the next",
+      "entry": "the turn of the century",
+      "id": "the-turn-of-the-century#the-turn-of-the-century__1"
+    },
+    {
+      "comment": "[used]{used} about a [particular_1]{particular} [society]{society} at a [particular_1]{particular} time in [history]{history}",
+      "entry": "world",
+      "id": "world#world__21"
+    }
+  ],
+  "thesaurus": "Periods of history",
+  "type": "Related words"
+}

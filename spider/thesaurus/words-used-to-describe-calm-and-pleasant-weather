@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if the [weather_1]{weather} is [calm_1]{calm}, there is very [little_1]{little} [wind_1]{wind}",
+      "entry": "calm",
+      "id": "calm_1#calm_1__9"
+    },
+    {
+      "comment": "a [state_1]{state} in which there is no [wind_1]{wind}, so that the [sea_1]{sea} [does]{does} not move very much",
+      "entry": "calm",
+      "id": "calm_3#calm_3__4"
+    },
+    {
+      "comment": "if the [sky_1]{sky} or the [weather_1]{weather} is [clear_1]{clear}, there are no [cloud_1]{clouds}, [rain_1]{rain}, etc.",
+      "entry": "clear",
+      "id": "clear_1#clear_1__15"
+    },
+    {
+      "comment": "[clement]{clement} [weather_1]{weather} is [pleasant]{pleasant} because it is neither very [hot]{hot} nor very [cold_1]{cold}",
+      "entry": "clement",
+      "id": "clement#clement__1"
+    },
+    {
+      "comment": "a [cloudless]{cloudless} [sky_1]{sky} has no [cloud_1]{clouds} in it",
+      "entry": "cloudless",
+      "id": "cloudless#cloudless__1"
+    },
+    {
+      "comment": "[equable]{equable} [weather_1]{weather} is not [extreme_1]{extreme} and [does]{does} not [change_1]{change} very much",
+      "entry": "equable",
+      "id": "equable#equable__2"
+    },
+    {
+      "comment": "if the [weather_1]{weather} is [fair_1]{fair}, it is [pleasant]{pleasant} and not [rain_2]{raining}",
+      "entry": "fair",
+      "id": "fair_1#fair_1__14"
+    },
+    {
+      "comment": "if the [weather_1]{weather} is [fine_1]{fine}, it is [sunny]{sunny} and not [rain_2]{raining}",
+      "entry": "fine",
+      "id": "fine_1#fine_1__16"
+    },
+    {
+      "comment": "without [wind_1]{wind}",
+      "entry": "still",
+      "id": "still_2#still_2__4"
+    },
+    {
+      "comment": "without any [wind_1]{wind}",
+      "entry": "windless",
+      "id": "windless#windless__1"
+    }
+  ],
+  "thesaurus": "Words used to describe calm and pleasant weather",
+  "type": "Related words"
+}

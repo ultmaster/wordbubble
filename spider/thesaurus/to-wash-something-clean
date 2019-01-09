@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [clean_1]{clean} something, [usually]{usually} with [soap_1]{soap} and [water_1]{water}",
+      "entry": "wash",
+      "id": "wash_1#wash_1__1"
+    },
+    {
+      "comment": "to [wash_1]{wash} or [clean_1]{clean} something by [rubbing]{rubbing} it [hard_1]{hard}, [especially]{especially} with a [brush_1]{brush}",
+      "entry": "scrub",
+      "id": "scrub_1#scrub_1__1"
+    },
+    {
+      "comment": "to [wash_1]{wash} something [quickly]{quickly}, [especially]{especially} in [flowing]{flowing} [water_1]{water}, in [order_1]{order} to [remove]{remove} [soap_1]{soap} or [dirt]{dirt}",
+      "entry": "rinse",
+      "id": "rinse_1#rinse_1__1"
+    },
+    {
+      "comment": "to use a hose to [clean_1]{clean} something",
+      "entry": "hose down",
+      "id": "hose-down#hose-down__1"
+    },
+    {
+      "comment": "to [clean_1]{clean} something [use_1]{using} a [lot_1]{lot} of [water_1]{water}",
+      "entry": "flush out",
+      "id": "flush-out#flush-out__1"
+    },
+    {
+      "comment": "to [make_1]{make} something very [clean_1]{clean} by [put]{putting} a [substance]{substance} on it that [kill_1]{kills} [bacteria]{bacteria}",
+      "entry": "disinfect",
+      "id": "disinfect#disinfect__1"
+    },
+    {
+      "comment": "to [pour]{pour} [water_1]{water} over something in [order_1]{order} to [clean_1]{clean} it",
+      "entry": "swill",
+      "id": "swill_2#swill_2__5"
+    },
+    {
+      "comment": "to [wash_1]{wash} a [floor_1]{floor} [use_1]{using} a [mop_1]{mop}",
+      "entry": "mop",
+      "id": "mop_2#mop_2__1"
+    },
+    {
+      "comment": "if you [wash_1]{wash} [dirt]{dirt} off something, or if [dirt]{dirt} [wash_1]{washes} off, you [remove]{remove} it by [washing]{washing}",
+      "entry": "wash off",
+      "id": "wash-off#wash-off__1"
+    },
+    {
+      "comment": "to wash a floor, especially with a mop",
+      "entry": "swab",
+      "id": "swab_2#swab_2__1"
+    }
+  ],
+  "thesaurus": "To wash something clean",
+  "type": "Synonyms"
+}

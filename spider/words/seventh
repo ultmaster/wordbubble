@@ -1,0 +1,21 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} 7",
+      "examples": [
+        "the seventh of February",
+        "She came seventh in a [national_1]{national} [poetry]{poetry} [competition]{competition}."
+      ],
+      "id": "seventh__1"
+    },
+    {
+      "def": "one of 7 [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "You [spend]{spend} about a seventh of your [working]{working} [week]{week} [traveling]{traveling}."
+      ],
+      "id": "seventh__4"
+    }
+  ],
+  "word": "seventh"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[essential_1]{essential} or [need_1]{needed} in [order_1]{order} to do something, [provide]{provide} something, or [make_1]{make} something [happen]{happen}",
+      "entry": "necessary",
+      "id": "necessary_1#necessary_1__1"
+    },
+    {
+      "comment": "[completely]{completely} [necessary_1]{necessary}",
+      "entry": "essential",
+      "id": "essential_1#essential_1__1"
+    },
+    {
+      "comment": "very [important]{important}, [necessary_1]{necessary}, or [essential_1]{essential}",
+      "entry": "vital",
+      "id": "vital#vital__1"
+    },
+    {
+      "comment": "[basic_1]{basic} [idea]{ideas} or [skill]{skills} are the ones you must [know_1]{know} or [learn]{learn} in [order_1]{order} to [understand]{understand} or do something",
+      "entry": "basic",
+      "id": "basic_1#basic_1__5"
+    },
+    {
+      "comment": "something that is [compulsory]{compulsory} must be done because of a [rule_1]{rule} or [law]{law}",
+      "entry": "compulsory",
+      "id": "compulsory#compulsory__1"
+    },
+    {
+      "comment": "[difficult]{difficult} or [impossible]{impossible} to [exist]{exist} without or to do something without",
+      "entry": "indispensable",
+      "id": "indispensable#indispensable__1"
+    },
+    {
+      "comment": "something that is [obligatory]{obligatory} must be done in [order_1]{order} to [obey]{obey} a [law]{law} or [rule_1]{rule}",
+      "entry": "obligatory",
+      "id": "obligatory#obligatory__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that someone must do something",
+      "entry": "without fail",
+      "id": "without-fail#without-fail__3"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something must be done, however [difficult]{difficult} it is or however much [damage_1]{damage} it [cause_1]{causes}",
+      "entry": "at all costs",
+      "id": "at-all-costs#at-all-costs__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something must be done, [design_2]{designed}, etc. in the way that it is and cannot be [different]{different}",
+      "entry": "of necessity",
+      "id": "of-necessity#of-necessity__1"
+    }
+  ],
+  "thesaurus": "Necessary",
+  "type": "Synonyms"
+}

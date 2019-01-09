@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a long [wide_1]{wide} [roll_1]{roll} of [cloth]{cloth}",
+      "entry": "bolt",
+      "id": "bolt_1#bolt_1__4"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [cloth]{cloth} [left_1]{left} after the rest has been [sold]{sold} or [used]{used}",
+      "entry": "remnant",
+      "id": "remnant#remnant__4"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [cloth]{cloth} [used]{used} as an [example]{example} of a [large_1]{larger} [piece_1]{piece}",
+      "entry": "swatch",
+      "id": "swatch#swatch__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [piece_1]{piece} of [cloth]{cloth}, [especially]{especially} one that is [wrap_1]{wrapped} around someone or something",
+      "entry": "swathe",
+      "id": "swathe_2#swathe_2__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [cloth]{cloth} that has a [particular_1]{particular} [measurement]{measurement} from one side to the other",
+      "entry": "width",
+      "id": "width#width__9"
+    }
+  ],
+  "thesaurus": "Amounts and pieces of cloth",
+  "type": "Related words"
+}

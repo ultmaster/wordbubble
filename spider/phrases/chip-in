@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "chip in",
+  "senses": [
+    {
+      "def": "if [people_1]{people} [chip_1]{chip} in, they each give some [money]{money} to [help_1]{help} [pay_1]{pay} for something",
+      "examples": [
+        "The three of us [chipped]{chipped} in and [bought]{bought} the [boat]{boat} for [dad_1]{Dad}.",
+        "The [state_1]{state} of Ohio [chipped]{chipped} in $700,000 for the [project_1]{project}."
+      ],
+      "id": "chip-in__1"
+    },
+    {
+      "def": "to [add_1]{add} something to someone else\u2019s [conversation]{conversation}",
+      "examples": [
+        "I\u2019d [just_1]{just} [like_1]{like} to [chip_1]{chip} in, Bill, if I may.",
+        "\u201cGive her a [kiss_1]{kiss}, Robbie,\u201d [chipped]{chipped} in one of the [photographer]{photographers}."
+      ],
+      "id": "chip-in__4"
+    }
+  ]
+}

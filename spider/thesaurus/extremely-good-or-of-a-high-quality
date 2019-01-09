@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "of a [high_1]{high} [quality_1]{quality} or [standard_1]{standard}",
+      "entry": "good",
+      "id": "good_1#good_1__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [good_1]{good}",
+      "entry": "excellent",
+      "id": "excellent#excellent__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [good_1]{good}",
+      "entry": "wonderful",
+      "id": "wonderful#wonderful__1"
+    },
+    {
+      "comment": "of very [good_1]{good} [quality_1]{quality}",
+      "entry": "fine",
+      "id": "fine_1#fine_1__6"
+    },
+    {
+      "comment": "[good_1]{good}, or [good_1]{good} enough",
+      "entry": "decent",
+      "id": "decent#decent__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [good_1]{good} or [impressive]{impressive} in a way that is [unusual]{unusual}",
+      "entry": "exceptional",
+      "id": "exceptional#exceptional__1"
+    },
+    {
+      "comment": "something that is [tremendous]{tremendous} is [extremely]{extremely} [good_1]{good}",
+      "entry": "tremendous",
+      "id": "tremendous#tremendous__6"
+    },
+    {
+      "comment": "of the [high_1]{highest} [quality_1]{quality}",
+      "entry": "superb",
+      "id": "superb#superb__1"
+    },
+    {
+      "comment": "[used]{used} about something that is [extremely]{extremely} [good_1]{good}",
+      "entry": "incredible",
+      "id": "incredible#incredible__9"
+    },
+    {
+      "comment": "very [good_1]{good} in [quality_1]{quality} and very [expensive]{expensive}",
+      "entry": "high-class",
+      "id": "high-class#high-class__1"
+    },
+    {
+      "comment": "[completely]{completely} [amazing]{amazing} and [wonderful]{wonderful}. This [word_1]{word} is [used]{used} [mainly]{mainly} by [young_1]{young} [people_1]{people}.",
+      "entry": "awesomesauce",
+      "id": "awesomesauce#awesomesauce__1"
+    },
+    {
+      "comment": "[used]{used} with some [adjective]{adjectives} and [noun_1]{nouns} to [create]{create} [adjective]{adjectives} [meaning_1]{meaning} very [good_1]{good} in a [particular_1]{particular} way",
+      "entry": "-tastic",
+      "id": "tastic#tastic__1"
+    }
+  ],
+  "thesaurus": "Extremely good or of a high quality",
+  "type": "Synonyms"
+}

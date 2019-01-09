@@ -1,0 +1,236 @@
+{
+  "entries": [
+    {
+      "comment": "slowly: used as an instruction saying how a piece of music should be played or sung",
+      "entry": "adagio",
+      "id": "adagio_1#adagio_1__1"
+    },
+    {
+      "comment": "quickly: used as an instruction saying how a piece of music should be played or sung",
+      "entry": "allegro",
+      "id": "allegro_1#allegro_1__1"
+    },
+    {
+      "comment": "at a fairly slow speed: used as an instruction saying how a piece of music should be played or sung",
+      "entry": "andante",
+      "id": "andante_1#andante_1__1"
+    },
+    {
+      "comment": "[arrange]{arranged} by: [used]{used} to show that someone has [changed]{changed} a [piece_1]{piece} of [music]{music} that someone else [wrote]{wrote}",
+      "entry": "arr.",
+      "id": "arr#arr__3"
+    },
+    {
+      "comment": "a [measure_1]{measure} of [music]{music}",
+      "entry": "bar",
+      "id": "bar_1#bar_1__25"
+    },
+    {
+      "comment": "in [print_1]{printed} [music]{music}, an [upright_1]{upright} [line_1]{line} that [separates]{separates} the [bar_1]{bars} of a [piece_1]{piece} of [music]{music}",
+      "entry": "bar line",
+      "id": "bar-line#bar-line__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} [used]{used} at the [beginning]{beginning} of a [line_1]{line} of [music]{music} to show that the [note_1]{notes} [following_1]{following} it are to be [play_1]{played} at the [lower_1]{lower} [end_1]{end} of the [instrument]{instrument}\u2019s [range_1]{range}",
+      "entry": "bass clef",
+      "id": "bass-clef#bass-clef__1"
+    },
+    {
+      "comment": "a symbol written at the beginning of a line of music to show the pitch of the notes",
+      "entry": "clef",
+      "id": "clef#clef__1"
+    },
+    {
+      "comment": "in [music]{music}, an [instruction]{instruction} that a [piece_1]{piece} should be [play_1]{played} or [sung]{sung} in a [gentle]{gentle} way that [express_1]{expresses} [love_1]{love}",
+      "entry": "con amore",
+      "id": "con-amore#con-amore__1"
+    },
+    {
+      "comment": "in [music]{music}, an [instruction]{instruction} that a [piece_1]{piece} should be [play_1]{played} or [sung]{sung} in a [lively]{lively} and [enthusiastic]{enthusiastic} way",
+      "entry": "con brio",
+      "id": "con-brio#con-brio__1"
+    },
+    {
+      "comment": "in music, an instruction that a piece should be played using a mute  (=an object that makes an instrument produce less sound)",
+      "entry": "con sordino",
+      "id": "con-sordino#con-sordino__1"
+    },
+    {
+      "comment": "an [instruction]{instruction} to [play_1]{play} a [section_1]{section} of [music]{music} more and more [quietly]{quietly}",
+      "entry": "diminuendo",
+      "id": "diminuendo#diminuendo__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} for this [note_1]{note}",
+      "entry": "double flat",
+      "id": "double-flat#double-flat__2"
+    },
+    {
+      "comment": "the [symbol]{symbol} for this [note_1]{note}",
+      "entry": "double sharp",
+      "id": "double-sharp#double-sharp__2"
+    },
+    {
+      "comment": "[forte_1]{forte}",
+      "entry": "f.",
+      "id": "f_2#f_2__2"
+    },
+    {
+      "comment": "a written symbol \u266d for showing that you must play or sing a note a halftone lower",
+      "entry": "flat",
+      "id": "flat_3#flat_3__4"
+    },
+    {
+      "comment": "loudly: as an instruction saying how a piece of music should be played or sung",
+      "entry": "forte",
+      "id": "forte_2#forte_2__1"
+    },
+    {
+      "comment": "very loudly: used as an instruction saying how a piece of music should be played or sung",
+      "entry": "fortissimo",
+      "id": "fortissimo#fortissimo__1"
+    },
+    {
+      "comment": "the symbols that are printed at the beginning of a piece of music to show the key in which the music is played",
+      "entry": "key signature",
+      "id": "key-signature#key-signature__1"
+    },
+    {
+      "comment": "in a slow and serious way: used as an instruction saying how a piece of music should be played or sung",
+      "entry": "largo",
+      "id": "largo_1#largo_1__1"
+    },
+    {
+      "comment": "any of the sections that a line of printed music is divided into, separated from each other by upright lines. The British word is bar.",
+      "entry": "measure",
+      "id": "measure_1#measure_1__17"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that a [piece_1]{piece} of [music]{music} should be [play_1]{played} [fairly]{fairly} [loud_1]{loud}, [soft]{soft}, etc. but not very [loud_1]{loud}, [soft]{soft}, etc.",
+      "entry": "mezzo",
+      "id": "mezzo_2#mezzo_2__1"
+    },
+    {
+      "comment": "very: used in instructions saying how a piece of music should be played or sung",
+      "entry": "molto",
+      "id": "molto#molto__1"
+    },
+    {
+      "comment": "a [book_1]{book} or [sheet]{sheet} of [paper_1]{paper} with [music]{music} [print_1]{printed} on it, [used]{used} by a [performer]{performer}",
+      "entry": "music",
+      "id": "music#music__10"
+    },
+    {
+      "comment": "a musical note that is not a sharp or a flat, or the written sign showing this",
+      "entry": "natural",
+      "id": "natural_2#natural_2__3"
+    },
+    {
+      "comment": "a [set_1]{set} of [written_1]{written} [sign_1]{signs} or [shape_1]{shapes} that are [used]{used} in something such as [music]{music} or [mathematics]{mathematics}",
+      "entry": "notation",
+      "id": "notation#notation__1"
+    },
+    {
+      "comment": "[piano_1]{piano}",
+      "entry": "p.",
+      "id": "p_3#p_3__2"
+    },
+    {
+      "comment": "a [mark_1]{mark} over a [musical_1]{musical} [note_1]{note} that [show_1]{shows} the [note_1]{note} should last for [long_1]{longer} than [usual]{usual}",
+      "entry": "pause",
+      "id": "pause_2#pause_2__5"
+    },
+    {
+      "comment": "very quietly: used in instructions saying how a piece of music should be played or sung",
+      "entry": "pianissimo",
+      "id": "pianissimo#pianissimo__1"
+    },
+    {
+      "comment": "quietly: used as an instruction saying how a piece of music should be played or sung",
+      "entry": "piano",
+      "id": "piano_2#piano_2__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [passage]{passage} of [music]{music} [play_1]{played} again, or the [symbol]{symbol} that [tell_1]{tells} a [musician]{musician} to do this",
+      "entry": "repeat",
+      "id": "repeat_2#repeat_2__6"
+    },
+    {
+      "comment": "a [symbol]{symbol} [written_1]{written} on a [piece_1]{piece} of [music]{music} [showing]{showing} how long this [pause_1]{pause} is",
+      "entry": "rest",
+      "id": "rest_1#rest_1__14"
+    },
+    {
+      "comment": "a [written_1]{written} [copy_1]{copy} of a [piece_1]{piece} of [music]{music}",
+      "entry": "score",
+      "id": "score_2#score_2__7"
+    },
+    {
+      "comment": "used for showing that a musical note should be played or sung a half step higher than usual",
+      "entry": "sharp",
+      "id": "sharp_1#sharp_1__41"
+    },
+    {
+      "comment": "the [symbol]{symbol} # [used]{used} for [showing]{showing} a [sharp_1]{sharp} [note_1]{note}",
+      "entry": "sharp",
+      "id": "sharp_3#sharp_3__2"
+    },
+    {
+      "comment": "[music]{music} [print_1]{printed} on [page_1]{pages} that do not form part of a [book_1]{book}",
+      "entry": "sheet music",
+      "id": "sheet-music#sheet-music__1"
+    },
+    {
+      "comment": "a [line_1]{line} [written_1]{written} above [musical_1]{musical} [note_1]{notes} to show that there should be no [pause_1]{pause} between them",
+      "entry": "slur",
+      "id": "slur_1#slur_1__5"
+    },
+    {
+      "comment": "the [set_1]{set} of [lines]{lines} on which [music]{music} is [written_1]{written}",
+      "entry": "staff",
+      "id": "staff_1#staff_1__14"
+    },
+    {
+      "comment": "a [set_1]{set} of [lines]{lines} on which [music]{music} is [written_1]{written}",
+      "entry": "stave",
+      "id": "stave_2#stave_2__2"
+    },
+    {
+      "comment": "an amount equal to two half steps by which a musical note is higher or lower than another note",
+      "entry": "step",
+      "id": "step_1#step_1__30"
+    },
+    {
+      "comment": "the [speed_1]{speed} at which [music]{music} is [play_1]{played} or [sung]{sung}",
+      "entry": "tempo",
+      "id": "tempo#tempo__1"
+    },
+    {
+      "comment": "the [rhythm]{rhythm} of a [piece_1]{piece} of [music]{music}, [shown]{shown} as the [number_1]{number} of [beat_1]{beats} in each [measure_1]{measure}",
+      "entry": "time",
+      "id": "time_1#time_1__48"
+    },
+    {
+      "comment": "two numbers at the beginning of a line of music that tell you how many beats there are in a measure",
+      "entry": "time signature",
+      "id": "time-signature#time-signature__1"
+    },
+    {
+      "comment": "the use of a particular key for writing a piece of music",
+      "entry": "tonality",
+      "id": "tonality#tonality__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} [used]{used} at the [beginning]{beginning} of a [line_1]{line} of [music]{music} to show that the [note_1]{notes} [following_1]{following} it are to be [play_1]{played} at the [upper_1]{upper} [end_1]{end} of the [instrument]{instrument}\u2019s [range_1]{range}",
+      "entry": "treble clef",
+      "id": "treble-clef#treble-clef__1"
+    },
+    {
+      "comment": "[music]{music} that is [vivace]{vivace} is [play_1]{played} in a [lively]{lively} [manner]{manner}",
+      "entry": "vivace",
+      "id": "vivace#vivace__1"
+    }
+  ],
+  "thesaurus": "Instructions and annotations in music",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a thin [white_1]{white} [layer_1]{layer} of [ice_1]{ice} that [look_1]{looks} [like_1]{like} [powder_1]{powder} and [form_1]{forms} on [thing]{things} [outside]{outside} when the [weather_1]{weather} is very [cold_1]{cold}",
+      "entry": "frost",
+      "id": "frost_1#frost_1__1"
+    },
+    {
+      "comment": "a [dangerous]{dangerous} [layer_1]{layer} of [ice_1]{ice} that is [difficult]{difficult} to see on a [road]{road} or [path]{path}",
+      "entry": "black ice",
+      "id": "black-ice#black-ice__1"
+    },
+    {
+      "comment": "a long thin [piece_1]{piece} of [ice_1]{ice} that [hang_1]{hangs} down from somewhere",
+      "entry": "icicle",
+      "id": "icicle#icicle__1"
+    },
+    {
+      "comment": "ice that is smooth, shiny, and reflective  (=reflects light easily)",
+      "entry": "glare ice",
+      "id": "glare-ice#glare-ice__1"
+    },
+    {
+      "comment": "to become [covered_1]{covered} with [ice_1]{ice}",
+      "entry": "ice over",
+      "id": "ice-over#ice-over__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with [ice_1]{ice}",
+      "entry": "icy",
+      "id": "icy#icy__4"
+    },
+    {
+      "comment": "covered with frost",
+      "entry": "frosty",
+      "id": "frosty#frosty__3"
+    },
+    {
+      "comment": "a hard frost is very severe",
+      "entry": "hard",
+      "id": "hard_1#hard_1__26"
+    },
+    {
+      "comment": "a sharp wind or frost is very cold",
+      "entry": "sharp",
+      "id": "sharp_1#sharp_1__38"
+    },
+    {
+      "comment": "[frozen_1]{frozen} [water_1]{water} or [snow_1]{snow} is [covered_1]{covered} with a [layer_1]{layer} of [ice_1]{ice}",
+      "entry": "frozen",
+      "id": "frozen_1#frozen_1__5"
+    }
+  ],
+  "thesaurus": "Frost, icy weather and freezing",
+  "type": "Synonyms"
+}

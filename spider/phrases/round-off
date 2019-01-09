@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "round off",
+  "senses": [
+    {
+      "def": "to [end_1]{end} something in a [satisfactory]{satisfactory} way",
+      "examples": [
+        "They [rounded]{rounded} off their six-game [series]{series} with a [stunning]{stunning} [victory]{victory} [yesterday_1]{yesterday}.",
+        "Mr. Orme [rounded]{rounded} off the [evening_1]{evening} by [buy_1]{buying} everyone a [drink_1]{drink}."
+      ],
+      "id": "round-off__1"
+    },
+    {
+      "def": "to [make_1]{make} an [angle_1]{angle} or [surface_1]{surface} [curved]{curved} and [smooth_1]{smooth}",
+      "examples": [
+        "Use a [sharp_1]{sharp} [knife_1]{knife} to round off the [edge_1]{edges}."
+      ],
+      "id": "round-off__4"
+    },
+    {
+      "def": "to [change_1]{change} a [number_1]{number} to the nearest whole [number_1]{number}, or the nearest [number_1]{number} [ending]{ending} in [zero_1]{zero}",
+      "examples": [
+        "Well that comes to 169, so [let_1]{let}\u2019s round it off to 170."
+      ],
+      "id": "round-off__6"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[need_1]{needing} to rest or [sleep_1]{sleep}",
+      "entry": "tired",
+      "id": "tired#tired__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [tired]{tired} and without enough [energy]{energy} to do anything else",
+      "entry": "exhausted",
+      "id": "exhausted#exhausted__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [tired]{tired} and [wanting]{wanting} to [sleep_1]{sleep}",
+      "entry": "sleepy",
+      "id": "sleepy#sleepy__1"
+    },
+    {
+      "comment": "very [tired]{tired}, [especially]{especially} because of [hard_1]{hard} [work_1]{work} or [activity]{activity}",
+      "entry": "weary",
+      "id": "weary_1#weary_1__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} that you [want_1]{want} to [sleep_1]{sleep}",
+      "entry": "drowsy",
+      "id": "drowsy#drowsy__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [extremely]{extremely} [tired]{tired}, either [physically]{physically} or [mental#mental__12]{mentally}",
+      "entry": "fatigued",
+      "id": "fatigued#fatigued__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [tired]{tired} and [likely_1]{likely} to go to [sleep_1]{sleep}",
+      "entry": "dozy",
+      "id": "dozy#dozy__1"
+    },
+    {
+      "comment": "so [tired]{tired} that you do not [feel_1]{feel} well",
+      "entry": "run-down",
+      "id": "run-down_2#run-down_2__1"
+    },
+    {
+      "comment": "so [tired]{tired} that you cannot do anything more",
+      "entry": "all in",
+      "id": "all-in_1#all-in_1__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [tired]{tired}",
+      "entry": "on your last legs",
+      "id": "on-your-last-legs#on-your-last-legs__3"
+    }
+  ],
+  "thesaurus": "Tired",
+  "type": "Synonyms"
+}

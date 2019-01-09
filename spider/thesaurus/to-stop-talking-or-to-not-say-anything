@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} [talk_1]{talking} or [making]{making} a [noise]{noise}",
+      "entry": "fall silent",
+      "id": "fall-silent#fall-silent__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [talk_1]{talking}, [crying]{crying}, or [making]{making} a [noise]{noise}, or to [make_1]{make} someone do this",
+      "entry": "hush",
+      "id": "hush_1#hush_1__5"
+    },
+    {
+      "comment": "to [stop_1]{stop} [talk_1]{talking} because you do not [know_1]{know} what to [say_1]{say}",
+      "entry": "dry up",
+      "id": "dry-up#dry-up__5"
+    },
+    {
+      "comment": "to [stop_1]{stop} [speak_1]{speaking}, or to [speak_1]{speak} with [pause_1]{pauses} between the [word_1]{words}, because you are [nervous]{nervous} or [upset_1]{upset}",
+      "entry": "falter",
+      "id": "falter#falter__5"
+    },
+    {
+      "comment": "to [suddenly]{suddenly} [stop_1]{stop} [talk_1]{talking} or [explain]{explaining} something, because you are [embarrassed]{embarrassed}, [unhappy]{unhappy}, or [want_1]{want} to keep a [secret_1]{secret}",
+      "entry": "clam up",
+      "id": "clam_2#clam_2__2"
+    },
+    {
+      "comment": "to [stop_1]{stop} [talk_1]{talking} or [making]{making} a [noise]{noise}",
+      "entry": "shut up",
+      "id": "shut-up#shut-up__1"
+    },
+    {
+      "comment": "to [say_1]{say} nothing, although you [want_1]{want} to [speak_1]{speak}",
+      "entry": "hold your tongue",
+      "id": "hold-your-tongue#hold-your-tongue__1"
+    },
+    {
+      "comment": "to not [say_1]{say} anything",
+      "entry": "keep your mouth shut",
+      "id": "keep-your-mouth-shut_1#keep-your-mouth-shut_1__3"
+    },
+    {
+      "comment": "to [stop_1]{stop} [speak_1]{speaking} at a [meeting]{meeting} and [allow]{allow} someone else to [speak_1]{speak}",
+      "entry": "turn over to",
+      "id": "turn-over-to#turn-over-to__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} yourself from [saying]{saying} something that might [upset_1]{upset} or [annoy]{annoy} someone",
+      "entry": "bite your tongue/lip",
+      "id": "bite-your-tongue-lip#bite-your-tongue-lip__1"
+    }
+  ],
+  "thesaurus": "To stop talking, or to not say anything",
+  "type": "Synonyms"
+}

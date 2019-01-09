@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [officially]{officially} [act_1]{acts} on [behalf]{behalf} of another [person]{person}",
+      "entry": "assignee",
+      "id": "assignee#assignee__2"
+    },
+    {
+      "comment": "someone or something that [take_1]{takes} the [place_1]{place} or [does]{does} the [job_1]{job} of another",
+      "entry": "replacement",
+      "id": "replacement#replacement__1"
+    },
+    {
+      "comment": "something that is [used]{used} [instead]{instead} of something else",
+      "entry": "substitute",
+      "id": "substitute_2#substitute_2__1"
+    },
+    {
+      "comment": "someone or something that is always [available]{available} to be [used]{used} if they are [need_1]{needed} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "standby",
+      "id": "standby_1#standby_1__1"
+    },
+    {
+      "comment": "[used]{used} about someone who [continue]{continues} the [work_1]{work} of, or who [reach_1]{reaches} the [standard_1]{standard} of, someone who came before them",
+      "entry": "successor",
+      "id": "successor#successor__8"
+    },
+    {
+      "comment": "someone or something that [replace]{replaces} another [person]{person} or thing as their [representative_1]{representative}",
+      "entry": "surrogate",
+      "id": "surrogate#surrogate__1"
+    },
+    {
+      "comment": "someone who [take_1]{takes} the [place_1]{place} of another [person]{person}, [especially]{especially} in [sport_1]{sports}",
+      "entry": "alternate",
+      "id": "alternate_3#alternate_3__1"
+    },
+    {
+      "comment": "someone or something that [take_1]{takes} the [place_1]{place} of another [person]{person} or thing for a [short_1]{short} time, [especially]{especially} in [order_1]{order} to do their [job_1]{job} while they are not [available]{available}",
+      "entry": "stand-in",
+      "id": "stand-in_2#stand-in_2__1"
+    },
+    {
+      "comment": "[used]{used} about something such as an [organization]{organization} or [machine_1]{machine} that [replace]{replaces} something that [did]{did} the same [job_1]{job} before",
+      "entry": "successor",
+      "id": "successor#successor__6"
+    },
+    {
+      "comment": "something that [people_1]{people} [accept]{accept} [instead]{instead} of something else, even though they [know_1]{know} that it is not as [good_1]{good} or as [useful]{useful}",
+      "entry": "substitute",
+      "id": "substitute_2#substitute_2__7"
+    }
+  ],
+  "thesaurus": "Replacements",
+  "type": "Synonyms"
+}

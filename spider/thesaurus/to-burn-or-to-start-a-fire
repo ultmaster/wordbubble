@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if a fire or [flame_1]{flame} [burn_1]{burns}, it [produce_1]{produces} [light_1]{light} and [heat_1]{heat}",
+      "entry": "burn",
+      "id": "burn_1#burn_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [start_1]{start} to [burn_1]{burn}",
+      "entry": "light",
+      "id": "light_3#light_3__1"
+    },
+    {
+      "comment": "to [burn_1]{burn} [strongly]{strongly} and [bright_1#bright_1__20]{brightly}",
+      "entry": "blaze",
+      "id": "blaze_1#blaze_1__1"
+    },
+    {
+      "comment": "to [burn_1]{burn} more [bright_1#bright_1__20]{brightly}",
+      "entry": "flame",
+      "id": "flame_2#flame_2__1"
+    },
+    {
+      "comment": "to [start_1]{start} to [burn_1]{burn}",
+      "entry": "ignite",
+      "id": "ignite#ignite__3"
+    },
+    {
+      "comment": "to [start_1]{start} [burning]{burning} [quickly]{quickly} or [explode]{explode}",
+      "entry": "go up",
+      "id": "go-up#go-up__8"
+    },
+    {
+      "comment": "to [start_1]{start} to [burn_1]{burn}",
+      "entry": "catch",
+      "id": "catch_1#catch_1__52"
+    },
+    {
+      "comment": "to [start_1]{start} a fire by [lighting]{lighting} [small_1]{small} [piece_1]{pieces} of [wood]{wood} or [paper_1]{paper} that will [burn_1]{burn} [easily]{easily}",
+      "entry": "kindle",
+      "id": "kindle#kindle__1"
+    },
+    {
+      "comment": "to [start_1]{start} [burning]{burning}",
+      "entry": "catch fire",
+      "id": "catch-fire#catch-fire__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [start_1]{start} [burning]{burning}",
+      "entry": "set fire to something",
+      "id": "set-fire-to-something#set-fire-to-something__1"
+    }
+  ],
+  "thesaurus": "To burn, or to start a fire",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "walk off",
+  "senses": [
+    {
+      "def": "to get [rid_1]{rid} of a [bad_1]{bad} [feeling_1]{feeling} or [condition_1]{condition} by [going_1]{going} for a [walk_1]{walk}",
+      "examples": [
+        "He went to the [beach_1]{beach} to [try_1]{try} to [walk_1]{walk} off his [hangover]{hangover}."
+      ],
+      "id": "walk-off__1"
+    },
+    {
+      "def": "to [leave_1]{leave} somewhere, [usually]{usually} without [telling]{telling} [people_1]{people} that you are [going_1]{going} to [leave_1]{leave}",
+      "examples": [
+        "Don\u2019t [walk_1]{walk} off yet, I [haven]{haven}\u2019t [finished]{finished} my [story]{story}!"
+      ],
+      "id": "walk-off__3"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "an [amplifier]{amplifier}",
+      "entry": "amp",
+      "id": "amp#amp__1"
+    },
+    {
+      "comment": "a piece of electronic equipment that makes sounds louder, used for example with electric guitars or in stereo systems",
+      "entry": "amplifier",
+      "id": "amplifier#amplifier__1"
+    },
+    {
+      "comment": "a [megaphone]{megaphone}",
+      "entry": "bullhorn",
+      "id": "bullhorn#bullhorn__1"
+    },
+    {
+      "comment": "a [bullhorn]{bullhorn}",
+      "entry": "loudhailer",
+      "id": "loudhailer#loudhailer__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that [allow]{allows} [sound_1]{sounds} or [voice_1]{voices} to be [heard]{heard} [loud_1#loud_1__12]{loudly} at a [distance_1]{distance}",
+      "entry": "loudspeaker",
+      "id": "loudspeaker#loudspeaker__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [making]{making} your [voice_1]{voice} [loud_1]{louder} when you are [talk_1]{talking} to a [crowd_1]{crowd}",
+      "entry": "megaphone",
+      "id": "megaphone#megaphone__1"
+    },
+    {
+      "comment": "a [microphone]{microphone}",
+      "entry": "mic",
+      "id": "mic#mic__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} for [making]{making} someone\u2019s [voice_1]{voice} [loud_1]{louder} when they are [speak_1]{speaking}, [perform]{performing}, or [recording]{recording} something",
+      "entry": "microphone",
+      "id": "microphone#microphone__1"
+    },
+    {
+      "comment": "a [microphone]{microphone}",
+      "entry": "mike",
+      "id": "mike_1#mike_1__1"
+    },
+    {
+      "comment": "to put a microphone on someone, so they can be heard or in order to record what they say",
+      "entry": "mike",
+      "id": "mike_2#mike_2__1"
+    },
+    {
+      "comment": "[public_1]{public} [address_1]{address} system: a [set_1]{set} of [electrical_1]{electrical} [equipment]{equipment} that [make_1]{makes} [sound_1]{sounds} [loud_1]{louder}, [used]{used} [especially]{especially} for [making]{making} [announcement]{announcements} to a [group_1]{group} of [people_1]{people} or for [play_1]{playing} [music]{music} in a [public_1]{public} [place_1]{place}",
+      "entry": "PA",
+      "id": "pa_1#pa_1__3"
+    },
+    {
+      "comment": "to call someone\u2019s name in a [public_1]{public} [place_1]{place}, [especially]{especially} [use_1]{using} a PA system",
+      "entry": "page",
+      "id": "page_2#page_2__1"
+    },
+    {
+      "comment": "a [check_1]{check} of all the [equipment]{equipment} [need_1]{needed} to [play_1]{play} [music]{music} or [broadcast_1]{broadcast} a [speaker]{speaker}\u2019s [voice_1]{voice} to an [audience]{audience}",
+      "entry": "sound check",
+      "id": "sound-check#sound-check__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [electronic]{electronic} [equipment]{equipment} [used]{used} for [play_1]{playing} [record_2]{recorded} [music]{music} or for [making]{making} a [speaker]{speaker}\u2019s [voice_1]{voice} [loud_1]{louder}",
+      "entry": "sound system",
+      "id": "sound-system#sound-system__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [send_1]{sends} out the [sound_1]{sound} from a CD [player]{player}, [radio_1]{radio}, etc.",
+      "entry": "speaker",
+      "id": "speaker#speaker__9"
+    },
+    {
+      "comment": "a speaker  (=a piece of equipment that sound comes out of) that is designed for high sounds. A speaker designed for low sounds is called a woofer.",
+      "entry": "tweeter",
+      "id": "tweeter#tweeter__1"
+    },
+    {
+      "comment": "a speaker  (=a piece of equipment that sound comes out of) that is designed for low sounds. A speaker designed for high sounds is called a tweeter.",
+      "entry": "woofer",
+      "id": "woofer#woofer__1"
+    }
+  ],
+  "thesaurus": "Public address systems and equipment for making sounds louder",
+  "type": "Related words"
+}

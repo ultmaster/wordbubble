@@ -1,0 +1,681 @@
+{
+  "entries": [
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which the [liquid_1]{liquid} in the [stomach_1]{stomach} becomes too [acid_1]{acid} and [make_1]{makes} you [feel_1]{feel} [uncomfortable]{uncomfortable}",
+      "entry": "acidity",
+      "id": "acidity#acidity__4"
+    },
+    {
+      "comment": "a medical condition in which your face is covered in pimples. It mainly affects teenagers.",
+      "entry": "acne",
+      "id": "acne#acne__1"
+    },
+    {
+      "comment": "[attention]{attention} [deficit]{deficit} [disorder]{disorder}: a [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} someone more [active]{active} than [normal_1]{normal}, [make_1]{makes} it [difficult]{difficult} for them to [concentrate_1]{concentrate}, and [cause_1]{causes} [problem]{problems} with their [behavior]{behavior}",
+      "entry": "ADD",
+      "id": "add_2#add_2__1"
+    },
+    {
+      "comment": "[attention]{attention} [deficit]{deficit} hyperactivity [disorder]{disorder}: a [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} someone more [active]{active} than [normal_1]{normal}, [make_1]{makes} it [difficult]{difficult} for them to [concentrate_1]{concentrate}, and [cause_1]{causes} [problem]{problems} with their [behavior]{behavior}",
+      "entry": "ADHD",
+      "id": "adhd#adhd__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} it [difficult]{difficult} for you to [control_1]{control} the amount of [alcohol]{alcohol} you [drink_1]{drink}",
+      "entry": "alcoholism",
+      "id": "alcoholism#alcoholism__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you become [sick_1]{sick} or your [skin_1]{skin} becomes [covered_1]{covered} with red [mark_1]{marks} as a [reaction]{reaction} to something you [eat]{eat}, [breathe]{breathe}, or [touch_1]{touch}",
+      "entry": "allergy",
+      "id": "allergy#allergy__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which someone\u2019s [hair]{hair} [fall_1]{falls} out",
+      "entry": "alopecia",
+      "id": "alopecia#alopecia__1"
+    },
+    {
+      "comment": "a medical condition in which a woman who is not pregnant does not menstruate  (=produce a flow of blood once a month)",
+      "entry": "amenorrhea",
+      "id": "amenorrhea#amenorrhea__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [amenorrhea]{amenorrhea}",
+      "entry": "amenorrhoea",
+      "id": "amenorrhoea#amenorrhoea__2"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} you [unable]{unable} to [remember]{remember} [thing]{things}, often [cause_2]{caused} by [damage_1]{damage} to the [brain_1]{brain}",
+      "entry": "amnesia",
+      "id": "amnesia#amnesia__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [anemia]{anemia}",
+      "entry": "anaemia",
+      "id": "anaemia#anaemia__1"
+    },
+    {
+      "comment": "a serious medical reaction caused by someone eating or touching something that they are allergic to  (=something that makes them sick). Common causes are nuts, eggs, and drugs such as penicillin.",
+      "entry": "anaphylactic shock",
+      "id": "anaphylactic-shock#anaphylactic-shock__1"
+    },
+    {
+      "comment": "anaphylactic [shock_1]{shock}",
+      "entry": "anaphylaxis",
+      "id": "anaphylaxis#anaphylaxis__1"
+    },
+    {
+      "comment": "a medical condition in which your blood contains too few red blood cells  (=the cells in your blood that carry oxygen through your body)",
+      "entry": "anemia",
+      "id": "anemia#anemia__1"
+    },
+    {
+      "comment": "a serious swelling in the wall of an artery  (=tube carrying blood round the body)",
+      "entry": "aneurysm",
+      "id": "aneurysm#aneurysm__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which not enough [blood_1]{blood} [get]{gets} to your [heart_1]{heart}, so that you get [pain_1]{pain} in your [chest]{chest}",
+      "entry": "angina",
+      "id": "angina#angina__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you are [unable]{unable} to use or [understand]{understand} some [word_1]{words}, [cause_2]{caused} by [damage_1]{damage} to the [brain_1]{brain}",
+      "entry": "aphasia",
+      "id": "aphasia#aphasia__1"
+    },
+    {
+      "comment": "a serious medical condition in which the sides of the arteries become thick, hard, and stiff, so that your heart has to work harder to force blood through your body",
+      "entry": "arteriosclerosis",
+      "id": "arteriosclerosis#arteriosclerosis__1"
+    },
+    {
+      "comment": "a medical condition affecting your joints  (=the place where two bones meet) making them very swollen and painful",
+      "entry": "arthritis",
+      "id": "arthritis#arthritis__1"
+    },
+    {
+      "comment": "a [problem]{problem} in the [development]{development} of a child's [brain_1]{brain} that can cause [difficulty]{difficulty} in [communicate]{communicating} with and [understanding_1]{understanding} other [people_1]{people}. It is at the less [severe]{severe} [end_1]{end} of a [range_1]{range} of [problem]{problems} [call_1]{called} [autism]{Autism} [spectrum]{Spectrum} [disorder]{Disorder}.",
+      "entry": "Asperger\u2019s syndrome",
+      "id": "asperger-s-syndrome#asperger-s-syndrome__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} it [difficult]{difficult} to [breathe]{breathe}",
+      "entry": "asthma",
+      "id": "asthma#asthma__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which a part of your body becomes [weak]{weaker} or [small_1]{smaller} because you are not [use_1]{using} it or because [blood_1]{blood} is not [reach_1]{reaching} it",
+      "entry": "atrophy",
+      "id": "atrophy_1#atrophy_1__1"
+    },
+    {
+      "comment": "a serious and painful condition that divers get if they come up from under the water too quickly",
+      "entry": "the bends",
+      "id": "the-bends#the-bends__1"
+    },
+    {
+      "comment": "a [state_1]{state} in which someone\u2019s [brain_1]{brain} has [stop_1]{stopped} [working]{working}, so that they are in [fact]{fact} [dead_1]{dead}, even though a [machine_1]{machine} may [continue]{continue} to [make_1]{make} their [heart_1]{heart} [work_1]{work}",
+      "entry": "brain death",
+      "id": "brain-death#brain-death__1"
+    },
+    {
+      "comment": "[osteoporosis]{osteoporosis}",
+      "entry": "brittle bone disease",
+      "id": "brittle-bone-disease#brittle-bone-disease__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which a [nerve_1]{nerve} in your [wrist]{wrist} is [squeeze_1]{squeezed} and your hand [hurt_1]{hurts}",
+      "entry": "carpal tunnel syndrome",
+      "id": "carpal-tunnel-syndrome#carpal-tunnel-syndrome__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you become [unconscious_1]{unconscious} and your body becomes [stiff_1]{stiff} and [fixed]{fixed} in [position_1]{position}",
+      "entry": "catalepsy",
+      "id": "catalepsy#catalepsy__1"
+    },
+    {
+      "comment": "a medical condition in which your nose and throat become blocked with a thick liquid called mucus, usually when you have a cold",
+      "entry": "catarrh",
+      "id": "catarrh#catarrh__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you cannot move or [control_1]{control} your [movement]{movements} as a [result_1]{result} of [illness]{illness} or [shock_1]{shock}",
+      "entry": "catatonia",
+      "id": "catatonia#catatonia__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which someone\u2019s [ear]{ear} is [permanently]{permanently} [swollen_1]{swollen}, [usually]{usually} because of an [injury]{injury}",
+      "entry": "cauliflower ear",
+      "id": "cauliflower-ear#cauliflower-ear__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} [affecting]{affecting} someone\u2019s [control_1]{control} over their [movement]{movement} and [speech]{speech}, [usually]{usually} [cause_2]{caused} by [damage_1]{damage} to their [brain_1]{brain} before or during [birth]{birth}",
+      "entry": "cerebral palsy",
+      "id": "cerebral-palsy#cerebral-palsy__1"
+    },
+    {
+      "comment": "cystic fibrosis",
+      "entry": "CF",
+      "id": "cf_1#cf_1__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which there is a [narrow_1]{narrow} [space_1]{space} [inside_1]{inside} someone\u2019s [mouth_1]{mouth} at the top, so that it is [difficult]{difficult} for them to [speak_1]{speak} [clearly]{clearly}",
+      "entry": "cleft palate",
+      "id": "cleft-palate#cleft-palate__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which someone\u2019s [foot_1]{foot} is [twisted]{twisted} to one side",
+      "entry": "clubfoot",
+      "id": "clubfoot#clubfoot__2"
+    },
+    {
+      "comment": "a painful medical condition that affects your colon  (=the tube that takes waste food out of your body)",
+      "entry": "colitis",
+      "id": "colitis#colitis__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which a part of your body is [block_2]{blocked} with [blood_1]{blood} or another [liquid_1]{liquid}",
+      "entry": "congestion",
+      "id": "congestion#congestion__3"
+    },
+    {
+      "comment": "a medical condition in which you have very small insects in your pubic hair",
+      "entry": "crabs",
+      "id": "crab#crab__4"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} [affecting]{affecting} a part of your body that [bend_1]{bends} such as your [wrist]{wrist} or [elbow_1]{elbow} because you [repeat_1]{repeat} the same [movement]{movement} too many times",
+      "entry": "cumulative trauma disorder",
+      "id": "cumulative-trauma-disorder#cumulative-trauma-disorder__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which a part of your body, [usually]{usually} your back, is [curved]{curved} too much",
+      "entry": "curvature",
+      "id": "curvature#curvature__3"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} it very [difficult]{difficult} for you to [breathe]{breathe} and [mainly]{mainly} [affect_1]{affects} [children]{children}",
+      "entry": "cystic fibrosis",
+      "id": "cystic-fibrosis#cystic-fibrosis__1"
+    },
+    {
+      "comment": "a serious medical condition that affects divers who come up to the surface of water too quickly",
+      "entry": "decompression sickness",
+      "id": "decompression-sickness#decompression-sickness__1"
+    },
+    {
+      "comment": "a serious medical condition in which a clot  (=mass of thick blood) forms in a vein or artery",
+      "entry": "deep vein thrombosis",
+      "id": "deep-vein-thrombosis#deep-vein-thrombosis__1"
+    },
+    {
+      "comment": "a serious medical condition caused by drinking too much alcohol. Delirium tremens is often called the DTs.",
+      "entry": "delirium tremens",
+      "id": "delirium-tremens#delirium-tremens__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which [part_1]{parts} of your [skin_1]{skin} become red and [sore_1]{sore} or [covered_1]{covered} in [spot_1]{spots}",
+      "entry": "dermatitis",
+      "id": "dermatitis#dermatitis__1"
+    },
+    {
+      "comment": "the [combination]{combination} of [diabetes]{diabetes}, [obesity]{obesity} and the [associate_1]{associated} [health]{health} [problem]{problems}",
+      "entry": "diabesity",
+      "id": "diabesity#diabesity__1"
+    },
+    {
+      "comment": "a serious medical condition in which your body does not produce enough insulin to reduce the amount of sugar in the blood",
+      "entry": "diabetes",
+      "id": "diabetes#diabetes__1"
+    },
+    {
+      "comment": "Down [syndrome]{syndrome}",
+      "entry": "Down\u2019s syndrome",
+      "id": "down-s-syndrome#down-s-syndrome__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that someone is [born]{born} with, that [make_1]{makes} them [develop]{develop} [mental#mental__12]{mentally} and [physically]{physically} in a [different]{different} way from most [people_1]{people}",
+      "entry": "Down syndrome",
+      "id": "down-syndrome#down-syndrome__1"
+    },
+    {
+      "comment": "the [medical_1]{medical} [condition_1]{condition} [edema]{edema}",
+      "entry": "dropsy",
+      "id": "dropsy#dropsy__1"
+    },
+    {
+      "comment": "[deep_1]{deep} [vein]{vein} [thrombosis]{thrombosis}",
+      "entry": "DVT",
+      "id": "dvt#dvt__1"
+    },
+    {
+      "comment": "the [condition_1]{condition} of being much [small_1]{smaller} than an [average_1]{average} [person]{person} and [have]{having} [arms]{arms} and [legs]{legs} that are [short_1]{short} [compared]{compared} to the body",
+      "entry": "dwarfism",
+      "id": "dwarfism#dwarfism__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} [affecting]{affecting} the [brain_1]{brain} that [make_1]{makes} it [difficult]{difficult} for someone to read and [spell_1]{spell} [word_1]{words} [correctly]{correctly}",
+      "entry": "dyslexia",
+      "id": "dyslexia#dyslexia__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} [affecting]{affecting} the [brain_1]{brain} that [make_1]{makes} it [difficult]{difficult} for someone to [control_1]{control} their [movement]{movements} or their [handwriting]{handwriting} well",
+      "entry": "dyspraxia",
+      "id": "dyspraxia#dyspraxia__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which a part of your body [gradually]{gradually} becomes [weak]{weaker}",
+      "entry": "dystrophy",
+      "id": "dystrophy#dystrophy__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} such as [anorexia]{anorexia} or [bulimia]{bulimia} in which someone [try_1]{tries} to [control_1]{control} their [weight_1]{weight} in a way that [make_1]{makes} them ill",
+      "entry": "eating disorder",
+      "id": "eating-disorder#eating-disorder__1"
+    },
+    {
+      "comment": "a medical condition in which a pregnant woman with high blood pressure has convulsions  (=violent uncontrolled movements)",
+      "entry": "eclampsia",
+      "id": "eclampsia#eclampsia__1"
+    },
+    {
+      "comment": "[deep_1]{deep} [vein]{vein} [thrombosis]{thrombosis}",
+      "entry": "economy class syndrome",
+      "id": "economy-class-syndrome#economy-class-syndrome__1"
+    },
+    {
+      "comment": "a medical condition that makes your skin dry, sore, and itchy",
+      "entry": "eczema",
+      "id": "eczema#eczema__1"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} that [affect_1]{affects} the [brain_1]{brain} and [make_1]{makes} you [suddenly]{suddenly} [shake_1]{shake} in an [uncontrolled]{uncontrolled} way or become [unconscious_1]{unconscious}",
+      "entry": "epilepsy",
+      "id": "epilepsy#epilepsy__1"
+    },
+    {
+      "comment": "the [harmful]{harmful} [effect_1]{effect} of very [cold_1]{cold} [weather_1]{weather} on your body",
+      "entry": "exposure",
+      "id": "exposure#exposure__8"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which the [temperature]{temperature} of your body is very [high_1]{high} and you [feel_1]{feel} [sick_1]{sick}",
+      "entry": "fever",
+      "id": "fever#fever__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which [cold_1]{cold} [weather_1]{weather} [seriously]{seriously} [damage_2]{damages} your [finger_1]{fingers}, [toe_1]{toes}, [ear]{ears}, or [nose_1]{nose}",
+      "entry": "frostbite",
+      "id": "frostbite#frostbite__1"
+    },
+    {
+      "comment": "a small hard mass that can form in your gall bladder",
+      "entry": "gallstone",
+      "id": "gallstone#gallstone__1"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} in which a part of someone\u2019s body [decay_1]{decays} when the [blood_1]{blood} [stop_1]{stops} [flowing]{flowing} to it because of an [injury]{injury} or [disease]{disease}",
+      "entry": "gangrene",
+      "id": "gangrene#gangrene__1"
+    },
+    {
+      "comment": "a medical condition that makes your gums painful",
+      "entry": "gingivitis",
+      "id": "gingivitis#gingivitis__1"
+    },
+    {
+      "comment": "the [global]{global} [problem]{problem} of the [number_1]{number} of [people_1]{people} who are [overweight_1]{overweight} or [obese]{obese}",
+      "entry": "globesity",
+      "id": "globesity#globesity__1"
+    },
+    {
+      "comment": "a serious form of epilepsy",
+      "entry": "grand mal",
+      "id": "grand-mal#grand-mal__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [hemorrhoids]{hemorrhoids}",
+      "entry": "haemorrhoids",
+      "id": "haemorrhoids#haemorrhoids__1"
+    },
+    {
+      "comment": "a medical condition in which your breath has a very unpleasant smell. A more usual word is bad breath.",
+      "entry": "halitosis",
+      "id": "halitosis#halitosis__1"
+    },
+    {
+      "comment": "a [cleft_1]{cleft} [palate]{palate}",
+      "entry": "harelip",
+      "id": "harelip#harelip__1"
+    },
+    {
+      "comment": "a medical condition caused by pollen  (=powder produced by flowers) that affects your nose and eyes as if you had a bad cold",
+      "entry": "hay fever",
+      "id": "hay-fever#hay-fever__1"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} [affecting]{affecting} your [heart_1]{heart}",
+      "entry": "heart disease",
+      "id": "heart-disease#heart-disease__1"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} in which your [heart_1]{heart} [does]{does} not [work_1]{work} [properly]{properly}",
+      "entry": "heart failure",
+      "id": "heart-failure#heart-failure__1"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} of being [extremely]{extremely} [tired]{tired} and [weak]{weak} that you get when you do too much [physical_1]{physical} [activity]{activity} in [hot]{hot} [condition_1]{conditions}",
+      "entry": "heat exhaustion",
+      "id": "heat-exhaustion#heat-exhaustion__1"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} [cause_2]{caused} by [doing]{doing} too much [physical_1]{physical} [activity]{activity} in [hot]{hot} [weather_1]{weather}",
+      "entry": "heatstroke",
+      "id": "heatstroke#heatstroke__1"
+    },
+    {
+      "comment": "an [instance_1]{instance} of [blood_1]{blood} [flowing]{flowing} out of an [injured]{injured} [organ]{organ} [inside_1]{inside} someone\u2019s body, rather than out of their body through a [cut_1]{cut} in the [skin_1]{skin}",
+      "entry": "hemorrhage",
+      "id": "hemorrhage_1#hemorrhage_1__1"
+    },
+    {
+      "comment": "painful swollen areas around your anus  (=the hole where solid waste comes out of your body).",
+      "entry": "hemorrhoids",
+      "id": "hemorrhoids#hemorrhoids__1"
+    },
+    {
+      "comment": "a medical condition in which an organ pushes itself through the wall of muscles around it",
+      "entry": "hernia",
+      "id": "hernia#hernia__1"
+    },
+    {
+      "comment": "a medical condition in which you get red itchy spots on your skin, often because you have eaten a particular food. The medical name for this is urticaria.",
+      "entry": "hives",
+      "id": "hives#hives__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which someone is [born]{born} with a [small_1]{small} hole in one of the [part_1]{parts} that [divide_1]{divide} the [different]{different} [area]{areas} of their [heart_1]{heart}",
+      "entry": "hole in the heart",
+      "id": "hole-in-the-heart#hole-in-the-heart__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which someone has too much [sugar_1]{sugar} in their [blood_1]{blood}",
+      "entry": "hyperglycemia",
+      "id": "hyperglycemia#hyperglycemia__1"
+    },
+    {
+      "comment": "a condition in which your blood pressure is extremely high",
+      "entry": "hypertension",
+      "id": "hypertension#hypertension__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which someone has a low [level_1]{level} of [sugar_1]{sugar} in their [blood_1]{blood}",
+      "entry": "hypoglycemia",
+      "id": "hypoglycemia#hypoglycemia__1"
+    },
+    {
+      "comment": "a medical condition in which someone has a low level of potassium in their blood",
+      "entry": "hypokalemia",
+      "id": "hypokalemia#hypokalemia__1"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} in which your body [temperature]{temperature} is very low",
+      "entry": "hypothermia",
+      "id": "hypothermia#hypothermia__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which someone is [unable]{unable} to [control_1]{control} their [emotion]{emotions} or [behavior]{behavior}",
+      "entry": "hysteria",
+      "id": "hysteria#hysteria__6"
+    },
+    {
+      "comment": "[irritable]{irritable} [bowel]{bowel} [syndrome]{syndrome}: a [medical_1]{medical} [condition_1]{condition} in which you have [stomach_1]{stomach} [pain_1]{pains} and [pass_1]{pass} [solid_1]{solid} [waste_1]{waste} from your body more or less often than is [normal_1]{normal}",
+      "entry": "IBS",
+      "id": "ibs#ibs__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which your body [does]{does} not have the [normal_1]{normal} [defense]{defenses} against [disease]{diseases}",
+      "entry": "immunodeficiency",
+      "id": "immunodeficiency#immunodeficiency__1"
+    },
+    {
+      "comment": "a medical condition in which a man is not able to have sex because his penis does not stay hard",
+      "entry": "impotence",
+      "id": "impotence#impotence__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you have [difficulty]{difficulty} [sleep_1]{sleeping}",
+      "entry": "insomnia",
+      "id": "insomnia#insomnia__1"
+    },
+    {
+      "comment": "IBS",
+      "entry": "irritable bowel syndrome",
+      "id": "irritable-bowel-syndrome#irritable-bowel-syndrome__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} [affecting]{affecting} the [area]{area} around a man\u2019s [sex_1]{sex} [organ]{organs}",
+      "entry": "jock itch",
+      "id": "jock-itch#jock-itch__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you are [weak]{weak} or [sick_1]{sick} because you do not [eat]{eat} enough or do not [eat]{eat} enough of the [right_1]{right} [food]{foods}",
+      "entry": "malnutrition",
+      "id": "malnutrition#malnutrition__1"
+    },
+    {
+      "comment": "a very bad headache that often makes you unable to bear strong light",
+      "entry": "migraine",
+      "id": "migraine#migraine__1"
+    },
+    {
+      "comment": "a [short_1]{short} [interruption]{interruption} in the [blood_1]{blood} [supply_1]{supply} to the [brain_1]{brain}",
+      "entry": "mini stroke",
+      "id": "mini-stroke#mini-stroke__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} you [fall_1]{fall} [asleep]{asleep} very [suddenly]{suddenly}",
+      "entry": "narcolepsy",
+      "id": "narcolepsy#narcolepsy__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which part of the body has [decay_1]{decayed} and no [long_1]{longer} [work_1]{works} [normally]{normally}",
+      "entry": "necrosis",
+      "id": "necrosis#necrosis__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [cause_1]{causes} [large_1]{large} red [spot_1]{spots} on your [skin_1]{skin} for a [short_1]{short} time",
+      "entry": "nettle rash",
+      "id": "nettle-rash#nettle-rash__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which someone is too [fat_1]{fat} in a way that is [dangerous]{dangerous} for their [health]{health}",
+      "entry": "obesity",
+      "id": "obesity#obesity__1"
+    },
+    {
+      "comment": "a serious [medical_1]{medical} [condition_1]{condition} that [affect_1]{affects} the [part_1]{parts} of your body where your [bone_1]{bones} [join_1]{join} each other, for [example]{example} your [knee_1]{knees}, [making]{making} it [difficult]{difficult} for you to move",
+      "entry": "osteoarthritis",
+      "id": "osteoarthritis#osteoarthritis__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which your [bone_1]{bones} become more [likely_1]{likely} to [break_1]{break}. It often [affect_1]{affects} [old]{older} [people_1]{people}, [especially]{especially} [women]{women}.",
+      "entry": "osteoporosis",
+      "id": "osteoporosis#osteoporosis__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [make_1]{makes} the [muscle_1]{muscles} in your [arms]{arms}, [legs]{legs}, or [face_1]{face} [shake_1]{shake}",
+      "entry": "palsy",
+      "id": "palsy#palsy__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you cannot move the [part_1]{parts} of your body below your [waist]{waist}",
+      "entry": "paraplegia",
+      "id": "paraplegia#paraplegia__1"
+    },
+    {
+      "comment": "a [small_1]{small} [painful]{painful} [area]{area} [inside_1]{inside} your [stomach_1]{stomach}, [usually]{usually} [cause_2]{caused} by [bacteria]{bacteria}",
+      "entry": "peptic ulcer",
+      "id": "peptic-ulcer#peptic-ulcer__1"
+    },
+    {
+      "comment": "a type of anemia that can cause death if it is not treated",
+      "entry": "pernicious anemia",
+      "id": "pernicious-anemia#pernicious-anemia__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which a [person]{person} [show_1]{shows} no [sign_1]{sign} of any [brain_1]{brain} [activity]{activity}, for [example]{example} [following_1]{following} a serious [injury]{injury}, and is [kept]{kept} [alive]{alive} only by the use of [medical_1]{medical} [machine_1]{machines}",
+      "entry": "persistent vegetative state",
+      "id": "persistent-vegetative-state#persistent-vegetative-state__1"
+    },
+    {
+      "comment": "a type of epilepsy that is less serious than grand mal",
+      "entry": "petit mal",
+      "id": "petit-mal#petit-mal__1"
+    },
+    {
+      "comment": "[hemorrhoids]{hemorrhoids}",
+      "entry": "piles",
+      "id": "pile_1#pile_1__13"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [affect_1]{affects} [pregnant]{pregnant} [women]{women} and [quickly]{quickly} becomes [dangerous]{dangerous} if it is not [treat_1]{treated}",
+      "entry": "pre-eclampsia",
+      "id": "pre-eclampsia#pre-eclampsia__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which an [organ]{organ} in your body [move_1]{moves} out of its [usual]{usual} [position_1]{position}",
+      "entry": "prolapse",
+      "id": "prolapse#prolapse__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which your [skin_1]{skin} becomes red and [dry_1]{dry} and [piece_1]{pieces} of [dead_1]{dead} [skin_1]{skin} [fall_1]{fall} off",
+      "entry": "psoriasis",
+      "id": "psoriasis#psoriasis__1"
+    },
+    {
+      "comment": "RSI",
+      "entry": "repetitive strain injury",
+      "id": "repetitive-strain-injury#repetitive-strain-injury__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which the [inside_1]{inside} part of your [nose_1]{nose} becomes red and [swollen_1]{swollen} and [produce_1]{produces} [liquid_1]{liquid}",
+      "entry": "rhinitis",
+      "id": "rhinitis#rhinitis__1"
+    },
+    {
+      "comment": "[cumulative]{cumulative} [trauma]{trauma} [disorder]{disorder}",
+      "entry": "RSI",
+      "id": "rsi#rsi__1"
+    },
+    {
+      "comment": "[dementia]{dementia}",
+      "entry": "senile dementia",
+      "id": "senile-dementia#senile-dementia__1"
+    },
+    {
+      "comment": "infection of your blood or body tissues, especially when this is serious and could kill you",
+      "entry": "sepsis",
+      "id": "sepsis#sepsis__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you [suddenly]{suddenly} become very [weak]{weak} and [cold_1]{cold} and do not [react]{react} [normally]{normally}, [especially]{especially} after a serious [accident]{accident} or [injury]{injury}",
+      "entry": "shock",
+      "id": "shock_1#shock_1__12"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} that [affect_1]{affects} [people_1]{people} who [work_1]{work} in [building]{buildings} where the [air_1]{air} is not [healthy]{healthy}",
+      "entry": "sick building syndrome",
+      "id": "sick-building-syndrome#sick-building-syndrome__1"
+    },
+    {
+      "comment": "[sudden_1]{sudden} [infant_1]{infant} [death]{death} [syndrome]{syndrome}: a [medical_1]{medical} [condition_1]{condition} that [cause_1]{causes} a [baby_1]{baby} to [die_1]{die} [suddenly]{suddenly} in its [bed_1]{bed}",
+      "entry": "SIDS",
+      "id": "sids#sids__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} where someone [briefly]{briefly} [stop_1]{stops} [breathing]{breathing} many times while they are [asleep]{asleep}",
+      "entry": "sleep apnea",
+      "id": "sleep-apnea#sleep-apnea__1"
+    },
+    {
+      "comment": "a painful medical condition affecting your back, in which one of the parts that connect the bones in your spine has moved out of its usual place",
+      "entry": "slipped disk",
+      "id": "slipped-disk#slipped-disk__1"
+    },
+    {
+      "comment": "a serious medical condition in which someone\u2019s spinal cord is damaged, making them paralyzed  (=unable to move parts of their body)",
+      "entry": "spina bifida",
+      "id": "spina-bifida#spina-bifida__1"
+    },
+    {
+      "comment": "a medical condition in which blood is suddenly blocked and cannot reach the brain, or in which a blood vessel in the brain breaks, often causing a loss of the ability to speak or to move particular muscles",
+      "entry": "stroke",
+      "id": "stroke_1#stroke_1__1"
+    },
+    {
+      "comment": "SIDS",
+      "entry": "sudden infant death syndrome",
+      "id": "sudden-infant-death-syndrome#sudden-infant-death-syndrome__1"
+    },
+    {
+      "comment": "a [dangerous]{dangerous} [physical_1]{physical} [condition_1]{condition} that [result_1]{results} when your body [temperature]{temperature} [get]{gets} too [hot]{hot}, for [example]{example} when you have been [working]{working} for too long in the [sun_1]{sun}",
+      "entry": "sunstroke",
+      "id": "sunstroke#sunstroke__1"
+    },
+    {
+      "comment": "a disease similar to flu that spreads quickly from one person to another and causes problems such as a sore throat and cough, thought to be related to a virus which infects pigs",
+      "entry": "swine flu",
+      "id": "swine-flu#swine-flu__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which two or more of the five [sense_1]{senses} that most [people_1]{people} [experience_1]{experience} [separate_1#separate_1__13]{separately} are [mixed]{mixed} so that, for [example]{example}, a [person]{person} may see [colour_1]{colour} when they [hear]{hear} a [particular_1]{particular} [sound_1]{sound} or read a [particular_1]{particular} [word_1]{word}",
+      "entry": "synaesthesia",
+      "id": "synaesthesia#synaesthesia__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which your [elbow_1]{elbow} [swell_1]{swells} and [hurt_1]{hurts}",
+      "entry": "tennis elbow",
+      "id": "tennis-elbow#tennis-elbow__1"
+    },
+    {
+      "comment": "a serious medical condition in which your blood gets thicker and forms a clot that stops the blood flowing normally",
+      "entry": "thrombosis",
+      "id": "thrombosis#thrombosis__1"
+    },
+    {
+      "comment": "[transient_1]{transient} ischemic [attack_1]{attack}: a [short_1]{short} [interruption]{interruption} in the [blood_1]{blood} [supply_1]{supply} to the [brain_1]{brain}",
+      "entry": "TIA",
+      "id": "tia#tia__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you [hear]{hear} a [continuous]{continuous} [noise]{noise} in your [ear]{ears}",
+      "entry": "tinnitus",
+      "id": "tinnitus#tinnitus__1"
+    },
+    {
+      "comment": "a [short_1]{short} [interruption]{interruption} in the [blood_1]{blood} [supply_1]{supply} to the [brain_1]{brain}; also [call_1]{called} a TIA",
+      "entry": "transient ischemic attack",
+      "id": "transient-ischemic-attack#transient-ischemic-attack__1"
+    },
+    {
+      "comment": "a [medical_1]{medical} [condition_1]{condition} in which you can only see what is [directly_1]{directly} in front of you",
+      "entry": "tunnel vision",
+      "id": "tunnel-vision#tunnel-vision__2"
+    },
+    {
+      "comment": "a sore area on the inside of an organ in your body or on your skin that sometimes bleeds or produces a poisonous substance",
+      "entry": "ulcer",
+      "id": "ulcer#ulcer__1"
+    },
+    {
+      "comment": "a medical condition in which the veins in your legs become swollen and sore",
+      "entry": "varicose veins",
+      "id": "varicose-veins#varicose-veins__1"
+    }
+  ],
+  "thesaurus": "Specific medical conditions",
+  "type": "Related words"
+}

@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the [removal]{removal} of some [soldier_1]{soldiers} from an [area]{area} where there has been [fighting]{fighting}",
+      "entry": "drawdown",
+      "id": "drawdown#drawdown__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [watch_1]{watching} from a [high_1]{high} [position_1]{position} another [group_1]{group} of [soldier_1]{soldiers} who are [involved]{involved} in a [military]{military} [activity]{activity} and [give_1]{giving} them [support_1]{support} if [necessary_1]{necessary}",
+      "entry": "overwatch",
+      "id": "overwatch#overwatch__1"
+    },
+    {
+      "comment": "[fighting]{fighting} between two or more [country]{countries} that [involve]{involves} the use of the [military]{military} and [usually]{usually} [continue]{continues} for a long time",
+      "entry": "war",
+      "id": "war#war__1"
+    },
+    {
+      "comment": "a [fight_1]{fight} between two [army]{armies} in a war",
+      "entry": "battle",
+      "id": "battle_1#battle_1__1"
+    },
+    {
+      "comment": "a [series]{series} of [action_1]{actions} by an [army]{army} [trying]{trying} to [win_1]{win} a war",
+      "entry": "campaign",
+      "id": "campaign_1#campaign_1__12"
+    },
+    {
+      "comment": "a [fight_1]{fight}, or a war",
+      "entry": "struggle",
+      "id": "struggle_2#struggle_2__4"
+    },
+    {
+      "comment": "a [military]{military} [operation]{operation}, [especially]{especially} one by [aircraft]{aircraft}",
+      "entry": "mission",
+      "id": "mission#mission__6"
+    },
+    {
+      "comment": "an [attack_1]{attack} by the [military]{military}",
+      "entry": "assault",
+      "id": "assault_1#assault_1__5"
+    },
+    {
+      "comment": "[fighting]{fighting} during a war",
+      "entry": "combat",
+      "id": "combat_1#combat_1__1"
+    }
+  ],
+  "thesaurus": "Wars, battles and military maneuvers",
+  "type": "Synonyms"
+}

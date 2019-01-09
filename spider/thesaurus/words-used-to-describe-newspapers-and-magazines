@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "[happening_1]{happening} or [publish]{published} every two [week]{weeks}",
+      "entry": "biweekly",
+      "id": "biweekly_1#biweekly_1__1"
+    },
+    {
+      "comment": "a [daily_1]{daily} [newspaper]{newspaper} is [publish]{published} every [day]{day}",
+      "entry": "daily",
+      "id": "daily_1#daily_1__4"
+    },
+    {
+      "comment": "[print_1]{printed} on [shiny]{shiny} [paper_1]{paper} with a [lot_1]{lot} of [bright_1]{bright} [picture_1]{pictures}",
+      "entry": "glossy",
+      "id": "glossy#glossy__5"
+    },
+    {
+      "comment": "[happening_1]{happening} or [publish]{published} once a [month]{month}",
+      "entry": "monthly",
+      "id": "monthly_1#monthly_1__1"
+    },
+    {
+      "comment": "[publish]{published} once a [week]{week}",
+      "entry": "weekly",
+      "id": "weekly_1#weekly_1__3"
+    }
+  ],
+  "thesaurus": "Words used to describe newspapers and magazines",
+  "type": "Related words"
+}

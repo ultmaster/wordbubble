@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the thing, [action_1]{action}, [feeling_1]{feeling}, [idea]{idea}, etc. that a [word_1]{word} or [word_1]{words} [represent]{represent}",
+      "entry": "meaning",
+      "id": "meaning_1#meaning_1__1"
+    },
+    {
+      "comment": "the [idea]{ideas} that [sign_1]{signs}, [symbol]{symbols}, or ways of [behave]{behaving} [represent]{represent}",
+      "entry": "meaning",
+      "id": "meaning_1#meaning_1__5"
+    },
+    {
+      "comment": "the [meaning_1]{meaning} of something, [usually]{usually} a [special_1]{special} [meaning_1]{meaning} or a [meaning_1]{meaning} that is not [obvious]{obvious}",
+      "entry": "significance",
+      "id": "significance#significance__7"
+    },
+    {
+      "comment": "a [particular_1]{particular} [meaning_1]{meaning} of a [word_1]{word}",
+      "entry": "usage",
+      "id": "usage#usage__4"
+    },
+    {
+      "comment": "an [additional]{additional} [idea]{idea} or [emotion]{emotion} that a [word_1]{word} [suggest]{suggests} to you, in [addition]{addition} to its [literal]{literal} or [main_1]{main} [meaning_1]{meaning}",
+      "entry": "connotation",
+      "id": "connotation#connotation__1"
+    },
+    {
+      "comment": "the [actual]{actual} [meaning_1]{meaning} of a [word_1]{word}, rather than the [feeling_1]{feelings} or [idea]{ideas} [connected]{connected} with the [word_1]{word}",
+      "entry": "denotation",
+      "id": "denotation#denotation__1"
+    },
+    {
+      "comment": "a [true_1]{true} but not [directly_1]{directly} [express_1]{expressed} [meaning_1]{meaning} of something that someone [say_1]{says}",
+      "entry": "subtext",
+      "id": "subtext#subtext__3"
+    },
+    {
+      "comment": "the [meaning_1]{meaning} of a [word_1]{word} or [phrase_1]{phrase}",
+      "entry": "sense",
+      "id": "sense_1#sense_1__23"
+    },
+    {
+      "comment": "the [main_1]{main} [idea]{idea} or [intention]{intention} of something such as a [document_1]{document}, [speech]{speech}, or [policy]{policy}",
+      "entry": "thrust",
+      "id": "thrust_2#thrust_2__3"
+    },
+    {
+      "comment": "the most [important]{important} [idea]{ideas} or [basic_1]{basic} [meaning_1]{meaning} of a [discussion]{discussion} or a [piece_1]{piece} of [writing]{writing}",
+      "entry": "substance",
+      "id": "substance#substance__12"
+    }
+  ],
+  "thesaurus": "General words for meaning",
+  "type": "Synonyms"
+}

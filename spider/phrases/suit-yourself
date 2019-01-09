@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "suit yourself",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone to do what [work_1]{works} [best_1]{best} for them",
+      "examples": [
+        "You can [adapt]{adapt} the [recipe]{recipe} to [suit_1]{suit} yourself."
+      ],
+      "id": "suit-yourself__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone rather [rude#rude__11]{rudely} to do whatever they [want_1]{want}, even though it is not what you [want_1]{want} them to do",
+      "examples": [
+        "You don\u2019t [agree]{agree}? [suit_1]{Suit} yourself, then."
+      ],
+      "id": "suit-yourself__3"
+    }
+  ]
+}

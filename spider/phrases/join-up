@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "join up",
+  "senses": [
+    {
+      "def": "to become a [member]{member} of the [military]{military}",
+      "examples": [
+        "He [join_1]{joined} up [right_1]{right} after [high_1]{high} [school_1]{school}."
+      ],
+      "id": "join-up__1"
+    },
+    {
+      "def": "to [meet_1]{meet} someone as [plan_2]{planned}",
+      "examples": [
+        "I\u2019m [going_1]{going} to Germany first, but we\u2019re [planning]{planning} to [join_1]{join} up in Norway."
+      ],
+      "id": "join-up__5"
+    },
+    {
+      "def": "to [work_1]{work} together to [achieve]{achieve} something",
+      "examples": [
+        "We\u2019re [join_1]{joining} up with another [research_1]{research} [team_1]{team}."
+      ],
+      "id": "join-up__7"
+    }
+  ]
+}

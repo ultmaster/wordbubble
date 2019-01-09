@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a [mirror_1]{mirror}",
+      "entry": "glass",
+      "id": "glass#glass__16"
+    },
+    {
+      "comment": "a [mirror_1]{mirror}",
+      "entry": "looking glass",
+      "id": "looking-glass#looking-glass__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [special_1]{special} [glass]{glass} in which you can see yourself or see what is behind you",
+      "entry": "mirror",
+      "id": "mirror_1#mirror_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [glass]{glass} that [look_1]{looks} [like_1]{like} a [mirror_1]{mirror} on one side and [allow]{allows} you to see through it [like_1]{like} a [window]{window} on the other",
+      "entry": "one-way mirror",
+      "id": "one-way-mirror#one-way-mirror__1"
+    },
+    {
+      "comment": "a [one-way]{one-way} [mirror_1]{mirror}",
+      "entry": "two-way mirror",
+      "id": "two-way-mirror#two-way-mirror__1"
+    },
+    {
+      "comment": "a [small_1]{small} [mirror_1]{mirror}, [especially]{especially} above a [vanity]{vanity} [table_1]{table}",
+      "entry": "vanity mirror",
+      "id": "vanity-mirror#vanity-mirror__1"
+    }
+  ],
+  "thesaurus": "Types of mirror",
+  "type": "Related words"
+}

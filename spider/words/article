@@ -1,0 +1,39 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [writing]{writing} about a [particular_1]{particular} [subject_1]{subject} that is [publish]{published} in a [newspaper]{newspaper} or [magazine]{magazine}",
+      "examples": [
+        "He has written several articles for The New York Times.",
+        "We [ran]{ran} an article about her in our [magazine]{magazine}."
+      ],
+      "id": "article__1"
+    },
+    {
+      "def": "an [object_1]{object}, [usually]{usually} one of a [group_1]{group} of [similar]{similar} [object_1]{objects}",
+      "examples": [
+        "She [left_1]{left} [article]{articles} of [clothing]{clothing} all around the [living_1]{living} [room_1]{room}.",
+        "The [store_1]{store} [sell_1]{sells} [small_1]{small} [household_1]{household} [article]{articles}."
+      ],
+      "id": "article__4"
+    },
+    {
+      "def": "part of a [legal]{legal} [document_1]{document} or [agreement]{agreement} that [deal_1]{deals} with a [particular_1]{particular} [point_1]{point}",
+      "examples": [
+        "[article]{Article} 180 [state_1]{states} that one third of the [member]{members} must be [women]{women}."
+      ],
+      "id": "article__7"
+    },
+    {
+      "def": "a [type_1]{type} of [determiner]{determiner}  (=word used before a noun) that [show_1]{shows} whether you are [refer]{referring} to a [particular_1]{particular} thing or to a [general_1]{general} [example]{example} of something. The indefinite article is \u201ca\u201d or \u201can\u201d and the definite article is \u201cthe.\u201d",
+      "examples": [],
+      "id": "article__9"
+    },
+    {
+      "def": "the [final_1]{final} part of the [education]{education} of a [professional_1]{professional} [person]{person}, for [example]{example} a [lawyer]{lawyer}, during which they [work_1]{work} for a [company]{company}",
+      "examples": [],
+      "id": "article__10"
+    }
+  ],
+  "word": "article"
+}

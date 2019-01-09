@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "draw up",
+  "senses": [
+    {
+      "def": "to [prepare]{prepare} and [write]{write} something such as a [document_1]{document} or [plan_1]{plan}",
+      "examples": [
+        "[guidelines]{Guidelines} have been [drawn_1]{drawn} up for [dealing]{dealing} with [emergency_1]{emergencies}."
+      ],
+      "id": "draw-up__1"
+    },
+    {
+      "def": "if a [vehicle]{vehicle} [draw_1]{draws} up, it [arrive]{arrives} at a [place_1]{place} and [stop_1]{stops}",
+      "examples": [
+        "A [taxi_1]{taxi} [drew]{drew} up [outside]{outside} the [hotel]{hotel}."
+      ],
+      "id": "draw-up__4"
+    }
+  ]
+}

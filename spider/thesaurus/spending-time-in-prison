@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "in [prison]{prison}",
+      "entry": "behind bars",
+      "id": "behind-bars#behind-bars__1"
+    },
+    {
+      "comment": "[kept]{kept} as a [prisoner]{prisoner}",
+      "entry": "captive",
+      "id": "captive_1#captive_1__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [person]{person} is being [kept]{kept} as a [prisoner]{prisoner}",
+      "entry": "captivity",
+      "id": "captivity#captivity__1"
+    },
+    {
+      "comment": "a [condemned]{condemned} [prisoner]{prisoner} is [wait_1]{waiting} to be [kill_1]{killed} for their [crime_1]{crime}",
+      "entry": "condemned",
+      "id": "condemned#condemned__1"
+    },
+    {
+      "comment": "[relate]{relating} to [put]{putting} or [keeping]{keeping} someone in [prison]{prison}",
+      "entry": "custodial",
+      "id": "custodial#custodial__3"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone is [kept]{kept} in [prison]{prison} until they go to [court_1]{court} for [trial_1]{trial}",
+      "entry": "custody",
+      "id": "custody#custody__4"
+    },
+    {
+      "comment": "the state of being kept in a police station or prison and not being allowed to leave",
+      "entry": "detention",
+      "id": "detention#detention__1"
+    },
+    {
+      "comment": "to be in [prison]{prison}",
+      "entry": "do time",
+      "id": "do-time#do-time__1"
+    },
+    {
+      "comment": "to go to [prison]{prison}",
+      "entry": "go down",
+      "id": "go-down#go-down__35"
+    },
+    {
+      "comment": "[spending]{spending} time in a [prison]{prison}",
+      "entry": "inside",
+      "id": "inside_1#inside_1__51"
+    },
+    {
+      "comment": "the period of time that someone spends interned in a prison",
+      "entry": "internment",
+      "id": "internment#internment__2"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone is [kept]{kept} in [prison]{prison} in [order_1]{order} to [prevent]{prevent} them from [commit]{committing} more [crime_1]{crimes}, rather than as a [punishment]{punishment}",
+      "entry": "preventive detention",
+      "id": "preventive-detention#preventive-detention__1"
+    },
+    {
+      "comment": "to [spend]{spend} time in [prison]{prison}",
+      "entry": "serve",
+      "id": "serve_1#serve_1__27"
+    },
+    {
+      "comment": "a [period_1]{period} of time [spent_1]{spent} in [prison]{prison}",
+      "entry": "stretch",
+      "id": "stretch_2#stretch_2__9"
+    },
+    {
+      "comment": "the [period_1]{period} of time that someone must [spend]{spend} in [prison]{prison}",
+      "entry": "term",
+      "id": "term_1#term_1__21"
+    }
+  ],
+  "thesaurus": "Spending time in prison",
+  "type": "Related words"
+}

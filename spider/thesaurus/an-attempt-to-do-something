@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [effort]{effort} to do something",
+      "entry": "attempt",
+      "id": "attempt_1#attempt_1__1"
+    },
+    {
+      "comment": "an [attempt_1]{attempt} to do something that is [difficult]{difficult} or that [involve]{involves} [hard_1]{hard} [work_1]{work}",
+      "entry": "effort",
+      "id": "effort#effort__1"
+    },
+    {
+      "comment": "an [attempt_1]{attempt} to do something that [take_1]{takes} a [lot_1]{lot} of [effort]{effort} over a [period_1]{period} of time",
+      "entry": "struggle",
+      "id": "struggle_2#struggle_2__1"
+    },
+    {
+      "comment": "an [attempt_1]{attempt} to do something",
+      "entry": "try",
+      "id": "try_2#try_2__1"
+    },
+    {
+      "comment": "an [attempt_1]{attempt} to do something",
+      "entry": "go",
+      "id": "go_2#go_2__1"
+    },
+    {
+      "comment": "a [determined]{determined} [attempt_1]{attempt} to [oppose]{oppose} someone or something that you [consider]{consider} to be [wrong_1]{wrong}",
+      "entry": "stand",
+      "id": "stand_2#stand_2__4"
+    },
+    {
+      "comment": "an [attempt_1]{attempt} to [defeat_1]{defeat} someone or something, or to [stop_1]{stop} them from [have]{having} [power_1]{power} over you",
+      "entry": "struggle",
+      "id": "struggle_2#struggle_2__7"
+    },
+    {
+      "comment": "the [act_1]{act} of [trying]{trying} to get something you [want_1]{want}",
+      "entry": "chase",
+      "id": "chase_2#chase_2__4"
+    },
+    {
+      "comment": "a [determined]{determined} [attempt_1]{attempt} to do something",
+      "entry": "push",
+      "id": "push_2#push_2__7"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [try_1]{try} something for the first time to find out if it will be [successful]{successful}",
+      "entry": "trial run",
+      "id": "trial-run#trial-run__1"
+    }
+  ],
+  "thesaurus": "An attempt to do something",
+  "type": "Synonyms"
+}

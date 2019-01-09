@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "strip away",
+  "senses": [
+    {
+      "def": "to [remove]{remove} something that [cover_1]{covers} something",
+      "examples": [
+        "Take [care_1]{care} when [stripping]{stripping} [away_1]{away} [old]{old} [paint_1]{paint}."
+      ],
+      "id": "strip-away__1"
+    },
+    {
+      "def": "to [remove]{remove} [unnecessary]{unnecessary} [thing]{things} that [hide_1]{hide} what something is [really]{really} [like_1]{like}",
+      "examples": [
+        "[strip_1]{Strip} [away_1]{away} the [jargon]{jargon}, and these [idea]{ideas} are [just_1]{just} the same as the [old]{old} ones."
+      ],
+      "id": "strip-away__3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "just a minute/moment/second",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone to [wait_1]{wait} for a [short_1]{short} time",
+      "examples": [
+        "[just_1]{Just} a [moment]{moment}. We\u2019re not ready for you yet."
+      ],
+      "id": "just-a-minute-moment-second__1"
+    },
+    {
+      "def": "[used]{used} when [interrupt]{interrupting} someone, [especially]{especially} when you [disagree]{disagree} with what they are [saying]{saying}",
+      "examples": [
+        "[just_1]{Just} a [minute_1]{minute}. You can\u2019t [make_1]{make} [accusation]{accusations} [like_1]{like} that."
+      ],
+      "id": "just-a-minute-moment-second__3"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "clear up",
+  "senses": [
+    {
+      "def": "to [solve]{solve} a [problem]{problem} or a [mystery_1]{mystery}",
+      "examples": [
+        "[obviously]{Obviously} the [misunderstanding]{misunderstanding} will have to be [clear_2]{cleared} up.",
+        "The [case_1]{case} was never [clear_2]{cleared} up."
+      ],
+      "id": "clear-up__1"
+    },
+    {
+      "def": "if the [weather_1]{weather} [clear_2]{clears} up, the [cloud_1]{clouds} or [rain_1]{rain} go [away_1]{away}",
+      "examples": [
+        "It\u2019s [supposed]{supposed} to [clear_1]{clear} up [tonight_1]{tonight}."
+      ],
+      "id": "clear-up__4"
+    },
+    {
+      "def": "if an [illness]{illness} [clear_2]{clears} up, or if something [clear_2]{clears} it up, you [stop_1]{stop} being [affected]{affected} by it",
+      "examples": [
+        "Most [cold_2]{colds} [clear_1]{clear} up after only a few [day]{days}.",
+        "a [lotion]{lotion} to [clear_1]{clear} up [acne]{acne}"
+      ],
+      "id": "clear-up__6"
+    },
+    {
+      "def": "to [make_1]{make} a [place_1]{place} [neat]{neat} by [remove]{removing} [thing]{things} that you have [finished]{finished} [use_1]{using} or no [long_1]{longer} [want_1]{want}",
+      "examples": [],
+      "id": "clear-up__9"
+    }
+  ]
+}

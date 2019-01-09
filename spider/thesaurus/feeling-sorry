@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[showing]{showing} that you are [sorry]{sorry} for [doing]{doing} something [wrong_1]{wrong} or for [cause_2]{causing} a [problem]{problem}",
+      "entry": "apologetic",
+      "id": "apologetic#apologetic__1"
+    },
+    {
+      "comment": "[ashamed]{ashamed} and [sorry]{sorry} because you have done something [wrong_1]{wrong}",
+      "entry": "guilty",
+      "id": "guilty#guilty__1"
+    },
+    {
+      "comment": "very [sorry]{sorry} or [ashamed]{ashamed} because you have done something [bad_1]{bad}",
+      "entry": "contrite",
+      "id": "contrite#contrite__1"
+    },
+    {
+      "comment": "[sad_1]{sad}, or [sorry]{sorry}",
+      "entry": "regretful",
+      "id": "regretful#regretful__1"
+    },
+    {
+      "comment": "[ashamed]{ashamed} and [sorry]{sorry} because you [recognize]{recognize} that you have done something [wrong_1]{wrong}",
+      "entry": "repentant",
+      "id": "repentant#repentant__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [sad_1]{sad} or [guilty]{guilty} for [have]{having} done something [wrong_1]{wrong}",
+      "entry": "remorseful",
+      "id": "remorseful#remorseful__1"
+    },
+    {
+      "comment": "[sorry]{sorry} for something [bad_1]{bad} that you have done and [willing]{willing} to [change_1]{change} your [behavior]{behavior}",
+      "entry": "penitent",
+      "id": "penitent_1#penitent_1__1"
+    },
+    {
+      "comment": "[showing]{showing} that you are [sorry]{sorry} about something",
+      "entry": "rueful",
+      "id": "rueful#rueful__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone will [wish_1]{wish} in the [future_1]{future} that they had not done something",
+      "entry": "someone will live to regret something",
+      "id": "someone-will-live-to-regret-something#someone-will-live-to-regret-something__1"
+    }
+  ],
+  "thesaurus": "Feeling sorry",
+  "type": "Synonyms"
+}

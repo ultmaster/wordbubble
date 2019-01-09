@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to [sport_1]{sports}, or [involved]{involved} in [sport_1]{sports}",
+      "entry": "sports",
+      "id": "sport_1#sport_1__7"
+    },
+    {
+      "comment": "a [type_1]{type} of [sport_1]{sport}",
+      "entry": "game",
+      "id": "game_1#game_1__7"
+    },
+    {
+      "comment": "to [like_1]{like} a [particular_1]{particular} [sport_1]{sports} [team_1]{team} and to [encourage]{encourage} them to [win_1]{win}, [especially]{especially} by [going_1]{going} to see their [game_1]{games}",
+      "entry": "support",
+      "id": "support_1#support_1__31"
+    },
+    {
+      "comment": "a sport such as football or boxing in which the players have strong or violent physical contact with each other",
+      "entry": "contact sport",
+      "id": "contact-sport#contact-sport__1"
+    },
+    {
+      "comment": "a sport or activity that is exciting and dangerous, for example bungee jumping, white-water rafting, or base jumping",
+      "entry": "extreme sport",
+      "id": "extreme-sport#extreme-sport__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which one [person]{person} can [win_1]{win} only what another [person]{person} [lose]{loses}",
+      "entry": "zero-sum game",
+      "id": "zero-sum-game#zero-sum-game__1"
+    },
+    {
+      "comment": "an away game is one in which a team goes to their opponents\u2019 place to play. A home game is one in which a team plays in its own place.",
+      "entry": "away",
+      "id": "away_2#away_2__1"
+    },
+    {
+      "comment": "a [return_1]{return} [match_1]{match}, [game_1]{game}, etc. is the [second_1]{second} one that is [play_1]{played} between two [opponent]{opponents} or [team_1]{teams}",
+      "entry": "return",
+      "id": "return_3#return_3__5"
+    },
+    {
+      "comment": "a [friendly_1]{friendly} [game_1]{game} is not part of a [competition]{competition} but is [play_1]{played} for [fun_1]{fun} or to [practice_1]{practice} [skill]{skills}",
+      "entry": "friendly",
+      "id": "friendly_1#friendly_1__19"
+    },
+    {
+      "comment": "if a [player]{player} or [team_1]{team} has a [game_1]{game} in hand, they have [play_1]{played} one [game_1]{game} less than an [opponent]{opponent}",
+      "entry": "in hand",
+      "id": "in-hand#in-hand__5"
+    }
+  ],
+  "thesaurus": "General words relating to sports and games",
+  "type": "Synonyms"
+}

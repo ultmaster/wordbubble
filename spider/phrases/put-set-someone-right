@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "put/set someone right",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [understand]{understand} that a [situation]{situation} is [different]{different} from what they [thought_1]{thought} it was",
+      "examples": [
+        "She [thought_1]{thought} you could [buy_1]{buy} [ticket_1]{tickets} at the [door_1]{door}, but we [soon]{soon} put her [right_1]{right}."
+      ],
+      "id": "put-set-someone-right__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} [better_1]{better}",
+      "examples": [
+        "[try_1]{Try} [take_1]{taking} [extra_1]{extra} [vitamin]{vitamins} \u2013 that\u2019ll put you [right_1]{right}."
+      ],
+      "id": "put-set-someone-right__3"
+    }
+  ]
+}

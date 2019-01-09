@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "shout out",
+  "senses": [
+    {
+      "def": "to [say_1]{say} something [suddenly]{suddenly} in a very [loud_1]{loud} [voice_1]{voice}",
+      "examples": [
+        "I [wanted]{wanted} to [shout_1]{shout} out and [stop_1]{stop} her, but she was already [gone_1]{gone}.",
+        "An [officer]{officer} was [shout_1]{shouting} out [order_1]{orders}."
+      ],
+      "id": "shout-out_1__1"
+    },
+    {
+      "def": "to [interrupt]{interrupt} a [speech]{speech} or [lecture_1]{lecture} by [shout_1]{shouting} something",
+      "examples": [
+        "A few [people_1]{people} in the [audience]{audience} [shout_1]{shouted} out [question_1]{questions}."
+      ],
+      "id": "shout-out_1__4"
+    }
+  ]
+}

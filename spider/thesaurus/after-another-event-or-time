@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "when a [particular_1]{particular} time has [pass_1]{passed}, or when an [event]{event} or [action_1]{action} has [end_2]{ended}",
+      "entry": "after",
+      "id": "after_1#after_1__2"
+    },
+    {
+      "comment": "after something [happen]{happens}, or as a [result_1]{result} of something that [happen]{happens}",
+      "entry": "following",
+      "id": "following_1#following_1__1"
+    },
+    {
+      "comment": "at some time after a [particular_1]{particular} [point_1]{point} in the [past_1]{past}",
+      "entry": "since",
+      "id": "since#since__8"
+    },
+    {
+      "comment": "after something else [happen]{happened}",
+      "entry": "subsequently",
+      "id": "subsequently#subsequently__1"
+    },
+    {
+      "comment": "an [ensuing]{ensuing} [period_1]{period} of time comes after the time or [event]{event} that you have been [talk_1]{talking} about",
+      "entry": "ensuing",
+      "id": "ensuing#ensuing__3"
+    },
+    {
+      "comment": "coming after something else",
+      "entry": "succeeding",
+      "id": "succeeding#succeeding__1"
+    },
+    {
+      "comment": "[continuing]{continuing} after a [particular_1]{particular} time or [date_1]{date}",
+      "entry": "beyond",
+      "id": "beyond_1#beyond_1__19"
+    },
+    {
+      "comment": "[happening_1]{happening} or coming after something else",
+      "entry": "subsequent",
+      "id": "subsequent#subsequent__1"
+    },
+    {
+      "comment": "after some time has [pass_1]{passed}",
+      "entry": "in the course of time",
+      "id": "in-the-course-of-time#in-the-course-of-time__1"
+    },
+    {
+      "comment": "after a [fairly]{fairly} long [period_1]{period} of time",
+      "entry": "in time",
+      "id": "in-time#in-time__5"
+    }
+  ],
+  "thesaurus": "After another event or time",
+  "type": "Synonyms"
+}

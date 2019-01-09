@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "just/wait a moment",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone that you will do something very [soon]{soon}",
+      "examples": [
+        "\u201cCan you give me a hand?\u201d \u201c[just_1]{Just} a [moment]{moment}.\u201d"
+      ],
+      "id": "just-wait-a-moment__1"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone to give you their [attention]{attention} for a [short_1]{short} time",
+      "examples": [
+        "[just_1]{Just} a [moment]{moment}, I [want_1]{want} to [ask_1]{ask} you something."
+      ],
+      "id": "just-wait-a-moment__3"
+    }
+  ]
+}

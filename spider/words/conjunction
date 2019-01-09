@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [word_1]{word} such as \u2018and\u2019, \u2018but\u2019, \u2018because\u2019, or \u2018when\u2019 that [join_1]{joins} [word_1]{words}, [group_1]{groups}, [phrase_1]{phrases}, and [sentence_1]{sentences}. For [example]{example} in the [sentence_1]{sentence} \u2018The [police_1]{police} have not [reveal_1]{revealed} the [detail_1]{details} and we don\u2019t [know_1]{know} when they will\u2019, \u2018and\u2019 and \u2018when\u2019 are [conjunction]{conjunctions}.",
+      "examples": [],
+      "id": "conjunction__1"
+    },
+    {
+      "def": "a [combination]{combination} of two or more [thing]{things}",
+      "examples": [
+        "The conjunction of [computer]{computers} and [communication]{communications} is perhaps the most [important]{important} [aspect]{aspect} of [information]{information} [technology]{technology}."
+      ],
+      "id": "conjunction__2"
+    },
+    {
+      "def": "a [situation]{situation} in which [event]{events} or [condition_1]{conditions} [combine_1]{combine}, [usually]{usually} [influence_2]{influencing} other [event]{events}",
+      "examples": [
+        "a conjunction of [favorable]{favorable} [political]{political} and [economic]{economic} [circumstance]{circumstances}"
+      ],
+      "id": "conjunction__4"
+    }
+  ],
+  "word": "conjunction"
+}

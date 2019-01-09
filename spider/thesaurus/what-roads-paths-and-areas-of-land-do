@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "if a [road]{road}, [path]{path}, or [set_1]{set} of [stair]{stairs} [ascend]{ascends}, it [go_1]{goes} up",
+      "entry": "ascend",
+      "id": "ascend#ascend__5"
+    },
+    {
+      "comment": "if a [road]{road}, [river]{river}, etc. [bend_1]{bends}, it [change_1]{changes} [direction]{direction} in the [shape_1]{shape} of a [curve_1]{curve}",
+      "entry": "bend",
+      "id": "bend_1#bend_1__13"
+    },
+    {
+      "comment": "to [divide_1]{divide} into two [separate_1]{separate} [part_1]{parts}, [especially]{especially} [part_1]{parts} that go in [different]{different} [direction]{directions}",
+      "entry": "bifurcate",
+      "id": "bifurcate#bifurcate__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} the [main_1]{main} part of something",
+      "entry": "branch off",
+      "id": "branch-off#branch-off__1"
+    },
+    {
+      "comment": "if a [road]{road}, [pipe_1]{pipe}, or [wire_1]{wire} [carry_1]{carries} something along it, that thing [move_1]{moves} or [flow_1]{flows} along it",
+      "entry": "carry",
+      "id": "carry_1#carry_1__14"
+    },
+    {
+      "comment": "to [join_1]{join} two [place_1]{places}, [making]{making} it [possible_1]{possible} for [people_1]{people} and [thing]{things} to move between them",
+      "entry": "connect",
+      "id": "connect#connect__6"
+    },
+    {
+      "comment": "to [start_1]{start} to go in [separate_1]{separate} [direction]{directions}",
+      "entry": "diverge",
+      "id": "diverge#diverge__1"
+    },
+    {
+      "comment": "if a [road]{road} [divide_1]{divides}, it [separates]{separates} into two [road]{roads}",
+      "entry": "divide",
+      "id": "divide_1#divide_1__24"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about a [road]{road} or [path]{path}",
+      "entry": "end",
+      "id": "end_2#end_2__3"
+    },
+    {
+      "comment": "to [continue]{continue} for a [particular_1]{particular} [distance_1]{distance} or in a [particular_1]{particular} [direction]{direction}",
+      "entry": "extend",
+      "id": "extend#extend__1"
+    },
+    {
+      "comment": "to [slope_1]{slope} [downward_1]{downward}",
+      "entry": "fall",
+      "id": "fall_1#fall_1__51"
+    },
+    {
+      "comment": "if a [road]{road}, [path]{path}, or [river]{river} [fork_1]{forks}, it [divide_1]{divides} into two [separate_1]{separate} [part_1]{parts}",
+      "entry": "fork",
+      "id": "fork_2#fork_2__1"
+    },
+    {
+      "comment": "if something such as a [road]{road}, [river]{river}, or [door_1]{door} [lead_1]{leads} in a [particular_1]{particular} [direction]{direction} or to a [particular_1]{particular} [place_1]{place}, or if it [lead_1]{leads} you there, it [go_1]{goes} in that [direction]{direction} or to that [place_1]{place}",
+      "entry": "lead",
+      "id": "lead_1#lead_1__11"
+    },
+    {
+      "comment": "to [connect]{connect} two or more [place_1]{places}",
+      "entry": "link",
+      "id": "link_1#link_1__8"
+    },
+    {
+      "comment": "if [thing]{things} such as [road]{roads}, [lines]{lines}, or [area]{areas} [meet_1]{meet}, they [join_1]{join} each other",
+      "entry": "meet",
+      "id": "meet_1#meet_1__22"
+    },
+    {
+      "comment": "if [road]{roads}, [street_1]{streets}, etc. [meet_1]{meet} up, they [join_1]{join} or cross each other",
+      "entry": "meet up",
+      "id": "meet-up#meet-up__4"
+    },
+    {
+      "comment": "if a [road]{road}, [river]{river}, or [stream_1]{stream} [pass_1]{passes} through, across, etc. a [place_1]{place}, its [path]{path} [follow]{follows} that [direction]{direction}",
+      "entry": "pass",
+      "id": "pass_1#pass_1__13"
+    },
+    {
+      "comment": "to [slope_1]{slope} [downward_1]{downward} [suddenly]{suddenly}",
+      "entry": "plunge",
+      "id": "plunge_1#plunge_1__6"
+    },
+    {
+      "comment": "if a [road]{road} or [river]{river} [turn_1]{turns}, it [bend_1]{bends} and [go_1]{goes} in a [different]{different} [direction]{direction}",
+      "entry": "turn",
+      "id": "turn_1#turn_1__23"
+    },
+    {
+      "comment": "if a [road]{road} or a [river]{river} [twist_1]{twists}, it has a [lot_1]{lot} of [bend_1]{bends} in it",
+      "entry": "twist",
+      "id": "twist_1#twist_1__16"
+    }
+  ],
+  "thesaurus": "What roads, paths and areas of land do",
+  "type": "Related words"
+}

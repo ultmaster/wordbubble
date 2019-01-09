@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "very [annoyed]{annoyed}",
+      "entry": "angry",
+      "id": "angry#angry__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [slightly]{slightly} [angry]{angry} or [impatient]{impatient}",
+      "entry": "annoyed",
+      "id": "annoyed#annoyed__1"
+    },
+    {
+      "comment": "very [sad_1]{sad}, [worried]{worried}, or [angry]{angry} about something",
+      "entry": "upset",
+      "id": "upset_1#upset_1__1"
+    },
+    {
+      "comment": "[angry]{angry}",
+      "entry": "mad",
+      "id": "mad_1#mad_1__1"
+    },
+    {
+      "comment": "[annoyed]{annoyed} or [impatient]{impatient} about something",
+      "entry": "irritated",
+      "id": "irritated#irritated__1"
+    },
+    {
+      "comment": "[annoyed]{annoyed} or [bored]{bored} with something that you [feel_1]{feel} you have [accepted]{accepted} for too long",
+      "entry": "fed up",
+      "id": "fed-up#fed-up__1"
+    },
+    {
+      "comment": "[annoyed]{annoyed}, [offend#offend__8]{offended}, or [upset_1]{upset} by something that someone has [said_1]{said} or done",
+      "entry": "put out",
+      "id": "put-out_2#put-out_2__1"
+    },
+    {
+      "comment": "[annoyed]{annoyed} or [angry]{angry}, [usually]{usually} because something is not very [good_1]{good} or someone has made a [mistake_1]{mistake}",
+      "entry": "displeased",
+      "id": "displeased#displeased__1"
+    },
+    {
+      "comment": "angry. This word is used mainly by children or when speaking to children",
+      "entry": "cross",
+      "id": "cross_3#cross_3__1"
+    },
+    {
+      "comment": "very [unfriendly]{unfriendly} and [angry]{angry}",
+      "entry": "belligerent",
+      "id": "belligerent_1#belligerent_1__1"
+    }
+  ],
+  "thesaurus": "Feeling angry or annoyed",
+  "type": "Synonyms"
+}

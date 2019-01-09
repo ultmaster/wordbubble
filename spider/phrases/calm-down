@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "calm down",
+  "senses": [
+    {
+      "def": "to [begin]{begin} to [feel_1]{feel} more [relaxed]{relaxed} and less [emotional]{emotional}, or to [make_1]{make} someone do this",
+      "examples": [
+        "[calm_1]{Calm} down and [tell_1]{tell} us what\u2019s [going_1]{going} on.",
+        "She [finally]{finally} [managed]{managed} to [calm_1]{calm} him down."
+      ],
+      "id": "calm-down__1"
+    },
+    {
+      "def": "if a [situation]{situation} [calm_2]{calms} down, there is less [activity]{activity} and [people_1]{people} are less [busy_1]{busy}",
+      "examples": [],
+      "id": "calm-down__4"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [shelter_1]{shelter} in a [garden_1]{garden} that is made by [growing]{growing} [plant_1]{plants} over a [frame_1]{frame}",
+      "entry": "arbor",
+      "id": "arbor#arbor__1"
+    },
+    {
+      "comment": "a [bowl_1]{bowl} in a [yard]{yard}, [fill_1]{filled} with [water_1]{water} for [bird]{birds} to [wash_1]{wash} themselves in",
+      "entry": "bird bath",
+      "id": "bird-bath#bird-bath__1"
+    },
+    {
+      "comment": "a [frame_1]{frame} to which you [tie_1]{tie} a [fruit_1]{fruit} [tree]{tree} so that it [grow]{grows} [flat_1]{flat}",
+      "entry": "espalier",
+      "id": "espalier#espalier__2"
+    },
+    {
+      "comment": "a [fountain]{fountain}",
+      "entry": "fount",
+      "id": "fount#fount__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} through which a [stream_1]{stream} of [water_1]{water} is [pumped-up]{pumped} into the [air_1]{air} and [fall_1]{falls} down again",
+      "entry": "fountain",
+      "id": "fountain#fountain__1"
+    },
+    {
+      "comment": "a [stone_1]{stone} or [plastic_1]{plastic} [model_1]{model} of a [gnome]{gnome}, [used]{used} in [yard]{yards} for [decoration]{decoration}",
+      "entry": "gnome",
+      "id": "gnome#gnome__2"
+    },
+    {
+      "comment": "a small cave that has been built as a decoration in a garden",
+      "entry": "grotto",
+      "id": "grotto#grotto__1"
+    },
+    {
+      "comment": "a [line_1]{line} of [bush]{bushes} or [small_1]{small} [tree]{trees} [growing]{growing} [close_1]{close} together around a [garden_1]{garden} or [field_1]{field}",
+      "entry": "hedge",
+      "id": "hedge_1#hedge_1__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} [consist]{consisting} of [narrow_1]{narrow} [piece_1]{pieces} of [wood]{wood}, [plastic_1]{plastic}, [metal_1]{metal}, etc. [cross_1]{crossed} over each other with [space_1]{spaces} between them",
+      "entry": "lattice",
+      "id": "lattice#lattice__1"
+    },
+    {
+      "comment": "a [lattice]{lattice} [structure_1]{structure}",
+      "entry": "latticework",
+      "id": "latticework#latticework__1"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} of [closely]{closely} [connected]{connected} [path]{paths} [separated]{separated} by [tall]{tall} [bush]{bushes} or [tree]{trees}. The [path]{paths} often do not [lead_1]{lead} anywhere, and you have to use your [memory]{memory} and [skill]{skill} to get through.",
+      "entry": "maze",
+      "id": "maze#maze__1"
+    },
+    {
+      "comment": "a [wooden]{wooden} [frame_1]{frame} for [growing]{growing} [plant_1]{plants} on [outside]{outside} a [house_1]{house} and for [sitting]{sitting} or [walking_1]{walking} under",
+      "entry": "pergola",
+      "id": "pergola#pergola__1"
+    },
+    {
+      "comment": "a [large_1]{large} [plastic_1]{plastic} [structure_1]{structure} [shaped_1]{shaped} [like_1]{like} the top [half]{half} of a [tube]{tube} that is [used]{used} for [growing]{growing} [plant_1]{plants} that [need_1]{need} [protection]{protection} from the [weather_1]{weather}",
+      "entry": "polytunnel",
+      "id": "polytunnel#polytunnel__1"
+    },
+    {
+      "comment": "an [object_1]{object} that [measure_1]{measures} time by the [position_1]{position} of a [shadow_1]{shadow} made in [sunny]{sunny} [weather_1]{weather}, [consist]{consisting} of a [pointed]{pointed} [metal_1]{metal} [piece_1]{piece} on top of a [flat_1]{flat} [piece_1]{piece} of [stone_1]{stone}",
+      "entry": "sundial",
+      "id": "sundial#sundial__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [structure_1]{structure} with [seat_1]{seats} [hanging_1]{hanging} from it on which [children]{children} [sit]{sit} and move [backward_1]{backward} and [forward_1]{forward}",
+      "entry": "swing set",
+      "id": "swing-set#swing-set__1"
+    },
+    {
+      "comment": "an [upright_1]{upright} [frame_1]{frame} for [plant_1]{plants} to [grow]{grow} on, made of [narrow_1]{narrow} [piece_1]{pieces} of [wood]{wood} that cross over each other",
+      "entry": "trellis",
+      "id": "trellis#trellis__1"
+    },
+    {
+      "comment": "an [upright_1]{upright} [structure_1]{structure} made of [stone_1]{stone} or [brick_1]{brick} that [surround_1]{surrounds} or [divide_1]{divides} someone\u2019s [land_1]{land} or [yard]{yard}",
+      "entry": "wall",
+      "id": "wall_1#wall_1__10"
+    },
+    {
+      "comment": "a [machine_1]{machine} in a [park_1]{park} or other [public_1]{public} [place_1]{place} that [provide]{provides} [drinking]{drinking} [water_1]{water} when you [push_1]{push} a [button_1]{button}",
+      "entry": "water fountain",
+      "id": "water-fountain#water-fountain__1"
+    },
+    {
+      "comment": "a well or pool of water that you throw money into so that you can make a wish",
+      "entry": "wishing well",
+      "id": "wishing-well#wishing-well__1"
+    }
+  ],
+  "thesaurus": "Structures in gardens and parks",
+  "type": "Related words"
+}

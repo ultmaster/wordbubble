@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the amount of something in a [place_1]{place}",
+      "examples": [
+        "the density of [vegetation]{vegetation} in the [area]{area}"
+      ],
+      "id": "density__1"
+    },
+    {
+      "def": "a [measurement]{measurement} of how much [space_1]{space} a [particular_1]{particular} amount of a [substance]{substance} [take_1]{takes} up. It is found by [divide_1]{dividing} its [mass_1]{mass} by its [volume]{volume}.",
+      "examples": [],
+      "id": "density__3"
+    },
+    {
+      "def": "the [degree]{degree} to which something is [heavy_1]{heavy} or thick",
+      "examples": [],
+      "id": "density__4"
+    }
+  ],
+  "word": "density"
+}

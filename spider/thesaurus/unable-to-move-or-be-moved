@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [condition_1]{condition} in which a [patient_1]{patient} is [awake_1]{awake} and [aware]{aware} but cannot move or [speak_1]{speak} because almost all the [muscle_1]{muscles} in the body except for the [eye_1]{eyes} are [paralyzed]{paralyzed}",
+      "entry": "locked-in syndrome",
+      "id": "locked-in-syndrome#locked-in-syndrome__1"
+    },
+    {
+      "comment": "[caught_1]{caught} or [held]{held} in a [position_1]{position} so that you cannot move",
+      "entry": "stuck",
+      "id": "stuck_2#stuck_2__1"
+    },
+    {
+      "comment": "[unable]{unable} to move or [walk_1]{walk}",
+      "entry": "immobile",
+      "id": "immobile#immobile__3"
+    },
+    {
+      "comment": "something that is [immovable]{immovable} cannot be [move_1]{moved}",
+      "entry": "immovable",
+      "id": "immovable#immovable__1"
+    },
+    {
+      "comment": "[unable]{unable} to move [normally]{normally} because you have been hit very [hard_1]{hard}",
+      "entry": "stunned",
+      "id": "stunned#stunned__5"
+    },
+    {
+      "comment": "[unable]{unable} to move because of [fear_1]{fear} or [surprise_1]{surprise}",
+      "entry": "frozen",
+      "id": "frozen_1#frozen_1__9"
+    },
+    {
+      "comment": "[unable]{unable} to move because of a [strong]{strong} [emotion]{emotion} such as [fear_1]{fear} or [anger_1]{anger}",
+      "entry": "rigid",
+      "id": "rigid#rigid__10"
+    },
+    {
+      "comment": "[temporarily]{temporarily} [unable]{unable} to move or [think_1]{think} [clearly]{clearly}",
+      "entry": "paralyzed",
+      "id": "paralyzed#paralyzed__4"
+    },
+    {
+      "comment": "[unable]{unable} to move or [control_1]{control} your [movement]{movements} as a [result_1]{result} of [illness]{illness} or [shock_1]{shock}",
+      "entry": "catatonic",
+      "id": "catatonic#catatonic__1"
+    },
+    {
+      "comment": "[unable]{unable} to move at all",
+      "entry": "stuck fast",
+      "id": "stuck-fast#stuck-fast__1"
+    }
+  ],
+  "thesaurus": "Unable to move or be moved",
+  "type": "Synonyms"
+}

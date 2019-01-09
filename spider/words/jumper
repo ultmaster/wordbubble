@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [dress_1]{dress} without [sleeve]{sleeves} that is [usually]{usually} [worn_1]{worn} over a [shirt]{shirt}",
+      "examples": [],
+      "id": "jumper__1"
+    },
+    {
+      "def": "a [person]{person} or [animal_1]{animal} that [jump_1]{jumps}",
+      "examples": [
+        "The [pony_1]{pony} was [fast_1]{fast} and a [good_1]{good} jumper."
+      ],
+      "id": "jumper__2"
+    },
+    {
+      "def": "a [sweater]{sweater}",
+      "examples": [],
+      "id": "jumper__4"
+    }
+  ],
+  "word": "jumper"
+}

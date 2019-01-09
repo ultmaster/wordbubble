@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is suicidal is [likely_1]{likely} to [try_1]{try} to [kill_1]{kill} themselves",
+      "examples": [
+        "When he [stop_1]{stopped} [take_1]{taking} his [medication]{medication}, he became suicidal."
+      ],
+      "id": "suicidal__1"
+    },
+    {
+      "def": "very [dangerous]{dangerous}, and [likely_1]{likely} to [lead_1]{lead} to serious [problem]{problems} or to [death]{death}",
+      "examples": [
+        "[take_1]{Taking} on more [debt]{debt} would be suicidal for the [company]{company} at this time.",
+        "a suicidal [parachute_1]{parachute} [jump_1]{jump}"
+      ],
+      "id": "suicidal__3"
+    }
+  ],
+  "word": "suicidal"
+}

@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the [action_1]{action} of [saying]{saying} what you [think_1]{think} is [true_1]{true} or will [happen]{happen}, without being [certain_1]{certain}",
+      "entry": "guess",
+      "id": "guess_2#guess_2__1"
+    },
+    {
+      "comment": "an amount that you [guess_1]{guess} or [calculate]{calculate} [use_1]{using} the [information]{information} [available]{available}",
+      "entry": "estimate",
+      "id": "estimate_2#estimate_2__1"
+    },
+    {
+      "comment": "[idea]{ideas} or [discussion]{discussion} about why something has [happen]{happened} or what might [happen]{happen}",
+      "entry": "speculation",
+      "id": "speculation#speculation__1"
+    },
+    {
+      "comment": "the [development]{development} of a [theory]{theory} or [guess_1]{guess} [base_2]{based} on [information]{information} that is not [complete_1]{complete}",
+      "entry": "conjecture",
+      "id": "conjecture_1#conjecture_1__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [trying]{trying} to find the [answer_1]{answer} to something by [guess_1]{guessing}, or the [answer_1]{answer} found by [use_1]{using} this [method]{method}",
+      "entry": "guesswork",
+      "id": "guesswork#guesswork__1"
+    },
+    {
+      "comment": "a [judgment]{judgment} about something that [consider]{considers} it to be [better_1]{better} than it [really]{really} is",
+      "entry": "overestimate",
+      "id": "overestimate_2#overestimate_2__2"
+    },
+    {
+      "comment": "a [calculation]{calculation} of the [size_1]{size}, [value_1]{value}, or amount of something when all the [fact]{facts} are not [available]{available} to you",
+      "entry": "guesstimate",
+      "id": "guesstimate#guesstimate__1"
+    },
+    {
+      "comment": "a [guess_1]{guess} or [attempt_1]{attempt} that is not [base_2]{based} on [knowledge]{knowledge} or [experience_1]{experience} and is very [likely_1]{likely} to be [wrong_1]{wrong} or to [fail_1]{fail}",
+      "entry": "a stab in the dark",
+      "id": "a-stab-in-the-dark#a-stab-in-the-dark__1"
+    },
+    {
+      "comment": "an [opinion]{opinion} about the thing that is most [likely_1]{likely} to [happen]{happen}",
+      "entry": "best guess",
+      "id": "best-guess#best-guess__1"
+    }
+  ],
+  "thesaurus": "Guesses and estimates",
+  "type": "Synonyms"
+}

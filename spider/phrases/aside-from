@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "aside from",
+  "senses": [
+    {
+      "def": "except for",
+      "examples": [
+        "[aside_1]{Aside} from [hanging_1]{hanging} around in the [street_1]{street}, there\u2019s nothing for [kid_1]{kids} to do here."
+      ],
+      "id": "aside-from__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something [exist]{exists}, is [true_1]{true}, or [happen]{happens} in [addition]{addition} to something else",
+      "examples": [
+        "He\u2019d [eaten]{eaten} [half]{half} a [loaf_1]{loaf} of [bread]{bread}, and that was [aside_1]{aside} from the [sandwich_1]{sandwich} he\u2019d had [earlier_1]{earlier}."
+      ],
+      "id": "aside-from__3"
+    }
+  ]
+}

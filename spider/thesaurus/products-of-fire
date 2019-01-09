@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "the [gray_1]{gray} [powder_1]{powder} that [remains]{remains} after something has [burn_1]{burned}",
+      "entry": "ash",
+      "id": "ash#ash__1"
+    },
+    {
+      "comment": "a [burning]{burning} [piece_1]{piece} of [wood]{wood}",
+      "entry": "brand",
+      "id": "brand_1#brand_1__9"
+    },
+    {
+      "comment": "a black substance made from burned wood, used as a fuel, especially for cooking food outside. You can also use sticks of charcoal for drawing.",
+      "entry": "charcoal",
+      "id": "charcoal_1#charcoal_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of something that has been [burn_1]{burned} almost [completely]{completely}",
+      "entry": "cinders",
+      "id": "cinder#cinder__1"
+    },
+    {
+      "comment": "the [burn_1]{burned} [piece_1]{pieces} [left_1]{left} after a fire has [stop_1]{stopped} [burning]{burning}",
+      "entry": "cinders",
+      "id": "cinder#cinder__3"
+    },
+    {
+      "comment": "the rough [hard_1]{hard} [material_1]{material} that is [left_1]{left} after [coal]{coal} has been [burn_1]{burned}",
+      "entry": "clinker",
+      "id": "clinker#clinker__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [wood]{wood} or [coal]{coal} that is still [hot]{hot} and red after a fire has [stop_1]{stopped} [burning]{burning}",
+      "entry": "ember",
+      "id": "ember#ember__1"
+    },
+    {
+      "comment": "[smoke_1]{smoke} or [gas_1]{gas} that has an [unpleasant]{unpleasant} [smell_1]{smell}, [especially]{especially} [harmful]{harmful} [smoke_1]{smoke} or [gas_1]{gas}",
+      "entry": "fumes",
+      "id": "fumes#fumes__1"
+    },
+    {
+      "comment": "a [gray_1]{gray}, [black_1]{black}, or [white_1]{white} [cloud_1]{cloud} [produce_1]{produced} by something that is [burning]{burning}",
+      "entry": "smoke",
+      "id": "smoke_1#smoke_1__1"
+    },
+    {
+      "comment": "a [dirty_1]{dirty} [black_1]{black} [powder_1]{powder} that is [produce_1]{produced} when you [burn_1]{burn} something such as [coal]{coal} or [wood]{wood}",
+      "entry": "soot",
+      "id": "soot#soot__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [piece_1]{piece} of [burning]{burning} [material_1]{material}",
+      "entry": "spark",
+      "id": "spark_2#spark_2__1"
+    },
+    {
+      "comment": "the part of something that [remains]{remains} after you have [burn_1]{burned} or [used]{used} the rest",
+      "entry": "stub",
+      "id": "stub_2#stub_2__1"
+    }
+  ],
+  "thesaurus": "Products of fire",
+  "type": "Related words"
+}

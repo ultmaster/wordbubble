@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "to bits",
+  "senses": [
+    {
+      "def": "into [small_1]{small} [piece_1]{pieces}",
+      "examples": [
+        "The [vase]{vase} hit the [floor_1]{floor} and was [smashed]{smashed} to [bit_1]{bits}."
+      ],
+      "id": "to-bits__1"
+    },
+    {
+      "def": "very much",
+      "examples": [
+        "He\u2019s [thrilled]{thrilled} to [bit_1]{bits}.",
+        "I [love_1]{love} you to [bit_1]{bits}."
+      ],
+      "id": "to-bits__3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[fact]{facts} or [physical_1]{physical} [sign_1]{signs} that [help_1]{help} to [prove]{prove} something",
+      "entry": "evidence",
+      "id": "evidence#evidence__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [evidence_1]{evidence} that something is [happening_1]{happening} or that something [exist]{exists}",
+      "entry": "sign",
+      "id": "sign_1#sign_1__1"
+    },
+    {
+      "comment": "the [possibility]{possibility} that something is [true_1]{true}, or [evidence_1]{evidence} [showing]{showing} that something may be [true_1]{true}",
+      "entry": "suggestion",
+      "id": "suggestion#suggestion__10"
+    },
+    {
+      "comment": "[information]{information} or [evidence_1]{evidence} that [show_1]{shows} that something is [definitely]{definitely} [true_1]{true} or [definitely]{definitely} [exist]{exists}",
+      "entry": "proof",
+      "id": "proof_1#proof_1__1"
+    },
+    {
+      "comment": "an [event]{event} that [prove]{proves} a [fact]{fact}",
+      "entry": "demonstration",
+      "id": "demonstration#demonstration__7"
+    },
+    {
+      "comment": "an [example]{example}, [event]{event}, [fact]{fact}, etc. that [show_1]{shows} that something else is [true_1]{true}, or [show_1]{shows} what something is [like_1]{like}",
+      "entry": "illustration",
+      "id": "illustration#illustration__5"
+    },
+    {
+      "comment": "something that [show_1]{shows} the [development]{development} or [progress_1]{progress} of a [situation]{situation}",
+      "entry": "pointer",
+      "id": "pointer#pointer__6"
+    },
+    {
+      "comment": "something that [show_1]{shows} that a [person]{person} or thing has a [particular_1]{particular} [quality_1]{quality}",
+      "entry": "mark",
+      "id": "mark_1#mark_1__11"
+    },
+    {
+      "comment": "[proof_1]{proof} that someone is [going_1]{going} to [pay_1]{pay} you",
+      "entry": "the color of someone\u2019s money",
+      "id": "the-color-of-someone-s-money#the-color-of-someone-s-money__1"
+    },
+    {
+      "comment": "[clear_1]{clear} [proof_1]{proof} that someone has done something [wrong_1]{wrong} or [illegal_1]{illegal}",
+      "entry": "smoking gun",
+      "id": "smoking-gun#smoking-gun__1"
+    }
+  ],
+  "thesaurus": "Proof and evidence",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "not go far",
+  "senses": [
+    {
+      "def": "if an amount of [money]{money} [does]{does} not go [far]{far}, you cannot [buy_1]{buy} much with it",
+      "examples": [
+        "A [dollar]{dollar} doesn\u2019t go [far]{far} these [day]{days}."
+      ],
+      "id": "not-go-far_1__1"
+    },
+    {
+      "def": "if an amount or [supply_1]{supply} of something [does]{does} not go [far]{far}, it is too [small_1]{small}",
+      "examples": [
+        "One [bottle_1]{bottle} of [water_1]{water} [won]{won}\u2019t go [far]{far} between us all."
+      ],
+      "id": "not-go-far_1__3"
+    }
+  ]
+}

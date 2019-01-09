@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [kill_1]{kills} another [person]{person}",
+      "examples": [
+        "The [young_1]{young} [woman]{woman}\u2019s killer has not yet been found.",
+        "a [hire_1]{hired}/[trained]{trained} killer",
+        "a child/cop killer  (=someone who has killed a child or police officer)",
+        "[cancer_1]{Cancer} is the [second_1]{second} [large_1]{largest} killer in the U.S.",
+        "a killer [disease]{disease}/[virus]{virus}",
+        "[weed_1]{weed} killer",
+        "a [passion]{passion} killer"
+      ],
+      "id": "killer__1"
+    },
+    {
+      "def": "something that is very [difficult]{difficult}",
+      "examples": [
+        "The [test_1]{test} was a killer."
+      ],
+      "id": "killer__11"
+    }
+  ],
+  "word": "killer"
+}

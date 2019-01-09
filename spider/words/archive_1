@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [collection]{collection} of [historical]{historical} [document_1]{documents} and [record_1]{records} about a [place_1]{place}, [organization]{organization}, etc.",
+      "examples": [
+        "The [report_1]{reports} are [preserve_1]{preserved} in the [official_1]{official} [archive_1]{archives}."
+      ],
+      "id": "archive_1__1"
+    },
+    {
+      "def": "a [copy_1]{copy} of a computer [file_1]{file} that you [save_1]{save} on a [disk]{disk} or [tape_1]{tape}",
+      "examples": [],
+      "id": "archive_1__4"
+    },
+    {
+      "def": "a [collection]{collection} of computer [file_1]{files} that have been [save_1]{saved} together in [compress_1]{compressed} form",
+      "examples": [],
+      "id": "archive_1__6"
+    }
+  ],
+  "word": "archive"
+}

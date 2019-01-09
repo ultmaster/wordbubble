@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a [train_1]{train} come off its [rail_1]{rails}",
+      "examples": [],
+      "id": "derail__1"
+    },
+    {
+      "def": "to [prevent]{prevent} something from [continuing]{continuing} in the way that it was [plan_2]{planned}",
+      "examples": [
+        "[disagreement]{Disagreements} between the two [party_1]{parties} have [derail]{derailed} [peace]{peace} [talk_1]{talks}."
+      ],
+      "id": "derail__3"
+    }
+  ],
+  "word": "derail"
+}

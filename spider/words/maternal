@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to being a [mother_1]{mother}",
+      "examples": [
+        "maternal [responsibility]{responsibilities}"
+      ],
+      "id": "maternal__1"
+    },
+    {
+      "def": "a maternal [relative_1]{relative} is [related_1]{related} to you through your [mother_1]{mother}",
+      "examples": [],
+      "id": "maternal__3"
+    },
+    {
+      "def": "[typical]{typical} of a [kind_1]{kind} and [caring]{caring} [mother_1]{mother}",
+      "examples": [
+        "maternal [instinct]{instincts}/[feeling_1]{feelings}"
+      ],
+      "id": "maternal__4"
+    }
+  ],
+  "word": "maternal"
+}

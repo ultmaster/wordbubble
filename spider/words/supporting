@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} about a part in a [play_1]{play} or [movie]{movie} that is [important]{important} but is not the [main_1]{main} part",
+      "examples": [
+        "She [won]{won} an [academy]{Academy} [award_1]{Award} for [best_1]{best} supporting [actress]{actress}.",
+        "a supporting [role]{role}"
+      ],
+      "id": "supporting__1"
+    },
+    {
+      "def": "[helping]{helping} to [prove]{prove} that a [theory]{theory} or [claim_1]{claim} is [true_1]{true}",
+      "examples": [
+        "supporting [evidence_1]{evidence}/[argument]{arguments}"
+      ],
+      "id": "supporting__4"
+    },
+    {
+      "def": "[holding]{holding} the [weight_1]{weight} of something, [especially]{especially} in a [building]{building}",
+      "examples": [
+        "a supporting [beam_1]{beam}/[wall_1]{wall}"
+      ],
+      "id": "supporting__6"
+    }
+  ],
+  "word": "supporting"
+}

@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [produce_1]{produce} a [new]{new} [substance]{substance} as a [result_1]{result} of a [chemical_1]{chemical} or [biological]{biological} [reaction]{reaction} [involve]{involving} two or more [simple]{simpler} [substance]{substances}",
+      "examples": [
+        "[green_1]{Green} [plant_1]{plants} synthesize [carbohydrate]{carbohydrates} from [carbon]{carbon} dioxide and [water_1]{water}.",
+        "[synthesize]{synthesized} [drug_1]{drugs}"
+      ],
+      "id": "synthesize__1"
+    },
+    {
+      "def": "to [combine_1]{combine} [different]{different} [idea]{ideas}, [style_1]{styles}, or [system]{systems} into a [single_1]{single} [idea]{idea} or system",
+      "examples": [
+        "The [final_1]{final} [chapter]{chapter} [attempt_1]{attempts} to synthesize the [argument]{arguments}."
+      ],
+      "id": "synthesize__4"
+    },
+    {
+      "def": "to [produce_1]{produce} [sound_1]{sounds} [use_1]{using} a [synthesizer]{synthesizer}",
+      "examples": [
+        "[synthesize]{synthesized} [sound_1]{sounds}/[melody]{melodies}"
+      ],
+      "id": "synthesize__6"
+    }
+  ],
+  "word": "synthesize"
+}

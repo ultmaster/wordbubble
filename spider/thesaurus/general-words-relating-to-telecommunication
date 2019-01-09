@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to make it possible for someone to communicate using a telephone or computer network",
+      "entry": "connect",
+      "id": "connect#connect__12"
+    },
+    {
+      "comment": "able to communicate using a telephone or computer network",
+      "entry": "connected",
+      "id": "connected#connected__11"
+    },
+    {
+      "comment": "a means of communicating using a telephone or computer network",
+      "entry": "connection",
+      "id": "connection#connection__18"
+    },
+    {
+      "comment": "to [write]{write} to someone or [talk_1]{talk} to them on the [telephone_1]{telephone}",
+      "entry": "contact",
+      "id": "contact_2#contact_2__1"
+    },
+    {
+      "comment": "a [contact_1]{contact} [address_1]{address} or [telephone_1]{telephone} [number_1]{number} is one that [people_1]{people} can use to [write]{write} to you or [talk_1]{talk} to you",
+      "entry": "contact",
+      "id": "contact_3#contact_3__1"
+    },
+    {
+      "comment": "to [allow]{allow} someone [speak_1]{speaking} to you on a [phone_1]{phone} or [radio_1]{radio} to [speak_1]{speak} to someone else",
+      "entry": "patch through",
+      "id": "patch-through#patch-through__1"
+    },
+    {
+      "comment": "to [succeed]{succeed} in [talk_1]{talking} to someone by [telephone_1]{telephone} or [radio_1]{radio}",
+      "entry": "reach",
+      "id": "reach_1#reach_1__29"
+    },
+    {
+      "comment": "the [science]{science} and [technology]{technology} of [send_1]{sending} [information]{information} by [telephone_1]{telephone}, [radio_1]{radio}, or [television]{television}",
+      "entry": "telecommunications",
+      "id": "telecommunications#telecommunications__1"
+    },
+    {
+      "comment": "a [measurement]{measurement} of how many [telephone_1]{telephones} are [available]{available}, [express_1]{expressed} as the [number_1]{number} of [telephone_1]{telephone} [lines]{lines} for every 100 [people_1]{people} in a [country]{country}",
+      "entry": "teledensity",
+      "id": "teledensity#teledensity__1"
+    },
+    {
+      "comment": "a set of standards for wireless local area networks. Any wi-fi product can be used with any other wi-fi product.",
+      "entry": "wi-fi",
+      "id": "wi-fi#wi-fi__1"
+    }
+  ],
+  "thesaurus": "General words relating to telecommunication",
+  "type": "Related words"
+}

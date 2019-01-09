@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "the system of [pay_1]{paying} for [goods]{goods} or [service_1]{services} with other [goods]{goods} or [service_1]{services} [instead]{instead} of [use_1]{using} [money]{money}",
+      "entry": "barter",
+      "id": "barter_2#barter_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [product]{product} [available]{available} for [people_1]{people} to [buy_1]{buy} before [competitor]{competitors} are [able_1]{able} to do so",
+      "entry": "beat someone to market",
+      "id": "beat-someone-to-market#beat-someone-to-market__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [product]{product} [available]{available} for [people_1]{people} to [buy_1]{buy}",
+      "entry": "bring/take, etc. something to market",
+      "id": "bring-take-etc-something-to-market#bring-take-etc-something-to-market__1"
+    },
+    {
+      "comment": "the [work_1]{work} of [buy_1]{buying} or [selling]{selling} [product]{products} or [service_1]{services} for [money]{money}",
+      "entry": "business",
+      "id": "business#business__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [buy_1]{buying} and [selling]{selling} [goods]{goods} and [service_1]{services}",
+      "entry": "commerce",
+      "id": "commerce#commerce__1"
+    },
+    {
+      "comment": "an [economy_1]{economy} in which [goods]{goods} and [service_1]{services} can be [ordered]{ordered} [use_1]{using} [app_1]{apps} and [provided]{provided} almost [immediately]{immediately} almost everywhere",
+      "entry": "concierge economy",
+      "id": "concierge-economy#concierge-economy__1"
+    },
+    {
+      "comment": "the [business]{business} of [buy_1]{buying} and [selling]{selling}",
+      "entry": "dealing",
+      "id": "dealing#dealing__1"
+    },
+    {
+      "comment": "relating to or used in e-commerce  (=buying and selling goods on the Internet)",
+      "entry": "digital",
+      "id": "digital#digital__7"
+    },
+    {
+      "comment": "the [activity]{activity} of [buy_1]{buying} and [selling]{selling} [goods]{goods} on the [internet]{Internet}",
+      "entry": "e-commerce",
+      "id": "e-commerce#e-commerce__1"
+    },
+    {
+      "comment": "[trade_1]{trade} in [goods]{goods} of a [particular_1]{particular} [kind_1]{kind}",
+      "entry": "market",
+      "id": "market_1#market_1__5"
+    },
+    {
+      "comment": "[relate]{relating} to or [used]{used} in the [business]{business} of [buy_1]{buying} and [selling]{selling} [goods]{goods} or their [transportation]{transportation}",
+      "entry": "merchant",
+      "id": "merchant#merchant__5"
+    },
+    {
+      "comment": "the right to buy or sell something in the future, for example property or stock in a company",
+      "entry": "option",
+      "id": "option#option__11"
+    },
+    {
+      "comment": "the time that it [take_1]{takes} to [make_1]{make} a [product]{product} [available]{available} to [buy_1]{buy}",
+      "entry": "time to market",
+      "id": "time-to-market#time-to-market__1"
+    },
+    {
+      "comment": "the [activity]{activities} of [buy_1]{buying} and [selling]{selling} [goods]{goods} or [service_1]{services}",
+      "entry": "trade",
+      "id": "trade_1#trade_1__1"
+    },
+    {
+      "comment": "the amount of [goods]{goods} or [service_1]{services} that a [business]{business} [buy_1]{buys} and [sell_1]{sells}",
+      "entry": "trade",
+      "id": "trade_1#trade_1__5"
+    },
+    {
+      "comment": "[relate]{relating} to the [activity]{activities} of [buy_1]{buying} and [selling]{selling} [goods]{goods} or [service_1]{services}",
+      "entry": "trade",
+      "id": "trade_1#trade_1__8"
+    },
+    {
+      "comment": "someone who [buy_1]{buys} and [sell_1]{sells} [thing]{things}",
+      "entry": "trader",
+      "id": "trader#trader__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [buy_1]{buying} and [selling]{selling} [goods]{goods}",
+      "entry": "trading",
+      "id": "trading#trading__1"
+    },
+    {
+      "comment": "the [action_1]{action} or [process_1]{process} of [buy_1]{buying} or [selling]{selling} something",
+      "entry": "transaction",
+      "id": "transaction#transaction__1"
+    }
+  ],
+  "thesaurus": "General words for the activity of buying and selling",
+  "type": "Related words"
+}

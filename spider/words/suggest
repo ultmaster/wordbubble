@@ -1,0 +1,43 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [offer_1]{offer} an [idea]{idea} or a [plan_1]{plan} for someone to [consider]{consider}",
+      "examples": [
+        "The [report_1]{report} [suggest]{suggested} [various]{various} ways in which the [service_1]{service} could be [improved]{improved}.",
+        "I suggest we have [dinner]{dinner} first, and then [watch_1]{watch} the [movie]{movie}.",
+        "Can anyone suggest what we should do to [increase_1]{increase} [sale]{sales}?",
+        "If there is a [mechanical]{mechanical} [problem]{problem}, we suggest [contact_2]{contacting} the [manufacturer]{manufacturer} [directly_1]{directly}."
+      ],
+      "id": "suggest__1"
+    },
+    {
+      "def": "to [tell_1]{tell} someone about something that may be [useful]{useful} or [appropriate_1]{appropriate} for a [particular_1]{particular} [purpose]{purpose}",
+      "examples": [
+        "Can you suggest an [inexpensive]{inexpensive} [restaurant]{restaurant}?",
+        "The [doctor_1]{doctor} [suggest]{suggested} rest as an [alternative_1]{alternative} to [surgery]{surgery}."
+      ],
+      "id": "suggest__7"
+    },
+    {
+      "def": "to [say_1]{say} that something is [likely_1]{likely} to [exist]{exist} or to be [true_1]{true}",
+      "examples": [
+        "The cause of the [problem]{problem}, as Hutton [suggest]{suggests}, is the [leadership]{leadership}\u2019s [refusal]{refusal} to [accept]{accept} any form of [criticism]{criticism}.",
+        "Are you [seriously]{seriously} [suggest]{suggesting} she [did]{did} this on [purpose]{purpose}?",
+        "I\u2019m not [suggest]{suggesting} that [give_1]{giving} up [smoking]{smoking} will be [easy_1]{easy}.",
+        "As its name [suggest]{suggests}, the Carlton [beach_1]{Beach} [hotel]{Hotel} is [situated]{situated} [near_1]{near} the [ocean]{ocean}.",
+        "[evidence_1]{Evidence} [suggest]{suggests} a [link_1]{link} between [asthma]{asthma} and [pollution]{pollution}.",
+        "[recent]{Recent} [research_1]{research} [suggest]{suggests} that the [drug_1]{drug} may be [beneficial]{beneficial} to [people_1]{people} with [muscular]{muscular} [disorder]{disorders}."
+      ],
+      "id": "suggest__10"
+    },
+    {
+      "def": "to [remind]{remind} you of something",
+      "examples": [
+        "The [architecture]{architecture} [suggest]{suggested} a [chapel]{chapel}."
+      ],
+      "id": "suggest__18"
+    }
+  ],
+  "word": "suggest"
+}

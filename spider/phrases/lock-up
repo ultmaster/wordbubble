@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "lock up",
+  "senses": [
+    {
+      "def": "to [lock_1]{lock} all the [door_1]{doors} and [window]{windows} of a [building]{building} so that no one can get in",
+      "examples": [
+        "I [lock_1]{locked} up and went to [bed_1]{bed}.",
+        "The last [person]{person} to [leave_1]{leave} [lock_1]{locks} up the [store_1]{store}."
+      ],
+      "id": "lock-up__1"
+    },
+    {
+      "def": "to [invest]{invest} your [money]{money} in something, so that it is not [available]{available} for you to [spend]{spend}",
+      "examples": [
+        "There are [vast]{vast} [sum_1]{sums} of [money]{money} [lock_1]{locked} up in [pension_1]{pension} [fund_1]{funds}."
+      ],
+      "id": "lock-up__8"
+    }
+  ]
+}

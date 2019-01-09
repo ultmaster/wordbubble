@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[unable]{unable} to [understand]{understand} something or [think_1]{think} [clearly]{clearly} about it",
+      "entry": "confused",
+      "id": "confused#confused__1"
+    },
+    {
+      "comment": "[confused]{confused} and not [certain_1]{certain} what to do",
+      "entry": "bewildered",
+      "id": "bewildered#bewildered__1"
+    },
+    {
+      "comment": "[confused]{confused} because you cannot [understand]{understand} something",
+      "entry": "perplexed",
+      "id": "perplexed#perplexed__1"
+    },
+    {
+      "comment": "[unable]{unable} to [think_1]{think} [clearly]{clearly} or [understand]{understand} what is [happening_1]{happening} because you are [surprised]{surprised}, [upset_1]{upset}, [tired]{tired}, or have been hit on the [head_1]{head}",
+      "entry": "dazed",
+      "id": "dazed#dazed__1"
+    },
+    {
+      "comment": "[slightly]{slightly} [confused]{confused} and [unable]{unable} to [concentrate_1]{concentrate}, for [example]{example} because you are [tired]{tired}",
+      "entry": "spaced",
+      "id": "spaced#spaced__3"
+    },
+    {
+      "comment": "[confused]{confused} because you cannot [think_1]{think} or see [clearly]{clearly}",
+      "entry": "foggy",
+      "id": "foggy#foggy__4"
+    },
+    {
+      "comment": "[confused]{confused} about where you are or what [direction]{direction} you are [moving]{moving} in",
+      "entry": "disoriented",
+      "id": "disoriented#disoriented__1"
+    },
+    {
+      "comment": "[unable]{unable} to [think_1]{think} [clearly]{clearly} because you are very [angry]{angry}, [upset_1]{upset}, or [excited]{excited}",
+      "entry": "beside yourself",
+      "id": "beside-yourself#beside-yourself__1"
+    },
+    {
+      "comment": "[confused]{confused} and not [knowing]{knowing} what to do",
+      "entry": "at a loss (to do something)",
+      "id": "at-a-loss-to-do-something#at-a-loss-to-do-something__1"
+    },
+    {
+      "comment": "to be [unable]{unable} to [consider]{consider} [thing]{things} [careful#careful__20]{carefully} or [correctly]{correctly}",
+      "entry": "can\u2019t think straight",
+      "id": "can-t-think-straight#can-t-think-straight__1"
+    }
+  ],
+  "thesaurus": "Not able to think clearly",
+  "type": "Synonyms"
+}

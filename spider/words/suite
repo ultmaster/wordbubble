@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [set_1]{set} of [room_1]{rooms}",
+      "examples": [
+        "a seven-room [penthouse]{penthouse} suite",
+        "the [hotel]{hotel}\u2019s [honeymoon_1]{honeymoon} suite",
+        "a second-floor suite of [office]{offices}"
+      ],
+      "id": "suite__1"
+    },
+    {
+      "def": "a [set_1]{set} of [matching]{matching} [piece_1]{pieces} of [furniture]{furniture}",
+      "examples": [],
+      "id": "suite__6"
+    },
+    {
+      "def": "a [set_1]{set} of computer [program_1]{programs}",
+      "examples": [
+        "a suite of anti-virus [utility]{utilities}",
+        "a [fully]{fully} [integrated]{integrated} suite of [training]{training} [package_1]{packages}"
+      ],
+      "id": "suite__7"
+    },
+    {
+      "def": "a [series]{series} of [piece_1]{pieces} of [music]{music}",
+      "examples": [],
+      "id": "suite__11"
+    }
+  ],
+  "word": "suite"
+}

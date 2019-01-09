@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an amount of [money]{money} that a [company]{company} [add_1]{adds} to the [cost_1]{cost} of something in [order_1]{order} to be [paid_1]{paid} for their [service_1]{services}",
+      "examples": [
+        "There\u2019s a $1 [service_1]{service} [charge_1]{charge} for [use_1]{using} another [bank_1]{bank}\u2019s [cash_1]{cash} [machine_1]{machine}."
+      ],
+      "id": "service-charge__1"
+    },
+    {
+      "def": "an amount of [money]{money} that [people_1]{people} who [live_1]{live} in [apartment]{apartments} [pay_1]{pay} for [service_1]{services} such as [cleaning]{cleaning} and [keeping]{keeping} the [outside]{outside} [neat]{neat}",
+      "examples": [],
+      "id": "service-charge__4"
+    }
+  ],
+  "word": "service charge"
+}

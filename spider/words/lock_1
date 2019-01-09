@@ -1,0 +1,37 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [fasten]{fasten} something such as a [door_1]{door} or a [container]{container}, [usually]{usually} with a [key_1]{key}, so that other [people_1]{people} cannot [open_1]{open} it",
+      "examples": [
+        "[john]{John} went out and [lock_1]{locked} the [door_1]{door} behind him.",
+        "Have you [lock_1]{locked} the [car]{car}?",
+        "She [lock_1]{locked} the [document_1]{documents} in the [safe_1]{safe}.",
+        "The [door_1]{door} [slammed]{slammed} and [lock_1]{locked}.",
+        "This [drawer]{drawer} [won]{won}\u2019t lock."
+      ],
+      "id": "lock_1__1"
+    },
+    {
+      "def": "if something [lock_1]{locks} in a [particular_1]{particular} [position_1]{position}, it is [firm_1#firm_1__28]{firmly} [fixed]{fixed} or [held]{held} in that [position_1]{position}",
+      "examples": [
+        "The [brake_1]{brakes} [lock_1]{locked} and the [car]{car} [spun]{spun} off the [road]{road}.",
+        "He [lock_1]{locked} his [arms]{arms} around her [waist]{waist}."
+      ],
+      "id": "lock_1__8"
+    },
+    {
+      "def": "to [prevent]{prevent} [information]{information} on a computer from being [changed]{changed} or [look_1]{looked} at by someone who [does]{does} not have [permission]{permission}",
+      "examples": [
+        "All [entry]{entries} are [lock_1]{locked} so no [unauthorized]{unauthorized} [modification]{modifications} can be made."
+      ],
+      "id": "lock_1__12"
+    },
+    {
+      "def": "if two [people_1]{people}\u2019s [eye_1]{eyes} lock, they [look_1]{look} [directly_1]{directly} into each other\u2019s [eye_1]{eyes}",
+      "examples": [],
+      "id": "lock_1__14"
+    }
+  ],
+  "word": "lock"
+}

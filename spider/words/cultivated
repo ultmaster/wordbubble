@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a cultivated [person]{person} is well [educated]{educated} and [know_1]{knows} how to [behave]{behave} [politely]{politely}",
+      "examples": [
+        "a cultivated man/[voice_1]{voice}/[accent_1]{accent}"
+      ],
+      "id": "cultivated__1"
+    },
+    {
+      "def": "cultivated [land_1]{land} is [used]{used} for [growing]{growing} [crop_1]{crops} or [plant_1]{plants}",
+      "examples": [],
+      "id": "cultivated__3"
+    },
+    {
+      "def": "[developed]{developed} from [wild_1]{wild} [crop_1]{crops} or [plant_1]{plants} and [grown_1]{grown} on [farm_1]{farms} or in [garden_1]{gardens}",
+      "examples": [
+        "[wild_1]{wild} and cultivated [flower_1]{flowers}"
+      ],
+      "id": "cultivated__4"
+    }
+  ],
+  "word": "cultivated"
+}

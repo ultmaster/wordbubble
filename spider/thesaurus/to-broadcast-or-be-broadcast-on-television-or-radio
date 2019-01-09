@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "to [send_1]{send} out [message_1]{messages} or [program_1]{programs} to be [received]{received} by [radio_1]{radios} or [television]{televisions}",
+      "entry": "broadcast",
+      "id": "broadcast_1#broadcast_1__1"
+    },
+    {
+      "comment": "to give [information]{information} about something in a [news]{news} [article]{article} or [broadcast_1]{broadcast}",
+      "entry": "report",
+      "id": "report_2#report_2__1"
+    },
+    {
+      "comment": "to [broadcast_1]{broadcast} a [television]{television} [program_1]{program}, or to show a [movie]{movie}",
+      "entry": "screen",
+      "id": "screen_2#screen_2__7"
+    },
+    {
+      "comment": "to [start_1]{start} to be [broadcast_1]{broadcast}",
+      "entry": "come on",
+      "id": "come-on_1#come-on_1__3"
+    },
+    {
+      "comment": "to [send_1]{send} out an [electronic]{electronic} [signal_1]{signal} such as a [radio_1]{radio} or [television]{television} [signal_1]{signal}",
+      "entry": "transmit",
+      "id": "transmit#transmit__1"
+    },
+    {
+      "comment": "to [broadcast_1]{broadcast} something on [television]{television}",
+      "entry": "televise",
+      "id": "televise#televise__1"
+    },
+    {
+      "comment": "if a [play_1]{play}, [movie]{movie}, or [television]{television} [program_1]{program} [run_1]{runs}, it [continue]{continues} to be [perform]{performed} or [shown]{shown}",
+      "entry": "run",
+      "id": "run_1#run_1__51"
+    },
+    {
+      "comment": "to [publish]{publish} or [broadcast_1]{broadcast} a [news]{news} [story]{story} for the first time",
+      "entry": "break",
+      "id": "break_1#break_1__30"
+    },
+    {
+      "comment": "if someone [show_1]{shows} a [movie]{movie} or a [television]{television} [program_1]{program}, or if it is [showing]{showing}, [people_1]{people} can see it",
+      "entry": "show",
+      "id": "show_1#show_1__41"
+    },
+    {
+      "comment": "to [send_1]{send} [radio_1]{radio} [signal_1]{signals} or [television]{television} [picture_1]{pictures} through the [air_1]{air} [use_1]{using} [electronic]{electronic} [equipment]{equipment}",
+      "entry": "beam",
+      "id": "beam_1#beam_1__3"
+    },
+    {
+      "comment": "the [making]{making} and [broadcast_1#broadcast_1__6]{broadcasting} of [video_1]{videos} over the [internet]{internet} for [people_1]{people} to [stream_1]{stream} or [download_1]{download}",
+      "entry": "vodcasting",
+      "id": "vodcasting#vodcasting__1"
+    },
+    {
+      "comment": "to [make_1]{make} [video_1]{videos} and [broadcast_1]{broadcast} them over the [internet]{internet} for [people_1]{people} to [download_1]{download}",
+      "entry": "vodcast",
+      "id": "vodcast_2#vodcast_2__1"
+    }
+  ],
+  "thesaurus": "To broadcast or be broadcast on television or radio",
+  "type": "Synonyms"
+}

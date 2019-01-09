@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a [knife_1]{knife} with a [blade]{blade} that [fold_1]{folds} into its [handle_1]{handle}",
+      "entry": "clasp knife",
+      "id": "clasp-knife#clasp-knife__1"
+    },
+    {
+      "comment": "a [switchblade]{switchblade}",
+      "entry": "flick knife",
+      "id": "flick-knife#flick-knife__1"
+    },
+    {
+      "comment": "a [small_1]{small} [knife_1]{knife} with a [blade]{blade} that [fold_1]{folds} into its [handle_1]{handle}",
+      "entry": "jackknife",
+      "id": "jackknife_1#jackknife_1__1"
+    },
+    {
+      "comment": "an [object_1]{object} with a [sharp_1]{sharp} [blade]{blade} [used]{used} as a [weapon]{weapon} or [tool_1]{tool}",
+      "entry": "knife",
+      "id": "knife_1#knife_1__5"
+    },
+    {
+      "comment": "a long thin [knife_1]{knife} [used]{used} for [opening_1]{opening} [envelope]{envelopes}",
+      "entry": "letter opener",
+      "id": "letter-opener#letter-opener__1"
+    },
+    {
+      "comment": "a [large_1]{large} [knife_1]{knife} with a long [wide_1]{wide} [blade]{blade}, [used]{used} as a [weapon]{weapon} or [tool_1]{tool}",
+      "entry": "machete",
+      "id": "machete#machete__1"
+    },
+    {
+      "comment": "a [knife_1]{knife} that an [artist]{artist} [use_1]{uses} for [mix_1]{mixing} [paint_1]{paints} or [put]{putting} [paint_1]{paint} on a [picture_1]{picture}",
+      "entry": "palette knife",
+      "id": "palette-knife#palette-knife__1"
+    },
+    {
+      "comment": "a [letter_1]{letter} [opener]{opener}",
+      "entry": "paper knife",
+      "id": "paper-knife#paper-knife__1"
+    },
+    {
+      "comment": "a [pocket_1]{pocket} [knife_1]{knife}",
+      "entry": "penknife",
+      "id": "penknife#penknife__1"
+    },
+    {
+      "comment": "a [small_1]{small} [knife_1]{knife} with [blade]{blades} or [tool_1]{tools} that [fold_1]{fold} up into the [handle_1]{handle}",
+      "entry": "pocket knife",
+      "id": "pocket-knife#pocket-knife__1"
+    },
+    {
+      "comment": "a [knife_1]{knife} that is [used]{used} as a [weapon]{weapon} and is [carry_1]{carried} in a [sheath]{sheath}",
+      "entry": "sheath knife",
+      "id": "sheath-knife#sheath-knife__1"
+    },
+    {
+      "comment": "a small knife with a very sharp blade that you can replace, used for cutting wood, cardboard, etc.",
+      "entry": "Stanley knife",
+      "id": "stanley-knife#stanley-knife__1"
+    },
+    {
+      "comment": "a [small_1]{small} [knife_1]{knife} with a thin [blade]{blade}",
+      "entry": "stiletto",
+      "id": "stiletto#stiletto__1"
+    },
+    {
+      "comment": "a [small_1]{small} [knife_1]{knife} with several [blade]{blades} and [tool_1]{tools} that you can [fold_1]{fold} [away_1]{away} into the [handle_1]{handle} when you are not [use_1]{using} them",
+      "entry": "Swiss army knife",
+      "id": "swiss-army-knife#swiss-army-knife__1"
+    },
+    {
+      "comment": "a [small_1]{small} [knife_1]{knife} with a [blade]{blade} [hidden_1]{hidden} in the [handle_1]{handle} that comes out when you [push_1]{push} a [button_1]{button}",
+      "entry": "switchblade",
+      "id": "switchblade#switchblade__1"
+    },
+    {
+      "comment": "a [type_1]{type} of very [sharp_1]{sharp} [knife_1]{knife} or [blade]{blade} that is [used]{used} for [accurate]{accurate} [cutting_1]{cutting}",
+      "entry": "X-Acto",
+      "id": "x-acto#x-acto__1"
+    }
+  ],
+  "thesaurus": "Knives used as tools or weapons",
+  "type": "Related words"
+}

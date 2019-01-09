@@ -1,0 +1,21 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to [animal_1]{animals}",
+      "examples": [
+        "[try_1]{Try} to [cut_1]{cut} down on the amount of animal [fat_2]{fats} you [eat]{eat}.",
+        "an animal [shelter_1]{shelter}"
+      ],
+      "id": "animal_2__1"
+    },
+    {
+      "def": "[relate]{relating} to [people_1]{people}\u2019s [basic_1]{basic} [physical_1]{physical} [need_1]{needs} such as [food]{food} and [sex_1]{sex}",
+      "examples": [
+        "animal [instinct]{instincts}/[urge_1]{urges}/[desire_1]{desires}"
+      ],
+      "id": "animal_2__4"
+    }
+  ],
+  "word": "animal"
+}

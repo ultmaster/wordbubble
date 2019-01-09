@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "in a way that is not [clear_1]{clear}",
+      "examples": [
+        "He vaguely [remember]{remembered} his [mother_1]{mother} [talk_1]{talking} about it.",
+        "a vaguely [worded]{worded} [statement_1]{statement} of [regret_1]{regret}"
+      ],
+      "id": "vaguely__1"
+    },
+    {
+      "def": "[slightly]{slightly}",
+      "examples": [
+        "The [interview_1]{interview} made him [look_1]{look} vaguely [ridiculous]{ridiculous}."
+      ],
+      "id": "vaguely__4"
+    },
+    {
+      "def": "in a way that [show_1]{shows} you are not [pay_1]{paying} [attention]{attention}",
+      "examples": [
+        "\u201cHow was it?\u201d he [ask_1]{asked} vaguely, [absorbed]{absorbed} in his own [thought_1]{thoughts}."
+      ],
+      "id": "vaguely__6"
+    }
+  ],
+  "word": "vaguely"
+}

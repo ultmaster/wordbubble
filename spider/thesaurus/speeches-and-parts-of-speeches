@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [formal_1]{formal} [occasion_1]{occasion} when someone [speak_1]{speaks} to an [audience]{audience}",
+      "entry": "speech",
+      "id": "speech#speech__1"
+    },
+    {
+      "comment": "the [word_1]{words} that someone [speak_1]{speaks} to an [audience]{audience}",
+      "entry": "speech",
+      "id": "speech#speech__4"
+    },
+    {
+      "comment": "an [informal]{informal} [lecture_1]{lecture} about a [subject_1]{subject}",
+      "entry": "talk",
+      "id": "talk_2#talk_2__11"
+    },
+    {
+      "comment": "a [formal_1]{formal} [speech]{speech} [given_1]{given} by someone to a [group_1]{group} of [people_1]{people}, [especially]{especially} as part of an [important]{important} [occasion_1]{occasion}",
+      "entry": "address",
+      "id": "address_1#address_1__9"
+    },
+    {
+      "comment": "a [speech]{speech} made by someone who [talk_1]{talks} for a long time and [does]{does} not [let_1]{let} anyone else [say_1]{say} anything",
+      "entry": "monologue",
+      "id": "monologue#monologue__1"
+    },
+    {
+      "comment": "the [activity]{activity} of [speak_1]{speaking} [formally]{formally} to [large_1]{large} [group_1]{groups} of [people_1]{people}",
+      "entry": "public speaking",
+      "id": "public-speaking#public-speaking__1"
+    },
+    {
+      "comment": "a short speech that U.S. citizens recite  (=learn and say), in which they formally promise to be loyal to their country. Children say this every morning in most schools.",
+      "entry": "the Pledge of Allegiance",
+      "id": "the-pledge-of-allegiance#the-pledge-of-allegiance__1"
+    },
+    {
+      "comment": "a [formal_1]{formal} [public_1]{public} [speech]{speech} that [thanks_1]{thanks} someone for something that they have done",
+      "entry": "vote of thanks",
+      "id": "vote-of-thanks#vote-of-thanks__1"
+    },
+    {
+      "comment": "a [formal_1]{formal} [talk_1]{talk} in which you describe or [explain]{explain} something to a [group_1]{group} of [people_1]{people}",
+      "entry": "presentation",
+      "id": "presentation#presentation__6"
+    },
+    {
+      "comment": "a [talk_1]{talk} in which someone [tell_1]{tells} you how to [behave]{behave} in a [morally]{morally} [correct_1]{correct} way, although you do not [want_1]{want} to [hear]{hear} it",
+      "entry": "sermon",
+      "id": "sermon#sermon__3"
+    }
+  ],
+  "thesaurus": "Speeches and parts of speeches",
+  "type": "Synonyms"
+}

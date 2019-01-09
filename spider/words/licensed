@@ -1,0 +1,21 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is licensed has [official_1]{official} [permission]{permission} to do something, for [example]{example} to [drive_1]{drive} or to do a [particular_1]{particular} [job_1]{job}",
+      "examples": [
+        "a licensed [driver]{driver}/[physician]{physician}/[contractor]{contractor}/[massage_1]{massage} [therapist]{therapist}"
+      ],
+      "id": "licensed__1"
+    },
+    {
+      "def": "licensed [product]{products} are [product]{products} that someone has [official_1]{official} [permission]{permission} to use or to own",
+      "examples": [
+        "[making]{making} [illegal_1]{illegal} [copy_1]{copies} of licensed [software]{software}",
+        "a licensed [weapon]{weapon}"
+      ],
+      "id": "licensed__3"
+    }
+  ],
+  "word": "licensed"
+}

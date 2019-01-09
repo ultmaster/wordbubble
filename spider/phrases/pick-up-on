@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "pick up on",
+  "senses": [
+    {
+      "def": "to [notice_1]{notice} something that is not very [obvious]{obvious}",
+      "examples": [
+        "This is something you would [expect]{expect} a [friend_1]{friend} to [pick_1]{pick} up on."
+      ],
+      "id": "pick-up-on__1"
+    },
+    {
+      "def": "to [react]{react} to something that has [happen]{happened} or that you have [notice_1]{noticed}",
+      "examples": [
+        "She had [expected]{expected} [dan]{Dan} to [pick_1]{pick} up on her [lead_1]{lead} and take the [story]{story} further."
+      ],
+      "id": "pick-up-on__3"
+    },
+    {
+      "def": "to [talk_1]{talk} in more detail about something that someone has [mention_1]{mentioned}",
+      "examples": [
+        "I\u2019d [just_1]{just} [like_1]{like} to [pick_1]{pick} up on a [couple_1]{couple} of [point_1]{points} that you made."
+      ],
+      "id": "pick-up-on__5"
+    }
+  ]
+}

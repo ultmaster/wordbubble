@@ -1,0 +1,37 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [paper_1]{paper} that [show_1]{shows} you have [paid_1]{paid} to go into a [place_1]{place} of [entertainment]{entertainment} such as a [movie]{movie} [theater]{theater} or [football]{football} [game_1]{game}",
+      "examples": [
+        "a [movie]{movie}/[theater]{theater} ticket",
+        "He [got_1]{got} [ticket_1]{tickets} for the first [game_1]{game} of the [season_1]{season}.",
+        "a [train_1]{train}/[bus_1]{bus}/[plane_1]{plane} ticket",
+        "I\u2019d [like_1]{like} a [round-trip_2]{round-trip} ticket to Sydney.",
+        "You [expect]{expect} a [one-way]{one-way} ticket to be [cheap_1]{cheaper}.",
+        "a [lottery]{lottery}/[raffle_1]{raffle} ticket",
+        "a [speeding_1]{speeding}/[parking]{parking} ticket",
+        "a ticket [agency]{agency}/[office]{office}/[machine_1]{machine}",
+        "[ticket_1]{Ticket} [sale]{sales} have been [going_1]{going} well."
+      ],
+      "id": "ticket_1__1"
+    },
+    {
+      "def": "the [politician]{politicians} or [policy]{policies} that a [political]{political} [party_1]{party} is [supporting]{supporting}",
+      "examples": [
+        "[bush]{Bush} [ran]{ran} for [president_1]{president} on the [republican_1]{Republican} ticket.",
+        "She is [fighting]{fighting} the [election]{election} on a [law-and-order#law-and-order__2]{law-and-order} ticket."
+      ],
+      "id": "ticket_1__15"
+    },
+    {
+      "def": "in [it_2]{IT} [system]{systems}, a [request_1]{request} for someone to [look_1]{look} at a [problem]{problem} or [perform]{perform} a [task_1]{task}",
+      "examples": [
+        "If you have any [question_1]{questions} please [open_1]{open} a ticket with the [support_1]{support} [department]{department}.",
+        "As [soon]{soon} as the [question_1]{question} is [resolved]{resolved} they will [close_1]{close} the ticket."
+      ],
+      "id": "ticket_1__18"
+    }
+  ],
+  "word": "ticket"
+}

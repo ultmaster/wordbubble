@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "punch in",
+  "senses": [
+    {
+      "def": "to [enter]{enter} [information]{information} into a [machine_1]{machine} by [pressing]{pressing} [key_1]{keys} or [buttons]{buttons}",
+      "examples": [
+        "If you [punch_1]{punch} in the [wrong_1]{wrong} [code_1]{code}, the [alarm_1]{alarm} [sound_1]{sounds}."
+      ],
+      "id": "punch-in__1"
+    },
+    {
+      "def": "to [record_1]{record} the time you [arrive]{arrive} at [work_1]{work} by [put]{putting} a [card_1]{card} into a [machine_1]{machine}",
+      "examples": [
+        "Laura [punch_1]{punched} in at 7:30 a.m."
+      ],
+      "id": "punch-in__3"
+    },
+    {
+      "def": "to move in [close_2]{closer} when [filming]{filming}",
+      "examples": [
+        "Could you [punch_1]{punch} in a [bit_1]{bit} more?"
+      ],
+      "id": "punch-in__5"
+    }
+  ]
+}

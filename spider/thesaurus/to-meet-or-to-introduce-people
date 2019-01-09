@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [tell_1]{tell} someone another [person]{person}\u2019s name when they [meet_1]{meet} for the first time",
+      "entry": "introduce",
+      "id": "introduce#introduce__1"
+    },
+    {
+      "comment": "to come together in [order_1]{order} to [talk_1]{talk} to someone who you have [arrange]{arranged} to see",
+      "entry": "meet",
+      "id": "meet_1#meet_1__1"
+    },
+    {
+      "comment": "to [meet_1]{meet} someone, or to find something by [chance_1]{chance}",
+      "entry": "come across",
+      "id": "come-across#come-across__1"
+    },
+    {
+      "comment": "to [meet_1]{meet} someone who you [know_1]{know} by [accident]{accident}",
+      "entry": "see",
+      "id": "see_1#see_1__18"
+    },
+    {
+      "comment": "to [meet_1]{meet} someone or find something by [chance_1]{chance}",
+      "entry": "come on",
+      "id": "come-on_2#come-on_2__1"
+    },
+    {
+      "comment": "to [meet_1]{meet} someone [unexpected#unexpected__4]{unexpectedly}",
+      "entry": "bump into",
+      "id": "bump-into#bump-into__1"
+    },
+    {
+      "comment": "to [introduce]{introduce} someone [formally]{formally} to someone else, [especially]{especially} to an [important]{important} [person]{person}",
+      "entry": "present",
+      "id": "present_2#present_2__19"
+    },
+    {
+      "comment": "to [meet_1]{meet} someone or to see something for the first time",
+      "entry": "encounter",
+      "id": "encounter_2#encounter_2__4"
+    },
+    {
+      "comment": "to come together with someone, either [unexpected#unexpected__4]{unexpectedly} or as [plan_2]{planned}",
+      "entry": "meet up",
+      "id": "meet-up#meet-up__1"
+    },
+    {
+      "comment": "to find something or to [meet_1]{meet} someone by [chance_1]{chance}",
+      "entry": "run across",
+      "id": "run-across#run-across__1"
+    }
+  ],
+  "thesaurus": "To meet, or to introduce people",
+  "type": "Synonyms"
+}

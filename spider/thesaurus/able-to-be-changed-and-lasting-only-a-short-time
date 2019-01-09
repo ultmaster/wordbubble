@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[capable]{capable} of being [changed]{changed}",
+      "entry": "variable",
+      "id": "variable_2#variable_2__1"
+    },
+    {
+      "comment": "[lasting]{lasting} only for a [short_1]{short} time",
+      "entry": "brief",
+      "id": "brief_1#brief_1__1"
+    },
+    {
+      "comment": "[lasting]{lasting} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "short-term",
+      "id": "short-term#short-term__1"
+    },
+    {
+      "comment": "[existing]{existing}, done, or [used]{used} for only a [limited]{limited} [period_1]{period} of time",
+      "entry": "temporary",
+      "id": "temporary#temporary__1"
+    },
+    {
+      "comment": "not [fixed]{fixed} or [permanent_1]{permanent}, and therefore [likely_1]{likely} to [change_1]{change}",
+      "entry": "floating",
+      "id": "floating#floating__1"
+    },
+    {
+      "comment": "[lasting]{lasting} only a [short_1]{short} time, and [usually]{usually} not very [important]{important} or serious",
+      "entry": "passing",
+      "id": "passing_1#passing_1__4"
+    },
+    {
+      "comment": "[lasting]{lasting} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "short-lived",
+      "id": "short-lived#short-lived__1"
+    },
+    {
+      "comment": "[existing]{existing}, [happening_1]{happening}, or [stay_1]{staying} somewhere for a [short_1]{short} [period_1]{period} of time only",
+      "entry": "transient",
+      "id": "transient_1#transient_1__1"
+    },
+    {
+      "comment": "[continuing]{continuing} for only a very [short_1]{short} time",
+      "entry": "fleeting",
+      "id": "fleeting#fleeting__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to [change_1]{change} [frequently]{frequently} and not [regular_1]{regular}",
+      "entry": "inconstant",
+      "id": "inconstant#inconstant__3"
+    }
+  ],
+  "thesaurus": "Able to be changed and lasting only a short time",
+  "type": "Synonyms"
+}

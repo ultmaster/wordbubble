@@ -1,0 +1,40 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [entrance_1]{entrance} that is [open_2]{opened} and [closed]{closed} with a [gate_1]{gate}",
+      "examples": [
+        "You\u2019ll see the [house_1]{house} as [soon]{soon} as you go through the gateway."
+      ],
+      "id": "gateway__1"
+    },
+    {
+      "def": "a [place_1]{place} that [allow]{allows} you to [reach_1]{reach} or [enter]{enter} a [large_1]{larger} [place_1]{place}",
+      "examples": [
+        "Bombay was [considered]{considered} the gateway to India."
+      ],
+      "id": "gateway__3"
+    },
+    {
+      "def": "something that [allow]{allows} you to do or [achieve]{achieve} something",
+      "examples": [
+        "the gateway to [mathematics]{mathematics}/[understanding_1]{understanding}/[life]{life}"
+      ],
+      "id": "gateway__5"
+    },
+    {
+      "def": "a way of [connect]{connecting} two computer [network_1]{networks} so that [information]{information} can [pass_1]{pass} between them",
+      "examples": [],
+      "id": "gateway__7"
+    },
+    {
+      "def": "a [place_1]{place} on the Internet from which you can get [information]{information} about something, and which can be [guarded]{guarded}",
+      "examples": [
+        "the gateway that [allow]{allows} you to [submit]{submit} a [credit_1]{credit} [card_1]{card} and within a few [seconds]{seconds} be [told]{told} whether it was [decline_1]{declined} or [accepted]{accepted}"
+      ],
+      "id": "gateway__8"
+    }
+  ],
+  "word": "gateway"
+}

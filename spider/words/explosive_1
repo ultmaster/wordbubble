@@ -1,0 +1,48 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} for [cause_2]{causing} an [explosion]{explosion}",
+      "examples": [
+        "an explosive device  (=a bomb)",
+        "This [gas_1]{gas} is [highly]{highly} explosive."
+      ],
+      "id": "explosive_1__1"
+    },
+    {
+      "def": "[likely_1]{likely} to [create]{create} [difficulty]{difficulties} or to have a [dangerous]{dangerous} or [violent]{violent} [effect_1]{effect}",
+      "examples": [
+        "The [situation]{situation} along the [border_1]{border} is [potentially]{potentially} explosive."
+      ],
+      "id": "explosive_1__5"
+    },
+    {
+      "def": "very [large_1]{large} in [size_1]{size}, amount, or [importance]{importance} and [happening_1]{happening} over a very [short_1]{short} [period_1]{period} of time",
+      "examples": [
+        "explosive [population]{population} [growth]{growth}"
+      ],
+      "id": "explosive_1__7"
+    },
+    {
+      "def": "[tend]{tending} to [express_1]{express} [strong]{strong} [emotion]{emotions} in a [noisy]{noisy} [violent]{violent} way",
+      "examples": [
+        "an explosive [temper_1]{temper}"
+      ],
+      "id": "explosive_1__9"
+    },
+    {
+      "def": "very [powerful]{powerful}",
+      "examples": [
+        "The [asteroid]{asteroid} [crash_1]{crashed} into the [planet]{planet} with explosive [force_1]{force}."
+      ],
+      "id": "explosive_1__11"
+    },
+    {
+      "def": "[loud_1]{loud} and [unexpected]{unexpected}",
+      "examples": [],
+      "id": "explosive_1__13"
+    }
+  ],
+  "word": "explosive"
+}

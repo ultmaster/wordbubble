@@ -1,0 +1,38 @@
+{
+  "part": "phrase",
+  "phrase": "run out",
+  "senses": [
+    {
+      "def": "to use all of something and not have any [left_1]{left}",
+      "examples": [
+        "Some [hospital]{hospitals} are [running_1]{running} out of [blood_1]{blood} [supply_1]{supplies}."
+      ],
+      "id": "run-out__1"
+    },
+    {
+      "def": "if something [run_1]{runs} out, you do not have any more of it [left_1]{left}",
+      "examples": [
+        "They [return_1]{returned} [home_1]{home} from [south_1]{South} Africa when their [money]{money} [ran]{ran} out."
+      ],
+      "id": "run-out__3"
+    },
+    {
+      "def": "if time is [running_1]{running} out, you do not have long to do something",
+      "examples": [],
+      "id": "run-out__5"
+    },
+    {
+      "def": "if an [official_1]{official} [agreement]{agreement} or [document_1]{document} [run_1]{runs} out, it [stop_1]{stops} being [legal]{legal} at a [certain_1]{certain} [date_1]{date}",
+      "examples": [
+        "My [contract_1]{contract} [run_1]{runs} out next July.",
+        "When [does]{does} your [passport]{passport} [run_1]{run} out?"
+      ],
+      "id": "run-out__6"
+    },
+    {
+      "def": "if a [pen_1]{pen} [run_1]{runs} out, it has no more [ink_1]{ink} [left_1]{left} in it",
+      "examples": [],
+      "id": "run-out__9"
+    }
+  ]
+}

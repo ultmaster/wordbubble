@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "interjection",
+  "senses": [
+    {
+      "def": "[used]{used} when a [small_1]{small} [accident]{accident} [happen]{happens}, for [example]{example} when you [drop_1]{drop} something, or when someone [fall_1]{falls}",
+      "examples": [
+        "[whoops]{Whoops}! [watch_1]{Watch} what you\u2019re [doing]{doing}!"
+      ],
+      "id": "whoops__1"
+    },
+    {
+      "def": "[used]{used} when you [realize]{realize} that you have [just_1]{just} [said_1]{said} something that should have [remain]{remained} a [secret_1]{secret} or that may [upset_1]{upset} someone",
+      "examples": [
+        "[whoops]{Whoops}! I shouldn\u2019t have [said_1]{said} that."
+      ],
+      "id": "whoops__3"
+    }
+  ],
+  "word": "whoops"
+}

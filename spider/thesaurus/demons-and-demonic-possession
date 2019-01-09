@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "an accursed person has a curse on them",
+      "entry": "accursed",
+      "id": "accursed#accursed__1"
+    },
+    {
+      "comment": "[affected]{affected} in a [negative_1]{negative} way by a [magic_1]{magic} [curse_1]{curse}",
+      "entry": "cursed",
+      "id": "cursed#cursed__1"
+    },
+    {
+      "comment": "an [evil_1]{evil} [spirit_1]{spirit}",
+      "entry": "demon",
+      "id": "demon#demon__1"
+    },
+    {
+      "comment": "[connected]{connected} with [demon]{demons}, or [like_1]{like} a [demon]{demon}",
+      "entry": "demonic",
+      "id": "demonic#demonic__1"
+    },
+    {
+      "comment": "to get [rid_1]{rid} of an [evil_1]{evil} [spirit_1]{spirit} [use_1]{using} something such as a [ceremony]{ceremony} or [prayer]{prayer}",
+      "entry": "exorcise",
+      "id": "exorcise#exorcise__1"
+    },
+    {
+      "comment": "a [process_1]{process} or [action_1]{action} that is [used]{used} for [get]{getting} [rid_1]{rid} of an [evil_1]{evil} [spirit_1]{spirit}, for [example]{example} a [ceremony]{ceremony} or [prayer]{prayer}",
+      "entry": "exorcism",
+      "id": "exorcism#exorcism__1"
+    },
+    {
+      "comment": "[controlled_1]{controlled} by an [evil_1]{evil} [spirit_1]{spirit}",
+      "entry": "possessed",
+      "id": "possessed#possessed__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone is [controlled_1]{controlled} by an [evil_1]{evil} [spirit_1]{spirit}",
+      "entry": "possession",
+      "id": "possession#possession__14"
+    }
+  ],
+  "thesaurus": "Demons and demonic possession",
+  "type": "Related words"
+}

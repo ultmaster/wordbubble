@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if one thing [depend]{depends} on another, it is [changed]{changed} or [affected]{affected} by the other thing",
+      "entry": "depend on",
+      "id": "depend#depend__5"
+    },
+    {
+      "comment": "to [trust_1]{trust} someone or something to do something for you",
+      "entry": "rely on",
+      "id": "rely#rely__2"
+    },
+    {
+      "comment": "to be [confident]{confident} that someone is [honest]{honest}, [fair_1]{fair}, and [reliable]{reliable}",
+      "entry": "trust",
+      "id": "trust_2#trust_2__1"
+    },
+    {
+      "comment": "to [depend]{depend} on someone to do what you [want_1]{want} or [expect]{expect} them to do for you",
+      "entry": "count on",
+      "id": "count-on#count-on__1"
+    },
+    {
+      "comment": "to [depend]{depend} on something [happening_1]{happening} or on someone [doing]{doing} something",
+      "entry": "bank on",
+      "id": "bank-on#bank-on__1"
+    },
+    {
+      "comment": "to [depend]{depend} on someone",
+      "entry": "lean on",
+      "id": "lean-on#lean-on__1"
+    },
+    {
+      "comment": "to be the [issue_1]{issue}, [fact]{fact}, or [point_1]{point} that something [depend]{depends} on most",
+      "entry": "turn on",
+      "id": "turn-on_1#turn-on_1__17"
+    },
+    {
+      "comment": "to [depend]{depend} on something for [success]{success}",
+      "entry": "ride on",
+      "id": "ride-on#ride-on__1"
+    },
+    {
+      "comment": "to [depend]{depend} on something",
+      "entry": "hinge on",
+      "id": "hinge_2#hinge_2__2"
+    },
+    {
+      "comment": "to [depend]{depend} on someone or something for the [money]{money} or [food]{food} that you [need_1]{need}",
+      "entry": "live off",
+      "id": "live-off#live-off__1"
+    }
+  ],
+  "thesaurus": "To depend on or trust someone or something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "load down",
+  "senses": [
+    {
+      "def": "if you are [loaded]{loaded} down with a [lot_1]{lot} of [heavy_1]{heavy} [thing]{things}, you are [carry_1]{carrying} them",
+      "examples": [
+        "She was [loaded]{loaded} down with [luggage]{luggage}."
+      ],
+      "id": "load-down__1"
+    },
+    {
+      "def": "if you are [loaded]{loaded} down with [responsibility]{responsibilities}, [problem]{problems}, or [work_1]{work}, you have more than you can [deal_1]{deal} with",
+      "examples": [],
+      "id": "load-down__3"
+    }
+  ]
+}

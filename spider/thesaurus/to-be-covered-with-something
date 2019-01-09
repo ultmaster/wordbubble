@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[covered_1]{covered} with something",
+      "entry": "clothed",
+      "id": "clothed#clothed__6"
+    },
+    {
+      "comment": "[covered_1]{covered} with a [hard_1]{hard} [layer_1]{layer} of something",
+      "entry": "encrusted",
+      "id": "encrusted#encrusted__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with a [hard_1]{hard} [layer_1]{layer} of something",
+      "entry": "crusted",
+      "id": "crusted#crusted__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with a thick [layer_1]{layer} of something",
+      "entry": "caked",
+      "id": "caked#caked__1"
+    },
+    {
+      "comment": "[covered_1]{covered} by something",
+      "entry": "under",
+      "id": "under_1#under_1__7"
+    },
+    {
+      "comment": "[covered_1]{covered} by something",
+      "entry": "beneath",
+      "id": "beneath#beneath__8"
+    },
+    {
+      "comment": "in, to, or through a [place_1]{place} [directly_1]{directly} below something or [directly_1]{directly} [covered_1]{covered} by it",
+      "entry": "underneath",
+      "id": "underneath#underneath__1"
+    },
+    {
+      "comment": "in a way that [produce_1]{produces} a thick [layer_1]{layer} or [piece_1]{piece} of something",
+      "entry": "thickly",
+      "id": "thickly#thickly__1"
+    },
+    {
+      "comment": "in a thin [layer_1]{layer} or [piece_1]{piece}",
+      "entry": "thinly",
+      "id": "thinly#thinly__1"
+    },
+    {
+      "comment": "to be [covered_1]{covered} with something at one [end_1]{end}",
+      "entry": "be tipped with something",
+      "id": "be-tipped-with-something#be-tipped-with-something__1"
+    }
+  ],
+  "thesaurus": "To be covered with something",
+  "type": "Synonyms"
+}

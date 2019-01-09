@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "thick [milk_1]{milk} that has [turn_1]{turned} [sour_1]{sour} [naturally]{naturally}",
+      "entry": "amasi",
+      "id": "amasi#amasi__1"
+    },
+    {
+      "comment": "thick [sweet_1]{sweet} [milk_1]{milk} that is [sold]{sold} in [can_2]{cans}",
+      "entry": "condensed milk",
+      "id": "condensed-milk#condensed-milk__1"
+    },
+    {
+      "comment": "a thick yellow-white [liquid_1]{liquid} [taken_1]{taken} from the top of [milk_1]{milk}",
+      "entry": "cream",
+      "id": "cream_1#cream_1__1"
+    },
+    {
+      "comment": "a [white_1]{white} [liquid_1]{liquid} or [powder_1]{powder} [used]{used} [instead]{instead} of [milk_1]{milk} or [cream_1]{cream}",
+      "entry": "creamer",
+      "id": "creamer#creamer__1"
+    },
+    {
+      "comment": "a [type_1]{type} of thick [cream_1]{cream} with a [slightly]{slightly} [sour_1]{sour} [flavor_1]{flavor}",
+      "entry": "cr\u00e8me fra\u00eeche",
+      "id": "creme-fraiche#creme-fraiche__1"
+    },
+    {
+      "comment": "[milk_1]{milk} [sold]{sold} in [can_2]{cans}, that has had most of the [water_1]{water} [taken_1]{taken} out of it and is [used]{used} in [cooking_1]{cooking}",
+      "entry": "evaporated milk",
+      "id": "evaporated-milk#evaporated-milk__1"
+    },
+    {
+      "comment": "a [mixture]{mixture} of [equal_1]{equal} [part_1]{parts} of [milk_1]{milk} and [cream_1]{cream} that you put into [coffee]{coffee} or [tea]{tea}",
+      "entry": "half-and-half",
+      "id": "half-and-half#half-and-half__1"
+    },
+    {
+      "comment": "[cream_1]{cream} that can be made [thick_1]{thicker} by [beating]{beating} it [fast_1]{fast}",
+      "entry": "heavy cream",
+      "id": "heavy-cream#heavy-cream__1"
+    },
+    {
+      "comment": "[homogenized]{homogenized} [milk_1]{milk} has had the [cream_1]{cream} [mixed]{mixed} in so that it will not [separate_1]{separate}",
+      "entry": "homogenized",
+      "id": "homogenized#homogenized__1"
+    },
+    {
+      "comment": "[milk_1]{milk} that has had the [cream_1]{cream} [mixed]{mixed} in. [homo]{Homo} is [short_1]{short} for [homogenized]{homogenized}.",
+      "entry": "homo milk",
+      "id": "homo-milk#homo-milk__1"
+    },
+    {
+      "comment": "a white liquid that comes from cows, goats, and sheep, which people drink and use in cooking. Cheese and other foods made from milk are called dairy products",
+      "entry": "milk",
+      "id": "milk_1#milk_1__1"
+    },
+    {
+      "comment": "if a [liquid_1]{liquid} such as [milk_1]{milk} is [pasteurized]{pasteurized}, it has been [heated]{heated} to a [temperature]{temperature} that [kill_1]{kills} all the [harmful]{harmful} [bacteria]{bacteria}",
+      "entry": "pasteurized",
+      "id": "pasteurized#pasteurized__1"
+    },
+    {
+      "comment": "[milk_1]{milk} which has the [cream_1]{cream} [removed]{removed} from it",
+      "entry": "skim milk",
+      "id": "skim-milk#skim-milk__1"
+    },
+    {
+      "comment": "thick [cream_1]{cream} with a [sour_1]{sour} [flavor_1]{flavor}",
+      "entry": "sour cream",
+      "id": "sour-cream#sour-cream__1"
+    },
+    {
+      "comment": "[soy]{soy} [milk_1]{milk}",
+      "entry": "soya milk",
+      "id": "soya-milk#soya-milk__1"
+    },
+    {
+      "comment": "a [white_1]{white} [liquid_1]{liquid} from [soy]{soy} [bean_1]{beans}, [used]{used} as a [drink_1]{drink} and in [cooking_1]{cooking}",
+      "entry": "soy milk",
+      "id": "soy-milk#soy-milk__1"
+    },
+    {
+      "comment": "[milk_1]{milk} that has been [heated]{heated} to a very [high_1]{high} [temperature]{temperature} so that it [stay_1]{stays} [fresh_1]{fresh} [long_1]{longer}",
+      "entry": "UHT milk",
+      "id": "uht-milk#uht-milk__1"
+    },
+    {
+      "comment": "a thick [type_1]{type} of [cream_1]{cream} that can be made very [stiff_1]{stiff}",
+      "entry": "whipping cream",
+      "id": "whipping-cream#whipping-cream__1"
+    },
+    {
+      "comment": "a [powder_1]{powder} [used]{used} [instead]{instead} of [milk_1]{milk} or [cream_1]{cream} in [coffee]{coffee} and [tea]{tea}",
+      "entry": "whitener",
+      "id": "whitener#whitener__2"
+    }
+  ],
+  "thesaurus": "Types of milk and cream",
+  "type": "Related words"
+}

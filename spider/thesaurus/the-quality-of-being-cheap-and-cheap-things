@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something you [buy_1]{buy} that [cost_1]{costs} much less than [normal_1]{normal}",
+      "entry": "bargain",
+      "id": "bargain_1#bargain_1__1"
+    },
+    {
+      "comment": "[small_1]{small} [object_1]{objects} that are not very [expensive]{expensive} and that [people_1]{people} [buy_1]{buy} to [make_1]{make} their [home_1]{homes} [look_1]{look} [nice]{nice}",
+      "entry": "bric-a-brac",
+      "id": "bric-a-brac#bric-a-brac__1"
+    },
+    {
+      "comment": "a [small_1]{small} [inexpensive]{inexpensive} [object_1]{object} [used]{used} as a [decoration]{decoration}",
+      "entry": "knickknack",
+      "id": "knickknack#knickknack__1"
+    },
+    {
+      "comment": "something that is very [inexpensive]{inexpensive}",
+      "entry": "steal",
+      "id": "steal_2#steal_2__1"
+    },
+    {
+      "comment": "something that [does]{does} not [cost_1]{cost} much [money]{money} or is of very [poor_1]{poor} [quality_1]{quality}",
+      "entry": "cheapie",
+      "id": "cheapie#cheapie__1"
+    },
+    {
+      "comment": "a [bad_1]{bad} or [inexpensive]{inexpensive} [copy_1]{copy} of something",
+      "entry": "knockoff",
+      "id": "knockoff#knockoff__1"
+    },
+    {
+      "comment": "[inexpensive]{inexpensive} [object_1]{objects} of [bad_1]{bad} [quality_1]{quality}",
+      "entry": "tat",
+      "id": "tat#tat__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [knickknack]{knickknack}",
+      "entry": "nicknack",
+      "id": "nicknack#nicknack__2"
+    },
+    {
+      "comment": "[thing]{things} that are [inexpensive]{inexpensive} and of [bad_1]{bad} [quality_1]{quality}",
+      "entry": "schlock",
+      "id": "schlock#schlock__1"
+    },
+    {
+      "comment": "something that [cost_1]{costs} less because it is in [poor_1]{poor} [condition_1]{condition} and will [need_1]{need} to be [fixed]{fixed}, for [example]{example} a [house_1]{house}",
+      "entry": "fixer upper",
+      "id": "fixer-upper#fixer-upper__1"
+    }
+  ],
+  "thesaurus": "The quality of being cheap and cheap things",
+  "type": "Synonyms"
+}

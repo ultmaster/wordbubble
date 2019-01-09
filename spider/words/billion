@@ -1,0 +1,23 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "the [number_1]{number} 1,000,000,000",
+      "examples": [],
+      "id": "billion__1"
+    },
+    {
+      "def": "a very [large_1]{large} [number_1]{number} or amount of [people_1]{people} or [thing]{things}",
+      "examples": [
+        "We\u2019ve [told]{told} them [billion#billion__2]{billions} of times."
+      ],
+      "id": "billion__2"
+    },
+    {
+      "def": "a [trillion]{trillion}",
+      "examples": [],
+      "id": "billion__4"
+    }
+  ],
+  "word": "billion"
+}

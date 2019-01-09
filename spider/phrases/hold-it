@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "hold it",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone not to move",
+      "examples": [
+        "[just_1]{Just} [hold_1]{hold} it [right_1]{right} there! Where do you [think_1]{think} you\u2019re [going_1]{going} with that?"
+      ],
+      "id": "hold-it__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone to [wait_1]{wait}",
+      "examples": [
+        "[hold_1]{Hold} it, you two! [wait_1]{Wait} for us!"
+      ],
+      "id": "hold-it__3"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that something has made you [angry]{angry} or [surprised]{surprised}",
+      "examples": [
+        "[hold_1]{Hold} it a [minute_1]{minute}! Are you [saying]{saying} he\u2019s not coming?"
+      ],
+      "id": "hold-it__5"
+    }
+  ]
+}

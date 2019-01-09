@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [fact]{fact}, [situation]{situation}, or [intention]{intention} that [explain]{explains} why something [happen]{happened}, why someone [did]{did} something, or why something is [true_1]{true}",
+      "entry": "reason",
+      "id": "reason_1#reason_1__1"
+    },
+    {
+      "comment": "a [reason_1]{reason} that you give to [explain]{explain} why you have done something [bad_1]{bad}, or why you have not done something that you should have done",
+      "entry": "excuse",
+      "id": "excuse_2#excuse_2__1"
+    },
+    {
+      "comment": "the [reason_1]{reason} for something",
+      "entry": "point",
+      "id": "point_1#point_1__7"
+    },
+    {
+      "comment": "a [reason_1]{reason} for [behave]{behaving} in a [particular_1]{particular} way or for [feeling_1]{feeling} a [particular_1]{particular} [emotion]{emotion}",
+      "entry": "cause",
+      "id": "cause_1#cause_1__5"
+    },
+    {
+      "comment": "a [reason_1]{reason} for something",
+      "entry": "occasion",
+      "id": "occasion_1#occasion_1__15"
+    },
+    {
+      "comment": "the [reason_1]{reason} that you do something",
+      "entry": "motive",
+      "id": "motive_1#motive_1__1"
+    },
+    {
+      "comment": "a [reason_1]{reason} for [doing]{doing} something",
+      "entry": "motivation",
+      "id": "motivation#motivation__5"
+    },
+    {
+      "comment": "a [reason_1]{reason} that you [pretend_1]{pretend} to have in [order_1]{order} to [hide_1]{hide} your [real_1]{real} [reason_1]{reason} or [intention]{intention}",
+      "entry": "pretext",
+      "id": "pretext#pretext__1"
+    },
+    {
+      "comment": "a [reason_1]{reason} for what you [say_1]{say} or do, or for being [allow]{allowed} to [say_1]{say} or do something",
+      "entry": "ground",
+      "id": "ground_1#ground_1__22"
+    },
+    {
+      "comment": "[give_1]{giving} [reason_1]{reasons} why something is [true_1]{true} or [right_1]{right}",
+      "entry": "in justification of something",
+      "id": "in-justification-of-something#in-justification-of-something__1"
+    }
+  ],
+  "thesaurus": "Reasons and excuses",
+  "type": "Synonyms"
+}

@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "store up",
+  "senses": [
+    {
+      "def": "to keep a [lot_1]{lot} of something so that you can use it [later_1]{later}",
+      "examples": [
+        "Many [animal_1]{animals} [store_1]{store} up [food]{food} for the [winter_1]{winter}."
+      ],
+      "id": "store-up__1"
+    },
+    {
+      "def": "to [remember]{remember} something, [especially]{especially} so that you can [tell_1]{tell} or [ask_1]{ask} someone [later_1]{later}",
+      "examples": [
+        "I had [store_2]{stored} up a few [question_1]{questions} to [ask_1]{ask} her about the [job_1]{job}."
+      ],
+      "id": "store-up__3"
+    },
+    {
+      "def": "to do something that will cause [problem]{problems} in the [future_1]{future}",
+      "examples": [
+        "[people_1]{People} who don\u2019t [exercise_1]{exercise} are [store_2]{storing} up [health]{health} [problem]{problems} for themselves."
+      ],
+      "id": "store-up__5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a woody [plant_1]{plant} has a [strong]{strong} [hard_1]{hard} stem",
+      "examples": [],
+      "id": "woody__1"
+    },
+    {
+      "def": "a woody [area]{area} has many [tree]{trees}",
+      "examples": [],
+      "id": "woody__2"
+    },
+    {
+      "def": "[similar]{similar} to [wood]{wood}",
+      "examples": [
+        "the [wine_1]{wine}\u2019s [dry_1]{dry} woody [flavor_1]{flavor}"
+      ],
+      "id": "woody__3"
+    }
+  ],
+  "word": "woody"
+}

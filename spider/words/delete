@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [remove]{remove} or cross out something that has been [written_1]{written}",
+      "examples": [
+        "Several [name_1]{names} had been [delete]{deleted} from the [list_1]{list}."
+      ],
+      "id": "delete__1"
+    },
+    {
+      "def": "to [remove]{remove} [information]{information} [store_2]{stored} in a computer",
+      "examples": [
+        "Your [record_1]{records} have been [delete]{deleted} from our [database]{database}."
+      ],
+      "id": "delete__3"
+    }
+  ],
+  "word": "delete"
+}

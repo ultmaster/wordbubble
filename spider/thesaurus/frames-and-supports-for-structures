@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [structure_1]{structure} that [form_1]{forms} part of an [object_1]{object} and [give_1]{gives} it its [strength]{strength} and [shape_1]{shape}",
+      "entry": "frames",
+      "id": "frame_1#frame_1__5"
+    },
+    {
+      "comment": "the part of a [structure_1]{structure} of a [building]{building} that is below the [ground_1]{ground} and [support_1]{supports} the rest of it",
+      "entry": "foundation",
+      "id": "foundation#foundation__1"
+    },
+    {
+      "comment": "something that [hold_1]{holds} the [weight_1]{weight} of an [object_1]{object}, [building]{building}, or [structure_1]{structure} so that it [does]{does} not move or [fall_1]{fall}",
+      "entry": "support",
+      "id": "support_2#support_2__17"
+    },
+    {
+      "comment": "a [structure_1]{structure} [consist]{consisting} of [pole_1]{poles} and [board_1]{boards} on the [outside]{outside} of a [building]{building}, that [people_1]{people} [stand_1]{stand} on when they are [working]{working} on the [building]{building}",
+      "entry": "scaffold",
+      "id": "scaffold#scaffold__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} that [support_1]{supports} something and [make_1]{makes} it a [particular_1]{particular} [shape_1]{shape}",
+      "entry": "framework",
+      "id": "framework#framework__8"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [wood]{wood} that [support_1]{supports} a [slope_2#slope_2__5]{sloping} [roof_1]{roof}",
+      "entry": "rafter",
+      "id": "rafter#rafter__1"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [wood]{wood} or [metal_1]{metal} put below a [floor_1]{floor} or [ceiling]{ceiling} to [support_1]{support} it",
+      "entry": "joist",
+      "id": "joist#joist__1"
+    },
+    {
+      "comment": "a [structure_1]{structure} made of [brick_1]{brick} or [stone_1]{stone} that [stick_1]{sticks} out from the [wall_1]{wall} of a [building]{building} to [support_1]{support} it",
+      "entry": "buttress",
+      "id": "buttress_1#buttress_1__1"
+    },
+    {
+      "comment": "an [upright_1]{upright} [post_1]{post} that [support_1]{supports} a [structure_1]{structure}",
+      "entry": "stanchion",
+      "id": "stanchion#stanchion__1"
+    },
+    {
+      "comment": "a [large_1]{large} [tall]{tall} [metal_1]{metal} [structure_1]{structure} [used]{used} for [supporting]{supporting} [light_1]{lights}, [signal_1]{signals}, etc., or for [moving]{moving} [heavy_1]{heavy} [equipment]{equipment} on [track_1]{tracks}",
+      "entry": "gantry",
+      "id": "gantry#gantry__1"
+    }
+  ],
+  "thesaurus": "Frames and supports for structures",
+  "type": "Synonyms"
+}

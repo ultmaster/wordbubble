@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "an [object_1]{object} that [fit_1]{fits} into something such as a [radio_1]{radio}, [clock_1]{clock}, or [car]{car} and [supply_1]{supplies} it with [electricity]{electricity}",
+      "entry": "battery",
+      "id": "battery#battery__1"
+    },
+    {
+      "comment": "a type of battery used to supply electricity in electrical equipment such as laptop computers, mobile devices, cameras, etc.",
+      "entry": "battery pack",
+      "id": "battery-pack#battery-pack__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} in which [electricity]{electricity} is [store_2]{stored}",
+      "entry": "capacitor",
+      "id": "capacitor#capacitor__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [use_1]{uses} [chemical_1]{chemicals}, [heat_1]{heat}, or [light_1]{light} to [produce_1]{produce} [electricity]{electricity}",
+      "entry": "cell",
+      "id": "cell#cell__8"
+    },
+    {
+      "comment": "a battery that contains no liquid chemicals",
+      "entry": "dry battery",
+      "id": "dry-battery#dry-battery__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [change_1]{changes} [light_1]{light} from the [sun_1]{sun} into [electricity]{electricity}",
+      "entry": "photoelectric cell",
+      "id": "photoelectric-cell#photoelectric-cell__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [change_1]{changes} [light_1]{light} into [electricity]{electricity}",
+      "entry": "photovoltaic cell",
+      "id": "photovoltaic-cell#photovoltaic-cell__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [produce_1]{produces} [electrical_1]{electrical} [power_1]{power}",
+      "entry": "power plant",
+      "id": "power-plant#power-plant__2"
+    },
+    {
+      "comment": "a piece of electrical equipment that puts electricity into a battery",
+      "entry": "recharger",
+      "id": "recharger#recharger__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [use_1]{uses} the [sun_1]{Sun}\u2019s [energy]{energy} to [produce_1]{produce} [electricity]{electricity} to [make_1]{make} something [work_1]{work}",
+      "entry": "solar cell",
+      "id": "solar-cell#solar-cell__1"
+    },
+    {
+      "comment": "a place where wind turbines are used for producing electricity from the power of the wind",
+      "entry": "wind farm",
+      "id": "wind-farm#wind-farm__1"
+    },
+    {
+      "comment": "a large machine like a windmill used for producing electricity from the wind",
+      "entry": "wind turbine",
+      "id": "wind-turbine#wind-turbine__1"
+    }
+  ],
+  "thesaurus": "Equipment for making and storing electricity",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [drunk_1]{drunk}",
+      "entry": "sober",
+      "id": "sober_1#sober_1__1"
+    },
+    {
+      "comment": "someone who is [teetotal]{teetotal} never [drink_1]{drinks} [alcohol]{alcohol}",
+      "entry": "teetotal",
+      "id": "teetotal#teetotal__1"
+    },
+    {
+      "comment": "to not [drink_1]{drink} any [alcohol]{alcohol} at all",
+      "entry": "not touch a drop",
+      "id": "not-touch-a-drop#not-touch-a-drop__1"
+    },
+    {
+      "comment": "someone who is [straight_1]{straight} [does]{does} not use [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "straight",
+      "id": "straight_1#straight_1__30"
+    },
+    {
+      "comment": "[definitely]{definitely} not [drunk_1]{drunk}",
+      "entry": "stone-cold sober",
+      "id": "stone-cold-sober#stone-cold-sober__1"
+    },
+    {
+      "comment": "someone who never [drink_1]{drinks} [alcohol]{alcohol}",
+      "entry": "teetotaler",
+      "id": "teetotaler#teetotaler__1"
+    },
+    {
+      "comment": "a [dry_1]{dry} [country]{country} [does]{does} not [allow]{allow} any [alcohol]{alcohol} to be [sold]{sold} there",
+      "entry": "dry",
+      "id": "dry_1#dry_1__26"
+    },
+    {
+      "comment": "not [drinking]{drinking} [alcohol]{alcohol} any more",
+      "entry": "on the wagon",
+      "id": "on-the-wagon#on-the-wagon__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of not [drinking]{drinking} [alcohol]{alcohol} and the [belief]{belief} that it is [wrong_1]{wrong} to do so",
+      "entry": "temperance",
+      "id": "temperance#temperance__1"
+    },
+    {
+      "comment": "to [promise_1]{promise} not to [drink_1]{drink} [alcohol]{alcohol} [anymore]{anymore}",
+      "entry": "sign/take the pledge",
+      "id": "sign-take-the-pledge#sign-take-the-pledge__1"
+    }
+  ],
+  "thesaurus": "Not drinking alcohol and not drunk or using drugs",
+  "type": "Synonyms"
+}

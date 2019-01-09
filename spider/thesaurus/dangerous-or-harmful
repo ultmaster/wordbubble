@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[likely_1]{likely} to [harm_1]{harm} or [kill_1]{kill} someone, or to [damage_1]{damage} or [destroy]{destroy} something",
+      "entry": "dangerous",
+      "id": "dangerous#dangerous__1"
+    },
+    {
+      "comment": "[cause_2]{causing} [harm_1]{harm}",
+      "entry": "harmful",
+      "id": "harmful#harmful__1"
+    },
+    {
+      "comment": "[cause_2]{causing} a [lot_1]{lot} of [damage_1]{damage} or [harm_1]{harm}",
+      "entry": "disastrous",
+      "id": "disastrous#disastrous__1"
+    },
+    {
+      "comment": "[cause_2]{causing} [physical_1]{physical} [harm_1]{harm} to something so that it is [broken_1]{broken}, [spoiled]{spoiled}, or [injured]{injured}",
+      "entry": "damaging",
+      "id": "damaging#damaging__1"
+    },
+    {
+      "comment": "[involve]{involving} the [possibility]{possibility} of [danger]{danger}, [harm_1]{harm}, or [failure]{failure}",
+      "entry": "risky",
+      "id": "risky#risky__1"
+    },
+    {
+      "comment": "[dangerous]{dangerous}, [especially]{especially} to [people_1]{people}\u2019s [health]{health} or [safety]{safety}",
+      "entry": "hazardous",
+      "id": "hazardous#hazardous__1"
+    },
+    {
+      "comment": "[dangerous]{dangerous}",
+      "entry": "unsafe",
+      "id": "unsafe#unsafe__1"
+    },
+    {
+      "comment": "[cause_2]{causing} [severe]{severe} [damage_1]{damage} or [loss]{loss}",
+      "entry": "ruinous",
+      "id": "ruinous#ruinous__1"
+    },
+    {
+      "comment": "very [dangerous]{dangerous}",
+      "entry": "perilous",
+      "id": "perilous#perilous__1"
+    },
+    {
+      "comment": "[cause_2]{causing} [harm_1]{harm} or [damage_1]{damage}",
+      "entry": "injurious",
+      "id": "injurious#injurious__1"
+    }
+  ],
+  "thesaurus": "Dangerous or harmful",
+  "type": "Synonyms"
+}

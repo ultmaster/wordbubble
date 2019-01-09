@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a lame [animal_1]{animal} cannot [walk_1]{walk} very well because its [leg_1]{leg} or [foot_1]{foot} is [damage_2]{damaged}",
+      "examples": [
+        "Her [horse_1]{horse} had [gone_1]{gone} lame."
+      ],
+      "id": "lame_1__1"
+    },
+    {
+      "def": "a lame [excuse_1]{excuse}, [explanation]{explanation}, etc. is [difficult]{difficult} to [believe]{believe} because it seems so [unlikely]{unlikely}",
+      "examples": [
+        "It [sound_1]{sounds} [like_1]{like} a lame [excuse_1]{excuse}, but I never seem to have time to [visit_1]{visit}."
+      ],
+      "id": "lame_1__5"
+    },
+    {
+      "def": "done without much [effort]{effort} in a way that seems as though you are not [trying]{trying} very [hard_1]{hard}",
+      "examples": [
+        "Saturday\u2019s [game_1]{game} was a lame [performance]{performance}."
+      ],
+      "id": "lame_1__7"
+    }
+  ],
+  "word": "lame"
+}

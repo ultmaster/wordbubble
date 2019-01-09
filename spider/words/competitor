@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [company]{company} that [sell_1]{sells} the same [goods]{goods} or [service_1]{services} as another [company]{company}",
+      "examples": [
+        "All our [major_1]{major} [competitor]{competitors} are also [bidding]{bidding} for the [contract_1]{contract}."
+      ],
+      "id": "competitor__1"
+    },
+    {
+      "def": "someone who [take_1]{takes} part in a [sport_1]{sports} [competition]{competition}",
+      "examples": [
+        "Over 30,000 [competitor]{competitors} will [run_1]{run} in the [new]{New} York [marathon]{marathon}."
+      ],
+      "id": "competitor__3"
+    }
+  ],
+  "word": "competitor"
+}

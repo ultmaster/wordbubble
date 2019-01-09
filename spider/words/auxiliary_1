@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "auxiliary [equipment]{equipment} or [system]{systems} are [available]{available} for use if the [main_1]{main} one [fail_1]{fails}",
+      "examples": [
+        "an auxiliary [power_1]{power} [unit]{unit}"
+      ],
+      "id": "auxiliary_1__1"
+    },
+    {
+      "def": "auxiliary [worker]{workers} [help_1]{help} more [senior_1]{senior} or [permanent_1]{permanent} [worker]{workers}",
+      "examples": [
+        "auxiliary [nurse_1]{nurses}/[troop_1]{troops}/[pilot_1]{pilots}"
+      ],
+      "id": "auxiliary_1__3"
+    }
+  ],
+  "word": "auxiliary"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in force",
+  "senses": [
+    {
+      "def": "if a [law]{law} or [rule_1]{rule} is in [force_1]{force}, it is being [applied]{applied} and [people_1]{people} must [obey]{obey} it",
+      "examples": [
+        "The [ban_1]{ban} on [arms]{arms} [export_1]{exports} [remains]{remains} in [force_1]{force}."
+      ],
+      "id": "in-force__1"
+    },
+    {
+      "def": "if [people_1]{people} do something in [force_1]{force}, a [lot_1]{lot} of [people_1]{people} are [involved]{involved}",
+      "examples": [
+        "[demonstrator]{Demonstrators} came in [force_1]{force} when the [president_1]{President} [arrive]{arrived} in Stockholm."
+      ],
+      "id": "in-force__3"
+    }
+  ]
+}

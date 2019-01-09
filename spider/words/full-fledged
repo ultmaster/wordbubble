@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[completely]{completely} [developed]{developed}",
+      "examples": [
+        "a full-fledged [riot_1]{riot}/[battle_1]{battle}"
+      ],
+      "id": "full-fledged__1"
+    },
+    {
+      "def": "[completely]{completely} [trained]{trained}",
+      "examples": [
+        "a full-fledged [doctor_1]{doctor}"
+      ],
+      "id": "full-fledged__3"
+    },
+    {
+      "def": "a full-[fledged]{fledged} [bird]{bird} has [grown_1]{grown} all its [feather_1]{feathers} and is [able_1]{able} to [fly_1]{fly}",
+      "examples": [],
+      "id": "full-fledged__5"
+    }
+  ],
+  "word": "full-fledged"
+}

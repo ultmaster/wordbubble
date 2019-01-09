@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} [sleep_1]{sleeping}",
+      "entry": "wake",
+      "id": "wake_1#wake_1__1"
+    },
+    {
+      "comment": "to [wake_1]{wake} up, or to [wake_1]{wake} someone up",
+      "entry": "awaken",
+      "id": "awaken#awaken__3"
+    },
+    {
+      "comment": "to [wake_1]{wake} someone and [tell_1]{tell} them to get out of [bed_1]{bed}",
+      "entry": "get up",
+      "id": "get-up_1#get-up_1__3"
+    },
+    {
+      "comment": "to [wake_1]{wake} up, or to [wake_1]{wake} someone up",
+      "entry": "awake",
+      "id": "awake_2#awake_2__1"
+    },
+    {
+      "comment": "to [wake_1]{wake} up, or to [wake_1]{wake} someone up",
+      "entry": "waken",
+      "id": "waken#waken__1"
+    },
+    {
+      "comment": "to [wake_1]{wake} someone up",
+      "entry": "raise",
+      "id": "raise_1#raise_1__35"
+    },
+    {
+      "comment": "to [wake_1]{wake} someone up",
+      "entry": "rouse",
+      "id": "rouse#rouse__1"
+    },
+    {
+      "comment": "to [wake_1]{wake} or call someone by [knock_1]{knocking} on their [door_1]{door}",
+      "entry": "knock up",
+      "id": "knock-up#knock-up__2"
+    },
+    {
+      "comment": "to [make_1]{make} someone [stop_1]{stop} [sleep_1]{sleeping}",
+      "entry": "wake",
+      "id": "wake_1#wake_1__5"
+    },
+    {
+      "comment": "to [wake_1]{wake} someone who has been [sleep_1]{sleeping}",
+      "entry": "arouse",
+      "id": "arouse#arouse__5"
+    }
+  ],
+  "thesaurus": "To wake up, and to wake someone up",
+  "type": "Synonyms"
+}

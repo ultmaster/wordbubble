@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [reason_1]{reason} you give for something that has [happen]{happened} or something you have done",
+      "entry": "explanation",
+      "id": "explanation#explanation__1"
+    },
+    {
+      "comment": "an [explanation]{explanation} of the [meaning_1]{meaning} or [importance]{importance} of something",
+      "entry": "interpretation",
+      "id": "interpretation#interpretation__1"
+    },
+    {
+      "comment": "[print_1]{printed} [information]{information} [explain]{explaining} how to use or do something",
+      "entry": "instructions",
+      "id": "instruction#instruction__5"
+    },
+    {
+      "comment": "one or more [idea]{ideas} that [explain]{explain} how or why something [happen]{happens}",
+      "entry": "theory",
+      "id": "theory#theory__1"
+    },
+    {
+      "comment": "an [explanation]{explanation} that [include]{includes} the [general_1]{general} [point_1]{points} about something, but not the [detail_1]{details}",
+      "entry": "outline",
+      "id": "outline_2#outline_2__1"
+    },
+    {
+      "comment": "a [scientific]{scientific} [theory]{theory} or [basic_1]{basic} [natural_1]{natural} [law]{law} that [explain]{explains} the way in which something [work_1]{works}",
+      "entry": "principle",
+      "id": "principle#principle__16"
+    },
+    {
+      "comment": "a way of [describe]{describing} something that [make_1]{makes} it seem [better_1]{better} than it [really]{really} is",
+      "entry": "gloss",
+      "id": "gloss_1#gloss_1__6"
+    },
+    {
+      "comment": "an [explanation]{explanation} that [make_1]{makes} something [clear_1]{clearer} and [easy_1]{easier} to [understand]{understand}",
+      "entry": "clarification",
+      "id": "clarification#clarification__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} or [explanation]{explanation} of something that must be done, often [given_1]{given} by someone in [authority]{authority}",
+      "entry": "instructions",
+      "id": "instruction#instruction__1"
+    },
+    {
+      "comment": "a [reason_1]{reason} or [set_1]{set} of [reason_1]{reasons} that you use for [persuade]{persuading} other [people_1]{people} to [support_1]{support} your [view_1]{views}, [opinion]{opinions}, etc.",
+      "entry": "argument",
+      "id": "argument#argument__10"
+    }
+  ],
+  "thesaurus": "Explanations and explaining",
+  "type": "Synonyms"
+}

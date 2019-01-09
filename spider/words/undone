@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [finished]{finished}",
+      "examples": [
+        "Thomas couldn\u2019t go [home_1]{home} with [half]{half} his [work_1]{work} still undone."
+      ],
+      "id": "undone__1"
+    },
+    {
+      "def": "not [closed]{closed}, [tied]{tied}, or [fasten]{fastened}",
+      "examples": [
+        "[leave_1]{Leave} the top [button_1]{button} of your [shirt]{shirt} undone."
+      ],
+      "id": "undone__3"
+    },
+    {
+      "def": "[completely]{completely} [defeat_2]{defeated} or [destroy]{destroyed}",
+      "examples": [],
+      "id": "undone__5"
+    }
+  ],
+  "word": "undone"
+}

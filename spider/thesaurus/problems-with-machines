@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [loss]{loss} of [electronic]{electronic} [information]{information} because the [software]{software} or [device]{devices} [need_1]{needed} to read it are no [long_1]{longer} [available]{available}",
+      "entry": "bit rot",
+      "id": "bit-rot#bit-rot__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [machine_1]{machine} or [vehicle]{vehicle} [stop_1]{stops} [working]{working}",
+      "entry": "breakdown",
+      "id": "breakdown#breakdown__7"
+    },
+    {
+      "comment": "a [minor_1]{minor} [fault_1]{fault} in a computer system or in a computer [program_1]{program}",
+      "entry": "bug",
+      "id": "bug_1#bug_1__6"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a computer or a computer [program_1]{program} [suddenly]{suddenly} [stop_1]{stops} [working]{working}",
+      "entry": "crash",
+      "id": "crash_2#crash_2__5"
+    },
+    {
+      "comment": "a [situation]{situation} in which something such as a [machine_1]{machine} or an [organ]{organ} in your body [stop_1]{stops} [working]{working} [correctly]{correctly}",
+      "entry": "failure",
+      "id": "failure#failure__12"
+    },
+    {
+      "comment": "a [problem]{problem} with a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} that [stop_1]{stops} it from [working]{working} [correctly]{correctly}",
+      "entry": "fault",
+      "id": "fault_1#fault_1__12"
+    },
+    {
+      "comment": "a [small_1]{small} [imaginary]{imaginary} [creature]{creature} that [people_1]{people} [blame_1]{blame} when they have [problem]{problems} with [machine_1]{machines}",
+      "entry": "gremlin",
+      "id": "gremlin#gremlin__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [machine_1]{machine} [does]{does} not [work_1]{work} because something [prevent]{prevents} its [part_1]{parts} from [moving]{moving}",
+      "entry": "jam",
+      "id": "jam_1#jam_1__5"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when a [machine_1]{machine} or [factory]{factory} [stop_1]{stops} [working]{working} [temporarily]{temporarily}",
+      "entry": "shutdown",
+      "id": "shutdown#shutdown__1"
+    },
+    {
+      "comment": "a [problem]{problem} [affecting]{affecting} a [machine_1]{machine} or system that [make_1]{makes} it not [work_1]{work} as it should",
+      "entry": "trouble",
+      "id": "trouble_1#trouble_1__18"
+    }
+  ],
+  "thesaurus": "Problems with machines",
+  "type": "Related words"
+}

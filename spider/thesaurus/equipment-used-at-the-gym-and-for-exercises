@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a wooden bar used for physical exercise in a gym",
+      "entry": "balance beam",
+      "id": "balance-beam#balance-beam__1"
+    },
+    {
+      "comment": "a long [metal_1]{metal} [bar_1]{bar} with [weight_1]{weights} at each [end_1]{end} that you [lift_1]{lift} in [order_1]{order} to [make_1]{make} your [muscle_1]{muscles} [big_1]{bigger} and [strong]{stronger}",
+      "entry": "barbell",
+      "id": "barbell#barbell__1"
+    },
+    {
+      "comment": "a [balance_1]{balance} [beam_1]{beam}",
+      "entry": "beam",
+      "id": "beam_2#beam_2__8"
+    },
+    {
+      "comment": "a long low [table_1]{table} in a [gym]{gym} that you [lie_1]{lie} on in [order_1]{order} to do [exercise_1]{exercises}",
+      "entry": "bench",
+      "id": "bench_1#bench_1__11"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [exercise_1]{exercise} [equipment]{equipment} with [part_1]{parts} that you [stand_1]{stand} on and [part_1]{parts} that you [hold_1]{hold}, [allow]{allowing} you to move your [legs]{legs} and [arms]{arms} [backward_1]{backward} and [forward_1]{forward}",
+      "entry": "cross-trainer",
+      "id": "cross-trainer#cross-trainer__1"
+    },
+    {
+      "comment": "a [short_1]{short} [metal_1]{metal} [bar_1]{bar} with a [weight_1]{weight} at both [end_1]{ends} that [people_1]{people} [lift_1]{lift} in [order_1]{order} to [develop]{develop} their [muscle_1]{muscles}",
+      "entry": "dumbbell",
+      "id": "dumbbell#dumbbell__1"
+    },
+    {
+      "comment": "a [bicycle]{bicycle} that [stay_1]{stays} in one [place_1]{place}, [used]{used} for [physical_1]{physical} [exercise_1]{exercise}",
+      "entry": "exercise bike",
+      "id": "exercise-bike#exercise-bike__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of a thick [soft]{soft} [material_1]{material} [like_1]{like} [rubber]{rubber} that you use when [doing]{doing} [exercise_1]{exercises} or for some [sport_1]{sports}",
+      "entry": "mat",
+      "id": "mat_1#mat_1__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [exercise_1]{exercise} [equipment]{equipment} that is [design_2]{designed} so that you can do many [different]{different} [exercise_1]{exercises} on it",
+      "entry": "multigym",
+      "id": "multigym#multigym__1"
+    },
+    {
+      "comment": "a [series]{series} of [object_1]{objects} or [structure_1]{structures} that you have to get over, under, or through in a [race_1]{race} or in a [training]{training} [exercise_1]{exercise}",
+      "entry": "obstacle course",
+      "id": "obstacle-course#obstacle-course__1"
+    },
+    {
+      "comment": "[punch_1]{punching} [bag_1]{bag}",
+      "entry": "punchbag",
+      "id": "punchbag#punchbag__1"
+    },
+    {
+      "comment": "a [large_1]{large} [heavy_1]{heavy} [bag_1]{bag} that [hang_1]{hangs} from a [rope_1]{rope} and that [people_1]{people} hit for [exercise_1]{exercise}",
+      "entry": "punching bag",
+      "id": "punching-bag#punching-bag__1"
+    },
+    {
+      "comment": "an exercise machine that you sit on, and pull a moving handle toward you, as if you were rowing a boat",
+      "entry": "rowing machine",
+      "id": "rowing-machine#rowing-machine__1"
+    },
+    {
+      "comment": "a [jump_1]{jump} [rope_1]{rope}",
+      "entry": "skipping rope",
+      "id": "skipping-rope#skipping-rope__1"
+    },
+    {
+      "comment": "a type of exercise equipment consisting of a frame with two pedals that you stand on and push down with your feet so that you move in a way similar to climbing",
+      "entry": "StairMaster",
+      "id": "stairmaster#stairmaster__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [consist]{consisting} of a [metal_1]{metal} [frame_1]{frame} with a [strong]{strong} [material_1]{material} [stretched]{stretched} across it that you can [jump_1]{jump} up and down on for [exercise_1]{exercise} or as a [sport_1]{sport}",
+      "entry": "trampoline",
+      "id": "trampoline#trampoline__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [exercise_1]{exercise} [equipment]{equipment} with a [flat_1]{flat} [moving]{moving} [surface_1]{surface} that you [walk_1]{walk} or [run_1]{run} on while [stay_1]{staying} in the same [place_1]{place}",
+      "entry": "treadmill",
+      "id": "treadmill#treadmill__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [heavy_1]{heavy} [metal_1]{metal} [design_2]{designed} for [lift_1]{lifting} or [throw_1]{throwing} as a [sport_1]{sport}",
+      "entry": "weight",
+      "id": "weight_1#weight_1__10"
+    }
+  ],
+  "thesaurus": "Equipment used at the gym and for exercises",
+  "type": "Related words"
+}

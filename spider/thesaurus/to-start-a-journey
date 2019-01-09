@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "to [leave_1]{leave} and [start_1]{start} a [trip_1]{trip}",
+      "entry": "depart",
+      "id": "depart#depart__1"
+    },
+    {
+      "comment": "to leave a place and start a journey",
+      "entry": "depart",
+      "id": "depart#depart__5"
+    },
+    {
+      "comment": "to start a journey by ship",
+      "entry": "embark on",
+      "id": "embark-on#embark-on__5"
+    },
+    {
+      "comment": "to [leave_1]{leave}, or to [start_1]{start} a [trip_1]{trip}",
+      "entry": "hit the road",
+      "id": "hit-the-road#hit-the-road__1"
+    },
+    {
+      "comment": "to [begin]{begin} a [trip_1]{trip} by [boat]{boat} or [ship_1]{ship}",
+      "entry": "sail",
+      "id": "sail_1#sail_1__6"
+    },
+    {
+      "comment": "to [leave_1]{leave} a [place_1]{place} to go on a [trip_1]{trip} or for a [definite]{definite} [purpose]{purpose}, [showing]{showing} [confidence]{confidence} and [energy]{energy}",
+      "entry": "sally",
+      "id": "sally_1#sally_1__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} on a [trip_1]{trip}",
+      "entry": "set forth",
+      "id": "set-forth#set-forth__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} on a [trip_1]{trip} or [start_1]{start} [going_1]{going} somewhere",
+      "entry": "set off",
+      "id": "set-off#set-off__1"
+    },
+    {
+      "comment": "to [leave_1]{leave} on a [trip_1]{trip}",
+      "entry": "set out",
+      "id": "set-out#set-out__1"
+    },
+    {
+      "comment": "to [begin]{begin} a [trip_1]{trip} across [water_1]{water}",
+      "entry": "set sail",
+      "id": "set-sail#set-sail__1"
+    },
+    {
+      "comment": "to [begin]{begin} a [trip_1]{trip}",
+      "entry": "start",
+      "id": "start_1#start_1__30"
+    },
+    {
+      "comment": "to [begin]{begin} [moving]{moving}, or to [begin]{begin} a [trip_1]{trip}",
+      "entry": "start off",
+      "id": "start-off#start-off__6"
+    },
+    {
+      "comment": "to [begin]{begin} a [trip_1]{trip}",
+      "entry": "start out",
+      "id": "start-out#start-out__5"
+    },
+    {
+      "comment": "to go in a [particular_1]{particular} [direction]{direction} in a way that [show_1]{shows} [energy]{energy} or [determination]{determination}",
+      "entry": "strike off",
+      "id": "strike-off#strike-off__1"
+    }
+  ],
+  "thesaurus": "To start a journey",
+  "type": "Related words"
+}

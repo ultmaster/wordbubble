@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "padded [clothes]{clothes} are [fill_1]{filled} with a [soft]{soft} [substance]{substance} to [protect]{protect} or [change_1]{change} the [appearance]{appearance} of your body",
+      "examples": [
+        "a padded [helmet]{helmet}/[jacket]{jacket}/[bra]{bra}"
+      ],
+      "id": "padded__1"
+    },
+    {
+      "def": "padded [furniture]{furniture} or [object_1]{objects} have a thick [layer_1]{layer} of a [soft]{soft} [substance]{substance} under their [cover_1]{covers}",
+      "examples": [
+        "padded [chair_1]{chairs}"
+      ],
+      "id": "padded__3"
+    }
+  ],
+  "word": "padded"
+}

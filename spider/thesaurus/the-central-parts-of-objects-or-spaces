@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the part of something that is [farthest_1]{farthest} from the sides, [edge_1]{edges}, or [end_1]{ends}",
+      "entry": "the middle",
+      "id": "middle_1#middle_1__1"
+    },
+    {
+      "comment": "the [middle_1]{middle} of a [space_1]{space} or [area]{area}",
+      "entry": "center",
+      "id": "center_1#center_1__1"
+    },
+    {
+      "comment": "the part [inside_1]{inside} an [object_1]{object} that is nearest its [center_1]{center}",
+      "entry": "core",
+      "id": "core_1#core_1__6"
+    },
+    {
+      "comment": "the [central]{central} part of something, that is [farthest_1]{farthest} from the [outside]{outside}",
+      "entry": "heart",
+      "id": "heart_1#heart_1__9"
+    },
+    {
+      "comment": "the part at the [center_1]{center} of a [wheel_1]{wheel}",
+      "entry": "hub",
+      "id": "hub#hub__4"
+    },
+    {
+      "comment": "the [inner_1]{inner} part of something",
+      "entry": "inside",
+      "id": "inside_2#inside_2__1"
+    },
+    {
+      "comment": "a round part of an [object_1]{object}",
+      "entry": "belly",
+      "id": "belly_1#belly_1__7"
+    },
+    {
+      "comment": "the part of something that [face_1]{faces} [inward_1]{inward}",
+      "entry": "inside",
+      "id": "inside_2#inside_2__3"
+    },
+    {
+      "comment": "the [inside_1]{inside} of an [object_1]{object} that you can see by [cutting_1]{cutting} through the [middle_1]{middle} of it from top to bottom",
+      "entry": "cross section",
+      "id": "cross-section#cross-section__1"
+    },
+    {
+      "comment": "the [point_1]{point} in any [object_1]{object} around which its [weight_1]{weight} [balance_1]{balances}",
+      "entry": "center of gravity",
+      "id": "center-of-gravity#center-of-gravity__1"
+    }
+  ],
+  "thesaurus": "The central parts of objects or spaces",
+  "type": "Synonyms"
+}

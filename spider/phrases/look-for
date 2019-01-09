@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "look for",
+  "senses": [
+    {
+      "def": "to [search_1]{search} for someone or something",
+      "examples": [
+        "I\u2019m [look_1]{looking} for Jim. Have you [seen]{seen} him?",
+        "The [police_1]{police} were [look_1]{looking} for [clue_1]{clues} as to the [woman]{woman}\u2019s [identity]{identity}."
+      ],
+      "id": "look-for__1"
+    },
+    {
+      "def": "to [hope_1]{hope} to get something that you [want_1]{want} or [need_1]{need}",
+      "examples": [
+        "He was [look_1]{looking} for [work_1]{work} as a [builder]{builder}.",
+        "We are [look_1]{looking} for a [partner_1]{partner} in a [new]{new} [business]{business} [venture_1]{venture}."
+      ],
+      "id": "look-for__4"
+    }
+  ]
+}

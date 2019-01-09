@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a gross amount of [money]{money} is the [total_1]{total} amount before [tax_1]{taxes} or [cost_1]{costs} have been [taken_1]{taken} out",
+      "examples": [
+        "a [company]{company} with gross [revenue]{revenues} of $50,000,000",
+        "In 1984 [women]{women} [earn]{earned} only 66 [percent_1]{percent} of [men]{men}\u2019s gross [weekly_1]{weekly} [earnings]{earnings}."
+      ],
+      "id": "gross_1__1"
+    },
+    {
+      "def": "gross [action_1]{actions} are [extremely]{extremely} [bad_1]{bad} and are [considered]{considered} [immoral]{immoral} by most [people_1]{people}",
+      "examples": [
+        "He was [dismiss]{dismissed} for gross [misconduct]{misconduct}.",
+        "They were [accuse]{accused} of gross [negligence]{negligence}.",
+        "That is a gross [distortion]{distortion} of the [truth]{truth}."
+      ],
+      "id": "gross_1__5"
+    },
+    {
+      "def": "[extremely]{extremely} [unpleasant]{unpleasant}. This [word_1]{word} is [used]{used} [mainly]{mainly} by [young_1]{young} [people_1]{people}.",
+      "examples": [],
+      "id": "gross_1__10"
+    }
+  ],
+  "word": "gross"
+}

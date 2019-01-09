@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "someone who is [related_1]{related} to you who [live_1]{lived} a long time [ago]{ago}",
+      "entry": "ancestor",
+      "id": "ancestor#ancestor__1"
+    },
+    {
+      "comment": "the [people_1]{people} [related_1]{related} to you who [live_1]{lived} a long time [ago]{ago}",
+      "entry": "ancestry",
+      "id": "ancestry#ancestry__1"
+    },
+    {
+      "comment": "the [member]{members} of your [family_1]{family} who [live_1]{lived} a long time [ago]{ago}",
+      "entry": "antecedents",
+      "id": "antecedent#antecedent__2"
+    },
+    {
+      "comment": "a [section_1]{section} of a [family_1]{family} who are all [related_1]{related} to one [person]{person} who [live_1]{lived} in the [past_1]{past}",
+      "entry": "branch",
+      "id": "branch_1#branch_1__15"
+    },
+    {
+      "comment": "a [relative_1]{relative} of a [person]{person} who [live_1]{lived} in the [past_1]{past}",
+      "entry": "descendant",
+      "id": "descendant#descendant__1"
+    },
+    {
+      "comment": "the [origin]{origin} of your [parent]{parents} or other [old]{older} [member]{members} of your [family_1]{family}",
+      "entry": "descent",
+      "id": "descent#descent__4"
+    },
+    {
+      "comment": "a [drawing]{drawing} that [contain]{contains} the [name_1]{names} of everyone in a [family_1]{family} over a long [period_1]{period} of time and that [show_1]{shows} the [relationship]{relationships} among them",
+      "entry": "family tree",
+      "id": "family-tree#family-tree__1"
+    },
+    {
+      "comment": "[people_1]{people} in your [family_1]{family} who [live_1]{lived} long before you",
+      "entry": "fathers",
+      "id": "father_1#father_1__13"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [forebear]{forebear}",
+      "entry": "forbear",
+      "id": "forbear_2#forbear_2__1"
+    },
+    {
+      "comment": "your [forebear]{forebears} are the [people_1]{people} in your [family_1]{family} who [live_1]{lived} a long time [ago]{ago}",
+      "entry": "forebear",
+      "id": "forebear#forebear__1"
+    },
+    {
+      "comment": "[people_1]{people} [belong]{belonging} to your [family_1]{family} or [nation]{nation} who [live_1]{lived} a long time [ago]{ago}",
+      "entry": "forefathers",
+      "id": "forefathers#forefathers__1"
+    },
+    {
+      "comment": "the [history]{history} of one [family_1]{family}, [showing]{showing} how all the [people_1]{people} are [related_1]{related} to each other",
+      "entry": "genealogy",
+      "id": "genealogy#genealogy__2"
+    },
+    {
+      "comment": "a series of connected generations in the same family",
+      "entry": "line",
+      "id": "line_1#line_1__74"
+    },
+    {
+      "comment": "the [people_1]{people} in your [family_1]{family} who [live_1]{lived} in the [past_1]{past}, [especially]{especially} when you come from a [rich_1]{rich} or [important]{important} [family_1]{family}",
+      "entry": "lineage",
+      "id": "lineage#lineage__1"
+    },
+    {
+      "comment": "someone\u2019s [parent]{parents} and other [family_1]{family} [member]{members} from the [past_1]{past}, [especially]{especially} in [family_1]{families} of a [high_1]{high} [social_1]{social} [class_1]{class}",
+      "entry": "pedigree",
+      "id": "pedigree_1#pedigree_1__7"
+    },
+    {
+      "comment": "a [person]{person} in your [family_1]{family} who was [born]{born} a long time [ago]{ago}",
+      "entry": "progenitor",
+      "id": "progenitor#progenitor__1"
+    },
+    {
+      "comment": "the [type_1]{type} of [people_1]{people} that your [family_1]{family} comes from",
+      "entry": "stock",
+      "id": "stock_1#stock_1__20"
+    }
+  ],
+  "thesaurus": "Ancestors",
+  "type": "Related words"
+}

@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "on loan",
+  "senses": [
+    {
+      "def": "if something is on [loan_1]{loan}, someone is [borrowing]{borrowing} it",
+      "examples": [
+        "That [book_1]{book} is already out on [loan_1]{loan}.",
+        "These [painting]{paintings} are on [loan_1]{loan} from the Guggenheim [museum]{Museum} in Bilbao."
+      ],
+      "id": "on-loan__1"
+    },
+    {
+      "def": "if someone is on [loan_1]{loan} to another [organization]{organization}, they are [temporarily]{temporarily} [working]{working} for that [organization]{organization} before [return_1]{returning} to their own",
+      "examples": [],
+      "id": "on-loan__4"
+    }
+  ]
+}

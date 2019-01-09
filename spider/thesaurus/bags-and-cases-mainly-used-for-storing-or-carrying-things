@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "a [container]{container} made of [paper_1]{paper}, [plastic_1]{plastic}, or [cloth]{cloth}, [used]{used} for [carry_1]{carrying} or [store_2]{storing} [thing]{things}",
+      "entry": "bag",
+      "id": "bag_1#bag_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [bag_1]{bag} [used]{used} for [carry_1]{carrying} [away_1]{away} the [dead_1]{dead} body of a [soldier_1]{soldier} or of someone [kill_1]{killed} in a [crime_1]{crime} or [accident]{accident}",
+      "entry": "body bag",
+      "id": "body-bag#body-bag__1"
+    },
+    {
+      "comment": "a [large_1]{large} [plastic_1]{plastic} [bag_1]{bag} [used]{used} for [holding]{holding} [garbage]{garbage}",
+      "entry": "garbage bag",
+      "id": "garbage-bag#garbage-bag__1"
+    },
+    {
+      "comment": "a [container]{container} at [party_1]{parties} from which [people_1]{people} [choose]{choose} one of many [small_1]{small} [gift_1]{gifts} [hidden_1]{hidden} [inside_1]{inside}.",
+      "entry": "grab bag",
+      "id": "grab-bag#grab-bag__1"
+    },
+    {
+      "comment": "a [gunnysack]{gunnysack}",
+      "entry": "gunny",
+      "id": "gunny#gunny__1"
+    },
+    {
+      "comment": "a sack  (=large bag for storing potatoes, flour, coal, etc.)",
+      "entry": "gunnysack",
+      "id": "gunnysack#gunnysack__1"
+    },
+    {
+      "comment": "one of a pair of bags or boxes attached to a bicycle or motorcycle and used for carrying things",
+      "entry": "pannier",
+      "id": "pannier#pannier__1"
+    },
+    {
+      "comment": "one of a [pair_1]{pair} of [basket]{baskets} that an [animal_1]{animal} [carry_1]{carries} [thing]{things} in on its back",
+      "entry": "pannier",
+      "id": "pannier#pannier__2"
+    },
+    {
+      "comment": "a [large_1]{large} [strong]{strong} [bag_1]{bag} for [store_2]{storing} and [carry_1]{carrying} [thing]{things}",
+      "entry": "sack",
+      "id": "sack_1#sack_1__1"
+    },
+    {
+      "comment": "a [strong]{strong} [paper_1]{paper} [bag_1]{bag} for [carry_1]{carrying} [goods]{goods} from a [store_1]{store}",
+      "entry": "sack",
+      "id": "sack_1#sack_1__5"
+    },
+    {
+      "comment": "a bag attached to the seat on a horse, bicycle, or motorcycle, used for carrying things",
+      "entry": "saddlebag",
+      "id": "saddlebag#saddlebag__1"
+    },
+    {
+      "comment": "a [bag_1]{bag} made of [plastic_1]{plastic} or [paper_1]{paper} with two [handle_1]{handles} that a [store_1]{store} [give_1]{gives} you for [carry_1]{carrying} [home_1]{home} your [shopping]{shopping}",
+      "entry": "shopping bag",
+      "id": "shopping-bag#shopping-bag__1"
+    }
+  ],
+  "thesaurus": "Bags and cases mainly used for storing or carrying things",
+  "type": "Related words"
+}

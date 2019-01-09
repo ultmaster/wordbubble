@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} a [mark_1]{mark} on something [accidentally]{accidentally}",
+      "examples": [
+        "The [sink_1]{sink} was [badly]{badly} [stain_2]{stained}.",
+        "[sweat_1]{Sweat} had [stain_2]{stained} his [shirt]{shirt}.",
+        "His [finger_1]{fingers} were [stain_2]{stained} with [blue_1]{blue} [ink_1]{ink}."
+      ],
+      "id": "stain_2__1"
+    },
+    {
+      "def": "to [add_1]{add} [color_1]{color} to [wood]{wood} [use_1]{using} a [special_1]{special} [liquid_1]{liquid}",
+      "examples": [
+        "I\u2019m [going_1]{going} to stain it a [deep_1]{deep} red [color_1]{color}."
+      ],
+      "id": "stain_2__5"
+    },
+    {
+      "def": "to [add_1]{add} [color_1]{color} to something in [order_1]{order} to [make_1]{make} it [easy_1]{easier} to [examine]{examine} under a [microscope]{microscope}",
+      "examples": [],
+      "id": "stain_2__7"
+    },
+    {
+      "def": "if something [stain_1]{stains} someone\u2019s [reputation]{reputation}, [character]{character}, etc., it [spoils]{spoils} it",
+      "examples": [],
+      "id": "stain_2__8"
+    }
+  ],
+  "word": "stain"
+}

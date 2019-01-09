@@ -1,0 +1,131 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [start_1]{starts} to use [new]{new} [technology]{technology} before or after most other [people_1]{people}",
+      "entry": "adopter",
+      "id": "adopter#adopter__2"
+    },
+    {
+      "comment": "someone who is [look_1]{looking} at [thing]{things} in a [store_1]{store} without being [sure_1]{sure} whether they [want_1]{want} to [buy_1]{buy} anything",
+      "entry": "browser",
+      "id": "browser#browser__2"
+    },
+    {
+      "comment": "someone who [buy_1]{buys} something",
+      "entry": "buyer",
+      "id": "buyer#buyer__1"
+    },
+    {
+      "comment": "someone who [pay_1]{pays} for the [service_1]{services} of a [professional_1]{professional} [person]{person} such as a [doctor_1]{doctor} or [lawyer]{lawyer}",
+      "entry": "client",
+      "id": "client#client__1"
+    },
+    {
+      "comment": "someone who [use_1]{uses} a [service_1]{service} that [provide]{provides} [help_1]{help} or [advice]{advice}",
+      "entry": "client",
+      "id": "client#client__3"
+    },
+    {
+      "comment": "the [customer]{customers} of a [store_1]{store}, [hotel]{hotel}, [restaurant]{restaurant}, etc. [considered]{considered} as a [group_1]{group}",
+      "entry": "clientele",
+      "id": "clientele#clientele__1"
+    },
+    {
+      "comment": "someone who buys and uses goods and services. The expression the consumer is often used for referring to consumers as a group",
+      "entry": "consumer",
+      "id": "consumer#consumer__1"
+    },
+    {
+      "comment": "[relate]{relating} to [consumer]{consumers}",
+      "entry": "consumer",
+      "id": "consumer#consumer__4"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [buy_1]{buys} [goods]{goods} or [service_1]{services}",
+      "entry": "customer",
+      "id": "customer#customer__1"
+    },
+    {
+      "comment": "[relate]{relating} to [customer]{customers}",
+      "entry": "customer",
+      "id": "customer#customer__4"
+    },
+    {
+      "comment": "a [group_1]{group} of [people_1]{people} who [buy_1]{buy} a [particular_1]{particular} [product]{product} or who [pay_1]{pay} for a [particular_1]{particular} [service_1]{service}",
+      "entry": "customer base",
+      "id": "customer-base#customer-base__1"
+    },
+    {
+      "comment": "someone who [start_1]{starts} [buy_1]{buying} or [use_1]{using} a [new]{new} [product]{product}, [technology]{technology}, or [idea]{idea} as [soon]{soon} as it becomes [available]{available} or [known_1]{known}",
+      "entry": "early adopter",
+      "id": "early-adopter#early-adopter__1"
+    },
+    {
+      "comment": "someone who [buy_1]{buys} and [use_1]{uses} a [product]{product}, [especially]{especially} a computer or a [piece_1]{piece} of [software]{software}",
+      "entry": "end user",
+      "id": "end-user#end-user__1"
+    },
+    {
+      "comment": "someone who is [slow_1]{slow} to [start_1]{start} [use_1]{using} or [buy_1]{buying} a [new]{new} [product]{product}, [technology]{technology}, or [idea]{idea}",
+      "entry": "late adopter",
+      "id": "late-adopter#late-adopter__1"
+    },
+    {
+      "comment": "the [total_1]{total} [number_1]{number} of [people_1]{people} [willing]{willing} to [buy_1]{buy} a [particular_1]{particular} [product]{product}",
+      "entry": "market",
+      "id": "market_1#market_1__13"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [buy_1]{buys} [thing]{things} from [producer]{producers} and [sell_1]{sells} them to [customer]{customers} at a [profit_1]{profit}",
+      "entry": "middleman",
+      "id": "middleman#middleman__1"
+    },
+    {
+      "comment": "a [possible_1]{possible} or [likely_1]{likely} [customer]{customer}",
+      "entry": "prospect",
+      "id": "prospect_1#prospect_1__13"
+    },
+    {
+      "comment": "someone who [buy_1]{buys} something",
+      "entry": "purchaser",
+      "id": "purchaser#purchaser__1"
+    },
+    {
+      "comment": "a [customer]{customer} who often [go_1]{goes} to the same [bar_1]{bar}, [restaurant]{restaurant}, or [store_1]{store}",
+      "entry": "regular",
+      "id": "regular_2#regular_2__1"
+    },
+    {
+      "comment": "[customer]{customers} who [buy_1]{buy} [product]{products} or [service_1]{services} from a [particular_1]{particular} [business]{business} more than one time",
+      "entry": "repeat business/customers",
+      "id": "repeat-business-customers#repeat-business-customers__1"
+    },
+    {
+      "comment": "someone who [enjoy]{enjoys} [going_1]{going} to [store_1]{stores} or [enjoy]{enjoys} [buy_1]{buying} [thing]{things}",
+      "entry": "shopaholic",
+      "id": "shopaholic#shopaholic__1"
+    },
+    {
+      "comment": "someone who [go_1]{goes} to a [store_1]{store} in [order_1]{order} to [buy_1]{buy} or [look_1]{look} at the [thing]{things} that are [sold]{sold} there",
+      "entry": "shopper",
+      "id": "shopper#shopper__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [buy_1]{buy} [thing]{things} for another [person]{person} or [company]{company}",
+      "entry": "shopper",
+      "id": "shopper#shopper__4"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} who [accept]{accept} or [buy_1]{buy} something that is [offer_1]{offered}, for [example]{example} by a [government]{government} or a [company]{company}",
+      "entry": "take-up",
+      "id": "take-up_2#take-up_2__1"
+    },
+    {
+      "comment": "a [buyer]{buyer}",
+      "entry": "vendee",
+      "id": "vendee#vendee__1"
+    }
+  ],
+  "thesaurus": "Shoppers and customers",
+  "type": "Related words"
+}

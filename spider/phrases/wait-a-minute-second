@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "wait a minute/second",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone to be [patient_1]{patient} while you [think_1]{think}",
+      "examples": [
+        "[oh_1]{Oh}, [wait_1]{wait} a [minute_1]{minute}, I\u2019m [trying]{trying} to [remember]{remember} her name."
+      ],
+      "id": "wait-a-minute-second__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone to [stop_1]{stop} and [wait_1]{wait} for you",
+      "examples": [
+        "[wait_1]{Wait} a [minute_1]{minute} \u2013 I have to [tie_1]{tie} my [shoe_1]{shoe}."
+      ],
+      "id": "wait-a-minute-second__3"
+    },
+    {
+      "def": "[used]{used} for [express_1]{expressing} [surprise_1]{surprise} about something that [just_1]{just} [happen]{happened} or was [just_1]{just} [said_1]{said}, [usually]{usually} something that seems [wrong_1]{wrong}",
+      "examples": [
+        "[wait_1]{Wait} a [second_1]{second}, wasn\u2019t Jackie [supposed]{supposed} to be here?"
+      ],
+      "id": "wait-a-minute-second__5"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [disagree]{disagree} with what someone is [saying]{saying} or [doing]{doing}, or that you [want_1]{want} them to [listen_1]{listen} to you",
+      "examples": [
+        "[wait_1]{Wait} a [minute_1]{minute}, that\u2019s not what I [said_1]{said}!"
+      ],
+      "id": "wait-a-minute-second__7"
+    }
+  ]
+}

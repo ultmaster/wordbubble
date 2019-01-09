@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [decoration]{decoration} or [piece_1]{piece} of [jewelry]{jewelry} that is not [expensive]{expensive}",
+      "entry": "bauble",
+      "id": "bauble#bauble__1"
+    },
+    {
+      "comment": "[fashionable]{fashionable} [jewelry]{jewelry} or [similar]{similar} [expensive]{expensive} [shiny]{shiny} [object_1]{objects}",
+      "entry": "bling",
+      "id": "bling_1#bling_1__1"
+    },
+    {
+      "comment": "a [series]{series} of [small_1]{small} [metal_1]{metal} [ring_1]{rings} [connected]{connected} to each other that is [worn_1]{worn} as a [decoration]{decoration}",
+      "entry": "chain",
+      "id": "chain_1#chain_1__4"
+    },
+    {
+      "comment": "[thing]{things} such as [jewelry]{jewelry} and [coin_1]{coins} that are made of [gold_1]{gold}",
+      "entry": "gold",
+      "id": "gold_1#gold_1__4"
+    },
+    {
+      "comment": "a [decoration]{decoration} that is made with [jewel]{jewels}",
+      "entry": "jewel",
+      "id": "jewel#jewel__3"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [jewelry]{jewelry}",
+      "entry": "jewellery",
+      "id": "jewellery#jewellery__2"
+    },
+    {
+      "comment": "objects that you wear as decoration. Types of jewelry are rings, which you wear on your finger, bracelets, which you wear on your wrist, and necklaces, which you wear around your neck",
+      "entry": "jewelry",
+      "id": "jewelry#jewelry__1"
+    },
+    {
+      "comment": "a [small_1]{small} [inexpensive]{inexpensive} [object_1]{object} such as a [toy_1]{toy} or [piece_1]{piece} of [jewelry]{jewelry}",
+      "entry": "novelty",
+      "id": "novelty#novelty__5"
+    },
+    {
+      "comment": "a collection of valuable things, especially jewels or gold and silver objects. In stories, treasure is often stored in a treasure chest  (=a large box)",
+      "entry": "treasure",
+      "id": "treasure_1#treasure_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [decoration]{decoration} that is not very [valuable]{valuable}, for [example]{example} a [small_1]{small} [piece_1]{piece} of [jewelry]{jewelry}",
+      "entry": "trinket",
+      "id": "trinket#trinket__1"
+    },
+    {
+      "comment": "an [uncut]{uncut} [jewel]{jewel} has not been [cut_1]{cut} into a [shape_1]{shape} for [making]{making} [jewelry]{jewelry}",
+      "entry": "uncut",
+      "id": "uncut#uncut__7"
+    }
+  ],
+  "thesaurus": "General words for jewels",
+  "type": "Related words"
+}

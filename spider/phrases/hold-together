@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "hold together",
+  "senses": [
+    {
+      "def": "to [remain]{remain} in one [piece_1]{piece} and not [break_1]{break} [apart]{apart}, or to [make_1]{make} something do this",
+      "examples": [
+        "The [pants]{pants} were [held]{held} together with a [safety]{safety} [pin_1]{pin}."
+      ],
+      "id": "hold-together__1"
+    },
+    {
+      "def": "to [stay_1]{stay} together and [continue]{continue} to have a [good_1]{good} [relationship]{relationship} in a [difficult]{difficult} [situation]{situation}",
+      "examples": [
+        "How can any [family_1]{family} [hold_1]{hold} together under these [circumstance]{circumstances}?",
+        "I was [trying]{trying} to [hold_1]{hold} my [marriage]{marriage} together."
+      ],
+      "id": "hold-together__3"
+    }
+  ]
+}

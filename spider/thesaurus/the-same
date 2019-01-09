@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [different]{different} [person]{person} or thing of the same [type_1]{type}",
+      "entry": "another",
+      "id": "another#another__8"
+    },
+    {
+      "comment": "the same in [value_1]{value}, amount, or [size_1]{size}",
+      "entry": "equal",
+      "id": "equal_1#equal_1__1"
+    },
+    {
+      "comment": "with the same [size_1]{size}, [value_1]{value}, [importance]{importance}, or [meaning_1]{meaning} as something else",
+      "entry": "equivalent",
+      "id": "equivalent_1#equivalent_1__1"
+    },
+    {
+      "comment": "[exactly]{exactly} the same",
+      "entry": "identical",
+      "id": "identical#identical__1"
+    },
+    {
+      "comment": "the same everywhere",
+      "entry": "uniform",
+      "id": "uniform_2#uniform_2__1"
+    },
+    {
+      "comment": "if two [thing]{things} are [interchangeable]{interchangeable}, you can put each one of them in the [place_1]{place} where the other was, or you can use one [instead]{instead} of the other, and the [effect_1]{effect} will be the same",
+      "entry": "interchangeable",
+      "id": "interchangeable#interchangeable__1"
+    },
+    {
+      "comment": "[contain]{containing} [statement_1]{statements} or [idea]{ideas} that are [similar]{similar} or that have the same [goal]{goal}",
+      "entry": "consistent",
+      "id": "consistent#consistent__7"
+    },
+    {
+      "comment": "[stay_1]{staying} at the same [level_1]{level}, [speed_1]{speed}, [value_1]{value}, etc.",
+      "entry": "steady",
+      "id": "steady_1#steady_1__10"
+    },
+    {
+      "comment": "[different]{different} [thing]{things} are [separate_1]{separate} [thing]{things} of the same [kind_1]{kind}",
+      "entry": "different",
+      "id": "different#different__10"
+    },
+    {
+      "comment": "[equal_1]{equal}, or into two [equal_1]{equal} [part_1]{parts}",
+      "entry": "fifty-fifty",
+      "id": "fifty-fifty#fifty-fifty__1"
+    }
+  ],
+  "thesaurus": "The same",
+  "type": "Synonyms"
+}

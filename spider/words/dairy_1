@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [company]{company} that [sell_1]{sells} [milk_1]{milk} and [make_1]{makes} and [sell_1]{sells} [food]{foods} that are made from [milk_1]{milk}, for [example]{example} [butter_1]{butter} and [cheese]{cheese}",
+      "examples": [],
+      "id": "dairy_1__1"
+    },
+    {
+      "def": "a [building]{building} on a [farm_1]{farm} where [milk_1]{milk} is [kept]{kept} and where [food]{foods} such as [butter_1]{butter} and [cheese]{cheese} are made",
+      "examples": [],
+      "id": "dairy_1__2"
+    },
+    {
+      "def": "dairy [product]{products}",
+      "examples": [
+        "The [doctor_1]{doctor} has [told]{told} me to [avoid]{avoid} dairy."
+      ],
+      "id": "dairy_1__3"
+    },
+    {
+      "def": "a [small_1]{small} [local_1]{local} [store_1]{store}",
+      "examples": [],
+      "id": "dairy_1__5"
+    }
+  ],
+  "word": "dairy"
+}

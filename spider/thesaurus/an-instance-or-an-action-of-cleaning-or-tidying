@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "the [action_1]{action} of [wipe_1]{wiping} something to [make_1]{make} it [clean_1]{clean}",
+      "entry": "wipe",
+      "id": "wipe_2#wipe_2__1"
+    },
+    {
+      "comment": "a [quick_1]{quick} [wash_1]{wash}, [especially]{especially} in [flowing]{flowing} [water_1]{water}",
+      "entry": "rinse",
+      "id": "rinse_2#rinse_2__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [rubbing]{rubbing} something with a [cloth]{cloth}, etc.",
+      "entry": "rub",
+      "id": "rub_2#rub_2__4"
+    },
+    {
+      "comment": "an [instance_1]{instance} of [making]{making} something [clean_1]{clean} or [neat]{neat} [use_1]{using} a [brush_1]{brush}",
+      "entry": "brush",
+      "id": "brush_1#brush_1__16"
+    },
+    {
+      "comment": "an [act_1]{act} of [sweeping]{sweeping} something",
+      "entry": "sweep",
+      "id": "sweep_2#sweep_2__11"
+    },
+    {
+      "comment": "an [act_1]{act} of [rubbing]{rubbing} an [object_1]{object} to [make_1]{make} it [shine_1]{shine}",
+      "entry": "polish",
+      "id": "polish_2#polish_2__3"
+    },
+    {
+      "comment": "a [thorough]{thorough} [wash_1]{wash} or [clean_1]{clean}",
+      "entry": "scrub",
+      "id": "scrub_2#scrub_2__2"
+    },
+    {
+      "comment": "a [process_1]{process} in which a [substance]{substance} is put on something, for [example]{example} in [order_1]{order} to [preserve_1]{preserve} or [clean_1]{clean} it",
+      "entry": "treatment",
+      "id": "treatment#treatment__14"
+    },
+    {
+      "comment": "the [process_1]{process} of [remove]{removing} [poison_1]{poisons} from a [substance]{substance}",
+      "entry": "detoxification",
+      "id": "detoxification#detoxification__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} something [clean_1]{clean} by [remove]{removing} [dirty_1]{dirty} or [harmful]{harmful} [substance]{substances} from it",
+      "entry": "purification",
+      "id": "purification#purification__1"
+    },
+    {
+      "comment": "the [process_1]{process} or [activity]{activity} of [get]{getting} [rid_1]{rid} of [thing]{things} you do not [need_1]{need} or [want_1]{want} from your [home_1]{home} or another [place_1]{place}",
+      "entry": "decluttering",
+      "id": "decluttering#decluttering__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you get [rid_1]{rid} of [thing]{things} you do not [need_1]{need} or [want_1]{want} from your [home_1]{home} or another [place_1]{place}",
+      "entry": "declutter",
+      "id": "declutter_2#declutter_2__1"
+    }
+  ],
+  "thesaurus": "An instance or an action of cleaning or tidying",
+  "type": "Synonyms"
+}

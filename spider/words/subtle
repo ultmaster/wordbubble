@@ -1,0 +1,38 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [obvious]{obvious}, and therefore [difficult]{difficult} to [notice_1]{notice}",
+      "examples": [
+        "a subtle [scent_1]{scent} of [lilac_1]{lilacs}",
+        "I [detect]{detected} a subtle [change_1]{change} in his [attitude]{attitude} toward us."
+      ],
+      "id": "subtle__1"
+    },
+    {
+      "def": "[indirect]{indirect} in a way that [prevent]{prevents} [people_1]{people} from [noticing]{noticing} what you are [trying]{trying} to do",
+      "examples": [
+        "He was being so subtle, I didn\u2019t [realize]{realize} he [like_2]{liked} me.",
+        "subtle [manipulation]{manipulation}"
+      ],
+      "id": "subtle__4"
+    },
+    {
+      "def": "[showing]{showing} an [ability_1]{ability} to [notice_1]{notice} and [understand]{understand} [small_1]{small} [thing]{things} that other [people_1]{people} do not",
+      "examples": [
+        "subtle [observation]{observations}",
+        "It\u2019s a subtle [argument]{argument}, but very [convincing]{convincing} when you [think_1]{think} about it."
+      ],
+      "id": "subtle__7"
+    },
+    {
+      "def": "[delicate]{delicate} and [complicated]{complicated} in an [attractive]{attractive} way",
+      "examples": [
+        "[intricate]{intricate} and subtle [pattern_1]{patterns}"
+      ],
+      "id": "subtle__10"
+    }
+  ],
+  "word": "subtle"
+}

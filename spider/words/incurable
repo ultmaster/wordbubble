@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [able_1]{able} to be [cure_2]{cured}",
+      "examples": [
+        "an incurable [illness]{illness}/[disease]{disease}"
+      ],
+      "id": "incurable__1"
+    },
+    {
+      "def": "not [able_1]{able} to be [changed]{changed}",
+      "examples": [
+        "an incurable [romantic_1]{romantic}"
+      ],
+      "id": "incurable__3"
+    }
+  ],
+  "word": "incurable"
+}

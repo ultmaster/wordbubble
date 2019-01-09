@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[poisonous]{poisonous} and [harmful]{harmful} to [people_1]{people}, [animal_1]{animals}, or the [environment]{environment}",
+      "examples": [
+        "[highly]{highly} toxic [industrial]{industrial} [chemical_1]{chemicals}"
+      ],
+      "id": "toxic__1"
+    },
+    {
+      "def": "[used]{used} to describe a [loan_1]{loan} or other [financial]{financial} [agreement]{agreement} which [cause_1]{causes} very serious [business]{business} [problem]{problems} for a [bank_1]{bank} or [financial]{financial} [organization]{organization}",
+      "examples": [
+        "toxic [debt]{debt}/[mortgage_1]{mortgages}"
+      ],
+      "id": "toxic__3"
+    },
+    {
+      "def": "[used]{used} about a [subject_1]{subject} on which [opinion]{opinion} is so [strongly]{strongly} [divided]{divided} that it is [hard_1]{hard} to have a [reasonable]{reasonable} [discussion]{discussion} about it",
+      "examples": [
+        "[base_2]{Based} on [research_1]{research}, we have [learned]{learned} that these are six of the most [common_1]{common} toxic [subject_1]{subjects} for [couple_1]{couples}.",
+        "the [increasingly]{increasingly} toxic [debate_1]{debate} around [welfare]{welfare}"
+      ],
+      "id": "toxic__5"
+    },
+    {
+      "def": "very [bad_1]{bad}, [unpleasant]{unpleasant} or [harmful]{harmful}",
+      "examples": [
+        "The [whatsapp]{WhatsApp} [message_1]{messages} [reveal_1]{revealed} a toxic [masculine_1]{masculine} [culture_1]{culture}."
+      ],
+      "id": "toxic__8"
+    }
+  ],
+  "word": "toxic"
+}

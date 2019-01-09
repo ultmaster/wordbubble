@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "sit out",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [doing]{doing} something for a [period_1]{period} of time",
+      "examples": [
+        "I\u2019m [tired]{tired}, so I [think_1]{think} I\u2019ll [sit]{sit} out the next [dance_1]{dance}."
+      ],
+      "id": "sit-out__1"
+    },
+    {
+      "def": "to [stay_1]{stay} until the [end_1]{end} of something, [especially]{especially} something [unpleasant]{unpleasant}",
+      "examples": [
+        "I [know_1]{know} it\u2019s [boring_1]{boring}, but we\u2019re [just_1]{just} [going_1]{going} to have to [sit]{sit} it out."
+      ],
+      "id": "sit-out__3"
+    }
+  ]
+}

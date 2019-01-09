@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a [place_1]{place} that is vacant is [available]{available}, because no one else is [use_1]{using} it",
+      "examples": [
+        "The [room_1]{room} on the first [floor_1]{floor} is vacant.",
+        "This [house_1]{house} has been vacant since [early_1]{early} [spring_1]{spring}.",
+        "The only vacant [seat_1]{seats} are on the [balcony]{balcony}."
+      ],
+      "id": "vacant__1"
+    },
+    {
+      "def": "if a [job_1]{job} is vacant, someone is [need_1]{needed} to do it",
+      "examples": [
+        "The [position_1]{position} has been vacant for several [month]{months} now.",
+        "an [election]{election} to fill 15 vacant [seat_1]{seats} in the [national_1]{National} [assembly]{Assembly}"
+      ],
+      "id": "vacant__5"
+    },
+    {
+      "def": "[look_1]{looking} as if you do not [understand]{understand} or are not [pay_1]{paying} [attention]{attention}",
+      "examples": [
+        "A vacant [expression]{expression} [settled]{settled} on his [face_1]{face}."
+      ],
+      "id": "vacant__8"
+    }
+  ],
+  "word": "vacant"
+}

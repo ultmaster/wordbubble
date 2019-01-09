@@ -1,0 +1,53 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "only one",
+      "examples": [
+        "We [ought]{ought} to be [able_1]{able} to [complete_1]{complete} the [work_1]{work} in a single [day]{day}.",
+        "The [envelope]{envelope} [contain]{contained} a single [sheet]{sheet} of [paper_1]{paper}."
+      ],
+      "id": "single_1__1"
+    },
+    {
+      "def": "not [married]{married}, or not in a [romantic_1]{romantic} [relationship]{relationship}",
+      "examples": [
+        "Please [state_1]{state} whether you are single, [married]{married}, or [divorced]{divorced}.",
+        "Are there no [attractive]{attractive} single [men]{men} [left_1]{left}?"
+      ],
+      "id": "single_1__4"
+    },
+    {
+      "def": "[design_2]{designed} for one [person]{person}, or [used]{used} by one [person]{person}",
+      "examples": [
+        "My first [year]{year} in [college]{college} I had a [roommate]{roommate}, but the [second_1]{second} [year]{year} I [got_1]{got} a single [room_1]{room}.",
+        "The [room_1]{room} has two single [bed_1]{beds}."
+      ],
+      "id": "single_1__7"
+    },
+    {
+      "def": "the same for everyone",
+      "examples": [
+        "We\u2019re [pay_1]{paying} a single [rate_1]{rate} for all [worker]{workers}, [experienced]{experienced} or [inexperienced]{inexperienced}."
+      ],
+      "id": "single_1__10"
+    },
+    {
+      "def": "[considered]{considered} [separate_1#separate_1__13]{separately}",
+      "examples": [
+        "[drug_1]{Drugs} are the single [big_1]{biggest} cause of [crime_1]{crime} here.",
+        "Do we have to [count_1]{count} every single [penny]{penny} we [spend]{spend}?",
+        "This is the [big_1]{biggest} single [issue_1]{issue} [facing]{facing} [old]{older} [people_1]{people}."
+      ],
+      "id": "single_1__12"
+    },
+    {
+      "def": "[one-way]{one-way}",
+      "examples": [
+        "I\u2019d [like_1]{like} a single [ticket_1]{ticket} to Dover."
+      ],
+      "id": "single_1__16"
+    }
+  ],
+  "word": "single"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [state_1]{state} of [feeling_1]{feeling} [sick_1]{sick} or of [have]{having} a [disease]{disease}",
+      "entry": "illness",
+      "id": "illness#illness__1"
+    },
+    {
+      "comment": "an [illness]{illness} that [affect_1]{affects} [people_1]{people} or [animal_1]{animals}, [especially]{especially} one that is [cause_2]{caused} by an [infection]{infection}",
+      "entry": "disease",
+      "id": "disease#disease__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which you have an [illness]{illness}",
+      "entry": "sickness",
+      "id": "sickness#sickness__1"
+    },
+    {
+      "comment": "a disease or other medical condition that is caused by bacteria or by a virus or a parasite",
+      "entry": "infection",
+      "id": "infection#infection__4"
+    },
+    {
+      "comment": "an [illness]{illness} or [medical_1]{medical} [condition_1]{condition}",
+      "entry": "disorder",
+      "id": "disorder#disorder__3"
+    },
+    {
+      "comment": "an [illness]{illness} or other [medical_1]{medical} [problem]{problem}",
+      "entry": "complaint",
+      "id": "complaint#complaint__11"
+    },
+    {
+      "comment": "an [illness]{illness} or [health]{health} [problem]{problem} that [last_2]{lasts} a long time and [affect_1]{affects} the way you [live_1]{live}",
+      "entry": "condition",
+      "id": "condition_1#condition_1__29"
+    },
+    {
+      "comment": "an [illness]{illness}, [usually]{usually} not a serious one",
+      "entry": "ailment",
+      "id": "ailment#ailment__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [disease]{disease} [spread_1]{spreads} very [quickly]{quickly} and [infect]{infects} many [people_1]{people}",
+      "entry": "epidemic",
+      "id": "epidemic_1#epidemic_1__1"
+    },
+    {
+      "comment": "a [disease]{disease} that can be [spread_1]{spread} from one [person]{person} to another through [touch_1]{touch} or through the [air_1]{air}",
+      "entry": "contagion",
+      "id": "contagion#contagion__2"
+    }
+  ],
+  "thesaurus": "General words for illnesses, diseases and medical conditions",
+  "type": "Synonyms"
+}

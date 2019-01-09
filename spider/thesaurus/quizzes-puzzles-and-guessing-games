@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [difficult]{difficult} [question_1]{question} or [problem]{problem} that you [try_1]{try} to [solve]{solve} for [fun_1]{fun}",
+      "entry": "brain teaser",
+      "id": "brain-teaser#brain-teaser__1"
+    },
+    {
+      "comment": "a [game_1]{game} in which you can use only [action_1]{actions} or [movement]{movements} to [help_1]{help} the other [player]{players} to [guess_1]{guess} a [word_1]{word} or [phrase_1]{phrase}",
+      "entry": "charades",
+      "id": "charades#charades__1"
+    },
+    {
+      "comment": "a word or phrase provided to help you find an answer in a crossword",
+      "entry": "clue",
+      "id": "clue_1#clue_1__8"
+    },
+    {
+      "comment": "a word game on paper, in which the answers to questions called clues are written in rows of squares that cross each other so that some letters are shared",
+      "entry": "crossword",
+      "id": "crossword#crossword__1"
+    },
+    {
+      "comment": "a [word_1]{word} [game_1]{game} in which one [player]{player} has a [limited]{limited} [number_1]{number} of [chance_1]{chances} to [guess_1]{guess} the other [player]{player}\u2019s [word_1]{word}",
+      "entry": "hangman",
+      "id": "hangman#hangman__2"
+    },
+    {
+      "comment": "a [picture_1]{picture} made of a [lot_1]{lot} of [small_1]{small} [piece_1]{pieces} that you have to [fit_1]{fit} together",
+      "entry": "jigsaw",
+      "id": "jigsaw#jigsaw__1"
+    },
+    {
+      "comment": "the [game_1]{game} of [tic-tac-toe]{tic-tac-toe}",
+      "entry": "noughts and crosses",
+      "id": "noughts-and-crosses#noughts-and-crosses__1"
+    },
+    {
+      "comment": "a [game_1]{game} [consist]{consisting} of many [piece_1]{pieces} that you have to [fit_1]{fit} together [correctly]{correctly}",
+      "entry": "puzzle",
+      "id": "puzzle_1#puzzle_1__3"
+    },
+    {
+      "comment": "a [game_1]{game} [consist]{consisting} of a [set_1]{set} of [question_1]{questions} that you have to [answer_1]{answer} by [thinking_1]{thinking} [careful#careful__20]{carefully}",
+      "entry": "puzzle",
+      "id": "puzzle_1#puzzle_1__5"
+    },
+    {
+      "comment": "a [competition]{competition} in which you [answer_1]{answer} [question_1]{questions}",
+      "entry": "quiz",
+      "id": "quiz_1#quiz_1__1"
+    },
+    {
+      "comment": "someone who [ask_1]{asks} the [question_1]{questions} in a [quiz_1]{quiz}",
+      "entry": "quizmaster",
+      "id": "quizmaster#quizmaster__1"
+    },
+    {
+      "comment": "the answer to a question in a puzzle, crossword, etc.",
+      "entry": "solution",
+      "id": "solution#solution__7"
+    },
+    {
+      "comment": "to find the answer to a question in a puzzle, crossword, etc.",
+      "entry": "solve",
+      "id": "solve#solve__7"
+    },
+    {
+      "comment": "a number game in which you fill a square of 81 smaller squares with the numbers 1 to 9 so that each row, column, and square of 9 squares contains each number only once",
+      "entry": "sudoku",
+      "id": "sudoku#sudoku__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [tic-tac-toe]{tic-tac-toe}",
+      "entry": "tick-tack-toe",
+      "id": "tick-tack-toe#tick-tack-toe__1"
+    },
+    {
+      "comment": "a [game_1]{game} in which two [player]{players} take [turn_1]{turns} to [draw_1]{draw} an X or an O on a [paper_1]{paper} [marked]{marked} with [square_1]{squares}. The [player]{player} who [draw_1]{draws} a [line_1]{line} of three X\u2019s or three O\u2019s [win_1]{wins}.",
+      "entry": "tic-tac-toe",
+      "id": "tic-tac-toe#tic-tac-toe__1"
+    },
+    {
+      "comment": "an extra question asked at the end of a quiz to decide who will win when two players have the same number of points",
+      "entry": "tiebreaker",
+      "id": "tiebreaker#tiebreaker__2"
+    }
+  ],
+  "thesaurus": "Quizzes, puzzles and guessing games",
+  "type": "Related words"
+}

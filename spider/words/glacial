@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[extremely]{extremely} [cold_1]{cold}",
+      "examples": [
+        "a glacial [wind_1]{wind}"
+      ],
+      "id": "glacial__1"
+    },
+    {
+      "def": "[showing]{showing} that you are [angry]{angry} or [unfriendly]{unfriendly}",
+      "examples": [
+        "She [gave]{gave} him a glacial [look_1]{look}."
+      ],
+      "id": "glacial__3"
+    },
+    {
+      "def": "[extremely]{extremely} [slow_1]{slow}",
+      "examples": [
+        "The [plot_1]{plot} [move_1]{moves} at a glacial [pace_1]{pace}."
+      ],
+      "id": "glacial__5"
+    },
+    {
+      "def": "[create]{created} by [glacier]{glaciers} [million#million__2]{millions} of [year]{years} [ago]{ago}",
+      "examples": [
+        "a glacial [lake]{lake}"
+      ],
+      "id": "glacial__7"
+    }
+  ],
+  "word": "glacial"
+}

@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "American [standard_1]{Standard} [code_1]{Code} for [information]{Information} [interchange_1]{Interchange}: a system for [change_1]{changing} computer [information]{information} into [number_1]{numbers}, so that [different]{different} [type_1]{types} of [computer]{computers} and [software]{software} can [exchange_1]{exchange} [information]{information}",
+      "entry": "ASCII",
+      "id": "ascii#ascii__1"
+    },
+    {
+      "comment": "a computer [language]{language} that [consist]{consists} of [symbol]{symbols}, [used]{used} for [writing]{writing} computer [program_1]{programs}",
+      "entry": "assembly language",
+      "id": "assembly-language#assembly-language__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [language]{language} for [writing]{writing} computer [program_1]{programs}",
+      "entry": "BASIC",
+      "id": "basic_2#basic_2__1"
+    },
+    {
+      "comment": "a system in which [information]{information} is [represent]{represented} [use_1]{using} [combination]{combinations} of the [number_1]{numbers} 0 and 1, [used]{used} [especially]{especially} in [computer]{computers}",
+      "entry": "binary system",
+      "id": "binary-system#binary-system__1"
+    },
+    {
+      "comment": "[common_1]{Common} Business-Oriented [language]{Language}: a computer [language]{language} [used]{used} for [writing]{writing} [program_1]{programs}, [especially]{especially} for [business]{business}",
+      "entry": "COBOL",
+      "id": "cobol#cobol__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [instruction]{instructions} that a computer can [understand]{understand}",
+      "entry": "code",
+      "id": "code_1#code_1__15"
+    },
+    {
+      "comment": "a way of [use_1]{using} [word_1]{words} or [letter_1]{letters} to give a computer [instruction]{instructions}, [instead]{instead} of [use_1]{using} a [mouse_1]{mouse} or computer [language]{language}",
+      "entry": "command line",
+      "id": "command-line#command-line__1"
+    },
+    {
+      "comment": "[hypertext]{hypertext} [markup]{markup} [language]{language}: the computer [language]{language} [used]{used} for [writing]{writing} [page_1]{pages} on the [internet]{Internet}",
+      "entry": "HTML",
+      "id": "html#html__1"
+    },
+    {
+      "comment": "a computer programming language that allows computer software to be used on any kind of computer, and allows all computers to communicate with each other, for example through the Internet",
+      "entry": "Java",
+      "id": "java_2#java_2__1"
+    },
+    {
+      "comment": "a system of [instruction]{instructions} [used]{used} to [program_1]{program} a computer",
+      "entry": "language",
+      "id": "language#language__18"
+    },
+    {
+      "comment": "a [series]{series} of [instruction]{instructions} [written_1]{written} in a form that a computer can read and [understand]{understand}",
+      "entry": "machine code",
+      "id": "machine-code#machine-code__1"
+    },
+    {
+      "comment": "[machine_1]{machine} [code_1]{code}",
+      "entry": "machine language",
+      "id": "machine-language#machine-language__1"
+    },
+    {
+      "comment": "a system of instructions that are added to documents in the form of codes to tell a computer how to print or organize the information",
+      "entry": "markup language",
+      "id": "markup-language#markup-language__1"
+    },
+    {
+      "comment": "a [high-level]{high-level} [language]{language} [used]{used} for [writing]{writing} computer [program_1]{programs}",
+      "entry": "Pascal",
+      "id": "pascal#pascal__1"
+    },
+    {
+      "comment": "a [language]{language} [used]{used} for [writing]{writing} computer [program_1]{programs}",
+      "entry": "perl",
+      "id": "perl#perl__1"
+    },
+    {
+      "comment": "the [activity]{activity} or [job_1]{job} of [writing]{writing} and [developing]{developing} computer [program_1]{programs}",
+      "entry": "programming",
+      "id": "programming#programming__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [word_1]{words} and [rule_1]{rules} for [writing]{writing} computer [program_1]{programs}",
+      "entry": "programming language",
+      "id": "programming-language#programming-language__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [instruction]{instructions} that a computer [obey]{obeys}",
+      "entry": "routine",
+      "id": "routine_1#routine_1__9"
+    },
+    {
+      "comment": "[standard_1]{Standard} [generalized]{Generalized} [markup]{Markup} [language]{Language}: an [early_1]{early} [markup]{markup} [language]{language} that several other [markup]{markup} [language]{languages} have [developed]{developed} from",
+      "entry": "SGML",
+      "id": "sgml#sgml__1"
+    },
+    {
+      "comment": "[rule_1]{rules} about the ways in which computer [language]{languages} can be [used]{used} to [make_1]{make} [program_1]{programs}",
+      "entry": "syntax",
+      "id": "syntax#syntax__2"
+    },
+    {
+      "comment": "Extensible [markup]{Markup} [language]{Language}: a [markup]{markup} [language]{language} that [allow]{allows} [information]{information} to be [share_1]{shared} between [different]{different} computer [system]{systems}, [especially]{especially} on the [internet]{Internet}",
+      "entry": "XML",
+      "id": "xml#xml__1"
+    }
+  ],
+  "thesaurus": "Programming and programming languages",
+  "type": "Related words"
+}

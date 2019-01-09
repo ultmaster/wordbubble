@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "I wish",
+  "senses": [
+    {
+      "def": "[used]{used} when [telling]{telling} someone what you [want_1]{want} them to do",
+      "examples": [
+        "I [wish_1]{wish} you\u2019d [stop_1]{stop} [talk_1]{talking} about all your [problem]{problems}!"
+      ],
+      "id": "i-wish__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something is not [true_1]{true}, although you would be [pleased]{pleased} if it were [true_1]{true}",
+      "examples": [
+        "\u201c[did]{Did} she give you some [money]{money}?\u201d \u201cI [wish_1]{wish}!\u201d"
+      ],
+      "id": "i-wish__3"
+    }
+  ]
+}

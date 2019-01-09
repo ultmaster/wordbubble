@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "break ranks",
+  "senses": [
+    {
+      "def": "if [soldier_1]{soldiers} or [police_1]{police} [officer]{officers} [break_1]{break} [rank_1]{ranks}, they [stop_1]{stop} [standing_1]{standing} in [lines]{lines} and move [away_1]{away}",
+      "examples": [],
+      "id": "break-ranks__1"
+    },
+    {
+      "def": "if a [member]{member} of a [group_1]{group} [break_1]{breaks} [rank_1]{ranks}, they [disagree]{disagree} [publicly]{publicly} with the rest of the [group_1]{group}",
+      "examples": [
+        "Toricelli [anger_2]{angered} [fellow_1]{fellow} [democrat_1]{Democrats} by [b-boying]{breaking} [rank_1]{ranks} with the [leadership]{leadership}."
+      ],
+      "id": "break-ranks__2"
+    }
+  ]
+}

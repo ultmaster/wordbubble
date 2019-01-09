@@ -1,0 +1,26 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "done or [happening_1]{happening} every [day]{day}",
+      "examples": [
+        "She is in daily [contact_1]{contact} with her [mother_1]{mother}.",
+        "The [information]{information} is [update_1]{updated} on a daily [basis]{basis}."
+      ],
+      "id": "daily_1__1"
+    },
+    {
+      "def": "a daily [newspaper]{newspaper} is [publish]{published} every [day]{day}",
+      "examples": [],
+      "id": "daily_1__4"
+    },
+    {
+      "def": "a daily amount or [rate_1]{rate} is the amount or [rate_1]{rate} for one [day]{day}",
+      "examples": [
+        "Her daily [wage_1]{wages} [barely]{barely} [covered_1]{covered} her [travel_1]{travel} [cost_1]{costs}."
+      ],
+      "id": "daily_1__5"
+    }
+  ],
+  "word": "daily"
+}

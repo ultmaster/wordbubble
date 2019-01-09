@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "barren [land_1]{land} is [dry_1]{dry} and [plant_1]{plants} cannot [grow]{grow} there",
+      "examples": [
+        "a [remote_1]{remote} and barren [island]{island}"
+      ],
+      "id": "barren__1"
+    },
+    {
+      "def": "without any [interesting]{interesting} or [positive_1]{positive} [feature_1]{features}",
+      "examples": [
+        "a [cultural#cultural__9]{culturally} barren [small_1]{small} [town]{town}",
+        "After 15 barren [year]{years}, the [club_1]{club} had at last [won]{won} a [major_1]{major} [trophy_1]{trophy}."
+      ],
+      "id": "barren__5"
+    },
+    {
+      "def": "a [woman]{woman} who is barren cannot have [baby_1]{babies}",
+      "examples": [],
+      "id": "barren__9"
+    }
+  ],
+  "word": "barren"
+}

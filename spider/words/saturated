@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "very [wet_1]{wet}",
+      "examples": [
+        "After a [night_1]{night} in the [rain_1]{rain} the [clothes]{clothes} were saturated.",
+        "His [shirt]{shirt} was saturated with [sweat_1]{sweat}."
+      ],
+      "id": "saturated__1"
+    },
+    {
+      "def": "[completely]{completely} [fill_1]{filled} with [thing]{things} or [people_1]{people}",
+      "examples": [
+        "The [camp_1]{camps} are [completely]{completely} saturated with [refugee]{refugees}."
+      ],
+      "id": "saturated__4"
+    },
+    {
+      "def": "a [chemical_1]{chemical} [solution]{solution} that is saturated has as much of a [solid_1]{solid} [substance]{substance} as [possible_1]{possible} [mixed]{mixed} in it as part of the [liquid_1]{liquid}",
+      "examples": [],
+      "id": "saturated__6"
+    }
+  ],
+  "word": "saturated"
+}

@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[helping]{helping} to [treat_1]{treat} or [cure_1]{cure} [illness]{illness}",
+      "examples": [
+        "[scientist]{Scientists} [want_1]{want} to [investigate]{investigate} the therapeutic [effect_1]{effects} of [acupuncture]{acupuncture}.",
+        "a therapeutic [treatment]{treatment}/[drug_1]{drug}"
+      ],
+      "id": "therapeutic__1"
+    },
+    {
+      "def": "an [activity]{activity} that is therapeutic [make_1]{makes} you [feel_1]{feel} [better_1]{better} or [calm_1]{calmer}",
+      "examples": [
+        "I find [cleaning]{cleaning} the [house_1]{house} can be very therapeutic."
+      ],
+      "id": "therapeutic__4"
+    }
+  ],
+  "word": "therapeutic"
+}

@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [board_1]{board} with [switch_1]{switches} or [buttons]{buttons} that [control_1]{controls} a [machine_1]{machine} or a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment}",
+      "entry": "console",
+      "id": "console_2#console_2__1"
+    },
+    {
+      "comment": "a [button_1]{button} or [switch_1]{switch} that [make_1]{makes} a [machine_1]{machine} do something",
+      "entry": "controls",
+      "id": "control_1#control_1__23"
+    },
+    {
+      "comment": "a round [control_1]{control} on a [piece_1]{piece} of [equipment]{equipment} that you [turn_1]{turn} to [change_1]{change} something such as the [temperature]{temperature} or [sound_1]{sound}",
+      "entry": "dial",
+      "id": "dial_2#dial_2__1"
+    },
+    {
+      "comment": "a [button_1]{button} on a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} that you [press_1]{press} to [make_1]{make} a [recording]{recording} go [forward_1]{forward} [quickly]{quickly}",
+      "entry": "fast forward",
+      "id": "fast-forward_1#fast-forward_1__1"
+    },
+    {
+      "comment": "a [switch_1]{switch} that [enable]{enables} a [device]{device} to be [shut_1]{shut} off from a [distance_1]{distance}",
+      "entry": "kill switch",
+      "id": "kill-switch#kill-switch__3"
+    },
+    {
+      "comment": "a round [switch_1]{switch} on a [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "knob",
+      "id": "knob#knob__2"
+    },
+    {
+      "comment": "a long [handle_1]{handle} that you [pull_1]{pull} or [push_1]{push} to [operate]{operate} a [machine_1]{machine}",
+      "entry": "lever",
+      "id": "lever_1#lever_1__1"
+    },
+    {
+      "comment": "a [switch_1]{switch} that [control_1]{controls} the [supply_1]{supply} of [electricity]{electricity} to a [place_1]{place} or to a [set_1]{set} of [machine_1]{machines}",
+      "entry": "master switch",
+      "id": "master-switch#master-switch__1"
+    },
+    {
+      "comment": "the part of a [vehicle]{vehicle} or [machine_1]{machine} where the [switch_1]{switches} and other [instrument]{instruments} are found",
+      "entry": "panel",
+      "id": "panel_1#panel_1__10"
+    },
+    {
+      "comment": "a [button_1]{button} that [stop_1]{stops} a CD, DVD, [game_1]{game}, etc. and [start_1]{starts} it again at the same [point_1]{point}",
+      "entry": "pause",
+      "id": "pause_2#pause_2__6"
+    },
+    {
+      "comment": "a part on a [piece_1]{piece} of [equipment]{equipment} that you [push_1]{push} or [pull_1]{pull} to [release_1]{release} it",
+      "entry": "release",
+      "id": "release_2#release_2__18"
+    },
+    {
+      "comment": "the button you use to rewind a video or a cassette tape",
+      "entry": "rewind",
+      "id": "rewind_2#rewind_2__1"
+    },
+    {
+      "comment": "the part of a [gun_1]{gun} that [stop_1]{stops} you from [accidentally]{accidentally} [shooting]{shooting} it",
+      "entry": "safety",
+      "id": "safety#safety__21"
+    },
+    {
+      "comment": "the part of a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} that [prevent]{prevents} it from [start_1]{starting}, [working]{working}, or [opening_1]{opening} [accidentally]{accidentally}",
+      "entry": "safety catch",
+      "id": "safety-catch#safety-catch__2"
+    },
+    {
+      "comment": "a part of a [piece_1]{piece} of [equipment]{equipment} that [allow]{allows} [gas_1]{gas}, [air_1]{air}, or [liquid_1]{liquid} to [escape_1]{escape} when there is too much [pressure_1]{pressure} [inside_1]{inside}",
+      "entry": "safety valve",
+      "id": "safety-valve#safety-valve__1"
+    },
+    {
+      "comment": "something such as a [button_1]{button} or a [key_1]{key} that [control_1]{controls} the [electrical_1]{electrical} [supply_1]{supply} to a [light_1]{light}, [piece_1]{piece} of [equipment]{equipment}, [machine_1]{machine}, etc.",
+      "entry": "switch",
+      "id": "switch_2#switch_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [machine_1]{machine} [start_1]{start} or [stop_1]{stop} [working]{working} at a time that you have [chosen_1]{chosen}",
+      "entry": "time switch",
+      "id": "time-switch#time-switch__1"
+    },
+    {
+      "comment": "a [switch_1]{switch} [used]{used} for [turning]{turning} an [electricity]{electricity} [supply_1]{supply} on or off",
+      "entry": "toggle switch",
+      "id": "toggle-switch#toggle-switch__1"
+    },
+    {
+      "comment": "the part of something such as a radio or stereo that controls the higher sounds",
+      "entry": "treble",
+      "id": "treble_1#treble_1__2"
+    }
+  ],
+  "thesaurus": "Knobs and switches on machinery and equipment",
+  "type": "Related words"
+}

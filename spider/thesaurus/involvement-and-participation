@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "the [act_1]{act} of [take_1]{taking} part in an [activity]{activity}, [event]{event}, or [situation]{situation}",
+      "entry": "involvement",
+      "id": "involvement#involvement__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [take_1]{taking} part in something",
+      "entry": "participation",
+      "id": "participation#participation__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone becomes [involved]{involved} in a [particular_1]{particular} [issue_1]{issue}, [problem]{problem}, etc. in [order_1]{order} to [influence_1]{influence} what [happen]{happens}",
+      "entry": "intervention",
+      "id": "intervention#intervention__1"
+    },
+    {
+      "comment": "the [degree]{degree} to which you are [involved]{involved} in something and [want_1]{want} it to [succeed]{succeed}",
+      "entry": "stake",
+      "id": "stake_1#stake_1__12"
+    },
+    {
+      "comment": "the [process_1]{process} of becoming [involved]{involved} in a [situation]{situation}",
+      "entry": "entry",
+      "id": "entry#entry__1"
+    },
+    {
+      "comment": "the way in which someone is [involved]{involved} in an [activity]{activity} or [event]{event} and the [effect_1]{effect} they have on what [happen]{happens}",
+      "entry": "part",
+      "id": "part_1#part_1__33"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} of being [involved]{involved} in a [particular_1]{particular} [activity]{activity}",
+      "entry": "engagement",
+      "id": "engagement#engagement__13"
+    },
+    {
+      "comment": "the [process_1]{process} of [deliberately]{deliberately} becoming [involved]{involved} in a [situation]{situation} and [trying]{trying} to [influence_1]{influence} the way that it [develop]{develops}, although you have no [right_1]{right} to do this",
+      "entry": "interference",
+      "id": "interference#interference__1"
+    },
+    {
+      "comment": "the [act_1]{act} of becoming [involved]{involved} in something in a way that is not [welcome_1]{welcome}",
+      "entry": "intrusion",
+      "id": "intrusion#intrusion__3"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone is [deliberately]{deliberately} [prevent]{prevented} from being [involved]{involved} in an [activity]{activity} or from [enter]{entering} a [place_1]{place}",
+      "entry": "exclusion",
+      "id": "exclusion#exclusion__1"
+    },
+    {
+      "comment": "a [policy]{policy} or [practice_1]{practice} that [deliberately]{deliberately} [attempt_1]{attempts} to [involve]{involve} all [type_1]{types} of [people_1]{people}",
+      "entry": "inclusivity",
+      "id": "inclusivity#inclusivity__1"
+    },
+    {
+      "comment": "a [person]{person} or [organization]{organization} that [take_1]{takes} part in a [situation]{situation} or [process_1]{process}",
+      "entry": "actor",
+      "id": "actor#actor__2"
+    }
+  ],
+  "thesaurus": "Involvement and participation",
+  "type": "Synonyms"
+}

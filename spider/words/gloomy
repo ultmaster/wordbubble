@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[feeling_1]{feeling} [sad_1]{sad} and without [hope_1]{hope}",
+      "examples": [
+        "He became very gloomy and [depressed]{depressed}."
+      ],
+      "id": "gloomy__1"
+    },
+    {
+      "def": "[showing]{showing} that [thing]{things} are not [going_1]{going} well and will [probably]{probably} not go well in the [future_1]{future}",
+      "examples": [
+        "gloomy [prospect_1]{prospects}",
+        "The [economic]{economic} [news]{news} is gloomy."
+      ],
+      "id": "gloomy__3"
+    },
+    {
+      "def": "[dark_1]{dark} in a way that [make_1]{makes} you [feel_1]{feel} [sad_1]{sad} or a [little_1]{little} [afraid]{afraid}",
+      "examples": [
+        "gloomy [weather_1]{weather}",
+        "a gloomy [old]{old} [library]{library}"
+      ],
+      "id": "gloomy__6"
+    }
+  ],
+  "word": "gloomy"
+}

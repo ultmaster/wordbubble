@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "on hold",
+  "senses": [
+    {
+      "def": "if something is on [hold_1]{hold}, you have [stop_1]{stopped} it from [happening_1]{happening} now, but it may [happen]{happen} [later_1]{later}",
+      "examples": [
+        "After the [accident]{accident} her [career_1]{career} had to be put on [hold_1]{hold}."
+      ],
+      "id": "on-hold__1"
+    },
+    {
+      "def": "[wait_1]{waiting} to [speak_1]{speak} to someone on the [telephone_1]{telephone}, after your call has been [answer_1]{answered}",
+      "examples": [
+        "They\u2019ve put me on [hold_1]{hold}."
+      ],
+      "id": "on-hold__3"
+    }
+  ]
+}

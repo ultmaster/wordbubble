@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "do you want something?",
+  "senses": [
+    {
+      "def": "[used]{used} for [offering]{offering} something to someone, or for [ask_1]{asking} them if they would [like_1]{like} to do something",
+      "examples": [
+        "Do you [want_1]{want} a [cup_1]{cup} of [coffee]{coffee}?"
+      ],
+      "id": "do-you-want-something__1"
+    },
+    {
+      "def": "[used]{used} for [threatening]{threatening} someone with something",
+      "examples": [
+        "Do you [want_1]{want} a [slap_1]{slap}?",
+        "Do you [want_1]{want} me to call the [police_1]{police}?"
+      ],
+      "id": "do-you-want-something__3"
+    }
+  ]
+}

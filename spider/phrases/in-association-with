@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in association with",
+  "senses": [
+    {
+      "def": "with the [help_1]{help} of a [person]{person} or [organization]{organization}",
+      "examples": [
+        "The [exhibition]{exhibition} was [organized]{organized} by the [school_1]{school} in [association]{association} with [local_1]{local} [artist]{artists}."
+      ],
+      "id": "in-association-with__1"
+    },
+    {
+      "def": "if one thing [happen]{happens} or [exist]{exists} in [association]{association} with another, they [happen]{happen} or [exist]{exist} together",
+      "examples": [
+        "These [ancient]{ancient} [tool_1]{tools} are often found in [association]{association} with [broken_1]{broken} [animal_1]{animal} [bone_1]{bones}."
+      ],
+      "id": "in-association-with__3"
+    }
+  ]
+}

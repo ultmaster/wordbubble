@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "start on",
+  "senses": [
+    {
+      "def": "to [begin]{begin} to [criticize]{criticize} or [complain]{complain} about someone or something",
+      "examples": [
+        "She [start_1]{started} on about this [dog_1]{dog} [barking-mad]{barking} in the [street_1]{street}.",
+        "Don\u2019t [start_1]{start} on me!"
+      ],
+      "id": "start-on__1"
+    },
+    {
+      "def": "to [begin]{begin} [working]{working} on something or [dealing]{dealing} with something",
+      "examples": [
+        "We could have [breakfast_1]{breakfast} before we [start_1]{start} on the [painting]{painting}.",
+        "She ate all the [cake]{cakes}, then [start_1]{started} on the [chocolate]{chocolates}."
+      ],
+      "id": "start-on__4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "force down",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something become [lower_1]{lower}",
+      "examples": [
+        "[tough_1]{Tough} [competition]{competition} is [force_2]{forcing} down [price_1]{prices}."
+      ],
+      "id": "force-down__1"
+    },
+    {
+      "def": "to [eat]{eat} or [drink_1]{drink} something even though you do not [want_1]{want} to",
+      "examples": [
+        "I [managed]{managed} to [force_1]{force} down a [sandwich_1]{sandwich}."
+      ],
+      "id": "force-down__3"
+    },
+    {
+      "def": "to [force_1]{force} an [airplane]{airplane} to [land_1]{land}",
+      "examples": [],
+      "id": "force-down__5"
+    }
+  ]
+}

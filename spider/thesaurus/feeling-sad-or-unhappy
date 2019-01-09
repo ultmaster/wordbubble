@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[feeling_1]{feeling} [unhappy]{unhappy}, [especially]{especially} because something [bad_1]{bad} has [happen]{happened}",
+      "entry": "sad",
+      "id": "sad_1#sad_1__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [sad_1]{sad} or [upset_1]{upset}",
+      "entry": "unhappy",
+      "id": "unhappy#unhappy__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [sad_1]{sad} and without [hope_1]{hope}",
+      "entry": "gloomy",
+      "id": "gloomy#gloomy__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [unhappy]{unhappy} or [uncomfortable]{uncomfortable}",
+      "entry": "miserable",
+      "id": "miserable#miserable__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} or [look_1]{looking} [sad_1]{sad} and without [hope_1]{hope}, or [making]{making} you [feel_1]{feel} [sad_1]{sad} and without [hope_1]{hope}",
+      "entry": "melancholy",
+      "id": "melancholy_2#melancholy_2__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling}, [express_1]{expressing}, or [cause_2]{causing} [great_1]{great} [sadness]{sadness}",
+      "entry": "sorrowful",
+      "id": "sorrowful#sorrowful__1"
+    },
+    {
+      "comment": "[quiet_1]{quiet} and [slightly]{slightly} [sad_1]{sad} or [worried]{worried}",
+      "entry": "subdued",
+      "id": "subdued#subdued__1"
+    },
+    {
+      "comment": "without any [reason_1]{reasons} to [feel_1]{feel} [happy_1]{happy} or [hopeful_1]{hopeful}",
+      "entry": "bleak",
+      "id": "bleak#bleak__1"
+    },
+    {
+      "comment": "[slightly]{slightly} [sad_1]{sad} because you [want_1]{want} to have or to do something",
+      "entry": "wistful",
+      "id": "wistful#wistful__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [sad_1]{sad} and alone because you are [far]{far} from [home_1]{home}",
+      "entry": "homesick",
+      "id": "homesick#homesick__1"
+    }
+  ],
+  "thesaurus": "Feeling sad or unhappy",
+  "type": "Synonyms"
+}

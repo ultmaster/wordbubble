@@ -1,0 +1,661 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to give you something or do something for you",
+      "entry": "any chance of...?",
+      "id": "any-chance-of#any-chance-of__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone if they were [able_1]{able} to get or do something",
+      "entry": "any luck?",
+      "id": "any-luck#any-luck__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone if they [want_1]{want} anything",
+      "entry": "any requests?",
+      "id": "any-requests#any-requests__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} about the [real_1]{real} [reason_1]{reason} for something",
+      "entry": "anyway",
+      "id": "anyway#anyway__17"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone what they are [thinking_1]{thinking} about",
+      "entry": "a penny for your thoughts",
+      "id": "a-penny-for-your-thoughts#a-penny-for-your-thoughts__1"
+    },
+    {
+      "comment": "[used]{used} when you are [ask_1]{asking} [question_1]{questions} to find out whether something is [true_1]{true}",
+      "entry": "by any chance",
+      "id": "by-any-chance#by-any-chance__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} what someone else has [said_1]{said} [use_1]{using} [different]{different} [word_1]{words}, as a way of [ask_1]{asking} them if you have [understood]{understood} it [correctly]{correctly}",
+      "entry": "(do) you mean...?",
+      "id": "do-you-mean#do-you-mean__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone [politely]{politely} to do something",
+      "entry": "do you think...?",
+      "id": "do-you-think#do-you-think__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone\u2019s [opinion]{opinion}",
+      "entry": "do you think...?",
+      "id": "do-you-think#do-you-think__3"
+    },
+    {
+      "comment": "[used]{used} for [politely]{politely} [ask_1]{asking} someone to move so that you can get [past_1]{past} them",
+      "entry": "excuse me",
+      "id": "excuse-me#excuse-me__7"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} [people_1]{people} to [tell_1]{tell} you if they [want_1]{want} something",
+      "entry": "hands up",
+      "id": "hands-up#hands-up__3"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} [people_1]{people} to [tell_1]{tell} you if they [know_1]{know} the [answer_1]{answer} to a [question_1]{question}",
+      "entry": "hands up",
+      "id": "hands-up#hands-up__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} something [politely]{politely}",
+      "entry": "happen to do something",
+      "id": "happen-to-do-something#happen-to-do-something__3"
+    },
+    {
+      "comment": "[used]{used} when someone [does]{does} not [speak_1]{speak} when you [expect]{expect} them to",
+      "entry": "(has the) cat got your tongue?",
+      "id": "has-the-cat-got-your-tongue#has-the-cat-got-your-tongue__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [talk_1]{talking} about the [method]{method} of [doing]{doing} something",
+      "entry": "how",
+      "id": "how#how__2"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [talk_1]{talking} about the way that someone [behave]{behaves} or the way that something [happen]{happens}",
+      "entry": "how",
+      "id": "how#how__8"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [talk_1]{talking} about the way in which one thing is [different]{different} from or [similar]{similar} to another",
+      "entry": "how",
+      "id": "how#how__11"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [talk_1]{talking} about the way that someone or something [look_1]{looks} or [sound_1]{sounds}",
+      "entry": "how",
+      "id": "how#how__16"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [saying]{saying} what [quantity]{quantity}, [distance_1]{distance}, [age_1]{age}, etc. something is, or to what [degree]{degree} something is [true_1]{true}",
+      "entry": "how",
+      "id": "how#how__21"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what someone [think_1]{thinks} about an [experience_1]{experience}",
+      "entry": "how",
+      "id": "how#how__27"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} about another [aspect]{aspect} of the [situation]{situation} that you have [start_1]{started} to [discuss]{discuss}",
+      "entry": "how about...?",
+      "id": "how-about#how-about__8"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} about another [person]{person} or thing, in [addition]{addition} to the ones that have already been [mention_1]{mentioned}",
+      "entry": "how about...?",
+      "id": "how-about#how-about__5"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone about their [progress_1]{progress} or their [general_1]{general} [situation]{situation}",
+      "entry": "how are things/how\u2019s it going/how are you doing?",
+      "id": "how-are-things-how-s-it-going-how-are-you-doing#how-are-things-how-s-it-going-how-are-you-doing__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} whether someone can do something",
+      "entry": "how are you placed for doing something?",
+      "id": "how-are-you-placed-for-doing-something#how-are-you-placed-for-doing-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} whether someone has enough of something",
+      "entry": "how are you placed for something?",
+      "id": "how-are-you-placed-for-something#how-are-you-placed-for-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone for their [opinion]{opinion} or their [reaction]{reaction} to something",
+      "entry": "how do you like...?",
+      "id": "how-do-you-like#how-do-you-like__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [explain]{explain} what they have [just_1]{just} [said_1]{said} by [give_1]{giving} you more [detail_1]{details}",
+      "entry": "how do you mean?",
+      "id": "how-do-you-mean#how-do-you-mean__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} about someone\u2019s [health]{health}",
+      "entry": "how is someone (doing)?",
+      "id": "how-is-someone-doing#how-is-someone-doing__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [talk_1]{talking} about the [number_1]{number} of [people_1]{people}, [thing]{things}, etc. that there are",
+      "entry": "how many",
+      "id": "how-many#how-many__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [saying]{saying} what the amount of something is",
+      "entry": "how much",
+      "id": "how-much#how-much__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} the [price_1]{price} of something",
+      "entry": "how much is/are...?",
+      "id": "how-much-is-are#how-much-is-are__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [explain]{explain} the [reason_1]{reason} for the [statement_1]{statement} they have [just_1]{just} made",
+      "entry": "how so?/how\u2019s that?",
+      "id": "how-so-how-s-that#how-so-how-s-that__1"
+    },
+    {
+      "comment": "[used]{used} when you [meet_1]{meet} someone to [ask_1]{ask} how they are",
+      "entry": "how\u2019s tricks?",
+      "id": "how-s-tricks#how-s-tricks__1"
+    },
+    {
+      "comment": "[used]{used} as a [polite]{polite} way of [making]{making} a [request_1]{request} or [ask_1]{asking} a [question_1]{question}, when you are not [sure_1]{sure} that you will get a [positive_1]{positive} [answer_1]{answer}",
+      "entry": "I don\u2019t suppose",
+      "id": "i-don-t-suppose#i-don-t-suppose__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what something is for or why something is [happening_1]{happening}",
+      "entry": "in aid of",
+      "id": "in-aid-of#in-aid-of__2"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} [politely]{politely} if you can do something or have something",
+      "entry": "is it/would it be possible?",
+      "id": "is-it-would-it-be-possible#is-it-would-it-be-possible__1"
+    },
+    {
+      "comment": "[used]{used} as a [direct_1]{direct} and rather [rude]{rude} way of [ask_1]{asking} for something. The [polite]{polite} [phrase_1]{phrase} is \u201cI would [like_1]{like}...\u201d",
+      "entry": "I want...",
+      "id": "i-want#i-want__1"
+    },
+    {
+      "comment": "[used]{used} for [politely]{politely} [ask_1]{asking} someone to do something, [especially]{especially} when you are [slightly]{slightly} [annoyed]{annoyed}",
+      "entry": "I/we etc. would appreciate it if...",
+      "id": "i-we-etc-would-appreciate-it-if#i-we-etc-would-appreciate-it-if__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone [formally]{formally} and [politely]{politely} to do something",
+      "entry": "I/we would be grateful if...",
+      "id": "i-we-would-be-grateful-if#i-we-would-be-grateful-if__1"
+    },
+    {
+      "comment": "a [polite]{polite} way of [ask_1]{asking} someone for something such as [information]{information} or their [opinion]{opinion}, or [ask_1]{asking} them to do something",
+      "entry": "I wonder if/whether",
+      "id": "i-wonder-if-whether#i-wonder-if-whether__1"
+    },
+    {
+      "comment": "[used]{used} when you are [ask_1]{asking} someone [politely]{politely} to do something",
+      "entry": "I would be obliged (if)",
+      "id": "i-would-be-obliged-if#i-would-be-obliged-if__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} for something [politely]{politely}",
+      "entry": "I wouldn\u2019t mind something",
+      "id": "i-wouldn-t-mind-something#i-wouldn-t-mind-something__1"
+    },
+    {
+      "comment": "[used]{used} for [making]{making} a [request_1]{request} more [polite]{polite}",
+      "entry": "just",
+      "id": "just_1#just_1__46"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you are [ask_1]{asking} a [question_1]{question} because you are [interested]{interested} in [find_1]{finding} out the [answer_1]{answer} and not for any other [reason_1]{reason}",
+      "entry": "(just) as a matter of interest/(just) out of interest",
+      "id": "just-as-a-matter-of-interest-just-out-of-interest#just-as-a-matter-of-interest-just-out-of-interest__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} if someone is well",
+      "entry": "keep",
+      "id": "keep_1#keep_1__58"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to do something, [especially]{especially} when you are [trying]{trying} to [hide_1]{hide} the [fact]{fact} that you are [annoyed]{annoyed}",
+      "entry": "kindly",
+      "id": "kindly_2#kindly_2__3"
+    },
+    {
+      "comment": "[used]{used} for [making]{making} a [polite]{polite} [request_1]{request}",
+      "entry": "kindly",
+      "id": "kindly_2#kindly_2__5"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} someone to [say_1]{say} what they are [thinking_1]{thinking}",
+      "entry": "let\u2019s hear it",
+      "id": "let-s-hear-it#let-s-hear-it__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone why they are not [saying]{saying} anything, [especially]{especially} when they [usually]{usually} [say_1]{say} what they [think_1]{think}",
+      "entry": "lost your tongue?",
+      "id": "lost-your-tongue#lost-your-tongue__1"
+    },
+    {
+      "comment": "[used]{used} when [making]{making} a [polite]{polite} [request_1]{request} or [offer_1]{offer}",
+      "entry": "may",
+      "id": "may_1#may_1__18"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to do something, without [saying]{saying} [directly_1]{directly} that you [want_1]{want} them to do it",
+      "entry": "maybe",
+      "id": "maybe#maybe__12"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you are [angry]{angry} about something that has [happen]{happened}, but [want_1]{want} to [ask_1]{ask} about it [politely]{politely}",
+      "entry": "may/might I ask",
+      "id": "may-might-i-ask#may-might-i-ask__1"
+    },
+    {
+      "comment": "[used]{used} for very [politely]{politely} [ask_1]{asking} [permission]{permission} to do something",
+      "entry": "might",
+      "id": "might_1#might_1__8"
+    },
+    {
+      "comment": "[used]{used} for [form_2]{forming} a [question_1]{question} when you [expect]{expect} the [answer_1]{answer} to be \u201c[yes_1]{yes}\u201d",
+      "entry": "not",
+      "id": "not#not__20"
+    },
+    {
+      "comment": "[used]{used} for [form_2]{forming} [question_1]{questions} that show you [think_1]{think} someone should have done something",
+      "entry": "not",
+      "id": "not#not__24"
+    },
+    {
+      "comment": "[used]{used} at the [end_1]{end} of a [question_1]{question} when you are [impatient]{impatient} to find out what is [really]{really} [happening_1]{happening}",
+      "entry": "or what?",
+      "id": "or-what#or-what__1"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} \u201c[maybe]{maybe}\u201d or \u201cby any [chance_1]{chance}\u201d",
+      "entry": "perchance",
+      "id": "perchance#perchance__1"
+    },
+    {
+      "comment": "[used]{used} when you are [making]{making} a [suggestion]{suggestion}, [give_1]{giving} [advice]{advice}, or [making]{making} a [polite]{polite} [request_1]{request}",
+      "entry": "perhaps",
+      "id": "perhaps#perhaps__7"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to do something, in a way that [show_1]{shows} that you are [angry]{angry} or [upset_1]{upset}",
+      "entry": "perhaps someone would care to do something/would someone care to do something?",
+      "id": "perhaps-someone-would-care-to-do-something-would-someone-care-to-do-something#perhaps-someone-would-care-to-do-something-would-someone-care-to-do-something__1"
+    },
+    {
+      "comment": "[used]{used} as a [polite]{polite} way of [ask_1]{asking} for something or of [ask_1]{asking} someone to do something",
+      "entry": "please",
+      "id": "please_1#please_1__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [stop_1]{stop} [doing]{doing} something [annoying]{annoying}",
+      "entry": "please",
+      "id": "please_1#please_1__9"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to do something that you [think_1]{think} might not be [convenient]{convenient} for them",
+      "entry": "possibly",
+      "id": "possibly#possibly__12"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} a [question_1]{question} or for [telling]{telling} someone to do something",
+      "entry": "pray",
+      "id": "pray_2#pray_2__1"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} \u201cplease\u201d",
+      "entry": "prithee",
+      "id": "prithee#prithee__1"
+    },
+    {
+      "comment": "[used]{used} when you are [ask_1]{asking} someone if they would be [willing]{willing} to do something",
+      "entry": "see your way (clear) to do something",
+      "id": "see-your-way-clear-to-do-something#see-your-way-clear-to-do-something__1"
+    },
+    {
+      "comment": "[used]{used} for [politely]{politely} [ask_1]{asking} someone to do something for you, [especially]{especially} someone you do not [know_1]{know}",
+      "entry": "sorry to bother you",
+      "id": "sorry-to-bother-you#sorry-to-bother-you__1"
+    },
+    {
+      "comment": "[used]{used} when you are [going_1]{going} to [ask_1]{ask} a [question_1]{question}",
+      "entry": "tell me",
+      "id": "tell-me#tell-me__1"
+    },
+    {
+      "comment": "[used]{used} for [making]{making} a [polite]{polite} [request_1]{request}",
+      "entry": "trouble",
+      "id": "trouble_2#trouble_2__7"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} a [question_1]{question} or for [ask_1]{asking} for an [explanation]{explanation}",
+      "entry": "well",
+      "id": "well_2#well_2__8"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} which thing, [action_1]{action}, or [idea]{idea} something is, or which [type_1]{type} of thing, [action_1]{action}, or [idea]{idea} something is",
+      "entry": "what",
+      "id": "what#what__2"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [explain]{explain} what they have [said_1]{said}",
+      "entry": "what do you mean?",
+      "id": "what-do-you-mean#what-do-you-mean__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone in a [rude]{rude} way why they [need_1]{need} to [speak_1]{speak} to you or to see you",
+      "entry": "what do you want?",
+      "id": "what-do-you-want#what-do-you-want__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} the [reason_1]{reason} for something",
+      "entry": "what for",
+      "id": "what-for#what-for__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what is [happening_1]{happening} in a [situation]{situation}",
+      "entry": "what gives?",
+      "id": "what-gives#what-gives__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} where something is",
+      "entry": "what (has) happened to something",
+      "id": "happen-to#happen-to__8"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what has [happen]{happened} to someone or something, because you have not [seen]{seen} them for a long time, or what will [happen]{happen} to them, because you are [worried]{worried} about them",
+      "entry": "what has/will become of",
+      "id": "become-of#become-of__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone what [explanation]{explanation} or [excuse_1]{excuse} they have for their [bad_1]{bad} [behavior]{behavior}",
+      "entry": "what have you got to say for yourself?",
+      "id": "what-have-you-got-to-say-for-yourself#what-have-you-got-to-say-for-yourself__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what would [happen]{happen} in a [particular_1]{particular} [situation]{situation}",
+      "entry": "what if...?",
+      "id": "what-if_1#what-if_1__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what would [happen]{happen} in a [particular_1]{particular} [situation]{situation}, [especially]{especially} an [unpleasant]{unpleasant} [situation]{situation}",
+      "entry": "what if...?",
+      "id": "what-if_2#what-if_2__1"
+    },
+    {
+      "comment": "used for asking someone what they want after they have already asked you about other things. This expression shows that you are getting annoyed",
+      "entry": "what is it now?",
+      "id": "what-is-it-now#what-is-it-now__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why someone has something",
+      "entry": "what is someone doing with something?",
+      "id": "do-with#do-with__27"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why someone or something is in a [particular_1]{particular} [place_1]{place} because you [think_1]{think} they should not be there",
+      "entry": "what is someone/something doing...?",
+      "id": "what-is-someone-something-doing#what-is-someone-something-doing__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} about the [quality_1]{qualities} or [feature_1]{features} of a [person]{person} or thing",
+      "entry": "what is someone/something like?",
+      "id": "what-is-someone-something-like#what-is-someone-something-like__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what should be done next",
+      "entry": "what now?/now what?",
+      "id": "what-now-now-what#what-now-now-what__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone why they [did]{did} something when you [think_1]{think} they made a serious [mistake_1]{mistake}",
+      "entry": "what (on earth)/whatever possessed you (to do something)",
+      "id": "what-on-earth-whatever-possessed-you-to-do-something#what-on-earth-whatever-possessed-you-to-do-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} whether something that someone has [achieve]{achieved} was [worth_1]{worth} all the [problem]{problems} it [cause_2]{caused}",
+      "entry": "what price...?",
+      "id": "what-price#what-price__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what [event]{events} are [take_1]{taking} [place_1]{place}",
+      "entry": "what\u2019s doing?",
+      "id": "what-s-doing#what-s-doing__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why someone is [annoyed]{annoyed} or [unhappy]{unhappy}",
+      "entry": "what\u2019s eating someone?",
+      "id": "what-s-eating-someone#what-s-eating-someone__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why someone is [behave]{behaving} in an [unusual]{unusual} or [annoying]{annoying} way",
+      "entry": "what\u2019s gotten into someone?",
+      "id": "get-into#get-into__20"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone what [reward_1]{reward} they will give you if you do what they [want_1]{want}",
+      "entry": "what\u2019s it worth (to you)?",
+      "id": "what-s-it-worth-to-you#what-s-it-worth-to-you__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what [arrangement]{arrangements} someone [make_1]{makes} for something",
+      "entry": "what someone does with something",
+      "id": "do-with#do-with__18"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} where someone [put]{puts} something",
+      "entry": "what someone does with something",
+      "id": "do-with#do-with__20"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} how someone [use_1]{uses} something",
+      "entry": "what someone does with something",
+      "id": "do-with#do-with__22"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} how someone [spend]{spends} their time",
+      "entry": "what someone does with themselves",
+      "id": "do-with#do-with__24"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} how you are [going_1]{going} to [make_1]{make} someone [behave]{behave} [better_1]{better}",
+      "entry": "what someone is going to do with someone",
+      "id": "do-with#do-with__29"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why someone [does]{does} not do something",
+      "entry": "what\u2019s stopping you (from doing something)?",
+      "id": "what-s-stopping-you-from-doing-something#what-s-stopping-you-from-doing-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone what is [happening_1]{happening} or what has [happen]{happened} [recently]{recently}",
+      "entry": "what\u2019s the crack?",
+      "id": "what-s-the-crack#what-s-the-crack__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone how much you have to [pay_1]{pay} them",
+      "entry": "what\u2019s the damage?",
+      "id": "what-s-the-damage#what-s-the-damage__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone why they are [hurry_1]{hurrying} to do something, and [usually]{usually} for [telling]{telling} them to [slow_1]{slow} down",
+      "entry": "what\u2019s the rush?",
+      "id": "what-s-the-rush#what-s-the-rush__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what is [wrong_1]{wrong}",
+      "entry": "what\u2019s up?",
+      "id": "what-s-up#what-s-up__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why someone is [behave]{behaving} in a [strange_1]{strange} way",
+      "entry": "what\u2019s (up) with someone?",
+      "id": "what-s-up-with-someone#what-s-up-with-someone__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone for an [explanation]{explanation} about something",
+      "entry": "what\u2019s (up) with something?",
+      "id": "what-s-up-with-something#what-s-up-with-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why something such as a [machine_1]{machine} is not [working]{working}",
+      "entry": "what\u2019s wrong?",
+      "id": "what-s-wrong#what-s-wrong__3"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone why they do not [approve]{approve} of something you are [doing]{doing}",
+      "entry": "what\u2019s wrong?",
+      "id": "what-s-wrong#what-s-wrong__5"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone who [look_1]{looks} [sick_1]{sick} or [sad_1]{sad} to [tell_1]{tell} you what [problem]{problem} they have",
+      "entry": "what\u2019s wrong?",
+      "id": "what-s-wrong#what-s-wrong__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone what their [true_1]{true} [intention]{intentions} are when you [think_1]{think} they are not being [honest]{honest}",
+      "entry": "what\u2019s your/his/her game?",
+      "id": "what-s-your-his-her-game#what-s-your-his-her-game__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} where someone is now and what they are [doing]{doing}",
+      "entry": "what/whatever happened to someone",
+      "id": "happen-to#happen-to__10"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} why something [does]{does} not [happen]{happen} or [exist]{exist} now",
+      "entry": "what/whatever happened to something",
+      "id": "happen-to#happen-to__12"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} for someone\u2019s [opinion]{opinion}",
+      "entry": "what/where/when do you think?",
+      "id": "what-where-when-do-you-think#what-where-when-do-you-think__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone for more [detail_1]{details} about something",
+      "entry": "what/where/when etc. exactly",
+      "id": "what-where-when-etc-exactly#what-where-when-etc-exactly__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [tell_1]{tell} you something, [especially]{especially} when you [think_1]{think} they do not [want_1]{want} to [tell_1]{tell} you",
+      "entry": "what/who/where etc. might...?",
+      "id": "what-who-where-etc-might#what-who-where-etc-might__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} at what time something [happen]{happens}",
+      "entry": "when",
+      "id": "when#when__2"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} in what [kind_1]{kind} of [situation]{situation} something [happen]{happens}",
+      "entry": "when",
+      "id": "when#when__8"
+    },
+    {
+      "comment": "an [old]{old} or [literary]{literary} [word_1]{word} [meaning_1]{meaning} \u201cfrom where\u201d",
+      "entry": "whence",
+      "id": "whence#whence__3"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what [place_1]{place} someone or something is in, or what [place_1]{place} they go to",
+      "entry": "where",
+      "id": "where#where__2"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} about or [refer]{referring} to a [situation]{situation} or a [point_1]{point} in a [process_1]{process}, [discussion]{discussion}, [story]{story}, etc.",
+      "entry": "where",
+      "id": "where#where__18"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} or [saying]{saying} what the [origin]{origin} of something is",
+      "entry": "where",
+      "id": "where#where__25"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} where someone or something is, [especially]{especially} when you are not [expect]{expecting} a very [exact_1]{exact} [answer_1]{answer}",
+      "entry": "whereabouts",
+      "id": "whereabouts_2#whereabouts_2__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} what someone can do next in a [particular_1]{particular} [situation]{situation}, [especially]{especially} a [difficult]{difficult} one",
+      "entry": "where does someone go from here?",
+      "id": "where-does-someone-go-from-here#where-does-someone-go-from-here__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} where someone or something is",
+      "entry": "where has someone/something gotten to?",
+      "id": "get-to#get-to__5"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} for a [specific]{specific} [choice_1]{choice} from a [limited]{limited} [number_1]{number} of [possibility]{possibilities}",
+      "entry": "which",
+      "id": "which#which__1"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} \u201cto which [place_1]{place}\u201d",
+      "entry": "whither",
+      "id": "whither#whither__1"
+    },
+    {
+      "comment": "a [word_1]{word} [used]{used} for [ask_1]{asking} what will [happen]{happen} to something in the [future_1]{future}",
+      "entry": "whither",
+      "id": "whither#whither__2"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone what they [think_1]{think} about something",
+      "entry": "who/what/where etc. do you suppose?",
+      "id": "who-what-where-etc-do-you-suppose#who-what-where-etc-do-you-suppose__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} the [reason_1]{reason} for something",
+      "entry": "why",
+      "id": "why_1#why_1__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to do something in a very [polite]{polite} and [formal_1]{formal} way",
+      "entry": "would you be kind enough to do something",
+      "id": "would-you-be-kind-enough-to-do-something#would-you-be-kind-enough-to-do-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone very [politely]{politely} to do something",
+      "entry": "would you be so good as/would you be good enough to do something",
+      "id": "would-you-be-so-good-as-would-you-be-good-enough-to-do-something#would-you-be-so-good-as-would-you-be-good-enough-to-do-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} [politely]{politely} whether someone would [like_1]{like} something",
+      "entry": "would you care for something",
+      "id": "would-you-care-for-something#would-you-care-for-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} [politely]{politely} whether someone would [like_1]{like} to do something",
+      "entry": "would you care to do something",
+      "id": "would-you-care-to-do-something#would-you-care-to-do-something__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} [politely]{politely} for something",
+      "entry": "would you mind",
+      "id": "would-you-mind#would-you-mind__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone what they [want_1]{want}, for [example]{example} in a [store_1]{store}. \u201c[yes_1]{Yes}\u201d can [sound_1]{sound} [impolite]{impolite} if it is [express_1]{expressed} as a [question_1]{question}",
+      "entry": "yes",
+      "id": "yes_1#yes_1__9"
+    }
+  ],
+  "thesaurus": "Ways of asking questions and making requests",
+  "type": "Related words"
+}

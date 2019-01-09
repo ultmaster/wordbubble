@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to move around [continuous#continuous__6]{continuously} [inside_1]{inside} a system or [area]{area}, or to [make_1]{make} something do this",
+      "examples": [
+        "a [machine_1]{machine} [design_2]{designed} to circulate [warm_1]{warm} [air_1]{air}"
+      ],
+      "id": "circulate__1"
+    },
+    {
+      "def": "if [information]{information} or [idea]{ideas} circulate, one [person]{person} [talk_1]{talks} or [write]{writes} about them to another, so that more and more [people_1]{people} [start_1]{start} to [know_1]{know} about them",
+      "examples": [
+        "[rumor]{Rumors} [began]{began} to circulate that the [chairman]{chairman} was [going_1]{going} to [resign]{resign}."
+      ],
+      "id": "circulate__3"
+    },
+    {
+      "def": "to [send_1]{send} something to all the [member]{members} of a [group_1]{group} of [people_1]{people}",
+      "examples": [
+        "The [letter_1]{letter} has been [circulate]{circulated} to [shareholder]{shareholders}."
+      ],
+      "id": "circulate__5"
+    },
+    {
+      "def": "to move around at a [party_1]{party} or [social_1]{social} [occasion_1]{occasion}, [talk_1]{talking} to [different]{different} [people_1]{people}",
+      "examples": [],
+      "id": "circulate__7"
+    }
+  ],
+  "word": "circulate"
+}

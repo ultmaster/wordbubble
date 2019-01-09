@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "give someone a break",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [criticize]{criticizing} someone",
+      "examples": [
+        "It\u2019s time the [news]{news} [media]{media} [gave]{gave} her a [break_1]{break}."
+      ],
+      "id": "give-someone-a-break__1"
+    },
+    {
+      "def": "to do something that [help_1]{helps} someone",
+      "examples": [
+        "A [caregiver]{caregiver} [visit_1]{visits} once a [week]{week} to give Jessica\u2019s [mother_1]{mother} a [break_1]{break}."
+      ],
+      "id": "give-someone-a-break__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "send for",
+  "senses": [
+    {
+      "def": "to [ask_1]{ask} for someone to come to you",
+      "examples": [
+        "I [think_1]{think} we should [send_1]{send} for a [doctor_1]{doctor}."
+      ],
+      "id": "send-for__1"
+    },
+    {
+      "def": "to [arrange]{arrange} for something to come to you or be [deliver]{delivered} to you",
+      "examples": [
+        "In the [end_1]{end} we had to [send_1]{send} for an [ambulance]{ambulance}.",
+        "I\u2019ve [sent]{sent} for their [latest]{latest} [catalog_1]{catalog}."
+      ],
+      "id": "send-for__3"
+    }
+  ]
+}

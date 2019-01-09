@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "between [small_1]{small} and [large_1]{large} in [size_1]{size}",
+      "entry": "medium",
+      "id": "medium_1#medium_1__1"
+    },
+    {
+      "comment": "neither very [great_1]{great} nor very [small_1]{small} in amount, [size_1]{size}, [strength]{strength}, or [degree]{degree}",
+      "entry": "moderate",
+      "id": "moderate_1#moderate_1__1"
+    },
+    {
+      "comment": "neither [large_1]{large} nor [small_1]{small}",
+      "entry": "medium-sized",
+      "id": "medium-sized#medium-sized__1"
+    },
+    {
+      "comment": "[average_1]{average} in [quality_1]{quality} or [size_1]{size}",
+      "entry": "middling",
+      "id": "middling#middling__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} [thing]{things} that are [ordinary]{ordinary} or of [average_1]{average} [size_1]{size}",
+      "entry": "regular",
+      "id": "regular_1#regular_1__13"
+    },
+    {
+      "comment": "[average_1]{average} in [size_1]{size}",
+      "entry": "middle-sized",
+      "id": "middle-sized#middle-sized__1"
+    },
+    {
+      "comment": "not very [large_1]{large} or [extreme_1]{extreme}",
+      "entry": "mild",
+      "id": "mild#mild__17"
+    },
+    {
+      "comment": "[average_1]{average} in [quality_1]{quality}, [size_1]{size}, or [cost_1]{cost}",
+      "entry": "mid-range",
+      "id": "mid-range#mid-range__1"
+    },
+    {
+      "comment": "[middle-sized]{middle-sized}",
+      "entry": "midsize",
+      "id": "midsize#midsize__1"
+    }
+  ],
+  "thesaurus": "Not big or small in size",
+  "type": "Synonyms"
+}

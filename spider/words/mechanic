@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [repair_1]{repair} [vehicle]{vehicles} and [machine_1]{machines}",
+      "examples": [
+        "an [airplane]{airplane}/[auto_1]{auto} mechanic"
+      ],
+      "id": "mechanic__1"
+    },
+    {
+      "def": "the way in which something [work_1]{works} or is done",
+      "examples": [
+        "the [mechanic]{mechanics} of [investigative]{investigative} [reporting]{reporting}"
+      ],
+      "id": "mechanic__3"
+    },
+    {
+      "def": "the [area]{area} of [physics]{physics} that [deal_1]{deals} with the [force_1]{forces} such as [gravity]{gravity} that [affect_1]{affect} all [object_1]{objects}",
+      "examples": [],
+      "id": "mechanic__5"
+    }
+  ],
+  "word": "mechanic"
+}

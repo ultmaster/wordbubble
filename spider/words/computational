@@ -1,0 +1,20 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to the [ability_1]{ability} to [calculate]{calculate} [number_1]{numbers} or [amount_1]{amounts}",
+      "examples": [
+        "computational [skill]{skills}"
+      ],
+      "id": "computational__1"
+    },
+    {
+      "def": "[involve]{involving} the use of [computer]{computers}",
+      "examples": [
+        "computational [method]{methods}"
+      ],
+      "id": "computational__3"
+    }
+  ],
+  "word": "computational"
+}

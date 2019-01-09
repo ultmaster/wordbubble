@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "[happening_1]{happening} on one [day]{day}, [week]{week}, etc. but not on the [day]{day}, [week]{week}, etc., that [immediately]{immediately} [follow]{follows}",
+      "entry": "alternate",
+      "id": "alternate_2#alternate_2__4"
+    },
+    {
+      "comment": "for one whole [month]{month} each time",
+      "entry": "a month at a time",
+      "id": "a-month-at-a-time#a-month-at-a-time__1"
+    },
+    {
+      "comment": "once every [year]{year}",
+      "entry": "annually",
+      "id": "annually#annually__1"
+    },
+    {
+      "comment": "at a [rate_1]{rate} [base_2]{based} on an [hour]{hour} of a [particular_1]{particular} [activity]{activity}",
+      "entry": "an/per hour",
+      "id": "an-per-hour#an-per-hour__1"
+    },
+    {
+      "comment": "a [biennial]{biennial} [event]{event} [happen]{happens} once every two [year]{years}",
+      "entry": "biennial",
+      "id": "biennial#biennial__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or [produce_1]{produced} [twice_1]{twice} a [month]{month} or every two [month]{months}",
+      "entry": "bimonthly",
+      "id": "bimonthly#bimonthly__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [period_1]{period} of 24 [hour]{hours}, [especially]{especially} to the [change_1]{changes} in [people_1]{people}\u2019s or [animal_1]{animals}\u2019 [body]{bodies} that [happen]{happen} during this [period_1]{period}",
+      "entry": "circadian",
+      "id": "circadian#circadian__1"
+    },
+    {
+      "comment": "done or [happening_1]{happening} every [day]{day}",
+      "entry": "daily",
+      "id": "daily_1#daily_1__1"
+    },
+    {
+      "comment": "every [day]{day}",
+      "entry": "daily",
+      "id": "daily_2#daily_2__1"
+    },
+    {
+      "comment": "[happening_1]{happening} every [day]{day}",
+      "entry": "diurnal",
+      "id": "diurnal#diurnal__1"
+    },
+    {
+      "comment": "[happening_1]{happening} every 30 [minute_1]{minutes}",
+      "entry": "half-hourly",
+      "id": "half-hourly#half-hourly__1"
+    },
+    {
+      "comment": "[happening_1]{happening} once every [hour]{hour}",
+      "entry": "hourly",
+      "id": "hourly_1#hourly_1__1"
+    },
+    {
+      "comment": "once every [hour]{hour}",
+      "entry": "hourly",
+      "id": "hourly_2#hourly_2__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or [publish]{published} once a [month]{month}",
+      "entry": "monthly",
+      "id": "monthly_1#monthly_1__1"
+    },
+    {
+      "comment": "every [night_1]{night} for a long [period_1]{period} of time",
+      "entry": "night after night",
+      "id": "night-after-night#night-after-night__1"
+    },
+    {
+      "comment": "[happening_1]{happening} every [night_1]{night}",
+      "entry": "nightly",
+      "id": "nightly#nightly__1"
+    },
+    {
+      "comment": "happening one time each week/month/year etc.",
+      "entry": "once a week/month/year etc.",
+      "id": "once-a-week-month-year-etc#once-a-week-month-year-etc__1"
+    },
+    {
+      "comment": "happening one time every three days/four years etc.",
+      "entry": "once every three days/four years etc.",
+      "id": "once-every-three-days-four-years-etc#once-every-three-days-four-years-etc__1"
+    },
+    {
+      "comment": "[happening_1]{happening} [twice_1]{twice} a [week]{week}",
+      "entry": "semiweekly",
+      "id": "semiweekly#semiweekly__1"
+    },
+    {
+      "comment": "[happening_1]{happening} every three [year]{years}",
+      "entry": "triennial",
+      "id": "triennial#triennial__1"
+    },
+    {
+      "comment": "every [week]{week} for a long time",
+      "entry": "week in (and) week out",
+      "id": "week-in-and-week-out#week-in-and-week-out__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about [situation]{situations} in which something [continue]{continues} to [change_1]{change} or [develop]{develop} every [year]{year}",
+      "entry": "year on year",
+      "id": "year-on-year#year-on-year__1"
+    }
+  ],
+  "thesaurus": "Happening at particular intervals of time",
+  "type": "Related words"
+}

@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to the [author_1]{author} of a [book_1]{book}, [play_1]{play}, etc.",
+      "entry": "authorial",
+      "id": "authorial#authorial__1"
+    },
+    {
+      "comment": "the [fact]{fact} of being the [person]{person} who has [written_1]{written} a [particular_1]{particular} [book_1]{book}, [document_1]{document}, etc.",
+      "entry": "authorship",
+      "id": "authorship#authorship__1"
+    },
+    {
+      "comment": "[writing]{writing} [book_1]{books} that many [people_1]{people} [buy_1]{buy}",
+      "entry": "bestselling",
+      "id": "bestselling#bestselling__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [remove]{removing} [part_1]{parts} of [book_1]{books}, [movie]{movies}, [letter_1]{letters}, etc. that are [considered]{considered} [inappropriate]{inappropriate} for [moral_1]{moral}, [religious]{religious}, or [political]{political} [reason_1]{reasons}",
+      "entry": "censorship",
+      "id": "censorship#censorship__1"
+    },
+    {
+      "comment": "the activity of writing poetry and fiction, especially as an educational subject",
+      "entry": "creative writing",
+      "id": "creative-writing#creative-writing__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [making]{making} something such as a [piece_1]{piece} of [writing]{writing}, a [speech]{speech}, a [movie]{movie}, or a [broadcast_1]{broadcast} [short_1]{shorter}",
+      "entry": "cut",
+      "id": "cut_2#cut_2__22"
+    },
+    {
+      "comment": "an [act_1]{act} of [remove]{removing} [part_1]{parts} from something such as a [piece_1]{piece} of [writing]{writing}, a [speech]{speech}, a [movie]{movie}, or a [broadcast_1]{broadcast}, [especially]{especially} because they are not [suitable]{suitable}",
+      "entry": "cut",
+      "id": "cut_2#cut_2__24"
+    },
+    {
+      "comment": "the [process_1]{process} of [edit_1]{editing} something such as a [book_1]{book}, [document_1]{document}, or [movie]{movie}",
+      "entry": "edit",
+      "id": "edit_2#edit_2__1"
+    },
+    {
+      "comment": "relating to the process of editing of books, magazines, newspapers, etc.",
+      "entry": "editorial",
+      "id": "editorial_2#editorial_2__1"
+    },
+    {
+      "comment": "the [number_1]{numbers} on the [page_1]{pages} of a [book_1]{book} or other [document_1]{document}, or the [process_1]{process} of [put]{putting} [number_1]{numbers} on [page_1]{pages}",
+      "entry": "pagination",
+      "id": "pagination#pagination__1"
+    },
+    {
+      "comment": "a name a [writer]{writer} [use_1]{uses} [instead]{instead} of their [real_1]{real} name on [story]{stories}, [article]{articles}, etc. that they [write]{write}",
+      "entry": "pen name",
+      "id": "pen-name#pen-name__1"
+    },
+    {
+      "comment": "an [approach_1]{approach} to [teaching]{teaching} [writing]{writing} that [focus_1]{focusses} on the [creative_1]{creative} [process_1]{process} of [produce_1]{producing} a [text_1]{text}",
+      "entry": "process writing",
+      "id": "process-writing#process-writing__1"
+    },
+    {
+      "comment": "a [copy_1]{copy} of a [book_1]{book} or [article]{article} that someone [read_1]{reads} and [correct_2]{corrects} before the [final_1]{final} [copy_1]{copy} is made",
+      "entry": "proof",
+      "id": "proof_1#proof_1__7"
+    },
+    {
+      "comment": "the [process_1]{process} of [writing]{writing} something down, [especially]{especially} a [conversation]{conversation} or [speech]{speech}",
+      "entry": "transcription",
+      "id": "transcription#transcription__1"
+    },
+    {
+      "comment": "the [job_1]{job} or [activity]{activity} of [create]{creating} [book_1]{books}, [poem]{poems}, [newspaper]{newspaper} [article]{articles}, etc.",
+      "entry": "writing",
+      "id": "writing#writing__8"
+    },
+    {
+      "comment": "[writing]{writing} in [general_1]{general}",
+      "entry": "the written word",
+      "id": "the-written-word#the-written-word__1"
+    }
+  ],
+  "thesaurus": "Relating to writing and editing",
+  "type": "Related words"
+}

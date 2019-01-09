@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "sell out",
+  "senses": [
+    {
+      "def": "if a [store_1]{store} [sell_1]{sells} out of something, it [sell_1]{sells} all that it has so that there is no more [available]{available}",
+      "examples": [
+        "I went to get some [bread]{bread}, but the [supermarket]{supermarket} had [sold]{sold} out.",
+        "On a [hot]{hot} [day]{day}, we can [sell_1]{sell} out of [ice_1]{ice} [cream_1]{cream} in an [hour]{hour}.",
+        "The [ticket_1]{tickets} had [sold]{sold} out within a few [short_1]{short} [hour]{hours}."
+      ],
+      "id": "sell-out__1"
+    },
+    {
+      "def": "to do something that [show_1]{shows} you no [long_1]{longer} have the same [moral_1]{moral} [principle]{principles} that you [used]{used} to have",
+      "examples": [
+        "Some [fan_1]{fans} [thought_1]{thought} she\u2019d [sold]{sold} out to [mainstream_1]{mainstream} [pop_1]{pop} [music]{music}."
+      ],
+      "id": "sell-out__6"
+    },
+    {
+      "def": "to [deliberately]{deliberately} [sell_1]{sell} all the [goods]{goods} in your [business]{business}, [especially]{especially} because you are [closing_1]{closing} the [business]{business} [permanently]{permanently}",
+      "examples": [],
+      "id": "sell-out__8"
+    }
+  ]
+}

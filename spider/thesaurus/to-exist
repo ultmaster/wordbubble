@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to be [real_1]{real}, or to [appear]{appear} in the [real_1]{real} [world]{world}",
+      "entry": "exist",
+      "id": "exist#exist__1"
+    },
+    {
+      "comment": "if a [service_1]{service} or system [operate]{operates}, it [exist]{exists} and is [available]{available}",
+      "entry": "operate",
+      "id": "operate#operate__22"
+    },
+    {
+      "comment": "to be [alive]{alive}, or to [stay_1]{stay} [alive]{alive}",
+      "entry": "live",
+      "id": "live_1#live_1__1"
+    },
+    {
+      "comment": "to be [alive]{alive} in a [particular_1]{particular} time",
+      "entry": "live",
+      "id": "live_1#live_1__6"
+    },
+    {
+      "comment": "to [live_1]{live} or [exist]{exist} at the same time or in the same [place_1]{place}",
+      "entry": "coexist",
+      "id": "coexist#coexist__1"
+    },
+    {
+      "comment": "to be found together with something else",
+      "entry": "co-occur",
+      "id": "co-occur#co-occur__1"
+    },
+    {
+      "comment": "if something such as a [rule_1]{rule} or [condition_1]{condition} [obtain]{obtains}, it [exist]{exists}, is [used]{used}, or is [accepted]{accepted}",
+      "entry": "obtain",
+      "id": "obtain#obtain__7"
+    },
+    {
+      "comment": "to [exist]{exist}",
+      "entry": "subsist",
+      "id": "subsist#subsist__3"
+    },
+    {
+      "comment": "to [exist]{exist}",
+      "entry": "be",
+      "id": "be#be__20"
+    },
+    {
+      "comment": "if an [idea]{idea} or [suggestion]{suggestion} is [kick_1]{kicking} around, [people_1]{people} [know_1]{know} about it but no one is [doing]{doing} much about it",
+      "entry": "kick around",
+      "id": "kick-around#kick-around__9"
+    }
+  ],
+  "thesaurus": "To exist",
+  "type": "Synonyms"
+}

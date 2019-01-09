@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "an [attractive]{attractive} and [expensive]{expensive} [hotel]{hotel} [room_1]{room}, [used]{used} [especially]{especially} by [people_1]{people} who have [just_1]{just} [gotten]{gotten} [married]{married}",
+      "entry": "bridal suite",
+      "id": "bridal-suite#bridal-suite__1"
+    },
+    {
+      "comment": "the [place_1]{place} you go to when you [arrive]{arrive} at an [airport]{airport} or [hotel]{hotel}",
+      "entry": "check-in",
+      "id": "check-in_2#check-in_2__1"
+    },
+    {
+      "comment": "a [bar_1]{bar}, often in a [hotel]{hotel} or [club_1]{club}, where you can [buy_1]{buy} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "cocktail lounge",
+      "id": "cocktail-lounge#cocktail-lounge__1"
+    },
+    {
+      "comment": "a [place_1]{place}, [usually]{usually} in a [hotel]{hotel} or [department]{department} [store_1]{store}, where [coffee]{coffee}, other [drink_1]{drinks}, and [light_1]{light} [meal]{meals} are [serve_1]{served}",
+      "entry": "coffee shop",
+      "id": "coffee-shop#coffee-shop__2"
+    },
+    {
+      "comment": "a [place_1]{place} that [provide]{provides} [information]{information} or a [service_1]{service}, for [example]{example} in a [hotel]{hotel} or at an [airport]{airport}",
+      "entry": "desk",
+      "id": "desk#desk__4"
+    },
+    {
+      "comment": "the [room_1]{room} in a [house_1]{house} or [hotel]{hotel} where you [eat]{eat} [meal]{meals}",
+      "entry": "dining room",
+      "id": "dining-room#dining-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} that is [large_1]{large} enough for two [people_1]{people} to [sleep_1]{sleep} in, [especially]{especially} one in a [hotel]{hotel} or a [rented]{rented} [property]{property}",
+      "entry": "double room",
+      "id": "double-room#double-room__1"
+    },
+    {
+      "comment": "an en [suite]{suite} [bathroom]{bathroom} is one [join_1]{joined} to a [bedroom]{bedroom}, [especially]{especially} in a [hotel]{hotel}",
+      "entry": "ensuite",
+      "id": "ensuite_1#ensuite_1__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [hotel]{hotel} with enough [bed_1]{beds} for a [family_1]{family} to [sleep_1]{sleep} in",
+      "entry": "family room",
+      "id": "family-room#family-room__2"
+    },
+    {
+      "comment": "a [large_1]{large} [open_1]{open} [space_1]{space} [near_1]{near} the [entrance_1]{entrance} [inside_1]{inside} a [building]{building}, [hotel]{hotel}, or [theater]{theater}",
+      "entry": "foyer",
+      "id": "foyer#foyer__2"
+    },
+    {
+      "comment": "a [bedroom]{bedroom} for a [visitor]{visitor} in someone\u2019s [home_1]{home} or in a [hotel]{hotel}",
+      "entry": "guest room",
+      "id": "guest-room#guest-room__1"
+    },
+    {
+      "comment": "the [area]{area} [just_1]{just} [inside_1]{inside} the [entrance_1]{entrance} to a [hotel]{hotel}, [theater]{theater}, or other [large_1]{large} [building]{building}",
+      "entry": "lobby",
+      "id": "lobby_1#lobby_1__5"
+    },
+    {
+      "comment": "a [public_1]{public} [room_1]{room} in a [place_1]{place} such as a [hotel]{hotel}, [university]{university}, or [hospital]{hospital} where [people_1]{people} can [sit]{sit} and [relax]{relax}",
+      "entry": "lounge",
+      "id": "lounge_1#lounge_1__1"
+    },
+    {
+      "comment": "the part of a [large_1]{large} [building]{building} such as a [hotel]{hotel} or [office]{office} where there is someone whose [job_1]{job} is to [welcome_1]{welcome} [visitor]{visitors}, [deal_1]{deal} with [question_1]{questions}, etc.",
+      "entry": "reception",
+      "id": "reception#reception__6"
+    },
+    {
+      "comment": "the [area]{area} in front of this",
+      "entry": "reception",
+      "id": "reception#reception__9"
+    },
+    {
+      "comment": "a [bedroom]{bedroom} in a [home_1]{home} or in a [place_1]{place} such as a [hotel]{hotel}",
+      "entry": "room",
+      "id": "room_1#room_1__4"
+    },
+    {
+      "comment": "a [room_1]{room} or [bed_1]{bed} for one [person]{person}",
+      "entry": "single",
+      "id": "single_2#single_2__6"
+    },
+    {
+      "comment": "a [room_1]{room} that is [large_1]{large} enough for one [person]{person} to [sleep_1]{sleep} in, [especially]{especially} one in a [hotel]{hotel} or a [rented]{rented} [property]{property}",
+      "entry": "single room",
+      "id": "single-room#single-room__1"
+    },
+    {
+      "comment": "a twin-bedded room has two single beds  (=beds for one person)",
+      "entry": "twin-bedded",
+      "id": "twin-bedded#twin-bedded__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [hotel]{hotel} that is [available]{available} for someone to [stay_1]{stay} in",
+      "entry": "vacancy",
+      "id": "vacancy#vacancy__4"
+    }
+  ],
+  "thesaurus": "Rooms and areas in hotels and guest houses",
+  "type": "Related words"
+}

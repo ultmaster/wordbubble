@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "hammer away at",
+  "senses": [
+    {
+      "def": "to do something with [great_1]{great} [energy]{energy} and with all your [attention]{attention}",
+      "examples": [
+        "She [spent_1]{spent} all [weekend_1]{weekend} [hammering]{hammering} [away_1]{away} at her [novel_1]{novel}."
+      ],
+      "id": "hammer-away-at__1"
+    },
+    {
+      "def": "to keep [attack_2]{attacking} someone or something",
+      "examples": [
+        "[defense]{Defense} [lawyer]{lawyers} [hammered]{hammered} [away_1]{away} at the [witness_1]{witness}\u2019s [credibility]{credibility}."
+      ],
+      "id": "hammer-away-at__3"
+    }
+  ]
+}

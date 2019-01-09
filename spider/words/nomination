@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [official_1]{official} [suggestion]{suggestion} that someone should get a [job_1]{job} or a [prize_1]{prize}, or the [decision_1]{decision} to give them a [job_1]{job} or a [prize_1]{prize}",
+      "examples": [
+        "The [movie]{movie} [received]{received} an Oscar nomination for [best_1]{best} [foreign]{foreign} [language]{language} [movie]{movie}.",
+        "We [need_1]{need} [nomination]{nominations} for her [successor]{successor}.",
+        "Most [people_1]{people} [approved]{approved} of her nomination to the [committee]{committee}.",
+        "I didn\u2019t [support_1]{support} his nomination as [chairman]{chairman}."
+      ],
+      "id": "nomination__1"
+    },
+    {
+      "def": "a [book_1]{book}, [movie]{movie}, [actor]{actor}, etc. that has been [suggest]{suggested} to [receive]{receive} an [honor_1]{honor} or a [prize_1]{prize}",
+      "examples": [
+        "Her [book_1]{book} was one of the [nomination]{nominations} for the [award_1]{award}."
+      ],
+      "id": "nomination__6"
+    }
+  ],
+  "word": "nomination"
+}

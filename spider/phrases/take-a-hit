@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "take a hit",
+  "senses": [
+    {
+      "def": "to be [criticize]{criticized}",
+      "examples": [],
+      "id": "take-a-hit__1"
+    },
+    {
+      "def": "to [suffer]{suffer} [damage_1]{damage} or [loss]{loss}",
+      "examples": [
+        "[clothing]{Clothing} [took]{took} the [big_1]{biggest} hit, with [sale]{sales} down by 35%."
+      ],
+      "id": "take-a-hit__2"
+    }
+  ]
+}

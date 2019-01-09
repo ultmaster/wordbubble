@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "beat up",
+  "senses": [
+    {
+      "def": "to [hurt_1]{hurt} someone by [hit_1]{hitting} or [kick_1]{kicking} them many times",
+      "examples": [
+        "They [threaten]{threatened} to [beat_1]{beat} me up if I didn\u2019t give them my [wallet]{wallet}."
+      ],
+      "id": "beat-up_1__1"
+    },
+    {
+      "def": "to [blame_1]{blame} or [criticize]{criticize} yourself or someone else",
+      "examples": [
+        "It\u2019s time you [stop_1]{stopped} [beating]{beating} yourself up over this."
+      ],
+      "id": "beat-up_1__3"
+    }
+  ]
+}

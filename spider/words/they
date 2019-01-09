@@ -1,0 +1,35 @@
+{
+  "part": "pronoun",
+  "senses": [
+    {
+      "def": "[used]{used} for [refer]{referring} to a [group_1]{group} of [people_1]{people} or [thing]{things} that have already been [mention_1]{mentioned} or that are already [known_1]{known} about",
+      "examples": [
+        "I [call_1]{called} her [parent]{parents} because I [knew]{knew} they were [worried]{worried}.",
+        "It\u2019s [hard_1]{hard} to [choose]{choose}. They\u2019re all very [nice]{nice}."
+      ],
+      "id": "they__1"
+    },
+    {
+      "def": "[used]{used} [instead]{instead} of \u201che or she,\u201d [especially]{especially} when you are [refer]{referring} back to a [word_1]{word} such as \u201ceveryone,\u201d \u201csomeone,\u201d or \u201canyone\u201d",
+      "examples": [
+        "We should give everyone a [chance_1]{chance} to [say_1]{say} what they [think_1]{think}."
+      ],
+      "id": "they__4"
+    },
+    {
+      "def": "[used]{used} for [refer]{referring} to [people_1]{people} in [general_1]{general}",
+      "examples": [
+        "They [used]{used} to call her \u201cthe [iron_1]{Iron} [lady_1]{Lady}.\u201d"
+      ],
+      "id": "they__6"
+    },
+    {
+      "def": "[used]{used} for [refer]{referring} to a [government]{government}, an [organization]{organization}, or a [group_1]{group} of [people_1]{people} in [authority]{authority}",
+      "examples": [
+        "They\u2019re [going_1]{going} to [ban_1]{ban} [logging]{logging} in the [region]{region}."
+      ],
+      "id": "they__8"
+    }
+  ],
+  "word": "they"
+}

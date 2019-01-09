@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [receive]{receive} [property]{property} or [money]{money} from someone who has [die_1]{died}",
+      "examples": [
+        "He [inherited]{inherited} the [business]{business} from his [father_1]{father}."
+      ],
+      "id": "inherit__1"
+    },
+    {
+      "def": "to be [born]{born} with the same [appearance]{appearance} or [character]{character} as one of your [parent]{parents}",
+      "examples": [
+        "The [boy_1]{boys} [inherited]{inherited} Derek\u2019s [good_1]{good} [look_1]{looks}."
+      ],
+      "id": "inherit__4"
+    },
+    {
+      "def": "to have [responsibility]{responsibility} for a [situation]{situation} that someone has [start_1]{started} and [left_1]{left} for you to [deal_1]{deal} with",
+      "examples": [
+        "the road-building [program_1]{program} we [inherited]{inherited} from the [previous_1]{previous} [administration]{administration}",
+        "I [inherited]{inherited} Janine\u2019s [desk]{desk} and computer.",
+        "Many [country]{countries} have [inherited]{inherited} [tradition]{traditions} of [public_1]{public} [service_1]{service}."
+      ],
+      "id": "inherit__7"
+    }
+  ],
+  "word": "inherit"
+}

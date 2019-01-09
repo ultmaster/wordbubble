@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[clear_1]{clear} [glass]{glass} of very [good_1]{good} [quality_1]{quality}",
+      "examples": [
+        "a [set_1]{set} of crystal [wine_1]{wine} [glasses]{glasses}",
+        "We should use the [good_1]{good} crystal at [dinner]{dinner} [tonight_1]{tonight}."
+      ],
+      "id": "crystal__1"
+    },
+    {
+      "def": "a [piece_1]{piece} of a [substance]{substance} that has a [regular_1]{regular} [shape_1]{shape} with many sides and is [form_2]{formed} when the [substance]{substance} becomes [solid_1]{solid}",
+      "examples": [
+        "[ice_1]{ice}/[salt_1]{salt}/[sugar_1]{sugar}/[snow_1]{snow} [crystal]{crystals}"
+      ],
+      "id": "crystal__5"
+    },
+    {
+      "def": "a [clear_1]{clear} [rock_1]{rock} that [look_1]{looks} [like_1]{like} [glass]{glass}, [especially]{especially} [quartz]{quartz}",
+      "examples": [
+        "a crystal [necklace]{necklace}"
+      ],
+      "id": "crystal__7"
+    },
+    {
+      "def": "the [piece_1]{piece} of [glass]{glass} or [plastic_1]{plastic} that [protect]{protects} the [face_1]{face} of a [clock_1]{clock} or [watch_1]{watch}",
+      "examples": [],
+      "id": "crystal__10"
+    }
+  ],
+  "word": "crystal"
+}

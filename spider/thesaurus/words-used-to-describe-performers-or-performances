@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "[contain]{containing} only very [famous_1]{famous} or very [good_1]{good} [performer]{performers} or [sport_1]{sports} [player]{players}",
+      "entry": "all-star",
+      "id": "all-star#all-star__1"
+    },
+    {
+      "comment": "a [bankable]{bankable} [actor]{actor} or [performer]{performer} is very [popular]{popular}, and therefore [likely_1]{likely} to [make_1]{make} a [movie]{movie} or show a [financial]{financial} [success]{success}",
+      "entry": "bankable",
+      "id": "bankable#bankable__1"
+    },
+    {
+      "comment": "a [debut_1]{debut} CD, [appearance]{appearance}, [novel_1]{novel}, etc. is the first that a [performer]{performer}, [sport_1]{sports} [player]{player}, [writer]{writer}, etc. [make_1]{makes}",
+      "entry": "debut",
+      "id": "debut_2#debut_2__1"
+    },
+    {
+      "comment": "[used]{used} about [performer]{performers}, [song]{songs}, and other [people_1]{people} or [thing]{things} that have been [popular]{popular} and [successful]{successful} for a long time",
+      "entry": "evergreen",
+      "id": "evergreen_2#evergreen_2__2"
+    },
+    {
+      "comment": "[appear]{appearing} by [invitation]{invitation} to [perform]{perform} at an [event]{event}",
+      "entry": "guest",
+      "id": "guest_2#guest_2__4"
+    },
+    {
+      "comment": "[interpretive]{interpretive}",
+      "entry": "interpretative",
+      "id": "interpretative#interpretative__1"
+    },
+    {
+      "comment": "[relate]{relating} to how you [explain]{explain} or [understand]{understand} something or [perform]{perform} a [piece_1]{piece} of [music]{music}, a part in a [play_1]{play}, etc.",
+      "entry": "interpretive",
+      "id": "interpretive#interpretive__1"
+    },
+    {
+      "comment": "[perform]{performed} on a [stage_1]{stage} [surround_1]{surrounded} by an [audience]{audience}",
+      "entry": "in the round",
+      "id": "in-the-round#in-the-round__1"
+    },
+    {
+      "comment": "a [live_1]{live} [performance]{performance} is [given_1]{given} before an [audience]{audience}",
+      "entry": "live",
+      "id": "live_2#live_2__8"
+    },
+    {
+      "comment": "a live recording is made during a performance and not in a studio",
+      "entry": "live",
+      "id": "live_2#live_2__10"
+    },
+    {
+      "comment": "if something is [perform]{performed} [live_1]{live}, it is [perform]{performed} before an [audience]{audience}",
+      "entry": "live",
+      "id": "live_3#live_3__3"
+    },
+    {
+      "comment": "if something is recorded live, it is recorded during a concert and not in a studio",
+      "entry": "live",
+      "id": "live_3#live_3__5"
+    },
+    {
+      "comment": "in the [real_1]{real} [life]{life} of an [actor]{actor}",
+      "entry": "off-screen",
+      "id": "off-screen#off-screen__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} what an [actor]{actor} is [really]{really} [like_1]{like}, when they are not [acting_1]{acting} in a [play_1]{play} or [movie]{movie}",
+      "entry": "offstage",
+      "id": "offstage#offstage__4"
+    },
+    {
+      "comment": "if [entertainer]{entertainers} are on the [road]{road}, they are [traveling]{traveling} to many [different]{different} [place_1]{places} to [perform]{perform}",
+      "entry": "on the road",
+      "id": "on-the-road#on-the-road__3"
+    },
+    {
+      "comment": "the way a [piece_1]{piece} of [music]{music}, [poem]{poem}, [movie]{movie}, [play_1]{play}, etc. is [perform]{performed}",
+      "entry": "rendering",
+      "id": "rendering#rendering__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} way of [perform]{performing} a [song]{song}, [poem]{poem}, [piece_1]{piece} of [music]{music}, etc.",
+      "entry": "rendition",
+      "id": "rendition#rendition__1"
+    },
+    {
+      "comment": "the type of humor that a particular comedian uses",
+      "entry": "schtick",
+      "id": "schtick#schtick__1"
+    },
+    {
+      "comment": "[perform]{performing} alone, not as part of a [band_1]{band}, [orchestra]{orchestra}, etc.",
+      "entry": "solo",
+      "id": "solo_2#solo_2__4"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [stagy]{stagy}",
+      "entry": "stagey",
+      "id": "stagey#stagey__1"
+    },
+    {
+      "comment": "not [natural_1]{natural}, [like_1]{like} the [performance]{performance} of a [bad_1]{bad} [actor]{actor}",
+      "entry": "stagy",
+      "id": "stagy#stagy__1"
+    },
+    {
+      "comment": "[consist]{consisting} of one [person]{person} [standing_1]{standing} in front of an [audience]{audience} and [entertaining]{entertaining} them by [telling]{telling} [joke_1]{jokes}",
+      "entry": "stand-up",
+      "id": "stand-up_2#stand-up_2__1"
+    },
+    {
+      "comment": "someone who [does]{does} not have much [money]{money} because they [choose]{choose} to [spend]{spend} their time on their art rather than take a [job_1]{job} that [pay_1]{pays} more [money]{money}",
+      "entry": "starving actor/artist/writer",
+      "id": "starving-actor-artist-writer#starving-actor-artist-writer__1"
+    },
+    {
+      "comment": "a [stellar]{stellar} [performance]{performance}, [achievement]{achievement}, [piece_1]{piece} of [work_1]{work}, etc. is [extremely]{extremely} [good_1]{good}",
+      "entry": "stellar",
+      "id": "stellar#stellar__1"
+    },
+    {
+      "comment": "a [straight_1]{straight} [actor]{actor} or [entertainer]{entertainer} is one who only [perform]{performs} serious [part_1]{parts}",
+      "entry": "straight",
+      "id": "straight_1#straight_1__22"
+    },
+    {
+      "comment": "[straight_1]{straight} [entertainment]{entertainment} is serious and not [humorous]{humorous}",
+      "entry": "straight",
+      "id": "straight_1#straight_1__23"
+    },
+    {
+      "comment": "if a [person]{person} or thing is [underrated]{underrated}, [especially]{especially} a [performer]{performer}, [writer]{writer}, or [sport_1]{sports} [player]{player}, most [people_1]{people} do not [recognize]{recognize} how [good_1]{good} that [person]{person} or thing [really]{really} is",
+      "entry": "underrated",
+      "id": "underrated#underrated__1"
+    },
+    {
+      "comment": "a [movie]{movie}, [play_1]{play}, etc. that is [unmissable]{unmissable} is so [good_1]{good} that you [think_1]{think} everyone should see it",
+      "entry": "unmissable",
+      "id": "unmissable#unmissable__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a [performance]{performance} or a [performer]{performer}",
+      "entry": "virtuoso",
+      "id": "virtuoso#virtuoso__3"
+    },
+    {
+      "comment": "a [weak]{weak} [player]{player}, [performer]{performer}, etc. is one who is not [good_1]{good} at [play_1]{playing}, [perform]{performing}, etc.",
+      "entry": "weak",
+      "id": "weak#weak__16"
+    },
+    {
+      "comment": "an [actor]{actor} who is [wooden]{wooden} [does]{does} not [express_1]{express} enough [emotion]{emotion} in their [performance]{performance}",
+      "entry": "wooden",
+      "id": "wooden#wooden__3"
+    }
+  ],
+  "thesaurus": "Words used to describe performers or performances",
+  "type": "Related words"
+}

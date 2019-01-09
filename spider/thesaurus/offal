@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "the [brain_1]{brain} of an [animal_1]{animal} [cooked]{cooked} and [eaten]{eaten} as [food]{food}",
+      "entry": "brains",
+      "id": "brain_1#brain_1__6"
+    },
+    {
+      "comment": "a pig\u2019s intestines  (=tubes that carry food from the stomach out of the body), eaten as food",
+      "entry": "chitterlings",
+      "id": "chitterlings#chitterlings__1"
+    },
+    {
+      "comment": "the liver, heart, and neck of poultry  (=chickens, etc.) that you remove before you cook it",
+      "entry": "giblets",
+      "id": "giblets#giblets__1"
+    },
+    {
+      "comment": "the [kidney]{kidney} of some [animal_1]{animals} [eaten]{eaten} as [food]{food}",
+      "entry": "kidney",
+      "id": "kidney#kidney__5"
+    },
+    {
+      "comment": "the [liver]{liver} of some [animal_1]{animals} [eaten]{eaten} as [food]{food}",
+      "entry": "liver",
+      "id": "liver#liver__2"
+    },
+    {
+      "comment": "the pancreas  (=small organ in the body) of a young farm animal, cooked and eaten",
+      "entry": "sweetbread",
+      "id": "sweetbread#sweetbread__1"
+    },
+    {
+      "comment": "the [tongue_1]{tongue} of an [animal_1]{animal} [cooked]{cooked} and [eaten]{eaten} as [food]{food}",
+      "entry": "tongue",
+      "id": "tongue_1#tongue_1__10"
+    },
+    {
+      "comment": "the [stomach_1]{stomach} of a [cow_1]{cow} or a [sheep]{sheep} [eaten]{eaten} as [food]{food}",
+      "entry": "tripe",
+      "id": "tripe#tripe__2"
+    }
+  ],
+  "thesaurus": "Offal",
+  "type": "Related words"
+}

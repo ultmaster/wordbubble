@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "lead with",
+  "senses": [
+    {
+      "def": "to [begin]{begin} a [speech]{speech}, [news]{news} [broadcast_1]{broadcast}, [story]{story}, etc., with a [particular_1]{particular} [story]{story} or [subject_1]{subject}",
+      "examples": [
+        "We\u2019ll [lead_1]{lead} with the [president_1]{President}\u2019s [visit_1]{visit} to [china_1]{China}."
+      ],
+      "id": "lead-with__1"
+    },
+    {
+      "def": "to [begin]{begin} an [attack_1]{attack} in [boxing]{boxing} with a [particular_1]{particular} hand or hit",
+      "examples": [
+        "He [led_1]{led} with a [right_1]{right} [jab_1]{jab}."
+      ],
+      "id": "lead-with__3"
+    }
+  ]
+}

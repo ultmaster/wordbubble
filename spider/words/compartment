@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "one of the [separate_1]{separate} [part_1]{parts} of a [container]{container} or [place_1]{place} where [thing]{things} are [store_2]{stored}",
+      "examples": [
+        "the [freezer]{freezer} compartment of a [refrigerator]{refrigerator}",
+        "She found a [secret_1]{secret} compartment behind a [drawer]{drawer} in the [desk]{desk}."
+      ],
+      "id": "compartment__1"
+    },
+    {
+      "def": "one of the [separate_1]{separate} [space_1]{spaces} into which a [railroad_1]{railroad} [passenger]{passenger} [car]{car} or [airplane]{airplane} is [divided]{divided}",
+      "examples": [
+        "a [first-class_2]{first-class} compartment"
+      ],
+      "id": "compartment__4"
+    }
+  ],
+  "word": "compartment"
+}

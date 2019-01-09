@@ -1,0 +1,31 @@
+{
+  "part": "phrase",
+  "phrase": "be supposed to do/be something",
+  "senses": [
+    {
+      "def": "to be [expected]{expected} to [behave]{behave} in a [particular_1]{particular} way, [especially]{especially} [accord_2]{according} to a [rule_1]{rule}, an [agreement]{agreement}, or someone in [authority]{authority}",
+      "examples": [
+        "You\u2019re [supposed]{supposed} to [make_1]{make} a [copy_1]{copy} of the [contract_1]{contract} before you [mail_1]{mail} it.",
+        "Am I [supposed]{supposed} to be at the [meeting]{meeting} on Tuesday?",
+        "This isn\u2019t what we\u2019re [supposed]{supposed} to be [discuss]{discussing}."
+      ],
+      "id": "be-supposed-to-do-be-something__1"
+    },
+    {
+      "def": "to be [generally]{generally} [expected]{expected} or [considered]{considered} to have a [particular_1]{particular} [quality_1]{quality} or [skill]{skill}",
+      "examples": [
+        "[latin_1]{Latin} America is [supposed]{supposed} to be a [pretty_1]{pretty} [inexpensive]{inexpensive} [place_1]{place} to [travel_1]{travel} in.",
+        "This [restaurant]{restaurant} is [supposed]{supposed} to [make_1]{make} [excellent]{excellent} [salad]{salads}."
+      ],
+      "id": "be-supposed-to-do-be-something__5"
+    },
+    {
+      "def": "to be [expected]{expected} or [intended_1]{intended} to [happen]{happen} in a [particular_1]{particular} way or to have a [particular_1]{particular} [result_1]{result}",
+      "examples": [
+        "The [new]{new} [regulation_1]{regulations} are [supposed]{supposed} to [help_1]{help} [single_1]{single} [parent]{parents}.",
+        "[today_1]{Today} was [supposed]{supposed} to have been [sunny]{sunny}, but it\u2019s [rain_2]{raining}."
+      ],
+      "id": "be-supposed-to-do-be-something__8"
+    }
+  ]
+}

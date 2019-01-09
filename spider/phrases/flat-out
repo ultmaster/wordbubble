@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "flat out",
+  "senses": [
+    {
+      "def": "as [quickly]{quickly} or with as much [effort]{effort} as [possible_1]{possible}",
+      "examples": [
+        "He [work_1]{worked} [flat_1]{flat} out from [morning_1]{morning} until [night_1]{night}."
+      ],
+      "id": "flat-out__1"
+    },
+    {
+      "def": "[directly_1]{directly}, without [trying]{trying} to [avoid]{avoid} [offending]{offending} or [upsetting]{upsetting} [people_1]{people}",
+      "examples": [
+        "Michael [said_1]{said} [flat_1]{flat} out that he didn\u2019t [believe]{believe} me."
+      ],
+      "id": "flat-out__3"
+    },
+    {
+      "def": "[completely]{completely} and without [doubt_1]{doubt}",
+      "examples": [
+        "He was [just_1]{just} [flat_1]{flat} out [wrong_1]{wrong}.",
+        "DNA [analysis]{analysis} can [flat_1]{flat} out [identify]{identify} a [suspect_1]{suspect} sometimes."
+      ],
+      "id": "flat-out__5"
+    }
+  ]
+}

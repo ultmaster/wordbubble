@@ -1,0 +1,37 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[money]{money} or [property]{property} that you [arrange]{arrange} for someone to have after you [die_1]{die}",
+      "examples": [
+        "My [grandmother]{grandmother} [die_1]{died} and [left_1]{left} me a [small_1]{small} legacy."
+      ],
+      "id": "legacy__1"
+    },
+    {
+      "def": "something such as a [tradition]{tradition} or [problem]{problem} that [exist]{exists} as a [result_1]{result} of something that [happen]{happened} in the [past_1]{past}",
+      "examples": [
+        "The war [left_1]{left} an [enduring]{enduring} legacy of [bitter_1#bitter_1__14]{bitterness} and [suspicion]{suspicion}.",
+        "Perhaps her most [important]{important} legacy was her [program_1]{program} of [educational]{educational} [reform_1]{reform}."
+      ],
+      "id": "legacy__3"
+    },
+    {
+      "def": "the [principle]{principle} that a thing which [exist]{exists} as a [result_1]{result} of something that [happen]{happened} in the [past_1]{past} can [later_1]{later} be [used]{used} in a [different]{different} way",
+      "examples": [
+        "It is not too [late_1]{late} to [create]{create} a [genuine]{genuine} Olympics legacy, but many [opportunity]{opportunities} have already been [miss_1]{missed}."
+      ],
+      "id": "legacy__7"
+    },
+    {
+      "def": "still [used]{used} although it is no [long_1]{longer} the most [modern]{modern} or [advanced]{advanced}, because it would be very [expensive]{expensive} or [difficult]{difficult} to [replace]{replace}",
+      "examples": [
+        "legacy [software]{software}/[application]{application}/[media]{media}",
+        "UK [bank_1]{banks} have legacy [system]{systems} that have been in [place_1]{place} for [decade]{decades}."
+      ],
+      "id": "legacy__9"
+    }
+  ],
+  "word": "legacy"
+}

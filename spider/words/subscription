@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [agreement]{agreement} to [pay_1]{pay} an amount of [money]{money} so that you will [receive]{receive} something such as a [magazine]{magazine} or a [service_1]{service}. You take out a subscription, [usually]{usually} for a [year]{year}, and [renew]{renew} it if you [want_1]{want} to [continue]{continue} the [arrangement]{arrangement} for another [year]{year}.",
+      "examples": [
+        "The [publication]{publication} is [available]{available} only by subscription."
+      ],
+      "id": "subscription__1"
+    },
+    {
+      "def": "an [agreement]{agreement} to [pay_1]{pay} an amount of [money]{money} in [order_1]{order} to [help_1]{help} an [organization]{organization} or a [project_1]{project}",
+      "examples": [
+        "The [institute_1]{Institute} was [built_1]{built} with the [help_1]{help} of [public_1]{public} [subscription]{subscriptions}."
+      ],
+      "id": "subscription__5"
+    },
+    {
+      "def": "an [agreement]{agreement} to [buy_1]{buy} [stock_1]{stock} in a [company]{company}",
+      "examples": [],
+      "id": "subscription__7"
+    }
+  ],
+  "word": "subscription"
+}

@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [old]{old} [cloth]{cloth} [used]{used} for [cleaning]{cleaning} or [wipe_1]{wiping} something",
+      "examples": [
+        "an [oily]{oily} rag"
+      ],
+      "id": "rag_1__1"
+    },
+    {
+      "def": "[clothes]{clothes} that are [old]{old}, [torn_1]{torn}, and [dirty_1]{dirty}",
+      "examples": [
+        "The [little_1]{little} [girl]{girl} was [dressed]{dressed} in [rag_1]{rags}."
+      ],
+      "id": "rag_1__3"
+    },
+    {
+      "def": "a [newspaper]{newspaper} that is not very [good_1]{good}",
+      "examples": [
+        "There was a [report_1]{report} in the [local_1]{local} rag about it."
+      ],
+      "id": "rag_1__5"
+    },
+    {
+      "def": "a [piece_1]{piece} of [ragtime]{ragtime} [music]{music}",
+      "examples": [],
+      "id": "rag_1__7"
+    }
+  ],
+  "word": "rag"
+}

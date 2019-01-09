@@ -1,0 +1,25 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[work_1]{work} that is done to [fix_1]{fix} something that is [broken_1]{broken} or [damage_2]{damaged}",
+      "examples": [
+        "How much will the [repair_1]{repairs} [cost_1]{cost}?",
+        "The [insurance]{insurance} [company]{company} [require]{requires} two [estimate_1]{estimates} for [repair_1]{repairs} to my [car]{car}.",
+        "The [staff_1]{staff} is [working]{working} [overtime_1]{overtime} to [carry_1]{carry} out the [repair_1]{repairs}.",
+        "[unfortunately]{Unfortunately} the [engine]{engine} is beyond repair.",
+        "Both of the [monument]{monuments} were [sadly]{sadly} in [need_1]{need} of repair.",
+        "The [office]{offices} are still under repair.",
+        "repair [work_1]{work}/[cost_1]{costs}",
+        "a [bicycle]{bicycle} repair [shop_1]{shop}"
+      ],
+      "id": "repair_2__1"
+    },
+    {
+      "def": "a part that has been [repair_1]{repaired}",
+      "examples": [],
+      "id": "repair_2__11"
+    }
+  ],
+  "word": "repair"
+}

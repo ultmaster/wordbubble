@@ -1,0 +1,44 @@
+{
+  "part": "phrase",
+  "phrase": "belong to",
+  "senses": [
+    {
+      "def": "to be [own_2]{owned} by someone",
+      "examples": [
+        "The [car]{car} [belong]{belongs} to the [woman]{woman} next [door_1]{door}.",
+        "Who [does]{does} this [coat_1]{coat} [belong]{belong} to?"
+      ],
+      "id": "belong-to__1"
+    },
+    {
+      "def": "to be a [member]{member} of an [organization]{organization} or [club_1]{club}",
+      "examples": [
+        "She [belong]{belongs} to the [school_1]{school} computer [club_1]{club}."
+      ],
+      "id": "belong-to__4"
+    },
+    {
+      "def": "to come from or be part of a [group_1]{group} of [similar]{similar} [thing]{things} or [people_1]{people}",
+      "examples": [
+        "This [belong]{belongs} to the same [family_1]{family} of [drug_1]{drugs} as Prozac.",
+        "They [belong]{belong} to a [different]{different} [generation]{generation}.",
+        "This [painting]{painting} [clearly]{clearly} [belong]{belongs} to a [later_1]{later} [period_1]{period}."
+      ],
+      "id": "belong-to__6"
+    },
+    {
+      "def": "if a [particular_1]{particular} time, [aspect]{aspect} of [life]{life}, way of [thinking_1]{thinking}, etc. [belong]{belongs} to a [particular_1]{particular} [group_1]{group}, they are the [people_1]{people} who [control_1]{control} it or who are the most [suitable]{suitable} for it",
+      "examples": [
+        "The [future_1]{future} [belong]{belongs} to you."
+      ],
+      "id": "belong-to__11"
+    },
+    {
+      "def": "if something [belong]{belongs} to someone, they [deserve]{deserve} it or have a [right_1]{right} to it",
+      "examples": [
+        "Of [course_1]{course}, all the [credit_1]{credit} [really]{really} [belong]{belongs} to my [partner_1]{partner}, Sam."
+      ],
+      "id": "belong-to__13"
+    }
+  ]
+}

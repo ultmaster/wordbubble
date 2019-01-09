@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [pain_1]{pain} or another [bad_1]{bad} [physical_1]{physical} [feeling_1]{feeling} less [unpleasant]{unpleasant}",
+      "entry": "relieve",
+      "id": "relieve#relieve__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [problem]{problem}, [bad_1]{bad} [situation]{situation}, or [pain_1]{pain} less [severe]{severe}",
+      "entry": "ease",
+      "id": "ease_1#ease_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [feeling_1]{feeling} or a [pain_1]{pain} less [strong]{strong}",
+      "entry": "deaden",
+      "id": "deaden#deaden__1"
+    },
+    {
+      "comment": "to cause a very [strong]{strong} [feeling_1]{feeling} of [pain_1]{pain} to [disappear]{disappear} or become [weak]{weaker}",
+      "entry": "numb",
+      "id": "numb_2#numb_2__3"
+    },
+    {
+      "comment": "to [make_1]{make} something less [sore_1]{sore} or [painful]{painful}",
+      "entry": "soothe",
+      "id": "soothe#soothe__4"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [pain_1]{pain} or other [bad_1]{bad} [effect_1]{effects} of an [illness]{illness} without [cure_2]{curing} it [completely]{completely}",
+      "entry": "palliate",
+      "id": "palliate#palliate__2"
+    },
+    {
+      "comment": "to [stop_1]{stop} [pain_1]{pain}",
+      "entry": "kill",
+      "id": "kill_1#kill_1__7"
+    },
+    {
+      "comment": "to [make_1]{make} something less [painful]{painful}, [severe]{severe}, or serious",
+      "entry": "alleviate",
+      "id": "alleviate#alleviate__1"
+    },
+    {
+      "comment": "to [make_1]{make} an [unpleasant]{unpleasant} or [painful]{painful} [feeling_1]{feeling} less [severe]{severe}",
+      "entry": "assuage",
+      "id": "assuage#assuage__1"
+    }
+  ],
+  "thesaurus": "To relieve or alleviate pain",
+  "type": "Synonyms"
+}

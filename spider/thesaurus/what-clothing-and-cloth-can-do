@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "if [clothes]{clothes} [bag_1]{bag}, they become [stretched]{stretched} and [look_1]{look} [wide_1]{wide}",
+      "entry": "bag",
+      "id": "bag_2#bag_2__6"
+    },
+    {
+      "comment": "[clothes]{clothes} that can [breathe]{breathe} are made from [cloth]{cloth} with very [small_1]{small} [hole_1]{holes} that [allow]{allow} [air_1]{air} in",
+      "entry": "breathe",
+      "id": "breathe#breathe__10"
+    },
+    {
+      "comment": "if [cloth]{cloth} [bunch_1]{bunches}, or if you [bunch_1]{bunch} it, it comes together in [small_1]{small} [fold_1]{folds}",
+      "entry": "bunch",
+      "id": "bunch_2#bunch_2__4"
+    },
+    {
+      "comment": "if something you are [wearing]{wearing} is [fall_1]{falling} down, it is [slip_1]{slipping} down your [legs]{legs}",
+      "entry": "fall down",
+      "id": "fall-down#fall-down__3"
+    },
+    {
+      "comment": "if [clothes]{clothes} [fit_1]{fit}, they are the [right_1]{right} [size_1]{size} for you",
+      "entry": "fit",
+      "id": "fit_1#fit_1__10"
+    },
+    {
+      "comment": "if [hair]{hair} or [clothing]{clothing} [flow_1]{flows}, it [fall_1]{falls} or [move_1]{moves} in a [smooth_1]{smooth} [graceful]{graceful} way around someone\u2019s body",
+      "entry": "flow",
+      "id": "flow_2#flow_2__17"
+    },
+    {
+      "comment": "if [clothes]{clothes} [hang_1]{hang} well, they are [loose_1]{loose} and [fit_1]{fit} [properly]{properly} and [look_1]{look} [attractive]{attractive} when you [wear_1]{wear} them",
+      "entry": "hang",
+      "id": "hang_1#hang_1__11"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [clothing]{clothing} [hug_1]{hugs} your body, it [fit_1]{fits} very [tight_1#tight_1__40]{tightly}",
+      "entry": "hug",
+      "id": "hug_1#hug_1__7"
+    },
+    {
+      "comment": "if a [material_1]{material} [pucker]{puckers} or is [pucker]{puckered}, it becomes full of [fold_1]{folds} and is not [flat_1]{flat}",
+      "entry": "pucker",
+      "id": "pucker#pucker__3"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [clothing]{clothing} [ride_1]{rides} up, it [gradually]{gradually} [move_1]{moves} [upward_1]{upward} on your body",
+      "entry": "ride up",
+      "id": "ride-up#ride-up__1"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [cloth]{cloth} or [clothing]{clothing} [ruck_1]{rucks} up, or if you [ruck_1]{ruck} it up, it [form_1]{forms} [messy]{messy} [fold_1]{folds}",
+      "entry": "ruck up",
+      "id": "ruck-up#ruck-up__1"
+    },
+    {
+      "comment": "if tights or pantyhose run, a hole in them becomes longer",
+      "entry": "run",
+      "id": "run_1#run_1__86"
+    },
+    {
+      "comment": "if a [material_1]{material} such as [cloth]{cloth} [stretch_1]{stretches}, it becomes [wide_1]{wider} or [long_1]{longer} when you [pull_1]{pull} it, and [return_1]{returns} to its [original_1]{original} [shape_1]{shape} and [size_1]{size} when you [stop_1]{stop} [pull_1]{pulling} it",
+      "entry": "stretch",
+      "id": "stretch_1#stretch_1__5"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [clothing]{clothing} [unravel]{unravels}, or if you [unravel]{unravel} it, its [fiber]{fibers} become [separated]{separated} from each other",
+      "entry": "unravel",
+      "id": "unravel#unravel__1"
+    }
+  ],
+  "thesaurus": "What clothing and cloth can do",
+  "type": "Related words"
+}

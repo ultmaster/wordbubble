@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "as if",
+  "senses": [
+    {
+      "def": "in such a way that something seems to be [true_1]{true}",
+      "examples": [
+        "It [look_1]{looks} as if it\u2019s [going_1]{going} to [rain_1]{rain}.",
+        "[jack_1]{Jack} [smile_1]{smiled} as though he was [enjoy]{enjoying} a [private_1]{private} [joke_1]{joke}."
+      ],
+      "id": "as-if__1"
+    },
+    {
+      "def": "[used]{used} when you are [describe]{describing} something and you [imagine]{imagine} an [explanation]{explanation} for it that you [know_1]{know} is not the [real_1]{real} one",
+      "examples": [
+        "The [house_1]{house} was in such a [mess_1]{mess} \u2013 it [look_1]{looked} as though a [bomb_1]{bomb} had [drop_1]{dropped} on it."
+      ],
+      "id": "as-if__4"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that something is not [true_1]{true} or is not [important]{important}",
+      "examples": [
+        "\u201cDon\u2019t get [lost_1]{lost} or anything, will you?\u201d \u201cAs if I would \u2013 I\u2019m not [stupid_1]{stupid}.\u201d",
+        "Why was he [worrying]{worrying} about the [interview_1]{interview}? \u2013 As if it [matter_2]{mattered} anyway!"
+      ],
+      "id": "as-if__6"
+    }
+  ]
+}

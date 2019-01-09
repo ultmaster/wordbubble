@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "connect up",
+  "senses": [
+    {
+      "def": "to [make_1]{make} it [possible_1]{possible} for someone to [communicate]{communicate} [use_1]{using} a computer [network_1]{network}",
+      "examples": [
+        "I\u2019m [just_1]{just} [trying]{trying} to [connect]{connect} up to the [e-mail_1]{e-mail} [server]{server}."
+      ],
+      "id": "connect-up__4"
+    },
+    {
+      "def": "to [join_1]{join} several [thing]{things} or [place_1]{places} together",
+      "examples": [
+        "a [network_1]{network} of [canal]{canals} [connect]{connecting} up all the [major_1]{major} [port]{ports}"
+      ],
+      "id": "connect-up__6"
+    }
+  ]
+}

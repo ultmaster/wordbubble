@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "to not [allow]{allow} someone to [enter]{enter} a [particular_1]{particular} [place_1]{place}",
+      "entry": "shut out",
+      "id": "shut-out_1#shut-out_1__4"
+    },
+    {
+      "comment": "to [prevent]{prevent} [people_1]{people} from [enter]{entering} an [area]{area} or a [building]{building}",
+      "entry": "seal off",
+      "id": "seal-off#seal-off__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [people_1]{people} from [enter]{entering} an [area]{area} by [put]{putting} something such as a [rope_1]{rope} around it",
+      "entry": "cordon off",
+      "id": "cordon_2#cordon_2__4"
+    },
+    {
+      "comment": "to [stop_1]{stop} [people_1]{people} or [vehicle]{vehicles} from [enter]{entering} or [leave_1]{leaving} a [place_1]{place}, [use_1]{using} a [road]{road}, etc.",
+      "entry": "close",
+      "id": "close_1#close_1__17"
+    },
+    {
+      "comment": "to [make_1]{make} a [place_1]{place} [difficult]{difficult} or [impossible]{impossible} to [enter]{enter}, [leave_1]{leave}, or [communicate]{communicate} with",
+      "entry": "cut off",
+      "id": "cut-off#cut-off__6"
+    },
+    {
+      "comment": "to [deliberately]{deliberately} [prevent]{prevent} someone or something from being [involved]{involved} in an [activity]{activity} or from [enter]{entering} a [place_1]{place}",
+      "entry": "exclude",
+      "id": "exclude#exclude__4"
+    },
+    {
+      "comment": "to keep something [away_1]{away}, or to [prevent]{prevent} it from [enter]{entering} something",
+      "entry": "repel",
+      "id": "repel#repel__2"
+    },
+    {
+      "comment": "to [make_1]{make} [people_1]{people} [stay_1]{stay} in a [lock_1]{locked} [indoor]{indoor} [space_1]{space} during an [emergency_1]{emergency} in [order_1]{order} to keep them [safe_1]{safe}",
+      "entry": "lock down",
+      "id": "lock-down#lock-down__1"
+    }
+  ],
+  "thesaurus": "To stop someone from entering or leaving a place",
+  "type": "Synonyms"
+}

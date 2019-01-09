@@ -1,0 +1,166 @@
+{
+  "entries": [
+    {
+      "comment": "an [important]{important} [road]{road}, [railroad_1]{railroad}, or [river]{river}",
+      "entry": "artery",
+      "id": "artery#artery__2"
+    },
+    {
+      "comment": "a place in a train station where you can leave your suitcases, bags, etc. temporarily. The British word is left luggage.",
+      "entry": "baggage room",
+      "id": "baggage-room#baggage-room__1"
+    },
+    {
+      "comment": "a railroad track between small towns on which small and fairly slow trains run. A track between larger towns, with larger and faster trains, is called a main line.",
+      "entry": "branch line",
+      "id": "branch-line#branch-line__1"
+    },
+    {
+      "comment": "one of two [metal_1]{metal} [spring_1]{springs} at the front and back of a [train_1]{train} and at the [end_1]{end} of a [railroad_1]{railroad} [line_1]{line} that [help_1]{helps} to [protect]{protect} the [train_1]{train} if it [crash_1]{crashes}",
+      "entry": "buffer",
+      "id": "buffer_1#buffer_1__3"
+    },
+    {
+      "comment": "a [train_1]{train} [tunnel_1]{tunnel} under the English [channel_1]{Channel} between England and France",
+      "entry": "the Channel Tunnel",
+      "id": "the-channel-tunnel#the-channel-tunnel__1"
+    },
+    {
+      "comment": "a [road]{road} or [railroad_1]{railroad} system that [allow]{allows} you to [travel_1]{travel} from one [place_1]{place} to another",
+      "entry": "connection",
+      "id": "connection#connection__11"
+    },
+    {
+      "comment": "a [cut_1]{cut} made for a [road]{road} or a [railroad_1]{railroad}",
+      "entry": "cutting",
+      "id": "cutting_1#cutting_1__4"
+    },
+    {
+      "comment": "a part of a [road]{road} or [railroad_1]{railroad} [line_1]{line} [added]{added} to the [existing]{existing} one",
+      "entry": "extension",
+      "id": "extension#extension__15"
+    },
+    {
+      "comment": "a [minor_1]{minor} [road]{road}, [railroad_1]{railroad} [line_1]{line}, or [air_1]{air} [service_1]{service} that [lead_1]{leads} to a [major_1]{major} one",
+      "entry": "feeder",
+      "id": "feeder_1#feeder_1__8"
+    },
+    {
+      "comment": "[leading]{leading} to a [large_1]{larger} [road]{road}, [railroad_1]{railroad} [line_1]{line}, or [air_1]{air} [service_1]{service}",
+      "entry": "feeder",
+      "id": "feeder_2#feeder_2__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [bus_1]{bus} or [train_1]{train} [stop_1]{stops} only if someone [signal_1]{signals} it",
+      "entry": "flag stop",
+      "id": "flag-stop#flag-stop__1"
+    },
+    {
+      "comment": "the distance between the two metal rails  (=tracks) of a railroad, or between the wheels of the train",
+      "entry": "gauge",
+      "id": "gauge_1#gauge_1__11"
+    },
+    {
+      "comment": "a place where you change from one railroad line to another",
+      "entry": "interchange",
+      "id": "interchange_1#interchange_1__4"
+    },
+    {
+      "comment": "a [railroad_1]{railroad} [crossing]{crossing}",
+      "entry": "level crossing",
+      "id": "level-crossing#level-crossing__1"
+    },
+    {
+      "comment": "a part of a [railroad_1]{railroad} system",
+      "entry": "line",
+      "id": "line_1#line_1__33"
+    },
+    {
+      "comment": "the long [metal_1]{metal} [bar_1]{bars} on which [train_1]{trains} [travel_1]{travel}",
+      "entry": "line",
+      "id": "line_1#line_1__35"
+    },
+    {
+      "comment": "an [important]{important} [railroad_1]{railroad} between two [city]{cities}",
+      "entry": "main line",
+      "id": "main-line#main-line__1"
+    },
+    {
+      "comment": "a [point_1]{point} at an [airport]{airport} or [train_1]{train} [station_1]{station} where [people_1]{people} can [arrange]{arrange} to [meet_1]{meet}",
+      "entry": "meeting point",
+      "id": "meeting-point#meeting-point__1"
+    },
+    {
+      "comment": "a [framework]{framework} that [carry_1]{carries} [electricity]{electricity} from [overhead_1]{overhead} [wire_1]{wires} to a [train_1]{train} or [tram]{tram}",
+      "entry": "pantograph",
+      "id": "pantograph#pantograph__1"
+    },
+    {
+      "comment": "one of the [pair_1]{pair} of [metal_1]{metal} [bar_1]{bars} that a [train_1]{train} [travel_1]{travels} on",
+      "entry": "rail",
+      "id": "rail_1#rail_1__1"
+    },
+    {
+      "comment": "the [place_1]{place} where a [railroad_1]{railroad} [line_1]{line} [end_1]{ends}",
+      "entry": "railhead",
+      "id": "railhead#railhead__1"
+    },
+    {
+      "comment": "the [metal_1]{metal} [track_1]{track} that [train_1]{trains} [travel_1]{travel} on",
+      "entry": "railroad",
+      "id": "railroad_1#railroad_1__1"
+    },
+    {
+      "comment": "a [short_1]{short} [railroad_1]{railroad} [track_1]{track} [connected]{connected} to a [main_1]{main} [track_1]{track}",
+      "entry": "sidetrack",
+      "id": "sidetrack_2#sidetrack_2__1"
+    },
+    {
+      "comment": "a [short_1]{short} [railroad_1]{railroad} [track_1]{track} [connected]{connected} to a [main_1]{main} [track_1]{track}",
+      "entry": "siding",
+      "id": "siding#siding__2"
+    },
+    {
+      "comment": "one of the [large_1]{large} [piece_1]{pieces} of [wood]{wood} that [support_1]{support} a [railroad_1]{railroad} [track_1]{track}",
+      "entry": "sleeper",
+      "id": "sleeper#sleeper__6"
+    },
+    {
+      "comment": "a part of something such as a railroad or an electrical circuit that goes in a different direction from the main part",
+      "entry": "spur",
+      "id": "spur_1#spur_1__5"
+    },
+    {
+      "comment": "a [railroad_1]{railroad} [line_1]{line}",
+      "entry": "track",
+      "id": "track_1#track_1__4"
+    },
+    {
+      "comment": "the [place_1]{place} where [train_1]{trains} [stop_1]{stop} to [let_1]{let} [passenger]{passengers} on and off",
+      "entry": "train station",
+      "id": "train-station#train-station__1"
+    },
+    {
+      "comment": "the metal tracks on a street that a tram travels along",
+      "entry": "tramlines",
+      "id": "tramlines#tramlines__1"
+    },
+    {
+      "comment": "the metal tracks on a street that a tram travels along",
+      "entry": "tramway",
+      "id": "tramway#tramway__1"
+    },
+    {
+      "comment": "a round [flat_1]{flat} [area]{area} [used]{used} for [turning]{turning} [train_1]{train} [engine]{engines} round",
+      "entry": "turntable",
+      "id": "turntable#turntable__3"
+    },
+    {
+      "comment": "a [station_1]{station} between the [major_1]{major} [station_1]{stations} on a [railroad_1]{railroad} [line_1]{line}",
+      "entry": "way station",
+      "id": "way-station#way-station__1"
+    }
+  ],
+  "thesaurus": "Parts of railway and tram systems",
+  "type": "Related words"
+}

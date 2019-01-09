@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a misplaced [feeling_1]{feeling} or [opinion]{opinion} is not [appropriate_1]{appropriate} for a [particular_1]{particular} [situation]{situation} or is [direct_2]{directed} toward the [wrong_1]{wrong} [person]{person}",
+      "examples": [
+        "misplaced [fear_1]{fears}/[loyalty]{loyalty}/[trust_1]{trust}",
+        "Out of misplaced [sympathy]{sympathy} for his [family_1]{family} I never [ask_1]{asked} for the [money]{money} back."
+      ],
+      "id": "misplaced__1"
+    },
+    {
+      "def": "put in the [wrong_1]{wrong} [place_1]{place}",
+      "examples": [
+        "The [sentence_1]{sentence} [contain]{contained} a misplaced [comma]{comma}."
+      ],
+      "id": "misplaced__4"
+    }
+  ],
+  "word": "misplaced"
+}

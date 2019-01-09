@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "a/per head",
+  "senses": [
+    {
+      "def": "for each [person]{person}",
+      "examples": [
+        "The [meal]{meal} [cost_1]{cost} $20 per [head_1]{head}."
+      ],
+      "id": "a-per-head__1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [prevent]{prevent} [people_1]{people} from [enter]{entering} a [place_1]{place}, [use_1]{using} a [road]{road}, etc.",
+      "entry": "close off",
+      "id": "close-off#close-off__1"
+    },
+    {
+      "comment": "to [prevent]{prevent} someone from coming into a [room_1]{room} or [building]{building} by [lock_1]{locking} the [door_1]{door}",
+      "entry": "lock out",
+      "id": "lock-out#lock-out__2"
+    },
+    {
+      "comment": "to [close_1]{close} something, for [example]{example} a [door_1]{door}, [window]{window}, or [drawer]{drawer}",
+      "entry": "shut",
+      "id": "shut_1#shut_1__1"
+    },
+    {
+      "comment": "to [cover_1]{cover} or [close_1]{close} something [completely]{completely} so that nothing can move through it",
+      "entry": "block off",
+      "id": "block-off#block-off__1"
+    },
+    {
+      "comment": "to [close_1]{close} a [container]{container} or [space_1]{space} by [covering]{covering} it with something so that [air_1]{air} or other [substance]{substances} cannot get in or out",
+      "entry": "seal",
+      "id": "seal_1#seal_1__1"
+    },
+    {
+      "comment": "to put something across a [door_1]{door} or [window]{window} so that no one can get through it",
+      "entry": "bar",
+      "id": "bar_3#bar_3__5"
+    },
+    {
+      "comment": "to close a door, gate, or window so that it will not open using something such as a lock, catch, or bolt",
+      "entry": "fasten",
+      "id": "fasten#fasten__10"
+    },
+    {
+      "comment": "to [lock_1]{lock} a [door_1]{door} or [window]{window} [use_1]{using} a [bolt_1]{bolt}",
+      "entry": "bolt",
+      "id": "bolt_2#bolt_2__7"
+    },
+    {
+      "comment": "to [make_1]{make} a [door_1]{door} or [window]{window} [stay_1]{stay} [open_1]{open} or [shut_1]{shut} by [push_1]{pushing} something under it or against it",
+      "entry": "jam something open/shut",
+      "id": "jam-something-open-shut#jam-something-open-shut__1"
+    },
+    {
+      "comment": "to [lock_1]{lock} the [door_1]{doors} of a [building]{building} or [business]{business}",
+      "entry": "close up",
+      "id": "close-up_1#close-up_1__1"
+    }
+  ],
+  "thesaurus": "To close or lock something",
+  "type": "Synonyms"
+}

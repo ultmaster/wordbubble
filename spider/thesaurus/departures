@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [occasion_1]{occasion} when someone [leaves]{leaves} a [place_1]{place}, for [example]{example} to go on a [trip_1]{trip}",
+      "entry": "departure",
+      "id": "departure#departure__3"
+    },
+    {
+      "comment": "[activity]{activity} [consist]{consisting} of [people_1]{people} [arrive]{arriving} and [leave_1]{leaving} many times",
+      "entry": "comings and goings",
+      "id": "comings-and-goings#comings-and-goings__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [leave_1]{leaving} a [place_1]{place}",
+      "entry": "exit",
+      "id": "exit_1#exit_1__6"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [lot_1]{lot} of [people_1]{people} [leave_1]{leave} a [place_1]{place} or [activity]{activity} at the same time",
+      "entry": "exodus",
+      "id": "exodus#exodus__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone is [allow]{allowed} to [leave_1]{leave} an [institution]{institution} such as a [hospital]{hospital}, a [prison]{prison}, or the [army]{army}",
+      "entry": "discharge",
+      "id": "discharge_2#discharge_2__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [lot_1]{lot} of [people_1]{people} or [thing]{things} [leave_1]{leave} a [country]{country} or [organization]{organization}",
+      "entry": "drain",
+      "id": "drain_2#drain_2__6"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when an [army]{army} or [business]{business} [leaves]{leaves} a [place_1]{place}",
+      "entry": "pullout",
+      "id": "pullout_1#pullout_1__1"
+    },
+    {
+      "comment": "the [rate_1]{rate} at which [people_1]{people} [leave_1]{leave} a [place_1]{place} and [new]{new} [people_1]{people} [arrive]{arrive}",
+      "entry": "turnover",
+      "id": "turnover#turnover__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [vacate]{vacating} something",
+      "entry": "vacation",
+      "id": "vacation_1#vacation_1__11"
+    },
+    {
+      "comment": "the [action_1]{action} of [leave_1]{leaving} a [place_1]{place}",
+      "entry": "egress",
+      "id": "egress#egress__1"
+    }
+  ],
+  "thesaurus": "Departures",
+  "type": "Synonyms"
+}

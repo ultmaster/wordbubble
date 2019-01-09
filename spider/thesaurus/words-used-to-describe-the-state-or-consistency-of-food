@@ -1,0 +1,436 @@
+{
+  "entries": [
+    {
+      "comment": "[buttery]{buttery} [food]{food} has a [lot_1]{lot} of [butter_1]{butter} in it or [taste_1]{tastes} as if it has [butter_1]{butter} in it",
+      "entry": "buttery",
+      "id": "buttery#buttery__1"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [calorie]{calories} and therefore [likely_1]{likely} to [make_1]{make} you [fat_1]{fat}",
+      "entry": "calorific",
+      "id": "calorific#calorific__1"
+    },
+    {
+      "comment": "[caramelized]{caramelized} [food]{food} has a [layer_1]{layer} of [slightly]{slightly} [burnt_1]{burnt} [sugar_1]{sugar} on it",
+      "entry": "caramelized",
+      "id": "caramelized#caramelized__1"
+    },
+    {
+      "comment": "[chewy]{chewy} [food]{food} has to be [chew_1]{chewed} for some time before it is [soft]{soft} enough to [swallow_1]{swallow}",
+      "entry": "chewy",
+      "id": "chewy#chewy__1"
+    },
+    {
+      "comment": "[chilled]{chilled} [food]{food} or [drink_1]{drink} has been made [cold_1]{cold} in [order_1]{order} to [make_1]{make} it more [pleasant]{pleasant} or to keep it [fresh_1]{fresh}",
+      "entry": "chilled",
+      "id": "chilled#chilled__1"
+    },
+    {
+      "comment": "[food]{food} that is [cool_1]{cool} is no [long_1]{longer} [hot]{hot}",
+      "entry": "cool",
+      "id": "cool_1#cool_1__6"
+    },
+    {
+      "comment": "[used]{used} about [food]{food} that [contain]{contains} [cream_1]{cream}",
+      "entry": "cream",
+      "id": "cream_1#cream_1__4"
+    },
+    {
+      "comment": "[contain]{containing} or made from [cream_1]{cream}",
+      "entry": "creamy",
+      "id": "creamy#creamy__5"
+    },
+    {
+      "comment": "[crisp_1]{crisp} [food]{food} is [firm_1]{firm} in a [pleasant]{pleasant} way and [make_1]{makes} a [noise]{noise} when you [bite_1]{bite} it",
+      "entry": "crisp",
+      "id": "crisp_1#crisp_1__1"
+    },
+    {
+      "comment": "[food]{food} that is [crispy]{crispy} is [firm_1]{firm} in a [pleasant]{pleasant} way, and [make_1]{makes} a [noise]{noise} when you [bite_1]{bite} it",
+      "entry": "crispy",
+      "id": "crispy#crispy__1"
+    },
+    {
+      "comment": "[crunchy]{crunchy} [food]{foods} [make_1]{make} a [loud_1]{loud} [noise]{noise} when you [bite_1]{bite} them",
+      "entry": "crunchy",
+      "id": "crunchy#crunchy__1"
+    },
+    {
+      "comment": "crystallized fruits or sweet foods are covered with sugar crystals",
+      "entry": "crystallized",
+      "id": "crystallized#crystallized__1"
+    },
+    {
+      "comment": "a deep pan pizza has a thick dough base",
+      "entry": "deep pan",
+      "id": "deep-pan#deep-pan__1"
+    },
+    {
+      "comment": "made for [people_1]{people} who have [diabetes]{diabetes}",
+      "entry": "diabetic",
+      "id": "diabetic_1#diabetic_1__3"
+    },
+    {
+      "comment": "[contain]{containing} less [sugar_1]{sugar} or [fat_1]{fat} than other [similar]{similar} [food]{foods}",
+      "entry": "diet",
+      "id": "diet_1#diet_1__10"
+    },
+    {
+      "comment": "[food]{food} that is [digestible]{digestible} is [easily]{easily} [changed]{changed} into [substance]{substances} that your body [need_1]{needs}",
+      "entry": "digestible",
+      "id": "digestible#digestible__1"
+    },
+    {
+      "comment": "[dry_1]{dry} [food]{food} [contain]{contains} [little_1]{little} or no [liquid_1]{liquid}, such as [fat_1]{fat} or [juice_1]{juice}",
+      "entry": "dry",
+      "id": "dry_1#dry_1__14"
+    },
+    {
+      "comment": "[contain]{containing} no [fat_1]{fat}",
+      "entry": "fat-free",
+      "id": "fat-free#fat-free__1"
+    },
+    {
+      "comment": "[making]{making} you [fat_1]{fat}",
+      "entry": "fattening",
+      "id": "fattening#fattening__1"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [fat_1]{fat}",
+      "entry": "fatty",
+      "id": "fatty_1#fatty_1__1"
+    },
+    {
+      "comment": "[consist]{consisting} of [fat_1]{fat}",
+      "entry": "fatty",
+      "id": "fatty_1#fatty_1__3"
+    },
+    {
+      "comment": "[food]{food} that is [filling_1]{filling} [make_1]{makes} you [feel_1]{feel} full [quickly]{quickly}",
+      "entry": "filling",
+      "id": "filling_2#filling_2__1"
+    },
+    {
+      "comment": "[contain]{containing} [flesh_1]{flesh}",
+      "entry": "fleshy",
+      "id": "fleshy#fleshy__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with [flour_1]{flour}",
+      "entry": "floury",
+      "id": "floury#floury__1"
+    },
+    {
+      "comment": "[food]{food} that is [fluffy]{fluffy} is [soft]{soft} and [light_1]{light} because it [contain]{contains} a [lot_1]{lot} of [air_1]{air}",
+      "entry": "fluffy",
+      "id": "fluffy#fluffy__5"
+    },
+    {
+      "comment": "[fresh_1]{fresh} [food]{food} has been [recently]{recently} [pick_1]{picked}, [caught_1]{caught}, or [prepared]{prepared}",
+      "entry": "fresh",
+      "id": "fresh_1#fresh_1__1"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [fruit_1]{fruit}",
+      "entry": "fruity",
+      "id": "fruity#fruity__3"
+    },
+    {
+      "comment": "[genetic#genetic__3]{genetically} [modify]{modified}: [used]{used} for [describe]{describing} [crop_1]{crops} whose [gene]{genes} have been [changed]{changed} to give them [particular_1]{particular} [quality_1]{qualities}, or for [describe]{describing} [food]{foods} made from them",
+      "entry": "GM",
+      "id": "gm#gm__1"
+    },
+    {
+      "comment": "[prepared]{prepared} with a [lot_1]{lot} of [oil_1]{oil} or [fat_1]{fat}",
+      "entry": "greasy",
+      "id": "greasy#greasy__1"
+    },
+    {
+      "comment": "made from the [green_1]{green} [leaves]{leaves} of [vegetable]{vegetables}",
+      "entry": "green",
+      "id": "green_1#green_1__4"
+    },
+    {
+      "comment": "[food]{food} that is [heavy_1]{heavy} is [solid_1]{solid} and not [enjoyable]{enjoyable}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__70"
+    },
+    {
+      "comment": "connected with herbs, or made from herbs",
+      "entry": "herbal",
+      "id": "herbal#herbal__1"
+    },
+    {
+      "comment": "indigestible food is difficult for your body to digest",
+      "entry": "indigestible",
+      "id": "indigestible#indigestible__1"
+    },
+    {
+      "comment": "[instant_1]{instant} [food]{food} or [drink_1]{drink} can be [prepared]{prepared} in a very [short_1]{short} time, [usually]{usually} by [add_1]{adding} [hot]{hot} [water_1]{water}",
+      "entry": "instant",
+      "id": "instant_1#instant_1__4"
+    },
+    {
+      "comment": "covered and sticky with jam",
+      "entry": "jammy",
+      "id": "jammy#jammy__1"
+    },
+    {
+      "comment": "food or drink that is light has less fat or alcohol than other similar food or drink. This word is sometimes spelled lite on food labels",
+      "entry": "light",
+      "id": "light_2#light_2__32"
+    },
+    {
+      "comment": "a [spelling]{spelling} of \u201c[light_1]{light}\u201d that is often [used]{used} in the [name_1]{names} of [food]{foods} and [drink_1]{drinks} that [contain]{contain} less [sugar_1]{sugar} or [fat_1]{fat} than [usual]{usual}",
+      "entry": "lite",
+      "id": "lite#lite__1"
+    },
+    {
+      "comment": "live yogurt contains the living bacteria that are used to make it",
+      "entry": "live",
+      "id": "live_2#live_2__4"
+    },
+    {
+      "comment": "[low-calorie]{low-calorie}",
+      "entry": "lo-cal",
+      "id": "lo-cal#lo-cal__1"
+    },
+    {
+      "comment": "[used]{used} about [food]{foods} that [contain]{contain} a [small_1]{smaller} amount of a [substance]{substance} than [usual]{usual}",
+      "entry": "low",
+      "id": "low_1#low_1__14"
+    },
+    {
+      "comment": "[low-calorie]{low-calorie}",
+      "entry": "low-cal",
+      "id": "low-cal#low-cal__1"
+    },
+    {
+      "comment": "low-calorie foods or drinks help people to lose weight because they do not contain many calories",
+      "entry": "low-calorie",
+      "id": "low-calorie#low-calorie__1"
+    },
+    {
+      "comment": "[low-fat]{low-fat} [food]{food} [contain]{contains} only a [small_1]{small} amount of [fat_1]{fat}",
+      "entry": "low-fat",
+      "id": "low-fat#low-fat__1"
+    },
+    {
+      "comment": "made of [crushed]{crushed} [grain]{grain} or [covered_1]{covered} with it",
+      "entry": "mealy",
+      "id": "mealy#mealy__3"
+    },
+    {
+      "comment": "[soft]{soft} and [partly]{partly} [liquid_1]{liquid} or [able_1]{able} to become [like_1]{like} this",
+      "entry": "melty",
+      "id": "melty#melty__1"
+    },
+    {
+      "comment": "[contain]{containing} [menthol]{menthol}",
+      "entry": "mentholated",
+      "id": "mentholated#mentholated__1"
+    },
+    {
+      "comment": "[able_1]{able} to be [cooked]{cooked} in a [microwave_1]{microwave}",
+      "entry": "microwavable",
+      "id": "microwavable#microwavable__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [microwavable]{microwavable}",
+      "entry": "microwaveable",
+      "id": "microwaveable#microwaveable__2"
+    },
+    {
+      "comment": "[contain]{containing} [milk_1]{milk} or a [liquid_1]{liquid} that [look_1]{looks} [like_1]{like} [milk_1]{milk}",
+      "entry": "milky",
+      "id": "milky#milky__4"
+    },
+    {
+      "comment": "[contain]{containing} or made from [mushroom_1]{mushrooms}",
+      "entry": "mushroom",
+      "id": "mushroom_1#mushroom_1__2"
+    },
+    {
+      "comment": "[nonfat]{nonfat} [food]{food} and [drink_1]{drinks} [contain]{contain} very [little_1]{little} [fat_1]{fat} or no [fat_1]{fat}",
+      "entry": "nonfat",
+      "id": "nonfat#nonfat__1"
+    },
+    {
+      "comment": "[providing]{providing} the [food]{food} [need_1]{needed} to [live_1]{live}, [grow]{grow}, and be [healthy]{healthy}",
+      "entry": "nourishing",
+      "id": "nourishing#nourishing__1"
+    },
+    {
+      "comment": "a [nutritive]{nutritive} [substance]{substance} is one that is [used]{used} by [living_1]{living} [thing]{things} to [help_1]{help} them to [grow]{grow} and be [healthy]{healthy}",
+      "entry": "nutritive",
+      "id": "nutritive#nutritive__1"
+    },
+    {
+      "comment": "connected with nutrition",
+      "entry": "nutritive",
+      "id": "nutritive#nutritive__2"
+    },
+    {
+      "comment": "[contain]{containing} [nuts_1]{nuts}, or [have]{having} the [taste_1]{taste} of [nuts_1]{nuts}",
+      "entry": "nutty",
+      "id": "nutty#nutty__3"
+    },
+    {
+      "comment": "[organic]{organic} [food]{food} or [drink_1]{drink} is [produce_1]{produced} [use_1]{using} no or only a [small_1]{small} [number_1]{number} of [artificial]{artificial} [chemical_1]{chemicals} and [method]{methods}",
+      "entry": "organic",
+      "id": "organic#organic__1"
+    },
+    {
+      "comment": "[contain]{containing} or made with [peanuts_1]{peanuts}",
+      "entry": "peanut",
+      "id": "peanut#peanut__2"
+    },
+    {
+      "comment": "[perishable]{perishable} [food]{food} [decay_1]{decays} after a [short_1]{short} time, [especially]{especially} if it is not [kept]{kept} [cold_1]{cold}",
+      "entry": "perishable",
+      "id": "perishable#perishable__1"
+    },
+    {
+      "comment": "[used]{used} about the [thing]{things} that you use or [eat]{eat} at a [picnic_1]{picnic}",
+      "entry": "picnic",
+      "id": "picnic_1#picnic_1__3"
+    },
+    {
+      "comment": "[plain_1]{plain} [food]{food} is [simple]{simple} and [does]{does} not have a [lot_1]{lot} of [thing]{things} [added]{added} to it",
+      "entry": "plain",
+      "id": "plain_1#plain_1__12"
+    },
+    {
+      "comment": "[raw_1]{raw} [food]{food} has not been [cooked]{cooked}, or has not been [thoroughly]{thoroughly} [cooked]{cooked}",
+      "entry": "raw",
+      "id": "raw_1#raw_1__1"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [thing]{things} such as [butter_1]{butter}, [egg_1]{eggs}, or [cream_1]{cream} that [make_1]{make} your [stomach_1]{stomach} [feel_1]{feel} full very [quickly]{quickly}",
+      "entry": "rich",
+      "id": "rich_1#rich_1__15"
+    },
+    {
+      "comment": "[shoestring_1]{shoestring} [food]{foods} have been made into long thin [piece_1]{pieces} [like_1]{like} [string_1]{string}",
+      "entry": "shoestring",
+      "id": "shoestring_1#shoestring_1__1"
+    },
+    {
+      "comment": "full of [butter_1]{butter} or other [fat_1]{fat}",
+      "entry": "short",
+      "id": "short_1#short_1__32"
+    },
+    {
+      "comment": "low in [fat_1]{fat}",
+      "entry": "skinny",
+      "id": "skinny_1#skinny_1__4"
+    },
+    {
+      "comment": "containing fewer calories than usual in order not to make you fat",
+      "entry": "slimline",
+      "id": "slimline#slimline__4"
+    },
+    {
+      "comment": "[sloppy]{sloppy} [food]{food} is not thick or [solid_1]{solid} enough",
+      "entry": "sloppy",
+      "id": "sloppy#sloppy__7"
+    },
+    {
+      "comment": "[contain]{containing} too much [liquid_1]{liquid}",
+      "entry": "soupy",
+      "id": "soupy#soupy__1"
+    },
+    {
+      "comment": "kept in a liquid such as vinegar or alcohol for a long time",
+      "entry": "soused",
+      "id": "soused#soused__1"
+    },
+    {
+      "comment": "[spoiled]{spoiled}",
+      "entry": "spoilt",
+      "id": "spoilt#spoilt__1"
+    },
+    {
+      "comment": "starchy foods have a lot of starch in them",
+      "entry": "starchy",
+      "id": "starchy#starchy__1"
+    },
+    {
+      "comment": "[sticky]{sticky} [food]{food} [contain]{contains} a [lot_1]{lot} of [sugar_1]{sugar} and has a [sticky]{sticky} [surface_1]{surface}",
+      "entry": "sticky",
+      "id": "sticky#sticky__7"
+    },
+    {
+      "comment": "[stodgy]{stodgy} [food]{food} is [heavy_1]{heavy} and [make_1]{makes} you [feel_1]{feel} too full",
+      "entry": "stodgy",
+      "id": "stodgy#stodgy__3"
+    },
+    {
+      "comment": "put through a [strainer]{strainer} to [remove]{remove} any [lump_1]{lumps}",
+      "entry": "strained",
+      "id": "strained#strained__6"
+    },
+    {
+      "comment": "full of [fiber]{fibers} and [difficult]{difficult} to [cut_1]{cut} and [eat]{eat}",
+      "entry": "stringy",
+      "id": "stringy#stringy__4"
+    },
+    {
+      "comment": "[stuffed]{stuffed} [meat]{meat} or [vegetable]{vegetables} have been [fill_1]{filled} with some other [type_1]{type} of [food]{food}",
+      "entry": "stuffed",
+      "id": "stuffed#stuffed__4"
+    },
+    {
+      "comment": "[covered_1]{covered} in [sugar_1]{sugar}",
+      "entry": "sugar-coated",
+      "id": "sugar-coated#sugar-coated__3"
+    },
+    {
+      "comment": "[tender_1]{tender} [food]{food} is [soft]{soft} and [easy_1]{easy} to [cut_1]{cut} and [eat]{eat}",
+      "entry": "tender",
+      "id": "tender_1#tender_1__3"
+    },
+    {
+      "comment": "food, especially meat, that is tough is very difficult to cut and chew",
+      "entry": "tough",
+      "id": "tough_1#tough_1__16"
+    },
+    {
+      "comment": "[unclean]{unclean} [food]{food} or [drink_1]{drink} cannot be [eaten]{eaten} or [drunk_1]{drunk} by [people_1]{people} [belong]{belonging} to a [particular_1]{particular} [religion]{religion}",
+      "entry": "unclean",
+      "id": "unclean#unclean__3"
+    },
+    {
+      "comment": "not [eaten]{eaten}",
+      "entry": "uneaten",
+      "id": "uneaten#uneaten__1"
+    },
+    {
+      "comment": "[unrefined]{unrefined} [product]{products} such as [sugar_1]{sugar} and [oil_1]{oil} have not been [changed]{changed} from their [natural_1]{natural} [state_1]{state}",
+      "entry": "unrefined",
+      "id": "unrefined#unrefined__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [intended_1]{intended} for [vegetarian_1]{vegetarians}",
+      "entry": "vegetarian",
+      "id": "vegetarian_2#vegetarian_2__1"
+    },
+    {
+      "comment": "[warmed-over]{warmed-over} [food]{food} had [gone_1]{gone} [cold_1]{cold} but has been [heated]{heated} again to [make_1]{make} it [warm_1]{warm} enough to [eat]{eat}",
+      "entry": "warmed-over",
+      "id": "warmed-over#warmed-over__2"
+    },
+    {
+      "comment": "[warmed-over]{warmed-over} for [eat]{eating}",
+      "entry": "warmed-up",
+      "id": "warmed-up#warmed-up__2"
+    },
+    {
+      "comment": "[food]{food} that is [whipped]{whipped} has had [air_1]{air} [mixed]{mixed} into it, so that it is very [light_1]{light}",
+      "entry": "whipped",
+      "id": "whipped#whipped__1"
+    }
+  ],
+  "thesaurus": "Words used to describe the state or consistency of food",
+  "type": "Related words"
+}

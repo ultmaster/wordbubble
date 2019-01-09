@@ -1,0 +1,141 @@
+{
+  "entries": [
+    {
+      "comment": "if you [capsize]{capsize} a [boat]{boat}, or if it [capsize]{capsizes}, it [turn_1]{turns} [upside_1]{upside} down or onto its side in the [water_1]{water}",
+      "entry": "capsize",
+      "id": "capsize#capsize__1"
+    },
+    {
+      "comment": "if a [boat]{boat} [cast_1]{casts} off, it is [untie]{untied} and [move_1]{moves} [away_1]{away} from the [land_1]{land}",
+      "entry": "cast off",
+      "id": "cast-off#cast-off__4"
+    },
+    {
+      "comment": "if a [ship_1]{ship} comes about, it [change_1]{changes} [direction]{direction}",
+      "entry": "come about",
+      "id": "come-about#come-about__4"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [dock_1]{docks}, it [arrive]{arrives} at a [dock_1]{dock}",
+      "entry": "dock",
+      "id": "dock_2#dock_2__1"
+    },
+    {
+      "comment": "if a [ship_1]{ship} or [boat]{boat} [founder_1]{founders}, it becomes full of [water_1]{water} and [sink_1]{sinks}",
+      "entry": "founder",
+      "id": "founder_2#founder_2__2"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [go_1]{goes} about, it [turn_1]{turns} and [sail_1]{sails} in the [opposite_1]{opposite} [direction]{direction}",
+      "entry": "go about",
+      "id": "go-about#go-about__9"
+    },
+    {
+      "comment": "if a [boat]{boat} [ground_1]{grounds} or is [grounded]{grounded}, it [hit_1]{hits} a [rock_1]{rock} or the [ground_1]{ground} under the [water_1]{water}",
+      "entry": "ground",
+      "id": "ground_2#ground_2__6"
+    },
+    {
+      "comment": "if a ship heaves to, it stops moving. The past tense and past participle is hove to.",
+      "entry": "heave to",
+      "id": "heave-to#heave-to__1"
+    },
+    {
+      "comment": "if a [boat]{boat} [heel_1]{heels}, it [lean_1]{leans} over to one side",
+      "entry": "heel",
+      "id": "heel_2#heel_2__1"
+    },
+    {
+      "comment": "to keep [sailing]{sailing} or [traveling]{traveling} in the same [direction]{direction}",
+      "entry": "hold a course",
+      "id": "hold-a-course#hold-a-course__1"
+    },
+    {
+      "comment": "if a [boat]{boat} [hydroplane_1]{hydroplanes}, it [travel_1]{travels} very [fast_1]{fast} on the [surface_1]{surface} of the [water_1]{water}",
+      "entry": "hydroplane",
+      "id": "hydroplane_2#hydroplane_2__2"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [keel_1]{keels} over, it [fall_1]{falls} [sideways]{sideways}",
+      "entry": "keel over",
+      "id": "keel_2#keel_2__4"
+    },
+    {
+      "comment": "if you [lay_1]{lay} a [ship_1]{ship} to, or if it [lay_1]{lays} to, it [stop_1]{stops}",
+      "entry": "lay to",
+      "id": "lay-to#lay-to__1"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [list_1]{lists}, it [lean_1]{leans} to one side",
+      "entry": "list",
+      "id": "list_2#list_2__7"
+    },
+    {
+      "comment": "off a [boat]{boat} or [ship_1]{ship} and into the [water_1]{water}",
+      "entry": "overboard",
+      "id": "overboard#overboard__1"
+    },
+    {
+      "comment": "if a [ship_1]{ship} or [aircraft]{aircraft} [pitch_1]{pitches}, it [move_1]{moves} up and down [suddenly]{suddenly}",
+      "entry": "pitch",
+      "id": "pitch_2#pitch_2__23"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [plunge_1]{plunges}, it [move_1]{moves} up and down on [water_1]{water} in an [uncontrolled]{uncontrolled} way",
+      "entry": "plunge",
+      "id": "plunge_1#plunge_1__15"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [put]{puts} about, or if you put it about, it [turn_1]{turns} and [sail_1]{sails} in the [opposite_1]{opposite} [direction]{direction}",
+      "entry": "put about",
+      "id": "put-about#put-about__1"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [put]{puts} in, it [stop_1]{stops} at a [port]{port}",
+      "entry": "put in",
+      "id": "put-in#put-in__20"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [put]{puts} into a [port]{port}, it [stop_1]{stops} there",
+      "entry": "put into",
+      "id": "put-into#put-into__10"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [put]{puts} out, it [sail_1]{sails} [away_1]{away} from a [port]{port}",
+      "entry": "put out",
+      "id": "put-out_1#put-out_1__28"
+    },
+    {
+      "comment": "if a ship rides at anchor, it is attached to the bottom of the ocean by an anchor",
+      "entry": "ride at anchor",
+      "id": "ride-at-anchor#ride-at-anchor__1"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [run_1]{runs} [aground]{aground}, it becomes [stuck_1]{stuck} on a [piece_1]{piece} of [ground_1]{ground} under the [water_1]{water}, where the [water_1]{water} is not [deep_1]{deep} enough",
+      "entry": "run/go aground",
+      "id": "aground#aground__2"
+    },
+    {
+      "comment": "if a [boat]{boat} [sail_1]{sails}, it [move_1]{moves} across the [surface_1]{surface} of an [ocean]{ocean}, [lake]{lake}, [river]{river}, etc.",
+      "entry": "sail",
+      "id": "sail_1#sail_1__1"
+    },
+    {
+      "comment": "if a [boat]{boat} [shove_1]{shoves} off, it [move_1]{moves} [away_1]{away} from the [land_1]{land} into the [water_1]{water}",
+      "entry": "shove off",
+      "id": "shove-off#shove-off__3"
+    },
+    {
+      "comment": "if a [boat]{boat} [tack_1]{tacks}, it [turn_1]{turns} so that the [wind_1]{wind} is [blow_1]{blowing} on the other side of its [sail_1]{sails}",
+      "entry": "tack",
+      "id": "tack_2#tack_2__6"
+    },
+    {
+      "comment": "if a boat yaws, it goes off the straight course that it should be moving on",
+      "entry": "yaw",
+      "id": "yaw#yaw__1"
+    }
+  ],
+  "thesaurus": "What ships and boats do",
+  "type": "Related words"
+}

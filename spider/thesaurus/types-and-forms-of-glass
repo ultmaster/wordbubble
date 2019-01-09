@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "[clear_1]{clear} [glass]{glass} of very [good_1]{good} [quality_1]{quality}",
+      "entry": "crystal",
+      "id": "crystal#crystal__1"
+    },
+    {
+      "comment": "[object_1]{objects} such as [glasses]{glasses} and [bowls]{bowls} made from [crystal]{crystal}",
+      "entry": "crystal",
+      "id": "crystal#crystal__3"
+    },
+    {
+      "comment": "[glass]{glass} with [design_1]{designs} [cut_1]{cut} into its [surface_1]{surface}",
+      "entry": "cut glass",
+      "id": "cut-glass_1#cut-glass_1__1"
+    },
+    {
+      "comment": "made of [cut_1]{cut} [glass]{glass}",
+      "entry": "cut-glass",
+      "id": "cut-glass_2#cut-glass_2__1"
+    },
+    {
+      "comment": "[contain]{containing} [small_1]{small} [piece_1]{pieces} of a [shiny]{shiny} [substance]{substance}",
+      "entry": "frosted",
+      "id": "frosted#frosted__3"
+    },
+    {
+      "comment": "[glass]{glass} that has a rough [surface_1]{surface} so that you cannot see [clearly]{clearly} through it",
+      "entry": "frosted glass",
+      "id": "frosted-glass#frosted-glass__1"
+    },
+    {
+      "comment": "a rough [surface_1]{surface} [produce_1]{produced} on a [transparent]{transparent} or [shiny]{shiny} [substance]{substance} such as [glass]{glass} or [metal_1]{metal}",
+      "entry": "frosting",
+      "id": "frosting#frosting__2"
+    },
+    {
+      "comment": "a [hard_1]{hard} [clear_1]{clear} [substance]{substance} [used]{used} for [making]{making} [object_1]{objects} such as [window]{windows} or [bottle_1]{bottles}",
+      "entry": "glass",
+      "id": "glass#glass__1"
+    },
+    {
+      "comment": "[attractive]{attractive} [object_1]{objects} made out of [glass]{glass}",
+      "entry": "glass",
+      "id": "glass#glass__14"
+    },
+    {
+      "comment": "a [material_1]{material} made from very thin [piece_1]{pieces} of [glass]{glass} [stuck_1]{stuck} together",
+      "entry": "glass fiber",
+      "id": "glass-fiber#glass-fiber__1"
+    },
+    {
+      "comment": "a very thin and long [piece_1]{piece} of [glass]{glass}",
+      "entry": "glass fiber",
+      "id": "glass-fiber#glass-fiber__2"
+    },
+    {
+      "comment": "[object_1]{objects} made of [glass]{glass}",
+      "entry": "glassware",
+      "id": "glassware#glassware__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [strong]{strong} [glass]{glass} [used]{used} for [making]{making} [bowls]{bowls} and [dish_1]{dishes} that do not [break_1]{break} in a [hot]{hot} [oven]{oven}",
+      "entry": "Pyrex",
+      "id": "pyrex#pyrex__1"
+    },
+    {
+      "comment": "a [strong]{strong} [type_1]{type} of [glass]{glass} that [break_1]{breaks} into very [small_1]{small} [piece_1]{pieces} that are not [sharp_1]{sharp}",
+      "entry": "safety glass",
+      "id": "safety-glass#safety-glass__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [glass]{glass} that will not [break_1]{break} into [separate_1]{separate} [piece_1]{pieces} if it is [damage_2]{damaged}",
+      "entry": "safety glass",
+      "id": "safety-glass#safety-glass__2"
+    },
+    {
+      "comment": "[glass]{glass} that is [dark_1]{dark} in [color_1]{color}",
+      "entry": "smoked glass",
+      "id": "smoked-glass#smoked-glass__1"
+    },
+    {
+      "comment": "[glass]{glass} that has been [colored_1]{colored} or [paint_1]{painted}, [traditionally]{traditionally} [used]{used} in [church]{church} [window]{windows}",
+      "entry": "stained glass",
+      "id": "stained-glass#stained-glass__1"
+    },
+    {
+      "comment": "[tinted]{tinted} [glass]{glass} is [colored_1]{colored}, not [clear_1]{clear}",
+      "entry": "tinted",
+      "id": "tinted#tinted__1"
+    },
+    {
+      "comment": "made of [glass]{glass}, or [similar]{similar} to [glass]{glass} in [appearance]{appearance}",
+      "entry": "vitreous",
+      "id": "vitreous#vitreous__1"
+    }
+  ],
+  "thesaurus": "Types and forms of glass",
+  "type": "Related words"
+}

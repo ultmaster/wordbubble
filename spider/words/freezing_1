@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "very [cold_1]{cold}",
+      "examples": [
+        "[hurry_1]{Hurry} up! I\u2019m freezing!",
+        "It\u2019s [absolutely]{absolutely} freezing in here.",
+        "Your [hand_1]{hands} are freezing [cold_1]{cold}!"
+      ],
+      "id": "freezing_1__1"
+    },
+    {
+      "def": "below the [temperature]{temperature} at which [water_1]{water} [freeze_1]{freezes}",
+      "examples": [
+        "freezing [rain_1]{rain}/[fog_1]{fog}/[drizzle_1]{drizzle}"
+      ],
+      "id": "freezing_1__5"
+    }
+  ],
+  "word": "freezing"
+}

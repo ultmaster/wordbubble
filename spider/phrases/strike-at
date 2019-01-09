@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "strike at",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to hit someone or something with your hand or a [weapon]{weapon}",
+      "examples": [
+        "He [struck]{struck} at me several times but never [hurt_1]{hurt} me.",
+        "He [struck]{struck} [wildly]{wildly} at the [ball_1]{ball} and [miss_1]{missed} [completely]{completely}."
+      ],
+      "id": "strike-at__1"
+    },
+    {
+      "def": "to [make_1]{make} a [sudden_1]{sudden} [violent]{violent} or [illegal_1]{illegal} [attack_1]{attack} on someone or something",
+      "examples": [
+        "The [rebel_1]{rebels} [struck]{struck} at [government]{government} [camp_1]{camps} that [night_1]{night}."
+      ],
+      "id": "strike-at__5"
+    },
+    {
+      "def": "to be [likely_1]{likely} to [seriously]{seriously} [damage_1]{damage} or [destroy]{destroy} something [important]{important}",
+      "examples": [
+        "This [scandal]{scandal} [strike_1]{strikes} at the [heart_1]{heart} of the [company]{company}\u2019s [role]{role} as a [responsible]{responsible} [employer]{employer}."
+      ],
+      "id": "strike-at__7"
+    }
+  ]
+}

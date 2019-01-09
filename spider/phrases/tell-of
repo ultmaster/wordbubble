@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "tell of",
+  "senses": [
+    {
+      "def": "to [inform]{inform} someone about something",
+      "examples": [
+        "She [told]{told} us of her [doubt_1]{doubts} [regarding]{regarding} the [policy]{policy}.",
+        "I was [told]{told} of his [death]{death} by a [fellow_1]{fellow} [officer]{officer}."
+      ],
+      "id": "tell-of__1"
+    },
+    {
+      "def": "to [mention_1]{mention} or [talk_1]{talk} about something",
+      "examples": [
+        "[old]{old} [legend]{legends} that [tell_1]{tell} of a [mysterious]{mysterious} [city]{city} [beneath]{beneath} the [ocean]{ocean}"
+      ],
+      "id": "tell-of__4"
+    }
+  ]
+}

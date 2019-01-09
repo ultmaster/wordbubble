@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if something is hidden, most [people_1]{people} do not [know_1]{know} about it or [understand]{understand} it",
+      "examples": [
+        "[jones_1]{Jones} has [recently]{recently} [reveal_1]{revealed} hidden [talent]{talents} as an [actor]{actor}.",
+        "the hidden [cost_1]{costs} of being in the [hospital]{hospital}"
+      ],
+      "id": "hidden_1__1"
+    },
+    {
+      "def": "a hidden [object_1]{object} or [place_1]{place} is not [easy_1]{easy} to find",
+      "examples": [
+        "a hidden [tape_1]{tape} [recorder]{recorder}/[camera]{camera}",
+        "hidden [valley]{valleys}"
+      ],
+      "id": "hidden_1__4"
+    }
+  ],
+  "word": "hidden"
+}

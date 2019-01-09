@@ -1,0 +1,24 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [mark_1]{mark} something with a code that [give_1]{gives} [information]{information} about it",
+      "examples": [
+        "Each [item]{item} was [coded]{coded} for [point_1]{point} of [origin]{origin}.",
+        "They [coded]{coded} each [sample_1]{sample} and [sent]{sent} them to the [lab]{lab} for [analysis]{analysis}."
+      ],
+      "id": "code_2__1"
+    },
+    {
+      "def": "to put a [message_1]{message} in code so that it is [secret_1]{secret}",
+      "examples": [],
+      "id": "code_2__5"
+    },
+    {
+      "def": "to [write]{write} [instruction]{instructions} for a computer",
+      "examples": [],
+      "id": "code_2__6"
+    }
+  ],
+  "word": "code"
+}

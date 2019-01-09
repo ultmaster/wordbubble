@@ -1,0 +1,181 @@
+{
+  "entries": [
+    {
+      "comment": "the [company]{company} that [control_1]{controls} the [railroad_1]{railroads} that [carry_1]{carry} [passenger]{passengers} in the U.S.",
+      "entry": "Amtrak",
+      "id": "amtrak#amtrak__1"
+    },
+    {
+      "comment": "a [train_1]{train} that [take_1]{takes} [passenger]{passengers} to a [port]{port} where they can [continue]{continue} their [trip_1]{trip} by [ship_1]{ship}, or a [train_1]{train} that [take_1]{takes} them from a [port]{port} to a [town]{town} or [city]{city}",
+      "entry": "boat train",
+      "id": "boat-train#boat-train__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [fast_1]{fast} Japanese [train_1]{train}",
+      "entry": "bullet train",
+      "id": "bullet-train#bullet-train__1"
+    },
+    {
+      "comment": "a [railroad_1]{railroad} [fixed]{fixed} to a [cable_1]{cable} by which it is [pull_1]{pulled} up a [mountain]{mountain}",
+      "entry": "cable railway",
+      "id": "cable-railway#cable-railway__1"
+    },
+    {
+      "comment": "a [train_1]{train} or [bus_1]{bus} [carry_1]{carrying} no [passenger]{passengers} or [goods]{goods} on it",
+      "entry": "deadhead",
+      "id": "deadhead_2#deadhead_2__3"
+    },
+    {
+      "comment": "a [fast_1]{fast} [train_1]{train} that [travel_1]{travels} between Britain, France, and Belgium [use_1]{using} the [channel_1]{Channel} [tunnel_1]{Tunnel}",
+      "entry": "Eurostar",
+      "id": "eurostar#eurostar__1"
+    },
+    {
+      "comment": "a [train_1]{train}, [bus_1]{bus}, etc. that [make_1]{makes} a [particular_1]{particular} [trip_1]{trip} more [quickly]{quickly} than [ordinary]{ordinary} [train_1]{trains}, [bus_1]{buses}, etc.",
+      "entry": "express",
+      "id": "express_3#express_3__1"
+    },
+    {
+      "comment": "a [freight_1]{freight} [train_1]{train}",
+      "entry": "freight",
+      "id": "freight_1#freight_1__8"
+    },
+    {
+      "comment": "a [train_1]{train} that [carry_1]{carries} [goods]{goods}",
+      "entry": "freight train",
+      "id": "freight-train#freight-train__1"
+    },
+    {
+      "comment": "a railroad with cars that are pulled up a steep slope by a cable",
+      "entry": "funicular",
+      "id": "funicular#funicular__1"
+    },
+    {
+      "comment": "something such as a [train_1]{train} or [bus_1]{bus} that [make_1]{makes} many [stop_1]{stops}",
+      "entry": "local",
+      "id": "local_2#local_2__3"
+    },
+    {
+      "comment": "on a [main_1]{main} [line_1]{line}",
+      "entry": "mainline",
+      "id": "mainline_1#mainline_1__3"
+    },
+    {
+      "comment": "the [subway]{subway}",
+      "entry": "metro",
+      "id": "metro#metro__1"
+    },
+    {
+      "comment": "an [airplane]{airplane} or [train_1]{train} [trip_1]{trip} with [stop_1]{stops} at many [place_1]{places}",
+      "entry": "milk run",
+      "id": "milk-run#milk-run__1"
+    },
+    {
+      "comment": "a [railroad_1]{railroad} system in which [train_1]{trains} [travel_1]{travel} on a [single_1]{single} [metal_1]{metal} [track_1]{track}",
+      "entry": "monorail",
+      "id": "monorail#monorail__1"
+    },
+    {
+      "comment": "a [train_1]{train} on a [monorail]{monorail} system",
+      "entry": "monorail",
+      "id": "monorail#monorail__2"
+    },
+    {
+      "comment": "[traveling]{traveling} on the [surface_1]{surface} of the [ground_1]{ground}, [instead]{instead} of in [tunnel_1]{tunnels} [underground_1]{underground}",
+      "entry": "overground",
+      "id": "overground#overground__1"
+    },
+    {
+      "comment": "a train that carries only passengers. A train that carries only goods is a freight train.",
+      "entry": "passenger train",
+      "id": "passenger-train#passenger-train__1"
+    },
+    {
+      "comment": "a simple rail system, usually in a place such as an airport or a theme park",
+      "entry": "people mover",
+      "id": "people-mover#people-mover__1"
+    },
+    {
+      "comment": "[personal_1]{personal} [rapid]{rapid} [transit]{transit}: a system of [small_1]{small} [vehicle]{vehicles} on [fixed]{fixed} [track_1]{tracks} [used]{used} to move [small_1]{small} [group_1]{groups} of [people_1]{people} [quickly]{quickly} from one part of a [city]{city}, [airport]{airport}, etc. to another",
+      "entry": "PRT",
+      "id": "prt#prt__1"
+    },
+    {
+      "comment": "a [special_1]{special} [train_1]{train} that is very [comfortable]{comfortable}, or one of the [car]{cars} that [make_1]{make} up this [train_1]{train}",
+      "entry": "Pullman",
+      "id": "pullman#pullman__1"
+    },
+    {
+      "comment": "a single coach with its own motor, carrying passengers by rail",
+      "entry": "railcar",
+      "id": "railcar#railcar__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [railroad_1]{railroad}",
+      "entry": "railroad",
+      "id": "railroad_2#railroad_2__1"
+    },
+    {
+      "comment": "the system of [traveling]{traveling} by [train_1]{train}, and all the [company]{companies}, [people_1]{people}, and [equipment]{equipment} [relate]{relating} to it",
+      "entry": "the railroad",
+      "id": "the-railroad#the-railroad__1"
+    },
+    {
+      "comment": "a [railroad_1]{railroad}",
+      "entry": "railway",
+      "id": "railway#railway__1"
+    },
+    {
+      "comment": "a system of [train_1]{trains} that move [people_1]{people} [quickly]{quickly} around a [city]{city}",
+      "entry": "rapid transit system",
+      "id": "rapid-transit-system#rapid-transit-system__1"
+    },
+    {
+      "comment": "[railroad_1]{railroad}",
+      "entry": "RR",
+      "id": "rr#rr__1"
+    },
+    {
+      "comment": "a [train_1]{train} with [bed_1]{beds} for [passenger]{passengers} to [sleep_1]{sleep} in",
+      "entry": "sleeper",
+      "id": "sleeper#sleeper__2"
+    },
+    {
+      "comment": "an [engine]{engine} that [get]{gets} its [power_1]{power} from [steam_1]{steam}, [especially]{especially} a [train_1]{train} [engine]{engine}",
+      "entry": "steam engine",
+      "id": "steam-engine#steam-engine__1"
+    },
+    {
+      "comment": "a railroad that goes under the ground. The British word is underground",
+      "entry": "subway",
+      "id": "subway#subway__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [railroad_1]{railroad} [car]{cars} that are [connected]{connected} and [pull_1]{pulled} by an [engine]{engine}",
+      "entry": "train",
+      "id": "train_1#train_1__1"
+    },
+    {
+      "comment": "a [cable_1]{cable} [car]{car} that [travel_1]{travels} up and down a [steep_1]{steep} [hill]{hill} or [mountain]{mountain}",
+      "entry": "tram",
+      "id": "tram#tram__1"
+    },
+    {
+      "comment": "the system of [underground_1]{underground} [train_1]{trains} in London",
+      "entry": "the tube",
+      "id": "tube#tube__14"
+    },
+    {
+      "comment": "an [underground_1]{underground} [train_1]{train} in London",
+      "entry": "tube",
+      "id": "tube#tube__15"
+    },
+    {
+      "comment": "the [subway]{subway}",
+      "entry": "the Underground",
+      "id": "the-underground#the-underground__2"
+    }
+  ],
+  "thesaurus": "Types of train or railway system",
+  "type": "Related words"
+}

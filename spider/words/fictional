@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[invent]{invented} for a [book_1]{book}, [play_1]{play}, or [movie]{movie}",
+      "examples": [
+        "a fictional [character]{character}/[place_1]{place}/[event]{event}"
+      ],
+      "id": "fictional__1"
+    },
+    {
+      "def": "[relate]{relating} to [fiction]{fiction}",
+      "examples": [
+        "fictional [convention]{conventions}/[technique]{techniques}"
+      ],
+      "id": "fictional__3"
+    }
+  ],
+  "word": "fictional"
+}

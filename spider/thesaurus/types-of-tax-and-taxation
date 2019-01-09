@@ -1,0 +1,206 @@
+{
+  "entries": [
+    {
+      "comment": "[tax_1]{tax} that you [owe]{owed} at an [earlier_1]{earlier} time but [did]{did} not [pay_1]{pay}",
+      "entry": "back tax",
+      "id": "back-tax#back-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that a [person]{person} or [company]{company} [pay_1]{pays} on the [profit_1]{profit} you get from [selling]{selling} [property]{property} or from [money]{money} you have [invest]{invested}",
+      "entry": "capital gains tax",
+      "id": "capital-gains-tax#capital-gains-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} or [payment]{payment} in which the same amount of [money]{money} is [paid_1]{paid} by each [person]{person}",
+      "entry": "capitation",
+      "id": "capitation#capitation__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} on [vehicle]{vehicles} or [factory]{factories} that [produce_1]{produce} a [lot_1]{lot} of [carbon]{carbon} [emission]{emissions}",
+      "entry": "carbon tax",
+      "id": "carbon-tax#carbon-tax__1"
+    },
+    {
+      "comment": "[capital_1]{capital} gains [tax_1]{tax}",
+      "entry": "CGT",
+      "id": "cgt#cgt__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that [company]{companies} [pay_1]{pay} on their [profit_1]{profits}",
+      "entry": "corporate tax",
+      "id": "corporate-tax#corporate-tax__1"
+    },
+    {
+      "comment": "[corporate_1]{corporate} [tax_1]{tax}",
+      "entry": "corporation tax",
+      "id": "corporation-tax#corporation-tax__1"
+    },
+    {
+      "comment": "the [tax_1]{taxes} that you [pay_1]{pay} on [goods]{goods} that you [bring]{bring} into a [country]{country}",
+      "entry": "customs",
+      "id": "customs#customs__3"
+    },
+    {
+      "comment": "[inheritance]{inheritance} [tax_1]{tax}",
+      "entry": "death tax",
+      "id": "death-tax#death-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} [collected]{collected} [directly_1]{directly} from a [person]{person} or [organization]{organization} [instead]{instead} of as part of the [price_1]{price} of a [product]{product} or [service_1]{service}",
+      "entry": "direct tax",
+      "id": "direct-tax#direct-tax__1"
+    },
+    {
+      "comment": "a way of [avoid]{avoiding} [tax_1]{tax} [used]{used} by some [large_1]{large} [corporation]{corporations}, which [involve]{involves} [moving]{moving} the [company]{company}\u2019s [income]{income} to a [country]{country} with [lower_1]{lower} [tax_1]{tax} [rate_1]{rates} than the one where it [does]{does} most of its [business]{business}. [usually]{Usually} [income]{income} is [transfer_1]{transferred} to a [branch_1]{branch} of the [company]{company} [base_2]{based} in Ireland, and from there to another Irish [company]{company} [base_2]{based} in a [country]{country} where there is no [corporation]{corporation} [tax_1]{tax}.",
+      "entry": "double Irish",
+      "id": "double-irish#double-irish__1"
+    },
+    {
+      "comment": "a way of [avoid]{avoiding} [tax_1]{tax} [used]{used} by some [large_1]{large} [corporation]{corporations}, which is [similar]{similar} to the [double_1]{double} Irish, but [involve]{involves} [send_1]{sending} [income]{income} via a third [country]{country} such as the Netherlands in [order_1]{order} to further [reduce]{reduce} the [tax_1]{tax} that has to be [paid_1]{paid}",
+      "entry": "Dutch sandwich",
+      "id": "dutch-sandwich#dutch-sandwich__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that you must [pay_1]{pay} on something, [especially]{especially} something that you [bring]{bring} into one [country]{country} from another [country]{country}",
+      "entry": "duty",
+      "id": "duty#duty__10"
+    },
+    {
+      "comment": "a [tax_1]{tax} [paid_1]{paid} in the U.S. on the [money]{money} and [property]{property} that are [left_1]{left} when someone [die_1]{dies}",
+      "entry": "estate tax",
+      "id": "estate-tax#estate-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that a [government]{government} [charge_1]{charges} on [service_1]{services} [used]{used} and [goods]{goods} [sold]{sold} [inside_1]{inside} its [country]{country}",
+      "entry": "excise",
+      "id": "excise_1#excise_1__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that [people_1]{people} [pay_1]{pay} to the [national_1]{national} [government]{government} of the U.S.",
+      "entry": "federal tax",
+      "id": "federal-tax#federal-tax__1"
+    },
+    {
+      "comment": "[goods]{Goods} and [service_1]{Services} [tax_1]{Tax}: a [tax_1]{tax} that in some [country]{countries} [form_1]{forms} part of the [price_1]{price} of some [thing]{things} that you [buy_1]{buy}",
+      "entry": "GST",
+      "id": "gst#gst__1"
+    },
+    {
+      "comment": "an [indirect]{indirect} [tax_1]{tax}",
+      "entry": "hidden tax",
+      "id": "hidden-tax#hidden-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} [base_2]{based} on your [income]{income} that you [pay_1]{pay} to the IRS once a [year]{year} or every three [month]{months}",
+      "entry": "income tax",
+      "id": "income-tax#income-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} on [goods]{goods} and [service_1]{services} rather than on [income]{income}",
+      "entry": "indirect tax",
+      "id": "indirect-tax#indirect-tax__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [taxing]{taxing} [goods]{goods} and [service_1]{services} rather than [income]{income}",
+      "entry": "indirect taxation",
+      "id": "indirect-taxation#indirect-taxation__1"
+    },
+    {
+      "comment": "[tax_1]{tax} that you [pay_1]{pay} on the [money]{money} or [property]{property} that you get from someone who has [die_1]{died}",
+      "entry": "inheritance tax",
+      "id": "inheritance-tax#inheritance-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that has to be [paid_1]{paid} by anyone who [own_2]{owns} or [sell_1]{sells} a [house_1]{house} that is [worth_1]{worth} a very [large_1]{large} amount of [money]{money}",
+      "entry": "mansion tax",
+      "id": "mansion-tax#mansion-tax__1"
+    },
+    {
+      "comment": "an amount of [money]{money} [collected]{collected} as a [tax_1]{tax} from every [adult_1]{adult} [citizen]{citizen} of a [particular_1]{particular} [country]{country}",
+      "entry": "poll tax",
+      "id": "poll-tax#poll-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} system in which [people_1]{people} who [earn]{earn} a [lot_1]{lot} of [money]{money} [pay_1]{pay} a [large_1]{larger} [percentage]{percentage} of their [income]{income} in [tax_1]{tax} than [people_1]{people} who [earn]{earn} less",
+      "entry": "progressive tax",
+      "id": "progressive-tax#progressive-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that you [pay_1]{pay} [base_2]{based} on the [value_1]{value} of the [land_1]{land} and [building]{buildings} you own",
+      "entry": "property tax",
+      "id": "property-tax#property-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} system in which [poor_1]{poor} [people_1]{people} [pay_1]{pay} a [big_1]{bigger} [percentage]{percentage} of their [income]{income} than [rich_1]{rich} [people_1]{people}",
+      "entry": "regressive tax",
+      "id": "regressive-tax#regressive-tax__1"
+    },
+    {
+      "comment": "[money]{money} that [people_1]{people} in some [country]{countries} must [pay_1]{pay} if they [want_1]{want} to [drive_1]{drive} their [vehicle]{vehicles} on [public_1]{public} [road]{roads}",
+      "entry": "road tax",
+      "id": "road-tax#road-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that is [added]{added} to the [basic_1]{basic} [price_1]{price} of something you [buy_1]{buy}",
+      "entry": "sales tax",
+      "id": "sales-tax#sales-tax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that [people_1]{people} in the U.K. [pay_1]{pay} on some [official_1]{official} [document_1]{documents}, [especially]{especially} when they are [buy_1]{buying} a [house_1]{house}",
+      "entry": "stamp duty",
+      "id": "stamp-duty#stamp-duty__1"
+    },
+    {
+      "comment": "[surtax]{surtax}",
+      "entry": "supertax",
+      "id": "supertax#supertax__1"
+    },
+    {
+      "comment": "an [additional]{additional} [tax_1]{tax} on something on which you already [pay_1]{pay} [tax_1]{tax}, [especially]{especially} a [high_1]{high} [income]{income}",
+      "entry": "surtax",
+      "id": "surtax#surtax__1"
+    },
+    {
+      "comment": "a [tax_1]{tax} that a [government]{government} [charge_1]{charges} on [goods]{goods} that [enter]{enter} or [leave_1]{leave} their [country]{country}",
+      "entry": "tariff",
+      "id": "tariff#tariff__1"
+    },
+    {
+      "comment": "the system that a [government]{government} [use_1]{uses} for [collect_1]{collecting} [money]{money} from [people_1]{people} in the form of [tax_1]{taxes}",
+      "entry": "taxation",
+      "id": "taxation#taxation__1"
+    },
+    {
+      "comment": "the [money]{money} that a [government]{government} [collect_1]{collects} from [people_1]{people} from [tax_1]{taxes}",
+      "entry": "taxation",
+      "id": "taxation#taxation__3"
+    },
+    {
+      "comment": "a [tax_1]{tax} that [people_1]{people} [paid_1]{paid} to the [church]{church} in the [past_1]{past}",
+      "entry": "tithe",
+      "id": "tithe#tithe__1"
+    },
+    {
+      "comment": "[vat_1]{VAT}",
+      "entry": "value added tax",
+      "id": "value-added-tax#value-added-tax__1"
+    },
+    {
+      "comment": "[value_1]{value} [added]{added} [tax_1]{tax}: a [tax_1]{tax} on [goods]{goods} and [service_1]{services}",
+      "entry": "VAT",
+      "id": "vat_2#vat_2__1"
+    },
+    {
+      "comment": "an [extra_1]{extra} amount of [tax_1]{tax} that the [government]{government} [charge_1]{charges} a [company]{company} that [make_1]{makes} a [lot_1]{lot} of [money]{money} [unexpected#unexpected__4]{unexpectedly}",
+      "entry": "windfall tax",
+      "id": "windfall-tax#windfall-tax__1"
+    },
+    {
+      "comment": "part of a [person]{person}\u2019s [salary]{salary} that an [employer]{employer} [give_1]{gives} to the [government]{government} as [payment]{payment} of that [person]{person}\u2019s [tax_1]{taxes}",
+      "entry": "withholding tax",
+      "id": "withholding-tax#withholding-tax__1"
+    }
+  ],
+  "thesaurus": "Types of tax and taxation",
+  "type": "Related words"
+}

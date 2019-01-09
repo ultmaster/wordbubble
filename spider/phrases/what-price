@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "what price...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} whether something that someone has [achieve]{achieved} was [worth_1]{worth} all the [problem]{problems} it [cause_2]{caused}",
+      "examples": [
+        "What [price_1]{price} a [peace]{peace} [settlement]{settlement} now?"
+      ],
+      "id": "what-price__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} something is very [unlikely]{unlikely} to [happen]{happen}",
+      "examples": [
+        "What [price_1]{price} a [reprieve_1]{reprieve} for Scotland in [tonight_1]{tonight}\u2019s [final_1]{final}?"
+      ],
+      "id": "what-price__3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [stop_1]{stop} [doing]{doing} [business]{business} or [operate]{operating} [permanently]{permanently}",
+      "entry": "close",
+      "id": "close_1#close_1__14"
+    },
+    {
+      "comment": "if a [store_1]{store}, [school_1]{school}, [factory]{factory}, or [business]{business} [shut_1]{shuts} down, or if someone [shut_1]{shuts} it down, it [close_1]{closes}, [usually]{usually} [permanently]{permanently}",
+      "entry": "shut down",
+      "id": "shut-down#shut-down__1"
+    },
+    {
+      "comment": "to [close_1]{close} a [business]{business}",
+      "entry": "wind up",
+      "id": "wind-up_1#wind-up_1__7"
+    },
+    {
+      "comment": "if something such as a [business]{business} [go_1]{goes} under, it [fail_1]{fails} [completely]{completely} and [stop_1]{stops} [operate]{operating}",
+      "entry": "go under",
+      "id": "go-under#go-under__3"
+    },
+    {
+      "comment": "to [close_1]{close} a [business]{business} and [sell_1]{sell} everything that it [own_2]{owns}, [usually]{usually} in [order_1]{order} to [pay_1]{pay} [money]{money} that is [owe]{owed}",
+      "entry": "liquidate",
+      "id": "liquidate#liquidate__1"
+    },
+    {
+      "comment": "if a [business]{business} [fold_1]{folds}, it [close_1]{closes} because it is not [able_1]{able} to [make_1]{make} enough [money]{money}",
+      "entry": "fold",
+      "id": "fold_1#fold_1__13"
+    },
+    {
+      "comment": "if a [business]{business} [crash_1]{crashes}, it [fail_1]{fails} [suddenly]{suddenly} and [completely]{completely}",
+      "entry": "crash",
+      "id": "crash_1#crash_1__21"
+    },
+    {
+      "comment": "if something such as a [business]{business} or a [relationship]{relationship} [fail_1]{fails}, it has a [lot_1]{lot} of [problem]{problems} and can no [long_1]{longer} [continue]{continue}",
+      "entry": "fail",
+      "id": "fail_1#fail_1__26"
+    },
+    {
+      "comment": "if a [company]{company} [go_1]{goes} out of [business]{business}, it [stop_1]{stops} [doing]{doing} [business]{business} [permanently]{permanently}, [especially]{especially} because it has [failed]{failed}",
+      "entry": "go out of business",
+      "id": "go-out-of-business#go-out-of-business__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} a [business]{business} or [institution]{institution} [stop_1]{stop} [operate]{operating} [permanently]{permanently}",
+      "entry": "closure",
+      "id": "closure#closure__1"
+    }
+  ],
+  "thesaurus": "Closing a business and ceasing to operate a business",
+  "type": "Synonyms"
+}

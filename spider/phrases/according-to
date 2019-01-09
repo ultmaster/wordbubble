@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "according to",
+  "senses": [
+    {
+      "def": "if you do something [accord_2]{according} to a [plan_1]{plan}, system, or [set_1]{set} of [rule_1]{rules}, you do it in a way that [agree]{agrees} with or [obey]{obeys} that [plan_1]{plan}, system, or [set_1]{set} of [rule_1]{rules}",
+      "examples": [
+        "We should [try_1]{try} to [play_1]{play} the [game_1]{game} [accord_2]{according} to the [rule_1]{rules}.",
+        "If everything [go_1]{goes} [accord_2]{according} to [plan_1]{plan}, they should [finish_1]{finish} by Thursday."
+      ],
+      "id": "according-to__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} where [information]{information} or [idea]{ideas} have come from",
+      "examples": [
+        "[accord_2]{According} to [newspaper]{newspaper} [report_1]{reports}, [fighting]{fighting} has [broken_1]{broken} out in the [northern]{northern} [province]{provinces}.",
+        "[accord_2]{According} to Freud, our [dream_1]{dreams} [represent]{represent} our [hidden_1]{hidden} [desire_1]{desires}."
+      ],
+      "id": "according-to__4"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something [change_1]{changes} or is [different]{different} [depend]{depending} on the [situation]{situation}",
+      "examples": [
+        "Each [child]{child} will be [help_1]{helped} [accord_2]{according} to his or her [need_1]{needs}.",
+        "The amount of [tax_1]{tax} [people_1]{people} [pay_1]{pay} [vary]{varies} [accord_2]{according} to where they [live_1]{live}."
+      ],
+      "id": "according-to__7"
+    }
+  ]
+}

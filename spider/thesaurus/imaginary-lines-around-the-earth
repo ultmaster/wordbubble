@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "an imaginary line around the Earth at the South Pole",
+      "entry": "the Antarctic Circle",
+      "id": "the-antarctic-circle#the-antarctic-circle__1"
+    },
+    {
+      "comment": "an imaginary line around the Earth near the North Pole",
+      "entry": "the Arctic Circle",
+      "id": "the-arctic-circle#the-arctic-circle__1"
+    },
+    {
+      "comment": "the [international_1]{international} [date_1]{date} [line_1]{line}",
+      "entry": "the date line",
+      "id": "the-date-line#the-date-line__1"
+    },
+    {
+      "comment": "an imaginary line that goes around the Earth and divides it into the northern and southern hemispheres",
+      "entry": "the equator",
+      "id": "the-equator#the-equator__1"
+    },
+    {
+      "comment": "[near_1]{near} the [hemisphere]{equator}, or [typical]{typical} of [condition_1]{conditions} [near_1]{near} the [hemisphere]{equator}",
+      "entry": "equatorial",
+      "id": "equatorial#equatorial__1"
+    },
+    {
+      "comment": "an imaginary line in the Pacific Ocean going from north to south that divides the world into two parts so that the date in the eastern half is one day earlier than the date in the western half. The international date line is often simply called the date line.",
+      "entry": "the international date line",
+      "id": "the-international-date-line#the-international-date-line__1"
+    },
+    {
+      "comment": "the distance of a point on the Earth from the equator  (=the imaginary line around the middle of the Earth), measured in degrees north or south",
+      "entry": "latitude",
+      "id": "latitude#latitude__1"
+    },
+    {
+      "comment": "the distance east or west of the Greenwich meridian  (=an imaginary line from the top of the Earth to the bottom) in England, measured in degrees and minutes. Latitude is the distance north or south of the equator.",
+      "entry": "longitude",
+      "id": "longitude#longitude__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [measured]{measured} in [longitude]{longitude}",
+      "entry": "longitudinal",
+      "id": "longitudinal#longitudinal__5"
+    },
+    {
+      "comment": "one of the [imaginary]{imaginary} [lines]{lines} that [go_1]{goes} around the [earth]{Earth} from the [north_1]{North} [pole_1]{Pole} to the [south_1]{South} [pole_1]{Pole}. These are [used]{used} for [measure_2]{measuring} [position_1]{position}, time, etc.",
+      "entry": "meridian",
+      "id": "meridian#meridian__1"
+    },
+    {
+      "comment": "an imaginary line around the Earth at a fixed distance from the equator",
+      "entry": "parallel",
+      "id": "parallel_2#parallel_2__10"
+    },
+    {
+      "comment": "one of the two imaginary lines around the Earth on either side of the equator. The Tropic of Cancer is 23\u00b0 26\u2019 north of it and the Tropic of Capricorn is 23\u00b0 26\u2019 south of it.",
+      "entry": "tropic",
+      "id": "tropic_1#tropic_1__1"
+    }
+  ],
+  "thesaurus": "Imaginary lines around the earth",
+  "type": "Related words"
+}

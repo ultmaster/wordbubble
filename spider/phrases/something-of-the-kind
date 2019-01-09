@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "something of the kind",
+  "senses": [
+    {
+      "def": "[used]{used} for [refer]{referring} to something that has already been [mention_1]{mentioned}",
+      "examples": [
+        "I had [expected]{expected} something of the [kind_1]{kind} might [happen]{happen}."
+      ],
+      "id": "something-of-the-kind__1"
+    },
+    {
+      "def": "[used]{used} for [describe]{describing} someone in a [general_1]{general} way",
+      "examples": [
+        "She\u2019s a [librarian]{librarian}, or something of the [kind_1]{kind}."
+      ],
+      "id": "something-of-the-kind__3"
+    }
+  ]
+}

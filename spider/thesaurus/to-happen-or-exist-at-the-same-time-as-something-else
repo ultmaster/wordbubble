@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if two or more [thing]{things} go together, they [frequently]{frequently} [exist]{exist} together",
+      "entry": "go together",
+      "id": "go-together#go-together__1"
+    },
+    {
+      "comment": "to [happen]{happen} at the same time as something else",
+      "entry": "coincide",
+      "id": "coincide#coincide__1"
+    },
+    {
+      "comment": "to [exist]{exist} [frequently]{frequently} with something",
+      "entry": "go with",
+      "id": "go-with#go-with__3"
+    },
+    {
+      "comment": "to [happen]{happen} or [exist]{exist} while something else is [happening_1]{happening}",
+      "entry": "accompany",
+      "id": "accompany#accompany__3"
+    },
+    {
+      "comment": "if [event]{events} [concur]{concur}, they [happen]{happen} at the same time",
+      "entry": "concur",
+      "id": "concur#concur__3"
+    },
+    {
+      "comment": "if two [event]{events} [overlap_1]{overlap}, or if one [overlap_1]{overlaps} the other, one [start_1]{starts} before the other [end_1]{ends}",
+      "entry": "overlap",
+      "id": "overlap_1#overlap_1__6"
+    },
+    {
+      "comment": "if two or more [thing]{things} [synchronize]{synchronize}, they [happen]{happen} or move at the same time or [speed_1]{speed}",
+      "entry": "synchronize",
+      "id": "synchronize#synchronize__5"
+    },
+    {
+      "comment": "if two [event]{events} [clash_1]{clash}, they [happen]{happen} at the same time, so that you cannot be [present_1]{present} at both of them",
+      "entry": "clash",
+      "id": "clash_2#clash_2__9"
+    },
+    {
+      "comment": "to be [provided]{provided} together with something",
+      "entry": "come with",
+      "id": "come-with#come-with__3"
+    },
+    {
+      "comment": "to [happen]{happen} or [exist]{exist} together",
+      "entry": "go hand in hand",
+      "id": "go-hand-in-hand#go-hand-in-hand__1"
+    }
+  ],
+  "thesaurus": "To happen or exist at the same time as something else",
+  "type": "Synonyms"
+}

@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "balance the budget/books",
+  "senses": [
+    {
+      "def": "to [spend]{spend} no more [money]{money} than you [receive]{receive}",
+      "examples": [],
+      "id": "balance-the-budget-books__1"
+    },
+    {
+      "def": "to do [calculation]{calculations} to [check_1]{check} or show that you have not [spent_1]{spent} more [money]{money} than you have [received]{received}",
+      "examples": [
+        "I\u2019ve been up all [night_1]{night} [trying]{trying} to [balance_1]{balance} the [book_1]{books}."
+      ],
+      "id": "balance-the-budget-books__2"
+    }
+  ]
+}

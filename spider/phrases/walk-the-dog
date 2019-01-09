@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "walk the dog",
+  "senses": [
+    {
+      "def": "to [walk_1]{walk} with a [pet_1]{pet} so that it [get]{gets} [exercise_1]{exercise}",
+      "examples": [
+        "[bob_1]{Bob} always [walk_1]{walks} the [dog_1]{dog} before he [go_1]{goes} to [bed_1]{bed}."
+      ],
+      "id": "walk-the-dog__1"
+    }
+  ]
+}

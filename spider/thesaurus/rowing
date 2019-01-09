@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [coxswain]{coxswain}",
+      "entry": "cox",
+      "id": "cox#cox__1"
+    },
+    {
+      "comment": "someone who directs the people who row a boat, especially in a race",
+      "entry": "coxswain",
+      "id": "coxswain#coxswain__1"
+    },
+    {
+      "comment": "a team of people who row a boat in a race",
+      "entry": "crew",
+      "id": "crew_1#crew_1__10"
+    },
+    {
+      "comment": "the sport of rowing a boat in races",
+      "entry": "crew",
+      "id": "crew_1#crew_1__11"
+    },
+    {
+      "comment": "to be a [member]{member} of the [crew_1]{crew} of a [boat]{boat}",
+      "entry": "crew",
+      "id": "crew_2#crew_2__1"
+    },
+    {
+      "comment": "a narrow rowboat for four people, used in a boat race",
+      "entry": "four",
+      "id": "four_2#four_2__3"
+    },
+    {
+      "comment": "the team of people who row the boat",
+      "entry": "four",
+      "id": "four_2#four_2__4"
+    },
+    {
+      "comment": "a man who uses oars to move a boat, especially in a race",
+      "entry": "oarsman",
+      "id": "oarsman#oarsman__1"
+    },
+    {
+      "comment": "a woman who uses oars to move a boat, especially in a race",
+      "entry": "oarswoman",
+      "id": "oarswoman#oarswoman__1"
+    },
+    {
+      "comment": "a [series]{series} of [boat]{boat} [race_1]{races}",
+      "entry": "regatta",
+      "id": "regatta#regatta__1"
+    },
+    {
+      "comment": "to move a boat through water using long poles with flat ends called oars",
+      "entry": "row",
+      "id": "row_2#row_2__1"
+    },
+    {
+      "comment": "to [row_1]{row} a [boat]{boat} as a [sport_1]{sport}",
+      "entry": "row",
+      "id": "row_2#row_2__3"
+    },
+    {
+      "comment": "someone who rows a boat, especially as a sport",
+      "entry": "rower",
+      "id": "rower#rower__1"
+    },
+    {
+      "comment": "the activity of moving a boat through water using oars, either for pleasure or as a sport",
+      "entry": "rowing",
+      "id": "rowing#rowing__1"
+    },
+    {
+      "comment": "to move a [boat]{boat} [use_1]{using} [scull_1]{sculls}",
+      "entry": "scull",
+      "id": "scull_2#scull_2__1"
+    },
+    {
+      "comment": "to stop rowing a boat and put the oars inside it",
+      "entry": "ship oars",
+      "id": "ship-oars#ship-oars__1"
+    },
+    {
+      "comment": "a style of rowing, or one complete movement of the oars through the water",
+      "entry": "stroke",
+      "id": "stroke_1#stroke_1__13"
+    }
+  ],
+  "thesaurus": "Rowing",
+  "type": "Related words"
+}

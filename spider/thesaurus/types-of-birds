@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "a [bird]{bird} that [flies]{flies} from one part of the [world]{world} to another when the [season_1]{season} [change_1]{changes}",
+      "entry": "bird of passage",
+      "id": "bird-of-passage#bird-of-passage__1"
+    },
+    {
+      "comment": "a [bird]{bird} that [hunt_1]{hunts} and [eats]{eats} other [animal_1]{animals}",
+      "entry": "bird of prey",
+      "id": "bird-of-prey#bird-of-prey__1"
+    },
+    {
+      "comment": "an [adult_1]{adult} [male_1]{male} [bird]{bird} of any [kind_1]{kind}",
+      "entry": "cock",
+      "id": "cock_1#cock_1__2"
+    },
+    {
+      "comment": "a small bird such as a sparrow",
+      "entry": "dickey",
+      "id": "dickey#dickey__2"
+    },
+    {
+      "comment": "a [young_1]{young} [bird]{bird} that has [just_1]{just} [learned]{learned} to [fly_1]{fly}",
+      "entry": "fledgling",
+      "id": "fledgling_1#fledgling_1__1"
+    },
+    {
+      "comment": "a [bird]{bird} that [people_1]{people} [hunt_1]{hunt} and [kill_1]{kill} for [sport_1]{sport}",
+      "entry": "game bird",
+      "id": "game-bird#game-bird__1"
+    },
+    {
+      "comment": "a [baby_1]{baby} [bird]{bird} or [animal_1]{animal} that has [just_1]{just} come out of the [egg_1]{egg}",
+      "entry": "hatchling",
+      "id": "hatchling#hatchling__1"
+    },
+    {
+      "comment": "the [female_1]{female} of any [type_1]{type} of [bird]{bird}",
+      "entry": "hen",
+      "id": "hen#hen__2"
+    },
+    {
+      "comment": "the [female_1]{female} [parent]{parent} of an [animal_1]{animal} or [bird]{bird}",
+      "entry": "mother",
+      "id": "mother_1#mother_1__5"
+    },
+    {
+      "comment": "a [baby_1]{baby} [bird]{bird} that has not [learned]{learned} to [fly_1]{fly}",
+      "entry": "nestling",
+      "id": "nestling#nestling__1"
+    },
+    {
+      "comment": "a [bird]{bird} that [kill_1]{kills} other [bird]{birds} and [animal_1]{animals} for [food]{food}",
+      "entry": "raptor",
+      "id": "raptor#raptor__2"
+    },
+    {
+      "comment": "a [bird]{bird} that [lives]{lives} [close_1]{close} to the [ocean]{ocean} and [get]{gets} its [food]{food} from it",
+      "entry": "seabird",
+      "id": "seabird#seabird__1"
+    },
+    {
+      "comment": "a [bird]{bird} that comes to an [area]{area} in [winter_1]{winter}",
+      "entry": "snowbird",
+      "id": "snowbird#snowbird__2"
+    },
+    {
+      "comment": "a [bird]{bird} that [make_1]{makes} a [beautiful]{beautiful} [sound_1]{sound}",
+      "entry": "songbird",
+      "id": "songbird#songbird__1"
+    },
+    {
+      "comment": "a [bird]{bird} that [lives]{lives} in an [area]{area} only at a [particular_1]{particular} time of the [year]{year}",
+      "entry": "visitor",
+      "id": "visitor#visitor__8"
+    },
+    {
+      "comment": "a [wade]{wading} [bird]{bird}",
+      "entry": "wader",
+      "id": "wader#wader__2"
+    },
+    {
+      "comment": "any [bird]{bird} with long [legs]{legs} that [stand_1]{stands} in the [water_1]{water} while it [hunt_1]{hunts} for [fish_1]{fish}",
+      "entry": "wading bird",
+      "id": "wading-bird#wading-bird__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [small_1]{small} [bird]{bird} that [sing_1]{sings}",
+      "entry": "warbler",
+      "id": "warbler#warbler__1"
+    },
+    {
+      "comment": "a [bird]{bird} that [lives]{lives} or [swim_1]{swims} on [water_1]{water}",
+      "entry": "water bird",
+      "id": "water-bird#water-bird__1"
+    },
+    {
+      "comment": "a [water_1]{water} [bird]{bird}",
+      "entry": "waterfowl",
+      "id": "waterfowl#waterfowl__1"
+    },
+    {
+      "comment": "[bird]{birds} that [people_1]{people} [hunt_1]{hunt}, [especially]{especially} [bird]{birds} that [live_1]{live} [near_1]{near} [water_1]{water}",
+      "entry": "wildfowl",
+      "id": "wildfowl#wildfowl__1"
+    }
+  ],
+  "thesaurus": "Types of birds",
+  "type": "Related words"
+}

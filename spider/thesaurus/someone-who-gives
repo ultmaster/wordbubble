@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [give_1]{gives}, [especially]{especially} to [charity]{charity}",
+      "entry": "giver",
+      "id": "giver#giver__1"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [thing]{things} such as [money]{money} or [goods]{goods} to an [organization]{organization}, [especially]{especially} one that [help_1]{helps} [people_1]{people}",
+      "entry": "donor",
+      "id": "donor#donor__6"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [help_1]{help} or [money]{money} to a [plan_1]{plan} or [organization]{organization}",
+      "entry": "backer",
+      "id": "backer#backer__1"
+    },
+    {
+      "comment": "a [person]{person}, [place_1]{place}, or thing that [provide]{provides} something that you [need_1]{need} or [want_1]{want}",
+      "entry": "source",
+      "id": "source_1#source_1__1"
+    },
+    {
+      "comment": "a [company]{company}, [organization]{organization}, or [country]{country} that [supply_1]{supplies} or [sell_1]{sells} a [product]{product} or a [service_1]{service}",
+      "entry": "supplier",
+      "id": "supplier#supplier__1"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [money]{money}, [goods]{goods}, or their time or [effort]{effort} in [order_1]{order} to [help_1]{help} to [achieve]{achieve} something",
+      "entry": "contributor",
+      "id": "contributor#contributor__1"
+    },
+    {
+      "comment": "someone who [pay_1]{pays} [money]{money} for something",
+      "entry": "payer",
+      "id": "payer#payer__1"
+    },
+    {
+      "comment": "someone who [give_1]{gives} [money]{money} so that something can [happen]{happen}, and therefore has a [lot_1]{lot} of [control_1]{control}",
+      "entry": "paymaster",
+      "id": "paymaster#paymaster__2"
+    },
+    {
+      "comment": "someone or something that you use to [supply_1]{supply} you with all the [food]{food} or [money]{money} that you [need_1]{need}, [instead]{instead} of [doing]{doing} this for yourself",
+      "entry": "meal ticket",
+      "id": "meal-ticket#meal-ticket__1"
+    },
+    {
+      "comment": "someone who gives good/bad/big etc. tips to taxi drivers, waiters, etc.",
+      "entry": "a good/bad/big etc. tipper",
+      "id": "tipper#tipper__2"
+    }
+  ],
+  "thesaurus": "Someone who gives",
+  "type": "Synonyms"
+}

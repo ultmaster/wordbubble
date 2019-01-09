@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "someone with [technical]{technical} [knowledge]{knowledge} who [maintain]{maintains} a computer or [network_1]{network} and [control_1]{controls} [access_1]{access} to it",
+      "entry": "administrator",
+      "id": "administrator#administrator__4"
+    },
+    {
+      "comment": "a [company]{company} or [person]{person} that is [given_1]{given} a beta [version]{version} of a [new]{new} [piece_1]{piece} of computer [hardware]{hardware} or [software]{software} to [test_1]{test}",
+      "entry": "beta site",
+      "id": "beta-site#beta-site__1"
+    },
+    {
+      "comment": "[chief_1]{Chief} [information]{Information} [officer]{Officer}: the [person]{person} in [charge_1]{charge} of the IT and computer [system]{systems} in a [corporation]{corporation}",
+      "entry": "CIO",
+      "id": "cio#cio__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [create]{create} [new]{new} [idea]{ideas} and [product]{products}, [especially]{especially} [new]{new} computer [product]{products}",
+      "entry": "developer",
+      "id": "developer#developer__2"
+    },
+    {
+      "comment": "someone who [design_1]{designs} and [repair_1]{repairs} computer [program_1]{programs}",
+      "entry": "engineer",
+      "id": "engineer_1#engineer_1__6"
+    },
+    {
+      "comment": "someone who [use_1]{uses} a computer to [connect]{connect} to other [people_1]{people}\u2019s [computer]{computers} [secretly]{secretly} and often [illegal_1#illegal_1__6]{illegally}, so that they can find or [change_1]{change} [information]{information}",
+      "entry": "hacker",
+      "id": "hacker#hacker__1"
+    },
+    {
+      "comment": "someone who [know_1]{knows} a [lot_1]{lot} about [computer]{computers} and who [spend]{spends} a [lot_1]{lot} of time [use_1]{using} them",
+      "entry": "hacker",
+      "id": "hacker#hacker__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [type_1]{type} [information]{information} into a computer",
+      "entry": "keyboarder",
+      "id": "keyboarder#keyboarder__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [develop]{develop} and [manage]{manage} a computer [network_1]{network}",
+      "entry": "network administrator",
+      "id": "network-administrator#network-administrator__1"
+    },
+    {
+      "comment": "someone who [make_1]{makes} [change_1]{changes} to a computer so that it [operate]{operates} [fast_1]{faster} than the [manufacturer]{manufacturer} [intended_1]{intended}",
+      "entry": "overclocker",
+      "id": "overclocker#overclocker__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [create]{create} computer [program_1]{programs}",
+      "entry": "programmer",
+      "id": "programmer#programmer__1"
+    },
+    {
+      "comment": "a system [operator]{operator}",
+      "entry": "sysop",
+      "id": "sysop#sysop__1"
+    },
+    {
+      "comment": "someone whose job is to manage a bulletin board or a computer system",
+      "entry": "system operator",
+      "id": "system-operator#system-operator__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [plan_1]{plan} or [improve_1]{improve} the way that a [business]{business} or [organization]{organization} [use_1]{uses} [computer]{computers}",
+      "entry": "systems analyst",
+      "id": "systems-analyst#systems-analyst__1"
+    },
+    {
+      "comment": "someone who [know_1]{knows} a [lot_1]{lot} about [technology]{technology} or [computer]{computers}, [especially]{especially} as their [job_1]{job}",
+      "entry": "techie",
+      "id": "techie#techie__1"
+    },
+    {
+      "comment": "people who work with computers, as opposed to computer software or hardware itself",
+      "entry": "wetware",
+      "id": "wetware#wetware__1"
+    }
+  ],
+  "thesaurus": "People who work with computers",
+  "type": "Related words"
+}

@@ -1,0 +1,28 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [happening_1]{happening} very often",
+      "examples": [
+        "In a rare [moment]{moment} of [honesty]{honesty}, he [told]{told} her what he had done.",
+        "It\u2019s [extremely]{extremely} rare for her to [lose]{lose} her [temper_1]{temper}.",
+        "This is one of the [rare]{rarest} [plant_1]{plants} in the [collection]{collection}.",
+        "He has a rare [talent]{talent} for [manage]{managing} [people_1]{people}."
+      ],
+      "id": "rare__1"
+    },
+    {
+      "def": "rare [meat]{meat} has been [cooked]{cooked} for only a [short_1]{short} time and is red [inside_1]{inside}",
+      "examples": [
+        "I [like_1]{like} my [steak]{steak} rare."
+      ],
+      "id": "rare__7"
+    },
+    {
+      "def": "[air_1]{air} that is rare [contain]{contains} very [little_1]{little} [oxygen]{oxygen}",
+      "examples": [],
+      "id": "rare__9"
+    }
+  ],
+  "word": "rare"
+}

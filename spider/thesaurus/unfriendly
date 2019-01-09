@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [friendly_1]{friendly}",
+      "entry": "unfriendly",
+      "id": "unfriendly#unfriendly__1"
+    },
+    {
+      "comment": "not seeming [friendly_1]{friendly} or [sympathetic]{sympathetic}",
+      "entry": "cold",
+      "id": "cold_1#cold_1__11"
+    },
+    {
+      "comment": "[behave]{behaving} in a very [unfriendly]{unfriendly} or [threatening]{threatening} way toward someone",
+      "entry": "hostile",
+      "id": "hostile#hostile__1"
+    },
+    {
+      "comment": "someone who is [distant]{distant} seems [unfriendly]{unfriendly} or [does]{does} not show their [feeling_1]{feelings}",
+      "entry": "distant",
+      "id": "distant#distant__10"
+    },
+    {
+      "comment": "not [friendly_1]{friendly} or [kind_1]{kind}",
+      "entry": "unpleasant",
+      "id": "unpleasant#unpleasant__5"
+    },
+    {
+      "comment": "someone who is [aloof]{aloof}, or who [remains]{remains} or [stay_1]{stays} [aloof]{aloof} from something, is not [friendly_1]{friendly} or [does]{does} not [want_1]{want} to be [involved]{involved} in something",
+      "entry": "aloof",
+      "id": "aloof#aloof__1"
+    },
+    {
+      "comment": "[dislike_1]{disliking} someone or something very much and [behave]{behaving} in a very [unfriendly]{unfriendly} way toward them",
+      "entry": "antagonistic",
+      "id": "antagonistic#antagonistic__1"
+    },
+    {
+      "comment": "[impolite]{impolite} and [unfriendly]{unfriendly}, [especially]{especially} toward someone who [does]{does} not [deserve]{deserve} to be [treat_1]{treated} in this way",
+      "entry": "churlish",
+      "id": "churlish#churlish__1"
+    },
+    {
+      "comment": "not [friendly_1]{friendly} and not [showing]{showing} any [emotion]{emotion}",
+      "entry": "stony",
+      "id": "stony#stony__3"
+    },
+    {
+      "comment": "[showing]{showing} that you do not [like_1]{like} someone and do not [want_1]{want} to be [friendly_1]{friendly} with them",
+      "entry": "icy",
+      "id": "icy#icy__6"
+    }
+  ],
+  "thesaurus": "Unfriendly",
+  "type": "Synonyms"
+}

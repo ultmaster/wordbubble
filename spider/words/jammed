@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "very [crowded]{crowded} with [people_1]{people} or [thing]{things}",
+      "examples": [
+        "We [sat_1]{sat} for an [hour]{hour} in jammed [traffic_1]{traffic}."
+      ],
+      "id": "jammed__1"
+    },
+    {
+      "def": "a [piece_1]{piece} of [equipment]{equipment} that is jammed has some part of it that is not [moving]{moving} [correctly]{correctly}",
+      "examples": [
+        "a jammed [printer]{printer}/[gun_1]{gun}"
+      ],
+      "id": "jammed__3"
+    },
+    {
+      "def": "a jammed [telephone_1]{telephone} system [does]{does} not [work_1]{work} because too many [people_1]{people} are [making]{making} [call_1]{calls} at the same time",
+      "examples": [],
+      "id": "jammed__5"
+    }
+  ],
+  "word": "jammed"
+}

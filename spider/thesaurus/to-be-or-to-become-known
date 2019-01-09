@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something comes out, it becomes [known_1]{known}",
+      "entry": "come out",
+      "id": "come-out#come-out__1"
+    },
+    {
+      "comment": "if [news]{news} [get]{gets} around, a [lot_1]{lot} of [people_1]{people} [hear]{hear} it",
+      "entry": "get around",
+      "id": "get-around#get-around__3"
+    },
+    {
+      "comment": "to become [known_1]{known} by the [public_1]{public}",
+      "entry": "leak out",
+      "id": "leak-out#leak-out__1"
+    },
+    {
+      "comment": "to become [known_1]{known}",
+      "entry": "emerge",
+      "id": "emerge#emerge__6"
+    },
+    {
+      "comment": "if something [secret_1]{secret} [get]{gets} out, a [lot_1]{lot} of [people_1]{people} find out about it",
+      "entry": "get out",
+      "id": "get-out_1#get-out_1__11"
+    },
+    {
+      "comment": "if [important]{important} [news]{news} [break_1]{breaks}, it becomes [publicly]{publicly} [known_1]{known}",
+      "entry": "break",
+      "id": "break_1#break_1__27"
+    },
+    {
+      "comment": "if [information]{information} [spread_1]{spreads}, it becomes [known_1]{known} by more [people_1]{people} than before",
+      "entry": "spread",
+      "id": "spread_1#spread_1__33"
+    },
+    {
+      "comment": "if something [new]{new} or [different]{different} [appear]{appears}, it [start_1]{starts} to [exist]{exist} or to be [known_1]{known} about for the first time",
+      "entry": "appear",
+      "id": "appear#appear__20"
+    },
+    {
+      "comment": "if [information]{information} or [idea]{ideas} [circulate]{circulate}, one [person]{person} [talk_1]{talks} or [write]{writes} about them to another, so that more and more [people_1]{people} [start_1]{start} to [know_1]{know} about them",
+      "entry": "circulate",
+      "id": "circulate#circulate__3"
+    },
+    {
+      "comment": "if [information]{information} or [idea]{ideas} [percolate]{percolate}, they [spread_1]{spread} [gradually]{gradually} and become [known_1]{known} to more [people_1]{people}",
+      "entry": "percolate",
+      "id": "percolate#percolate__4"
+    }
+  ],
+  "thesaurus": "To be, or to become known",
+  "type": "Synonyms"
+}

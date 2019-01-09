@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "I mean (to say)",
+  "senses": [
+    {
+      "def": "[used]{used} for [add_1]{adding} a [comment_1]{comment} or [explain]{explaining} what you have [just_1]{just} [said_1]{said}",
+      "examples": [
+        "We couldn\u2019t [live_1]{live} on that! I mean, it\u2019s [ridiculous]{ridiculous}."
+      ],
+      "id": "i-mean-to-say__1"
+    },
+    {
+      "def": "[used]{used} for [correct_2]{correcting} a [mistake_1]{mistake} in something you have [just_1]{just} [said_1]{said}",
+      "examples": [
+        "[let_1]{Let}\u2019s [ask_1]{ask} [mark_1]{Mark}. I mean Marco."
+      ],
+      "id": "i-mean-to-say__3"
+    }
+  ]
+}

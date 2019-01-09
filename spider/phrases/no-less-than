@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "no less than",
+  "senses": [
+    {
+      "def": "[used]{used} before a [number_1]{number} or amount for [saying]{saying} that it is the [low_1]{lowest} [possible_1]{possible}",
+      "examples": [
+        "The [hamburger]{hamburgers} should [contain]{contain} no less than 50% [meat]{meat}."
+      ],
+      "id": "no-less-than__1"
+    },
+    {
+      "def": "[used]{used} before a [number_1]{number} or amount for [showing]{showing} that it is [large_1]{large} and [surprising]{surprising}",
+      "examples": [
+        "[export_1]{Exports} have [risen]{risen} by no less than 80% in the last ten [year]{years}."
+      ],
+      "id": "no-less-than__3"
+    }
+  ]
+}

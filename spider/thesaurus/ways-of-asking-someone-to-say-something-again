@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [politely]{politely} [ask_1]{asking} someone to [repeat_1]{repeat} something that they have [said_1]{said}",
+      "entry": "I\u2019m sorry",
+      "id": "i-m-sorry#i-m-sorry__10"
+    },
+    {
+      "comment": "[used]{used} for [politely]{politely} [ask_1]{asking} someone to [repeat_1]{repeat} something",
+      "entry": "pardon me",
+      "id": "pardon-me#pardon-me__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} something",
+      "entry": "excuse me",
+      "id": "excuse-me#excuse-me__5"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} what they [said_1]{said}",
+      "entry": "come again?",
+      "id": "come-again#come-again__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} what they have [just_1]{just} [said_1]{said} because you [did]{did} not [hear]{hear} it [clearly]{clearly}",
+      "entry": "what",
+      "id": "what#what__23"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} something because you [did]{did} not [hear]{hear} them. \u201c[pardon_1]{Pardon} me?\u201d or \u201c[excuse_1]{Excuse} me?\u201d are less [formal_1]{formal} ways of [saying]{saying} this",
+      "entry": "I beg your pardon",
+      "id": "i-beg-your-pardon#i-beg-your-pardon__1"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} what they have [just_1]{just} [said_1]{said}",
+      "entry": "run that by me again",
+      "id": "run-by#run-by__3"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} something that they [told]{told} you before, [especially]{especially} because you have [forgotten_1]{forgotten} what they [said_1]{said}",
+      "entry": "again",
+      "id": "again#again__7"
+    },
+    {
+      "comment": "[used]{used} for [ask_1]{asking} someone to [repeat_1]{repeat} something because you [did]{did} not [hear]{hear} what they [said_1]{said}",
+      "entry": "huh",
+      "id": "huh#huh__1"
+    },
+    {
+      "comment": "used for asking someone to repeat what they have just said. This is not a polite expression. It is better to say pardon.",
+      "entry": "you what?",
+      "id": "you-what#you-what__1"
+    }
+  ],
+  "thesaurus": "Ways of asking someone to say something again",
+  "type": "Synonyms"
+}

@@ -1,0 +1,43 @@
+{
+  "part": "phrase",
+  "phrase": "move on",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} one [place_1]{place} and [travel_1]{travel} to another",
+      "examples": [
+        "They [stay_1]{stayed} for only a few [day]{days} before [moving]{moving} on."
+      ],
+      "id": "move-on__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [discuss]{discussing} or [doing]{doing} something and [begin]{begin} [discuss]{discussing} or [doing]{doing} something [different]{different}",
+      "examples": [
+        "[let_1]{Let}\u2019s move on to the next [question_1]{question}."
+      ],
+      "id": "move-on__3"
+    },
+    {
+      "def": "to [change_1]{change} your [idea]{ideas}, [attitude]{attitudes}, [behavior]{behavior}, etc.",
+      "examples": [
+        "We [like_1]{like} to [think_1]{think} we\u2019ve [move_1]{moved} on as a [society]{society} since the [day]{days} of [racial]{racial} [segregation]{segregation}.",
+        "[public_1]{Public} [opinion]{opinion} has [move_1]{moved} on a [great_1]{great} [deal_1]{deal} since then."
+      ],
+      "id": "move-on__5"
+    },
+    {
+      "def": "to [start_1]{start} to [continue]{continue} with your [life]{life} after you have [dealt]{dealt} [successful#successful__11]{successfully} with a [bad_1]{bad} [experience_1]{experience}",
+      "examples": [
+        "It\u2019s been a [nightmare]{nightmare}, but now I [just_1]{just} [want_1]{want} to [forget]{forget} about it and move on."
+      ],
+      "id": "move-on__8"
+    },
+    {
+      "def": "to [leave_1]{leave} a [place_1]{place} when someone in [authority]{authority} [tell_1]{tells} you to",
+      "examples": [
+        "We [move_1]{moved} on, as [request_2]{requested}.",
+        "[police_1]{Police} were [aggressive]{aggressive} in the way they [move_1]{moved} the [young_1]{young} [people_1]{people} on."
+      ],
+      "id": "move-on__10"
+    }
+  ]
+}

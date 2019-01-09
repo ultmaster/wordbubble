@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[lying]{lying} at the bottom of the [ocean]{ocean}",
+      "examples": [
+        "sunken [treasure_1]{treasure}",
+        "sunken [ship_1]{ships}"
+      ],
+      "id": "sunken__1"
+    },
+    {
+      "def": "[lower_1]{lower} than the [level_1]{level} of the [surrounding]{surrounding} [land_1]{land} or [floor_1]{floor}",
+      "examples": [
+        "a sunken [bath_1]{bath}/[garden_1]{garden}"
+      ],
+      "id": "sunken__4"
+    },
+    {
+      "def": "sunken [eye_1]{eyes} or [cheek]{cheeks} [curve_1]{curve} [inward_1]{inward}, often [showing]{showing} that someone is [sick_1]{sick} or [old]{old}",
+      "examples": [],
+      "id": "sunken__6"
+    }
+  ],
+  "word": "sunken"
+}

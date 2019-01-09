@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "level at",
+  "senses": [
+    {
+      "def": "to [point_1]{point} a [weapon]{weapon} at someone",
+      "examples": [
+        "Andy [level_3]{leveled} the [revolver]{revolver} at me [menacing#menacing__3]{menacingly}."
+      ],
+      "id": "level-at__1"
+    },
+    {
+      "def": "to [criticize]{criticize} or [accuse]{accuse} someone",
+      "examples": [
+        "Several [criticism]{criticisms} have been [level_3]{leveled} at the [company]{company}\u2019s [board_1]{board} of [director]{directors}.",
+        "Some serious [allegation]{allegations} have been [level_3]{leveled} against the [bank_1]{bank}."
+      ],
+      "id": "level-at__3"
+    }
+  ]
+}

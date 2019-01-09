@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to give [information]{information} to someone",
+      "entry": "tell",
+      "id": "tell#tell__1"
+    },
+    {
+      "comment": "to give [information]{information} or [document_1]{documents} to someone",
+      "entry": "deliver",
+      "id": "deliver#deliver__5"
+    },
+    {
+      "comment": "to [provide]{provide} [information]{information} about something that [exist]{exists} or has [happen]{happened}",
+      "entry": "report",
+      "id": "report_2#report_2__5"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone something",
+      "entry": "point out",
+      "id": "point-out#point-out__3"
+    },
+    {
+      "comment": "to give someone [information]{information} about a [situation]{situation}, [especially]{especially} [officially]{officially}",
+      "entry": "brief",
+      "id": "brief_3#brief_3__1"
+    },
+    {
+      "comment": "to [communicate]{communicate} [information]{information}, [news]{news}, or a [message_1]{message} to someone",
+      "entry": "relay",
+      "id": "relay_1#relay_1__1"
+    },
+    {
+      "comment": "to give [information]{information} about something, [especially]{especially} something that should be [kept]{kept} [secret_1]{secret}",
+      "entry": "divulge",
+      "id": "divulge#divulge__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone [fact]{facts} or [information]{information} that they [need_1]{need} to [know_1]{know}",
+      "entry": "advise",
+      "id": "advise#advise__14"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone something",
+      "entry": "let someone know",
+      "id": "let-someone-know#let-someone-know__1"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone about someone or something that they [want_1]{want} or [need_1]{need}",
+      "entry": "put onto",
+      "id": "put-onto#put-onto__1"
+    }
+  ],
+  "thesaurus": "To tell someone something, or to give information",
+  "type": "Synonyms"
+}

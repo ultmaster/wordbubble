@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "something that [remind]{reminds} you of something that [happen]{happened} in the [past_1]{past}",
+      "examples": [
+        "His [presence]{presence} was a [constant_1]{constant} reminder of what she had [lost_1]{lost}.",
+        "The [cold_1]{cold} [serve_1]{served} as a reminder that [winter_1]{winter} wasn\u2019t [quite]{quite} [finished]{finished}."
+      ],
+      "id": "reminder__1"
+    },
+    {
+      "def": "a [letter_1]{letter} or [note_1]{note} that [remind]{reminds} you of something that you [need_1]{need} to do or [need_1]{need} to [remember]{remember}",
+      "examples": [
+        "If an [installment]{installment} is not [paid_1]{paid}, a reminder is [issue_2]{issued}.",
+        "This is [just_1]{just} a reminder to [let_1]{let} you [know_1]{know} that Stefan\u2019s [arrive]{arriving} on Saturday."
+      ],
+      "id": "reminder__4"
+    }
+  ],
+  "word": "reminder"
+}

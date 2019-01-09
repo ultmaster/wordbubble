@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "tie up",
+  "senses": [
+    {
+      "def": "to [tie_1]{tie} the [end_1]{ends} of something together",
+      "examples": [
+        "[tie_1]{Tie} up your [shoelace]{shoelaces} before you [trip_1]{trip} over them.",
+        "This is where you [tie_1]{tie} up your [horse_1]{horse}.",
+        "They [tied]{tied} him up and [lock_1]{locked} him in the [cellar]{cellar}.",
+        "The [big_1]{bigger} [cruiser]{cruisers} [tie_1]{tie} up at the [island]{island}\u2019s [western_1]{western} [end_1]{end}."
+      ],
+      "id": "tie-up_1__1"
+    },
+    {
+      "def": "to [make_1]{make} all the [arrangement]{arrangements} that are [necessary_1]{necessary} for a [deal_1]{deal} or an [agreement]{agreement} to be [completed]{completed}",
+      "examples": [
+        "I\u2019ve [just_1]{just} [tied]{tied} up the [final_1]{final} [part_1]{parts} of the [deal_1]{deal}."
+      ],
+      "id": "tie-up_1__9"
+    }
+  ]
+}

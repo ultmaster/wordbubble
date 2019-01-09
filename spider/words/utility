@@ -1,0 +1,33 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [public_1]{public} [service_1]{service} such as [gas_1]{gas}, [water_1]{water}, or [electricity]{electricity} that is [used]{used} by everyone",
+      "examples": [
+        "utility [company]{companies}",
+        "the [regulation_1]{regulation} of [privatize]{privatized} [utility]{utilities}"
+      ],
+      "id": "utility__1"
+    },
+    {
+      "def": "the [state_1]{state} of being [useful]{useful}",
+      "examples": [
+        "[test_1]{Tests} have [prove]{proved} the utility of this [material_1]{material}."
+      ],
+      "id": "utility__4"
+    },
+    {
+      "def": "a [utility-program]{utility program}",
+      "examples": [
+        "a data-compression utility"
+      ],
+      "id": "utility__6"
+    },
+    {
+      "def": "a [pickup_1#pickup_1__1]{pickup} [truck_1]{truck}",
+      "examples": [],
+      "id": "utility__8"
+    }
+  ],
+  "word": "utility"
+}

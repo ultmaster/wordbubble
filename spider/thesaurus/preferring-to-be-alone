@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[tend]{tending} to [spend]{spend} a [lot_1]{lot} of time alone",
+      "entry": "solitary",
+      "id": "solitary_1#solitary_1__1"
+    },
+    {
+      "comment": "someone who is [retiring]{retiring} [tend]{tends} to [avoid]{avoid} [social_1]{social} [activity]{activities} because they are [shy_1]{shy}",
+      "entry": "retiring",
+      "id": "retiring#retiring__1"
+    },
+    {
+      "comment": "very [quiet_1]{quiet} and [prefer]{preferring} not to [talk_1]{talk} to other [people_1]{people}",
+      "entry": "withdrawn",
+      "id": "withdrawn_1#withdrawn_1__1"
+    },
+    {
+      "comment": "not [interested]{interested} in [meeting]{meeting} other [people_1]{people}, or not [enjoy]{enjoying} [friendly_1]{friendly} [relationship]{relationships} with them",
+      "entry": "antisocial",
+      "id": "antisocial#antisocial__1"
+    },
+    {
+      "comment": "not [need_1]{needing} the [help_1]{help} or [friendship]{friendship} of other [people_1]{people}",
+      "entry": "self-contained",
+      "id": "self-contained#self-contained__3"
+    },
+    {
+      "comment": "to [stay_1]{stay} alone or with your [family_1]{family} rather than [spending]{spending} time with other [people_1]{people}",
+      "entry": "keep to yourself",
+      "id": "keep-to-yourself#keep-to-yourself__1"
+    },
+    {
+      "comment": "not [interested]{interested} in [meeting]{meeting} anyone [outside]{outside} your own [group_1]{group} or [country]{country}, or not [interested]{interested} in [learning]{learning} [new]{new} [idea]{ideas} or ways of [doing]{doing} [thing]{things}",
+      "entry": "insular",
+      "id": "insular#insular__1"
+    },
+    {
+      "comment": "[living_1]{living} alone and [avoid]{avoiding} other [people_1]{people}",
+      "entry": "reclusive",
+      "id": "reclusive#reclusive__1"
+    },
+    {
+      "comment": "[choose]{choosing} to [stay_1]{stay} at [home_1]{home} [instead]{instead} of [going_1]{going} to [place_1]{places} to [meet_1]{meet} [friend_1]{friends} or do [interesting]{interesting} [thing]{things}",
+      "entry": "stay-at-home",
+      "id": "stay-at-home#stay-at-home__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that two [people_1]{people}, [especially]{especially} [people_1]{people} [have]{having} a [romantic_1]{romantic} [relationship]{relationship}, would [prefer]{prefer} to be alone rather than with other [people_1]{people}",
+      "entry": "two\u2019s company, three\u2019s a crowd",
+      "id": "two-s-company-three-s-a-crowd#two-s-company-three-s-a-crowd__1"
+    }
+  ],
+  "thesaurus": "Preferring to be alone",
+  "type": "Synonyms"
+}

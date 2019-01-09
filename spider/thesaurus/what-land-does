@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "if [land_1]{land} [rise_1]{rises}, it [slope_1]{slopes} [upward_1]{upward} and becomes [higher_1]{higher}",
+      "entry": "rise",
+      "id": "rise_1#rise_1__6"
+    },
+    {
+      "comment": "if [thing]{things} such as [land_1]{land} or [building]{buildings} [shift_1]{shift}, or if something [shift_1]{shifts} them, they move [slightly]{slightly}",
+      "entry": "shift",
+      "id": "shift_1#shift_1__4"
+    },
+    {
+      "comment": "to [gradually]{gradually} [damage_1]{damage} the [surface_1]{surface} of [rock_1]{rock} or [land_1]{land} so that it [begin]{begins} to [disappear]{disappear}, or to be [gradually]{gradually} [damage_2]{damaged} in this way",
+      "entry": "erode",
+      "id": "erode#erode__1"
+    },
+    {
+      "comment": "if [land_1]{land} [subside]{subsides}, it [sink_1]{sinks} to a [lower_1]{lower} [level_1]{level}",
+      "entry": "subside",
+      "id": "subside#subside__5"
+    },
+    {
+      "comment": "if [land_1]{land} [fall_1]{falls} [away_1]{away}, it [slope_1]{slopes} down [suddenly]{suddenly} from a [particular_1]{particular} [point_1]{point}",
+      "entry": "fall away",
+      "id": "fall-away#fall-away__1"
+    },
+    {
+      "comment": "if the [ground_1]{ground} [drop_1]{drops}, it [slope_1]{slopes} [downward_1]{downward}",
+      "entry": "drop",
+      "id": "drop_1#drop_1__62"
+    }
+  ],
+  "thesaurus": "What land does",
+  "type": "Synonyms"
+}

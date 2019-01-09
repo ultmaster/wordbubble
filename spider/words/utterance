@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [statement_1]{statement}",
+      "examples": [
+        "[public_1]{public} [utterance]{utterances}"
+      ],
+      "id": "utterance__1"
+    },
+    {
+      "def": "a [word_1]{word} or [phrase_1]{phrase} that someone [speak_1]{speaks}",
+      "examples": [],
+      "id": "utterance__3"
+    }
+  ],
+  "word": "utterance"
+}

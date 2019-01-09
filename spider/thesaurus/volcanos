@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "an active volcano is likely to erupt  (=explode and pour out fire) at any time. When a volcano no longer does this, it is extinct.",
+      "entry": "active",
+      "id": "active#active__19"
+    },
+    {
+      "comment": "the round hole at the top of a volcano",
+      "entry": "crater",
+      "id": "crater_1#crater_1__1"
+    },
+    {
+      "comment": "something that is [dormant]{dormant} is not [active]{active} or [developing]{developing} now, but it may become [active]{active} or [develop]{develop} in the [future_1]{future}",
+      "entry": "dormant",
+      "id": "dormant#dormant__1"
+    },
+    {
+      "comment": "if a volcano erupts, it explodes inside and flames, rocks, and lava come out of the top",
+      "entry": "erupt",
+      "id": "erupt#erupt__7"
+    },
+    {
+      "comment": "an extinct volcano no longer erupts",
+      "entry": "extinct",
+      "id": "extinct#extinct__5"
+    },
+    {
+      "comment": "[rock_1]{rock} in the form of [hot]{hot} [liquid_1]{liquid}",
+      "entry": "lava",
+      "id": "lava#lava__1"
+    },
+    {
+      "comment": "the [solid_1]{solid} [rock_1]{rock} that [form_1]{forms} when [liquid_1]{liquid} [lava]{lava} becomes [cold_1]{cold}",
+      "entry": "lava",
+      "id": "lava#lava__2"
+    },
+    {
+      "comment": "a hole in the Earth\u2019s surface through which lava or gas comes out",
+      "entry": "vent",
+      "id": "vent_1#vent_1__2"
+    },
+    {
+      "comment": "[smog]{smog} that [contain]{contains} [dust_1]{dust} and [gas_1]{gas} from [volcano]{volcanoes}",
+      "entry": "vog",
+      "id": "vog#vog__1"
+    },
+    {
+      "comment": "coming from or [connected]{connected} with a [volcano]{volcano}",
+      "entry": "volcanic",
+      "id": "volcanic#volcanic__1"
+    },
+    {
+      "comment": "a mountain that forces hot gas, rocks, ash, and lava  (=melted rock) into the air through a hole at the top. Some volcanoes are not immediately dangerous because they are not active and have become dormant. Others will never be dangerous again because they are completely extinct",
+      "entry": "volcano",
+      "id": "volcano#volcano__1"
+    }
+  ],
+  "thesaurus": "Volcanos",
+  "type": "Related words"
+}

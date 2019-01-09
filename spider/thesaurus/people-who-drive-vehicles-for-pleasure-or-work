@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [group_1]{group} of [car]{car} [owner]{owners} who [agree]{agree} to [travel_1]{travel} together to [work_1]{work}, [school_1]{school}, etc., so that only one [car]{car} is [used]{used} each time",
+      "entry": "car pool",
+      "id": "car-pool_1#car-pool_1__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [drive_1]{drive} a [rich_1]{rich} and [important]{important} [person]{person} around in their [car]{car}, [usually]{usually} [wearing]{wearing} a [special_1]{special} [uniform_1]{uniform}",
+      "entry": "chauffeur",
+      "id": "chauffeur_1#chauffeur_1__1"
+    },
+    {
+      "comment": "in the [past_1]{past}, a man who [drove_1]{drove} a [carriage]{carriage} [pull_1]{pulled} by [horse_1]{horses}",
+      "entry": "coachman",
+      "id": "coachman#coachman__1"
+    },
+    {
+      "comment": "someone who [drive_1]{drives} a [vehicle]{vehicle}, [especially]{especially} as their [job_1]{job}",
+      "entry": "driver",
+      "id": "driver#driver__1"
+    },
+    {
+      "comment": "someone who [drive_1]{drives} a [car]{car}",
+      "entry": "motorist",
+      "id": "motorist#motorist__1"
+    },
+    {
+      "comment": "someone who [drive_1]{drives} in a [dangerous]{dangerous} way, often [making]{making} it [difficult]{difficult} for other [car]{cars} to [pass_1]{pass}",
+      "entry": "road hog",
+      "id": "road-hog#road-hog__1"
+    },
+    {
+      "comment": "someone who [like_2]{likes} to [drive_1]{drive} very [fast_1]{fast}",
+      "entry": "speed demon",
+      "id": "speed-demon#speed-demon__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [drive_1]{drive} a [truck_1]{truck}",
+      "entry": "teamster",
+      "id": "teamster#teamster__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [drive_1]{drive} a [truck_1]{truck}",
+      "entry": "trucker",
+      "id": "trucker#trucker__1"
+    }
+  ],
+  "thesaurus": "People who drive vehicles for pleasure or work",
+  "type": "Related words"
+}

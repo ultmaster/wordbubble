@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "someone on a [train_1]{train}, [bus_1]{bus}, etc. who [check_1]{checks} [passenger]{passengers}\u2019 [ticket_1]{tickets} and [collect_1]{collects} [money]{money}",
+      "entry": "conductor",
+      "id": "conductor#conductor__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [drive_1]{drive} a [train_1]{train}.",
+      "entry": "engineer",
+      "id": "engineer_1#engineer_1__4"
+    },
+    {
+      "comment": "a train conductor",
+      "entry": "guard",
+      "id": "guard_1#guard_1__21"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [check_1]{check} [people_1]{people}\u2019s [ticket_1]{tickets} on [bus_1]{buses} and [train_1]{trains}",
+      "entry": "inspector",
+      "id": "inspector#inspector__5"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [check_1]{check} or [repair_1]{repair} [railroad_1]{railroad} [lines]{lines}",
+      "entry": "lineman",
+      "id": "lineman#lineman__3"
+    },
+    {
+      "comment": "a [railroad_1]{railroad} [lineman]{lineman}",
+      "entry": "linesman",
+      "id": "linesman#linesman__3"
+    },
+    {
+      "comment": "someone on a [train_1]{train} whose [job_1]{job} is [bring]{bringing} [thing]{things} that [passenger]{passengers} [ask_1]{ask} for",
+      "entry": "porter",
+      "id": "porter#porter__2"
+    },
+    {
+      "comment": "a [train_1]{train} [company]{company}",
+      "entry": "railroad",
+      "id": "railroad_1#railroad_1__3"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [control_1]{control} [railroad_1]{railroad} [signal_1]{signals}",
+      "entry": "signalman",
+      "id": "signalman#signalman__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [manage]{manage} a [train_1]{train} [station_1]{station}",
+      "entry": "stationmaster",
+      "id": "stationmaster#stationmaster__1"
+    },
+    {
+      "comment": "someone at a [station_1]{station} who [take_1]{takes} the [ticket_1]{tickets} from [passenger]{passengers} as they get off the [train_1]{train}",
+      "entry": "ticket collector",
+      "id": "ticket-collector#ticket-collector__1"
+    }
+  ],
+  "thesaurus": "People who work on trains and railways",
+  "type": "Related words"
+}

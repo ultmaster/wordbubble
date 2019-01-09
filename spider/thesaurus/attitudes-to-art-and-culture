@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "[sensitive]{sensitive} to art and [beauty_1]{beauty}, and [able_1]{able} to [enjoy]{enjoy} it",
+      "entry": "artistic",
+      "id": "artistic#artistic__5"
+    },
+    {
+      "comment": "[pretend_1]{pretending} to [enjoy]{enjoy} art or be [interested]{interested} in it",
+      "entry": "artsy",
+      "id": "artsy#artsy__1"
+    },
+    {
+      "comment": "[showing]{showing} a [great_1]{great} interest in art, but in a way that may not be sincere",
+      "entry": "artsy",
+      "id": "artsy#artsy__2"
+    },
+    {
+      "comment": "someone who is [artsy-fartsy]{artsy-fartsy} is always [trying]{trying} to show how [interested]{interested} they are in art",
+      "entry": "artsy-fartsy",
+      "id": "artsy-fartsy#artsy-fartsy__1"
+    },
+    {
+      "comment": "[artsy]{artsy}",
+      "entry": "arty",
+      "id": "arty#arty__1"
+    },
+    {
+      "comment": "someone who [does]{does} not [respect_1]{respect} art or [culture_1]{culture}",
+      "entry": "barbarian",
+      "id": "barbarian#barbarian__2"
+    },
+    {
+      "comment": "[showing]{showing} the [influence_1]{influence} of many [different]{different} [country]{countries} and [culture_1]{cultures}",
+      "entry": "cosmopolitan",
+      "id": "cosmopolitan_1#cosmopolitan_1__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to interest [people_1]{people} who are [interested]{interested} in [learning]{learning}, [culture_1]{culture}, and art",
+      "entry": "highbrow",
+      "id": "highbrow_1#highbrow_1__1"
+    },
+    {
+      "comment": "not [interested]{interested} in [meeting]{meeting} anyone [outside]{outside} your own [group_1]{group} or [country]{country}, or not [interested]{interested} in [learning]{learning} [new]{new} [idea]{ideas} or ways of [doing]{doing} [thing]{things}",
+      "entry": "insular",
+      "id": "insular#insular__1"
+    },
+    {
+      "comment": "someone who is [refined]{refined} is very [polite]{polite} and well [educated]{educated}, and [enjoy]{enjoys} art, [music]{music}, etc.",
+      "entry": "refined",
+      "id": "refined#refined__3"
+    },
+    {
+      "comment": "the [quality_1]{quality} of being very [polite]{polite} and well [educated]{educated}, and [enjoy]{enjoying} art, [music]{music}, etc.",
+      "entry": "refinement",
+      "id": "refinement#refinement__2"
+    },
+    {
+      "comment": "[knowing]{knowing} a [lot_1]{lot} about [thing]{things} such as [culture_1]{culture}, [fashion_1]{fashion}, and the [modern]{modern} [world]{world}",
+      "entry": "sophisticated",
+      "id": "sophisticated#sophisticated__6"
+    },
+    {
+      "comment": "the [quality_1]{quality} of [knowing]{knowing} a [lot_1]{lot} about [thing]{things} such as [culture_1]{culture}, [fashion_1]{fashion}, and the [modern]{modern} [world]{world}",
+      "entry": "sophistication",
+      "id": "sophistication#sophistication__3"
+    },
+    {
+      "comment": "someone who is [unrefined]{unrefined} is not very [polite]{polite} and [does]{does} not show an interest in art, [music]{music}, etc.",
+      "entry": "unrefined",
+      "id": "unrefined#unrefined__2"
+    }
+  ],
+  "thesaurus": "Attitudes to art and culture",
+  "type": "Related words"
+}

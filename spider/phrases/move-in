@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "move in",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [living_1]{living} in a [different]{different} [house_1]{house} or [apartment]{apartment}",
+      "examples": [
+        "We\u2019re [moving]{moving} in next [week]{week}.",
+        "He\u2019s [moving]{moving} in with his [friend_1]{friends} from [college]{college}."
+      ],
+      "id": "move-in__1"
+    },
+    {
+      "def": "to move [close_2]{closer} to a [person]{person} or [place_1]{place}, for [example]{example} to [arrest_1]{arrest} or [attack_1]{attack} them",
+      "examples": [
+        "The [troop_1]{troops} [move_1]{moved} in while the [enemy]{enemy} was [sleep_1]{sleeping}."
+      ],
+      "id": "move-in__5"
+    }
+  ]
+}

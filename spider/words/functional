@@ -1,0 +1,37 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[design_2]{designed} to be [good_1]{good} at [doing]{doing} a [particular_1]{particular} [job_1]{job}",
+      "examples": [
+        "These [traditional]{traditional} [tool_1]{tools} are both functional and [attractive]{attractive}.",
+        "the [highly]{highly} functional [arrangement]{arrangement} of the [control_1]{control} [panel_1]{panel}",
+        "a [house_1]{house} [fill_1]{filled} with functional [furniture]{furniture}"
+      ],
+      "id": "functional__1"
+    },
+    {
+      "def": "[operate]{operating} in the [correct_1]{correct} way",
+      "examples": [
+        "The [new]{new} [aircraft]{aircraft} isn\u2019t [fully]{fully} functional yet but should be very [soon]{soon}."
+      ],
+      "id": "functional__6"
+    },
+    {
+      "def": "[relate]{relating} to the [purpose]{purpose} or [function_1]{function} of something",
+      "examples": [
+        "His [report_1]{report} [portray]{portrays} a [purely]{purely} functional [view_1]{view} of the [military]{military}.",
+        "[structural]{structural} and functional [description]{descriptions} of [language]{language}"
+      ],
+      "id": "functional__8"
+    },
+    {
+      "def": "[helping]{helping} something to [operate]{operate} well or [correctly]{correctly}",
+      "examples": [
+        "The [author_1]{author} [see_1]{sees} [sport_1]{sports} [event]{events} as functional to [society]{society}."
+      ],
+      "id": "functional__11"
+    }
+  ],
+  "word": "functional"
+}

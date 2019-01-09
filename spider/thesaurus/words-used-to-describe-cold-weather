@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} about the [weather_1]{weather}",
+      "entry": "cold",
+      "id": "cold_1#cold_1__3"
+    },
+    {
+      "comment": "[crisp_1]{crisp} [weather_1]{weather} is [pleasant]{pleasant} because it is [cold_1]{cold} and [dry_1]{dry}",
+      "entry": "crisp",
+      "id": "crisp_1#crisp_1__4"
+    },
+    {
+      "comment": "if it is [brisk]{brisk}, the [weather_1]{weather} is [fairly]{fairly} [cold_1]{cold} and a [fairly]{fairly} [strong]{strong} [wind_1]{wind} is [blow_1]{blowing}",
+      "entry": "brisk",
+      "id": "brisk#brisk__8"
+    },
+    {
+      "comment": "if the [weather_1]{weather} is [fresh_1]{fresh}, it is [fairly]{fairly} [cold_1]{cold} and the [wind_1]{wind} is [blow_1]{blowing}",
+      "entry": "fresh",
+      "id": "fresh_1#fresh_1__29"
+    },
+    {
+      "comment": "[harsh_1]{harsh} [weather_1]{weather} is [extremely]{extremely} [cold_1]{cold} and [unpleasant]{unpleasant}",
+      "entry": "harsh",
+      "id": "harsh#harsh__4"
+    },
+    {
+      "comment": "[bleak]{bleak} [weather_1]{weather} is very [cold_1]{cold} and [gray_1]{gray}",
+      "entry": "bleak",
+      "id": "bleak#bleak__9"
+    },
+    {
+      "comment": "[biting]{biting} [wind_1]{wind} or [cold_1]{cold} is so [cold_1]{cold} that it [make_1]{makes} you [feel_1]{feel} very [uncomfortable]{uncomfortable}",
+      "entry": "biting",
+      "id": "biting#biting__1"
+    },
+    {
+      "comment": "cold enough to produce frost",
+      "entry": "frosty",
+      "id": "frosty#frosty__1"
+    },
+    {
+      "comment": "[raw_1]{raw} [weather_1]{weather} is [cold_1]{cold} and [unpleasant]{unpleasant}",
+      "entry": "raw",
+      "id": "raw_1#raw_1__21"
+    },
+    {
+      "comment": "a [hard_1]{hard} [winter_1]{winter} is a very [cold_1]{cold} [winter_1]{winter}",
+      "entry": "hard",
+      "id": "hard_1#hard_1__25"
+    }
+  ],
+  "thesaurus": "Words used to describe cold weather",
+  "type": "Synonyms"
+}

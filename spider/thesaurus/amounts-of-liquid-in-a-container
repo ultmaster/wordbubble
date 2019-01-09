@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "the amount of [liquid_1]{liquid} [contain]{contained} in a [barrel_1]{barrel}",
+      "entry": "barrel",
+      "id": "barrel_1#barrel_1__3"
+    },
+    {
+      "comment": "a [large_1]{large} [open_1]{open} [container]{container} for [liquid_1]{liquid} that has a [particular_1]{particular} use, or the [liquid_1]{liquid} in the [container]{container}",
+      "entry": "bath",
+      "id": "bath_1#bath_1__9"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} in a [bottle_1]{bottle}, or the amount that a [bottle_1]{bottle} [contain]{contains}",
+      "entry": "bottle",
+      "id": "bottle_1#bottle_1__4"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} in a [carton]{carton}, or the amount that a [carton]{carton} [contain]{contains}",
+      "entry": "carton",
+      "id": "carton#carton__3"
+    },
+    {
+      "comment": "the amount of something that a [cup_1]{cup} [contain]{contains}",
+      "entry": "cupful",
+      "id": "cupful#cupful__1"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} in a [glass]{glass}, or the amount of [liquid_1]{liquid} that a [glass]{glass} [contain]{contains}",
+      "entry": "glass",
+      "id": "glass#glass__11"
+    },
+    {
+      "comment": "the amount of [liquid_1]{liquid} in a [glass]{glass}",
+      "entry": "glassful",
+      "id": "glassful#glassful__1"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} in a [jug]{jug}, or the amount that a [jug]{jug} [contain]{contains}",
+      "entry": "jug",
+      "id": "jug#jug__2"
+    },
+    {
+      "comment": "the amount of [liquid_1]{liquid} that there is in a [container]{container}, which can be [seen]{seen} by how [high_1]{high} the [liquid_1]{liquid} is",
+      "entry": "level",
+      "id": "level_1#level_1__6"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} in a [mug_1]{mug}, or the amount that a [mug_1]{mug} [contain]{contains}",
+      "entry": "mug",
+      "id": "mug_1#mug_1__4"
+    },
+    {
+      "comment": "the amount of [liquid_1]{liquid} or [food]{food} that a [pot_1]{pot} [contain]{contains}",
+      "entry": "pot",
+      "id": "pot_1#pot_1__6"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} [product]{product} in a [container]{container} that you use by [push_1]{pushing} a [button_1]{button} so that the [liquid_1]{liquid} is [forced]{forced} out through a [small_1]{small} hole into the [air_1]{air}",
+      "entry": "spray",
+      "id": "spray_2#spray_2__1"
+    },
+    {
+      "comment": "a [unit]{unit} for [measure_2]{measuring} an amount of [food]{food} or [liquid_1]{liquid} that is [equal_1]{equal} to the amount that a [tablespoon]{tablespoon} [hold_1]{holds}, [exactly]{exactly} 3 [teaspoon]{teaspoons}",
+      "entry": "tablespoon",
+      "id": "tablespoon#tablespoon__1"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} or [gas_1]{gas} in a [tank_1]{tank}, or the amount that a [tank_1]{tank} [contain]{contains}",
+      "entry": "tank",
+      "id": "tank_1#tank_1__3"
+    },
+    {
+      "comment": "the [liquid_1]{liquid} or [gas_1]{gas} in a [tank_1]{tank}, or the amount that a [tank_1]{tank} [contain]{contains}",
+      "entry": "tankful",
+      "id": "tankful#tankful__1"
+    },
+    {
+      "comment": "[tablespoon]{tablespoon}",
+      "entry": "tbs.",
+      "id": "tbs#tbs__1"
+    },
+    {
+      "comment": "the amount of [food]{food} or [liquid_1]{liquid} that a [teaspoon]{teaspoon} [hold_1]{holds}",
+      "entry": "teaspoon",
+      "id": "teaspoon#teaspoon__2"
+    },
+    {
+      "comment": "a very [small_1]{small} amount of something, [especially]{especially} a [liquid_1]{liquid}",
+      "entry": "thimbleful",
+      "id": "thimbleful#thimbleful__1"
+    },
+    {
+      "comment": "[teaspoon]{teaspoon}",
+      "entry": "tsp.",
+      "id": "tsp#tsp__1"
+    }
+  ],
+  "thesaurus": "Amounts of liquid in a container",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} or [write]{write} something again",
+      "entry": "repeat",
+      "id": "repeat_1#repeat_1__1"
+    },
+    {
+      "comment": "to [express_1]{express} what someone else has [said_1]{said} or [written_1]{written} [use_1]{using} [different]{different} [word_1]{words}, [especially]{especially} in [order_1]{order} to [make_1]{make} it [short_1]{shorter} or [clear_1]{clearer}",
+      "entry": "paraphrase",
+      "id": "paraphrase_1#paraphrase_1__1"
+    },
+    {
+      "comment": "to [say_1]{say} or [write]{write} [word_1]{words} that someone else has [said_1]{said} or [written_1]{written}",
+      "entry": "quote",
+      "id": "quote_1#quote_1__1"
+    },
+    {
+      "comment": "to [say_1]{say} the same [word_1]{words} that someone else has [said_1]{said}",
+      "entry": "echo",
+      "id": "echo_1#echo_1__8"
+    },
+    {
+      "comment": "to [say_1]{say} or [write]{write} something again or [use_1]{using} [different]{different} [word_1]{words} in [order_1]{order} to [emphasize]{emphasize} it or [make_1]{make} it [clear_1]{clearer}",
+      "entry": "restate",
+      "id": "restate#restate__1"
+    },
+    {
+      "comment": "to [say_1]{say} or [write]{write} the same thing [use_1]{using} [different]{different} [word_1]{words}",
+      "entry": "rephrase",
+      "id": "rephrase#rephrase__1"
+    },
+    {
+      "comment": "to describe what has already been done or [decided]{decided}, without [repeat_1]{repeating} the [detail_1]{details}",
+      "entry": "recap",
+      "id": "recap#recap__1"
+    },
+    {
+      "comment": "to [say_1]{say} something [quickly]{quickly}, [especially]{especially} something that you have [learned]{learned} by [memory]{memory}",
+      "entry": "rattle off",
+      "id": "rattle-off#rattle-off__1"
+    },
+    {
+      "comment": "to [say_1]{say} or [write]{write} the same [word_1]{words} or [idea]{idea} that you [said_1]{said} before, often without [realize]{realizing} that you are [doing]{doing} it",
+      "entry": "repeat yourself",
+      "id": "repeat-yourself#repeat-yourself__1"
+    },
+    {
+      "comment": "to [claim_1]{claim} that someone has [said_1]{said} a [particular_1]{particular} thing, although they have not [said_1]{said} it, or they [did]{did} not mean what you [say_1]{say} they [meant]{meant}",
+      "entry": "put words into someone\u2019s mouth",
+      "id": "put-words-into-someone-s-mouth#put-words-into-someone-s-mouth__1"
+    }
+  ],
+  "thesaurus": "To say something again, or to repeat someone else's words",
+  "type": "Synonyms"
+}

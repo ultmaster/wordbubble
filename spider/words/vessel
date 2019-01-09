@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [large_1]{large} [boat]{boat} or [ship_1]{ship}",
+      "examples": [
+        "[new]{New} Zealand has [ban_1]{banned} [vessel]{vessels} [carry_1]{carrying} [nuclear]{nuclear} [weapon]{weapons}.",
+        "a [fishing]{fishing}/[navy]{navy} vessel"
+      ],
+      "id": "vessel__1"
+    },
+    {
+      "def": "a [tube]{tube} in [people_1]{people}, [animal_1]{animals}, or [plant_1]{plants} through which [liquid_1]{liquid} [flow_1]{flows}",
+      "examples": [
+        "[blood_1]{blood} [vessel]{vessels}"
+      ],
+      "id": "vessel__4"
+    },
+    {
+      "def": "a [bowl_1]{bowl} or other [open_1]{open} [container]{container} for [liquid_1]{liquids}",
+      "examples": [],
+      "id": "vessel__6"
+    }
+  ],
+  "word": "vessel"
+}

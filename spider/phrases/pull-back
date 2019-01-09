@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "pull back",
+  "senses": [
+    {
+      "def": "if [soldier_1]{soldiers} [pull_1]{pull} back, or if someone [pull_1]{pulls} them back, they move back toward their own [land_1]{land}",
+      "examples": [
+        "Our [tank_1]{tank} and [infantry]{infantry} [force_1]{forces} [pull_1]{pulled} back to [regroup]{regroup}."
+      ],
+      "id": "pull-back__1"
+    },
+    {
+      "def": "to [decide]{decide} not to do something that will [probably]{probably} have [bad_1]{bad} [effect_1]{effects}",
+      "examples": [
+        "The [government]{government} has [pull_1]{pulled} back from [send_1]{sending} the [navy]{navy} there."
+      ],
+      "id": "pull-back__3"
+    },
+    {
+      "def": "to move your body [away_1]{away} from someone who is [holding]{holding} you or [touching_1]{touching} you",
+      "examples": [
+        "Jim [pull_1]{pulled} back from her with a [hurt_1]{hurt} [expression]{expression}."
+      ],
+      "id": "pull-back__5"
+    }
+  ]
+}

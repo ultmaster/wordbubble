@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "in the world",
+  "senses": [
+    {
+      "def": "[used]{used} for [general_1]{general} [emphasis]{emphasis}",
+      "examples": [
+        "There\u2019s nothing in the [world]{world} we can do about it.",
+        "We have all the time in the [world]{world}."
+      ],
+      "id": "in-the-world__1"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} a [particular_1]{particular} [quality_1]{quality} that something has",
+      "examples": [
+        "They [produce_1]{produce} some of the [fine_1]{finest} [wine_1]{wines} in the [world]{world}.",
+        "We [spent_1]{spent} a [night_1]{night} at the [dirty_1]{dirtiest} [hotel]{hotel} in the [world]{world}."
+      ],
+      "id": "in-the-world__4"
+    },
+    {
+      "def": "[used]{used} for [add_1]{adding} [emphasis]{emphasis} to a [question_1]{question}, [especially]{especially} because you are [surprised]{surprised} or [angry]{angry}",
+      "examples": [
+        "How in the [world]{world} [did]{did} they [make_1]{make} a [mistake_1]{mistake} [like_1]{like} that?",
+        "What in the [world]{world} were you [thinking_1]{thinking} when you [did]{did} that?"
+      ],
+      "id": "in-the-world__7"
+    }
+  ]
+}

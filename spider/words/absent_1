@@ -1,0 +1,28 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not in the [place_1]{place} where you should be or are [expected]{expected} to be",
+      "examples": [
+        "How many of them are absent without [permission]{permission}?",
+        "He\u2019s been absent from [school_1]{school} for three [day]{days}."
+      ],
+      "id": "absent_1__1"
+    },
+    {
+      "def": "[missing]{missing} from a [place_1]{place} or [situation]{situation}",
+      "examples": [
+        "[parental]{Parental} [affection]{affection} is absent from these [children]{children}\u2019s [lives]{lives}."
+      ],
+      "id": "absent_1__4"
+    },
+    {
+      "def": "[showing]{showing} that you are not [pay_1]{paying} [attention]{attention} to what is [happening_1]{happening} because you are [thinking_1]{thinking} about something else",
+      "examples": [
+        "He [listen_1]{listened} with an absent [air_1]{air} and [kept]{kept} [glancing]{glancing} at the [door_1]{door}."
+      ],
+      "id": "absent_1__6"
+    }
+  ],
+  "word": "absent"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [broken_1]{broken} [object_1]{object} has been [damage_2]{damaged} and is in two or more [piece_1]{pieces}",
+      "entry": "broken",
+      "id": "broken_1#broken_1__1"
+    },
+    {
+      "comment": "not [working]{working} [correctly]{correctly} or made [correctly]{correctly}",
+      "entry": "faulty",
+      "id": "faulty#faulty__1"
+    },
+    {
+      "comment": "[spoiled]{spoiled} by something such as a [fault_1]{fault} or [mark_1]{mark}, or [lacking]{lacking} something",
+      "entry": "flawed",
+      "id": "flawed#flawed__1"
+    },
+    {
+      "comment": "very [badly]{badly} [damage_2]{damaged} or [destroy]{destroyed}",
+      "entry": "wrecked",
+      "id": "wrecked#wrecked__1"
+    },
+    {
+      "comment": "[destroy]{destroyed}, or [badly]{badly} [damage_2]{damaged}",
+      "entry": "trashed",
+      "id": "trashed#trashed__2"
+    },
+    {
+      "comment": "[injured]{injured}, [damage_2]{damaged}, or [destroy]{destroyed}",
+      "entry": "shot",
+      "id": "shot_1#shot_1__1"
+    },
+    {
+      "comment": "[broken_1]{broken} or [divided]{divided} into many [different]{different} [part_1]{parts} or [piece_1]{pieces}",
+      "entry": "apart",
+      "id": "apart#apart__12"
+    },
+    {
+      "comment": "[old]{old} and [slightly]{slightly} [damage_2]{damaged}",
+      "entry": "battered",
+      "id": "battered#battered__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something is [damage_2]{damaged} or [destroy]{destroyed} and [fall_1]{falls} to the [ground_1]{ground}",
+      "entry": "down",
+      "id": "down_1#down_1__55"
+    },
+    {
+      "comment": "[broken_1]{broken}",
+      "entry": "kaput",
+      "id": "kaput#kaput__1"
+    }
+  ],
+  "thesaurus": "Broken, torn or damaged",
+  "type": "Synonyms"
+}

@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the amount of something that you [eat]{eat} or [drink_1]{drink}",
+      "examples": [
+        "[reduce]{Reduce} your intake of [salt_1]{salt}, [sugar_1]{sugar}, and [junk_1]{junk} [food]{foods}.",
+        "a [good_1]{good} intake of [vitamin]{vitamins}",
+        "your [calorie]{calorie}/[energy]{energy}/[protein]{protein} intake"
+      ],
+      "id": "intake__1"
+    },
+    {
+      "def": "the part of a [machine_1]{machine} or [engine]{engine} where [air_1]{air} or [fuel_1]{fuel} is [taken_1]{taken} in",
+      "examples": [],
+      "id": "intake__7"
+    },
+    {
+      "def": "the [number_1]{number} of [people_1]{people} [accepted]{accepted} by an [institution]{institution} such as a [school_1]{school}, [university]{university}, or [company]{company} at one time",
+      "examples": [],
+      "id": "intake__8"
+    }
+  ],
+  "word": "intake"
+}

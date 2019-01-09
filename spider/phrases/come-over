@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "come over",
+  "senses": [
+    {
+      "def": "if a [feeling_1]{feeling} comes over you, it [suddenly]{suddenly} [affect_1]{affects} you in a [strong]{strong} way",
+      "examples": [
+        "A [wave_1]{wave} of [anger_1]{anger} came over him."
+      ],
+      "id": "come-over__1"
+    },
+    {
+      "def": "to [visit_1]{visit} someone in the [place_1]{place} where they are, [especially]{especially} their [house_1]{house}",
+      "examples": [
+        "Why don\u2019t you come over for [dinner]{dinner}?",
+        "Come over to my [place_1]{place} and we\u2019ll [discuss]{discuss} it."
+      ],
+      "id": "come-over__3"
+    },
+    {
+      "def": "to [travel_1]{travel} to a [place_1]{place}, [especially]{especially} a long way across [water_1]{water} in [order_1]{order} to [live_1]{live} in a [new]{new} [country]{country}",
+      "examples": [
+        "Her great-grandparents came over from Ireland in the [nineteenth]{nineteenth} [century]{century}."
+      ],
+      "id": "come-over__6"
+    },
+    {
+      "def": "to [react]{react} in a [particular_1]{particular} way",
+      "examples": [
+        "I came over all [emotional]{emotional} when I [saw_1]{saw} him."
+      ],
+      "id": "come-over__12"
+    }
+  ]
+}

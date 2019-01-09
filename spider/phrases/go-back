@@ -1,0 +1,41 @@
+{
+  "part": "phrase",
+  "phrase": "go back",
+  "senses": [
+    {
+      "def": "to [return_1]{return} to a [person]{person}, [place_1]{place}, [subject_1]{subject}, or [activity]{activity}",
+      "examples": [
+        "It [start_1]{started} to [rain_1]{rain}, so we [decided]{decided} to go back.",
+        "We didn\u2019t [think_1]{think} he\u2019d go back to his [wife]{wife} after everything that\u2019s [happen]{happened}.",
+        "I\u2019d [like_1]{like} to go back to what Abby was [saying]{saying} [just_1]{just} a [minute_1]{minute} [ago]{ago}.",
+        "She should be well enough to go back to [work_1]{work} on Wednesday.",
+        "The computer [break_1]{breaks} down and you go back to [writing]{writing} [thing]{things} down on [piece_1]{pieces} of [paper_1]{paper}.",
+        "I [left_1]{left} my [key_1]{keys} in the [office]{office} and had to go back for them."
+      ],
+      "id": "go-back__1"
+    },
+    {
+      "def": "to have [exist]{existed} since or for a [particular_1]{particular} time",
+      "examples": [
+        "My interest in the [subject_1]{subject} [go_1]{goes} back many [year]{years}.",
+        "Some of these [house_1]{houses} go back to the [early_1]{early} 19th [century]{century}.",
+        "We go back a long time, don\u2019t we?"
+      ],
+      "id": "go-back__8"
+    },
+    {
+      "def": "when [school_1]{schools} or [student]{students} go back, [class_1]{classes} [begin]{begin} again after a long [holiday_1]{holiday}",
+      "examples": [
+        "When do the [kid_1]{kids} go back?"
+      ],
+      "id": "go-back__13"
+    },
+    {
+      "def": "when the [clock_1]{clocks} go back, everyone [change_1]{changes} the time on their [clock_1]{clocks} so that they show a time that is one [hour]{hour} [earlier_1]{earlier} than before",
+      "examples": [
+        "Don\u2019t [forget]{forget}, the [clock_1]{clocks} go back this Sunday."
+      ],
+      "id": "go-back__15"
+    }
+  ]
+}

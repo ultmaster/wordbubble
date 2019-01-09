@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who has [finished]{finished} their [study_1]{studies} at a high school, [college]{college}, or [university]{university}",
+      "examples": [
+        "Is Jane a [high_1]{high} [school_1]{school} graduate?",
+        "All three were [graduate_1]{graduates} of the same [university]{university}."
+      ],
+      "id": "graduate_1__1"
+    },
+    {
+      "def": "someone who has a [degree]{degree} from a [university]{university} or [college]{college}",
+      "examples": [
+        "[career_1]{careers} for [history]{history} [graduate_1]{graduates}",
+        "[candidate]{Candidates} should be [graduate_1]{graduates} in [science]{science} or [engineering]{engineering}.",
+        "a Yale graduate"
+      ],
+      "id": "graduate_1__4"
+    }
+  ],
+  "word": "graduate"
+}

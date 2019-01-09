@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[start_1]{starting} at a [particular_1]{particular} [point_1]{point} in the [past_1]{past} and [continuing]{continuing} until now or until another [point_1]{point} in the [past_1]{past}",
+      "entry": "since",
+      "id": "since#since__1"
+    },
+    {
+      "comment": "from now until a time or [event]{event} in the [future_1]{future}",
+      "entry": "meanwhile",
+      "id": "meanwhile#meanwhile__1"
+    },
+    {
+      "comment": "from this time into the [future_1]{future}",
+      "entry": "henceforth",
+      "id": "henceforth#henceforth__1"
+    },
+    {
+      "comment": "from now until a time or [event]{event} in the [future_1]{future}",
+      "entry": "meantime",
+      "id": "meantime_2#meantime_2__1"
+    },
+    {
+      "comment": "[start_1]{starting} from a [particular_1]{particular} time",
+      "entry": "thenceforth",
+      "id": "thenceforth#thenceforth__1"
+    },
+    {
+      "comment": "during the whole [period_1]{period} of time since something [happen]{happened}",
+      "entry": "ever since",
+      "id": "ever-since#ever-since__1"
+    },
+    {
+      "comment": "during the time between two [event]{events} or between the [present_1]{present} time and a [future_1]{future} [event]{event}",
+      "entry": "in the meantime",
+      "id": "meantime_1#meantime_1__5"
+    },
+    {
+      "comment": "[start_1]{starting} from a [particular_1]{particular} [period_1]{period} of time",
+      "entry": "thenceforward",
+      "id": "thenceforward#thenceforward__1"
+    },
+    {
+      "comment": "until a [later_1]{later} time",
+      "entry": "for the meantime",
+      "id": "meantime_1#meantime_1__2"
+    },
+    {
+      "comment": "starting at that day/time etc. and continuing on into the future",
+      "entry": "from that day/time/moment etc. forward",
+      "id": "from-that-day-time-moment-etc-forward#from-that-day-time-moment-etc-forward__1"
+    }
+  ],
+  "thesaurus": "From now or from a particular time",
+  "type": "Synonyms"
+}

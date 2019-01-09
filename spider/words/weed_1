@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [plant_1]{plant} that [grow]{grows} [easily]{easily} and is [usually]{usually} found in [place_1]{places} where you do not [want_1]{want} it",
+      "examples": [
+        "The [yard]{yard} was [overgrown]{overgrown} with [weed_1]{weeds}.",
+        "A [chemical_1]{chemical} [weedkiller]{weedkiller} can be [used]{used} to [kill_1]{kill} [persistent]{persistent} [weed_1]{weeds}."
+      ],
+      "id": "weed_1__1"
+    },
+    {
+      "def": "the [drug_1]{drug} [marijuana]{marijuana}",
+      "examples": [],
+      "id": "weed_1__4"
+    },
+    {
+      "def": "someone who is thin and [weak]{weak}",
+      "examples": [],
+      "id": "weed_1__5"
+    },
+    {
+      "def": "[tobacco]{tobacco}",
+      "examples": [],
+      "id": "weed_1__6"
+    }
+  ],
+  "word": "weed"
+}

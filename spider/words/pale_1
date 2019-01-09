@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[light_1]{light} and not [bright_1]{bright} in [color_1]{color}",
+      "examples": [
+        "pale [blue_1]{blue}/[yellow_1]{yellow}/[green_1]{green}",
+        "a pale [sky_1]{sky}"
+      ],
+      "id": "pale_1__1"
+    },
+    {
+      "def": "a pale [person]{person} has [skin_1]{skin} that is [lighter]{lighter} than [usual]{usual} because they are [sick_1]{sick}, [shocked]{shocked}, or [worried]{worried}",
+      "examples": [
+        "When he [return_1]{returned}, he [look_1]{looked} pale and [weary_1]{weary}."
+      ],
+      "id": "pale_1__4"
+    },
+    {
+      "def": "less [impressive]{impressive} or not as [good_1]{good} as before or when [compared]{compared} with someone or something [similar]{similar}",
+      "examples": [
+        "He\u2019s become a pale [shadow_1]{shadow} of his former self.",
+        "The [squad]{squad} had become a pale [imitation]{imitation} of the [team_1]{team} that [defeat_2]{defeated} [new]{New} Zealand."
+      ],
+      "id": "pale_1__6"
+    }
+  ],
+  "word": "pale"
+}

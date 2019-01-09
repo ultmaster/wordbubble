@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [faint_1]{faint} [sight_1]{sight}, [sound_1]{sound}, [smell_1]{smell}, or [taste_1]{taste} is not [strong]{strong} or [clear_1]{clear}",
+      "entry": "faint",
+      "id": "faint_1#faint_1__1"
+    },
+    {
+      "comment": "something that is [invisible]{invisible} cannot be [seen]{seen}",
+      "entry": "invisible",
+      "id": "invisible#invisible__1"
+    },
+    {
+      "comment": "[indirect]{indirect} in a way that [prevent]{prevents} [people_1]{people} from [noticing]{noticing} what you are [trying]{trying} to do",
+      "entry": "subtle",
+      "id": "subtle#subtle__4"
+    },
+    {
+      "comment": "[difficult]{difficult} to see or [hear]{hear} [clearly]{clearly}",
+      "entry": "indistinct",
+      "id": "indistinct#indistinct__1"
+    },
+    {
+      "comment": "not [clear_1]{clear}",
+      "entry": "ill-defined",
+      "id": "ill-defined#ill-defined__1"
+    },
+    {
+      "comment": "not [easily]{easily} [seen]{seen} or not [attract]{attracting} [attention]{attention}",
+      "entry": "inconspicuous",
+      "id": "inconspicuous#inconspicuous__1"
+    },
+    {
+      "comment": "something [imperceptible]{imperceptible} is so [slight_1]{slight} or [small_1]{small} that it is very [difficult]{difficult} to [notice_1]{notice}",
+      "entry": "imperceptible",
+      "id": "imperceptible#imperceptible__1"
+    },
+    {
+      "comment": "not [strong]{strong} enough to be [seen]{seen} or [heard]{heard} [clearly]{clearly}",
+      "entry": "feeble",
+      "id": "feeble#feeble__2"
+    },
+    {
+      "comment": "a [fuzzy]{fuzzy} [picture_1]{picture} or [image_1]{image} is not [clear_1]{clear} so that you cannot see all its [detail_1]{details}",
+      "entry": "fuzzy",
+      "id": "fuzzy#fuzzy__1"
+    },
+    {
+      "comment": "[difficult]{difficult} to see [clearly]{clearly}, or [cause_2]{causing} [difficulty]{difficulty} in [seeing]{seeing} something [clearly]{clearly}",
+      "entry": "blurred",
+      "id": "blurred#blurred__1"
+    }
+  ],
+  "thesaurus": "Not clear to the senses",
+  "type": "Synonyms"
+}

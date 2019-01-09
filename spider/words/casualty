@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who is [injured]{injured} or [kill_1]{killed} in an [accident]{accident} or [military]{military} [action_1]{action}",
+      "examples": [
+        "There were no [report_1]{reports} of [casualty]{casualties} from the [attack_1]{attack}.",
+        "A small group of rebels inflicted heavy casualties  (=many people injured or killed) on the government forces."
+      ],
+      "id": "casualty__1"
+    },
+    {
+      "def": "someone or something that is [damage_2]{damaged} or [suffer]{suffers} as a [result_1]{result} of something else",
+      "examples": [
+        "[education]{Education} has again been a casualty of [government]{government} [spending]{spending} [cut_1]{cuts}."
+      ],
+      "id": "casualty__4"
+    },
+    {
+      "def": "an [emergency-room]{emergency room} in a [hospital]{hospital}",
+      "examples": [],
+      "id": "casualty__6"
+    }
+  ],
+  "word": "casualty"
+}

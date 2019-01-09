@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "undeveloped [land_1]{land} has not been [used]{used} for [building]{building} or [industry]{industry}",
+      "examples": [],
+      "id": "undeveloped__1"
+    },
+    {
+      "def": "an undeveloped [country]{country} is [poor_1]{poor} and [does]{does} not have [modern]{modern} [industry]{industries} or [advanced]{advanced} [technology]{technology}",
+      "examples": [],
+      "id": "undeveloped__2"
+    },
+    {
+      "def": "not [fully]{fully} [grown_1]{grown}",
+      "examples": [
+        "The [lung]{lungs} of the [fetus]{fetus} are still undeveloped."
+      ],
+      "id": "undeveloped__3"
+    }
+  ],
+  "word": "undeveloped"
+}

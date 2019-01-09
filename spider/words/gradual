@@ -1,0 +1,21 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "gradual [process_1]{processes} and [change_1]{changes} [happen]{happen} [slowly]{slowly} and by [small_1]{small} [amount_1]{amounts}",
+      "examples": [
+        "a gradual [change_1]{change} in the [climate]{climate}",
+        "Any [rise_1]{rise} in [water_1]{water} [temperature]{temperature} will be gradual."
+      ],
+      "id": "gradual__1"
+    },
+    {
+      "def": "a gradual [slope_1]{slope} is not [steep_1]{steep}",
+      "examples": [
+        "a gradual [ascent]{ascent} to the top of the [hill]{hill}"
+      ],
+      "id": "gradual__4"
+    }
+  ],
+  "word": "gradual"
+}

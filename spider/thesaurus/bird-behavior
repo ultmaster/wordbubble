@@ -1,0 +1,191 @@
+{
+  "entries": [
+    {
+      "comment": "if a [bird]{bird}, [insect]{insect}, or other [flying_1]{flying} [creature]{creature} [alight_2]{alights} on something, it [flies]{flies} onto it and [stop_1]{stops} there",
+      "entry": "alight",
+      "id": "alight_2#alight_2__2"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} [beat_1]{beats} its [wing_1]{wings}, or if its [wing_1]{wings} [beat_1]{beat}, it [hit_1]{hits} them together several times",
+      "entry": "beat",
+      "id": "beat_1#beat_1__26"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} is on the [wing_1]{wing}, it is [flying_1]{flying}",
+      "entry": "be on the wing",
+      "id": "be-on-the-wing#be-on-the-wing__1"
+    },
+    {
+      "comment": "if a [bird]{bird} [brood_1]{broods}, it [sit]{sits} on its [egg_1]{eggs} until the [young_1]{young} [bird]{birds} are [born]{born}",
+      "entry": "brood",
+      "id": "brood_1#brood_1__3"
+    },
+    {
+      "comment": "when crows  (=large black birds) caw, they make a loud unpleasant sound",
+      "entry": "caw",
+      "id": "caw#caw__1"
+    },
+    {
+      "comment": "if [bird]{birds}, [animal_1]{animals}, or [machine_1]{machines} [chatter_1]{chatter}, they [make_1]{make} [short_1]{short} [high_1]{high} [noise]{noises}",
+      "entry": "chatter",
+      "id": "chatter_1#chatter_1__5"
+    },
+    {
+      "comment": "if a [bird]{bird} [cheep]{cheeps}, it [make_1]{makes} [short_1]{short} [high_1]{high} [sound_1]{sounds}",
+      "entry": "cheep",
+      "id": "cheep#cheep__1"
+    },
+    {
+      "comment": "when a [bird]{bird} or an [insect]{insect} [chirp_1]{chirps}, it [make_1]{makes} a [short_1]{short} [high_1]{high} [sound_1]{sound}",
+      "entry": "chirp",
+      "id": "chirp_1#chirp_1__1"
+    },
+    {
+      "comment": "to make the soft low sound that birds such as doves and pigeons make",
+      "entry": "coo",
+      "id": "coo_1#coo_1__1"
+    },
+    {
+      "comment": "if an [animal_1]{animal} or [bird]{bird} [cry_1]{cries}, it [make_1]{makes} a [loud_1]{loud} [noise]{noise}",
+      "entry": "cry",
+      "id": "cry_1#cry_1__14"
+    },
+    {
+      "comment": "if a [bird]{bird}\u2019s [wing_1]{wings} [flap_1]{flap}, or if the [bird]{bird} [flap_1]{flaps} them, they move [quickly]{quickly} up and down",
+      "entry": "flap",
+      "id": "flap_2#flap_2__1"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} [flutter_1]{flutters} its [wing_1]{wings}, or if its [wing_1]{wings} [flutter_1]{flutter}, the [wing_1]{wings} [make_1]{make} [short_1]{short}, [quick_1]{quick}, [light_1]{light} [movement]{movements} up and down",
+      "entry": "flutter",
+      "id": "flutter_1#flutter_1__6"
+    },
+    {
+      "comment": "if a [bird]{bird} or [insect]{insect} [flutter_1]{flutters} somewhere, it [move_1]{moves} by [making]{making} [short_1]{short}, [quick_1]{quick}, [light_1]{light} [movement]{movements} with its [wing_1]{wings}",
+      "entry": "flutter",
+      "id": "flutter_1#flutter_1__7"
+    },
+    {
+      "comment": "to use [wing_1]{wings} to move through the [air_1]{air}",
+      "entry": "fly",
+      "id": "fly_1#fly_1__1"
+    },
+    {
+      "comment": "if a [baby_1]{baby} [bird]{bird}, [fish_1]{fish}, [insect]{insect}, etc. [hatch_1]{hatches} or is [hatch_1]{hatched}, it comes out of its [egg_1]{egg} and is [born]{born}",
+      "entry": "hatch",
+      "id": "hatch_1#hatch_1__1"
+    },
+    {
+      "comment": "if an [animal_1]{animal} or [bird]{bird} has a [homing]{homing} [instinct]{instinct}, it is [able_1]{able} to find its way [home_1]{home} across long [distance_1]{distances}",
+      "entry": "homing instinct",
+      "id": "homing-instinct#homing-instinct__1"
+    },
+    {
+      "comment": "if a [bird]{bird} or [animal_1]{animal} [hop_1]{hops}, it [use_1]{uses} both or all [feet]{feet} to [jump_1]{jump} [forward_1]{forward}",
+      "entry": "hop",
+      "id": "hop_1#hop_1__3"
+    },
+    {
+      "comment": "a short quick jump by a small animal, such as a rabbit, or a bird",
+      "entry": "hop",
+      "id": "hop_2#hop_2__2"
+    },
+    {
+      "comment": "if a [bird]{bird}, [insect]{insect}, or [aircraft]{aircraft} [hover]{hovers}, it [keep_1]{keeps} [itself]{itself} in the same [position_1]{position} in the [air_1]{air}",
+      "entry": "hover",
+      "id": "hover#hover__1"
+    },
+    {
+      "comment": "if a [bird]{bird} or [animal_1]{animal} [migrate]{migrates}, it [travel_1]{travels} to another part of the [world]{world} for [warmer]{warmer} [weather_1]{weather} at a [particular_1]{particular} time of the [year]{year}",
+      "entry": "migrate",
+      "id": "migrate#migrate__2"
+    },
+    {
+      "comment": "if an [animal_1]{animal} [molt]{molts}, it [lose]{loses} its [outer_1]{outer} [layer_1]{layer} of [skin_1]{skin}, [feather_1]{feathers}, etc. so that a [new]{new} [layer_1]{layer} can [replace]{replace} it",
+      "entry": "molt",
+      "id": "molt#molt__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [molt]{molt}",
+      "entry": "moult",
+      "id": "moult#moult__1"
+    },
+    {
+      "comment": "if a [bird]{bird} [nest_1]{nests}, it [build_1]{builds} or [use_1]{uses} a [nest_1]{nest}, [especially]{especially} to keep its [egg_1]{eggs} and [baby_1]{babies} in",
+      "entry": "nest",
+      "id": "nest_2#nest_2__1"
+    },
+    {
+      "comment": "when a [bird]{bird} [peck_1]{pecks}, it [move_1]{moves} its [beak]{beak} [quickly]{quickly} [forward_1]{forward} to hit or [bite_1]{bite} something",
+      "entry": "peck",
+      "id": "peck_1#peck_1__1"
+    },
+    {
+      "comment": "the [quick_1]{quick} [movement]{movement} of a [bird]{bird}\u2019s [beak]{beak} as it [hit_1]{hits} or [eats]{eats} something",
+      "entry": "peck",
+      "id": "peck_2#peck_2__1"
+    },
+    {
+      "comment": "if a [bird]{bird} [perch_1]{perches} on something, or if it is [perch_2]{perched} on it, it is [rest_2]{resting} there for a time",
+      "entry": "perch",
+      "id": "perch_2#perch_2__4"
+    },
+    {
+      "comment": "if a [bird]{bird} or [animal_1]{animal} [preen]{preens} or [preen]{preens} [itself]{itself}, it [clean_2]{cleans} and [arrange]{arranges} its [feather_1]{feathers} or fur with its [beak]{beak} or [tongue_1]{tongue}",
+      "entry": "preen",
+      "id": "preen#preen__1"
+    },
+    {
+      "comment": "when birds or bats roost, they go somewhere to rest or sleep",
+      "entry": "roost",
+      "id": "roost_1#roost_1__1"
+    },
+    {
+      "comment": "[used]{used} about [bird]{birds}",
+      "entry": "ruffle",
+      "id": "ruffle_1#ruffle_1__5"
+    },
+    {
+      "comment": "if a [bird]{bird} [sing_1]{sings}, it [make_1]{makes} [musical_1]{musical} [sound_1]{sounds}",
+      "entry": "sing",
+      "id": "sing_1#sing_1__7"
+    },
+    {
+      "comment": "a [bird]{bird}\u2019s [fast_1]{fast} [movement]{movement} [downward_1]{downward} when it is [flying_1]{flying}",
+      "entry": "stoop",
+      "id": "stoop_1#stoop_1__3"
+    },
+    {
+      "comment": "a [single_1]{single} [complete_1]{complete} [movement]{movement} of a [bird]{bird}\u2019s [wing_1]{wings} during [flight]{flight}",
+      "entry": "stroke",
+      "id": "stroke_1#stroke_1__14"
+    },
+    {
+      "comment": "to [fly_1]{fly} [away_1]{away}",
+      "entry": "take wing",
+      "id": "take-wing#take-wing__1"
+    },
+    {
+      "comment": "if a [bird]{bird} [talk_1]{talks}, it [produce_1]{produces} [sound_1]{sounds} [like_1]{like} [word_1]{words}",
+      "entry": "talk",
+      "id": "talk_1#talk_1__9"
+    },
+    {
+      "comment": "if a [bird]{bird} [twitter_1]{twitters}, it [make_1]{makes} a [high_1]{high} [sing_1]{singing} [sound_1]{sound}",
+      "entry": "twitter",
+      "id": "twitter_1#twitter_1__1"
+    },
+    {
+      "comment": "if a [bird]{bird} [warble]{warbles}, it [sing_1]{sings} [continuous#continuous__6]{continuously} but with [note_1]{notes} that [change_1]{change} [frequently]{frequently}",
+      "entry": "warble",
+      "id": "warble#warble__2"
+    },
+    {
+      "comment": "to [fly_1]{fly}",
+      "entry": "wing",
+      "id": "wing_2#wing_2__2"
+    }
+  ],
+  "thesaurus": "Bird behavior",
+  "type": "Related words"
+}

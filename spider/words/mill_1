@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [building]{building} where [grain]{grain} is made into [flour_1]{flour}",
+      "examples": [],
+      "id": "mill_1__1"
+    },
+    {
+      "def": "a [factory]{factory} where a [product]{product} such as [cotton_1]{cotton}, [wool]{wool}, or [steel_1]{steel} is made",
+      "examples": [
+        "a [textile]{textile} mill"
+      ],
+      "id": "mill_1__4"
+    },
+    {
+      "def": "a [place_1]{place} or [situation]{situation} in which [people_1]{people} [deal_1]{deal} with [important]{important} [matter_1]{matters} [automatically]{automatically} without [give_1]{giving} them [careful]{careful} [thought_1]{thought}",
+      "examples": [
+        "He was [just_1]{just} another [victim]{victim} of the [rumor]{rumor} mill."
+      ],
+      "id": "mill_1__6"
+    }
+  ],
+  "word": "mill"
+}

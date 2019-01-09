@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[use_1]{using} [word_1]{words}, or [relate]{relating} to [word_1]{words}",
+      "entry": "verbal",
+      "id": "verbal_1#verbal_1__1"
+    },
+    {
+      "comment": "not [involve]{involving} [word_1]{words} or [speech]{speech}",
+      "entry": "nonverbal",
+      "id": "nonverbal#nonverbal__1"
+    },
+    {
+      "comment": "[involve]{involving} [people_1]{people} [communicate]{communicating} with each other and [react]{reacting} to each other",
+      "entry": "interactive",
+      "id": "interactive#interactive__2"
+    },
+    {
+      "comment": "[relate]{relating} to the [ability_1]{ability} to [communicate]{communicate}",
+      "entry": "communicative",
+      "id": "communicative#communicative__3"
+    },
+    {
+      "comment": "[clearly]{clearly} [showing]{showing} what your [thought_1]{thoughts} or [feeling_1]{feelings} are, [especially]{especially} by your [behavior]{behavior}",
+      "entry": "expressive",
+      "id": "expressive#expressive__1"
+    },
+    {
+      "comment": "[relate]{relating} to [direct_1]{direct} [communication]{communication} between [people_1]{people}",
+      "entry": "person-to-person",
+      "id": "person-to-person#person-to-person__2"
+    },
+    {
+      "comment": "[one-on-one]{one-on-one}",
+      "entry": "one-to-one",
+      "id": "one-to-one#one-to-one__2"
+    },
+    {
+      "comment": "[relate]{relating} to an [action_1]{action} that you [perform]{perform} by [saying]{saying} something, for [example]{example} when you [threaten]{threaten} or [warn]{warn} someone, or when you [promise_1]{promise} to do something for them",
+      "entry": "illocutionary",
+      "id": "illocutionary#illocutionary__1"
+    },
+    {
+      "comment": "[express_1]{expressed} in ways that do not use [word_1]{words}, for [example]{example} by the [look_1]{look} on your [face_1]{face} or the [sound_1]{sound} of your [voice_1]{voice}",
+      "entry": "paralinguistic",
+      "id": "paralinguistic#paralinguistic__1"
+    },
+    {
+      "comment": "[happening_1]{happening} between only two [people_1]{people}",
+      "entry": "one-on-one",
+      "id": "one-on-one#one-on-one__1"
+    }
+  ],
+  "thesaurus": "Words used to describe communication",
+  "type": "Synonyms"
+}

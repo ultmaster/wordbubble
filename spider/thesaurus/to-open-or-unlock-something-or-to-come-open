@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [open_1]{open} a [lock_1]{locked} [door_1]{door}, [container]{container}, or [building]{building}",
+      "entry": "open up",
+      "id": "open-up#open-up__1"
+    },
+    {
+      "comment": "to [open_1]{open}, [untie]{untie}, or [remove]{remove} something so that it no [long_1]{longer} [close_1]{closes}, [fasten]{fastens}, or [connect]{connects} another thing",
+      "entry": "undo",
+      "id": "undo#undo__1"
+    },
+    {
+      "comment": "to [open_1]{open} the [lock_1]{lock} on something such as a [door_1]{door} or a [window]{window}, [usually]{usually} with a [key_1]{key}",
+      "entry": "unlock",
+      "id": "unlock#unlock__1"
+    },
+    {
+      "comment": "to [open_1]{open} something that was [fold_1]{folded}",
+      "entry": "unfold",
+      "id": "unfold#unfold__1"
+    },
+    {
+      "comment": "to [open_1]{open} something by [twist_1]{twisting} its [lid]{lid} or top",
+      "entry": "unscrew",
+      "id": "unscrew#unscrew__1"
+    },
+    {
+      "comment": "if a [door_1]{door} or [container]{container} [burst_1]{bursts} [open_1]{open}, it [open_2]{opens} [quickly]{quickly} and [suddenly]{suddenly}",
+      "entry": "burst open",
+      "id": "burst-open#burst-open__1"
+    },
+    {
+      "comment": "to [force_1]{force} something [open_1]{open} or [away_1]{away} from something",
+      "entry": "pry",
+      "id": "pry#pry__5"
+    },
+    {
+      "comment": "to [attempt_1]{attempt} to [open_1]{open} something such as a [door_1]{door} or [window]{window}, [especially]{especially} in [order_1]{order} to see whether it is [lock_1]{locked}",
+      "entry": "try",
+      "id": "try_1#try_1__11"
+    },
+    {
+      "comment": "to use [physical_1]{physical} [force_1]{force} to [open_1]{open} something that is [lock_1]{locked}",
+      "entry": "force",
+      "id": "force_2#force_2__14"
+    },
+    {
+      "comment": "to [open_1]{open} a [bottle_1]{bottle} or can of [alcoholic_1]{alcoholic} [drink_1]{drink}",
+      "entry": "crack something open",
+      "id": "crack-something-open#crack-something-open__1"
+    }
+  ],
+  "thesaurus": "To open or unlock something, or to come open",
+  "type": "Synonyms"
+}

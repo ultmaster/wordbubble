@@ -1,0 +1,33 @@
+{
+  "phrase": "office",
+  "senses": [
+    {
+      "def": "a [room_1]{room} or [building]{building} where the [people_1]{people} in an [organization]{organization} or [department]{department} [work_1]{work}",
+      "examples": [
+        "I work in the company\u2019s Los Angeles office."
+      ],
+      "id": "office__1"
+    },
+    {
+      "def": "a [room_1]{room} with one or more [desk]{desks} where [people_1]{people} [work_1]{work}",
+      "examples": [
+        "We\u2019ve converted the spare bedroom into a home office."
+      ],
+      "id": "office__14"
+    },
+    {
+      "def": "a [government]{government} [department]{department}",
+      "examples": [
+        "The Mayor\u2019s Office is preparing a report on the city\u2019s school system."
+      ],
+      "id": "office__16"
+    },
+    {
+      "def": "a [position_1]{position} in a [large_1]{large} and [powerful]{powerful} [organization]{organization}, [especially]{especially} a [government]{government}",
+      "examples": [
+        "Bush was elected to the office of President in 2000."
+      ],
+      "id": "office__19"
+    }
+  ]
+}

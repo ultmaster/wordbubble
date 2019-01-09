@@ -1,0 +1,221 @@
+{
+  "entries": [
+    {
+      "comment": "an [airplane]{airplane}",
+      "entry": "aeroplane",
+      "id": "aeroplane#aeroplane__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [airplane]{airplane} that can [carry_1]{carry} a [large_1]{large} [number_1]{number} of [passenger]{passengers}",
+      "entry": "Airbus",
+      "id": "airbus#airbus__1"
+    },
+    {
+      "comment": "an [airplane]{airplane}, [helicopter]{helicopter}, or other [vehicle]{vehicle} that [flies]{flies}",
+      "entry": "aircraft",
+      "id": "aircraft#aircraft__1"
+    },
+    {
+      "comment": "the name [given_1]{given} to a U.S. [air_1]{air} [force_1]{force} [plane_1]{plane} when the [president_1]{president} [flies]{flies} on it",
+      "entry": "Air Force One",
+      "id": "air-force-one#air-force-one__1"
+    },
+    {
+      "comment": "a [large_1]{large} [aircraft]{aircraft} for [passenger]{passengers}",
+      "entry": "airliner",
+      "id": "airliner#airliner__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} with [wing_1]{wings} and at least one [engine]{engine}",
+      "entry": "airplane",
+      "id": "airplane#airplane__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} without [wing_1]{wings} that is [fill_1]{filled} with [gas_1]{gas} and has an [engine]{engine}",
+      "entry": "airship",
+      "id": "airship#airship__1"
+    },
+    {
+      "comment": "a large U.S. bomber  (=military airplane that drops bombs)",
+      "entry": "B-52",
+      "id": "b-52#b-52__1"
+    },
+    {
+      "comment": "a [large_1]{large} [strong]{strong} [bag_1]{bag} [fill_1]{filled} with [gas_1]{gas} or [hot]{hot} [air_1]{air} that can [float_1]{float} in the [air_1]{air}. Some [balloon_1]{balloons} have a [large_1]{large} [basket]{basket} [hanging_1]{hanging} under them in which [people_1]{people} can [travel_1]{travel}.",
+      "entry": "balloon",
+      "id": "balloon_1#balloon_1__1"
+    },
+    {
+      "comment": "an [old-fashioned_2]{old-fashioned} [type_1]{type} of [airplane]{airplane} with two [set_1]{sets} of [wing_1]{wings}",
+      "entry": "biplane",
+      "id": "biplane#biplane__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [airship]{airship}",
+      "entry": "blimp",
+      "id": "blimp#blimp__1"
+    },
+    {
+      "comment": "a [large_1]{large} [military]{military} [airplane]{airplane} that [drop_1]{drops} [bomb_1]{bombs}",
+      "entry": "bomber",
+      "id": "bomber#bomber__1"
+    },
+    {
+      "comment": "a small tanker for fuel or water",
+      "entry": "bowser",
+      "id": "bowser#bowser__1"
+    },
+    {
+      "comment": "a [helicopter]{helicopter}",
+      "entry": "chopper",
+      "id": "chopper#chopper__1"
+    },
+    {
+      "comment": "a [helicopter]{helicopter}",
+      "entry": "copter",
+      "id": "copter#copter__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} or [space_1]{space} [vehicle]{vehicle}",
+      "entry": "craft",
+      "id": "craft_1#craft_1__11"
+    },
+    {
+      "comment": "an aircraft like a large balloon  (=a bag filled with gas) with an engine",
+      "entry": "dirigible",
+      "id": "dirigible#dirigible__1"
+    },
+    {
+      "comment": "a [military]{military} [aircraft]{aircraft} that can [fly_1]{fly} low in [order_1]{order} to [drop_1]{drop} [bomb_1]{bombs}",
+      "entry": "dive-bomber",
+      "id": "dive-bomber#dive-bomber__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} that [does]{does} not have a [pilot_1]{pilot} but is [controlled_1]{controlled} from the [ground_1]{ground}",
+      "entry": "drone",
+      "id": "drone_2#drone_2__5"
+    },
+    {
+      "comment": "a [military]{military} [airplane]{airplane} that is [design_2]{designed} for [battle_1]{battles} with other [airplane]{airplanes}",
+      "entry": "fighter",
+      "id": "fighter#fighter__1"
+    },
+    {
+      "comment": "a [large_1]{large} [ship_1]{ship} or [airplane]{airplane} that [carry_1]{carries} [goods]{goods}",
+      "entry": "freighter",
+      "id": "freighter#freighter__1"
+    },
+    {
+      "comment": "a [light_1]{light} [airplane]{airplane} with no [engine]{engine} that [people_1]{people} [fly_1]{fly} in for [pleasure]{pleasure}",
+      "entry": "glider",
+      "id": "glider#glider__1"
+    },
+    {
+      "comment": "a [military]{military} [helicopter]{helicopter} that has [guns]{guns} [attached]{attached} to it",
+      "entry": "gunship",
+      "id": "gunship#gunship__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [small_1]{small} [aircraft]{aircraft} for one [person]{person} that [look_1]{looks} [like_1]{like} a [small_1]{small} [helicopter]{helicopter}",
+      "entry": "gyrocopter",
+      "id": "gyrocopter#gyrocopter__1"
+    },
+    {
+      "comment": "a [simple]{simple} [aircraft]{aircraft} with no [engine]{engine} that you [hang_1]{hang} under and [control_1]{control} by [moving]{moving} your body",
+      "entry": "hang glider",
+      "id": "hang-glider#hang-glider__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} with [large_1]{large} [metal_1]{metal} [blade]{blades} on top that [spin_1]{spin} and [lift_1]{lift} it into the [air_1]{air}",
+      "entry": "helicopter",
+      "id": "helicopter#helicopter__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [large_1]{large} [bag_1]{bag} full of [hot]{hot} [air_1]{air}, with a [basket]{basket} [attached]{attached} that [people_1]{people} can [ride_1]{ride} through the [air_1]{air} in",
+      "entry": "hot-air balloon",
+      "id": "hot-air-balloon#hot-air-balloon__1"
+    },
+    {
+      "comment": "a [small_1]{small} [fast_1]{fast} [military]{military} [aircraft]{aircraft} that is [design_2]{designed} to [stop_1]{stop} [enemy]{enemy} [aircraft]{aircraft} from [attack_2]{attacking}",
+      "entry": "interceptor",
+      "id": "interceptor#interceptor__1"
+    },
+    {
+      "comment": "an airplane that can fly very fast and gets its power from a jet engine",
+      "entry": "jet",
+      "id": "jet_1#jet_1__1"
+    },
+    {
+      "comment": "a large airplane for a lot of passengers. A jumbo jet is often simply called a jumbo.",
+      "entry": "jumbo jet",
+      "id": "jumbo-jet#jumbo-jet__1"
+    },
+    {
+      "comment": "an [airplane]{airplane} that can move up or down in a [straight_1]{straight} [line_1]{line} when it [leaves]{leaves} the [ground_1]{ground} or [land_1]{lands}",
+      "entry": "jump jet",
+      "id": "jump-jet#jump-jet__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [airplane]{airplane}",
+      "entry": "light aircraft",
+      "id": "light-aircraft#light-aircraft__1"
+    },
+    {
+      "comment": "a very [small_1]{small} [airplane]{airplane} for one or two [people_1]{people}",
+      "entry": "microlight",
+      "id": "microlight#microlight__1"
+    },
+    {
+      "comment": "an [airplane]{airplane} with a [single_1]{single} [wing_1]{wing} on each side",
+      "entry": "monoplane",
+      "id": "monoplane#monoplane__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} with [wing_1]{wings} and at least one [engine]{engine}",
+      "entry": "plane",
+      "id": "plane_1#plane_1__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} that can take off from [water_1]{water} and [land_1]{land} on [water_1]{water}",
+      "entry": "seaplane",
+      "id": "seaplane#seaplane__1"
+    },
+    {
+      "comment": "a military aircraft that cannot be noticed by radar",
+      "entry": "stealth bomber",
+      "id": "stealth-bomber#stealth-bomber__1"
+    },
+    {
+      "comment": "a [large_1]{large} [ship_1]{ship}, [truck_1]{truck}, or [airplane]{airplane} that [carry_1]{carries} [gas_1]{gas} or [oil_1]{oil}",
+      "entry": "tanker",
+      "id": "tanker#tanker__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} or [aircraft]{aircraft} [used]{used} for [carry_1]{carrying} [large_1]{large} [thing]{things} such as [military]{military} [equipment]{equipment} or other [vehicle]{vehicles}",
+      "entry": "transporter",
+      "id": "transporter#transporter__1"
+    },
+    {
+      "comment": "an [aircraft]{aircraft} for [carry_1]{carrying} [soldier_1]{soldiers} and [military]{military} [equipment]{equipment}",
+      "entry": "transport plane",
+      "id": "transport-plane#transport-plane__1"
+    },
+    {
+      "comment": "a [twin-engined]{twin-engined} [plane_1]{plane} has two [engine]{engines}",
+      "entry": "twin-engined",
+      "id": "twin-engined#twin-engined__1"
+    },
+    {
+      "comment": "[unmanned]{unmanned} [aerial_1]{aerial} [vehicle]{vehicle}: an [aircraft]{aircraft} that [does]{does} not have a [human_1]{human} [pilot_1]{pilot}; a more [technical]{technical} name for a [drone_1]{drone}",
+      "entry": "UAV",
+      "id": "uav#uav__1"
+    },
+    {
+      "comment": "an [old-fashioned_2]{old-fashioned} [type_1]{type} of [airship]{airship}",
+      "entry": "zeppelin",
+      "id": "zeppelin#zeppelin__1"
+    }
+  ],
+  "thesaurus": "Aircraft",
+  "type": "Related words"
+}

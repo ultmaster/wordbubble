@@ -1,0 +1,301 @@
+{
+  "entries": [
+    {
+      "comment": "to [arrest_1]{arrest} someone",
+      "entry": "apprehend",
+      "id": "apprehend#apprehend__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [arresting]{arresting} someone",
+      "entry": "apprehension",
+      "id": "apprehension#apprehension__4"
+    },
+    {
+      "comment": "if the police arrest someone, they take that person to a police station because they believe he or she has committed a crime. Someone who has been arrested is under arrest, and if they are not allowed to leave, they are in custody",
+      "entry": "arrest",
+      "id": "arrest_1#arrest_1__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which the [police_1]{police} [arrest_1]{arrest} someone that they [believe]{believe} has [committed]{committed} a [crime_1]{crime}",
+      "entry": "arrest",
+      "id": "arrest_2#arrest_2__1"
+    },
+    {
+      "comment": "a [search_1]{search} of someone\u2019s body and [clothing]{clothing} for [weapon]{weapons} or [drug_1]{drugs}, made by a [police_1]{police} [officer]{officer} or other [official_1]{official}",
+      "entry": "body search",
+      "id": "body-search#body-search__1"
+    },
+    {
+      "comment": "if the [police_1]{police} [book_1]{book} someone, they take them to the [police_1]{police} [station_1]{station} and [make_1]{make} a [record_1]{record} of their [crime_1]{crime}",
+      "entry": "book",
+      "id": "book_2#book_2__8"
+    },
+    {
+      "comment": "someone who [try_1]{tries} to [catch_1]{catch} [criminal_1]{criminals} in [order_1]{order} to [receive]{receive} a [reward_1]{reward}",
+      "entry": "bounty hunter",
+      "id": "bounty-hunter#bounty-hunter__1"
+    },
+    {
+      "comment": "if [police_1]{police} [officer]{officers} [breathalyze]{breathalyze} a [driver]{driver}, they use a Breathalyzer to [check_1]{check} how much [alcohol]{alcohol} the [driver]{driver} has [drunk_1]{drunk}",
+      "entry": "breathalyze",
+      "id": "breathalyze#breathalyze__1"
+    },
+    {
+      "comment": "a test in which police officers check how much alcohol a driver has drunk using a breathalyzer",
+      "entry": "breath test",
+      "id": "breath-test#breath-test__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when the [police_1]{police} go into a [place_1]{place} to [search_1]{search} it for [illegal_1]{illegal} [goods]{goods} or [activity]{activities}, [especially]{especially} those [relate]{relating} to [drug_1]{drugs}",
+      "entry": "bust",
+      "id": "bust_1#bust_1__5"
+    },
+    {
+      "comment": "if someone is [busted]{busted}, they are [arrest_1]{arrested}, [especially]{especially} for [offense]{offenses} [relate]{relating} to [drug_1]{drugs}",
+      "entry": "bust",
+      "id": "bust_2#bust_2__4"
+    },
+    {
+      "comment": "if the [police_1]{police} [bust_1]{bust} a [place_1]{place}, they [search_1]{search} it for [illegal_1]{illegal} [goods]{goods} or [activity]{activities}, [especially]{especially} those [relate]{relating} to [drug_1]{drugs}",
+      "entry": "bust",
+      "id": "bust_2#bust_2__6"
+    },
+    {
+      "comment": "if the [police_1]{police} [catch_1]{catch} someone, they find them and [arrest_1]{arrest} them",
+      "entry": "catch",
+      "id": "catch_1#catch_1__16"
+    },
+    {
+      "comment": "to find and [arrest_1]{arrest} someone who has [committed]{committed} a [crime_1]{crime} after [searching]{searching} for them or [chase_1]{chasing} them",
+      "entry": "catch up with",
+      "id": "catch-up-with#catch-up-with__1"
+    },
+    {
+      "comment": "an [official_1]{official} [warning]{warning} that the [police_1]{police} give when they [arrest_1]{arrest} someone, to [tell_1]{tell} them that anything they [say_1]{say} may be [used]{used} as [evidence_1]{evidence} against them",
+      "entry": "caution",
+      "id": "caution_1#caution_1__8"
+    },
+    {
+      "comment": "an [official_1]{official} [warning]{warning} from the [police_1]{police} to someone who has [broken_1]{broken} the [law]{law}, [state_2]{stating} that they will be [punish]{punished} if they do it again",
+      "entry": "caution",
+      "id": "caution_1#caution_1__9"
+    },
+    {
+      "comment": "when the [police_1]{police} [caution_1]{caution} someone who has [broken_1]{broken} the [law]{law}, they [warn]{warn} them [officially]{officially} that they will be [punish]{punished} if they do it again",
+      "entry": "caution",
+      "id": "caution_2#caution_2__5"
+    },
+    {
+      "comment": "when the [police_1]{police} [caution_1]{caution} someone they are [arresting]{arresting}, they [warn]{warn} them [officially]{officially} that anything they [say_1]{say} may be [used]{used} as [evidence_1]{evidence} against them",
+      "entry": "caution",
+      "id": "caution_2#caution_2__6"
+    },
+    {
+      "comment": "an [official_1]{official} [statement_1]{statement} [accusing]{accusing} someone of [commit]{committing} a [crime_1]{crime}",
+      "entry": "charge",
+      "id": "charge_1#charge_1__7"
+    },
+    {
+      "comment": "an [official_1]{official} [record_1]{record} in which the [police_1]{police} [write]{write} down the [name_1]{names} of [people_1]{people} they have [accuse]{accused} of a [crime_1]{crime}",
+      "entry": "charge sheet",
+      "id": "charge-sheet#charge-sheet__1"
+    },
+    {
+      "comment": "an [arrest_1]{arrest} made by an [ordinary]{ordinary} [person]{person}, not a [police_1]{police} [officer]{officer}",
+      "entry": "citizen\u2019s arrest",
+      "id": "citizen-s-arrest#citizen-s-arrest__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when the [police_1]{police} [arrest_1]{arrest} someone",
+      "entry": "collar",
+      "id": "collar_1#collar_1__9"
+    },
+    {
+      "comment": "someone [arrest_1]{arrested} by the [police_1]{police}",
+      "entry": "collar",
+      "id": "collar_1#collar_1__10"
+    },
+    {
+      "comment": "to [catch_1]{catch} or [arrest_1]{arrest} someone",
+      "entry": "collar",
+      "id": "collar_2#collar_2__2"
+    },
+    {
+      "comment": "to come to a [place_1]{place} in [order_1]{order} to [arrest_1]{arrest} someone",
+      "entry": "come for",
+      "id": "come-for#come-for__4"
+    },
+    {
+      "comment": "to [handcuff]{handcuff} someone",
+      "entry": "cuff",
+      "id": "cuff_2#cuff_2__2"
+    },
+    {
+      "comment": "a [military]{military} or [police_1]{police} [attack_1]{attack} made at the [beginning]{beginning} of the [day]{day}, so that the [people_1]{people} being [attack_2]{attacked} will not be [prepared]{prepared} for it",
+      "entry": "dawn raid",
+      "id": "dawn-raid#dawn-raid__1"
+    },
+    {
+      "comment": "to keep someone in a police station or prison and not allow them to leave",
+      "entry": "detain",
+      "id": "detain#detain__1"
+    },
+    {
+      "comment": "the state of being kept in a police station or prison and not being allowed to leave",
+      "entry": "detention",
+      "id": "detention#detention__1"
+    },
+    {
+      "comment": "if the [police_1]{police} [fingerprint_1]{fingerprint} someone, they [make_1]{make} a [copy_1]{copy} of their [fingerprint_1]{fingerprints}",
+      "entry": "fingerprint",
+      "id": "fingerprint_2#fingerprint_2__1"
+    },
+    {
+      "comment": "if you give yourself up, you [allow]{allow} yourself to be [arrest_1]{arrested} by the [police_1]{police}",
+      "entry": "give up",
+      "id": "give-up#give-up__15"
+    },
+    {
+      "comment": "to [try_1]{try} to [arrest_1]{arrest} or [punish]{punish} someone",
+      "entry": "go after",
+      "id": "go-after#go-after__3"
+    },
+    {
+      "comment": "to put [handcuffs]{handcuffs} on someone",
+      "entry": "handcuff",
+      "id": "handcuff#handcuff__1"
+    },
+    {
+      "comment": "a [police_1]{police} [lineup]{lineup}",
+      "entry": "identity parade",
+      "id": "identity-parade#identity-parade__1"
+    },
+    {
+      "comment": "an [official_1]{official} [meeting]{meeting} in which the [police_1]{police} [ask_1]{ask} someone [question_1]{questions} about a [crime_1]{crime}",
+      "entry": "interview",
+      "id": "interview_1#interview_1__8"
+    },
+    {
+      "comment": "if the [police_1]{police} [interview_1]{interview} someone about a [crime_1]{crime}, they [ask_1]{ask} them [question_1]{questions} about it",
+      "entry": "interview",
+      "id": "interview_2#interview_2__7"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people} the [police_1]{police} use to find out if someone who [saw_1]{saw} a [crime_1]{crime} [recognize]{recognizes} any of them",
+      "entry": "lineup",
+      "id": "lineup#lineup__6"
+    },
+    {
+      "comment": "to get enough [evidence_1]{evidence} to [prove]{prove} that someone is [guilty]{guilty} of a [crime_1]{crime}",
+      "entry": "make something stick",
+      "id": "make-something-stick#make-something-stick__1"
+    },
+    {
+      "comment": "in the U.S., the legal rights of a person who is arrested by the police, including the right to be silent and to ask for the advice of a lawyer. The police must give any arrested person a Miranda warning by reading these rights to them.",
+      "entry": "Miranda rights",
+      "id": "miranda-rights#miranda-rights__1"
+    },
+    {
+      "comment": "to [catch_1]{catch} or [arrest_1]{arrest} someone who has done something [wrong_1]{wrong} or [illegal_1]{illegal}",
+      "entry": "nab",
+      "id": "nab#nab__1"
+    },
+    {
+      "comment": "to [arrest_1]{arrest} someone",
+      "entry": "nick",
+      "id": "nick_2#nick_2__4"
+    },
+    {
+      "comment": "because the [police_1]{police} or the [authority]{authorities} [think_1]{think} you have [committed]{committed} a [crime_1]{crime}",
+      "entry": "on suspicion of something",
+      "id": "on-suspicion-of-something#on-suspicion-of-something__1"
+    },
+    {
+      "comment": "to [arrest_1]{arrest} someone and take them [away_1]{away} in a [car]{car}",
+      "entry": "pick up",
+      "id": "pick-up#pick-up__13"
+    },
+    {
+      "comment": "if the [police_1]{police} [pull_1]{pull} someone in, they [arrest_1]{arrest} them",
+      "entry": "pull in",
+      "id": "pull-in#pull-in__9"
+    },
+    {
+      "comment": "if the [police_1]{police} [pull_1]{pull} a [vehicle]{vehicle} over, they [order_1]{order} its [driver]{driver} to [stop_1]{stop} at the side of the [road]{road}",
+      "entry": "pull over",
+      "id": "pull-over#pull-over__3"
+    },
+    {
+      "comment": "if the [police_1]{police} [question_1]{question} someone, they [ask_1]{ask} them [question_1]{questions} to find out what they [know_1]{know} about a [crime_1]{crime}",
+      "entry": "question",
+      "id": "question_2#question_2__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which [people_1]{people}, for [example]{example} the [police_1]{police}, [ask_1]{ask} someone [question_1]{questions}",
+      "entry": "questioning",
+      "id": "questioning_1#questioning_1__1"
+    },
+    {
+      "comment": "an [action_1]{action} by [police_1]{police} [officer]{officers} in which they [suddenly]{suddenly} [enter]{enter} a [place_1]{place} in [order_1]{order} to [arrest_1]{arrest} [people_1]{people} or [search_1]{search} for something such as [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "raid",
+      "id": "raid_1#raid_1__4"
+    },
+    {
+      "comment": "to use [force_1]{force} to [enter]{enter} a [place_1]{place} [suddenly]{suddenly} in [order_1]{order} to [arrest_1]{arrest} [people_1]{people} or [search_1]{search} for something such as [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "raid",
+      "id": "raid_2#raid_2__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} by the [police_1]{police} [accusing]{accusing} someone of [commit]{committing} a [crime_1]{crime}",
+      "entry": "rap",
+      "id": "rap_1#rap_1__7"
+    },
+    {
+      "comment": "a [list_1]{list} of someone\u2019s [arrest_1]{arrests} and the [crime_1]{crimes} that they are [guilty]{guilty} of [commit]{committing}",
+      "entry": "rap sheet",
+      "id": "rap-sheet#rap-sheet__1"
+    },
+    {
+      "comment": "when [police_1]{police} [officer]{officers} read someone their [right_3]{rights}, they [tell_1]{tell} them that they can [remain]{remain} [silent]{silent} and [talk_1]{talk} to a [lawyer]{lawyer}",
+      "entry": "read someone their rights",
+      "id": "read-someone-their-rights_2#read-someone-their-rights_2__1"
+    },
+    {
+      "comment": "to find and [arrest_1]{arrest} [people_1]{people}",
+      "entry": "round up",
+      "id": "round-up_1#round-up_1__1"
+    },
+    {
+      "comment": "a [formal_1]{formal} [written_1]{written} [account_1]{account} of [event]{events} that a [person]{person} who has [seen]{seen} a [crime_1]{crime} or who has been [accuse]{accused} of a [crime_1]{crime} [give_1]{gives} to the [police_1]{police}",
+      "entry": "statement",
+      "id": "statement_1#statement_1__9"
+    },
+    {
+      "comment": "someone who the [police_1]{police} [believe]{believe} may have [committed]{committed} a [crime_1]{crime}",
+      "entry": "suspect",
+      "id": "suspect_2#suspect_2__1"
+    },
+    {
+      "comment": "a [suspected]{suspected} [criminal_1]{criminal} is one who the [court_1]{courts} have not yet [prove]{proved} [guilty]{guilty}",
+      "entry": "suspected",
+      "id": "suspected#suspected__3"
+    },
+    {
+      "comment": "to [catch_1]{catch} someone such as a [criminal_1]{criminal}, [especially]{especially} by [force_2]{forcing} them into a [place_1]{place} that they cannot [escape_1]{escape} from",
+      "entry": "trap",
+      "id": "trap_2#trap_2__9"
+    },
+    {
+      "comment": "someone who [try_1]{tries} to [catch_1]{catch} and [punish]{punish} [criminal_1]{criminals} by themselves, without [wait_1]{waiting} for the [police_1]{police}",
+      "entry": "vigilante",
+      "id": "vigilante#vigilante__1"
+    },
+    {
+      "comment": "[attempt_1]{attempts} by [ordinary]{ordinary} [citizen]{citizens} to [catch_1]{catch} and [punish]{punish} [criminal_1]{criminals}, without [wait_1]{waiting} for the [police_1]{police}",
+      "entry": "vigilantism",
+      "id": "vigilantism#vigilantism__1"
+    }
+  ],
+  "thesaurus": "Arresting, interviewing and charging suspects",
+  "type": "Related words"
+}

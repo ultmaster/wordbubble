@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "do you think...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone [politely]{politely} to do something",
+      "examples": [
+        "Do you [think_1]{think} you could [pass_1]{pass} me my [bag_1]{bag}?"
+      ],
+      "id": "do-you-think__1"
+    },
+    {
+      "def": "[used]{used} for [ask_1]{asking} someone\u2019s [opinion]{opinion}",
+      "examples": [
+        "Do you [think_1]{think} we\u2019ll get this [finished]{finished} on time?"
+      ],
+      "id": "do-you-think__3"
+    }
+  ]
+}

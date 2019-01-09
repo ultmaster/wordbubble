@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [slow_1]{slow} [movement]{movement} or [action_1]{action} [does]{does} not [happen]{happen} [fast_1]{fast}",
+      "entry": "slow",
+      "id": "slow_1#slow_1__1"
+    },
+    {
+      "comment": "[slow_1]{slow}, without any [worry_1]{worry} about [take_1]{taking} a long time",
+      "entry": "unhurried",
+      "id": "unhurried#unhurried__1"
+    },
+    {
+      "comment": "[slow_1]{slow}, [careful]{careful}, and [deliberate_1]{deliberate}",
+      "entry": "measured",
+      "id": "measured#measured__1"
+    },
+    {
+      "comment": "[stately]{stately} [movement]{movement} is [slow_1]{slow} and [steady_1]{steady}",
+      "entry": "stately",
+      "id": "stately#stately__1"
+    },
+    {
+      "comment": "[slow_1]{slow} and [relaxed]{relaxed}",
+      "entry": "leisurely",
+      "id": "leisurely#leisurely__1"
+    },
+    {
+      "comment": "[quiet_1]{quiet} or [slow_1]{slow}, and not [likely_1]{likely} to [shock_1]{shock} [people_1]{people} or [attract]{attract} [attention]{attention}",
+      "entry": "sedate",
+      "id": "sedate_1#sedate_1__1"
+    },
+    {
+      "comment": "[slowly]{slowly} and [gradually]{gradually} [continuing]{continuing} to [change_1]{change}, move, or [happen]{happen}",
+      "entry": "steady",
+      "id": "steady_1#steady_1__5"
+    },
+    {
+      "comment": "[slow_1]{slow} and [careful]{careful}",
+      "entry": "deliberate",
+      "id": "deliberate_1#deliberate_1__5"
+    },
+    {
+      "comment": "a [lazy]{lazy} [movement]{movement} or [smile_1]{smile} is [slow_1]{slow} and [relaxed]{relaxed}",
+      "entry": "lazy",
+      "id": "lazy#lazy__6"
+    },
+    {
+      "comment": "very [slow_1]{slow} and [relaxed]{relaxed}",
+      "entry": "languid",
+      "id": "languid#languid__1"
+    }
+  ],
+  "thesaurus": "Words used to describe slow movement",
+  "type": "Synonyms"
+}

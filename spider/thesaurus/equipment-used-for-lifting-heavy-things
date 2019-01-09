@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [consist]{consists} of [wheel_1]{wheels} and [rope_1]{ropes}, [used]{used} for [lift_1]{lifting} [heavy_1]{heavy} [object_1]{objects}",
+      "entry": "block and tackle",
+      "id": "block-and-tackle#block-and-tackle__1"
+    },
+    {
+      "comment": "a very [tall]{tall} [machine_1]{machine} [used]{used} for [lift_1]{lifting} or [moving]{moving} [heavy_1]{heavy} [object_1]{objects} and [building]{building} [tall]{tall} [building]{buildings}",
+      "entry": "crane",
+      "id": "crane_1#crane_1__1"
+    },
+    {
+      "comment": "a type of crane used for lifting things onto and off ships",
+      "entry": "derrick",
+      "id": "derrick#derrick__1"
+    },
+    {
+      "comment": "a [large_1]{large} [tall]{tall} [metal_1]{metal} [structure_1]{structure} [used]{used} for [supporting]{supporting} [light_1]{lights}, [signal_1]{signals}, etc., or for [moving]{moving} [heavy_1]{heavy} [equipment]{equipment} on [track_1]{tracks}",
+      "entry": "gantry",
+      "id": "gantry#gantry__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} with [rope_1]{ropes} that is [used]{used} for [lift_1]{lifting} [heavy_1]{heavy} [object_1]{objects}",
+      "entry": "hoist",
+      "id": "hoist_2#hoist_2__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [lift_1]{lifting} and [supporting]{supporting} a [heavy_1]{heavy} [object_1]{object}, for [example]{example} a [car]{car} when you are [change_1]{changing} a [tire_1]{tire}",
+      "entry": "jack",
+      "id": "jack_1#jack_1__1"
+    },
+    {
+      "comment": "the long arm of a crane used in building",
+      "entry": "jib",
+      "id": "jib#jib__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [lift_1]{lifting} something very [heavy_1]{heavy}. It [consist]{consists} of one or more [wheel_1]{wheels}, around which you [pull_1]{pull} a [rope_1]{rope} or [chain_1]{chain} that is [fasten]{fastened} to the thing that you [want_1]{want} to [lift_1]{lift}.",
+      "entry": "pulley",
+      "id": "pulley#pulley__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [wooden]{wooden} [structure_1]{structure} [used]{used} for [moving]{moving} [heavy_1]{heavy} [object_1]{objects}",
+      "entry": "skid",
+      "id": "skid_2#skid_2__5"
+    },
+    {
+      "comment": "a [set_1]{set} of [belt_1]{belts} and [rope_1]{ropes} [used]{used} for [supporting]{supporting} something [heavy_1]{heavy} while it is being [lift_1]{lifted}",
+      "entry": "sling",
+      "id": "sling_2#sling_2__1"
+    },
+    {
+      "comment": "the [rope_1]{ropes} and other [equipment]{equipment} that [people_1]{people} use to [lift_1]{lift} [heavy_1]{heavy} [object_1]{objects}",
+      "entry": "tackle",
+      "id": "tackle_2#tackle_2__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [use_1]{uses} a [rope_1]{rope} or [chain_1]{chain} for [lift_1]{lifting} or [pull_1]{pulling} [thing]{things} or [people_1]{people}",
+      "entry": "winch",
+      "id": "winch_1#winch_1__1"
+    },
+    {
+      "comment": "a piece of equipment used for lifting heavy things. It uses a motor to wind a rope or chain around a large round cylinder.",
+      "entry": "windlass",
+      "id": "windlass#windlass__1"
+    }
+  ],
+  "thesaurus": "Equipment used for lifting heavy things",
+  "type": "Related words"
+}

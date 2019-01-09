@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [person]{person} who had a [job_1]{job} or [official_1]{official} [position_1]{position} before someone else",
+      "examples": [
+        "Algood seems to have [learned]{learned} nothing from the [fault_1]{faults} of his [predecessor]{predecessors}."
+      ],
+      "id": "predecessor__1"
+    },
+    {
+      "def": "something that has been [replace]{replaced} by another thing",
+      "examples": [
+        "The [plan_1]{plan}, [like_1]{like} its two [predecessor]{predecessors}, had [little_1]{little} [chance_1]{chance} to [prove]{prove} [itself]{itself}."
+      ],
+      "id": "predecessor__3"
+    }
+  ],
+  "word": "predecessor"
+}

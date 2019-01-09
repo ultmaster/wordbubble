@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [act_1]{act} of [providing]{providing} something that someone [need_1]{needs}",
+      "examples": [
+        "The Red Cross is in [charge_1]{charge} of the provision of [emergency_1]{emergency} [relief]{relief}.",
+        "There is provision for [storage]{storage} in the [basement]{basement}."
+      ],
+      "id": "provision__1"
+    },
+    {
+      "def": "[plan_1]{plans} or [preparation]{preparation} for [future_1]{future} [need_1]{needs}",
+      "examples": [
+        "There is no provision for [expand]{expanding} [classroom]{classroom} [space_1]{space}.",
+        "We\u2019ve made [provision]{provisions} for our [grandchild]{grandchild}\u2019s [education]{education}."
+      ],
+      "id": "provision__5"
+    },
+    {
+      "def": "a part of an [agreement]{agreement} or [law]{law} that [deal_1]{deals} with a [particular_1]{particular} [problem]{problem}",
+      "examples": [
+        "This [contract_1]{contract} [include]{includes} a provision for [salary]{salary} [increase_1]{increases} over time."
+      ],
+      "id": "provision__8"
+    },
+    {
+      "def": "[food]{food} and other [necessary_1]{necessary} [supply_1]{supplies}, [especially]{especially} for a [trip_1]{trip}",
+      "examples": [],
+      "id": "provision__10"
+    }
+  ],
+  "word": "provision"
+}

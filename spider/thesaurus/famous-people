@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [famous_1]{famous} [person]{person} who is [associate_1]{associated} with a [particular_1]{particular} [product]{product}, [brand_1]{brand}, [advertising]{advertising} [campaign_1]{campaign}, etc.",
+      "entry": "face",
+      "id": "face_1#face_1__12"
+    },
+    {
+      "comment": "a [famous_1]{famous} [person]{person} who is [love_1]{loved} by many [people_1]{people} in a [country]{country}, [especially]{especially} someone who has had a long [public_1]{public} [career_1]{career}",
+      "entry": "national treasure",
+      "id": "national-treasure#national-treasure__1"
+    },
+    {
+      "comment": "a [celebrity]{celebrity}",
+      "entry": "sleb",
+      "id": "sleb#sleb__1"
+    },
+    {
+      "comment": "a [famous_1]{famous} or [well-known]{well-known} [person]{person}",
+      "entry": "personality",
+      "id": "personality#personality__8"
+    },
+    {
+      "comment": "a [famous_1]{famous} [person]{person}, [especially]{especially} in [entertainment]{entertainment} or [sport_1]{sports}",
+      "entry": "celebrity",
+      "id": "celebrity#celebrity__1"
+    },
+    {
+      "comment": "a [famous_1]{famous} and [popular]{popular} [person]{person}, [especially]{especially} an [actor]{actor}, [entertainer]{entertainer}, or [sport_1]{sports} [personality]{personality}",
+      "entry": "star",
+      "id": "star_1#star_1__3"
+    },
+    {
+      "comment": "someone who is very [famous_1]{famous} and who [people_1]{people} [think_1]{think} [represent]{represents} a [particular_1]{particular} [idea]{idea}",
+      "entry": "icon",
+      "id": "icon#icon__3"
+    },
+    {
+      "comment": "very [important]{important} [person]{person}: [used]{used} for [refer]{referring} to someone who [receive]{receives} [special_1]{special} [treatment]{treatment} because they are [powerful]{powerful} or [famous_1]{famous}",
+      "entry": "VIP",
+      "id": "vip#vip__1"
+    },
+    {
+      "comment": "a [well-known]{well-known} [person]{person}, [especially]{especially} a [politician]{politician}",
+      "entry": "public figure",
+      "id": "public-figure#public-figure__1"
+    },
+    {
+      "comment": "someone who is [extremely]{extremely} [famous_1]{famous} during the time that they are [alive]{alive}",
+      "entry": "living legend",
+      "id": "living-legend#living-legend__1"
+    }
+  ],
+  "thesaurus": "Famous people",
+  "type": "Synonyms"
+}

@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "hand out",
+  "senses": [
+    {
+      "def": "to give [thing]{things} to [different]{different} [people_1]{people} in a [group_1]{group}",
+      "examples": [
+        "Ralph was [hand_2]{handing} out [drink_1]{drinks}.",
+        "Would you hand these [paper_1]{papers} out for me?"
+      ],
+      "id": "hand-out__1"
+    },
+    {
+      "def": "to give something such as [information]{information} or [advice]{advice} to someone",
+      "examples": [
+        "They [won]{won}\u2019t hand out your [phone_1]{phone} [number_1]{number} without [permission]{permission}."
+      ],
+      "id": "hand-out__4"
+    },
+    {
+      "def": "to [say_1]{say} [officially]{officially} that someone will [receive]{receive} a [particular_1]{particular} [punishment]{punishment}",
+      "examples": [
+        "A three-month [sentence_1]{sentence} was [hand_2]{handed} out to the [teenage]{teenage} [boy_1]{boy}."
+      ],
+      "id": "hand-out__6"
+    }
+  ]
+}

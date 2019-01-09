@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "for sale",
+  "senses": [
+    {
+      "def": "[available]{available} for [people_1]{people} to [buy_1]{buy}",
+      "examples": [
+        "That [particular_1]{particular} [item]{item} is not for [sale]{sale}."
+      ],
+      "id": "for-sale__1"
+    }
+  ]
+}

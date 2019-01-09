@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "a [person]{person} or [company]{company} that [manage]{manages} the [development]{development} and [production]{production} of [book_1]{books}, [magazine]{magazines}, [game_1]{games}, [software]{software}, etc. and [make_1]{makes} them [available]{available} to the [public_1]{public}",
+      "entry": "publisher",
+      "id": "publisher#publisher__1"
+    },
+    {
+      "comment": "a business that publishes books. This word is sometimes used in company names",
+      "entry": "press",
+      "id": "press_1#press_1__13"
+    },
+    {
+      "comment": "a [company]{company} that [publish]{publishes} [book_1]{books} or [magazine]{magazines}",
+      "entry": "publishing house",
+      "id": "publishing-house#publishing-house__1"
+    },
+    {
+      "comment": "an [organization]{organization} that [sell_1]{sells} [article]{articles}, [photograph_1]{photographs}, [television]{television} [program_1]{programs}, etc. to [organization]{organizations} so that they can be [publish]{published} or [shown]{shown} in many [different]{different} [place_1]{places}",
+      "entry": "syndicate",
+      "id": "syndicate_1#syndicate_1__4"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [help_1]{help} a [writer]{writer} to [sell_1]{sell} his or her [work_1]{work}",
+      "entry": "literary agent",
+      "id": "literary-agent#literary-agent__1"
+    }
+  ],
+  "thesaurus": "Publishers and companies that publish books",
+  "type": "Synonyms"
+}

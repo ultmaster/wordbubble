@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [cover_1]{cover} that can be [closed]{closed} over the [outside]{outside} of a [window]{window}",
+      "examples": [],
+      "id": "shutter__1"
+    },
+    {
+      "def": "the part [inside_1]{inside} a [camera]{camera} that [quickly]{quickly} [open_2]{opens} and [close_1]{closes} to [let_1]{let} [light_1]{light} onto the [film_1]{film}",
+      "examples": [
+        "shutter [speed_1]{speed}"
+      ],
+      "id": "shutter__2"
+    }
+  ],
+  "word": "shutter"
+}

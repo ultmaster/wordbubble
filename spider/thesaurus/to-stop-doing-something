@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to no [long_1]{longer} do something",
+      "entry": "stop",
+      "id": "stop_1#stop_1__7"
+    },
+    {
+      "comment": "to [stop_1]{stop} [doing]{doing} something, [especially]{especially} [speak_1]{speaking}",
+      "entry": "break off",
+      "id": "break-off#break-off__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} [doing]{doing} something that you are [trying]{trying} [hard_1]{hard} to do",
+      "entry": "give up",
+      "id": "give-up#give-up__7"
+    },
+    {
+      "comment": "to [stop_1]{stop} [doing]{doing} something",
+      "entry": "cease",
+      "id": "cease#cease__5"
+    },
+    {
+      "comment": "to [stop_1]{stop} [doing]{doing} something that you were [doing]{doing} [regularly]{regularly}",
+      "entry": "discontinue",
+      "id": "discontinue#discontinue__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} something that you are [doing]{doing} or [planning]{planning} to do, [especially]{especially} because it is too [difficult]{difficult} to [continue]{continue}",
+      "entry": "abandon",
+      "id": "abandon_1#abandon_1__10"
+    },
+    {
+      "comment": "to [stop_1]{stop} [doing]{doing} something",
+      "entry": "quit",
+      "id": "quit#quit__5"
+    },
+    {
+      "comment": "to [stop_1]{stop} yourself or someone else from [doing]{doing} something",
+      "entry": "check",
+      "id": "check_1#check_1__23"
+    },
+    {
+      "comment": "to not [continue]{continue} with something",
+      "entry": "drop",
+      "id": "drop_1#drop_1__31"
+    },
+    {
+      "comment": "to [stop_1]{stop} [moving]{moving} or [stop_1]{stop} what you are [doing]{doing} for a [short_1]{short} time before [start_1]{starting} again",
+      "entry": "pause",
+      "id": "pause_1#pause_1__1"
+    }
+  ],
+  "thesaurus": "To stop doing something",
+  "type": "Synonyms"
+}

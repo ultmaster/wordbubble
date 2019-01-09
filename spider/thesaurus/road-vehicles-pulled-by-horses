@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "a [vehicle]{vehicle} [used]{used} in the [past_1]{past}, [pull_1]{pulled} by a [horse_1]{horse}",
+      "entry": "brougham",
+      "id": "brougham#brougham__1"
+    },
+    {
+      "comment": "a [simple]{simple} [vehicle]{vehicle} [pull_1]{pulled} by a [horse_1]{horse}, [used]{used} for [traveling]{traveling} on in the [past_1]{past}",
+      "entry": "buckboard",
+      "id": "buckboard#buckboard__1"
+    },
+    {
+      "comment": "a [light_1]{light} [vehicle]{vehicle} [pull_1]{pulled} by a [horse_1]{horse}",
+      "entry": "buggy",
+      "id": "buggy_1#buggy_1__3"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [pull_1]{pulled} by [horse_1]{horses} that was [used]{used} in the [past_1]{past} as a [taxi_1]{taxi}",
+      "entry": "cab",
+      "id": "cab_1#cab_1__4"
+    },
+    {
+      "comment": "a vehicle that Romanies live in, sometimes pulled by a horse",
+      "entry": "caravan",
+      "id": "caravan#caravan__3"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} with [wheel_1]{wheels} that is [pull_1]{pulled} by [horse_1]{horses}, [especially]{especially} one [used]{used} in the [past_1]{past} before [car]{cars} were [invent]{invented}",
+      "entry": "carriage",
+      "id": "carriage#carriage__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} with four [wheel_1]{wheels} and no [roof_1]{roof} that is [pull_1]{pulled} by a [horse_1]{horse} and is [used]{used} for [carry_1]{carrying} [thing]{things}",
+      "entry": "cart",
+      "id": "cart_1#cart_1__1"
+    },
+    {
+      "comment": "in the past, a type of carriage with two wheels, pulled by a horse",
+      "entry": "chaise",
+      "id": "chaise#chaise__1"
+    },
+    {
+      "comment": "a vehicle with two wheels and no roof that was pulled by horses in races and battles in ancient times. Someone who drove a chariot was called a charioteer.",
+      "entry": "chariot",
+      "id": "chariot#chariot__1"
+    },
+    {
+      "comment": "an [old-fashioned_2]{old-fashioned} [vehicle]{vehicle} that is [pull_1]{pulled} by [horse_1]{horses}",
+      "entry": "coach",
+      "id": "coach_1#coach_1__9"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [pull_1]{pulled} by [horse_1]{horses} that has a [curved]{curved} top [like_1]{like} a [tent]{tent}, [used]{used} in the [past_1]{past} by [people_1]{people} [traveling]{traveling} across [north_1]{North} America",
+      "entry": "covered wagon",
+      "id": "covered-wagon#covered-wagon__1"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} with two [wheel_1]{wheels} [pull_1]{pulled} by a [horse_1]{horse}, [used]{used} in the [past_1]{past}",
+      "entry": "gig",
+      "id": "gig_1#gig_1__6"
+    },
+    {
+      "comment": "a [covered_1]{covered} [vehicle]{vehicle} with two [wheel_1]{wheels} [pull_1]{pulled} by a [horse_1]{horse}, [used]{used} in the [past_1]{past} as a [taxi_1]{taxi}",
+      "entry": "hansom",
+      "id": "hansom#hansom__1"
+    },
+    {
+      "comment": "[pull_1]{pulled} by a [horse_1]{horse} or by several [horse_1]{horses}",
+      "entry": "horse-drawn",
+      "id": "horse-drawn#horse-drawn__1"
+    },
+    {
+      "comment": "a type of carriage  (=vehicle pulled by horses), with a top part that can be open or closed",
+      "entry": "landau",
+      "id": "landau#landau__1"
+    },
+    {
+      "comment": "[pull_1]{pulled} by one [horse_1]{horse}",
+      "entry": "one-horse",
+      "id": "one-horse#one-horse__1"
+    },
+    {
+      "comment": "two [horse_1]{horses} or other [animal_1]{animals} [used]{used} for [pull_1]{pulling} a [vehicle]{vehicle}",
+      "entry": "pair",
+      "id": "pair_1#pair_1__21"
+    },
+    {
+      "comment": "a [stagecoach]{stagecoach}",
+      "entry": "stage",
+      "id": "stage_1#stage_1__25"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} [pull_1]{pulled} by [horse_1]{horses}, [used]{used} in the [past_1]{past} for [carry_1]{carrying} [people_1]{people}, [mail_1]{mail}, and [goods]{goods}",
+      "entry": "stagecoach",
+      "id": "stagecoach#stagecoach__1"
+    },
+    {
+      "comment": "a [small_1]{small} [vehicle]{vehicle} [pull_1]{pulled} by a [horse_1]{horse}, that was [used]{used} in the [past_1]{past}",
+      "entry": "surrey",
+      "id": "surrey#surrey__1"
+    },
+    {
+      "comment": "a type of carriage pulled by a horse",
+      "entry": "trap",
+      "id": "trap_1#trap_1__10"
+    },
+    {
+      "comment": "a Russian [vehicle]{vehicle} [pull_1]{pulled} by three [horse_1]{horses} [walking_1]{walking} next to each other",
+      "entry": "troika",
+      "id": "troika#troika__2"
+    },
+    {
+      "comment": "a [vehicle]{vehicle} with four [wheel_1]{wheels} that is [usually]{usually} [pull_1]{pulled} by [horse_1]{horses} and is [used]{used} for [carry_1]{carrying} [heavy_1]{heavy} [load_1]{loads}",
+      "entry": "wagon",
+      "id": "wagon#wagon__1"
+    },
+    {
+      "comment": "a long [line_1]{line} of [wagon]{wagons} that [carry_1]{carried} [people_1]{people} [west_1]{west} across [north_1]{North} America in the 19th [century]{century}",
+      "entry": "wagon train",
+      "id": "wagon-train#wagon-train__1"
+    }
+  ],
+  "thesaurus": "Road vehicles pulled by horses",
+  "type": "Related words"
+}

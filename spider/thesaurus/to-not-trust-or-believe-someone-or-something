@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to not [believe]{believe} someone or something",
+      "entry": "disbelieve",
+      "id": "disbelieve#disbelieve__1"
+    },
+    {
+      "comment": "to not [trust_1]{trust} someone or something",
+      "entry": "distrust",
+      "id": "distrust_1#distrust_1__1"
+    },
+    {
+      "comment": "to not [trust_1]{trust} someone or something",
+      "entry": "mistrust",
+      "id": "mistrust_2#mistrust_2__1"
+    },
+    {
+      "comment": "to [feel_1]{feel} that you cannot [trust_1]{trust} or [believe]{believe} someone",
+      "entry": "doubt",
+      "id": "doubt_2#doubt_2__9"
+    },
+    {
+      "comment": "a [feeling_1]{feeling} that someone has done something [wrong_1]{wrong}",
+      "entry": "suspicion",
+      "id": "suspicion#suspicion__1"
+    },
+    {
+      "comment": "[believe]{believing} that someone has [probably]{probably} done something [wrong_1]{wrong}",
+      "entry": "suspicious",
+      "id": "suspicious#suspicious__1"
+    },
+    {
+      "comment": "a [distrustful]{distrustful} [person]{person} [does]{does} not [trust_1]{trust} a [particular_1]{particular} [person]{person} or thing or [people_1]{people} in [general_1]{general}",
+      "entry": "distrustful",
+      "id": "distrustful#distrustful__1"
+    },
+    {
+      "comment": "[believe]{believed} to be [possibly]{possibly} [guilty]{guilty} of [doing]{doing} something [wrong_1]{wrong}",
+      "entry": "under suspicion",
+      "id": "under-suspicion#under-suspicion__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} that someone or something cannot be [trust_2]{trusted}",
+      "entry": "suspicious",
+      "id": "suspicious#suspicious__3"
+    },
+    {
+      "comment": "to [doubt_1]{doubt} the [truth]{truth} or [value_1]{value} of something",
+      "entry": "take something with a grain/pinch of salt",
+      "id": "take-something-with-a-grain-pinch-of-salt#take-something-with-a-grain-pinch-of-salt__1"
+    }
+  ],
+  "thesaurus": "To not trust or believe someone or something",
+  "type": "Synonyms"
+}

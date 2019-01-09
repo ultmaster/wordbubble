@@ -1,0 +1,21 @@
+{
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "by [chance_1]{chance}, as the [result_1]{result} of an [accident]{accident}",
+      "examples": [
+        "[police_1]{Police} [believe]{believe} the fire was [start_1]{started} accidentally.",
+        "A [woman]{woman} was accidentally [kill_1]{killed} during the [shoot-out]{shootout}."
+      ],
+      "id": "accidentally__1"
+    },
+    {
+      "def": "by [mistake_1]{mistake} [instead]{instead} of [deliberate_1]{deliberate} [intention]{intention}",
+      "examples": [
+        "The [program_1]{program} [prevent]{prevents} [file_1]{files} from being accidentally [erase]{erased}."
+      ],
+      "id": "accidentally__4"
+    }
+  ],
+  "word": "accidentally"
+}

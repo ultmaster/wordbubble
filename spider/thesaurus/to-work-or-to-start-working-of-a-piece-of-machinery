@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if [equipment]{equipment} [operate]{operates}, it [work_1]{works} and [does]{does} what it is [intended_1]{intended} to do",
+      "entry": "operate",
+      "id": "operate#operate__1"
+    },
+    {
+      "comment": "to [start_1]{start} [working]{working} by being [switch_1]{switched} on",
+      "entry": "come on",
+      "id": "come-on_1#come-on_1__1"
+    },
+    {
+      "comment": "to [work_1]{work} or [operate]{operate} in a [particular_1]{particular} way",
+      "entry": "function",
+      "id": "function_2#function_2__4"
+    },
+    {
+      "comment": "to [operate]{operate} in a [satisfactory]{satisfactory} way",
+      "entry": "work",
+      "id": "work_1#work_1__17"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or [engine]{engine} [run_1]{runs}, or if you [run_1]{run} it, it is [working]{working}",
+      "entry": "run",
+      "id": "run_1#run_1__19"
+    },
+    {
+      "comment": "if something such as a [light_1]{light} or an [electricity]{electricity} [supply_1]{supply} [go_1]{goes} on, it [start_1]{starts} [working]{working} or becomes [available]{available}",
+      "entry": "go on",
+      "id": "go-on#go-on__15"
+    },
+    {
+      "comment": "to [make_1]{make} something such as a [radio_1]{radio}, CD, etc. [start_1]{start} to [produce_1]{produce} [sound_1]{sounds}, or to be made to do this",
+      "entry": "play",
+      "id": "play_1#play_1__20"
+    },
+    {
+      "comment": "[used]{used} about [system]{systems} and [machine_1]{machines}",
+      "entry": "cope",
+      "id": "cope#cope__5"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [equipment]{equipment} [cut_1]{cuts} in, it [start_1]{starts} [operate]{operating} [automatically]{automatically} when it is [need_1]{needed}",
+      "entry": "cut in",
+      "id": "cut-in#cut-in__2"
+    },
+    {
+      "comment": "if something comes or [go_1]{goes} into [operation]{operation}, it [start_1]{starts} to [work_1]{work} or become [effective]{effective}",
+      "entry": "into operation",
+      "id": "into-operation#into-operation__1"
+    }
+  ],
+  "thesaurus": "To work, or to start working (of a piece of machinery)",
+  "type": "Synonyms"
+}

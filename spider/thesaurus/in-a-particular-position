@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "with the side [facing]{facing} toward something",
+      "entry": "broadside",
+      "id": "broadside_2#broadside_2__1"
+    },
+    {
+      "comment": "[sideways]{sideways}",
+      "entry": "crabwise",
+      "id": "crabwise#crabwise__1"
+    },
+    {
+      "comment": "across, at an [angle_1]{angle}, or from one [corner_1]{corner} of something to the other",
+      "entry": "crosswise",
+      "id": "crosswise#crosswise__1"
+    },
+    {
+      "comment": "[sideways]{sideways}",
+      "entry": "edgeways",
+      "id": "edgeways#edgeways__1"
+    },
+    {
+      "comment": "with one [end_1]{end} [going_1]{going} first",
+      "entry": "endwise",
+      "id": "endwise#endwise__1"
+    },
+    {
+      "comment": "in or into the [correct_1]{correct} [place_1]{place}",
+      "entry": "in/into position",
+      "id": "in-into-position#in-into-position__1"
+    },
+    {
+      "comment": "on the side of something, or [moving]{moving} [sideways]{sideways}",
+      "entry": "lateral",
+      "id": "lateral#lateral__1"
+    },
+    {
+      "comment": "in the [direction]{direction} of the [long_1]{longest} side of something",
+      "entry": "lengthways",
+      "id": "lengthways#lengthways__1"
+    },
+    {
+      "comment": "in the [wrong_1]{wrong} [position_1]{position}",
+      "entry": "out of place",
+      "id": "out-of-place#out-of-place__5"
+    },
+    {
+      "comment": "[located]{located} [close_2]{closer} to the [center_1]{center} of the body or to where a part is [attached]{attached} to the body",
+      "entry": "proximal",
+      "id": "proximal#proximal__1"
+    },
+    {
+      "comment": "[close_1]{close} to something",
+      "entry": "proximal",
+      "id": "proximal#proximal__4"
+    },
+    {
+      "comment": "with the side [facing]{facing} you",
+      "entry": "side-on",
+      "id": "side-on_1#side-on_1__1"
+    },
+    {
+      "comment": "to, toward, or from one side",
+      "entry": "sideways",
+      "id": "sideways#sideways__1"
+    },
+    {
+      "comment": "with one side [facing]{facing} [forward_1]{forward}",
+      "entry": "sideways",
+      "id": "sideways#sideways__4"
+    },
+    {
+      "comment": "[widthwise]{widthwise}",
+      "entry": "widthways",
+      "id": "widthways#widthways__1"
+    },
+    {
+      "comment": "across the [width]{width} of something, rather than the [length]{length}",
+      "entry": "widthwise",
+      "id": "widthwise#widthwise__1"
+    }
+  ],
+  "thesaurus": "In a particular position",
+  "type": "Related words"
+}

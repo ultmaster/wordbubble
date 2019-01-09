@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that you [remember]{remember}",
+      "entry": "memory",
+      "id": "memory#memory__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [remember]{remember} something",
+      "entry": "recall",
+      "id": "recall_2#recall_2__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [remember]{remember} something that has [happen]{happened}",
+      "entry": "recollection",
+      "id": "recollection#recollection__1"
+    },
+    {
+      "comment": "the part of your [memory]{memory} that [remember]{remembers} [recent]{recent} [event]{events} or [thing]{things} that you only [need_1]{need} to [know_1]{know} for a [short_1]{short} [period_1]{period} of time",
+      "entry": "short-term memory",
+      "id": "short-term-memory#short-term-memory__1"
+    },
+    {
+      "comment": "the part of your [memory]{memory} that [remember]{remembers} [thing]{things} that [happen]{happened} a long time [ago]{ago}",
+      "entry": "long-term memory",
+      "id": "long-term-memory#long-term-memory__1"
+    },
+    {
+      "comment": "[thought_1]{thoughts} about [happy_1]{happy} times in your [past_1]{past}, often [mixed]{mixed} with the [wish_1]{wish} to be back in the [past_1]{past}",
+      "entry": "nostalgia",
+      "id": "nostalgia#nostalgia__1"
+    },
+    {
+      "comment": "a [flood_1]{flood} of [memory]{memories} or [feeling_1]{feelings} is a [lot_1]{lot} of [strong]{strong} [memory]{memories} or [feeling_1]{feelings} that [suddenly]{suddenly} [affect_1]{affect} you",
+      "entry": "flood",
+      "id": "flood_2#flood_2__12"
+    },
+    {
+      "comment": "a very [clear_1]{clear} [memory]{memory} of something [unpleasant]{unpleasant} or [painful]{painful} that [happen]{happened} in the [past_1]{past}",
+      "entry": "flashback",
+      "id": "flashback#flashback__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [remember]{remember} all the [detail_1]{details} you see",
+      "entry": "photographic memory",
+      "id": "photographic-memory#photographic-memory__1"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} that you are [have]{having} [exactly]{exactly} the same [experience_1]{experience} as one you have had before",
+      "entry": "d\u00e9j\u00e0 vu",
+      "id": "deja-vu#deja-vu__1"
+    }
+  ],
+  "thesaurus": "Memory and memories",
+  "type": "Synonyms"
+}

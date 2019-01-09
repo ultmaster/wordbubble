@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "turn/set/put the clock back",
+  "senses": [
+    {
+      "def": "to [change_1]{change} the time on a [clock_1]{clock} to an [earlier_1]{earlier} time",
+      "examples": [],
+      "id": "turn-set-put-the-clock-back__1"
+    },
+    {
+      "def": "to [return_1]{return} to a time in the [past_1]{past}",
+      "examples": [
+        "If we could [turn_1]{turn} the [clock_1]{clock} back, would you [actually]{actually} [change_1]{change} anything?"
+      ],
+      "id": "turn-set-put-the-clock-back__2"
+    }
+  ]
+}

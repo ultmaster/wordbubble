@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "someone who is inert [does]{does} nothing when they should be [take_1]{taking} [action_1]{action}",
+      "examples": [],
+      "id": "inert__1"
+    },
+    {
+      "def": "an inert [substance]{substance} [does]{does} not [produce_1]{produce} a [chemical_1]{chemical} [reaction]{reaction} when it is [mixed]{mixed} with other [substance]{substances}",
+      "examples": [
+        "an inert [gas_1]{gas}"
+      ],
+      "id": "inert__2"
+    },
+    {
+      "def": "not [moving]{moving}",
+      "examples": [],
+      "id": "inert__4"
+    },
+    {
+      "def": "not [exciting]{exciting} or [interesting]{interesting}",
+      "examples": [],
+      "id": "inert__5"
+    }
+  ],
+  "word": "inert"
+}

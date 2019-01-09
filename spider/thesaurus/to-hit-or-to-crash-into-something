@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to move [quickly]{quickly} onto an [object_1]{object} or [surface_1]{surface}, [touching_1]{touching} it with [force_1]{force}",
+      "entry": "hit",
+      "id": "hit_1#hit_1__10"
+    },
+    {
+      "comment": "to hit something [hard_1]{hard}, [making]{making} a [loud_1]{loud} [noise]{noise} and often [cause_2]{causing} [damage_1]{damage}",
+      "entry": "crash",
+      "id": "crash_1#crash_1__10"
+    },
+    {
+      "comment": "if [people_1]{people} or [thing]{things} [collide]{collide}, they [crash_1]{crash} into each other",
+      "entry": "collide",
+      "id": "collide#collide__1"
+    },
+    {
+      "comment": "to hit someone or something with a [vehicle]{vehicle} and [drive_1]{drive} over them",
+      "entry": "run over",
+      "id": "run-over#run-over__1"
+    },
+    {
+      "comment": "to hit something very [hard_1]{hard} while [moving]{moving} [fast_1]{fast}, [cause_2]{causing} [injury]{injury} or [damage_1]{damage}",
+      "entry": "smash into",
+      "id": "smash-into#smash-into__1"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} or [boat]{boat} [ram_1]{rams} something, it [hit_1]{hits} it very [hard_1]{hard}, [usually]{usually} when it is [moving]{moving} [fast_1]{fast}",
+      "entry": "ram",
+      "id": "ram_1#ram_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} something such as a [vehicle]{vehicle} hit an [object_1]{object} or [surface_1]{surface} very [hard_1]{hard} while [moving]{moving} very [fast_1]{fast}, [cause_2]{causing} [injury]{injury} or [damage_1]{damage}",
+      "entry": "smash into",
+      "id": "smash-into#smash-into__3"
+    },
+    {
+      "comment": "to hit against something [solid_1]{solid} once or many times",
+      "entry": "bump",
+      "id": "bump_1#bump_1__3"
+    },
+    {
+      "comment": "to move against something with [great_1]{great} [force_1]{force}",
+      "entry": "slam",
+      "id": "slam_1#slam_1__9"
+    },
+    {
+      "comment": "to hit against, or to [crash_1]{crash} into, someone or something",
+      "entry": "strike",
+      "id": "strike_1#strike_1__1"
+    }
+  ],
+  "thesaurus": "To hit, or to crash into something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,34 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something empty by [take_1]{taking} everything out of it",
+      "examples": [
+        "He [ordered]{ordered} her to empty her [pocket_1]{pockets}.",
+        "When was the last time those [ashtray]{ashtrays} were [empty_2]{emptied}?",
+        "Empty the [box_1]{box} of its [content_2]{contents}."
+      ],
+      "id": "empty_2__1"
+    },
+    {
+      "def": "to take everything out of a [container]{container} and put it somewhere else",
+      "examples": [
+        "David [open_2]{opened} the [jar_1]{jar} and [empty_2]{emptied} the [sauce]{sauce} into a [bowl_1]{bowl}."
+      ],
+      "id": "empty_2__5"
+    },
+    {
+      "def": "if a [place_1]{place} [empties]{empties}, all the [people_1]{people} in it [leave_1]{leave}",
+      "examples": [
+        "The [stadium]{stadium} [quickly]{quickly} [began]{began} to empty."
+      ],
+      "id": "empty_2__7"
+    },
+    {
+      "def": "if a [river]{river} [empties]{empties} into a [lake]{lake} or into the [ocean]{ocean}, it [flow_1]{flows} into it",
+      "examples": [],
+      "id": "empty_2__9"
+    }
+  ],
+  "word": "empty"
+}

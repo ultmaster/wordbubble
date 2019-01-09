@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [particular_1]{particular} [point_1]{point} in time when something [happen]{happens}",
+      "entry": "moment",
+      "id": "moment#moment__9"
+    },
+    {
+      "comment": "an [extremely]{extremely} [short_1]{short} [period_1]{period} of time",
+      "entry": "second",
+      "id": "second_2#second_2__4"
+    },
+    {
+      "comment": "a very [short_1]{short} [period_1]{period} of time",
+      "entry": "moment",
+      "id": "moment#moment__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [short_1]{short} [period_1]{period} of time, that [end_1]{ends} almost [immediately]{immediately}",
+      "entry": "instant",
+      "id": "instant_2#instant_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [short_1]{short} [period_1]{period} of time",
+      "entry": "short-term",
+      "id": "short-term#short-term__5"
+    },
+    {
+      "comment": "an [extremely]{extremely} [small_1]{small} amount of time",
+      "entry": "split second",
+      "id": "split-second#split-second__1"
+    },
+    {
+      "comment": "a [short_1]{short} time",
+      "entry": "a bit",
+      "id": "bit_2#bit_2__6"
+    },
+    {
+      "comment": "a [short_1]{short} [period_1]{period} of time",
+      "entry": "minute",
+      "id": "minute_1#minute_1__5"
+    },
+    {
+      "comment": "a [short_1]{short} [period_1]{period} when you do something a [lot_1]{lot} or something [happen]{happens} a [lot_1]{lot}",
+      "entry": "bout",
+      "id": "bout#bout__4"
+    },
+    {
+      "comment": "a very [short_1]{short} time",
+      "entry": "sec",
+      "id": "sec_1#sec_1__1"
+    }
+  ],
+  "thesaurus": "Moments and short periods of time",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the skill or job of using a typewriter or computer keyboard to produce documents",
+      "entry": "typing",
+      "id": "typing#typing__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [saying]{saying} something that someone else then [write]{writes} or [type_1]{types} for you, for [example]{example} a [letter_1]{letter}",
+      "entry": "dictation",
+      "id": "dictation#dictation__1"
+    },
+    {
+      "comment": "to [write]{write} something [use_1]{using} a [keyboard_1]{keyboard}",
+      "entry": "type",
+      "id": "type_2#type_2__1"
+    },
+    {
+      "comment": "to [say_1]{say} the [word_1]{words} of a [document_1]{document} that someone else will [write]{write} or [type_1]{type} for you",
+      "entry": "dictate",
+      "id": "dictate_1#dictate_1__8"
+    },
+    {
+      "comment": "to [type_1]{type} without [look_1]{looking} at the [keyboard_1]{keyboard}",
+      "entry": "touch-type",
+      "id": "touch-type#touch-type__1"
+    },
+    {
+      "comment": "to [write]{write} all of something [use_1]{using} a [keyboard_1]{keyboard}",
+      "entry": "type out",
+      "id": "type-out#type-out__1"
+    },
+    {
+      "comment": "to [type_1]{type} something that someone has [written_1]{written} with a [pen_1]{pen} or [pencil_1]{pencil}",
+      "entry": "type up",
+      "id": "type-up#type-up__1"
+    },
+    {
+      "comment": "someone who types using a typewriter or a computer keyboard to produce documents, especially as their job",
+      "entry": "typist",
+      "id": "typist#typist__1"
+    },
+    {
+      "comment": "[produce_1]{produced} [use_1]{using} a [typewriter]{typewriter} or computer, not [written_1]{written} by hand",
+      "entry": "typewritten",
+      "id": "typewritten#typewritten__1"
+    },
+    {
+      "comment": "the [people_1]{people} who [work_1]{worked} in a [typing]{typing} [pool_1]{pool}",
+      "entry": "typing pool",
+      "id": "typing-pool#typing-pool__2"
+    }
+  ],
+  "thesaurus": "Typing",
+  "type": "Synonyms"
+}

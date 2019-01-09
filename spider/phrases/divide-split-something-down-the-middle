@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "divide/split something down the middle",
+  "senses": [
+    {
+      "def": "to [make_1]{make} a [group_1]{group} of [people_1]{people} [divide_1]{divide} into two [opposing]{opposing} [group_1]{groups}",
+      "examples": [
+        "This [issue_1]{issue} has [divided]{divided} the [democratic]{Democratic} [party_1]{Party} down the [middle_1]{middle}."
+      ],
+      "id": "divide-split-something-down-the-middle__1"
+    },
+    {
+      "def": "to [share_1]{share} something [equally]{equally} between two [people_1]{people} or [group_1]{groups}",
+      "examples": [
+        "[let_1]{Let}\u2019s [split_1]{split} the [work_1]{work} down the [middle_1]{middle}."
+      ],
+      "id": "divide-split-something-down-the-middle__3"
+    }
+  ]
+}

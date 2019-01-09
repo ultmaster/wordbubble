@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[join_1]{joined} to each other or to something else",
+      "examples": [
+        "connected [underground_1]{underground} [tunnel_1]{tunnels}",
+        "The [dishwasher]{dishwasher} isn\u2019t connected yet."
+      ],
+      "id": "connected__1"
+    },
+    {
+      "def": "[thing]{things} such as [idea]{ideas}, [event]{events}, or [fact]{facts} that are connected are [related_1]{related} to each other",
+      "examples": [
+        "Were the two [death]{deaths} connected?",
+        "a [meeting]{meeting} to [discuss]{discuss} [issue_1]{issues} connected with [genetic]{genetic} [engineering]{engineering}",
+        "These three [part_1]{parts} of the [brain_1]{brain} are [closely]{closely} connected.",
+        "How are you connected with the [business]{business}?",
+        "The [ruling_1]{ruling} [family_1]{families} are connected by [marriage]{marriage}."
+      ],
+      "id": "connected__4"
+    },
+    {
+      "def": "[able_1]{able} to [communicate]{communicate} [use_1]{using} a [telephone_1]{telephone} or computer [network_1]{network}",
+      "examples": [
+        "The [computer]{computers} are connected [remotely]{remotely} by [telephone_1]{telephone} [line_1]{line}."
+      ],
+      "id": "connected__11"
+    }
+  ],
+  "word": "connected"
+}

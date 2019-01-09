@@ -1,0 +1,231 @@
+{
+  "entries": [
+    {
+      "comment": "a company that tells you whether a digital signature is a real or honest one",
+      "entry": "authenticator",
+      "id": "authenticator#authenticator__1"
+    },
+    {
+      "comment": "a [company]{company} that [produce_1]{produces} [car]{cars}",
+      "entry": "automaker",
+      "id": "automaker#automaker__1"
+    },
+    {
+      "comment": "a [person]{person} or [business]{business} that [sell_1]{sells} [book_1]{books}",
+      "entry": "bookseller",
+      "id": "bookseller#bookseller__1"
+    },
+    {
+      "comment": "a [company]{company} that [organize]{organizes} [business]{business} [deal_1]{deals} for other [people_1]{people}",
+      "entry": "brokerage",
+      "id": "brokerage#brokerage__2"
+    },
+    {
+      "comment": "a [person]{person} or [business]{business} that [organize]{organizes} the [food]{food} and [drink_1]{drinks} for an [event]{event} such as a [party_1]{party} or [meeting]{meeting}",
+      "entry": "caterer",
+      "id": "caterer#caterer__1"
+    },
+    {
+      "comment": "an [organization]{organization} that [collect_1]{collects} and [provide]{provides} [information]{information} on a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "clearinghouse",
+      "id": "clearinghouse#clearinghouse__1"
+    },
+    {
+      "comment": "a [company]{company} that [make_1]{makes} [people_1]{people} [pay_1]{pay} what they owe others",
+      "entry": "collection agency",
+      "id": "collection-agency#collection-agency__1"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that has the [legal]{legal} [right_1]{right} to [sell_1]{sell} [thing]{things} at a [place_1]{place} [own_2]{owned} by someone else",
+      "entry": "concessionaire",
+      "id": "concessionaire#concessionaire__1"
+    },
+    {
+      "comment": "a company or person that builds things, especially racing cars",
+      "entry": "constructor",
+      "id": "constructor#constructor__1"
+    },
+    {
+      "comment": "a [company]{company} with [expert_1]{expert} [knowledge]{knowledge} about a [particular_1]{particular} [subject_1]{subject} that [provide]{provides} [professional_1]{professional} [help_1]{help} and [advice]{advice} to other [company]{companies}",
+      "entry": "consultancy",
+      "id": "consultancy#consultancy__1"
+    },
+    {
+      "comment": "the [business]{business} of [providing]{providing} [professional_1]{professional} [help_1]{help} and [advice]{advice} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "consulting",
+      "id": "consulting_2#consulting_2__1"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} whose [job_1]{job} is to [provide]{provide} [goods]{goods} or to do [work_1]{work} for another [person]{person}, [organization]{organization}, [company]{company}, etc. at a [particular_1]{particular} [price_1]{price}",
+      "entry": "contractor",
+      "id": "contractor#contractor__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [butter_1]{butter} and [cheese]{cheese} are made",
+      "entry": "creamery",
+      "id": "creamery#creamery__1"
+    },
+    {
+      "comment": "a [company]{company} that [sell_1]{sells} [milk_1]{milk} and [make_1]{makes} and [sell_1]{sells} [food]{foods} that are made from [milk_1]{milk}, for [example]{example} [butter_1]{butter} and [cheese]{cheese}",
+      "entry": "dairy",
+      "id": "dairy_1#dairy_1__1"
+    },
+    {
+      "comment": "a [company]{company} or [person]{person} that [supply_1]{supplies} [goods]{goods} to [store_1]{stores}",
+      "entry": "distributor",
+      "id": "distributor#distributor__2"
+    },
+    {
+      "comment": "a [company]{company} that [use_1]{uses} the [internet]{Internet} to [sell_1]{sell} its [product]{products} and [service_1]{services}",
+      "entry": "dotcom",
+      "id": "dotcom#dotcom__1"
+    },
+    {
+      "comment": "a [company]{company} that [use_1]{uses} the [internet]{Internet} to [sell_1]{sell} its [product]{products} and [service_1]{services}",
+      "entry": "dot-com",
+      "id": "dot-com#dot-com__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant}, [bank_1]{bank}, etc. that [serve_1]{serves} you through a [special_1]{special} [window]{window} so you do not have to [leave_1]{leave} your [car]{car}",
+      "entry": "drive-through",
+      "id": "drive-through_2#drive-through_2__1"
+    },
+    {
+      "comment": "a [company]{company} that [operate]{operates} on the [internet]{Internet}",
+      "entry": "e-business",
+      "id": "e-business#e-business__2"
+    },
+    {
+      "comment": "a [company]{company} that [sell_1]{sells} [thing]{things} on the [internet]{Internet}",
+      "entry": "e-tailer",
+      "id": "e-tailer#e-tailer__1"
+    },
+    {
+      "comment": "a [person]{person}, [company]{company}, or [organization]{organization} that [show_1]{shows} their [work_1]{work} or [product]{products} in a [public_1]{public} [place_1]{place}",
+      "entry": "exhibitor",
+      "id": "exhibitor#exhibitor__1"
+    },
+    {
+      "comment": "a [person]{person}, [business]{business}, or [country]{country} that [sell_1]{sells} [goods]{goods} to another [country]{country}",
+      "entry": "exporter",
+      "id": "exporter#exporter__1"
+    },
+    {
+      "comment": "a [business]{business} that [lend_1]{lends} [money]{money} to [company]{companies}",
+      "entry": "finance company",
+      "id": "finance-company#finance-company__1"
+    },
+    {
+      "comment": "a [business]{business} that [consist]{consists} of [computer]{computers} and [internet]{Internet} [service_1]{services} for other [business]{businesses} to use",
+      "entry": "Internet hotel",
+      "id": "internet-hotel#internet-hotel__1"
+    },
+    {
+      "comment": "a [company]{company} that [produce_1]{produces} [record_1]{records}",
+      "entry": "label",
+      "id": "label_1#label_1__10"
+    },
+    {
+      "comment": "a business that washes and irons clothes",
+      "entry": "laundry",
+      "id": "laundry#laundry__3"
+    },
+    {
+      "comment": "a [company]{company} that [provide]{provides} a [transportation]{transportation} [service_1]{service}",
+      "entry": "line",
+      "id": "line_1#line_1__37"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} whose [job_1]{job} is to move [people_1]{people}\u2019s [furniture]{furniture} and [possession]{possessions} from one [house_1]{house} or [apartment]{apartment} to another",
+      "entry": "mover",
+      "id": "mover#mover__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [plant_1]{plants} and [young_1]{young} [tree]{trees} are [grown_1]{grown} either for [sale]{sale} or for [scientific]{scientific} [purpose]{purposes}",
+      "entry": "nursery",
+      "id": "nursery#nursery__1"
+    },
+    {
+      "comment": "[original_1]{original} [equipment]{equipment} [manufacturer]{manufacturer}: a [company]{company} that [put]{puts} together computer [system]{systems} [use_1]{using} [piece_1]{pieces} of [equipment]{equipment} [bought]{bought} from other [company]{companies}, and [sell_1]{sells} them under its own name",
+      "entry": "OEM",
+      "id": "oem#oem__1"
+    },
+    {
+      "comment": "the [business]{business} of a [doctor_1]{doctor}, [lawyer]{lawyer}, or other [professional_1]{professional} [person]{person}",
+      "entry": "practice",
+      "id": "practice_1#practice_1__14"
+    },
+    {
+      "comment": "a [company]{company} that [treat_1]{treats} a [food]{food} or another [substance]{substance} to [make_1]{make} it ready for use",
+      "entry": "processor",
+      "id": "processor#processor__4"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [grow]{grows} [food]{food} or [make_1]{makes} [goods]{goods} to be [sold]{sold}",
+      "entry": "producer",
+      "id": "producer#producer__2"
+    },
+    {
+      "comment": "an [organization]{organization} or [company]{company} that [make_1]{makes} a [service_1]{service} [available]{available} to the [public_1]{public}",
+      "entry": "provider",
+      "id": "provider#provider__1"
+    },
+    {
+      "comment": "a [company]{company} that [provide]{provides} [gas_1]{gas}, [electricity]{electricity}, or [water_1]{water} for [people_1]{people} to use, and is [subject_1]{subject} to [government]{government} [control_1]{controls}",
+      "entry": "public utility",
+      "id": "public-utility#public-utility__1"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [move_1]{moves} your [furniture]{furniture} and other [thing]{things} when you move [house_1]{house}",
+      "entry": "removalist",
+      "id": "removalist#removalist__1"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [sell_1]{sells} [goods]{goods} [directly_1]{directly} to the [public_1]{public} for their own use",
+      "entry": "retailer",
+      "id": "retailer#retailer__1"
+    },
+    {
+      "comment": "a [business]{business} or [organization]{organization} that [earn]{earns} [money]{money} by [providing]{providing} [help_1]{help}, [information]{information}, or [advice]{advice} for the [public_1]{public}",
+      "entry": "service",
+      "id": "service_1#service_1__17"
+    },
+    {
+      "comment": "an [industry]{industry} that [provide]{provides} [service_1]{services} [instead]{instead} of [produce_1]{producing} [goods]{goods}, for [example]{example} [bank_1]{banks}, [hospital]{hospitals}, and [hotel]{hotels}",
+      "entry": "service industry",
+      "id": "service-industry#service-industry__1"
+    },
+    {
+      "comment": "a [company]{company} that [provide]{provides} [customer]{customers} with a [connection]{connection} to the [internet]{Internet}",
+      "entry": "service provider",
+      "id": "service-provider#service-provider__1"
+    },
+    {
+      "comment": "a [company]{company} that [provide]{provides} a [service_1]{service}, for [example]{example} [insurance]{insurance} or [medical_1]{medical} [treatment]{treatment}",
+      "entry": "service provider",
+      "id": "service-provider#service-provider__2"
+    },
+    {
+      "comment": "a [company]{company} that [build_1]{builds} [ship_1]{ships}",
+      "entry": "shipbuilder",
+      "id": "shipbuilder#shipbuilder__1"
+    },
+    {
+      "comment": "an [industry]{industry} [involved]{involved} in [making]{making} [thing]{things} in [factory]{factories} [use_1]{using} [big_1]{big} [machine_1]{machines} and [process_1]{processes} that [produce_1]{produce} a [lot_1]{lot} of [pollution]{pollution}",
+      "entry": "smokestack industry",
+      "id": "smokestack-industry#smokestack-industry__1"
+    },
+    {
+      "comment": "a [web]{web} [server]{server} [farm_1]{farm}",
+      "entry": "web farm",
+      "id": "web-farm#web-farm__1"
+    },
+    {
+      "comment": "a [business]{business} that has a [group_1]{group} of [computer]{computers} [connected]{connected} to each other for [web]{web} [host_2]{hosting}",
+      "entry": "web server farm",
+      "id": "web-server-farm#web-server-farm__1"
+    }
+  ],
+  "thesaurus": "Specific types of business",
+  "type": "Related words"
+}

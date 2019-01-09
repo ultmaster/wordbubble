@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "at a very [simple]{simple} [stage_1]{stage} of [development]{development}, before [modern]{modern} [technology]{technology}",
+      "examples": [
+        "a primitive [society]{society}/[tribe]{tribe}",
+        "primitive man/[life]{life}",
+        "primitive [creature]{creatures} [like_1]{like} [jellyfish]{jellyfish} and [coral_1]{corals}"
+      ],
+      "id": "primitive_1__1"
+    },
+    {
+      "def": "very [simple]{simple} in [design_1]{design}",
+      "examples": [
+        "primitive [tool_1]{tools}",
+        "a primitive [camera]{camera}",
+        "The [condition_1]{conditions} in the [camp_1]{camp} were [fairly]{fairly} primitive.",
+        "a [remote_1]{remote} and primitive [cottage]{cottage} in the [mountain]{mountains}"
+      ],
+      "id": "primitive_1__6"
+    },
+    {
+      "def": "[natural_1]{natural} and done or [experienced]{experienced} without [thinking_1]{thinking}",
+      "examples": [
+        "a primitive [instinct]{instinct}"
+      ],
+      "id": "primitive_1__12"
+    }
+  ],
+  "word": "primitive"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "turn of phrase",
+  "senses": [
+    {
+      "def": "an [expression]{expression}",
+      "examples": [
+        "That\u2019s a rather [unfortunate_1]{unfortunate} [turn_1]{turn} of [phrase_1]{phrase}."
+      ],
+      "id": "turn-of-phrase__1"
+    },
+    {
+      "def": "a [particular_1]{particular} way of [express_1]{expressing} yourself",
+      "examples": [
+        "As a [letter_1]{letter} [writer]{writer} he had a [neat]{neat} [turn_1]{turn} of [phrase_1]{phrase}."
+      ],
+      "id": "turn-of-phrase__3"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [activity]{activity} of [collect_1]{collecting} a [crop_1]{crop}",
+      "examples": [
+        "the [corn]{corn}/[potato]{potato}/[grape]{grape} harvest",
+        "It was harvest time.",
+        "a [field_1]{field} that had been [plow_1]{plowed} up after the harvest",
+        "There will be a bumper  (=very large) harvest this year.",
+        "[poor_1]{Poor} [harvest_1]{harvests} [increased]{increased} [food]{food} [price_1]{prices}."
+      ],
+      "id": "harvest_1__1"
+    },
+    {
+      "def": "the [result_1]{result} of something that was done in the [past_1]{past}",
+      "examples": [
+        "The [grim]{grim} harvest of these [cut_1]{cuts} was an [increase_1]{increase} in [preventable]{preventable} [disease]{diseases}."
+      ],
+      "id": "harvest_1__9"
+    },
+    {
+      "def": "something that has been [collected]{collected}",
+      "examples": [
+        "a [rich_1]{rich} harvest of [knowledge]{knowledge}"
+      ],
+      "id": "harvest_1__11"
+    }
+  ],
+  "word": "harvest"
+}

@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "a [pain_1]{pain} or [pain_1]{pains} in your back",
+      "entry": "backache",
+      "id": "backache#backache__1"
+    },
+    {
+      "comment": "a [pain_1]{pain} in your [stomach_1]{stomach}",
+      "entry": "bellyache",
+      "id": "bellyache_1#bellyache_1__1"
+    },
+    {
+      "comment": "a [pain_1]{pain}, [especially]{especially} in your [leg_1]{leg} or [foot_1]{foot}, [cause_2]{caused} by a [muscle_1]{muscle} becoming [tight_1]{tight} or [stiff_1]{stiff}",
+      "entry": "charley horse",
+      "id": "charley-horse#charley-horse__1"
+    },
+    {
+      "comment": "[pain_1]{pain} that a [baby_1]{baby} has in its [stomach_1]{stomach}",
+      "entry": "colic",
+      "id": "colic#colic__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [severe]{severe} [pain_1]{pain} in a [tired]{tired} [muscle_1]{muscle} that becomes very [tight_1]{tight}",
+      "entry": "cramp",
+      "id": "cramp_1#cramp_1__1"
+    },
+    {
+      "comment": "pains that a woman sometimes gets during her period",
+      "entry": "cramps",
+      "id": "cramp_1#cramp_1__2"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [pain_1]{pain} in your [neck_1]{neck} or back [cause_2]{caused} when the [muscle_1]{muscles} become [stiff_1]{stiff}",
+      "entry": "crick",
+      "id": "crick_1#crick_1__1"
+    },
+    {
+      "comment": "[pain_1]{pain} in your [ear]{ear}, [usually]{usually} [cause_2]{caused} by an [infection]{infection}",
+      "entry": "earache",
+      "id": "earache#earache__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [flow_1]{flow} of [electricity]{electricity} [going_1]{going} through your body that [cause_1]{causes} [pain_1]{pain} and sometimes [death]{death}",
+      "entry": "electric shock",
+      "id": "electric-shock#electric-shock__1"
+    },
+    {
+      "comment": "a [condition_1]{condition} in which your [eye_1]{eyes} [hurt_1]{hurt}, for [example]{example} because you have been [reading]{reading} a [lot_1]{lot}",
+      "entry": "eyestrain",
+      "id": "eyestrain#eyestrain__1"
+    },
+    {
+      "comment": "[pain_1]{pains} that [children]{children} and [teenager]{teenagers} sometimes get in their [arms]{arms} and [legs]{legs} because they are [growing]{growing}",
+      "entry": "growing pains",
+      "id": "growing-pains#growing-pains__1"
+    },
+    {
+      "comment": "a [pain_1]{pain} in your [head_1]{head}",
+      "entry": "headache",
+      "id": "headache#headache__1"
+    },
+    {
+      "comment": "[continuous]{continuous} [pain_1]{pain} in your [lower_1]{lower} back",
+      "entry": "lumbago",
+      "id": "lumbago#lumbago__1"
+    },
+    {
+      "comment": "the [slightly]{slightly} [painful]{painful} [feeling_1]{feeling} that you get in a part of your body when you move it after it has been in an [uncomfortable]{uncomfortable} [position_1]{position} for a long time",
+      "entry": "pins and needles",
+      "id": "pins-and-needles#pins-and-needles__1"
+    },
+    {
+      "comment": "[severe]{severe} [pain_1]{pain} in your [lower_1]{lower} back, or the back of the top of your [legs]{legs}, [cause_2]{caused} by [pressure_1]{pressure} on a [nerve_1]{nerve}",
+      "entry": "sciatica",
+      "id": "sciatica#sciatica__1"
+    },
+    {
+      "comment": "a very [bad_1]{bad} [pain_1]{pain} in your [head_1]{head}",
+      "entry": "splitting headache",
+      "id": "splitting#splitting__2"
+    },
+    {
+      "comment": "a [sharp_1]{sharp} [pain_1]{pain} in the side of your body that you sometimes [feel_1]{feel} when you are [running_1]{running}",
+      "entry": "stitch",
+      "id": "stitch_1#stitch_1__10"
+    },
+    {
+      "comment": "[pain_1]{pain} in your [stomach_1]{stomach}",
+      "entry": "stomach ache",
+      "id": "stomach-ache#stomach-ache__1"
+    },
+    {
+      "comment": "a [pain_1]{pain} in one or more of your [teeth]{teeth}",
+      "entry": "toothache",
+      "id": "toothache#toothache__1"
+    },
+    {
+      "comment": "a [pain_1]{pain} in your hand or [arm_1]{arm} [cause_2]{caused} by [writing]{writing} for a long time",
+      "entry": "writer\u2019s cramp",
+      "id": "writer-s-cramp#writer-s-cramp__1"
+    }
+  ],
+  "thesaurus": "Specific types of pain",
+  "type": "Related words"
+}

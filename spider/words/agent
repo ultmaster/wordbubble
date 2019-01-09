@@ -1,0 +1,30 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [person]{person} or [company]{company} that [does]{does} [business]{business} for another [person]{person} or [company]{company}, for [example]{example} by [selling]{selling} their [product]{products} or by [dealing]{dealing} with their [customer]{customers}",
+      "examples": [
+        "a [shipping]{shipping} agent",
+        "a [literary]{literary} agent"
+      ],
+      "id": "agent__1"
+    },
+    {
+      "def": "someone who [work_1]{works} for a [country]{country}\u2019s intelligence agency and [collect_1]{collects} [secret_1]{secret} [information]{information} about [foreign]{foreign} [government]{governments}",
+      "examples": [
+        "a [secret_1]{secret}/[undercover]{undercover}/[intelligence]{intelligence}/CIA agent",
+        "[agent]{Agent} Lehman [spoke_1]{spoke} with the [police_1]{police} about the [case_1]{case}."
+      ],
+      "id": "agent__6"
+    },
+    {
+      "def": "a [chemical_1]{chemical} or other [substance]{substance} that has a [particular_1]{particular} [effect_1]{effect}",
+      "examples": [
+        "[oxidize]{oxidizing} [agent]{agents}",
+        "[soil_1]{Soil} [erosion]{erosion} is a [major_1]{major} agent of [environmental]{environmental} [change_1]{change}."
+      ],
+      "id": "agent__11"
+    }
+  ],
+  "word": "agent"
+}

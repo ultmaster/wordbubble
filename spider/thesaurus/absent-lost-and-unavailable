@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "not in the [place_1]{place} where you should be or are [expected]{expected} to be",
+      "entry": "absent",
+      "id": "absent_1#absent_1__1"
+    },
+    {
+      "comment": "if something [important]{important} or [useful]{useful} is [lacking]{lacking}, it [does]{does} not [exist]{exist} or is not [available]{available}",
+      "entry": "lacking",
+      "id": "lacking#lacking__1"
+    },
+    {
+      "comment": "if something is [missing]{missing}, it is not in its [usual]{usual} [place_1]{place} because it has been [removed]{removed}",
+      "entry": "missing",
+      "id": "missing#missing__9"
+    },
+    {
+      "comment": "not at [home_1]{home}, or not at the [place_1]{place} where you [work_1]{work} or [study_1]{study}",
+      "entry": "away",
+      "id": "away_1#away_1__10"
+    },
+    {
+      "comment": "if something is [lost_1]{lost}, you cannot find it",
+      "entry": "lost",
+      "id": "lost_1#lost_1__4"
+    },
+    {
+      "comment": "not [able_1]{able} to go somewhere, [meet_1]{meet} someone, or do something",
+      "entry": "unavailable",
+      "id": "unavailable#unavailable__1"
+    },
+    {
+      "comment": "[impossible]{impossible} to [achieve]{achieve} or [obtain]{obtain}",
+      "entry": "unattainable",
+      "id": "unattainable#unattainable__1"
+    },
+    {
+      "comment": "put in the [wrong_1]{wrong} [place_1]{place}",
+      "entry": "misplaced",
+      "id": "misplaced#misplaced__4"
+    },
+    {
+      "comment": "someone who is [gone_1]{gone} is no [long_1]{longer} [present_1]{present} in a [place_1]{place}",
+      "entry": "gone",
+      "id": "gone_1#gone_1__1"
+    },
+    {
+      "comment": "if something [happen]{happens} in [absentia]{absentia}, the [person]{person} [involved]{involved} is not [present_1]{present} when it [happen]{happens}",
+      "entry": "in absentia",
+      "id": "absentia#absentia__2"
+    },
+    {
+      "comment": "not [able_1]{able} to be found or [contact_2]{contacted}",
+      "entry": "MIA",
+      "id": "mia_1#mia_1__4"
+    }
+  ],
+  "thesaurus": "Absent, lost and unavailable",
+  "type": "Synonyms"
+}

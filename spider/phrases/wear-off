@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "wear off",
+  "senses": [
+    {
+      "def": "if something such as a [pain_1]{pain}, an [emotion]{emotion}, or a [feeling_1]{feeling} [wear_1]{wears} off, it [gradually]{gradually} [disappear]{disappears}",
+      "examples": [
+        "The [numb_1#numb_1__7]{numbness} in his [shoulder_1]{shoulder} was [start_1]{starting} to [wear_1]{wear} off.",
+        "I [got_1]{got} [bored]{bored} with the [job_1]{job} once the [novelty]{novelty} [wore]{wore} off."
+      ],
+      "id": "wear-off__1"
+    },
+    {
+      "def": "if a [feeling_1]{feeling} [wear_1]{wears} off, it [gradually]{gradually} [disappear]{disappears}",
+      "examples": [
+        "I [got_1]{got} [bored]{bored} with the [job_1]{job} once the [novelty]{novelty} [wore]{wore} off."
+      ],
+      "id": "wear-off__4"
+    }
+  ]
+}

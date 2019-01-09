@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if someone is [undecided]{undecided}, they have not yet made a [decision_1]{decision} about something",
+      "entry": "undecided",
+      "id": "undecided#undecided__1"
+    },
+    {
+      "comment": "[unable]{unable} to [make_1]{make} [decision_1]{decisions}",
+      "entry": "indecisive",
+      "id": "indecisive#indecisive__1"
+    },
+    {
+      "comment": "[unable]{unable} to [make_1]{make} [decision_1]{decisions}",
+      "entry": "irresolute",
+      "id": "irresolute#irresolute__1"
+    },
+    {
+      "comment": "an [agonizing]{agonizing} [choice_1]{choice} or [decision_1]{decision} [take_1]{takes} a long time because it is very [difficult]{difficult} to [make_1]{make}",
+      "entry": "agonizing",
+      "id": "agonizing#agonizing__3"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} that you are [unable]{unable} to [make_1]{make} a [decision_1]{decision}",
+      "entry": "indecision",
+      "id": "indecision#indecision__1"
+    },
+    {
+      "comment": "not to [make_1]{make} a [decision_1]{decision} or [judgment]{judgment} until you have more [information]{information}",
+      "entry": "reserve",
+      "id": "reserve_2#reserve_2__8"
+    },
+    {
+      "comment": "[express_1]{expressing} [worry_1]{worry} because you cannot [decide]{decide} what to do",
+      "entry": "agonized",
+      "id": "agonized#agonized__3"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you do not [know_1]{know} which of two [thing]{things} to [choose]{choose} or which of two [thing]{things} will [happen]{happen}",
+      "entry": "be a toss-up",
+      "id": "be-a-toss-up#be-a-toss-up__1"
+    },
+    {
+      "comment": "to have already [considered]{considered} something but not yet made a [decision_1]{decision} about it",
+      "entry": "be thinking of/about doing something",
+      "id": "be-thinking-of-about-doing-something#be-thinking-of-about-doing-something__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [upset_1]{upset} because you cannot [choose]{choose} between two [thing]{things}",
+      "entry": "torn",
+      "id": "torn_2#torn_2__1"
+    }
+  ],
+  "thesaurus": "Indecision and undecided",
+  "type": "Synonyms"
+}

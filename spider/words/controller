@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [manage]{manage} an [organization]{organization} or part of an [organization]{organization}",
+      "examples": [],
+      "id": "controller__1"
+    },
+    {
+      "def": "someone whose [job_1]{job} is to [manage]{manage} an [organization]{organization}\u2019s [money]{money}",
+      "examples": [],
+      "id": "controller__2"
+    },
+    {
+      "def": "a part of a [machine_1]{machine} that [control_1]{controls} a [particular_1]{particular} [process_1]{process}",
+      "examples": [
+        "a [graphics]{graphics} controller"
+      ],
+      "id": "controller__3"
+    }
+  ],
+  "word": "controller"
+}

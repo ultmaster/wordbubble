@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "a [period_1]{period} of 30 [minute_1]{minutes}",
+      "entry": "half-hour",
+      "id": "half-hour_2#half-hour_2__1"
+    },
+    {
+      "comment": "a period of time that consists of 60 minutes. 30 minutes is usually called half an hour, 15 minutes can be called a quarter of an hour, and 45 minutes can be called three-quarters of an hour",
+      "entry": "hour",
+      "id": "hour#hour__1"
+    },
+    {
+      "comment": "[hour]{hour}",
+      "entry": "hr.",
+      "id": "hr_3#hr_3__1"
+    },
+    {
+      "comment": "[minute_1]{minute}",
+      "entry": "m.",
+      "id": "m_3#m_3__3"
+    },
+    {
+      "comment": "a unit for measuring time. There are one million microseconds in a second.",
+      "entry": "microsecond",
+      "id": "microsecond#microsecond__1"
+    },
+    {
+      "comment": "a unit for measuring extremely short periods of time. There are 1000 milliseconds in a second.",
+      "entry": "millisecond",
+      "id": "millisecond#millisecond__1"
+    },
+    {
+      "comment": "[minute_1]{minute}",
+      "entry": "min.",
+      "id": "min#min__2"
+    },
+    {
+      "comment": "a period of 60 seconds. There are 60 minutes in one hour",
+      "entry": "minute",
+      "id": "minute_1#minute_1__1"
+    },
+    {
+      "comment": "a unit for measuring time. There are one billion  (=one thousand million) nanoseconds in a second.",
+      "entry": "nanosecond",
+      "id": "nanosecond#nanosecond__1"
+    },
+    {
+      "comment": "[second_1]{second}",
+      "entry": "s.",
+      "id": "s_2#s_2__1"
+    },
+    {
+      "comment": "[seconds]{seconds}",
+      "entry": "sec.",
+      "id": "sec_2#sec_2__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [short_1]{short} [period_1]{period} of time that is one of the 60 [part_1]{parts} in a [minute_1]{minute}",
+      "entry": "second",
+      "id": "second_2#second_2__1"
+    }
+  ],
+  "thesaurus": "Units for measuring time",
+  "type": "Related words"
+}

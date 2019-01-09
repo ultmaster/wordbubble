@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the most [holy]{holy} part of a [religious]{religious} [building]{building}",
+      "examples": [],
+      "id": "sanctuary__1"
+    },
+    {
+      "def": "[official_1]{official} [protection]{protection} [given_1]{given} to someone by a [place_1]{place} that is [safe_1]{safe} for them",
+      "examples": [
+        "[refugee]{Refugees} [sought]{sought} sanctuary in Thailand.",
+        "All she [wanted]{wanted} now was the sanctuary of her own [room_1]{room}."
+      ],
+      "id": "sanctuary__2"
+    },
+    {
+      "def": "a [special_1]{special} [area]{area} where [animal_1]{animals} [live_1]{live} in a [natural_1]{natural} [environment]{environment} [protected]{protected} from [people_1]{people}",
+      "examples": [
+        "a [wildlife]{wildlife} sanctuary"
+      ],
+      "id": "sanctuary__6"
+    }
+  ],
+  "word": "sanctuary"
+}

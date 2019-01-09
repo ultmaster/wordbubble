@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the way that [word_1]{words} are [used]{used} by [people_1]{people} when they [speak_1]{speak} and [write]{write} their [language]{language}",
+      "examples": [
+        "There are some [major_1]{major} [difference]{differences} between British and American usage.",
+        "[technical]{technical} [term_1]{terms} that are now in [common_1]{common} usage",
+        "This usage was first [record_2]{recorded} in the 19th [century]{century}."
+      ],
+      "id": "usage__1"
+    },
+    {
+      "def": "the [process_1]{process} of [use_1]{using} something",
+      "examples": [
+        "We [charge_1]{charge} a [monthly_1]{monthly} usage [fee]{fee} of \u00a36."
+      ],
+      "id": "usage__6"
+    }
+  ],
+  "word": "usage"
+}

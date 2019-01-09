@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "[dirt]{dirt} [contain]{containing} [earth]{earth} and [sand_1]{sand} [left_1]{left} by [river]{rivers} or [flood_1]{floods}",
+      "entry": "alluvium",
+      "id": "alluvium#alluvium__1"
+    },
+    {
+      "comment": "a type of heavy wet dirt that becomes hard when it is baked in a kiln  (=oven), used for making cups, plates, and other objects",
+      "entry": "clay",
+      "id": "clay#clay__1"
+    },
+    {
+      "comment": "a [lump_1]{lump} of [dirt]{dirt}",
+      "entry": "clod",
+      "id": "clod#clod__1"
+    },
+    {
+      "comment": "soil or mud  (=soil mixed with water)",
+      "entry": "dirt",
+      "id": "dirt#dirt__1"
+    },
+    {
+      "comment": "very [small_1]{small} [piece_1]{pieces} of [dry_1]{dry} [earth]{earth} or [sand_1]{sand} that are [like_1]{like} [powder_1]{powder}",
+      "entry": "dust",
+      "id": "dust_1#dust_1__3"
+    },
+    {
+      "comment": "the [substance]{substance} in which [plant_1]{plants} [grow]{grow} that [cover_1]{covers} most of the [land_1]{land}",
+      "entry": "earth",
+      "id": "earth#earth__8"
+    },
+    {
+      "comment": "very [small_1]{small} [piece_1]{pieces} of [stone_1]{stone} or [sand_1]{sand}",
+      "entry": "grit",
+      "id": "grit_1#grit_1__1"
+    },
+    {
+      "comment": "the [layer_1]{layer} of [soil_1]{soil} and [rock_1]{rock} that [form_1]{forms} the [earth]{Earth}\u2019s [surface_1]{surface}",
+      "entry": "ground",
+      "id": "ground_1#ground_1__5"
+    },
+    {
+      "comment": "the [soil_1]{soil} nearest the [earth]{Earth}\u2019s [surface_1]{surface} in which you can [grow]{grow} [plant_1]{plants}",
+      "entry": "ground",
+      "id": "ground_1#ground_1__7"
+    },
+    {
+      "comment": "a [type_1]{type} of [soil_1]{soil} that is [especially]{especially} [good_1]{good} for [plant_1]{plants} to [grow]{grow} in",
+      "entry": "loam",
+      "id": "loam#loam__1"
+    },
+    {
+      "comment": "very [soft]{soft} [wet_1]{wet} [earth]{earth}",
+      "entry": "mud",
+      "id": "mud#mud__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [soil_1]{soil} [consist]{consisting} of [decay_1]{decaying} [plant_1]{plants} that can also be [used]{used} as [fuel_1]{fuel}",
+      "entry": "peat",
+      "id": "peat#peat__1"
+    },
+    {
+      "comment": "[pot_2]{potting} [soil_1]{soil}",
+      "entry": "potting compost",
+      "id": "potting-compost#potting-compost__1"
+    },
+    {
+      "comment": "the [soil_1]{soil} that you use when you put a [plant_1]{plant} in a [container]{container}",
+      "entry": "potting soil",
+      "id": "potting-soil#potting-soil__1"
+    },
+    {
+      "comment": "[soft]{soft} [wet_1]{wet} [sand_1]{sand} that is [dangerous]{dangerous} to [walk_1]{walk} on because it [pull_1]{pulls} your body down into it",
+      "entry": "quicksand",
+      "id": "quicksand#quicksand__1"
+    },
+    {
+      "comment": "a [loose_1]{loose} [pale_1]{pale} [brown_1]{brown} [substance]{substance} that you find at a [beach_1]{beach} or in the [desert_1]{desert}, [form_2]{formed} from very [small_1]{small} [piece_1]{pieces} of [rock_1]{rock}",
+      "entry": "sand",
+      "id": "sand_1#sand_1__1"
+    },
+    {
+      "comment": "[sand_1]{sand}, [dirt]{dirt}, and very [small_1]{small} [rock_1]{rocks} that are [carry_1]{carried} from one [place_1]{place} to another by [moving]{moving} [water_1]{water}",
+      "entry": "silt",
+      "id": "silt_1#silt_1__1"
+    },
+    {
+      "comment": "thick soft mud",
+      "entry": "sludge",
+      "id": "sludge#sludge__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [earth]{earth} that has [grass]{grass} and [root_1]{roots} [growing]{growing} in it",
+      "entry": "sod",
+      "id": "sod#sod__1"
+    },
+    {
+      "comment": "the [substance]{substance} on the [surface_1]{surface} of the [earth]{Earth} in which [plant_1]{plants} [grow]{grow}",
+      "entry": "soil",
+      "id": "soil_1#soil_1__1"
+    },
+    {
+      "comment": "the [layer_1]{layer} of [soil_1]{soil} under the top [layer_1]{layer}",
+      "entry": "subsoil",
+      "id": "subsoil#subsoil__1"
+    },
+    {
+      "comment": "the [layer_1]{layer} of [soil_1]{soil} that is [near_1]{near} the [surface_1]{surface} of the [ground_1]{ground}",
+      "entry": "topsoil",
+      "id": "topsoil#topsoil__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [earth]{earth} with the [short_1]{short} [grass]{grass} that is [growing]{growing} on it",
+      "entry": "turf",
+      "id": "turf_1#turf_1__2"
+    },
+    {
+      "comment": "a small pile of soil on the ground, produced by a worm digging under the surface",
+      "entry": "wormcast",
+      "id": "wormcast#wormcast__1"
+    }
+  ],
+  "thesaurus": "Soil and earth",
+  "type": "Related words"
+}

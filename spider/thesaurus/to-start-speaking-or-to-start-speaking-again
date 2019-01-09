@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [start_1]{start} [speak_1]{speaking}",
+      "entry": "begin",
+      "id": "begin#begin__27"
+    },
+    {
+      "comment": "to [start_1]{start} [discuss]{discussing} a [subject_1]{subject}",
+      "entry": "bring up",
+      "id": "bring-up#bring-up__10"
+    },
+    {
+      "comment": "to [start_1]{start} [speak_1]{speaking} again after you have [stop_1]{stopped}",
+      "entry": "continue",
+      "id": "continue#continue__10"
+    },
+    {
+      "comment": "to [start_1]{start} [talk_1]{talking} again after a [pause_1]{pause} or [interruption]{interruption}",
+      "entry": "go on",
+      "id": "go-on#go-on__21"
+    },
+    {
+      "comment": "to [manage]{manage} to [say_1]{say} something",
+      "entry": "get out",
+      "id": "get-out_1#get-out_1__14"
+    },
+    {
+      "comment": "to [add_1]{add} a [remark_1]{remark}, [question_1]{question}, etc. in a [conversation]{conversation}",
+      "entry": "throw in",
+      "id": "throw-in_1#throw-in_1__3"
+    },
+    {
+      "comment": "to [say_1]{say} something more that is [related_1]{related} to what has been [said_1]{said} already",
+      "entry": "add",
+      "id": "add_1#add_1__11"
+    },
+    {
+      "comment": "to [begin]{begin} something such as a [discussion]{discussion} or [trial_1]{trial}",
+      "entry": "open",
+      "id": "open_2#open_2__38"
+    },
+    {
+      "comment": "to [talk_1]{talk} about something that you [refuse_1]{refused} to [talk_1]{talk} about before",
+      "entry": "break your silence",
+      "id": "break-your-silence#break-your-silence__1"
+    },
+    {
+      "comment": "to [start_1]{start} to be [able_1]{able} to [speak_1]{speak} again after being too [afraid]{afraid} or [embarrassed]{embarrassed}",
+      "entry": "find your tongue",
+      "id": "find-your-tongue#find-your-tongue__1"
+    }
+  ],
+  "thesaurus": "To start speaking, or to start speaking again",
+  "type": "Synonyms"
+}

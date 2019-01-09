@@ -1,0 +1,41 @@
+{
+  "part": "phrase",
+  "phrase": "up to something",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} the most that an amount can be, or what [level_1]{level} it can [reach_1]{reach}",
+      "examples": [
+        "Some [dinosaur]{dinosaurs} were up to twenty-seven [meter_1]{meters} long.",
+        "[children]{Children} are [forced]{forced} to [work_1]{work} up to 19 [hour]{hours} a [day]{day}, 7 [day]{days} a [week]{week} in the [factory]{factories}.",
+        "We can [guarantee_1]{guarantee} 90 [percent_1]{percent} of a [bank_1]{bank} [loan_1]{loan} up to $300,000."
+      ],
+      "id": "up-to-something__1"
+    },
+    {
+      "def": "[used]{used} for [state_2]{stating} a [particular_1]{particular} [standard_1]{standard} something can [reach_1]{reach}",
+      "examples": [
+        "[employee]{Employees} [face_1]{face} [dismissal]{dismissal} if they [fail_1]{fail} to [match_1]{match} up to the [standard_1]{standards} [set_1]{set} by the [company]{company}.",
+        "I\u2019m [afraid]{afraid} the [play_1]{play} wasn\u2019t up to our [expectation]{expectations}."
+      ],
+      "id": "up-to-something__5"
+    },
+    {
+      "def": "[doing]{doing} something [wrong_1]{wrong} or [secret_1]{secret}",
+      "examples": [
+        "When he\u2019s [quiet_1]{quiet} [like_1]{like} this, I [know_1]{know} he\u2019s up to something.",
+        "I [wonder_1]{wondered} what my [daughter_1]{daughter} was [really]{really} up to.",
+        "I don\u2019t [know_1]{know} what they\u2019re [doing]{doing} but I\u2019m [sure_1]{sure} they\u2019re up to no [good_1]{good}."
+      ],
+      "id": "up-to-something__8"
+    },
+    {
+      "def": "well enough, [strong]{strong} enough, or [good_1]{good} enough to do something",
+      "examples": [
+        "She\u2019s [supposed]{supposed} to [leave_1]{leave} the [hospital]{hospital} [tomorrow_1]{tomorrow}, but I don\u2019t [think_1]{think} she\u2019s up to it.",
+        "He\u2019s not [really]{really} up to the [job_1]{job}.",
+        "I don\u2019t [think_1]{think} I\u2019m up to [doing]{doing} a ten-mile [walk_1]{walk}."
+      ],
+      "id": "up-to-something__12"
+    }
+  ]
+}

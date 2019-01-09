@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if you are answerable to someone, you have to [explain]{explain} to them the [reason_1]{reasons} for your [action_1]{actions} or [mistake_1]{mistakes}",
+      "examples": [
+        "The [police_1]{police} [force_1]{force} here is answerable only to the [governor]{governor} of the [colony]{colony}."
+      ],
+      "id": "answerable__1"
+    },
+    {
+      "def": "if you are answerable for something, you are [considered]{considered} to be [responsible]{responsible} for it",
+      "examples": [
+        "[customer]{Customers} are answerable for any [damage_1]{damage} they cause."
+      ],
+      "id": "answerable__3"
+    }
+  ],
+  "word": "answerable"
+}

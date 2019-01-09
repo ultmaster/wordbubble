@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "lead up to",
+  "senses": [
+    {
+      "def": "if [event]{events}, [problem]{problems}, [action_1]{actions}, etc. [lead_1]{lead} up to an [important]{important} [event]{event}, they [happen]{happen} one after another in a way that [make_1]{makes} it [possible_1]{possible} for the [event]{event} to [happen]{happen}",
+      "examples": [
+        "The [negotiation]{negotiations} [leading]{leading} up to the [contract_1]{contract} were very [tough_1]{tough}."
+      ],
+      "id": "lead-up-to__1"
+    },
+    {
+      "def": "to [happen]{happen} or [exist]{exist} [immediately]{immediately} before something",
+      "examples": [
+        "In the [week]{weeks} [leading]{leading} up to [graduation]{graduation} I [did]{did} very [little_1]{little}."
+      ],
+      "id": "lead-up-to__3"
+    },
+    {
+      "def": "to [gradually]{gradually} [direct_1]{direct} a [conversation]{conversation} toward a [particular_1]{particular} [subject_1]{subject}, [especially]{especially} one that is [difficult]{difficult} or [embarrassing]{embarrassing}",
+      "examples": [
+        "I [knew]{knew} he was [leading]{leading} up to something, but I had no [idea]{idea} what."
+      ],
+      "id": "lead-up-to__5"
+    }
+  ]
+}

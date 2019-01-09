@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "if [wind_1]{wind} or [air_1]{air} [blow_1]{blows}, the [air_1]{air} [move_1]{moves}",
+      "entry": "blow",
+      "id": "blow_1#blow_1__1"
+    },
+    {
+      "comment": "if something [blow_1]{blows} or is [blown]{blown} somewhere, the [wind_1]{wind} [move_1]{moves} it there",
+      "entry": "blow",
+      "id": "blow_1#blow_1__4"
+    },
+    {
+      "comment": "if the [wind_1]{wind} or a [wave_1]{wave} [catch_1]{catches} something, it [get]{gets} behind or under it and [suddenly]{suddenly} [blow_1]{blows} or [push_1]{pushes} it [hard_1]{hard}",
+      "entry": "catch",
+      "id": "catch_1#catch_1__72"
+    },
+    {
+      "comment": "if the [wind_1]{wind} [drop_1]{drops}, it becomes less [strong]{strong}",
+      "entry": "drop",
+      "id": "drop_1#drop_1__30"
+    },
+    {
+      "comment": "if the [wind_1]{wind} [freshen]{freshens}, it becomes [cold_1]{colder} and [strong]{stronger}",
+      "entry": "freshen",
+      "id": "freshen#freshen__5"
+    },
+    {
+      "comment": "if the [wind_1]{wind} [get]{gets} up, it [start_1]{starts} [blow_1]{blowing} [strongly]{strongly}",
+      "entry": "get up",
+      "id": "get-up_1#get-up_1__8"
+    },
+    {
+      "comment": "if a [wind_1]{wind} [gust_1]{gusts}, it [blow_1]{blows} [strongly]{strongly} for [short_1]{short} [period_1]{periods} of time",
+      "entry": "gust",
+      "id": "gust_2#gust_2__1"
+    },
+    {
+      "comment": "if the [wind_1]{wind} [howl_1]{howls}, it [blow_1]{blows} with a long [loud_1]{loud} [sound_1]{sound}",
+      "entry": "howl",
+      "id": "howl_1#howl_1__5"
+    },
+    {
+      "comment": "if the [wind_1]{wind} or [rain_1]{rain} [lash_1]{lashes} something or [lash_1]{lashes} against something, it [blow_1]{blows} or [fall_1]{falls} against it with a very [strong]{strong} [force_1]{force}",
+      "entry": "lash",
+      "id": "lash_2#lash_2__3"
+    },
+    {
+      "comment": "if something such as the [wind_1]{wind} [pick_1]{picks} up, it becomes [strong]{stronger}",
+      "entry": "pick up speed",
+      "id": "pick-up#pick-up__38"
+    },
+    {
+      "comment": "if a [wind_1]{wind} [rise_1]{rises}, it [start_1]{starts} to become [strong]{stronger}",
+      "entry": "rise",
+      "id": "rise_1#rise_1__23"
+    },
+    {
+      "comment": "[used]{used} about the [wind_1]{wind}",
+      "entry": "ruffle",
+      "id": "ruffle_1#ruffle_1__7"
+    },
+    {
+      "comment": "if the [wind_1]{wind} [sigh_1]{sighs}, it [make_1]{makes} a long [soft]{soft} low [sound_1]{sound}",
+      "entry": "sigh",
+      "id": "sigh_1#sigh_1__7"
+    },
+    {
+      "comment": "if the wind soughs, it makes a soft noise like a sigh",
+      "entry": "sough",
+      "id": "sough#sough__1"
+    },
+    {
+      "comment": "if the [wind_1]{wind} or a [current_1]{current} [strengthen]{strengthens}, it becomes [fast_1]{faster} or more [powerful]{powerful}",
+      "entry": "strengthen",
+      "id": "strengthen#strengthen__21"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that the [wind_1]{wind} [start_1]{starts} [blow_1]{blowing} from a [different]{different} [direction]{direction}",
+      "entry": "veer",
+      "id": "veer#veer__4"
+    }
+  ],
+  "thesaurus": "What the wind can do",
+  "type": "Related words"
+}

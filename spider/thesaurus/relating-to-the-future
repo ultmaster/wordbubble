@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[expected]{expected} to [exist]{exist} or [happen]{happen} during the time [following_1]{following} the [present_1]{present} time",
+      "entry": "future",
+      "id": "future_2#future_2__1"
+    },
+    {
+      "comment": "the [possibility]{possibility} to [develop]{develop} or [achieve]{achieve} something in the [future_1]{future}",
+      "entry": "potential",
+      "id": "potential_2#potential_2__1"
+    },
+    {
+      "comment": "something that you [expect]{expect} or [know_1]{know} is [going_1]{going} to [happen]{happen} in the [future_1]{future}, or the [thought_1]{thought} of this",
+      "entry": "prospect",
+      "id": "prospect_1#prospect_1__6"
+    },
+    {
+      "comment": "[sign_1]{signs} that someone or something is [likely_1]{likely} to be [successful]{successful} in the [future_1]{future}",
+      "entry": "promise",
+      "id": "promise_2#promise_2__12"
+    },
+    {
+      "comment": "[dealing]{dealing} with [event]{events} in the [future_1]{future}",
+      "entry": "futuristic",
+      "id": "futuristic#futuristic__3"
+    },
+    {
+      "comment": "from the [present_1]{present} time [continuing]{continuing} [forward_1]{forward} in time",
+      "entry": "in (the) future",
+      "id": "in-the-future#in-the-future__1"
+    },
+    {
+      "comment": "what is [likely_1]{likely} to [happen]{happen} in the [future_1]{future}",
+      "entry": "what the future holds",
+      "id": "what-the-future-holds#what-the-future-holds__1"
+    },
+    {
+      "comment": "the [best_1]{best} or [worst_1]{worst} thing has not [happen]{happened} yet",
+      "entry": "the best/worst is yet to come",
+      "id": "the-best-worst-is-yet-to-come#the-best-worst-is-yet-to-come__1"
+    },
+    {
+      "comment": "[used]{used} when something [bad_1]{bad} has [happen]{happened} for [saying]{saying} that it is [possible_1]{possible} that the [future_1]{future} will be [better_1]{better}",
+      "entry": "tomorrow is another day",
+      "id": "tomorrow-is-another-day#tomorrow-is-another-day__1"
+    },
+    {
+      "comment": "[used]{used} for [talk_1]{talking} about the way that someone or something will be [remember]{remembered} or [considered]{considered} in the [future_1]{future}",
+      "entry": "history will show/record/judge etc.",
+      "id": "history-will-show-record-judge-etc#history-will-show-record-judge-etc__1"
+    }
+  ],
+  "thesaurus": "Relating to the future",
+  "type": "Synonyms"
+}

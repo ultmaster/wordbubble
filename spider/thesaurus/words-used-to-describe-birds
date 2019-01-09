@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [bird]{birds} and [animal_1]{animals} when there are more of them than [related_1]{related} [bird]{birds} and [animal_1]{animals}",
+      "entry": "common",
+      "id": "common_1#common_1__6"
+    },
+    {
+      "comment": "a [crested]{crested} [bird]{bird} has a [crest_1]{crest} of [feather_1]{feathers} on the top of its [head_1]{head}",
+      "entry": "crested",
+      "id": "crested#crested__1"
+    },
+    {
+      "comment": "with [feather_1]{feathers} that are [developed]{developed} enough to [fly_1]{fly}",
+      "entry": "fledged",
+      "id": "fledged#fledged__1"
+    },
+    {
+      "comment": "a [flightless]{flightless} [bird]{bird}, [insect]{insect}, etc. cannot [fly_1]{fly} even though it has [wing_1]{wings}",
+      "entry": "flightless",
+      "id": "flightless#flightless__1"
+    },
+    {
+      "comment": "a [full-fledged]{full-fledged} [bird]{bird} has [grown_1]{grown} all its [feather_1]{feathers} and is [able_1]{able} to [fly_1]{fly}",
+      "entry": "full-fledged",
+      "id": "full-fledged#full-fledged__5"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [bird]{birds} or [animal_1]{animals} that are [large_1]{larger} than [related_1]{related} [bird]{birds} or [animal_1]{animals}",
+      "entry": "great",
+      "id": "great_1#great_1__28"
+    },
+    {
+      "comment": "[gregarious]{gregarious} [animal_1]{animals} or [bird]{birds} [live_1]{live} in [group_1]{groups}",
+      "entry": "gregarious",
+      "id": "gregarious#gregarious__2"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of some [animal_1]{animals}, [bird]{birds}, or [plant_1]{plants} to show that they are a [small_1]{smaller} [type_1]{type}",
+      "entry": "lesser",
+      "id": "lesser_1#lesser_1__5"
+    },
+    {
+      "comment": "a migratory bird or animal is one that migrates",
+      "entry": "migratory",
+      "id": "migratory#migratory__1"
+    },
+    {
+      "comment": "if a [bird]{bird} or [animal_1]{animal} has [webbed]{webbed} [feet]{feet}, it has [skin_1]{skin} between its [toe_1]{toes} to [help_1]{help} it to [swim_1]{swim} well",
+      "entry": "webbed",
+      "id": "webbed#webbed__1"
+    },
+    {
+      "comment": "with [toe_1]{toes} that are [join_1]{joined} by a [piece_1]{piece} of [skin_1]{skin}",
+      "entry": "web-footed",
+      "id": "web-footed#web-footed__1"
+    }
+  ],
+  "thesaurus": "Words used to describe birds",
+  "type": "Related words"
+}

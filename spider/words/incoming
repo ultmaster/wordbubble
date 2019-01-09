@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[recently]{recently} [elect_1]{elected} or [chosen_1]{chosen} for a [job_1]{job} or [position_1]{position}",
+      "examples": [
+        "the incoming [president_1]{president}/[government]{government}/[administration]{administration}"
+      ],
+      "id": "incoming__1"
+    },
+    {
+      "def": "coming in, or [arrive]{arriving}",
+      "examples": [
+        "incoming [call_1]{calls}/[message_1]{messages}/[mail_1]{mail}",
+        "incoming and [outgoing]{outgoing} [traffic_1]{traffic}/[flight]{flights}",
+        "incoming [freshman]{freshmen}"
+      ],
+      "id": "incoming__3"
+    }
+  ],
+  "word": "incoming"
+}

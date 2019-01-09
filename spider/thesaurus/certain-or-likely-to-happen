@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[definitely]{definitely} [going_1]{going} to [happen]{happen}",
+      "entry": "certain",
+      "id": "certain_1#certain_1__8"
+    },
+    {
+      "comment": "[probably]{probably} [going_1]{going} to [happen]{happen}, or [probably]{probably} [true_1]{true}",
+      "entry": "likely",
+      "id": "likely_1#likely_1__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to [happen]{happen} or be [true_1]{true}",
+      "entry": "probable",
+      "id": "probable_1#probable_1__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you [think_1]{think} something is [likely_1]{likely}",
+      "entry": "probably",
+      "id": "probably#probably__1"
+    },
+    {
+      "comment": "if something is [guaranteed]{guaranteed}, you will [definitely]{definitely} get it or have it",
+      "entry": "guaranteed",
+      "id": "guaranteed#guaranteed__1"
+    },
+    {
+      "comment": "[certain_1]{certain} to [happen]{happen} or to [result_1]{result} from something",
+      "entry": "sure",
+      "id": "sure_1#sure_1__16"
+    },
+    {
+      "comment": "if there is a [good_1]{good} [chance_1]{chance} of something [happening_1]{happening}, it is [likely_1]{likely} to [happen]{happen}",
+      "entry": "good",
+      "id": "good_1#good_1__90"
+    },
+    {
+      "comment": "[likely_1]{likely} to [happen]{happen} or be [true_1]{true}, but not [certain_1]{certain}",
+      "entry": "possibly",
+      "id": "possibly#possibly__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to [happen]{happen} or be [true_1]{true}",
+      "entry": "expected",
+      "id": "expected#expected__1"
+    },
+    {
+      "comment": "something that is [bound_1]{bound} to [happen]{happen} will almost [certainly]{certainly} [happen]{happen}",
+      "entry": "bound",
+      "id": "bound_1#bound_1__1"
+    }
+  ],
+  "thesaurus": "Certain or likely to happen",
+  "type": "Synonyms"
+}

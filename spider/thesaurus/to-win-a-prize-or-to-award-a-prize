@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [win_1]{win} a [medal_1]{medal} by coming first, [second_1]{second} or third in a [competition]{competition}",
+      "entry": "medal",
+      "id": "medal_2#medal_2__1"
+    },
+    {
+      "comment": "to give someone a [prize_1]{prize} or other [reward_1]{reward} because they have [achieve]{achieved} something",
+      "entry": "award",
+      "id": "award_2#award_2__1"
+    },
+    {
+      "comment": "to [win_1]{win} a [prize_1]{prize}",
+      "entry": "carry off",
+      "id": "carry-off#carry-off__3"
+    },
+    {
+      "comment": "to [win_1]{win} something [easily]{easily}",
+      "entry": "walk off with",
+      "id": "walk-off-with#walk-off-with__3"
+    },
+    {
+      "comment": "to [win_1]{win} something [easily]{easily}",
+      "entry": "walk away with",
+      "id": "walk-away-with#walk-away-with__3"
+    },
+    {
+      "comment": "to [win_1]{win} something again from an [opponent]{opponent}",
+      "entry": "recapture",
+      "id": "recapture#recapture__3"
+    },
+    {
+      "comment": "to give someone a [crown_1]{crown} for [winning]{winning} a [competition]{competition}",
+      "entry": "crown",
+      "id": "crown_2#crown_2__4"
+    },
+    {
+      "comment": "to give someone a [title]{title} for [winning]{winning} an [important]{important} [sport_1]{sports} [competition]{competition}",
+      "entry": "crown",
+      "id": "crown_2#crown_2__6"
+    },
+    {
+      "comment": "to [win_1]{win} a [prize_1]{prize} in a [competition]{competition} or a [vote_1]{vote} in an [election]{election}",
+      "entry": "take",
+      "id": "take_1#take_1__53"
+    },
+    {
+      "comment": "to [win_1]{win} something [easily]{easily}",
+      "entry": "sweep",
+      "id": "sweep_1#sweep_1__27"
+    }
+  ],
+  "thesaurus": "To win a prize, or to award a prize",
+  "type": "Synonyms"
+}

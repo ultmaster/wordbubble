@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to have a [particular_1]{particular} [illness]{illness} or [physical_1]{physical} [problem]{problem}",
+      "entry": "suffer",
+      "id": "suffer#suffer__4"
+    },
+    {
+      "comment": "to [start_1]{start} to have an [illness]{illness} or [medical_1]{medical} [condition_1]{condition}",
+      "entry": "get",
+      "id": "get#get__30"
+    },
+    {
+      "comment": "to become [infected]{infected} with a [disease]{disease}",
+      "entry": "contract",
+      "id": "contract_2#contract_2__7"
+    },
+    {
+      "comment": "to become [sick_1]{sick} with a [particular_1]{particular} [disease]{disease}, [usually]{usually} one that is not serious",
+      "entry": "come down with",
+      "id": "come-down-with#come-down-with__1"
+    },
+    {
+      "comment": "to [begin]{begin} to be [affected]{affected} by a [disease]{disease} or [medical_1]{medical} [condition_1]{condition}",
+      "entry": "develop",
+      "id": "develop#develop__17"
+    },
+    {
+      "comment": "to get a [disease]{disease} or [illness]{illness}",
+      "entry": "catch",
+      "id": "catch_1#catch_1__35"
+    },
+    {
+      "comment": "to [suffer]{suffer} from an [illness]{illness}, [disease]{disease}, [injury]{injury}, or [pain_1]{pain}",
+      "entry": "have",
+      "id": "have#have__108"
+    },
+    {
+      "comment": "if you are [afflict]{afflicted} by an [illness]{illness} or serious [problem]{problem}, you [suffer]{suffer} from it",
+      "entry": "afflict",
+      "id": "afflict#afflict__1"
+    },
+    {
+      "comment": "to become [sick_1]{sick} with a [particular_1]{particular} [illness]{illness}",
+      "entry": "go down with",
+      "id": "go-down-with#go-down-with__1"
+    },
+    {
+      "comment": "to [spread_1]{spread} to a part of the body and cause [damage_1]{damage} there",
+      "entry": "invade",
+      "id": "invade#invade__6"
+    }
+  ],
+  "thesaurus": "To have or develop an illness or symptom",
+  "type": "Synonyms"
+}

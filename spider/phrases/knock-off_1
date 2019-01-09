@@ -1,0 +1,44 @@
+{
+  "part": "phrase",
+  "phrase": "knock off",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [working]{working}",
+      "examples": [
+        "Do you [want_1]{want} to [knock_1]{knock} off [early_1]{early} [tonight_1]{tonight}?",
+        "He [knock_1]{knocks} off [work_1]{work} at 6."
+      ],
+      "id": "knock-off_1__1"
+    },
+    {
+      "def": "to [murder_1]{murder} someone",
+      "examples": [],
+      "id": "knock-off_1__4"
+    },
+    {
+      "def": "to [reduce]{reduce} a [price_1]{price} or an amount",
+      "examples": [
+        "They\u2019ll [knock_1]{knock} some off the [price_1]{price} if you [pick_1]{pick} it up it yourself.",
+        "Kelly [knock_1]{knocked} two [seconds]{seconds} off her [previous_1]{previous} time."
+      ],
+      "id": "knock-off_1__5"
+    },
+    {
+      "def": "to [produce_1]{produce} something [quickly]{quickly} and [careless#careless__13]{carelessly}, often a [copy_1]{copy} of something else",
+      "examples": [
+        "[forger]{Forgers} can [knock_1]{knock} off a [fake_1]{fake} [passport]{passport} in no time."
+      ],
+      "id": "knock-off_1__8"
+    },
+    {
+      "def": "to have [sex_1]{sex} with someone",
+      "examples": [],
+      "id": "knock-off_1__10"
+    },
+    {
+      "def": "to [steal_1]{steal} something",
+      "examples": [],
+      "id": "knock-off_1__11"
+    }
+  ]
+}

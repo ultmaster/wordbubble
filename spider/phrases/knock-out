@@ -1,0 +1,53 @@
+{
+  "part": "phrase",
+  "phrase": "knock out",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [unconscious_1]{unconscious}",
+      "examples": [
+        "He hit me and [nearly]{nearly} [knock_1]{knocked} me out."
+      ],
+      "id": "knock-out__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [leave_1]{leave} a [competition]{competition} by [defeat_2]{defeating} them",
+      "examples": [
+        "The [home_1]{home} [team_1]{team} was [knock_1]{knocked} out of the [tournament]{tournament} in the first round."
+      ],
+      "id": "knock-out__3"
+    },
+    {
+      "def": "to [destroy]{destroy} something, or to [stop_1]{stop} it [working]{working}",
+      "examples": [
+        "The [earthquake]{earthquake} [knock_1]{knocked} out [power_1]{power} [supply_1]{supplies} in many [part_1]{parts} of the [city]{city}."
+      ],
+      "id": "knock-out__5"
+    },
+    {
+      "def": "to [impress]{impress} someone very much",
+      "examples": [
+        "The [response]{response} to my [work_1]{work} has [absolutely]{absolutely} [knock_1]{knocked} me out."
+      ],
+      "id": "knock-out__7"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} very [shocked]{shocked} or [upset_1]{upset}",
+      "examples": [],
+      "id": "knock-out__9"
+    },
+    {
+      "def": "to [produce_1]{produce} something [quickly]{quickly} or [careless#careless__13]{carelessly}",
+      "examples": [
+        "They\u2019ve been [knock_1]{knocking} out [candle]{candles} at their [factory]{factory} since 1831."
+      ],
+      "id": "knock-out__10"
+    },
+    {
+      "def": "to [make_1]{make} someone [lose]{lose} a [quality_1]{quality}",
+      "examples": [
+        "All the [enthusiasm]{enthusiasm} had been [knock_1]{knocked} out of him."
+      ],
+      "id": "knock-out__12"
+    }
+  ]
+}

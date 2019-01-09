@@ -1,0 +1,27 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [music]{music} with [word_1]{words} that you [sing_1]{sing}",
+      "examples": [
+        "She [knew]{knew} the [word_1]{words} to every song that came on the [radio_1]{radio}.",
+        "a [popular]{popular}/[patriotic]{patriotic}/[folk_1]{folk} song",
+        "He [sang]{sang} a [beautiful]{beautiful} [love_1]{love} song."
+      ],
+      "id": "song__1"
+    },
+    {
+      "def": "the art or [activity]{activity} of [sing_1]{singing}",
+      "examples": [
+        "[festival]{festivals} of [traditional]{traditional} [music]{music} and song"
+      ],
+      "id": "song__5"
+    },
+    {
+      "def": "the [musical_1]{musical} [sound_1]{sound} that a [bird]{bird} [make_1]{makes}",
+      "examples": [],
+      "id": "song__7"
+    }
+  ],
+  "word": "song"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "lead to",
+  "senses": [
+    {
+      "def": "to [begin]{begin} a [process_1]{process} that [cause_1]{causes} something to [happen]{happen}",
+      "examples": [
+        "There is no [doubt_1]{doubt} that [stress_1]{stress} can [lead_1]{lead} to [physical_1]{physical} [illness]{illness}.",
+        "a [process_1]{process} of [negotiation]{negotiation} [leading]{leading} to a [peaceful]{peaceful} [settlement]{settlement}"
+      ],
+      "id": "lead-to__1"
+    },
+    {
+      "def": "to [make_1]{make} someone [think_1]{think} something",
+      "examples": [
+        "The [evidence_1]{evidence} [lead_1]{leads} me to a [different]{different} [conclusion]{conclusion}."
+      ],
+      "id": "lead-to__6"
+    }
+  ]
+}

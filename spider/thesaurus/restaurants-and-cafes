@@ -1,0 +1,241 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} [place_1]{place} that [serve_1]{serves} a [particular_1]{particular} [type_1]{type} of [food]{food}",
+      "entry": "bar",
+      "id": "bar_1#bar_1__6"
+    },
+    {
+      "comment": "a [small_1]{small} [restaurant]{restaurant} or [bar_1]{bar}",
+      "entry": "bistro",
+      "id": "bistro#bistro__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} or [bar_1]{bar}, [especially]{especially} one that [serve_1]{serves} French [food]{food}",
+      "entry": "brasserie",
+      "id": "brasserie#brasserie__1"
+    },
+    {
+      "comment": "a [small_1]{small} [cafe]{caf\u00e9} at a [bus_1]{bus} or [railroad_1]{railroad} [station_1]{station}",
+      "entry": "buffet",
+      "id": "buffet_1#buffet_1__5"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} or [club_1]{club} where there is [cabaret]{cabaret}",
+      "entry": "cabaret",
+      "id": "cabaret#cabaret__2"
+    },
+    {
+      "comment": "an [informal]{informal} [restaurant]{restaurant} where you can get [simple]{simple} [inexpensive]{inexpensive} [meal]{meals} and [drink_1]{drinks}",
+      "entry": "caf\u00e9",
+      "id": "cafe#cafe__1"
+    },
+    {
+      "comment": "an [informal]{informal} [restaurant]{restaurant} in a [place_1]{place} such as a [college]{college} or [hospital]{hospital} where you take the [food]{food} to the [table_1]{table} yourself",
+      "entry": "cafeteria",
+      "id": "cafeteria#cafeteria__1"
+    },
+    {
+      "comment": "a room in a factory, school, or hospital where inexpensive meals are served. The usual American word is cafeteria.",
+      "entry": "canteen",
+      "id": "canteen#canteen__2"
+    },
+    {
+      "comment": "food that you buy in a restaurant and eat somewhere else. The usual British word is takeaway.",
+      "entry": "carryout",
+      "id": "carryout#carryout__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} that [sell_1]{sells} [food]{food} that you [eat]{eat} somewhere else",
+      "entry": "carryout",
+      "id": "carryout#carryout__2"
+    },
+    {
+      "comment": "a [cafe]{caf\u00e9} where there are several [cat]{cats} that [customer]{customers} can [stroke_1]{stroke} and [play_1]{play} with",
+      "entry": "cat caf\u00e9",
+      "id": "cat-cafe#cat-cafe__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [people_1]{people} come together to [buy_1]{buy} [meat]{meat} from a [butcher_1]{butcher's} and have it [grill_2]{grilled} on an [open_1]{open} fire [call_1]{called} a braai",
+      "entry": "chesanyama",
+      "id": "chesanyama#chesanyama__1"
+    },
+    {
+      "comment": "a Chinese restaurant or take-out",
+      "entry": "Chinese",
+      "id": "chinese_1#chinese_1__4"
+    },
+    {
+      "comment": "a coffee bar, especially one that existed in the past",
+      "entry": "coffeehouse",
+      "id": "coffeehouse#coffeehouse__1"
+    },
+    {
+      "comment": "an [informal]{informal} [restaurant]{restaurant} that [serve_1]{serves} [drink_1]{drinks} and [inexpensive]{inexpensive} [meal]{meals}",
+      "entry": "coffee shop",
+      "id": "coffee-shop#coffee-shop__1"
+    },
+    {
+      "comment": "a [place_1]{place}, [usually]{usually} in a [hotel]{hotel} or [department]{department} [store_1]{store}, where [coffee]{coffee}, other [drink_1]{drinks}, and [light_1]{light} [meal]{meals} are [serve_1]{served}",
+      "entry": "coffee shop",
+      "id": "coffee-shop#coffee-shop__2"
+    },
+    {
+      "comment": "a restaurant in a large organization, especially in a movie or television studio",
+      "entry": "commissary",
+      "id": "commissary#commissary__2"
+    },
+    {
+      "comment": "a [cafe]{caf\u00e9} with [computer]{computers} so that [customer]{customers} can use the [internet]{Internet}",
+      "entry": "cybercaf\u00e9",
+      "id": "cybercafe#cybercafe__1"
+    },
+    {
+      "comment": "a [small_1]{small} [restaurant]{restaurant} that [sell_1]{sells} [simple]{simple} [inexpensive]{inexpensive} [food]{food}",
+      "entry": "diner",
+      "id": "diner#diner__1"
+    },
+    {
+      "comment": "the part of a [train_1]{train} that is a [restaurant]{restaurant}",
+      "entry": "dining car",
+      "id": "dining-car#dining-car__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} or [theater]{theater} where you [watch_1]{watch} a [play_1]{play} and [eat]{eat} your [evening_1]{evening} [meal]{meal}",
+      "entry": "dinner theater",
+      "id": "dinner-theater#dinner-theater__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} where you can have a [meal]{meal} without [leave_1]{leaving} your [car]{car}",
+      "entry": "drive-in",
+      "id": "drive-in_2#drive-in_2__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant}",
+      "entry": "eatery",
+      "id": "eatery#eatery__1"
+    },
+    {
+      "comment": "a [small_1]{small} [restaurant]{restaurant} that [serve_1]{serves} [inexpensive]{inexpensive} [greasy]{greasy} [food]{food}",
+      "entry": "greasy spoon",
+      "id": "greasy-spoon#greasy-spoon__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} that [serve_1]{serves} [mainly]{mainly} [simple]{simple} [food]{food}, [especially]{especially} [grill_2]{grilled} [food]{food}",
+      "entry": "grill",
+      "id": "grill_1#grill_1__2"
+    },
+    {
+      "comment": "a very [small_1]{small} [store_1]{store} or [restaurant]{restaurant}",
+      "entry": "hole-in-the-wall",
+      "id": "hole-in-the-wall#hole-in-the-wall__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant}, [hotel]{hotel}, [bar_1]{bar}, or [club_1]{club}",
+      "entry": "the house",
+      "id": "house_1#house_1__11"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} that only [sell_1]{sells} [ice_1]{ice} [cream_1]{cream}",
+      "entry": "ice cream parlor",
+      "id": "ice-cream-parlor#ice-cream-parlor__1"
+    },
+    {
+      "comment": "a [cafe]{caf\u00e9} where [people_1]{people} can [pay_1]{pay} to use the [internet]{Internet}, [send_1]{send} [e-mail_1]{e-mails}, etc.",
+      "entry": "Internet caf\u00e9",
+      "id": "internet-cafe#internet-cafe__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant}, [bar_1]{bar}, or [club_1]{club}, [especially]{especially} one that is [inexpensive]{inexpensive} and not very [nice]{nice}",
+      "entry": "joint",
+      "id": "joint_2#joint_2__8"
+    },
+    {
+      "comment": "a [pizzeria]{pizzeria}",
+      "entry": "pizza parlor",
+      "id": "pizza-parlor#pizza-parlor__1"
+    },
+    {
+      "comment": "a restaurant that serves pizza",
+      "entry": "pizzeria",
+      "id": "pizzeria#pizzeria__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant}, [store_1]{store}, [gallery]{gallery}, etc. that [open_2]{opens} for a [short_1]{short} time, sometimes in a [surprising]{surprising} [location]{location}",
+      "entry": "pop-up",
+      "id": "pop-up_3#pop-up_3__2"
+    },
+    {
+      "comment": "a [building]{building} or [room_1]{room} where [meal]{meals} and [drink_1]{drinks} are [sold]{sold} to [customer]{customers} [sitting]{sitting} at [table_1]{tables}",
+      "entry": "restaurant",
+      "id": "restaurant#restaurant__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} or [bar_1]{bar} on a [main_1]{main} [road]{road} in the [countryside]{countryside}",
+      "entry": "roadhouse",
+      "id": "roadhouse#roadhouse__1"
+    },
+    {
+      "comment": "an [area]{area} where you [buy_1]{buy} [food]{food} and [drink_1]{drinks} in a [movie]{movie} [theater]{theater} or at a [sport_1]{sports} [event]{event}",
+      "entry": "snack bar",
+      "id": "snack-bar#snack-bar__1"
+    },
+    {
+      "comment": "an [informal]{informal} [restaurant]{restaurant} where you can [eat]{eat} [small_1]{small} [meal]{meals} such as [sandwich_1]{sandwiches}",
+      "entry": "snack bar",
+      "id": "snack-bar#snack-bar__2"
+    },
+    {
+      "comment": "a [restaurant]{restaurant} that [sell_1]{sells} [mainly]{mainly} [steak]{steak}",
+      "entry": "steakhouse",
+      "id": "steakhouse#steakhouse__1"
+    },
+    {
+      "comment": "an Indian [restaurant]{restaurant}, [especially]{especially} one that [use_1]{uses} the [tandoori]{tandoori} [method]{method} of [cooking_1]{cooking}",
+      "entry": "tandoori",
+      "id": "tandoori#tandoori__3"
+    },
+    {
+      "comment": "a [small_1]{small} [restaurant]{restaurant}, [especially]{especially} in Asia, where [tea]{tea} and [cake]{cakes} are [serve_1]{served}",
+      "entry": "teahouse",
+      "id": "teahouse#teahouse__1"
+    },
+    {
+      "comment": "a [tearoom]{tearoom}",
+      "entry": "teahouse",
+      "id": "teahouse#teahouse__2"
+    },
+    {
+      "comment": "a small restaurant that serves tea, coffee, desserts, and sandwiches",
+      "entry": "tearoom",
+      "id": "tearoom#tearoom__1"
+    },
+    {
+      "comment": "a [tearoom]{tearoom}",
+      "entry": "tea shop",
+      "id": "tea-shop#tea-shop__1"
+    },
+    {
+      "comment": "a restaurant at a truck stop",
+      "entry": "transport caf\u00e9",
+      "id": "transport-cafe#transport-cafe__1"
+    },
+    {
+      "comment": "an Italian [restaurant]{restaurant}, [especially]{especially} one that is [simple]{simple} and [informal]{informal}",
+      "entry": "trattoria",
+      "id": "trattoria#trattoria__1"
+    },
+    {
+      "comment": "an [area]{area} with a [restaurant]{restaurant} beside a [major_1]{major} [road]{road} where [truck_1]{truck} [driver]{drivers} can [stop_1]{stop} and have a [meal]{meal}, [buy_1]{buy} [gas_1]{gas}, or have their [vehicle]{vehicle} [repair_1]{repaired}",
+      "entry": "truck stop",
+      "id": "truck-stop#truck-stop__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [drink_1]{drink} [wine_1]{wine} and [eat]{eat} a [meal]{meal}",
+      "entry": "wine bar",
+      "id": "wine-bar#wine-bar__1"
+    }
+  ],
+  "thesaurus": "Restaurants and cafes",
+  "type": "Related words"
+}

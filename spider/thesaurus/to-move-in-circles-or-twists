@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [turn_1]{turn} around and around [quickly]{quickly}",
+      "entry": "spin",
+      "id": "spin_1#spin_1__1"
+    },
+    {
+      "comment": "to [turn_1]{turn} or [spin_1]{spin} around a [central]{central} [point_1]{point}",
+      "entry": "revolve",
+      "id": "revolve#revolve__1"
+    },
+    {
+      "comment": "to [spin_1]{spin} [quickly]{quickly} in [circle_1]{circles}",
+      "entry": "whirl",
+      "id": "whirl_1#whirl_1__1"
+    },
+    {
+      "comment": "to move in a [circle_1]{circle} around a [fixed]{fixed} [central]{central} [point_1]{point}, or to move something in this way",
+      "entry": "rotate",
+      "id": "rotate#rotate__1"
+    },
+    {
+      "comment": "to move [quickly]{quickly} in [circle_1]{circles}, or to [make_1]{make} something move in this way",
+      "entry": "swirl",
+      "id": "swirl_1#swirl_1__1"
+    },
+    {
+      "comment": "to move in [circle_1]{circles}, or to [make_1]{make} something move in [circle_1]{circles}",
+      "entry": "twirl",
+      "id": "twirl_1#twirl_1__1"
+    },
+    {
+      "comment": "to move in a [circle_1]{circle} in the [air_1]{air}",
+      "entry": "circle",
+      "id": "circle_2#circle_2__3"
+    },
+    {
+      "comment": "to [make_1]{make} something [turn_1]{turn} in a [circle_1]{circle}",
+      "entry": "revolve",
+      "id": "revolve#revolve__5"
+    },
+    {
+      "comment": "to [make_1]{make} a [circular_1]{circular} [movement]{movement}",
+      "entry": "turn",
+      "id": "turn_1#turn_1__27"
+    },
+    {
+      "comment": "to move in a [particular_1]{particular} [direction]{direction} with a [smooth_1]{smooth} [curve_2]{curving} [movement]{movement}, or to [make_1]{make} something move in this way",
+      "entry": "swing",
+      "id": "swing_1#swing_1__7"
+    }
+  ],
+  "thesaurus": "To move in circles or twists",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who has a [particular_1]{particular} [skill]{skill} or who [know_1]{knows} a [lot_1]{lot} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "expert",
+      "id": "expert_1#expert_1__1"
+    },
+    {
+      "comment": "someone who is [considered]{considered} an [expert_1]{expert} in a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "authority",
+      "id": "authority#authority__15"
+    },
+    {
+      "comment": "someone whose [training]{training}, [education]{education}, or [experience_1]{experience} [make_1]{makes} them an [expert_1]{expert} in a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "specialist",
+      "id": "specialist#specialist__1"
+    },
+    {
+      "comment": "an [expert_1]{expert} or a [professional_1]{professional} [person]{person} whose [job_1]{job} is to give [help_1]{help} and [advice]{advice} on a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "consultant",
+      "id": "consultant#consultant__1"
+    },
+    {
+      "comment": "someone who has [special_1]{special} [skill]{skills} and [qualification]{qualifications}",
+      "entry": "professional",
+      "id": "professional_2#professional_2__1"
+    },
+    {
+      "comment": "someone who is well [educated]{educated} and [interested]{interested} in art, [science]{science}, [literature]{literature}, etc. at an [advanced]{advanced} [level_1]{level}",
+      "entry": "intellectual",
+      "id": "intellectual_2#intellectual_2__1"
+    },
+    {
+      "comment": "someone whose [opinion]{opinions} are [broadcast_1]{broadcast} or [publish]{published} because they [know_1]{know} a [lot_1]{lot} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "observer",
+      "id": "observer#observer__6"
+    },
+    {
+      "comment": "someone who is an [expert_1]{expert} in a [subject_1]{subject}, and is often [ask_1]{asked} to [talk_1]{talk} to the [public_1]{public} about that [subject_1]{subject}",
+      "entry": "pundit",
+      "id": "pundit#pundit__1"
+    },
+    {
+      "comment": "someone who has a [lot_1]{lot} of [experience_1]{experience} [doing]{doing} a [particular_1]{particular} [activity]{activity}",
+      "entry": "veteran",
+      "id": "veteran_1#veteran_1__4"
+    },
+    {
+      "comment": "the [people_1]{people} in a [society]{society} who are the [best_1]{best} [educated]{educated} and the most [interested]{interested} in art, [science]{science}, [literature]{literature}, etc. at an [advanced]{advanced} [level_1]{level}",
+      "entry": "the intelligentsia",
+      "id": "the-intelligentsia#the-intelligentsia__1"
+    }
+  ],
+  "thesaurus": "Educated people and experts",
+  "type": "Synonyms"
+}

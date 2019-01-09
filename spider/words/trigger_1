@@ -1,0 +1,22 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something [happen]{happen}",
+      "examples": [
+        "The [news]{news} of his [death]{death} [trigger_1]{triggered} more [violence]{violence}.",
+        "You find that [strangely]{strangely} [familiar]{familiar} [smell_1]{smells} trigger [memory]{memories} of [childhood]{childhood}.",
+        "The [report_1]{report} has [trigger_1]{triggered} a [fierce]{fierce} [response]{response} from the [governor]{governor}."
+      ],
+      "id": "trigger_1__1"
+    },
+    {
+      "def": "to [make_1]{make} a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} [start_1]{start} to [work_1]{work}",
+      "examples": [
+        "A [sensor]{sensor} had [trigger_1]{triggered} the [security]{security} [camera]{camera}."
+      ],
+      "id": "trigger_1__7"
+    }
+  ],
+  "word": "trigger"
+}

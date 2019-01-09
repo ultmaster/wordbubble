@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "throw out",
+  "senses": [
+    {
+      "def": "to [force_1]{force} someone to [leave_1]{leave} a [place_1]{place} or [group_1]{group}",
+      "examples": [
+        "She [threw]{threw} him out of the [house_1]{house}."
+      ],
+      "id": "throw-out__3"
+    },
+    {
+      "def": "if someone in [authority]{authority} [throw_1]{throws} out a [plan_1]{plan}, [proposal]{proposal}, etc., they [refuse_1]{refuse} to [accept]{accept} it",
+      "examples": [
+        "The [judge_1]{judge} [threw]{threw} out their [claim_1]{claim}."
+      ],
+      "id": "throw-out__5"
+    },
+    {
+      "def": "to [produce_1]{produce} something such as [heat_1]{heat} or [light_1]{light}",
+      "examples": [
+        "My [flashlight]{flashlight} [threw]{threw} out enough [light_1]{light} to see the [path]{path}."
+      ],
+      "id": "throw-out__7"
+    }
+  ]
+}

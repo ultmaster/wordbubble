@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "face off",
+  "senses": [
+    {
+      "def": "if [people_1]{people} or [group_1]{groups} [face_1]{face} off, they [compete]{compete} or [fight_1]{fight} with each other",
+      "examples": [
+        "[soldier_1]{Soldiers} and [protester]{protesters} [face_2]{faced} off during [riot_1]{riots}."
+      ],
+      "id": "face-off_1__1"
+    },
+    {
+      "def": "to [begin]{begin} a [game_1]{game} of [hockey]{hockey}",
+      "examples": [
+        "The [team_1]{teams} [face_1]{face} off at 3 o\u2019[clock_1]{clock}."
+      ],
+      "id": "face-off_1__3"
+    }
+  ]
+}

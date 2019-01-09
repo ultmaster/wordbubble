@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that [show_1]{shows} you have [paid_1]{paid} to go into a [place_1]{place} of [entertainment]{entertainment} such as a [movie]{movie} [theater]{theater} or [football]{football} [game_1]{game}",
+      "entry": "ticket",
+      "id": "ticket_1#ticket_1__1"
+    },
+    {
+      "comment": "the part of a [ticket_1]{ticket} or [check_1]{check} that you keep to [prove]{prove} that you [paid_1]{paid} for something",
+      "entry": "stub",
+      "id": "stub_2#stub_2__4"
+    },
+    {
+      "comment": "one [ticket_1]{ticket} or [seat_1]{seat} at a [theater]{theater}",
+      "entry": "single",
+      "id": "single_2#single_2__12"
+    },
+    {
+      "comment": "a [ticket_1]{ticket} for an [event]{event} that you give back because you no [long_1]{longer} [want_1]{want} it, so that it can be [sold]{sold} to someone else",
+      "entry": "return",
+      "id": "return_2#return_2__18"
+    },
+    {
+      "comment": "a [ticket_1]{ticket}, time, or [place_1]{place} that becomes [available]{available} because someone [decide]{decides} not to do what they have [arrange]{arranged}",
+      "entry": "cancellation",
+      "id": "cancellation#cancellation__3"
+    },
+    {
+      "comment": "if an [event]{event} is [sold]{sold} out, all the [ticket_1]{tickets} for it have been [sold]{sold}",
+      "entry": "sold out",
+      "id": "sold-out#sold-out__1"
+    },
+    {
+      "comment": "at the [entrance_1]{entrance} to a [public_1]{public} [place_1]{place}, where [people_1]{people} [enter]{enter}, or [buy_1]{buy} or show their [ticket_1]{tickets}",
+      "entry": "on the door",
+      "id": "on-the-door#on-the-door__1"
+    },
+    {
+      "comment": "[involve]{involving} [ticket_1]{tickets}, or [selling]{selling} them",
+      "entry": "ticket",
+      "id": "ticket_1#ticket_1__12"
+    },
+    {
+      "comment": "a [ticket_1]{ticket} that [does]{does} not give a [date_1]{date} or time on which it must be [used]{used}, so that you can use it any time",
+      "entry": "open ticket",
+      "id": "open-ticket#open-ticket__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [produce_1]{producing} and [selling]{selling} [ticket_1]{tickets} for an [event]{event} such as a [concert]{concert} or [sport_1]{sports} [game_1]{game}",
+      "entry": "ticketing",
+      "id": "ticketing#ticketing__1"
+    }
+  ],
+  "thesaurus": "Tickets",
+  "type": "Synonyms"
+}

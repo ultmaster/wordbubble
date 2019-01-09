@@ -1,0 +1,436 @@
+{
+  "entries": [
+    {
+      "comment": "to [play_1]{play} the [supporting]{supporting} [music]{music} while someone [sing_1]{sings} or [play_1]{plays} the [main_1]{main} [tune_1]{tune}",
+      "entry": "accompany",
+      "id": "accompany#accompany__9"
+    },
+    {
+      "comment": "to [change_1]{change} a [piece_1]{piece} of [music]{music} so that it is [appropriate_1]{appropriate} for a [particular_1]{particular} [type_1]{type} of [voice_1]{voice} or [instrument]{instrument}",
+      "entry": "arrange",
+      "id": "arrange#arrange__15"
+    },
+    {
+      "comment": "the [production]{production} of [speech]{speech} or [music]{music}",
+      "entry": "articulation",
+      "id": "articulation#articulation__1"
+    },
+    {
+      "comment": "the [special_1]{special} way a [piece_1]{piece} of [music]{music} is [written_1]{written} to give you a [particular_1]{particular} [feeling_1]{feeling} or [mood]{mood}",
+      "entry": "atmospherics",
+      "id": "atmospherics#atmospherics__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} or computer [program_1]{program} that [automatically]{automatically} [change_1]{changes} the [pitch_1]{pitch} of someone's [record_2]{recorded} [voice_1]{voice}",
+      "entry": "autotune",
+      "id": "autotune_1#autotune_1__1"
+    },
+    {
+      "comment": "to use a computer [program_1]{program} to [change_1]{change} the [pitch_1]{pitch} of someone's [record_2]{recorded} [voice_1]{voice}",
+      "entry": "autotune",
+      "id": "autotune_2#autotune_2__1"
+    },
+    {
+      "comment": "to [play_1]{play} or [sing_1]{sing} the [music]{music} that [go_1]{goes} with the [main_1]{main} [singer]{singer} or [musician]{musician}\u2019s [performance]{performance}",
+      "entry": "back",
+      "id": "back_4#back_4__13"
+    },
+    {
+      "comment": "to [play_1]{play} a [tune_1]{tune} on the [piano_1]{piano} very [loud_1#loud_1__12]{loudly} and not very well",
+      "entry": "bang out",
+      "id": "bang-out#bang-out__1"
+    },
+    {
+      "comment": "a stick that the conductor of an orchestra uses",
+      "entry": "baton",
+      "id": "baton#baton__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [pattern_1]{pattern} of [sound_1]{sounds} by [hit_1]{hitting} an [instrument]{instrument} or other [object_1]{object}",
+      "entry": "beat out",
+      "id": "beat-out#beat-out__5"
+    },
+    {
+      "comment": "to [make_1]{make} [regular_1]{regular} [movement]{movements} or [sound_1]{sounds} to show how [fast_1]{fast} a [piece_1]{piece} of [music]{music} should be [sung]{sung} or [play_1]{played}",
+      "entry": "beat time",
+      "id": "beat-time#beat-time__1"
+    },
+    {
+      "comment": "if [music]{music} [blast_1]{blasts}, or if it is [blasted]{blasted}, it [play_1]{plays} very [loud_1#loud_1__12]{loudly}",
+      "entry": "blast",
+      "id": "blast_2#blast_2__13"
+    },
+    {
+      "comment": "if [music]{music} is [blast_2]{blasting} [away_1]{away}, it is [play_1]{playing} very [loud_1#loud_1__12]{loudly}",
+      "entry": "blast away",
+      "id": "blast-away#blast-away__3"
+    },
+    {
+      "comment": "to [perform]{perform} [music]{music} in the [street_1]{streets} and other [public_1]{public} [place_1]{places} for [money]{money}",
+      "entry": "busk",
+      "id": "busk#busk__1"
+    },
+    {
+      "comment": "to hit your [hand_1]{hands} together at the same [speed_1]{speed} and [beat_1]{beat} as a [piece_1]{piece} of [music]{music} or [poetry]{poetry}",
+      "entry": "clap out",
+      "id": "clap-out#clap-out__1"
+    },
+    {
+      "comment": "to [write]{write} a [piece_1]{piece} of [music]{music}",
+      "entry": "compose",
+      "id": "compose#compose__1"
+    },
+    {
+      "comment": "to [stand_1]{stand} in front of an [orchestra]{orchestra} or [group_1]{group} of [singer]{singers} and [direct_1]{direct} the way they [play_1]{play} or [sing_1]{sing}",
+      "entry": "conduct",
+      "id": "conduct_1#conduct_1__8"
+    },
+    {
+      "comment": "someone who [direct_2]{directs} the [musician]{musicians} of an [orchestra]{orchestra} or other [musical_1]{musical} [group_1]{group}",
+      "entry": "conductor",
+      "id": "conductor#conductor__1"
+    },
+    {
+      "comment": "if a [musician]{musician} or [band_1]{band} [cut_1]{cuts} a [record_1]{record}, they [record_1]{record} it",
+      "entry": "cut",
+      "id": "cut_1#cut_1__44"
+    },
+    {
+      "comment": "to [play_1]{play} a [drum_1]{drum}",
+      "entry": "drum",
+      "id": "drum_2#drum_2__1"
+    },
+    {
+      "comment": "to play a tune on the violin",
+      "entry": "fiddle",
+      "id": "fiddle_1#fiddle_1__8"
+    },
+    {
+      "comment": "the [position_1]{positions} of your [finger_1]{fingers} and the way that you move them when you are [play_1]{playing} a [musical_1]{musical} [instrument]{instrument}",
+      "entry": "fingering",
+      "id": "fingering#fingering__1"
+    },
+    {
+      "comment": "to [perform]{perform} [music]{music} in [public_1]{public}",
+      "entry": "gig",
+      "id": "gig_2#gig_2__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [sing_1]{singing} or [play_1]{playing} [different]{different} [note_1]{notes} at the same time, [produce_1]{producing} a [pleasant]{pleasant} [combination]{combination} of [sound_1]{sounds}, or [sound_1]{sounds} that are [produce_1]{produced} in this way",
+      "entry": "harmonization",
+      "id": "harmonization#harmonization__4"
+    },
+    {
+      "comment": "to [make_1]{make} [musical_1]{musical} [sound_1]{sounds} with your [lip]{lips} [closed]{closed}",
+      "entry": "hum",
+      "id": "hum_1#hum_1__1"
+    },
+    {
+      "comment": "[perform]{performing} [music]{music} or [song]{songs} in a [concert]{concert}",
+      "entry": "in concert",
+      "id": "in-concert#in-concert__1"
+    },
+    {
+      "comment": "producing the right/wrong note when you sing or play music",
+      "entry": "in/out of tune",
+      "id": "in-out-of-tune#in-out-of-tune__1"
+    },
+    {
+      "comment": "the way that a [piece_1]{piece} of [music]{music} is [arrange]{arranged} for a [group_1]{group} of [instrument]{instruments}",
+      "entry": "instrumentation",
+      "id": "instrumentation#instrumentation__2"
+    },
+    {
+      "comment": "to [perform]{perform} a [piece_1]{piece} of [music]{music}, a part in a [play_1]{play}, etc. in a way that [show_1]{shows} how you [understand]{understand} it and [feel_1]{feel} about it",
+      "entry": "interpret",
+      "id": "interpret#interpret__9"
+    },
+    {
+      "comment": "if [musician]{musicians} are in time with each other, they are all [play_1]{playing} at the same [speed_1]{speed}",
+      "entry": "in time",
+      "id": "in-time#in-time__10"
+    },
+    {
+      "comment": "to [play_1]{play} [music]{music} in an [informal]{informal} way with a [group_1]{group} of [people_1]{people}",
+      "entry": "jam",
+      "id": "jam_2#jam_2__18"
+    },
+    {
+      "comment": "if you keep time for a [musician]{musician}, you show them what the [correct_1]{correct} [speed_1]{speed} and [beat_1]{beat} are for a [piece_1]{piece} of [music]{music}",
+      "entry": "keep time",
+      "id": "keep-time#keep-time__3"
+    },
+    {
+      "comment": "if a [musician]{musician} [keep_1]{keeps} time, they [play_1]{play} a [piece_1]{piece} of [music]{music} at the [correct_1]{correct} [speed_1]{speed} and [beat_1]{beat}",
+      "entry": "keep time",
+      "id": "keep-time#keep-time__2"
+    },
+    {
+      "comment": "someone who [conduct_1]{conducts} a [band_1]{band}",
+      "entry": "leader",
+      "id": "leader#leader__14"
+    },
+    {
+      "comment": "to [pretend_1]{pretend} to [sing_1]{sing} or [say_1]{say} something by [moving]{moving} your [lip]{lips} at the same time as a [recording]{recording} of [music]{music} or [speech]{speech} is [play_1]{played}",
+      "entry": "lip-synch",
+      "id": "lip-synch#lip-synch__1"
+    },
+    {
+      "comment": "to electronically repeat a sample  (=short piece of recorded music or sound) without a break",
+      "entry": "loop",
+      "id": "loop_2#loop_2__6"
+    },
+    {
+      "comment": "to [pretend_1]{pretend} to [sing_1]{sing} or [play_1]{play} an [instrument]{instrument} while a [piece_1]{piece} of [record_2]{recorded} [music]{music} is being [play_1]{played}",
+      "entry": "mime",
+      "id": "mime_1#mime_1__2"
+    },
+    {
+      "comment": "to [play_1]{play} CDs [continuous#continuous__6]{continuously}, so that one [piece_1]{piece} of [music]{music} [begin]{begins} before another [finish_1]{finishes}",
+      "entry": "mix",
+      "id": "mix_1#mix_1__18"
+    },
+    {
+      "comment": "to [remix]{remix} a [piece_1]{piece} of [music]{music}",
+      "entry": "mix",
+      "id": "mix_1#mix_1__19"
+    },
+    {
+      "comment": "if a piece of music modulates, it changes to a different key",
+      "entry": "modulate",
+      "id": "modulate#modulate__7"
+    },
+    {
+      "comment": "someone who is in [charge_1]{charge} of an [orchestra]{orchestra} or other [musical_1]{musical} [group_1]{group} and who [decide]{decides} what they will [play_1]{play}",
+      "entry": "musical director",
+      "id": "musical-director#musical-director__1"
+    },
+    {
+      "comment": "someone who is in [charge_1]{charge} of an [orchestra]{orchestra} or other [musical_1]{musical} [group_1]{group} and who [decide]{decides} what they will [play_1]{play}",
+      "entry": "music director",
+      "id": "music-director#music-director__1"
+    },
+    {
+      "comment": "[musical_1]{musical} [ability_1]{ability} or [skill]{skill}",
+      "entry": "musicianship",
+      "id": "musicianship#musicianship__1"
+    },
+    {
+      "comment": "a [wooden]{wooden} or [metal_1]{metal} [frame_1]{frame} [used]{used} for [holding]{holding} [print_1]{printed} [music]{music} for a [player]{player} or [singer]{singer} to read while they are [play_1]{playing} a [musical_1]{musical} [instrument]{instrument} or [sing_1]{singing}",
+      "entry": "music stand",
+      "id": "music-stand#music-stand__1"
+    },
+    {
+      "comment": "to [make_1]{make} the [sound_1]{sound} of a [musical_1]{musical} [instrument]{instrument} [soft]{softer} and less [loud_1]{loud}, [especially]{especially} by [use_1]{using} a [mute_1]{mute}",
+      "entry": "mute",
+      "id": "mute_2#mute_2__3"
+    },
+    {
+      "comment": "to [arrange]{arrange} a [piece_1]{piece} of [music]{music}",
+      "entry": "orchestrate",
+      "id": "orchestrate#orchestrate__4"
+    },
+    {
+      "comment": "to [perform]{perform} [music]{music} in a way that [clearly]{clearly} [show_1]{shows} which [musical_1]{musical} [note_1]{notes} [belong]{belong} together",
+      "entry": "phrase",
+      "id": "phrase_2#phrase_2__3"
+    },
+    {
+      "comment": "to [play_1]{play} a [guitar]{guitar} or [similar]{similar} [instrument]{instrument} by [pull_1]{pulling} the [string_1]{strings} with your [finger_1]{fingers}",
+      "entry": "pick",
+      "id": "pick_1#pick_1__14"
+    },
+    {
+      "comment": "to [perform]{perform} [music]{music}, or to use an [instrument]{instrument} to [make_1]{make} [music]{music}",
+      "entry": "play",
+      "id": "play_1#play_1__16"
+    },
+    {
+      "comment": "to [play_1]{play} [music]{music} by [hearing]{hearing} and [remember]{remembering} it, not by [reading]{reading} it",
+      "entry": "play something by ear",
+      "id": "play-something-by-ear_1#play-something-by-ear_1__2"
+    },
+    {
+      "comment": "to [perform]{perform} a [piece_1]{piece} of [music]{music} by [remember]{remembering} what it [sound_1]{sounds} [like_1]{like}, without [look_1]{looking} at the [note_1]{notes}",
+      "entry": "play (something) by ear",
+      "id": "play-something-by-ear_2#play-something-by-ear_2__1"
+    },
+    {
+      "comment": "to [plunk]{plunk} a [musical_1]{musical} [instrument]{instrument}",
+      "entry": "plonk",
+      "id": "plonk_1#plonk_1__1"
+    },
+    {
+      "comment": "to [pull_1]{pull} the [string_1]{strings} of a [musical_1]{musical} [instrument]{instrument} with your [finger_1]{fingers} in [order_1]{order} to [produce_1]{produce} a [sound_1]{sound}",
+      "entry": "pluck",
+      "id": "pluck_1#pluck_1__6"
+    },
+    {
+      "comment": "to [play_1]{play} a [musical_1]{musical} [instrument]{instrument} without interest or [enthusiasm]{enthusiasm}, [especially]{especially} a [piano_1]{piano} or [guitar]{guitar}",
+      "entry": "plunk",
+      "id": "plunk#plunk__1"
+    },
+    {
+      "comment": "if you [pound_1]{pound} out a [song]{song}, you [play_1]{play} it [loud_1#loud_1__12]{loudly} by [hit_1]{hitting} your [instrument]{instrument} very [hard_1]{hard}",
+      "entry": "pound out",
+      "id": "pound-out#pound-out__1"
+    },
+    {
+      "comment": "to have a [strong]{strong} [regular_1]{regular} [beat_1]{beat}",
+      "entry": "pulse",
+      "id": "pulse_2#pulse_2__3"
+    },
+    {
+      "comment": "to talk using rhythm and rhyme, usually over a strong musical beat",
+      "entry": "rap",
+      "id": "rap_2#rap_2__4"
+    },
+    {
+      "comment": "to do a [performance]{performance}, [especially]{especially} of [music]{music}, so that it can be [copy_2]{copied} [electronically]{electronically}",
+      "entry": "record",
+      "id": "record_2#record_2__8"
+    },
+    {
+      "comment": "to make a new copy of an old movie or musical recording using new technology in order to improve its quality",
+      "entry": "remaster",
+      "id": "remaster#remaster__1"
+    },
+    {
+      "comment": "to copy a short piece of music from a record, and then use it again as part of a new piece of music. This activity is called sampling.",
+      "entry": "sample",
+      "id": "sample_2#sample_2__9"
+    },
+    {
+      "comment": "to [write]{write} a [piece_1]{piece} of [music]{music} for a [particular_1]{particular} [group_1]{group} of [instrument]{instruments} or [voice_1]{voices}",
+      "entry": "score",
+      "id": "score_1#score_1__20"
+    },
+    {
+      "comment": "[especially]{especially} in [rap_1]{rap} [music]{music}, to [produce_1]{produce} [rhythmic]{rhythmic} [scratch_1]{scratching} [sound_1]{sounds} by [moving]{moving} a [disk]{disk} [backward_1]{backward} and [forward_1]{forward} with your hand",
+      "entry": "scratch",
+      "id": "scratch_1#scratch_1__16"
+    },
+    {
+      "comment": "[especially]{especially} in [rap_1]{rap} [music]{music}, to [produce_1]{produce} [rhythmic]{rhythmic} [scratch_1]{scratching} [sound_1]{sounds} by [moving]{moving} a [disk]{disk} [backward_1]{backward} and [forward_1]{forward} with your hand",
+      "entry": "scratch",
+      "id": "scratch_1#scratch_1__19"
+    },
+    {
+      "comment": "to [sing_1]{sing} or [play_1]{play} [written_1]{written} [music]{music} the first time you [look_1]{look} at it, without [practicing]{practicing} it first",
+      "entry": "sight-read",
+      "id": "sight-read#sight-read__1"
+    },
+    {
+      "comment": "to [play_1]{play} two or more [musical_1]{musical} [note_1]{notes} with no [pause_1]{pause} between them",
+      "entry": "slur",
+      "id": "slur_2#slur_2__4"
+    },
+    {
+      "comment": "a baton used by a conductor to direct an orchestra",
+      "entry": "stick",
+      "id": "stick_2#stick_2__9"
+    },
+    {
+      "comment": "to [press_1]{press} a [key_1]{key} or to hit a [musical_1]{musical} [instrument]{instrument} with a [finger_1]{finger} or a hand in [order_1]{order} to [produce_1]{produce} a [note_1]{note} or a [series]{series} of [note_1]{notes}",
+      "entry": "strike",
+      "id": "strike_1#strike_1__41"
+    },
+    {
+      "comment": "to [start_1]{start} to [play_1]{play} or [sing_1]{sing} a [piece_1]{piece} of [music]{music}",
+      "entry": "strike up",
+      "id": "strike-up#strike-up__1"
+    },
+    {
+      "comment": "if a [piece_1]{piece} of [music]{music} [strike_1]{strikes} up, someone [start_1]{starts} [play_1]{playing} it",
+      "entry": "strike up",
+      "id": "strike-up#strike-up__3"
+    },
+    {
+      "comment": "to [play_1]{play} a [guitar]{guitar} or other [musical_1]{musical} [instrument]{instrument} by [moving]{moving} your [finger_1]{fingers} [quickly]{quickly} across its [string_1]{strings}",
+      "entry": "strum",
+      "id": "strum#strum__1"
+    },
+    {
+      "comment": "if [music]{music} [swing_1]{swings}, it has a [strong]{strong} [pleasant]{pleasant} [beat_1]{beat}",
+      "entry": "swing",
+      "id": "swing_1#swing_1__19"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [synthesize]{synthesize}",
+      "entry": "synthesise",
+      "id": "synthesise#synthesise__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} [sound_1]{sounds} [use_1]{using} a [synthesizer]{synthesizer}",
+      "entry": "synthesize",
+      "id": "synthesize#synthesize__6"
+    },
+    {
+      "comment": "used about loud music that has a regular beat",
+      "entry": "throb",
+      "id": "throb_1#throb_1__4"
+    },
+    {
+      "comment": "to [play_1]{play} a [tune_1]{tune} very [loud_1#loud_1__12]{loudly}, [especially]{especially} on the [piano_1]{piano}",
+      "entry": "thump out",
+      "id": "thump-out#thump-out__1"
+    },
+    {
+      "comment": "to [play_1]{play} the [piano_1]{piano}",
+      "entry": "tickle the ivories",
+      "id": "tickle-the-ivories#tickle-the-ivories__1"
+    },
+    {
+      "comment": "to produce a musical note on a wind instrument by using your tongue to prevent air from flowing through it for a short time",
+      "entry": "tongue",
+      "id": "tongue_2#tongue_2__1"
+    },
+    {
+      "comment": "if you toot a musical instrument such as a horn, trumpet, or trombone, or if it toots, it makes a loud high sound",
+      "entry": "toot",
+      "id": "toot_2#toot_2__3"
+    },
+    {
+      "comment": "to play a wind instrument such as a flute or horn without really thinking about what notes you are producing",
+      "entry": "tootle",
+      "id": "tootle#tootle__2"
+    },
+    {
+      "comment": "while a [musical_1]{musical} [instrument]{instrument} [play_1]{plays} a [tune_1]{tune}",
+      "entry": "to the accompaniment of something",
+      "id": "to-the-accompaniment-of-something#to-the-accompaniment-of-something__1"
+    },
+    {
+      "comment": "to [change_1]{change} [music]{music} so that a [different]{different} [instrument]{instrument} can [play_1]{play} it",
+      "entry": "transcribe",
+      "id": "transcribe#transcribe__3"
+    },
+    {
+      "comment": "to change the key of a piece of music so that it can be performed using higher or lower notes",
+      "entry": "transpose",
+      "id": "transpose#transpose__3"
+    },
+    {
+      "comment": "to [sing_1]{sing} or [play_1]{play} a [musical_1]{musical} [trill_1]{trill}",
+      "entry": "trill",
+      "id": "trill_2#trill_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} [small_1]{small} [change_1]{changes} to a [musical_1]{musical} [instrument]{instrument} so that it [produce_1]{produces} the [correct_1]{correct} [note_1]{notes}",
+      "entry": "tune",
+      "id": "tune_2#tune_2__1"
+    },
+    {
+      "comment": "if a [group_1]{group} of [musician]{musicians} [tune_1]{tune} up, they [make_1]{make} [small_1]{small} [change_1]{changes} to their [instrument]{instruments} so that they can [play_1]{play} well together",
+      "entry": "tune up",
+      "id": "tune-up_1#tune-up_1__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [tune_1]{tune} or [musical_1]{musical} [note_1]{notes} by [force_2]{forcing} [air_1]{air} through your [mouth_1]{mouth}",
+      "entry": "whistle",
+      "id": "whistle_2#whistle_2__1"
+    }
+  ],
+  "thesaurus": "Playing, performing and arranging music",
+  "type": "Related words"
+}

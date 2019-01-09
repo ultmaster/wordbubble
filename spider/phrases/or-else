@@ -1,0 +1,38 @@
+{
+  "part": "phrase",
+  "phrase": "or else",
+  "senses": [
+    {
+      "def": "[used]{used} for [state_2]{stating} the [second_1]{second} of two [possibility]{possibilities}",
+      "examples": [
+        "You could [drive_1]{drive} to Chicago, or else [fly_1]{fly} there and [rent_1]{rent} a [car]{car}.",
+        "Either he\u2019s [asleep]{asleep}, or else he\u2019s [just_1]{just} [ignore]{ignoring} me."
+      ],
+      "id": "or-else__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that there will be a [bad_1]{bad} [result_1]{result} if someone [does]{does} not do something or if something [does]{does} not [happen]{happen}",
+      "examples": [
+        "We\u2019d [better_1]{better} [leave_1]{leave} now or else we\u2019ll [miss_1]{miss} our [train_1]{train}.",
+        "Always [check_1]{check} the [oil_1]{oil} [level_1]{level}, or else you [risk_1]{risk} [damaging]{damaging} the [engine]{engine}."
+      ],
+      "id": "or-else__4"
+    },
+    {
+      "def": "[used]{used} for [threatening]{threatening} someone",
+      "examples": [
+        "Give me back those [letter_1]{letters} or else I\u2019ll [scream_1]{scream}.",
+        "You\u2019d [better_1]{better} do what I [say_1]{say}, or else!"
+      ],
+      "id": "or-else__7"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something must be [true_1]{true}, because the [situation]{situation} would be [different]{different} if it were not [true_1]{true}",
+      "examples": [
+        "You [know_1]{know} I [really]{really} [care_1]{care} about you, or else I wouldn\u2019t be here.",
+        "I\u2019m [sure_1]{sure} they\u2019re [safe_1]{safe}, or else we\u2019d have [heard]{heard} something."
+      ],
+      "id": "or-else__10"
+    }
+  ]
+}

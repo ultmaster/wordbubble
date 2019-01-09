@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[extremely]{extremely} [violent]{violent}",
+      "examples": [
+        "a vicious [attack_1]{attack}/[assault_1]{assault}",
+        "a vicious [act_1]{act} of [violence]{violence}",
+        "a vicious [thug]{thug}/[killer]{killer}",
+        "a vicious [animal_1]{animal}",
+        "He had a [cruel]{cruel} and vicious [streak_1]{streak}."
+      ],
+      "id": "vicious__1"
+    },
+    {
+      "def": "[extremely]{extremely} [unkind]{unkind} or [unpleasant]{unpleasant}",
+      "examples": [
+        "It was only a vicious [rumor]{rumor}.",
+        "He had a vicious [temper_1]{temper}.",
+        "Her [tone_1]{tone} was vicious."
+      ],
+      "id": "vicious__7"
+    },
+    {
+      "def": "[extremely]{extremely} [severe]{severe} or [powerful]{powerful} and [capable]{capable} of [cause_2]{causing} [damage_1]{damage}",
+      "examples": [
+        "a vicious [tornado]{tornado}",
+        "a vicious [migraine]{migraine}"
+      ],
+      "id": "vicious__11"
+    }
+  ],
+  "word": "vicious"
+}

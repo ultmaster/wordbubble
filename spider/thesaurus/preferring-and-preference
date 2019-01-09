@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [like_1]{like} or [want_1]{want} someone or something more than someone or something else",
+      "entry": "prefer",
+      "id": "prefer#prefer__1"
+    },
+    {
+      "comment": "to [prefer]{prefer} to do something in a [particular_1]{particular} way, or to [prefer]{prefer} to have something done in a [particular_1]{particular} way",
+      "entry": "like",
+      "id": "like_2#like_2__10"
+    },
+    {
+      "comment": "someone or something that you [like_1]{like} or [want_1]{want} more than other [people_1]{people} or [thing]{things}",
+      "entry": "preference",
+      "id": "preference#preference__7"
+    },
+    {
+      "comment": "a [tendency]{tendency} to [prefer]{prefer}, [support_1]{support}, or be [interested]{interested} in a [particular_1]{particular} [idea]{idea} or [activity]{activity}",
+      "entry": "leaning",
+      "id": "leaning#leaning__1"
+    },
+    {
+      "comment": "what someone [like_2]{likes} and [does]{does} not [like_1]{like}",
+      "entry": "someone\u2019s likes and dislikes",
+      "id": "someone-s-likes-and-dislikes#someone-s-likes-and-dislikes__1"
+    },
+    {
+      "comment": "[prefer]{preferring} to [choose]{choose} someone or something that you [believe]{believe} is [better_1]{better}",
+      "entry": "in favor of",
+      "id": "in-favor-of#in-favor-of__8"
+    },
+    {
+      "comment": "whatever you [like_1]{like}, or in whatever way you [prefer]{prefer}",
+      "entry": "as you please",
+      "id": "as-you-please#as-you-please__1"
+    },
+    {
+      "comment": "[instead]{instead} of someone or something else that you [like_1]{like} or [want_1]{want} less",
+      "entry": "in preference to",
+      "id": "in-preference-to#in-preference-to__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that one thing is [prefer]{preferred} to another or [happen]{happens} [instead]{instead} of another",
+      "entry": "rather than",
+      "id": "rather-than#rather-than__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} what you would [prefer]{prefer} to do",
+      "entry": "I\u2019d sooner do something",
+      "id": "i-d-sooner-do-something#i-d-sooner-do-something__1"
+    }
+  ],
+  "thesaurus": "Preferring and preference",
+  "type": "Synonyms"
+}

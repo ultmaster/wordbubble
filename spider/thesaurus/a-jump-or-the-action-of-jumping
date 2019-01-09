@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [movement]{movement} in which you [jump_1]{jump} off the [ground_1]{ground}",
+      "entry": "jump",
+      "id": "jump_2#jump_2__1"
+    },
+    {
+      "comment": "a [quick_1]{quick} [jump_1]{jump} on one [foot_1]{foot}",
+      "entry": "hop",
+      "id": "hop_2#hop_2__1"
+    },
+    {
+      "comment": "a [jump_1]{jump}, [especially]{especially} one that is long or [high_1]{high}",
+      "entry": "leap",
+      "id": "leap_2#leap_2__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [skip_1]{skipping}",
+      "entry": "skip",
+      "id": "skip_2#skip_2__2"
+    },
+    {
+      "comment": "a [quick_1]{quick} [jump_1]{jump} [forward_1]{forward} or up",
+      "entry": "spring",
+      "id": "spring_1#spring_1__12"
+    },
+    {
+      "comment": "a [jump_1]{jump} that you [make_1]{make} after [running_1]{running} a [short_1]{short} [distance_1]{distance}",
+      "entry": "running jump",
+      "id": "running-jump#running-jump__1"
+    },
+    {
+      "comment": "an [action_1]{action} of [jump_1]{jumping} up and [turning]{turning} [completely]{completely} over in the [air_1]{air}",
+      "entry": "flip",
+      "id": "flip_2#flip_2__3"
+    },
+    {
+      "comment": "a [jump_1]{jump} over something, [especially]{especially} [use_1]{using} your [hand_1]{hands} or a [pole_1]{pole} to [support_1]{support} you",
+      "entry": "vault",
+      "id": "vault_1#vault_1__4"
+    },
+    {
+      "comment": "a long or [high_1]{high} [jump_1]{jump}",
+      "entry": "bound",
+      "id": "bound_3#bound_3__5"
+    },
+    {
+      "comment": "a way of [stop_1]{stopping} someone by [jump_1]{jumping} at them and [holding]{holding} them around the [legs]{legs} so that they [fall_1]{fall}",
+      "entry": "flying tackle",
+      "id": "flying-tackle#flying-tackle__1"
+    }
+  ],
+  "thesaurus": "A jump, or the action of jumping",
+  "type": "Synonyms"
+}

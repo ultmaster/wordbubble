@@ -1,0 +1,35 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "something that is invisible cannot be [seen]{seen}",
+      "examples": [
+        "She had a [magic_1]{magic} [cloak_1]{cloak} that made her invisible.",
+        "The [spotted]{spotted} [skin_1]{skin} of the [frog]{frog} [render]{renders} it almost invisible to its [enemy]{enemies}."
+      ],
+      "id": "invisible__1"
+    },
+    {
+      "def": "a [country]{country}\u2019s invisible [income]{income} is [money]{money} that it [earn]{earns} from [service_1]{services} rather than from [selling]{selling} [goods]{goods}",
+      "examples": [
+        "invisible [earnings]{earnings} from [currency]{currency} [trading]{trading}"
+      ],
+      "id": "invisible__4"
+    },
+    {
+      "def": "not [officially]{officially} [recognize]{recognized} or [fairly]{fairly} [represent]{represented}",
+      "examples": [
+        "Many [minority_1]{minority} [group_1]{groups} are invisible on the [major_1]{major} American [television]{television} [network_1]{networks}."
+      ],
+      "id": "invisible__6"
+    },
+    {
+      "def": "not [physically]{physically} [existing]{existing} but [have]{having} a [noticeable]{noticeable} [effect_1]{effect}",
+      "examples": [
+        "the invisible [barrier]{barrier} between the [affluent]{affluent} [suburb]{suburbs} and the [shantytown]{shantytown} beyond"
+      ],
+      "id": "invisible__8"
+    }
+  ],
+  "word": "invisible"
+}

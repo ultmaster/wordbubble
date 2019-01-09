@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [special_1]{special} long [dress_1]{dress} [worn_1]{worn} by a [woman]{woman}, often for [dancing]{dancing} or other [special_1]{special} [occasion_1]{occasions}",
+      "examples": [
+        "a [ball_1]{ball} gown",
+        "a [white_1]{white} [wedding]{wedding} gown",
+        "[lady_1]{ladies} in [silk]{silk} [gown]{gowns}"
+      ],
+      "id": "gown__1"
+    },
+    {
+      "def": "a [piece_1]{piece} of [formal_1]{formal} [clothing]{clothing} [like_1]{like} a [loose_1]{loose} [coat_1]{coat} [worn_1]{worn} by [judge_1]{judges} and by [teacher]{teachers} and [student]{students} at some [ceremony]{ceremonies} at [school_1]{schools}",
+      "examples": [],
+      "id": "gown__6"
+    },
+    {
+      "def": "a long [loose_1]{loose} [piece_1]{piece} of [clothing]{clothing} that a [doctor_1]{doctor} or [patient_1]{patient} [wear_1]{wears} during an [operation]{operation} in a [hospital]{hospital}",
+      "examples": [
+        "a [hospital]{hospital}/[surgical]{surgical} gown"
+      ],
+      "id": "gown__7"
+    }
+  ],
+  "word": "gown"
+}

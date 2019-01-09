@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "at large",
+  "senses": [
+    {
+      "def": "if a [criminal_1]{criminal} or a [dangerous]{dangerous} [animal_1]{animal} is at [large_1]{large}, they have not been [caught_1]{caught}",
+      "examples": [
+        "A third, [unidentified]{unidentified} [person]{person} [remains]{remains} at [large_1]{large}."
+      ],
+      "id": "at-large__1"
+    },
+    {
+      "def": "[people_1]{people} at [large_1]{large} or the [world]{world} at [large_1]{large} are most [people_1]{people}, [instead]{instead} of [just_1]{just} some of them",
+      "examples": [
+        "We have always [tried_1]{tried} to [provide]{provide} the [public_1]{public} at [large_1]{large} with [accurate]{accurate} [information]{information}."
+      ],
+      "id": "at-large__3"
+    }
+  ]
+}

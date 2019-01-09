@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "put money on something",
+  "senses": [
+    {
+      "def": "to bet on something so that you will [win_1]{win} [money]{money} if you are [right_1]{right}, but [lose]{lose} it if you are [wrong_1]{wrong}",
+      "examples": [
+        "I put my [money]{money} on three [horse_1]{horses}, and they all [lost_1]{lost}."
+      ],
+      "id": "put-money-on-something__1"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that you are [completely]{completely} [certain_1]{certain} that something will [happen]{happen}",
+      "examples": [
+        "She\u2019ll be [late_1]{late}. You can put [money]{money} on it."
+      ],
+      "id": "put-money-on-something__3"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "out of order",
+  "senses": [
+    {
+      "def": "a [machine_1]{machine} or [piece_1]{piece} of [equipment]{equipment} that is out of [order_1]{order} is not [working]{working} [correctly]{correctly}",
+      "examples": [],
+      "id": "out-of-order__1"
+    },
+    {
+      "def": "[remark_1]{remarks} or [action_1]{actions} that are out of [order_1]{order} do not [follow]{follow} the [formal_1]{formal} [rule_1]{rules} of a [court_1]{court} of [law]{law}, a [legislature]{legislature}, etc.",
+      "examples": [
+        "The [witness_1]{witness}\u2019s [comment_1]{comment} was [ruled]{ruled} out of [order_1]{order} by the [judge_1]{judge}."
+      ],
+      "id": "out-of-order__2"
+    },
+    {
+      "def": "[behavior]{behavior} that is out of [order_1]{order} is [annoying]{annoying} because it is not [appropriate_1]{appropriate} for a [particular_1]{particular} [situation]{situation}. The [american_1]{American} [phrase_1]{phrase} is out of line.",
+      "examples": [],
+      "id": "out-of-order__4"
+    }
+  ]
+}

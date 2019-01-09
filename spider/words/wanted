@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "being [look_1]{looked} for by the [police_1]{police} in [connection]{connection} with a [crime_1]{crime}",
+      "examples": [
+        "wanted for [murder_1]{murder}"
+      ],
+      "id": "wanted__1"
+    },
+    {
+      "def": "[love_1]{loved} and [taken_1]{taken} [care_1]{care} of by other [people_1]{people}",
+      "examples": [
+        "It\u2019s so [important]{important} to [feel_1]{feel} wanted."
+      ],
+      "id": "wanted__3"
+    }
+  ],
+  "word": "wanted"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [difficult]{difficult} to do, or not [need_1]{needing} much [work_1]{work}",
+      "entry": "easy",
+      "id": "easy_1#easy_1__1"
+    },
+    {
+      "comment": "[easy_1]{easy} to [understand]{understand}, [solve]{solve}, or do",
+      "entry": "simple",
+      "id": "simple#simple__1"
+    },
+    {
+      "comment": "[easy_1]{easy} to do, or not [cause_2]{causing} [problem]{problems} or [difficulty]{difficulties}",
+      "entry": "convenient",
+      "id": "convenient#convenient__1"
+    },
+    {
+      "comment": "[easy_1]{easy}",
+      "entry": "elementary",
+      "id": "elementary#elementary__6"
+    },
+    {
+      "comment": "done well or [successful#successful__11]{successfully} and without any [effort]{effort}",
+      "entry": "effortless",
+      "id": "effortless#effortless__1"
+    },
+    {
+      "comment": "[able_1]{able} to be [dealt]{dealt} with or [controlled_1]{controlled} [easily]{easily}",
+      "entry": "manageable",
+      "id": "manageable#manageable__1"
+    },
+    {
+      "comment": "not [affected]{affected} by any [problem]{problems} or [difficulty]{difficulties}",
+      "entry": "trouble-free",
+      "id": "trouble-free#trouble-free__1"
+    },
+    {
+      "comment": "not [need_1]{needing} any [thought_1]{thought} or [intelligence]{intelligence}",
+      "entry": "mindless",
+      "id": "mindless#mindless__5"
+    },
+    {
+      "comment": "not [need_1]{needing} much [mental]{mental} or [physical_1]{physical} [effort]{effort}",
+      "entry": "undemanding",
+      "id": "undemanding#undemanding__3"
+    },
+    {
+      "comment": "to be [easy_1]{easy} for someone to do, without them [need_1]{needing} to [try_1]{try} [hard_1]{hard}",
+      "entry": "come naturally/easily/easy (to someone)",
+      "id": "come-naturally-easily-easy-to-someone#come-naturally-easily-easy-to-someone__1"
+    }
+  ],
+  "thesaurus": "Easy to do and to be easy",
+  "type": "Synonyms"
+}

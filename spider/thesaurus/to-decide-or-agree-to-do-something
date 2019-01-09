@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say} that you will do something that someone else [want_1]{wants} or [suggest]{suggests}",
+      "entry": "agree",
+      "id": "agree#agree__7"
+    },
+    {
+      "comment": "to [agree]{agree} to be [responsible]{responsible} for a [job_1]{job} or a [project_1]{project} and do it",
+      "entry": "undertake",
+      "id": "undertake#undertake__1"
+    },
+    {
+      "comment": "to [agree]{agree} to do what someone [ask_1]{asks} or [suggest]{suggests}",
+      "entry": "accept",
+      "id": "accept#accept__6"
+    },
+    {
+      "comment": "to [agree]{agree} to do something",
+      "entry": "consent",
+      "id": "consent_2#consent_2__3"
+    },
+    {
+      "comment": "to [agree]{agree} to do something together with other [people_1]{people}",
+      "entry": "go along with",
+      "id": "go-along-with#go-along-with__3"
+    },
+    {
+      "comment": "to [finally]{finally} [agree]{agree} to do what someone else [want_1]{wants} you to do",
+      "entry": "yield",
+      "id": "yield_1#yield_1__8"
+    },
+    {
+      "comment": "to do what someone [want_1]{wants} or [agree]{agree} with what they [say_1]{say}",
+      "entry": "accede",
+      "id": "accede#accede__1"
+    },
+    {
+      "comment": "to [agree]{agree} to do something, or to [join_1]{join} a [program_1]{program} or [organization]{organization}",
+      "entry": "sign up",
+      "id": "sign-up#sign-up__1"
+    },
+    {
+      "comment": "to [agree]{agree}, or to give [permission]{permission}",
+      "entry": "say yes",
+      "id": "say-yes#say-yes__1"
+    },
+    {
+      "comment": "to [agree]{agree} to do something [important]{important}",
+      "entry": "commit yourself",
+      "id": "commit-yourself#commit-yourself__1"
+    }
+  ],
+  "thesaurus": "To decide or agree to do something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "keep hold of something",
+  "senses": [
+    {
+      "def": "to not take your [hand_1]{hands} [away_1]{away} from something that you are [holding]{holding}",
+      "examples": [
+        "She [kept]{kept} [hold_1]{hold} of his [arm_1]{arm}."
+      ],
+      "id": "keep-hold-of-something__1"
+    },
+    {
+      "def": "to not [lose]{lose} something, or to not [let_1]{let} someone else get it",
+      "examples": [
+        "They [managed]{managed} to keep [hold_1]{hold} of the [lead_1]{lead} in the [second_1]{second} [half]{half}."
+      ],
+      "id": "keep-hold-of-something__3"
+    }
+  ]
+}

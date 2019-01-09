@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "fall in",
+  "senses": [
+    {
+      "def": "if you [fall_1]{fall} in behind or beside someone, you [start_1]{start} [walking_1]{walking} behind or beside them",
+      "examples": [
+        "He [fell_1]{fell} in behind the [procession]{procession}."
+      ],
+      "id": "fall-in__1"
+    },
+    {
+      "def": "if a [roof_1]{roof} or [wall_1]{wall} [fall_1]{falls} in, it [fall_1]{falls} to the [ground_1]{ground}",
+      "examples": [],
+      "id": "fall-in__3"
+    },
+    {
+      "def": "if [soldier_1]{soldiers} [fall_1]{fall} in, they move to [stand_1]{stand} in a [straight_1]{straight} [line_1]{line} or other [regular_1]{regular} [formation]{formation}",
+      "examples": [],
+      "id": "fall-in__4"
+    }
+  ]
+}

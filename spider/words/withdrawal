@@ -1,0 +1,54 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [act_1]{act} of [stop_1]{stopping} something or of [take_1]{taking} something [away_1]{away}",
+      "examples": [
+        "Their withdrawal of [support_1]{support} [forced]{forced} the [official_1]{official} to [resign]{resign}."
+      ],
+      "id": "withdrawal__1"
+    },
+    {
+      "def": "the [act_1]{act} of no [long_1]{longer} being [involved]{involved} in something",
+      "examples": [
+        "[illness]{Illness} [led_1]{led} to her withdrawal from the [contest_1]{contest}."
+      ],
+      "id": "withdrawal__3"
+    },
+    {
+      "def": "the [process_1]{process} of [take_1]{taking} an amount of [money]{money} out of your [bank_1]{bank} [account_1]{account}, or the amount of [money]{money} that you take out",
+      "examples": [
+        "You can [make_1]{make} a withdrawal from most ATMs."
+      ],
+      "id": "withdrawal__5"
+    },
+    {
+      "def": "a [statement_1]{statement} that [say_1]{says} that you [want_1]{want} [people_1]{people} to [ignore]{ignore} a [remark_1]{remark} that you made [earlier_1]{earlier}",
+      "examples": [
+        "He\u2019s [just_1]{just} [announce]{announced} the withdrawal of his [resignation]{resignation}."
+      ],
+      "id": "withdrawal__7"
+    },
+    {
+      "def": "the [removal]{removal} of an [army]{army} from an [area]{area} of [fighting]{fighting}",
+      "examples": [
+        "[troop_1]{Troop} [withdrawal]{withdrawals} will take [place_1]{place} [immediately]{immediately}."
+      ],
+      "id": "withdrawal__9"
+    },
+    {
+      "def": "a [period_1]{period} during which someone [feels]{feels} [sick_1]{sick} because they have [stop_1]{stopped} [take_1]{taking} a [drug_1]{drug} or other [substance]{substance} that they are [addicted]{addicted} to",
+      "examples": [],
+      "id": "withdrawal__11"
+    },
+    {
+      "def": "[behavior]{behavior} in which someone [prefer]{prefers} to be alone and [does]{does} not [want_1]{want} to [talk_1]{talk} to other [people_1]{people}",
+      "examples": [
+        "The [patient_1]{patient}\u2019s withdrawal can be a [sign_1]{sign} of [depression]{depression}."
+      ],
+      "id": "withdrawal__12"
+    }
+  ],
+  "word": "withdrawal"
+}

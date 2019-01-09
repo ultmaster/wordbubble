@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "in flower",
+  "senses": [
+    {
+      "def": "if a [plant_1]{plant} is in [flower_1]{flower}, [flower_1]{flowers} are [growing]{growing} on it",
+      "examples": [
+        "The [garden_1]{garden} [look_1]{looked} [beautiful]{beautiful} with all the [rose_1]{roses} in [flower_1]{flower}."
+      ],
+      "id": "in-flower__1"
+    }
+  ]
+}

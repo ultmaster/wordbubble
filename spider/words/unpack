@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to take [thing]{things} out of a [suitcase]{suitcase} or other [container]{container} that you were [carry_1]{carrying} them in",
+      "examples": [
+        "I [haven]{haven}\u2019t had time to unpack yet.",
+        "Can you please unpack the [shopping]{shopping}?"
+      ],
+      "id": "unpack__1"
+    },
+    {
+      "def": "to [explain]{explain} something [difficult]{difficult} by [reduce]{reducing} it to [small_1]{small} [simple]{simple} [stage_1]{stages} or by [use_1]{using} [simple]{simpler} [language]{language}",
+      "examples": [],
+      "id": "unpack__4"
+    },
+    {
+      "def": "to [increase_1]{increase} the [size_1]{size} of a [file_1]{file} to its [original_1]{original} [size_1]{size} after it has been [reduce]{reduced} [use_1]{using} a computer [program_1]{program}",
+      "examples": [],
+      "id": "unpack__5"
+    }
+  ],
+  "word": "unpack"
+}

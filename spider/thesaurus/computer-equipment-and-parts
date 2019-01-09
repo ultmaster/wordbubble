@@ -1,0 +1,516 @@
+{
+  "entries": [
+    {
+      "comment": "an AGP",
+      "entry": "accelerated graphics port",
+      "id": "accelerated-graphics-port#accelerated-graphics-port__1"
+    },
+    {
+      "comment": "a circuit board in a computer that makes the computer work faster by adding a faster central processing unit",
+      "entry": "accelerator card",
+      "id": "accelerator-card#accelerator-card__1"
+    },
+    {
+      "comment": "analog-to-digital converter: a piece of equipment that changes analog information into a digital form that can be used by a computer",
+      "entry": "ADC",
+      "id": "adc#adc__1"
+    },
+    {
+      "comment": "on old computers, the part of the computer that you put a floppy disk into",
+      "entry": "A drive",
+      "id": "a-drive#a-drive__1"
+    },
+    {
+      "comment": "accelerated graphics port: a place in a computer for connecting a circuit board that allows the computer to quickly show images that have height and depth",
+      "entry": "AGP",
+      "id": "agp#agp__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that you can [connect]{connect} to your computer and use with it, for [example]{example} a [printer]{printer}",
+      "entry": "auxiliary device",
+      "id": "auxiliary-device#auxiliary-device__1"
+    },
+    {
+      "comment": "the [feature_1]{features} that a computer must have in [order_1]{order} to [run_1]{run} a [particular_1]{particular} [piece_1]{piece} of [software]{software}",
+      "entry": "base hardware",
+      "id": "base-hardware#base-hardware__1"
+    },
+    {
+      "comment": "computer equipment or software that makes changing from one computer system to another easier, for example by changing the file format",
+      "entry": "bridgeware",
+      "id": "bridgeware#bridgeware__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [wire_1]{wires} that [send_1]{send} [information]{information} from one part of a computer system to another",
+      "entry": "bus",
+      "id": "bus_1#bus_1__6"
+    },
+    {
+      "comment": "a high-speed modem that allows a computer to connect to the Internet through the same underground wires as cable television",
+      "entry": "cable modem",
+      "id": "cable-modem#cable-modem__1"
+    },
+    {
+      "comment": "a circuit board that fits inside a computer and connects to a particular piece of equipment such as a modem or computer screen",
+      "entry": "card",
+      "id": "card_1#card_1__34"
+    },
+    {
+      "comment": "a piece of equipment in televisions and some computers that creates the image on the screen. A beam of high-energy electrons is directed toward the screen, where it makes different spots of color shine with light to make a picture.",
+      "entry": "cathode ray tube",
+      "id": "cathode-ray-tube#cathode-ray-tube__1"
+    },
+    {
+      "comment": "a CD [writer]{writer}",
+      "entry": "CD burner",
+      "id": "cd-burner#cd-burner__1"
+    },
+    {
+      "comment": "the main hard disk drive on a computer system",
+      "entry": "C drive",
+      "id": "c-drive#c-drive__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [recording]{recording} [information]{information} onto CDs",
+      "entry": "CD writer",
+      "id": "cd-writer#cd-writer__1"
+    },
+    {
+      "comment": "a CPU in a computer",
+      "entry": "central processing unit",
+      "id": "central-processing-unit#central-processing-unit__1"
+    },
+    {
+      "comment": "a very small piece of silicon marked with electronic connections that is used in computers and other machines",
+      "entry": "chip",
+      "id": "chip_1#chip_1__5"
+    },
+    {
+      "comment": "a [central]{central} [process_2#process_2__10]{processing} [unit]{unit}: the part of a computer that [control_1]{controls} what it [does]{does}",
+      "entry": "CPU",
+      "id": "cpu#cpu__1"
+    },
+    {
+      "comment": "[cathode]{cathode} [ray]{ray} [tube]{tube}",
+      "entry": "CRT",
+      "id": "crt#crt__1"
+    },
+    {
+      "comment": "a part of a laptop computer into which you put a cable so that you can use the Internet",
+      "entry": "dataport",
+      "id": "dataport#dataport__1"
+    },
+    {
+      "comment": "a computer screen that can only show a fixed number of colors and shades  (=types) of gray",
+      "entry": "digital display",
+      "id": "digital-display#digital-display__1"
+    },
+    {
+      "comment": "the part of a computer that reads information from a disk or records information onto a disk",
+      "entry": "disk drive",
+      "id": "disk-drive#disk-drive__1"
+    },
+    {
+      "comment": "a computer [screen_1]{screen} or [similar]{similar} [piece_1]{piece} of [equipment]{equipment} that [show_1]{shows} [information]{information}",
+      "entry": "display",
+      "id": "display_1#display_1__10"
+    },
+    {
+      "comment": "a piece of equipment to which you can connect a portable computer temporarily, for example when you are traveling between different offices, so that you can use it like a PC",
+      "entry": "docking station",
+      "id": "docking-station#docking-station__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that must be [connected]{connected} to a computer before a [particular_1]{particular} [program_1]{program} can [work_1]{work}",
+      "entry": "dongle",
+      "id": "dongle#dongle__1"
+    },
+    {
+      "comment": "the part of a computer that sends or receives information from a disk",
+      "entry": "drive",
+      "id": "drive_2#drive_2__7"
+    },
+    {
+      "comment": "a [keyboard_1]{keyboard} [invent]{invented} in 1936 with a [different]{different} [layout]{layout} from the [standard_1]{standard} QWERTY [keyboard_1]{keyboard}",
+      "entry": "Dvorak keyboard",
+      "id": "dvorak-keyboard#dvorak-keyboard__1"
+    },
+    {
+      "comment": "a circuit board that makes a computer more powerful or able to do more things",
+      "entry": "expansion card",
+      "id": "expansion-card#expansion-card__1"
+    },
+    {
+      "comment": "a [place_1]{place} on a computer where you can [connect]{connect} another [piece_1]{piece} of [equipment]{equipment} to it and [make_1]{make} it more [powerful]{powerful}",
+      "entry": "expansion slot",
+      "id": "expansion-slot#expansion-slot__1"
+    },
+    {
+      "comment": "a modem that allows a computer to send and receive faxes",
+      "entry": "fax-modem",
+      "id": "fax-modem#fax-modem__1"
+    },
+    {
+      "comment": "a type of scanner that consists of a flat surface on which you put documents to be scanned",
+      "entry": "flatbed scanner",
+      "id": "flatbed-scanner#flatbed-scanner__1"
+    },
+    {
+      "comment": "a very thin computer [screen_1]{screen} with a [flat_1]{flat} [surface_1]{surface} that you [look_1]{look} at",
+      "entry": "flat panel monitor",
+      "id": "flat-panel-monitor#flat-panel-monitor__1"
+    },
+    {
+      "comment": "a part in a computer that [change_1]{changes} [software]{software} [instruction]{instructions} into [electrical_1]{electrical} [signal_1]{signals} that show [image_1]{images} on a [screen_1]{screen}",
+      "entry": "graphics adapter",
+      "id": "graphics-adapter#graphics-adapter__1"
+    },
+    {
+      "comment": "the part [inside_1]{inside} a computer that [change_1]{changes} [information]{information} into [image_1]{images}",
+      "entry": "graphics card",
+      "id": "graphics-card#graphics-card__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [put]{putting} [design_1]{designs} into a computer by [drawing]{drawing} them with an [electronic]{electronic} [pen_1]{pen} onto a [special_1]{special} [surface_1]{surface}",
+      "entry": "graphics tablet",
+      "id": "graphics-tablet#graphics-tablet__1"
+    },
+    {
+      "comment": "computer equipment. Computer programs are called software",
+      "entry": "hardware",
+      "id": "hardware#hardware__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [printer]{printer} for [computer]{computers} that [print_1]{prints} [use_1]{using} very [small_1]{small} [drop_1]{drops} of [ink_1]{ink}",
+      "entry": "ink-jet printer",
+      "id": "ink-jet-printer#ink-jet-printer__1"
+    },
+    {
+      "comment": "the [connection]{connection} on a computer or [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} where [information]{information} [enter]{enters} it from another [machine_1]{machine}",
+      "entry": "input",
+      "id": "input_1#input_1__7"
+    },
+    {
+      "comment": "[equipment]{equipment} or [software]{software} that [control_1]{controls} the [passage]{passage} of [information]{information} into and out of a computer or computer part",
+      "entry": "input/output",
+      "id": "input-output#input-output__1"
+    },
+    {
+      "comment": "a [point_1]{point} in a computer system where [information]{information} [pass_1]{passes} from one part of the system to another or from the computer to the [person]{person} [use_1]{using} it",
+      "entry": "interface",
+      "id": "interface_1#interface_1__1"
+    },
+    {
+      "comment": "[equipment]{equipment} or [software]{software} that [allow]{allows} two [computer]{computers} or [program_1]{programs} to [interface_1]{interface}",
+      "entry": "interfacing",
+      "id": "interfacing#interfacing__1"
+    },
+    {
+      "comment": "a piece of equipment that connects a network or user to the Internet",
+      "entry": "intermediate system",
+      "id": "intermediate-system#intermediate-system__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [equipment]{equipment} with [buttons]{buttons} that you [press_1]{press} to [control_1]{control} the [movement]{movement} of the [image_1]{images} on the [screen_1]{screen} in some computer [game_1]{games}",
+      "entry": "joypad",
+      "id": "joypad#joypad__1"
+    },
+    {
+      "comment": "an [upright_1]{upright} [handle_1]{handle} that you use to [control_1]{control} [object_1]{objects} on the [screen_1]{screen} in a computer [game_1]{game}",
+      "entry": "joystick",
+      "id": "joystick#joystick__1"
+    },
+    {
+      "comment": "a [keyboard_1]{keyboard} with a [split_1]{split} [screen_1]{screen} [developed]{developed} for use on [tablet]{tablets} and [large_1]{large} [smartphone]{smartphones}, which [make_1]{makes} it [easy_1]{easier} to [type_1]{type} [mainly]{mainly} with your [thumb_1]{thumbs}",
+      "entry": "KALQ keyboard",
+      "id": "kalq-keyboard#kalq-keyboard__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of computer [equipment]{equipment} with [key_1]{keys} on it, [used]{used} for [put]{putting} [information]{information} into a computer",
+      "entry": "keyboard",
+      "id": "keyboard_1#keyboard_1__5"
+    },
+    {
+      "comment": "a small keyboard, for example on a telephone, computer, or calculator",
+      "entry": "keypad",
+      "id": "keypad#keypad__1"
+    },
+    {
+      "comment": "a type of printer that you use with a computer, using light from a laser to make very clear letters and pictures",
+      "entry": "laser printer",
+      "id": "laser-printer#laser-printer__1"
+    },
+    {
+      "comment": "an [object_1]{object} [shaped_1]{shaped} [like_1]{like} a [pen_1]{pen} and [used]{used} for [touching_1]{touching} a computer [screen_1]{screen} to give [instruction]{instructions} to the computer",
+      "entry": "light pen",
+      "id": "light-pen#light-pen__1"
+    },
+    {
+      "comment": "a computer",
+      "entry": "machine",
+      "id": "machine_1#machine_1__4"
+    },
+    {
+      "comment": "an arrangement of electronic parts in a computer circuit",
+      "entry": "matrix",
+      "id": "matrix#matrix__4"
+    },
+    {
+      "comment": "a very small piece of silicon that contains the electronic connections for making a computer work",
+      "entry": "microchip",
+      "id": "microchip#microchip__1"
+    },
+    {
+      "comment": "a piece of electronic equipment inside a computer that makes it work. It is often simply called a processor.",
+      "entry": "microprocessor",
+      "id": "microprocessor#microprocessor__1"
+    },
+    {
+      "comment": "[musical_1]{musical} [instrument]{instrument} [digital]{digital} [interface_1]{interface}: a [method]{method} of [connect]{connecting} a computer to an [electronic]{electronic} [musical_1]{musical} [instrument]{instrument}",
+      "entry": "MIDI",
+      "id": "midi#midi__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [allow]{allows} you to [connect]{connect} a computer to the [internet]{Internet}",
+      "entry": "modem",
+      "id": "modem#modem__1"
+    },
+    {
+      "comment": "a computer [screen_1]{screen}, or the part of a computer that [contain]{contains} the [screen_1]{screen}",
+      "entry": "monitor",
+      "id": "monitor_2#monitor_2__1"
+    },
+    {
+      "comment": "a [screen_1]{screen} that [show_1]{shows} [picture_1]{pictures} or [information]{information}",
+      "entry": "monitor",
+      "id": "monitor_2#monitor_2__3"
+    },
+    {
+      "comment": "the main circuit board in a computer",
+      "entry": "motherboard",
+      "id": "motherboard#motherboard__1"
+    },
+    {
+      "comment": "a small object that you move in order to do things on a computer screen. When you press on a part of the mouse, you click on it. You also click on things on the computer screen itself, using a mouse",
+      "entry": "mouse",
+      "id": "mouse_1#mouse_1__3"
+    },
+    {
+      "comment": "one of the two or three [part_1]{parts} of a computer [mouse_1]{mouse} that you [press_1]{press} to give an [instruction]{instruction} to a computer",
+      "entry": "mouse button",
+      "id": "mouse-button#mouse-button__1"
+    },
+    {
+      "comment": "the flat part on a laptop that you operate with your fingers to do things on a computer screen",
+      "entry": "mousepad",
+      "id": "mousepad#mousepad__1"
+    },
+    {
+      "comment": "a piece of smooth soft material that you put under a computer mouse so that it can move smoothly. The usual British word is mouse mat.",
+      "entry": "mousepad",
+      "id": "mousepad#mousepad__2"
+    },
+    {
+      "comment": "a computer [mouse_1]{mouse} that [use_1]{uses} [light_1]{light} to see a [change_1]{change} in [position_1]{position}",
+      "entry": "optical mouse",
+      "id": "optical-mouse#optical-mouse__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} that you move across a [print_1]{printed} [page_1]{page} in [order_1]{order} to [store_1]{store} the [word_1]{words} either in its own [memory]{memory} or in your computer",
+      "entry": "optical pen",
+      "id": "optical-pen#optical-pen__1"
+    },
+    {
+      "comment": "a [connection]{connection} between a computer and another [piece_1]{piece} of [equipment]{equipment}, for [example]{example} a [printer]{printer}, that [use_1]{uses} more than one [wire_1]{wire} to [carry_1]{carry} [information]{information}",
+      "entry": "parallel port",
+      "id": "parallel-port#parallel-port__1"
+    },
+    {
+      "comment": "[personal_1]{personal} computer: a computer that is [design_2]{designed} to be [used]{used} by one [person]{person} at [home_1]{home} or in an [office]{office}",
+      "entry": "PC",
+      "id": "pc_1#pc_1__1"
+    },
+    {
+      "comment": "Personal Computer Memory Card Interface Adapter: a very small expansion board  (=electronic part) for computers, especially laptops  (=small computers that can be carried around)",
+      "entry": "PCMCIA",
+      "id": "pcmcia#pcmcia__1"
+    },
+    {
+      "comment": "an [electronic]{electronic} [object_1]{object} [similar]{similar} to a [pen_1]{pen} that you can use with a computer",
+      "entry": "pen",
+      "id": "pen_1#pen_1__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that you can [connect]{connect} to a computer, such as a [printer]{printer}",
+      "entry": "peripheral",
+      "id": "peripheral_2#peripheral_2__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [television]{television} or computer [screen_1]{screen} made by [put]{putting} a [mixture]{mixture} of [gas_1]{gases} between two [sheet]{sheets} of [glass]{glass}. This [produce_1]{produces} a very [clear_1]{clear} [picture_1]{picture} which can be [look_1]{looked} at from almost any [angle_1]{angle}.",
+      "entry": "plasma screen",
+      "id": "plasma-screen#plasma-screen__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} or [hardware]{hardware} that you [add_1]{add} to a computer to [increase_1]{increase} the [range_1]{range} of [thing]{things} it can do",
+      "entry": "plug-in",
+      "id": "plug-in_3#plug-in_3__1"
+    },
+    {
+      "comment": "a piece of equipment used for moving a cursor on a computer screen, for example a computer mouse",
+      "entry": "pointing device",
+      "id": "pointing-device#pointing-device__1"
+    },
+    {
+      "comment": "a part of a computer that you fit a cable into so that you can connect another piece of equipment to it",
+      "entry": "port",
+      "id": "port#port__6"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [printing]{printing} [document_1]{documents} that you have [create]{created} on a computer",
+      "entry": "printer",
+      "id": "printer#printer__1"
+    },
+    {
+      "comment": "a part of a computer [printer]{printer} that [put]{puts} the [letter_1]{letters}, [number_1]{numbers}, etc. on [paper_1]{paper}",
+      "entry": "printhead",
+      "id": "printhead#printhead__1"
+    },
+    {
+      "comment": "the part of a computer that [control_1]{controls} and [perform]{performs} all its [operation]{operations}",
+      "entry": "processor",
+      "id": "processor#processor__1"
+    },
+    {
+      "comment": "the [normal_1]{normal} computer [keyboard_1]{keyboard} that is [used]{used} for [typing]{typing} in the English [language]{language}. Its top [row_1]{row} of [letter_1]{letters} [start_1]{starts} on the [left_1]{left} with [q_1]{q}, w, e, r, t, and y.",
+      "entry": "QWERTY keyboard",
+      "id": "qwerty-keyboard#qwerty-keyboard__1"
+    },
+    {
+      "comment": "a piece of equipment or software that finds the best way of sending information between any two networks",
+      "entry": "router",
+      "id": "router#router__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that is [used]{used} for [copy_2]{copying} a [picture_1]{picture} or [document_1]{document} into a computer",
+      "entry": "scanner",
+      "id": "scanner#scanner__1"
+    },
+    {
+      "comment": "the [flat_1]{flat} [surface_1]{surface} on a computer, [television]{television}, or [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment} where [word_1]{words} and [picture_1]{pictures} are [shown]{shown}",
+      "entry": "screen",
+      "id": "screen_1#screen_1__1"
+    },
+    {
+      "comment": "[relate]{relating} to a computer [screen_1]{screen} or to what you can see on it",
+      "entry": "screen",
+      "id": "screen_1#screen_1__7"
+    },
+    {
+      "comment": "[small_1]{small} computer system [interface_1]{interface}: a part on a computer that is [design_2]{designed} for [connect]{connecting} it to another [piece_1]{piece} of [equipment]{equipment} such as a [printer]{printer}",
+      "entry": "SCSI",
+      "id": "scsi#scsi__1"
+    },
+    {
+      "comment": "a part of a computer where you can [connect]{connect} another [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "serial port",
+      "id": "serial-port#serial-port__1"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [silicon]{silicon} with a [set_1]{set} of [complicated]{complicated} [electronic]{electronic} [connection]{connections} on it, [used]{used} [especially]{especially} in [computer]{computers}",
+      "entry": "silicon chip",
+      "id": "silicon-chip#silicon-chip__1"
+    },
+    {
+      "comment": "a small circuit board inside a computer that changes information into sounds that you can hear, for example while you are playing a computer game",
+      "entry": "sound card",
+      "id": "sound-card#sound-card__1"
+    },
+    {
+      "comment": "a tool used for opening the case of a computer, mobile phone, etc. and moving or removing small parts such as wires or SIM cards",
+      "entry": "spudger",
+      "id": "spudger#spudger__1"
+    },
+    {
+      "comment": "a [joystick]{joystick}",
+      "entry": "stick",
+      "id": "stick_2#stick_2__15"
+    },
+    {
+      "comment": "an [instrument]{instrument} [used]{used} for [writing]{writing} in [ancient]{ancient} times, or a [similar]{similar} [modern]{modern} [instrument]{instrument} [used]{used} for [marking]{marking} a computer [screen_1]{screen}",
+      "entry": "stylus",
+      "id": "stylus#stylus__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that is [used]{used} for [protect]{protecting} [computer]{computers} from [damage_1]{damage} [cause_2]{caused} by a [sudden_1]{sudden} [increase_1]{increase} in [electrical_1]{electrical} [power_1]{power}",
+      "entry": "surge protector",
+      "id": "surge-protector#surge-protector__1"
+    },
+    {
+      "comment": "a computer [screen_1]{screen} and a [keyboard_1]{keyboard} [connected]{connected} to a computer system",
+      "entry": "terminal",
+      "id": "terminal_1#terminal_1__3"
+    },
+    {
+      "comment": "a computer [screen_1]{screen} that you [touch_1]{touch} in [order_1]{order} to [choose]{choose} what you [want_1]{want} to see next",
+      "entry": "touch screen",
+      "id": "touch-screen#touch-screen__1"
+    },
+    {
+      "comment": "a [tall]{tall} [narrow_1]{narrow} [box_1]{box} that [contain]{contains} the [part_1]{parts} of a computer that do most of its [work_1]{work}",
+      "entry": "tower",
+      "id": "tower_1#tower_1__7"
+    },
+    {
+      "comment": "a [ball_1]{ball} [used]{used} [instead]{instead} of a [mouse_1]{mouse} on a computer",
+      "entry": "trackball",
+      "id": "trackball#trackball__1"
+    },
+    {
+      "comment": "a [cathode]{cathode} [ray]{ray} [tube]{tube}",
+      "entry": "tube",
+      "id": "tube#tube__13"
+    },
+    {
+      "comment": "a piece of equipment such as a printer, keyboard, or modem that can be connected to a computer through a USB port",
+      "entry": "USB device",
+      "id": "usb-device#usb-device__1"
+    },
+    {
+      "comment": "a place on a computer where you can attach a cable for connecting a printer, keyboard, modem, etc.",
+      "entry": "USB port",
+      "id": "usb-port#usb-port__1"
+    },
+    {
+      "comment": "[video_1]{video} [display_1]{display} [terminal_1]{terminal}: the part of an [early_1]{early} computer that [contain]{contained} the [screen_1]{screen}",
+      "entry": "VDT",
+      "id": "vdt#vdt__1"
+    },
+    {
+      "comment": "[visual_1]{visual} [display_1]{display} [unit]{unit}: a computer [screen_1]{screen}",
+      "entry": "VDU",
+      "id": "vdu#vdu__1"
+    },
+    {
+      "comment": "the part [inside_1]{inside} a computer that [change_1]{changes} [information]{information} into [image_1]{images}",
+      "entry": "video adapter",
+      "id": "video-adapter#video-adapter__1"
+    },
+    {
+      "comment": "the part [inside_1]{inside} a computer that [change_1]{changes} [information]{information} into [image_1]{images}",
+      "entry": "video card",
+      "id": "video-card#video-card__1"
+    },
+    {
+      "comment": "a VDU",
+      "entry": "visual display unit",
+      "id": "visual-display-unit#visual-display-unit__1"
+    },
+    {
+      "comment": "a long [object_1]{object} in front of a [keyboard_1]{keyboard} on which a [user]{user} [rest_1]{rests} their [wrist]{wrists} so that they do not [develop]{develop} [problem]{problems} with their [arm_1]{arm} or hand [muscle_1]{muscles}",
+      "entry": "wrist support",
+      "id": "wrist-support#wrist-support__1"
+    }
+  ],
+  "thesaurus": "Computer equipment and parts",
+  "type": "Related words"
+}

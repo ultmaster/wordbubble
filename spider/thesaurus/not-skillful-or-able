@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[lacking]{lacking} the [ability_1]{ability} or [skill]{skills} to do something",
+      "entry": "incompetent",
+      "id": "incompetent_1#incompetent_1__1"
+    },
+    {
+      "comment": "[completely]{completely} [lacking]{lacking} [skill]{skill} or [ability_1]{ability}",
+      "entry": "incapable",
+      "id": "incapable#incapable__7"
+    },
+    {
+      "comment": "very [bad_1]{bad} at [doing]{doing} something",
+      "entry": "awful",
+      "id": "awful_1#awful_1__6"
+    },
+    {
+      "comment": "not [able_1]{able} to do anything without [help_1]{help}",
+      "entry": "helpless",
+      "id": "helpless#helpless__1"
+    },
+    {
+      "comment": "done or made in a way that [show_1]{shows} a [lack_1]{lack} of [skill]{skill}",
+      "entry": "amateur",
+      "id": "amateur_2#amateur_2__5"
+    },
+    {
+      "comment": "someone who is [inept]{inept} [does]{does} not have much [ability_1]{ability} or [skill]{skill}",
+      "entry": "inept",
+      "id": "inept#inept__1"
+    },
+    {
+      "comment": "[lacking]{lacking} the [skill]{skill} or [experience_1]{experience} to do something well",
+      "entry": "inexpert",
+      "id": "inexpert#inexpert__1"
+    },
+    {
+      "comment": "not [skillful]{skillful}",
+      "entry": "poor",
+      "id": "poor_1#poor_1__15"
+    },
+    {
+      "comment": "not [able_1]{able} to do something well",
+      "entry": "no good",
+      "id": "no-good#no-good__3"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone is [completely]{completely} [unable]{unable} to do something",
+      "entry": "someone couldn\u2019t do something if they tried",
+      "id": "someone-couldn-t-do-something-if-they-tried#someone-couldn-t-do-something-if-they-tried__1"
+    }
+  ],
+  "thesaurus": "Not skillful or able",
+  "type": "Synonyms"
+}

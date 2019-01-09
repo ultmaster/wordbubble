@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a for-[profit_1]{profit} [organization]{organization} [aim_1]{aims} to [make_1]{make} a [profit_1]{profit}",
+      "examples": [],
+      "id": "for-profit__1"
+    },
+    {
+      "def": "a for-[profit_1]{profit} [business]{business} or [organization]{organization} [aim_1]{aims} to [make_1]{make} a [profit_1]{profit}",
+      "examples": [
+        "a for-profit [business]{business}/[company]{company}"
+      ],
+      "id": "for-profit__2"
+    }
+  ],
+  "word": "for-profit"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to put [paint_1]{paint} onto something to [change_1]{change} its [color_1]{color}",
+      "entry": "paint",
+      "id": "paint_1#paint_1__1"
+    },
+    {
+      "comment": "to cover the walls of a room with wallpaper",
+      "entry": "paper",
+      "id": "paper_3#paper_3__1"
+    },
+    {
+      "comment": "to [fix_1]{fix} up an [old]{old} [building]{building}, [car]{car}, [boat]{boat}, etc.",
+      "entry": "do up",
+      "id": "do-up#do-up__11"
+    },
+    {
+      "comment": "to [paint_1]{paint} [wall_1]{walls} or [building]{buildings} [white_1]{white} [use_1]{using} [whitewash_1]{whitewash}",
+      "entry": "whitewash",
+      "id": "whitewash_2#whitewash_2__3"
+    },
+    {
+      "comment": "to cover a wall with plaster or cement",
+      "entry": "render",
+      "id": "render#render__14"
+    },
+    {
+      "comment": "to put [wallpaper_1]{wallpaper} onto [wall_1]{walls}",
+      "entry": "wallpaper",
+      "id": "wallpaper_2#wallpaper_2__1"
+    },
+    {
+      "comment": "to paint a room again or put new wallpaper on the walls",
+      "entry": "redecorate",
+      "id": "redecorate#redecorate__1"
+    },
+    {
+      "comment": "to [decorate]{decorate} a [building]{building} or [room_1]{room} again in a [completely]{completely} [different]{different} way",
+      "entry": "do over",
+      "id": "do-over#do-over__3"
+    },
+    {
+      "comment": "to put something such as [pipe_1]{pipes}, [wire_1]{wires}, or a [carpet_1]{carpet} into the [correct_1]{correct} [position_1]{position} in the [ground_1]{ground} or on the [floor_1]{floor}, so that they are ready to be [used]{used}",
+      "entry": "lay",
+      "id": "lay_1#lay_1__6"
+    },
+    {
+      "comment": "to [prepare]{prepare} a [surface_1]{surface} for [paint_1]{paint} or some other [substance]{substance}",
+      "entry": "prime",
+      "id": "prime_2#prime_2__6"
+    }
+  ],
+  "thesaurus": "To paint and decorate",
+  "type": "Synonyms"
+}

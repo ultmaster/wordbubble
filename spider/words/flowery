@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "full of [flower_1]{flowers}",
+      "examples": [
+        "They [picnic_2]{picnicked} in a flowery [meadow]{meadow}."
+      ],
+      "id": "flowery__1"
+    },
+    {
+      "def": "[decorate]{decorated} with a [pattern_1]{pattern} of [flower_1]{flowers}",
+      "examples": [
+        "a flowery [dress_1]{dress}"
+      ],
+      "id": "flowery__4"
+    },
+    {
+      "def": "flowery [language]{language} or [writing]{writing} [use_1]{uses} many [complicated]{complicated} [word_1]{words} that are [intended_1]{intended} to [make_1]{make} it more [attractive]{attractive}",
+      "examples": [],
+      "id": "flowery__6"
+    }
+  ],
+  "word": "flowery"
+}

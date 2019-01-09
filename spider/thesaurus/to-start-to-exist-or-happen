@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [begin]{begin} to [happen]{happen} or take [place_1]{place}",
+      "entry": "start",
+      "id": "start_1#start_1__1"
+    },
+    {
+      "comment": "to [start_1]{start} [happening_1]{happening} or [existing]{existing}",
+      "entry": "begin",
+      "id": "begin#begin__16"
+    },
+    {
+      "comment": "if a [particular_1]{particular} [situation]{situation} or [problem]{problem} [arise]{arises}, it [begin]{begins} to [exist]{exist} or to [develop]{develop}",
+      "entry": "arise",
+      "id": "arise#arise__1"
+    },
+    {
+      "comment": "to [happen]{happen}, take [place_1]{place}, or [begin]{begin} to [exist]{exist}",
+      "entry": "arrive",
+      "id": "arrive#arrive__14"
+    },
+    {
+      "comment": "to [begin]{begin} to [exist]{exist} or [appear]{appear} for the first time",
+      "entry": "originate",
+      "id": "originate#originate__1"
+    },
+    {
+      "comment": "to [start_1]{start} to [exist]{exist}, or to [start_1]{start} to be [noticeable]{noticeable}",
+      "entry": "develop",
+      "id": "develop#develop__23"
+    },
+    {
+      "comment": "to [begin]{begin}, or to [begin]{begin} something",
+      "entry": "commence",
+      "id": "commence#commence__1"
+    },
+    {
+      "comment": "if something [unpleasant]{unpleasant} [set_1]{sets} in, it [start_1]{starts} to [happen]{happen} and have an [effect_1]{effect}, and is not [likely_1]{likely} to [stop_1]{stop} for a long time",
+      "entry": "set in",
+      "id": "set-in#set-in__1"
+    },
+    {
+      "comment": "to [start_1]{start} to [exist]{exist}",
+      "entry": "come into being",
+      "id": "come-into-being#come-into-being__1"
+    },
+    {
+      "comment": "if [thing]{things} [fall_1]{fall} or [fit_1]{fit} into [place_1]{place}, they [start_1]{start} to [happen]{happen} in the way that you [want_1]{want} them to",
+      "entry": "fall/fit into place",
+      "id": "fall-fit-into-place#fall-fit-into-place__3"
+    }
+  ],
+  "thesaurus": "To start to exist or happen",
+  "type": "Synonyms"
+}

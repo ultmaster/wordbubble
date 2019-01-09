@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [story]{story} about what [happen]{happens} to a [group_1]{group} of [character]{characters} over a long [period_1]{period} of time",
+      "examples": [
+        "a [civil]{Civil} War saga [star_2]{starring} Clark [gable]{Gable}"
+      ],
+      "id": "saga__1"
+    },
+    {
+      "def": "a long [series]{series} of [event]{events}, or a [description]{description} of them",
+      "examples": [
+        "Have you [heard]{heard} the saga of our [roof_1]{roof} [repair_1]{repairs}?"
+      ],
+      "id": "saga__3"
+    },
+    {
+      "def": "a long [story]{story} [written_1]{written} in [norway]{Norway} or [iceland]{Iceland} during the Middle Ages",
+      "examples": [],
+      "id": "saga__5"
+    }
+  ],
+  "word": "saga"
+}

@@ -1,0 +1,31 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[thing]{things}, [especially]{especially} [valuable]{valuable} [thing]{things}, that are [own_2]{owned} by someone",
+      "examples": [
+        "The [book_1]{books} are my [personal_1]{personal} property.",
+        "He was [charged]{charged} with [receive]{receiving} [stolen]{stolen} property."
+      ],
+      "id": "property__1"
+    },
+    {
+      "def": "[land_1]{land} and the [building]{buildings} on it",
+      "examples": [
+        "He [own_2]{owns} several [residential]{residential} [property]{properties} in London and [new]{New} York.",
+        "The [sign_1]{sign} [said_1]{said} \u201c[private_1]{Private} [property]{Property}, Keep Out.\u201d",
+        "[property]{Property} [price_1]{prices} are [fall_1]{falling}.",
+        "[wealthy]{wealthy} property [owner]{owners}"
+      ],
+      "id": "property__5"
+    },
+    {
+      "def": "a [quality_1]{quality} or [feature_1]{feature} of something",
+      "examples": [
+        "The [water_1]{water} is [said_1]{said} to have [healing_1]{healing} [property]{properties}."
+      ],
+      "id": "property__11"
+    }
+  ],
+  "word": "property"
+}

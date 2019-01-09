@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "weigh down",
+  "senses": [
+    {
+      "def": "to [make_1]{make} someone [heavy_1]{heavy} and [unable]{unable} to move [easily]{easily}",
+      "examples": [
+        "If you [weigh]{weigh} yourself down you\u2019ll get very [tired]{tired}.",
+        "The [waiter]{waiters} were [weigh]{weighed} down by [huge]{huge} [tray]{trays} of [food]{food}."
+      ],
+      "id": "weigh-down__1"
+    },
+    {
+      "def": "to cause [problem]{problems} for someone or something, or to [make_1]{make} someone [worried]{worried}",
+      "examples": [
+        "[wall_1]{Wall} [street_1]{Street} has been [weigh]{weighed} down by [economic]{economic} [uncertainty]{uncertainty}."
+      ],
+      "id": "weigh-down__4"
+    }
+  ]
+}

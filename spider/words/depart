@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} and [start_1]{start} a [trip_1]{trip}",
+      "examples": [
+        "The [airplane]{airplane} [departed]{departed} at noon.",
+        "Our [flight]{flight} [depart]{departs} from Dulles at 2 o\u2019[clock_1]{clock}.",
+        "The [foreign]{Foreign} [minister_1]{Minister} will depart for Cairo this [evening_1]{evening}.",
+        "Before [depart]{departing} Colombo, they [visit_1]{visited} a Buddhist [temple]{temple}."
+      ],
+      "id": "depart__1"
+    },
+    {
+      "def": "to [die_1]{die}",
+      "examples": [
+        "He [departed]{departed} this [life]{life} in the [winter_1]{winter} of 1973."
+      ],
+      "id": "depart__7"
+    }
+  ],
+  "word": "depart"
+}

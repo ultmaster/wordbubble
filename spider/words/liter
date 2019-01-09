@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [unit]{unit} for [measure_2]{measuring} an amount of [liquid_1]{liquid} or [gas_1]{gas} in the metric system, [contain]{containing} 1000 [milliliter]{milliliters}",
+      "examples": [
+        "20 [liter]{liters} of [water_1]{water}"
+      ],
+      "id": "liter__1"
+    },
+    {
+      "def": "a [unit]{unit} for [measure_2]{measuring} the [size_1]{size} of a [vehicle]{vehicle}\u2019s [engine]{engine}",
+      "examples": [
+        "The [new]{new} [model_1]{model} is [available]{available} with a 2-liter [gasoline]{gasoline} [engine]{engine} or a 3-liter [diesel]{diesel} [engine]{engine}."
+      ],
+      "id": "liter__3"
+    }
+  ],
+  "word": "liter"
+}

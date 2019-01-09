@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [organization]{organization} or system that is made up of many [part_1]{parts} that [work_1]{work} together",
+      "entry": "structure",
+      "id": "structure_1#structure_1__10"
+    },
+    {
+      "comment": "a [large_1]{large} [organization]{organization} such as a [bank_1]{bank}, [hospital]{hospital}, [university]{university}, or [prison]{prison}",
+      "entry": "institution",
+      "id": "institution#institution__1"
+    },
+    {
+      "comment": "an [organization]{organization} that [provide]{provides} [information]{information} or [service_1]{services}",
+      "entry": "bureau",
+      "id": "bureau#bureau__4"
+    },
+    {
+      "comment": "an [organization]{organization} of [people_1]{people} who all have the same [job_1]{job}, [goals]{goals}, or [interest_1]{interests}",
+      "entry": "guild",
+      "id": "guild#guild__1"
+    },
+    {
+      "comment": "a [large_1]{large} [organization]{organization} made up of several [small_1]{smaller} [organization]{organizations} or [group_1]{groups} that [share_1]{share} [similar]{similar} [aim_1]{aims}",
+      "entry": "federation",
+      "id": "federation#federation__3"
+    },
+    {
+      "comment": "an [organization]{organization}",
+      "entry": "setup",
+      "id": "setup#setup__3"
+    },
+    {
+      "comment": "an [organization]{organization} or [activity]{activity} that [exist]{exists} to [hide_1]{hide} an [illegal_1]{illegal} or [secret_1]{secret} one",
+      "entry": "front",
+      "id": "front_1#front_1__21"
+    },
+    {
+      "comment": "an [organization]{organization} that you [join_1]{join} in [order_1]{order} to [buy_1]{buy} something such as [book_1]{books} or CDs that are [sent]{sent} to you by [mail_1]{mail}",
+      "entry": "club",
+      "id": "club_1#club_1__19"
+    },
+    {
+      "comment": "an [organization]{organization} or [industry]{industry} that [try_1]{tries} to [achieve]{achieve} [social_1]{social} or [political]{political} [change_1]{change} on a [particular_1]{particular} [issue_1]{issue}",
+      "entry": "special interest",
+      "id": "special-interest#special-interest__1"
+    },
+    {
+      "comment": "an [organization]{organization} or [institution]{institution} that [control_1]{controls} something, often a [public_1]{public} [service_1]{service}",
+      "entry": "authority",
+      "id": "authority#authority__12"
+    }
+  ],
+  "thesaurus": "General words for organizations and institutions",
+  "type": "Synonyms"
+}

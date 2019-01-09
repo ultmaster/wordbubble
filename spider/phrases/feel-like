@@ -1,0 +1,15 @@
+{
+  "part": "phrase",
+  "phrase": "feel like",
+  "senses": [
+    {
+      "def": "to [want_1]{want} something, or to [want_1]{want} to do something",
+      "examples": [
+        "I [feel_1]{feel} [like_1]{like} a [cup_1]{cup} of [coffee]{coffee}.",
+        "I [felt_1]{felt} [like_1]{like} I [need_1]{needed} a [walk_1]{walk}.",
+        "Do you [feel_1]{feel} [like_1]{like} [going_1]{going} out [tonight_1]{tonight}?"
+      ],
+      "id": "feel-like__1"
+    }
+  ]
+}

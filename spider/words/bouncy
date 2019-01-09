@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a bouncy [ball_1]{ball} [bounce_1]{bounces} well when it [hit_1]{hits} a [surface_1]{surface}",
+      "examples": [],
+      "id": "bouncy__1"
+    },
+    {
+      "def": "a bouncy [surface_1]{surface} [move_1]{moves} up and down when you [walk_1]{walk}, [jump_1]{jump}, etc. on it",
+      "examples": [
+        "a bouncy [bed_1]{bed}"
+      ],
+      "id": "bouncy__2"
+    },
+    {
+      "def": "[happy_1]{happy}, [lively]{lively}, and [enthusiastic]{enthusiastic}",
+      "examples": [
+        "a bouncy [tune_1]{tune}/[personality]{personality}"
+      ],
+      "id": "bouncy__4"
+    }
+  ],
+  "word": "bouncy"
+}

@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "be in agreement",
+  "senses": [
+    {
+      "def": "to have the same [opinion]{opinion}, or to have made the same [decision_1]{decision}",
+      "examples": [
+        "We are all in [agreement]{agreement} that Mr. Ross should [resign]{resign}."
+      ],
+      "id": "be-in-agreement__1"
+    },
+    {
+      "def": "to [agree]{agree} with a [policy]{policy} or [decision_1]{decision}",
+      "examples": [
+        "[city]{City} [hall]{hall} is in [agreement]{agreement} with [government]{government} [policy]{policy}."
+      ],
+      "id": "be-in-agreement__3"
+    },
+    {
+      "def": "if a [set_1]{set} of [fact]{facts} is in [agreement]{agreement} with another, they both show or [prove]{prove} the same thing",
+      "examples": [
+        "These [recent]{recent} [findings]{findings} are in [agreement]{agreement} with our [previous_1]{previous} [conclusion]{conclusions}."
+      ],
+      "id": "be-in-agreement__5"
+    }
+  ]
+}

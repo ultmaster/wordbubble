@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in the field",
+  "senses": [
+    {
+      "def": "in [condition_1]{conditions} that you find in the [real_1]{real} [world]{world}, not in a [laboratory]{laboratory} or [classroom]{classroom}",
+      "examples": [
+        "The [new]{new} [drug_1]{drugs} have not yet been [test_2]{tested} in the [field_1]{field}."
+      ],
+      "id": "in-the-field__1"
+    },
+    {
+      "def": "in a [battle_1]{battle} or war",
+      "examples": [
+        "[troop_1]{troops} in the [field_1]{field}"
+      ],
+      "id": "in-the-field__3"
+    }
+  ]
+}

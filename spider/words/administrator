@@ -1,0 +1,23 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone whose [job_1]{job} is to [manage]{manage} a [business]{business}, [organization]{organization}, or [institution]{institution}",
+      "examples": [],
+      "id": "administrator__1"
+    },
+    {
+      "def": "a [person]{person} or [company]{company} that [take_1]{takes} over the [financial]{financial} [affair]{affairs} of a [company]{company} that cannot [pay_1]{pay} its [debt]{debts}",
+      "examples": [
+        "An administrator has already been [appointed]{appointed} to [deal_1]{deal} with the [company]{company}\u2019s [dire]{dire} [financial]{financial} [situation]{situation}."
+      ],
+      "id": "administrator__2"
+    },
+    {
+      "def": "someone with [technical]{technical} [knowledge]{knowledge} who [maintain]{maintains} a computer or [network_1]{network} and [control_1]{controls} [access_1]{access} to it",
+      "examples": [],
+      "id": "administrator__4"
+    }
+  ],
+  "word": "administrator"
+}

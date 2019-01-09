@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the [act_1]{act} of [take_1]{taking} [action_1]{action} in [order_1]{order} to [prevent]{prevent} someone from [doing]{doing} something or to [prevent]{prevent} something from [happening_1]{happening}",
+      "entry": "obstruction",
+      "id": "obstruction#obstruction__8"
+    },
+    {
+      "comment": "the [act_1]{act} of [stop_1]{stopping} something for a [period_1]{period} of time",
+      "entry": "interruption",
+      "id": "interruption#interruption__3"
+    },
+    {
+      "comment": "the [act_1]{act} of [prevent]{preventing} something or someone from being [successful]{successful}",
+      "entry": "frustration",
+      "id": "frustration#frustration__7"
+    },
+    {
+      "comment": "the [state_1]{state} of being [completely]{completely} [unable]{unable} to [operate]{operate} [normally]{normally} or [effectively]{effectively}",
+      "entry": "paralysis",
+      "id": "paralysis#paralysis__3"
+    },
+    {
+      "comment": "[thing]{things} that are done to [stop_1]{stop} someone from [achieve]{achieving} something or to [prevent]{prevent} a [plan_1]{plan} or [process_1]{process} from being [successful]{successful}",
+      "entry": "sabotage",
+      "id": "sabotage_1#sabotage_1__3"
+    },
+    {
+      "comment": "the act of inhibiting a process",
+      "entry": "inhibition",
+      "id": "inhibition#inhibition__5"
+    },
+    {
+      "comment": "the [act_1]{act} of [prevent]{preventing} something, or [thing]{things} that [people_1]{people} do in [order_1]{order} to [prevent]{prevent} something",
+      "entry": "prevention",
+      "id": "prevention#prevention__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [trying]{trying} to [prevent]{prevent} something from [happening_1]{happening}, [especially]{especially} because you do not [approve]{approve} of it or [think_1]{think} it is [harmful]{harmful}",
+      "entry": "discouragement",
+      "id": "discouragement#discouragement__3"
+    },
+    {
+      "comment": "a [principle]{principle} that [prevent]{prevents} a [person]{person} from [assert]{asserting} [matter_1]{matters} in [court_1]{court}",
+      "entry": "estoppel",
+      "id": "estoppel#estoppel__1"
+    }
+  ],
+  "thesaurus": "The act or process of stopping something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [act_1]{act} of [store_2]{storing} something",
+      "examples": [
+        "the storage of [chemical_1]{chemical} [weapon]{weapons}",
+        "The [table_1]{table} can be [fold_1]{folded} [flat_1]{flat} for [easy_1]{easy} storage.",
+        "The [area]{area} [underneath]{underneath} [provide]{provides} [useful]{useful} storage.",
+        "storage [space_1]{space}/[facility]{facilities}",
+        "a storage [jar_1]{jar}/[rack_1]{rack}"
+      ],
+      "id": "storage__1"
+    },
+    {
+      "def": "the [ability_1]{ability} of a computer to [store_1]{store} [information]{information}, or the [process_1]{process} of [doing]{doing} this",
+      "examples": [],
+      "id": "storage__9"
+    },
+    {
+      "def": "the [money]{money} that it [cost_1]{costs} to [store_1]{store} something",
+      "examples": [],
+      "id": "storage__10"
+    }
+  ],
+  "word": "storage"
+}

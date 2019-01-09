@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "stand by",
+  "senses": [
+    {
+      "def": "to be ready to do something",
+      "examples": [
+        "A [boat]{boat} will be [standing_1]{standing} by in [case_1]{case} of an [emergency_1]{emergency}."
+      ],
+      "id": "stand-by__1"
+    },
+    {
+      "def": "to not take [action_1]{action} when you should",
+      "examples": [
+        "We can\u2019t [just_1]{just} [stand_1]{stand} by and [watch_1]{watch} her [die_1]{die}."
+      ],
+      "id": "stand-by__3"
+    },
+    {
+      "def": "to be [loyal]{loyal} to someone who is in a [difficult]{difficult} [situation]{situation}",
+      "examples": [
+        "We [knew]{knew} they would [stand_1]{stand} by us no [matter_1]{matter} what we\u2019d done."
+      ],
+      "id": "stand-by__5"
+    },
+    {
+      "def": "to [continue]{continue} to have a [particular_1]{particular} [belief]{belief} or [opinion]{opinion}, even though other [people_1]{people} have [doubt_1]{doubts} about it or [disagree]{disagree} with you",
+      "examples": [
+        "The [doctor_1]{doctors} are [standing_1]{standing} by their [claim_1]{claim} that they are not at [fault_1]{fault}."
+      ],
+      "id": "stand-by__7"
+    }
+  ]
+}

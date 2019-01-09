@@ -1,0 +1,156 @@
+{
+  "entries": [
+    {
+      "comment": "an [activity]{activity} [vacation_1]{vacation}",
+      "entry": "activity holiday",
+      "id": "activity-holiday#activity-holiday__1"
+    },
+    {
+      "comment": "a vacation on which you spend your time doing a particular activity such as walking, canoeing, rock-climbing, painting, or cooking",
+      "entry": "activity vacation",
+      "id": "activity-vacation#activity-vacation__1"
+    },
+    {
+      "comment": "a type of organized vacation in which people do new and exciting things, for example a trek or a safari",
+      "entry": "adventure travel",
+      "id": "adventure-travel#adventure-travel__1"
+    },
+    {
+      "comment": "a [special_1]{special} [vacation_1]{vacation} [taken_1]{taken} by parents-to-be before their first [baby_1]{baby} is [born]{born}",
+      "entry": "babymoon",
+      "id": "babymoon#babymoon__1"
+    },
+    {
+      "comment": "a [short_1]{short} [vacation_1]{vacation}",
+      "entry": "break",
+      "id": "break_2#break_2__10"
+    },
+    {
+      "comment": "a [place_1]{place} for [children]{children} to [stay_1]{stay} in the [summer]{summer} that [offer_1]{offers} [training]{training} in a [particular_1]{particular} [skill]{skill}",
+      "entry": "camp",
+      "id": "camp_1#camp_1__3"
+    },
+    {
+      "comment": "a very [short_1]{short} [holiday_1]{holiday} in which you go to a [place_1]{place} and come back on the same [day]{day}",
+      "entry": "daycation",
+      "id": "daycation#daycation__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you go [away_1]{away} on [vacation_1]{vacation}",
+      "entry": "escape",
+      "id": "escape_2#escape_2__10"
+    },
+    {
+      "comment": "a [short_1]{short} [visit_1]{visit} to an [interesting]{interesting} [place_1]{place} [arrange]{arranged} by a [tourist]{tourist} [organization]{organization}, often as part of a [vacation_1]{vacation}",
+      "entry": "excursion",
+      "id": "excursion#excursion__3"
+    },
+    {
+      "comment": "a [short_1]{short} [vacation_1]{vacation}",
+      "entry": "getaway",
+      "id": "getaway#getaway__3"
+    },
+    {
+      "comment": "a [vacation_1]{vacation}",
+      "entry": "holiday",
+      "id": "holiday_1#holiday_1__3"
+    },
+    {
+      "comment": "a [vacation_1]{vacation} that two [people_1]{people} take after they get [married]{married}",
+      "entry": "honeymoon",
+      "id": "honeymoon_1#honeymoon_1__1"
+    },
+    {
+      "comment": "an [arrangement]{arrangement} where two [family_1]{families} [exchange_1]{exchange} [house_1]{houses} for a [vacation_1]{vacation}",
+      "entry": "house swap",
+      "id": "house-swap#house-swap__1"
+    },
+    {
+      "comment": "an organized trip with a group of other people in a four-wheel drive vehicle, for example to look at wild animals",
+      "entry": "jeep safari",
+      "id": "jeep-safari#jeep-safari__1"
+    },
+    {
+      "comment": "a [trip_1]{trip} that [include]{includes} [lecture_1]{lectures} on the [place_1]{places} or [building]{buildings} that you [visit_1]{visit} and the [painting]{paintings} or other [object_1]{objects} that you see",
+      "entry": "lecture tour",
+      "id": "lecture-tour#lecture-tour__1"
+    },
+    {
+      "comment": "a [short_1]{short} [holiday_1]{holiday} for only two or three [day]{days}",
+      "entry": "minibreak",
+      "id": "minibreak#minibreak__1"
+    },
+    {
+      "comment": "a vacation that includes various things such as a hotel room and transportation in the price. The British word is package holiday",
+      "entry": "package",
+      "id": "package_1#package_1__9"
+    },
+    {
+      "comment": "a [package_1]{package} [tour_1]{tour}, [especially]{especially} at a [special_1]{special} low [price_1]{price}",
+      "entry": "package deal",
+      "id": "package-deal#package-deal__3"
+    },
+    {
+      "comment": "a [vacation_1]{vacation} [arrange]{arranged} by a [travel_1]{travel} [company]{company} for a [fixed]{fixed} [price_1]{price} that [include]{includes} the [cost_1]{cost} of your [hotel]{hotel} and [transportation]{transportation}, and sometimes [meal]{meals} and [entertainment]{entertainment}",
+      "entry": "package tour",
+      "id": "package-tour#package-tour__1"
+    },
+    {
+      "comment": "a [vacation_1]{vacation} that [people_1]{people} in the [military]{military} get during a war or after a long [period_1]{period} of [hard_1]{hard} [work_1]{work}",
+      "entry": "R and R",
+      "id": "r-and-r#r-and-r__3"
+    },
+    {
+      "comment": "a [trip_1]{trip}, [especially]{especially} to Africa, in [order_1]{order} to [watch_1]{watch}, take [picture_1]{pictures} of, or [hunt_1]{hunt} [wild_1]{wild} [animal_1]{animals}",
+      "entry": "safari",
+      "id": "safari#safari__1"
+    },
+    {
+      "comment": "a [vacation_1]{vacation} that [include]{includes} a [safari]{safari}",
+      "entry": "safari holiday",
+      "id": "safari-holiday#safari-holiday__1"
+    },
+    {
+      "comment": "a [holiday_1]{holiday} in which you [stay_1]{stay} at [home_1]{home} and [visit_1]{visit} [place_1]{places} [near_1]{near} to where you [live_1]{live}, or a [holiday_1]{holiday} in your own [country]{country}",
+      "entry": "staycation",
+      "id": "staycation#staycation__1"
+    },
+    {
+      "comment": "a [visit_1]{visit} to a [country]{country} or an [area]{area} in which you go to [different]{different} [place_1]{places} and have [lecture_1]{lectures} and [class_1]{classes}",
+      "entry": "study tour",
+      "id": "study-tour#study-tour__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [children]{children} can go to [stay_1]{stay} during the [summer]{summer} and do [various]{various} [activity]{activities}",
+      "entry": "summer camp",
+      "id": "summer-camp#summer-camp__1"
+    },
+    {
+      "comment": "a period of time when you do not work and you do things for pleasure instead. The British word is holiday",
+      "entry": "vacation",
+      "id": "vacation_1#vacation_1__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when you go and [stay_1]{stay} in another [place_1]{place} for [pleasure]{pleasure} during your [vacation_1]{vacation}",
+      "entry": "vacation",
+      "id": "vacation_1#vacation_1__4"
+    },
+    {
+      "comment": "[relate]{relating} to a [vacation_1]{vacation}",
+      "entry": "vacation",
+      "id": "vacation_1#vacation_1__6"
+    },
+    {
+      "comment": "a [trip_1]{trip} on which you [walk_1]{walk} from one [place_1]{place} to another, [spend]{spend} the [night_1]{night}, and then [continue]{continue} [walking_1]{walking} the next [day]{day}",
+      "entry": "walking tour",
+      "id": "walking-tour#walking-tour__1"
+    },
+    {
+      "comment": "a [vacation_1]{vacation} during which you [work_1]{work}, for [example]{example} [doing]{doing} [unpaid]{unpaid} [work_1]{work} to [benefit_1]{benefit} the [community]{community} in which you are [stay_1]{staying}",
+      "entry": "working vacation",
+      "id": "working-vacation#working-vacation__1"
+    }
+  ],
+  "thesaurus": "Types of holiday",
+  "type": "Related words"
+}

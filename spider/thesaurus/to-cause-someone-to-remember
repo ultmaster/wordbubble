@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [tell_1]{tell} someone again about an [event]{event} from the [past_1]{past} or about a [fact]{fact} that they [used]{used} to [know_1]{know}",
+      "entry": "remind",
+      "id": "remind#remind__1"
+    },
+    {
+      "comment": "if something comes to you, you [think_1]{think} of it or [remember]{remember} it",
+      "entry": "come to",
+      "id": "come-to#come-to__1"
+    },
+    {
+      "comment": "to cause [idea]{ideas}, [feeling_1]{feelings}, or [memory]{memories} to be in your [mind_1]{mind} again",
+      "entry": "bring back",
+      "id": "bring-back#bring-back__1"
+    },
+    {
+      "comment": "to [make_1]{make} you [feel_1]{feel} or [experience_1]{experience} something that you have [felt_1]{felt} or [experienced]{experienced} in the [past_1]{past}",
+      "entry": "recall",
+      "id": "recall_1#recall_1__6"
+    },
+    {
+      "comment": "to cause someone to have a [particular_1]{particular} [feeling_1]{feeling} or [memory]{memory}",
+      "entry": "trigger",
+      "id": "trigger_1#trigger_1__3"
+    },
+    {
+      "comment": "to [make_1]{make} you [remember]{remember} something or [begin]{begin} to [experience_1]{experience} a [particular_1]{particular} [feeling_1]{feeling}",
+      "entry": "awake",
+      "id": "awake_2#awake_2__3"
+    },
+    {
+      "comment": "if [memory]{memories} or [feeling_1]{feelings} [flood_1]{flood} back, you [suddenly]{suddenly} [remember]{remember} them very [clearly]{clearly}",
+      "entry": "flood back",
+      "id": "flood-back#flood-back__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone [remember]{remember} something",
+      "entry": "jog someone\u2019s memory",
+      "id": "jog-someone-s-memory#jog-someone-s-memory__1"
+    },
+    {
+      "comment": "to [make_1]{make} someone [remember]{remember} something",
+      "entry": "refresh someone\u2019s memory",
+      "id": "refresh-someone-s-memory#refresh-someone-s-memory__1"
+    },
+    {
+      "comment": "to [remind]{remind} you of someone or something",
+      "entry": "bring/call /someone/something to mind",
+      "id": "bring-call-someone-something-to-mind#bring-call-someone-something-to-mind__1"
+    }
+  ],
+  "thesaurus": "To cause someone to remember",
+  "type": "Synonyms"
+}

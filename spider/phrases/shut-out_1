@@ -1,0 +1,24 @@
+{
+  "part": "phrase",
+  "phrase": "shut out",
+  "senses": [
+    {
+      "def": "if you [shut_1]{shut} something out, you [stop_1]{stop} yourself from [seeing]{seeing} it, [hearing]{hearing} it, or [thinking_1]{thinking} about it",
+      "examples": [
+        "He [closed]{closed} the [door_1]{door} to [shut_1]{shut} out the [noise]{noise}.",
+        "I [tried_1]{tried} to [shut_1]{shut} the [incident]{incident} out of my [mind_1]{mind}."
+      ],
+      "id": "shut-out_1__1"
+    },
+    {
+      "def": "to not [allow]{allow} someone to [enter]{enter} a [particular_1]{particular} [place_1]{place}",
+      "examples": [],
+      "id": "shut-out_1__4"
+    },
+    {
+      "def": "in [sport_1]{sports}, to [win_1]{win} and not [allow]{allow} the other [team_1]{team} to [score_1]{score} any [point_1]{points}",
+      "examples": [],
+      "id": "shut-out_1__5"
+    }
+  ]
+}

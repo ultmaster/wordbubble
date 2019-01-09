@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [start_1]{start} [use_1]{using} a computer system, for [example]{example} by [typing]{typing} a [particular_1]{particular} [word_1]{word}",
+      "entry": "log on",
+      "id": "log-on#log-on__1"
+    },
+    {
+      "comment": "to [finish_1]{finish} [use_1]{using} a computer system, for [example]{example} by [typing]{typing} a [particular_1]{particular} [word_1]{word}",
+      "entry": "log off",
+      "id": "log-off#log-off__1"
+    },
+    {
+      "comment": "to [turn_1]{turn} a computer on in the [correct_1]{correct} way",
+      "entry": "power up",
+      "id": "power-up#power-up__1"
+    },
+    {
+      "comment": "if a computer [boot_1]{boots}, or if you [boot_1]{boot} it, it [start_1]{starts} [working]{working} and becomes ready to use",
+      "entry": "boot",
+      "id": "boot_2#boot_2__3"
+    },
+    {
+      "comment": "to [end_1]{end} a computer [program_1]{program} that you are [use_1]{using}",
+      "entry": "exit",
+      "id": "exit_2#exit_2__6"
+    },
+    {
+      "comment": "to [turn_1]{turn} a computer off in the [correct_1]{correct} way",
+      "entry": "power down",
+      "id": "power-down#power-down__1"
+    },
+    {
+      "comment": "to [start_1]{start} or to use a computer [program_1]{program}",
+      "entry": "run",
+      "id": "run_1#run_1__23"
+    },
+    {
+      "comment": "if you [abort]{abort} a computer [program_1]{program}, or if it [abort]{aborts}, the computer [stop_1]{stops} [doing]{doing} something before it is [finished]{finished}",
+      "entry": "abort",
+      "id": "abort#abort__6"
+    },
+    {
+      "comment": "to [start_1]{start} a computer again [instead]{instead} of [shut_1]{shutting} it down",
+      "entry": "restart",
+      "id": "restart#restart__1"
+    },
+    {
+      "comment": "to [write]{write} your name or a [secret_1]{secret} [word_1]{word} in [order_1]{order} to use a computer",
+      "entry": "sign on",
+      "id": "sign-on#sign-on__4"
+    }
+  ],
+  "thesaurus": "To start or stop a computer or computer program",
+  "type": "Synonyms"
+}

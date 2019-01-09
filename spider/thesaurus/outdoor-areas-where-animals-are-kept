@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area} on a [farm_1]{farm} where [animal_1]{animals} are [kept]{kept}",
+      "entry": "barnyard",
+      "id": "barnyard_1#barnyard_1__1"
+    },
+    {
+      "comment": "an [area]{area} [surround_1]{surrounded} by a [fence_1]{fence}, [used]{used} for [protect]{protecting} [animal_1]{animals}",
+      "entry": "boma",
+      "id": "boma#boma__2"
+    },
+    {
+      "comment": "an [area]{area} [inside_1]{inside} a [fence_1]{fence} where [chicken_1]{chickens} are [kept]{kept} and [allow]{allowed} to [walk_1]{walk} around",
+      "entry": "chicken run",
+      "id": "chicken-run#chicken-run__1"
+    },
+    {
+      "comment": "an [enclosed]{enclosed} [space_1]{space} where [horse_1]{horses}, [cow_1]{cows}, etc. are [kept]{kept} [temporarily]{temporarily}",
+      "entry": "corral",
+      "id": "corral_2#corral_2__1"
+    },
+    {
+      "comment": "an area beside a farmhouse, surrounded by buildings",
+      "entry": "farmyard",
+      "id": "farmyard#farmyard__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [used]{used} for [keeping]{keeping} [animal_1]{animals} or [growing]{growing} [food]{food}",
+      "entry": "field",
+      "id": "field_1#field_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [area]{area} [enclosed]{enclosed} by a [fence_1]{fence} or [wall_1]{wall} in a [field_1]{field}, [used]{used} for [keeping]{keeping} [sheep]{sheep}",
+      "entry": "fold",
+      "id": "fold_2#fold_2__14"
+    },
+    {
+      "comment": "an [area]{area} for [animal_1]{animals}, [surround_1]{surrounded} by a [fence_1]{fence}",
+      "entry": "kraal",
+      "id": "kraal#kraal__2"
+    },
+    {
+      "comment": "a [small_1]{small} [field_1]{field} where [horse_1]{horses} are [kept]{kept} and [allow]{allowed} to [eat]{eat} [grass]{grass}",
+      "entry": "paddock",
+      "id": "paddock#paddock__1"
+    },
+    {
+      "comment": "[land_1]{land} [covered_1]{covered} with [grass]{grass} where [sheep]{sheep}, [cow_1]{cows}, etc. are [kept]{kept}",
+      "entry": "pasture",
+      "id": "pasture_1#pasture_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [area]{area} with a [fence_1]{fence} around it, [used]{used} for [keeping]{keeping} [animal_1]{animals} in",
+      "entry": "pen",
+      "id": "pen_1#pen_1__6"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} on a [farm_1]{farm} where [cow_1]{cows} or other [animal_1]{animals} are [kept]{kept}",
+      "entry": "range",
+      "id": "range_1#range_1__28"
+    },
+    {
+      "comment": "a small area with a fence around it where animals such as chickens or rabbits can run around",
+      "entry": "run",
+      "id": "run_2#run_2__26"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [surround_1]{surrounded} by a [fence_1]{fence} in which [sheep]{sheep} are [kept]{kept}",
+      "entry": "sheepfold",
+      "id": "sheepfold#sheepfold__1"
+    }
+  ],
+  "thesaurus": "Outdoor areas where animals are kept",
+  "type": "Related words"
+}

@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[happening_1]{happening} or [existing]{existing} in some [place_1]{places} but not in other [place_1]{places}",
+      "examples": [
+        "If your [lawn]{lawn} has [extensive]{extensive} [area]{areas} of patchy [growth]{growth}, [try_1]{try} [water_2]{watering} it.",
+        "Low [cloud_1]{clouds} and patchy [rain_1]{rain} are [forecast_1]{forecast} for [tomorrow_1]{tomorrow}."
+      ],
+      "id": "patchy__1"
+    },
+    {
+      "def": "not [detailed]{detailed} enough or [complete_1]{complete} enough to be [useful]{useful}",
+      "examples": [
+        "patchy [evidence_1]{evidence}"
+      ],
+      "id": "patchy__4"
+    },
+    {
+      "def": "if someone\u2019s [performance]{performance} or [work_1]{work} is patchy, it is [good_1]{good} sometimes but not always",
+      "examples": [
+        "TV [coverage]{coverage} of the [game_1]{Games} has been patchy."
+      ],
+      "id": "patchy__6"
+    }
+  ],
+  "word": "patchy"
+}

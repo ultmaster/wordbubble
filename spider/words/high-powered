@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[important]{important} and [powerful]{powerful} in a [company]{company} or [organization]{organization}",
+      "examples": [
+        "high-powered [executive_1]{executives}",
+        "a high-powered [job_1]{job}/[position_1]{position}"
+      ],
+      "id": "high-powered__1"
+    },
+    {
+      "def": "very [powerful]{powerful} and [effective]{effective}",
+      "examples": [
+        "a high-powered [rifle_1]{rifle}"
+      ],
+      "id": "high-powered__4"
+    },
+    {
+      "def": "very [exciting]{exciting} and full of [energy]{energy}",
+      "examples": [
+        "a high-powered [argument]{argument}"
+      ],
+      "id": "high-powered__6"
+    }
+  ],
+  "word": "high-powered"
+}

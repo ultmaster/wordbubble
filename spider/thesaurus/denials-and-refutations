@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [statement_1]{statement} that something is not [true_1]{true} or [did]{did} not [happen]{happen}",
+      "entry": "denial",
+      "id": "denial#denial__1"
+    },
+    {
+      "comment": "a [written_1]{written} [statement_1]{statement} in which a [company]{company} or [person]{person} [say_1]{says} that they do not take [responsibility]{responsibility} for something [bad_1]{bad}",
+      "entry": "disclaimer",
+      "id": "disclaimer#disclaimer__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} in which you [say_1]{say} that something that you [previously]{previously} [said_1]{said} or [wrote]{wrote} is not [true_1]{true}",
+      "entry": "retraction",
+      "id": "retraction#retraction__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} in which you [disavow]{disavow} someone or something",
+      "entry": "disavowal",
+      "id": "disavowal#disavowal__1"
+    },
+    {
+      "comment": "a [statement_1]{statement} [showing]{showing} or [saying]{saying} that something is not [true_1]{true}",
+      "entry": "rebuttal",
+      "id": "rebuttal#rebuttal__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [saying]{saying} that something you [previously]{previously} [said_1]{said} or [wrote]{wrote} is not [true_1]{true}",
+      "entry": "retraction",
+      "id": "retraction#retraction__3"
+    },
+    {
+      "comment": "[proof_1]{proof} that a [person]{person} or [argument]{argument} is [wrong_1]{wrong}, or an [occasion_1]{occasion} when this [happen]{happens}",
+      "entry": "confutation",
+      "id": "confutation#confutation__1"
+    }
+  ],
+  "thesaurus": "Denials and refutations",
+  "type": "Synonyms"
+}

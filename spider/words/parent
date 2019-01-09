@@ -1,0 +1,23 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [mother_1]{mother} or [father_1]{father}",
+      "examples": [
+        "Has [joe_2]{Joe} met your [parent]{parents} yet?"
+      ],
+      "id": "parent__1"
+    },
+    {
+      "def": "an [animal_1]{animal} or [plant_1]{plant} that [produce_1]{produces} a [new]{new} [animal_1]{animal} or [plant_1]{plant}",
+      "examples": [],
+      "id": "parent__3"
+    },
+    {
+      "def": "a [parent-company]{parent company}",
+      "examples": [],
+      "id": "parent__4"
+    }
+  ],
+  "word": "parent"
+}

@@ -1,0 +1,30 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "around a [usual]{usual} or [ordinary]{ordinary} [level_1]{level} or [standard_1]{standard}",
+      "examples": [
+        "a [child]{child} of average [intelligence]{intelligence}",
+        "He\u2019s about average [height]{height}.",
+        "The [standard_1]{standard} of the [work_1]{work} [overall_1]{overall} was average.",
+        "The average [child]{child} [spend]{spends} around ten [hour]{hours} a [week]{week} [watch_1]{watching} [television]{television}."
+      ],
+      "id": "average_2__1"
+    },
+    {
+      "def": "not very [good_1]{good}",
+      "examples": [
+        "a [decidedly]{decidedly} average [performance]{performance}"
+      ],
+      "id": "average_2__8"
+    },
+    {
+      "def": "[calculated]{calculated} by [add_1]{adding} a [group_1]{group} of [number_1]{numbers} together and [divide_1]{dividing} the [total_1]{total} by the amount of [number_1]{numbers}",
+      "examples": [
+        "[wind_1]{winds} with an average [speed_1]{speed} of 15 [mile]{miles} per [hour]{hour}"
+      ],
+      "id": "average_2__10"
+    }
+  ],
+  "word": "average"
+}

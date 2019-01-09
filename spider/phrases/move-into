@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "move into",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [living_1]{living} or [operate]{operating} a [business]{business} in a [place_1]{place}",
+      "examples": [
+        "We\u2019re [moving]{moving} into an [office]{office} in the [new]{new} [building]{building} [downtown_1]{downtown}."
+      ],
+      "id": "move-into__1"
+    },
+    {
+      "def": "to [begin]{begin} a [new]{new} [business]{business} or [new]{new} [type_1]{type} of [business]{business}",
+      "examples": [
+        "They\u2019re [planning]{planning} to move into [publishing]{publishing}."
+      ],
+      "id": "move-into__3"
+    }
+  ]
+}

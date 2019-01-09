@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to or [cause_2]{caused} by [heat_1]{heat}",
+      "examples": [
+        "thermal [power_1]{power}",
+        "thermal [energy]{energy}"
+      ],
+      "id": "thermal_1__1"
+    },
+    {
+      "def": "thermal [clothing]{clothing} is made of [special_1]{special} [material_1]{material} that [keep_1]{keeps} you [warm_1]{warm}",
+      "examples": [
+        "thermal [underwear]{underwear}"
+      ],
+      "id": "thermal_1__4"
+    },
+    {
+      "def": "thermal [water_1]{water} is [heated]{heated} by [natural_1]{natural} [process_1]{processes} in the [earth#earth__1]{Earth}",
+      "examples": [
+        "thermal [spring_1]{springs}"
+      ],
+      "id": "thermal_1__6"
+    }
+  ],
+  "word": "thermal"
+}

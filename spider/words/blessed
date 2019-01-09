@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that something [make_1]{makes} you [feel_1]{feel} [happy_1]{happy} or [grateful]{grateful} because it is [just_1]{just} what you [need_1]{need}",
+      "examples": [],
+      "id": "blessed__1"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that you are [annoyed]{annoyed} about something",
+      "examples": [
+        "She [call_1]{calls} me every [day]{day} to [ask_1]{ask} me the same blessed thing!"
+      ],
+      "id": "blessed__2"
+    },
+    {
+      "def": "[holy]{holy}",
+      "examples": [
+        "the [blessed]{Blessed} [virgin_1]{Virgin} Mary"
+      ],
+      "id": "blessed__4"
+    },
+    {
+      "def": "[used]{used} in the Bible about [people_1]{people} who are [love_1]{loved} by [god_2]{God}",
+      "examples": [
+        "[blessed]{Blessed} are the [merciful]{merciful}."
+      ],
+      "id": "blessed__6"
+    }
+  ],
+  "word": "blessed"
+}

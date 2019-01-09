@@ -1,0 +1,241 @@
+{
+  "entries": [
+    {
+      "comment": "to take someone into a [hospital]{hospital} to be [treat_1]{treated}",
+      "entry": "admit",
+      "id": "admit#admit__13"
+    },
+    {
+      "comment": "the way in which a [doctor_1]{doctor} [behave]{behaves} toward a [person]{person} in their [care_1]{care}",
+      "entry": "bedside manner",
+      "id": "bedside-manner#bedside-manner__1"
+    },
+    {
+      "comment": "to be [available]{available} in [case_1]{case} you are [need_1]{needed} at [work_1]{work}, [especially]{especially} as a [doctor_1]{doctor}",
+      "entry": "be on call",
+      "id": "be-on-call#be-on-call__1"
+    },
+    {
+      "comment": "all the cases that someone is responsible for dealing with at the same time, especially a doctor, lawyer, or social worker",
+      "entry": "caseload",
+      "id": "caseload#caseload__1"
+    },
+    {
+      "comment": "to [state_1]{state} [officially]{officially} that someone is [seriously]{seriously} [mental#mental__12]{mentally} ill",
+      "entry": "certify",
+      "id": "certify#certify__5"
+    },
+    {
+      "comment": "to [officially]{officially} [state_1]{state} that someone is [mental#mental__12]{mentally} ill and should go to a [hospital]{hospital} to be [treat_1]{treated}",
+      "entry": "commit",
+      "id": "commit#commit__16"
+    },
+    {
+      "comment": "to [make_1]{make} someone [stay_1]{stay} in a [place_1]{place} because they are too ill, [weak]{weak}, or [disabled]{disabled} to [leave_1]{leave}",
+      "entry": "confine",
+      "id": "confine#confine__3"
+    },
+    {
+      "comment": "to [stop_1]{stop} someone from being [affected]{affected} by an [illness]{illness}",
+      "entry": "cure",
+      "id": "cure_2#cure_2__1"
+    },
+    {
+      "comment": "to [stop_1]{stop} an [illness]{illness} from [affecting]{affecting} someone",
+      "entry": "cure",
+      "id": "cure_2#cure_2__3"
+    },
+    {
+      "comment": "to find out what [physical_1]{physical} or [mental]{mental} [problem]{problem} someone has by [examine]{examining} them",
+      "entry": "diagnose",
+      "id": "diagnose#diagnose__1"
+    },
+    {
+      "comment": "to [cure_1]{cure} or [treat_1]{treat} a [person]{person} or an [illness]{illness}",
+      "entry": "doctor",
+      "id": "doctor_2#doctor_2__6"
+    },
+    {
+      "comment": "if a [doctor_1]{doctor} [examine]{examines} you, they [look_1]{look} [careful#careful__20]{carefully} at your body to [check_1]{check} if you are [healthy]{healthy}",
+      "entry": "examine",
+      "id": "examine#examine__4"
+    },
+    {
+      "comment": "the [work_1]{work} of a [doctor_1]{doctor} who [deal_1]{deals} with [general_1]{general} [health]{health} [problem]{problems}, [especially]{especially} those [relate]{relating} to [family_1]{families}",
+      "entry": "family practice",
+      "id": "family-practice#family-practice__1"
+    },
+    {
+      "comment": "the [job_1]{job} of [providing]{providing} [medical_1]{medical} [care_1]{care} for [people_1]{people} who are [sick_1]{sick}",
+      "entry": "health",
+      "id": "health#health__13"
+    },
+    {
+      "comment": "the [promise_1]{promise} that [doctor_1]{doctors} [make_1]{make} to [respect_1]{respect} the [moral_1]{moral} [principle]{principles} of the [medical_1]{medical} [profession]{profession}",
+      "entry": "the Hippocratic oath",
+      "id": "the-hippocratic-oath#the-hippocratic-oath__1"
+    },
+    {
+      "comment": "a [visit_1]{visit} that a [doctor_1]{doctor} or [nurse_1]{nurse} [make_1]{makes} to see you in your own [home_1]{home}",
+      "entry": "home visit",
+      "id": "home-visit#home-visit__1"
+    },
+    {
+      "comment": "to take someone to a [hospital]{hospital} for [medical_1]{medical} [treatment]{treatment}",
+      "entry": "hospitalize",
+      "id": "hospitalize#hospitalize__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when someone who has [recently]{recently} [obtain]{obtained} a [degree]{degree} as a [doctor_1]{doctor} [continue]{continues} their [training]{training} by [working]{working} in a [hospital]{hospital}",
+      "entry": "internship",
+      "id": "internship#internship__1"
+    },
+    {
+      "comment": "an [official_1]{official} [document_1]{document} that your [doctor_1]{doctor} [sign_1]{signs}, [saying]{saying} for [example]{example} that you are too [sick_1]{sick} to go to [work_1]{work}",
+      "entry": "medical certificate",
+      "id": "medical-certificate#medical-certificate__1"
+    },
+    {
+      "comment": "the [act_1]{act} or [practice_1]{practice} of [treat_1]{treating} something as a [medical_1]{medical} [problem]{problem}, [especially]{especially} when there is no [need_1]{need} to do so",
+      "entry": "medicalization",
+      "id": "medicalization#medicalization__1"
+    },
+    {
+      "comment": "to [treat_1]{treat} something as a [medical_1]{medical} [problem]{problem}, [especially]{especially} when there is no [need_1]{need} to do so",
+      "entry": "medicalize",
+      "id": "medicalize#medicalize__1"
+    },
+    {
+      "comment": "to [treat_1]{treat} someone as [have]{having} a [medical_1]{medical} [problem]{problem} even though they are not ill",
+      "entry": "medicalize",
+      "id": "medicalize#medicalize__3"
+    },
+    {
+      "comment": "the [job_1]{job} that a [midwife]{midwife} [does]{does}",
+      "entry": "midwifery",
+      "id": "midwifery#midwifery__1"
+    },
+    {
+      "comment": "to take [care_1]{care} of someone who is [sick_1]{sick} or [injured]{injured}",
+      "entry": "nurse",
+      "id": "nurse_2#nurse_2__1"
+    },
+    {
+      "comment": "the [job_1]{job} or [skill]{skills} of a [nurse_1]{nurse}, or the [professional_1]{professional} [training]{training} that [nurse_1]{nurses} [receive]{receive}",
+      "entry": "nursing",
+      "id": "nursing#nursing__1"
+    },
+    {
+      "comment": "[connected]{connected} with [nursing]{nursing}",
+      "entry": "nursing",
+      "id": "nursing#nursing__3"
+    },
+    {
+      "comment": "the [work_1]{work} of a [doctor_1]{doctor}, [lawyer]{lawyer}, or other [professional_1]{professional} [person]{person}",
+      "entry": "practice",
+      "id": "practice_1#practice_1__16"
+    },
+    {
+      "comment": "to [work_1]{work} in a [particular_1]{particular} [profession]{profession}, [especially]{especially} in the [medical_1]{medical} or [legal]{legal} [profession]{profession}",
+      "entry": "practice",
+      "id": "practice_2#practice_2__11"
+    },
+    {
+      "comment": "if a [doctor_1]{doctor} [prescribe]{prescribes} a [drug_1]{drug} or [treatment]{treatment}, they [say_1]{say} you should have it",
+      "entry": "prescribe",
+      "id": "prescribe#prescribe__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} that a [doctor_1]{doctor} [give_1]{gives} you that [say_1]{says} what [type_1]{type} of [medication]{medication} you [need_1]{need}",
+      "entry": "prescription",
+      "id": "prescription#prescription__1"
+    },
+    {
+      "comment": "the action of prescribing a medication",
+      "entry": "prescription",
+      "id": "prescription#prescription__5"
+    },
+    {
+      "comment": "[primary_1]{primary} [care_1]{care}",
+      "entry": "primary health care",
+      "id": "primary-health-care#primary-health-care__1"
+    },
+    {
+      "comment": "a [doctor_1]{doctor}\u2019s [opinion]{opinion} about the way in which a [disease]{disease} or [illness]{illness} is [likely_1]{likely} to [develop]{develop}",
+      "entry": "prognosis",
+      "id": "prognosis#prognosis__1"
+    },
+    {
+      "comment": "to [say_1]{say} what [medical_1]{medical} [treatment]{treatment} someone should have",
+      "entry": "put on",
+      "id": "put-on_1#put-on_1__30"
+    },
+    {
+      "comment": "to take someone back into a [hospital]{hospital} again after they had been [allow]{allowed} to [leave_1]{leave}",
+      "entry": "readmit",
+      "id": "readmit#readmit__4"
+    },
+    {
+      "comment": "to [let_1]{let} someone [leave_1]{leave} a [hospital]{hospital} or other [place_1]{place} where they have been [have]{having} [medical_1]{medical} [treatment]{treatment}",
+      "entry": "release",
+      "id": "release_1#release_1__6"
+    },
+    {
+      "comment": "a [document_1]{document} [allow]{allowing} you to get another amount of [medication]{medication} that your [doctor_1]{doctor} has [given_1]{given} you before, without [going_1]{going} back to the [doctor_1]{doctor}",
+      "entry": "repeat prescription",
+      "id": "repeat-prescription#repeat-prescription__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time that a [doctor_1]{doctor} [spend]{spends} [working]{working} in a [hospital]{hospital} [learning]{learning} more about a [particular_1]{particular} [type_1]{type} of [medical_1]{medical} [treatment]{treatment}",
+      "entry": "residency",
+      "id": "residency#residency__1"
+    },
+    {
+      "comment": "to [make_1]{make} it [possible_1]{possible} for someone to see, [hear]{hear}, etc. again",
+      "entry": "restore",
+      "id": "restore#restore__9"
+    },
+    {
+      "comment": "[prescription]{prescription}",
+      "entry": "Rx.",
+      "id": "rx#rx__1"
+    },
+    {
+      "comment": "[medical_1]{medical} [care_1]{care} [provided]{provided} by the [state_1]{state} and [paid_1]{paid} for by [public_1]{public} [money]{money}",
+      "entry": "socialized medicine",
+      "id": "socialized-medicine#socialized-medicine__1"
+    },
+    {
+      "comment": "a very [high_1]{high} [standard_1]{standard} of [care_1]{care} [provided]{provided} in [hospital]{hospitals}",
+      "entry": "tertiary care",
+      "id": "tertiary-care#tertiary-care__1"
+    },
+    {
+      "comment": "to [examine]{examine} someone\u2019s body to [check_1]{check} that it is in [good_1]{good} [condition_1]{condition}, or to find out if they have a [particular_1]{particular} [illness]{illness}",
+      "entry": "test",
+      "id": "test_2#test_2__4"
+    },
+    {
+      "comment": "to use [medicine]{medicine} or [medical_1]{medical} [method]{methods} to [cure_1]{cure} a [patient_1]{patient} or an [illness]{illness}",
+      "entry": "treat",
+      "id": "treat_1#treat_1__15"
+    },
+    {
+      "comment": "the [process_1]{process} of [providing]{providing} [medical_1]{medical} [care_1]{care}",
+      "entry": "treatment",
+      "id": "treatment#treatment__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [deciding]{deciding} which [people_1]{people} in a [hospital]{hospital} [department]{department} should get [medical_1]{medical} [treatment]{treatment} first, [accord_2]{according} to how serious their [condition_1]{condition} is",
+      "entry": "triage",
+      "id": "triage#triage__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when you [visit_1]{visit} someone such as a [doctor_1]{doctor} or a [lawyer]{lawyer}, or when they [visit_1]{visit} you",
+      "entry": "visit",
+      "id": "visit_2#visit_2__7"
+    }
+  ],
+  "thesaurus": "The work or job of a doctor or nurse",
+  "type": "Related words"
+}

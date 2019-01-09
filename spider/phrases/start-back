@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "start back",
+  "senses": [
+    {
+      "def": "to [begin]{begin} [return_1]{returning} to a [place_1]{place}",
+      "examples": [
+        "It\u2019s time we were [start_1]{starting} back.",
+        "The rest of us had [start_1]{started} back to [college]{college}."
+      ],
+      "id": "start-back__1"
+    },
+    {
+      "def": "to [make_1]{make} a [sudden_1]{sudden} [nervous]{nervous} [movement]{movement} [away_1]{away} from someone or something that has [frightened]{frightened} you",
+      "examples": [
+        "She [start_1]{started} back in [fright]{fright}."
+      ],
+      "id": "start-back__4"
+    },
+    {
+      "def": "to [begin]{begin} [study_2]{studying} or [working]{working} again after a [break_1]{break}",
+      "examples": [
+        "I [want_1]{want} to [start_1]{start} back as [soon]{soon} as I\u2019m [fit_1]{fit}."
+      ],
+      "id": "start-back__6"
+    },
+    {
+      "def": "if [school_1]{school}, [college]{college}, etc. [start_1]{starts} back, [class_1]{classes} [begin]{begin} again after a [break_1]{break}",
+      "examples": [
+        "When do the [school_1]{schools} [start_1]{start} back?"
+      ],
+      "id": "start-back__8"
+    }
+  ]
+}

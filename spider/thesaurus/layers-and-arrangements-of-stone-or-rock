@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "a [layer_1]{layer} of [earth]{earth} or [rock_1]{rock} that [contain]{contains} [water_1]{water} or that [water_1]{water} can [pass_1]{pass} through",
+      "entry": "aquifer",
+      "id": "aquifer#aquifer__1"
+    },
+    {
+      "comment": "a [layer_1]{layer} of [rock_1]{rock} that is [inside_1]{inside} a [large_1]{larger} [area]{area} of [rock_1]{rock}",
+      "entry": "bed",
+      "id": "bed_1#bed_1__21"
+    },
+    {
+      "comment": "the [solid_1]{solid} [rock_1]{rock} under the [ground_1]{ground} that [support_1]{supports} the [soil_1]{soil} above it",
+      "entry": "bedrock",
+      "id": "bedrock#bedrock__3"
+    },
+    {
+      "comment": "a [layer_1]{layer} of a [metal_1]{metal} or another [substance]{substance} that has [form_2]{formed} in [soil_1]{soil} or [rock_1]{rock}",
+      "entry": "deposit",
+      "id": "deposit_1#deposit_1__8"
+    },
+    {
+      "comment": "a [rock_1]{rock}, or a [group_1]{group} of [rock_1]{rocks}, that [stick_1]{sticks} up out of the [ground_1]{ground}",
+      "entry": "outcrop",
+      "id": "outcrop#outcrop__1"
+    },
+    {
+      "comment": "the [hard_1]{hard} [solid_1]{solid} [substance]{substance} that [form_1]{forms} part of the [earth]{Earth}\u2019s [surface_1]{surface}",
+      "entry": "rocks",
+      "id": "rock_1#rock_1__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [rock_1]{rocks} along the [edge_1]{edge} of the [land_1]{land} or under the [surface_1]{surface} of the [ocean]{ocean}",
+      "entry": "rocks",
+      "id": "rock_1#rock_1__10"
+    },
+    {
+      "comment": "a [layer_1]{layer} of [sand_1]{sand}, [stone_1]{stones}, [dirt]{dirt}, etc. that becomes a [layer_1]{layer} of [rock_1]{rock}",
+      "entry": "sediment",
+      "id": "sediment#sediment__2"
+    },
+    {
+      "comment": "a [flat_1]{flat} [piece_1]{piece} of [rock_1]{rock} in a [river]{river} that you [stand_1]{stand} on in [order_1]{order} to cross to the other side",
+      "entry": "steppingstone",
+      "id": "steppingstone#steppingstone__3"
+    },
+    {
+      "comment": "the [hard_1]{hard} [substance]{substance} that [rock_1]{rocks} are made of, often [used]{used} for [building]{building}",
+      "entry": "stone",
+      "id": "stone_1#stone_1__1"
+    },
+    {
+      "comment": "a [layer_1]{layer} of a [particular_1]{particular} [type_1]{type} of [rock_1]{rock}",
+      "entry": "stratum",
+      "id": "stratum#stratum__3"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [rock_1]{rock} that has [move_1]{moved} [upward_1]{upward} in a [crack_1]{crack} in the [earth]{Earth}\u2019s [surface_1]{surface}",
+      "entry": "upthrust",
+      "id": "upthrust#upthrust__2"
+    }
+  ],
+  "thesaurus": "Layers and arrangements of stone or rock",
+  "type": "Related words"
+}

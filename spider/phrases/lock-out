@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "lock out",
+  "senses": [
+    {
+      "def": "if a [company]{company} [lock_1]{locks} out its [worker]{workers}, it [close_1]{closes} their [place_1]{place} of [work_1]{work} so that they cannot go to [work_1]{work} until they [agree]{agree} to the [employer]{employer}\u2019s [condition_1]{conditions}",
+      "examples": [],
+      "id": "lock-out__1"
+    },
+    {
+      "def": "to [prevent]{prevent} someone from coming into a [room_1]{room} or [building]{building} by [lock_1]{locking} the [door_1]{door}",
+      "examples": [
+        "She [lock_1]{locked} him out of the [house_1]{house} after an [argument]{argument}.",
+        "I [lock_1]{locked} [myself]{myself} out again \u2013 could I use your [phone_1]{phone}?"
+      ],
+      "id": "lock-out__2"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "part": "phrase",
+  "phrase": "get up",
+  "senses": [
+    {
+      "def": "to get out of [bed_1]{bed} after [sleep_1]{sleeping}",
+      "examples": [
+        "He never [get]{gets} up before nine.",
+        "Will you get me up at six [tomorrow_1]{tomorrow}?"
+      ],
+      "id": "get-up_1__1"
+    },
+    {
+      "def": "to [organize]{organize} something by [ask_1]{asking} [different]{different} [people_1]{people} to take part in it or [provide]{provide} [help_1]{help}",
+      "examples": [],
+      "id": "get-up_1__5"
+    },
+    {
+      "def": "to [dress_1]{dress} someone in a [particular_1]{particular} way",
+      "examples": [
+        "She [got_1]{got} [herself]{herself} up as Annie Oakley."
+      ],
+      "id": "get-up_1__6"
+    },
+    {
+      "def": "if the [wind_1]{wind} [get]{gets} up, it [start_1]{starts} [blow_1]{blowing} [strongly]{strongly}",
+      "examples": [],
+      "id": "get-up_1__8"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[lacking]{lacking} [experience_1]{experience}",
+      "entry": "inexperienced",
+      "id": "inexperienced#inexperienced__1"
+    },
+    {
+      "comment": "not [have]{having} had much [education]{education}",
+      "entry": "uneducated",
+      "id": "uneducated#uneducated__1"
+    },
+    {
+      "comment": "not [trained]{trained} to do a [particular_1]{particular} [job_1]{job}",
+      "entry": "untrained",
+      "id": "untrained#untrained__1"
+    },
+    {
+      "comment": "not [have]{having} the [education]{education} or [experience_1]{experience} to do a [particular_1]{particular} [job_1]{job}",
+      "entry": "unqualified",
+      "id": "unqualified#unqualified__1"
+    },
+    {
+      "comment": "someone who is [illiterate]{illiterate} cannot read or [write]{write}",
+      "entry": "illiterate",
+      "id": "illiterate#illiterate__1"
+    },
+    {
+      "comment": "[lacking]{lacking} [knowledge]{knowledge} or [experience_1]{experience} of something",
+      "entry": "the uninitiated",
+      "id": "uninitiated#uninitiated__1"
+    },
+    {
+      "comment": "[working]{working} at a [job_1]{job} that [does]{does} not [need_1]{need} much [education]{education}, [training]{training}, or [experience_1]{experience}",
+      "entry": "unskilled",
+      "id": "unskilled#unskilled__1"
+    },
+    {
+      "comment": "with no [experience_1]{experience} of a [particular_1]{particular} [kind_1]{kind} of [work_1]{work} and therefore [possibly]{possibly} not very [good_1]{good}",
+      "entry": "untried",
+      "id": "untried#untried__2"
+    },
+    {
+      "comment": "to not have much [experience_1]{experience} of something and not be [sure_1]{sure} about how to [react]{react} or [behave]{behave}",
+      "entry": "be unused to (doing) something",
+      "id": "unused_2#unused_2__2"
+    },
+    {
+      "comment": "a [naive]{naive} [person]{person} [lack_2]{lacks} [experience_1]{experience} of [life]{life} and [tend]{tends} to [trust_1]{trust} other [people_1]{people} and [believe]{believe} [thing]{things} too [easily]{easily}",
+      "entry": "naive",
+      "id": "naive#naive__1"
+    }
+  ],
+  "thesaurus": "Having little experience or a low level of education",
+  "type": "Synonyms"
+}

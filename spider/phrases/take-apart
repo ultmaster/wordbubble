@@ -1,0 +1,23 @@
+{
+  "part": "phrase",
+  "phrase": "take apart",
+  "senses": [
+    {
+      "def": "to [separate_1]{separate} an [object_1]{object} into [piece_1]{pieces}",
+      "examples": [
+        "My [watch_1]{watch} [stop_1]{stopped}, so I [took]{took} it [apart]{apart}."
+      ],
+      "id": "take-apart__1"
+    },
+    {
+      "def": "to [beat_1]{beat} someone very [easily]{easily} in a [game_1]{game} or [sport_1]{sport}",
+      "examples": [],
+      "id": "take-apart__3"
+    },
+    {
+      "def": "to [criticize]{criticize} a [person]{person} or an [idea]{idea} very [severely]{severely}",
+      "examples": [],
+      "id": "take-apart__4"
+    }
+  ]
+}

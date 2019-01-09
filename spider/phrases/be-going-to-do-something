@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "be going to do something",
+  "senses": [
+    {
+      "def": "to [intend]{intend} to do something",
+      "examples": [
+        "I\u2019m [going_1]{going} to [watch_1]{watch} TV [tonight_1]{tonight}."
+      ],
+      "id": "be-going-to-do-something__1"
+    },
+    {
+      "def": "to be about to do something",
+      "examples": [
+        "You\u2019re [going_1]{going} to [fall_1]{fall} if you\u2019re not [careful]{careful}.",
+        "Don\u2019t [worry_1]{worry}. Everything\u2019s [going_1]{going} to be all [right_1]{right}."
+      ],
+      "id": "be-going-to-do-something__3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "on account",
+  "senses": [
+    {
+      "def": "if you [buy_1]{buy} something on [account_1]{account}, you take it now and [pay_1]{pay} for it [later_1]{later}",
+      "examples": [],
+      "id": "on-account__1"
+    },
+    {
+      "def": "if you [pay_1]{pay} an amount of [money]{money} on [account_1]{account}, you [pay_1]{pay} part of what you owe now and you [pay_1]{pay} the rest [later_1]{later}",
+      "examples": [
+        "[payment]{payments} on [account_1]{account} for the [tax_1]{tax} [year]{year} [ending]{ending} in April 1999"
+      ],
+      "id": "on-account__2"
+    }
+  ]
+}

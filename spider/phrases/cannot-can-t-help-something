@@ -1,0 +1,36 @@
+{
+  "part": "phrase",
+  "phrase": "cannot/can\u2019t help something",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that someone cannot [stop_1]{stop} themselves from [doing]{doing} something",
+      "examples": [
+        "She couldn\u2019t [help_1]{help} [laugh_1]{laughing} when she [saw_1]{saw} it.",
+        "I shouldn\u2019t have [said_1]{said} it but I couldn\u2019t [help_1]{help} [myself]{myself}.",
+        "I couldn\u2019t [help_1]{help} [thinking_1]{thinking} he was [ask_1]{asking} for [trouble_1]{trouble}."
+      ],
+      "id": "cannot-can-t-help-something__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that someone cannot be [blame_1]{blamed} for a [situation]{situation}",
+      "examples": [
+        "She could not [help_1]{help} it if her [emotion]{emotions} [took]{took} [charge_1]{charge} of her."
+      ],
+      "id": "cannot-can-t-help-something__5"
+    },
+    {
+      "def": "there is no way of [prevent]{preventing} something from [happening_1]{happening}",
+      "examples": [
+        "It can\u2019t be [help_1]{helped}, we\u2019ll [just_1]{just} have to [manage]{manage} without her."
+      ],
+      "id": "cannot-can-t-help-something__7"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that someone is [trying]{trying} to [avoid]{avoid} something that they do not [like_1]{like} [doing]{doing}",
+      "examples": [
+        "They never go there if they can [help_1]{help} it."
+      ],
+      "id": "cannot-can-t-help-something__9"
+    }
+  ]
+}

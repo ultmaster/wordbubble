@@ -1,0 +1,34 @@
+{
+  "part": "phrase",
+  "phrase": "check in",
+  "senses": [
+    {
+      "def": "to [arrive]{arrive} at a [hotel]{hotel} where you have [arrange]{arranged} to [stay_1]{stay} and give your [personal_1]{personal} [detail_1]{details} to the [person]{person} [working]{working} at the [reception]{reception} [desk]{desk}",
+      "examples": [
+        "Have you [checked]{checked} in yet?"
+      ],
+      "id": "check-in_1__1"
+    },
+    {
+      "def": "to [arrive]{arrive} at an [airport]{airport} and show your [ticket_1]{ticket} to an [official_1]{official}",
+      "examples": [
+        "You must [check_1]{check} in at least one [hour]{hour} before your [flight]{flight}."
+      ],
+      "id": "check-in_1__3"
+    },
+    {
+      "def": "to [deal_1]{deal} with someone when they [arrive]{arrive} at a [hotel]{hotel} or at an [airport]{airport} from which they have [arrange]{arranged} to [fly_1]{fly}",
+      "examples": [
+        "The [receptionist]{receptionist} [checked]{checked} us in."
+      ],
+      "id": "check-in_1__7"
+    },
+    {
+      "def": "to use a [smartphone]{smartphone} to [indicate]{indicate} on [social_1]{social} [media]{media} that you have [arrive]{arrived} at a [place_1]{place}",
+      "examples": [
+        "Alicia Florrick [checked]{checked} in to Cafe [royal_1]{Royal} with Cary Argos and Kalinda Sharma."
+      ],
+      "id": "check-in_1__9"
+    }
+  ]
+}

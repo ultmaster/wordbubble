@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[useless]{useless} [object_1]{objects} have no [purpose]{purpose} or cannot do what they were [design_2]{designed} to do",
+      "entry": "useless",
+      "id": "useless#useless__1"
+    },
+    {
+      "comment": "[lacking]{lacking} any [purpose]{purpose} or use",
+      "entry": "pointless",
+      "id": "pointless#pointless__1"
+    },
+    {
+      "comment": "something that is [ineffective]{ineffective} [does]{does} not [work_1]{work} [correctly]{correctly} or [does]{does} not do what you [want_1]{want} it to do",
+      "entry": "ineffective",
+      "id": "ineffective#ineffective__1"
+    },
+    {
+      "comment": "not [working]{working} in the [best_1]{best} [possible_1]{possible} way, [especially]{especially} by not [use_1]{using} time, [supply_1]{supplies}, [energy]{energy}, etc. in the most [effective]{effective} way",
+      "entry": "inefficient",
+      "id": "inefficient#inefficient__1"
+    },
+    {
+      "comment": "not made [correctly]{correctly}, or not [working]{working} [correctly]{correctly}",
+      "entry": "defective",
+      "id": "defective#defective__1"
+    },
+    {
+      "comment": "not [working]{working} [correctly]{correctly} or made [correctly]{correctly}",
+      "entry": "faulty",
+      "id": "faulty#faulty__1"
+    },
+    {
+      "comment": "[lacking]{lacking} a [useful]{useful} [purpose]{purpose}",
+      "entry": "purposeless",
+      "id": "purposeless#purposeless__1"
+    },
+    {
+      "comment": "[useless]{useless} or not [effective]{effective} in an [annoying]{annoying} way",
+      "entry": "pathetic",
+      "id": "pathetic#pathetic__1"
+    },
+    {
+      "comment": "not [have]{having} any [value_1]{value}, or not [useful]{useful}",
+      "entry": "worthless",
+      "id": "worthless#worthless__1"
+    },
+    {
+      "comment": "[unsuccessful]{unsuccessful}, or [useless]{useless}",
+      "entry": "futile",
+      "id": "futile#futile__1"
+    }
+  ],
+  "thesaurus": "Not effective or useful and not working correctly",
+  "type": "Synonyms"
+}

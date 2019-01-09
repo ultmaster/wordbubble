@@ -1,0 +1,35 @@
+{
+  "part": "phrase",
+  "phrase": "keep to",
+  "senses": [
+    {
+      "def": "to [prevent]{prevent} an amount or [number_1]{number} from [passing_1]{passing} a [limit_1]{limit}",
+      "examples": [
+        "You should keep your [intake]{intake} of [alcohol]{alcohol} to two [drink_1]{drinks} per [day]{day}."
+      ],
+      "id": "keep-to__1"
+    },
+    {
+      "def": "to [follow]{follow} an [agreement]{agreement} or a [rule_1]{rule}, by [doing]{doing} what you should do or what you [said_1]{said} you would do",
+      "examples": [
+        "[try_1]{Try} to keep to a [regular_1]{regular} [schedule_1]{schedule} when you [travel_1]{travel} [overseas_1]{overseas}."
+      ],
+      "id": "keep-to__3"
+    },
+    {
+      "def": "to [stay_1]{stay} on a [path]{path}, [road]{road}, etc. when you are [going_1]{going} somewhere",
+      "examples": [
+        "You must keep to the [path]{path}.",
+        "They [kept]{kept} to the side of the [field_1]{field}."
+      ],
+      "id": "keep-to__5"
+    },
+    {
+      "def": "to [write]{write} or [talk_1]{talk} about the [subject_1]{subject} that you have [start_1]{started} to [talk_1]{talk} about, and not any other [subject_1]{subject}",
+      "examples": [
+        "I [wish_1]{wish} he\u2019d [just_1]{just} keep to the [subject_1]{subject}."
+      ],
+      "id": "keep-to__8"
+    }
+  ]
+}

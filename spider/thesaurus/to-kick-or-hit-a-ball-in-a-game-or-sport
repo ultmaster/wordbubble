@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [try_1]{try} to hit or [kick_1]{kick} something such as a [ball_1]{ball} with your hand, [foot_1]{foot}, or a [piece_1]{piece} of [sport_1]{sports} [equipment]{equipment}",
+      "entry": "strike at",
+      "id": "strike-at#strike-at__3"
+    },
+    {
+      "comment": "to hit a [ball_1]{ball} with your [foot_1]{foot} in a [game_1]{game} such as [soccer]{soccer}",
+      "entry": "kick",
+      "id": "kick_1#kick_1__7"
+    },
+    {
+      "comment": "to hit or [kick_1]{kick} a [ball_1]{ball}",
+      "entry": "play",
+      "id": "play_1#play_1__14"
+    },
+    {
+      "comment": "to hit a [ball_1]{ball}",
+      "entry": "knock",
+      "id": "knock_1#knock_1__10"
+    },
+    {
+      "comment": "in [sport_1]{sports} such as [soccer]{soccer}, to [kick_1]{kick} or hit the [ball_1]{ball} from one side of the [field_1]{field} to someone in the [middle_1]{middle} or on the other side",
+      "entry": "cross",
+      "id": "cross_1#cross_1__18"
+    },
+    {
+      "comment": "to [kick_1]{kick}, hit, or [throw_1]{throw} the [ball_1]{ball} to another [player]{player} in a [sport_1]{sports} [team_1]{team}",
+      "entry": "pass",
+      "id": "pass_1#pass_1__36"
+    },
+    {
+      "comment": "to move forward with a ball by bouncing or kicking it several times in games such as basketball and soccer",
+      "entry": "dribble",
+      "id": "dribble_1#dribble_1__6"
+    },
+    {
+      "comment": "to hit a [ball_1]{ball} very [hard_1]{hard}",
+      "entry": "smash",
+      "id": "smash_1#smash_1__10"
+    },
+    {
+      "comment": "to hit, [kick_1]{kick}, or [throw_1]{throw} a [ball_1]{ball} so that it [move_1]{moves} in a [curved]{curved} [direction]{direction}, [especially]{especially} in [golf]{golf} or [soccer]{soccer}",
+      "entry": "hook",
+      "id": "hook_2#hook_2__8"
+    },
+    {
+      "comment": "in a [sport_1]{sport}, to [throw_1]{throw} or [kick_1]{kick} a [ball_1]{ball} in an [attempt_1]{attempt} to [score_1]{score} [point_1]{points}",
+      "entry": "shoot",
+      "id": "shoot_1#shoot_1__12"
+    }
+  ],
+  "thesaurus": "To kick or hit a ball in a game or sport",
+  "type": "Synonyms"
+}

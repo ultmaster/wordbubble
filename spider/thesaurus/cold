@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "with a low [temperature]{temperature} or a [temperature]{temperature} that is [lower_1]{lower} than [normal_1]{normal}",
+      "entry": "cold",
+      "id": "cold_1#cold_1__1"
+    },
+    {
+      "comment": "rather [cold_1]{cold}, often in a [pleasant]{pleasant} way",
+      "entry": "cool",
+      "id": "cool_1#cool_1__1"
+    },
+    {
+      "comment": "very [cold_1]{cold}, in an [unpleasant]{unpleasant} way",
+      "entry": "icy",
+      "id": "icy#icy__1"
+    },
+    {
+      "comment": "[cold_1]{cold} enough to be [unpleasant]{unpleasant}",
+      "entry": "chilly",
+      "id": "chilly#chilly__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [cold_1]{cold}",
+      "entry": "glacial",
+      "id": "glacial#glacial__1"
+    },
+    {
+      "comment": "very [cold_1]{cold}",
+      "entry": "chill",
+      "id": "chill_3#chill_3__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [cold_1]{cold} in a way that [make_1]{makes} you very [uncomfortable]{uncomfortable}",
+      "entry": "bitter",
+      "id": "bitter_1#bitter_1__11"
+    },
+    {
+      "comment": "very [cold_1]{cold}",
+      "entry": "freezing",
+      "id": "freezing_1#freezing_1__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [cold_1]{cold}",
+      "entry": "arctic",
+      "id": "arctic_1#arctic_1__1"
+    },
+    {
+      "comment": "[extremely]{extremely} [cold_1]{cold}",
+      "entry": "bitterly cold",
+      "id": "bitterly-cold#bitterly-cold__1"
+    }
+  ],
+  "thesaurus": "Cold",
+  "type": "Synonyms"
+}

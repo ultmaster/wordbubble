@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area} of [land_1]{land}, [especially]{especially} for [building]{building} on",
+      "entry": "block",
+      "id": "block_1#block_1__8"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} in a [town]{town} that was [previously]{previously} [used]{used} for [industry]{industry} and where [new]{new} [building]{buildings} can now be [built_1]{built}",
+      "entry": "brownfield",
+      "id": "brownfield#brownfield__1"
+    },
+    {
+      "comment": "a [place_1]{place} where something is being [built_1]{built}",
+      "entry": "building site",
+      "id": "building-site#building-site__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [building]{building} is being [built_1]{built} or [repair_1]{repaired}",
+      "entry": "construction site",
+      "id": "construction-site#construction-site__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [land_1]{land} that has not [previously]{previously} been [built_1]{built} on",
+      "entry": "greenfield site",
+      "id": "greenfield-site#greenfield-site__1"
+    },
+    {
+      "comment": "in Australia, a small piece of land used for building a house on. People who live on quarter-acre blocks are considered to have traditional attitudes.",
+      "entry": "quarter-acre block",
+      "id": "quarter-acre-block#quarter-acre-block__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} where something is being [built_1]{built} or could be [built_1]{built}",
+      "entry": "site",
+      "id": "site_1#site_1__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} that has been [divided]{divided} into [small_1]{smaller} [part_1]{parts} for [building]{building} [house_1]{houses} on",
+      "entry": "subdivision",
+      "id": "subdivision#subdivision__1"
+    }
+  ],
+  "thesaurus": "Areas of land for building on",
+  "type": "Related words"
+}

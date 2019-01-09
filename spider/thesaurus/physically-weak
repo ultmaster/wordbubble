@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [person]{person} who is [weak]{weak} [does]{does} not have much [physical_1]{physical} [strength]{strength} or [energy]{energy}",
+      "entry": "weak",
+      "id": "weak#weak__4"
+    },
+    {
+      "comment": "[physically]{physically} [weak]{weak} and not very [healthy]{healthy}",
+      "entry": "frail",
+      "id": "frail#frail__1"
+    },
+    {
+      "comment": "[physically]{physically} [weak]{weak}, [especially]{especially} because you are [old]{old} or [sick_1]{sick}",
+      "entry": "feeble",
+      "id": "feeble#feeble__1"
+    },
+    {
+      "comment": "[weak]{weak} because of [old]{old} [age_1]{age} or [illness]{illness}",
+      "entry": "the infirm",
+      "id": "infirm#infirm__1"
+    },
+    {
+      "comment": "someone who is [vulnerable]{vulnerable} is [weak]{weak} or [easy_1]{easy} to [hurt_1]{hurt} [physically]{physically} or [mental#mental__12]{mentally}",
+      "entry": "vulnerable",
+      "id": "vulnerable#vulnerable__1"
+    },
+    {
+      "comment": "someone who is [sickly_1]{sickly} is [generally]{generally} not [healthy]{healthy} and is often [sick_1]{sick}",
+      "entry": "sickly",
+      "id": "sickly_1#sickly_1__1"
+    },
+    {
+      "comment": "[weak]{weak} or [sick_1]{sick} because you do not [eat]{eat} enough or do not [eat]{eat} enough of the [right_1]{right} [food]{foods}",
+      "entry": "malnourished",
+      "id": "malnourished#malnourished__1"
+    },
+    {
+      "comment": "too [weak]{weak} or [sick_1]{sick} to [walk_1]{walk} well",
+      "entry": "unsteady",
+      "id": "unsteady#unsteady__4"
+    },
+    {
+      "comment": "no [long_1]{longer} [strong]{strong} or [effective]{effective}",
+      "entry": "enfeebled",
+      "id": "enfeebled#enfeebled__1"
+    },
+    {
+      "comment": "someone who is [delicate]{delicate} is rather [weak]{weak} and often [sick_1]{sick}",
+      "entry": "delicate",
+      "id": "delicate#delicate__3"
+    }
+  ],
+  "thesaurus": "Physically weak",
+  "type": "Synonyms"
+}

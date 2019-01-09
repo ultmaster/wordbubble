@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [see_1]{sees} or [notice_1]{notices} something",
+      "examples": [
+        "[observer]{Observers} [said_1]{said} [soldier_1]{soldiers} [open_2]{opened} fire on the [camp_1]{camp}\u2019s [inhabitant]{inhabitants}.",
+        "The most [casual]{casual} observer would have [notice_1]{noticed} his [strange_1]{strange} [behavior]{behavior}."
+      ],
+      "id": "observer__1"
+    },
+    {
+      "def": "someone who [look_1]{looks} at something as their [job_1]{job} or as part of an [experiment_1]{experiment}",
+      "examples": [
+        "A [trained]{trained} observer can [scan_1]{scan} the [image_1]{images} in [minute_1]{minutes}."
+      ],
+      "id": "observer__4"
+    },
+    {
+      "def": "someone whose [opinion]{opinions} are [broadcast_1]{broadcast} or [publish]{published} because they [know_1]{know} a [lot_1]{lot} about a [particular_1]{particular} [subject_1]{subject}",
+      "examples": [
+        "Many [political]{political} [observer]{observers} [believe]{believe} that the [election]{election} is already [decided]{decided}.",
+        "He was a [witty]{witty} and [cynical]{cynical} observer of the [social_1]{social} [scene]{scene}.",
+        "[foreign]{Foreign} [observer]{observers} [declared]{declared} the [election]{elections} [fair_1]{fair}.",
+        "I was [invite_1]{invited} to [attend]{attend} their [conference_1]{conference} as an observer."
+      ],
+      "id": "observer__6"
+    }
+  ],
+  "word": "observer"
+}

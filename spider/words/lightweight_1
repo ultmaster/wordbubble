@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[weigh]{weighing} less than other [thing]{things} of the same [type_1]{type}",
+      "examples": [
+        "a lightweight [jacket]{jacket}",
+        "[laptop]{Laptop} [computer]{computers} are becoming more lightweight."
+      ],
+      "id": "lightweight_1__1"
+    },
+    {
+      "def": "not serious or [important]{important}",
+      "examples": [
+        "a lightweight [member]{member} of the [team_1]{team}",
+        "a lightweight [comedy]{comedy}"
+      ],
+      "id": "lightweight_1__4"
+    },
+    {
+      "def": "[relate]{relating} to a [lower_1]{lower} [weight_1]{weight} [division]{division} in the [sport_1]{sports} of [boxing]{boxing} or [wrestling]{wrestling}",
+      "examples": [],
+      "id": "lightweight_1__7"
+    }
+  ],
+  "word": "lightweight"
+}

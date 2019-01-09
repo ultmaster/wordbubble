@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a leaky [object_1]{object} or [container]{container} has a hole or [crack_1]{crack} in it so that [liquid_1]{liquid} or [gas_1]{gas} comes out of it",
+      "examples": [
+        "a leaky [faucet]{faucet}/[roof_1]{roof}"
+      ],
+      "id": "leaky__1"
+    },
+    {
+      "def": "[prone]{prone} to [leak_1]{leaks}; [tend]{tending} to [leak_1]{leak}",
+      "examples": [
+        "The Reagan [white_1]{White} [house_1]{House} was [notorious#notorious__4]{notoriously} leaky when it came to [protect]{protecting} [classified]{classified} [information]{information}."
+      ],
+      "id": "leaky__3"
+    }
+  ],
+  "word": "leaky"
+}

@@ -1,0 +1,37 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [true_1]{true}",
+      "examples": [
+        "The [report_1]{report} was [dismiss]{dismissed} as [totally]{totally} false.",
+        "a false [statement_1]{statement}"
+      ],
+      "id": "false__1"
+    },
+    {
+      "def": "made to [look_1]{look} [like_1]{like} something [real_1]{real}",
+      "examples": [
+        "false [eyelash]{eyelashes}",
+        "a false [passport]{passport}"
+      ],
+      "id": "false__5"
+    },
+    {
+      "def": "[base_2]{based} on a [mistake_1]{mistake} or on [wrong_1]{wrong} [information]{information}",
+      "examples": [
+        "The [media]{media} [gave]{gave} the [world]{world} a false [impression]{impression} of [life]{life} in the [city]{city}."
+      ],
+      "id": "false__9"
+    },
+    {
+      "def": "not [showing]{showing} what you [really]{really} [feel_1]{feel} or [intend]{intend}",
+      "examples": [
+        "This is no time for false [modesty]{modesty}.",
+        "a false [smile_1]{smile}"
+      ],
+      "id": "false__11"
+    }
+  ],
+  "word": "false"
+}

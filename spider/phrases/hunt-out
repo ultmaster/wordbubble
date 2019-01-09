@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "hunt out",
+  "senses": [
+    {
+      "def": "to [look_1]{look} for and [kill_1]{kill} a [type_1]{type} of [animal_1]{animal} until there are no more or very few [left_1]{left}",
+      "examples": [],
+      "id": "hunt-out__1"
+    },
+    {
+      "def": "to [search_1]{search} very [hard_1]{hard} for something",
+      "examples": [
+        "[august_1]{August} is a [good_1]{good} time to [hunt_1]{hunt} out [bargain_1]{bargains}."
+      ],
+      "id": "hunt-out__2"
+    },
+    {
+      "def": "to [look_1]{look} for [member]{members} of a [particular_1]{particular} [group_1]{group} in [order_1]{order} to [arrest_1]{arrest} or [kill_1]{kill} them",
+      "examples": [
+        "Most of the [rebel_1]{rebels} were [hunted]{hunted} out and [kill_1]{killed}."
+      ],
+      "id": "hunt-out__4"
+    }
+  ]
+}

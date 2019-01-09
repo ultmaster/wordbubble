@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "an [organization]{organization} that is in [charge_1]{charge} of [protect]{protecting} an [area]{area} of [land_1]{land} or [water_1]{water} from [damage_1]{damage}",
+      "entry": "conservancy",
+      "id": "conservancy#conservancy__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} to [protect]{protect} the [environment]{environment} from [damage_1]{damage} or [destruction]{destruction}",
+      "entry": "conservationist",
+      "id": "conservationist#conservationist__1"
+    },
+    {
+      "comment": "someone who [believe]{believes} that [protect]{protecting} the [environment]{environment} is [important]{important}",
+      "entry": "ecologist",
+      "id": "ecologist#ecologist__2"
+    },
+    {
+      "comment": "someone who [want_1]{wants} to [protect]{protect} the [environment]{environment}",
+      "entry": "environmentalist",
+      "id": "environmentalist#environmentalist__1"
+    },
+    {
+      "comment": "[friend_1]{Friends} of the [earth]{Earth}",
+      "entry": "FoE",
+      "id": "foe_2#foe_2__1"
+    },
+    {
+      "comment": "an [international_1]{international} [organization]{organization} that [try_1]{tries} to [persuade]{persuade} [government]{governments} and [company]{companies} to [protect]{protect} the [environment]{environment}",
+      "entry": "Friends of the Earth",
+      "id": "friends-of-the-earth#friends-of-the-earth__1"
+    },
+    {
+      "comment": "[used]{used} about [people_1]{people} who [care_1]{care} about the [environment]{environment}",
+      "entry": "green",
+      "id": "green_1#green_1__11"
+    },
+    {
+      "comment": "[relate]{relating} to the [green_1]{Green} [party_1]{Party}",
+      "entry": "Green",
+      "id": "green_1#green_1__14"
+    },
+    {
+      "comment": "a [member]{member} or [supporter]{supporter} of the [green_1]{Green} [party_1]{Party}",
+      "entry": "Green",
+      "id": "green_2#green_2__10"
+    },
+    {
+      "comment": "a [political]{political} [organization]{organization} whose [main_1]{main} [goal]{goal} is to [protect]{protect} the [environment]{environment}",
+      "entry": "the Green Party",
+      "id": "the-green-party#the-green-party__1"
+    },
+    {
+      "comment": "an [international_1]{international} [organization]{organization} whose [goal]{goal} is to [protect]{protect} the [environment]{environment}",
+      "entry": "Greenpeace",
+      "id": "greenpeace#greenpeace__1"
+    },
+    {
+      "comment": "someone who [try_1]{tries} to [make_1]{make} [certain_1]{certain} that [thing]{things} of [historical]{historical} or [natural_1]{natural} interest such as [building]{buildings} or [tree]{trees} are not [destroy]{destroyed}",
+      "entry": "preservationist",
+      "id": "preservationist#preservationist__1"
+    },
+    {
+      "comment": "a U.S. [organization]{organization} that [try_1]{tries} to [protect]{protect} the [environment]{environment}",
+      "entry": "the Sierra Club",
+      "id": "the-sierra-club#the-sierra-club__1"
+    },
+    {
+      "comment": "someone who wants to protect the environment, especially forests. This word shows that you think people like this are silly and annoying.",
+      "entry": "tree hugger",
+      "id": "tree-hugger#tree-hugger__1"
+    },
+    {
+      "comment": "the WWF",
+      "entry": "the World Wide Fund for Nature",
+      "id": "the-world-wide-fund-for-nature#the-world-wide-fund-for-nature__1"
+    },
+    {
+      "comment": "the [world]{World} [wide_1]{Wide} [fund_1]{Fund} for [nature]{Nature}: an [international_1]{international} [organization]{organization} that [work_1]{works} to [protect]{protect} the [environment]{environment} and [prevent]{prevent} [type_1]{types} of [animal_1]{animal} from [disappear]{disappearing} for ever",
+      "entry": "the WWF",
+      "id": "the-wwf#the-wwf__2"
+    }
+  ],
+  "thesaurus": "People and organizations caring for the environment",
+  "type": "Related words"
+}

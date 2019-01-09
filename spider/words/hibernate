@@ -1,0 +1,17 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if an [animal_1]{animal} [hibernate]{hibernates}, it [sleep_1]{sleeps} through the [winter_1]{winter}",
+      "examples": [],
+      "id": "hibernate__1"
+    },
+    {
+      "def": "if a computer [hibernate]{hibernates}, its [operating-system]{operating system} [close_1]{closes} down [automatically]{automatically} when the computer is not being [used]{used}, although the computer [itself]{itself} [remains]{remains} [switch_1]{switched} on",
+      "examples": [],
+      "id": "hibernate__2"
+    }
+  ],
+  "word": "hibernate"
+}

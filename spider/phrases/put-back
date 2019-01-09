@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "put back",
+  "senses": [
+    {
+      "def": "to put something in the [place_1]{place} where it was before it was [move_1]{moved}",
+      "examples": [
+        "Can you put the [book_1]{book} back when you\u2019re [finished]{finished} with it?"
+      ],
+      "id": "put-back__1"
+    },
+    {
+      "def": "to [change_1]{change} the time of a [clock_1]{clock} or [watch_1]{watch} to an [earlier_1]{earlier} time",
+      "examples": [
+        "The [children]{children} put back all the [clock_1]{clocks} in the [house_1]{house} so they could [stay_1]{stay} up [later_1]{later}!"
+      ],
+      "id": "put-back__3"
+    },
+    {
+      "def": "to [change_1]{change} the time or [date_1]{date} of an [event]{event} so that it [happen]{happens} [later_1]{later} than [originally]{originally} [plan_2]{planned}",
+      "examples": [
+        "We\u2019ve put the [trip_1]{trip} back until June now.",
+        "The fire has put back the [opening_1]{opening} of the [theater]{theater} by several [month]{months}."
+      ],
+      "id": "put-back__5"
+    }
+  ]
+}

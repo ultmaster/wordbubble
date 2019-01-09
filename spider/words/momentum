@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[progress_1]{progress} or [development]{development} that is becoming [fast_1]{faster} or [strong]{stronger}",
+      "examples": [
+        "the momentum towards [economic]{economic} and [political]{political} [union]{union} in Europe",
+        "Interest in [human_1]{human} [right_3]{rights} [issue_1]{issues} has [gain_1]{gained} momentum.",
+        "There was already [evidence_1]{evidence} that the [riot_1]{riots} were [lose]{losing} momentum.",
+        "We must [maintain]{maintain} the momentum of [reform_1]{reform}."
+      ],
+      "id": "momentum__1"
+    },
+    {
+      "def": "the [speed_1]{speed} with which a [moving]{moving} [object_1]{object} [keep_1]{keeps} [moving]{moving} or [move_1]{moves} [fast_1]{faster}",
+      "examples": [
+        "The [vehicle]{vehicle} [gain_1]{gained} momentum as the [road]{road} [dip_1]{dipped}."
+      ],
+      "id": "momentum__6"
+    },
+    {
+      "def": "the [tendency]{tendency} of a [moving]{moving} [object_1]{object} to keep [moving]{moving} [unless]{unless} another [force_1]{force} [stop_1]{stops} it or [slow_2]{slows} it down",
+      "examples": [],
+      "id": "momentum__8"
+    }
+  ],
+  "word": "momentum"
+}

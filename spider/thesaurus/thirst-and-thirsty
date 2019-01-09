@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "[feeling_1]{feeling} that you [want_1]{want} or [need_1]{need} to [drink_1]{drink} something",
+      "entry": "thirsty",
+      "id": "thirsty#thirsty__1"
+    },
+    {
+      "comment": "the [feeling_1]{feeling} that you are [thirsty]{thirsty}",
+      "entry": "thirst",
+      "id": "thirst_1#thirst_1__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [thirsty]{thirsty}",
+      "entry": "dry",
+      "id": "dry_1#dry_1__20"
+    },
+    {
+      "comment": "very [thirsty]{thirsty}",
+      "entry": "parched",
+      "id": "parched#parched__1"
+    },
+    {
+      "comment": "the [state_1]{state} of not [have]{having} enough to [drink_1]{drink}",
+      "entry": "thirst",
+      "id": "thirst_1#thirst_1__3"
+    },
+    {
+      "comment": "to be [thirsty]{thirsty}",
+      "entry": "thirst",
+      "id": "thirst_2#thirst_2__1"
+    },
+    {
+      "comment": "feeling very bored/hungry/thirsty etc.",
+      "entry": "dying of boredom/hunger/thirst etc.",
+      "id": "dying-of-boredom-hunger-thirst-etc#dying-of-boredom-hunger-thirst-etc__1"
+    }
+  ],
+  "thesaurus": "Thirst and thirsty",
+  "type": "Synonyms"
+}

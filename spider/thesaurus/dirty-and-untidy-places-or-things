@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} and [dirty_1]{dirty} or [messy]{messy} [house_1]{house}",
+      "entry": "hovel",
+      "id": "hovel#hovel__1"
+    },
+    {
+      "comment": "a [place_1]{place} or [building]{building} that is [dirty_1]{dirty} or [unpleasant]{unpleasant}",
+      "entry": "dump",
+      "id": "dump_2#dump_2__2"
+    },
+    {
+      "comment": "an [unpleasant]{unpleasant} or [dirty_1]{dirty} [place_1]{place}",
+      "entry": "hole",
+      "id": "hole_1#hole_1__11"
+    },
+    {
+      "comment": "an [extremely]{extremely} [messy]{messy} [place_1]{place}",
+      "entry": "shambles",
+      "id": "shambles#shambles__3"
+    },
+    {
+      "comment": "a [dirty_1]{dirty} or [messy]{messy} [place_1]{place}",
+      "entry": "tip",
+      "id": "tip_1#tip_1__16"
+    },
+    {
+      "comment": "a [house_1]{house} or [room_1]{room} that is very [dirty_1]{dirty} or [messy]{messy}",
+      "entry": "slum",
+      "id": "slum_1#slum_1__3"
+    },
+    {
+      "comment": "a [yard]{yard} or other [place_1]{place} that has a [lot_1]{lot} of [plant_1]{plants} in it [growing]{growing} in an [uncontrolled]{uncontrolled} way",
+      "entry": "jungle",
+      "id": "jungle#jungle__5"
+    },
+    {
+      "comment": "an [area]{area} where [bomb_1]{bombs} have [destroy]{destroyed} [building]{buildings}, [road]{roads}, etc.",
+      "entry": "bomb site",
+      "id": "bomb-site#bomb-site__1"
+    },
+    {
+      "comment": "an [extremely]{extremely} [messy]{messy} [place_1]{place}",
+      "entry": "pit",
+      "id": "pit_1#pit_1__15"
+    },
+    {
+      "comment": "a [place_1]{place} that is very [dirty_1]{dirty} and [unpleasant]{unpleasant}",
+      "entry": "hellhole",
+      "id": "hellhole#hellhole__1"
+    }
+  ],
+  "thesaurus": "Dirty and untidy places or things",
+  "type": "Synonyms"
+}

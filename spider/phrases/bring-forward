@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "bring forward",
+  "senses": [
+    {
+      "def": "to [change_1]{change} the [date_1]{date} or time of an [event]{event} so that it [happen]{happens} [earlier_1]{earlier}",
+      "examples": [
+        "The [tennis]{tennis} [match_1]{match} has been [brought]{brought} [forward_1]{forward} to 1:00 p.m.",
+        "They [brought]{brought} the [date_1]{date} of the [wedding]{wedding} [forward_1]{forward} so her [cousin]{cousins} could [attend]{attend}."
+      ],
+      "id": "bring-forward__1"
+    },
+    {
+      "def": "to [announce]{announce} [plan_1]{plans} or [idea]{ideas} [officially]{officially} so that [people_1]{people} can [discuss]{discuss} them",
+      "examples": [
+        "The [various]{various} [department]{departments} have not yet [brought]{brought} [forward_1]{forward} their [budget_1]{budgets} for the [year]{year}."
+      ],
+      "id": "bring-forward__4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "cool off",
+  "senses": [
+    {
+      "def": "to become [calm_1]{calm} again",
+      "examples": [
+        "[let_1]{Let} him [cool_1]{cool} off, you can [talk_1]{talk} about it [later_1]{later}.",
+        "I\u2019m [really]{really} [busy_1]{busy}, but when [thing]{things} [cool_1]{cool} off I\u2019ll come and see you."
+      ],
+      "id": "cool-off__1"
+    },
+    {
+      "def": "to become [cooler]{cooler} after being very [hot]{hot}",
+      "examples": [
+        "We went for a [swim_1]{swim} to [cool_1]{cool} ourselves off."
+      ],
+      "id": "cool-off__4"
+    },
+    {
+      "def": "if [sale]{sales}, [price_1]{prices}, etc. [cool_1]{cool} off, they become [lower_1]{lower}",
+      "examples": [],
+      "id": "cool-off__6"
+    }
+  ]
+}

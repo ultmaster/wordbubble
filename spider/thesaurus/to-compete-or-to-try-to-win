@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [try_1]{try} to [win_1]{win} a [competition]{competition}",
+      "entry": "compete",
+      "id": "compete#compete__4"
+    },
+    {
+      "comment": "to [compete]{compete} with other [people_1]{people} for something that is [difficult]{difficult} to get",
+      "entry": "vie",
+      "id": "vie#vie__1"
+    },
+    {
+      "comment": "to [compete]{compete} against someone, for [example]{example} for a [victory]{victory} or for [power_1]{power}",
+      "entry": "contend",
+      "id": "contend#contend__3"
+    },
+    {
+      "comment": "to [compete]{compete} with someone, or to [try_1]{try} to [achieve]{achieve} the [opposite_1]{opposite} of what they are [trying]{trying} to [achieve]{achieve}",
+      "entry": "battle",
+      "id": "battle_2#battle_2__5"
+    },
+    {
+      "comment": "to [compete]{compete} in [order_1]{order} to [win_1]{win} something or get something",
+      "entry": "fight",
+      "id": "fight_1#fight_1__28"
+    },
+    {
+      "comment": "to [compete]{compete} for something",
+      "entry": "jostle",
+      "id": "jostle#jostle__3"
+    },
+    {
+      "comment": "to [fight_1]{fight} an [enemy]{enemy} or [opponent]{opponent}",
+      "entry": "combat",
+      "id": "combat_2#combat_2__5"
+    },
+    {
+      "comment": "to [fight_1]{fight} or [compete]{compete} against someone",
+      "entry": "take on",
+      "id": "take-on#take-on__8"
+    },
+    {
+      "comment": "to [invite_1]{invite} someone to [compete]{compete} or [fight_1]{fight}",
+      "entry": "challenge",
+      "id": "challenge_2#challenge_2__9"
+    },
+    {
+      "comment": "to keep [trying]{trying} to [win_1]{win} or [succeed]{succeed}",
+      "entry": "hold on",
+      "id": "hold-on#hold-on__6"
+    }
+  ],
+  "thesaurus": "To compete, or to try to win",
+  "type": "Synonyms"
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [tool_1]{tool} or [machine_1]{machine} that is [used]{used} for [opening_1]{opening} something",
+      "examples": [
+        "a [letter_1]{letter} opener"
+      ],
+      "id": "opener__1"
+    },
+    {
+      "def": "the first [game_1]{game} in a [sport_1]{sports} [season_1]{season} or in a [competition]{competition} [consist]{consisting} of several [game_1]{games}",
+      "examples": [
+        "the [season_1]{season} opener"
+      ],
+      "id": "opener__3"
+    }
+  ],
+  "word": "opener"
+}

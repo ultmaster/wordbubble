@@ -1,0 +1,31 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[feeling_1]{feeling} [sad_1]{sad} or [upset_1]{upset}",
+      "examples": [
+        "Why are you so unhappy?",
+        "Her [father_1]{father} was a [desperately]{desperately} unhappy man.",
+        "an unhappy [childhood]{childhood}/[memory]{memory}/[relationship]{relationship}"
+      ],
+      "id": "unhappy__1"
+    },
+    {
+      "def": "not [satisfied]{satisfied}",
+      "examples": [
+        "[people_1]{People} are very unhappy about the [high_1]{high} [ticket_1]{ticket} [price_1]{prices}.",
+        "I\u2019m unhappy with some of the [farming]{farming} [method]{methods} being [used]{used}."
+      ],
+      "id": "unhappy__6"
+    },
+    {
+      "def": "[used]{used} about something [bad_1]{bad} that [happen]{happens} because of [bad_1]{bad} [luck_1]{luck}",
+      "examples": [
+        "an unhappy [coincidence]{coincidence}",
+        "an unhappy [series]{series} of [event]{events}"
+      ],
+      "id": "unhappy__9"
+    }
+  ],
+  "word": "unhappy"
+}

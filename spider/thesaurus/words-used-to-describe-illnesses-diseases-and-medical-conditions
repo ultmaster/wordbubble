@@ -1,0 +1,401 @@
+{
+  "entries": [
+    {
+      "comment": "an [acute]{acute} [illness]{illness} is one that becomes very [bad_1]{bad} very [quickly]{quickly}",
+      "entry": "acute",
+      "id": "acute#acute__3"
+    },
+    {
+      "comment": "an [advanced]{advanced} [illness]{illness} is [difficult]{difficult} or [impossible]{impossible} to [treat_1]{treat} because it has had time to [develop]{develop} [completely]{completely}",
+      "entry": "advanced",
+      "id": "advanced#advanced__11"
+    },
+    {
+      "comment": "if a [disease]{disease} or [person]{person} is [asymptomatic]{asymptomatic}, they show no [physical_1]{physical} [sign_1]{signs} of a [medical_1]{medical} [problem]{problem}",
+      "entry": "asymptomatic",
+      "id": "asymptomatic#asymptomatic__1"
+    },
+    {
+      "comment": "[affected]{affected} by the [developmental]{developmental} [disorder]{disorder} [autism]{autism}",
+      "entry": "autistic",
+      "id": "autistic#autistic__1"
+    },
+    {
+      "comment": "relating to conditions and diseases in which normal cells are attacked by someone\u2019s immune system  (=parts of the body that fight disease)",
+      "entry": "autoimmune",
+      "id": "autoimmune#autoimmune__1"
+    },
+    {
+      "comment": "[relate]{relating} to the [cause_1]{causes} and [treatment]{treatment} of [obesity]{obesity}",
+      "entry": "bariatric",
+      "id": "bariatric#bariatric__1"
+    },
+    {
+      "comment": "a [benign]{benign} [lump_1]{lump} in your body or a [benign]{benign} [disease]{disease} is not [cancer_1]{cancer} and will not [kill_1]{kill} you",
+      "entry": "benign",
+      "id": "benign#benign__1"
+    },
+    {
+      "comment": "a [disease]{disease}, [mood]{mood}, or [idea]{idea} that is [catching]{catching} [spread_1]{spreads} [quickly]{quickly} to other [people_1]{people}",
+      "entry": "catching",
+      "id": "catching#catching__1"
+    },
+    {
+      "comment": "a chronic illness or chronic pain is serious and lasts for a long time. A serious illness or pain that lasts only for a short time is described as acute",
+      "entry": "chronic",
+      "id": "chronic#chronic__1"
+    },
+    {
+      "comment": "[relate]{relating} to an [illness]{illness}",
+      "entry": "clinical",
+      "id": "clinical#clinical__3"
+    },
+    {
+      "comment": "a [communicable]{communicable} [disease]{disease} can be [pass_1]{passed} from one [person]{person} or [animal_1]{animal} to another",
+      "entry": "communicable",
+      "id": "communicable#communicable__1"
+    },
+    {
+      "comment": "[able_1]{able} to be [communicate]{communicated} to someone else",
+      "entry": "communicable",
+      "id": "communicable#communicable__2"
+    },
+    {
+      "comment": "a [congenital]{congenital} [medical_1]{medical} [condition_1]{condition} is one that a [person]{person} has had since they were [born]{born}",
+      "entry": "congenital",
+      "id": "congenital#congenital__1"
+    },
+    {
+      "comment": "if someone has a [congenital]{congenital} [fault_1]{fault}, they have always had it",
+      "entry": "congenital",
+      "id": "congenital#congenital__2"
+    },
+    {
+      "comment": "a [contagious]{contagious} [disease]{disease} [spread_1]{spreads} from one [person]{person} to another through [touch_1]{touch} or through the [air_1]{air}",
+      "entry": "contagious",
+      "id": "contagious#contagious__1"
+    },
+    {
+      "comment": "[cause_2]{causing} someone to be [physically]{physically} [disabled]{disabled}, [especially]{especially} [unable]{unable} to [walk_1]{walk}",
+      "entry": "crippling",
+      "id": "crippling#crippling__1"
+    },
+    {
+      "comment": "[possible_1]{possible} to [cure_1]{cure}",
+      "entry": "curable",
+      "id": "curable#curable__1"
+    },
+    {
+      "comment": "a [degenerative]{degenerative} [disease]{disease} is one that [gradually]{gradually} [get]{gets} [worse_1]{worse}",
+      "entry": "degenerative",
+      "id": "degenerative#degenerative__1"
+    },
+    {
+      "comment": "[relate]{relating} to [depression]{depression}, or [suffering]{suffering} from [depression]{depression}",
+      "entry": "depressive",
+      "id": "depressive_1#depressive_1__1"
+    },
+    {
+      "comment": "if a [condition_1]{condition} or [injury]{injury} is [disabling]{disabling}, it [affect_1]{affects} your body or your [brain_1]{brain} and [make_1]{makes} you [unable]{unable} to use it [properly]{properly}",
+      "entry": "disabling",
+      "id": "disabling#disabling__1"
+    },
+    {
+      "comment": "[happening_1]{happening} a [lot_1]{lot} and [affecting]{affecting} many [people_1]{people}",
+      "entry": "epidemic",
+      "id": "epidemic_2#epidemic_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [fever]{fever}",
+      "entry": "febrile",
+      "id": "febrile#febrile__2"
+    },
+    {
+      "comment": "a [first-degree_2]{first-degree} [burn_1]{burn} is the least serious [type_1]{type}",
+      "entry": "first-degree",
+      "id": "first-degree_2#first-degree_2__2"
+    },
+    {
+      "comment": "a [focal]{focal} [disease]{disease} or [infection]{infection} is [limited]{limited} to one part of the body",
+      "entry": "focal",
+      "id": "focal#focal__3"
+    },
+    {
+      "comment": "caused by a fungus",
+      "entry": "fungal",
+      "id": "fungal#fungal__1"
+    },
+    {
+      "comment": "[affecting]{affecting} most of the body rather than [just_1]{just} one [area]{area}",
+      "entry": "generalized",
+      "id": "generalized#generalized__3"
+    },
+    {
+      "comment": "an [inactive]{inactive} [disease]{disease} or other [threat]{threat} is [present_1]{present} but not [doing]{doing} anything at this time",
+      "entry": "inactive",
+      "id": "inactive#inactive__7"
+    },
+    {
+      "comment": "not [able_1]{able} to be [cure_2]{cured}",
+      "entry": "incurable",
+      "id": "incurable#incurable__1"
+    },
+    {
+      "comment": "[affecting]{affecting} [young_1]{young} [children]{children}",
+      "entry": "infantile",
+      "id": "infantile#infantile__2"
+    },
+    {
+      "comment": "an [infectious]{infectious} [disease]{disease} is one that can [spread_1]{spread} from one [person]{person} to another",
+      "entry": "infectious",
+      "id": "infectious#infectious__1"
+    },
+    {
+      "comment": "[cause_2]{causing} [inflammation]{inflammation} in a part of your body",
+      "entry": "inflammatory",
+      "id": "inflammatory#inflammatory__3"
+    },
+    {
+      "comment": "an [inoperable]{inoperable} [medical_1]{medical} [condition_1]{condition} cannot be [cure_2]{cured} or [treat_1]{treated} by an [operation]{operation}",
+      "entry": "inoperable",
+      "id": "inoperable#inoperable__1"
+    },
+    {
+      "comment": "an [invasive]{invasive} [disease]{disease} [spread_1]{spreads} within the body and is [difficult]{difficult} to [treat_1]{treat}",
+      "entry": "invasive",
+      "id": "invasive#invasive__3"
+    },
+    {
+      "comment": "[likely_1]{likely} to cause someone to [die_1]{die}",
+      "entry": "life-threatening",
+      "id": "life-threatening#life-threatening__1"
+    },
+    {
+      "comment": "[affecting]{affecting} only a [small_1]{small} [area]{area} of your body",
+      "entry": "local",
+      "id": "local_1#local_1__6"
+    },
+    {
+      "comment": "a [low-grade]{low-grade} [medical_1]{medical} [condition_1]{condition} is not very serious",
+      "entry": "low-grade",
+      "id": "low-grade#low-grade__2"
+    },
+    {
+      "comment": "a malignant tumor consists of cancer cells that can spread in the body",
+      "entry": "malignant",
+      "id": "malignant#malignant__1"
+    },
+    {
+      "comment": "a [mild]{mild} [illness]{illness} or [injury]{injury} is one that is not serious",
+      "entry": "mild",
+      "id": "mild#mild__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [cause_2]{caused} by [disease]{disease}",
+      "entry": "morbid",
+      "id": "morbid#morbid__2"
+    },
+    {
+      "comment": "serious enough to cause [death]{death}",
+      "entry": "mortal",
+      "id": "mortal_1#mortal_1__3"
+    },
+    {
+      "comment": "[affecting]{affecting} several [part_1]{parts} of your body",
+      "entry": "multiple",
+      "id": "multiple_1#multiple_1__5"
+    },
+    {
+      "comment": "a [nervous]{nervous} [illness]{illness} or [medical_1]{medical} [condition_1]{condition} is [cause_2]{caused} by [worry_1]{worry}, or by [working]{working} too [hard_1]{hard}, so that you [feel_1]{feel} [excited]{excited} when you [want_1]{want} to [relax]{relax}",
+      "entry": "nervous",
+      "id": "nervous#nervous__7"
+    },
+    {
+      "comment": "[relate]{relating} to [condition_1]{conditions} such as Alzheimer\u2019s [disease]{disease} or Parkinson\u2019s [disease]{disease} that cause someone\u2019s [nerve_1]{nerves} to be [damage_2]{damaged}",
+      "entry": "neurodegenerative",
+      "id": "neurodegenerative#neurodegenerative__1"
+    },
+    {
+      "comment": "a [niggling]{niggling} [injury]{injury} is not very serious but is [difficult]{difficult} to [treat_1]{treat} or [cure_1]{cure}",
+      "entry": "niggling",
+      "id": "niggling#niggling__2"
+    },
+    {
+      "comment": "not [spread_1]{spreading} to other [part_1]{parts} of your body",
+      "entry": "noninvasive",
+      "id": "noninvasive#noninvasive__2"
+    },
+    {
+      "comment": "not [relate]{relating} to or [cause_2]{caused} by one [particular_1]{particular} thing",
+      "entry": "nonspecific",
+      "id": "nonspecific#nonspecific__1"
+    },
+    {
+      "comment": "a [nonspecific]{nonspecific} [illness]{illness} or [medical_1]{medical} [condition_1]{condition} may have more than one cause",
+      "entry": "nonspecific",
+      "id": "nonspecific#nonspecific__2"
+    },
+    {
+      "comment": "an [operable]{operable} [disease]{disease} can be [cure_2]{cured} by a [medical_1]{medical} [operation]{operation}",
+      "entry": "operable",
+      "id": "operable#operable__1"
+    },
+    {
+      "comment": "an opportunistic disease or infection is one that attacks people who are already sick and who have a very weak immune system",
+      "entry": "opportunistic",
+      "id": "opportunistic#opportunistic__3"
+    },
+    {
+      "comment": "a [parasitic]{parasitic} [disease]{disease} is [cause_2]{caused} by [parasite]{parasites} [living_1]{living} [inside_1]{inside} your body",
+      "entry": "parasitic",
+      "id": "parasitic#parasitic__2"
+    },
+    {
+      "comment": "[cause_2]{caused} by [disease]{disease}",
+      "entry": "pathological",
+      "id": "pathological#pathological__4"
+    },
+    {
+      "comment": "[used]{used} about an [organ]{organ} or [tube]{tube} [inside_1]{inside} your body that has a [small_1]{small} hole or [cut_1]{cut} in its [surface_1]{surface}",
+      "entry": "perforated",
+      "id": "perforated#perforated__3"
+    },
+    {
+      "comment": "in the first [stage_1]{stage} of [development]{development}",
+      "entry": "primary",
+      "id": "primary_1#primary_1__6"
+    },
+    {
+      "comment": "[involve]{involving} [mental]{mental} [illness]{illness}",
+      "entry": "psychiatric",
+      "id": "psychiatric#psychiatric__4"
+    },
+    {
+      "comment": "a [psychosomatic]{psychosomatic} [illness]{illness} is [cause_2]{caused} by a [problem]{problem} in your [mind_1]{mind}",
+      "entry": "psychosomatic",
+      "id": "psychosomatic#psychosomatic__1"
+    },
+    {
+      "comment": "a [quiescent]{quiescent} [disease]{disease} or [illness]{illness} is not [get]{getting} [worse_1]{worse}",
+      "entry": "quiescent",
+      "id": "quiescent#quiescent__3"
+    },
+    {
+      "comment": "a [refractory]{refractory} [illness]{illness} [does]{does} not [improve_1]{improve} [despite]{despite} [medical_1]{medical} [treatment]{treatment}",
+      "entry": "refractory",
+      "id": "refractory#refractory__2"
+    },
+    {
+      "comment": "[relate]{relating} to or [affected]{affected} by [rheumatism]{rheumatism}",
+      "entry": "rheumatic",
+      "id": "rheumatic#rheumatic__1"
+    },
+    {
+      "comment": "a second-degree burn is more serious than a first-degree burn but not as serious as a third-degree burn",
+      "entry": "second-degree",
+      "id": "second-degree#second-degree__2"
+    },
+    {
+      "comment": "a [self-induced]{self-induced} [medical_1]{medical} [condition_1]{condition} is one that you cause yourself",
+      "entry": "self-induced",
+      "id": "self-induced#self-induced__1"
+    },
+    {
+      "comment": "a [self-inflicted]{self-inflicted} [injury]{injury}, [condition_1]{condition}, etc. is one that you cause yourself",
+      "entry": "self-inflicted",
+      "id": "self-inflicted#self-inflicted__1"
+    },
+    {
+      "comment": "a [severe]{severe} [pain_1]{pain}, [injury]{injury}, or [illness]{illness} is serious and [unpleasant]{unpleasant}",
+      "entry": "severe",
+      "id": "severe#severe__4"
+    },
+    {
+      "comment": "a [sporadic]{sporadic} [disease]{disease} [appear]{appears} in [separate_1]{separate} [area]{areas} of a [country]{country} or [region]{region} with no [clear_1]{clear} [connection]{connection} between the [case_1]{cases}",
+      "entry": "sporadic",
+      "id": "sporadic#sporadic__4"
+    },
+    {
+      "comment": "a [strangulated]{strangulated} part of your body [does]{does} not have enough [blood_1]{blood} [flowing]{flowing} to it",
+      "entry": "strangulated",
+      "id": "strangulated#strangulated__1"
+    },
+    {
+      "comment": "[difficult]{difficult} to [cure_1]{cure} or [remove]{remove}",
+      "entry": "stubborn",
+      "id": "stubborn#stubborn__7"
+    },
+    {
+      "comment": "a [suspected]{suspected} [injury]{injury} is one that [doctor_1]{doctors} [think_1]{think} you have, but they are not [sure_1]{sure} yet",
+      "entry": "suspected",
+      "id": "suspected#suspected__1"
+    },
+    {
+      "comment": "[affecting]{affecting} your whole body",
+      "entry": "systemic",
+      "id": "systemic#systemic__3"
+    },
+    {
+      "comment": "a [terminal_1]{terminal} [illness]{illness} cannot be [cure_2]{cured} and will cause someone to [die_1]{die}, [usually]{usually} [slowly]{slowly}",
+      "entry": "terminal",
+      "id": "terminal_2#terminal_2__1"
+    },
+    {
+      "comment": "[continuing]{continuing} to get [worse_1]{worse} until the [end_1]{end} is [reach_1]{reached}",
+      "entry": "terminal",
+      "id": "terminal_2#terminal_2__4"
+    },
+    {
+      "comment": "a [third-degree]{third-degree} [burn_1]{burn} is the most serious [type_1]{type}",
+      "entry": "third-degree",
+      "id": "third-degree#third-degree__1"
+    },
+    {
+      "comment": "a [traumatic]{traumatic} [injury]{injury} [cause_1]{causes} serious [damage_1]{damage} to the body",
+      "entry": "traumatic",
+      "id": "traumatic#traumatic__3"
+    },
+    {
+      "comment": "a [treatable]{treatable} [illness]{illness} or [medical_1]{medical} [condition_1]{condition} can be [cure_2]{cured} by [medical_1]{medical} [treatment]{treatment}",
+      "entry": "treatable",
+      "id": "treatable#treatable__1"
+    },
+    {
+      "comment": "[relate]{relating} to or [affected]{affected} by [tuberculosis]{tuberculosis}",
+      "entry": "tubercular",
+      "id": "tubercular#tubercular__1"
+    },
+    {
+      "comment": "an [unresponsive]{unresponsive} [illness]{illness} [does]{does} not [improve_1]{improve} when [doctor_1]{doctors} [treat_1]{treat} it",
+      "entry": "unresponsive",
+      "id": "unresponsive#unresponsive__4"
+    },
+    {
+      "comment": "[receive]{receiving} no [medical_1]{medical} [treatment]{treatment}",
+      "entry": "untreated",
+      "id": "untreated#untreated__1"
+    },
+    {
+      "comment": "caused by or relating to a virus",
+      "entry": "viral",
+      "id": "viral_1#viral_1__1"
+    },
+    {
+      "comment": "a [virulent]{virulent} [illness]{illness} is very [dangerous]{dangerous}, and [affect_1]{affects} [people_1]{people} very [quickly]{quickly}",
+      "entry": "virulent",
+      "id": "virulent#virulent__1"
+    },
+    {
+      "comment": "a [wasting]{wasting} [disease]{disease} [make_1]{makes} you thin, [weak]{weak}, and [tired]{tired}",
+      "entry": "wasting",
+      "id": "wasting#wasting__1"
+    },
+    {
+      "comment": "a [waterborne]{waterborne} [disease]{disease} is [spread_1]{spread} through [water_1]{water}",
+      "entry": "waterborne",
+      "id": "waterborne#waterborne__1"
+    }
+  ],
+  "thesaurus": "Words used to describe illnesses, diseases and medical conditions",
+  "type": "Related words"
+}

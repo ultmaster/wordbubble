@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [flower_1]{flower}",
+      "entry": "bloom",
+      "id": "bloom_2#bloom_2__1"
+    },
+    {
+      "comment": "a [lot_1]{lot} of [flower_1]{flowers} or [plant_1]{plants} together",
+      "entry": "bloom",
+      "id": "bloom_2#bloom_2__3"
+    },
+    {
+      "comment": "a [collection]{collection} of [flower_1]{flowers}, [cut_1]{cut} and [tied]{tied} together in an [attractive]{attractive} way",
+      "entry": "bouquet",
+      "id": "bouquet#bouquet__1"
+    },
+    {
+      "comment": "a [flower_1]{flower} that a man [wear_1]{wears} on his [jacket]{jacket}, for [example]{example} at a [wedding]{wedding}",
+      "entry": "boutonniere",
+      "id": "boutonniere#boutonniere__1"
+    },
+    {
+      "comment": "a group of cut flowers that you hold together or that someone has tied together. A bunch of flowers that someone has arranged in an attractive way is called a bouquet.",
+      "entry": "bunch",
+      "id": "bunch_1#bunch_1__7"
+    },
+    {
+      "comment": "a [boutonniere_1]{boutonniere}",
+      "entry": "buttonhole",
+      "id": "buttonhole_1#buttonhole_1__2"
+    },
+    {
+      "comment": "a [decoration]{decoration} or [arrangement]{arrangement} of [flower_1]{flowers} that you put in the [middle_1]{middle} of something, [especially]{especially} in the [middle_1]{middle} of a [table_1]{table}",
+      "entry": "centerpiece",
+      "id": "centerpiece#centerpiece__1"
+    },
+    {
+      "comment": "full of [flower_1]{flowers}",
+      "entry": "flowery",
+      "id": "flowery#flowery__1"
+    },
+    {
+      "comment": "fresh flowers have been recently picked  (=taken from the place they were growing in)",
+      "entry": "fresh",
+      "id": "fresh_1#fresh_1__7"
+    },
+    {
+      "comment": "a [full-blown]{full-blown} [flower_1]{flower} is [completely]{completely} [open_1]{open}",
+      "entry": "full-blown",
+      "id": "full-blown#full-blown__4"
+    },
+    {
+      "comment": "a small bunch of flowers that you hold in your hand or give to someone",
+      "entry": "nosegay",
+      "id": "nosegay#nosegay__1"
+    },
+    {
+      "comment": "a [number_1]{number} of [small_1]{small} [flower_1]{flowers} that you [hold_1]{hold} together",
+      "entry": "posy",
+      "id": "posy#posy__1"
+    },
+    {
+      "comment": "the [flower_1]{flower} of a [rose_1]{rose} before it [open_2]{opens}",
+      "entry": "rosebud",
+      "id": "rosebud#rosebud__1"
+    },
+    {
+      "comment": "a small branch with flowers or berries on it, used for decoration",
+      "entry": "spray",
+      "id": "spray_2#spray_2__7"
+    },
+    {
+      "comment": "a [circle_1]{circle} of [flower_1]{flowers} or [leaves]{leaves} that you [hang_1]{hang} up for [decoration]{decoration}",
+      "entry": "wreath",
+      "id": "wreath#wreath__3"
+    }
+  ],
+  "thesaurus": "General words for flowers and bunches of flowers",
+  "type": "Related words"
+}

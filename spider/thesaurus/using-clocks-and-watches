@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "in a [factory]{factory}, to [pass_1]{pass} a [special_1]{special} [card_1]{card} through a [piece_1]{piece} of [equipment]{equipment} to [record_1]{record} that you have [arrive]{arrived} at [work_1]{work}",
+      "entry": "clock in",
+      "id": "clock-in#clock-in__1"
+    },
+    {
+      "comment": "in a [factory]{factory}, to [pass_1]{pass} a [special_1]{special} [card_1]{card} through a [piece_1]{piece} of [equipment]{equipment} to [record_1]{record} that you are [leave_1]{leaving} [work_1]{work}",
+      "entry": "clock off",
+      "id": "clock-off#clock-off__1"
+    },
+    {
+      "comment": "when the [clock_1]{clocks} go back, everyone [change_1]{changes} the time on their [clock_1]{clocks} so that they show a time that is one [hour]{hour} [earlier_1]{earlier} than before",
+      "entry": "go back",
+      "id": "go-back#go-back__15"
+    },
+    {
+      "comment": "to [decide]{decide} that it is a [particular_1]{particular} time by [look_1]{looking} at your [watch_1]{watch}",
+      "entry": "make it 5 o\u2019clock/7:30 etc.",
+      "id": "make-it-5-o-clock-7-30-etc#make-it-5-o-clock-7-30-etc__1"
+    },
+    {
+      "comment": "to [record_1]{record} the time you [arrive]{arrive} at [work_1]{work} by [put]{putting} a [card_1]{card} into a [machine_1]{machine}",
+      "entry": "punch in",
+      "id": "punch-in#punch-in__3"
+    },
+    {
+      "comment": "to [record_1]{record} the time that you [leave_1]{leave} [work_1]{work} by [put]{putting} a [card_1]{card} into a [machine_1]{machine}",
+      "entry": "punch out",
+      "id": "punch-out#punch-out__1"
+    },
+    {
+      "comment": "to [change_1]{change} the time of a [clock_1]{clock} or [watch_1]{watch} to an [earlier_1]{earlier} time",
+      "entry": "put back",
+      "id": "put-back#put-back__3"
+    },
+    {
+      "comment": "to [change_1]{change} the time of a [clock_1]{clock} or [watch_1]{watch} to a [later_1]{later} time",
+      "entry": "put forward",
+      "id": "put-forward#put-forward__8"
+    },
+    {
+      "comment": "to [change_1]{change} the time or [number_1]{number} on a [clock_1]{clock} or other [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "reset",
+      "id": "reset#reset__2"
+    },
+    {
+      "comment": "to [change_1]{change} the time on a [clock_1]{clock} or the [control_1]{controls} on a [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "set",
+      "id": "set_1#set_1__18"
+    },
+    {
+      "comment": "to use a [clock_1]{clock} to [measure_1]{measure} something, for [example]{example} how long something [last_2]{lasts} or how often something [happen]{happens} within a [particular_1]{particular} [period_1]{period}",
+      "entry": "time",
+      "id": "time_2#time_2__1"
+    },
+    {
+      "comment": "to [change_1]{change} the time on a [clock_1]{clock} to an [earlier_1]{earlier} time",
+      "entry": "turn/set/put the clock back",
+      "id": "turn-set-put-the-clock-back#turn-set-put-the-clock-back__1"
+    },
+    {
+      "comment": "to [change_1]{change} the time on a [clock_1]{clock} to a [later_1]{later} time",
+      "entry": "turn/set/put the clock forward",
+      "id": "turn-set-put-the-clock-forward#turn-set-put-the-clock-forward__1"
+    },
+    {
+      "comment": "to keep [look_1]{looking} at the time on a [clock_1]{clock} or a [watch_1]{watch} because you are [bored]{bored} or you [want_1]{want} something to [end_1]{end}",
+      "entry": "watch the clock",
+      "id": "watch-the-clock#watch-the-clock__1"
+    },
+    {
+      "comment": "to [make_1]{make} [sure_1]{sure} that you [know_1]{know} what time it is so that you are not [late_1]{late} for something",
+      "entry": "watch the time",
+      "id": "watch-the-time#watch-the-time__1"
+    },
+    {
+      "comment": "if you [wind_1]{wind} or [wind_1]{wind} up a [watch_1]{watch} or a [clock_1]{clock}, you [make_1]{make} it [operate]{operate} by [turning]{turning} a part of it around and around",
+      "entry": "wind",
+      "id": "wind_3#wind_3__10"
+    },
+    {
+      "comment": "the [action_1]{action} of [turning]{turning} a part of a [clock_1]{clock} or a [watch_1]{watch} to [make_1]{make} it [operate]{operate}",
+      "entry": "wind",
+      "id": "wind_4#wind_4__2"
+    }
+  ],
+  "thesaurus": "Using clocks and watches",
+  "type": "Related words"
+}

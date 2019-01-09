@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who [chase_1]{chases} and [kill_1]{kills} [wild_1]{wild} [animal_1]{animals}",
+      "examples": [
+        "[owl]{Owls} are [skillful]{skillful} [hunter]{hunters}."
+      ],
+      "id": "hunter__1"
+    },
+    {
+      "def": "someone who is [look_1]{looking} for a [particular_1]{particular} [type_1]{type} of thing",
+      "examples": [
+        "a [bargain_1]{bargain}/[autograph_1]{autograph}/[souvenir]{souvenir}/[fossil]{fossil} hunter"
+      ],
+      "id": "hunter__4"
+    },
+    {
+      "def": "a [type_1]{type} of [horse_1]{horse} that [people_1]{people} [ride_1]{ride} when [hunting]{hunting} [fox_1]{foxes}",
+      "examples": [],
+      "id": "hunter__6"
+    }
+  ],
+  "word": "hunter"
+}

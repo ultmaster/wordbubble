@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [eat]{eat} [grass]{grass} [growing]{growing} in a [field_1]{field}",
+      "examples": [
+        "The [sheep]{sheep} were [graze_1]{grazing} [peaceful#peaceful__11]{peacefully}.",
+        "[farmer]{Farmers} can now graze their [cattle]{cattle} on the [mountain]{mountain}."
+      ],
+      "id": "graze_1__1"
+    },
+    {
+      "def": "to [touch_1]{touch} something [slightly]{slightly} when you [pass_1]{pass} it",
+      "examples": [
+        "She [let_1]{let} her [finger_1]{fingers} graze [lightly]{lightly} against his [skin_1]{skin}."
+      ],
+      "id": "graze_1__5"
+    },
+    {
+      "def": "to [break_1]{break} the [surface_1]{surface} of your [skin_1]{skin}, for [example]{example} when you [fall_1]{fall} to the [ground_1]{ground}",
+      "examples": [
+        "He [fell_1]{fell} off the [swing_1]{swing} and [graze_1]{grazed} his [knee_1]{knee}."
+      ],
+      "id": "graze_1__7"
+    },
+    {
+      "def": "to [eat]{eat} [small_1]{small} [amount_1]{amounts} of [food]{food} [regularly]{regularly} [instead]{instead} of [eat]{eating} [meal]{meals}",
+      "examples": [],
+      "id": "graze_1__9"
+    }
+  ],
+  "word": "graze"
+}

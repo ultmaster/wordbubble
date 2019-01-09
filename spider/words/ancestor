@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone who is [related_1]{related} to you who [live_1]{lived} a long time [ago]{ago}",
+      "examples": [
+        "Her [ancestor]{ancestors} came to America with the [pilgrim]{Pilgrims}."
+      ],
+      "id": "ancestor__1"
+    },
+    {
+      "def": "an [earlier_1]{earlier} form from which something [modern]{modern} has [developed]{developed}",
+      "examples": [
+        "a [game_1]{game} that many see as the ancestor of [basketball]{basketball}"
+      ],
+      "id": "ancestor__3"
+    }
+  ],
+  "word": "ancestor"
+}

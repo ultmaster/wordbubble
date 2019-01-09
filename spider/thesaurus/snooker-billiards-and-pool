@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "thick green cloth used mainly for covering tables on which games such as pool are played",
+      "entry": "baize",
+      "id": "baize#baize__1"
+    },
+    {
+      "comment": "a game like billiards in which long sticks are used for pushing balls into holes on a table",
+      "entry": "bar billiards",
+      "id": "bar-billiards#bar-billiards__1"
+    },
+    {
+      "comment": "a game played on a special table in which two people use cues  (=long sticks) to hit balls into pockets  (=holes) at the edge of the table",
+      "entry": "billiards",
+      "id": "billiards#billiards__1"
+    },
+    {
+      "comment": "a long thin stick that you use for hitting the ball in games such as pool and billiards",
+      "entry": "cue",
+      "id": "cue_1#cue_1__5"
+    },
+    {
+      "comment": "the white ball that you hit with the cue in games such as snooker and pool",
+      "entry": "cue ball",
+      "id": "cue-ball#cue-ball__1"
+    },
+    {
+      "comment": "the rubber inner edge of the table that you hit balls against in games such as snooker or billiards",
+      "entry": "cushion",
+      "id": "cushion_1#cushion_1__8"
+    },
+    {
+      "comment": "one of the parts in a game of bowling",
+      "entry": "frame",
+      "id": "frame_1#frame_1__13"
+    },
+    {
+      "comment": "a hole with a small string bag fitted below it in the side of a billiard or pool table that you try to hit a ball into",
+      "entry": "pocket",
+      "id": "pocket_1#pocket_1__13"
+    },
+    {
+      "comment": "to hit a ball into a pocket in billiards or pool",
+      "entry": "pocket",
+      "id": "pocket_3#pocket_3__8"
+    },
+    {
+      "comment": "a game in which two players hit balls into holes at the edges of a table using a long stick called a cue",
+      "entry": "pool",
+      "id": "pool_1#pool_1__6"
+    },
+    {
+      "comment": "a [place_1]{place} where [people_1]{people} go to [play_1]{play} [pool_1]{pool}",
+      "entry": "pool hall",
+      "id": "pool-hall#pool-hall__1"
+    },
+    {
+      "comment": "to hit a ball into a hole in a game of pool or billiards",
+      "entry": "pot",
+      "id": "pot_2#pot_2__4"
+    },
+    {
+      "comment": "a triangle-shaped frame used for organizing balls at the beginning of a game of pool",
+      "entry": "rack",
+      "id": "rack_1#rack_1__7"
+    },
+    {
+      "comment": "to put the balls in a frame before you play a game of pool",
+      "entry": "rack",
+      "id": "rack_2#rack_2__4"
+    },
+    {
+      "comment": "a ball that scores one point in a game of snooker",
+      "entry": "red",
+      "id": "red_2#red_2__6"
+    },
+    {
+      "comment": "in games such as golf or pool, to put a ball into a hole",
+      "entry": "sink",
+      "id": "sink_1#sink_1__24"
+    },
+    {
+      "comment": "a game played on a large table covered with green cloth. Players try to hit colored balls into holes called pockets with a long stick called a cue.",
+      "entry": "snooker",
+      "id": "snooker#snooker__1"
+    }
+  ],
+  "thesaurus": "Snooker, billiards and pool",
+  "type": "Related words"
+}

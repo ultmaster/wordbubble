@@ -1,0 +1,301 @@
+{
+  "entries": [
+    {
+      "comment": "a piece of paper money. The usual word is bill.",
+      "entry": "banknote",
+      "id": "banknote#banknote__1"
+    },
+    {
+      "comment": "a piece of paper money. The British word is note",
+      "entry": "bill",
+      "id": "bill_1#bill_1__8"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "bread",
+      "id": "bread#bread__7"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "bucks",
+      "id": "buck_1#buck_1__3"
+    },
+    {
+      "comment": "[money]{money} in the form of [bill_1]{bills} and [coin_1]{coins}",
+      "entry": "cash",
+      "id": "cash_1#cash_1__1"
+    },
+    {
+      "comment": "[money]{money} in any form, [especially]{especially} [money]{money} that is [available]{available} for you to use when you [need_1]{need} it",
+      "entry": "cash",
+      "id": "cash_1#cash_1__4"
+    },
+    {
+      "comment": "to [exchange_1]{exchange} a bill or [coin_1]{coin} of [high_1]{high} [value_1]{value} for [bill_1]{bills} or [coin_1]{coins} of [lower_1]{lower} [value_1]{value}",
+      "entry": "change",
+      "id": "change_1#change_1__36"
+    },
+    {
+      "comment": "[coin_1]{coins} [instead]{instead} of [bill_1]{bills}",
+      "entry": "change",
+      "id": "change_2#change_2__20"
+    },
+    {
+      "comment": "if you have [change_1]{change} for a bill or [coin_1]{coin} of [high_1]{high} [value_1]{value}, you have [bill_1]{bills} or [coin_1]{coins} of [lower_1]{lower} [value_1]{value} that you can [exchange_1]{exchange} for it",
+      "entry": "change",
+      "id": "change_2#change_2__23"
+    },
+    {
+      "comment": "a flat round piece of metal with special designs on it, used as money. A piece of money made from paper is called a bill.",
+      "entry": "coin",
+      "id": "coin_1#coin_1__1"
+    },
+    {
+      "comment": "[money]{money} in the form of [coin_1]{coins}",
+      "entry": "coin",
+      "id": "coin_1#coin_1__2"
+    },
+    {
+      "comment": "the [coin_1]{coins} [used]{used} in a [particular_1]{particular} [country]{country} or in a [particular_1]{particular} [period_1]{period} in [history]{history}",
+      "entry": "coinage",
+      "id": "coinage#coinage__1"
+    },
+    {
+      "comment": "a coin of low value made of copper or bronze",
+      "entry": "copper",
+      "id": "copper_1#copper_1__4"
+    },
+    {
+      "comment": "the [value_1]{value} of a [particular_1]{particular} [coin_1]{coin} or [piece_1]{piece} of [paper_1]{paper} [money]{money}",
+      "entry": "denomination",
+      "id": "denomination#denomination__3"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "dinero",
+      "id": "dinero#dinero__1"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "dosh",
+      "id": "dosh#dosh__1"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "dough",
+      "id": "dough#dough__2"
+    },
+    {
+      "comment": "[money]{money} that [exist]{exists} in [electronic]{electronic} form and is [used]{used} to [pay_1]{pay} for [thing]{things} over the [internet]{Internet}",
+      "entry": "e-cash",
+      "id": "e-cash#e-cash__1"
+    },
+    {
+      "comment": "a card that has a particular value in cash stored on it in a microchip, which you can use for paying for things",
+      "entry": "electronic purse",
+      "id": "electronic-purse#electronic-purse__1"
+    },
+    {
+      "comment": "[e-cash]{e-cash}",
+      "entry": "e-money",
+      "id": "e-money#e-money__1"
+    },
+    {
+      "comment": "one side of a [coin_1]{coin}",
+      "entry": "face",
+      "id": "face_1#face_1__17"
+    },
+    {
+      "comment": "the [value_1]{value} of a [stamp_1]{stamp} or [coin_1]{coin} that is [shown]{shown} on the front of it",
+      "entry": "face value",
+      "id": "face-value#face-value__1"
+    },
+    {
+      "comment": "your [finance_2]{finances} are how much [money]{money} you have and how well you [spend]{spend} it or [save_1]{save} it",
+      "entry": "finance",
+      "id": "finance_1#finance_1__7"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "funds",
+      "id": "fund_1#fund_1__10"
+    },
+    {
+      "comment": "[money]{money} that is [illegal_1]{illegal} because it has not been [print_1]{printed} by the [government]{government}",
+      "entry": "funny money",
+      "id": "funny-money#funny-money__1"
+    },
+    {
+      "comment": "[money]{money} that has been [obtain]{obtained} [illegal_1#illegal_1__6]{illegally}",
+      "entry": "funny money",
+      "id": "funny-money#funny-money__2"
+    },
+    {
+      "comment": "[money]{money} whose [value_1]{value} [change_1]{changes} often",
+      "entry": "funny money",
+      "id": "funny-money#funny-money__3"
+    },
+    {
+      "comment": "[thing]{things} such as [jewelry]{jewelry} and [coin_1]{coins} that are made of [gold_1]{gold}",
+      "entry": "gold",
+      "id": "gold_1#gold_1__4"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "green",
+      "id": "green_2#green_2__11"
+    },
+    {
+      "comment": "money in the form of coins or bills, rather than checks or credit cards",
+      "entry": "hard cash",
+      "id": "hard-cash#hard-cash__1"
+    },
+    {
+      "comment": "[money]{money} in any form",
+      "entry": "hard cash",
+      "id": "hard-cash#hard-cash__2"
+    },
+    {
+      "comment": "the side of a coin that has a picture of a head on it. The other side is tails",
+      "entry": "heads",
+      "id": "head_1#head_1__26"
+    },
+    {
+      "comment": "[small_1]{small} [coin_1]{coins} that you have with you",
+      "entry": "loose change",
+      "id": "loose-change#loose-change__1"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "loot",
+      "id": "loot_1#loot_1__4"
+    },
+    {
+      "comment": "[money]{money}, [especially]{especially} [money]{money} that someone [get]{gets} for [doing]{doing} something [bad_1]{bad}",
+      "entry": "lucre",
+      "id": "lucre#lucre__1"
+    },
+    {
+      "comment": "something that [people_1]{people} [agree]{agree} has [value_1]{value} and can be [used]{used} as [money]{money}, for [example]{example} [gold_1]{gold}",
+      "entry": "medium of exchange",
+      "id": "medium-of-exchange#medium-of-exchange__1"
+    },
+    {
+      "comment": "what you earn, save, invest and use to pay for things. Money can be kept in a bank, where it can earn interest. If you have a bank account, you can pay for things with a check",
+      "entry": "money",
+      "id": "money#money__1"
+    },
+    {
+      "comment": "the [coin_1]{coins} and [piece_1]{pieces} of [paper_1]{paper} that you use to [pay_1]{pay} for [thing]{things} in a [particular_1]{particular} [country]{country}",
+      "entry": "money",
+      "id": "money#money__14"
+    },
+    {
+      "comment": "the [coin_1]{coins} and [piece_1]{pieces} of [paper_1]{paper} that you can use to [pay_1]{pay} for [thing]{things}",
+      "entry": "money",
+      "id": "money#money__16"
+    },
+    {
+      "comment": "an official document that you buy in a post office as a safe way of sending money to someone",
+      "entry": "money order",
+      "id": "money-order#money-order__1"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "monies",
+      "id": "monies#monies__1"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "moola",
+      "id": "moola#moola__1"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "moolah",
+      "id": "moolah#moolah__1"
+    },
+    {
+      "comment": "[money]{money} that has been [recently]{recently} [gain_1]{gained} rather than [money]{money} that a [family_1]{family} has always had",
+      "entry": "new money",
+      "id": "new-money#new-money__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} [money]{money}",
+      "entry": "note",
+      "id": "note_1#note_1__31"
+    },
+    {
+      "comment": "the [main_1]{main} side of a [coin_1]{coin}, [usually]{usually} with a [picture_1]{picture} of a [head_1]{head} on it",
+      "entry": "obverse",
+      "id": "obverse#obverse__1"
+    },
+    {
+      "comment": "[money]{money} in the form of [piece_1]{pieces} of [paper_1]{paper}, not [coin_1]{coins}",
+      "entry": "paper money",
+      "id": "paper-money#paper-money__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [money]{money} in [coin_1]{coins} or [bill_1]{bills} that a [business]{business} or [organization]{organization} [keep_1]{keeps} [available]{available} to [pay_1]{pay} for [small_1]{small} [thing]{things}",
+      "entry": "petty cash",
+      "id": "petty-cash#petty-cash__1"
+    },
+    {
+      "comment": "a [coin_1]{coin} that has a [particular_1]{particular} [value_1]{value}",
+      "entry": "piece",
+      "id": "piece_1#piece_1__25"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} \u201c[coin_1]{coin}\u201d",
+      "entry": "piece",
+      "id": "piece_1#piece_1__27"
+    },
+    {
+      "comment": "[postal]{postal} [order_1]{order}",
+      "entry": "PO",
+      "id": "po#po__2"
+    },
+    {
+      "comment": "a [money]{money} [order_1]{order}",
+      "entry": "postal order",
+      "id": "postal-order#postal-order__1"
+    },
+    {
+      "comment": "[money]{money} in the form of [coin_1]{coins} and [bill_1]{bills} that you can [spend]{spend} [immediately]{immediately}",
+      "entry": "ready cash/money",
+      "id": "ready-cash-money#ready-cash-money__1"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "shekels",
+      "id": "shekel#shekel__2"
+    },
+    {
+      "comment": "[silver_1]{silver} [colored_1]{colored} [coin_1]{coins}, or [coin_1]{coins} made of [silver_1]{silver}",
+      "entry": "silver",
+      "id": "silver_1#silver_1__7"
+    },
+    {
+      "comment": "[coin_1]{coins} of low [value_1]{value}",
+      "entry": "small change",
+      "id": "small-change#small-change__2"
+    },
+    {
+      "comment": "[coin_1]{coins} of low [value_1]{value} that you do not [need_1]{need}, [especially]{especially} [coin_1]{coins} that you give to someone else",
+      "entry": "spare change",
+      "id": "spare-change#spare-change__1"
+    },
+    {
+      "comment": "the side of a [coin_1]{coin} that [does]{does} not have a [picture_1]{picture} of a [person]{person} on it",
+      "entry": "tails",
+      "id": "tail_1#tail_1__9"
+    },
+    {
+      "comment": "[money]{money}",
+      "entry": "wedge",
+      "id": "wedge_1#wedge_1__9"
+    }
+  ],
+  "thesaurus": "General words for money, cash and coins",
+  "type": "Related words"
+}

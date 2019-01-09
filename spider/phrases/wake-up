@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "wake up",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to [feel_1]{feel} more [lively]{lively}, or to [make_1]{make} someone [feel_1]{feel} more [lively]{lively}",
+      "examples": [
+        "Another [cup_1]{cup} of [coffee]{coffee} will [wake_1]{wake} me up."
+      ],
+      "id": "wake-up__1"
+    },
+    {
+      "def": "to [start_1]{start} to [pay_1]{pay} more [attention]{attention} to something, or to [make_1]{make} [people_1]{people} [pay_1]{pay} more [attention]{attention} to something",
+      "examples": [
+        "It [take_1]{takes} a serious [crisis]{crisis} to [wake_1]{wake} [people_1]{people} up."
+      ],
+      "id": "wake-up__3"
+    }
+  ]
+}

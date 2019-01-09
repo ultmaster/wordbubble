@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[enclosed]{enclosed} in a [container]{container} or [space_1]{space}",
+      "entry": "inside",
+      "id": "inside_1#inside_1__2"
+    },
+    {
+      "comment": "[near_1]{near} or all around a [place_1]{place}",
+      "entry": "surrounding",
+      "id": "surrounding#surrounding__1"
+    },
+    {
+      "comment": "[surround_1]{surrounded} by something and [separated]{separated} from what is [outside]{outside}",
+      "entry": "enclosed",
+      "id": "enclosed#enclosed__1"
+    },
+    {
+      "comment": "[surrounding]{surrounding} or [enclose]{enclosing} something",
+      "entry": "around",
+      "id": "around#around__16"
+    },
+    {
+      "comment": "[held]{held} or [enclosed]{enclosed} by something",
+      "entry": "in",
+      "id": "in_1#in_1__23"
+    },
+    {
+      "comment": "into an [enclosed]{enclosed} [container]{container} or empty [space_1]{space}",
+      "entry": "inside",
+      "id": "inside_1#inside_1__26"
+    },
+    {
+      "comment": "a [landlocked]{landlocked} [country]{country} or [area]{area} is [surround_1]{surrounded} by [land_1]{land}",
+      "entry": "landlocked",
+      "id": "landlocked#landlocked__1"
+    },
+    {
+      "comment": "[surrounding]{surrounding} or [enclose]{enclosing} someone or something",
+      "entry": "about",
+      "id": "about#about__38"
+    },
+    {
+      "comment": "[surround_1]{surrounded} by [people_1]{people} or [thing]{things}",
+      "entry": "hedged in with/by",
+      "id": "hedged-in-with-by#hedged-in-with-by__1"
+    },
+    {
+      "comment": "[design_2]{designed} to [stand_1]{stand} alone and [able_1]{able} to be [look_1]{looked} at from all sides",
+      "entry": "in the round",
+      "id": "in-the-round#in-the-round__2"
+    }
+  ],
+  "thesaurus": "Surrounded and surrounding",
+  "type": "Synonyms"
+}

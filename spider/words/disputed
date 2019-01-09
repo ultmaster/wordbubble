@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a disputed [area]{area} is one that [different]{different} [country]{countries} [claim_1]{claim} [belong]{belongs} to them, so that there is a [disagreement]{disagreement} or war between them",
+      "examples": [
+        "disputed [region]{region}/[territory]{territory}/[water_1]{waters}"
+      ],
+      "id": "disputed__1"
+    },
+    {
+      "def": "a disputed [fact]{fact}, [statement_1]{statement}, or [judgment]{judgment} is one that many [people_1]{people} [argue]{argue} about",
+      "examples": [
+        "The [importance]{importance} of [bower]{Bower}\u2019s [contribution]{contribution} has been [hotly]{hotly} disputed for [year]{years}."
+      ],
+      "id": "disputed__3"
+    }
+  ],
+  "word": "disputed"
+}

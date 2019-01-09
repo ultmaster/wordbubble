@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[unable]{unable} to move your body or part of it, [usually]{usually} because of an [illness]{illness} or [injury]{injury}",
+      "examples": [
+        "The [accident]{accident} [left_1]{left} him paralyzed from the [neck_1]{neck} down."
+      ],
+      "id": "paralyzed__1"
+    },
+    {
+      "def": "[completely]{completely} [unable]{unable} to [operate]{operate} [normally]{normally} or [effectively]{effectively}",
+      "examples": [],
+      "id": "paralyzed__3"
+    },
+    {
+      "def": "[temporarily]{temporarily} [unable]{unable} to move or [think_1]{think} [clearly]{clearly}",
+      "examples": [
+        "I was paralyzed with [fear_1]{fear}."
+      ],
+      "id": "paralyzed__4"
+    }
+  ],
+  "word": "paralyzed"
+}

@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "the American [national_1]{National} [standard_1]{Standards} [institute_1]{Institute}: a U.S. [organization]{organization} that [decide]{decides} the [standard_1]{standards} of [safety]{safety} and [quality_1]{quality} for [electronic]{electronic} and [scientific]{scientific} [equipment]{equipment}",
+      "entry": "the ANSI",
+      "id": "the-ansi#the-ansi__1"
+    },
+    {
+      "comment": "the British [standard_1]{Standards} [institution]{Institution}: a British [organization]{organization} that [set_1]{sets} the [standard_1]{standards} of [quality_1]{quality} and [safety]{safety} for [product]{products} made in the U.K.",
+      "entry": "the BSI",
+      "id": "the-bsi#the-bsi__1"
+    },
+    {
+      "comment": "the [people_1]{people} and [organization]{organizations} [involved]{involved} in [produce_1]{producing} [goods]{goods}",
+      "entry": "industry",
+      "id": "industry#industry__3"
+    },
+    {
+      "comment": "a [person]{person}, [company]{company}, or [machine_1]{machine} that [create]{creates} or [produce_1]{produces} something, [especially]{especially} [goods]{goods} for [sale]{sale}",
+      "entry": "maker",
+      "id": "maker#maker__1"
+    },
+    {
+      "comment": "a [person]{person} or [company]{company} that [manufacture_1]{manufactures} a [product]{product}",
+      "entry": "manufacturer",
+      "id": "manufacturer#manufacturer__1"
+    },
+    {
+      "comment": "the name of a [product]{product} [produce_1]{produced} by a [particular_1]{particular} [company]{company}, [especially]{especially} a [car]{car}",
+      "entry": "marque",
+      "id": "marque#marque__1"
+    },
+    {
+      "comment": "[manufacturer]{manufacturer}",
+      "entry": "mfr.",
+      "id": "mfr#mfr__1"
+    },
+    {
+      "comment": "a name of a [product]{product} that is on an [official_1]{official} [list_1]{list} as a [trademark]{trademark}",
+      "entry": "proprietary name",
+      "id": "proprietary-name#proprietary-name__1"
+    },
+    {
+      "comment": "[trademark]{trademark}",
+      "entry": "TM",
+      "id": "tm#tm__1"
+    },
+    {
+      "comment": "a name or [design_1]{design} [belong]{belonging} to a [particular_1]{particular} [company]{company}, [used]{used} on its [product]{products}",
+      "entry": "trademark",
+      "id": "trademark#trademark__1"
+    },
+    {
+      "comment": "a name that a [company]{company} [use_1]{uses} for its [product]{products}",
+      "entry": "trade name",
+      "id": "trade-name#trade-name__1"
+    }
+  ],
+  "thesaurus": "Producers and product names and standards",
+  "type": "Related words"
+}

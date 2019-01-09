@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [sheet]{sheet} of [cloth]{cloth} [hung_1]{hung} above a [window]{window} or [door_1]{door} as [protection]{protection} against the [rain_1]{rain} or [sun_1]{sun}, [especially]{especially} [outside]{outside} a [store_1]{store}",
+      "entry": "awning",
+      "id": "awning#awning__1"
+    },
+    {
+      "comment": "a [shopping]{shopping} [cart_1]{cart}",
+      "entry": "cart",
+      "id": "cart_1#cart_1__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} made of [wood]{wood} and [glass]{glass} in which [object_1]{objects} are [shown]{shown} in a [store_1]{store} or [museum]{museum}",
+      "entry": "case",
+      "id": "case_1#case_1__40"
+    },
+    {
+      "comment": "a [machine_1]{machine} with [container]{containers} for [holding]{holding} [bill_1]{bills} and [coin_1]{coins} that [show_1]{shows} [customer]{customers} in [store_1]{stores} how much they have to [pay_1]{pay}",
+      "entry": "cash register",
+      "id": "cash-register#cash-register__1"
+    },
+    {
+      "comment": "a [box_1]{box} with a [glass]{glass} [lid]{lid}, or a [cabinet]{cabinet} with [glass]{glass} [door_1]{doors} that [contain]{contains} [object_1]{objects} for [people_1]{people} to [look_1]{look} at, for [example]{example} in a [store_1]{store} or a [museum]{museum}",
+      "entry": "display case",
+      "id": "display-case#display-case__1"
+    },
+    {
+      "comment": "a [model_1]{model} of someone\u2019s body, [used]{used} [especially]{especially} for [measure_2]{measuring} [clothes]{clothes} that you are [making]{making} or for [showing]{showing} [clothes]{clothes} in a [store_1]{store}",
+      "entry": "dummy",
+      "id": "dummy_1#dummy_1__2"
+    },
+    {
+      "comment": "an [example]{example} of a [product]{product} that is [kept]{kept} in a [store_1]{store} for [customer]{customers} to see",
+      "entry": "floor model",
+      "id": "floor-model#floor-model__1"
+    },
+    {
+      "comment": "a [place_1]{place} in a [store_1]{store} which [sell_1]{sells} CDs and [record_1]{records} where you can [listen_1]{listen} to [music]{music} before you [buy_1]{buy} it",
+      "entry": "listening post",
+      "id": "listening-post#listening-post__3"
+    },
+    {
+      "comment": "a [model_1]{model} of a [human_1]{human} body [wearing]{wearing} [clothes]{clothes} that are for [sale]{sale}, [especially]{especially} in the [window]{window} of a [store_1]{store}",
+      "entry": "mannequin",
+      "id": "mannequin#mannequin__1"
+    },
+    {
+      "comment": "[glass]{glass} in [large_1]{large}, thick [piece_1]{pieces}, [used]{used} for [store_1]{store} [window]{windows}",
+      "entry": "plate glass",
+      "id": "plate-glass#plate-glass__1"
+    },
+    {
+      "comment": "a [cash_1]{cash} [register_1]{register}",
+      "entry": "register",
+      "id": "register_2#register_2__7"
+    },
+    {
+      "comment": "a piece of equipment that is used for recognizing and recording information or symbols, for example a barcode  (=a set of black lines) on a product label in a store",
+      "entry": "scanner",
+      "id": "scanner#scanner__2"
+    },
+    {
+      "comment": "a [large_1]{large} [basket]{basket} on [wheel_1]{wheels} that you [push_1]{push}, [used]{used} in a [supermarket]{supermarket} for [carry_1]{carrying} the [thing]{things} you [want_1]{want} to [buy_1]{buy}",
+      "entry": "shopping cart",
+      "id": "shopping-cart#shopping-cart__1"
+    },
+    {
+      "comment": "a [shopping]{shopping} [cart_1]{cart}",
+      "entry": "shopping trolley",
+      "id": "shopping-trolley#shopping-trolley__1"
+    },
+    {
+      "comment": "a [box_1]{box} or [piece_1]{piece} of [furniture]{furniture} with [glass]{glass} sides that is [used]{used} for [put]{putting} [object_1]{objects} on show in a [museum]{museum} or [store_1]{store}",
+      "entry": "showcase",
+      "id": "showcase_1#showcase_1__3"
+    },
+    {
+      "comment": "a [cash_1]{cash} [register_1]{register}",
+      "entry": "till",
+      "id": "till_3#till_3__1"
+    },
+    {
+      "comment": "a [shopping]{shopping} [cart_1]{cart} or a [cart_1]{cart} for [suitcase]{suitcases}, etc.",
+      "entry": "trolley",
+      "id": "trolley#trolley__1"
+    }
+  ],
+  "thesaurus": "Shop fittings and equipment",
+  "type": "Related words"
+}

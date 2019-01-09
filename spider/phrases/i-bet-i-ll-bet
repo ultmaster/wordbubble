@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "I bet/I\u2019ll bet",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that you [understand]{understand} or [agree]{agree} with what someone has [just_1]{just} [said_1]{said}",
+      "examples": [
+        "\u201cI couldn\u2019t [say_1]{say} no to an [offer_1]{offer} [like_1]{like} that.\u201d \u2013 \u201cI\u2019ll bet!\u201d"
+      ],
+      "id": "i-bet-i-ll-bet__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you are [sure_1]{sure} about something",
+      "examples": [
+        "I bet Charles has [taken_1]{taken} it.",
+        "I bet you the [train_1]{train} will be [late_1]{late}."
+      ],
+      "id": "i-bet-i-ll-bet__3"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "an [old]{old} [story]{story} about [famous_1]{famous} [people_1]{people} and [event]{events} in the [past_1]{past}. Legends are not [usually]{usually} [true_1]{true}",
+      "examples": [
+        "the legend of the [headless]{Headless} [horseman]{Horseman}",
+        "Greek [myth]{myths} and [legend]{legends}",
+        "Here, [accord_2]{according} to legend, [robin]{Robin} [hood_1]{Hood} [lie_1]{lies} [bury]{buried}."
+      ],
+      "id": "legend__1"
+    },
+    {
+      "def": "someone who very many [people_1]{people} [know_1]{know} about and [admire]{admire}",
+      "examples": [
+        "the Hollywood legend, Elizabeth Taylor"
+      ],
+      "id": "legend__6"
+    },
+    {
+      "def": "a [short_1]{short} [piece_1]{piece} of [writing]{writing} on an [object_1]{object} such as a [coin_1]{coin} or a [work_1]{work} of art",
+      "examples": [],
+      "id": "legend__9"
+    },
+    {
+      "def": "a [key_1]{key} which [explain]{explains} [symbol]{symbols} on [map_1]{maps}",
+      "examples": [
+        "[refer]{Refer} to the legend to [know_1]{know} the [meaning_1]{meanings} of each [symbol]{symbol}."
+      ],
+      "id": "legend__10"
+    }
+  ],
+  "word": "legend"
+}

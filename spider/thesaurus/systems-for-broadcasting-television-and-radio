@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "[cable_1]{cable} [television]{television}",
+      "entry": "cable",
+      "id": "cable_1#cable_1__1"
+    },
+    {
+      "comment": "a system for broadcasting television programs in which signals are sent through underground wires. Cable television is often simply called cable.",
+      "entry": "cable television",
+      "id": "cable-television#cable-television__1"
+    },
+    {
+      "comment": "[citizen]{Citizens}\u2019 [band_1]{Band}: a [radio_1]{radio} system that [people_1]{people}, [especially]{especially} [truck_1]{truck} [driver]{drivers}, use for [talk_1]{talking} to one another",
+      "entry": "CB",
+      "id": "cb#cb__1"
+    },
+    {
+      "comment": "closed-circuit [television]{television}",
+      "entry": "CCTV",
+      "id": "cctv#cctv__1"
+    },
+    {
+      "comment": "a system that [allow]{allows} someone to [watch_1]{watch} on a [television]{television} [screen_1]{screen} what is [happening_1]{happening} in [different]{different} [part_1]{parts} of a [building]{building}, [town]{town}, etc.",
+      "entry": "closed-circuit television",
+      "id": "closed-circuit-television#closed-circuit-television__1"
+    },
+    {
+      "comment": "[television]{television} [broadcast_1#broadcast_1__6]{broadcasting} that [use_1]{uses} [electronic]{electronic} [signal_1]{signals}",
+      "entry": "digital television",
+      "id": "digital-television#digital-television__1"
+    },
+    {
+      "comment": "frequency modulation: a system used for broadcasting radio signals of high quality. FM radio usually has a better sound quality than AM radio",
+      "entry": "FM",
+      "id": "fm#fm__1"
+    },
+    {
+      "comment": "[television]{television} that [give_1]{gives} a much [clear_1]{clearer} [picture_1]{picture} than [ordinary]{ordinary} [television]{television}",
+      "entry": "HDTV",
+      "id": "hdtv#hdtv__1"
+    },
+    {
+      "comment": "a system in which you [pay_1]{pay} to [watch_1]{watch} a [particular_1]{particular} [television]{television} [program_1]{program}",
+      "entry": "pay-per-view",
+      "id": "pay-per-view#pay-per-view__1"
+    },
+    {
+      "comment": "a system in which you pay to watch particular television programs or channels",
+      "entry": "pay TV",
+      "id": "pay-tv#pay-tv__1"
+    },
+    {
+      "comment": "[satellite]{satellite} [television]{television}",
+      "entry": "satellite",
+      "id": "satellite#satellite__12"
+    },
+    {
+      "comment": "a communication system in a radio or television studio that allows people to speak to each other without the audience hearing what they say",
+      "entry": "talkback",
+      "id": "talkback#talkback__1"
+    },
+    {
+      "comment": "a system that [provide]{provides} [news]{news} and other [information]{information} for [people_1]{people} to read on their [television]{television} [screen_1]{screens}",
+      "entry": "teletext",
+      "id": "teletext#teletext__1"
+    }
+  ],
+  "thesaurus": "Systems for broadcasting television and radio",
+  "type": "Related words"
+}

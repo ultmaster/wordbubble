@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} that is [kept]{kept} very [cold_1]{cold}, where you put [food]{food} to keep it [fresh_1]{fresh}",
+      "entry": "cold storage",
+      "id": "cold-storage#cold-storage__1"
+    },
+    {
+      "comment": "a [container]{container} that can be [carry_1]{carried} [easily]{easily} and is [used]{used} for [keeping]{keeping} [food]{food} [cold_1]{cold}",
+      "entry": "cooler",
+      "id": "cooler#cooler__1"
+    },
+    {
+      "comment": "a [machine_1]{machine} [used]{used} for [keeping]{keeping} [food]{food} very [cold_1]{cold} for a long time",
+      "entry": "deep freeze",
+      "id": "deep-freeze#deep-freeze__1"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} [used]{used} for [freezing_1]{freezing} [food]{food}",
+      "entry": "freezer",
+      "id": "freezer#freezer__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that is [used]{used} for [store_2]{storing} [food]{food} at low [temperature]{temperatures}",
+      "entry": "fridge",
+      "id": "fridge#fridge__1"
+    },
+    {
+      "comment": "a [refrigerator-freezer]{refrigerator-freezer}",
+      "entry": "fridge-freezer",
+      "id": "fridge-freezer#fridge-freezer__1"
+    },
+    {
+      "comment": "a [refrigerator]{refrigerator}",
+      "entry": "icebox",
+      "id": "icebox#icebox__1"
+    },
+    {
+      "comment": "a [box_1]{box} that is [fill_1]{filled} with [ice_1]{ice} and [used]{used} to keep [food]{food} [cold_1]{cold}",
+      "entry": "icebox",
+      "id": "icebox#icebox__2"
+    },
+    {
+      "comment": "a machine that keeps food and drinks cold, usually with a part for freezing food. A more informal word is fridge.",
+      "entry": "refrigerator",
+      "id": "refrigerator#refrigerator__1"
+    },
+    {
+      "comment": "a machine that consists of a refrigerator and a freezer",
+      "entry": "refrigerator-freezer",
+      "id": "refrigerator-freezer#refrigerator-freezer__1"
+    }
+  ],
+  "thesaurus": "Refrigerators and freezers",
+  "type": "Related words"
+}

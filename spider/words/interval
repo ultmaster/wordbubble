@@ -1,0 +1,32 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [period_1]{period} of time between two [event]{events}",
+      "examples": [
+        "The [normal_1]{normal} interval between our [meeting]{meetings} is six [week]{weeks}.",
+        "[payment]{Payments} are to be [resume_1]{resumed} after an interval of several [month]{months}.",
+        "[progress_1]{Progress} is [review_1]{reviewed} at [monthly_1]{monthly} [interval]{intervals}."
+      ],
+      "id": "interval__1"
+    },
+    {
+      "def": "a [space_1]{space} or [distance_1]{distance} between two [thing]{things}",
+      "examples": [
+        "There are [pillar]{pillars} at three-foot [interval]{intervals} for [reinforcement]{reinforcement}."
+      ],
+      "id": "interval__5"
+    },
+    {
+      "def": "a [difference]{difference} in [pitch_1]{pitch} between two [musical_1]{musical} [note_1]{notes}",
+      "examples": [],
+      "id": "interval__7"
+    },
+    {
+      "def": "an [intermission]{intermission}",
+      "examples": [],
+      "id": "interval__8"
+    }
+  ],
+  "word": "interval"
+}

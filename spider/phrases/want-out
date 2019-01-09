@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "want out",
+  "senses": [
+    {
+      "def": "to [wish_1]{wish} to [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "Would you [open_1]{open} the [door_1]{door}? The [dog_1]{dog} [want_1]{wants} out.",
+        "She [wanted]{wanted} out of the [jail_1]{jail} [cell]{cell} so [badly]{badly} she [start_1]{started} to [scream_1]{scream}."
+      ],
+      "id": "want-out__1"
+    },
+    {
+      "def": "to [wish_1]{wish} to [leave_1]{leave} a [situation]{situation} or [relationship]{relationship} and no [long_1]{longer} be [involved]{involved} in it",
+      "examples": [
+        "Malcolm [wanted]{wanted} out of his [job_1]{job}.",
+        "Stephanie is [fed_1]{fed} up with her [husband]{husband}. She [just_1]{just} [want_1]{wants} out of the [marriage]{marriage}."
+      ],
+      "id": "want-out__4"
+    }
+  ]
+}

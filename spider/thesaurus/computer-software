@@ -1,0 +1,421 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that a [business]{business} [use_1]{uses} to [organize]{organize} its [financial]{financial} [record_1]{records}",
+      "entry": "accounting package",
+      "id": "accounting-package#accounting-package__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [stop_1]{stops} [advertisement]{advertisements} [appear]{appearing} on a [web]{web} [page_1]{page}",
+      "entry": "ad blocker",
+      "id": "ad-blocker#ad-blocker__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of computer [software]{software} that you use to [record_1]{record} [people_1]{people}\u2019s [name_1]{names}, [address_1]{addresses}, [telephone_1]{telephone} [number_1]{numbers}, [e-mail_1]{e-mail} [address_1]{addresses}, etc.",
+      "entry": "address book",
+      "id": "address-book#address-book__2"
+    },
+    {
+      "comment": "the first form of a [new]{new} [piece_1]{piece} of computer [equipment]{equipment} or [software]{software}, made to be [test_2]{tested} and [usually]{usually} [changed]{changed} several times before the [final_1]{final} [product]{product} is [sold]{sold}",
+      "entry": "alpha version",
+      "id": "alpha-version#alpha-version__1"
+    },
+    {
+      "comment": "[application]{application} [programming]{programming} [interface_1]{interface}: a [set_1]{set} of [rule_1]{rules} and [tool_1]{tools} for [building]{building} [software]{software} [application]{applications} that [allow]{allows} them to [communicate]{communicate} with other [software]{software}",
+      "entry": "API",
+      "id": "api#api__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that is [design_2]{designed} to do a [particular_1]{particular} [job_1]{job}, [especially]{especially} one that [people_1]{people} use on a [smartphone]{smartphone}",
+      "entry": "app",
+      "id": "app#app__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of computer [software]{software} that is [design_2]{designed} to do a [particular_1]{particular} [job_1]{job}",
+      "entry": "application",
+      "id": "application#application__15"
+    },
+    {
+      "comment": "software used for writing documents, creating charts, building databases, etc. that is not part of the computer\u2019s operating system",
+      "entry": "application software",
+      "id": "application-software#application-software__1"
+    },
+    {
+      "comment": "[software]{software} [used]{used} for [create]{creating} [file_1]{files} that [contain]{contain} [video_1]{video}, [picture_1]{pictures}, [word_1]{words} and [sound_1]{sound}",
+      "entry": "authoring software",
+      "id": "authoring-software#authoring-software__1"
+    },
+    {
+      "comment": "[software]{software} that [run_1]{runs} [automatically]{automatically} when a [piece_1]{piece} of [equipment]{equipment} [fail_1]{fails}, so that the system [continue]{continues} to [work_1]{work}",
+      "entry": "automatic recovery program",
+      "id": "automatic-recovery-program#automatic-recovery-program__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [automatically]{automatically} [send_1]{sends} you a [message_1]{message} [telling]{telling} you another [internet]{Internet} [user]{user} cannot [reply_1]{reply} to your [e-mail_1]{e-mail}",
+      "entry": "autoresponder",
+      "id": "autoresponder#autoresponder__1"
+    },
+    {
+      "comment": "a piece of software that makes the process of backing up computer information easier",
+      "entry": "backup utility",
+      "id": "backup-utility#backup-utility__1"
+    },
+    {
+      "comment": "a form of a [new]{new} [product]{product} or [new]{new} [software]{software} that is [given_1]{given} to [people_1]{people} to [test_1]{test} before it is [sold]{sold} to the [public_1]{public}",
+      "entry": "beta version",
+      "id": "beta-version#beta-version__1"
+    },
+    {
+      "comment": "[software]{software} that is a beta [version]{version}",
+      "entry": "betaware",
+      "id": "betaware#betaware__1"
+    },
+    {
+      "comment": "basic input/output system: the software that controls the way many basic parts of the computer work, for example the keyboard, screen, and disk drives",
+      "entry": "BIOS",
+      "id": "bios#bios__1"
+    },
+    {
+      "comment": "[software]{software} that [use_1]{uses} a [lot_1]{lot} more [computing]{computing} [power_1]{power} than is [necessary_1]{necessary} and therefore [waste_1]{wastes} [memory]{memory} or [disk]{disk} [space_1]{space} that could be [used]{used} for other [purpose]{purposes}",
+      "entry": "bloatware",
+      "id": "bloatware#bloatware__1"
+    },
+    {
+      "comment": "computer equipment or software that makes changing from one computer system to another easier, for example by changing the file format",
+      "entry": "bridgeware",
+      "id": "bridgeware#bridgeware__1"
+    },
+    {
+      "comment": "[software]{software} that is already on your [new]{new} computer when you [buy_1]{buy} it and is [included]{included} in its [price_1]{price}",
+      "entry": "bundled software",
+      "id": "bundled-software#bundled-software__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of computer [equipment]{equipment} or [software]{software} that [show_1]{shows} there is a [fault_1]{fault} in a [file_1]{file} that you have [received]{received}",
+      "entry": "check indicator",
+      "id": "check-indicator#check-indicator__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [find_1]{finds} [mistake_1]{mistakes} in computer [program_1]{programs}",
+      "entry": "checking program",
+      "id": "checking-program#checking-program__1"
+    },
+    {
+      "comment": "[content_1]{content} [management]{management} system: a [type_1]{type} of [software]{software} that [allow]{allows} you to [edit_1]{edit} and [organize]{organize} [data]{data}, and to [manage]{manage} the way [work_1]{work} is done and [share_1]{shared} when [people_1]{people} are [working]{working} together",
+      "entry": "CMS",
+      "id": "cms#cms__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [arrange]{arranges} [information]{information} that you have [collected]{collected} in a [sensible]{sensible} [order_1]{order}",
+      "entry": "collator",
+      "id": "collator#collator__1"
+    },
+    {
+      "comment": "software that allows a user to control a modem and use Internet services",
+      "entry": "communications software",
+      "id": "communications-software#communications-software__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [software]{software} that [allow]{allows} you to [edit_1]{edit} and [organize]{organize} [data]{data}, and to [manage]{manage} the way [work_1]{work} is done and [share_1]{shared} when [people_1]{people} are [working]{working} together",
+      "entry": "content management system",
+      "id": "content-management-system#content-management-system__1"
+    },
+    {
+      "comment": "computer [program_1]{programs} [used]{used} for [teaching]{teaching} [people_1]{people} a [subject_1]{subject} or [skill]{skill}",
+      "entry": "courseware",
+      "id": "courseware#courseware__1"
+    },
+    {
+      "comment": "a piece of software that runs on a server computer on a network and allows users on different computers to be able to use a database",
+      "entry": "database server",
+      "id": "database-server#database-server__1"
+    },
+    {
+      "comment": "a piece of software that makes extra memory available when the computer needs to run more programs than normal",
+      "entry": "demand paging",
+      "id": "demand-paging#demand-paging__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of computer [software]{software} that you can [try_1]{try} for a [period_1]{period} before [buy_1]{buying} the full [program_1]{program}, or that [show_1]{shows} you what the full [program_1]{program} is [like_1]{like} and how it [work_1]{works}",
+      "entry": "demo",
+      "id": "demo#demo__3"
+    },
+    {
+      "comment": "a [set_1]{set} of [program_1]{programs} that [help_1]{helps} someone to [write]{write} [new]{new} [software]{software} and [make_1]{make} [sure_1]{sure} it is [working]{working} [correctly]{correctly}",
+      "entry": "development software",
+      "id": "development-software#development-software__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [allow]{allows} you to [control_1]{control} the use of a [printer]{printer}, [screen_1]{screen}, or other [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "device manager",
+      "id": "device-manager#device-manager__1"
+    },
+    {
+      "comment": "document image management: software that allows a user to record and store printed information in a digital form that a computer can use",
+      "entry": "DIM",
+      "id": "dim_3#dim_3__1"
+    },
+    {
+      "comment": "a piece of software that changes machine language back into assembly language",
+      "entry": "disassembler",
+      "id": "disassembler#disassembler__1"
+    },
+    {
+      "comment": "[dim_1]{DIM}",
+      "entry": "document image management",
+      "id": "document-image-management#document-image-management__1"
+    },
+    {
+      "comment": "[disk]{Disk} [operate]{Operating} System: the [basic_1]{basic} [software]{software} in a computer that [make_1]{makes} it [work_1]{work} and [allow]{allows} you to use a [program_1]{program}. It is [usually]{usually} [used]{used} only in [old]{older} [computer]{computers}.",
+      "entry": "DOS",
+      "id": "dos#dos__1"
+    },
+    {
+      "comment": "[software]{software} that [control_1]{controls} a [piece_1]{piece} of [equipment]{equipment} [connected]{connected} to a computer",
+      "entry": "driver",
+      "id": "driver#driver__3"
+    },
+    {
+      "comment": "[digital]{digital} [television]{television}: a [television]{television} that [use_1]{uses} [electronic]{electronic} [signal_1]{signals}",
+      "entry": "DTV",
+      "id": "dtv#dtv__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [allow]{allows} the [user]{user} to [choose]{choose} [part_1]{parts} of a [file_1]{file} and [change_1]{change} them, get [rid_1]{rid} of them, or [add_1]{add} [thing]{things} to them",
+      "entry": "editor program",
+      "id": "editor-program#editor-program__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [does]{does} the same as another [piece_1]{piece} of [software]{software} but that [work_1]{works} with a [different]{different} [type_1]{type} of computer",
+      "entry": "emulator",
+      "id": "emulator#emulator__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [perform]{performs} an [essential_1]{essential} or [special_1]{special} [action_1]{action} for other [program_1]{programs}",
+      "entry": "engine",
+      "id": "engine#engine__4"
+    },
+    {
+      "comment": "[software]{software} that is [design_2]{designed} for a [particular_1]{particular} [type_1]{type} of [organization]{organization} and [control_1]{controls} many [aspect]{aspects} of its [business]{business}",
+      "entry": "enterprise software",
+      "id": "enterprise-software#enterprise-software__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that has the most [important]{important} [feature_1]{features} of a [new]{new} [software]{software} [product]{product} and is [design_2]{designed} for [people_1]{people} to [try_1]{try} before [buy_1]{buying} the full [product]{product}",
+      "entry": "evaluation copy",
+      "id": "evaluation-copy#evaluation-copy__1"
+    },
+    {
+      "comment": "a [type_1]{type} of computer [software]{software} that [use_1]{uses} a [process_1]{process} [similar]{similar} to the way [human_2]{humans} [think_1]{think} in [order_1]{order} to [provide]{provide} [people_1]{people} with [solution]{solutions} to [problem]{problems} [relate]{relating} to a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "expert system",
+      "id": "expert-system#expert-system__1"
+    },
+    {
+      "comment": "computer software that is available free on CD-ROM or from the Internet. Software that you use free for a short time and then pay for is called shareware",
+      "entry": "freeware",
+      "id": "freeware#freeware__1"
+    },
+    {
+      "comment": "a small piece of software that you can add to a website in order to customize it",
+      "entry": "gadget",
+      "id": "gadget#gadget__4"
+    },
+    {
+      "comment": "computer [software]{software} of very low [quality_1]{quality}",
+      "entry": "garbageware",
+      "id": "garbageware#garbageware__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [check_1]{checks} [document_1]{documents} to [make_1]{make} [sure_1]{sure} they have no [grammar]{grammar} [mistake_1]{mistakes}",
+      "entry": "grammar checker",
+      "id": "grammar-checker#grammar-checker__1"
+    },
+    {
+      "comment": "[software]{software} and other computer [tool_1]{tools} that [make_1]{make} it [possible_1]{possible} for [people_1]{people} in [different]{different} [place_1]{places} to [work_1]{work} on the same [project_1]{project}",
+      "entry": "groupware",
+      "id": "groupware#groupware__1"
+    },
+    {
+      "comment": "software such as an operating system or word-processor that is stored in a computer system and has been designed for that particular system",
+      "entry": "integrated software",
+      "id": "integrated-software#integrated-software__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} or a [connection]{connection} that [allow]{allows} two [piece_1]{pieces} of computer [equipment]{equipment}, for [example]{example} a computer and a [printer]{printer}, to [work_1]{work} together",
+      "entry": "interface",
+      "id": "interface_1#interface_1__3"
+    },
+    {
+      "comment": "[equipment]{equipment} or [software]{software} that [allow]{allows} two [computer]{computers} or [program_1]{programs} to [interface_1]{interface}",
+      "entry": "interfacing",
+      "id": "interfacing#interfacing__1"
+    },
+    {
+      "comment": "[killer]{killer} [application]{application}: a [piece_1]{piece} of [software]{software} that is so [popular]{popular} that it [make_1]{makes} many [people_1]{people} [buy_1]{buy} the computer system that it [operate]{operates} on",
+      "entry": "killer app",
+      "id": "killer-app#killer-app__1"
+    },
+    {
+      "comment": "a [collection]{collection} of computer [software]{software} that someone can [buy_1]{buy} or [borrow]{borrow}",
+      "entry": "library",
+      "id": "library#library__6"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [automatically]{automatically} [send_1]{sends} a [copy_1]{copy} of every [e-mail_1]{e-mail} [received]{received} to all [member]{members} of a [group_1]{group}",
+      "entry": "listserv",
+      "id": "listserv#listserv__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that you use to [make_1]{make} [sure_1]{sure} that there are no [problem]{problems} with a computer system that could cause [damage_1]{damage} to it",
+      "entry": "maintenance routine",
+      "id": "maintenance-routine#maintenance-routine__1"
+    },
+    {
+      "comment": "software such as a virus that is designed to damage or destroy information on a computer",
+      "entry": "malware",
+      "id": "malware#malware__1"
+    },
+    {
+      "comment": "a [website]{website} or [piece_1]{piece} of [software]{software} [making]{making} use of [information]{information} from more than one [source_1]{source}, for [example]{example} [use_1]{using} [photograph_1]{photographs} from one [website]{website} and [text_1]{text} from another",
+      "entry": "mashup",
+      "id": "mashup#mashup__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [allow]{allows} many [user]{users} to [enter]{enter} the times and [date_1]{dates} of [meeting]{meetings}, [thing]{things} they must do, etc. in a [single_1]{single} [place_1]{place}",
+      "entry": "multiuser program",
+      "id": "multiuser-program#multiuser-program__1"
+    },
+    {
+      "comment": "the [software]{software} that [tell_1]{tells} the [part_1]{parts} of a computer how to [work_1]{work} together and what to do",
+      "entry": "operating system",
+      "id": "operating-system#operating-system__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [different]{different} [piece_1]{pieces} of computer [software]{software} that are [sold]{sold} together as one [unit]{unit}",
+      "entry": "package",
+      "id": "package_1#package_1__11"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [allow]{allows} a [user]{user} to [draw_1]{draw} [picture_1]{pictures} on [screen_1]{screen} in [different]{different} [color_1]{colors}, with [different]{different} [style_1]{styles} of [brush_1]{brush} and [special_1]{special} [effect_1]{effects}",
+      "entry": "paint program",
+      "id": "paint-program#paint-program__1"
+    },
+    {
+      "comment": "[software]{software} for which a [user]{user} has to [enter]{enter} a [password]{password} before he or she can use it",
+      "entry": "password protection",
+      "id": "password-protection#password-protection__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that you [add_1]{add} to a computer [program_1]{program} in [order_1]{order} to [improve_1]{improve} it or [remove]{remove} a [fault_1]{fault}",
+      "entry": "patch",
+      "id": "patch_1#patch_1__17"
+    },
+    {
+      "comment": "[software]{software} that you have to [pay_1]{pay} for",
+      "entry": "payware",
+      "id": "payware#payware__1"
+    },
+    {
+      "comment": "packet Internet groper: a piece of software that tests all the nodes on a network to make sure that they are working correctly",
+      "entry": "PING",
+      "id": "ping_3#ping_3__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [partly]{partly} [prepare]{prepares} [information]{information} before it is [used]{used}",
+      "entry": "preprocessor",
+      "id": "preprocessor#preprocessor__1"
+    },
+    {
+      "comment": "software that allows a user to create a business presentation with words, pictures, and charts",
+      "entry": "presentation software",
+      "id": "presentation-software#presentation-software__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [control_1]{controls} how [data]{data} [print_1]{prints} on a [particular_1]{particular} [printer]{printer}",
+      "entry": "printer driver",
+      "id": "printer-driver#printer-driver__1"
+    },
+    {
+      "comment": "a [new]{new} [version]{version} of [software]{software}",
+      "entry": "release",
+      "id": "release_2#release_2__15"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [allow]{allows} a [user]{user} to [write]{write} [music]{music} for [electronic]{electronic} [musical_1]{musical} [instrument]{instruments}, [record_1]{record} [note_1]{notes} from [instrument]{instruments}, and [mix_1]{mix} together several [piece_1]{pieces} of [music]{music}",
+      "entry": "sequencer",
+      "id": "sequencer#sequencer__1"
+    },
+    {
+      "comment": "computer [software]{software} that you can get on the [internet]{Internet} and use for a [period_1]{period} of time before [pay_1]{paying} for it",
+      "entry": "shareware",
+      "id": "shareware#shareware__1"
+    },
+    {
+      "comment": "a piece of software that runs on a web server and allows users to choose the things that they want to buy",
+      "entry": "shopping cart",
+      "id": "shopping-cart#shopping-cart__2"
+    },
+    {
+      "comment": "[software]{software} that you can [buy_1]{buy} and [download_1]{download} from the [internet]{Internet}",
+      "entry": "soft goods",
+      "id": "soft-goods#soft-goods__2"
+    },
+    {
+      "comment": "[program_1]{programs} [used]{used} by [computer]{computers} for [doing]{doing} [particular_1]{particular} [job_1]{jobs}",
+      "entry": "software",
+      "id": "software#software__1"
+    },
+    {
+      "comment": "[software]{software} that [automatically]{automatically} [find_1]{finds} and [deal_1]{deals} with [spam]{spam}",
+      "entry": "spam killer",
+      "id": "spam-killer#spam-killer__1"
+    },
+    {
+      "comment": "[software]{software} put onto your computer without you [realize]{realizing} it that [send_1]{sends} [information]{information} about you and your [internet]{Internet} use over the [internet]{Internet}",
+      "entry": "spyware",
+      "id": "spyware#spyware__1"
+    },
+    {
+      "comment": "the operating system and programs used to operate a computer system",
+      "entry": "system software",
+      "id": "system-software#system-software__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [software]{software} that [contain]{contains} [recent]{recent} [improvement]{improvements} to a computer [program_1]{program}",
+      "entry": "update",
+      "id": "update_2#update_2__5"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} or [software]{software} [design_2]{designed} to [make_1]{make} a computer more [powerful]{powerful}",
+      "entry": "upgrade",
+      "id": "upgrade_2#upgrade_2__1"
+    },
+    {
+      "comment": "a [new]{new} [product]{product}, [especially]{especially} computer [software]{software}, that is [announce]{announced} to the [general_1]{general} [public_1]{public} but has not yet been [produce_1]{produced} or made [available]{available} to [buy_1]{buy}",
+      "entry": "vaporware",
+      "id": "vaporware#vaporware__1"
+    },
+    {
+      "comment": "software that finds and removes computer viruses from a computer",
+      "entry": "virus checker",
+      "id": "virus-checker#virus-checker__1"
+    },
+    {
+      "comment": "a [software]{software} [program_1]{program} that is [used]{used} for [find_1]{finding} and [look_1]{looking} at [page_1]{pages} on the [internet]{Internet}",
+      "entry": "web browser",
+      "id": "web-browser#web-browser__1"
+    },
+    {
+      "comment": "software designed to improve the flow of electronic documents around an office network, from user to user",
+      "entry": "workflow",
+      "id": "workflow#workflow__1"
+    },
+    {
+      "comment": "[software]{software} that is [design_2]{designed} to [block_1]{block} [thing]{things} that [distract]{distract} you on a computer so that it is [easy_1]{easier} to [concentrate_1]{concentrate} on what you are [doing]{doing}",
+      "entry": "zenware",
+      "id": "zenware#zenware__1"
+    }
+  ],
+  "thesaurus": "Computer software",
+  "type": "Related words"
+}

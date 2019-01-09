@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[wrong_1]{wrong}, or not [accurate]{accurate} or [true_1]{true}",
+      "entry": "incorrect",
+      "id": "incorrect#incorrect__1"
+    },
+    {
+      "comment": "not [exact_1]{exact} or [accurate]{accurate}",
+      "entry": "inexact",
+      "id": "inexact#inexact__1"
+    },
+    {
+      "comment": "not [accurate]{accurate} or [correct_1]{correct}",
+      "entry": "wrong",
+      "id": "wrong_1#wrong_1__1"
+    },
+    {
+      "comment": "not [accurate]{accurate} or [correct_1]{correct}",
+      "entry": "inaccurate",
+      "id": "inaccurate#inaccurate__1"
+    },
+    {
+      "comment": "not [exact_1]{exact}, [accurate]{accurate}, or [clear_1]{clear}",
+      "entry": "imprecise",
+      "id": "imprecise#imprecise__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that an amount, [number_1]{number}, time, etc. is not [exact_1]{exact}",
+      "entry": "approximately",
+      "id": "approximately#approximately__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that an amount, [number_1]{number}, time, etc. is not [exact_1]{exact}",
+      "entry": "roughly",
+      "id": "roughly#roughly__1"
+    },
+    {
+      "comment": "something that is [broadly]{broadly} [true_1]{true}, [accurate]{accurate}, or [similar]{similar} is [true_1]{true}, [accurate]{accurate}, or [similar]{similar} in the most [important]{important} ways",
+      "entry": "broadly",
+      "id": "broadly#broadly__3"
+    },
+    {
+      "comment": "[possibly]{possibly} not [true_1]{true}, [accurate]{accurate}, or [complete_1]{complete}",
+      "entry": "questionable",
+      "id": "questionable#questionable__1"
+    },
+    {
+      "comment": "not [exact_1]{exact}, but [close_1]{close} to an [exact_1]{exact} amount, [number_1]{number}, time, etc.",
+      "entry": "approximate",
+      "id": "approximate_1#approximate_1__1"
+    }
+  ],
+  "thesaurus": "Inexact and inaccurate",
+  "type": "Synonyms"
+}

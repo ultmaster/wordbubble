@@ -1,0 +1,39 @@
+{
+  "part": "phrase",
+  "phrase": "turn off",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} a [piece_1]{piece} of [equipment]{equipment} [working]{working} [temporarily]{temporarily} by [pressing]{pressing} a [button_1]{button} or by [moving]{moving} a [switch_1]{switch}",
+      "examples": [
+        "Will you [turn_1]{turn} the [television]{television} off, please?",
+        "[harry]{Harry} [turn_1]{turned} off the [engine]{engine} and [wound_1]{wound} down the [window]{window}.",
+        "It is now [safe_1]{safe} to [turn_1]{turn} off your computer.",
+        "The [emergency_1]{emergency} [crew_1]{crew} has [turn_1]{turned} off [local_1]{local} [power_1]{power} and [gas_1]{gas} [supply_1]{supplies}.",
+        "Go and [turn_1]{turn} the [faucet]{faucet} off before the [bathtub]{bathtub} [overflow_1]{overflows}."
+      ],
+      "id": "turn-off_1__1"
+    },
+    {
+      "def": "to [leave_1]{leave} the [road]{road} that you are [traveling]{traveling} along in [order_1]{order} to go along another one that [lead_1]{leads} [away_1]{away} from it",
+      "examples": [
+        "[turn_1]{Turn} off the [road]{road} onto a [dirt]{dirt} [driveway]{driveway}.",
+        "[drive_1]{Drive} east along I-95, [turn_1]{turn} off at [exit_1]{exit} 35 and [continue]{continue} on [route_1]{route} 146 to get to the [center_1]{center} of Branford."
+      ],
+      "id": "turn-off_1__8"
+    },
+    {
+      "def": "to [stop_1]{stop} someone from [feeling_1]{feeling} [sexual#sexual__10]{sexually} [attract]{attracted} or [sexual#sexual__10]{sexually} [excited]{excited}",
+      "examples": [
+        "His [bad_1]{bad} [breath]{breath} [really]{really} [turn_1]{turns} me off!"
+      ],
+      "id": "turn-off_1__11"
+    },
+    {
+      "def": "to [make_1]{make} someone [feel_1]{feel} [bored]{bored} or no [long_1]{longer} [interested]{interested} in something",
+      "examples": [
+        "This [sort_1]{sort} of [talk_1]{talk} could [turn_1]{turn} a [lot_1]{lot} of [voter]{voters} off."
+      ],
+      "id": "turn-off_1__13"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [saying]{saying} that an amount is as much as you [need_1]{need}, or that a [number_1]{number} of [people_1]{people} or [thing]{things} are as many as you [need_1]{need}",
+      "entry": "enough",
+      "id": "enough#enough__1"
+    },
+    {
+      "comment": "as much as is [need_1]{needed}",
+      "entry": "sufficient",
+      "id": "sufficient#sufficient__1"
+    },
+    {
+      "comment": "enough, and often more than you [need_1]{need}",
+      "entry": "ample",
+      "id": "ample#ample__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that there is enough or a [lot_1]{lot} of a [particular_1]{particular} [quality_1]{quality}",
+      "entry": "plenty",
+      "id": "plenty#plenty__8"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone or something is as [good_1]{good}, [big_1]{big}, [fast_1]{fast}, etc. as [necessary_1]{necessary}, or [does]{does} something as much as is [necessary_1]{necessary}",
+      "entry": "enough",
+      "id": "enough#enough__11"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that [thing]{things} [exist]{exist} or [happen]{happen} in [large_1]{large} [amount_1]{amounts} or [number_1]{numbers}",
+      "entry": "in plenty",
+      "id": "in-plenty#in-plenty__1"
+    },
+    {
+      "comment": "to be enough so that everyone can have one or some",
+      "entry": "go around",
+      "id": "go-around#go-around__12"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you do not [need_1]{need} anything, [especially]{especially} [food]{food}, when someone [offer_1]{offers} you something",
+      "entry": "I\u2019m all set",
+      "id": "i-m-all-set#i-m-all-set__1"
+    },
+    {
+      "comment": "enough but no more than that",
+      "entry": "just enough",
+      "id": "just-enough#just-enough__1"
+    }
+  ],
+  "thesaurus": "Enough and sufficiency",
+  "type": "Synonyms"
+}

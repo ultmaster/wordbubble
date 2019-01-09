@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "why not...?",
+  "senses": [
+    {
+      "def": "[used]{used} for [making]{making} a [suggestion]{suggestion}",
+      "examples": [
+        "Why don\u2019t we [share_1]{share} the [cost_1]{cost} of [accommodation]{accommodation}?",
+        "Why not [stay_1]{stay} for [lunch_1]{lunch}?"
+      ],
+      "id": "why-not__1"
+    },
+    {
+      "def": "[used]{used} for [agree]{agreeing} to a [suggestion]{suggestion} or [request_1]{request}",
+      "examples": [
+        "\u201c[maybe]{Maybe} we could all [meet_1]{meet} up at your [house_1]{house}?\u201d \u201c[yes_1]{Yes}, of [course_1]{course}, why not?\u201d"
+      ],
+      "id": "why-not__4"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make over",
+  "senses": [
+    {
+      "def": "to [change_1]{change} or [improve_1]{improve} the [appearance]{appearance} of someone or something",
+      "examples": [
+        "The [old]{old} [warehouse]{warehouse} has been made over into [apartment]{apartments}."
+      ],
+      "id": "make-over__1"
+    },
+    {
+      "def": "to [officially]{officially} [make_1]{make} someone else the [owner]{owner} of something",
+      "examples": [
+        "Before he [die_1]{died}, he made his [estate]{estate} over to his [wife]{wife}."
+      ],
+      "id": "make-over__3"
+    }
+  ]
+}

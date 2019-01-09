@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "get behind",
+  "senses": [
+    {
+      "def": "if you get behind with [work_1]{work} or [payment]{payments}, you have not done as much [work_1]{work} or made as many [payment]{payments} as you should have",
+      "examples": [
+        "She\u2019d been [sick_1]{sick} so often that, she was [get]{getting} behind with her [schoolwork]{schoolwork}."
+      ],
+      "id": "get-behind__1"
+    },
+    {
+      "def": "to [support_1]{support} an [idea]{idea}, [project_1]{project}, etc., or [help_1]{help} someone in what they are [trying]{trying} to do",
+      "examples": [
+        "She [claim_1]{claims} the [publisher]{publishers} never [really]{really} [got_1]{got} behind her [new]{new} [book_1]{book}."
+      ],
+      "id": "get-behind__3"
+    }
+  ]
+}

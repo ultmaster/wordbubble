@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a thick [heavy_1]{heavy} [glove]{glove} that you [wear_1]{wear} to [protect]{protect} your hand and [lower_1]{lower} [arm_1]{arm}",
+      "entry": "gauntlet",
+      "id": "gauntlet#gauntlet__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} that [cover_1]{covers} your [finger_1]{fingers} and [hand_1]{hands}",
+      "entry": "glove",
+      "id": "glove#glove__1"
+    },
+    {
+      "comment": "a thick [mitten]{mitten} that you [wear_1]{wear} on your [hand_1]{hands} to [protect]{protect} them",
+      "entry": "mitt",
+      "id": "mitt#mitt__1"
+    },
+    {
+      "comment": "a type of glove with one part for your thumb and another part for your fingers",
+      "entry": "mitten",
+      "id": "mitten#mitten__1"
+    },
+    {
+      "comment": "a [tube]{tube} of fur or thick [cloth]{cloth} into which you put your [hand_1]{hands} to keep them [warm_1]{warm}",
+      "entry": "muff",
+      "id": "muff_2#muff_2__1"
+    },
+    {
+      "comment": "the part of a glove that covers your thumb",
+      "entry": "thumb",
+      "id": "thumb_1#thumb_1__3"
+    }
+  ],
+  "thesaurus": "Gloves and mittens",
+  "type": "Related words"
+}

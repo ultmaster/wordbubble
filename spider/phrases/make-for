@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "make for",
+  "senses": [
+    {
+      "def": "to move toward a [place_1]{place}",
+      "examples": [
+        "He [pick_1]{picked} up his [umbrella_1]{umbrella} and made for the [door_1]{door}."
+      ],
+      "id": "make-for__1"
+    },
+    {
+      "def": "to [help_1]{help} to [make_1]{make} something [possible_1]{possible}",
+      "examples": [
+        "The [new]{new} [computer]{computers} [make_1]{make} for much [great_1]{greater} [productivity]{productivity}."
+      ],
+      "id": "make-for__3"
+    }
+  ]
+}

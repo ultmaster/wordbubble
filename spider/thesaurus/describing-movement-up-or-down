@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[moving]{moving} or [turn_1]{turned} toward a [higher_1]{higher} [position_1]{position}",
+      "entry": "upward",
+      "id": "upward_2#upward_2__1"
+    },
+    {
+      "comment": "[going_1]{going} toward a [lower_1]{lower} [place_1]{place} or [level_1]{level}",
+      "entry": "downward",
+      "id": "downward_2#downward_2__1"
+    },
+    {
+      "comment": "[moving]{moving} toward a [higher_1]{higher} [level_1]{level} or [position_1]{position}",
+      "entry": "ascending",
+      "id": "ascending#ascending__1"
+    },
+    {
+      "comment": "from a [lower_1]{lower} [place_1]{place} to a [higher_1]{higher} [place_1]{place}",
+      "entry": "up",
+      "id": "up_1#up_1__2"
+    },
+    {
+      "comment": "[moving]{moving} toward a [lower_1]{lower} [place_1]{place} or [position_1]{position}",
+      "entry": "down",
+      "id": "down_1#down_1__2"
+    },
+    {
+      "comment": "[rising]{rising} and [fall_1]{falling}, or from bottom to top",
+      "entry": "up and down",
+      "id": "up-and-down#up-and-down__1"
+    },
+    {
+      "comment": "a [bouncy]{bouncy} [surface_1]{surface} [move_1]{moves} up and down when you [walk_1]{walk}, [jump_1]{jump}, etc. on it",
+      "entry": "bouncy",
+      "id": "bouncy#bouncy__2"
+    },
+    {
+      "comment": "[moving]{moving} to a [place_1]{place} that is below something or that is [covered_1]{covered} by it",
+      "entry": "under",
+      "id": "under_1#under_1__11"
+    },
+    {
+      "comment": "from a [higher_1]{higher} [place_1]{place} to the [ground_1]{ground}",
+      "entry": "down",
+      "id": "down_1#down_1__7"
+    },
+    {
+      "comment": "[upward_1]{upward}, toward the [sky_1]{sky}",
+      "entry": "skyward",
+      "id": "skyward#skyward__1"
+    }
+  ],
+  "thesaurus": "Describing movement up or down",
+  "type": "Synonyms"
+}

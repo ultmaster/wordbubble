@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [serious#serious__32]{seriousness} of something [bad_1]{bad} or [unpleasant]{unpleasant}",
+      "examples": [
+        "The severity of the [storm_1]{storm} was less than [expected]{expected}."
+      ],
+      "id": "severity__1"
+    },
+    {
+      "def": "the [degree]{degree} to which something is [strict]{strict} or [extreme_1]{extreme}",
+      "examples": [
+        "She was [surprised]{surprised} by the severity of the [sentence_1]{sentence} he was [given_1]{given}."
+      ],
+      "id": "severity__3"
+    },
+    {
+      "def": "an [unfriendly]{unfriendly} [attitude]{attitude} and a [lack_1]{lack} of [humor_1]{humor}",
+      "examples": [
+        "The [tone_1]{tone} of Helen\u2019s [voice_1]{voice} [approach_1]{approached} severity."
+      ],
+      "id": "severity__5"
+    },
+    {
+      "def": "the [degree]{degree} to which something is [plain_1]{plain} and not [attractive]{attractive} in its [style_1]{style}",
+      "examples": [],
+      "id": "severity__7"
+    }
+  ],
+  "word": "severity"
+}

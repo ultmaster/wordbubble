@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [cook_1]{cook} something over a fire on a [flat_1]{flat} [frame_1]{frame} of [metal_1]{metal} [bar_1]{bars}",
+      "examples": [
+        "We grill the [steak]{steaks} on the [barbecue_1]{barbecue}.",
+        "[grill_2]{grilled} [fish_1]{fish}/[steak]{steak}/[tomato]{tomatoes}"
+      ],
+      "id": "grill_2__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone a [lot_1]{lot} of [difficult]{difficult} [question_1]{questions} for a long [period_1]{period} of time",
+      "examples": [
+        "The [committee]{committee} [spent_1]{spent} [week]{weeks} [grilling]{grilling} [witness_1]{witnesses}."
+      ],
+      "id": "grill_2__5"
+    }
+  ],
+  "word": "grill"
+}

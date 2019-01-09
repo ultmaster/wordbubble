@@ -1,0 +1,25 @@
+{
+  "part": "determiner",
+  "senses": [
+    {
+      "def": "a [set_1]{set} of 12 [thing]{things} or [people_1]{people}",
+      "examples": [
+        "a dozen red [rose_1]{roses}",
+        "We need half a dozen  (=six) eggs for the cake.",
+        "A few dozen [protester]{protesters} [wave_2]{waved} [placard]{placards}.",
+        "There were only [half]{half} a dozen [people_1]{people} at the [party_1]{party}."
+      ],
+      "id": "dozen__1"
+    },
+    {
+      "def": "[lot_2]{lots} of [thing]{things} or [people_1]{people}",
+      "examples": [
+        "I must have [mention_1]{mentioned} him [dozen#dozen__7]{dozens} of times in my [letter_1]{letters}.",
+        "Nine [people_1]{people} were [kill_1]{killed} and [dozen#dozen__7]{dozens} were [injured]{injured} in [street_1]{street} [clash_1]{clashes}.",
+        "I\u2019ve [talk_1]{talked} to [dozen#dozen__7]{dozens} and [dozen#dozen__7]{dozens} of [people_1]{people} and they all [agree]{agree} it\u2019s [wrong_1]{wrong}."
+      ],
+      "id": "dozen__7"
+    }
+  ],
+  "word": "dozen"
+}

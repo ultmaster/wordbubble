@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [test_1]{test} that is [design_2]{designed} to [test_1]{test} what [learner]{learners} have [learned]{learned} over a [particular_1]{particular} [period_1]{period}",
+      "entry": "achievement test",
+      "id": "achievement-test#achievement-test__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [deciding]{deciding} what [level_1]{level} a [student]{student} is at, or how much [progress_1]{progress} they are [making]{making}",
+      "entry": "assessment",
+      "id": "assessment#assessment__4"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [work_1]{work} or an [exam]{exam} done by a [student]{student} so that [teacher]{teachers} can [judge_1]{judge} their [level_1]{level} or [progress_1]{progress}",
+      "entry": "assessment",
+      "id": "assessment#assessment__6"
+    },
+    {
+      "comment": "the use of [external]{external} [standard_1]{standards} to [assess]{assess} [performance]{performance}",
+      "entry": "benchmarking",
+      "id": "benchmarking#benchmarking__1"
+    },
+    {
+      "comment": "the [common_1]{Common} European [framework]{Framework} of [reference_1]{Reference} for [language]{Languages}: a [framework]{framework} [produce_1]{produced} by the [council]{Council} of Europe that [aim_1]{aims} to [provide]{provide} a [common_1]{common} [basis]{basis} for [language]{language} [education]{education}",
+      "entry": "CEFR",
+      "id": "cefr#cefr__1"
+    },
+    {
+      "comment": "a [test_1]{test} in which [student]{students} [write]{write} [missing]{missing} [word_1]{words} in the [space_1]{spaces} [provided]{provided} in a [piece_1]{piece} of [writing]{writing} to show that they [understand]{understand} it",
+      "entry": "cloze test",
+      "id": "cloze-test#cloze-test__1"
+    },
+    {
+      "comment": "a [test_1]{test} to [decide]{decide} what a [student]{student's} [need_1]{needs} are",
+      "entry": "diagnostic test",
+      "id": "diagnostic-test#diagnostic-test__1"
+    },
+    {
+      "comment": "a form of [dictation]{dictation} in which [student]{students} [hear]{hear} a [complete_1]{complete} [text_1]{text} then [try_1]{try} to [reconstruct]{reconstruct} it from [memory]{memory}",
+      "entry": "dictogloss",
+      "id": "dictogloss#dictogloss__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [deciding]{deciding} if the [goals]{goals} of a [course_1]{course} have been [achieve]{achieved}, or if a [course_1]{course} [meet_1]{meets} [recognize]{recognized} [standard_1]{standards}",
+      "entry": "evaluation",
+      "id": "evaluation#evaluation__5"
+    },
+    {
+      "comment": "a [practice_1]{practice} [exercise_1]{exercise} in which [student]{students} fill [gap]{gaps} in a [text_1]{text}",
+      "entry": "gap-fill",
+      "id": "gap-fill#gap-fill__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [defining]{defining} what a [language]{language} [learner]{learner's} [need_1]{needs} are in [order_1]{order} to [design_1]{design} a [course_1]{course} for them",
+      "entry": "needs analysis",
+      "id": "needs-analysis#needs-analysis__1"
+    },
+    {
+      "comment": "a [test_1]{test} that [learner]{learners} take before [start_1]{starting} a [course_1]{course} to [decide]{decide} what [level_1]{level} they are",
+      "entry": "placement test",
+      "id": "placement-test#placement-test__1"
+    },
+    {
+      "comment": "a [test_1]{test} [carry_1]{carried} out during a [student]{student's} [course_1]{course} to [assess]{assess} their [learning]{learning}",
+      "entry": "progress test",
+      "id": "progress-test#progress-test__1"
+    },
+    {
+      "comment": "the way that [test_1]{tests} [affect_1]{affect} the [classroom]{classroom} [teaching]{teaching} that [lead_1]{leads} up to them",
+      "entry": "washback effect",
+      "id": "washback-effect#washback-effect__1"
+    }
+  ],
+  "thesaurus": "Testing and assessment",
+  "type": "Related words"
+}

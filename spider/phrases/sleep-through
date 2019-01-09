@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "sleep through",
+  "senses": [
+    {
+      "def": "to [remain]{remain} [sleep_1]{sleeping} although there is a [lot_1]{lot} of [noise]{noise} around you",
+      "examples": [
+        "He [slept]{slept} through the whole [storm_1]{storm}."
+      ],
+      "id": "sleep-through__1"
+    },
+    {
+      "def": "to [continue]{continue} [sleep_1]{sleeping} for a long time",
+      "examples": [
+        "I was so [tired]{tired} I [slept]{slept} through until noon."
+      ],
+      "id": "sleep-through__3"
+    }
+  ]
+}

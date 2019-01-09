@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "follow up",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to find out more about something, or to do something more to [deal_1]{deal} with it",
+      "examples": [
+        "They never [follow]{followed} my [complaint]{complaint} up.",
+        "The [police_1]{police} are now [following_1]{following} up some [new]{new} [lead_1]{leads}."
+      ],
+      "id": "follow-up_1__1"
+    },
+    {
+      "def": "to do something in [addition]{addition} to what you have already done, in [order_1]{order} to be [certain_1]{certain} of [achieve]{achieving} your [goal]{goal}",
+      "examples": [
+        "[follow]{Follow} up the [phone_1]{phone} call with a [written_1]{written} [confirmation]{confirmation}."
+      ],
+      "id": "follow-up_1__4"
+    }
+  ]
+}

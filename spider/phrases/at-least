@@ -1,0 +1,45 @@
+{
+  "part": "phrase",
+  "phrase": "at least",
+  "senses": [
+    {
+      "def": "not less than a [particular_1]{particular} amount or [number_1]{number}, and [possibly]{possibly} more",
+      "examples": [
+        "Mr. [gray_1]{Gray} will [remain]{remain} the [director]{director} for three [year]{years} at least.",
+        "The [disease]{disease} [kill_1]{killed} at least 120 [people_1]{people} in [new]{New} England last [year]{year}.",
+        "We are [expect]{expecting} to at least [double_1]{double} our [money]{money}.",
+        "The [trip_1]{trip} will take a [year]{year}, at the very least.",
+        "You should [walk_1]{walk} 30 [minute_1]{minutes} every [day]{day}, at the least."
+      ],
+      "id": "at-least__1"
+    },
+    {
+      "def": "even if nothing else [happen]{happens} or is [true_1]{true}",
+      "examples": [
+        "At least no one can [accuse]{accuse} me of [hiding]{hiding} the [truth]{truth}.",
+        "You could at least have [wait_1]{waited} for me.",
+        "We have [reach_1]{reached} an [agreement]{agreement} that at least [give_1]{gives} the [company]{company} a [chance_1]{chance} to [survive]{survive}.",
+        "At the very least the man is [guilty]{guilty} of [violent]{violent} [behavior]{behavior}.",
+        "We should be [working]{working} to [prevent]{prevent}, or at the least [mitigate]{mitigate}, the next [conflict_1]{conflict}."
+      ],
+      "id": "at-least__7"
+    },
+    {
+      "def": "[used]{used} when [mention_1]{mentioning} an [advantage]{advantage} that [exist]{exists} in [spite_1]{spite} of the [problem]{problem} or [disadvantage_1]{disadvantage} that you have [just_1]{just} [mention_1]{mentioned}",
+      "examples": [
+        "A two [percent_1]{percent} [raise_1]{raise} is not very much, but at least it\u2019s [better_1]{better} than nothing.",
+        "You [lost_1]{lost}, but at least you can [say_1]{say} you [tried_1]{tried}.",
+        "The [work_1]{work} is [difficult]{difficult}, but at least the [pay_1]{pay} is [good_1]{good}."
+      ],
+      "id": "at-least__13"
+    },
+    {
+      "def": "[used]{used} when you are [saying]{saying} something that [change_1]{changes} or [limit_1]{limits} what you have [just_1]{just} [said_1]{said}",
+      "examples": [
+        "The [election]{election} will mean the [end_1]{end}, or at least the [beginning]{beginning} of the [end_1]{end}, of the [present_1]{present} system.",
+        "No one [saw_1]{saw} anything, or at least they\u2019re not [talk_1]{talking} about it if they [did]{did}."
+      ],
+      "id": "at-least__17"
+    }
+  ]
+}

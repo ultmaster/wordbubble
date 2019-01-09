@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "if two [people_1]{people} are [distantly]{distantly} [related_1]{related} to each other, they are [relative_2]{relatives}, but not [close_1]{close} [relative_2]{relatives}",
+      "entry": "be distantly related to someone",
+      "id": "be-distantly-related-to-someone#be-distantly-related-to-someone__1"
+    },
+    {
+      "comment": "[related_1]{related} to you [directly_1]{directly}, for [example]{example} by being your [parent]{parent}, [child]{child}, [brother_1]{brother}, or [sister]{sister}",
+      "entry": "close",
+      "id": "close_2#close_2__31"
+    },
+    {
+      "comment": "related through your parents, grandparents, etc. and not through other relatives such as uncles or aunts",
+      "entry": "direct",
+      "id": "direct_1#direct_1__20"
+    },
+    {
+      "comment": "[related_1]{related}, but not in a [close_1]{close} way",
+      "entry": "distant",
+      "id": "distant#distant__14"
+    },
+    {
+      "comment": "[relate]{relating} to [family_1]{families}",
+      "entry": "familial",
+      "id": "familial#familial__1"
+    },
+    {
+      "comment": "[relate]{relating} to [family_1]{families}, or [typical]{typical} of [family_1]{families}",
+      "entry": "family",
+      "id": "family_2#family_2__1"
+    },
+    {
+      "comment": "[concerning_1]{concerning} [son]{sons} and [daughter_1]{daughters} and their [relationship]{relationship} to their [parent]{parents}",
+      "entry": "filial",
+      "id": "filial#filial__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [born]{born} to [parent]{parents} who are not [married]{married} to each other",
+      "entry": "illegitimacy",
+      "id": "illegitimacy#illegitimacy__1"
+    },
+    {
+      "comment": "[born]{born} to [parent]{parents} who are not [married]{married} to each other",
+      "entry": "illegitimate",
+      "id": "illegitimate#illegitimate__1"
+    },
+    {
+      "comment": "the [fact]{fact} of being [related_1]{related} to someone",
+      "entry": "kinship",
+      "id": "kinship#kinship__1"
+    },
+    {
+      "comment": "a [legitimate]{legitimate} [child]{child} is [born]{born} to [parent]{parents} who are [legally]{legally} [married]{married}",
+      "entry": "legitimate",
+      "id": "legitimate#legitimate__7"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that a man or [boy_1]{boy} has the same [attitude]{attitudes} as his [father_1]{father} or [behave]{behaves} in the same way",
+      "entry": "like father, like son",
+      "id": "like-father-like-son#like-father-like-son__1"
+    },
+    {
+      "comment": "[related_1]{related} in a [direct_1]{direct} [line_1]{line} of [parent]{parents} and [children]{children} to someone who [live_1]{lived} in the [past_1]{past}",
+      "entry": "lineal",
+      "id": "lineal#lineal__1"
+    },
+    {
+      "comment": "without a [mother_1]{mother} because she is [dead_1]{dead} or [does]{does} not take [care_1]{care} of you",
+      "entry": "motherless",
+      "id": "motherless#motherless__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that two [people_1]{people} who have the same [family_1]{family} name are not [related_1]{related}",
+      "entry": "no relation",
+      "id": "no-relation#no-relation__1"
+    },
+    {
+      "comment": "on the [woman]{woman}\u2019s side of a [family_1]{family}",
+      "entry": "on the distaff side",
+      "id": "on-the-distaff-side#on-the-distaff-side__1"
+    },
+    {
+      "comment": "[belong]{belonging} to the same [family_1]{family}",
+      "entry": "related",
+      "id": "related_1#related_1__6"
+    },
+    {
+      "comment": "[separated]{separated} by one or more [step_1]{steps} or [degree]{degrees} in a [family_1]{family} [relationship]{relationship}",
+      "entry": "removed",
+      "id": "removed#removed__6"
+    },
+    {
+      "comment": "not part of the same [family_1]{family}",
+      "entry": "unrelated",
+      "id": "unrelated#unrelated__5"
+    }
+  ],
+  "thesaurus": "Describing or relating to relatedness",
+  "type": "Related words"
+}

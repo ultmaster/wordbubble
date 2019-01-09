@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "the winningest [person]{person} or [animal_1]{animal} has [won]{won} the most [race_1]{races} or [competition]{competitions}",
+      "examples": [
+        "the [nation]{nation}\u2019s winningest [winter_1]{Winter} Olympian"
+      ],
+      "id": "winningest__1"
+    },
+    {
+      "def": "the most [successful]{successful} at a [sport_1]{sport}",
+      "examples": [
+        "They are the [elite_1]{elite} of the [elite_1]{elite} -- the 10 winningest [college]{college} [football]{football} [program_1]{programs} of all time"
+      ],
+      "id": "winningest__3"
+    }
+  ],
+  "word": "winningest"
+}

@@ -1,0 +1,176 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} [airport]{airport}",
+      "entry": "aerodrome",
+      "id": "aerodrome#aerodrome__1"
+    },
+    {
+      "comment": "a [military]{military} [airport]{airport}",
+      "entry": "air base",
+      "id": "air-base#air-base__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [aircraft]{aircraft} [arrive]{arrive} and [leave_1]{leave}, [especially]{especially} [military]{military} or [private_1]{private} [aircraft]{aircraft}",
+      "entry": "airfield",
+      "id": "airfield#airfield__1"
+    },
+    {
+      "comment": "a place where airplanes arrive and leave, consisting of runways  (=long roads where airplanes land and take off) and large buildings for passengers called terminals",
+      "entry": "airport",
+      "id": "airport#airport__1"
+    },
+    {
+      "comment": "next to the part of an [airport]{airport} where [aircraft]{aircraft} [stand_1]{stand}",
+      "entry": "airside",
+      "id": "airside#airside__1"
+    },
+    {
+      "comment": "a long [narrow_1]{narrow} [piece_1]{piece} of [land_1]{land} that can be [used]{used} by [airplane]{airplanes} for [landing]{landing} and [leave_1]{leaving} the [ground_1]{ground}",
+      "entry": "airstrip",
+      "id": "airstrip#airstrip__1"
+    },
+    {
+      "comment": "a [place_1]{place} at an [airport]{airport} where [plane_1]{planes} [wait_1]{wait} or [turn_1]{turn} around",
+      "entry": "apron",
+      "id": "apron#apron__2"
+    },
+    {
+      "comment": "the part of an airport that deals with passengers who are arriving. The part that deals with passengers who are leaving is called departures.",
+      "entry": "arrivals",
+      "id": "arrivals#arrivals__1"
+    },
+    {
+      "comment": "the [place_1]{place} in an [airport]{airport} where [people_1]{people} [pick_1]{pick} up their [bag_1]{bags} after a [flight]{flight}",
+      "entry": "baggage claim",
+      "id": "baggage-claim#baggage-claim__1"
+    },
+    {
+      "comment": "the [baggage]{baggage} [claim_1]{claim} [area]{area} of an [airport]{airport}",
+      "entry": "baggage reclaim",
+      "id": "baggage-reclaim#baggage-reclaim__1"
+    },
+    {
+      "comment": "a room at an airport for business class passengers, with comfortable chairs and a coffee bar and sometimes also computers, fax machines, and secretaries",
+      "entry": "business lounge",
+      "id": "business-lounge#business-lounge__1"
+    },
+    {
+      "comment": "a [moving]{moving} [surface_1]{surface} in an [airport]{airport} from which you [collect_1]{collect} your [bag_1]{bags}",
+      "entry": "carousel",
+      "id": "carousel#carousel__2"
+    },
+    {
+      "comment": "the [place_1]{place} you go to when you [arrive]{arrive} at an [airport]{airport} or [hotel]{hotel}",
+      "entry": "check-in",
+      "id": "check-in_2#check-in_2__1"
+    },
+    {
+      "comment": "a [desk]{desk} where you go to hand in your [bag_1]{bags} and [suitcase]{suitcases} and have your [ticket_1]{ticket} [checked]{checked} at an [airport]{airport}",
+      "entry": "check-in counter",
+      "id": "check-in-counter#check-in-counter__1"
+    },
+    {
+      "comment": "a [check-in_2]{check-in} [counter_1]{counter}",
+      "entry": "check-in desk",
+      "id": "check-in-desk#check-in-desk__1"
+    },
+    {
+      "comment": "a tall building at an airport from which people control the movement of aircraft. The people who do this job are called air traffic controllers.",
+      "entry": "control tower",
+      "id": "control-tower#control-tower__1"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} in an [airport]{airport} where you [sit]{sit} and [wait_1]{wait} before [going_1]{going} onto an [airplane]{airplane}",
+      "entry": "departure lounge",
+      "id": "departure-lounge#departure-lounge__1"
+    },
+    {
+      "comment": "the part of an airport that deals with passengers who are leaving. The part that deals with passengers who are arriving is called arrivals.",
+      "entry": "departures",
+      "id": "departures#departures__1"
+    },
+    {
+      "comment": "a room at an airport or hotel with comfortable chairs, a coffee bar, etc. for people who are traveling first-class",
+      "entry": "executive lounge",
+      "id": "executive-lounge#executive-lounge__1"
+    },
+    {
+      "comment": "the [place_1]{place} at an [airport]{airport} where [people_1]{people} get on an [airplane]{airplane}",
+      "entry": "gate",
+      "id": "gate_1#gate_1__8"
+    },
+    {
+      "comment": "a [flat_1]{flat} [area]{area} for [helicopter]{helicopters} to [land_1]{land} on and take off from, often on top of a [building]{building}",
+      "entry": "helipad",
+      "id": "helipad#helipad__1"
+    },
+    {
+      "comment": "a [small_1]{small} [airport]{airport} for [helicopter]{helicopters}",
+      "entry": "heliport",
+      "id": "heliport#heliport__1"
+    },
+    {
+      "comment": "a [central]{central} [airport]{airport} that [passenger]{passengers} can [fly_1]{fly} to from [small_1]{smaller} [local_1]{local} [airport]{airports} in [order_1]{order} to [make_1]{make} [international_1]{international} or [long-distance]{long-distance} [flight]{flights}",
+      "entry": "hub",
+      "id": "hub#hub__5"
+    },
+    {
+      "comment": "an [international_1]{international} [airport]{airport} in [new]{New} York [city]{City}",
+      "entry": "JFK",
+      "id": "jfk#jfk__1"
+    },
+    {
+      "comment": "a [place_1]{place} on a [building]{building} or on the [ground_1]{ground} where a [helicopter]{helicopter} can [land_1]{land}",
+      "entry": "landing pad",
+      "id": "landing-pad#landing-pad__1"
+    },
+    {
+      "comment": "a long narrow piece of ground where planes land and take off  (=leave the ground)",
+      "entry": "landing strip",
+      "id": "landing-strip#landing-strip__1"
+    },
+    {
+      "comment": "the landside part of an airport is the part before you go through the security checks to get on an aircraft",
+      "entry": "landside",
+      "id": "landside#landside__1"
+    },
+    {
+      "comment": "a [room_1]{room} or [area]{area} in a [place_1]{place} such as an [airport]{airport} where [people_1]{people} can [sit]{sit} and [wait_1]{wait}",
+      "entry": "lounge",
+      "id": "lounge_1#lounge_1__3"
+    },
+    {
+      "comment": "a [point_1]{point} at an [airport]{airport} or [train_1]{train} [station_1]{station} where [people_1]{people} can [arrange]{arrange} to [meet_1]{meet}",
+      "entry": "meeting point",
+      "id": "meeting-point#meeting-point__1"
+    },
+    {
+      "comment": "a long road used by planes when they land and take off, usually at an airport",
+      "entry": "runway",
+      "id": "runway#runway__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that is [used]{used} at an [airport]{airport} for [produce_1]{producing} a [picture_1]{picture} of the [inside_1]{inside} of [people_1]{people}\u2019s [bag_1]{bags}",
+      "entry": "scanner",
+      "id": "scanner#scanner__5"
+    },
+    {
+      "comment": "the part of an [airport]{airport} where the [plane_1]{planes} [stop_1]{stop} and that [people_1]{people} [walk_1]{walk} across to get on a [plane_1]{plane}",
+      "entry": "the tarmac",
+      "id": "tarmac#tarmac__1"
+    },
+    {
+      "comment": "a [large_1]{large} [building]{building} at an [airport]{airport} where [passenger]{passengers} [arrive]{arrive} and [leave_1]{leave}",
+      "entry": "terminal",
+      "id": "terminal_1#terminal_1__2"
+    },
+    {
+      "comment": "a [room_1]{room} in an [international_1]{international} [airport]{airport} where [passenger]{passengers} can [wait_1]{wait} for their [flight]{flight} to another [country]{country}",
+      "entry": "transit lounge",
+      "id": "transit-lounge#transit-lounge__1"
+    }
+  ],
+  "thesaurus": "Airports and parts of airports",
+  "type": "Related words"
+}

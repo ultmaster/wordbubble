@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [weak]{weak} [building]{building}, [bridge_1]{bridge}, or other [structure_1]{structure} is one that is [likely_1]{likely} to [break_1]{break} under a [lot_1]{lot} of [pressure_1]{pressure}",
+      "entry": "weak",
+      "id": "weak#weak__18"
+    },
+    {
+      "comment": "[easy_1]{easy} to [break_1]{break} or [damage_1]{damage}",
+      "entry": "fragile",
+      "id": "fragile#fragile__1"
+    },
+    {
+      "comment": "not [strong]{strong} and therefore [likely_1]{likely} to be [damage_2]{damaged} or [destroy]{destroyed}",
+      "entry": "frail",
+      "id": "frail#frail__3"
+    },
+    {
+      "comment": "a [brittle]{brittle} [substance]{substance} or [object_1]{object} is [hard_1]{hard} and can [easily]{easily} [break_1]{break} into [piece_1]{pieces}",
+      "entry": "brittle",
+      "id": "brittle#brittle__1"
+    },
+    {
+      "comment": "[badly]{badly} [built_1]{built} or made, and so [likely_1]{likely} to [break_1]{break} [easily]{easily}",
+      "entry": "flimsy",
+      "id": "flimsy#flimsy__3"
+    },
+    {
+      "comment": "[b-boying]{breaking} [easily]{easily} into very [small_1]{small} [piece_1]{pieces}",
+      "entry": "crumbly",
+      "id": "crumbly#crumbly__1"
+    },
+    {
+      "comment": "a [breakable]{breakable} [object_1]{object} will [break_1]{break} [easily]{easily} if you are not [careful]{careful} with it",
+      "entry": "breakable",
+      "id": "breakable#breakable__1"
+    },
+    {
+      "comment": "[easily]{easily} [damage_2]{damaged} by something [negative_1]{negative} or [harmful]{harmful}",
+      "entry": "vulnerable",
+      "id": "vulnerable#vulnerable__8"
+    },
+    {
+      "comment": "[easily]{easily} [broken_1]{broken} into [small_1]{smaller} [piece_1]{pieces}",
+      "entry": "friable",
+      "id": "friable#friable__1"
+    },
+    {
+      "comment": "[easy_1]{easy} to [damage_1]{damage} or [destroy]{destroy} by any [small_1]{small} [change_1]{changes}",
+      "entry": "delicately balanced",
+      "id": "delicately-balanced#delicately-balanced__1"
+    }
+  ],
+  "thesaurus": "Weak and easy to damage or break",
+  "type": "Synonyms"
+}

@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [street_1]{streets} or [apartment]{apartment} [building]{buildings}",
+      "entry": "Court",
+      "id": "court_1#court_1__25"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [building]{buildings}, [room_1]{rooms}, or [feature_1]{features} of [geography]{geography} that are very [large_1]{large} and [impressive]{impressive}",
+      "entry": "great",
+      "id": "great_1#great_1__25"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of some [large_1]{large} [public_1]{public} [building]{buildings}",
+      "entry": "hall",
+      "id": "hall#hall__9"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of some [large_1]{large} [old]{old} [house_1]{houses}",
+      "entry": "hall",
+      "id": "hall#hall__11"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [building]{buildings}, [especially]{especially} [large_1]{large} ones [contain]{containing} many [office]{offices} or [apartment]{apartments}",
+      "entry": "House",
+      "id": "house_1#house_1__17"
+    },
+    {
+      "comment": "[used]{used} before the [name_1]{names} of [large_1]{large} [public_1]{public} [building]{buildings}",
+      "entry": "the",
+      "id": "the#the__39"
+    }
+  ],
+  "thesaurus": "Words used in the names of buildings",
+  "type": "Related words"
+}

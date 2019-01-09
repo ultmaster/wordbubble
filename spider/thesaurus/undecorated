@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[simple]{simple} in [design_1]{design}, with no [decoration]{decoration}",
+      "entry": "plain",
+      "id": "plain_1#plain_1__7"
+    },
+    {
+      "comment": "[plain_1]{plain} and without [decoration]{decoration}",
+      "entry": "simple",
+      "id": "simple#simple__8"
+    },
+    {
+      "comment": "[practical]{practical} and [simple]{simple}, with no [unnecessary]{unnecessary} [feature_1]{features} or [decoration]{decorations}",
+      "entry": "functional",
+      "id": "functional#functional__4"
+    },
+    {
+      "comment": "very [plain_1]{plain} and [simple]{simple}, without the [thing]{things} that [make_1]{make} [life]{life} [comfortable]{comfortable} and [pleasant]{pleasant}",
+      "entry": "spartan",
+      "id": "spartan#spartan__1"
+    },
+    {
+      "comment": "[bare_1]{bare} [wall_1]{walls}, [surface_1]{surfaces}, etc. have no [covering]{covering} or [decoration]{decoration}",
+      "entry": "bare",
+      "id": "bare_1#bare_1__5"
+    },
+    {
+      "comment": "not [decorate]{decorated}, or not made to [look_1]{look} more [attractive]{attractive}",
+      "entry": "unadorned",
+      "id": "unadorned#unadorned__1"
+    },
+    {
+      "comment": "[plain_1]{plain} and [simple]{simple} without any [unnecessary]{unnecessary} detail or [decoration]{decoration}",
+      "entry": "spare",
+      "id": "spare_1#spare_1__8"
+    },
+    {
+      "comment": "[plain_1]{plain} in [style_1]{style} and without [decoration]{decoration}",
+      "entry": "austere",
+      "id": "austere#austere__1"
+    },
+    {
+      "comment": "in a very [ordinary]{ordinary} or [plain_1]{plain} way",
+      "entry": "simply",
+      "id": "simply#simply__9"
+    },
+    {
+      "comment": "without a [lot_1]{lot} of [decoration]{decoration}",
+      "entry": "plainly",
+      "id": "plainly#plainly__4"
+    }
+  ],
+  "thesaurus": "Undecorated",
+  "type": "Synonyms"
+}

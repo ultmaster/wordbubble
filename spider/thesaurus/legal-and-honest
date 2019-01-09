@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[allow]{allowed} by the [law]{law}",
+      "entry": "legal",
+      "id": "legal#legal__5"
+    },
+    {
+      "comment": "not [guilty]{guilty} of a [crime_1]{crime}",
+      "entry": "innocent",
+      "id": "innocent_1#innocent_1__1"
+    },
+    {
+      "comment": "not [guilty]{guilty} of anything [illegal_1]{illegal} or [wrong_1]{wrong}",
+      "entry": "clean",
+      "id": "clean_1#clean_1__15"
+    },
+    {
+      "comment": "[allow]{allowed} by the [law]{law}, or [correct_1]{correct} [accord_2]{according} to the [law]{law}",
+      "entry": "legitimate",
+      "id": "legitimate#legitimate__1"
+    },
+    {
+      "comment": "[correct_1]{correct} or [legal]{legal} at the [present_1]{present} time",
+      "entry": "current",
+      "id": "current_1#current_1__8"
+    },
+    {
+      "comment": "not against the [law]{law}",
+      "entry": "lawful",
+      "id": "lawful#lawful__1"
+    },
+    {
+      "comment": "[officially]{officially} or [legally]{legally} [accepted]{accepted} as [right_1]{right} or [correct_1]{correct}",
+      "entry": "rightful",
+      "id": "rightful#rightful__1"
+    },
+    {
+      "comment": "the [fact]{fact} that something is [legal]{legal}",
+      "entry": "legitimacy",
+      "id": "legitimacy#legitimacy__1"
+    },
+    {
+      "comment": "not [responsible]{responsible} for [doing]{doing} something [wrong_1]{wrong} or for [commit]{committing} a [crime_1]{crime}",
+      "entry": "guiltless",
+      "id": "guiltless#guiltless__1"
+    },
+    {
+      "comment": "[accord_2]{according} to the [law]{law}",
+      "entry": "legally",
+      "id": "legally#legally__1"
+    }
+  ],
+  "thesaurus": "Legal and honest",
+  "type": "Synonyms"
+}

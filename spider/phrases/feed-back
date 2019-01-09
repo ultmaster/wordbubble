@@ -1,0 +1,19 @@
+{
+  "part": "phrase",
+  "phrase": "feed back",
+  "senses": [
+    {
+      "def": "to [tell_1]{tell} or [send_1]{send} someone [information]{information} about something",
+      "examples": [
+        "[class_1]{Class} [representative_1]{representatives} will [feed_1]{feed} back to their [class_1]{class} the [following_1]{following} [week]{week}.",
+        "The [session_1]{session} [itself]{itself} was a [good_1]{good} [mix_1]{mix} of [present_2]{presenting}, [discussion]{discussion} and [feeding]{feeding} back as we [work_1]{worked}."
+      ],
+      "id": "feed-back__1"
+    },
+    {
+      "def": "if [electrical_1]{electrical} [equipment]{equipment} [feed_1]{feeds} back, it [make_1]{makes} a [loud_1]{loud} [noise]{noise} when part of the [sound_1]{sound} that it [send_1]{sends} out [go_1]{goes} back into it",
+      "examples": [],
+      "id": "feed-back__4"
+    }
+  ]
+}

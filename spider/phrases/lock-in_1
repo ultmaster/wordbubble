@@ -1,0 +1,14 @@
+{
+  "part": "phrase",
+  "phrase": "lock in",
+  "senses": [
+    {
+      "def": "to put someone in a [room_1]{room} and [lock_1]{lock} the [door_1]{door} so they cannot [leave_1]{leave}",
+      "examples": [
+        "You can\u2019t keep me [lock_1]{locked} in.",
+        "She went to her [hotel]{hotel} [room_1]{room} and [lock_1]{locked} [herself]{herself} in."
+      ],
+      "id": "lock-in_1__1"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [situation]{situation} in which a [person]{person} or [business]{business} becomes [bankrupt_1]{bankrupt}",
+      "examples": [
+        "The [recession]{recession} [led_1]{led} to a [flood_1]{flood} of [bankruptcy]{bankruptcies}.",
+        "Many [small_1]{small} [farmer]{farmers} are [facing]{facing} bankruptcy.",
+        "The [company]{company} [declared]{declared} bankruptcy in 1997."
+      ],
+      "id": "bankruptcy__1"
+    },
+    {
+      "def": "a [complete_1]{complete} [lack_1]{lack} of [good_1]{good} [quality_1]{qualities}",
+      "examples": [
+        "[moral_1]{moral} bankruptcy"
+      ],
+      "id": "bankruptcy__5"
+    }
+  ],
+  "word": "bankruptcy"
+}

@@ -1,0 +1,27 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a governing [authority]{authority} has the [power_1]{power} to [govern]{govern} a [country]{country}, [city]{city}, etc.",
+      "examples": [
+        "a governing [party_1]{party}/[authority]{authority}/[coalition]{coalition}",
+        "the governing [class_1]{class} of [ancient]{ancient} Rome"
+      ],
+      "id": "governing__1"
+    },
+    {
+      "def": "a governing [organization]{organization} has the [power_1]{power} to [control_1]{control} a [large_1]{larger} [organization]{organization}",
+      "examples": [
+        "a governing [agency]{agency}/[board_1]{board}"
+      ],
+      "id": "governing__4"
+    },
+    {
+      "def": "a governing [law]{law} or [principle]{principle} is a [rule_1]{rule} that [control_1]{controls} a [situation]{situation} or an [activity]{activity}",
+      "examples": [],
+      "id": "governing__6"
+    }
+  ],
+  "word": "governing"
+}

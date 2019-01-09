@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a measured quantity of wood sold for firewood",
+      "entry": "cord",
+      "id": "cord#cord__6"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [fagot]{fagot}",
+      "entry": "faggot",
+      "id": "faggot#faggot__3"
+    },
+    {
+      "comment": "[small_1]{small} [stick_1]{sticks} [tied]{tied} together and [used]{used} for [burning]{burning} on a fire",
+      "entry": "fagot",
+      "id": "fagot#fagot__1"
+    },
+    {
+      "comment": "[design_2]{designed} for the [purpose]{purpose} of [cause_2]{causing} a fire",
+      "entry": "incendiary",
+      "id": "incendiary_1#incendiary_1__1"
+    },
+    {
+      "comment": "a [live_1]{live} [match_1]{match} is [capable]{capable} of [produce_1]{producing} a [flame_1]{flame} because it has not yet been [used]{used}",
+      "entry": "live",
+      "id": "live_2#live_2__16"
+    },
+    {
+      "comment": "a [small_1]{small} [stick_1]{stick} that [produce_1]{produces} a [flame_1]{flame} when [rub_1]{rubbed} against a rough [surface_1]{surface}, [used]{used} for [lighting]{lighting} a fire, [cigarette]{cigarette}, etc.",
+      "entry": "match",
+      "id": "match_1#match_1__1"
+    },
+    {
+      "comment": "a [single_1]{single} [match_1]{match}, [especially]{especially} after it has been [burn_1]{burned}",
+      "entry": "matchstick",
+      "id": "matchstick#matchstick__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [stick_1]{stick} [used]{used} for [moving]{moving} the [coal]{coal} or [wood]{wood} of a fire around",
+      "entry": "poker",
+      "id": "poker#poker__2"
+    },
+    {
+      "comment": "a [match_1]{match} that will only [light_1]{light} when it is [rub_1]{rubbed} on the [special_1]{special} [surface_1]{surface} on the side of its [box_1]{box}",
+      "entry": "safety match",
+      "id": "safety-match#safety-match__1"
+    },
+    {
+      "comment": "a long thin [piece_1]{piece} of [paper_1]{paper} or [wood]{wood} [used]{used} for [lighting]{lighting} a fire",
+      "entry": "spill",
+      "id": "spill_2#spill_2__5"
+    },
+    {
+      "comment": "to move the [burning]{burning} [piece_1]{pieces} in a fire around",
+      "entry": "stir",
+      "id": "stir_1#stir_1__23"
+    },
+    {
+      "comment": "a long [piece_1]{piece} of [wood]{wood} or [paper_1]{paper} [used]{used} for [carry_1]{carrying} a [small_1]{small} [flame_1]{flame}",
+      "entry": "taper",
+      "id": "taper_2#taper_2__2"
+    },
+    {
+      "comment": "in the [past_1]{past}, a [small_1]{small} [box_1]{box} [used]{used} for [holding]{holding} the [thing]{things} [need_1]{needed} for [lighting]{lighting} a fire",
+      "entry": "tinderbox",
+      "id": "tinderbox#tinderbox__2"
+    },
+    {
+      "comment": "a [pile_1]{pile} of [wood]{wood} [used]{used} for [making]{making} [fire_1]{fires}",
+      "entry": "woodpile",
+      "id": "woodpile#woodpile__1"
+    }
+  ],
+  "thesaurus": "Things used for lighting fires and making flames",
+  "type": "Related words"
+}

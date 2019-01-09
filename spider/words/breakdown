@@ -1,0 +1,34 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [situation]{situation} in which something has [failed]{failed} or is [beginning]{beginning} to [fail_1]{fail}",
+      "examples": [
+        "She [move_1]{moved} to London after the breakdown of her [marriage]{marriage}.",
+        "They [blame_1]{blamed} the [confusion]{confusion} on a breakdown in [communication]{communication} between [department]{departments}."
+      ],
+      "id": "breakdown__1"
+    },
+    {
+      "def": "a [nervous-breakdown]{nervous breakdown}",
+      "examples": [],
+      "id": "breakdown__4"
+    },
+    {
+      "def": "[information]{information} that has been [separated]{separated} into [different]{different} [group_1]{groups}",
+      "examples": [
+        "We\u2019ll [need_1]{need} to see a breakdown of these [figure_1]{figures} before we [sign_1]{sign} the [contract_1]{contract}."
+      ],
+      "id": "breakdown__5"
+    },
+    {
+      "def": "a [situation]{situation} in which a [machine_1]{machine} or [vehicle]{vehicle} [stop_1]{stops} [working]{working}",
+      "examples": [
+        "a [car]{car} breakdown [service_1]{service}"
+      ],
+      "id": "breakdown__7"
+    }
+  ],
+  "word": "breakdown"
+}

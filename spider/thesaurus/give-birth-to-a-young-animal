@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "the clear substance that surrounds the yolk  (=yellow part) of an egg",
+      "entry": "albumen",
+      "id": "albumen#albumen__1"
+    },
+    {
+      "comment": "to give birth to a calf",
+      "entry": "calve",
+      "id": "calve#calve__1"
+    },
+    {
+      "comment": "to give [birth]{birth} to a [foal_1]{foal}",
+      "entry": "foal",
+      "id": "foal_2#foal_2__1"
+    },
+    {
+      "comment": "if an [egg_1]{egg} [hatch_1]{hatches} or is [hatch_1]{hatched}, it [break_1]{breaks} [open_1]{open} so that the [baby_1]{baby} [bird]{bird}, [fish_1]{fish}, [insect]{insect}, etc. [inside_1]{inside} can come out",
+      "entry": "hatch",
+      "id": "hatch_1#hatch_1__4"
+    },
+    {
+      "comment": "if a [sheep]{sheep} [lamb_1]{lambs}, it [give_1]{gives} [birth]{birth} to a [lamb_1]{lamb}",
+      "entry": "lamb",
+      "id": "lamb_2#lamb_2__1"
+    },
+    {
+      "comment": "to [produce_1]{produce} [baby_1]{babies} or [young_1]{young} [animal_1]{animals}",
+      "entry": "procreate",
+      "id": "procreate#procreate__1"
+    },
+    {
+      "comment": "to have [baby_1]{babies}, or to [produce_1]{produce} [young_1]{young} [animal_1]{animals} or [plant_1]{plants}",
+      "entry": "reproduce",
+      "id": "reproduce#reproduce__7"
+    },
+    {
+      "comment": "to [produce_1]{produce} [spawn_1]{spawn}",
+      "entry": "spawn",
+      "id": "spawn_1#spawn_1__1"
+    },
+    {
+      "comment": "if a [female_1]{female} [dog_1]{dog}, [bear_1]{bear}, etc. [whelp_1]{whelps}, it has [baby_1]{babies}",
+      "entry": "whelp",
+      "id": "whelp_2#whelp_2__1"
+    }
+  ],
+  "thesaurus": "Give birth to a young animal",
+  "type": "Related words"
+}

@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "something that you [provide]{provide} as a [good_1]{good} [addition]{addition}, [especially]{especially} to a [particular_1]{particular} [meal]{meal}",
+      "entry": "accompaniment",
+      "id": "accompaniment#accompaniment__5"
+    },
+    {
+      "comment": "[cold_1]{cold} [food]{food} that you [eat]{eat} at the [start_1]{start} of an Italian [meal]{meal}",
+      "entry": "antipasto",
+      "id": "antipasto#antipasto__1"
+    },
+    {
+      "comment": "an [alcoholic_1]{alcoholic} [drink_1]{drink} that is [drunk_1]{drunk} before a [meal]{meal}",
+      "entry": "aperitif",
+      "id": "aperitif#aperitif__1"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [appetizer]{appetizer}",
+      "entry": "appetiser",
+      "id": "appetiser#appetiser__2"
+    },
+    {
+      "comment": "a [food]{food} that you [eat]{eat} before the [main_1]{main} part of a [meal]{meal}",
+      "entry": "appetizer",
+      "id": "appetizer#appetizer__1"
+    },
+    {
+      "comment": "a [number_1]{number} of [different]{different} [cheese]{cheeses} [serve_1]{served} in a [restaurant]{restaurant} as part of a [meal]{meal}",
+      "entry": "cheeseboard",
+      "id": "cheeseboard#cheeseboard__2"
+    },
+    {
+      "comment": "one of the [part_1]{parts} of a [meal]{meal}",
+      "entry": "course",
+      "id": "course_1#course_1__18"
+    },
+    {
+      "comment": "raw vegetables cut into pieces and served before a meal with a thick cold sauce called a dip",
+      "entry": "crudit\u00e9s",
+      "id": "crudites#crudites__1"
+    },
+    {
+      "comment": "[sweet_1]{sweet} [food]{food} that you [eat]{eat} after the [main_1]{main} part of a [meal]{meal}",
+      "entry": "dessert",
+      "id": "dessert#dessert__1"
+    },
+    {
+      "comment": "the [main_1]{main} part of a [meal]{meal}, [especially]{especially} at a [restaurant]{restaurant}",
+      "entry": "entr\u00e9e",
+      "id": "entree#entree__1"
+    },
+    {
+      "comment": "food that is eaten with the meat at a large meal, for example vegetables or gravy",
+      "entry": "fixings",
+      "id": "fixings#fixings__1"
+    },
+    {
+      "comment": "an amount of [food]{food} that is [serve_1]{served} to one [person]{person} at a [meal]{meal}",
+      "entry": "helping",
+      "id": "helping#helping__1"
+    },
+    {
+      "comment": "a food served in small amounts before the main course of a meal",
+      "entry": "hors d\u2019oeuvre",
+      "id": "hors-d-oeuvre#hors-d-oeuvre__1"
+    },
+    {
+      "comment": "the [food]{food} that [remains]{remains} at the [end_1]{end} of a [meal]{meal} after you have [finished]{finished} [eat]{eating}",
+      "entry": "leftovers",
+      "id": "leftovers#leftovers__1"
+    },
+    {
+      "comment": "the [big_1]{biggest} part of a [meal]{meal}",
+      "entry": "main course",
+      "id": "main-course#main-course__1"
+    },
+    {
+      "comment": "the amount of [food]{food} that one [person]{person} [eats]{eats} at a [meal]{meal}",
+      "entry": "portion",
+      "id": "portion_1#portion_1__7"
+    },
+    {
+      "comment": "an amount of food served at the same time as the main course of a meal but on a separate plate",
+      "entry": "side dish",
+      "id": "side-dish#side-dish__1"
+    },
+    {
+      "comment": "an amount of food that a restaurant serves you at the same time as the main course of a meal but on a separate plate",
+      "entry": "side order",
+      "id": "side-order#side-order__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of [food]{food} [eaten]{eaten} at the [start_1]{start} of a [meal]{meal}",
+      "entry": "starter",
+      "id": "starter#starter__7"
+    },
+    {
+      "comment": "[dessert]{dessert}",
+      "entry": "sweet",
+      "id": "sweet_2#sweet_2__4"
+    },
+    {
+      "comment": "[extra_1]{extra} [part_1]{parts} [added]{added} to a [meal]{meal} to [make_1]{make} it [traditional]{traditional} or more [interesting]{interesting}",
+      "entry": "trimmings",
+      "id": "trimmings#trimmings__1"
+    }
+  ],
+  "thesaurus": "Parts of meals",
+  "type": "Related words"
+}

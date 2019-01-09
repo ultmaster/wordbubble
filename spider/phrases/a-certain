@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "a certain",
+  "senses": [
+    {
+      "def": "some, but not very much",
+      "examples": [
+        "[did]{Did} she [detect]{detect} a [certain_1]{certain} [smug#smug__4]{smugness} in his [tone_1]{tone}?",
+        "A [certain_1]{certain} amount of [fat_1]{fat} in your [diet_1]{diet} is [good_1]{good} for you."
+      ],
+      "id": "a-certain__1"
+    },
+    {
+      "def": "[used]{used} for [talk_1]{talking} about someone when you [know_1]{know} their name but nothing else about them",
+      "examples": [
+        "The [owner]{owner} of the [house_1]{house}, a [certain_1]{certain} Mr. Brady, was [reportedly]{reportedly} [living_1]{living} [abroad]{abroad}."
+      ],
+      "id": "a-certain__4"
+    }
+  ]
+}

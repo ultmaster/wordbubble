@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [travel_1]{travel} [regularly]{regularly} to and from [work_1]{work}",
+      "examples": [
+        "I commute by [train_1]{train}."
+      ],
+      "id": "commute_1__1"
+    },
+    {
+      "def": "to [change_1]{change} a [punishment]{punishment} to one that is less [severe]{severe}",
+      "examples": [
+        "His [sentence_1]{sentence} has been [commute_1]{commuted} to one of [life]{life} [imprisonment]{imprisonment}."
+      ],
+      "id": "commute_1__3"
+    }
+  ],
+  "word": "commute"
+}

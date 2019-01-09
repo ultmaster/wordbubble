@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "abbreviation",
+  "senses": [
+    {
+      "def": "[kilobyte]{kilobyte}",
+      "examples": [],
+      "id": "k_2__1"
+    },
+    {
+      "def": "[kilometer]{kilometer}",
+      "examples": [],
+      "id": "k_2__2"
+    },
+    {
+      "def": "[kindergarten]{kindergarten}",
+      "examples": [],
+      "id": "k_2__3"
+    },
+    {
+      "def": "[ok_1]{OK}: [used]{used} [online]{online}",
+      "examples": [
+        "[just_1]{Just} [let_1]{let} me [know_1]{know}, K?"
+      ],
+      "id": "k_2__4"
+    }
+  ],
+  "word": "K"
+}

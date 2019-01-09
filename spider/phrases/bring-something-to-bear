@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "bring something to bear",
+  "senses": [
+    {
+      "def": "to [try_1]{try} to [persuade]{persuade} someone to do something by [use_1]{using} your [influence_1]{influence} or [power_1]{power}",
+      "examples": [
+        "The [company]{company} [director]{directors} [brought]{brought} [pressure_1]{pressure} to [bear_1]{bear} on him to [resign]{resign}."
+      ],
+      "id": "bring-something-to-bear__1"
+    },
+    {
+      "def": "to use something to [deal_1]{deal} with a [problem]{problem} or [difficult]{difficult} [situation]{situation}",
+      "examples": [
+        "It was in the [area]{area} of [marketing]{marketing} that Alan\u2019s [business]{business} [experience_1]{experience} was [brought]{brought} to [bear_1]{bear}."
+      ],
+      "id": "bring-something-to-bear__3"
+    }
+  ]
+}

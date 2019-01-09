@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "an [emergency_1]{emergency} [room_1]{room} in a [hospital]{hospital}",
+      "entry": "casualty",
+      "id": "casualty#casualty__6"
+    },
+    {
+      "comment": "a room where a doctor examines a patient and discusses their medical problems with them",
+      "entry": "consulting room",
+      "id": "consulting-room#consulting-room__1"
+    },
+    {
+      "comment": "a room in a hospital where patients can go during the day to watch television, read, or talk",
+      "entry": "day room",
+      "id": "day-room#day-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [hospital]{hospital} where [women]{women} give [birth]{birth}",
+      "entry": "delivery room",
+      "id": "delivery-room#delivery-room__1"
+    },
+    {
+      "comment": "a [place_1]{place} in a [hospital]{hospital} where you can get [medicine]{medicines} and [drug_1]{drugs}",
+      "entry": "dispensary",
+      "id": "dispensary#dispensary__1"
+    },
+    {
+      "comment": "the part of a [hospital]{hospital} where you take someone who [need_1]{needs} [immediate]{immediate} [care_1]{care}, for [example]{example} someone who has had an [accident]{accident}",
+      "entry": "emergency room",
+      "id": "emergency-room#emergency-room__1"
+    },
+    {
+      "comment": "an [emergency_1]{emergency} [room_1]{room} in a [hospital]{hospital}",
+      "entry": "ER",
+      "id": "er_1#er_1__1"
+    },
+    {
+      "comment": "the department of a hospital for people who are very ill or badly injured, but need less care than people in intensive care",
+      "entry": "high dependency unit",
+      "id": "high-dependency-unit#high-dependency-unit__1"
+    },
+    {
+      "comment": "the [department]{department} of a [hotel]{hotel} or [hospital]{hospital} that is [responsible]{responsible} for [cleaning]{cleaning} [room_1]{rooms}",
+      "entry": "housekeeping",
+      "id": "housekeeping#housekeeping__4"
+    },
+    {
+      "comment": "an intensive care unit in a hospital",
+      "entry": "ICU",
+      "id": "icu#icu__1"
+    },
+    {
+      "comment": "the [department]{department} of a [hospital]{hospital} for [people_1]{people} who are so [sick_1]{sick} or [badly]{badly} [injured]{injured} that they [need_1]{need} to have [special_1]{special} [medical_1]{medical} [care_1]{care} and be [watch_1]{watched} very [closely]{closely}",
+      "entry": "intensive care",
+      "id": "intensive-care#intensive-care__1"
+    },
+    {
+      "comment": "the part of a [hospital]{hospital} where [pregnant]{pregnant} [women]{women} or [women]{women} who have [just_1]{just} [given_1]{given} [birth]{birth} to [baby_1]{babies} are [care_1]{cared} for",
+      "entry": "maternity ward",
+      "id": "maternity-ward#maternity-ward__1"
+    },
+    {
+      "comment": "an [area]{area} in a [hospital]{hospital} where [new]{new} [baby_1]{babies} are [taken_1]{taken} [care_1]{care} of until they go [home_1]{home}",
+      "entry": "nursery",
+      "id": "nursery#nursery__8"
+    },
+    {
+      "comment": "a [room_1]{room} in a [hospital]{hospital} where [doctor_1]{doctors} [perform]{perform} [medical_1]{medical} [operation]{operations}",
+      "entry": "operating room",
+      "id": "operating-room#operating-room__1"
+    },
+    {
+      "comment": "an [operate]{operating} [room_1]{room}, [especially]{especially} one with a [separate_1]{separate} part where [medical_1]{medical} [student]{students} [sit]{sit} and [watch_1]{watch}",
+      "entry": "operating theater",
+      "id": "operating-theater#operating-theater__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [hospital]{hospital} for [mental#mental__12]{mentally} ill [people_1]{people}, with [soft]{soft} [material_1]{material} on the [wall_1]{walls} so that they cannot [hurt_1]{hurt} themselves",
+      "entry": "padded cell",
+      "id": "padded-cell#padded-cell__1"
+    },
+    {
+      "comment": "the part of a [store_1]{store} or [hospital]{hospital} where [medicine]{medicines} are [prepared]{prepared}",
+      "entry": "pharmacy",
+      "id": "pharmacy#pharmacy__2"
+    },
+    {
+      "comment": "a [room_1]{room} where someone who is [sick_1]{sick} [rest_1]{rests} or [get]{gets} [medical_1]{medical} [treatment]{treatment}",
+      "entry": "sickroom",
+      "id": "sickroom#sickroom__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [hospital]{hospital} where [doctor_1]{doctors} do [surgery]{surgery}",
+      "entry": "surgery",
+      "id": "surgery#surgery__4"
+    },
+    {
+      "comment": "an [operate]{operating} [room_1]{room} in a [hospital]{hospital}",
+      "entry": "theater",
+      "id": "theater#theater__13"
+    },
+    {
+      "comment": "a [department]{department} of an [institution]{institution}, [especially]{especially} a [hospital]{hospital}, that has a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "unit",
+      "id": "unit#unit__5"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} in a [hospital]{hospital} with [bed_1]{beds} for [people_1]{people} to [stay_1]{stay} in",
+      "entry": "ward",
+      "id": "ward_1#ward_1__1"
+    }
+  ],
+  "thesaurus": "Rooms and departments in hospitals and clinics",
+  "type": "Related words"
+}

@@ -1,0 +1,121 @@
+{
+  "entries": [
+    {
+      "comment": "an [old]{old} [word_1]{word} for a [place_1]{place} where [people_1]{people} go to [drink_1]{drink} [beer]{beer}",
+      "entry": "alehouse",
+      "id": "alehouse#alehouse__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you go to [buy_1]{buy} and [drink_1]{drink} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "bar",
+      "id": "bar_1#bar_1__1"
+    },
+    {
+      "comment": "an [area]{area} [outside]{outside} a [bar_1]{bar} where [people_1]{people} can [sit]{sit} at [table_1]{tables} and [drink_1]{drink}",
+      "entry": "beer garden",
+      "id": "beer-garden#beer-garden__1"
+    },
+    {
+      "comment": "a [small_1]{small} [restaurant]{restaurant} or [bar_1]{bar}",
+      "entry": "bistro",
+      "id": "bistro#bistro__1"
+    },
+    {
+      "comment": "a [place_1]{place} you go to in the [evening_1]{evening} for [entertainment]{entertainment}",
+      "entry": "club",
+      "id": "club_1#club_1__10"
+    },
+    {
+      "comment": "a [place_1]{place} you go to in the [evening_1]{evening} to [dance_1]{dance} and [drink_1]{drink}",
+      "entry": "club",
+      "id": "club_1#club_1__13"
+    },
+    {
+      "comment": "a [bar_1]{bar}, often in a [hotel]{hotel} or [club_1]{club}, where you can [buy_1]{buy} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "cocktail lounge",
+      "id": "cocktail-lounge#cocktail-lounge__1"
+    },
+    {
+      "comment": "a [bar_1]{bar} or [club_1]{club} that is [dirty_1]{dirty}, [inexpensive]{inexpensive}, and [unpleasant]{unpleasant}",
+      "entry": "dive",
+      "id": "dive_2#dive_2__10"
+    },
+    {
+      "comment": "a [noisy]{noisy} [bar_1]{bar}, often in a [bad_1]{bad} part of a [city]{city}, where [honky-tonk_1]{honky-tonk} is [play_1]{played}",
+      "entry": "honky-tonk",
+      "id": "honky-tonk_1#honky-tonk_1__2"
+    },
+    {
+      "comment": "a [pub]{pub}",
+      "entry": "hotel",
+      "id": "hotel#hotel__8"
+    },
+    {
+      "comment": "a [restaurant]{restaurant}, [hotel]{hotel}, [bar_1]{bar}, or [club_1]{club}",
+      "entry": "the house",
+      "id": "house_1#house_1__11"
+    },
+    {
+      "comment": "a [small_1]{small} [hotel]{hotel} or [bar_1]{bar}, [especially]{especially} one in the [country]{country}",
+      "entry": "inn",
+      "id": "inn#inn__1"
+    },
+    {
+      "comment": "a [restaurant]{restaurant}, [bar_1]{bar}, or [club_1]{club}, [especially]{especially} one that is [inexpensive]{inexpensive} and not very [nice]{nice}",
+      "entry": "joint",
+      "id": "joint_2#joint_2__8"
+    },
+    {
+      "comment": "a [place_1]{place} where [people_1]{people} go to [drink_1]{drink} [alcohol]{alcohol}, [especially]{especially} in the U.K. and Ireland",
+      "entry": "pub",
+      "id": "pub#pub__1"
+    },
+    {
+      "comment": "a [pub]{pub}",
+      "entry": "public house",
+      "id": "public-house#public-house__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [buy_1]{buy} and [drink_1]{drink} [alcoholic_1]{alcoholic} [drink_1]{drinks}",
+      "entry": "saloon",
+      "id": "saloon#saloon__1"
+    },
+    {
+      "comment": "in [south_1]{South} African [township]{townships}, an [informal]{informal} [place_1]{place} where [alcoholic_1]{alcoholic} [drink_1]{drinks} are [sold]{sold}",
+      "entry": "shebeen",
+      "id": "shebeen#shebeen__2"
+    },
+    {
+      "comment": "a [club_1]{club} with a [bar_1]{bar} for [people_1]{people} who [belong]{belong} to a [particular_1]{particular} [organization]{organization}",
+      "entry": "social club",
+      "id": "social-club#social-club__1"
+    },
+    {
+      "comment": "a place that illegally served alcoholic drinks in the U.S. during Prohibition  (=the period from 1920 to 1933 when the sale of alcohol was illegal)",
+      "entry": "speakeasy",
+      "id": "speakeasy#speakeasy__1"
+    },
+    {
+      "comment": "an [old]{old} [word_1]{word} [meaning_1]{meaning} \u201c[bar_1]{bar}\u201d",
+      "entry": "tavern",
+      "id": "tavern#tavern__1"
+    },
+    {
+      "comment": "a [bar_1]{bar} or other [place_1]{place} where [people_1]{people} go to [drink_1]{drink} [alcohol]{alcohol}",
+      "entry": "watering hole",
+      "id": "watering-hole#watering-hole__2"
+    },
+    {
+      "comment": "a [small_1]{small} [area]{area} [built_1]{built} for [serving]{serving} [alcoholic_1]{alcoholic} [drink_1]{drinks} in a [house_1]{house} or [private_1]{private} [room_1]{room}",
+      "entry": "wet bar",
+      "id": "wet-bar#wet-bar__1"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [drink_1]{drink} [wine_1]{wine} and [eat]{eat} a [meal]{meal}",
+      "entry": "wine bar",
+      "id": "wine-bar#wine-bar__1"
+    }
+  ],
+  "thesaurus": "Bars, pubs and clubs",
+  "type": "Related words"
+}

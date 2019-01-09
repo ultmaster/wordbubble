@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "head off",
+  "senses": [
+    {
+      "def": "to [prevent]{prevent} something from [take_1]{taking} [place_1]{place}",
+      "examples": [
+        "The [police_1]{police} [act_2]{acted} [quickly]{quickly} and [managed]{managed} to [head_1]{head} off a [violent]{violent} [confrontation]{confrontation}."
+      ],
+      "id": "head-off__1"
+    },
+    {
+      "def": "to [leave_1]{leave}",
+      "examples": [
+        "We should be [heading]{heading} off [soon]{soon}."
+      ],
+      "id": "head-off__3"
+    },
+    {
+      "def": "to [prevent]{prevent} someone from [going_1]{going} somewhere by [get]{getting} in front of them",
+      "examples": [
+        "[let_1]{Let}\u2019s [try_1]{try} and [head_1]{head} them off before they cross the [bridge_1]{bridge}."
+      ],
+      "id": "head-off__5"
+    }
+  ]
+}

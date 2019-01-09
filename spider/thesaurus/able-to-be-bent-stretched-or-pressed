@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[able_1]{able} to [bend_1]{bend} or move [easily]{easily}",
+      "entry": "flexible",
+      "id": "flexible#flexible__4"
+    },
+    {
+      "comment": "[soft]{soft} and [easy_1]{easy} to move or [bend_1]{bend}",
+      "entry": "yielding",
+      "id": "yielding#yielding__1"
+    },
+    {
+      "comment": "[able_1]{able} to [bend_1]{bend} or [change_1]{change} [shape_1]{shape} [easily]{easily} without [b-boying]{breaking}",
+      "entry": "pliable",
+      "id": "pliable#pliable__1"
+    },
+    {
+      "comment": "[soft]{soft} and [change_1]{changing} [shape_1]{shape} when [pressed]{pressed}",
+      "entry": "pliant",
+      "id": "pliant#pliant__1"
+    },
+    {
+      "comment": "a [supple]{supple} [object_1]{object} or [material_1]{material} is [soft]{soft} and [bend_1]{bends} [easily]{easily}",
+      "entry": "supple",
+      "id": "supple#supple__1"
+    },
+    {
+      "comment": "something that is [elastic_1]{elastic} can be [stretched]{stretched} [easily]{easily} and can then [return_1]{return} to its [original_1]{original} [shape_1]{shape} [quickly]{quickly}",
+      "entry": "elastic",
+      "id": "elastic_2#elastic_2__3"
+    },
+    {
+      "comment": "a [soft]{soft} [substance]{substance} is [easy_1]{easy} to [press_1]{press} or [shape_1]{shape} and is not [hard_1]{hard} or [firm_1]{firm}",
+      "entry": "soft",
+      "id": "soft#soft__1"
+    },
+    {
+      "comment": "a [plastic_1]{plastic} [substance]{substance} can be [bent_1]{bent} into any [shape_1]{shape} and will keep that [shape_1]{shape}",
+      "entry": "plastic",
+      "id": "plastic_2#plastic_2__4"
+    },
+    {
+      "comment": "a [substance]{substance} or [object_1]{object} that is [resilient]{resilient} is [able_1]{able} to [return_1]{return} to its [original_1]{original} [shape_1]{shape} after being [bent_1]{bent}, [stretched]{stretched}, or [pressed]{pressed}",
+      "entry": "resilient",
+      "id": "resilient#resilient__2"
+    },
+    {
+      "comment": "a [malleable]{malleable} [metal_1]{metal} or [substance]{substance} is [easy_1]{easy} to [press_1]{press} into [different]{different} [shape_1]{shapes}",
+      "entry": "malleable",
+      "id": "malleable#malleable__1"
+    }
+  ],
+  "thesaurus": "Able to be bent, stretched or pressed",
+  "type": "Synonyms"
+}

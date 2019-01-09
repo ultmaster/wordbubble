@@ -1,0 +1,28 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [trip_1]{trip} in which you [visit_1]{visit} several [place_1]{places} for [pleasure]{pleasure}",
+      "examples": [
+        "We went on a 10-day tour of [central]{central} Africa.",
+        "[walking_1]{walking} [tour_1]{tours} in the [forest]{forests} of [northern]{northern} California",
+        "The [group_1]{group} is [currently]{currently} on tour in Europe.",
+        "They [begin]{begin} a [world]{world} tour with four [concert]{concerts} in Brazil.",
+        "The [new]{New} England [leg_1]{leg} of the tour was [cancel]{canceled} for [lack_1]{lack} of [ticket_1]{ticket} [sale]{sales}.",
+        "The [president_1]{president} [plan_1]{plans} a European tour next [month]{month}."
+      ],
+      "id": "tour_1__1"
+    },
+    {
+      "def": "a [short_1]{short} [trip_1]{trip} around a [building]{building} or [place_1]{place} in [order_1]{order} to see what is there",
+      "examples": [
+        "We were [taken_1]{taken} on a tour of the [factory]{factory}.",
+        "Every [weekend_1]{weekend} there are [free_1]{free} [guide_2]{guided} [tour_1]{tours} of the [museum]{museum}.",
+        "Take the tour to see how you can [learn]{learn} to [speak_1]{speak} Gaelic.",
+        "Take a [virtual]{virtual} tour of Venice."
+      ],
+      "id": "tour_1__11"
+    }
+  ],
+  "word": "tour"
+}

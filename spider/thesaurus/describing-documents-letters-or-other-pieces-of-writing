@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that is [written_1]{written} [involve]{involves} [writing]{writing} and not [speak_1]{speaking} or [drawing]{drawing}",
+      "entry": "written",
+      "id": "written_1#written_1__1"
+    },
+    {
+      "comment": "in [writing]{writing}",
+      "entry": "on paper",
+      "id": "on-paper#on-paper__1"
+    },
+    {
+      "comment": "[sent]{sent} to many [people_1]{people} at the same time",
+      "entry": "circular",
+      "id": "circular_1#circular_1__6"
+    },
+    {
+      "comment": "a [newsy]{newsy} [letter_1]{letter} is full of [information]{information} about what is [happening_1]{happening} in someone\u2019s [personal_1]{personal} [life]{life}",
+      "entry": "newsy",
+      "id": "newsy#newsy__1"
+    },
+    {
+      "comment": "[relate]{relating} to [piece_1]{pieces} of [writing]{writing}",
+      "entry": "textual",
+      "id": "textual#textual__1"
+    },
+    {
+      "comment": "a [returnable]{returnable} [document_1]{document} is one that you must [deal_1]{deal} with and [send_1]{send} back to someone, [usually]{usually} within a [particular_1]{particular} [period_1]{period} of time and often to a [court_1]{court} of [law]{law}",
+      "entry": "returnable",
+      "id": "returnable#returnable__4"
+    },
+    {
+      "comment": "an [unanswered]{unanswered} [letter_1]{letter} or [message_1]{message} has not had a [reply_1]{reply}",
+      "entry": "unanswered",
+      "id": "unanswered#unanswered__3"
+    },
+    {
+      "comment": "a [valid]{valid} [document_1]{document} or [ticket_1]{ticket} will be [accepted]{accepted} by [official_2]{officials}",
+      "entry": "valid",
+      "id": "valid#valid__1"
+    },
+    {
+      "comment": "[sent]{sent} in an [envelope]{envelope} with a [letter_1]{letter}",
+      "entry": "enclosed",
+      "id": "enclosed#enclosed__3"
+    },
+    {
+      "comment": "in a [written_1]{written} or [print_1]{printed} form, and therefore more [likely_1]{likely} to be [true_1]{true} or [definite]{definite}",
+      "entry": "in black and white",
+      "id": "in-black-and-white#in-black-and-white__1"
+    }
+  ],
+  "thesaurus": "Describing documents, letters or other pieces of writing",
+  "type": "Synonyms"
+}

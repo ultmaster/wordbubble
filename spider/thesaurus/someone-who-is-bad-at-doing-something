@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [does]{does} not do something very well",
+      "entry": "amateur",
+      "id": "amateur_1#amateur_1__2"
+    },
+    {
+      "comment": "someone who [lack_2]{lacks} the [ability_1]{ability} or [skill]{skills} to do something",
+      "entry": "incompetent",
+      "id": "incompetent_2#incompetent_2__1"
+    },
+    {
+      "comment": "someone in [business]{business} who [provide]{provides} [goods]{goods} or [service_1]{services} that are of very [bad_1]{bad} [quality_1]{quality}",
+      "entry": "cowboy",
+      "id": "cowboy#cowboy__3"
+    }
+  ],
+  "thesaurus": "Someone who is bad at doing something",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [action_1]{action} or [statement_1]{statement} [telling]{telling} someone of a [possible_1]{possible} [problem]{problem} or [danger]{danger}",
+      "entry": "warning",
+      "id": "warning#warning__1"
+    },
+    {
+      "comment": "[information]{information} or a [warning]{warning} about something that is [going_1]{going} to [happen]{happen}",
+      "entry": "notice",
+      "id": "notice_2#notice_2__7"
+    },
+    {
+      "comment": "a [warning]{warning} that you should be [careful]{careful}",
+      "entry": "caution",
+      "id": "caution_1#caution_1__10"
+    },
+    {
+      "comment": "a [warning]{warning} that something [dangerous]{dangerous} has [happen]{happened} or is [going_1]{going} to [happen]{happen}",
+      "entry": "alert",
+      "id": "alert_3#alert_3__1"
+    },
+    {
+      "comment": "a [warning]{warning} that something very [dangerous]{dangerous} is [likely_1]{likely} to [happen]{happen}",
+      "entry": "red alert",
+      "id": "red-alert#red-alert__1"
+    },
+    {
+      "comment": "an [official_1]{official} [warning]{warning}",
+      "entry": "advisory",
+      "id": "advisory_2#advisory_2__1"
+    },
+    {
+      "comment": "[instruction]{instructions} and [warning]{warnings} about what you should and should not do in a [particular_1]{particular} [situation]{situation}",
+      "entry": "do\u2019s and don\u2019ts",
+      "id": "do-s-and-don-ts#do-s-and-don-ts__1"
+    },
+    {
+      "comment": "[warning]{warning} of a [future_1]{future} [event]{event} that comes [early_1]{early} enough for you to [prepare]{prepare} for it",
+      "entry": "early warning",
+      "id": "early-warning#early-warning__1"
+    },
+    {
+      "comment": "something that [make_1]{makes} you [feel_1]{feel} something [unpleasant]{unpleasant} or [dangerous]{dangerous} is [going_1]{going} to [happen]{happen}",
+      "entry": "alarm bells",
+      "id": "alarm-bell#alarm-bell__2"
+    },
+    {
+      "comment": "[used]{used} when a [situation]{situation} becomes an [emergency_1]{emergency}",
+      "entry": "code red",
+      "id": "code-red#code-red__1"
+    }
+  ],
+  "thesaurus": "Warning and warnings",
+  "type": "Synonyms"
+}

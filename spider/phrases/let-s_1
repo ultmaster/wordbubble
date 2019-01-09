@@ -1,0 +1,44 @@
+{
+  "part": "phrase",
+  "phrase": "let\u2019s",
+  "senses": [
+    {
+      "def": "[used]{used} for [suggest]{suggesting} that you and one or more other [people_1]{people} do something",
+      "examples": [
+        "[let_1]{Let}\u2019s [eat]{eat} now.",
+        "\u201cDo you [want_1]{want} to [leave_1]{leave}?\u201d \u201c[yes_1]{Yes}, [let_1]{let}\u2019s!\u201d",
+        "[let_1]{Let} us be [thankful]{thankful} for each other."
+      ],
+      "id": "let-s_1__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that someone must [admit]{admit} that a [situation]{situation} [exist]{exists}",
+      "examples": [
+        "[let_1]{Let}\u2019s [face_1]{face} it \u2013 he\u2019s not [cut_1]{cut} out for this [job_1]{job}."
+      ],
+      "id": "let-s_1__5"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [hope_1]{hope} something is [true_1]{true} or will [happen]{happen}",
+      "examples": [
+        "[let_1]{Let}\u2019s [hope_1]{hope} she never [find_1]{finds} out the [truth]{truth}.",
+        "\u201cI\u2019m [sure_1]{sure} it\u2019s nothing to [worry_1]{worry} about.\u201d \u201c[let_1]{Let}\u2019s [hope_1]{hope} you\u2019re [right_1]{right}.\u201d"
+      ],
+      "id": "let-s_1__7"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you are not [going_1]{going} to [tell_1]{tell} all the [detail_1]{details} about something",
+      "examples": [
+        "[let_1]{Let}\u2019s [just_1]{just} [say_1]{say} it wasn\u2019t her [best_1]{best} [performance]{performance}."
+      ],
+      "id": "let-s_1__10"
+    },
+    {
+      "def": "[used]{used} for [suggest]{suggesting} that a [possible_1]{possible} [situation]{situation} [need_1]{needs} to be [considered]{considered}",
+      "examples": [
+        "[let_1]{Let}\u2019s [suppose]{suppose} you [lose]{lose}. What will you do then?"
+      ],
+      "id": "let-s_1__12"
+    }
+  ]
+}

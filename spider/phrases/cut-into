@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "cut into",
+  "senses": [
+    {
+      "def": "to [reduce]{reduce} an amount of something that is [available]{available}, [especially]{especially} time or [money]{money}",
+      "examples": [
+        "The [teaching]{teaching} [day]{days} I do [really]{really} [cut_1]{cut} into my time at [home_1]{home}."
+      ],
+      "id": "cut-into__1"
+    },
+    {
+      "def": "to [interrupt]{interrupt} an [activity]{activity} or [process_1]{process}",
+      "examples": [
+        "A [loud_1]{loud} [rap_1]{rap} on his [office]{office} [door_1]{door} [cut_1]{cut} into his [thought_1]{thoughts}."
+      ],
+      "id": "cut-into__3"
+    }
+  ]
+}

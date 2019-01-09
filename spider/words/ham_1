@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [meat]{meat} from the top part of the back [legs]{legs} of a [pig_1]{pig}, [preserve_1]{preserved} [use_1]{using} [salt_1]{salt} or [smoke_1]{smoke}",
+      "examples": [
+        "a [slice_1]{slice} of ham",
+        "a ham [sandwich_1]{sandwich}"
+      ],
+      "id": "ham_1__1"
+    },
+    {
+      "def": "a [bad_1]{bad} [actor]{actor} who has an [artificial]{artificial} [style_1]{style} of [perform]{performing}",
+      "examples": [
+        "an [old]{old} ham",
+        "a ham [actor]{actor}"
+      ],
+      "id": "ham_1__5"
+    },
+    {
+      "def": "someone who [send_1]{sends} and [receive]{receives} [radio_1]{radio} [message_1]{messages} for [fun_1]{fun}",
+      "examples": [
+        "a [radio_1]{radio} ham",
+        "a ham [radio_1]{radio} [station_1]{station}"
+      ],
+      "id": "ham_1__8"
+    }
+  ],
+  "word": "ham"
+}

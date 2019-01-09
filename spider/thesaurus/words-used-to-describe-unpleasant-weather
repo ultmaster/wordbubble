@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[severe]{severe} [weather_1]{weather} is [extremely]{extremely} [unpleasant]{unpleasant} and [likely_1]{likely} to cause [harm_1]{harm} or [damage_1]{damage}",
+      "entry": "severe",
+      "id": "severe#severe__8"
+    },
+    {
+      "comment": "[harsh_1]{harsh} [weather_1]{weather} is [extremely]{extremely} [cold_1]{cold} and [unpleasant]{unpleasant}",
+      "entry": "harsh",
+      "id": "harsh#harsh__4"
+    },
+    {
+      "comment": "[threatening]{threatening} [cloud_1]{clouds}, [skies]{skies}, or [sea_1]{seas} show that the [weather_1]{weather} is [likely_1]{likely} to be [bad_1]{bad}",
+      "entry": "threatening",
+      "id": "threatening#threatening__5"
+    },
+    {
+      "comment": "[fierce]{fierce} [weather_1]{weather} is very [strong]{strong} or [severe]{severe}",
+      "entry": "fierce",
+      "id": "fierce#fierce__8"
+    },
+    {
+      "comment": "[hot]{hot} and [wet_1]{wet} in a way that [make_1]{makes} you [feel_1]{feel} [uncomfortable]{uncomfortable}",
+      "entry": "humid",
+      "id": "humid#humid__1"
+    },
+    {
+      "comment": "[sultry]{sultry} [weather_1]{weather} is [unpleasant]{unpleasant} because the [air_1]{air} is [hot]{hot} and [slightly]{slightly} [wet_1]{wet}",
+      "entry": "sultry",
+      "id": "sultry#sultry__1"
+    },
+    {
+      "comment": "[muggy]{muggy} [weather_1]{weather} is [warm_1]{warm} in an [unpleasant]{unpleasant} way because the [air_1]{air} [feels]{feels} [wet_1]{wet}",
+      "entry": "muggy",
+      "id": "muggy#muggy__1"
+    },
+    {
+      "comment": "inclement weather is bad, usually because it is wet, cold, or windy",
+      "entry": "inclement",
+      "id": "inclement#inclement__1"
+    },
+    {
+      "comment": "[raw_1]{raw} [weather_1]{weather} is [cold_1]{cold} and [unpleasant]{unpleasant}",
+      "entry": "raw",
+      "id": "raw_1#raw_1__21"
+    },
+    {
+      "comment": "[unseasonable]{unseasonable} [weather_1]{weather} is not the [type_1]{type} of [weather_1]{weather} that you [expect]{expect} in a [particular_1]{particular} [season_1]{season}",
+      "entry": "unseasonable",
+      "id": "unseasonable#unseasonable__1"
+    }
+  ],
+  "thesaurus": "Words used to describe unpleasant weather",
+  "type": "Synonyms"
+}

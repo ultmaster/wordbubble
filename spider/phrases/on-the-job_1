@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "on the job",
+  "senses": [
+    {
+      "def": "[working]{working} at a [particular_1]{particular} [job_1]{job}",
+      "examples": [
+        "Jenkins was put on the [job_1]{job} at the last [minute_1]{minute}."
+      ],
+      "id": "on-the-job_1__1"
+    },
+    {
+      "def": "while you are [working]{working}",
+      "examples": [
+        "[trainee]{Trainee} [journalist]{journalists} [soon]{soon} [learn]{learn} the [importance]{importance} of [deadline]{deadlines}, on the [job_1]{job}.",
+        "[young_1]{young} [diplomat]{diplomats} [get]{getting} [on-the-job_2]{on-the-job} [training]{training}"
+      ],
+      "id": "on-the-job_1__3"
+    }
+  ]
+}

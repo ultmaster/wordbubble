@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [start_1]{start} to have more [color_1]{color} or [light_1]{light}",
+      "examples": [
+        "The [sky_1]{sky} [slowly]{slowly} [brighten]{brightened}.",
+        "[light_1]{Light} [color_1]{colors} brighten a [dark_1]{dark} [room_1]{room}."
+      ],
+      "id": "brighten__1"
+    },
+    {
+      "def": "to [start_1]{start} [look_1]{looking} or [feeling_1]{feeling} [happy_1]{happier}",
+      "examples": [
+        "She [frown_1]{frowned} [anxious#anxious__10]{anxiously}, then [suddenly]{suddenly} her [face_1]{face} [brighten]{brightened}."
+      ],
+      "id": "brighten__5"
+    }
+  ],
+  "word": "brighten"
+}

@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "a [children]{children}\u2019s [soft]{soft} [toy_1]{toy} that [look_1]{looks} [like_1]{like} a [friendly_1]{friendly} [bear_1]{bear}",
+      "entry": "bear",
+      "id": "bear_2#bear_2__2"
+    },
+    {
+      "comment": "a [children]{children}\u2019s [toy_1]{toy} in the [shape_1]{shape} of a [small_1]{small} [person]{person}",
+      "entry": "doll",
+      "id": "doll_1#doll_1__1"
+    },
+    {
+      "comment": "a [doll_1]{doll}",
+      "entry": "dolly",
+      "id": "dolly#dolly__2"
+    },
+    {
+      "comment": "a hand [puppet]{puppet}",
+      "entry": "glove puppet",
+      "id": "glove-puppet#glove-puppet__1"
+    },
+    {
+      "comment": "a child\u2019s toy that looks like a small man with a black face and black hair. Golliwogs are no longer produced because they are considered offensive to black people.",
+      "entry": "golliwog",
+      "id": "golliwog#golliwog__1"
+    },
+    {
+      "comment": "a [golliwog]{golliwog}",
+      "entry": "golly",
+      "id": "golly_2#golly_2__1"
+    },
+    {
+      "comment": "a type of puppet that you move by putting your hand inside",
+      "entry": "hand puppet",
+      "id": "hand-puppet#hand-puppet__1"
+    },
+    {
+      "comment": "a [small_1]{small} [model_1]{model} of a [person]{person} or [animal_1]{animal} that [hang_1]{hangs} from [string_1]{strings} or [wire_1]{wires} that are [used]{used} for [making]{making} it move",
+      "entry": "marionette",
+      "id": "marionette#marionette__1"
+    },
+    {
+      "comment": "a [small_1]{small} [model_1]{model} of a [person]{person} or [animal_1]{animal} that you can move by [pull_1]{pulling} [wire_1]{wires} or [string_1]{strings}, or by [put]{putting} your hand [inside_1]{inside} it",
+      "entry": "puppet",
+      "id": "puppet#puppet__1"
+    },
+    {
+      "comment": "a child\u2019s doll made of cloth",
+      "entry": "rag doll",
+      "id": "rag-doll#rag-doll__1"
+    },
+    {
+      "comment": "a type of rag doll popular in the U.S. It has a round face with red circles on the cheeks and hair made from red wool",
+      "entry": "Raggedy Ann",
+      "id": "raggedy-ann#raggedy-ann__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [human_1]{human} or [animal_1]{animal} [shape_1]{shape} [attached]{attached} to thin [stick_1]{sticks}. [people_1]{People} use [shadow_1]{shadow} [puppet]{puppets} for [telling]{telling} a [story]{story} by [moving]{moving} them in front of a [light_1]{light} to [make_1]{make} [shadow_1]{shadows} on a [screen_1]{screen}.",
+      "entry": "shadow puppet",
+      "id": "shadow-puppet#shadow-puppet__1"
+    },
+    {
+      "comment": "a [soft]{soft} [toy_1]{toy} in the [shape_1]{shape} of an [animal_1]{animal}",
+      "entry": "stuffed animal",
+      "id": "stuffed-animal#stuffed-animal__1"
+    },
+    {
+      "comment": "a [teddy]{teddy} [bear_1]{bear}",
+      "entry": "teddy",
+      "id": "teddy#teddy__2"
+    },
+    {
+      "comment": "a [soft]{soft} [toy_1]{toy} [bear_1]{bear}",
+      "entry": "teddy bear",
+      "id": "teddy-bear#teddy-bear__1"
+    }
+  ],
+  "thesaurus": "Dolls, puppets and soft toys",
+  "type": "Related words"
+}

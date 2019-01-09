@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an unanswered [question_1]{question} or [problem]{problem} has not been [answer_1]{answered} or [solve]{solved}",
+      "examples": [
+        "Several [key_1]{key} [question_1]{questions} [concerning_1]{concerning} the [incident]{incident} [remain]{remain} unanswered."
+      ],
+      "id": "unanswered__1"
+    },
+    {
+      "def": "an unanswered [letter_1]{letter} or [message_1]{message} has not had a [reply_1]{reply}",
+      "examples": [],
+      "id": "unanswered__3"
+    }
+  ],
+  "word": "unanswered"
+}

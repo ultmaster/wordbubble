@@ -1,0 +1,446 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [describe]{describing} the [area]{area} of a computer [screen_1]{screen} that is being [used]{used} or is ready to [accept]{accept} [information]{information} from the [user]{user}",
+      "entry": "active",
+      "id": "active#active__24"
+    },
+    {
+      "comment": "[change_1]{changing} in [response]{response} to what a [user]{user} [does]{does}",
+      "entry": "adaptive",
+      "id": "adaptive#adaptive__2"
+    },
+    {
+      "comment": "antivirus software finds and removes computer viruses  (=harmful programs) before they can damage your computer system",
+      "entry": "antivirus",
+      "id": "antivirus#antivirus__1"
+    },
+    {
+      "comment": "[relate]{relating} to an [electronic]{electronic} [communication]{communication} [method]{method} that [send_1]{sends} [information]{information} in one [direction]{direction}, one [character]{character} at a time",
+      "entry": "asynchronous",
+      "id": "asynchronous#asynchronous__1"
+    },
+    {
+      "comment": "computer [software]{software} that is [backward-compatible]{backward-compatible} can [operate]{operate} with [previous_1]{previous} [piece_1]{pieces} of [software]{software} of the same [type_1]{type}",
+      "entry": "backward-compatible",
+      "id": "backward-compatible#backward-compatible__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a computer [product]{product} that is the [best_1]{best} [available]{available} of its [type_1]{type}",
+      "entry": "best-of-breed",
+      "id": "best-of-breed#best-of-breed__2"
+    },
+    {
+      "comment": "[relate]{relating} to [data]{data} that is [sent]{sent} in at [short_1]{short} [sudden_1]{sudden} [period_1]{periods} of [activity]{activity}",
+      "entry": "bursty",
+      "id": "bursty#bursty__1"
+    },
+    {
+      "comment": "a [case-sensitive]{case-sensitive} computer [program_1]{program} is [able_1]{able} to [recognize]{recognize} the [difference]{difference} between the [large_1]{large} [form_1]{forms} of [letter_1]{letters}, A, B, C, etc. and their and [small_1]{small} [form_1]{forms}, a, b, c, etc.",
+      "entry": "case-sensitive",
+      "id": "case-sensitive#case-sensitive__1"
+    },
+    {
+      "comment": "if something on a computer [screen_1]{screen} is [clickable]{clickable}, you [make_1]{make} it [work_1]{work} by [click_1]{clicking} on it with the [mouse_1]{mouse}",
+      "entry": "clickable",
+      "id": "clickable#clickable__1"
+    },
+    {
+      "comment": "the [fact]{fact} that [different]{different} [piece_1]{pieces} of computer [equipment]{equipment} and [software]{software} can be [used]{used} together",
+      "entry": "compatibility",
+      "id": "compatibility#compatibility__3"
+    },
+    {
+      "comment": "if one [piece_1]{piece} of computer [equipment]{equipment} or [software]{software} is [compatible]{compatible} with another, they can be [used]{used} together",
+      "entry": "compatible",
+      "id": "compatible#compatible__3"
+    },
+    {
+      "comment": "[involve]{involving} the use of [computer]{computers}",
+      "entry": "computational",
+      "id": "computational#computational__3"
+    },
+    {
+      "comment": "[relate]{relating} to [computer]{computers}",
+      "entry": "computer",
+      "id": "computer#computer__4"
+    },
+    {
+      "comment": "[able_1]{able} to use a computer",
+      "entry": "computerate",
+      "id": "computerate#computerate__1"
+    },
+    {
+      "comment": "[store_2]{stored} on computer",
+      "entry": "computerized",
+      "id": "computerized#computerized__1"
+    },
+    {
+      "comment": "done [use_1]{using} a computer",
+      "entry": "computerized",
+      "id": "computerized#computerized__4"
+    },
+    {
+      "comment": "[able_1]{able} to use a computer",
+      "entry": "computer-literate",
+      "id": "computer-literate#computer-literate__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} two or more computer [file_1]{files} or [piece_1]{pieces} of computer [information]{information} that have been put together to form a [single_1]{single} [unit]{unit}",
+      "entry": "concatenate",
+      "id": "concatenate_2#concatenate_2__1"
+    },
+    {
+      "comment": "[corrupt_1]{corrupt} computer [program_1]{programs} or [file_1]{files} are [damage_2]{damaged} and do not [operate]{operate} [correctly]{correctly}",
+      "entry": "corrupt",
+      "id": "corrupt_1#corrupt_1__5"
+    },
+    {
+      "comment": "available for more than one type of computer or operating system",
+      "entry": "cross-platform",
+      "id": "cross-platform#cross-platform__1"
+    },
+    {
+      "comment": "the use of computer [system]{systems} that [supply_1]{supply} [information]{information} such as the [internet]{Internet} to gain an [advantage]{advantage} or [destroy]{destroy} an [enemy]{enemy}\u2019s [ability_1]{ability} to [supply_1]{supply} [information]{information}",
+      "entry": "cyberwar",
+      "id": "cyberwar#cyberwar__2"
+    },
+    {
+      "comment": "[store_2]{storing} [information]{information} such as [sound_1]{sound} or [picture_1]{pictures} as [number_1]{numbers} or [electronic]{electronic} [signal_1]{signals}",
+      "entry": "digital",
+      "id": "digital#digital__1"
+    },
+    {
+      "comment": "a [distributed]{distributed} computer system [involve]{involves} the use of several [computer]{computers} rather than one [central]{central} computer",
+      "entry": "distributed",
+      "id": "distributed#distributed__4"
+    },
+    {
+      "comment": "if a computer system is down, it is not [working]{working}",
+      "entry": "down",
+      "id": "down_1#down_1__80"
+    },
+    {
+      "comment": "time when a computer or other [machine_1]{machine} is not [working]{working}",
+      "entry": "downtime",
+      "id": "downtime#downtime__1"
+    },
+    {
+      "comment": "an [executable]{executable} [program_1]{program} or [file_1]{file} can be [used]{used} on a computer",
+      "entry": "executable",
+      "id": "executable#executable__1"
+    },
+    {
+      "comment": "a fatal error is one that stops a program from working correctly",
+      "entry": "fatal",
+      "id": "fatal#fatal__9"
+    },
+    {
+      "comment": "fifth-generation computer technology is very advanced and includes artificial intelligence",
+      "entry": "fifth-generation",
+      "id": "fifth-generation#fifth-generation__1"
+    },
+    {
+      "comment": "[gated]{gated} [software]{software} [prevent]{prevents} [people_1]{people} from [going_1]{going} to a [particular_1]{particular} [website]{website}, for [example]{example} because it no [long_1]{longer} [work_1]{works}",
+      "entry": "gated",
+      "id": "gated#gated__1"
+    },
+    {
+      "comment": "a hand [movement]{movement} that you use to [control_1]{control} something such as a [smartphone]{smartphone} or [tablet]{tablet}",
+      "entry": "gesture",
+      "id": "gesture_1#gesture_1__6"
+    },
+    {
+      "comment": "[relate]{relating} to the [sense_1]{sense} or [sensation]{sensation} of [touch_1]{touch}, [especially]{especially} in the [context]{context} of [electronic]{electronic} [technology]{technology}, [game_1]{games}, etc.",
+      "entry": "haptic",
+      "id": "haptic#haptic__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} a computer [language]{language} that is made as [similar]{similar} as [possible_1]{possible} to a [human_1]{human} [language]{language}",
+      "entry": "high-level",
+      "id": "high-level#high-level__7"
+    },
+    {
+      "comment": "an [immersive]{immersive} computer [display_1]{display} [produce_1]{produces} a [three-dimensional]{three-dimensional} [image_1]{image} that seems to [surround_1]{surround} the [user]{user}",
+      "entry": "immersive",
+      "id": "immersive#immersive__1"
+    },
+    {
+      "comment": "made or done from within an [app_1]{app}, for [example]{example} in [order_1]{order} to [add_1]{add} [feature_1]{features}, [access_1]{access} [new]{new} [content_1]{content} or get [upgrade_1]{upgrades}",
+      "entry": "in-app",
+      "id": "in-app#in-app__1"
+    },
+    {
+      "comment": "[intelligent]{intelligent} [software]{software} is [able_1]{able} to [react]{react} and [deal_1]{deal} with [change_1]{changes} or [different]{different} [situation]{situations} in a way that is [similar]{similar} to [human_1]{human} [intelligence]{intelligence}",
+      "entry": "intelligent",
+      "id": "intelligent#intelligent__8"
+    },
+    {
+      "comment": "an [interactive]{interactive} computer [program_1]{program}, [video_1]{video}, etc. [react]{reacts} to the [information]{information} and [instruction]{instructions} that you give it",
+      "entry": "interactive",
+      "id": "interactive#interactive__1"
+    },
+    {
+      "comment": "an [intuitive]{intuitive} system, [method]{method}, [piece_1]{piece} of [software]{software}, etc. is [easy_1]{easy} to use because the [process_1]{process} of [operate]{operating} it is very [obvious]{obvious}",
+      "entry": "intuitive",
+      "id": "intuitive#intuitive__5"
+    },
+    {
+      "comment": "not [acceptable]{acceptable} as a computer [instruction]{instruction} or [operation]{operation}",
+      "entry": "invalid",
+      "id": "invalid_1#invalid_1__5"
+    },
+    {
+      "comment": "still [used]{used} although it is no [long_1]{longer} the most [modern]{modern} or [advanced]{advanced}, because it would be very [expensive]{expensive} or [difficult]{difficult} to [replace]{replace}",
+      "entry": "legacy",
+      "id": "legacy#legacy__9"
+    },
+    {
+      "comment": "used to describe a type of compression (= reducing the size of a computer file) that involves the loss of some data",
+      "entry": "lossy",
+      "id": "lossy#lossy__1"
+    },
+    {
+      "comment": "a low-level language is a machine code used for writing computer programs",
+      "entry": "low-level",
+      "id": "low-level#low-level__1"
+    },
+    {
+      "comment": "[able_1]{able} to be [used]{used} by a computer",
+      "entry": "machine-readable",
+      "id": "machine-readable#machine-readable__1"
+    },
+    {
+      "comment": "[mouse-driven]{mouse-driven} [software]{software} [use_1]{uses} a [mouse_1]{mouse} rather than a [keyboard_1]{keyboard} to [receive]{receive} [instruction]{instructions}",
+      "entry": "mouse-driven",
+      "id": "mouse-driven#mouse-driven__1"
+    },
+    {
+      "comment": "a [multiaccess]{multiaccess} computer system [allow]{allows} several [user]{users} to use it at the same time",
+      "entry": "multiaccess",
+      "id": "multiaccess#multiaccess__1"
+    },
+    {
+      "comment": "[use_1]{using} [video_1]{video}, [sound_1]{sound}, and other [method]{methods} of [communication]{communication} in [computer]{computers}",
+      "entry": "multimedia",
+      "id": "multimedia#multimedia__1"
+    },
+    {
+      "comment": "[multiplatform]{multiplatform} [software]{software} can [run_1]{run} on several [different]{different} [type_1]{types} of computer system",
+      "entry": "multiplatform",
+      "id": "multiplatform#multiplatform__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which two or more [piece_1]{pieces} of computer [equipment]{equipment} or [software]{software} cannot be [used]{used} together",
+      "entry": "noncompatibility",
+      "id": "noncompatibility#noncompatibility__1"
+    },
+    {
+      "comment": "not [relate]{relating} to or [use_1]{using} [computer]{computers}, the [internet]{Internet}, or other [digital]{digital} [technology]{technology}",
+      "entry": "nondigital",
+      "id": "nondigital#nondigital__1"
+    },
+    {
+      "comment": "used for describing computer information that is impossible to get back once it has been lost or deleted",
+      "entry": "nonrecoverable",
+      "id": "nonrecoverable#nonrecoverable__1"
+    },
+    {
+      "comment": "nonvolatile computer memory can store information when the power is off, for example in read-only memory",
+      "entry": "nonvolatile",
+      "id": "nonvolatile#nonvolatile__1"
+    },
+    {
+      "comment": "an [object-oriented]{object-oriented} computer [language]{language} [use_1]{uses} a system in which [small_1]{small} [part_1]{parts} of the [program_1]{program} are [considered]{considered} as [separate_1]{separate} [object_1]{objects} that can be put together to [make_1]{make} the whole [program_1]{program}",
+      "entry": "object-oriented",
+      "id": "object-oriented#object-oriented__1"
+    },
+    {
+      "comment": "not [directly_1]{directly} [connected]{connected} to a computer",
+      "entry": "offline",
+      "id": "offline#offline__1"
+    },
+    {
+      "comment": "on a computer [screen_1]{screen}",
+      "entry": "on-screen",
+      "id": "on-screen#on-screen__3"
+    },
+    {
+      "comment": "while a computer is [running_1]{running}",
+      "entry": "on the fly",
+      "id": "on-the-fly#on-the-fly__3"
+    },
+    {
+      "comment": "peer to peer: P2P software allows computers to communicate directly with each other without going through a server",
+      "entry": "P2P",
+      "id": "p2p#p2p__1"
+    },
+    {
+      "comment": "[good_1]{good} to [play_1]{play} on a computer",
+      "entry": "playable",
+      "id": "playable#playable__2"
+    },
+    {
+      "comment": "[plug-and-play]{plug-and-play} [software]{software} or computer [equipment]{equipment} is [immediately]{immediately} ready for use when it is [connected]{connected} to a computer",
+      "entry": "plug-and-play",
+      "id": "plug-and-play#plug-and-play__1"
+    },
+    {
+      "comment": "used for describing a way of doing things on a computer by using a mouse to move a cursor on the screen and pressing the mouse button",
+      "entry": "point-and-click",
+      "id": "point-and-click#point-and-click__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of [software]{software} or [equipment]{equipment} to be [used]{used} on several [system]{systems}",
+      "entry": "portability",
+      "id": "portability#portability__1"
+    },
+    {
+      "comment": "[able_1]{able} to be [used]{used} on [different]{different} [type_1]{types} of computer",
+      "entry": "portable",
+      "id": "portable_1#portable_1__7"
+    },
+    {
+      "comment": "[relate]{relating} to a [technology]{technology} that [guess_1]{guesses} and [finish_1]{finishes} the [word_1]{word} that a computer or [cell]{cell} [phone_1]{phone} [user]{user} is [typing]{typing} before they have [finished]{finished} [typing]{typing} it",
+      "entry": "predictive",
+      "id": "predictive#predictive__1"
+    },
+    {
+      "comment": "if a computer [deal_1]{deals} with [information]{information} in [real_1]{real} time, it [deal_1]{deals} with the [information]{information} as [soon]{soon} as it [receive]{receives} it",
+      "entry": "real time",
+      "id": "real-time#real-time__1"
+    },
+    {
+      "comment": "if a [machine_1]{machine} or [manufacturing]{manufacturing} [process_1]{process} [run_1]{runs} [lights-out_2]{lights-out}, it is [controlled_1]{controlled} by a computer and [does]{does} not [need_1]{need} a [human_1]{human} to be [present_1]{present} in [order_1]{order} to [operate]{operate} or [supervise]{supervise} it",
+      "entry": "run lights-out",
+      "id": "lights-out_2#lights-out_2__2"
+    },
+    {
+      "comment": "[scalable]{scalable} [system]{systems}, [software]{software}, or [technology]{technologies} [continue]{continue} to [work_1]{work} well when they are [used]{used} on a [large_1]{large} [scale_1]{scale} or by many [people_1]{people}",
+      "entry": "scalable",
+      "id": "scalable#scalable__1"
+    },
+    {
+      "comment": "[automatically]{automatically} [correct_2]{correcting} any [typing]{typing} [mistake_1]{mistakes} made by the [user]{user} as [soon]{soon} as he or she [make_1]{makes} them",
+      "entry": "self-correcting",
+      "id": "self-correcting#self-correcting__1"
+    },
+    {
+      "comment": "[connected]{connected} with, [working]{working} with, or [cause_2]{caused} by [software]{software}",
+      "entry": "software",
+      "id": "software#software__3"
+    },
+    {
+      "comment": "[information]{information} and [instruction]{instructions} about how you use a [piece_1]{piece} of [software]{software}",
+      "entry": "software documentation",
+      "id": "software-documentation#software-documentation__1"
+    },
+    {
+      "comment": "the [crime_1]{crime} of [illegal_1#illegal_1__6]{illegally} [copy_2]{copying} or [use_1]{using} [software]{software}",
+      "entry": "software piracy",
+      "id": "software-piracy#software-piracy__1"
+    },
+    {
+      "comment": "used about an individual computer that is not part of a network",
+      "entry": "stand-alone",
+      "id": "stand-alone_2#stand-alone_2__3"
+    },
+    {
+      "comment": "used about a computer program that is not part of a suite",
+      "entry": "stand-alone",
+      "id": "stand-alone_2#stand-alone_2__4"
+    },
+    {
+      "comment": "temporary files and folders hold information that is needed only for a short time, and are often deleted  (=removed or destroyed) automatically",
+      "entry": "temporary",
+      "id": "temporary#temporary__8"
+    },
+    {
+      "comment": "[relate]{relating} to the [control_1]{control} of [electronic]{electronic} [device]{devices} by [movement]{movement} rather than [touch_1]{touch}",
+      "entry": "touchless",
+      "id": "touchless#touchless__1"
+    },
+    {
+      "comment": "[user]{user} [interface_1]{interface}: the way in which a [product]{product} or [website]{website} is [laid]{laid} out and how the [user]{user} [interact]{interacts} with it",
+      "entry": "UI",
+      "id": "ui#ui__1"
+    },
+    {
+      "comment": "an uncorrupted file or database has no mistakes or viruses",
+      "entry": "uncorrupted",
+      "id": "uncorrupted#uncorrupted__1"
+    },
+    {
+      "comment": "an unformatted computer disk has not been divided into the parts that are needed to allow information to be saved and stored",
+      "entry": "unformatted",
+      "id": "unformatted#unformatted__1"
+    },
+    {
+      "comment": "an [unintelligent]{unintelligent} computer [program_1]{program} is not [able_1]{able} to [react]{react} [immediately]{immediately} to [new]{new} [information]{information}",
+      "entry": "unintelligent",
+      "id": "unintelligent#unintelligent__3"
+    },
+    {
+      "comment": "unreadable computer disks contain information that cannot be read by a computer",
+      "entry": "unreadable",
+      "id": "unreadable#unreadable__4"
+    },
+    {
+      "comment": "a [fault_1]{fault} in computer [equipment]{equipment} or [software]{software} that [cause_1]{causes} a [program_1]{program} to [stop_1]{stop} [working]{working}",
+      "entry": "unrecoverable error",
+      "id": "unrecoverable-error#unrecoverable-error__1"
+    },
+    {
+      "comment": "a computer system that is up is [working]{working} [properly]{properly}",
+      "entry": "up",
+      "id": "up_1#up_1__65"
+    },
+    {
+      "comment": "if a system or [program_1]{program} is up and [running_1]{running}, it is [working]{working} [effectively]{effectively}",
+      "entry": "up and running",
+      "id": "up-and-running_2#up-and-running_2__1"
+    },
+    {
+      "comment": "universal serial bus: a way of connecting a printer, keyboard, or other piece of equipment to a computer using a special cable and without having to turn the computer off and on again",
+      "entry": "USB",
+      "id": "usb#usb__1"
+    },
+    {
+      "comment": "the [overall_1]{overall} [experience_1]{experience} that someone has when [use_1]{using} a [product]{product}, system or [service_1]{service}",
+      "entry": "user experience",
+      "id": "user-experience#user-experience__1"
+    },
+    {
+      "comment": "a name or [password]{password} that [allow]{allows} a [user]{user} to use a computer system",
+      "entry": "userID",
+      "id": "userid#userid__1"
+    },
+    {
+      "comment": "[user]{user} [experience_1]{experience}: the [overall_1]{overall} [experience_1]{experience} that someone has when [use_1]{using} a [product]{product}, system or [service_1]{service}",
+      "entry": "UX",
+      "id": "ux#ux__1"
+    },
+    {
+      "comment": "[accepted]{accepted} by a computer system",
+      "entry": "valid",
+      "id": "valid#valid__7"
+    },
+    {
+      "comment": "produced by or relating to a computer virus",
+      "entry": "viral",
+      "id": "viral_1#viral_1__3"
+    },
+    {
+      "comment": "[create]{created} by [computer]{computers}, or [appear]{appearing} on [computer]{computers} or the [internet]{Internet}",
+      "entry": "virtual",
+      "id": "virtual#virtual__6"
+    },
+    {
+      "comment": "what you see is what you get: [used]{used} for [describe]{describing} [system]{systems} in which what you see on the computer [screen_1]{screen} is [exactly]{exactly} what will [appear]{appear} when you [print_1]{print} it on [paper_1]{paper}",
+      "entry": "WYSIWYG",
+      "id": "wysiwyg#wysiwyg__1"
+    }
+  ],
+  "thesaurus": "Relating to computer software, systems and equipment",
+  "type": "Related words"
+}

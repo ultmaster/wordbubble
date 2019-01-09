@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "stir into",
+  "senses": [
+    {
+      "def": "to [mix_1]{mix} something into a [liquid_1]{liquid} or [substance]{substance}",
+      "examples": [
+        "[crush_1]{Crush} the [garlic]{garlic}, then [stir_1]{stir} it into the [soup_1]{soup}."
+      ],
+      "id": "stir-into__1"
+    },
+    {
+      "def": "to [force_1]{force} someone to do something by [making]{making} them [feel_1]{feel} that they should do it",
+      "examples": [
+        "[official_2]{Officials} were [stir_1]{stirred} into [action_1]{action} by [public_1]{public} [complaint]{complaints}."
+      ],
+      "id": "stir-into__3"
+    }
+  ]
+}

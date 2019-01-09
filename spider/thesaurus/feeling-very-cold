@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a [feeling_1]{feeling} of being [cold_1]{cold}",
+      "entry": "chill",
+      "id": "chill_2#chill_2__1"
+    },
+    {
+      "comment": "if you [feel_1]{feel} [shivery]{shivery}, you are [shiver_1]{shivering}, for [example]{example} because you are [cold_1]{cold} or [sick_1]{sick}",
+      "entry": "shivery",
+      "id": "shivery#shivery__1"
+    },
+    {
+      "comment": "to [feel_1]{feel} [extremely]{extremely} [cold_1]{cold}",
+      "entry": "freeze",
+      "id": "freeze_1#freeze_1__17"
+    },
+    {
+      "comment": "a very [cold_1]{cold} [feeling_1]{feeling}",
+      "entry": "bite",
+      "id": "bite_2#bite_2__15"
+    },
+    {
+      "comment": "[feeling_1]{feeling} very [cold_1]{cold}",
+      "entry": "frozen",
+      "id": "frozen_1#frozen_1__6"
+    },
+    {
+      "comment": "[feeling_1]{feeling} very [cold_1]{cold} in every part of your body",
+      "entry": "chilled/frozen to the bone",
+      "id": "chilled-frozen-to-the-bone#chilled-frozen-to-the-bone__1"
+    }
+  ],
+  "thesaurus": "Feeling very cold",
+  "type": "Synonyms"
+}

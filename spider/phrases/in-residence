@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "in residence",
+  "senses": [
+    {
+      "def": "[living_1]{living} somewhere",
+      "examples": [
+        "the [guest_1]{guests} who were in [residence]{residence} at the [hotel]{hotel}"
+      ],
+      "id": "in-residence__1"
+    },
+    {
+      "def": "a [writer]{writer}, [poet]{poet}, [artist]{artist}, etc. in [residence]{residence} has been [invite_1]{invited} to [work_1]{work} in a [university]{university} or other [institution]{institution}",
+      "examples": [],
+      "id": "in-residence__3"
+    }
+  ]
+}

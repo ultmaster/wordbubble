@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "an [animal_1]{animal} that [kill_1]{kills} and [eats]{eats} other [animal_1]{animals}",
+      "entry": "predator",
+      "id": "predator#predator__1"
+    },
+    {
+      "comment": "something that [kill_1]{kills} [people_1]{people}",
+      "entry": "killer",
+      "id": "killer#killer__5"
+    },
+    {
+      "comment": "something that [kill_1]{kills} or [destroy]{destroys} something",
+      "entry": "killer",
+      "id": "killer#killer__8"
+    },
+    {
+      "comment": "a [substance]{substance} that can [kill_1]{kill} you or [make_1]{make} you [sick_1]{sick} if you [eat]{eat}, [drink_1]{drink}, or [breathe]{breathe} it",
+      "entry": "poison",
+      "id": "poison_1#poison_1__1"
+    },
+    {
+      "comment": "a [substance]{substance} that [kill_1]{kills} [bacteria]{bacteria}",
+      "entry": "germicide",
+      "id": "germicide#germicide__1"
+    }
+  ],
+  "thesaurus": "Something that kills",
+  "type": "Synonyms"
+}

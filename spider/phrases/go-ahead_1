@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "go ahead",
+  "senses": [
+    {
+      "def": "to [start_1]{start} or [continue]{continue} to do something, [especially]{especially} after [wait_1]{waiting} for [permission]{permission}",
+      "examples": [
+        "\u201cGo [ahead]{ahead},\u201d he [insist]{insisted}. \u201cI [won]{won}\u2019t [interrupt]{interrupt} again.\u201d",
+        "Go [ahead]{ahead} and [eat]{eat} before everything [get]{gets} [cold_1]{cold}.",
+        "The [city]{city} will go [ahead]{ahead} with its [plan_1]{plans} for a [new]{new} [stadium]{stadium} in the [summer]{summer}."
+      ],
+      "id": "go-ahead_1__1"
+    },
+    {
+      "def": "to go to a [place_1]{place} before someone else who you are with",
+      "examples": [
+        "You go [ahead]{ahead} and we\u2019ll [wait_1]{wait} here for [sally_1]{Sally}.",
+        "Don went [ahead]{ahead} of the others to [try_1]{try} to find [help_1]{help}."
+      ],
+      "id": "go-ahead_1__5"
+    },
+    {
+      "def": "to [happen]{happen}",
+      "examples": [
+        "The [party_1]{party} went [ahead]{ahead} as [plan_2]{planned}."
+      ],
+      "id": "go-ahead_1__8"
+    }
+  ]
+}

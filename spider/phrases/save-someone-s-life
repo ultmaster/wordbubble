@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "save someone\u2019s life",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} someone from [dying_1]{dying}",
+      "examples": [
+        "A man who was [passing_1]{passing} [save_1]{saved} her [life]{life} by [pull_1]{pulling} her out of the [water_1]{water}."
+      ],
+      "id": "save-someone-s-life__1"
+    },
+    {
+      "def": "to do something that [help_1]{helps} someone a [lot_1]{lot}",
+      "examples": [
+        "[thanks_1]{Thanks} for the [ride_1]{ride} \u2013 you [save_1]{saved} my [life]{life}!"
+      ],
+      "id": "save-someone-s-life__3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[provided]{provided} for [guest_1]{guests} to use",
+      "examples": [
+        "a [set_1]{set} of guest [towel_1]{towels}",
+        "a TV in the guest [lounge_1]{lounge}"
+      ],
+      "id": "guest_2__1"
+    },
+    {
+      "def": "[appear]{appearing} by [invitation]{invitation} to [perform]{perform} at an [event]{event}",
+      "examples": [
+        "a [regular_1]{regular} guest [conductor]{conductor} with [orchestra]{orchestras} all over the [world]{world}",
+        "[tonight_1]{Tonight}\u2019s guest [speaker]{speaker} is [peter]{Peter} [bell_1]{Bell}.",
+        "The show [frequently]{frequently} [feature_1]{features} [well-known]{well-known} guest [star_1]{stars}."
+      ],
+      "id": "guest_2__4"
+    },
+    {
+      "def": "[relate]{relating} to [guest_1]{guests}",
+      "examples": [
+        "Is she on the guest [list_1]{list} for our [wedding]{wedding}?"
+      ],
+      "id": "guest_2__8"
+    }
+  ],
+  "word": "guest"
+}

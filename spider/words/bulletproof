@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "made from a [material_1]{material} that [stop_1]{stops} [bullet]{bullets} from [passing_1]{passing} through",
+      "examples": [
+        "a bulletproof [vest_1]{vest}/[jacket]{jacket}/[car]{car}"
+      ],
+      "id": "bulletproof__1"
+    },
+    {
+      "def": "[design_2]{designed} to be [protected]{protected} from [problem]{problems} or [damage_1]{damage}",
+      "examples": [
+        "a [new]{new} bulletproof computer [operate]{operating} system"
+      ],
+      "id": "bulletproof__3"
+    }
+  ],
+  "word": "bulletproof"
+}

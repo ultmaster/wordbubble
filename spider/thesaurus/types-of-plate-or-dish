@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a round [container]{container} [used]{used} for [eat]{eating}, [serving]{serving}, or [prepare]{preparing} [food]{food}",
+      "entry": "bowl",
+      "id": "bowl_1#bowl_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [container]{container} without a [lid]{lid}, [used]{used} for [holding]{holding} [liquid_1]{liquids}",
+      "entry": "bowl",
+      "id": "bowl_1#bowl_1__6"
+    },
+    {
+      "comment": "an [open_1]{open} [container]{container} [like_1]{like} a [plate_1]{plate}, but not as [deep_1]{deep} as a [bowl_1]{bowl}, [used]{used} for [serving]{serving} or [cooking_1]{cooking} [food]{food}",
+      "entry": "dish",
+      "id": "dish_1#dish_1__1"
+    },
+    {
+      "comment": "a [container]{container} [shaped_1]{shaped} [like_1]{like} a [dish_1]{dish}",
+      "entry": "dish",
+      "id": "dish_1#dish_1__7"
+    },
+    {
+      "comment": "a [small_1]{small} [bowl_1]{bowl} [fill_1]{filled} with [water_1]{water} and [place_2]{placed} on a [table_1]{table} so you can [wash_1]{wash} your [finger_1]{fingers} after you have [eaten]{eaten}",
+      "entry": "finger bowl",
+      "id": "finger-bowl#finger-bowl__1"
+    },
+    {
+      "comment": "a [bowl_1]{bowl} for [mix_1]{mixing} [thing]{things} together when you are [cooking_1]{cooking}",
+      "entry": "mixing bowl",
+      "id": "mixing-bowl#mixing-bowl__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} round [dish_1]{dish} that you put [food]{food} on",
+      "entry": "plate",
+      "id": "plate_1#plate_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [plate_1]{plate} [used]{used} for [serving]{serving} [food]{food}",
+      "entry": "platter",
+      "id": "platter#platter__1"
+    },
+    {
+      "comment": "a large bowl that you use for mixing and serving punch or similar drinks",
+      "entry": "punch bowl",
+      "id": "punch-bowl#punch-bowl__1"
+    },
+    {
+      "comment": "a [small_1]{small} [dish_1]{dish} [used]{used} for [bake_1]{baking} and [serving]{serving} [food]{food} for one [person]{person}",
+      "entry": "ramekin",
+      "id": "ramekin#ramekin__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [metal_1]{metal} [object_1]{object} [like_1]{like} a [large_1]{large} [plate_1]{plate}, [used]{used} for [serving]{serving} [food]{food} or [drink_1]{drinks}",
+      "entry": "salver",
+      "id": "salver#salver__1"
+    },
+    {
+      "comment": "a [small_1]{small} round [flat_1]{flat} [dish_1]{dish} that you put a [tea]{tea} [cup_1]{cup} or [coffee]{coffee} [cup_1]{cup} on",
+      "entry": "saucer",
+      "id": "saucer#saucer__1"
+    },
+    {
+      "comment": "an [additional]{additional} [food]{food} [serve_1]{served} with the [main_1]{main} [food]{food} in a [meal]{meal}",
+      "entry": "side",
+      "id": "side_1#side_1__62"
+    },
+    {
+      "comment": "a [plate_1]{plate} on which a side [dish_1]{dish} is [serve_1]{served}",
+      "entry": "side dish",
+      "id": "side-dish#side-dish__2"
+    },
+    {
+      "comment": "a [bowl_1]{bowl} [used]{used} for [serving]{serving} [sugar_1]{sugar}, often with a [lid]{lid}",
+      "entry": "sugar bowl",
+      "id": "sugar-bowl#sugar-bowl__1"
+    },
+    {
+      "comment": "a [clay]{clay} [dish_1]{dish} [used]{used} for [cooking_1]{cooking} [food]{food} in the [oven]{oven}",
+      "entry": "terrine",
+      "id": "terrine#terrine__2"
+    },
+    {
+      "comment": "a [large_1]{large} [deep_1]{deep} [dish_1]{dish} with a [cover_1]{cover}, [used]{used} for [serving]{serving} [soup_1]{soup}",
+      "entry": "tureen",
+      "id": "tureen#tureen__1"
+    },
+    {
+      "comment": "a [bowl_1]{bowl} or other [open_1]{open} [container]{container} for [liquid_1]{liquids}",
+      "entry": "vessel",
+      "id": "vessel#vessel__6"
+    }
+  ],
+  "thesaurus": "Types of plate or dish",
+  "type": "Related words"
+}

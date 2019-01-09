@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [touched]{touched} or [move_1]{moved} by anyone",
+      "examples": [
+        "The body had [lain]{lain} there undisturbed for [century]{centuries}."
+      ],
+      "id": "undisturbed__1"
+    },
+    {
+      "def": "not [interrupt]{interrupted} by anyone",
+      "examples": [
+        "I [need_1]{need} to find somewhere I can [work_1]{work} undisturbed."
+      ],
+      "id": "undisturbed__3"
+    }
+  ],
+  "word": "undisturbed"
+}

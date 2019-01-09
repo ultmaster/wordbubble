@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "thin [piece_1]{pieces} of [meat]{meat} that have been [dried]{dried}",
+      "entry": "chipped beef",
+      "id": "chipped-beef#chipped-beef__1"
+    },
+    {
+      "comment": "thin [piece_1]{pieces} of [different]{different} [type_1]{types} of [cooked]{cooked} [meat]{meat} that you [eat]{eat} [cold_1]{cold}",
+      "entry": "cold cuts",
+      "id": "cold-cuts#cold-cuts__1"
+    },
+    {
+      "comment": "cooked beef that has been preserved in salt water",
+      "entry": "corned beef",
+      "id": "corned-beef#corned-beef__1"
+    },
+    {
+      "comment": "[hard_1]{hard} [piece_1]{pieces} of [cooked]{cooked} [skin_1]{skin} from a [pig_1]{pig}, [used]{used} as [food]{food}",
+      "entry": "cracklings",
+      "id": "crackling#crackling__3"
+    },
+    {
+      "comment": "a [frankfurter]{frankfurter}",
+      "entry": "frank",
+      "id": "frank_2#frank_2__1"
+    },
+    {
+      "comment": "the [meat]{meat} from the top part of the back [legs]{legs} of a [pig_1]{pig}, [preserve_1]{preserved} [use_1]{using} [salt_1]{salt} or [smoke_1]{smoke}",
+      "entry": "ham",
+      "id": "ham_1#ham_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [ham_1]{ham}",
+      "entry": "ham",
+      "id": "ham_1#ham_1__4"
+    },
+    {
+      "comment": "meat from the head of a pig or calf  (=young cow), that is boiled, pressed, and eaten cold",
+      "entry": "headcheese",
+      "id": "headcheese#headcheese__1"
+    },
+    {
+      "comment": "meat cut in thin strips and dried",
+      "entry": "jerky",
+      "id": "jerky_2#jerky_2__1"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [meat]{meat} [cooked]{cooked} in an [oven]{oven}",
+      "entry": "joint",
+      "id": "joint_2#joint_2__6"
+    },
+    {
+      "comment": "steak  (=meat from a cow) that is broiled and cut into long thin pieces",
+      "entry": "London broil",
+      "id": "london-broil#london-broil__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [food]{food} [consist]{consisting} of [piece_1]{pieces} of [cooked]{cooked} [meat]{meat} [pressed]{pressed} together, [sold]{sold} in a can, and [eaten]{eaten} [cold_1]{cold}",
+      "entry": "luncheon meat",
+      "id": "luncheon-meat#luncheon-meat__1"
+    },
+    {
+      "comment": "a pope\u2019s [nose_1]{nose}",
+      "entry": "parson\u2019s nose",
+      "id": "parson-s-nose#parson-s-nose__1"
+    },
+    {
+      "comment": "cooked beef with a strong flavor that is usually cut into thin pieces and served cold in sandwiches",
+      "entry": "pastrami",
+      "id": "pastrami#pastrami__1"
+    },
+    {
+      "comment": "the tail of a cooked chicken, turkey, or other bird",
+      "entry": "pope\u2019s nose",
+      "id": "pope-s-nose#pope-s-nose__1"
+    },
+    {
+      "comment": "[piece_1]{pieces} of [pig_1]{pig}\u2019s [skin_1]{skin} [cooked]{cooked} in [hot]{hot} [fat_1]{fat}, [usually]{usually} [eaten]{eaten} [cold_1]{cold}",
+      "entry": "pork rinds",
+      "id": "pork-rinds#pork-rinds__1"
+    },
+    {
+      "comment": "Italian raw ham that is served cut into thin pieces",
+      "entry": "prosciutto",
+      "id": "prosciutto#prosciutto__1"
+    },
+    {
+      "comment": "a [large_1]{large} [piece_1]{piece} of [meat]{meat} that has been [cooked]{cooked} in an [oven]{oven} or over a fire",
+      "entry": "roast",
+      "id": "roast_2#roast_2__1"
+    },
+    {
+      "comment": "[meat]{meat} [cut_1]{cut} into very [small_1]{small} [piece_1]{pieces} so that it can be put into a [tube]{tube} of [skin_1]{skin}",
+      "entry": "sausage meat",
+      "id": "sausage-meat#sausage-meat__1"
+    },
+    {
+      "comment": "a thick piece of beef covered with flour and cooked slowly in a special sauce",
+      "entry": "swiss steak",
+      "id": "swiss-steak#swiss-steak__1"
+    },
+    {
+      "comment": "a [frankfurter]{frankfurter}",
+      "entry": "wiener",
+      "id": "wiener#wiener__1"
+    }
+  ],
+  "thesaurus": "Cooked and preserved meats",
+  "type": "Related words"
+}

@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "[thing]{things} that an [animal_1]{animal} [use_1]{uses} to [make_1]{make} its [bed_1]{bed}, for [example]{example} [grass]{grass} and [leaves]{leaves}",
+      "entry": "bedding",
+      "id": "bedding#bedding__3"
+    },
+    {
+      "comment": "a hole or tunnel in the ground made by an animal such as a rabbit",
+      "entry": "burrow",
+      "id": "burrow_2#burrow_2__1"
+    },
+    {
+      "comment": "the [home_1]{home} of some [wild_1]{wild} [animal_1]{animals}",
+      "entry": "den",
+      "id": "den#den__5"
+    },
+    {
+      "comment": "a hole in the ground where an animal such as a fox lives",
+      "entry": "earth",
+      "id": "earth#earth__11"
+    },
+    {
+      "comment": "the [type_1]{type} of [place_1]{place} that a [particular_1]{particular} [animal_1]{animal} [usually]{usually} [lives]{lives} in or a [particular_1]{particular} [plant_1]{plant} [usually]{usually} [grow]{grows} in, for [example]{example} a [desert_1]{desert}, [forest]{forest}, or [lake]{lake}",
+      "entry": "habitat",
+      "id": "habitat#habitat__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [wild_1]{wild} [animal_1]{animal} [lives]{lives}",
+      "entry": "lair",
+      "id": "lair#lair__1"
+    },
+    {
+      "comment": "the home that a beaver makes",
+      "entry": "lodge",
+      "id": "lodge_2#lodge_2__4"
+    },
+    {
+      "comment": "a small pile of dirt made by a mole digging underground",
+      "entry": "molehill",
+      "id": "molehill#molehill__1"
+    },
+    {
+      "comment": "a [place_1]{place} that [insect]{insects} or [small_1]{small} [animal_1]{animals} such as [mice]{mice} [make_1]{make} to [live_1]{live} in",
+      "entry": "nest",
+      "id": "nest_1#nest_1__3"
+    },
+    {
+      "comment": "a hole that a [rabbit]{rabbit} [lives]{lives} in",
+      "entry": "rabbit hole",
+      "id": "rabbit-hole#rabbit-hole__1"
+    },
+    {
+      "comment": "an area under the ground where rabbits live. It consists of holes and tunnels.",
+      "entry": "rabbit warren",
+      "id": "rabbit-warren#rabbit-warren__1"
+    },
+    {
+      "comment": "a sett where a badger lives",
+      "entry": "set",
+      "id": "set_2#set_2__31"
+    },
+    {
+      "comment": "an underground hole where a badger lives",
+      "entry": "sett",
+      "id": "sett#sett__1"
+    },
+    {
+      "comment": "an [area]{area} that an [animal_1]{animal} [consider]{considers} to be its own, and [try_1]{tries} to [prevent]{prevent} others from [enter]{entering}",
+      "entry": "territory",
+      "id": "territory#territory__6"
+    },
+    {
+      "comment": "an [underground_1]{underground} [passage]{passage} made by [animal_1]{animals}",
+      "entry": "tunnel",
+      "id": "tunnel_1#tunnel_1__2"
+    },
+    {
+      "comment": "a [rabbit]{rabbit} [warren]{warren}",
+      "entry": "warren",
+      "id": "warren#warren__1"
+    }
+  ],
+  "thesaurus": "The homes of wild animals",
+  "type": "Related words"
+}

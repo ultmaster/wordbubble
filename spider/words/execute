@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [kill_1]{kill} someone as a [punishment]{punishment} for a [crime_1]{crime}",
+      "examples": [
+        "The [state_1]{state} will execute him in 24 [hour]{hours} [unless]{unless} his [appeal_1]{appeal} is [granted]{granted}.",
+        "Sidney and Russell were both [execute]{executed} for their part in the [plot_1]{plot}."
+      ],
+      "id": "execute__1"
+    },
+    {
+      "def": "to [complete_1]{complete} something that you have [agreed]{agreed} or [plan_2]{planned} to do",
+      "examples": [
+        "We [check_1]{check} that all [work_1]{work} is being [execute]{executed} [accord_2]{according} to the [council]{council}\u2019s [guidelines]{guidelines}.",
+        "The [ankle]{ankle} [twisted]{twisted} when she was [execute]{executing} a [particularly]{particularly} [complex_1]{complex} [step_1]{step}."
+      ],
+      "id": "execute__4"
+    },
+    {
+      "def": "to [make_1]{make} [certain_1]{certain} that the [instruction]{instructions} in someone\u2019s will are [follow]{followed} after they [die_1]{die}",
+      "examples": [],
+      "id": "execute__9"
+    },
+    {
+      "def": "to [make_1]{make} a computer use a [program_1]{program} or [carry_1]{carry} out an [instruction]{instruction}",
+      "examples": [],
+      "id": "execute__10"
+    }
+  ],
+  "word": "execute"
+}

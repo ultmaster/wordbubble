@@ -1,0 +1,41 @@
+{
+  "part": "phrase",
+  "phrase": "hold off",
+  "senses": [
+    {
+      "def": "to [deliberately]{deliberately} [delay_1]{delay} [doing]{doing} something",
+      "examples": [
+        "He may [decide]{decide} to [hold_1]{hold} off for a few [day]{days}.",
+        "How much [long_1]{longer} can they [hold_1]{hold} off on [political]{political} [reform_1]{reform}?",
+        "She [held]{held} off [calling]{calling} him until the last [possible_1]{possible} [moment]{moment}."
+      ],
+      "id": "hold-off__1"
+    },
+    {
+      "def": "to [stop_1]{stop} someone who is [trying]{trying} to [attack_1]{attack} you from coming [close_1]{close}",
+      "examples": [
+        "I [held]{held} them off with [brick_1]{bricks} and [stone_1]{stones}."
+      ],
+      "id": "hold-off__5"
+    },
+    {
+      "def": "to [stop_1]{stop} an [opponent]{opponent} from [start_1]{starting} to [win_1]{win} or [lead_1]{lead}",
+      "examples": [
+        "They [held]{held} off a [furious]{furious} [late_1]{late} [challenge_1]{challenge} by Fiji to [win_1]{win} 37\u201325."
+      ],
+      "id": "hold-off__7"
+    },
+    {
+      "def": "to [stop_1]{stop} something from [happening_1]{happening}",
+      "examples": [
+        "They can [hold_1]{hold} off the [accusation]{accusations} until the [election]{election}."
+      ],
+      "id": "hold-off__9"
+    },
+    {
+      "def": "if [rain_1]{rain} or [snow_1]{snow} [hold_1]{holds} off, it [does]{does} not [fall_1]{fall}, although you [expected]{expected} it to",
+      "examples": [],
+      "id": "hold-off__11"
+    }
+  ]
+}

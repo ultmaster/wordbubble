@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[cold_1]{cold} [air_1]{air}, or a [cold_1]{cold} [environment]{environment}",
+      "entry": "cold",
+      "id": "cold_2#cold_2__5"
+    },
+    {
+      "comment": "a [period_1]{period} of [weather_1]{weather} [cold_1]{cold} enough to form [frost_1]{frost}",
+      "entry": "frost",
+      "id": "frost_1#frost_1__3"
+    },
+    {
+      "comment": "a [period_1]{period} of time when the [weather_1]{weather} is [extremely]{extremely} [cold_1]{cold}",
+      "entry": "freeze",
+      "id": "freeze_2#freeze_2__6"
+    },
+    {
+      "comment": "a [period_1]{period} of [cold_1]{cold} [weather_1]{weather}",
+      "entry": "cold spell",
+      "id": "cold-spell#cold-spell__1"
+    },
+    {
+      "comment": "the [fact]{fact} that the [wind_1]{wind} [make_1]{makes} the [air_1]{air} [temperature]{temperature} [feel_1]{feel} [cold_1]{colder}",
+      "entry": "wind chill",
+      "id": "wind-chill#wind-chill__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [short_1]{short} [period_1]{period} of very [cold_1]{cold} [weather_1]{weather}",
+      "entry": "cold snap",
+      "id": "cold-snap#cold-snap__1"
+    },
+    {
+      "comment": "a long [period_1]{period} of [cold_1]{cold} and [darkness]{darkness} that could [follow]{follow} a [nuclear]{nuclear} war, during which the [sun_1]{sun}\u2019s [heat_1]{heat} and [light_1]{light} would be [block_2]{blocked} by [cloud_1]{clouds} of [dust_1]{dust}",
+      "entry": "nuclear winter",
+      "id": "nuclear-winter#nuclear-winter__1"
+    },
+    {
+      "comment": "if there is a [nip_1]{nip} in the [air_1]{air}, the [weather_1]{weather} is [cold_1]{cold} in an [unpleasant]{unpleasant} way",
+      "entry": "a nip in the air",
+      "id": "a-nip-in-the-air#a-nip-in-the-air__1"
+    },
+    {
+      "comment": "a [drop_1]{drop} in [temperature]{temperature} to 0\u00b0 Celsius or below",
+      "entry": "freeze",
+      "id": "freeze_2#freeze_2__4"
+    }
+  ],
+  "thesaurus": "Cold weather and periods of cold weather",
+  "type": "Synonyms"
+}

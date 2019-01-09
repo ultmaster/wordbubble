@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "on paper",
+  "senses": [
+    {
+      "def": "in [writing]{writing}",
+      "examples": [
+        "We [need_1]{need} to have something on [paper_1]{paper} that [people_1]{people} can take [away_1]{away} with them.",
+        "I [woke_1]{woke} up [early_1]{early} and [began]{began} to put down some of my [idea]{ideas} on [paper_1]{paper}."
+      ],
+      "id": "on-paper__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that something [appear]{appears} to be [true_1]{true} but may not in [fact]{fact} be [true_1]{true}",
+      "examples": [
+        "On [paper_1]{paper} they are the [best_1]{best} [team_1]{team} in the [national_1]{National} [league_1]{League}."
+      ],
+      "id": "on-paper__4"
+    }
+  ]
+}

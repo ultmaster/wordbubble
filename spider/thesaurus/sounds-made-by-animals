@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "the [short_1]{short} [loud_1]{loud} [sound_1]{sound} that a [dog_1]{dog} [make_1]{makes}",
+      "entry": "bark",
+      "id": "bark_2#bark_2__2"
+    },
+    {
+      "comment": "the deep sound that a bull and some other large animals make",
+      "entry": "bellow",
+      "id": "bellow_2#bellow_2__3"
+    },
+    {
+      "comment": "the [sound_1]{sound} that a [sheep]{sheep} or [goat_1]{goat} [make_1]{makes}",
+      "entry": "bleat",
+      "id": "bleat_2#bleat_2__1"
+    },
+    {
+      "comment": "the [sound_1]{sound} that an [animal_1]{animal} [usually]{usually} [make_1]{makes}",
+      "entry": "call",
+      "id": "call_2#call_2__10"
+    },
+    {
+      "comment": "[short_1]{short} [high_1]{high} [noise]{noises} that some [bird]{birds}, [animal_1]{animals}, or [machine_1]{machines} [make_1]{make}",
+      "entry": "chatter",
+      "id": "chatter_2#chatter_2__4"
+    },
+    {
+      "comment": "the low loud rough sound that a frog makes",
+      "entry": "croak",
+      "id": "croak_2#croak_2__1"
+    },
+    {
+      "comment": "the [noise]{noise} that an [animal_1]{animal} or [bird]{bird} [make_1]{makes}",
+      "entry": "cry",
+      "id": "cry_2#cry_2__6"
+    },
+    {
+      "comment": "a long \u201cs\u201d [sound_1]{sound} [like_1]{like} the [sound_1]{sound} that a [snake_1]{snake} [make_1]{makes}",
+      "entry": "hiss",
+      "id": "hiss_2#hiss_2__1"
+    },
+    {
+      "comment": "the long [loud_1]{loud} [sound_1]{sound} that a [dog_1]{dog} or [similar]{similar} [animal_1]{animal} [make_1]{makes}",
+      "entry": "howl",
+      "id": "howl_2#howl_2__1"
+    },
+    {
+      "comment": "the long [deep_1]{deep} [sound_1]{sound} that a [cow_1]{cow} [make_1]{makes}",
+      "entry": "moo",
+      "id": "moo_1#moo_1__1"
+    },
+    {
+      "comment": "[used]{used} for [represent]{representing} the [sound_1]{sound} that a [pig_1]{pig} [make_1]{makes}",
+      "entry": "oink",
+      "id": "oink#oink__1"
+    },
+    {
+      "comment": "the [loud_1]{loud} [deep_1]{deep} [sound_1]{sound} that a [lion]{lion} [make_1]{makes}",
+      "entry": "roar",
+      "id": "roar_2#roar_2__6"
+    },
+    {
+      "comment": "a [loud_1]{loud} [high_1]{high} [sound_1]{sound} made by a [bird]{bird} or [animal_1]{animal}, or by a [machine_1]{machine}",
+      "entry": "shriek",
+      "id": "shriek_2#shriek_2__3"
+    },
+    {
+      "comment": "the [loud_1]{loud} [high_1]{high} [sound_1]{sound} that an [elephant]{elephant} [make_1]{makes}",
+      "entry": "trumpet",
+      "id": "trumpet_1#trumpet_1__3"
+    },
+    {
+      "comment": "the [sound_1]{sounds} that a [dog_1]{dog} [make_1]{makes} to [let_1]{let} you [know_1]{know} what it [want_1]{wants}",
+      "entry": "whine",
+      "id": "whine_2#whine_2__5"
+    },
+    {
+      "comment": "used for representing the sound a dog makes (its bark)",
+      "entry": "woof",
+      "id": "woof#woof__1"
+    },
+    {
+      "comment": "a [short_1]{short} [high_1]{high} [noise]{noise} that [dog_1]{dogs} [make_1]{make}, [especially]{especially} [small_1]{small} [dog_1]{dogs}",
+      "entry": "yap",
+      "id": "yap_2#yap_2__1"
+    }
+  ],
+  "thesaurus": "Sounds made by animals",
+  "type": "Related words"
+}

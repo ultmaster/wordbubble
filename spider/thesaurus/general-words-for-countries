@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [country]{country} that has its own [land_1]{land} and [government]{government}",
+      "entry": "nation",
+      "id": "nation#nation__1"
+    },
+    {
+      "comment": "a [country]{country} that is [ruled]{ruled} by a [president_1]{president} or other [leader]{leader} that [people_1]{people} [vote_1]{vote} for, rather than by a [king]{king} or [queen_1]{queen}",
+      "entry": "republic",
+      "id": "republic#republic__1"
+    },
+    {
+      "comment": "a [country]{country} that has [democracy]{democracy}",
+      "entry": "democracy",
+      "id": "democracy#democracy__4"
+    },
+    {
+      "comment": "a [country]{country} that is [ruled]{ruled} by a [king]{king} or [queen_1]{queen}",
+      "entry": "monarchy",
+      "id": "monarchy#monarchy__4"
+    },
+    {
+      "comment": "a [country]{country} made up of [individual_1]{individual} [state_1]{states} with the [power_1]{power} to [make_1]{make} their own [decision_1]{decisions}, but with a [national_1]{national} [government]{government} [responsible]{responsible} for [area]{areas} such as [foreign]{foreign} [policy]{policy} and [defense]{defense}",
+      "entry": "federation",
+      "id": "federation#federation__1"
+    },
+    {
+      "comment": "a country governed by a small group of people. Someone in this group is called an oligarch.",
+      "entry": "oligarchy",
+      "id": "oligarchy#oligarchy__1"
+    },
+    {
+      "comment": "a [country]{country} that is [defend]{defended} and [controlled_1]{controlled} by a more [powerful]{powerful} [country]{country}",
+      "entry": "protectorate",
+      "id": "protectorate#protectorate__1"
+    },
+    {
+      "comment": "a [country]{country} [controlled_1]{controlled} by someone who [take_1]{takes} [power_1]{power} by [force_1]{force} and [does]{does} not [allow]{allow} [fair_1]{fair} [election]{elections}",
+      "entry": "dictatorship",
+      "id": "dictatorship#dictatorship__2"
+    },
+    {
+      "comment": "a [nation]{nation}, or a [country]{country}",
+      "entry": "state",
+      "id": "state_1#state_1__11"
+    },
+    {
+      "comment": "a [country]{country} that is [able_1]{able} to [influence_1]{influence} other [country]{countries} because of its [economic]{economic} or [military]{military} [strength]{strength}",
+      "entry": "power",
+      "id": "power_1#power_1__21"
+    }
+  ],
+  "thesaurus": "General words for countries",
+  "type": "Synonyms"
+}

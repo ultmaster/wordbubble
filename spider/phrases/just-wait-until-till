@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "just wait until/till",
+  "senses": [
+    {
+      "def": "[used]{used} for [saying]{saying} that someone should be [patient_1]{patient} for a [moment]{moment}",
+      "examples": [
+        "[just_1]{Just} [wait_1]{wait} until I\u2019ve [finished]{finished} this [story]{story}."
+      ],
+      "id": "just-wait-until-till__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} someone will be very [surprised]{surprised} or [happy_1]{happy} when they see something",
+      "examples": [
+        "[just_1]{Just} [wait_1]{wait} till you see how she\u2019s [grown_1]{grown}!"
+      ],
+      "id": "just-wait-until-till__3"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone that they will be in [trouble_1]{trouble} if they do not [stop_1]{stop} [behave]{behaving} [badly]{badly}",
+      "examples": [
+        "[just_1]{Just} you [wait_1]{wait} till your [father_1]{father} [get]{gets} [home_1]{home}."
+      ],
+      "id": "just-wait-until-till__5"
+    }
+  ]
+}

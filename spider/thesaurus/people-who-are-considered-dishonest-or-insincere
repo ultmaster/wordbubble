@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [tell_1]{tells} [lie_1]{lies}",
+      "entry": "liar",
+      "id": "liar#liar__1"
+    },
+    {
+      "comment": "someone who [cheat_1]{cheats}",
+      "entry": "cheat",
+      "id": "cheat_2#cheat_2__1"
+    },
+    {
+      "comment": "a [person]{person} who [claim_1]{claims} to have [certain_1]{certain} [moral_1]{moral} [principle]{principles} or [belief]{beliefs} but [behave]{behaves} in a way that [show_1]{shows} they are not sincere",
+      "entry": "hypocrite",
+      "id": "hypocrite#hypocrite__1"
+    },
+    {
+      "comment": "someone who [use_1]{uses} [illegal_1]{illegal} or [dishonest]{dishonest} [method]{methods} to [arrange]{arrange} [matter_1]{matters} and get the [result_1]{results} they [want_1]{want}",
+      "entry": "fixer",
+      "id": "fixer#fixer__2"
+    },
+    {
+      "comment": "someone who [pretend_1]{pretends} to be an [official_1]{official} or [professional_1]{professional} [person]{person} in [order_1]{order} to [trick_1]{trick} [people_1]{people}",
+      "entry": "fraud",
+      "id": "fraud#fraud__8"
+    },
+    {
+      "comment": "someone who is [dishonest]{dishonest}, [especially]{especially} someone who [use_1]{uses} their [position_1]{position} of [power_1]{power} for their own [personal_1]{personal} [advantage]{advantage}",
+      "entry": "crook",
+      "id": "crook_1#crook_1__1"
+    },
+    {
+      "comment": "someone who [use_1]{uses} [clever]{clever} or [slightly]{slightly} [dishonest]{dishonest} [method]{methods} to get [advantage]{advantages} from a [lot_1]{lot} of [situation]{situations} at the same time, [especially]{especially} in [business]{business} or [politics]{politics}",
+      "entry": "wheeler-dealer",
+      "id": "wheeler-dealer#wheeler-dealer__1"
+    },
+    {
+      "comment": "a man who [trick_1]{tricks} other [people_1]{people}, [especially]{especially} in [order_1]{order} to get their [money]{money}",
+      "entry": "conman",
+      "id": "conman#conman__1"
+    },
+    {
+      "comment": "someone who is [good_1]{good} at [use_1]{using} [people_1]{people} or [situation]{situations} to their own [advantage]{advantage}",
+      "entry": "politician",
+      "id": "politician#politician__2"
+    },
+    {
+      "comment": "someone who [trick_1]{tricks} another [person]{person} into [have]{having} an [online]{online} [relationship]{relationship} by [adopt]{adopting} a [fake_1]{fake} [identity]{identity}",
+      "entry": "catfish",
+      "id": "catfish_1#catfish_1__2"
+    }
+  ],
+  "thesaurus": "People who are considered dishonest or insincere",
+  "type": "Synonyms"
+}

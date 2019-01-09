@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} or [water_1]{water} where something is found",
+      "entry": "field",
+      "id": "field_1#field_1__10"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} or [water_1]{water} [covered_1]{covered} in a [particular_1]{particular} [substance]{substance}",
+      "entry": "field",
+      "id": "field_1#field_1__12"
+    },
+    {
+      "comment": "the [high_1]{high} [inland_1]{inland} [plateau_1]{plateau} of [south_1]{South} Africa where the [city]{city} of Johannesburg is [located]{located}",
+      "entry": "highveld",
+      "id": "highveld#highveld__1"
+    },
+    {
+      "comment": "a continent or large area of land surrounded by ocean",
+      "entry": "land mass",
+      "id": "land-mass#land-mass__1"
+    },
+    {
+      "comment": "the [low-lying]{low-lying} [region]{region} of north-eastern [south_1]{South} Africa",
+      "entry": "the lowveld",
+      "id": "the-lowveld#the-lowveld__1"
+    },
+    {
+      "comment": "a [large_1]{large} [mass_1]{mass} of [land_1]{land} that [form_1]{forms} the [main_1]{main} part of a [country]{country} but [does]{does} not [include]{include} any [island]{islands} [belong]{belonging} to the [country]{country}",
+      "entry": "the mainland",
+      "id": "the-mainland#the-mainland__1"
+    },
+    {
+      "comment": "a [large_1]{large} [flat_1]{flat} [area]{area} of [land_1]{land}",
+      "entry": "plain",
+      "id": "plain_2#plain_2__1"
+    },
+    {
+      "comment": "a [large_1]{large} [flat_1]{flat} [area]{area} of [land_1]{land} that is [higher_1]{higher} than the [land_1]{land} around it",
+      "entry": "plateau",
+      "id": "plateau_1#plateau_1__1"
+    },
+    {
+      "comment": "a [large_1]{large} [flat_1]{flat} [area]{area} of [land_1]{land} without [tree]{trees} in south-eastern Europe or Asia",
+      "entry": "steppe",
+      "id": "steppe#steppe__1"
+    },
+    {
+      "comment": "a large area of land that forms part of a continent, especially the part of Asia that contains India, Pakistan, and Bangladesh",
+      "entry": "subcontinent",
+      "id": "subcontinent#subcontinent__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land}, [usually]{usually} [long_1]{longer} than it is [wide_1]{wide}",
+      "entry": "swath",
+      "id": "swath#swath__1"
+    },
+    {
+      "comment": "another [spelling]{spelling} of [swath]{swath}",
+      "entry": "swathe",
+      "id": "swathe_2#swathe_2__2"
+    },
+    {
+      "comment": "a long [wide_1]{wide} [curved]{curved} [area]{area} of [land_1]{land} or [water_1]{water}",
+      "entry": "sweep",
+      "id": "sweep_2#sweep_2__1"
+    },
+    {
+      "comment": "a [large_1]{large} [raised]{raised} [area]{area} of [flat_1]{flat} [land_1]{land}",
+      "entry": "tableland",
+      "id": "tableland#tableland__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land}",
+      "entry": "tract",
+      "id": "tract#tract__1"
+    },
+    {
+      "comment": "a [large_1]{large} [flat_1]{flat} [area]{area} of [land_1]{land} without [tree]{trees} in very [cold_1]{cold} [northern]{northern} [part_1]{parts} of the [world]{world}",
+      "entry": "tundra",
+      "id": "tundra#tundra__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of empty [land_1]{land}",
+      "entry": "waste",
+      "id": "waste_1#waste_1__16"
+    },
+    {
+      "comment": "an [area]{area} that has an [important]{important} or [typical]{typical} [feature_1]{feature}",
+      "entry": "zone",
+      "id": "zone_1#zone_1__1"
+    },
+    {
+      "comment": "an [area]{area} where a [particular_1]{particular} [activity]{activity} is [allow]{allowed} or not [allow]{allowed}",
+      "entry": "zone",
+      "id": "zone_1#zone_1__3"
+    },
+    {
+      "comment": "an [area]{area} where only [particular_1]{particular} [people_1]{people} are [allow]{allowed}",
+      "entry": "zone",
+      "id": "zone_1#zone_1__6"
+    },
+    {
+      "comment": "a [division]{division} of a [large_1]{larger} [area]{area} that is [divided]{divided} [accord_2]{according} to a system",
+      "entry": "zone",
+      "id": "zone_1#zone_1__8"
+    }
+  ],
+  "thesaurus": "Large areas of land",
+  "type": "Related words"
+}

@@ -1,0 +1,111 @@
+{
+  "entries": [
+    {
+      "comment": "a large pile of earth over an ancient grave where one or more people are buried",
+      "entry": "barrow",
+      "id": "barrow#barrow__2"
+    },
+    {
+      "comment": "a [place_1]{place} where [dead_1]{dead} [people_1]{people} are [bury]{buried}, [especially]{especially} an [ancient]{ancient} [place_1]{place}",
+      "entry": "burial ground",
+      "id": "burial-ground#burial-ground__1"
+    },
+    {
+      "comment": "an [area]{area} of [ground_1]{ground} where [dead_1]{dead} [people_1]{people} are [bury]{buried}",
+      "entry": "cemetery",
+      "id": "cemetery#cemetery__1"
+    },
+    {
+      "comment": "the [area]{area} of [land_1]{land} around a [church]{church} where [dead_1]{dead} [people_1]{people} are [bury]{buried}",
+      "entry": "churchyard",
+      "id": "churchyard#churchyard__1"
+    },
+    {
+      "comment": "an [ancient]{ancient} [stone_1]{stone} [structure_1]{structure} [consist]{consisting} of a [large_1]{large} [flat_1]{flat} [stone_1]{stone} on top of two or more [upright_1]{upright} ones, [built_1]{built} above the [place_1]{place} where someone was [bury]{buried}",
+      "entry": "dolmen",
+      "id": "dolmen#dolmen__1"
+    },
+    {
+      "comment": "the place where a dead body is buried in a deep hole in the ground. A tomb is a structure above the ground that contains a dead body",
+      "entry": "grave",
+      "id": "grave_1#grave_1__1"
+    },
+    {
+      "comment": "the area beside a grave where someone is buried",
+      "entry": "graveside",
+      "id": "graveside#graveside__1"
+    },
+    {
+      "comment": "a stone by a grave that shows the name of the person buried there and the dates when they were born and died",
+      "entry": "gravestone",
+      "id": "gravestone#gravestone__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} where [dead_1]{dead} [people_1]{people} are [bury]{buried}, [usually]{usually} around a [church]{church}",
+      "entry": "graveyard",
+      "id": "graveyard#graveyard__1"
+    },
+    {
+      "comment": "a piece of stone with a name and dates on it that marks a grave  (=place where a dead person is buried)",
+      "entry": "headstone",
+      "id": "headstone#headstone__1"
+    },
+    {
+      "comment": "in memory of someone who has died. This expression is used especially on a headstone.",
+      "entry": "in memoriam",
+      "id": "in-memoriam#in-memoriam__1"
+    },
+    {
+      "comment": "in [honor_1]{honor} of someone who has [die_1]{died}, so that [people_1]{people} will [remember]{remember} them",
+      "entry": "in memory of someone",
+      "id": "in-memory-of-someone#in-memory-of-someone__1"
+    },
+    {
+      "comment": "a large impressive tomb  (=stone structure in which someone is buried)",
+      "entry": "mausoleum",
+      "id": "mausoleum#mausoleum__1"
+    },
+    {
+      "comment": "a [large_1]{large} [place_1]{place} in a [city]{city} where [dead_1]{dead} [people_1]{people} were [bury]{buried} in the [past_1]{past}",
+      "entry": "necropolis",
+      "id": "necropolis#necropolis__1"
+    },
+    {
+      "comment": "a small piece of land in a cemetery where you are buried when you die",
+      "entry": "plot",
+      "id": "plot_1#plot_1__8"
+    },
+    {
+      "comment": "the [place_1]{place} where someone is [bury]{buried}",
+      "entry": "resting place",
+      "id": "resting-place#resting-place__3"
+    },
+    {
+      "comment": "Rest in [peace]{Peace}: [used]{used} on [stone_1]{stones} put over [place_1]{places} where [dead_1]{dead} [people_1]{people} are [bury]{buried}",
+      "entry": "R.I.P.",
+      "id": "r-i-p#r-i-p__1"
+    },
+    {
+      "comment": "a [place_1]{place} made of [stone_1]{stone} in which [dead_1]{dead} [people_1]{people} are [bury]{buried}",
+      "entry": "sepulcher",
+      "id": "sepulcher#sepulcher__1"
+    },
+    {
+      "comment": "a grave where a dead person is buried, especially one consisting of a large stone structure",
+      "entry": "tomb",
+      "id": "tomb#tomb__1"
+    },
+    {
+      "comment": "a [large_1]{large} [stone_1]{stone} with someone\u2019s name and their [birth]{birth} [date_1]{date} and [death]{death} [date_1]{date} on it that is put over the [place_1]{place} where they are [bury]{buried}",
+      "entry": "tombstone",
+      "id": "tombstone#tombstone__1"
+    },
+    {
+      "comment": "a [large_1]{large} [pile_1]{pile} of [dirt]{dirt} put over a [place_1]{place} where someone was [bury]{buried} in [ancient]{ancient} times",
+      "entry": "tumulus",
+      "id": "tumulus#tumulus__1"
+    }
+  ],
+  "thesaurus": "Graves, tombs and burial places",
+  "type": "Related words"
+}

@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "shut up",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [talk_1]{talking} or [making]{making} a [noise]{noise}",
+      "examples": [
+        "Why don\u2019t you [shut_1]{shut} up?",
+        "I [wish_1]{wish} he\u2019d [shut_1]{shut} up about his [vacation_1]{vacation}.",
+        "Can\u2019t you [shut_1]{shut} the [kid_1]{kids} up for [just_1]{just} five [minute_1]{minutes}?"
+      ],
+      "id": "shut-up__1"
+    },
+    {
+      "def": "to keep someone in a [small_1]{small} [area]{area} for a [specific]{specific} [purpose]{purpose}",
+      "examples": [
+        "Many [student]{students} [shut_1]{shut} themselves up in their [room_1]{rooms} to [study_1]{study}."
+      ],
+      "id": "shut-up__6"
+    },
+    {
+      "def": "to [close_1]{close} a [building]{building} so that [people_1]{people} cannot [enter]{enter} or [leave_1]{leave} it",
+      "examples": [],
+      "id": "shut-up__8"
+    }
+  ]
+}

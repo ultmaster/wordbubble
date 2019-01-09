@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "if a [clock_1]{clock} gains, it [operate]{operates} too [fast_1]{fast} so that the time it [show_1]{shows} is [later_1]{later} than the [actual]{actual} time",
+      "entry": "gain",
+      "id": "gain_1#gain_1__21"
+    },
+    {
+      "comment": "if a [clock_1]{clock} [keep_1]{keeps} [good_1]{good} time, it always [show_1]{shows} the [correct_1]{correct} time",
+      "entry": "keep time",
+      "id": "keep-time#keep-time__1"
+    },
+    {
+      "comment": "if a [clock_1]{clock} or [watch_1]{watch} [lose]{loses} time, it is [operate]{operating} too [slowly]{slowly} and [show_1]{shows} a time that is [earlier_1]{earlier} than the [correct_1]{correct} time",
+      "entry": "lose",
+      "id": "lose#lose__43"
+    },
+    {
+      "comment": "if a [clock_1]{clock} [strike_1]{strikes} or [strike_1]{strikes} a [particular_1]{particular} time, it [make_1]{makes} a [sound_1]{sound} [like_1]{like} a [bell_1]{bell} a [particular_1]{particular} [number_1]{number} of times to show what time it is",
+      "entry": "strike",
+      "id": "strike_1#strike_1__46"
+    },
+    {
+      "comment": "if a [clock_1]{clock} [strike_1]{strikes} the [hour]{hour}, it [show_1]{shows} that it is [exactly]{exactly} one o\u2019[clock_1]{clock}, two o\u2019[clock_1]{clock}, etc. by [making]{making} a [sound_1]{sound} once, [twice_1]{twice}, etc.",
+      "entry": "strike the hour",
+      "id": "strike-the-hour#strike-the-hour__1"
+    },
+    {
+      "comment": "if a [clock_1]{clock} or a [watch_1]{watch} [tick_1]{ticks}, it [make_1]{makes} a [quiet_1]{quiet} [sound_1]{sound} every [second_1]{second}",
+      "entry": "tick",
+      "id": "tick_1#tick_1__1"
+    },
+    {
+      "comment": "if a [clock_1]{clock} [tick_1]{ticks} [away_1]{away} or [tick_1]{ticks} time [away_1]{away}, it [show_1]{shows} that time is [passing_1]{passing}",
+      "entry": "tick away",
+      "id": "tick-away#tick-away__2"
+    }
+  ],
+  "thesaurus": "What clocks and watches do",
+  "type": "Related words"
+}

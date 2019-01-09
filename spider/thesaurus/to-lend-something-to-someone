@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "a [situation]{situation} in which someone [lend_1]{lends} something to someone",
+      "entry": "loan",
+      "id": "loan_1#loan_1__6"
+    },
+    {
+      "comment": "to give someone something for a short time, expecting that they will give it back to you later. If you lend someone something, they borrow it from you",
+      "entry": "lend",
+      "id": "lend_1#lend_1__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [lend_1]{lending} or [borrowing]{borrowing} something",
+      "entry": "lend",
+      "id": "lend_2#lend_2__1"
+    },
+    {
+      "comment": "if you can [spare_1]{spare} something, you can give or [lend_1]{lend} it to someone because you don\u2019t [need_1]{need} it",
+      "entry": "spare",
+      "id": "spare_2#spare_2__1"
+    },
+    {
+      "comment": "to give or [lend_1]{lend} someone [money]{money} before the [usual]{usual} time or before they do something",
+      "entry": "advance",
+      "id": "advance_2#advance_2__15"
+    },
+    {
+      "comment": "to [lend_1]{lend} something to someone",
+      "entry": "loan",
+      "id": "loan_2#loan_2__1"
+    }
+  ],
+  "thesaurus": "To lend something to someone",
+  "type": "Synonyms"
+}

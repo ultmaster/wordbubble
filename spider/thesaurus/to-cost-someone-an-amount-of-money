@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "if something [cost_1]{costs} an amount of [money]{money}, that amount is [need_1]{needed} in [order_1]{order} to [buy_1]{buy} it, [pay_1]{pay} for it, or do it",
+      "entry": "cost",
+      "id": "cost_2#cost_2__1"
+    },
+    {
+      "comment": "if an amount of [money]{money} [buy_1]{buys} something, it is [large_1]{large} enough to [pay_1]{pay} for that thing",
+      "entry": "buy",
+      "id": "buy_1#buy_1__12"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} what the [actual]{actual} [cost_1]{cost} or [value_1]{value} of something is when you [calculate]{calculate} it",
+      "entry": "work out",
+      "id": "work-out#work-out__18"
+    },
+    {
+      "comment": "to [cost_1]{cost} someone a [particular_1]{particular} amount of [money]{money}, [especially]{especially} a [large_1]{large} amount",
+      "entry": "set back",
+      "id": "set-back#set-back__3"
+    },
+    {
+      "comment": "to have a [particular_1]{particular} [price_1]{price} or [value_1]{value}, [especially]{especially} a [high_1]{high} one",
+      "entry": "command",
+      "id": "command_2#command_2__10"
+    },
+    {
+      "comment": "to [cost_1]{cost} an [additional]{additional} amount of [money]{money}",
+      "entry": "be extra",
+      "id": "be-extra#be-extra__1"
+    },
+    {
+      "comment": "to [feel_1]{feel} that something you have [got_1]{got} is [worth_1]{worth} the amount you [paid_1]{paid} for it",
+      "entry": "get your money\u2019s worth",
+      "id": "get-your-money-s-worth#get-your-money-s-worth__1"
+    },
+    {
+      "comment": "to [cost_1]{cost} a [particular_1]{particular} amount",
+      "entry": "come in at",
+      "id": "come-in-at#come-in-at__1"
+    }
+  ],
+  "thesaurus": "To cost someone an amount of money",
+  "type": "Synonyms"
+}

@@ -1,0 +1,151 @@
+{
+  "entries": [
+    {
+      "comment": "a [place_1]{place} where an [army]{army} has [strong]{strong} [defense]{defenses}",
+      "entry": "bastion",
+      "id": "bastion#bastion__4"
+    },
+    {
+      "comment": "a [place_1]{place} where a [battle_1]{battle} [take_1]{takes} [place_1]{place} or where one [took]{took} [place_1]{place} in the [past_1]{past}",
+      "entry": "battlefield",
+      "id": "battlefield#battlefield__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [group_1]{groups} of [people_1]{people} [violently]{violently} [oppose]{oppose} each other",
+      "entry": "battlefield",
+      "id": "battlefield#battlefield__2"
+    },
+    {
+      "comment": "an [area]{area} on a [beach_1]{beach} or beside a [river]{river} that an [army]{army} [take_1]{takes} [control_1]{control} of in [order_1]{order} to [attack_1]{attack} [farther_1]{farther} into the [land_1]{land}",
+      "entry": "beachhead",
+      "id": "beachhead#beachhead__1"
+    },
+    {
+      "comment": "a [space_1]{space} made in a [wall_1]{wall}, [fence_1]{fence}, or [line_1]{line} of [defense]{defense}, [especially]{especially} during a [military]{military} [attack_1]{attack}",
+      "entry": "breach",
+      "id": "breach_1#breach_1__11"
+    },
+    {
+      "comment": "a [strong]{strong} [position_1]{position} [held]{held} by an [army]{army} on [enemy]{enemy} [land_1]{land} from which they can [attack_1]{attack}",
+      "entry": "bridgehead",
+      "id": "bridgehead#bridgehead__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} between two [army]{armies} that they are not [allow]{allowed} to [enter]{enter}, [making]{making} it less [likely_1]{likely} that they will [attack_1]{attack} each other",
+      "entry": "buffer zone",
+      "id": "buffer-zone#buffer-zone__1"
+    },
+    {
+      "comment": "a [place_1]{place} where there is [fighting]{fighting}",
+      "entry": "cockpit",
+      "id": "cockpit#cockpit__5"
+    },
+    {
+      "comment": "a [disputed]{disputed} [area]{area} is one that [different]{different} [country]{countries} [claim_1]{claim} [belong]{belongs} to them, so that there is a [disagreement]{disagreement} or war between them",
+      "entry": "disputed",
+      "id": "disputed#disputed__1"
+    },
+    {
+      "comment": "a hole or [tunnel_1]{tunnel} in the [ground_1]{ground} [used]{used} as a [shelter_1]{shelter} by [soldier_1]{soldiers} during a [battle_1]{battle}",
+      "entry": "dugout",
+      "id": "dugout#dugout__2"
+    },
+    {
+      "comment": "a [place_1]{place} where a [large_1]{large} [gun_1]{gun} is put and [fire_2]{fired}",
+      "entry": "emplacement",
+      "id": "emplacement#emplacement__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} where [people_1]{people} [fight_1]{fight} a [battle_1]{battle}",
+      "entry": "field",
+      "id": "field_1#field_1__14"
+    },
+    {
+      "comment": "a front [line_1]{line} in a war",
+      "entry": "front",
+      "id": "front_1#front_1__30"
+    },
+    {
+      "comment": "the [area]{area} where two [army]{armies} [face_1]{face} each other and [fight_1]{fight} during a war",
+      "entry": "front line",
+      "id": "front-line_1#front-line_1__1"
+    },
+    {
+      "comment": "a [place_1]{place} where there is often a [lot_1]{lot} of [violence]{violence} or [fighting]{fighting}",
+      "entry": "hotspot",
+      "id": "hotspot#hotspot__1"
+    },
+    {
+      "comment": "an [area]{area} where a [large_1]{large} [number_1]{number} of [people_1]{people} have been [kill_1]{killed}, [usually]{usually} in a war",
+      "entry": "killing fields",
+      "id": "killing-fields#killing-fields__1"
+    },
+    {
+      "comment": "an [area]{area} where [bomb_1]{bombs} have been [hidden_1]{hidden} under the [ground_1]{ground} or under [water_1]{water}",
+      "entry": "minefield",
+      "id": "minefield#minefield__1"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} that [separates]{separates} two [army]{armies}",
+      "entry": "no-man\u2019s-land",
+      "id": "no-man-s-land#no-man-s-land__1"
+    },
+    {
+      "comment": "in the [place_1]{place} being [discuss]{discussed}, [especially]{especially} a [place_1]{place} where there is a war or another serious [situation]{situation}",
+      "entry": "on the ground",
+      "id": "on-the-ground#on-the-ground__2"
+    },
+    {
+      "comment": "a [military]{military} [camp_1]{camp} that is [far]{far} [away_1]{away} from the [army]{army}",
+      "entry": "outpost",
+      "id": "outpost#outpost__1"
+    },
+    {
+      "comment": "an [area]{area} where [people_1]{people} who are not [soldier_1]{soldiers} are [protected]{protected} from [danger]{danger} or an [attack_1]{attack}",
+      "entry": "safe area",
+      "id": "safe-area#safe-area__1"
+    },
+    {
+      "comment": "a part of an [area]{area}, [especially]{especially} an [area]{area} that is [controlled_1]{controlled} by the [military]{military}",
+      "entry": "sector",
+      "id": "sector#sector__8"
+    },
+    {
+      "comment": "a [place_1]{place} where [people_1]{people} [fighting]{fighting} an [enemy]{enemy} can [defend]{defend} or [organize]{organize} themselves",
+      "entry": "stronghold",
+      "id": "stronghold#stronghold__1"
+    },
+    {
+      "comment": "a [road]{road}, [path]{path}, etc. along which [supply_1]{supplies} are [brought]{brought}, [especially]{especially} to an [army]{army} during a war",
+      "entry": "supply line",
+      "id": "supply-line#supply-line__1"
+    },
+    {
+      "comment": "an [area]{area} where there is [fighting]{fighting} during a war",
+      "entry": "theater",
+      "id": "theater#theater__14"
+    },
+    {
+      "comment": "a [trench]{trench} [used]{used} by [soldier_1]{soldiers} to [protect]{protect} themselves from [enemy]{enemy} [attack_1]{attack}",
+      "entry": "the trenches",
+      "id": "trench#trench__2"
+    },
+    {
+      "comment": "the system of [trench]{trenches} in [northern]{northern} France and Belgium [used]{used} by [soldier_1]{soldiers} during [world]{World} War I",
+      "entry": "the trenches",
+      "id": "trench#trench__3"
+    },
+    {
+      "comment": "a [place_1]{place} where there is often [trouble_1]{trouble}, [especially]{especially} a [country]{country} or [region]{region} where [fighting]{fighting} between [opposing]{opposing} [group_1]{groups} often [happen]{happens}",
+      "entry": "trouble spot",
+      "id": "trouble-spot#trouble-spot__1"
+    },
+    {
+      "comment": "an [area]{area} where [people_1]{people} are [fighting]{fighting} a war",
+      "entry": "war zone",
+      "id": "war-zone#war-zone__1"
+    }
+  ],
+  "thesaurus": "Places where war and fighting take place",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "for future reference",
+  "senses": [
+    {
+      "def": "so that you can find some [information]{information} in the [future_1]{future}",
+      "examples": [
+        "Keep this [document_1]{document} with your [insurance]{insurance} [policy]{policy} for [future_1]{future} [reference_1]{reference}."
+      ],
+      "id": "for-future-reference__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone something that you [feel_1]{feel} they should [know_1]{know}, often when you are [slightly]{slightly} [annoyed]{annoyed} with them",
+      "examples": [
+        "For [future_1]{future} [reference_1]{reference}, I [expect]{expect} all [employee]{employees} to be [punctual]{punctual}."
+      ],
+      "id": "for-future-reference__3"
+    }
+  ]
+}

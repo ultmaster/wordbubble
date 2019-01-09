@@ -1,0 +1,37 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a popular [person]{person} is [like_2]{liked} by most [people_1]{people}",
+      "examples": [
+        "[jenny]{Jenny} is one of the most popular [girl]{girls} in the [school_1]{school}.",
+        "He\u2019s [hugely]{hugely} popular with the [fan_1]{fans}.",
+        "a popular [brand_1]{brand} of [cat]{cat} [food]{food}",
+        "What is the most popular [pastime]{pastime} after [watch_1]{watching} [television]{television}?",
+        "This [hotel]{hotel} is very popular with [tourist]{tourists}.",
+        "Her [book_1]{books} have [enormous]{enormous} popular [appeal_1]{appeal}.",
+        "Due to popular [demand_1]{demand}, [extra_1]{extra} [ticket_1]{tickets} for the [game_1]{game} have been made [available]{available}."
+      ],
+      "id": "popular__1"
+    },
+    {
+      "def": "[appropriate_1]{appropriate} for [ordinary]{ordinary} [people_1]{people} rather than [expert_1]{experts}",
+      "examples": [
+        "popular [science]{science}/[psychology]{psychology}",
+        "[popular]{Popular} [discontent]{discontent} [result_2]{resulted} in the [incumbent_1]{incumbent} [senator]{senator}\u2019s [defeat_1]{defeat}.",
+        "There is [little_1]{little} popular [support_1]{support} for their [economic]{economic} [reform_1]{reform} [policy]{policies}.",
+        "a popular [uprising]{uprising}"
+      ],
+      "id": "popular__11"
+    },
+    {
+      "def": "a popular [belief]{belief}, [feeling_1]{feeling}, [attitude]{attitude}, etc. is one that many [people_1]{people} have",
+      "examples": [
+        "[contrary]{Contrary} to popular [belief]{belief}, the [existing]{existing} [safety]{safety} [regulation_1]{regulations} were [adequate]{adequate}.",
+        "It\u2019s a popular [misconception]{misconception} that all [women]{women} [love_1]{love} [shopping]{shopping}."
+      ],
+      "id": "popular__17"
+    }
+  ],
+  "word": "popular"
+}

@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "comment": "[able_1]{able} to be [repair_1]{repaired}",
+      "entry": "repairable",
+      "id": "repairable#repairable__1"
+    },
+    {
+      "comment": "[capable]{capable} of being [improved]{improved}, [correct_2]{corrected}, or [cure_2]{cured}",
+      "entry": "remediable",
+      "id": "remediable#remediable__1"
+    },
+    {
+      "comment": "[able_1]{able} to be [solve]{solved}",
+      "entry": "soluble",
+      "id": "soluble#soluble__2"
+    },
+    {
+      "comment": "if a [legal]{legal} [case_1]{case} is [arbitrable]{arbitrable}, it can be [dealt]{dealt} with at [arbitration]{arbitration}",
+      "entry": "arbitrable",
+      "id": "arbitrable#arbitrable__1"
+    }
+  ],
+  "thesaurus": "Able to be solved or corrected",
+  "type": "Synonyms"
+}

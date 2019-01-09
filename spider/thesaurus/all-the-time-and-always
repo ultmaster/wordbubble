@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "on every [occasion_1]{occasion}",
+      "entry": "always",
+      "id": "always#always__1"
+    },
+    {
+      "comment": "always, or in every [situation]{situation}",
+      "entry": "necessarily",
+      "id": "necessarily#necessarily__1"
+    },
+    {
+      "comment": "at any time in the [past_1]{past}, [present_1]{present}, or [future_1]{future}",
+      "entry": "ever",
+      "id": "ever_1#ever_1__2"
+    },
+    {
+      "comment": "always or [regularly]{regularly}",
+      "entry": "constantly",
+      "id": "constantly#constantly__1"
+    },
+    {
+      "comment": "always, or almost always",
+      "entry": "invariably",
+      "id": "invariably#invariably__1"
+    },
+    {
+      "comment": "often, or all the time",
+      "entry": "hourly",
+      "id": "hourly_2#hourly_2__4"
+    },
+    {
+      "comment": "all the time that something is [happening_1]{happening}",
+      "entry": "all the while",
+      "id": "all-the-while#all-the-while__1"
+    },
+    {
+      "comment": "always",
+      "entry": "at all times",
+      "id": "at-all-times#at-all-times__1"
+    },
+    {
+      "comment": "[continuous#continuous__6]{continuously} during a [period_1]{period}",
+      "entry": "the whole time",
+      "id": "the-whole-time#the-whole-time__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or done all [day]{day} and all [night_1]{night}",
+      "entry": "round-the-clock",
+      "id": "round-the-clock#round-the-clock__1"
+    }
+  ],
+  "thesaurus": "All the time and always",
+  "type": "Synonyms"
+}

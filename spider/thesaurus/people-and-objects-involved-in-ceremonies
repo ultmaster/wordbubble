@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a [stick_1]{stick} that an [important]{important} [person]{person} [carry_1]{carries} during a [ceremony]{ceremony} as a [sign_1]{sign} of [authority]{authority}",
+      "entry": "baton",
+      "id": "baton#baton__4"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [carry_1]{carry} something such as a [flag_1]{flag}, [especially]{especially} in a [ceremony]{ceremony}",
+      "entry": "bearer",
+      "id": "bearer#bearer__1"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people}, [walking_1]{walking}, on [horse_1]{horses}, or in [vehicle]{vehicles}, who are [moving]{moving} [slowly]{slowly} as part of a [ceremony]{ceremony}",
+      "entry": "cavalcade",
+      "id": "cavalcade#cavalcade__1"
+    },
+    {
+      "comment": "the crown, jewelry, and other valuable objects that a king or queen wears or carries during ceremonies",
+      "entry": "crown jewels",
+      "id": "crown-jewels#crown-jewels__1"
+    },
+    {
+      "comment": "someone who [introduce]{introduces} [speaker]{speakers} or [performer]{performers} at a [social_1]{social} [event]{event} or show",
+      "entry": "emcee",
+      "id": "emcee_1#emcee_1__1"
+    },
+    {
+      "comment": "a [decorate]{decorated} [stick_1]{stick} [carry_1]{carried} by an [official_1]{official} on [special_1]{special} [occasion_1]{occasions}",
+      "entry": "mace",
+      "id": "mace_1#mace_1__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [introduce]{introduce} [speaker]{speakers} or [performer]{performers} at a [formal_1]{formal} [public_1]{public} [event]{event}",
+      "entry": "master of ceremonies",
+      "id": "master-of-ceremonies#master-of-ceremonies__1"
+    },
+    {
+      "comment": "[master_1]{Master} of [ceremony]{Ceremonies}: someone whose [job_1]{job} is to [introduce]{introduce} [speaker]{speakers} and [performer]{performers} at a [public_1]{public} [event]{event}",
+      "entry": "MC",
+      "id": "mc#mc__1"
+    },
+    {
+      "comment": "a [small_1]{small} [gold_1]{gold} [ball_1]{ball} with a cross on top that a [king]{king} or [queen_1]{queen} [carry_1]{carries} as part of a [ceremony]{ceremony}",
+      "entry": "orb",
+      "id": "orb#orb__3"
+    },
+    {
+      "comment": "the [traditional]{traditional} [feature_1]{features} of [formal_1]{formal} [ceremony]{ceremonies}, for [example]{example} [special_1]{special} [clothes]{clothes}, [music]{music}, and [decoration]{decorations}",
+      "entry": "pageantry",
+      "id": "pageantry#pageantry__1"
+    },
+    {
+      "comment": "a [line_1]{line} of [people_1]{people} or [vehicle]{vehicles} [moving]{moving} in a [slow_1]{slow} and [formal_1]{formal} way as part of an [event]{event}",
+      "entry": "procession",
+      "id": "procession#procession__1"
+    },
+    {
+      "comment": "[special_1]{special} [clothes]{clothes} that you [wear_1]{wear} for a [ceremony]{ceremony} or [official_1]{official} [occasion_1]{occasion}",
+      "entry": "regalia",
+      "id": "regalia#regalia__1"
+    },
+    {
+      "comment": "objects and clothing used and worn by members of a royal family",
+      "entry": "regalia",
+      "id": "regalia#regalia__2"
+    },
+    {
+      "comment": "a long [loose_1]{loose} [piece_1]{piece} of [clothing]{clothing}, [worn_1]{worn} by an [important]{important} [person]{person} such as a [priest]{priest} during an [official_1]{official} [ceremony]{ceremony}",
+      "entry": "robe",
+      "id": "robe_1#robe_1__2"
+    },
+    {
+      "comment": "a [decorate]{decorated} [stick_1]{stick} that a [king]{king} or [queen_1]{queen} [carry_1]{carries} at [ceremony]{ceremonies}",
+      "entry": "scepter",
+      "id": "scepter#scepter__1"
+    },
+    {
+      "comment": "in England and Wales, the king\u2019s or queen\u2019s representative in a county, who has particular duties in a ceremony",
+      "entry": "sheriff",
+      "id": "sheriff#sheriff__3"
+    },
+    {
+      "comment": "a [stick_1]{stick} that some [official_2]{officials} [carry_1]{carry} on [formal_1]{formal} [occasion_1]{occasions}",
+      "entry": "staff",
+      "id": "staff_1#staff_1__18"
+    },
+    {
+      "comment": "someone who introduces the speakers at a formal meal and is in charge of the toasts",
+      "entry": "toastmaster",
+      "id": "toastmaster#toastmaster__1"
+    },
+    {
+      "comment": "a woman who introduces the speakers at a formal meal and is in charge of the toasts",
+      "entry": "toastmistress",
+      "id": "toastmistress#toastmistress__1"
+    }
+  ],
+  "thesaurus": "People and objects involved in ceremonies",
+  "type": "Related words"
+}

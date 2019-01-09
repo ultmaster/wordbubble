@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "hire out",
+  "senses": [
+    {
+      "def": "to [send_1]{send} someone to [work_1]{work} for other [people_1]{people} for [short_1]{short} [period_1]{periods} of time in [return_1]{return} for [payment]{payment}",
+      "examples": [
+        "Sometimes he [hire_1]{hires} [himself]{himself} out on [neighboring]{neighboring} [farm_1]{farms}."
+      ],
+      "id": "hire-out__1"
+    },
+    {
+      "def": "to [rent_1]{rent} something out",
+      "examples": [],
+      "id": "hire-out__3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [win_1]{wins} a [race_1]{race}, [competition]{competition}, or [prize_1]{prize}",
+      "entry": "winner",
+      "id": "winner#winner__1"
+    },
+    {
+      "comment": "someone who has [won]{won} an [important]{important} [competition]{competition}, [especially]{especially} in a [sport_1]{sport}",
+      "entry": "champion",
+      "id": "champion_1#champion_1__1"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [medalist]{medalist}",
+      "entry": "medallist",
+      "id": "medallist#medallist__1"
+    },
+    {
+      "comment": "a [titleholder]{titleholder} in a [sport_1]{sports} [competition]{competition}",
+      "entry": "titlist",
+      "id": "titlist#titlist__1"
+    },
+    {
+      "comment": "the [winner]{winner} of a [sport_1]{sports} [competition]{competition}",
+      "entry": "titleholder",
+      "id": "titleholder#titleholder__1"
+    },
+    {
+      "comment": "the [winner]{winner} of a [competition]{competition} or [battle_1]{battle}",
+      "entry": "victor",
+      "id": "victor#victor__1"
+    },
+    {
+      "comment": "a [champion_1]{champion}",
+      "entry": "champ",
+      "id": "champ_1#champ_1__1"
+    },
+    {
+      "comment": "someone who has done something [fast_1]{faster}, [long_1]{longer}, [better_1]{better}, etc. than anyone else",
+      "entry": "record-holder",
+      "id": "record-holder#record-holder__1"
+    },
+    {
+      "comment": "someone who has won a prize for their achievements, especially a Nobel Prize",
+      "entry": "laureate",
+      "id": "laureate#laureate__1"
+    },
+    {
+      "comment": "the [person]{person} who is in the most [important]{important} or [leading]{leading} [position_1]{position} in any [activity]{activity}",
+      "entry": "point person",
+      "id": "point-person#point-person__1"
+    }
+  ],
+  "thesaurus": "Winners of games and competitions",
+  "type": "Synonyms"
+}

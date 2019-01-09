@@ -1,0 +1,30 @@
+{
+  "part": "phrase",
+  "phrase": "thank you",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone that you are [grateful]{grateful} for something that they have [said_1]{said} or done",
+      "examples": [
+        "\u201cThat\u2019s a [nice]{nice} [jacket]{jacket}.\u201d \u201c[thank]{Thank} you.\u201d",
+        "[thank]{Thank} you for your [kind_1]{kind} [word_1]{words}.",
+        "[thank]{Thank} you for coming here [today_1]{today}."
+      ],
+      "id": "thank-you_1__1"
+    },
+    {
+      "def": "[used]{used} for [politely]{politely} [accepting]{accepting} something that is [offer_1]{offered} to you",
+      "examples": [
+        "\u201cWould you [like_1]{like} a [cup_1]{cup} of [coffee]{coffee}?\u201d \u201c[oh_1]{Oh}, [thank]{thank} you, that would be [great_1]{great}.\u201d",
+        "\u201cAnother [glass]{glass} of [wine_1]{wine}?\u201d \u201cNo, [thank]{thank} you.\u201d"
+      ],
+      "id": "thank-you_1__5"
+    },
+    {
+      "def": "[used]{used} at the [end_1]{end} of a [sentence_1]{sentence} for [telling]{telling} someone [firm_1#firm_1__28]{firmly} that you do not [want_1]{want} something",
+      "examples": [
+        "I can [lift_1]{lift} this on my own, [thank]{thank} you."
+      ],
+      "id": "thank-you_1__9"
+    }
+  ]
+}

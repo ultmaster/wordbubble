@@ -1,0 +1,176 @@
+{
+  "entries": [
+    {
+      "comment": "a computer on the [internet]{Internet} that has a [large_1]{large} [collection]{collection} of [file_1]{files} and [program_1]{programs}, [copy_2]{copied} from other [computer]{computers} around the [internet]{Internet}, that a [user]{user} can [download_1]{download}",
+      "entry": "archive site",
+      "id": "archive-site#archive-site__1"
+    },
+    {
+      "comment": "a computer, program, or piece of equipment that takes and uses information from a server",
+      "entry": "client",
+      "id": "client#client__5"
+    },
+    {
+      "comment": "a computer or [program_1]{program} [design_2]{designed} to [work_1]{work} in the same way as another computer or [program_1]{program}",
+      "entry": "clone",
+      "id": "clone_1#clone_1__3"
+    },
+    {
+      "comment": "a [machine_1]{machine} that [store_1]{stores} [program_1]{programs} and [information]{information} in [electronic]{electronic} form and can be [used]{used} for a [variety]{variety} of [process_1]{processes}, for [example]{example} [writing]{writing}, [calculating]{calculating}, and [communicate]{communicating} on the [internet]{Internet}",
+      "entry": "computer",
+      "id": "computer#computer__1"
+    },
+    {
+      "comment": "a computer that controls or performs a particular job for all the computers connected to a network",
+      "entry": "end system",
+      "id": "end-system#end-system__1"
+    },
+    {
+      "comment": "a [small_1]{small} [machine_1]{machine} on which you can read [book_1]{books} and [document_1]{documents}, [connect]{connect} to the [internet]{internet}, etc.",
+      "entry": "e-reader",
+      "id": "e-reader#e-reader__1"
+    },
+    {
+      "comment": "a computer that stores information that can be used by people with other computers connected to the same network",
+      "entry": "file server",
+      "id": "file-server#file-server__1"
+    },
+    {
+      "comment": "a front-end processor",
+      "entry": "front end",
+      "id": "front-end_1#front-end_1__2"
+    },
+    {
+      "comment": "a computer that [deal_1]{deals} with [information]{information} before [passing_1]{passing} it to another computer that [does]{does} something else with it",
+      "entry": "front-end processor",
+      "id": "front-end-processor#front-end-processor__1"
+    },
+    {
+      "comment": "the main computer in a network that controls certain processes or files",
+      "entry": "host",
+      "id": "host_1#host_1__12"
+    },
+    {
+      "comment": "a [small_1]{small} computer that you can [carry_1]{carry} with you",
+      "entry": "laptop",
+      "id": "laptop#laptop__1"
+    },
+    {
+      "comment": "a [central]{central} computer that [control_1]{controls} the [send_1]{sending} and [receive]{receiving} of [e-mail_1]{e-mail}",
+      "entry": "mail server",
+      "id": "mail-server#mail-server__1"
+    },
+    {
+      "comment": "a [powerful]{powerful} computer that has a [number_1]{number} of [small_1]{smaller} [computer]{computers} [connected]{connected} to it for [individual_1]{individual} [user]{users}",
+      "entry": "mainframe",
+      "id": "mainframe#mainframe__1"
+    },
+    {
+      "comment": "a computer that is more powerful than a PC but not as powerful as a mainframe",
+      "entry": "minicomputer",
+      "id": "minicomputer#minicomputer__1"
+    },
+    {
+      "comment": "a small, light laptop computer designed for Internet access and wireless communication",
+      "entry": "netbook",
+      "id": "netbook#netbook__1"
+    },
+    {
+      "comment": "a [small_1]{small} [flat_1]{flat} computer that is [easy_1]{easy} to [carry_1]{carry}",
+      "entry": "notebook",
+      "id": "notebook#notebook__2"
+    },
+    {
+      "comment": "a [large_1]{large} [powerful]{powerful} computer that [does]{does} [complicated]{complicated} [calculation]{calculations}",
+      "entry": "number cruncher",
+      "id": "number-cruncher#number-cruncher__2"
+    },
+    {
+      "comment": "a very [small_1]{small} computer with a [screen_1]{screen} that you [touch_1]{touch} rather than a [keyboard_1]{keyboard}, [used]{used} [mainly]{mainly} as an [address_1]{address} [book_1]{book} and for [e-mail_1]{e-mail}",
+      "entry": "palm computer",
+      "id": "palm-computer#palm-computer__1"
+    },
+    {
+      "comment": "a computer [small_1]{small} enough to be [held]{held} in the hand. They were mostly [replace]{replaced} by [smartphone]{smartphones} and [tablet]{tablets}..",
+      "entry": "palmtop",
+      "id": "palmtop#palmtop__1"
+    },
+    {
+      "comment": "[personal_1]{personal} [digital]{digital} [assistant_1]{assistant}: a very [small_1]{small} computer on which you could [store_1]{store} [personal_1]{personal} [information]{information}, [write]{write} [document_1]{documents}, etc. They were mostly [replace]{replaced} by [smartphone]{smartphones}.",
+      "entry": "PDA",
+      "id": "pda#pda__1"
+    },
+    {
+      "comment": "a computer that [accept]{accepts} [information]{information} [written_1]{written} by hand",
+      "entry": "pen computer",
+      "id": "pen-computer#pen-computer__1"
+    },
+    {
+      "comment": "a small computer designed to be used by one person at home or in an office. A personal computer is often simply called a PC.",
+      "entry": "personal computer",
+      "id": "personal-computer#personal-computer__1"
+    },
+    {
+      "comment": "a PDA",
+      "entry": "personal digital assistant",
+      "id": "personal-digital-assistant#personal-digital-assistant__1"
+    },
+    {
+      "comment": "a [small_1]{small} [book_1]{book} or [simple]{simple} computer, [used]{used} [mainly]{mainly} for [keeping]{keeping} [address_1]{addresses}, [telephone_1]{telephone} [number_1]{numbers}, [date_1]{dates}, etc.",
+      "entry": "personal organizer",
+      "id": "personal-organizer#personal-organizer__1"
+    },
+    {
+      "comment": "a [mobile_1]{mobile} [device]{device} that [combine_1]{combines} the [function_1]{functions} of a [smartphone]{smartphone} and a [tablet]{tablet} computer",
+      "entry": "phablet",
+      "id": "phablet#phablet__1"
+    },
+    {
+      "comment": "a server that is suitable to use for doing business over the Internet because it can deal with information that has been encrypted  (=made safe by putting it into a form that not everyone can read)",
+      "entry": "secure server",
+      "id": "secure-server#secure-server__1"
+    },
+    {
+      "comment": "a computer that controls or performs a particular job for all the computers in a network",
+      "entry": "server",
+      "id": "server#server__1"
+    },
+    {
+      "comment": "a [cell]{cell} [phone_1]{phone} that [work_1]{works} [like_1]{like} a [small_1]{small} computer, [allow]{allowing} you to [access_1]{access} the [internet]{internet}, [run_1]{run} [software]{software} [app_1]{apps}, read and [send_1]{send} [e-mail_1]{e-mails}, etc.",
+      "entry": "smartphone",
+      "id": "smartphone#smartphone__1"
+    },
+    {
+      "comment": "a computer that you can carry around that is smaller and lighter than a notebook computer",
+      "entry": "subnotebook",
+      "id": "subnotebook#subnotebook__1"
+    },
+    {
+      "comment": "a very [powerful]{powerful} computer that can [deal_1]{deal} with [large_1]{large} [amount_1]{amounts} of [information]{information} very [quickly]{quickly}",
+      "entry": "supercomputer",
+      "id": "supercomputer#supercomputer__1"
+    },
+    {
+      "comment": "an extremely powerful computer that controls a network or networks of other computers",
+      "entry": "superserver",
+      "id": "superserver#superserver__1"
+    },
+    {
+      "comment": "a [mobile_1]{mobile} [computing]{computing} [device]{device}, [large_1]{larger} than a [mobile_1]{mobile} [phone_1]{phone}, that can [browse]{browse} the [internet]{internet}, [handle_1]{handle} [e-mail_1]{e-mail}, [play_1]{play} [music]{music} and [video_1]{video}, and [display_1]{display} [e-book]{e-books}. The [user]{user} [control_1]{controls} it by [touching_1]{touching} the [screen_1]{screen}.",
+      "entry": "tablet computer, tab",
+      "id": "tablet#tablet__7"
+    },
+    {
+      "comment": "a [small_1]{small} computer [used]{used} for [typing]{typing} and [store_2]{storing} [written_1]{written} [document_1]{documents}",
+      "entry": "word processor",
+      "id": "word-processor#word-processor__2"
+    },
+    {
+      "comment": "a [powerful]{powerful} computer [used]{used} in an [office]{office} or other [place_1]{place} of [work_1]{work}",
+      "entry": "workstation",
+      "id": "workstation#workstation__2"
+    }
+  ],
+  "thesaurus": "Types of computer",
+  "type": "Related words"
+}

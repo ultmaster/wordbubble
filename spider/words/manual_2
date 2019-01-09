@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[involve]{involving} the use of your [hand_1]{hands}",
+      "examples": [
+        "manual [labor_1]{labor}",
+        "The [job_1]{job} [require]{requires} manual [skill]{skill}."
+      ],
+      "id": "manual_2__1"
+    },
+    {
+      "def": "[operate]{operated} by a [person]{person} [instead]{instead} of [automatically]{automatically} or [use_1]{using} a computer",
+      "examples": [
+        "The [car]{car} comes with either a manual or an [automatic_1]{automatic} [gearbox]{gearbox}.",
+        "a manual [accounting]{accounting} system"
+      ],
+      "id": "manual_2__5"
+    },
+    {
+      "def": "[operate]{operated} without [electricity]{electricity}",
+      "examples": [
+        "an [old]{old} manual [typewriter]{typewriter}"
+      ],
+      "id": "manual_2__8"
+    }
+  ],
+  "word": "manual"
+}

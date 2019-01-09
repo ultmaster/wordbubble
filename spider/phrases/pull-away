@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "pull away",
+  "senses": [
+    {
+      "def": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} [away_1]{away}, they [start_1]{start} to move",
+      "examples": [
+        "The [bus_1]{bus} [pull_1]{pulled} [away_1]{away} from the [station_1]{station} around noon."
+      ],
+      "id": "pull-away__1"
+    },
+    {
+      "def": "to move [away_1]{away} from someone who is [trying]{trying} to [hold_1]{hold} you or [touch_1]{touch} you",
+      "examples": [
+        "When he [tried_1]{tried} to [kiss_1]{kiss} her, she [pull_1]{pulled} [away_1]{away} from him."
+      ],
+      "id": "pull-away__3"
+    },
+    {
+      "def": "[used]{used} about a [person]{person} or [team_1]{team} that [start_1]{starts} to [win_1]{win}",
+      "examples": [
+        "They were [neck_1]{neck} and [neck_1]{neck}, then Akers [pull_1]{pulled} [away_1]{away}.",
+        "The [blues]{Blues} [pull_1]{pulled} [away_1]{away} from the Red [wing_1]{Wings} in the third [period_1]{period}."
+      ],
+      "id": "pull-away__5"
+    }
+  ]
+}

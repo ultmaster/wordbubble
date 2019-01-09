@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[base_2]{based} on [good_1]{good} [knowledge]{knowledge} of something",
+      "examples": [
+        "an informed [choice_1]{choice}/[decision_1]{decision}"
+      ],
+      "id": "informed__1"
+    },
+    {
+      "def": "[have]{having} a [lot_1]{lot} of [knowledge]{knowledge} or [information]{information} about something",
+      "examples": [
+        "The [book_1]{book} is [intended_1]{intended} for an informed [readership]{readership}.",
+        "an informed [debate_1]{debate}"
+      ],
+      "id": "informed__3"
+    }
+  ],
+  "word": "informed"
+}

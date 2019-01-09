@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "almost not, or almost none",
+      "examples": [
+        "There was scarcely any [traffic_1]{traffic}."
+      ],
+      "id": "scarcely__1"
+    },
+    {
+      "def": "only [just_1]{just}",
+      "examples": [
+        "We had scarcely [driven_1]{driven} a [mile]{mile} when the [car]{car} [broke_1]{broke} down."
+      ],
+      "id": "scarcely__3"
+    },
+    {
+      "def": "[used]{used} for [showing]{showing} that something is [certainly]{certainly} not [true_1]{true} or [possible_1]{possible}",
+      "examples": [
+        "I can scarcely [refuse_1]{refuse} to [help_1]{help} after all he\u2019s done for me."
+      ],
+      "id": "scarcely__5"
+    }
+  ],
+  "word": "scarcely"
+}

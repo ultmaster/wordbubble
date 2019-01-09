@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "add up",
+  "senses": [
+    {
+      "def": "to [calculate]{calculate} the [total_1]{total} of several [number_1]{numbers} or [amount_1]{amounts}",
+      "examples": [
+        "Now [add_1]{add} up the [number_1]{number} of [calorie]{calories} you have [eaten]{eaten}.",
+        "I\u2019m not very [good_1]{good} at [add_1]{adding} up in my [head_1]{head}.",
+        "All these [little_1]{little} [expense_1]{expenses} [soon]{soon} [add_1]{add} up."
+      ],
+      "id": "add-up__1"
+    },
+    {
+      "def": "if a [set_1]{set} of [fact]{facts} [does]{does} not [add_1]{add} up, you do not [believe]{believe} it is [correct_1]{correct} because it [does]{does} not [match_1]{match} other [information]{information} that you already have",
+      "examples": [
+        "There\u2019s something about this [case_1]{case} that [just_1]{just} doesn\u2019t [add_1]{add} up."
+      ],
+      "id": "add-up__6"
+    }
+  ]
+}

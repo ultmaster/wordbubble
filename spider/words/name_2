@@ -1,0 +1,41 @@
+{
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to give someone or something a name",
+      "examples": [
+        "Have you [name_2]{named} the [baby_1]{baby} yet?",
+        "We [name_2]{named} our [puppy]{puppy} [buddy_1]{Buddy}.",
+        "The [palm_1]{Palms} [hotel]{Hotel} is [apt_1#apt_1__7]{aptly} [name_2]{named}."
+      ],
+      "id": "name_2__1"
+    },
+    {
+      "def": "to [know_1]{know} and [say_1]{say} what the name of someone or something is",
+      "examples": [
+        "How many [state_1]{state} [capital_1]{capitals} can you name?",
+        "They\u2019ve been [name_2]{named} as the [chief_1]{chief} [suspect_1]{suspects} in the [investigation]{investigation}."
+      ],
+      "id": "name_2__5"
+    },
+    {
+      "def": "to [decide]{decide} on and [state_1]{state} something such as a [date_1]{date}, time, [place_1]{place}, or [price_1]{price}",
+      "examples": [
+        "Name a time, and I\u2019ll be there.",
+        "I [really]{really} [want_1]{want} it. [just_1]{Just} name your [price_1]{price}!"
+      ],
+      "id": "name_2__8"
+    },
+    {
+      "def": "to [choose]{choose} someone for a [particular_1]{particular} [job_1]{job}, [position_1]{position}, or [prize_1]{prize}",
+      "examples": [
+        "He was [name_2]{named} [player]{player} of the [year]{year} at the [award_1]{awards} [ceremony]{ceremony}.",
+        "She was [name_2]{named} to the [post_1]{post} last Wednesday.",
+        "Weston was [name_2]{named} as [captain_1]{captain} of the [varsity]{Varsity} [football]{football} [team_1]{team}.",
+        "They\u2019ve [ask_1]{asked} that a [special_1]{special} [prosecutor]{prosecutor} be [name_2]{named} to [investigate]{investigate}."
+      ],
+      "id": "name_2__11"
+    }
+  ],
+  "word": "name"
+}

@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "in kind",
+  "senses": [
+    {
+      "def": "[payment]{payments}, [benefit_1]{benefits}, etc. in [kind_1]{kind} are in the form of [goods]{goods} or [service_1]{services} [instead]{instead} of [money]{money}",
+      "examples": [
+        "The [loan_1]{loan} of the [car]{car} was a [payment]{payment} in [kind_1]{kind}.",
+        "Many [company]{companies} have [donate]{donated} [gift_1]{gifts} in [kind_1]{kind}."
+      ],
+      "id": "in-kind__1"
+    },
+    {
+      "def": "to [behave]{behave} to someone in the same way that they have [behave]{behaved} to you",
+      "examples": [
+        "They [respond]{responded} in [kind_1]{kind}, [threatening]{threatening} to [ban_1]{ban} [import_1]{imports} from Japan."
+      ],
+      "id": "in-kind__4"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [state_1]{state} of being [reasonable]{reasonable}, [correct_1]{correct}, or [generally]{generally} [accepted]{accepted}",
+      "examples": [
+        "I [question_1]{question} the validity of this [claim_1]{claim}.",
+        "This [description]{description} has no [scientific]{scientific} validity.",
+        "That [led_1]{led} them to [question_1]{question} the validity of the [information]{information} they were [receive]{receiving}.",
+        "Such [flaw]{flaws} in [methodology]{methodology} may [threaten]{threaten} the validity of your [findings]{findings}."
+      ],
+      "id": "validity__1"
+    },
+    {
+      "def": "the [state_1]{state} of being [legally]{legally} or [officially]{officially} [accepted]{accepted}",
+      "examples": [
+        "This [contract_1]{contract} has no [legal]{legal} validity.",
+        "The [visa]{visa} has a [maximum_1]{maximum} validity of 90 [day]{days}."
+      ],
+      "id": "validity__6"
+    }
+  ],
+  "word": "validity"
+}

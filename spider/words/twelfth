@@ -1,0 +1,20 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} 12",
+      "examples": [
+        "the twelfth of the [month]{month}"
+      ],
+      "id": "twelfth__1"
+    },
+    {
+      "def": "one of 12 [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "An [inch_1]{inch} is one twelfth of a [foot_1]{foot}."
+      ],
+      "id": "twelfth__3"
+    }
+  ],
+  "word": "twelfth"
+}

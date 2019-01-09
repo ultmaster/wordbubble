@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "not necessarily",
+  "senses": [
+    {
+      "def": "not always, or not in every [situation]{situation}",
+      "examples": [
+        "[individual_1]{Individual} [symptom]{symptoms} are not [necessarily]{necessarily} [typical]{typical} of the [disease]{disease}.",
+        "[heading]{Headings} within the [text_1]{text} should be [bold_1]{bold} but not [necessarily]{necessarily} [big_1]{bigger}.",
+        "Our [client]{clients} [won]{won}\u2019t [necessarily]{necessarily} [understand]{understand} why we are [raise_1]{raising} our [price_1]{prices}."
+      ],
+      "id": "not-necessarily__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you [think_1]{think} something that someone [said_1]{said} is not always [true_1]{true}",
+      "examples": [
+        "\u201cIt\u2019s [cheap_1]{cheaper} to [live_1]{live} in an [apartment]{apartment} than a [house_1]{house}.\u201d \u201cNot [necessarily]{necessarily}.\u201d"
+      ],
+      "id": "not-necessarily__5"
+    }
+  ]
+}

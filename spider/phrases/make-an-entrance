@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "make an entrance",
+  "senses": [
+    {
+      "def": "to [enter]{enter} a [room_1]{room} or [building]{building} in a [formal_1]{formal} way or in a way that [make_1]{makes} [people_1]{people} [notice_1]{notice} you",
+      "examples": [
+        "The [prime_1]{prime} [minister_1]{minister} made an [entrance_1]{entrance}, [surround_1]{surrounded} by [security]{security} [men]{men}."
+      ],
+      "id": "make-an-entrance__1"
+    },
+    {
+      "def": "to come onto the [stage_1]{stage} of a [theater]{theater} to [begin]{begin} your [performance]{performance}",
+      "examples": [],
+      "id": "make-an-entrance__3"
+    }
+  ]
+}

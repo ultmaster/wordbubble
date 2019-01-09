@@ -1,0 +1,381 @@
+{
+  "entries": [
+    {
+      "comment": "an official of some U.S. government departments, such as the FBI",
+      "entry": "agent",
+      "id": "agent#agent__8"
+    },
+    {
+      "comment": "a [male_1]{male} [politician]{politician} who is a [member]{member} of the [government]{government} of a [city]{city} in the U.S., Canada, or Australia",
+      "entry": "alderman",
+      "id": "alderman#alderman__1"
+    },
+    {
+      "comment": "a [female_1]{female} [politician]{politician} who is a [member]{member} of the [government]{government} of a [city]{city} in the U.S., Canada, or Australia",
+      "entry": "alderwoman",
+      "id": "alderwoman#alderwoman__1"
+    },
+    {
+      "comment": "a male politician who has been elected as a member of a U.S. state Assembly",
+      "entry": "assemblyman",
+      "id": "assemblyman#assemblyman__1"
+    },
+    {
+      "comment": "a female politician who has been elected as a member of a U.S. state Assembly",
+      "entry": "assemblywoman",
+      "id": "assemblywoman#assemblywoman__1"
+    },
+    {
+      "comment": "the [head_1]{head} of the U.S. [department]{Department} of [justice]{Justice}",
+      "entry": "attorney general",
+      "id": "attorney-general#attorney-general__2"
+    },
+    {
+      "comment": "someone in a [government]{government} who is a [member]{member} of the [cabinet]{cabinet}",
+      "entry": "cabinet minister",
+      "id": "cabinet-minister#cabinet-minister__1"
+    },
+    {
+      "comment": "the [leader]{leader} of the [government]{government} in some [country]{countries}, for [example]{example} Germany and Austria",
+      "entry": "chancellor",
+      "id": "chancellor#chancellor__2"
+    },
+    {
+      "comment": "the [chancellor]{Chancellor} of the Exchequer in the U.K.",
+      "entry": "chancellor",
+      "id": "chancellor#chancellor__3"
+    },
+    {
+      "comment": "the [member]{member} of the British [government]{government} who is [responsible]{responsible} for [tax_1]{taxes} and for [deciding]{deciding} how the [government]{government} [spend]{spends} its [money]{money}",
+      "entry": "Chancellor of the Exchequer",
+      "id": "chancellor-of-the-exchequer#chancellor-of-the-exchequer__1"
+    },
+    {
+      "comment": "the [leader]{leader} of a [local_1]{local} or [state_1]{state} [government]{government} [organization]{organization}",
+      "entry": "chief executive",
+      "id": "chief-executive#chief-executive__2"
+    },
+    {
+      "comment": "the political leader of a state in India or of a territory in Australia",
+      "entry": "chief minister",
+      "id": "chief-minister#chief-minister__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [manage]{manage} the [people_1]{people} who [work_1]{work} for a [government]{government} [leader]{leader} and to [advise]{advise} that [leader]{leader}",
+      "entry": "chief of staff",
+      "id": "chief-of-staff#chief-of-staff__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} for a [government]{government} [department]{department}",
+      "entry": "civil servant",
+      "id": "civil-servant#civil-servant__1"
+    },
+    {
+      "comment": "[chief_1]{chief} [minister_1]{minister}: the [political]{political} [leader]{leader} of a [state_1]{state} in India or of a [territory]{territory} in Australia",
+      "entry": "CM",
+      "id": "cm_1#cm_1__1"
+    },
+    {
+      "comment": "a member of a commission",
+      "entry": "commissioner",
+      "id": "commissioner#commissioner__1"
+    },
+    {
+      "comment": "an [important]{important} [official_1]{official} in a [government]{government}, [especially]{especially} someone who is in [charge_1]{charge} of a [particular_1]{particular} [department]{department}",
+      "entry": "commissioner",
+      "id": "commissioner#commissioner__3"
+    },
+    {
+      "comment": "the British [spelling]{spelling} of [councilor]{councilor}",
+      "entry": "councillor",
+      "id": "councillor#councillor__1"
+    },
+    {
+      "comment": "a man who is an [elect_1]{elected} [member]{member} of the [government]{government} of a [city]{city} in the U.S.",
+      "entry": "councilman",
+      "id": "councilman#councilman__1"
+    },
+    {
+      "comment": "a [member]{member} of a [council]{council}",
+      "entry": "councilor",
+      "id": "councilor#councilor__1"
+    },
+    {
+      "comment": "a [woman]{woman} who is an [elect_1]{elected} [member]{member} of the [government]{government} of a [city]{city} in the U.S.",
+      "entry": "councilwoman",
+      "id": "councilwoman#councilwoman__1"
+    },
+    {
+      "comment": "a [government]{government} [official_1]{official} who is [responsible]{responsible} for [dealing]{dealing} with a [specific]{specific} [problem]{problem}, [especially]{especially} one that [cause_1]{causes} a [lot_1]{lot} of [public_1]{public} [worry_1]{worry}",
+      "entry": "czar",
+      "id": "czar#czar__2"
+    },
+    {
+      "comment": "an [elect_1]{elected} [member]{member} of a [legislature]{legislature} in some [country]{countries}, for [example]{example} France",
+      "entry": "deputy",
+      "id": "deputy#deputy__5"
+    },
+    {
+      "comment": "a lawyer who works for a state or county government in the U.S. and whose job is to bring people accused of crimes to trial",
+      "entry": "district attorney",
+      "id": "district-attorney#district-attorney__1"
+    },
+    {
+      "comment": "an [official_1]{official} [employ_1]{employed} by a [national_1]{national} [government]{government} to [try_1]{try} to [stop_1]{stop} the [trade_1]{trade} in [illegal_1]{illegal} [drug_1]{drugs}",
+      "entry": "drug czar",
+      "id": "drug-czar#drug-czar__1"
+    },
+    {
+      "comment": "in Scotland, Wales, [northern]{Northern} Ireland and some other [country]{countries}, the [leader]{leader} of the [ruling_1]{ruling} [party_1]{party}",
+      "entry": "First Minister",
+      "id": "first-minister#first-minister__1"
+    },
+    {
+      "comment": "the British government official who is responsible for Britain\u2019s relationships with foreign countries. The U.S. title for a similar job is Secretary of State.",
+      "entry": "Foreign Secretary",
+      "id": "foreign-secretary#foreign-secretary__1"
+    },
+    {
+      "comment": "an [official_1]{official} who [work_1]{works} for a [government]{government} or a [political]{political} [party_1]{party}, [especially]{especially} one with [unimportant]{unimportant} or [boring_1]{boring} [office]{office} [duty]{duties}",
+      "entry": "functionary",
+      "id": "functionary#functionary__1"
+    },
+    {
+      "comment": "[governor]{governor}",
+      "entry": "gov.",
+      "id": "gov_2#gov_2__1"
+    },
+    {
+      "comment": "an [elect_1]{elected} [official_1]{official} who is the [political]{political} [head_1]{head} of a [state_1]{state} in the U.S.",
+      "entry": "governor",
+      "id": "governor#governor__1"
+    },
+    {
+      "comment": "an [official_1]{official} who [govern]{governs} a [country]{country} or part of a [country]{country} that is [ruled]{ruled} by another [state_1]{state}",
+      "entry": "governor",
+      "id": "governor#governor__3"
+    },
+    {
+      "comment": "an [official_1]{official} who is [sent]{sent} by the [central]{central} [government]{government} to [govern]{govern} an [area]{area} of the [country]{country}",
+      "entry": "governor",
+      "id": "governor#governor__4"
+    },
+    {
+      "comment": "an [official_1]{official} who [govern]{governs} a [large_1]{large} [area]{area} or [country]{country} and has several other [governor]{governors} who [work_1]{work} under him",
+      "entry": "governor-general",
+      "id": "governor-general#governor-general__1"
+    },
+    {
+      "comment": "relating to the position of governor",
+      "entry": "gubernatorial",
+      "id": "gubernatorial#gubernatorial__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} for the [government]{government} whose [job_1]{job} is to [visit_1]{visit} [restaurant]{restaurants} and [make_1]{make} [sure_1]{sure} that they are [clean_1]{clean} and [obey]{obeying} [law]{laws} about [prepare]{preparing} [food]{food}",
+      "entry": "health inspector",
+      "id": "health-inspector#health-inspector__1"
+    },
+    {
+      "comment": "in the U.K., the person who is in charge of the Home Office. The person who has a similar job in the U.S. is called the Attorney General and, in some other countries, the Minister of the Interior.",
+      "entry": "Home Secretary",
+      "id": "home-secretary#home-secretary__1"
+    },
+    {
+      "comment": "the [leader]{leader} of the [political]{political} [party_1]{party} that has the most [member]{members} in the U.S. [house_1]{House} of [representative_1]{Representatives} or the U.S. [senate]{Senate}",
+      "entry": "majority leader",
+      "id": "majority-leader#majority-leader__1"
+    },
+    {
+      "comment": "a senior official in a government department. This word often shows that you think officials like these have too much power.",
+      "entry": "mandarin",
+      "id": "mandarin_1#mandarin_1__1"
+    },
+    {
+      "comment": "a [senior_1]{senior} [government]{government} [official_1]{official} in [china_1]{China} in the [past_1]{past}",
+      "entry": "mandarin",
+      "id": "mandarin_1#mandarin_1__2"
+    },
+    {
+      "comment": "a [government]{government} [officer]{officer} whose [job_1]{job} is to [make_1]{make} [certain_1]{certain} that the [law]{laws} of a [place_1]{place} or [order_1]{orders} of a [court_1]{court} are [obey]{obeyed}",
+      "entry": "marshal",
+      "id": "marshal_1#marshal_1__1"
+    },
+    {
+      "comment": "the most [important]{important} [elect_1]{elected} [official_1]{official} in a [town]{town} or [city]{city}",
+      "entry": "mayor",
+      "id": "mayor#mayor__1"
+    },
+    {
+      "comment": "the [official_1]{official} [position_1]{position} [held]{held} by a [mayor]{mayor}",
+      "entry": "mayoralty",
+      "id": "mayoralty#mayoralty__1"
+    },
+    {
+      "comment": "[member]{Member} of [congress_1]{Congress}",
+      "entry": "M.C.",
+      "id": "m-c#m-c__1"
+    },
+    {
+      "comment": "a [member]{member} of [government]{government} who is in [charge_1]{charge} of a [government]{government} [department]{department}",
+      "entry": "minister",
+      "id": "minister_1#minister_1__2"
+    },
+    {
+      "comment": "an official who represents their government in a foreign country, especially someone whose rank is below that of an ambassador",
+      "entry": "minister",
+      "id": "minister_1#minister_1__4"
+    },
+    {
+      "comment": "someone who has an [important]{important} [job_1]{job} in a [government]{government} [department]{department} in the U.K.",
+      "entry": "minister of state",
+      "id": "minister-of-state#minister-of-state__1"
+    },
+    {
+      "comment": "an important minister in the government of some Indian states",
+      "entry": "nawab",
+      "id": "nawab#nawab__1"
+    },
+    {
+      "comment": "a [public_1]{public} [official_1]{official} in some [country]{countries} who has [authority]{authority} over a [particular_1]{particular} [district]{district}",
+      "entry": "prefect",
+      "id": "prefect#prefect__1"
+    },
+    {
+      "comment": "the leader of a Canadian province",
+      "entry": "premier",
+      "id": "premier_2#premier_2__2"
+    },
+    {
+      "comment": "the leader of an Australian state or territory",
+      "entry": "premier",
+      "id": "premier_2#premier_2__3"
+    },
+    {
+      "comment": "the [political]{political} [leader]{leader} of a [country]{country} that [does]{does} not have a [king]{king} or [queen_1]{queen}",
+      "entry": "president",
+      "id": "president#president__1"
+    },
+    {
+      "comment": "someone who has been [elect_1]{elected} [president_1]{president} but has not [officially]{officially} [start_1]{started} the [position_1]{position} yet",
+      "entry": "president-elect",
+      "id": "president-elect#president-elect__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} for the [government]{government}, [especially]{especially} someone who has been [elect_1]{elected}",
+      "entry": "public servant",
+      "id": "public-servant#public-servant__1"
+    },
+    {
+      "comment": "the [president_1]{president} of a [town]{town} [council]{council} in Canada",
+      "entry": "reeve",
+      "id": "reeve#reeve__1"
+    },
+    {
+      "comment": "[representative_1]{Representative}",
+      "entry": "Rep.",
+      "id": "rep_2#rep_2__1"
+    },
+    {
+      "comment": "a [politician]{politician} who is a [member]{member} of the U.S. [house_1]{House} of [representative_1]{Representatives}",
+      "entry": "Representative",
+      "id": "representative_3#representative_3__1"
+    },
+    {
+      "comment": "a [government]{government} [official_1]{official} in [charge_1]{charge} of a [department]{department}",
+      "entry": "secretary",
+      "id": "secretary#secretary__4"
+    },
+    {
+      "comment": "the [senior_1]{senior} U.S. [government]{government} [official_1]{official} who [deal_1]{deals} with [relation]{relations} with other [country]{countries}",
+      "entry": "Secretary of State",
+      "id": "secretary-of-state#secretary-of-state__1"
+    },
+    {
+      "comment": "a [state_1]{state} [government]{government} [official_1]{official} in the U.S.",
+      "entry": "Secretary of State",
+      "id": "secretary-of-state#secretary-of-state__2"
+    },
+    {
+      "comment": "the [politician]{politician} in [charge_1]{charge} of a [particular_1]{particular} [government]{government} [department]{department} in the U.K.",
+      "entry": "Secretary of State",
+      "id": "secretary-of-state#secretary-of-state__3"
+    },
+    {
+      "comment": "a male leader in an Arab country. The area or country that he rules is called a sheikdom.",
+      "entry": "sheik",
+      "id": "sheik#sheik__1"
+    },
+    {
+      "comment": "a senior government law officer who is just below the Attorney General in rank",
+      "entry": "Solicitor General",
+      "id": "solicitor-general#solicitor-general__1"
+    },
+    {
+      "comment": "[special_1]{special} [adviser]{adviser}: someone who [work_1]{works} for a [minister_1]{minister} in the British [government]{government} but who is not a [permanent_1]{permanent} [civil]{civil} [servant]{servant}",
+      "entry": "spad",
+      "id": "spad#spad__1"
+    },
+    {
+      "comment": "the [member]{member} of the U.S. [house_1]{House} of [representative_1]{Representatives} who is [elect_1]{elected} by the [party_1]{party} with a [majority]{majority} of [member]{members} as their [leader]{leader}",
+      "entry": "the Speaker of the House",
+      "id": "the-speaker-of-the-house#the-speaker-of-the-house__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} for the FBI",
+      "entry": "special agent",
+      "id": "special-agent#special-agent__1"
+    },
+    {
+      "comment": "an elected official in Congress or Parliament who writes a bill and organizes support for it in order to try get other officials to vote for it",
+      "entry": "sponsor",
+      "id": "sponsor_2#sponsor_2__6"
+    },
+    {
+      "comment": "someone who is an elected member of the city or county government in some parts of the U.S.",
+      "entry": "supervisor",
+      "id": "supervisor#supervisor__2"
+    },
+    {
+      "comment": "the U.S. [government]{government} [official_1]{official} who is [responsible]{responsible} for [issue_1]{issues} [affecting]{affecting} [public_1]{public} [health]{health}",
+      "entry": "Surgeon General",
+      "id": "surgeon-general#surgeon-general__1"
+    },
+    {
+      "comment": "an elected official who keeps local records and gives out licenses",
+      "entry": "town clerk",
+      "id": "town-clerk#town-clerk__1"
+    },
+    {
+      "comment": "in the U.S., an [important]{important} [government]{government} [official_1]{official} whose [rank_1]{rank} is below [secretary]{secretary}",
+      "entry": "undersecretary",
+      "id": "undersecretary#undersecretary__1"
+    },
+    {
+      "comment": "in the U.K., a [junior_1]{junior} [government]{government} [official_1]{official} in a [government]{government} [department]{department}",
+      "entry": "undersecretary",
+      "id": "undersecretary#undersecretary__2"
+    },
+    {
+      "comment": "in the U.K., a senior civil servant  (=official who is not elected) in a government department",
+      "entry": "undersecretary",
+      "id": "undersecretary#undersecretary__3"
+    },
+    {
+      "comment": "a [vice_1]{vice} [president_1]{president}, either of a [country]{country} or of a [corporation]{corporation}",
+      "entry": "veep",
+      "id": "veep#veep__1"
+    },
+    {
+      "comment": "a [senior_1]{senior} [political]{political} [leader]{leader} with the [position_1]{position} [immediately]{immediately} below that of the [president_1]{president} of a [country]{country}",
+      "entry": "vice president",
+      "id": "vice-president#vice-president__1"
+    },
+    {
+      "comment": "[vice_1]{vice} [president_1]{president}",
+      "entry": "VP",
+      "id": "vp#vp__1"
+    }
+  ],
+  "thesaurus": "Individual government officials",
+  "type": "Related words"
+}

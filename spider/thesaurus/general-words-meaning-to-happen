@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to take [place_1]{place}, [usually]{usually} without being [plan_2]{planned}",
+      "entry": "happen",
+      "id": "happen#happen__1"
+    },
+    {
+      "comment": "to [happen]{happen}, [especially]{especially} by [chance_1]{chance}",
+      "entry": "come about",
+      "id": "come-about#come-about__1"
+    },
+    {
+      "comment": "to [happen]{happen}, [especially]{especially} [unexpected#unexpected__4]{unexpectedly}",
+      "entry": "occur",
+      "id": "occur#occur__1"
+    },
+    {
+      "comment": "to [happen]{happen}",
+      "entry": "go on",
+      "id": "go-on#go-on__6"
+    },
+    {
+      "comment": "to [happen]{happen}, take [place_1]{place}, or [begin]{begin} to [exist]{exist}",
+      "entry": "arrive",
+      "id": "arrive#arrive__14"
+    },
+    {
+      "comment": "to [happen]{happen}, or to be [allow]{allowed} to [happen]{happen}",
+      "entry": "pass",
+      "id": "pass_1#pass_1__54"
+    },
+    {
+      "comment": "to [happen]{happen}, or to [develop]{develop}",
+      "entry": "unfold",
+      "id": "unfold#unfold__6"
+    },
+    {
+      "comment": "to [happen]{happen}",
+      "entry": "transpire",
+      "id": "transpire#transpire__1"
+    },
+    {
+      "comment": "to [happen]{happen}",
+      "entry": "take place",
+      "id": "take-place#take-place__1"
+    },
+    {
+      "comment": "to [happen]{happen}",
+      "entry": "come to pass",
+      "id": "come-to-pass#come-to-pass__1"
+    }
+  ],
+  "thesaurus": "General words meaning to happen",
+  "type": "Synonyms"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "around the corner",
+  "senses": [
+    {
+      "def": "not [far]{far} [away_1]{away}",
+      "examples": [
+        "The [kid_1]{kids} go to [school_1]{school} [just_1]{just} around the [corner_1]{corner}."
+      ],
+      "id": "around-the-corner__1"
+    },
+    {
+      "def": "coming very [soon]{soon}",
+      "examples": [
+        "It [feels]{feels} [like_1]{like} [spring_1]{spring} is [just_1]{just} around the [corner_1]{corner}."
+      ],
+      "id": "around-the-corner__3"
+    }
+  ]
+}

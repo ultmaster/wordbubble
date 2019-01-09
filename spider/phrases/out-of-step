@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "out of step",
+  "senses": [
+    {
+      "def": "if [people_1]{people} or [thing]{things} are out of [step_1]{step}, they do not [agree]{agree} or move at the same [rate_1]{rate}",
+      "examples": [
+        "Britain is out of [step_1]{step} with other European [country]{countries} on this [issue_1]{issue}."
+      ],
+      "id": "out-of-step__1"
+    },
+    {
+      "def": "if [people_1]{people} [walk_1]{walk} out of [step_1]{step}, they do not keep their [feet]{feet} [moving]{moving} at the same time as the rest of a [group_1]{group}",
+      "examples": [],
+      "id": "out-of-step__3"
+    }
+  ]
+}

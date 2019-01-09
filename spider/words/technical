@@ -1,0 +1,43 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[involve]{involving} [science]{science} or [industry]{industry}",
+      "examples": [
+        "technical [expert_1]{experts}",
+        "The [job_1]{job} [require]{requires} someone with [specialized]{specialized} [scientific]{scientific} and technical [knowledge]{knowledge}."
+      ],
+      "id": "technical__1"
+    },
+    {
+      "def": "technical [language]{language} is [difficult]{difficult} to [understand]{understand} for [people_1]{people} who do not [know_1]{know} a [lot_1]{lot} about the [subject_1]{subject}",
+      "examples": [
+        "The [text_1]{text} is [interesting]{interesting} and [informative]{informative}, without being too technical.",
+        "a technical [term_1]{term} in [philosophy]{philosophy}"
+      ],
+      "id": "technical__4"
+    },
+    {
+      "def": "[relate]{relating} to the way in which a [machine_1]{machine} or system [work_1]{works}",
+      "examples": [
+        "[technical]{Technical} [hitch_1]{hitches} [plague_2]{plagued} the [company]{company}\u2019s computer system."
+      ],
+      "id": "technical__7"
+    },
+    {
+      "def": "[relate]{relating} to the [skill]{skills} [need_1]{needed} to do a [particular_1]{particular} [activity]{activity}, [especially]{especially} in [sport_1]{sports} or art",
+      "examples": [
+        "The [dancer]{dancers} [reach_1]{reached} [extremely]{extremely} [high_1]{high} [level_1]{levels} of technical [skill]{skill} and [ability_1]{ability}."
+      ],
+      "id": "technical__9"
+    },
+    {
+      "def": "[base_2]{based} on a [strict]{strict} way of [understanding_1]{understanding} or [explain]{explaining} a [law]{law} or [rule_1]{rule}",
+      "examples": [
+        "This was not a [mere_1]{mere} technical [violation]{violation} of a [statute]{statute}."
+      ],
+      "id": "technical__11"
+    }
+  ],
+  "word": "technical"
+}

@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "hit back",
+  "senses": [
+    {
+      "def": "to [criticize]{criticize} someone who has [criticize]{criticized} you",
+      "examples": [],
+      "id": "hit-back__1"
+    },
+    {
+      "def": "to [deliberately]{deliberately} hit someone because they have hit you",
+      "examples": [
+        "[dan]{Dan} hit me, so I hit him back."
+      ],
+      "id": "hit-back__2"
+    },
+    {
+      "def": "to [start_1]{start} to [play_1]{play} well against an [opponent]{opponent} who was [winning]{winning}",
+      "examples": [
+        "The Bruins hit back with two more [goals]{goals}."
+      ],
+      "id": "hit-back__4"
+    }
+  ]
+}

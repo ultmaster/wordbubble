@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "round number",
+  "senses": [
+    {
+      "def": "a [number_1]{number} that [end_1]{ends} in 0, such as 40, 450, or 4000",
+      "examples": [
+        "I don\u2019t [need_1]{need} an [exact_1]{exact} [figure_1]{figure}. [just_1]{Just} [tell_1]{tell} me what it will [cost_1]{cost} in round [number_1]{numbers}."
+      ],
+      "id": "round-number__1"
+    }
+  ]
+}

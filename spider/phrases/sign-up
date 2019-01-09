@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "sign up",
+  "senses": [
+    {
+      "def": "to [agree]{agree} to do something, or to [join_1]{join} a [program_1]{program} or [organization]{organization}",
+      "examples": [
+        "It\u2019s a [voluntary_1]{voluntary} [course_1]{course} \u2013 [student]{students} only [sign_1]{sign} up if they [want_1]{want} to.",
+        "She\u2019s [decided]{decided} to [sign_1]{sign} up for [music]{music} [school_1]{school}."
+      ],
+      "id": "sign-up__1"
+    },
+    {
+      "def": "to put someone\u2019s name on an [official_1]{official} [list_1]{list} for something",
+      "examples": [
+        "They\u2019ve [sign_2]{signed} me up to do [voluntary_1]{voluntary} [work_1]{work} next [month]{month}."
+      ],
+      "id": "sign-up__4"
+    }
+  ]
+}

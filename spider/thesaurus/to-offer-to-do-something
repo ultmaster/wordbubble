@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "to [offer_1]{offer} to do [work_1]{work} or [provide]{provide} a [service_1]{service} for a [particular_1]{particular} amount of [money]{money}",
+      "entry": "bid",
+      "id": "bid_1#bid_1__4"
+    },
+    {
+      "comment": "to [offer_1]{offer} [help_1]{help} or [information]{information}",
+      "entry": "come forward",
+      "id": "come-forward#come-forward__1"
+    },
+    {
+      "comment": "to [let_1]{let} someone [know_1]{know} that you are [willing]{willing} to do something for them",
+      "entry": "offer",
+      "id": "offer_1#offer_1__7"
+    },
+    {
+      "comment": "to [offer_1]{offer} [help_1]{help} to someone who [need_1]{needs} it",
+      "entry": "step forward",
+      "id": "step-forward#step-forward__1"
+    },
+    {
+      "comment": "to [offer_1]{offer} or [choose]{choose} to do something without being [forced]{forced}",
+      "entry": "volunteer",
+      "id": "volunteer_2#volunteer_2__1"
+    },
+    {
+      "comment": "to [say_1]{say} that someone else will do something before [ask_1]{asking} them if they are [willing]{willing} to do it",
+      "entry": "volunteer",
+      "id": "volunteer_2#volunteer_2__11"
+    }
+  ],
+  "thesaurus": "To offer to do something",
+  "type": "Related words"
+}

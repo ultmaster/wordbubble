@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [polite]{polite} [word_1]{word} for a [toilet]{toilet} in a [restaurant]{restaurant}, [hotel]{hotel}, or other [public_1]{public} [place_1]{place}",
+      "examples": [],
+      "id": "washroom__1"
+    },
+    {
+      "def": "a [room_1]{room} with [washing]{washing} and [toilet]{toilet} [facility]{facilities} in a [factory]{factory} or [office]{office} [block_1]{block}",
+      "examples": [
+        "In [staff_1]{staff} [washroom]{washrooms}, [push-button]{push-button} [tap_1]{taps} use up to [half]{half} the [water_1]{water} [used]{used} through [conventional]{conventional} [tap_1]{taps}."
+      ],
+      "id": "washroom__2"
+    }
+  ],
+  "word": "washroom"
+}

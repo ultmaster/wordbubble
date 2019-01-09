@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "move along",
+  "senses": [
+    {
+      "def": "to [leave_1]{leave} a [place_1]{place} when someone in [authority]{authority} [tell_1]{tells} you to",
+      "examples": [
+        "The [police_1]{police} were [telling]{telling} us to move along.",
+        "A [guy]{guy} in a [uniform_1]{uniform} was [moving]{moving} some [kid_1]{kids} along."
+      ],
+      "id": "move-along__1"
+    },
+    {
+      "def": "to [progress_1]{progress} or [develop]{develop}, or to [make_1]{make} something [progress_1]{progress} or [develop]{develop}",
+      "examples": [
+        "The [trial_1]{trial} [continue]{continues} to move along.",
+        "It\u2019s up to the [committee]{committee} to move the [process_1]{process} along."
+      ],
+      "id": "move-along__5"
+    }
+  ]
+}

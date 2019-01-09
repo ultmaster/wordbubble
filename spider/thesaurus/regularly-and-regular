@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "after [equal_1]{equal} [amount_1]{amounts} of time have [pass_1]{passed}, for [example]{example} every [day]{day} or every [month]{month}",
+      "entry": "regularly",
+      "id": "regularly#regularly__1"
+    },
+    {
+      "comment": "[arrange]{arranged} so that there is the same amount of time between [event]{events} or the same amount of [space_1]{space} between [object_1]{objects}",
+      "entry": "regular",
+      "id": "regular_1#regular_1__1"
+    },
+    {
+      "comment": "always or [regularly]{regularly}",
+      "entry": "constantly",
+      "id": "constantly#constantly__1"
+    },
+    {
+      "comment": "[happening_1]{happening} [regularly]{regularly} though not [frequently]{frequently}",
+      "entry": "periodic",
+      "id": "periodic#periodic__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or coming one after another, in a [regular_1]{regular} [pattern_1]{pattern}",
+      "entry": "alternate",
+      "id": "alternate_2#alternate_2__1"
+    },
+    {
+      "comment": "if you do something [religiously]{religiously}, you do it [regularly]{regularly} and are very serious about it",
+      "entry": "religiously",
+      "id": "religiously#religiously__1"
+    },
+    {
+      "comment": "[cyclical]{cyclical} [event]{events} [happen]{happen} again and again in the same [order_1]{order} or at the same times",
+      "entry": "cyclical",
+      "id": "cyclical#cyclical__1"
+    },
+    {
+      "comment": "[arrange]{arranged} a [particular_1]{particular} time or [distance_1]{distance} [apart]{apart}",
+      "entry": "spaced",
+      "id": "spaced#spaced__1"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} [thing]{things} that [people_1]{people} [frequently]{frequently} do or [thing]{things} that [frequently]{frequently} [happen]{happen}",
+      "entry": "regular",
+      "id": "regular_1#regular_1__10"
+    },
+    {
+      "comment": "very [regularly]{regularly}",
+      "entry": "(as) regular as clockwork",
+      "id": "as-regular-as-clockwork#as-regular-as-clockwork__1"
+    }
+  ],
+  "thesaurus": "Regularly and regular",
+  "type": "Synonyms"
+}

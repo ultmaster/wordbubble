@@ -1,0 +1,101 @@
+{
+  "entries": [
+    {
+      "comment": "a man whose [job_1]{job} is to [carry_1]{carry} [people_1]{people}\u2019s [bag_1]{bags} to their [room_1]{room} in a [hotel]{hotel}",
+      "entry": "bellboy",
+      "id": "bellboy#bellboy__1"
+    },
+    {
+      "comment": "a [person]{person} whose [job_1]{job} is to [carry_1]{carry} [people_1]{people}\u2019s [bag_1]{bags} to their [room_1]{room} in a [hotel]{hotel}",
+      "entry": "bellhop",
+      "id": "bellhop#bellhop__1"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [clean_1]{clean} the [bedroom]{bedrooms} in a [hotel]{hotel}",
+      "entry": "chambermaid",
+      "id": "chambermaid#chambermaid__1"
+    },
+    {
+      "comment": "someone whose job is to welcome guests to a hotel and provide them with information and other services. The British word is receptionist.",
+      "entry": "clerk",
+      "id": "clerk_1#clerk_1__2"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [stand_1]{stand} at the [entrance_1]{entrance} to a [hotel]{hotel} or other [public_1]{public} [building]{building} and [welcome_1]{welcome} [people_1]{people}",
+      "entry": "commissionaire",
+      "id": "commissionaire#commissionaire__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [help_1]{help} [people_1]{people} [stay_1]{staying} in a [hotel]{hotel} by [dealing]{dealing} with [problem]{problems} and [give_1]{giving} them [information]{information}",
+      "entry": "concierge",
+      "id": "concierge#concierge__1"
+    },
+    {
+      "comment": "someone who works at the reception desk of a hotel",
+      "entry": "desk clerk",
+      "id": "desk-clerk#desk-clerk__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to be in [charge_1]{charge} of the [main_1]{main} [entrance_1]{entrance} of a [building]{building}, such as a [hotel]{hotel} or an [apartment]{apartment} [house_1]{house}, and [help_1]{help} [people_1]{people} when they go in or come out",
+      "entry": "doorman",
+      "id": "doorman#doorman__1"
+    },
+    {
+      "comment": "the [owner]{owner} or [manager]{manager} of a [hotel]{hotel}",
+      "entry": "hotelier",
+      "id": "hotelier#hotelier__1"
+    },
+    {
+      "comment": "someone whose [job_1]{job} is to [clean_1]{clean} the [room_1]{rooms} in a [hotel]{hotel} or to [manage]{manage} the [staff_1]{staff} who do this",
+      "entry": "housekeeper",
+      "id": "housekeeper#housekeeper__2"
+    },
+    {
+      "comment": "an old word for someone whose job was to manage an inn",
+      "entry": "innkeeper",
+      "id": "innkeeper#innkeeper__1"
+    },
+    {
+      "comment": "a woman who owns or manages a bar or a small hotel",
+      "entry": "landlady",
+      "id": "landlady#landlady__2"
+    },
+    {
+      "comment": "a man who [own_2]{owns} or [manage]{manages} a [bar_1]{bar} or a [small_1]{small} [hotel]{hotel}",
+      "entry": "landlord",
+      "id": "landlord#landlord__2"
+    },
+    {
+      "comment": "a [woman]{woman} whose [job_1]{job} is to [clean_1]{clean} [room_1]{rooms} in a [hotel]{hotel}",
+      "entry": "maid",
+      "id": "maid#maid__2"
+    },
+    {
+      "comment": "a [boy_1]{boy} or [young_1]{young} man, [usually]{usually} in a [uniform_1]{uniform}, whose [job_1]{job} is to [help_1]{help} [guest_1]{guests} in a [hotel]{hotel} or [member]{members} of a [club_1]{club}",
+      "entry": "page",
+      "id": "page_1#page_1__13"
+    },
+    {
+      "comment": "someone in a [station_1]{station}, [airport]{airport}, or [hotel]{hotel} whose [job_1]{job} is [helping]{helping} [people_1]{people} with their [suitcase]{suitcases} and [showing]{showing} them where to go",
+      "entry": "porter",
+      "id": "porter#porter__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} in [reception]{reception} at a [hotel]{hotel} or [office]{office}",
+      "entry": "receptionist",
+      "id": "receptionist#receptionist__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} at a [hotel]{hotel} or [restaurant]{restaurant} whose [job_1]{job} is to [park_1]{park} your [car]{car}",
+      "entry": "valet",
+      "id": "valet#valet__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} at a [hotel]{hotel} whose [job_1]{job} is to [clean_1]{clean} the [guest_1]{guests}\u2019 [clothes]{clothes}",
+      "entry": "valet",
+      "id": "valet#valet__3"
+    }
+  ],
+  "thesaurus": "People who run or work in hotels and guest houses",
+  "type": "Related words"
+}

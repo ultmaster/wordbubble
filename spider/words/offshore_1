@@ -1,0 +1,25 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "in the [ocean]{ocean}, not on the [land_1]{land}. This word is used especially for talking about the oil industry",
+      "examples": [
+        "[china_1]{China} has [huge]{huge} offshore and [onshore]{onshore} [oil_1]{oil} [reserve_1]{reserves}.",
+        "an offshore [oil_1]{oil} [rig_1]{rig}",
+        "offshore [island]{islands}",
+        "[avoid]{Avoid} offshore [wind_1]{winds} and don\u2019t [sail_1]{sail} alone."
+      ],
+      "id": "offshore_1__1"
+    },
+    {
+      "def": "an offshore [bank_1]{bank} or [company]{company} is not in your own [country]{country}, but in a [country]{country} where you [pay_1]{pay} less [tax_1]{tax} or where it is more [private_1]{private}",
+      "examples": [
+        "offshore [asset]{assets}/[fund_1]{funds}/[investment]{investments}",
+        "offshore [banking]{banking}"
+      ],
+      "id": "offshore_1__8"
+    }
+  ],
+  "word": "offshore"
+}

@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [number_1]{number} of [death]{deaths} within a [particular_1]{particular} [area]{area}, [group_1]{group}, etc.",
+      "examples": [
+        "a [decline_1]{decline} in [infant_1]{infant} mortality",
+        "The mortality [rate_1]{rate} has [recently]{recently} [increased]{increased}.",
+        "the most [common_1]{common} [cause_1]{causes} of mortality in [later_1]{later} [life]{life}"
+      ],
+      "id": "mortality__1"
+    },
+    {
+      "def": "the [fact]{fact} that your [life]{life} will [end_1]{end}",
+      "examples": [
+        "These [death]{deaths} are [reminder]{reminders} of our own mortality."
+      ],
+      "id": "mortality__6"
+    }
+  ],
+  "word": "mortality"
+}

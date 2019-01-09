@@ -1,0 +1,36 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a handsome man or [boy_1]{boy} has a very [attractive]{attractive} [face_1]{face}",
+      "examples": [
+        "a handsome [young_1]{young} man",
+        "[joe_2]{Joe} was [tall]{tall}, [dark_1]{dark}, and handsome."
+      ],
+      "id": "handsome__1"
+    },
+    {
+      "def": "a handsome [building]{building} or [place_1]{place} is [large_1]{large}, [attractive]{attractive}, and [impressive]{impressive}",
+      "examples": [
+        "a handsome Victorian [church]{church}",
+        "a handsome [piece_1]{piece} of [furniture]{furniture}"
+      ],
+      "id": "handsome__5"
+    },
+    {
+      "def": "a handsome amount of [money]{money} is [large_1]{large}",
+      "examples": [
+        "The [company]{company} [expect]{expects} handsome [profit_1]{profits} from its [phone_1]{phone} [business]{business}.",
+        "a handsome [donation]{donation}/[gift_1]{gift}/[contribution]{contribution}"
+      ],
+      "id": "handsome__9"
+    },
+    {
+      "def": "a handsome [victory]{victory} is [achieve]{achieved} [easily]{easily} and by a [large_1]{large} amount",
+      "examples": [],
+      "id": "handsome__13"
+    }
+  ],
+  "word": "handsome"
+}

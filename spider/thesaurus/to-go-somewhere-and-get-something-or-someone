@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "to go and [bring]{bring} something back from somewhere else",
+      "entry": "get",
+      "id": "get#get__16"
+    },
+    {
+      "comment": "to go and [meet_1]{meet} someone or something that you have [arrange]{arranged} to take somewhere in a [vehicle]{vehicle}",
+      "entry": "pick up",
+      "id": "pick-up#pick-up__10"
+    },
+    {
+      "comment": "to go somewhere and get someone or something in [order_1]{order} to take them to another [place_1]{place}",
+      "entry": "call for",
+      "id": "call-for#call-for__11"
+    },
+    {
+      "comment": "to go somewhere in [order_1]{order} to get someone or something",
+      "entry": "go for",
+      "id": "go-for#go-for__15"
+    },
+    {
+      "comment": "to go and get a [person]{person} or thing. The more [common_1]{common} way of [saying]{saying} this is \u201cto [pick_1]{pick} up\u201d something or someone",
+      "entry": "collect",
+      "id": "collect_1#collect_1__20"
+    },
+    {
+      "comment": "to go and get something",
+      "entry": "fetch",
+      "id": "fetch#fetch__3"
+    },
+    {
+      "comment": "to go to find something and [carry_1]{carry} it back with you",
+      "entry": "fetch",
+      "id": "fetch#fetch__5"
+    },
+    {
+      "comment": "to go to where someone is and [bring]{bring} them back with you because you [need_1]{need} their [help_1]{help}",
+      "entry": "fetch",
+      "id": "fetch#fetch__12"
+    }
+  ],
+  "thesaurus": "To go somewhere and get something or someone",
+  "type": "Synonyms"
+}

@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "heaven (only/alone) knows",
+  "senses": [
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} what you are [saying]{saying}",
+      "examples": [
+        "It was her first [vacation_1]{vacation} in [year]{years}, and [heaven]{heaven} [know_1]{knows} she [need_1]{needed} it."
+      ],
+      "id": "heaven-only-alone-knows__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that you do not [know_1]{know} something or cannot [imagine]{imagine} it",
+      "examples": [
+        "[heaven]{Heaven} [know_1]{knows} what will [happen]{happen} now."
+      ],
+      "id": "heaven-only-alone-knows__3"
+    },
+    {
+      "def": "[used]{used} for [emphasize]{emphasizing} that something has [happen]{happened} a [lot_1]{lot} or too much",
+      "examples": [
+        "I\u2019ve had [heaven]{heaven} [know_1]{knows} how many [people_1]{people} in here [look_1]{looking} for you!"
+      ],
+      "id": "heaven-only-alone-knows__5"
+    }
+  ]
+}

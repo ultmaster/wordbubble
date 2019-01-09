@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "all expenses paid",
+  "senses": [
+    {
+      "def": "if you do something all [expense_1]{expenses} [paid_1]{paid}, someone else [pay_1]{pays} for everything",
+      "examples": [
+        "You could [win_1]{win} an all [expense_1]{expenses} [paid_1]{paid} [trip_1]{trip} to Barbados."
+      ],
+      "id": "all-expenses-paid__1"
+    }
+  ]
+}

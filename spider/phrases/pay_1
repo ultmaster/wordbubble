@@ -1,0 +1,33 @@
+{
+  "phrase": "pay",
+  "senses": [
+    {
+      "def": "to give [money]{money} in [order_1]{order} to [buy_1]{buy} something",
+      "examples": [
+        "Let me pay for dinner."
+      ],
+      "id": "pay_1__1"
+    },
+    {
+      "def": "if a [job_1]{job} [pay_1]{pays} a [particular_1]{particular} amount of [money]{money}, you get that amount for [doing]{doing} it",
+      "examples": [
+        "She was in a job paying over $60,000 a year."
+      ],
+      "id": "pay_1__18"
+    },
+    {
+      "def": "to have a [good_1]{good} [result_1]{result}",
+      "examples": [
+        "The message you get from the movie is simple: crime doesn\u2019t pay."
+      ],
+      "id": "pay_1__23"
+    },
+    {
+      "def": "to [suffer]{suffer} because of something that you have done",
+      "examples": [
+        "It was an outrage, and somebody was going to pay."
+      ],
+      "id": "pay_1__27"
+    }
+  ]
+}

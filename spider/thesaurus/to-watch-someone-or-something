@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [watch_1]{watch} [people_1]{people} or [place_1]{places} [secretly]{secretly} to find out what they are [doing]{doing}",
+      "entry": "surveille",
+      "id": "surveille#surveille__1"
+    },
+    {
+      "comment": "to [look_1]{look} at someone or something for a [period_1]{period} of time",
+      "entry": "watch",
+      "id": "watch_1#watch_1__1"
+    },
+    {
+      "comment": "to [watch_1]{watch} or [study_1]{study} someone or something with [care_1]{care} and [attention]{attention} in [order_1]{order} to [discover]{discover} something",
+      "entry": "observe",
+      "id": "observe#observe__5"
+    },
+    {
+      "comment": "to [look_1]{look} at or [watch_1]{watch} something",
+      "entry": "view",
+      "id": "view_2#view_2__5"
+    },
+    {
+      "comment": "to [watch_1]{watch} an [activity]{activity} or [event]{event} without [take_1]{taking} part in it",
+      "entry": "look on",
+      "id": "look-on#look-on__7"
+    },
+    {
+      "comment": "to [watch_1]{watch} someone [careful#careful__20]{carefully} to [make_1]{make} [sure_1]{sure} that they are [safe_1]{safe} or that they do not do something [bad_1]{bad}",
+      "entry": "keep (a) watch",
+      "id": "keep-a-watch#keep-a-watch__4"
+    },
+    {
+      "comment": "to [pay_1]{pay} [attention]{attention} so that you will see something when it [arrive]{arrives} or [happen]{happens}",
+      "entry": "watch for",
+      "id": "watch-for#watch-for__1"
+    },
+    {
+      "comment": "to [watch_1]{watch} someone while they are [doing]{doing} something, [usually]{usually} in [order_1]{order} to [make_1]{make} [sure_1]{sure} that they are [doing]{doing} it [correctly]{correctly}",
+      "entry": "stand over",
+      "id": "stand-over#stand-over__1"
+    },
+    {
+      "comment": "to [watch_1]{watch} someone [secretly]{secretly} so that you [know_1]{know} everything that they do",
+      "entry": "spy on",
+      "id": "spy-on#spy-on__1"
+    },
+    {
+      "comment": "to be [watch_1]{watching} [careful#careful__20]{carefully} in [order_1]{order} to find, [obtain]{obtain}, or [avoid]{avoid} someone or something",
+      "entry": "be on the lookout for",
+      "id": "be-on-the-lookout-for#be-on-the-lookout-for__1"
+    }
+  ],
+  "thesaurus": "To watch someone or something",
+  "type": "Synonyms"
+}

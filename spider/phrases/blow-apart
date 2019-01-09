@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "blow apart",
+  "senses": [
+    {
+      "def": "to [destroy]{destroy} something with an [explosion]{explosion}",
+      "examples": [
+        "The [aircraft]{aircraft} was [blown]{blown} [apart]{apart} by a [terrorist]{terrorist} [bomb_1]{bomb}."
+      ],
+      "id": "blow-apart__1"
+    },
+    {
+      "def": "to show that an [idea]{idea} is [completely]{completely} [false]{false} or [wrong_1]{wrong}",
+      "examples": [
+        "The [book_1]{book} [blew]{blew} [apart]{apart} the [myth]{myth} of their [perfect_1]{perfect} [marriage]{marriage}."
+      ],
+      "id": "blow-apart__3"
+    }
+  ]
+}

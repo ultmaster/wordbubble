@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "by the hour",
+  "senses": [
+    {
+      "def": "[base_2]{based} on an [hour]{hour} of [work_1]{work}",
+      "examples": [
+        "Are you [paid_1]{paid} for [work_1]{work} [completed]{completed}, or by the [hour]{hour}?"
+      ],
+      "id": "by-the-hour__1"
+    },
+    {
+      "def": "[continuous#continuous__6]{continuously}, or all the time",
+      "examples": [
+        "The fire [grew]{grew} [big_1]{bigger} by the [hour]{hour}."
+      ],
+      "id": "by-the-hour__3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "inflated [price_1]{prices} or [amount_1]{amounts} are [higher_1]{higher} than they should be",
+      "examples": [
+        "[vastly]{vastly} inflated [stock_1]{stock} [price_1]{prices}"
+      ],
+      "id": "inflated__1"
+    },
+    {
+      "def": "[making]{making} something seem [better_1]{better} or more [important]{important} than it [really]{really} is",
+      "examples": [
+        "He has an inflated [opinion]{opinion} of his own [ability_1]{ability}."
+      ],
+      "id": "inflated__3"
+    },
+    {
+      "def": "[fill_1]{filled} with [air_1]{air} or [gas_1]{gas}",
+      "examples": [
+        "an inflated [inner_1]{inner} [tube]{tube}"
+      ],
+      "id": "inflated__5"
+    }
+  ],
+  "word": "inflated"
+}

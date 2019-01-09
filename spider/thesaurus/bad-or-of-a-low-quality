@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "of very low [quality_1]{quality}",
+      "entry": "bad",
+      "id": "bad_1#bad_1__19"
+    },
+    {
+      "comment": "of low [quality_1]{quality}",
+      "entry": "poor",
+      "id": "poor_1#poor_1__6"
+    },
+    {
+      "comment": "not of [good_1]{good} [quality_1]{quality}",
+      "entry": "second-rate",
+      "id": "second-rate#second-rate__1"
+    },
+    {
+      "comment": "low in [quality_1]{quality}",
+      "entry": "low-grade",
+      "id": "low-grade#low-grade__1"
+    },
+    {
+      "comment": "[saying]{saying} that something very [bad_1]{bad} is [going_1]{going} to [happen]{happen}",
+      "entry": "dire",
+      "id": "dire#dire__5"
+    },
+    {
+      "comment": "[extremely]{extremely} [bad_1]{bad}",
+      "entry": "pitiful",
+      "id": "pitiful#pitiful__4"
+    },
+    {
+      "comment": "very [bad_1]{bad} in [quality_1]{quality} or [ability_1]{ability}",
+      "entry": "terrible",
+      "id": "terrible#terrible__13"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} something that is very [bad_1]{bad}",
+      "entry": "embarrassing",
+      "id": "embarrassing#embarrassing__4"
+    },
+    {
+      "comment": "[extremely]{extremely} [bad_1]{bad} or [shocking]{shocking}",
+      "entry": "disgraceful",
+      "id": "disgraceful#disgraceful__1"
+    },
+    {
+      "comment": "[bad_1]{bad} in [quality_1]{quality}",
+      "entry": "crap",
+      "id": "crap_4#crap_4__1"
+    }
+  ],
+  "thesaurus": "Bad or of a low quality",
+  "type": "Synonyms"
+}

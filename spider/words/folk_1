@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[people_1]{people} in [general_1]{general}",
+      "examples": [
+        "A [lot_1]{lot} of [folk_1#folk_1__1]{folks} are [upset_1]{upset} at the [change_1]{changes}.",
+        "Many of the [old]{older} folk will [remember]{remember} Mrs. Poynton.",
+        "Will [local_1]{local} [folk_1#folk_1__1]{folks} get [employment]{employment} in the [new]{new} [business]{business}?",
+        "[city]{city} folk",
+        "That\u2019s all, [folk_1#folk_1__1]{folks}!",
+        "What do you [folk_1#folk_1__1]{folks} [think_1]{think}?"
+      ],
+      "id": "folk_1__1"
+    },
+    {
+      "def": "someone\u2019s [parent]{parents}",
+      "examples": [
+        "His [folk_1#folk_1__1]{folks} [bought]{bought} him a [car]{car} for his [birthday]{birthday}."
+      ],
+      "id": "folk_1__10"
+    },
+    {
+      "def": "[folk-music]{folk music}",
+      "examples": [
+        "The [city]{city} has [annual_1]{annual} [jazz_1]{jazz} and folk [festival]{festivals}."
+      ],
+      "id": "folk_1__12"
+    }
+  ],
+  "word": "folk"
+}

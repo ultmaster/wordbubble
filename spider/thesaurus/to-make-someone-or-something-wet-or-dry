@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something [wet_1]{wet} with [water_1]{water} or another [liquid_1]{liquid}",
+      "entry": "wet",
+      "id": "wet_2#wet_2__1"
+    },
+    {
+      "comment": "to [remove]{remove} the [water_1]{water} from something by [wipe_1]{wiping} it, [heating]{heating} it, or [blow_1]{blowing} [air_1]{air} onto it",
+      "entry": "dry",
+      "id": "dry_2#dry_2__1"
+    },
+    {
+      "comment": "to [remove]{remove} a [liquid_1]{liquid} from a [surface_1]{surface} [use_1]{using} a [cloth]{cloth}",
+      "entry": "wipe up",
+      "id": "wipe-up#wipe-up__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [slightly]{slightly} [wet_1]{wet}",
+      "entry": "dampen",
+      "id": "dampen#dampen__1"
+    },
+    {
+      "comment": "to [twist_1]{twist} and [squeeze_1]{squeeze} something in [order_1]{order} to [remove]{remove} [liquid_1]{liquid} from it",
+      "entry": "wring",
+      "id": "wring#wring__1"
+    },
+    {
+      "comment": "to [make_1]{make} something [slightly]{slightly} [wet_1]{wet}",
+      "entry": "moisten",
+      "id": "moisten#moisten__1"
+    },
+    {
+      "comment": "to [direct_1]{direct} [water_1]{water} on something [use_1]{using} a hose",
+      "entry": "hose",
+      "id": "hose_2#hose_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} something very [wet_1]{wet}, or to become very [wet_1]{wet}",
+      "entry": "soak",
+      "id": "soak_1#soak_1__4"
+    },
+    {
+      "comment": "to [make_1]{make} someone or something [wet_1]{wet} by [squirt_1]{squirting} a [liquid_1]{liquid}",
+      "entry": "squirt",
+      "id": "squirt_1#squirt_1__3"
+    },
+    {
+      "comment": "to [make_1]{make} something [completely]{completely} [wet_1]{wet}",
+      "entry": "saturate",
+      "id": "saturate#saturate__1"
+    }
+  ],
+  "thesaurus": "To make someone or something wet or dry",
+  "type": "Synonyms"
+}

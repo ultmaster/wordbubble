@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "what for",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} the [reason_1]{reason} for something",
+      "examples": [
+        "\u201cI [need_1]{need} to have your name and [address_1]{address}.\u201d \u201cWhat for?\u201d",
+        "What [did]{did} you hit him for?"
+      ],
+      "id": "what-for__1"
+    },
+    {
+      "def": "if you give someone what for, you [punish]{punish} them",
+      "examples": [
+        "If I [catch_1]{catch} that [boy_1]{boy} in my [garden_1]{garden} again, I\u2019ll give him what for."
+      ],
+      "id": "what-for__4"
+    }
+  ]
+}

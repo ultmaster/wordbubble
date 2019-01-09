@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "someone\u2019s [ability_1]{ability} to [sing_1]{sing}",
+      "entry": "voice",
+      "id": "voice_1#voice_1__11"
+    },
+    {
+      "comment": "if you can read [music]{music}, you can [understand]{understand} the [written_1]{written} [mark_1]{marks} that [represent]{represent} [musical_1]{musical} [sound_1]{sounds}",
+      "entry": "read",
+      "id": "read_1#read_1__21"
+    },
+    {
+      "comment": "someone\u2019s [ability_1]{ability} to [play_1]{play} or [sing_1]{sing} [exactly]{exactly} the [right_1]{right} [musical_1]{musical} [note_1]{note}",
+      "entry": "pitch",
+      "id": "pitch_1#pitch_1__2"
+    },
+    {
+      "comment": "[good_1]{good} at [play_1]{playing} or [sing_1]{singing} [music]{music} or [interested]{interested} in [music]{music}",
+      "entry": "musical",
+      "id": "musical_1#musical_1__5"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [recognize]{recognize} or [produce_1]{produce} a [regular_1]{regular} [pattern_1]{pattern} of [sound_1]{sounds} in [music]{music}",
+      "entry": "rhythm",
+      "id": "rhythm#rhythm__5"
+    },
+    {
+      "comment": "the ability to recognize or sing a musical note at the correct pitch",
+      "entry": "perfect pitch",
+      "id": "perfect-pitch#perfect-pitch__1"
+    },
+    {
+      "comment": "a [knowledge]{knowledge} of [music]{music} and the [ability_1]{ability} to be [sensitive]{sensitive} to it",
+      "entry": "musicality",
+      "id": "musicality#musicality__1"
+    },
+    {
+      "comment": "if you do something such as move your body in time to a [piece_1]{piece} of [music]{music}, your [movement]{movements} are at the same [speed_1]{speed} and [beat_1]{beat} as the [music]{music}",
+      "entry": "in time",
+      "id": "in-time#in-time__9"
+    },
+    {
+      "comment": "to be [unable]{unable} to [hear]{hear} the [difference]{difference} between [musical_1]{musical} [note_1]{notes}",
+      "entry": "have a tin ear",
+      "id": "have-a-tin-ear#have-a-tin-ear__1"
+    }
+  ],
+  "thesaurus": "Musical ability",
+  "type": "Synonyms"
+}

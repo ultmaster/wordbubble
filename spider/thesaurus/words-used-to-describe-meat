@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "[boneless]{boneless} [meat]{meat} or [fish_1]{fish} has had the [bone_1]{bones} [removed]{removed} before it is [sold]{sold}",
+      "entry": "boneless",
+      "id": "boneless#boneless__1"
+    },
+    {
+      "comment": "[fish_1]{fish} that is [bony]{bony} has a [lot_1]{lot} of [bone_1]{bones} in it, [making]{making} it [difficult]{difficult} to [eat]{eat}",
+      "entry": "bony",
+      "id": "bony#bony__5"
+    },
+    {
+      "comment": "[flyblown]{flyblown} [meat]{meat} has [flies]{flies}\u2019 [egg_1]{eggs} on it",
+      "entry": "flyblown",
+      "id": "flyblown#flyblown__2"
+    },
+    {
+      "comment": "[jellied]{jellied} [meat]{meat} or [fish_1]{fish} has been [covered_1]{covered} with a [solid_1]{solid} [clear_1]{clear} [substance]{substance} that you can [eat]{eat}",
+      "entry": "jellied",
+      "id": "jellied#jellied__1"
+    },
+    {
+      "comment": "jerk meat has been marinated in a mixture of spices with a strong flavor",
+      "entry": "jerk",
+      "id": "jerk_3#jerk_3__1"
+    },
+    {
+      "comment": "[lean_1]{lean} [meat]{meat} has very [little_1]{little} [fat_1]{fat} in it",
+      "entry": "lean",
+      "id": "lean_2#lean_2__3"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [meat]{meat}",
+      "entry": "meaty",
+      "id": "meaty#meaty__6"
+    },
+    {
+      "comment": "[skinless]{skinless} [meat]{meat} has had the [skin_1]{skin} [removed]{removed} from it",
+      "entry": "skinless",
+      "id": "skinless#skinless__1"
+    },
+    {
+      "comment": "food, especially meat, that is tough is very difficult to cut and chew",
+      "entry": "tough",
+      "id": "tough_1#tough_1__16"
+    }
+  ],
+  "thesaurus": "Words used to describe meat",
+  "type": "Related words"
+}

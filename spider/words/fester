@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if an [injury]{injury} or [sore_1]{sore} [place_1]{place} on your body [fester]{festers}, it becomes [infected]{infected}",
+      "examples": [
+        "a [fester]{festering} [wound_1]{wound}"
+      ],
+      "id": "fester__1"
+    },
+    {
+      "def": "if [food]{food} or [waste_1]{waste} [material_1]{material} [fester]{festers}, it [start_1]{starts} to [decay_1]{decay} and [smell_1]{smell} [bad_1]{bad}",
+      "examples": [],
+      "id": "fester__3"
+    },
+    {
+      "def": "if a [problem]{problem} or [unpleasant]{unpleasant} [feeling_1]{feeling} [fester]{festers}, it becomes [worse_1]{worse} because no one has [dealt]{dealt} with it",
+      "examples": [
+        "This [fester]{festering} [hatred]{hatred} could [tear_1]{tear} the [community]{community} [apart]{apart}."
+      ],
+      "id": "fester__4"
+    }
+  ],
+  "word": "fester"
+}

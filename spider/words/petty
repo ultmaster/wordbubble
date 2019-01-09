@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "not [important]{important} and not [worth_1]{worth} [worrying]{worrying} about",
+      "examples": [
+        "I\u2019m not [interested]{interested} in their petty [squabble]{squabbles}.",
+        "[village_1]{Village} [life]{life} is full of [gossip_1]{gossip} and petty jealousies."
+      ],
+      "id": "petty__1"
+    },
+    {
+      "def": "[unpleasant]{unpleasant} to someone because you [care_1]{care} too much about something that is not [really]{really} [important]{important}",
+      "examples": [
+        "It was a [bit_1]{bit} petty to [make_1]{make} me [apologize]{apologize} to everyone."
+      ],
+      "id": "petty__4"
+    },
+    {
+      "def": "[minor_1]{minor}",
+      "examples": [
+        "petty [bureaucrat]{bureaucrats}/[official_2]{officials}",
+        "a petty [criminal_1]{criminal}/[thief]{thief}/[offender]{offender}"
+      ],
+      "id": "petty__6"
+    }
+  ],
+  "word": "petty"
+}

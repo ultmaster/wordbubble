@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something that you [mention_1]{mention} in [order_1]{order} to show the [type_1]{type} of thing that you are [talk_1]{talking} about and to [help_1]{help} to [explain]{explain} what you mean",
+      "entry": "example",
+      "id": "example#example__1"
+    },
+    {
+      "comment": "an [example]{example} of something [happening_1]{happening}",
+      "entry": "instance",
+      "id": "instance_1#instance_1__1"
+    },
+    {
+      "comment": "an [example]{example} or [instance_1]{instance} of something",
+      "entry": "case",
+      "id": "case_1#case_1__1"
+    },
+    {
+      "comment": "something such as a system that is so [good_1]{good} that [people_1]{people} should [copy_1]{copy} it",
+      "entry": "model",
+      "id": "model_1#model_1__10"
+    },
+    {
+      "comment": "a very [typical]{typical} [example]{example} of a [particular_1]{particular} [type_1]{type} of [person]{person} or thing",
+      "entry": "archetype",
+      "id": "archetype#archetype__1"
+    },
+    {
+      "comment": "the first or most [typical]{typical} [example]{example} of something",
+      "entry": "prototype",
+      "id": "prototype#prototype__3"
+    },
+    {
+      "comment": "someone who is exactly what many people expect a person of their particular class, nationality, profession, etc. to be like",
+      "entry": "stereotype",
+      "id": "stereotype_1#stereotype_1__3"
+    },
+    {
+      "comment": "something that is [used]{used} as a [pattern_1]{pattern} or an [example]{example} for something else",
+      "entry": "template",
+      "id": "template#template__1"
+    },
+    {
+      "comment": "an [example]{example} of the [situation]{situation} or [behavior]{behavior} that you are [talk_1]{talking} about",
+      "entry": "a case in point",
+      "id": "a-case-in-point#a-case-in-point__1"
+    },
+    {
+      "comment": "someone who is a very [clear_1]{clear} [example]{example} of a [particular_1]{particular} [quality_1]{quality}",
+      "entry": "the personification of something",
+      "id": "the-personification-of-something#the-personification-of-something__1"
+    }
+  ],
+  "thesaurus": "A typical or good example of something",
+  "type": "Synonyms"
+}

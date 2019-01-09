@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "at work",
+  "senses": [
+    {
+      "def": "at the [place_1]{place} where you [work_1]{work}",
+      "examples": [
+        "If he\u2019s not at [home_1]{home}, he must still be at [work_1]{work}."
+      ],
+      "id": "at-work__1"
+    },
+    {
+      "def": "in the [process_1]{process} of [doing]{doing} or [making]{making} something",
+      "examples": [
+        "She\u2019s [currently]{currently} at [work_1]{work} on a [new]{new} [book_1]{book}.",
+        "I found it [fascinating]{fascinating} to [watch_1]{watch} the [young_1]{young} [people_1]{people} at [work_1]{work}."
+      ],
+      "id": "at-work__3"
+    },
+    {
+      "def": "[have]{having} a [particular_1]{particular} [effect_1]{effect} or [influence_1]{influence}",
+      "examples": [
+        "You don\u2019t [know_1]{know} what [force_1]{forces} are at [work_1]{work} behind the [scene]{scenes}."
+      ],
+      "id": "at-work__6"
+    }
+  ]
+}

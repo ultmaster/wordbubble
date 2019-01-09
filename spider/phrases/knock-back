@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "knock back",
+  "senses": [
+    {
+      "def": "to [drink_1]{drink} [alcohol]{alcohol} [quickly]{quickly} or in [large_1]{large} [amount_1]{amounts}",
+      "examples": [
+        "She [pour]{poured} [herself]{herself} a [drink_1]{drink} and [knock_1]{knocked} it back.",
+        "He [knock_1]{knocked} back two [double_1]{double} [vodka]{vodkas}."
+      ],
+      "id": "knock-back__1"
+    },
+    {
+      "def": "to cause [problem]{problems} or [delay_1]{delays} for someone",
+      "examples": [
+        "One or two [problem]{problems} have [knock_1]{knocked} us back a [couple_1]{couple} of [week]{weeks}."
+      ],
+      "id": "knock-back__4"
+    }
+  ]
+}

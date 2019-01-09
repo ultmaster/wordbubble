@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} something more [difficult]{difficult} to do, [deal_1]{deal} with, or [understand]{understand}",
+      "entry": "complicate",
+      "id": "complicate#complicate__1"
+    },
+    {
+      "comment": "to [make_1]{make} something more [complicated]{complicated} or [difficult]{difficult} to [understand]{understand}",
+      "entry": "confuse",
+      "id": "confuse#confuse__4"
+    },
+    {
+      "comment": "to [make_1]{make} something [difficult]{difficult} to [understand]{understand}",
+      "entry": "obscure",
+      "id": "obscure_2#obscure_2__1"
+    },
+    {
+      "comment": "if someone or something [mystify]{mystifies} you, you cannot [understand]{understand} or [explain]{explain} it",
+      "entry": "mystify",
+      "id": "mystify#mystify__1"
+    },
+    {
+      "comment": "if a [problem]{problem}, someone\u2019s [behavior]{behavior}, etc. [baffle]{baffles} you, you cannot [understand]{understand} it or [solve]{solve} it",
+      "entry": "baffle",
+      "id": "baffle#baffle__1"
+    },
+    {
+      "comment": "if you are [confounded]{confounded} by something, you cannot [understand]{understand} it",
+      "entry": "confound",
+      "id": "confound#confound__3"
+    },
+    {
+      "comment": "if a [mystery_1]{mystery} [deepen]{deepens}, or if something [deepen]{deepens} it, it becomes more [complicated]{complicated} and [difficult]{difficult} to [understand]{understand}",
+      "entry": "deepen",
+      "id": "deepen#deepen__15"
+    },
+    {
+      "comment": "if something [defy]{defies} [description]{description}, [belief]{belief}, or [understanding_1]{understanding}, it is [strange_1]{strange} and almost [impossible]{impossible} to describe, [believe]{believe}, or [understand]{understand}",
+      "entry": "defy",
+      "id": "defy#defy__5"
+    },
+    {
+      "comment": "to be too [difficult]{difficult} for someone to [understand]{understand} or [deal_1]{deal} with",
+      "entry": "be beyond someone",
+      "id": "be-beyond-someone#be-beyond-someone__1"
+    },
+    {
+      "comment": "to be very [difficult]{difficult} to [understand]{understand}",
+      "entry": "be (as) clear as mud",
+      "id": "be-as-clear-as-mud#be-as-clear-as-mud__1"
+    },
+    {
+      "comment": "to [make_1]{make} [inconsistent]{inconsistent} [statement_1]{statements} or [avoid]{avoid} [answer_1]{answering} a [question_1]{question} [directly_1]{directly}",
+      "entry": "tergiversate",
+      "id": "tergiversate#tergiversate__1"
+    },
+    {
+      "comment": "[making]{making} [statement_1]{statements} that are [contradictory]{contradictory} or [design_2]{designed} to [avoid]{avoid} [give_1]{giving} [direct_1]{direct} [answer_1]{answers}",
+      "entry": "tergiversation",
+      "id": "tergiversation#tergiversation__1"
+    }
+  ],
+  "thesaurus": "To be, or to make something difficult to understand",
+  "type": "Synonyms"
+}

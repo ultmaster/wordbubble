@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of [cloth]{cloth} [worn_1]{worn} around one [arm_1]{arm}, to show that you have a [particular_1]{particular} [job_1]{job} or [belong]{belong} to a [particular_1]{particular} [organization]{organization}. [people_1]{People} sometimes [wear_1]{wear} a [black_1]{black} [armband]{armband} to show [respect_1]{respect} for someone who has [die_1]{died}.",
+      "entry": "armband",
+      "id": "armband#armband__1"
+    },
+    {
+      "comment": "a [special_1]{special} [piece_1]{piece} of [metal_1]{metal}, [cloth]{cloth}, or [plastic_1]{plastic}, often with [word_1]{words} or [symbol]{symbols} on it, that you [wear_1]{wear} or [carry_1]{carry} with you to show your [rank_1]{rank} or [official_1]{official} [position_1]{position}",
+      "entry": "badge",
+      "id": "badge#badge__1"
+    },
+    {
+      "comment": "a [similar]{similar} [object_1]{object} that [show_1]{shows} that you have [achieve]{achieved} something",
+      "entry": "badge",
+      "id": "badge#badge__4"
+    },
+    {
+      "comment": "a [button_1]{button} that [show_1]{shows} that you [support_1]{support} a [particular_1]{particular} [group_1]{group} or [idea]{idea}",
+      "entry": "badge",
+      "id": "badge#badge__6"
+    },
+    {
+      "comment": "a [small_1]{small} round [object_1]{object} that [fasten]{fastens} onto your [clothes]{clothes} with a [pin_1]{pin} and [usually]{usually} has a [picture_1]{picture} or [writing]{writing} on it",
+      "entry": "button",
+      "id": "button_1#button_1__12"
+    },
+    {
+      "comment": "a [symbol]{symbol} in the [shape_1]{shape} of an [upside-down#upside-down__4]{upside-down} \u201cV\u201d that [soldier_1]{soldiers}, [police_1]{police} [officer]{officers}, etc. [wear_1]{wear} on their [sleeve]{sleeve} to show their [rank_1]{rank}",
+      "entry": "chevron",
+      "id": "chevron#chevron__2"
+    },
+    {
+      "comment": "a [mark_1]{mark} or [sign_1]{sign} that [show_1]{shows} someone\u2019s [rank_1]{rank} or [status]{status}, or what [organization]{organization} they [belong]{belong} to",
+      "entry": "insignia",
+      "id": "insignia#insignia__1"
+    },
+    {
+      "comment": "a badge given to a high school student for excellent performance in sports",
+      "entry": "letter",
+      "id": "letter_1#letter_1__10"
+    },
+    {
+      "comment": "a [narrow_1]{narrow} [piece_1]{piece} of [colored_1]{colored} [cloth]{cloth} [fold_1]{folded} over [itself]{itself}, [worn_1]{worn} to show [support_1]{support} for an [organization]{organization}, [principle]{principle}, or [aim_1]{aim}",
+      "entry": "ribbon",
+      "id": "ribbon#ribbon__4"
+    },
+    {
+      "comment": "a [band_1]{band} of [cloth]{cloth} on a [uniform_1]{uniform} [showing]{showing} the [rank_1]{rank} of the [person]{person} [wearing]{wearing} it",
+      "entry": "stripe",
+      "id": "stripe#stripe__4"
+    },
+    {
+      "comment": "a thin [band_1]{band} of [yellow_1]{yellow} [material_1]{material} that [people_1]{people} [tie_1]{tie} around a [tree]{tree} as a way of [remember]{remembering} someone who has [gone_1]{gone} [away_1]{away}, [particularly]{particularly} to war, and as a [sign_1]{sign} of [hope_1]{hope} that they will [return_1]{return}",
+      "entry": "yellow ribbon",
+      "id": "yellow-ribbon#yellow-ribbon__1"
+    }
+  ],
+  "thesaurus": "Badges and ribbons",
+  "type": "Related words"
+}

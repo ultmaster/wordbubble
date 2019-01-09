@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "make it",
+  "senses": [
+    {
+      "def": "to [succeed]{succeed} in a [particular_1]{particular} [activity]{activity}",
+      "examples": [
+        "She made it in the [movie]{movies} when she was still a [teenager]{teenager}."
+      ],
+      "id": "make-it__1"
+    },
+    {
+      "def": "to [manage]{manage} to [arrive]{arrive} on time",
+      "examples": [
+        "We [just_1]{just} made it in time for the [wedding]{wedding}."
+      ],
+      "id": "make-it__3"
+    },
+    {
+      "def": "to be [able_1]{able} to be [present_1]{present} at a [particular_1]{particular} [event]{event}",
+      "examples": [
+        "I can\u2019t [make_1]{make} it on Friday.",
+        "We made it to the [meeting]{meeting}."
+      ],
+      "id": "make-it__5"
+    },
+    {
+      "def": "to not [die_1]{die} as a [result_1]{result} of an [illness]{illness} or [accident]{accident}",
+      "examples": [],
+      "id": "make-it__8"
+    }
+  ]
+}

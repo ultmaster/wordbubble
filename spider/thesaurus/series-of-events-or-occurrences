@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [series]{series} of [action_1]{actions} or [event]{events} that together show how [thing]{things} [normally]{normally} [happen]{happen} or are done",
+      "entry": "pattern",
+      "id": "pattern_1#pattern_1__1"
+    },
+    {
+      "comment": "a [series]{series} of [thing]{things} that [happen]{happen} and have a [particular_1]{particular} [result_1]{result}",
+      "entry": "process",
+      "id": "process_1#process_1__1"
+    },
+    {
+      "comment": "a [series]{series} of [event]{events} or [thought_1]{thoughts}",
+      "entry": "train",
+      "id": "train_1#train_1__7"
+    },
+    {
+      "comment": "a [series]{series} of [similar]{similar} or [connected]{connected} [event]{events} that [happen]{happen} one after the other",
+      "entry": "string",
+      "id": "string_1#string_1__11"
+    },
+    {
+      "comment": "an [event]{event} or [series]{series} of [related_1]{related} [event]{events}",
+      "entry": "proceedings",
+      "id": "proceedings#proceedings__3"
+    },
+    {
+      "comment": "a [large_1]{large} [quantity]{quantity} of [similar]{similar} [thing]{things} that [happen]{happen} within a [short_1]{short} time",
+      "entry": "avalanche",
+      "id": "avalanche#avalanche__4"
+    },
+    {
+      "comment": "a [series]{series} of [connected]{connected} [event]{events}",
+      "entry": "line",
+      "id": "line_1#line_1__72"
+    },
+    {
+      "comment": "a [lot_1]{lot} of [instance_1]{instances} of a [particular_1]{particular} thing [take_1]{taking} [place_1]{place} in a [short_1]{short} [period_1]{period} of time, [especially]{especially} something [unpleasant]{unpleasant}",
+      "entry": "rash",
+      "id": "rash_1#rash_1__3"
+    },
+    {
+      "comment": "a [series]{series} of [event]{events} that [happen]{happen} very [fast_1]{fast}, with each [event]{event} [cause_2]{causing} the next one",
+      "entry": "chain reaction",
+      "id": "chain-reaction#chain-reaction__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which one [event]{event} [cause_1]{causes} a whole [series]{series} of other [event]{events} to [happen]{happen} one after the other",
+      "entry": "domino effect",
+      "id": "domino-effect#domino-effect__1"
+    }
+  ],
+  "thesaurus": "Series of events or occurrences",
+  "type": "Synonyms"
+}

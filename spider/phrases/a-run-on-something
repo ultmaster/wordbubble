@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "a run on something",
+  "senses": [
+    {
+      "def": "a [situation]{situation} in which a [lot_1]{lot} of [people_1]{people} [want_1]{want} to [buy_1]{buy} something at the same time",
+      "examples": [
+        "There\u2019s always a [run_1]{run} on [sunglasses]{sunglasses} at this time of [year]{year}."
+      ],
+      "id": "a-run-on-something__1"
+    },
+    {
+      "def": "a time when a [lot_1]{lot} of [people_1]{people} take their [money]{money} out of a [bank_1]{bank} at the same time",
+      "examples": [
+        "[nervous#nervous__18]{Nervousness} from [investor]{investors} [led_1]{led} to a [run_1]{run} on some [bank_1]{banks}."
+      ],
+      "id": "a-run-on-something__3"
+    },
+    {
+      "def": "a [situation]{situation} in which a [lot_1]{lot} of [people_1]{people} [sell_1]{sell} a [particular_1]{particular} [currency]{currency}  (=dollars, pounds, yen, etc.) with the [result_1]{result} that its [value_1]{value} [fall_1]{falls}",
+      "examples": [],
+      "id": "a-run-on-something__5"
+    }
+  ]
+}

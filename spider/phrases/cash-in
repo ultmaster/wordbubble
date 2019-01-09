@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "cash in",
+  "senses": [
+    {
+      "def": "to use an [opportunity]{opportunity} to [make_1]{make} a [profit_1]{profit} or gain an [advantage]{advantage}",
+      "examples": [
+        "The [bronco]{Broncos} [failed]{failed} to [cash_1]{cash} in as the [game_1]{game} [end_2]{ended} with the [ball_1]{ball} on the 10-yard [line_1]{line}.",
+        "They [accuse]{accused} her of [trying]{trying} to [cash_1]{cash} in on her [daughter_1]{daughter}\u2019s [fame]{fame}."
+      ],
+      "id": "cash-in__1"
+    },
+    {
+      "def": "to [exchange_1]{exchange} something such as [stock_1]{stock} or an insurance policy for its [value_1]{value} in [money]{money}",
+      "examples": [
+        "You will not [receive]{receive} the [true_1]{true} [value_1]{value} of your [policy]{policy} if you [cash_1]{cash} it in [early_1]{early}."
+      ],
+      "id": "cash-in__4"
+    }
+  ]
+}

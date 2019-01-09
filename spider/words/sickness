@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [condition_1]{condition} in which you have an [illness]{illness}",
+      "examples": [
+        "The [team_1]{team} [lost_1]{lost} because of a [combination]{combination} of [injury]{injuries} and sickness.",
+        "Time off [work_1]{work} because of sickness is [paid_1]{paid} at the full [rate_1]{rate}.",
+        "[climber]{climbers} who [suffer]{suffer} [badly]{badly} from [altitude]{altitude} sickness"
+      ],
+      "id": "sickness__1"
+    },
+    {
+      "def": "a [feeling_1]{feeling} that you are [going_1]{going} to [bring]{bring} up [food]{food} from your [stomach_1]{stomach}",
+      "examples": [
+        "The [virus]{virus} [cause_1]{causes} [stomach_1]{stomach} [pain_1]{pains}, sickness, and [diarrhea]{diarrhea}."
+      ],
+      "id": "sickness__6"
+    },
+    {
+      "def": "a [state_1]{state} in which a [country]{country} or [region]{region} is not [successful]{successful}, for [example]{example} in its [economic]{economic} system",
+      "examples": [],
+      "id": "sickness__8"
+    }
+  ],
+  "word": "sickness"
+}

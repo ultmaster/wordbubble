@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "[relate]{relating} to or [involve]{involving} [water_1]{water}",
+      "entry": "aquatic",
+      "id": "aquatic#aquatic__3"
+    },
+    {
+      "comment": "[contain]{containing} [water_1]{water}",
+      "entry": "aqueous",
+      "id": "aqueous#aqueous__1"
+    },
+    {
+      "comment": "full of bubbles",
+      "entry": "bubbly",
+      "id": "bubbly_1#bubbly_1__3"
+    },
+    {
+      "comment": "consisting of crystals or looking like crystals",
+      "entry": "crystalline",
+      "id": "crystalline#crystalline__1"
+    },
+    {
+      "comment": "a fizzy liquid has gas bubbles in it",
+      "entry": "fizzy",
+      "id": "fizzy#fizzy__1"
+    },
+    {
+      "comment": "a [liquid_1]{liquid} or [gas_1]{gas}",
+      "entry": "fluid",
+      "id": "fluid_1#fluid_1__4"
+    },
+    {
+      "comment": "in the form of a [gas_1]{gas} or [similar]{similar} to a [gas_1]{gas}, rather than a [solid_1]{solid} or [liquid_1]{liquid}",
+      "entry": "gaseous",
+      "id": "gaseous#gaseous__1"
+    },
+    {
+      "comment": "[contain]{containing} or [create]{creating} a [lot_1]{lot} of [gas_1]{gas}",
+      "entry": "gassy",
+      "id": "gassy#gassy__1"
+    },
+    {
+      "comment": "in the form of a [liquid_1]{liquid}",
+      "entry": "liquid",
+      "id": "liquid_2#liquid_2__1"
+    },
+    {
+      "comment": "in the form of [powder_1]{powder}",
+      "entry": "powdered",
+      "id": "powdered#powdered__1"
+    },
+    {
+      "comment": "[like_1]{like} [powder_1]{powder}",
+      "entry": "powdery",
+      "id": "powdery#powdery__1"
+    },
+    {
+      "comment": "[like_1]{like} a [liquid_1]{liquid}",
+      "entry": "runny",
+      "id": "runny#runny__3"
+    },
+    {
+      "comment": "a thick [liquid_1]{liquid} is more [stiff_1]{stiff} or [solid_1]{solid} than [normal_1]{normal} and [does]{does} not [flow_1]{flow} [easily]{easily}",
+      "entry": "thick",
+      "id": "thick_1#thick_1__14"
+    },
+    {
+      "comment": "a thin [liquid_1]{liquid} [contain]{contains} mostly [water_1]{water}, so that it [flow_1]{flows} [easily]{easily}",
+      "entry": "thin",
+      "id": "thin_1#thin_1__14"
+    }
+  ],
+  "thesaurus": "Liquid and neither liquid nor solid",
+  "type": "Related words"
+}

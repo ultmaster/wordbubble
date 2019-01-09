@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} when you are [give_1]{giving} [permission]{permission}",
+      "entry": "yes",
+      "id": "yes_1#yes_1__5"
+    },
+    {
+      "comment": "[used]{used} for [give_1]{giving} someone [permission]{permission} in a [polite]{polite} way",
+      "entry": "of course",
+      "id": "of-course#of-course__3"
+    },
+    {
+      "comment": "[used]{used} for [express_1]{expressing} [agreement]{agreement} or [give_1]{giving} [permission]{permission}",
+      "entry": "certainly",
+      "id": "certainly#certainly__4"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you will [allow]{allow} someone to do something, or you do not [mind_1]{mind} if they do it",
+      "entry": "all right",
+      "id": "all-right_1#all-right_1__9"
+    },
+    {
+      "comment": "[used]{used} for [give_1]{giving} [permission]{permission} or [agree]{agreeing} with a [suggestion]{suggestion} that someone has made",
+      "entry": "if you want",
+      "id": "if-you-want#if-you-want__3"
+    },
+    {
+      "comment": "[used]{used} for [politely]{politely} [agree]{agreeing} with someone, [give_1]{giving} [permission]{permission}, or [saying]{saying} \u201c[yes_1]{yes}\u201d",
+      "entry": "by all means",
+      "id": "by-all-means#by-all-means__1"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} someone that they can do or have whatever they [want_1]{want}",
+      "entry": "as you wish",
+      "id": "as-you-wish#as-you-wish__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} [yes_1]{yes} when someone [ask_1]{asks} for your [permission]{permission}",
+      "entry": "I don\u2019t see why not",
+      "id": "i-don-t-see-why-not#i-don-t-see-why-not__1"
+    },
+    {
+      "comment": "[used]{used} for [give_1]{giving} someone [permission]{permission} to do or use something",
+      "entry": "help yourself",
+      "id": "help-yourself#help-yourself__1"
+    },
+    {
+      "comment": "[used]{used} for [telling]{telling} someone that it is all [right_1]{right} to do something, even though you do not [want_1]{want} them to",
+      "entry": "if you (really) must",
+      "id": "if-you-really-must#if-you-really-must__1"
+    }
+  ],
+  "thesaurus": "Ways of giving permission",
+  "type": "Synonyms"
+}

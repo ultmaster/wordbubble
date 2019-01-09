@@ -1,0 +1,81 @@
+{
+  "entries": [
+    {
+      "comment": "an [address_1]{address} that some [people_1]{people} use [instead]{instead} of [have]{having} [letter_1]{letters} [deliver]{delivered} to their [house_1]{house}",
+      "entry": "box",
+      "id": "box_1#box_1__14"
+    },
+    {
+      "comment": "an address consisting of the number of a PO Box  (=an address you use instead of your real address)",
+      "entry": "box number",
+      "id": "box-number#box-number__1"
+    },
+    {
+      "comment": "the [value_1]{value} of a [stamp_1]{stamp} or [coin_1]{coin} that is [shown]{shown} on the front of it",
+      "entry": "face value",
+      "id": "face-value#face-value__1"
+    },
+    {
+      "comment": "post office box: used in an address showing the number of a small box at a post office where mail for you can be sent",
+      "entry": "PO Box",
+      "id": "po-box#po-box__1"
+    },
+    {
+      "comment": "an amount of [stamp_1]{stamps}",
+      "entry": "postage",
+      "id": "postage#postage__3"
+    },
+    {
+      "comment": "a [stamp_1]{stamp} that is put on an [envelope]{envelope}, etc.",
+      "entry": "postage stamp",
+      "id": "postage-stamp#postage-stamp__1"
+    },
+    {
+      "comment": "a [zip_1]{zip} [code_1]{code}",
+      "entry": "postcode",
+      "id": "postcode#postcode__1"
+    },
+    {
+      "comment": "a PO [box_1]{Box}",
+      "entry": "post office box",
+      "id": "post-office-box#post-office-box__1"
+    },
+    {
+      "comment": "the [official_1]{official} [building]{building} of a [company]{company} in the U.K., where all its [mail_1]{mail} must be [sent]{sent}",
+      "entry": "registered office",
+      "id": "registered-office#registered-office__1"
+    },
+    {
+      "comment": "[rural]{rural} [free_1]{free} [delivery]{delivery}: [written_1]{written} on [postal]{postal} [address_1]{addresses} in the [countryside]{countryside} in the U.S.",
+      "entry": "RFD",
+      "id": "rfd#rfd__1"
+    },
+    {
+      "comment": "[rural]{rural} [route_1]{route}",
+      "entry": "RR",
+      "id": "rr#rr__2"
+    },
+    {
+      "comment": "[used]{used} in the U.S. in the [address_1]{addresses} of [people_1]{people} who [live_1]{live} in [rural]{rural} [area]{areas}",
+      "entry": "rural route",
+      "id": "rural-route#rural-route__1"
+    },
+    {
+      "comment": "a [small_1]{small} [official_1]{official} [piece_1]{piece} of [paper_1]{paper} that you [buy_1]{buy} and [stick_1]{stick} on an [envelope]{envelope} to [pay_1]{pay} for the [cost_1]{cost} of [mailing]{mailing} a [letter_1]{letter} or a [package_1]{package}",
+      "entry": "stamp",
+      "id": "stamp_1#stamp_1__1"
+    },
+    {
+      "comment": "a [zip_1]{zip} [code_1]{code}",
+      "entry": "zip",
+      "id": "zip_1#zip_1__4"
+    },
+    {
+      "comment": "a series of numbers added to your address to make it easier to deliver letters to you. The British word is postcode.",
+      "entry": "zip code",
+      "id": "zip-code#zip-code__1"
+    }
+  ],
+  "thesaurus": "Stamps and addresses on letters and parcels",
+  "type": "Related words"
+}

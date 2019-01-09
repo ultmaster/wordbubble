@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [light_1]{light} on the back of a [car]{car} that [light_1]{lights} when the [car]{car} is [moving]{moving} [backward_1]{backward}",
+      "entry": "backup light",
+      "id": "backup-light#backup-light__1"
+    },
+    {
+      "comment": "the small lights on a vehicle that flash to show that it is turning. The British word is indicators.",
+      "entry": "blinkers",
+      "id": "blinkers#blinkers__1"
+    },
+    {
+      "comment": "a light on the back of a vehicle that comes on when you use the brakes",
+      "entry": "brake light",
+      "id": "brake-light#brake-light__1"
+    },
+    {
+      "comment": "car headlights  (=lights on the front of a car) when they are shining as brightly as possible",
+      "entry": "brights",
+      "id": "brights#brights__1"
+    },
+    {
+      "comment": "a [light_1]{light} that [flash_1]{flashes} on and off on a [vehicle]{vehicle} as a [warning]{warning} [signal_1]{signal}",
+      "entry": "flasher",
+      "id": "flasher#flasher__1"
+    },
+    {
+      "comment": "a bright light on a car that helps drivers to see in the fog",
+      "entry": "fog light",
+      "id": "fog-light#fog-light__1"
+    },
+    {
+      "comment": "one of the [light_1]{lights} on a [car]{car} that [flash_1]{flash} on and off to [warn]{warn} other [driver]{drivers} that there may be [danger]{danger}",
+      "entry": "hazard light",
+      "id": "hazard-light#hazard-light__1"
+    },
+    {
+      "comment": "a [headlight]{headlight}",
+      "entry": "headlamp",
+      "id": "headlamp#headlamp__1"
+    },
+    {
+      "comment": "one of the two [light_1]{lights} on the front of a [vehicle]{vehicle}, [used]{used} for [driving]{driving} at [night_1]{night}",
+      "entry": "headlight",
+      "id": "headlight#headlight__1"
+    },
+    {
+      "comment": "special headlights on a car or truck that shine farther than the ordinary lights",
+      "entry": "high beams",
+      "id": "high-beams#high-beams__1"
+    },
+    {
+      "comment": "a [turn_1]{turn} [signal_1]{signal} on a [car]{car}",
+      "entry": "indicator",
+      "id": "indicator#indicator__8"
+    },
+    {
+      "comment": "one of the [light_1]{lights} on a [car]{car} or other [vehicle]{vehicle}",
+      "entry": "light",
+      "id": "light_1#light_1__19"
+    },
+    {
+      "comment": "one of a [pair_1]{pair} of [light_1]{lights} on a [vehicle]{vehicle} that you use when there is not much [light_1]{light} or it is [rain_2]{raining}, [mainly]{mainly} so that other [car]{cars} can see you",
+      "entry": "parking light",
+      "id": "parking-light#parking-light__1"
+    },
+    {
+      "comment": "a [light_1]{light} at the back of a [motor_1]{motor} [vehicle]{vehicle} that [signal_1]{signals} that it is [going_1]{going} [backward_1]{backward}",
+      "entry": "reverse light",
+      "id": "reverse-light#reverse-light__1"
+    },
+    {
+      "comment": "a [parking]{parking} [light_1]{light}",
+      "entry": "sidelight",
+      "id": "sidelight#sidelight__2"
+    },
+    {
+      "comment": "one of the red [light_1]{lights} on either side of the back of a [vehicle]{vehicle}",
+      "entry": "tail light",
+      "id": "tail-light#tail-light__1"
+    },
+    {
+      "comment": "a [light_1]{light} on a [vehicle]{vehicle} that [flash_1]{flashes} to show in which [direction]{direction} it is [going_1]{going} to [turn_1]{turn}",
+      "entry": "turn signal",
+      "id": "turn-signal#turn-signal__1"
+    }
+  ],
+  "thesaurus": "The lights on a car or other road vehicle",
+  "type": "Related words"
+}

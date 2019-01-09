@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "pull up",
+  "senses": [
+    {
+      "def": "if a [vehicle]{vehicle} or [driver]{driver} [pull_1]{pulls} up, they [stop_1]{stop}",
+      "examples": [
+        "Their [taxi_1]{taxi} [pull_1]{pulled} up [outside]{outside} the [church]{church}."
+      ],
+      "id": "pull-up_1__1"
+    },
+    {
+      "def": "if you [pull_1]{pull} up, or if something [pull_1]{pulls} you up, you [unexpected#unexpected__4]{unexpectedly} [stop_1]{stop} what you are [doing]{doing}",
+      "examples": [],
+      "id": "pull-up_1__3"
+    }
+  ]
+}

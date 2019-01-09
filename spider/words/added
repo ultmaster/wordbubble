@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[present_1]{present} in [large_1]{larger} [amount_1]{amounts} than [usual]{usual} or than [expected]{expected}",
+      "examples": [
+        "[baby_1]{Baby} [food]{food} should [contain]{contain} no added [sugar_1]{sugar} or [salt_1]{salt}."
+      ],
+      "id": "added__1"
+    },
+    {
+      "def": "an added [advantage]{advantage}, [benefit_1]{benefit}, etc. [make_1]{makes} a [good_1]{good} [situation]{situation} even [better_1]{better}",
+      "examples": [
+        "[new]{New} [equipment]{equipment} [give_1]{gives} them an added [incentive]{incentive} to [start_1]{start} [training]{training} again.",
+        "I [love_1]{love} my [job_1]{job}. The [salary]{salary} is [just_1]{just} an added [bonus]{bonus}.",
+        "The [illness]{illness} was an added [setback]{setback} to her [flounder_1]{floundering} [career_1]{career}."
+      ],
+      "id": "added__3"
+    }
+  ],
+  "word": "added"
+}

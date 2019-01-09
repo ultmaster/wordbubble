@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "comment": "thick [stiff_1]{stiff} [paper_1]{paper}, [thinner]{thinner} than [cardboard_1]{cardboard}",
+      "entry": "card",
+      "id": "card_1#card_1__37"
+    },
+    {
+      "comment": "very [stiff_1]{stiff} thick [paper_1]{paper}, [used]{used} [especially]{especially} for [making]{making} [box_1]{boxes}",
+      "entry": "cardboard",
+      "id": "cardboard_1#cardboard_1__1"
+    },
+    {
+      "comment": "a large size of paper about 13 inches or 32.5 centimeters wide and 17 inches or 42.5 centimeters long, used for writing or for printing books",
+      "entry": "foolscap",
+      "id": "foolscap#foolscap__1"
+    },
+    {
+      "comment": "[attractive]{attractive} [colored_1]{colored} [paper_1]{paper} that you use to [wrap_1]{wrap} [present_2]{presents}",
+      "entry": "gift wrap",
+      "id": "gift-wrap#gift-wrap__1"
+    },
+    {
+      "comment": "[strong]{strong} [brown_1]{brown} [paper_1]{paper} [used]{used} for [wrapping]{wrapping} [thing]{things} and [making]{making} [bag_1]{bags}",
+      "entry": "kraft",
+      "id": "kraft#kraft__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper}",
+      "entry": "page",
+      "id": "page_1#page_1__10"
+    },
+    {
+      "comment": "the thin [flat_1]{flat} [substance]{substance} that you use for [writing]{writing} on or [wrapping]{wrapping} [thing]{things} in",
+      "entry": "paper",
+      "id": "paper_1#paper_1__1"
+    },
+    {
+      "comment": "a [type_1]{type} of thick [stiff_1]{stiff} [paper_1]{paper} made of [layer_1]{layers} of [paper_1]{paper} that are [paste_2]{pasted} or [pressed]{pressed} together",
+      "entry": "pasteboard",
+      "id": "pasteboard#pasteboard__1"
+    },
+    {
+      "comment": "500 [piece_1]{pieces} of [paper_1]{paper}",
+      "entry": "ream",
+      "id": "ream_1#ream_1__3"
+    },
+    {
+      "comment": "[strong]{strong} [paper_1]{paper} with a rough [surface_1]{surface} that you [rub_1]{rub} against [wood]{wood} or [metal_1]{metal} to [make_1]{make} it [smooth_1]{smooth}",
+      "entry": "sandpaper",
+      "id": "sandpaper#sandpaper__1"
+    },
+    {
+      "comment": "scratch paper",
+      "entry": "scrap paper",
+      "id": "scrap-paper#scrap-paper__1"
+    },
+    {
+      "comment": "[paper_1]{paper} that has already been [used]{used} which you keep to [make_1]{make} [note_1]{notes} on",
+      "entry": "scratch paper",
+      "id": "scratch-paper#scratch-paper__1"
+    },
+    {
+      "comment": "a [large_1]{large} [number_1]{number} of [piece_1]{pieces} of [paper_1]{paper} that are [kept]{kept} together",
+      "entry": "sheaf",
+      "id": "sheaf#sheaf__3"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [paper_1]{paper} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "slip",
+      "id": "slip_2#slip_2__3"
+    },
+    {
+      "comment": "long [narrow_1]{narrow} [band_1]{bands} of [paper_1]{paper} with [financial]{financial} [information]{information} [print_1]{printed} on them by a [special_1]{special} [machine_1]{machine}",
+      "entry": "ticker tape",
+      "id": "ticker-tape#ticker-tape__1"
+    },
+    {
+      "comment": "a [type_1]{type} of very thin [paper_1]{paper} [used]{used} for [wrapping]{wrapping} or [protect]{protecting} [thing]{things}",
+      "entry": "tissue",
+      "id": "tissue#tissue__3"
+    },
+    {
+      "comment": "a [type_1]{type} of [paper_1]{paper} of [high_1]{high} [quality_1]{quality}",
+      "entry": "vellum",
+      "id": "vellum#vellum__1"
+    },
+    {
+      "comment": "[wax_1]{wax} [paper_1]{paper}",
+      "entry": "waxed paper",
+      "id": "waxed-paper#waxed-paper__1"
+    },
+    {
+      "comment": "a special type of paper covered in a thin layer of wax that does not allow oil or grease to pass through it, used in cooking and for wrapping food",
+      "entry": "wax paper",
+      "id": "wax-paper#wax-paper__1"
+    },
+    {
+      "comment": "[special_1]{special} [paper_1]{paper} that you use for [wrapping]{wrapping} [present_2]{presents}",
+      "entry": "wrapping paper",
+      "id": "wrapping-paper#wrapping-paper__1"
+    }
+  ],
+  "thesaurus": "Types and forms of paper",
+  "type": "Related words"
+}

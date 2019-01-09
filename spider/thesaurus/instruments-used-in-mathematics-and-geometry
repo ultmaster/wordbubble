@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [drawing]{drawing} [circle_1]{circles}, [consist]{consisting} of two thin [part_1]{parts} [join_1]{joined} in the [shape_1]{shape} of the [letter_1]{letter} V",
+      "entry": "compasses",
+      "id": "compass#compass__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} [used]{used} for [measure_2]{measuring} or [drawing]{drawing} [lines]{lines} and [angle_1]{angles}, [consist]{consisting} of two [piece_1]{pieces} of [metal_1]{metal} with [pointed]{pointed} [end_1]{ends} that are [join_1]{joined} together at the top",
+      "entry": "dividers",
+      "id": "dividers#dividers__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [string_1]{string} with a [metal_1]{metal} [object_1]{object} [attached]{attached} to the bottom, [used]{used} for [check_1]{checking} whether a [wall_1]{wall} is [straight_1]{straight} or for [measure_2]{measuring} the [depth]{depth} of [water_1]{water}",
+      "entry": "plumb line",
+      "id": "plumb-line#plumb-line__1"
+    },
+    {
+      "comment": "an [object_1]{object} that is [shaped_1]{shaped} [like_1]{like} [half]{half} a [circle_1]{circle} and is [used]{used} for [measure_2]{measuring} and [drawing]{drawing} [angle_1]{angles}",
+      "entry": "protractor",
+      "id": "protractor#protractor__1"
+    },
+    {
+      "comment": "an [object_1]{object} [used]{used} for [measure_2]{measuring} or for [drawing]{drawing} [straight_1]{straight} [lines]{lines}, [consist]{consisting} of a long [flat_1]{flat} [piece_1]{piece} of [plastic_1]{plastic}, [wood]{wood}, or [metal_1]{metal} [marked]{marked} with [unit]{units} of [measurement]{measurement}",
+      "entry": "ruler",
+      "id": "ruler#ruler__1"
+    },
+    {
+      "comment": "a [triangle]{triangle} for [drawing]{drawing} [lines]{lines} and [measure_2]{measuring} [angle_1]{angles}",
+      "entry": "set square",
+      "id": "set-square#set-square__1"
+    },
+    {
+      "comment": "a simple piece of equipment like a ruler with a piece in the middle that slides along, used for calculating",
+      "entry": "slide rule",
+      "id": "slide-rule#slide-rule__1"
+    },
+    {
+      "comment": "a piece of equipment that a surveyor uses for measuring angles",
+      "entry": "theodolite",
+      "id": "theodolite#theodolite__1"
+    },
+    {
+      "comment": "a small object with three sides and one angle that is 90\u00b0, used for drawing straight lines, triangles, and right angles",
+      "entry": "triangle",
+      "id": "triangle#triangle__5"
+    },
+    {
+      "comment": "a [tool_1]{tool} in the [shape_1]{shape} of the [letter_1]{letter} T that can [help_1]{help} you to [draw_1]{draw} [lines]{lines} that are [exactly]{exactly} [parallel_1]{parallel} or in the [shape_1]{shape} of a [square_1]{square}. A T-square is [used]{used} in [making]{making} [detailed]{detailed} [plan_1]{plans} for [building]{buildings}, etc.",
+      "entry": "T-square",
+      "id": "t-square#t-square__1"
+    }
+  ],
+  "thesaurus": "Instruments used in mathematics and geometry",
+  "type": "Related words"
+}

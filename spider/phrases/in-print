@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in print",
+  "senses": [
+    {
+      "def": "[print_1]{printed} in a [book_1]{book}, [magazine]{magazine} or [newspaper]{newspaper}",
+      "examples": [
+        "How [does]{does} it [feel_1]{feel} to [finally]{finally} see one of your [article]{articles} in [print_1]{print}?"
+      ],
+      "id": "in-print__1"
+    },
+    {
+      "def": "a [book_1]{book}, [magazine]{magazine}, etc. that is in [print_1]{print} is still [available]{available} to [buy_1]{buy} from its [publisher]{publisher}",
+      "examples": [
+        "Is that [old]{old} [grammar]{grammar} [book_1]{book} still in [print_1]{print}?"
+      ],
+      "id": "in-print__3"
+    }
+  ]
+}

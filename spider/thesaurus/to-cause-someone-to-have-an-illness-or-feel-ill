@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} about something that [make_1]{makes} an [illness]{illness} [start_1]{start}",
+      "entry": "cause",
+      "id": "cause_2#cause_2__10"
+    },
+    {
+      "comment": "to [pass_1]{pass} an [illness]{illness} or [disease]{disease} to another [person]{person}",
+      "entry": "give",
+      "id": "give_1#give_1__50"
+    },
+    {
+      "comment": "to give someone an [infectious]{infectious} [illness]{illness}",
+      "entry": "pass on",
+      "id": "pass-on#pass-on__6"
+    },
+    {
+      "comment": "to [make_1]{make} someone get a [disease]{disease}, that can be [spread_1]{spread} from one [person]{person} to another",
+      "entry": "infect",
+      "id": "infect#infect__1"
+    },
+    {
+      "comment": "if a [disease]{disease} [spread_1]{spreads}, or if something [spread_1]{spreads} it, it [affect_1]{affects} more [people_1]{people} as it is [pass_1]{passed} from one [person]{person} to another",
+      "entry": "spread",
+      "id": "spread_1#spread_1__9"
+    },
+    {
+      "comment": "if something such as an [illness]{illness} or a [piece_1]{piece} of [news]{news} is [going_1]{going} around, [people_1]{people} are [give_1]{giving} or [telling]{telling} it to each other",
+      "entry": "go around",
+      "id": "go-around#go-around__4"
+    },
+    {
+      "comment": "to [pass_1]{pass} a [disease]{disease} from one [person]{person} or [animal_1]{animal} to another",
+      "entry": "communicate",
+      "id": "communicate#communicate__13"
+    },
+    {
+      "comment": "to have a [disease]{disease} and be [capable]{capable} of [infect]{infecting} someone else with it",
+      "entry": "carry",
+      "id": "carry_1#carry_1__18"
+    },
+    {
+      "comment": "to [spread_1]{spread} a [disease]{disease} from one [person]{person} to another",
+      "entry": "transmit",
+      "id": "transmit#transmit__3"
+    },
+    {
+      "comment": "to [begin]{begin} to [appear]{appear} as part of an [illness]{illness} or [medical_1]{medical} [condition_1]{condition}",
+      "entry": "develop",
+      "id": "develop#develop__19"
+    }
+  ],
+  "thesaurus": "To cause someone to have an illness or feel ill",
+  "type": "Synonyms"
+}

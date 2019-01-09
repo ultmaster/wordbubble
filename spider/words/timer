@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [small_1]{small} [piece_1]{piece} of [equipment]{equipment} [used]{used} for [measure_2]{measuring} time, for [example]{example} when you are [cooking_1]{cooking}",
+      "examples": [
+        "[set_1]{Set} the timer for 30 [minute_1]{minutes}."
+      ],
+      "id": "timer__1"
+    },
+    {
+      "def": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [machine_1]{machine} [start_1]{start} or [stop_1]{stop} [working]{working} at a time that you have [chosen_1]{chosen}",
+      "examples": [
+        "The [building]{building}\u2019s [heating]{heating} system is on a timer."
+      ],
+      "id": "timer__3"
+    }
+  ],
+  "word": "timer"
+}

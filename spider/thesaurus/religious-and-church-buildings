@@ -1,0 +1,181 @@
+{
+  "entries": [
+    {
+      "comment": "a large church with buildings attached where a group of monks or nuns live or used to live",
+      "entry": "abbey",
+      "id": "abbey#abbey__1"
+    },
+    {
+      "comment": "a [large_1]{large} [important]{important} Roman [catholic_1]{Catholic} [church]{church}",
+      "entry": "basilica",
+      "id": "basilica#basilica__2"
+    },
+    {
+      "comment": "the most important church in an area that a bishop controls",
+      "entry": "cathedral",
+      "id": "cathedral#cathedral__1"
+    },
+    {
+      "comment": "a [small_1]{small} [church]{church}, or a [special_1]{special} [room_1]{room} [used]{used} as a [church]{church}, where Christians can [pray_1]{pray} or [worship_1]{worship}",
+      "entry": "chapel",
+      "id": "chapel#chapel__1"
+    },
+    {
+      "comment": "a church where Nonconformists go to pray and worship",
+      "entry": "chapel",
+      "id": "chapel#chapel__4"
+    },
+    {
+      "comment": "a building where the priests who work in a cathedral have meetings",
+      "entry": "chapter house",
+      "id": "chapter-house#chapter-house__2"
+    },
+    {
+      "comment": "a building that Christians go to in order to worship. Traditional churches usually contain an altar and long wooden seats facing the altar called pews. The place where the priest or minister stands to talk to the people is called a pulpit. A religious ceremony that takes place in a church is called a service",
+      "entry": "church",
+      "id": "church#church__1"
+    },
+    {
+      "comment": "a monastery or convent",
+      "entry": "cloister",
+      "id": "cloister_1#cloister_1__2"
+    },
+    {
+      "comment": "a building where a community of nuns  (=women members of a religious organization) live and work",
+      "entry": "convent",
+      "id": "convent#convent__1"
+    },
+    {
+      "comment": "the [house_1]{house} of the [dean]{dean} of a [church]{church}",
+      "entry": "deanery",
+      "id": "deanery#deanery__2"
+    },
+    {
+      "comment": "a [building]{building} where a [group_1]{group} of [friar]{friars} [lives]{lives}",
+      "entry": "friary",
+      "id": "friary#friary__1"
+    },
+    {
+      "comment": "a [building]{building} where a [group_1]{group} of [religious]{religious} [hermit]{hermits} [live_1]{live}",
+      "entry": "hermitage",
+      "id": "hermitage#hermitage__1"
+    },
+    {
+      "comment": "a [christian_1#christian_1__4]{Christian} [church]{church} or other [building]{building} where [people_1]{people} [worship_1]{worship} [god_1]{God}",
+      "entry": "house of God",
+      "id": "house-of-god#house-of-god__1"
+    },
+    {
+      "comment": "a [church]{church}, [especially]{especially} one [belong]{belonging} to the [official_1]{official} [church]{Church} of Scotland",
+      "entry": "the Kirk",
+      "id": "kirk#kirk__1"
+    },
+    {
+      "comment": "a house provided for a minister in some Protestant churches",
+      "entry": "manse",
+      "id": "manse#manse__1"
+    },
+    {
+      "comment": "a Muslim name for a [mosque]{mosque}",
+      "entry": "masjid",
+      "id": "masjid#masjid__1"
+    },
+    {
+      "comment": "a [place_1]{place} where some [christian_1#christian_1__4]{Christian} [religious]{religious} [group_1]{groups} [worship_1]{worship} and [pray_1]{pray}, [especially]{especially} the Quakers",
+      "entry": "meetinghouse",
+      "id": "meetinghouse#meetinghouse__1"
+    },
+    {
+      "comment": "a [large_1]{large} and [important]{important} [church]{church}",
+      "entry": "minster",
+      "id": "minster#minster__1"
+    },
+    {
+      "comment": "a building where a group of monks  (=a religious community of men) lives and works",
+      "entry": "monastery",
+      "id": "monastery#monastery__1"
+    },
+    {
+      "comment": "a [building]{building} in which Muslims [worship_1]{worship}",
+      "entry": "mosque",
+      "id": "mosque#mosque__1"
+    },
+    {
+      "comment": "a [convent]{convent}",
+      "entry": "nunnery",
+      "id": "nunnery#nunnery__1"
+    },
+    {
+      "comment": "a [church]{church} or other [building]{building} where Roman Catholics go to [pray_1]{pray} and [worship_1]{worship}",
+      "entry": "oratory",
+      "id": "oratory#oratory__2"
+    },
+    {
+      "comment": "a Buddhist [religious]{religious} [building]{building} with several [level_1]{levels}, each of which has a [roof_1]{roof} that [stick_1]{sticks} out",
+      "entry": "pagoda",
+      "id": "pagoda#pagoda__1"
+    },
+    {
+      "comment": "the [main_1]{main} [church]{church} or the only [church]{church} in a [parish]{parish}",
+      "entry": "parish church",
+      "id": "parish-church#parish-church__1"
+    },
+    {
+      "comment": "a [house_1]{house} that the Anglican [church]{church} [provide]{provides} for a [parson]{parson} to [live_1]{live} in",
+      "entry": "parsonage",
+      "id": "parsonage#parsonage__1"
+    },
+    {
+      "comment": "a [church]{church} or other [building]{building} where [people_1]{people} [hold_1]{hold} [religious]{religious} [ceremony]{ceremonies}",
+      "entry": "place of worship",
+      "id": "place-of-worship#place-of-worship__1"
+    },
+    {
+      "comment": "the [house_1]{house} where a Roman [catholic_1]{Catholic} [priest]{priest} [lives]{lives}",
+      "entry": "presbytery",
+      "id": "presbytery#presbytery__2"
+    },
+    {
+      "comment": "a [building]{building} where the [member]{members} of a [christian_1#christian_1__4]{Christian} [religious]{religious} [community]{community} [live_1]{live}",
+      "entry": "priory",
+      "id": "priory#priory__1"
+    },
+    {
+      "comment": "a [house_1]{house} that the [rector]{rector} of a [church]{church} [lives]{lives} in",
+      "entry": "rectory",
+      "id": "rectory#rectory__1"
+    },
+    {
+      "comment": "a [religious]{religious} [place_1]{place} [built_1]{built} to [remember]{remember} a [particular_1]{particular} [holy]{holy} [person]{person} or [event]{event}",
+      "entry": "shrine",
+      "id": "shrine#shrine__1"
+    },
+    {
+      "comment": "a [building]{building} [used]{used} by Jewish [people_1]{people} for [worship_1]{worship} and [religious]{religious} [study_1]{study}",
+      "entry": "synagogue",
+      "id": "synagogue#synagogue__1"
+    },
+    {
+      "comment": "a name [used]{used} by some [christian_1#christian_1__4]{Christian} [religious]{religious} [group_1]{groups} for their [church]{churches}",
+      "entry": "tabernacle",
+      "id": "tabernacle#tabernacle__1"
+    },
+    {
+      "comment": "a [building]{building} [used]{used} for [worship_1]{worship} in some [religion]{religions}, [typically]{typically} [religion]{religions} other than Christianity",
+      "entry": "temple",
+      "id": "temple#temple__1"
+    },
+    {
+      "comment": "a [synagogue]{synagogue} where Jewish [people_1]{people} [worship_1]{worship}",
+      "entry": "temple",
+      "id": "temple#temple__4"
+    },
+    {
+      "comment": "a [vicar]{vicar}\u2019s [house_1]{house}",
+      "entry": "vicarage",
+      "id": "vicarage#vicarage__1"
+    }
+  ],
+  "thesaurus": "Religious and church buildings",
+  "type": "Related words"
+}

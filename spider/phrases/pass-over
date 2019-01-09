@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "pass over",
+  "senses": [
+    {
+      "def": "to not give someone a [better_1]{better} [job_1]{job}, [choose]{choosing} [instead]{instead} someone who is [younger]{younger} or has less [experience_1]{experience}",
+      "examples": [
+        "Bill was [upset_1]{upset} about being [pass_1]{passed} over for the [marketing]{marketing} [job_1]{job}."
+      ],
+      "id": "pass-over__1"
+    },
+    {
+      "def": "to [ignore]{ignore} or not [mention_1]{mention} a [statement_1]{statement} or [subject_1]{subject}",
+      "examples": [
+        "I [mention_1]{mentioned} that you were [unhappy]{unhappy} with your [salary]{salary}, but it was [pass_1]{passed} over."
+      ],
+      "id": "pass-over__3"
+    }
+  ]
+}

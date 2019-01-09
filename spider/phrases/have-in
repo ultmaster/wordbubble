@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "have in",
+  "senses": [
+    {
+      "def": "if a [store_1]{store} has something in, it is [available]{available} in the [store_1]{store} for you to [buy_1]{buy}",
+      "examples": [
+        "We\u2019ll have some more [guide_1]{guide} [book_1]{books} in next [week]{week}."
+      ],
+      "id": "have-in__1"
+    },
+    {
+      "def": "if you have someone in, they come to your [house_1]{house}, [office]{office}, [factory]{factory}, etc. to do some [work_1]{work} there",
+      "examples": [],
+      "id": "have-in__3"
+    },
+    {
+      "def": "if you have a [friend_1]{friend} or [neighbor]{neighbor} in, they come to your [house_1]{house} and have a [meal]{meal} or a [drink_1]{drink} with you",
+      "examples": [],
+      "id": "have-in__4"
+    },
+    {
+      "def": "to have a [supply_1]{supply} of something that you [regularly]{regularly} use in your [house_1]{house}, for [example]{example} [food]{food}, [drink_1]{drink}, or [fuel_1]{fuel}",
+      "examples": [],
+      "id": "have-in__5"
+    }
+  ]
+}

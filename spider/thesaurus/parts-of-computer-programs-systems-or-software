@@ -1,0 +1,256 @@
+{
+  "entries": [
+    {
+      "comment": "a [link_1]{link} that [take_1]{takes} you to a [particular_1]{particular} [place_1]{place} in a [document_1]{document} rather than the top of it",
+      "entry": "anchor link",
+      "id": "anchor-link#anchor-link__1"
+    },
+    {
+      "comment": "a [feature_1]{feature} of [software]{software} that [automatically]{automatically} [put]{puts} [writing]{writing} around a [picture_1]{picture} or [continue]{continues} it from one [page_1]{page} to the next",
+      "entry": "autoflow",
+      "id": "autoflow#autoflow__1"
+    },
+    {
+      "comment": "a feature of software that automatically divides words and puts hyphens in them in the correct places",
+      "entry": "automatic hyphenation",
+      "id": "automatic-hyphenation#automatic-hyphenation__1"
+    },
+    {
+      "comment": "a [feature_1]{feature} of [software]{software} that [automatically]{automatically} [save_1]{saves} your [information]{information} every few [minute_1]{minutes}, so that you [lose]{lose} only a [small_1]{small} amount of [information]{information} if the computer system [fail_1]{fails}",
+      "entry": "autosave",
+      "id": "autosave#autosave__1"
+    },
+    {
+      "comment": "a feature of multimedia software that allows a user to move between pages in no fixed order",
+      "entry": "browse mode",
+      "id": "browse-mode#browse-mode__1"
+    },
+    {
+      "comment": "a [minor_1]{minor} [fault_1]{fault} in a computer system or in a computer [program_1]{program}",
+      "entry": "bug",
+      "id": "bug_1#bug_1__6"
+    },
+    {
+      "comment": "[picture_1]{pictures} and [design_1]{designs} that you can put into [document_1]{documents} that you [create]{create} on a computer",
+      "entry": "clip art",
+      "id": "clip-art#clip-art__1"
+    },
+    {
+      "comment": "the part of a computer [program_1]{program} where you can [store_1]{store} [information]{information} that you are [going_1]{going} to [copy_1]{copy} to another [document_1]{document}",
+      "entry": "clipboard",
+      "id": "clipboard#clipboard__2"
+    },
+    {
+      "comment": "a [setting]{setting} that is [automatically]{automatically} [given_1]{given} to a [software]{software} [application]{application}, computer [program_1]{program} or [device]{device}",
+      "entry": "default setting",
+      "id": "default-setting#default-setting__1"
+    },
+    {
+      "comment": "a [menu]{menu} in some computer [program_1]{programs} that [allow]{allows} you to [cut_1]{cut}, [copy_1]{copy}, or move [part_1]{parts} of a [document_1]{document} or [file_1]{file}, or [look_1]{look} for [particular_1]{particular} [word_1]{words} in it",
+      "entry": "edit",
+      "id": "edit_2#edit_2__3"
+    },
+    {
+      "comment": "a part of a database that contains information of a particular type",
+      "entry": "field",
+      "id": "field_1#field_1__21"
+    },
+    {
+      "comment": "the way that a [particular_1]{particular} computer [program_1]{program} [store_1]{stores} [information]{information} in a [file_1]{file}",
+      "entry": "file format",
+      "id": "file-format#file-format__1"
+    },
+    {
+      "comment": "a [feature_1]{feature} of [software]{software} that [prevent]{prevents} [information]{information} in a [file_1]{file} from being [changed]{changed} by two [different]{different} [user]{users} at the same time",
+      "entry": "file locking",
+      "id": "file-locking#file-locking__1"
+    },
+    {
+      "comment": "a [feature_1]{feature} of computer [equipment]{equipment} or [software]{software} that [prevent]{prevents} a [file_1]{file} from being [changed]{changed} or [destroy]{destroyed} by [accident]{accident}",
+      "entry": "file protection",
+      "id": "file-protection#file-protection__1"
+    },
+    {
+      "comment": "a [feature_1]{feature} of a [piece_1]{piece} of [software]{software} that [connect]{connects} two [computer]{computers} and [allow]{allows} [file_1]{files} to [pass_1]{pass} from to the other",
+      "entry": "file transfer utility",
+      "id": "file-transfer-utility#file-transfer-utility__1"
+    },
+    {
+      "comment": "[instruction]{instructions} for a computer that are [store_2]{stored} in a [memory]{memory} [unit]{unit} rather than in [software]{software}",
+      "entry": "firmware",
+      "id": "firmware#firmware__1"
+    },
+    {
+      "comment": "the [part_1]{parts} of a computer system that the [user]{user} [see_1]{sees} and [use_1]{uses}",
+      "entry": "front end",
+      "id": "front-end_1#front-end_1__1"
+    },
+    {
+      "comment": "Graphical User Interface: a system that uses pictures that you click  (=press) on with a computer mouse in order to move between programs",
+      "entry": "GUI",
+      "id": "gui#gui__1"
+    },
+    {
+      "comment": "the part of a computer [program_1]{program} that [deal_1]{deals} with a [particular_1]{particular} [type_1]{type} of [problem]{problem} or [operation]{operation}",
+      "entry": "handler",
+      "id": "handler#handler__6"
+    },
+    {
+      "comment": "part of a computer [program_1]{program} that [give_1]{gives} you [information]{information}",
+      "entry": "help",
+      "id": "help_2#help_2__16"
+    },
+    {
+      "comment": "a [record_1]{record} of what [information]{information} the [previous_1]{previous} [user]{users} of a computer have put into the computer",
+      "entry": "history list",
+      "id": "history-list#history-list__1"
+    },
+    {
+      "comment": "a computer [program_1]{program} that [let_1]{lets} you [know_1]{know} when someone is [trying]{trying} to [communicate]{communicate} with you [online]{online}",
+      "entry": "ICQ",
+      "id": "icq#icq__1"
+    },
+    {
+      "comment": "being used at the present time. Programs that are running on your computer but not being used are in the background.",
+      "entry": "in the foreground",
+      "id": "in-the-foreground#in-the-foreground__1"
+    },
+    {
+      "comment": "a part of a computer [game_1]{game} that someone must [complete_1]{complete} before they move to the next [stage_1]{stage}",
+      "entry": "level",
+      "id": "level_1#level_1__30"
+    },
+    {
+      "comment": "a [legal]{legal} [document_1]{document} that comes with a [software]{software} [product]{product} and [state_1]{states} how you can use the [software]{software} and how many [people_1]{people} are [allow]{allowed} to use it",
+      "entry": "license agreement",
+      "id": "license-agreement#license-agreement__1"
+    },
+    {
+      "comment": "a [connection]{connection} between one [file_1]{file} or [section_1]{section} and another, for [example]{example} a [connection]{connection} on a [website]{website}",
+      "entry": "link",
+      "id": "link_2#link_2__15"
+    },
+    {
+      "comment": "a name or [password]{password} that you [type_1]{type} into a computer in [order_1]{order} to be [able_1]{able} to [start_1]{start} [use_1]{using} a [program_1]{program} or system",
+      "entry": "login",
+      "id": "login#login__3"
+    },
+    {
+      "comment": "a name and [password]{password} that you use for [opening_1]{opening} a computer [program_1]{program} or [start_1]{starting} [use_1]{using} a computer system",
+      "entry": "logon",
+      "id": "logon#logon__2"
+    },
+    {
+      "comment": "a [set_1]{set} of [instruction]{instructions} in a computer [program_1]{program} that are [repeated]{repeated} until an [action_1]{action} is [completed]{completed}",
+      "entry": "loop",
+      "id": "loop_1#loop_1__8"
+    },
+    {
+      "comment": "a [group_1]{group} of [number_1]{numbers} [give_1]{giving} [information]{information} about a [particular_1]{particular} [feature_1]{feature} of a [piece_1]{piece} of [software]{software} or [hardware]{hardware}",
+      "entry": "metrics",
+      "id": "metrics#metrics__1"
+    },
+    {
+      "comment": "a [section_1]{section} of a computer [program_1]{program}",
+      "entry": "module",
+      "id": "module#module__4"
+    },
+    {
+      "comment": "one of a [range_1]{range} of [thing]{things} that you can [choose]{choose} to do when you are [use_1]{using} a computer [program_1]{program}",
+      "entry": "option",
+      "id": "option#option__8"
+    },
+    {
+      "comment": "the [place_1]{place} on an [e-mail_1]{e-mail} [program_1]{program} where [e-mail_1]{e-mails} are [store_2]{stored} before you [send_1]{send} them",
+      "entry": "outbox",
+      "id": "outbox#outbox__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [software]{software} [control_1]{controls} that [prevent]{prevents} [page_1]{pages} being [changed]{changed} by [accident]{accident}",
+      "entry": "page protection",
+      "id": "page-protection#page-protection__1"
+    },
+    {
+      "comment": "the set of software choices, for example the size of pages or the size of the margins, that allow a user to decide how the page will look when it is printed",
+      "entry": "page setup",
+      "id": "page-setup#page-setup__1"
+    },
+    {
+      "comment": "the [number_1]{numbers} or [letter_1]{letters} that you have to put into a computer in [order_1]{order} to be [able_1]{able} to use the system",
+      "entry": "password",
+      "id": "password#password__2"
+    },
+    {
+      "comment": "a [feature_1]{feature} of a [software]{software} [product]{product} that [let_1]{lets} you see how a [page_1]{page} will [look_1]{look} when you [print_1]{print} it",
+      "entry": "print preview",
+      "id": "print-preview#print-preview__1"
+    },
+    {
+      "comment": "a [file_1]{file} that [contain]{contains} [information]{information} about a [piece_1]{piece} of [software]{software}",
+      "entry": "README file",
+      "id": "readme-file#readme-file__1"
+    },
+    {
+      "comment": "a [place_1]{place} on a computer where [document_1]{documents}, [file_1]{files}, and [program_1]{programs} that you have [removed]{removed} are [kept]{kept}",
+      "entry": "recycle bin",
+      "id": "recycle-bin#recycle-bin__1"
+    },
+    {
+      "comment": "a series of instructions in a computer program that makes the program do a particular thing when a website is opened or a link is clicked",
+      "entry": "script",
+      "id": "script_1#script_1__6"
+    },
+    {
+      "comment": "a [feature_1]{feature} of [software]{software} that [show_1]{shows} [photograph_1]{photographs} one after the other, without the [user]{user} [have]{having} to give an [instruction]{instruction} to [look_1]{look} at the next [image_1]{image}",
+      "entry": "slide show",
+      "id": "slide-show#slide-show__1"
+    },
+    {
+      "comment": "a [mistake_1]{mistake} [cause_2]{caused} by [software]{software} that is very [difficult]{difficult} to find because it only [appear]{appears} in [particular_1]{particular} [situation]{situations}",
+      "entry": "soft error",
+      "id": "soft-error#soft-error__1"
+    },
+    {
+      "comment": "a set of instructions for a computer program that a computer programmer understands and that are translated into instructions that a computer understands",
+      "entry": "source code",
+      "id": "source-code#source-code__1"
+    },
+    {
+      "comment": "the part of a computer [program_1]{program} that [check_1]{checks} the way that you [spell_1]{spell} [word_1]{words} and [correct_2]{corrects} your [mistake_1]{mistakes}",
+      "entry": "spellchecker",
+      "id": "spellchecker#spellchecker__1"
+    },
+    {
+      "comment": "on a computer, an [independent_1]{independent} part of a [picture_1]{picture} that you can move around [easily]{easily} on the [screen_1]{screen}",
+      "entry": "sprite",
+      "id": "sprite#sprite__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [character]{characters} [used]{used} in a computer [program_1]{program} and [treat_1]{treated} as a [single_1]{single} [unit]{unit}",
+      "entry": "string",
+      "id": "string_1#string_1__10"
+    },
+    {
+      "comment": "a [small_1]{small} part of a computer [program_1]{program} that [does]{does} one [specific]{specific} [job_1]{job}",
+      "entry": "subroutine",
+      "id": "subroutine#subroutine__1"
+    },
+    {
+      "comment": "the name [used]{used} by someone for [operate]{operating} a computer [program_1]{program}",
+      "entry": "username",
+      "id": "username#username__1"
+    },
+    {
+      "comment": "all the [word_1]{words} [used]{used} or [produce_1]{produced} by a computer [program_1]{program}, [game_1]{game}, or [talk_1]{talking} [toy_1]{toy}",
+      "entry": "vocabulary",
+      "id": "vocabulary#vocabulary__10"
+    },
+    {
+      "comment": "a feature in a word processing program that fits all the words in a document automatically within the margins",
+      "entry": "wordwrap",
+      "id": "wordwrap#wordwrap__1"
+    }
+  ],
+  "thesaurus": "Parts of computer programs, systems or software",
+  "type": "Related words"
+}

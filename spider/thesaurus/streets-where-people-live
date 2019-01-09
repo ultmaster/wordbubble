@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "[avenue]{Avenue}",
+      "entry": "Ave.",
+      "id": "ave#ave__1"
+    },
+    {
+      "comment": "used in street names. The written abbreviation is Ave.",
+      "entry": "Avenue",
+      "id": "avenue#avenue__2"
+    },
+    {
+      "comment": "a [small_1]{small} [street_1]{street} in a [town]{town} or [city]{city}",
+      "entry": "backstreet",
+      "id": "backstreet_1#backstreet_1__1"
+    },
+    {
+      "comment": "[boulevard]{Boulevard}",
+      "entry": "Blvd.",
+      "id": "blvd#blvd__1"
+    },
+    {
+      "comment": "used in street names. The written abbreviation is Blvd.",
+      "entry": "Boulevard",
+      "id": "boulevard#boulevard__2"
+    },
+    {
+      "comment": "a [street_1]{street} [consist]{consisting} of [private_1]{private} [house_1]{houses} at the [end_1]{end} of which the [road]{road} [stop_1]{stops}",
+      "entry": "Close",
+      "id": "close_5#close_5__2"
+    },
+    {
+      "comment": "[used]{used} in [street_1]{street} [name_1]{names}",
+      "entry": "Close",
+      "id": "close_5#close_5__3"
+    },
+    {
+      "comment": "[used]{used} in some [street_1]{street} [name_1]{names}",
+      "entry": "crescent",
+      "id": "crescent#crescent__3"
+    },
+    {
+      "comment": "a [short_1]{short} [street_1]{street} [closed]{closed} at one [end_1]{end}, so that [traffic_1]{traffic} cannot [pass_1]{pass} through it",
+      "entry": "cul-de-sac",
+      "id": "cul-de-sac#cul-de-sac__1"
+    },
+    {
+      "comment": "[drive_1]{drive}",
+      "entry": "Dr.",
+      "id": "dr#dr__2"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [street_1]{streets}",
+      "entry": "Drive",
+      "id": "drive_2#drive_2__5"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of some [street_1]{streets}",
+      "entry": "Grove",
+      "id": "grove_2#grove_2__1"
+    },
+    {
+      "comment": "[used]{used} in the [name_1]{names} of [road]{roads}",
+      "entry": "Lane",
+      "id": "lane#lane__3"
+    },
+    {
+      "comment": "a small street with houses, especially one where there used to be stables  (=buildings for horses)",
+      "entry": "mews",
+      "id": "mews#mews__1"
+    },
+    {
+      "comment": "[road]{Road}: [used]{used} in [address_1]{addresses}",
+      "entry": "Rd.",
+      "id": "rd#rd__1"
+    },
+    {
+      "comment": "a [street_1]{street} with [building]{buildings} along one side or both sides",
+      "entry": "road",
+      "id": "road#road__12"
+    },
+    {
+      "comment": "used in the names of some streets. The written abbreviation is Rd.",
+      "entry": "Road",
+      "id": "road#road__10"
+    },
+    {
+      "comment": "a [small_1]{small} [street_1]{street} that is [connected]{connected} to a [major_1]{major} [street_1]{street}",
+      "entry": "side street",
+      "id": "side-street#side-street__1"
+    },
+    {
+      "comment": "[street_1]{Street}",
+      "entry": "St.",
+      "id": "st_2#st_2__2"
+    },
+    {
+      "comment": "a [road]{road} in a [town]{town} or [city]{city} with [house_1]{houses} or other [building]{buildings} along it",
+      "entry": "Street",
+      "id": "street_1#street_1__1"
+    },
+    {
+      "comment": "used in the names of roads. The written abbreviation is St.",
+      "entry": "Street",
+      "id": "street_1#street_1__6"
+    },
+    {
+      "comment": "[used]{used} in the name of [street_1]{streets}",
+      "entry": "Way",
+      "id": "way_1#way_1__35"
+    }
+  ],
+  "thesaurus": "Streets where people live",
+  "type": "Related words"
+}

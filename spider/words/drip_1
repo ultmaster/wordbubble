@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "if a [liquid_1]{liquid} [drip_1]{drips}, it [fall_1]{falls} in very [small_1]{small} [drop_1]{drops}",
+      "examples": [
+        "Red [paint_1]{paint} had [drip_1]{dripped} on the [floor_1]{floor}.",
+        "[sweat_1]{Sweat} was [dripping]{dripping} down his [face_1]{face}.",
+        "[drip_1]{Drip} some [wax_1]{wax} onto the [paper_1]{paper} to [make_1]{make} a [seal_1]{seal}."
+      ],
+      "id": "drip_1__1"
+    },
+    {
+      "def": "to [produce_1]{produce} [small_1]{small} [drop_1]{drops} of [liquid_1]{liquid}",
+      "examples": [
+        "The [faucet]{faucet} was [dripping]{dripping}."
+      ],
+      "id": "drip_1__6"
+    }
+  ],
+  "word": "drip"
+}

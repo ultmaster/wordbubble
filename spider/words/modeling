@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [job_1]{job} of [working]{working} as a [model_1]{model}",
+      "examples": [],
+      "id": "modeling__1"
+    },
+    {
+      "def": "the [production]{production} of a [simple]{simple} [technical]{technical} [description]{description} of how something such as a [process_1]{process}, [theory]{theory}, or system [work_1]{works}",
+      "examples": [],
+      "id": "modeling__2"
+    },
+    {
+      "def": "the [activity]{activity} of [making]{making} [model_1]{models} of [object_1]{objects} such as [vehicle]{vehicles} or [building]{buildings}",
+      "examples": [
+        "[children]{children}\u2019s modeling [clay]{clay}"
+      ],
+      "id": "modeling__3"
+    }
+  ],
+  "word": "modeling"
+}

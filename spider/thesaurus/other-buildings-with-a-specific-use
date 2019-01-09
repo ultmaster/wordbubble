@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "a [public_1]{public} [building]{building} where [people_1]{people} go to [wash_1]{wash} or have a [health]{health} [treatment]{treatment} [use_1]{using} [hot]{hot} [water_1]{water} or [steam_1]{steam}",
+      "entry": "bathhouse",
+      "id": "bathhouse#bathhouse__1"
+    },
+    {
+      "comment": "a [public_1]{public} [building]{building} where [people_1]{people} go to [wash_1]{wash} themselves",
+      "entry": "baths",
+      "id": "bath_1#bath_1__11"
+    },
+    {
+      "comment": "a parking lot or parking garage",
+      "entry": "car park",
+      "id": "car-park#car-park__1"
+    },
+    {
+      "comment": "a row of stone columns",
+      "entry": "colonnade",
+      "id": "colonnade#colonnade__1"
+    },
+    {
+      "comment": "a [building]{building} with a [high_1]{high} round [frame_1]{frame} made of [shape_1]{shapes} with [angle_1]{angles} that [fit_1]{fit} together",
+      "entry": "geodesic dome",
+      "id": "geodesic-dome#geodesic-dome__1"
+    },
+    {
+      "comment": "a [building]{building} made from [snow_1]{snow} or [ice_1]{ice}",
+      "entry": "igloo",
+      "id": "igloo#igloo__1"
+    },
+    {
+      "comment": "a [tower_1]{tower} [built_1]{built} next to the [ocean]{ocean} that has a [powerful]{powerful} [flash_1]{flashing} [light_1]{light} at the top to show [ship_1]{ships} where to go or to [warn]{warn} them of [danger]{danger}",
+      "entry": "lighthouse",
+      "id": "lighthouse#lighthouse__1"
+    },
+    {
+      "comment": "a [parking]{parking} [garage_1]{garage}",
+      "entry": "parkade",
+      "id": "parkade#parkade__1"
+    },
+    {
+      "comment": "a round building or room, especially one that has a dome  (=a curved roof)",
+      "entry": "rotunda",
+      "id": "rotunda#rotunda__1"
+    },
+    {
+      "comment": "a [building]{building} [used]{used} as a [school_1]{school}, [especially]{especially} in a [small_1]{small} [town]{town}",
+      "entry": "schoolhouse",
+      "id": "schoolhouse#schoolhouse__1"
+    },
+    {
+      "comment": "a [small_1]{small} [plain_1]{plain} [building]{building}, [usually]{usually} made of [wood]{wood} or [metal_1]{metal}",
+      "entry": "shack",
+      "id": "shack_1#shack_1__1"
+    },
+    {
+      "comment": "a very [tall]{tall} [building]{building} [contain]{containing} [office]{offices} or [apartment]{apartments}",
+      "entry": "skyscraper",
+      "id": "skyscraper#skyscraper__1"
+    },
+    {
+      "comment": "a [high-rise]{high-rise} [building]{building}",
+      "entry": "tower block",
+      "id": "tower-block#tower-block__1"
+    },
+    {
+      "comment": "a tall building that has stairs but no elevator",
+      "entry": "walk-up",
+      "id": "walk-up#walk-up__1"
+    }
+  ],
+  "thesaurus": "Other buildings with a specific use",
+  "type": "Related words"
+}

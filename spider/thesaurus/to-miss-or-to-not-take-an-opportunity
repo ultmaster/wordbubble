@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "to [fail_1]{fail} to take [advantage]{advantage} of an [opportunity]{opportunity}",
+      "entry": "miss",
+      "id": "miss_1#miss_1__18"
+    },
+    {
+      "comment": "to not get a [benefit_1]{benefit} that someone else is [get]{getting}",
+      "entry": "lose out",
+      "id": "lose-out#lose-out__1"
+    },
+    {
+      "comment": "to not take [advantage]{advantage} of an [opportunity]{opportunity}",
+      "entry": "pass up",
+      "id": "pass-up#pass-up__1"
+    },
+    {
+      "comment": "to [lose]{lose} an [opportunity]{opportunity} to do or have something",
+      "entry": "miss out",
+      "id": "miss-out#miss-out__1"
+    },
+    {
+      "comment": "to [fail_1]{fail} to take [advantage]{advantage} of an [opportunity]{opportunity} by not [take_1]{taking} [action_1]{action} [quickly]{quickly} enough",
+      "entry": "miss the boat",
+      "id": "miss-the-boat#miss-the-boat__1"
+    }
+  ],
+  "thesaurus": "To miss, or to not take an opportunity",
+  "type": "Synonyms"
+}

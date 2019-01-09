@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if something is [unpleasant]{unpleasant}, you do not [like_1]{like} or [enjoy]{enjoy} it",
+      "entry": "unpleasant",
+      "id": "unpleasant#unpleasant__1"
+    },
+    {
+      "comment": "not [pleasant]{pleasant} or [enjoyable]{enjoyable}",
+      "entry": "bad",
+      "id": "bad_1#bad_1__1"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} how [unpleasant]{unpleasant} someone or something is",
+      "entry": "awful",
+      "id": "awful_1#awful_1__1"
+    },
+    {
+      "comment": "[harsh_1]{harsh} [condition_1]{conditions} or [place_1]{places} are [unpleasant]{unpleasant} and [difficult]{difficult} to [live_1]{live} in",
+      "entry": "harsh",
+      "id": "harsh#harsh__1"
+    },
+    {
+      "comment": "a [bleak]{bleak} [place_1]{place} seems [cold_1]{cold} and [unfriendly]{unfriendly} and has no [pleasant]{pleasant} [feature_1]{features}",
+      "entry": "bleak",
+      "id": "bleak#bleak__7"
+    },
+    {
+      "comment": "not [attractive]{attractive} or [enjoyable]{enjoyable}",
+      "entry": "unappealing",
+      "id": "unappealing#unappealing__1"
+    },
+    {
+      "comment": "[unpleasant]{unpleasant}, or not [enjoyable]{enjoyable}",
+      "entry": "unattractive",
+      "id": "unattractive#unattractive__3"
+    },
+    {
+      "comment": "not [pleasant]{pleasant} or [enjoyable]{enjoyable}",
+      "entry": "disagreeable",
+      "id": "disagreeable#disagreeable__1"
+    },
+    {
+      "comment": "[unpleasant]{unpleasant} and [offensive_1]{offensive}",
+      "entry": "objectionable",
+      "id": "objectionable#objectionable__1"
+    },
+    {
+      "comment": "[unpleasant]{unpleasant} and full of [problem]{problems}",
+      "entry": "hard",
+      "id": "hard_1#hard_1__13"
+    }
+  ],
+  "thesaurus": "Not pleasant and enjoyable",
+  "type": "Synonyms"
+}

@@ -1,0 +1,22 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "something that is expensive [cost_1]{costs} a [lot_1]{lot} of [money]{money}",
+      "examples": [
+        "He always [wear_1]{wears} expensive [clothes]{clothes}.",
+        "It can be very expensive to [train_1]{train} [new]{new} [personnel]{personnel}.",
+        "[young_1]{young} [people_1]{people} with expensive [taste_1]{tastes} and [large_1]{large} [bank_1]{bank} [account_1]{accounts}"
+      ],
+      "id": "expensive__1"
+    },
+    {
+      "def": "an expensive [mistake_1]{mistake} or [decision_1]{decision} is one that [cause_1]{causes} you serious [problem]{problems}",
+      "examples": [
+        "It was an expensive [decision_1]{decision} \u2013 it [cost_1]{cost} me my [job_1]{job}."
+      ],
+      "id": "expensive__5"
+    }
+  ],
+  "word": "expensive"
+}

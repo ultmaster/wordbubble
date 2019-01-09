@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "set the scene",
+  "senses": [
+    {
+      "def": "to [create]{create} the [condition_1]{conditions} that [make_1]{make} it [possible_1]{possible} for an [event]{event} to [happen]{happen}",
+      "examples": [
+        "These [findings]{findings} have [set_1]{set} the [scene]{scene} for further [debate_1]{debate} on the system."
+      ],
+      "id": "set-the-scene__1"
+    },
+    {
+      "def": "to give someone the [information]{information} that they [need_1]{need} so that they can [understand]{understand} what is [going_1]{going} to [happen]{happen} or be [said_1]{said}",
+      "examples": [
+        "[let_1]{Let} me [just_1]{just} [set_1]{set} the [scene]{scene} by [telling]{telling} you a [little_1]{little} about the [school_1]{school}."
+      ],
+      "id": "set-the-scene__3"
+    }
+  ]
+}

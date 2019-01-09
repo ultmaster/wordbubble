@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a benign [lump_1]{lump} in your body or a benign [disease]{disease} is not [cancer_1]{cancer} and will not [kill_1]{kill} you",
+      "examples": [
+        "a benign [tumor]{tumor}"
+      ],
+      "id": "benign__1"
+    },
+    {
+      "def": "[kind_1]{kind} and [nice]{nice}",
+      "examples": [
+        "a benign [smile_1]{smile}",
+        "a benign [old]{old} [gentleman]{gentleman}"
+      ],
+      "id": "benign__3"
+    }
+  ],
+  "word": "benign"
+}

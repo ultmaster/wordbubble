@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[medical_1]{medical} [treatment]{treatment} in which a [doctor_1]{doctor} [cut_1]{cuts} [open_1]{open} someone\u2019s body",
+      "examples": [
+        "He had to [undergo]{undergo} [heart_1]{heart} [bypass_1]{bypass} surgery.",
+        "[doctor_1]{doctors} who [perform]{perform} several [surgery]{surgeries} a [day]{day}",
+        "Take him up to surgery.",
+        "[doctor_1]{Doctor} Corday will be in surgery all [morning_1]{morning}."
+      ],
+      "id": "surgery__1"
+    },
+    {
+      "def": "a [doctor_1]{doctor}\u2019s or dentist\u2019s [office]{office}",
+      "examples": [],
+      "id": "surgery__7"
+    }
+  ],
+  "word": "surgery"
+}

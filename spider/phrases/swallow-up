@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "swallow up",
+  "senses": [
+    {
+      "def": "to take [control_1]{control} of a [small_1]{smaller} [company]{company} or [country]{country}",
+      "examples": [
+        "The [company]{company} was [swallow_1]{swallowed} up in a [corporate_1]{corporate} [merger]{merger}."
+      ],
+      "id": "swallow-up__1"
+    },
+    {
+      "def": "to use a [lot_1]{lot} of something such as [money]{money}, time, or [effort]{effort}",
+      "examples": [
+        "[campaign_2]{Campaigning} [swallow_1]{swallows} up a [lot_1]{lot} of time without [guarantee_2]{guaranteeing} [success]{success}."
+      ],
+      "id": "swallow-up__3"
+    },
+    {
+      "def": "to [destroy]{destroy} something [completely]{completely}, or to [make_1]{make} it [disappear]{disappear}",
+      "examples": [
+        "The whole [building]{building} was [swallow_1]{swallowed} up by the [flame_1]{flames}."
+      ],
+      "id": "swallow-up__5"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [period_1]{period} of time you [work_1]{work} in one [day]{day}",
+      "examples": [
+        "an eight-hour workday"
+      ],
+      "id": "workday__1"
+    },
+    {
+      "def": "a [day]{day} of the [week]{week} when [people_1]{people} have to [work_1]{work}",
+      "examples": [
+        "[tomorrow_1]{Tomorrow} is a workday, so we\u2019d [better_1]{better} get some [sleep_1]{sleep}."
+      ],
+      "id": "workday__3"
+    }
+  ],
+  "word": "workday"
+}

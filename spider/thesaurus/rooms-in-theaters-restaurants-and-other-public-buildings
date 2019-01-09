@@ -1,0 +1,351 @@
+{
+  "entries": [
+    {
+      "comment": "a [set_1]{set} of [large_1]{large} [room_1]{rooms} with [expensive]{expensive} [decoration]{decorations} and [furniture]{furniture}, [kept]{kept} for a [special_1]{special} [purpose]{purpose} or [used]{used} by someone [important]{important}",
+      "entry": "apartment",
+      "id": "apartment#apartment__2"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} or [building]{building} [used]{used} for [meeting]{meetings}, [lecture_1]{lectures}, or [public_1]{public} [performance]{performances}",
+      "entry": "auditorium",
+      "id": "auditorium#auditorium__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [room_1]{room} [used]{used} for [dancing]{dancing}",
+      "entry": "ballroom",
+      "id": "ballroom#ballroom__1"
+    },
+    {
+      "comment": "a room containing a toilet and usually a bathtub or shower and a sink",
+      "entry": "bathroom",
+      "id": "bathroom#bathroom__1"
+    },
+    {
+      "comment": "any [room_1]{room} in a [house_1]{house} or [public_1]{public} [building]{building} [contain]{containing} a [toilet]{toilet}",
+      "entry": "bathroom",
+      "id": "bathroom#bathroom__2"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} in a [public_1]{public} [building]{building}, [especially]{especially} one [used]{used} for [meeting]{meetings}",
+      "entry": "chambers",
+      "id": "chamber#chamber__1"
+    },
+    {
+      "comment": "a room in a restaurant or other public place where you can leave your coat, hat, bag, etc. so that someone will guard them. The British word is cloakroom.",
+      "entry": "checkroom",
+      "id": "checkroom#checkroom__1"
+    },
+    {
+      "comment": "a [coat_1]{coat} [check_1]{check} in a [restaurant]{restaurant}, [theater]{theater}, etc.",
+      "entry": "cloakroom",
+      "id": "cloakroom#cloakroom__1"
+    },
+    {
+      "comment": "a [restroom]{restroom}",
+      "entry": "cloakroom",
+      "id": "cloakroom#cloakroom__2"
+    },
+    {
+      "comment": "a [room_1]{room} [used]{used} by a [sport_1]{sports} [team_1]{team} for [change_1]{changing} their [clothes]{clothes} and [store_2]{storing} their [equipment]{equipment}",
+      "entry": "clubhouse",
+      "id": "clubhouse#clubhouse__2"
+    },
+    {
+      "comment": "a [room_1]{room} in a [restaurant]{restaurant}, [club_1]{club}, [museum]{museum}, or [theater]{theater} where [people_1]{people} can [pay_1]{pay} to [leave_1]{leave} their [coat_1]{coats} and [bag_1]{bags}",
+      "entry": "coat check",
+      "id": "coat-check#coat-check__1"
+    },
+    {
+      "comment": "a [coat_1]{coat} [check_1]{check}",
+      "entry": "coatroom",
+      "id": "coatroom#coatroom__1"
+    },
+    {
+      "comment": "a [public_1]{public} [toilet]{toilet}",
+      "entry": "comfort room",
+      "id": "comfort-room#comfort-room__1"
+    },
+    {
+      "comment": "a [bathroom]{bathroom}",
+      "entry": "comfort room",
+      "id": "comfort-room#comfort-room__3"
+    },
+    {
+      "comment": "a [room_1]{room} in a [public_1]{public} [building]{building} [contain]{containing} a [toilet]{toilet}",
+      "entry": "comfort station",
+      "id": "comfort-station#comfort-station__1"
+    },
+    {
+      "comment": "a [room_1]{room} in a [building]{building} or [institution]{institution} where [people_1]{people} can go to [relax]{relax} or take part in [various]{various} [activity]{activities}",
+      "entry": "common room",
+      "id": "common-room#common-room__1"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} in an [airport]{airport} or [train_1]{train} [station_1]{station}, or in front of a [public_1]{public} [building]{building}, where [people_1]{people} can [walk_1]{walk}",
+      "entry": "concourse",
+      "id": "concourse#concourse__1"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} in an [airport]{airport} where you [sit]{sit} and [wait_1]{wait} before [going_1]{going} onto an [airplane]{airplane}",
+      "entry": "departure lounge",
+      "id": "departure-lounge#departure-lounge__1"
+    },
+    {
+      "comment": "a [double_1]{double} [room_1]{room}",
+      "entry": "double",
+      "id": "double_3#double_3__3"
+    },
+    {
+      "comment": "something such as a [room_1]{room} or [piece_1]{piece} of [equipment]{equipment} that is [provided]{provided} at a [place_1]{place} for [people_1]{people} to use",
+      "entry": "facilities",
+      "id": "facility#facility__1"
+    },
+    {
+      "comment": "an [area]{area} or [building]{building} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "facility",
+      "id": "facility#facility__9"
+    },
+    {
+      "comment": "a room in a pub  (=a place that serves alcoholic drinks) in the U.K. that children are allowed into",
+      "entry": "family room",
+      "id": "family-room#family-room__3"
+    },
+    {
+      "comment": "a [room_1]{room} in a [clothing]{clothing} [store_1]{store} where you can put on [clothes]{clothes} before you [buy_1]{buy} them",
+      "entry": "fitting room",
+      "id": "fitting-room#fitting-room__1"
+    },
+    {
+      "comment": "the [place_1]{place} [inside_1]{inside} the [main_1]{main} [entrance_1]{entrance} of a [building]{building} where you go when you [arrive]{arrive} or go to get [information]{information}",
+      "entry": "front desk",
+      "id": "front-desk#front-desk__1"
+    },
+    {
+      "comment": "the [men]{men}\u2019s [bathroom]{bathroom} in a [public_1]{public} [place_1]{place}",
+      "entry": "the gents",
+      "id": "gent#gent__4"
+    },
+    {
+      "comment": "a room in a theater or television studio where performers can rest and receive visitors",
+      "entry": "greenroom",
+      "id": "greenroom#greenroom__1"
+    },
+    {
+      "comment": "a [large_1]{large} [hall]{hall} or [room_1]{room} with [special_1]{special} [equipment]{equipment} for [doing]{doing} [physical_1]{physical} [exercise_1]{exercises}",
+      "entry": "gym",
+      "id": "gym#gym__1"
+    },
+    {
+      "comment": "a [large_1]{large} [hall]{hall} or [room_1]{room} with [special_1]{special} [equipment]{equipment} for [doing]{doing} [physical_1]{physical} [exercise_1]{exercises}",
+      "entry": "gymnasium",
+      "id": "gymnasium#gymnasium__1"
+    },
+    {
+      "comment": "a small bathroom containing a toilet and sink but no shower or bathtub",
+      "entry": "half bath",
+      "id": "half-bath#half-bath__1"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} [used]{used} for [meeting]{meetings}, [concert]{concerts}, or other [public_1]{public} [event]{events}",
+      "entry": "hall",
+      "id": "hall#hall__5"
+    },
+    {
+      "comment": "a [place_1]{place} where [customer]{customers} can [leave_1]{leave} their [hat]{hats} and [coat_1]{coats} at a [restaurant]{restaurant}, [theater]{theater}, [museum]{museum}, etc.",
+      "entry": "hatcheck",
+      "id": "hatcheck#hatcheck__1"
+    },
+    {
+      "comment": "the [room_1]{room} where a [toilet]{toilet} is",
+      "entry": "john",
+      "id": "john#john__2"
+    },
+    {
+      "comment": "a [room_1]{room} with a [toilet]{toilet} for [women]{women} in a [restaurant]{restaurant}, [hotel]{hotel}, etc.",
+      "entry": "ladies room",
+      "id": "ladies-room#ladies-room__1"
+    },
+    {
+      "comment": "a room or building where clothes are washed and ironed, for example in a hospital",
+      "entry": "laundry",
+      "id": "laundry#laundry__4"
+    },
+    {
+      "comment": "a room with a toilet and a washbasin, especially on an airplane",
+      "entry": "lavatory",
+      "id": "lavatory#lavatory__1"
+    },
+    {
+      "comment": "a [baggage]{baggage} [room_1]{room}",
+      "entry": "left luggage office",
+      "id": "left-luggage-office#left-luggage-office__1"
+    },
+    {
+      "comment": "the [area]{area} [just_1]{just} [inside_1]{inside} the [entrance_1]{entrance} to a [hotel]{hotel}, [theater]{theater}, or other [large_1]{large} [building]{building}",
+      "entry": "lobby",
+      "id": "lobby_1#lobby_1__5"
+    },
+    {
+      "comment": "a [room_1]{room} with [locker]{lockers} in a [large_1]{large} [building]{building} such as a [factory]{factory} or [school_1]{school}",
+      "entry": "locker room",
+      "id": "locker-room#locker-room__1"
+    },
+    {
+      "comment": "a [small_1]{small} [room_1]{room} at the [entrance_1]{entrance} to a [building]{building} such as a [university]{university}, [used]{used} by the [person]{person} who [let_1]{lets} [people_1]{people} in and out",
+      "entry": "lodge",
+      "id": "lodge_2#lodge_2__5"
+    },
+    {
+      "comment": "a [toilet]{toilet}, or a [room_1]{room} that [contain]{contains} a [toilet]{toilet}",
+      "entry": "loo",
+      "id": "loo#loo__1"
+    },
+    {
+      "comment": "a [room_1]{room} where [possession]{possessions} that [people_1]{people} have [accidentally]{accidentally} [left_1]{left} in a [public_1]{public} [place_1]{place} are [kept]{kept} until the [owner]{owners} come to [claim_1]{claim} them",
+      "entry": "lost-and-found",
+      "id": "lost-and-found#lost-and-found__1"
+    },
+    {
+      "comment": "[lost-and-found]{lost-and-found}",
+      "entry": "lost property",
+      "id": "lost-property#lost-property__2"
+    },
+    {
+      "comment": "a [public_1]{public} [room_1]{room} in a [place_1]{place} such as a [hotel]{hotel}, [university]{university}, or [hospital]{hospital} where [people_1]{people} can [sit]{sit} and [relax]{relax}",
+      "entry": "lounge",
+      "id": "lounge_1#lounge_1__1"
+    },
+    {
+      "comment": "a [room_1]{room} or [area]{area} in a [place_1]{place} such as an [airport]{airport} where [people_1]{people} can [sit]{sit} and [wait_1]{wait}",
+      "entry": "lounge",
+      "id": "lounge_1#lounge_1__3"
+    },
+    {
+      "comment": "a [room_1]{room} in a [school_1]{school} or [office]{office} where [people_1]{people} [eat]{eat} [lunch_1]{lunch}",
+      "entry": "lunchroom",
+      "id": "lunchroom#lunchroom__1"
+    },
+    {
+      "comment": "a [men]{men}\u2019s [bathroom]{bathroom} in a [public_1]{public} [place_1]{place}",
+      "entry": "men\u2019s room",
+      "id": "men-s-room#men-s-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} where [people_1]{people} [eat]{eat} [breakfast_1]{breakfast}",
+      "entry": "morning room",
+      "id": "morning-room#morning-room__1"
+    },
+    {
+      "comment": "a [room_1]{room} or [building]{building} where you go for a [particular_1]{particular} [service_1]{service}",
+      "entry": "office",
+      "id": "office#office__6"
+    },
+    {
+      "comment": "a small deep pool of cold water, used especially after a sauna",
+      "entry": "plunge pool",
+      "id": "plunge-pool#plunge-pool__1"
+    },
+    {
+      "comment": "a [women]{women}\u2019s [bathroom]{bathroom} in a [public_1]{public} [building]{building}",
+      "entry": "powder room",
+      "id": "powder-room#powder-room__1"
+    },
+    {
+      "comment": "the part of a [large_1]{large} [building]{building} such as a [hotel]{hotel} or [office]{office} where there is someone whose [job_1]{job} is to [welcome_1]{welcome} [visitor]{visitors}, [deal_1]{deal} with [question_1]{questions}, etc.",
+      "entry": "reception",
+      "id": "reception#reception__6"
+    },
+    {
+      "comment": "the [area]{area} in front of this",
+      "entry": "reception",
+      "id": "reception#reception__9"
+    },
+    {
+      "comment": "a [room_1]{room} in a [public_1]{public} [building]{building} where [people_1]{people} can [relax]{relax}, [play_1]{play} [game_1]{games}, or [watch_1]{watch} [television]{television}",
+      "entry": "recreation room",
+      "id": "recreation-room#recreation-room__1"
+    },
+    {
+      "comment": "a large room, especially in a monastery or in some other institution, where you eat your meals with a lot of other people",
+      "entry": "refectory",
+      "id": "refectory#refectory__1"
+    },
+    {
+      "comment": "a [room_1]{room} with a [toilet]{toilet} in it, [especially]{especially} in a [public_1]{public} [building]{building}",
+      "entry": "restroom",
+      "id": "restroom#restroom__1"
+    },
+    {
+      "comment": "a small hot wooden room that people sit in in order to sweat  (=produce water from their skin)",
+      "entry": "sauna",
+      "id": "sauna#sauna__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time [spent_1]{spent} in a [sauna]{sauna}",
+      "entry": "sauna",
+      "id": "sauna#sauna__3"
+    },
+    {
+      "comment": "a [large_1]{large} [room_1]{room} where you can [look_1]{look} at [car]{cars} or other [big_1]{big} [thing]{things} that are for [sale]{sale}",
+      "entry": "showroom",
+      "id": "showroom_1#showroom_1__1"
+    },
+    {
+      "comment": "a [room_1]{room} in an [office]{office}, [factory]{factory}, etc. where [people_1]{people} are [allow]{allowed} to [smoke_1]{smoke}",
+      "entry": "smoking room",
+      "id": "smoking-room#smoking-room__1"
+    },
+    {
+      "comment": "a small room in a British pub  (=bar)",
+      "entry": "snug",
+      "id": "snug_2#snug_2__1"
+    },
+    {
+      "comment": "a [room_1]{room} with [large_1]{large} [area]{areas} of [glass]{glass} to [allow]{allow} the [sun_1]{sun} to [shine_1]{shine} in",
+      "entry": "solarium",
+      "id": "solarium#solarium__1"
+    },
+    {
+      "comment": "a small room for a shower or a toilet. The British word is cubicle.",
+      "entry": "stall",
+      "id": "stall_1#stall_1__4"
+    },
+    {
+      "comment": "a [building]{building}, [room_1]{room}, or [outside]{outside} [area]{area} [used]{used} for [perform]{performing} [play_1]{plays}",
+      "entry": "theater",
+      "id": "theater#theater__1"
+    },
+    {
+      "comment": "a [building]{building}, [room_1]{room}, or [outside]{outside} [area]{area} [used]{used} for [showing]{showing} [movie]{movies}",
+      "entry": "theater",
+      "id": "theater#theater__5"
+    },
+    {
+      "comment": "a [bathroom]{bathroom}",
+      "entry": "toilet",
+      "id": "toilet#toilet__3"
+    },
+    {
+      "comment": "a [room_1]{room} in an [international_1]{international} [airport]{airport} where [passenger]{passengers} can [wait_1]{wait} for their [flight]{flight} to another [country]{country}",
+      "entry": "transit lounge",
+      "id": "transit-lounge#transit-lounge__1"
+    },
+    {
+      "comment": "a [toilet]{toilet} [fixed]{fixed} on a [wall_1]{wall} for [men]{men} to use in a [public_1]{public} [building]{building}, or a [room_1]{room} [contain]{containing} several [toilet]{toilets} of this [type_1]{type}",
+      "entry": "urinal",
+      "id": "urinal#urinal__1"
+    },
+    {
+      "comment": "a [room_1]{room} where [people_1]{people} [wait_1]{wait} for something, for [example]{example} a [train_1]{train} or an [opportunity]{opportunity} to see a [doctor_1]{doctor}",
+      "entry": "waiting room",
+      "id": "waiting-room#waiting-room__1"
+    },
+    {
+      "comment": "a [polite]{polite} [word_1]{word} for a [toilet]{toilet} in a [restaurant]{restaurant}, [hotel]{hotel}, or other [public_1]{public} [place_1]{place}",
+      "entry": "washroom",
+      "id": "washroom#washroom__1"
+    }
+  ],
+  "thesaurus": "Rooms in theaters, restaurants and other public buildings",
+  "type": "Related words"
+}

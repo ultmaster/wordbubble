@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "the [act_1]{act} of [store_2]{storing} something",
+      "entry": "storage",
+      "id": "storage#storage__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [continuing]{continuing} something or [keeping]{keeping} it in [existence]{existence}",
+      "entry": "maintenance",
+      "id": "maintenance#maintenance__4"
+    },
+    {
+      "comment": "the [process_1]{process} of [store_2]{storing} [large_1]{large} [amount_1]{amounts} of [goods]{goods} in a [warehouse]{warehouse}",
+      "entry": "warehousing",
+      "id": "warehousing#warehousing__1"
+    },
+    {
+      "comment": "the [act_1]{act} of [keeping]{keeping} or [store_2]{storing} something",
+      "entry": "retention",
+      "id": "retention#retention__3"
+    },
+    {
+      "comment": "someone who [keep_1]{keeps} or [collect_1]{collects} a [lot_1]{lot} of [different]{different} [thing]{things}, even when they are not [useful]{useful} or [valuable]{valuable}",
+      "entry": "pack rat",
+      "id": "pack-rat#pack-rat__1"
+    },
+    {
+      "comment": "[kept]{kept} by someone until a [particular_1]{particular} thing has [happen]{happened}",
+      "entry": "in escrow",
+      "id": "in-escrow#in-escrow__1"
+    },
+    {
+      "comment": "being [store_2]{stored} somewhere until [need_1]{needed}",
+      "entry": "in storage",
+      "id": "in-storage#in-storage__1"
+    }
+  ],
+  "thesaurus": "The process or action of keeping something",
+  "type": "Synonyms"
+}

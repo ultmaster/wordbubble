@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "if an [animal_1]{animal} [feed_1]{feeds} on something, it [eats]{eats} it, [especially]{especially} as its [usual]{usual} [food]{food}",
+      "entry": "feed on",
+      "id": "feed-on#feed-on__1"
+    },
+    {
+      "comment": "if an [animal_1]{animal} [feed_1]{feeds}, it [look_1]{looks} for [food]{food} and [eats]{eats} it",
+      "entry": "feed",
+      "id": "feed_1#feed_1__12"
+    },
+    {
+      "comment": "to catch and eat other animals. Animals that do this are predators and the animals they catch and eat are their prey",
+      "entry": "hunt",
+      "id": "hunt_1#hunt_1__4"
+    },
+    {
+      "comment": "if an [animal_1]{animal} [root_1]{roots}, it [search_1]{searches} for [food]{food} by [push_1]{pushing} with its [nose_1]{nose}",
+      "entry": "root",
+      "id": "root_2#root_2__5"
+    },
+    {
+      "comment": "if [animal_1]{animals} [feed_1]{feed} off something, they [eat]{eat} it",
+      "entry": "feed off",
+      "id": "feed-off#feed-off__1"
+    },
+    {
+      "comment": "to [eat]{eat} [grass]{grass} [growing]{growing} in a [field_1]{field}",
+      "entry": "graze",
+      "id": "graze_1#graze_1__1"
+    },
+    {
+      "comment": "to [hunt_1]{hunt} another [creature]{creature} in [order_1]{order} to [eat]{eat} it",
+      "entry": "prey on",
+      "id": "prey_2#prey_2__5"
+    },
+    {
+      "comment": "if an animal ruminates, it brings food back from its stomach into its mouth and chews it  (=breaks it into small pieces with its teeth) a second time",
+      "entry": "ruminate",
+      "id": "ruminate#ruminate__2"
+    },
+    {
+      "comment": "if [animal_1]{animals} [browse]{browse}, they [feed_1]{feed} on [plant_1]{plants}, [especially]{especially} the [leaves]{leaves} on [tree]{trees}",
+      "entry": "browse",
+      "id": "browse#browse__10"
+    }
+  ],
+  "thesaurus": "To eat - of animals",
+  "type": "Synonyms"
+}

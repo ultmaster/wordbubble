@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "care for",
+  "senses": [
+    {
+      "def": "to [love_1]{love} someone, [especially]{especially} in a way that is [base_2]{based} on [friendship]{friendship} rather than [sex_1]{sex}",
+      "examples": [
+        "He [really]{really} [care_1]{cared} for her.",
+        "She made him [feel_1]{feel} [special_1]{special} and [care_1]{cared} for."
+      ],
+      "id": "care-for__1"
+    },
+    {
+      "def": "to do the [necessary_1]{necessary} [thing]{things} for someone who [need_1]{needs} [help_1]{help} or [protection]{protection}",
+      "examples": [
+        "The [inspector]{inspectors} [make_1]{make} [sure_1]{sure} that the [elderly]{elderly} [resident_1]{residents} are well [care_1]{cared} for.",
+        "[teach]{Teach} your [children]{children} how to [care_1]{care} for their [pet_1]{pets}."
+      ],
+      "id": "care-for__4"
+    },
+    {
+      "def": "to [treat_1]{treat} something [careful#careful__20]{carefully} so that it [stay_1]{stays} in [good_1]{good} [condition_1]{condition}",
+      "examples": [
+        "Your [clothes]{clothes} [won]{won}\u2019t last as long if you don\u2019t [care_1]{care} for them [properly]{properly}."
+      ],
+      "id": "care-for__7"
+    }
+  ]
+}

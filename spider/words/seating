@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [seat_1]{seats} in a [public_1]{public} [place_1]{place} such as a [movie]{movie} [theater]{theater} or on a [bus_1]{bus}, [train_1]{train}, etc.",
+      "examples": [
+        "The [auditorium]{auditorium} has seating for over 200 [people_1]{people}.",
+        "The [added]{added} [stand_1]{stands} will [nearly]{nearly} [double_1]{double} the seating [capacity]{capacity} of the [stadium]{stadium}."
+      ],
+      "id": "seating__1"
+    },
+    {
+      "def": "the way in which [seat_1]{seats} are [arrange]{arranged} or who will [sit]{sit} in them, [especially]{especially} at a [formal_1]{formal} [occasion_1]{occasion}",
+      "examples": [
+        "We [need_1]{need} to [work_1]{work} out the seating [arrangement]{arrangements}."
+      ],
+      "id": "seating__4"
+    }
+  ],
+  "word": "seating"
+}

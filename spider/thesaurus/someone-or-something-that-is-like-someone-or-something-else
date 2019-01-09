@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "something [exactly]{exactly} [like_1]{like} something else",
+      "entry": "copy",
+      "id": "copy_1#copy_1__5"
+    },
+    {
+      "comment": "someone or something that has the same [size_1]{size}, [value_1]{value}, [importance]{importance}, or [meaning_1]{meaning} as someone or something else",
+      "entry": "equivalent",
+      "id": "equivalent_2#equivalent_2__1"
+    },
+    {
+      "comment": "someone or something that is [similar]{similar} to another [person]{person} or thing",
+      "entry": "parallel",
+      "id": "parallel_2#parallel_2__4"
+    },
+    {
+      "comment": "something that is [similar]{similar} to something else but is not [exactly]{exactly} the same",
+      "entry": "approximation",
+      "id": "approximation#approximation__3"
+    },
+    {
+      "comment": "something that [look_1]{looks} the same as something else",
+      "entry": "match",
+      "id": "match_1#match_1__10"
+    },
+    {
+      "comment": "someone who [look_1]{looks} very [similar]{similar} to another [person]{person}",
+      "entry": "double",
+      "id": "double_3#double_3__5"
+    },
+    {
+      "comment": "something that is very [like_1]{like} a thing that [happen]{happened} or was [produce_1]{produced} before",
+      "entry": "echo",
+      "id": "echo_2#echo_2__5"
+    },
+    {
+      "comment": "someone or something that is almost [exactly]{exactly} [like_1]{like} another [person]{person} or thing",
+      "entry": "carbon copy",
+      "id": "carbon-copy#carbon-copy__1"
+    },
+    {
+      "comment": "someone or something that [look_1]{looks} very [like_1]{like} another [person]{person} or thing",
+      "entry": "mirror image",
+      "id": "mirror-image#mirror-image__2"
+    },
+    {
+      "comment": "someone or something that [look_1]{looks} or [behave]{behaves} [exactly]{exactly} [like_1]{like} someone or something else",
+      "entry": "clone",
+      "id": "clone_1#clone_1__2"
+    }
+  ],
+  "thesaurus": "Someone or something that is like someone or something else",
+  "type": "Synonyms"
+}

@@ -1,0 +1,28 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [particular_1]{particular} [style_1]{style} or way of [design_2]{designing} [building]{buildings}",
+      "examples": [
+        "The [church]{church} is a [typical]{typical} [example]{example} of [gothic_1#gothic_1__2]{Gothic} architecture."
+      ],
+      "id": "architecture__1"
+    },
+    {
+      "def": "the [study_1]{study} or [practice_1]{practice} of [design_2]{designing} [building]{buildings}",
+      "examples": [
+        "Andrea is [study_2]{studying} architecture in Paris."
+      ],
+      "id": "architecture__3"
+    },
+    {
+      "def": "the [design_1]{design} and [structure_1]{structure} of a computer system or [program_1]{program} and the way that it [work_1]{works} in [relation]{relation} to other [system]{systems} and [program_1]{programs}",
+      "examples": [
+        "[database]{database} architecture"
+      ],
+      "id": "architecture__5"
+    }
+  ],
+  "word": "architecture"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "at the same time as something else",
+      "entry": "when",
+      "id": "when#when__17"
+    },
+    {
+      "comment": "at the same time that something is [happening_1]{happening}",
+      "entry": "while",
+      "id": "while_1#while_1__5"
+    },
+    {
+      "comment": "[happening_1]{happening} or done at the same time",
+      "entry": "simultaneous",
+      "id": "simultaneous#simultaneous__1"
+    },
+    {
+      "comment": "at the same time",
+      "entry": "together",
+      "id": "together_1#together_1__18"
+    },
+    {
+      "comment": "at the same time",
+      "entry": "meanwhile",
+      "id": "meanwhile#meanwhile__3"
+    },
+    {
+      "comment": "[happening_1]{happening} or done at the same time",
+      "entry": "concurrent",
+      "id": "concurrent#concurrent__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that something [happen]{happens} at the same time as something else",
+      "entry": "as",
+      "id": "as#as__29"
+    },
+    {
+      "comment": "[used]{used} for [emphasize]{emphasizing} that something is [happening_1]{happening} at [exactly]{exactly} the same time as someone is [doing]{doing} or [saying]{saying} something else",
+      "entry": "even as",
+      "id": "even-as#even-as__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that two or more [thing]{things} [happen]{happen} together",
+      "entry": "at the same time",
+      "id": "at-the-same-time#at-the-same-time__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that one thing [happen]{happens} or [exist]{exists} at the same time as another",
+      "entry": "all the time",
+      "id": "all-the-time#all-the-time__5"
+    }
+  ],
+  "thesaurus": "Happening or done at the same time",
+  "type": "Synonyms"
+}

@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "too [hot]{hot}",
+      "examples": [
+        "The fire was [cause_2]{caused} by an overheated [electric]{electric} [fan_1]{fan}."
+      ],
+      "id": "overheated__1"
+    },
+    {
+      "def": "an overheated [economy_1]{economy} is [growing]{growing} too [fast_1]{fast}, [cause_2]{causing} [price_1]{prices} to [rise_1]{rise} in an [uncontrolled]{uncontrolled} way",
+      "examples": [],
+      "id": "overheated__3"
+    },
+    {
+      "def": "too [emotional]{emotional}",
+      "examples": [
+        "an overheated [debate_1]{debate}"
+      ],
+      "id": "overheated__4"
+    }
+  ],
+  "word": "overheated"
+}

@@ -1,0 +1,29 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [place_1]{place} where you [buy_1]{buy} [thing]{things} or where you [pay_1]{pay} for a [service_1]{service}",
+      "examples": [
+        "We ate [lunch_1]{lunch} at a [little_1]{little} [coffee]{coffee} shop.",
+        "I [need_1]{need} to go to the [pawn_1]{pawn} shop and get my [watch_1]{watch} back.",
+        "a shop [window]{window}"
+      ],
+      "id": "shop_1__1"
+    },
+    {
+      "def": "a [business]{business} where something is made or [repair_1]{repaired}",
+      "examples": [
+        "an [auto_1]{auto} body shop",
+        "a [shoe_1]{shoe} [repair_1]{repair} shop",
+        "Todd [work_1]{works} in a [machine_1]{machine} shop."
+      ],
+      "id": "shop_1__7"
+    },
+    {
+      "def": "a [school_1]{school} [subject_1]{subject} in which [student]{students} [learn]{learn} to [work_1]{work} with [tool_1]{tools} and [machine_1]{machines}",
+      "examples": [],
+      "id": "shop_1__11"
+    }
+  ],
+  "word": "shop"
+}

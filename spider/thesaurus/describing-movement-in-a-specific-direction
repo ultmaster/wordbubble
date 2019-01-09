@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "comment": "[moving]{moving} in front of someone and in the same [direction]{direction}",
+      "entry": "ahead",
+      "id": "ahead#ahead__10"
+    },
+    {
+      "comment": "[moving]{moving} to many [different]{different} [part_1]{parts} or [area]{areas}",
+      "entry": "around",
+      "id": "around#around__5"
+    },
+    {
+      "comment": "moving in a circle in the same direction as the hands on a clock",
+      "entry": "clockwise",
+      "id": "clockwise#clockwise__1"
+    },
+    {
+      "comment": "moving in the opposite direction to the way clock hands move. The British word is anticlockwise.",
+      "entry": "counterclockwise",
+      "id": "counterclockwise#counterclockwise__1"
+    },
+    {
+      "comment": "[going_1]{going} across [countryside]{countryside}, not [use_1]{using} [track_1]{tracks} or [road]{roads}",
+      "entry": "cross-country",
+      "id": "cross-country_1#cross-country_1__1"
+    },
+    {
+      "comment": "[going_1]{going} toward the [south_1]{south}",
+      "entry": "down",
+      "id": "down_1#down_1__42"
+    },
+    {
+      "comment": "in the same [direction]{direction} that the [wind_1]{wind} is [moving]{moving}",
+      "entry": "downwind",
+      "id": "downwind#downwind__1"
+    },
+    {
+      "comment": "[going_1]{going} toward the east",
+      "entry": "eastbound",
+      "id": "eastbound#eastbound__1"
+    },
+    {
+      "comment": "in the [direction]{direction} of [home_1]{home}",
+      "entry": "homeward",
+      "id": "homeward#homeward__1"
+    },
+    {
+      "comment": "toward the [left_1]{left} side",
+      "entry": "left",
+      "id": "left_3#left_3__1"
+    },
+    {
+      "comment": "on or toward the [left_1]{left}",
+      "entry": "leftward",
+      "id": "leftward#leftward__1"
+    },
+    {
+      "comment": "not [moving]{moving} in one [direction]{direction} at a [regular_1]{regular} [rate_1]{rate} of [progress_1]{progress}",
+      "entry": "nonlinear",
+      "id": "nonlinear#nonlinear__1"
+    },
+    {
+      "comment": "[leading]{leading} or [traveling]{traveling} toward the [north_1]{north}",
+      "entry": "northbound",
+      "id": "northbound#northbound__1"
+    },
+    {
+      "comment": "[moving]{moving} across the [space_1]{space} above someone or something",
+      "entry": "over",
+      "id": "over_1#over_1__7"
+    },
+    {
+      "comment": "[moving]{moving} [past_1]{past}",
+      "entry": "passing",
+      "id": "passing_1#passing_1__1"
+    },
+    {
+      "comment": "in the [direction]{direction} of your [right_1]{right} side",
+      "entry": "right",
+      "id": "right_1#right_1__11"
+    },
+    {
+      "comment": "on or toward the [right_1]{right}",
+      "entry": "rightward",
+      "id": "rightward#rightward__1"
+    },
+    {
+      "comment": "[leading]{leading} or [traveling]{traveling} toward the [south_1]{south}",
+      "entry": "southbound",
+      "id": "southbound#southbound__1"
+    },
+    {
+      "comment": "if a [boat]{boat} or [ship_1]{ship} [sail_1]{sails} to [windward_1]{windward}, it [sail_1]{sails} toward the [direction]{direction} that the [wind_1]{wind} is [blow_1]{blowing} from",
+      "entry": "to windward",
+      "id": "windward_2#windward_2__2"
+    },
+    {
+      "comment": "in or going toward a position that is higher or farther north: used with some adjectives, nouns, and adverbs",
+      "entry": "up-",
+      "id": "up_4#up_4__1"
+    },
+    {
+      "comment": "[moving]{moving} in the [direction]{direction} from which the [wind_1]{wind} is [blow_1]{blowing}",
+      "entry": "upwind",
+      "id": "upwind#upwind__1"
+    },
+    {
+      "comment": "[leading]{leading} or [traveling]{traveling} toward the [west_1]{west}",
+      "entry": "westbound",
+      "id": "westbound#westbound__1"
+    },
+    {
+      "comment": "on or toward the [direction]{direction} that the [wind_1]{wind} is [blow_1]{blowing} from",
+      "entry": "windward",
+      "id": "windward_1#windward_1__1"
+    },
+    {
+      "comment": "[moving]{moving} in the same [direction]{direction} as the [wind_1]{wind}, [current_1]{current}, etc.",
+      "entry": "with",
+      "id": "with#with__60"
+    }
+  ],
+  "thesaurus": "Describing movement in a specific direction",
+  "type": "Related words"
+}

@@ -1,0 +1,471 @@
+{
+  "entries": [
+    {
+      "comment": "to [state_1]{state} [officially]{officially} that someone is not [guilty]{guilty} of the [crime_1]{crime} they were [accuse]{accused} of",
+      "entry": "acquit",
+      "id": "acquit#acquit__1"
+    },
+    {
+      "comment": "an [official_1]{official} [judgment]{judgment} in a [court_1]{court} of [law]{law} that someone is not [guilty]{guilty} of the [crime_1]{crime} they were [accuse]{accused} of",
+      "entry": "acquittal",
+      "id": "acquittal#acquittal__1"
+    },
+    {
+      "comment": "a [court_1]{court} [order_1]{order} for a [father_1]{father} who is not [married]{married} to the [mother_1]{mother} of his [child]{child} to [pay_1]{pay} an amount of [money]{money} towards the [support_1]{support} of that [child]{child}",
+      "entry": "affiliation order",
+      "id": "affiliation-order#affiliation-order__1"
+    },
+    {
+      "comment": "to [state_1]{state} [officially]{officially} that something such as a [marriage]{marriage}, an [agreement]{agreement}, or an [election]{election} has no [legal]{legal} [authority]{authority}",
+      "entry": "annul",
+      "id": "annul#annul__1"
+    },
+    {
+      "comment": "a civil court order that gives the right to search premises and seize evidence without prior warning. Anton Piller injunctions are now known as search orders.",
+      "entry": "Anton Piller injunction",
+      "id": "anton-piller-injunction#anton-piller-injunction__1"
+    },
+    {
+      "comment": "a [document_1]{document} [written_1]{written} by a [judge_1]{judge} that [give_1]{gives} the [police_1]{police} [permission]{permission} to [arrest_1]{arrest} someone",
+      "entry": "arrest warrant",
+      "id": "arrest-warrant#arrest-warrant__1"
+    },
+    {
+      "comment": "a [previous_1]{previous} [legal]{legal} [case_1]{case} or [decision_1]{decision} that is [used]{used} to [support_1]{support} [legal]{legal} [argument]{arguments} in the [current_1]{current} [case_1]{case}",
+      "entry": "authority",
+      "id": "authority#authority__19"
+    },
+    {
+      "comment": "an amount of [money]{money} or a [judgment]{judgment} [given_1]{given} by a [court_1]{court} of [law]{law}",
+      "entry": "award",
+      "id": "award_1#award_1__4"
+    },
+    {
+      "comment": "to [make_1]{make} a [legal]{legal} [decision_1]{decision} to give someone an amount of [money]{money}, for [example]{example} because they have been [injured]{injured}",
+      "entry": "award",
+      "id": "award_2#award_2__7"
+    },
+    {
+      "comment": "to [make_1]{make} a [legal]{legal} [decision_1]{decision} to give someone the [right_1]{right} to do something, for [example]{example} to [care_1]{care} for a [child]{child}",
+      "entry": "award",
+      "id": "award_2#award_2__9"
+    },
+    {
+      "comment": "an [order_1]{order} [state_2]{stating} that something is not [allow]{allowed}",
+      "entry": "bar",
+      "id": "bar_1#bar_1__23"
+    },
+    {
+      "comment": "an [order_1]{order} by a [court_1]{court} to [arrest_1]{arrest} someone [immediately]{immediately}, [usually]{usually} because they have not [appear]{appeared} in [court_1]{court} when [told]{told} to do so",
+      "entry": "bench warrant",
+      "id": "bench-warrant#bench-warrant__1"
+    },
+    {
+      "comment": "a [legal]{legal} [decision_1]{decision} that is so [important]{important} that [judge_1]{judges} must [follow]{follow} it in [later_1]{later} [case_1]{cases}",
+      "entry": "binding precedent",
+      "id": "binding-precedent#binding-precedent__1"
+    },
+    {
+      "comment": "to [say_1]{say} [officially]{officially} whether someone is [guilty]{guilty} or not",
+      "entry": "bring in a verdict",
+      "id": "bring-in#bring-in__10"
+    },
+    {
+      "comment": "to [say_1]{say} [publicly]{publicly} that something must [happen]{happen}",
+      "entry": "call for",
+      "id": "call-for#call-for__1"
+    },
+    {
+      "comment": "an [order_1]{order} from a [court_1]{court} [state_2]{stating} that someone must [stop_1]{stop} [doing]{doing} something and never do it again",
+      "entry": "cease and desist order",
+      "id": "cease-and-desist-order#cease-and-desist-order__1"
+    },
+    {
+      "comment": "an [official_1]{official} [instruction]{instruction} to do something",
+      "entry": "charge",
+      "id": "charge_1#charge_1__26"
+    },
+    {
+      "comment": "an [official_1]{official} [statement_1]{statement} [order_2]{ordering} someone to [appear]{appear} in a [court_1]{court} of [law]{law}",
+      "entry": "citation",
+      "id": "citation#citation__1"
+    },
+    {
+      "comment": "a [citation]{citation}",
+      "entry": "cite",
+      "id": "cite_2#cite_2__1"
+    },
+    {
+      "comment": "an [official_1]{official} [order_1]{order}",
+      "entry": "command",
+      "id": "command_1#command_1__1"
+    },
+    {
+      "comment": "the [action_1]{action} of [change_1]{changing} a [punishment]{punishment} to one that is less [severe]{severe}",
+      "entry": "commutation",
+      "id": "commutation#commutation__1"
+    },
+    {
+      "comment": "to give a [punishment]{punishment} to someone who has [committed]{committed} a [crime_1]{crime}",
+      "entry": "condemn",
+      "id": "condemn#condemn__6"
+    },
+    {
+      "comment": "a [judgment]{judgment} [given_1]{given} by a [court_1]{court} of [law]{law} in which someone who has [committed]{committed} a [crime_1]{crime} will not be [punish]{punished} if they [obey]{obey} [particular_1]{particular} [condition_1]{conditions} and [rule_1]{rules}",
+      "entry": "conditional discharge",
+      "id": "conditional-discharge#conditional-discharge__1"
+    },
+    {
+      "comment": "a [delay_1]{delay} that a [judge_1]{judge} in a [court_1]{court} of [law]{law} [allow]{allows}, [especially]{especially} to give a [lawyer]{lawyer} more time to [obtain]{obtain} [fact]{facts}",
+      "entry": "continuance",
+      "id": "continuance#continuance__2"
+    },
+    {
+      "comment": "to [prove]{prove} in a [court_1]{court} of [law]{law} that someone is [guilty]{guilty} of a [crime_1]{crime}",
+      "entry": "convict",
+      "id": "convict_1#convict_1__1"
+    },
+    {
+      "comment": "a [decision_1]{decision} by a [court_1]{court} of [law]{law} that someone is [guilty]{guilty} of a [crime_1]{crime}",
+      "entry": "conviction",
+      "id": "conviction#conviction__3"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone to [ignore]{ignore} a [previous_1]{previous} [order_1]{order}, [usually]{usually} by [give_1]{giving} them a [different]{different} [order_1]{order}",
+      "entry": "countermand",
+      "id": "countermand#countermand__1"
+    },
+    {
+      "comment": "an [order_1]{order} that someone must or must not do something, [given_1]{given} by a [court_1]{court} of [law]{law}",
+      "entry": "court order",
+      "id": "court-order#court-order__1"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [criminalize]{criminalize}",
+      "entry": "criminalise",
+      "id": "criminalise#criminalise__1"
+    },
+    {
+      "comment": "to [state_1]{state} that someone is [guilty]{guilty} of a [crime_1]{crime} when they [thought_1]{thought} they were [acting_1]{acting} [legally]{legally}",
+      "entry": "criminalize",
+      "id": "criminalize#criminalize__2"
+    },
+    {
+      "comment": "a [judge_1]{judge}\u2019s [official_1]{official} [statement_1]{statement} [order_2]{ordering} someone to be [punish]{punished} by [death]{death}",
+      "entry": "death sentence",
+      "id": "death-sentence#death-sentence__1"
+    },
+    {
+      "comment": "an [official_1]{official} [document_1]{document} [order_2]{ordering} someone to be [punish]{punished} by [death]{death}",
+      "entry": "death warrant",
+      "id": "death-warrant#death-warrant__1"
+    },
+    {
+      "comment": "a [judgment]{judgment} made by a [court_1]{court} of [law]{law}",
+      "entry": "decree",
+      "id": "decree_1#decree_1__1"
+    },
+    {
+      "comment": "an [official_1]{official} [decision_1]{decision} or [order_1]{order} made by a [leader]{leader} or [government]{government}",
+      "entry": "decree",
+      "id": "decree_1#decree_1__2"
+    },
+    {
+      "comment": "a judgment passed by a court because someone did not appear in court or did not do something they were ordered to do. It is sometimes called a judgment in default.",
+      "entry": "default judgment",
+      "id": "default-judgment#default-judgment__1"
+    },
+    {
+      "comment": "an [official_1]{official} [order_1]{order}",
+      "entry": "directive",
+      "id": "directive#directive__1"
+    },
+    {
+      "comment": "a [decision_1]{decision} by a [judge_1]{judge} that a [court_1]{court} [case_1]{case} should not [continue]{continue}",
+      "entry": "dismissal",
+      "id": "dismissal#dismissal__7"
+    },
+    {
+      "comment": "to [officially]{officially} [disagree]{disagree} with the [judgment]{judgment} made by the other [judge_1]{judges} [working]{working} with you on a [legal]{legal} [case_1]{case}",
+      "entry": "dissent",
+      "id": "dissent_2#dissent_2__2"
+    },
+    {
+      "comment": "the [process_1]{process} of [officially]{officially} [ending]{ending} a [marriage]{marriage} or other [legal]{legal} [agreement]{agreement}",
+      "entry": "dissolution",
+      "id": "dissolution#dissolution__3"
+    },
+    {
+      "comment": "to [officially]{officially} [end_1]{end} a [marriage]{marriage} or other [legal]{legal} [agreement]{agreement}",
+      "entry": "dissolve",
+      "id": "dissolve#dissolve__8"
+    },
+    {
+      "comment": "an [official_1]{official} [order_1]{order} [given_1]{given} by a [government]{government} or [person]{person} in [authority]{authority}",
+      "entry": "edict",
+      "id": "edict#edict__1"
+    },
+    {
+      "comment": "to [send_1]{send} someone [accuse]{accused} of a [crime_1]{crime} back to the [country]{country} or [state_1]{state} where the [crime_1]{crime} was [committed]{committed} for a [trial_1]{trial}",
+      "entry": "extradite",
+      "id": "extradite#extradite__1"
+    },
+    {
+      "comment": "an [official_1]{official} [order_1]{order} from a [person]{person} or [group_1]{group} in [authority]{authority}",
+      "entry": "fiat",
+      "id": "fiat#fiat__1"
+    },
+    {
+      "comment": "if a [court_1]{court} [find_1]{finds} for someone, it [make_1]{makes} a [decision_1]{decision} in their [favor_1]{favor}",
+      "entry": "find for",
+      "id": "find-for#find-for__1"
+    },
+    {
+      "comment": "in England and Wales, a civil court order that prevents someone from accessing money from banks or other sources. It was previously called a Mareva injuction.",
+      "entry": "freezing order",
+      "id": "freezing-order#freezing-order__1"
+    },
+    {
+      "comment": "a [rule_1]{rule} made in a [legislature]{legislature} [limiting]{limiting} the amount of [discussion]{discussion} on an [issue_1]{issue}",
+      "entry": "gag rule",
+      "id": "gag-rule#gag-rule__1"
+    },
+    {
+      "comment": "if something such as a [decision_1]{decision} or [judgment]{judgment} [go_1]{goes} against you, you do not get the [decision_1]{decision} or [judgment]{judgment} that you [wanted]{wanted}",
+      "entry": "go against",
+      "id": "go-against#go-against__5"
+    },
+    {
+      "comment": "if something such as a [request_1]{request}, [proposal]{proposal}, or [contract_1]{contract} [go_1]{goes} through, it is [officially]{officially} [accepted]{accepted} or [approved]{approved}",
+      "entry": "go through",
+      "id": "go-through#go-through__6"
+    },
+    {
+      "comment": "the [fact]{fact} that someone has [committed]{committed} a [crime_1]{crime}",
+      "entry": "guilt",
+      "id": "guilt#guilt__6"
+    },
+    {
+      "comment": "the [person]{person} who is [responsible]{responsible} or not [responsible]{responsible} for something [wrong_1]{wrong} or [illegal_1]{illegal} that has been done",
+      "entry": "the guilty/innocent party",
+      "id": "the-guilty-innocent-party#the-guilty-innocent-party__1"
+    },
+    {
+      "comment": "[likely_1]{likely} to give [severe]{severe} [punishment]{punishments} to [people_1]{people} who [commit]{commit} [crime_1]{crimes}",
+      "entry": "hanging",
+      "id": "hanging_2#hanging_2__3"
+    },
+    {
+      "comment": "an [order_1]{order} from a [court_1]{court} that [prevent]{prevents} someone from [doing]{doing} something or [order_1]{orders} them to do something",
+      "entry": "injunction",
+      "id": "injunction#injunction__1"
+    },
+    {
+      "comment": "of or [relate]{relating} to an [injunction]{injunction}",
+      "entry": "injunctive",
+      "id": "injunctive#injunctive__1"
+    },
+    {
+      "comment": "if a judge instructs a jury, he or she gives them advice about making their decision",
+      "entry": "instruct",
+      "id": "instruct#instruct__7"
+    },
+    {
+      "comment": "an [order_1]{order} from a [court_1]{court} of [law]{law} that [officially]{officially} [tell_1]{tells} someone not to do something",
+      "entry": "interdict",
+      "id": "interdict#interdict__1"
+    },
+    {
+      "comment": "to [make_1]{make} something such as a [document_1]{document}, [contract_1]{contract}, or [process_1]{process} no [long_1]{longer} [legally]{legally} [effective]{effective}",
+      "entry": "invalidate",
+      "id": "invalidate#invalidate__1"
+    },
+    {
+      "comment": "a [decision_1]{decision} that is made by a [judge_1]{judge} in a [court_1]{court} of [law]{law}",
+      "entry": "judgment",
+      "id": "judgment#judgment__14"
+    },
+    {
+      "comment": "a [document_1]{document} from a [court_1]{court} that [tell_1]{tells} a [person]{person} they have to do [jury]{jury} [duty]{duty}",
+      "entry": "jury summons",
+      "id": "jury-summons#jury-summons__1"
+    },
+    {
+      "comment": "a [fair_1]{fair} [result_1]{result} or [punishment]{punishment} from a [law]{law} [court_1]{court}",
+      "entry": "justice",
+      "id": "justice#justice__10"
+    },
+    {
+      "comment": "an [official_1]{official} [order_1]{order} to do something",
+      "entry": "mandate",
+      "id": "mandate_1#mandate_1__7"
+    },
+    {
+      "comment": "in England and Wales, a civil court order that prevents someone from accessing money from banks or other sources. Mareva injunctions are now known as freezing orders.",
+      "entry": "Mareva injunction",
+      "id": "mareva-injunction#mareva-injunction__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [court_1]{court} of [law]{law} [punish]{punishes} someone for a [crime_1]{crime} that they [did]{did} not [commit]{commit}",
+      "entry": "miscarriage of justice",
+      "id": "miscarriage-of-justice#miscarriage-of-justice__1"
+    },
+    {
+      "comment": "to [prove]{prove} that someone has done something [wrong_1]{wrong} or [illegal_1]{illegal}",
+      "entry": "nail",
+      "id": "nail_2#nail_2__5"
+    },
+    {
+      "comment": "a [court_1]{court}\u2019s [decision_1]{decision} [state_2]{stating} that the cause of someone\u2019s [death]{death} is [officially]{officially} not [known_1]{known}",
+      "entry": "open verdict",
+      "id": "open-verdict#open-verdict__1"
+    },
+    {
+      "comment": "to [officially]{officially} [order_1]{order} that something should be done",
+      "entry": "ordain",
+      "id": "ordain#ordain__3"
+    },
+    {
+      "comment": "an [instruction]{instruction} [given_1]{given} by someone in a [position_1]{position} of [authority]{authority}",
+      "entry": "order",
+      "id": "order_1#order_1__22"
+    },
+    {
+      "comment": "an [official_1]{official} [order_1]{order} by a [government]{government}, [king]{king}, [queen_1]{queen}, etc.",
+      "entry": "ordinance",
+      "id": "ordinance#ordinance__2"
+    },
+    {
+      "comment": "to use [official_1]{official} [authority]{authority} to [ignore]{ignore} or [change_1]{change} a [decision_1]{decision} that someone else made",
+      "entry": "override",
+      "id": "override#override__1"
+    },
+    {
+      "comment": "to [officially]{officially} [change_1]{change} a [decision_1]{decision} that someone else has made",
+      "entry": "overrule",
+      "id": "overrule#overrule__1"
+    },
+    {
+      "comment": "an [official_1]{official} [decision_1]{decision} to [forgive]{forgive} someone for [commit]{committing} a [crime_1]{crime} and to [free_1]{free} them from [prison]{prison}",
+      "entry": "pardon",
+      "id": "pardon_2#pardon_2__1"
+    },
+    {
+      "comment": "a [document_1]{document} [showing]{showing} that this [decision_1]{decision} has been made",
+      "entry": "pardon",
+      "id": "pardon_2#pardon_2__4"
+    },
+    {
+      "comment": "a [decision_1]{decision} of a [court_1]{court} that is not [binding_1]{binding} on [future_1]{future} [case_1]{cases} but that may [convince]{convince} a [judge_1]{judge} to [decide]{decide} a [case_1]{case} in a [particular_1]{particular} way",
+      "entry": "persuasive precedent",
+      "id": "persuasive-precedent#persuasive-precedent__1"
+    },
+    {
+      "comment": "an [addition]{addition} to the [rule_1]{rules} of [civil]{civil} and [criminal_1]{criminal} [procedure]{procedure} in the [court_1]{courts} in England and Wales",
+      "entry": "practice direction",
+      "id": "practice-direction#practice-direction__1"
+    },
+    {
+      "comment": "a [decision_1]{decision} by a [court_1]{court} on which [future_1]{future} [decision_1]{decisions} are [base_2]{based}",
+      "entry": "precedent",
+      "id": "precedent#precedent__5"
+    },
+    {
+      "comment": "to [state_1]{state} [officially]{officially} what should be done in a [particular_1]{particular} [situation]{situation}",
+      "entry": "prescribe",
+      "id": "prescribe#prescribe__5"
+    },
+    {
+      "comment": "to [say_1]{say} [officially]{officially} that a [decision_1]{decision} made by another [court_1]{court} was [wrong_1]{wrong} and no [long_1]{longer} has [legal]{legal} [force_1]{force}",
+      "entry": "quash",
+      "id": "quash#quash__1"
+    },
+    {
+      "comment": "to [say_1]{say} whether someone is [guilty]{guilty} or not [guilty]{guilty} of a [crime_1]{crime} in a [court_1]{court} of [law]{law}",
+      "entry": "return a verdict (of something)",
+      "id": "return-a-verdict-of-something#return-a-verdict-of-something__1"
+    },
+    {
+      "comment": "to [change_1]{change} a [court_1]{court} [decision_1]{decision} to be the [opposite_1]{opposite} of what it was",
+      "entry": "reverse",
+      "id": "reverse_1#reverse_1__4"
+    },
+    {
+      "comment": "to [make_1]{make} and [announce]{announce} a [decision_1]{decision}, [usually]{usually} about a [legal]{legal} [matter_1]{matter}",
+      "entry": "rule",
+      "id": "rule_2#rule_2__4"
+    },
+    {
+      "comment": "an [official_1]{official} [decision_1]{decision} made by a [court_1]{court} or by someone in a [position_1]{position} of [authority]{authority}",
+      "entry": "ruling",
+      "id": "ruling_2#ruling_2__1"
+    },
+    {
+      "comment": "a civil court order that gives the right to search premises and seize evidence without prior warning. It was previously called an Anton Piller injuction.",
+      "entry": "search order",
+      "id": "search-order#search-order__1"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} when someone who has been found [guilty]{guilty} in a [court_1]{court} of [law]{law} is [told]{told} what their [punishment]{punishment} will be",
+      "entry": "sentencing",
+      "id": "sentencing#sentencing__4"
+    },
+    {
+      "comment": "to [officially]{officially} give someone a [legal]{legal} [document_1]{document} that [order_1]{orders} them to do something",
+      "entry": "serve",
+      "id": "serve_1#serve_1__34"
+    },
+    {
+      "comment": "the [action_1]{action} of [officially]{officially} [give_1]{giving} someone a [legal]{legal} [document_1]{document} that [order_1]{orders} them to do something",
+      "entry": "service",
+      "id": "service_1#service_1__36"
+    },
+    {
+      "comment": "to [officially]{officially} [state_1]{state} that a [particular_1]{particular} [legal]{legal} [decision_1]{decision} will no [long_1]{longer} be [follow]{followed}",
+      "entry": "set aside",
+      "id": "set-aside#set-aside__5"
+    },
+    {
+      "comment": "to [end_1]{end} a [legal]{legal} [disagreement]{disagreement} by the [decision_1]{decision} of a [court_1]{court} or by [making]{making} an [agreement]{agreement}",
+      "entry": "settle",
+      "id": "settle_1#settle_1__4"
+    },
+    {
+      "comment": "an [agreement]{agreement} that both sides [involved]{involved} in a [legal]{legal} [disagreement]{disagreement} [accept]{accept} or are [forced]{forced} to [accept]{accept} by a [court_1]{court}",
+      "entry": "settlement",
+      "id": "settlement#settlement__4"
+    },
+    {
+      "comment": "a [spent_1]{spent} [conviction]{conviction} is an [old]{old} one that is no [long_1]{longer} [valid]{valid}",
+      "entry": "spent",
+      "id": "spent_1#spent_1__3"
+    },
+    {
+      "comment": "a [judgment]{judgment} [enter]{entered} by a [court_1]{court} without a full [trial_1]{trial}",
+      "entry": "summary judgment",
+      "id": "summary-judgment#summary-judgment__1"
+    },
+    {
+      "comment": "a kind of injunction that stops journalists from writing about a particular topic, and which also stops them from saying who or what the injunction refers to",
+      "entry": "superinjunction",
+      "id": "superinjunction#superinjunction__1"
+    },
+    {
+      "comment": "an [unspent]{unspent} [conviction]{conviction} is still [valid]{valid}",
+      "entry": "unspent",
+      "id": "unspent#unspent__1"
+    },
+    {
+      "comment": "an [official_1]{official} [court_1]{court} [order_1]{order} from a British [county]{County} [court_1]{Court} that [allow]{allows} a [bailiff]{bailiff} to take [goods]{goods} from a [debtor]{debtor's} [home_1]{home}",
+      "entry": "warrant of execution",
+      "id": "warrant-of-execution#warrant-of-execution__1"
+    },
+    {
+      "comment": "a [high_1]{High} [court_1]{Court} [order_1]{order} that [enforce]{enforces} the [seizure]{seizure} of [money]{money} or [property]{property} from a [debtor]{debtor}",
+      "entry": "writ of execution",
+      "id": "writ-of-execution#writ-of-execution__1"
+    }
+  ],
+  "thesaurus": "Judgments, verdicts and official orders",
+  "type": "Related words"
+}

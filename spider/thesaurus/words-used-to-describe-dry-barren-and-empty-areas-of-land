@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [arid]{arid} [place_1]{place} is very [dry_1]{dry} without many [plant_1]{plants} because of a [lack_1]{lack} of [rain_1]{rain}",
+      "entry": "arid",
+      "id": "arid#arid__1"
+    },
+    {
+      "comment": "a [wild_1]{wild} [area]{area} is one where [people_1]{people} do not [live_1]{live} or cannot [live_1]{live}",
+      "entry": "wild",
+      "id": "wild_1#wild_1__22"
+    },
+    {
+      "comment": "[bare_1]{bare} [tree]{trees} or [area]{areas} of [land_1]{land} have nothing [growing]{growing} on them",
+      "entry": "bare",
+      "id": "bare_1#bare_1__8"
+    },
+    {
+      "comment": "[used]{used} about [place_1]{places} that have not had [people_1]{people} in them for a long time",
+      "entry": "deserted",
+      "id": "deserted#deserted__3"
+    },
+    {
+      "comment": "[used]{used} about [region]{regions}",
+      "entry": "dry",
+      "id": "dry_1#dry_1__11"
+    },
+    {
+      "comment": "[extremely]{extremely} [dry_1]{dry} because of [hot]{hot} [weather_1]{weather}",
+      "entry": "parched",
+      "id": "parched#parched__2"
+    },
+    {
+      "comment": "made [hard_1]{hard} and [dry_1]{dry} by very [hot]{hot} [sun_1]{sun}",
+      "entry": "sun-baked",
+      "id": "sun-baked#sun-baked__1"
+    },
+    {
+      "comment": "a [treeless]{treeless} [area]{area} [does]{does} not have any [tree]{trees}",
+      "entry": "treeless",
+      "id": "treeless#treeless__1"
+    },
+    {
+      "comment": "a [lifeless]{lifeless} [place_1]{place} [does]{does} not have anything [living_1]{living} or [growing]{growing} there",
+      "entry": "lifeless",
+      "id": "lifeless#lifeless__3"
+    },
+    {
+      "comment": "[covered_1]{covered} with [dry_1]{dry} [earth]{earth} or [sand_1]{sand}",
+      "entry": "dusty",
+      "id": "dusty#dusty__3"
+    }
+  ],
+  "thesaurus": "Words used to describe dry, barren and empty areas of land",
+  "type": "Synonyms"
+}

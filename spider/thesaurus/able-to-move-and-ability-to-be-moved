@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[able_1]{able} to move and [walk_1]{walk}",
+      "entry": "mobile",
+      "id": "mobile_1#mobile_1__6"
+    },
+    {
+      "comment": "something that is [movable_1]{movable} can be [move_1]{moved} from one [place_1]{place} or [position_1]{position} to another",
+      "entry": "movable",
+      "id": "movable_1#movable_1__1"
+    },
+    {
+      "comment": "something that is [portable_1]{portable} is [easy_1]{easy} to [carry_1]{carry} or move, so that you can use it in [different]{different} [place_1]{places}",
+      "entry": "portable",
+      "id": "portable_1#portable_1__1"
+    },
+    {
+      "comment": "[easy_1]{easy} to move, [especially]{especially} in [situation]{situations} that [need_1]{need} [care_1]{care} or [skill]{skill}",
+      "entry": "maneuverable",
+      "id": "maneuverable#maneuverable__1"
+    },
+    {
+      "comment": "[easy_1]{easy} to move and use in [different]{different} [place_1]{places}",
+      "entry": "mobile",
+      "id": "mobile_1#mobile_1__1"
+    },
+    {
+      "comment": "[able_1]{able} to [travel_1]{travel} from one [place_1]{place} to another because you have a [vehicle]{vehicle}",
+      "entry": "mobile",
+      "id": "mobile_1#mobile_1__8"
+    },
+    {
+      "comment": "the [ability_1]{ability} to move a part of your body",
+      "entry": "mobility",
+      "id": "mobility#mobility__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} to move and [walk_1]{walk} [normally]{normally}",
+      "entry": "mobility",
+      "id": "mobility#mobility__3"
+    },
+    {
+      "comment": "the [ability_1]{ability} to [travel_1]{travel} from one [place_1]{place} to another",
+      "entry": "mobility",
+      "id": "mobility#mobility__6"
+    },
+    {
+      "comment": "[used]{used} for [describe]{describing} something that is [moving]{moving} or that is [able_1]{able} to move",
+      "entry": "moving",
+      "id": "moving#moving__4"
+    }
+  ],
+  "thesaurus": "Able to move and ability to be moved",
+  "type": "Synonyms"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[describe]{describes} two or more [thing]{things} that cannot all be [right_1]{right} or cannot all [happen]{happen} at the same time",
+      "entry": "conflicting",
+      "id": "conflicting#conflicting__1"
+    },
+    {
+      "comment": "not the same as another [person]{person} or thing, or not the same as before",
+      "entry": "different",
+      "id": "different#different__1"
+    },
+    {
+      "comment": "[different]{different}, and more than a few",
+      "entry": "various",
+      "id": "various#various__1"
+    },
+    {
+      "comment": "[different]{different} from something else and [able_1]{able} to be [used]{used} [instead]{instead} of it",
+      "entry": "alternative",
+      "id": "alternative_2#alternative_2__1"
+    },
+    {
+      "comment": "[separate_1]{separate} and [different]{different} in a way that is [clear_1]{clear}",
+      "entry": "distinct",
+      "id": "distinct#distinct__1"
+    },
+    {
+      "comment": "[different]{different} from someone or something else",
+      "entry": "unlike",
+      "id": "unlike_1#unlike_1__1"
+    },
+    {
+      "comment": "very [different]{different} from each other",
+      "entry": "diverse",
+      "id": "diverse#diverse__1"
+    },
+    {
+      "comment": "[different]{different} from each other in a [noticeable]{noticeable} or [interesting]{interesting} way",
+      "entry": "contrasting",
+      "id": "contrasting#contrasting__1"
+    },
+    {
+      "comment": "[different]{different} from someone or something else",
+      "entry": "dissimilar",
+      "id": "dissimilar#dissimilar__1"
+    },
+    {
+      "comment": "[thing]{things} that are [divergent]{divergent} are [different]{different} from each other",
+      "entry": "divergent",
+      "id": "divergent#divergent__1"
+    }
+  ],
+  "thesaurus": "Different and differently",
+  "type": "Synonyms"
+}

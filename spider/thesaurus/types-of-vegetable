@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "[baby_1]{baby} [vegetable]{vegetables} are [small_1]{smaller} than [usual]{usual} and have a [sweet_1]{sweeter} [taste_1]{taste}",
+      "entry": "baby",
+      "id": "baby_3#baby_3__1"
+    },
+    {
+      "comment": "the [green_1]{green} [leaves]{leaves} of [vegetable]{vegetables}, [especially]{especially} when they have been [cooked]{cooked}",
+      "entry": "greens",
+      "id": "green_2#green_2__3"
+    },
+    {
+      "comment": "not [grown_1]{grown} at the [normal_1]{normal} time or under [normal_1]{normal} [condition_1]{conditions}",
+      "entry": "out of season",
+      "id": "out-of-season#out-of-season__5"
+    },
+    {
+      "comment": "a vegetable such as a carrot whose root is the part that is eaten",
+      "entry": "root vegetable",
+      "id": "root-vegetable#root-vegetable__1"
+    },
+    {
+      "comment": "a [large_1]{large} [hard_1]{hard} [vegetable]{vegetable} with very thick [skin_1]{skin}",
+      "entry": "squash",
+      "id": "squash_1#squash_1__1"
+    }
+  ],
+  "thesaurus": "Types of vegetable",
+  "type": "Related words"
+}

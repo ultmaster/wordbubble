@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "get hold of something",
+  "senses": [
+    {
+      "def": "to get something that you [need_1]{need} or [want_1]{want}",
+      "examples": [
+        "I\u2019ve [managed]{managed} to get [hold_1]{hold} of some very [good_1]{good} [wine_1]{wine}.",
+        "These [book_1]{books} are [hard_1]{hard} to get [hold_1]{hold} of in the U.S."
+      ],
+      "id": "get-hold-of-something__1"
+    },
+    {
+      "def": "to [start_1]{start} [holding]{holding} something with your [hand_1]{hands}",
+      "examples": [
+        "Here, get [hold_1]{hold} of this for a [minute_1]{minute}."
+      ],
+      "id": "get-hold-of-something__4"
+    }
+  ]
+}

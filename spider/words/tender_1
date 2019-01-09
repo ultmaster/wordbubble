@@ -1,0 +1,31 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[gentle]{gentle} in a way that [show_1]{shows} that you [care_1]{care} about someone or something",
+      "examples": [
+        "Her [voice_1]{voice} was low and tender."
+      ],
+      "id": "tender_1__1"
+    },
+    {
+      "def": "tender [food]{food} is [soft]{soft} and [easy_1]{easy} to [cut_1]{cut} and [eat]{eat}",
+      "examples": [
+        "[cook_1]{Cook} for an [hour]{hour} or until the [meat]{meat} is tender."
+      ],
+      "id": "tender_1__3"
+    },
+    {
+      "def": "if a part of your body is tender, it has been [injured]{injured} and is [painful]{painful} when you [touch_1]{touch} it",
+      "examples": [],
+      "id": "tender_1__5"
+    },
+    {
+      "def": "a tender [plant_1]{plant} is [delicate]{delicate} and [need_1]{needs} [protection]{protection} from [bad_1]{bad} [weather_1]{weather}",
+      "examples": [],
+      "id": "tender_1__6"
+    }
+  ],
+  "word": "tender"
+}

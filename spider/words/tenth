@@ -1,0 +1,20 @@
+{
+  "part": "number",
+  "senses": [
+    {
+      "def": "in the [place_1]{place} or [position_1]{position} [count_1]{counted} as [number_1]{number} ten",
+      "examples": [
+        "my tenth [birthday]{birthday}"
+      ],
+      "id": "tenth__1"
+    },
+    {
+      "def": "one of ten [equal_1]{equal} [part_1]{parts} of something",
+      "examples": [
+        "We are nine-tenths of the way to [meeting]{meeting} our [fundraising]{fundraising} [goal]{goal}."
+      ],
+      "id": "tenth__3"
+    }
+  ],
+  "word": "tenth"
+}

@@ -1,0 +1,19 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [collect_1]{collect} and [store_1]{store} [historical]{historical} [document_1]{documents} and [record_1]{records}",
+      "examples": [],
+      "id": "archive_2__1"
+    },
+    {
+      "def": "to [collect_1]{collect} and [store_1]{store} computer [file_1]{files} in an archive",
+      "examples": [
+        "It\u2019s a [good_1]{good} [idea]{idea} to archive your [file_1]{files} once a [week]{week}."
+      ],
+      "id": "archive_2__2"
+    }
+  ],
+  "word": "archive"
+}

@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "let there be something",
+  "senses": [
+    {
+      "def": "[used]{used} for [express_1]{expressing} a [prayer]{prayer} or a [hope_1]{hope}",
+      "examples": [
+        "[let_1]{Let} there be [peace]{peace} on [earth]{earth}.",
+        "[let_1]{Let} there be no [lie_1]{lies} between us."
+      ],
+      "id": "let-there-be-something__1"
+    },
+    {
+      "def": "[used]{used} for [emphasis]{emphasis}",
+      "examples": [
+        "[let_1]{Let} there be no [mistake_1]{mistake} about it, this [proposal]{proposal} is the [best_1]{best} [solution]{solution}.",
+        "[let_1]{Let} there be no [doubt_1]{doubt} that this was an [attack_1]{attack} on the whole [community]{community}."
+      ],
+      "id": "let-there-be-something__4"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [type_1]{type} of computer [game_1]{game} that you find in a [video_1]{video} [arcade]{arcade}",
+      "entry": "arcade game",
+      "id": "arcade-game#arcade-game__1"
+    },
+    {
+      "comment": "an [indoor]{indoor} [game_1]{game} [play_1]{played} on a [board_1]{board}, often with [piece_1]{pieces} that are [move_1]{moved} around it",
+      "entry": "board game",
+      "id": "board-game#board-game__1"
+    },
+    {
+      "comment": "a [game_1]{game} that is [play_1]{played} on a computer",
+      "entry": "computer game",
+      "id": "computer-game#computer-game__1"
+    },
+    {
+      "comment": "an [activity]{activity} that you do for [fun_1]{fun} that has [rule_1]{rules}, and that you can [win_1]{win} or [lose]{lose}",
+      "entry": "game",
+      "id": "game_1#game_1__1"
+    },
+    {
+      "comment": "a mental activity such as a puzzle that people enjoy trying to solve",
+      "entry": "mind game",
+      "id": "mind-game#mind-game__2"
+    },
+    {
+      "comment": "a simple game that people play inside a house, usually involving words, acting, or guessing things",
+      "entry": "parlor game",
+      "id": "parlor-game#parlor-game__1"
+    },
+    {
+      "comment": "a [game_1]{game} in which one [player]{player} [play_1]{plays} against two other [people_1]{people}",
+      "entry": "threesome",
+      "id": "threesome#threesome__3"
+    }
+  ],
+  "thesaurus": "Types of games",
+  "type": "Related words"
+}

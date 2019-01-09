@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if someone [slow_2]{slows} down, or if something [slow_2]{slows} them down, they become less [active]{active} or [effective]{effective}",
+      "entry": "slow down",
+      "id": "slow-down#slow-down__5"
+    },
+    {
+      "comment": "if something [bad_1]{bad} or [unpleasant]{unpleasant} [let_1]{lets} up, it [slow_2]{slows} down or [stop_1]{stops}",
+      "entry": "let up",
+      "id": "let-up#let-up__1"
+    },
+    {
+      "comment": "if you [slow_1]{slow} something, or if it [slow_2]{slows}, you [reduce]{reduce} the [speed_1]{speed} at which it [happen]{happens}",
+      "entry": "slow",
+      "id": "slow_2#slow_2__4"
+    },
+    {
+      "comment": "to [stop_1]{stop} or [slow_1]{slow} down a [car]{car}, [bicycle]{bicycle}, or other [vehicle]{vehicle} by [use_1]{using} the [brake_1]{brakes}",
+      "entry": "brake",
+      "id": "brake_2#brake_2__1"
+    },
+    {
+      "comment": "to become [slow_1]{slower} or less [active]{active}, or to [make_1]{make} something become [slow_1]{slower} or less [active]{active}",
+      "entry": "slacken",
+      "id": "slacken#slacken__1"
+    },
+    {
+      "comment": "to [reduce]{reduce} the [speed_1]{speed} of a [vehicle]{vehicle} by [reduce]{reducing} the [supply_1]{supply} of [fuel_1]{fuel} to the [engine]{engine}",
+      "entry": "throttle back",
+      "id": "throttle-back#throttle-back__1"
+    },
+    {
+      "comment": "to go more [slowly]{slowly}, [especially]{especially} when you are [driving]{driving} or [running_1]{running} [fast_1]{fast}",
+      "entry": "ease off",
+      "id": "ease-off#ease-off__1"
+    },
+    {
+      "comment": "if you [slow_1]{slow} someone or something, or if they [slow_1]{slow}, you [reduce]{reduce} the [speed_1]{speed} at which they move",
+      "entry": "slow",
+      "id": "slow_2#slow_2__7"
+    },
+    {
+      "comment": "if a [vehicle]{vehicle} [grind_1]{grinds} to a [halt_1]{halt}, it [move_1]{moves} more and more [slowly]{slowly} until it [finally]{finally} [stop_1]{stops}",
+      "entry": "grind to a halt",
+      "id": "grind-to-a-halt#grind-to-a-halt__1"
+    },
+    {
+      "comment": "to [slow_1]{slow} down, or to become less",
+      "entry": "slack off",
+      "id": "slack-off#slack-off__1"
+    }
+  ],
+  "thesaurus": "To slow down",
+  "type": "Synonyms"
+}

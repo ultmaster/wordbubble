@@ -1,0 +1,20 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "chilled [food]{food} or [drink_1]{drink} has been made [cold_1]{cold} in [order_1]{order} to [make_1]{make} it more [pleasant]{pleasant} or to keep it [fresh_1]{fresh}",
+      "examples": [
+        "a [bottle_1]{bottle} of chilled [champagne]{champagne}",
+        "[import_1]{imports} of chilled [beef_1]{beef} and [lamb_1]{lamb}"
+      ],
+      "id": "chilled__1"
+    },
+    {
+      "def": "very [relaxed]{relaxed}",
+      "examples": [],
+      "id": "chilled__4"
+    }
+  ],
+  "word": "chilled"
+}

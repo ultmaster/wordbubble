@@ -1,0 +1,22 @@
+{
+  "part": "phrase",
+  "phrase": "for sure",
+  "senses": [
+    {
+      "def": "[definitely]{definitely}",
+      "examples": [
+        "I will call you [tomorrow_1]{tomorrow} for [sure_1]{sure}.",
+        "\u201cAre you [going_1]{going} on Friday?\u201d \u201cI don\u2019t [know_1]{know} for [sure_1]{sure}.\u201d",
+        "Ashe was an [incredible]{incredible} [tennis]{tennis} [player]{player}, that\u2019s for [sure_1]{sure}."
+      ],
+      "id": "for-sure__1"
+    },
+    {
+      "def": "[used]{used} for [agree]{agreeing} with someone",
+      "examples": [
+        "\u201c[let_1]{Let}\u2019s have [lunch_1]{lunch} together next [week]{week}.\u201d \u201cFor [sure_1]{sure}.\u201d"
+      ],
+      "id": "for-sure__5"
+    }
+  ]
+}

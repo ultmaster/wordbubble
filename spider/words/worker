@@ -1,0 +1,32 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "someone below the [level_1]{level} of a [manager]{manager} who [work_1]{works} in a [particular_1]{particular} [company]{company} or [industry]{industry}",
+      "examples": [
+        "About 1,000 [worker]{workers} at the [factory]{factory} [lost_1]{lost} their [job_1]{jobs}.",
+        "Less than 40% of [agricultural]{agricultural} [worker]{workers} are under 40 [year]{years} [old]{old}.",
+        "[farm_1]{farm}/[factory]{factory}/[shipyard]{shipyard} [worker]{workers}",
+        "The [company]{company} is [offering]{offering} [job_1]{job} [opportunity]{opportunities} for around 50 [skilled]{skilled} [worker]{workers}.",
+        "[worker]{Workers} of the [world]{world} [unite]{unite}!"
+      ],
+      "id": "worker__1"
+    },
+    {
+      "def": "someone who [work_1]{works} for a [particular_1]{particular} [organization]{organization}, [especially]{especially} a [political]{political} [party_1]{party}",
+      "examples": [
+        "a [mood]{mood} of [optimism]{optimism} among [party_1]{party} [worker]{workers}"
+      ],
+      "id": "worker__8"
+    },
+    {
+      "def": "[used]{used} for [describe]{describing} how well, [quickly]{quickly}, etc. someone [work_1]{works}",
+      "examples": [
+        "Jan has always been a [hard_1]{hard} worker.",
+        "He\u2019s a [nice]{nice} man, but [quite]{quite} a [slow_1]{slow} worker."
+      ],
+      "id": "worker__10"
+    }
+  ],
+  "word": "worker"
+}

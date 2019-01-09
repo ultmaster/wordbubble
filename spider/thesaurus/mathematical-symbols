@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "the [symbol]{symbol} + that [show_1]{shows} that one [number_1]{number} is to be [added]{added} to another",
+      "entry": "addition sign",
+      "id": "addition-sign#addition-sign__1"
+    },
+    {
+      "comment": "a [curly]{curly} [bracket_1]{bracket}",
+      "entry": "brace",
+      "id": "brace_2#brace_2__6"
+    },
+    {
+      "comment": "one of a pair of symbols [ ], used in writing or mathematics for showing that the piece of information or set of numbers between them can be considered separately. These are sometimes called square brackets.",
+      "entry": "bracket",
+      "id": "bracket_1#bracket_1__3"
+    },
+    {
+      "comment": "the [symbol]{symbols} { }, [used]{used} [especially]{especially} in [mathematics]{mathematics} and computer [program_1]{programs} for [showing]{showing} that [thing]{things} [written_1]{written} between them should be [considered]{considered} together",
+      "entry": "curly brackets",
+      "id": "curly-brackets#curly-brackets__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} \u00f7 that [show_1]{shows} that one [number_1]{number} is to be [divided]{divided} by another",
+      "entry": "division sign",
+      "id": "division-sign#division-sign__1"
+    },
+    {
+      "comment": "the [sign_1]{sign} = [used]{used} in [mathematics]{mathematics} to show that two [set_1]{sets} of [number_1]{numbers} are the same in [quantity]{quantity} or amount",
+      "entry": "equal sign",
+      "id": "equal-sign#equal-sign__1"
+    },
+    {
+      "comment": "a [minus_1]{minus} [sign_1]{sign}",
+      "entry": "minus",
+      "id": "minus_2#minus_2__4"
+    },
+    {
+      "comment": "the [symbol]{symbol} \u2013 [used]{used} for [showing]{showing} that one [number_1]{number} is to be [taken_1]{taken} from another",
+      "entry": "minus sign",
+      "id": "minus-sign#minus-sign__1"
+    },
+    {
+      "comment": "the [symbol]{symbol} \u00d7, [written_1]{written} between two [number_1]{numbers} to show that one [number_1]{number} is to be [multiply]{multiplied} by the other",
+      "entry": "multiplication sign",
+      "id": "multiplication-sign#multiplication-sign__1"
+    },
+    {
+      "comment": "a [symbol]{symbol} that [represent]{represents} a [number_1]{number}",
+      "entry": "numeral",
+      "id": "numeral#numeral__1"
+    },
+    {
+      "comment": "in [mathematics]{mathematics}, a [number_1]{number} [written_1]{written} as the [symbol]{symbol} \u03c0 that is [used]{used} to show the [relationship]{relationship} between the [distance_1]{distance} around a [circle_1]{circle} and the [distance_1]{distance} across it",
+      "entry": "pi",
+      "id": "pi#pi__1"
+    },
+    {
+      "comment": "a [plus_1]{plus} [sign_1]{sign}",
+      "entry": "plus",
+      "id": "plus_2#plus_2__4"
+    },
+    {
+      "comment": "the [symbol]{symbol} +",
+      "entry": "plus sign",
+      "id": "plus-sign#plus-sign__1"
+    },
+    {
+      "comment": "either of the [symbol]{symbols} [ or ] that are often [used]{used} in [mathematics]{mathematics} and [scientific]{scientific} [writing]{writing}",
+      "entry": "square bracket",
+      "id": "square-bracket#square-bracket__1"
+    },
+    {
+      "comment": "[used]{used} in [mathematics]{mathematics} for [showing]{showing} a [number_1]{number} whose [value_1]{value} you do not [know_1]{know}",
+      "entry": "x",
+      "id": "x_1#x_1__3"
+    },
+    {
+      "comment": "[used]{used} in [mathematics]{mathematics} for [showing]{showing} a [number_1]{number} whose [value_1]{value} you do not [know_1]{know}",
+      "entry": "y",
+      "id": "y#y__2"
+    }
+  ],
+  "thesaurus": "Mathematical symbols",
+  "type": "Related words"
+}

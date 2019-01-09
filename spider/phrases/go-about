@@ -1,0 +1,26 @@
+{
+  "part": "phrase",
+  "phrase": "go about",
+  "senses": [
+    {
+      "def": "to do something that you [normally]{normally} do in your [usual]{usual} way",
+      "examples": [
+        "There were no further [report_1]{reports} of [violence]{violence} in the [town]{town}, and most [people_1]{people} went about their [daily_1]{daily} [activity]{activities} as [usual]{usual}."
+      ],
+      "id": "go-about__1"
+    },
+    {
+      "def": "to [start_1]{start} [dealing]{dealing} with a [problem]{problem}, [situation]{situation}, or [job_1]{job} in a [particular_1]{particular} way",
+      "examples": [
+        "I [think_1]{think} I\u2019d go about it [quite]{quite} [differently]{differently}.",
+        "How [did]{did} you go about [find_1]{finding} a [job_1]{job}?"
+      ],
+      "id": "go-about__3"
+    },
+    {
+      "def": "if a [ship_1]{ship} [go_1]{goes} about, it [turn_1]{turns} and [sail_1]{sails} in the [opposite_1]{opposite} [direction]{direction}",
+      "examples": [],
+      "id": "go-about__9"
+    }
+  ]
+}

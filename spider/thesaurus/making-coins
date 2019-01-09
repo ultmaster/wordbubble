@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "comment": "to [make_1]{make} [coin_1]{coins} from [metal_1]{metal}",
+      "entry": "coin",
+      "id": "coin_2#coin_2__2"
+    },
+    {
+      "comment": "to [mark_1]{mark} the [edge_1]{edges} of a [coin_1]{coin} with [lines]{lines}",
+      "entry": "mill",
+      "id": "mill_2#mill_2__4"
+    },
+    {
+      "comment": "the [place_1]{place} where a [country]{country} [make_1]{makes} its [coin_1]{coins} and [paper_1]{paper} [money]{money}",
+      "entry": "mint",
+      "id": "mint_1#mint_1__3"
+    },
+    {
+      "comment": "to [make_1]{make} a [coin_1]{coin} from [metal_1]{metal}",
+      "entry": "mint",
+      "id": "mint_2#mint_2__1"
+    },
+    {
+      "comment": "to make a coin or medal by cutting it out of a piece of metal",
+      "entry": "strike",
+      "id": "strike_1#strike_1__57"
+    }
+  ],
+  "thesaurus": "Making coins",
+  "type": "Related words"
+}

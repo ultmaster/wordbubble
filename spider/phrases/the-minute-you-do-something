@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "the minute you do something",
+  "senses": [
+    {
+      "def": "as [soon]{soon} as you do something",
+      "examples": [
+        "Please call me the [minute_1]{minute} you [hear]{hear} anything from the [hospital]{hospital}."
+      ],
+      "id": "the-minute-you-do-something__1"
+    },
+    {
+      "def": "[used]{used} for [saying]{saying} that a [particular_1]{particular} [action_1]{action} [cause_1]{causes} a [quick_1]{quick} [result_1]{result} or [reaction]{reaction}",
+      "examples": [
+        "The [minute_1]{minute} you [mention_1]{mention} [marriage]{marriage}, he\u2019s [gone_1]{gone}."
+      ],
+      "id": "the-minute-you-do-something__3"
+    }
+  ]
+}

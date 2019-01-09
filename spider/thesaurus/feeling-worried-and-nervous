@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[unhappy]{unhappy} because you are [thinking_1]{thinking} about your [problem]{problems} or about [bad_1]{bad} [thing]{things} that could [happen]{happen}",
+      "entry": "worried",
+      "id": "worried#worried__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [excited]{excited} and [worried]{worried}, or [slightly]{slightly} [afraid]{afraid}",
+      "entry": "nervous",
+      "id": "nervous#nervous__1"
+    },
+    {
+      "comment": "very [sad_1]{sad}, [worried]{worried}, or [angry]{angry} about something",
+      "entry": "upset",
+      "id": "upset_1#upset_1__1"
+    },
+    {
+      "comment": "[worried]{worried} because you [think_1]{think} something [bad_1]{bad} might [happen]{happen}",
+      "entry": "anxious",
+      "id": "anxious#anxious__1"
+    },
+    {
+      "comment": "someone who [feels]{feels} [uneasy]{uneasy} [feels]{feels} [slightly]{slightly} [nervous]{nervous}, [worried]{worried}, or [upset_1]{upset} about something",
+      "entry": "uneasy",
+      "id": "uneasy#uneasy__1"
+    },
+    {
+      "comment": "[feeling_1]{feeling} [nervous]{nervous} and not [relaxed]{relaxed}, [usually]{usually} because you are [worried]{worried} about what is [going_1]{going} to [happen]{happen}",
+      "entry": "tense",
+      "id": "tense_1#tense_1__5"
+    },
+    {
+      "comment": "[frightened]{frightened} or [worried]{worried} that something [unpleasant]{unpleasant} or [dangerous]{dangerous} might [happen]{happen}",
+      "entry": "alarmed",
+      "id": "alarmed#alarmed__1"
+    },
+    {
+      "comment": "[nervous]{nervous} and [unable]{unable} to [relax]{relax} because you are [worried]{worried}",
+      "entry": "on edge",
+      "id": "on-edge#on-edge__1"
+    },
+    {
+      "comment": "very [nervous]{nervous} or [worried]{worried}",
+      "entry": "frightened",
+      "id": "frightened#frightened__8"
+    },
+    {
+      "comment": "[worried]{worried} about the [problem]{problems} that you have",
+      "entry": "troubled",
+      "id": "troubled#troubled__1"
+    }
+  ],
+  "thesaurus": "Feeling worried and nervous",
+  "type": "Synonyms"
+}

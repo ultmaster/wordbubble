@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "wash up",
+  "senses": [
+    {
+      "def": "to [wash_1]{wash} yourself, [especially]{especially} your [hand_1]{hands} and [face_1]{face}",
+      "examples": [
+        "Why don\u2019t you go [wash_1]{wash} up before we [eat]{eat}."
+      ],
+      "id": "wash-up__1"
+    },
+    {
+      "def": "if the [ocean]{ocean} [wash_1]{washes} something up somewhere, it [carry_1]{carries} it and [leaves]{leaves} it there",
+      "examples": [
+        "Two [whale_1]{whales} have been [wash_1]{washed} up on the [beach_1]{beach}.",
+        "Some of the [oil_1]{oil} has [wash_1]{washed} up on a [neighboring]{neighboring} [island]{island}."
+      ],
+      "id": "wash-up__3"
+    },
+    {
+      "def": "to [wash_1]{wash} [plate_1]{plates}, [cup_1]{cups}, [spoon_1]{spoons}, etc. after a [meal]{meal}",
+      "examples": [],
+      "id": "wash-up__6"
+    },
+    {
+      "def": "if someone [wash_1]{washes} up somewhere, they [arrive]{arrive} there [unexpected#unexpected__4]{unexpectedly} after a long time",
+      "examples": [
+        "He [stay_1]{stays} out for four [day]{days} [solid_1]{solid} and [eventually]{eventually} [wash_1]{washes} up at his [brother_1]{brother}\u2019s [house_1]{house}."
+      ],
+      "id": "wash-up__7"
+    }
+  ]
+}

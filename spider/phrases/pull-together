@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "pull together",
+  "senses": [
+    {
+      "def": "if [people_1]{people} [pull_1]{pull} together, they [work_1]{work} together to [achieve]{achieve} something",
+      "examples": [
+        "In times of [crisis]{crisis}, [community]{communities} [pull_1]{pull} together."
+      ],
+      "id": "pull-together__1"
+    },
+    {
+      "def": "to [combine_1]{combine} [different]{different} [thing]{things} so that they form a [single_1]{single} [unit]{unit}",
+      "examples": [
+        "The [report_1]{report} [pull_1]{pulls} together [information]{information} from several [office]{offices}."
+      ],
+      "id": "pull-together__3"
+    }
+  ]
+}

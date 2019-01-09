@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "on television",
+  "senses": [
+    {
+      "def": "[broadcast_1]{broadcast} as a [television]{television} [program_1]{program}",
+      "examples": [
+        "Is there anything [worth_1]{worth} [watch_1]{watching} on [television]{television} [tonight_1]{tonight}?"
+      ],
+      "id": "on-television__1"
+    },
+    {
+      "def": "[take_1]{taking} part in [television]{television} [program_1]{programs}",
+      "examples": [
+        "I\u2019m [sure_1]{sure} I\u2019ve [seen]{seen} him on [television]{television}."
+      ],
+      "id": "on-television__3"
+    }
+  ]
+}

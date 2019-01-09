@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a [container]{container} for [carry_1]{carrying} or [keeping]{keeping} [thing]{things} in, made from thin [piece_1]{pieces} of [plastic_1]{plastic}, [wire_1]{wire}, or [wood]{wood} [woven_1]{woven} together, and sometimes with a [handle_1]{handle}",
+      "entry": "basket",
+      "id": "basket#basket__1"
+    },
+    {
+      "comment": "a [container]{container} for [store_2]{storing} something, [especially]{especially} a [large_1]{large} amount",
+      "entry": "bin",
+      "id": "bin_1#bin_1__1"
+    },
+    {
+      "comment": "a [container]{container} with [straight_1]{straight} sides, a [flat_1]{flat} [base_1]{base}, and sometimes a [lid]{lid}",
+      "entry": "box",
+      "id": "box_1#box_1__1"
+    },
+    {
+      "comment": "a [container]{container} or [cover_1]{cover} for [keeping]{keeping} or [protect]{protecting} something",
+      "entry": "case",
+      "id": "case_1#case_1__37"
+    },
+    {
+      "comment": "a [container]{container} for a [variety]{variety} of [thing]{things} that are not [related_1]{related} to each other",
+      "entry": "catch-all",
+      "id": "catch-all_2#catch-all_2__2"
+    },
+    {
+      "comment": "a [large_1]{large} [strong]{strong} [heavy_1]{heavy} [box_1]{box} [used]{used} for [moving]{moving} or [store_2]{storing} [thing]{things}",
+      "entry": "chest",
+      "id": "chest#chest__7"
+    },
+    {
+      "comment": "something [used]{used} for [store_2]{storing} or [holding]{holding} [thing]{things}, for [example]{example} a [box_1]{box}, [bottle_1]{bottle}, or [bowl_1]{bowl}",
+      "entry": "container",
+      "id": "container#container__1"
+    },
+    {
+      "comment": "a very [large_1]{large} [metal_1]{metal} or [wooden]{wooden} [box_1]{box} [design_2]{designed} to be [loaded]{loaded} [easily]{easily} onto [ship_1]{ships} and [truck_1]{trucks}",
+      "entry": "container",
+      "id": "container#container__2"
+    },
+    {
+      "comment": "a [large_1]{large} [wooden]{wooden} [box_1]{box} [used]{used} for [moving]{moving} or [store_2]{storing} [goods]{goods}",
+      "entry": "crate",
+      "id": "crate_1#crate_1__1"
+    },
+    {
+      "comment": "a thin [case_1]{case} that [contain]{contains} something",
+      "entry": "envelope",
+      "id": "envelope#envelope__2"
+    },
+    {
+      "comment": "an empty [container]{container} into which you [pour]{pour} a [liquid_1]{liquid} that you [want_1]{want} to be the same [shape_1]{shape} as the [container]{container} when it becomes [hard_1]{hard}",
+      "entry": "mold",
+      "id": "mold_1#mold_1__2"
+    },
+    {
+      "comment": "a [packing]{packing} [crate_1]{crate}",
+      "entry": "packing case",
+      "id": "packing-case#packing-case__1"
+    },
+    {
+      "comment": "a [large_1]{large} [wooden]{wooden} [box_1]{box} [used]{used} for [store_2]{storing} [thing]{things} or [moving]{moving} them to other [place_1]{places}",
+      "entry": "packing crate",
+      "id": "packing-crate#packing-crate__1"
+    },
+    {
+      "comment": "a [flat_1]{flat} [wooden]{wooden} or [metal_1]{metal} [surface_1]{surface} [used]{used} for [moving]{moving} or [store_2]{storing} [heavy_1]{heavy} [goods]{goods}",
+      "entry": "pallet",
+      "id": "pallet#pallet__1"
+    },
+    {
+      "comment": "a [small_1]{small} [bag_1]{bag} or other [container]{container} that [form_1]{forms} part of an [object_1]{object}, for [example]{example} a [bag_1]{bag}",
+      "entry": "pocket",
+      "id": "pocket_1#pocket_1__10"
+    },
+    {
+      "comment": "a [container]{container}",
+      "entry": "receptacle",
+      "id": "receptacle#receptacle__1"
+    },
+    {
+      "comment": "a [metal_1]{metal} [container]{container} with a [lid]{lid}, [used]{used} for [store_2]{storing} [thing]{things}",
+      "entry": "tin",
+      "id": "tin_1#tin_1__2"
+    }
+  ],
+  "thesaurus": "General containers",
+  "type": "Related words"
+}

@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "drive up",
+  "senses": [
+    {
+      "def": "if a [vehicle]{vehicle} or [driver]{driver} [drive_1]{drives} up, the [vehicle]{vehicle} [move_1]{moves} [near_1]{near} to a [person]{person} or [place_1]{place} and [stop_1]{stops}",
+      "examples": [
+        "A [huge]{huge} [limousine]{limousine} [drove_1]{drove} up."
+      ],
+      "id": "drive-up__1"
+    },
+    {
+      "def": "to [make_1]{make} a [price_1]{price} or amount [rise_1]{rise} to a [higher_1]{higher} [level_1]{level}",
+      "examples": [
+        "The [government]{government}\u2019s [policy]{policies} are [driving]{driving} up interest [rate_1]{rates}."
+      ],
+      "id": "drive-up__3"
+    }
+  ]
+}

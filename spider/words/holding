@@ -1,0 +1,35 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a part of a [company]{company} that someone [own_2]{owns} in the form of a [share_1]{share} or [share_1]{shares}",
+      "examples": [
+        "[small_1]{Small} [shareholder]{shareholders} should [think_1]{think} [careful#careful__20]{carefully} before [selling]{selling} any holding."
+      ],
+      "id": "holding__1"
+    },
+    {
+      "def": "a [piece_1]{piece} of [land_1]{land} that someone [own_2]{owns} or [pay_1]{pays} [rent_1]{rent} for, [usually]{usually} [used]{used} for [farming]{farming}",
+      "examples": [
+        "Many of the [agricultural]{agricultural} [holding]{holdings} are too [small_1]{small} to be [economically]{economically} [viable]{viable}."
+      ],
+      "id": "holding__3"
+    },
+    {
+      "def": "the [process_1]{process} of [organize]{organizing} something such as an [election]{election} or [meeting]{meeting}",
+      "examples": [
+        "The [supreme]{Supreme} [court_1]{Court} [ban_1]{banned} the holding of a [referendum]{referendum}."
+      ],
+      "id": "holding__5"
+    },
+    {
+      "def": "the [collection]{collections} [own_2]{owned} by an [institution]{institution} such as a [library]{library} or [museum]{museum}",
+      "examples": [
+        "The [museum]{museum} has [unusually]{unusually} [rich_1]{rich} [holding]{holdings} of seventeenth-century Italian art."
+      ],
+      "id": "holding__7"
+    }
+  ],
+  "word": "holding"
+}

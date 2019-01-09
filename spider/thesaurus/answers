@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [spoken_1]{spoken} [reply_1]{reply} to a [question_1]{question}",
+      "entry": "answer",
+      "id": "answer_2#answer_2__1"
+    },
+    {
+      "comment": "something that you [say_1]{say} or [write]{write} as an [answer_1]{answer}",
+      "entry": "reply",
+      "id": "reply_2#reply_2__1"
+    },
+    {
+      "comment": "an answer to a question in a test, quiz, etc.",
+      "entry": "response",
+      "id": "response#response__7"
+    },
+    {
+      "comment": "an [angry]{angry} or [humorous]{humorous} [reply_1]{reply} that you [make_1]{make} [immediately]{immediately} to something that someone has [said_1]{said}",
+      "entry": "retort",
+      "id": "retort_2#retort_2__1"
+    },
+    {
+      "comment": "a [quick_1]{quick} [clever]{clever} [reply_1]{reply} to a [comment_1]{comment} or [criticism]{criticism}",
+      "entry": "comeback",
+      "id": "comeback#comeback__4"
+    },
+    {
+      "comment": "a [quick_1]{quick} and [clever]{clever} [reply_1]{reply}",
+      "entry": "riposte",
+      "id": "riposte_1#riposte_1__1"
+    },
+    {
+      "comment": "a [quick_1]{quick} [reply_1]{reply}, [especially]{especially} one that is [clever]{clever} or [rude]{rude}",
+      "entry": "rejoinder",
+      "id": "rejoinder#rejoinder__1"
+    },
+    {
+      "comment": "a [spoken_1]{spoken} or [written_1]{written} [reply_1]{reply} to a [question_1]{question} in a [test_1]{test} or [competition]{competition}",
+      "entry": "answer",
+      "id": "answer_2#answer_2__11"
+    },
+    {
+      "comment": "a [reply_1]{reply} to any [question_1]{question} or [letter_1]{letter}",
+      "entry": "response",
+      "id": "response#response__9"
+    },
+    {
+      "comment": "the [correct_1]{correct} [reply_1]{reply} to a [question_1]{question} in a [test_1]{test} or [competition]{competition}",
+      "entry": "answer",
+      "id": "answer_2#answer_2__15"
+    }
+  ],
+  "thesaurus": "Answers",
+  "type": "Synonyms"
+}

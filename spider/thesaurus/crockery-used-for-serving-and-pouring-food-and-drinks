@@ -1,0 +1,91 @@
+{
+  "entries": [
+    {
+      "comment": "a round [container]{container} [used]{used} for [eat]{eating}, [serving]{serving}, or [prepare]{preparing} [food]{food}",
+      "entry": "bowl",
+      "id": "bowl_1#bowl_1__1"
+    },
+    {
+      "comment": "a [container]{container} in which you [serve_1]{serve} [bread]{bread}",
+      "entry": "breadbasket",
+      "id": "breadbasket#breadbasket__1"
+    },
+    {
+      "comment": "a [glass]{glass} [container]{container} for [serving]{serving} [wine_1]{wine} or [water_1]{water} at [meal]{meals}, with a [wide_1]{wider} top than a [bottle_1]{bottle}",
+      "entry": "carafe",
+      "id": "carafe#carafe__1"
+    },
+    {
+      "comment": "a [container]{container} for [making]{making} or [serving]{serving} [coffee]{coffee}",
+      "entry": "coffeepot",
+      "id": "coffeepot#coffeepot__1"
+    },
+    {
+      "comment": "a small container with a handle used for pouring cream. It is also called a cream jug.",
+      "entry": "creamer",
+      "id": "creamer#creamer__3"
+    },
+    {
+      "comment": "a small glass container with a handle, used for serving vinegar or oil",
+      "entry": "cruet",
+      "id": "cruet#cruet__1"
+    },
+    {
+      "comment": "an [open_1]{open} [container]{container} [like_1]{like} a [plate_1]{plate}, but not as [deep_1]{deep} as a [bowl_1]{bowl}, [used]{used} for [serving]{serving} or [cooking_1]{cooking} [food]{food}",
+      "entry": "dish",
+      "id": "dish_1#dish_1__1"
+    },
+    {
+      "comment": "a small container used for holding a soft-boiled egg while you eat it",
+      "entry": "eggcup",
+      "id": "eggcup#eggcup__1"
+    },
+    {
+      "comment": "flat or nearly flat dishes such as plates, saucers, and platters",
+      "entry": "flatware",
+      "id": "flatware#flatware__2"
+    },
+    {
+      "comment": "a [container]{container} [used]{used} for [pour]{pouring} [gravy]{gravy}",
+      "entry": "gravy boat",
+      "id": "gravy-boat#gravy-boat__1"
+    },
+    {
+      "comment": "a [pitcher]{pitcher}",
+      "entry": "jug",
+      "id": "jug#jug__1"
+    },
+    {
+      "comment": "a [container]{container} [used]{used} for [making]{making} or [serving]{serving} [hot]{hot} [drink_1]{drinks}",
+      "entry": "pot",
+      "id": "pot_1#pot_1__3"
+    },
+    {
+      "comment": "a small container with a lid that has holes, used for pouring salt on food. The British word is salt cellar.",
+      "entry": "salt shaker",
+      "id": "salt-shaker#salt-shaker__1"
+    },
+    {
+      "comment": "a [container]{container} in the [shape_1]{shape} of a [boat]{boat} with a [handle_1]{handle} on one [end_1]{end}, [used]{used} for [serving]{serving} [sauce]{sauce}",
+      "entry": "sauceboat",
+      "id": "sauceboat#sauceboat__1"
+    },
+    {
+      "comment": "a [complete_1]{complete} [set_1]{set} of [plate_1]{plates} and [cup_1]{cups} with the same [design_1]{design}",
+      "entry": "service",
+      "id": "service_1#service_1__35"
+    },
+    {
+      "comment": "a container with a handle and a spout  (=small tube for pouring), used for making and pouring tea",
+      "entry": "teapot",
+      "id": "teapot#teapot__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [matching]{matching} [cup_1]{cups}, [plate_1]{plates}, [saucer]{saucers}, etc. [used]{used} for [serving]{serving} [tea]{tea}",
+      "entry": "tea service",
+      "id": "tea-service#tea-service__1"
+    }
+  ],
+  "thesaurus": "Crockery used for serving and pouring food and drinks",
+  "type": "Related words"
+}

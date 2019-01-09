@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [book_1]{book} that [list_1]{lists} the [name_1]{names}, [address_1]{addresses}, and [telephone_1]{telephone} [number_1]{numbers} of all the [people_1]{people} in a [city]{city}",
+      "examples": [],
+      "id": "directory__1"
+    },
+    {
+      "def": "a [book_1]{book} that [list_1]{lists} [information]{information} in [alphabetical]{alphabetical} [order_1]{order}",
+      "examples": [],
+      "id": "directory__4"
+    },
+    {
+      "def": "a computer [file_1]{file} that [contain]{contains} other [file_1]{files}, [document_1]{documents}, or [program_1]{programs}",
+      "examples": [],
+      "id": "directory__5"
+    }
+  ],
+  "word": "directory"
+}

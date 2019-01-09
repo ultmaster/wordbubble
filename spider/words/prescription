@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [piece_1]{piece} of [paper_1]{paper} that a [doctor_1]{doctor} [give_1]{gives} you that [say_1]{says} what [type_1]{type} of [medication]{medication} you [need_1]{need}",
+      "examples": [
+        "The [doctor_1]{doctor} [gave]{gave} me a prescription for [antibiotic]{antibiotics}.",
+        "[prescription]{Prescription} [cost_1]{costs} have [risen]{risen} again."
+      ],
+      "id": "prescription__1"
+    },
+    {
+      "def": "a [plan_1]{plan} that will [help_1]{help} to you [achieve]{achieve} something, or that will have a [particular_1]{particular} [result_1]{result}",
+      "examples": [
+        "a prescription for [economic]{economic} [recovery]{recovery}",
+        "Morishita [describe]{described} the [policy]{policy} as \u201ca prescription for [disaster]{disaster}.\u201d"
+      ],
+      "id": "prescription__7"
+    }
+  ],
+  "word": "prescription"
+}

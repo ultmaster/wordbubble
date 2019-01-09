@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "bank up",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something into a [pile_1]{pile}",
+      "examples": [
+        "[soil_1]{Soil} was [bank_2]{banked} up against the [wall_1]{wall}."
+      ],
+      "id": "bank-up__1"
+    },
+    {
+      "def": "to put a [lot_1]{lot} of [coal]{coal} onto a fire so that it will [burn_1]{burn} [slowly]{slowly} and for a long time",
+      "examples": [
+        "Before [going_1]{going} to [bed_1]{bed}, she [bank_2]{banked} up the fire."
+      ],
+      "id": "bank-up__3"
+    }
+  ]
+}

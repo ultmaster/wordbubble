@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "at/from a distance",
+  "senses": [
+    {
+      "def": "at/from a [place_1]{place} that is not [close_1]{close}",
+      "examples": [
+        "I\u2019ve only ever [seen]{seen} him from a [distance_1]{distance}.",
+        "Tim followed him at a distance  (=keeping a long way behind him)."
+      ],
+      "id": "at-from-a-distance__1"
+    },
+    {
+      "def": "at/from a much [later_1]{later} [point_1]{point} in time",
+      "examples": [
+        "From a [distance_1]{distance} I [suppose]{suppose} it\u2019ll seem [funny]{funny}."
+      ],
+      "id": "at-from-a-distance__4"
+    }
+  ]
+}

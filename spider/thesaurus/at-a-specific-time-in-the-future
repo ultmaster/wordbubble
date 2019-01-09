@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "on the [day]{day} after [today_1]{today}",
+      "entry": "tomorrow",
+      "id": "tomorrow_1#tomorrow_1__1"
+    },
+    {
+      "comment": "by a [particular_1]{particular} time in the [future_1]{future}",
+      "entry": "no/not later than",
+      "id": "no-not-later-than#no-not-later-than__1"
+    },
+    {
+      "comment": "no [later_1]{later} than a [particular_1]{particular} time",
+      "entry": "at the latest",
+      "id": "at-the-latest#at-the-latest__1"
+    },
+    {
+      "comment": "two [day]{days} from now",
+      "entry": "the day after tomorrow",
+      "id": "the-day-after-tomorrow#the-day-after-tomorrow__1"
+    },
+    {
+      "comment": "before very much time has [pass_1]{passed}, [usually]{usually} less than an [hour]{hour}",
+      "entry": "within the hour",
+      "id": "within-the-hour#within-the-hour__1"
+    },
+    {
+      "comment": "before a [day]{day}/[week]{week}/[month]{month}/[year]{year} etc. has [end_2]{ended}",
+      "entry": "before the day/week/month/year etc. is out",
+      "id": "before-the-day-week-month-year-etc-is-out#before-the-day-week-month-year-etc-is-out__1"
+    },
+    {
+      "comment": "the Spanish [word_1]{word} for \u201c[tomorrow_1]{tomorrow}\u201d",
+      "entry": "ma\u00f1ana",
+      "id": "manana#manana__1"
+    }
+  ],
+  "thesaurus": "At a specific time in the future",
+  "type": "Synonyms"
+}

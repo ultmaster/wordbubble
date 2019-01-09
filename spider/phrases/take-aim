@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "take aim",
+  "senses": [
+    {
+      "def": "to [point_1]{point} a [gun_1]{gun} at something before you [shoot_1]{shoot}",
+      "examples": [
+        "He [quickly]{quickly} [regain]{regained} his [balance_1]{balance}, [took]{took} [aim_1]{aim}, and [fire_2]{fired}."
+      ],
+      "id": "take-aim__1"
+    },
+    {
+      "def": "to [look_1]{look} at something and [decide]{decide} how to [throw_1]{throw}, [swing_1]{swing}, or [kick_1]{kick} in [order_1]{order} to hit it",
+      "examples": [],
+      "id": "take-aim__3"
+    }
+  ]
+}

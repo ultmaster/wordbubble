@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "[cloth]{cloth} that has a [design_1]{design} [create]{created} [use_1]{using} the [batik]{batik} [method]{method}",
+      "entry": "batik",
+      "id": "batik#batik__2"
+    },
+    {
+      "comment": "[expensive]{expensive} thick [cloth]{cloth} with a [pattern_1]{pattern} [woven_1]{woven} into it",
+      "entry": "brocade",
+      "id": "brocade#brocade__1"
+    },
+    {
+      "comment": "a thick heavy cloth with a pattern woven into it, used for making things such as drapes and covers for furniture",
+      "entry": "damask",
+      "id": "damask#damask__1"
+    },
+    {
+      "comment": "thin [white_1]{white} [material_1]{material} with [hole_1]{holes} in that is [used]{used} [especially]{especially} for [making]{making} [curtain]{curtains}",
+      "entry": "gauze",
+      "id": "gauze#gauze__2"
+    },
+    {
+      "comment": "[light_1]{light} [delicate]{delicate} [cloth]{cloth} with [pattern_1]{patterns} of [small_1]{small} [hole_1]{holes} in it",
+      "entry": "lace",
+      "id": "lace_1#lace_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [material_1]{material} [like_1]{like} a [net_1]{net}, made from a [lot_1]{lot} of [closely]{closely} [connected]{connected} [wire_1]{wires}, [string_1]{strings}, etc.",
+      "entry": "mesh",
+      "id": "mesh_1#mesh_1__1"
+    },
+    {
+      "comment": "[material_1]{material} made of [string_1]{string} or [rope_1]{rope} [woven_1]{woven} into a [loose_1]{loose} [pattern_1]{pattern} with [space_1]{spaces} in it, or a [piece_1]{piece} of this",
+      "entry": "net",
+      "id": "net_1#net_1__1"
+    },
+    {
+      "comment": "[material_1]{material} made of [string_1]{string} or [rope_1]{rope} [woven_1]{woven} into a [loose_1]{loose} [pattern_1]{pattern} with [space_1]{spaces} in it",
+      "entry": "netting",
+      "id": "netting#netting__1"
+    },
+    {
+      "comment": "cloth with thin lines woven into it, used especially for business suits",
+      "entry": "pinstripe",
+      "id": "pinstripe#pinstripe__2"
+    },
+    {
+      "comment": "a [type_1]{type} of [cloth]{cloth} that has a [pattern_1]{pattern} of [square_1]{squares}, [especially]{especially} one that is [traditional]{traditional} in Scotland",
+      "entry": "plaid",
+      "id": "plaid#plaid__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [clothing]{clothing} or [cloth]{cloth} with a [pattern_1]{pattern} [print_1]{printed} on it",
+      "entry": "print",
+      "id": "print_2#print_2__17"
+    },
+    {
+      "comment": "[cloth]{cloth} made by [sewing]{sewing} several [layer_1]{layers} together or by [filling_1]{filling} two [layer_1]{layers} with [feather_1]{feathers} or a [similar]{similar} [substance]{substance}",
+      "entry": "quilting",
+      "id": "quilting#quilting__1"
+    },
+    {
+      "comment": "[cloth]{cloth} or [clothes]{clothes} with a [tartan]{tartan} [pattern_1]{pattern}",
+      "entry": "tartan",
+      "id": "tartan#tartan__2"
+    },
+    {
+      "comment": "a very thin [light_1]{light} [cloth]{cloth} [used]{used} for [making]{making} [curtain]{curtains}",
+      "entry": "voile",
+      "id": "voile#voile__1"
+    }
+  ],
+  "thesaurus": "Cloth designed with patterns or holes in it",
+  "type": "Related words"
+}

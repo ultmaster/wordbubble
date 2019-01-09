@@ -1,0 +1,431 @@
+{
+  "entries": [
+    {
+      "comment": "a [movie]{movie}, TV [program_1]{program}, etc. that has been made from a [book_1]{book} or [play_1]{play}",
+      "entry": "adaptation",
+      "id": "adaptation#adaptation__1"
+    },
+    {
+      "comment": "a [story]{story}, [play_1]{play}, or [poem]{poem} in which the [event]{events} and [character]{characters} are [used]{used} as [symbol]{symbols} in [order_1]{order} to [express_1]{express} a [moral_1]{moral}, [religious]{religious}, or [political]{political} [idea]{idea}",
+      "entry": "allegory",
+      "id": "allegory#allegory__1"
+    },
+    {
+      "comment": "a [story]{story} that you [tell_1]{tell} [people_1]{people} about something [interesting]{interesting} or [funny]{funny} that has [happen]{happened} to you",
+      "entry": "anecdote",
+      "id": "anecdote#anecdote__1"
+    },
+    {
+      "comment": "a [play_1]{play}, [movie]{movie}, or [story]{story} that [deal_1]{deals} in a [humorous]{humorous} way with [unpleasant]{unpleasant} [aspect]{aspects} of [life]{life} such as [illness]{illness} and [death]{death}",
+      "entry": "black comedy",
+      "id": "black-comedy#black-comedy__1"
+    },
+    {
+      "comment": "a [typical]{typical} [romantic_1]{romantic} [situation]{situation} or [story]{story} about two [people_1]{people} [fall_1]{falling} in [love_1]{love}",
+      "entry": "boy meets girl",
+      "id": "boy-meets-girl#boy-meets-girl__1"
+    },
+    {
+      "comment": "a [song]{song}, [book_1]{book}, [play_1]{play}, [television]{television} [program_1]{program}, etc. that is very [good_1]{good} and has been [popular]{popular} and had a [lot_1]{lot} of [influence_1]{influence} for a long time",
+      "entry": "classic",
+      "id": "classic_2#classic_2__1"
+    },
+    {
+      "comment": "a [story]{story} that is very [silly_1]{silly} and [difficult]{difficult} to [believe]{believe}",
+      "entry": "cock-and-bull story",
+      "id": "cock-and-bull-story#cock-and-bull-story__1"
+    },
+    {
+      "comment": "a [funny]{funny} [movie]{movie}, [play_1]{play} or [television]{television} [program_1]{program}",
+      "entry": "comedy",
+      "id": "comedy#comedy__3"
+    },
+    {
+      "comment": "a [detective]{detective} [story]{story} or [movie]{movie} is one in which a [detective]{detective} [try_1]{tries} to [solve]{solve} a [crime_1]{crime}",
+      "entry": "detective",
+      "id": "detective#detective__4"
+    },
+    {
+      "comment": "a [play_1]{play} for the [theater]{theater}, [television]{television}, or [radio_1]{radio}",
+      "entry": "drama",
+      "id": "drama#drama__1"
+    },
+    {
+      "comment": "a long [book_1]{book} or [movie]{movie} about [famous_1]{famous} and [exciting]{exciting} [people_1]{people} and [event]{events} from the [past_1]{past}",
+      "entry": "epic",
+      "id": "epic_1#epic_1__2"
+    },
+    {
+      "comment": "a [traditional]{traditional} [story]{story}, [usually]{usually} about [animal_1]{animals}, that [teach]{teaches} a [moral_1]{moral} [lesson]{lesson}",
+      "entry": "fable",
+      "id": "fable#fable__1"
+    },
+    {
+      "comment": "a [story]{story}, [movie]{movie}, or [television]{television} [program_1]{program} that is a [mixture]{mixture} of [real_1]{real} and [imaginary]{imaginary} [event]{events} or [people_1]{people}",
+      "entry": "faction",
+      "id": "faction#faction__5"
+    },
+    {
+      "comment": "a [traditional]{traditional} [children]{children}\u2019s [story]{story} in which [magic_1]{magic} [thing]{things} [happen]{happen}",
+      "entry": "fairy tale",
+      "id": "fairy-tale#fairy-tale__1"
+    },
+    {
+      "comment": "[story]{stories} for a [television]{television} [series]{series} [written_1]{written} by [people_1]{people} who [watch_1]{watch} the [series]{series} [regularly]{regularly}. The [story]{stories} are [publish]{published} on the [internet]{Internet}.",
+      "entry": "fanfic",
+      "id": "fanfic#fanfic__1"
+    },
+    {
+      "comment": "a [story]{story} that [show_1]{shows} a [lot_1]{lot} of [imagination]{imagination} and is very [different]{different} from [real_1]{real} [life]{life}",
+      "entry": "fantasy",
+      "id": "fantasy#fantasy__8"
+    },
+    {
+      "comment": "a [play_1]{play} or [movie]{movie} in which [people_1]{people} get [involved]{involved} in [silly_1]{silly} or [unlikely]{unlikely} [situation]{situations} that are [intended_1]{intended} to [make_1]{make} you [laugh_1]{laugh}",
+      "entry": "farce",
+      "id": "farce#farce__3"
+    },
+    {
+      "comment": "the [style_1]{style} of [writing]{writing} and [acting_1]{acting} [used]{used} for [farce]{farces}",
+      "entry": "farce",
+      "id": "farce#farce__4"
+    },
+    {
+      "comment": "books and stories about imaginary events and people. Books that give facts about real events, things, or people are called non-fiction",
+      "entry": "fiction",
+      "id": "fiction#fiction__1"
+    },
+    {
+      "comment": "a [report_1]{report}, [story]{story}, or [explanation]{explanation} that is not [true_1]{true}",
+      "entry": "fiction",
+      "id": "fiction#fiction__4"
+    },
+    {
+      "comment": "a [style_1]{style} of [literature]{literature} in which [story]{stories} are [extremely]{extremely} [short_1]{short} and often [consist]{consist} of less than 300 [word_1]{words}",
+      "entry": "flash fiction",
+      "id": "flash-fiction#flash-fiction__1"
+    },
+    {
+      "comment": "an [old]{old} [traditional]{traditional} [story]{story}",
+      "entry": "folk tale",
+      "id": "folk-tale#folk-tale__1"
+    },
+    {
+      "comment": "a [book_1]{book}, [movie]{movie}, or [article]{article} that is [base_2]{based} on or [develop]{develops} an [earlier_1]{earlier} one",
+      "entry": "follow-up",
+      "id": "follow-up_2#follow-up_2__7"
+    },
+    {
+      "comment": "a [full-length]{full-length} [book_1]{book}, [movie]{movie}, etc. is the [normal_1]{normal} [length]{length}, not [short_1]{shorter}",
+      "entry": "full-length",
+      "id": "full-length#full-length__5"
+    },
+    {
+      "comment": "a frightening story about ghosts",
+      "entry": "ghost story",
+      "id": "ghost-story#ghost-story__1"
+    },
+    {
+      "comment": "a [movie]{movie}, [play_1]{play}, or show that is very [successful]{successful} and [popular]{popular}",
+      "entry": "hit",
+      "id": "hit_2#hit_2__5"
+    },
+    {
+      "comment": "[book_1]{books} and [movie]{movies} that are [intended_1]{intended} to [frighten]{frighten} [people_1]{people}",
+      "entry": "horror",
+      "id": "horror#horror__9"
+    },
+    {
+      "comment": "a [story]{story} that is [intended_1]{intended} to [frighten]{frighten} [people_1]{people}",
+      "entry": "horror story",
+      "id": "horror-story#horror-story__1"
+    },
+    {
+      "comment": "an [old]{old} [story]{story} about [famous_1]{famous} [people_1]{people} and [event]{events} in the [past_1]{past}. [legend]{Legends} are not [usually]{usually} [true_1]{true}",
+      "entry": "legend",
+      "id": "legend#legend__1"
+    },
+    {
+      "comment": "these [old]{old} [story]{stories} [considered]{considered} as a [group_1]{group}",
+      "entry": "legend",
+      "id": "legend#legend__5"
+    },
+    {
+      "comment": "a [description]{description} of the [thing]{things} that have [happen]{happened} in someone\u2019s [life]{life}",
+      "entry": "life history",
+      "id": "life-history#life-history__2"
+    },
+    {
+      "comment": "a [description]{description} of all the [thing]{things} that have [happen]{happened} to someone during their [life]{life}",
+      "entry": "life story",
+      "id": "life-story#life-story__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [play_1]{play} with [poetry]{poetry}, [music]{music}, [dance_1]{dance}, and [song]{songs} that was [popular]{popular} in the 16th and 17th [century]{centuries}",
+      "entry": "masque",
+      "id": "masque#masque__1"
+    },
+    {
+      "comment": "a [story]{story}, [play_1]{play}, or [movie]{movie} in which the [character]{characters} [behave]{behave} in an [extreme_1]{extreme} [emotional]{emotional} way, with the [bad_1]{bad} [character]{characters} being very [bad_1]{bad}, the [good_1]{good} [character]{characters} being very [good_1]{good}, etc.",
+      "entry": "melodrama",
+      "id": "melodrama#melodrama__1"
+    },
+    {
+      "comment": "a [play_1]{play} [perform]{performed} [use_1]{using} [mime_1]{mime}",
+      "entry": "mime",
+      "id": "mime_2#mime_2__2"
+    },
+    {
+      "comment": "a [play_1]{play} or [movie]{movie} in which there are a [lot_1]{lot} of [song]{songs}",
+      "entry": "musical",
+      "id": "musical_2#musical_2__1"
+    },
+    {
+      "comment": "a [story]{story}, [movie]{movie}, or [play_1]{play} in which [event]{events} take [place_1]{place} that are not [explain]{explained} until the [end_1]{end}, [especially]{especially} a [crime_1]{crime} such as [murder_1]{murder}",
+      "entry": "mystery",
+      "id": "mystery_1#mystery_1__11"
+    },
+    {
+      "comment": "a [play_1]{play} from the [middle_1]{Middle} [age_1]{Ages} about a [story]{story} in the [bible]{Bible}",
+      "entry": "mystery play",
+      "id": "mystery-play#mystery-play__1"
+    },
+    {
+      "comment": "an ancient traditional story about gods, heroes, and magic",
+      "entry": "myth",
+      "id": "myth#myth__1"
+    },
+    {
+      "comment": "[ancient]{ancient} [traditional]{traditional} [story]{stories}",
+      "entry": "myth",
+      "id": "myth#myth__3"
+    },
+    {
+      "comment": "a collection of ancient myths, especially those of a particular country or religion",
+      "entry": "mythology",
+      "id": "mythology#mythology__1"
+    },
+    {
+      "comment": "a [story]{story}, or an [account_1]{account} of something that has [happen]{happened}",
+      "entry": "narrative",
+      "id": "narrative#narrative__1"
+    },
+    {
+      "comment": "a [play_1]{play} [telling]{telling} the [story]{story} of the [birth]{birth} of Jesus Christ, [usually]{usually} [perform]{performed} by [children]{children} at Christmas",
+      "entry": "nativity play",
+      "id": "nativity-play#nativity-play__1"
+    },
+    {
+      "comment": "[writing]{writing} that is about [real_1]{real} [people_1]{people} and [event]{events}, not [imaginary]{imaginary} ones",
+      "entry": "nonfiction",
+      "id": "nonfiction#nonfiction__1"
+    },
+    {
+      "comment": "a long [written_1]{written} [story]{story} about [imaginary]{imaginary} or [partly]{partly} [imaginary]{imaginary} [character]{characters} and [event]{events}",
+      "entry": "novel",
+      "id": "novel_1#novel_1__1"
+    },
+    {
+      "comment": "a [story]{story} or [joke_1]{joke} that has been [repeated]{repeated} so often that everyone is [bored]{bored} with it",
+      "entry": "old chestnut",
+      "id": "old-chestnut#old-chestnut__1"
+    },
+    {
+      "comment": "[story]{stories} about [life]{life} and [event]{events} in the [past_1]{past} that [old]{older} [people_1]{people} [tell_1]{tell} [younger]{younger} [people_1]{people}",
+      "entry": "oral history",
+      "id": "oral-history#oral-history__2"
+    },
+    {
+      "comment": "a [play_1]{play} or [piece_1]{piece} of [acting_1]{acting} [perform]{performed} in this [style_1]{style}",
+      "entry": "pantomime",
+      "id": "pantomime#pantomime__2"
+    },
+    {
+      "comment": "in the U.K., a [play_1]{play} for [children]{children} that [make_1]{makes} them [laugh_1]{laugh}, [base_2]{based} on a [traditional]{traditional} [story]{story} and [usually]{usually} [perform]{performed} at Christmas",
+      "entry": "pantomime",
+      "id": "pantomime#pantomime__3"
+    },
+    {
+      "comment": "a [simple]{simple} [story]{story} with a [moral_1]{moral} or [religious]{religious} [purpose]{purpose}, [especially]{especially} one [told]{told} by Jesus Christ",
+      "entry": "parable",
+      "id": "parable#parable__1"
+    },
+    {
+      "comment": "a [literary]{literary} or [musical_1]{musical} [work_1]{work} that [copy_1]{copies} a serious [work_1]{work} in a [humorous]{humorous} way",
+      "entry": "parody",
+      "id": "parody_1#parody_1__1"
+    },
+    {
+      "comment": "a [play_1]{play} about the [death]{death} of Jesus Christ [accord_2]{according} to the [bible]{Bible}, often [perform]{performed} at Easter",
+      "entry": "Passion play",
+      "id": "passion-play#passion-play__1"
+    },
+    {
+      "comment": "an [old]{old} [spelling]{spelling} of \u201c[fantasy]{fantasy}\u201d",
+      "entry": "phantasy",
+      "id": "phantasy#phantasy__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [writing]{writing} [intended_1]{intended} to be [perform]{performed} by [actor]{actors} in a [theater]{theater} or on [television]{television} or the [radio_1]{radio}",
+      "entry": "play",
+      "id": "play_2#play_2__4"
+    },
+    {
+      "comment": "a [book_1]{book} or [movie]{movie} about [event]{events} that [happen]{happened} before the [event]{events} in another [book_1]{book} or [movie]{movie} that was [written_1]{written} or made [earlier_1]{earlier}",
+      "entry": "prequel",
+      "id": "prequel#prequel__1"
+    },
+    {
+      "comment": "[story]{stories} or [thought_1]{thoughts} of [past_1]{past} [experience_1]{experiences}",
+      "entry": "reminiscence",
+      "id": "reminiscence#reminiscence__1"
+    },
+    {
+      "comment": "a [funny]{funny} [movie]{movie}, [play_1]{play}, or [television]{television} [program_1]{program} about a [love_1]{love} [story]{story} that [end_1]{ends} [happily]{happily}",
+      "entry": "romantic comedy",
+      "id": "romantic-comedy#romantic-comedy__1"
+    },
+    {
+      "comment": "[romantic_1]{romantic} [comedy]{comedy}: a [movie]{movie} or TV show that [deal_1]{deals} with [love_1]{love} in a light-hearted way",
+      "entry": "romcom",
+      "id": "romcom#romcom__1"
+    },
+    {
+      "comment": "a [movie]{movie}, [play_1]{play}, or [book_1]{book} that is [lively]{lively} and [enjoyable]{enjoyable}, and not [intended_1]{intended} to be serious",
+      "entry": "romp",
+      "id": "romp_2#romp_2__4"
+    },
+    {
+      "comment": "a [story]{story} about what [happen]{happens} to a [group_1]{group} of [character]{characters} over a long [period_1]{period} of time",
+      "entry": "saga",
+      "id": "saga#saga__1"
+    },
+    {
+      "comment": "a long [story]{story} [written_1]{written} in Norway or Iceland during the [middle_1]{Middle} [age_1]{Ages}",
+      "entry": "saga",
+      "id": "saga#saga__5"
+    },
+    {
+      "comment": "a [play_1]{play}, [book_1]{book}, [movie]{movie}, etc. that [use_1]{uses} this [humor_1]{humor}",
+      "entry": "satire",
+      "id": "satire#satire__3"
+    },
+    {
+      "comment": "a [story]{story} someone [write]{writes} for a [movie]{movie}",
+      "entry": "screenplay",
+      "id": "screenplay#screenplay__1"
+    },
+    {
+      "comment": "a [book_1]{book}, [movie]{movie}, [play_1]{play}, etc. that [continue]{continues} the [story]{story} of an [earlier_1]{earlier} one",
+      "entry": "sequel",
+      "id": "sequel#sequel__1"
+    },
+    {
+      "comment": "a [story]{story} that is [broadcast_1]{broadcast} or [publish]{published} in a [series]{series} of [separate_1]{separate} [part_1]{parts}",
+      "entry": "serial",
+      "id": "serial_1#serial_1__1"
+    },
+    {
+      "comment": "a [book_1]{book}, [movie]{movie}, or [play_1]{play} about something [shocking]{shocking}",
+      "entry": "shocker",
+      "id": "shocker#shocker__3"
+    },
+    {
+      "comment": "a short piece of fiction  (=writing about an imaginary situation)",
+      "entry": "short story",
+      "id": "short-story#short-story__1"
+    },
+    {
+      "comment": "an [account_1]{account} of something that [happen]{happened}. [story]{Stories} can be [imaginary]{imaginary}, [traditional]{traditional}, or [true_1]{true}",
+      "entry": "story",
+      "id": "story#story__1"
+    },
+    {
+      "comment": "an [account_1]{account} of something, for [example]{example} someone\u2019s [life]{life}",
+      "entry": "story",
+      "id": "story#story__11"
+    },
+    {
+      "comment": "the [event]{events} in a [book_1]{book}, [movie]{movie}, etc.",
+      "entry": "story",
+      "id": "story#story__17"
+    },
+    {
+      "comment": "a [story]{story} in a [novel_1]{novel}, [movie]{movie}, or [play_1]{play} that is [separate_1]{separate} from the [main_1]{main} [story]{story}, and less [important]{important}",
+      "entry": "subplot",
+      "id": "subplot#subplot__1"
+    },
+    {
+      "comment": "a form of [silent]{silent} [theater]{theater} in which a [group_1]{group} of [actor]{actors} [stand_1]{stand} or [sit]{sit} in [certain_1]{certain} [position_1]{positions} to [create]{create} a [picture_1]{picture} of a [historical]{historical} [scene]{scene}",
+      "entry": "tableau",
+      "id": "tableau#tableau__4"
+    },
+    {
+      "comment": "a [story]{story} about [imaginary]{imaginary} [event]{events} or [people_1]{people}",
+      "entry": "tale",
+      "id": "tale#tale__1"
+    },
+    {
+      "comment": "something that someone tells you that sounds so exciting, dangerous, unpleasant, etc. that you do not believe it is true. The British word is tall story.",
+      "entry": "tall tale",
+      "id": "tall-tale#tall-tale__1"
+    },
+    {
+      "comment": "a [sad_1]{sad} [movie]{movie} or [story]{story} that [make_1]{makes} you cry",
+      "entry": "tearjerker",
+      "id": "tearjerker#tearjerker__1"
+    },
+    {
+      "comment": "a [book_1]{book}, [play_1]{play}, or [movie]{movie} that [tell_1]{tells} an [exciting]{exciting} [story]{story}, [especially]{especially} about something [dangerous]{dangerous} [like_1]{like} a [crime_1]{crime}",
+      "entry": "thriller",
+      "id": "thriller#thriller__1"
+    },
+    {
+      "comment": "a [play_1]{play} in which [people_1]{people} [suffer]{suffer} or [die_1]{die}, [especially]{especially} one in which the [main_1]{main} [character]{character} [die_1]{dies} at the [end_1]{end}",
+      "entry": "tragedy",
+      "id": "tragedy#tragedy__6"
+    },
+    {
+      "comment": "[play_1]{plays} of this [type_1]{type}",
+      "entry": "tragedy",
+      "id": "tragedy#tragedy__8"
+    },
+    {
+      "comment": "a [play_1]{play}, [story]{story}, or [situation]{situation} that is both [sad_1]{sad} and [humorous]{humorous}",
+      "entry": "tragicomedy",
+      "id": "tragicomedy#tragicomedy__1"
+    },
+    {
+      "comment": "a [series]{series} of three [book_1]{books}, [movie]{movies}, or [play_1]{plays}",
+      "entry": "trilogy",
+      "id": "trilogy#trilogy__1"
+    },
+    {
+      "comment": "a [movie]{movie} or [play_1]{play} that is very [unsuccessful]{unsuccessful}",
+      "entry": "turkey",
+      "id": "turkey_1#turkey_1__5"
+    },
+    {
+      "comment": "a [play_1]{play} [written_1]{written} for two [actor]{actors}",
+      "entry": "two-hander",
+      "id": "two-hander#two-hander__1"
+    },
+    {
+      "comment": "an [imaginary]{imaginary} [story]{story} about [modern]{modern} [life]{life} that many [people_1]{people} [believe]{believe} [really]{really} [happen]{happened}",
+      "entry": "urban myth",
+      "id": "urban-myth#urban-myth__1"
+    },
+    {
+      "comment": "a [tearjerker]{tearjerker}",
+      "entry": "weepie",
+      "id": "weepie#weepie__1"
+    },
+    {
+      "comment": "a long [story]{story} with a [lot_1]{lot} of [exciting]{exciting} [detail_1]{details}",
+      "entry": "yarn",
+      "id": "yarn#yarn__3"
+    }
+  ],
+  "thesaurus": "Types of story or play",
+  "type": "Related words"
+}

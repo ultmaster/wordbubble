@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "to [cut_1]{cut} something such as [food]{food} or [wood]{wood} into [piece_1]{pieces}",
+      "entry": "chop",
+      "id": "chop_1#chop_1__1"
+    },
+    {
+      "comment": "an [act_1]{act} of [hit_1]{hitting} something with a [tool_1]{tool}",
+      "entry": "chop",
+      "id": "chop_2#chop_2__5"
+    },
+    {
+      "comment": "to [cut_1]{cut} off [small_1]{small} [part_1]{parts} of something in [order_1]{order} to [make_1]{make} it [neat]{neat}",
+      "entry": "clip",
+      "id": "clip_1#clip_1__9"
+    },
+    {
+      "comment": "to use a [knife_1]{knife}, [pair_1]{pair} of [scissors]{scissors}, or other [sharp_1]{sharp} [tool_1]{tool} to [divide_1]{divide} something into two or more [piece_1]{pieces}",
+      "entry": "cut",
+      "id": "cut_1#cut_1__1"
+    },
+    {
+      "comment": "to be [capable]{capable} of [cutting_1]{cutting} in a [particular_1]{particular} way",
+      "entry": "cut",
+      "id": "cut_1#cut_1__15"
+    },
+    {
+      "comment": "to be [able_1]{able} to [cut_1]{cut} a [particular_1]{particular} [substance]{substance}",
+      "entry": "cut",
+      "id": "cut_1#cut_1__17"
+    },
+    {
+      "comment": "the [act_1]{act} or [process_1]{process} of [cutting_1]{cutting} something",
+      "entry": "cut",
+      "id": "cut_2#cut_2__18"
+    },
+    {
+      "comment": "to [make_1]{make} something by [cutting_1]{cutting} it from a [large_1]{larger} [piece_1]{piece}",
+      "entry": "cut out",
+      "id": "cut-out#cut-out__3"
+    },
+    {
+      "comment": "to [cut_1]{cut} something into several [piece_1]{pieces}",
+      "entry": "cut up",
+      "id": "cut-up_1#cut-up_1__3"
+    },
+    {
+      "comment": "to [make_1]{make} [mark_1]{marks} on a [hard_1]{hard} [surface_1]{surface} by [cutting_1]{cutting} into it",
+      "entry": "etch",
+      "id": "etch#etch__1"
+    },
+    {
+      "comment": "into very [small_1]{small} [piece_1]{pieces}",
+      "entry": "finely",
+      "id": "finely#finely__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} something in a rough way, with a [lot_1]{lot} of [energy]{energy}, or many times",
+      "entry": "hack",
+      "id": "hack_1#hack_1__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} something into [piece_1]{pieces} [use_1]{using} a [knife_1]{knife} or other [sharp_1]{sharp} [tool_1]{tool} in a rough or [violent]{violent} way",
+      "entry": "hack up",
+      "id": "hack-up#hack-up__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} [word_1]{words} or a [design_1]{design} into something",
+      "entry": "incise",
+      "id": "incise#incise__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} the [surface_1]{surface} of something [slightly]{slightly}",
+      "entry": "nick",
+      "id": "nick_2#nick_2__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [notch_1]{notch} in something",
+      "entry": "notch",
+      "id": "notch_2#notch_2__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} something into four [equal_1]{equal} [part_1]{parts}",
+      "entry": "quarter",
+      "id": "quarter_2#quarter_2__1"
+    },
+    {
+      "comment": "to [mark_1]{mark} a [line_1]{line} into the [surface_1]{surface} of something",
+      "entry": "score",
+      "id": "score_1#score_1__18"
+    },
+    {
+      "comment": "to [remove]{remove} a part of something by [cutting_1]{cutting} or [b-boying]{breaking} it, or to be [removed]{removed} in this way",
+      "entry": "shear",
+      "id": "shear#shear__2"
+    },
+    {
+      "comment": "to [cut_1]{cut} someone or something in a [violent]{violent} way",
+      "entry": "slash",
+      "id": "slash_1#slash_1__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} something into [flat_1]{flat} [piece_1]{pieces}",
+      "entry": "slice",
+      "id": "slice_2#slice_2__1"
+    },
+    {
+      "comment": "to be [cut_1]{cut} into [flat_1]{flat} [piece_1]{pieces}",
+      "entry": "slice",
+      "id": "slice_2#slice_2__4"
+    },
+    {
+      "comment": "to [cut_1]{cut} something [easily]{easily}",
+      "entry": "slice",
+      "id": "slice_2#slice_2__6"
+    },
+    {
+      "comment": "to [make_1]{make} a long thin [cut_1]{cut} in something",
+      "entry": "slit",
+      "id": "slit_2#slit_2__1"
+    },
+    {
+      "comment": "to [cut_1]{cut} something in a [short_1]{short} [quick_1]{quick} [movement]{movement} [use_1]{using} [scissors]{scissors}",
+      "entry": "snip",
+      "id": "snip_1#snip_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [quick_1]{quick} [cut_1]{cut} made with [scissors]{scissors}",
+      "entry": "snip",
+      "id": "snip_2#snip_2__1"
+    }
+  ],
+  "thesaurus": "Cutting, cuts and relating to cutting",
+  "type": "Related words"
+}

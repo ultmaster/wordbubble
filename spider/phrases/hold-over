@@ -1,0 +1,33 @@
+{
+  "part": "phrase",
+  "phrase": "hold over",
+  "senses": [
+    {
+      "def": "to [threaten]{threaten} to [tell_1]{tell} something that you [know_1]{know} about someone in [order_1]{order} to [force_1]{force} them to do something",
+      "examples": [],
+      "id": "hold-over__1"
+    },
+    {
+      "def": "to [hold_1]{hold} something above someone or something",
+      "examples": [
+        "She [ran]{ran} out with an [umbrella_1]{umbrella} and [held]{held} it over my [head_1]{head}."
+      ],
+      "id": "hold-over__2"
+    },
+    {
+      "def": "to [let_1]{let} a [play_1]{play} or [movie]{movie} [continue]{continue} for [long_1]{longer} than was [plan_2]{planned} because it is so [successful]{successful}",
+      "examples": [
+        "The [movie]{movie} was [held]{held} over for another [week]{week}."
+      ],
+      "id": "hold-over__4"
+    },
+    {
+      "def": "to do something or [deal_1]{deal} with something at a [later_1]{later} time or [date_1]{date}",
+      "examples": [
+        "One [session_1]{session} was [held]{held} over until this [evening_1]{evening}.",
+        "They [intend]{intend} to [hold_1]{hold} the [article]{article} over for the next [edition]{edition}."
+      ],
+      "id": "hold-over__6"
+    }
+  ]
+}

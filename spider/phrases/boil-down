@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "boil down",
+  "senses": [
+    {
+      "def": "to become [small_1]{smaller} in [quantity]{quantity} after [cooking_1]{cooking} because some of the [liquid_1]{liquid} has [turn_1]{turned} to [gas_1]{gas}, or to [make_1]{make} something do this",
+      "examples": [
+        "[boil_1]{Boil} the [meat]{meat} [juice_1]{juices} down to [make_1]{make} a thick [sauce]{sauce}."
+      ],
+      "id": "boil-down__1"
+    },
+    {
+      "def": "to [make_1]{make} something such as a [piece_1]{piece} of [writing]{writing} [short_1]{shorter} by [give_1]{giving} only the [basic_1]{basic}, most [important]{important} [fact]{facts}",
+      "examples": [
+        "Whole [page_1]{pages} of [information]{information} get [boil_1]{boiled} down to one [paragraph_1]{paragraph} in the [paper_1]{paper}."
+      ],
+      "id": "boil-down__3"
+    }
+  ]
+}

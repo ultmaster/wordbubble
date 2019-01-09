@@ -1,0 +1,26 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "a singular [noun_1]{noun}, or the singular form of a [noun_1]{noun}, is a [word_1]{word} that [refer]{refers} to one [person]{person} or thing",
+      "examples": [],
+      "id": "singular__1"
+    },
+    {
+      "def": "very [good_1]{good}",
+      "examples": [
+        "a singular [success]{success}"
+      ],
+      "id": "singular__3"
+    },
+    {
+      "def": "[noticeable]{noticeable} because of being [strange_1]{strange} or [unusual]{unusual}",
+      "examples": [
+        "a [dancer]{dancer} of singular [grace_1]{grace}"
+      ],
+      "id": "singular__5"
+    }
+  ],
+  "word": "singular"
+}

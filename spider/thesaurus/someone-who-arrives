@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "someone who has [arrive]{arrived} or [join_1]{joined} a [group_1]{group}",
+      "entry": "arrival",
+      "id": "arrival#arrival__12"
+    },
+    {
+      "comment": "someone who [arrive]{arrives} somewhere or [take_1]{takes} part in something",
+      "entry": "comer",
+      "id": "comer#comer__2"
+    },
+    {
+      "comment": "someone who has [recently]{recently} [start_1]{started} to [live_1]{live} or [work_1]{work} somewhere, or who has [just_1]{just} [arrive]{arrived} in a [place_1]{place}",
+      "entry": "newcomer",
+      "id": "newcomer#newcomer__1"
+    },
+    {
+      "comment": "someone who [arrive]{arrives} [late_1]{late} somewhere",
+      "entry": "latecomer",
+      "id": "latecomer#latecomer__1"
+    },
+    {
+      "comment": "someone who [does]{does} not [know_1]{know} a [place_1]{place} well",
+      "entry": "stranger",
+      "id": "stranger#stranger__4"
+    },
+    {
+      "comment": "someone who has [recently]{recently} [arrive]{arrived}, become a [member]{member} of a [group_1]{group}, etc.",
+      "entry": "latecomer",
+      "id": "latecomer#latecomer__2"
+    }
+  ],
+  "thesaurus": "Someone who arrives",
+  "type": "Synonyms"
+}

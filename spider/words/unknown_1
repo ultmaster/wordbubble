@@ -1,0 +1,22 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "if something is unknown, [people_1]{people} do not [know_1]{know} about it or do not [know_1]{know} what it is",
+      "examples": [
+        "Several hundred [people_1]{people} were [affected]{affected} by the [previously]{previously} unknown [virus]{virus}.",
+        "Most of her [friend_1]{friends} are unknown to me.",
+        "For some unknown [reason_1]{reason}, the [plane_1]{plane} [landed]{landed} at the [wrong_1]{wrong} [airport]{airport}."
+      ],
+      "id": "unknown_1__1"
+    },
+    {
+      "def": "not [famous_1]{famous}",
+      "examples": [
+        "an unknown [poet]{poet}"
+      ],
+      "id": "unknown_1__5"
+    }
+  ],
+  "word": "unknown"
+}

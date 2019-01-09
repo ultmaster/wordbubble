@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "all the [fact]{facts} that someone [know_1]{knows} about a [particular_1]{particular} [subject_1]{subject}",
+      "entry": "knowledge",
+      "id": "knowledge#knowledge__1"
+    },
+    {
+      "comment": "[knowledge]{knowledge} about a [particular_1]{particular} [subject_1]{subject}, [process_1]{process}, or [situation]{situation}",
+      "entry": "understanding",
+      "id": "understanding_1#understanding_1__1"
+    },
+    {
+      "comment": "[knowledge]{knowledge} or [fact]{facts} about someone or something",
+      "entry": "information",
+      "id": "information#information__1"
+    },
+    {
+      "comment": "[knowledge]{knowledge} and [skill]{skill} that is [gain_1]{gained} through time [spent_1]{spent} [doing]{doing} a [job_1]{job} or [activity]{activity}",
+      "entry": "experience",
+      "id": "experience_1#experience_1__1"
+    },
+    {
+      "comment": "[special_1]{special} [skill]{skill} or [knowledge]{knowledge} that you get from [experience_1]{experience}, [training]{training}, or [study_1]{study}",
+      "entry": "expertise",
+      "id": "expertise#expertise__1"
+    },
+    {
+      "comment": "[knowledge]{knowledge} or [understanding_1]{understanding} of a [subject_1]{subject}, [issue_1]{issue}, or [situation]{situation}",
+      "entry": "awareness",
+      "id": "awareness#awareness__1"
+    },
+    {
+      "comment": "a [natural_1]{natural} [understanding_1]{understanding} of something, and a [natural_1]{natural} [reaction]{reaction} to it",
+      "entry": "sensitivity",
+      "id": "sensitivity#sensitivity__9"
+    },
+    {
+      "comment": "the [knowledge]{knowledge} or [understanding_1]{understanding} that something [exist]{exists} or is [important]{important}",
+      "entry": "consciousness",
+      "id": "consciousness#consciousness__5"
+    },
+    {
+      "comment": "[knowledge]{knowledge} of something because you have [learned]{learned} about it or [experienced]{experienced} it before",
+      "entry": "familiarity",
+      "id": "familiarity#familiarity__1"
+    },
+    {
+      "comment": "[traditional]{traditional} [knowledge]{knowledge} about [nature]{nature} and their [culture_1]{culture} that [people_1]{people} get from their [parent]{parents} and other [old]{older} [people_1]{people}, not from [book_1]{books}",
+      "entry": "lore",
+      "id": "lore#lore__1"
+    },
+    {
+      "comment": "[emotional]{emotional} [intelligence]{intelligence}: the [ability_1]{ability} to [understand]{understand} your own [feeling_1]{feelings} and those of other [people_1]{people}, and to [consider]{consider} other [people_1]{people}\u2019s [feeling_1]{feelings} when [making]{making} [decision_1]{decisions}",
+      "entry": "EI",
+      "id": "ei#ei__1"
+    }
+  ],
+  "thesaurus": "Knowledge and understanding",
+  "type": "Synonyms"
+}

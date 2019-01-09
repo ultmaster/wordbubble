@@ -1,0 +1,37 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "being [destroy]{destroyed} by fire",
+      "examples": [
+        "burning [building]{buildings}",
+        "a burning [car]{car}"
+      ],
+      "id": "burning__1"
+    },
+    {
+      "def": "very [hot]{hot}",
+      "examples": [
+        "the burning [sun_1]{sun} of the [desert_1]{desert}",
+        "I [felt_1]{felt} his burning [forehead]{forehead}."
+      ],
+      "id": "burning__4"
+    },
+    {
+      "def": "[painful]{painful}, and [feeling_1]{feeling} as if a part of your body is [touching_1]{touching} something [hot]{hot}",
+      "examples": [
+        "She [felt_1]{felt} a burning [sensation]{sensation} in her [mouth_1]{mouth}."
+      ],
+      "id": "burning__7"
+    },
+    {
+      "def": "[felt_1]{felt} [extremely]{extremely} [strongly]{strongly}",
+      "examples": [
+        "My burning [ambition]{ambition} is to be [world]{world} [champion_1]{champion}."
+      ],
+      "id": "burning__9"
+    }
+  ],
+  "word": "burning"
+}

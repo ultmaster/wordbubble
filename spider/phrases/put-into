@@ -1,0 +1,40 @@
+{
+  "part": "phrase",
+  "phrase": "put into",
+  "senses": [
+    {
+      "def": "to [spend]{spend} a [particular_1]{particular} amount of time [doing]{doing} something, or to [make_1]{make} a [particular_1]{particular} amount of [effort]{effort} in [order_1]{order} to do something",
+      "examples": [
+        "I put a [lot_1]{lot} of [work_1]{work} into the [speech]{speech}."
+      ],
+      "id": "put-into__1"
+    },
+    {
+      "def": "to [improve_1]{improve} something by [add_1]{adding} a [particular_1]{particular} [quality_1]{quality} to it",
+      "examples": [
+        "I [want_1]{want} to put some [excitement]{excitement} back into my [life]{life}.",
+        "[try_1]{Try} and put some [enthusiasm]{enthusiasm} into your [work_1]{work}."
+      ],
+      "id": "put-into__3"
+    },
+    {
+      "def": "to [invest]{invest} [money]{money} in something",
+      "examples": [
+        "How much are you [prepared]{prepared} to put into the [business]{business}?"
+      ],
+      "id": "put-into__6"
+    },
+    {
+      "def": "to [choose]{choose} someone for a [job_1]{job} or [position_1]{position}, [especially]{especially} an [important]{important} one",
+      "examples": [
+        "[john]{John} had been put into a [job_1]{job} that in [fact]{fact} he was [born]{born} to do."
+      ],
+      "id": "put-into__8"
+    },
+    {
+      "def": "if a [ship_1]{ship} [put]{puts} into a [port]{port}, it [stop_1]{stops} there",
+      "examples": [],
+      "id": "put-into__10"
+    }
+  ]
+}

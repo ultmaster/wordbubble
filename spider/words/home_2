@@ -1,0 +1,26 @@
+{
+  "part": "adverb",
+  "senses": [
+    {
+      "def": "to the [place_1]{place} where you [live_1]{live}",
+      "examples": [
+        "How was the [journey_1]{journey} home?",
+        "I was [sick_1]{sick} on the [plane_1]{plane} home.",
+        "What time are you coming home?",
+        "I went home to France.",
+        "On the way home from [school_1]{school}, I met my [friend_1]{friend} [sue]{Sue}.",
+        "I [decided]{decided} to [walk_1]{walk} home."
+      ],
+      "id": "home_2__1"
+    },
+    {
+      "def": "at the [place_1]{place} where you [live_1]{live}",
+      "examples": [
+        "Is Kathryn home?",
+        "I\u2019ll be home all [day]{day} Tuesday."
+      ],
+      "id": "home_2__8"
+    }
+  ],
+  "word": "home"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "the [set_1]{set} of [condition_1]{conditions} that [exist]{exist} at a [particular_1]{particular} time in a [particular_1]{particular} [place_1]{place}",
+      "entry": "situation",
+      "id": "situation#situation__1"
+    },
+    {
+      "comment": "a [fact]{fact} or [condition_1]{condition} that [affect_1]{affects} a [situation]{situation}",
+      "entry": "circumstance",
+      "id": "circumstance#circumstance__1"
+    },
+    {
+      "comment": "the [situation]{situation} or [environment]{environment} in which something [happen]{happens} or [exist]{exists}",
+      "entry": "conditions",
+      "id": "condition_1#condition_1__9"
+    },
+    {
+      "comment": "the [general_1]{general} [situation]{situation} in which something [happen]{happens}",
+      "entry": "background",
+      "id": "background#background__8"
+    },
+    {
+      "comment": "a [general_1]{general} [situation]{situation}",
+      "entry": "position",
+      "id": "position_1#position_1__16"
+    },
+    {
+      "comment": "the [general_1]{general} [situation]{situation} or [attitude]{attitudes} that [people_1]{people} have at a [particular_1]{particular} time",
+      "entry": "climate",
+      "id": "climate#climate__5"
+    },
+    {
+      "comment": "the [situation]{situation} that a [person]{person}, [place_1]{place}, or [process_1]{process} is in at a [particular_1]{particular} time",
+      "entry": "state of affairs",
+      "id": "state-of-affairs#state-of-affairs__1"
+    },
+    {
+      "comment": "the [general_1]{general} [situation]{situation} in which something [happen]{happens}, which [help_1]{helps} to [explain]{explain} it",
+      "entry": "context",
+      "id": "context#context__1"
+    },
+    {
+      "comment": "the [condition_1]{conditions} and [influence_1]{influences} in which [people_1]{people} [carry_1]{carry} on a [particular_1]{particular} [activity]{activity}",
+      "entry": "environment",
+      "id": "environment#environment__5"
+    },
+    {
+      "comment": "something that [happen]{happens}, [especially]{especially} something that [involve]{involves} several [people_1]{people}",
+      "entry": "events",
+      "id": "event#event__1"
+    }
+  ],
+  "thesaurus": "General words for situations and circumstances",
+  "type": "Synonyms"
+}

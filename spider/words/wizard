@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a man in [story]{stories} who has [magic_1]{magic} [power_1]{powers}",
+      "examples": [],
+      "id": "wizard__1"
+    },
+    {
+      "def": "someone who is very [good_1]{good} at something",
+      "examples": [
+        "He\u2019s a [financial]{financial} wizard.",
+        "a computer/[electronics]{electronics}/[chess]{chess} wizard",
+        "Matthew\u2019s a wizard at [gardening]{gardening}."
+      ],
+      "id": "wizard__2"
+    }
+  ],
+  "word": "wizard"
+}

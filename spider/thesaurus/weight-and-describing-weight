@@ -1,0 +1,141 @@
+{
+  "entries": [
+    {
+      "comment": "a [weight_1]{weight} that [balance_1]{balances} another [weight_1]{weight}",
+      "entry": "counterpoise",
+      "id": "counterpoise_1#counterpoise_1__3"
+    },
+    {
+      "comment": "to [balance_1]{balance} one [weight_1]{weight} against another [weight_1]{weight}",
+      "entry": "counterpoise",
+      "id": "counterpoise_2#counterpoise_2__3"
+    },
+    {
+      "comment": "a [weight_1]{weight} that is [equal_1]{equal} to another [weight_1]{weight} and [create]{creates} a [balance_1]{balance}",
+      "entry": "counterweight",
+      "id": "counterweight#counterweight__1"
+    },
+    {
+      "comment": "someone who cannot be [lift_1]{lifted} [easily]{easily} because they are [sleep_1]{sleeping}, [unconscious_1]{unconscious}, or [dead_1]{dead}",
+      "entry": "dead weight",
+      "id": "dead-weight#dead-weight__2"
+    },
+    {
+      "comment": "a [dense]{dense} [substance]{substance} is very [heavy_1]{heavy} in [relation]{relation} to its [size_1]{size}",
+      "entry": "dense",
+      "id": "dense#dense__9"
+    },
+    {
+      "comment": "the [degree]{degree} to which something is [heavy_1]{heavy} or thick",
+      "entry": "density",
+      "id": "density#density__4"
+    },
+    {
+      "comment": "a [heavy_1]{heavy} [object_1]{object} [weigh]{weighs} a [lot_1]{lot}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__1"
+    },
+    {
+      "comment": "[used]{used} when [talk_1]{talking} about how much someone or something [weigh]{weighs}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__10"
+    },
+    {
+      "comment": "the [weight_1]{weight} of something or someone",
+      "entry": "heft",
+      "id": "heft_1#heft_1__1"
+    },
+    {
+      "comment": "not [weigh]{weighing} much, or [weigh]{weighing} less than you [expect]{expect}",
+      "entry": "light",
+      "id": "light_2#light_2__8"
+    },
+    {
+      "comment": "less than the [correct_1]{correct} [weight_1]{weight}",
+      "entry": "light",
+      "id": "light_2#light_2__11"
+    },
+    {
+      "comment": "[weigh]{weighing} less than other [thing]{things} of the same [type_1]{type}",
+      "entry": "lightweight",
+      "id": "lightweight_1#lightweight_1__1"
+    },
+    {
+      "comment": "the amount of [weight_1]{weight} or [pressure_1]{pressure} that something has to [bear_1]{bear}",
+      "entry": "load",
+      "id": "load_1#load_1__5"
+    },
+    {
+      "comment": "the [net_1]{net} [weight_1]{weight} of something is its [weight_1]{weight} without its [container]{container}",
+      "entry": "net",
+      "id": "net_2#net_2__7"
+    },
+    {
+      "comment": "a British [spelling]{spelling} of [net_1]{net}",
+      "entry": "nett",
+      "id": "nett#nett__1"
+    },
+    {
+      "comment": "[used]{used} about something that [weigh]{weighs} more than it should",
+      "entry": "overweight",
+      "id": "overweight#overweight__3"
+    },
+    {
+      "comment": "[moving]{moving} [slowly]{slowly} because of being [big_1]{big} and [heavy_1]{heavy}",
+      "entry": "ponderous",
+      "id": "ponderous#ponderous__1"
+    },
+    {
+      "comment": "[weight_1]{weight} in [pound_1]{pounds}",
+      "entry": "poundage",
+      "id": "poundage#poundage__1"
+    },
+    {
+      "comment": "[used]{used} with a [number_1]{number} to show the [weight_1]{weight} of something in [pound_1]{pounds}",
+      "entry": "-pounder",
+      "id": "pounder#pounder__1"
+    },
+    {
+      "comment": "to [weigh]{weigh} a [particular_1]{particular} amount",
+      "entry": "tip the scales at 175/190/225 etc. pounds",
+      "id": "tip-the-scales-at-175-190-225-etc-pounds#tip-the-scales-at-175-190-225-etc-pounds__1"
+    },
+    {
+      "comment": "the weight of something, measured in tons",
+      "entry": "tonnage",
+      "id": "tonnage#tonnage__2"
+    },
+    {
+      "comment": "something that is [top-heavy]{top-heavy} [lack_2]{lacks} [balance_1]{balance} because it is [heavy_1]{heavier} at the top than at the bottom",
+      "entry": "top-heavy",
+      "id": "top-heavy#top-heavy__1"
+    },
+    {
+      "comment": "a [measurement]{measurement} of how [heavy_1]{heavy} a [person]{person} or thing is",
+      "entry": "weight",
+      "id": "weight_1#weight_1__1"
+    },
+    {
+      "comment": "the [condition_1]{condition} or [effect_1]{effect} of being [heavy_1]{heavy}",
+      "entry": "weight",
+      "id": "weight_1#weight_1__5"
+    },
+    {
+      "comment": "[have]{having} no [weight_1]{weight}, [especially]{especially} because of being [outside]{outside} the [earth]{Earth}\u2019s [atmosphere]{atmosphere}",
+      "entry": "weightless",
+      "id": "weightless#weightless__1"
+    },
+    {
+      "comment": "[heavy_1]{heavy}",
+      "entry": "weighty",
+      "id": "weighty#weighty__3"
+    },
+    {
+      "comment": "[weight_1]{weight}",
+      "entry": "wt.",
+      "id": "wt#wt__1"
+    }
+  ],
+  "thesaurus": "Weight and describing weight",
+  "type": "Related words"
+}

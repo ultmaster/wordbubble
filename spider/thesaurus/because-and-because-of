@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[used]{used} for [showing]{showing} the [reason_1]{reason} something [happen]{happens} or the [reason_1]{reason} why it is [describe]{described} in a [particular_1]{particular} way",
+      "entry": "because",
+      "id": "because#because__1"
+    },
+    {
+      "comment": "because of something",
+      "entry": "due to",
+      "id": "due-to#due-to__1"
+    },
+    {
+      "comment": "because of a [particular_1]{particular} [fact]{fact} that has been [considered]{considered}",
+      "entry": "whereas",
+      "id": "whereas#whereas__4"
+    },
+    {
+      "comment": "because of something",
+      "entry": "owing to",
+      "id": "owing-to#owing-to__1"
+    },
+    {
+      "comment": "because of a [particular_1]{particular} [fact]{fact}",
+      "entry": "given",
+      "id": "given_2#given_2__1"
+    },
+    {
+      "comment": "because of something",
+      "entry": "in view of something",
+      "id": "in-view-of-something#in-view-of-something__1"
+    },
+    {
+      "comment": "because of someone or something",
+      "entry": "on account of",
+      "id": "on-account-of#on-account-of__1"
+    },
+    {
+      "comment": "because",
+      "entry": "for",
+      "id": "for#for__52"
+    },
+    {
+      "comment": "because of a [particular_1]{particular} [fact]{fact}",
+      "entry": "in light of something",
+      "id": "in-light-of-something#in-light-of-something__1"
+    },
+    {
+      "comment": "because of, or as a [result_1]{result} of",
+      "entry": "by virtue of something",
+      "id": "by-virtue-of-something#by-virtue-of-something__1"
+    }
+  ],
+  "thesaurus": "Because and because of",
+  "type": "Synonyms"
+}

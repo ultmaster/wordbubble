@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "an [area]{area}, or a [position_1]{position}",
+      "entry": "place",
+      "id": "place_1#place_1__1"
+    },
+    {
+      "comment": "the [place_1]{place} or [position_1]{position} where someone or something is or where something [happen]{happens}",
+      "entry": "location",
+      "id": "location#location__1"
+    },
+    {
+      "comment": "the [place_1]{place} where someone or something is, and all the [thing]{things}, [people_1]{people}, or [emotion]{emotions} that are part of that [place_1]{place}",
+      "entry": "setting",
+      "id": "setting#setting__1"
+    },
+    {
+      "comment": "a [place_1]{place} from which an [activity]{activity} can be [plan_2]{planned}, [start_1]{started}, or [carry_1]{carried} out",
+      "entry": "base",
+      "id": "base_1#base_1__8"
+    },
+    {
+      "comment": "a [place_1]{place} [used]{used} for a [particular_1]{particular} [purpose]{purpose}",
+      "entry": "site",
+      "id": "site_1#site_1__10"
+    },
+    {
+      "comment": "the [place_1]{place} where an [activity]{activity} or [event]{event} [happen]{happens}",
+      "entry": "venue",
+      "id": "venue#venue__1"
+    },
+    {
+      "comment": "the place where someone or something is: can be followed by a singular or plural verb",
+      "entry": "whereabouts",
+      "id": "whereabouts_1#whereabouts_1__1"
+    },
+    {
+      "comment": "a [place_1]{place} where something [happen]{happens}, [usually]{usually} something [bad_1]{bad}",
+      "entry": "scene",
+      "id": "scene#scene__8"
+    },
+    {
+      "comment": "the [place_1]{place} where something [happen]{happens}",
+      "entry": "locale",
+      "id": "locale#locale__1"
+    },
+    {
+      "comment": "an [important]{important} [place_1]{place} for a [particular_1]{particular} [activity]{activity}",
+      "entry": "center",
+      "id": "center_1#center_1__7"
+    }
+  ],
+  "thesaurus": "General words for location and place",
+  "type": "Synonyms"
+}

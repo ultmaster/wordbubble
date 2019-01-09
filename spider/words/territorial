@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to the [land_1]{land} of a [particular_1]{particular} [country]{country}",
+      "examples": [
+        "territorial [dispute_1]{disputes}/[claim_1]{claims}"
+      ],
+      "id": "territorial__1"
+    },
+    {
+      "def": "territorial [animal_1]{animals} or [people_1]{people} do not [like_1]{like} other [animal_1]{animals} or [people_1]{people} [enter]{entering} an [area]{area} that they [believe]{believe} [belong]{belongs} to them",
+      "examples": [
+        "[shark]{Sharks} are [extremely]{extremely} territorial and often [antagonistic]{antagonistic} toward their own [kind_1]{kind}."
+      ],
+      "id": "territorial__3"
+    }
+  ],
+  "word": "territorial"
+}

@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the [pedal_1]{pedal} that you [press_1]{press} with your [foot_1]{foot} to [make_1]{make} a [vehicle]{vehicle} go [fast_1]{faster}",
+      "examples": [],
+      "id": "accelerator__1"
+    },
+    {
+      "def": "a [machine_1]{machine} [used]{used} in [scientific]{scientific} [research_1]{research} that [make_1]{makes} [particle]{particles}  (=parts of atoms) move [fast_1]{faster}",
+      "examples": [],
+      "id": "accelerator__2"
+    },
+    {
+      "def": "an [organization]{organization} or [programme]{programme} that [offer_1]{offers} [advice]{advice} and [resource_1]{resources} to [help_1]{help} [small_1]{small} [business]{businesses} [grow]{grow}",
+      "examples": [
+        "[john]{John} Lewis has [narrow_2]{narrowed} down the 163 [start-up_2]{start-ups} that [applied]{applied} to be part of its JLAB [business]{business} accelerator to five [finalist]{finalists}."
+      ],
+      "id": "accelerator__3"
+    }
+  ],
+  "word": "accelerator"
+}

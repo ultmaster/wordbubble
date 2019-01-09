@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[skillful]{skillful} in something as a [result_1]{result} of [experience_1]{experience}",
+      "examples": [
+        "a practiced [public_1]{public} [speaker]{speaker}",
+        "She [view_2]{viewed} the [painting]{paintings} with a practiced [eye_1]{eye}.",
+        "Once you are practiced at the [relaxation]{relaxation} [technique]{techniques}, you will [start_1]{start} [feeling_1]{feeling} [refreshed]{refreshed} afterwards."
+      ],
+      "id": "practiced__1"
+    },
+    {
+      "def": "[learned]{learned} or [developed]{developed} through [experience_1]{experience}",
+      "examples": [
+        "He [won]{won} her over with practiced [charm_1]{charm}."
+      ],
+      "id": "practiced__5"
+    }
+  ],
+  "word": "practiced"
+}

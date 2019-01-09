@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "the [state_1]{state} or [condition_1]{condition} of being [weak]{weak}",
+      "entry": "weakness",
+      "id": "weakness#weakness__1"
+    },
+    {
+      "comment": "the [condition_1]{condition} of being [physically]{physically} [weak]{weak} and not in [good_1]{good} [health]{health}",
+      "entry": "frailty",
+      "id": "frailty#frailty__1"
+    },
+    {
+      "comment": "a [state_1]{state} in which you are [physically]{physically} or [mental#mental__12]{mentally} [weak]{weak}, [usually]{usually} because of an [illness]{illness}",
+      "entry": "debility",
+      "id": "debility#debility__1"
+    },
+    {
+      "comment": "a [lack_1]{lack} of [power_1]{power} or [control_1]{control} that [prevent]{prevents} someone from [doing]{doing} something",
+      "entry": "impotence",
+      "id": "impotence#impotence__2"
+    },
+    {
+      "comment": "a [sign_1]{sign} that someone can be [attack_2]{attacked}, [especially]{especially} because they are already [weak]{weak}",
+      "entry": "blood in the water",
+      "id": "blood-in-the-water#blood-in-the-water__1"
+    },
+    {
+      "comment": "an [old]{old} [phrase_1]{phrase} [meaning_1]{meaning} a [feeling_1]{feeling} of [weakness]{weakness} or [sadness]{sadness}",
+      "entry": "the vapors",
+      "id": "the-vapors#the-vapors__1"
+    }
+  ],
+  "thesaurus": "Physical weakness",
+  "type": "Synonyms"
+}

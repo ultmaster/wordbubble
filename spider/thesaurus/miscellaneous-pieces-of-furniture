@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} with [shelves]{shelves} in it for [put]{putting} [book_1]{books} on",
+      "entry": "bookcase",
+      "id": "bookcase#bookcase__1"
+    },
+    {
+      "comment": "a [shelf]{shelf} that you put [book_1]{books} on",
+      "entry": "bookshelf",
+      "id": "bookshelf#bookshelf__1"
+    },
+    {
+      "comment": "a long [mirror_1]{mirror} [attached]{attached} to a [frame_1]{frame} that [stand_1]{stands} on the [floor_1]{floor}",
+      "entry": "cheval glass",
+      "id": "cheval-glass#cheval-glass__1"
+    },
+    {
+      "comment": "an [object_1]{object} [fixed]{fixed} to a [wall_1]{wall}, [door_1]{door}, etc. for [hanging_1]{hanging} [clothes]{clothes} on",
+      "entry": "coat peg",
+      "id": "coat-peg#coat-peg__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} [consist]{consisting} of a [tall]{tall} [pole_1]{pole} with [hook_1]{hooks} at the top for [hanging_1]{hanging} [coat_1]{coats} and [hat]{hats} on",
+      "entry": "coatstand",
+      "id": "coatstand#coatstand__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} [design_2]{designed} to [hold_1]{hold} a [television]{television}, [radio_1]{radio}, or other [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment}",
+      "entry": "console",
+      "id": "console_2#console_2__4"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [bedroom]{bedroom} [furniture]{furniture} [consist]{consisting} of a [table_1]{table} or [set_1]{set} of [drawers]{drawers} and a [mirror_1]{mirror}",
+      "entry": "dressing table",
+      "id": "dressing-table#dressing-table__1"
+    },
+    {
+      "comment": "a [tall]{tall} [piece_1]{piece} of [office]{office} [furniture]{furniture} with [drawers]{drawers} in which you keep [document_1]{documents}",
+      "entry": "filing cabinet",
+      "id": "filing-cabinet#filing-cabinet__1"
+    },
+    {
+      "comment": "a [small_1]{small} low [piece_1]{piece} of [furniture]{furniture} for [rest_2]{resting} your [feet]{feet} on",
+      "entry": "footstool",
+      "id": "footstool#footstool__1"
+    },
+    {
+      "comment": "a low [soft]{soft} [piece_1]{piece} of [furniture]{furniture} for [sitting]{sitting} on or [put]{putting} your [feet]{feet} on",
+      "entry": "hassock",
+      "id": "hassock#hassock__2"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [furniture]{furniture} [consist]{consisting} of a [base_1]{base} and a [pole_1]{pole} with [hook_1]{hooks} at the top for [hanging_1]{hanging} [coat_1]{coats} and [hat]{hats} on",
+      "entry": "hat stand",
+      "id": "hat-stand#hat-stand__1"
+    },
+    {
+      "comment": "a [curved]{curved} [piece_1]{piece} of [metal_1]{metal} or [plastic_1]{plastic} for [hanging_1]{hanging} [thing]{things} on",
+      "entry": "hook",
+      "id": "hook_1#hook_1__1"
+    },
+    {
+      "comment": "a soft footstool shaped like a box and covered with cloth, used for resting your feet on when you are sitting down",
+      "entry": "ottoman",
+      "id": "ottoman#ottoman__2"
+    },
+    {
+      "comment": "a [large_1]{large} thin [board_1]{board} that is [attached]{attached} to a [wall_1]{wall} and that has [hole_1]{holes} in it for [peg_1]{pegs} or [hook_1]{hooks} on which you [hang_1]{hang} [thing]{things}, such as [pan_1]{pans} or [tool_1]{tools}",
+      "entry": "pegboard",
+      "id": "pegboard#pegboard__1"
+    },
+    {
+      "comment": "a [small_1]{small} [soft]{soft} [piece_1]{piece} of [furniture]{furniture} that you can rest your [feet]{feet} on or [sit]{sit} on",
+      "entry": "pouf",
+      "id": "pouf#pouf__1"
+    },
+    {
+      "comment": "an [object_1]{object} [used]{used} for [store_2]{storing} [thing]{things} that [consist]{consists} of a [row_1]{row} of [small_1]{small} [shelves]{shelves}, [space_1]{spaces}, or [hook_1]{hooks}",
+      "entry": "rack",
+      "id": "rack_1#rack_1__1"
+    },
+    {
+      "comment": "[shelves]{shelves}, [especially]{especially} [shelves]{shelves} that are [attached]{attached} to a [wall_1]{wall}",
+      "entry": "shelving",
+      "id": "shelving#shelving__1"
+    },
+    {
+      "comment": "an [object_1]{object} or a [piece_1]{piece} of [furniture]{furniture} [used]{used} for [holding]{holding}, [supporting]{supporting}, or [store_2]{storing} something",
+      "entry": "stand",
+      "id": "stand_2#stand_2__11"
+    }
+  ],
+  "thesaurus": "Miscellaneous pieces of furniture",
+  "type": "Related words"
+}

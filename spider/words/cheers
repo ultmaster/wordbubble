@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "interjection",
+  "senses": [
+    {
+      "def": "[used]{used} for [express_1]{expressing} [good_1]{good} [wish_1]{wishes} when [holding]{holding} a [glass]{glass} of [alcohol]{alcohol}, [just_1]{just} before you [drink_1]{drink} it",
+      "examples": [],
+      "id": "cheers__1"
+    },
+    {
+      "def": "[thank]{thank} you",
+      "examples": [
+        "\u201cHere\u2019s that [book_1]{book} you [wanted]{wanted} to [borrow]{borrow}.\u201d \u201c[oh_1]{Oh}, cheers.\u201d"
+      ],
+      "id": "cheers__2"
+    },
+    {
+      "def": "[good_1]{good}-[bye_1]{bye}",
+      "examples": [],
+      "id": "cheers__4"
+    }
+  ],
+  "word": "cheers"
+}

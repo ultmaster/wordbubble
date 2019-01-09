@@ -1,0 +1,24 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [bus_1]{bus}, [train_1]{train}, or [airplane]{airplane} that [make_1]{makes} [frequent_1]{frequent} [short_1]{short} [trip_1]{trips} between two [place_1]{places}",
+      "examples": [
+        "A shuttle [service_1]{service} [operate]{operates} between the [hotel]{hotel} and the [beach_1]{beach}."
+      ],
+      "id": "shuttle_1__1"
+    },
+    {
+      "def": "a [space-shuttle]{space shuttle}",
+      "examples": [],
+      "id": "shuttle_1__3"
+    },
+    {
+      "def": "the part of a [loom_1]{loom} that [pull_1]{pulls} the [thread_1]{thread} from side to side to [make_1]{make} [cloth]{cloth}",
+      "examples": [],
+      "id": "shuttle_1__4"
+    }
+  ],
+  "word": "shuttle"
+}

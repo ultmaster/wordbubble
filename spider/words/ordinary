@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[normal_1]{normal} or [average_1]{average}, and not [unusual]{unusual} or [special_1]{special}",
+      "examples": [
+        "He [lives]{lives} in an ordinary [house_1]{house} in [suburban]{suburban} Melbourne.",
+        "It was [just_1]{just} an ordinary Saturday [morning_1]{morning}.",
+        "From the [outside]{outside} it [look_1]{looked} [like_1]{like} a [perfectly]{perfectly} ordinary [shed_1]{shed}.",
+        "But this was no ordinary [cat]{cat} \u2013 this [cat]{cat} could [open_1]{open} [door_1]{doors}.",
+        "[did]{Did} the [president_1]{president} [meet_1]{meet} any ordinary Mexicans?",
+        "the [need_1]{needs} of ordinary [citizen]{citizens}"
+      ],
+      "id": "ordinary__1"
+    },
+    {
+      "def": "[plain_1]{plain} and not [especially]{especially} [good_1]{good}, [interesting]{interesting}, or [impressive]{impressive}",
+      "examples": [
+        "The [inside_1]{inside} of the [house_1]{house} is rather ordinary."
+      ],
+      "id": "ordinary__9"
+    },
+    {
+      "def": "not [acceptable]{acceptable} or not [good_1]{good} enough",
+      "examples": [
+        "I\u2019m not the only one who [thought_1]{thought} the [sequel]{sequel} was a [bit_1]{bit} ordinary."
+      ],
+      "id": "ordinary__11"
+    }
+  ],
+  "word": "ordinary"
+}

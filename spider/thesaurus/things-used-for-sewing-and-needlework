@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "a small round object around which thread  (=thin string used for sewing) is wound",
+      "entry": "bobbin",
+      "id": "bobbin#bobbin__1"
+    },
+    {
+      "comment": "[thread_1]{thread}",
+      "entry": "cotton",
+      "id": "cotton_1#cotton_1__9"
+    },
+    {
+      "comment": "a spool for thread",
+      "entry": "cotton reel",
+      "id": "cotton-reel#cotton-reel__1"
+    },
+    {
+      "comment": "the hole at the top of a [needle_1]{needle}",
+      "entry": "eye",
+      "id": "eye_1#eye_1__12"
+    },
+    {
+      "comment": "a [small_1]{small} thin [metal_1]{metal} [tool_1]{tool} that is [used]{used} for [sewing]{sewing}. It has a [sharp_1]{sharp} [point_1]{point} at one [end_1]{end} and a hole at the other",
+      "entry": "needle",
+      "id": "needle_1#needle_1__4"
+    },
+    {
+      "comment": "small objects such as pins and buttons that are used in sewing",
+      "entry": "notions",
+      "id": "notions#notions__1"
+    },
+    {
+      "comment": "a [small_1]{small} thin [piece_1]{piece} of [metal_1]{metal} with a [sharp_1]{sharp} [point_1]{point}, [used]{used} for [holding]{holding} [cloth]{cloth} in [place_1]{place} while you are [sewing]{sewing}",
+      "entry": "pin",
+      "id": "pin_1#pin_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} [soft]{soft} [object_1]{object} in which you keep [pin_1]{pins} and [needle_1]{needles}",
+      "entry": "pincushion",
+      "id": "pincushion#pincushion__1"
+    },
+    {
+      "comment": "the round part on the [end_1]{end} of a [pin_1]{pin}",
+      "entry": "pinhead",
+      "id": "pinhead#pinhead__1"
+    },
+    {
+      "comment": "a [small_1]{small} [metal_1]{metal} or [plastic_1]{plastic} [cup_1]{cup} that you [wear_1]{wear} on your [finger_1]{finger} to [protect]{protect} it when you are [sewing]{sewing}",
+      "entry": "thimble",
+      "id": "thimble#thimble__1"
+    },
+    {
+      "comment": "a long thin [fiber]{fiber} [used]{used} for [sewing]{sewing} [piece_1]{pieces} of [cloth]{cloth} together or for [weave_1]{weaving}",
+      "entry": "thread",
+      "id": "thread_1#thread_1__1"
+    }
+  ],
+  "thesaurus": "Things used for sewing and needlework",
+  "type": "Related words"
+}

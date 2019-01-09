@@ -1,0 +1,286 @@
+{
+  "entries": [
+    {
+      "comment": "a [curve_1]{curve} in a [road]{road}, [river]{river}, etc.",
+      "entry": "bend",
+      "id": "bend_2#bend_2__1"
+    },
+    {
+      "comment": "a [bike_1]{bike} [lane]{lane}",
+      "entry": "bicycle lane",
+      "id": "bicycle-lane#bicycle-lane__1"
+    },
+    {
+      "comment": "a part of a [road]{road} [marked]{marked} by [paint_1]{painted} [lines]{lines} and [intended_1]{intended} for use by [bicycle]{bicycles}",
+      "entry": "bike lane",
+      "id": "bike-lane#bike-lane__1"
+    },
+    {
+      "comment": "a [gradual]{gradual} [curved]{curved} [slope_1]{slope} from the [center_1]{center} of a [road]{road} down to its sides",
+      "entry": "camber",
+      "id": "camber#camber__1"
+    },
+    {
+      "comment": "a lane on the highway which cannot be used by cars containing only one person",
+      "entry": "carpool lane",
+      "id": "carpool-lane#carpool-lane__1"
+    },
+    {
+      "comment": "a [median_1]{median} on a [highway]{highway}",
+      "entry": "central reservation",
+      "id": "central-reservation#central-reservation__1"
+    },
+    {
+      "comment": "a part of a [road]{road}, [especially]{especially} a [track_1]{track} for [race_1]{race} [car]{cars}, with a [bend_1]{bend} [shaped_1]{shaped} [like_1]{like} the [letter_1]{letter} \u201cS\u201d",
+      "entry": "chicane",
+      "id": "chicane#chicane__1"
+    },
+    {
+      "comment": "a [place_1]{place} where two [major_1]{major} [highway]{highways} are [connected]{connected} by a [series]{series} of [curve_2]{curving} [road]{roads}",
+      "entry": "cloverleaf",
+      "id": "cloverleaf#cloverleaf__1"
+    },
+    {
+      "comment": "a [road]{road} or [railroad_1]{railroad} system that [allow]{allows} you to [travel_1]{travel} from one [place_1]{place} to another",
+      "entry": "connection",
+      "id": "connection#connection__11"
+    },
+    {
+      "comment": "a [sharp_1]{sharp} [turn_1]{turn} in a [road]{road}, where you cannot see what is coming",
+      "entry": "corner",
+      "id": "corner_1#corner_1__9"
+    },
+    {
+      "comment": "a [place_1]{place} where two [road]{roads} or [path]{paths} [meet_1]{meet}",
+      "entry": "corner",
+      "id": "corner_1#corner_1__11"
+    },
+    {
+      "comment": "a [bend_1]{bend} in a [road]{road} or [river]{river}",
+      "entry": "curve",
+      "id": "curve_1#curve_1__3"
+    },
+    {
+      "comment": "a [cut_1]{cut} made for a [road]{road} or a [railroad_1]{railroad}",
+      "entry": "cutting",
+      "id": "cutting_1#cutting_1__4"
+    },
+    {
+      "comment": "a [bike_1]{bike} [lane]{lane}",
+      "entry": "cycle lane",
+      "id": "cycle-lane#cycle-lane__1"
+    },
+    {
+      "comment": "a special lane on a highway that can be used only by vehicles with more than one person in them and is painted with very large diamond shapes",
+      "entry": "diamond lane",
+      "id": "diamond-lane#diamond-lane__1"
+    },
+    {
+      "comment": "a [bend_1]{bend} in a [road]{road}, [path]{path}, etc. where it [completely]{completely} [change_1]{changes} [direction]{direction}",
+      "entry": "dogleg",
+      "id": "dogleg#dogleg__1"
+    },
+    {
+      "comment": "the part of a [highway]{highway} for [car]{cars} that are [traveling]{traveling} a long [distance_1]{distance}",
+      "entry": "express lane",
+      "id": "express-lane#express-lane__1"
+    },
+    {
+      "comment": "a part of a [road]{road} or [railroad_1]{railroad} [line_1]{line} [added]{added} to the [existing]{existing} one",
+      "entry": "extension",
+      "id": "extension#extension__15"
+    },
+    {
+      "comment": "the outer lane on a road, used by vehicles traveling fastest",
+      "entry": "fast lane",
+      "id": "fast-lane#fast-lane__1"
+    },
+    {
+      "comment": "an [overpass]{overpass} that [take_1]{takes} one [road]{road} above another [road]{road}",
+      "entry": "flyover",
+      "id": "flyover#flyover__2"
+    },
+    {
+      "comment": "a [place_1]{place} where a [road]{road}, [path]{path}, or [river]{river} [divide_1]{divides} into two [part_1]{parts} to form a [shape_1]{shape} [like_1]{like} a \u201cY\u201d",
+      "entry": "fork",
+      "id": "fork_1#fork_1__5"
+    },
+    {
+      "comment": "one of the [part_1]{parts} that a [road]{road}, [path]{path}, or [river]{river} [divide_1]{divides} into",
+      "entry": "fork",
+      "id": "fork_1#fork_1__6"
+    },
+    {
+      "comment": "a [hairpin]{hairpin} [curve_1]{curve}",
+      "entry": "hairpin",
+      "id": "hairpin#hairpin__2"
+    },
+    {
+      "comment": "a very [sharp_1]{sharp} [curve_1]{curve} in a [road]{road}, where the [road]{road} [form_1]{forms} a \u201cU\u201d [shape_1]{shape}",
+      "entry": "hairpin curve",
+      "id": "hairpin-curve#hairpin-curve__1"
+    },
+    {
+      "comment": "a [steep_1]{steep} [slope_1]{slope} in a [path]{path} or [road]{road}",
+      "entry": "hill",
+      "id": "hill#hill__8"
+    },
+    {
+      "comment": "a [place_1]{place} where you can [change_1]{change} from a [highway]{highway} to a [crossing]{crossing} [road]{road} [use_1]{using} a system of [small_1]{smaller} [road]{roads}, [bridge_1]{bridges}, etc.",
+      "entry": "interchange",
+      "id": "interchange_1#interchange_1__1"
+    },
+    {
+      "comment": "a [place_1]{place} where [road]{roads}, [lines]{lines}, etc. [join_1]{join} or cross each other",
+      "entry": "intersection",
+      "id": "intersection#intersection__1"
+    },
+    {
+      "comment": "a [place_1]{place} where two or more [highway]{highways}, [railroad_1]{railroad} [lines]{lines}, or [river]{rivers} [join_1]{join} together",
+      "entry": "junction",
+      "id": "junction#junction__1"
+    },
+    {
+      "comment": "a road exit",
+      "entry": "junction",
+      "id": "junction#junction__4"
+    },
+    {
+      "comment": "one of the [part_1]{parts} that a [wide_1]{wide} [road]{road} or [highway]{highway} is [divided]{divided} into, [marked]{marked} by [paint_1]{painted} [lines]{lines} and [intended_1]{intended} for one [line_1]{line} of [traffic_1]{traffic}",
+      "entry": "lane",
+      "id": "lane#lane__5"
+    },
+    {
+      "comment": "a long thin [mark_1]{mark} on a [road]{road} [used]{used} for [organize]{organizing} [traffic_1]{traffic} and for [showing]{showing} [driver]{drivers} where they can [park_1]{park}",
+      "entry": "line",
+      "id": "line_1#line_1__7"
+    },
+    {
+      "comment": "a narrow piece of ground that separates the two sides of a highway or other main road. The British word is central reservation.",
+      "entry": "median",
+      "id": "median_1#median_1__1"
+    },
+    {
+      "comment": "a [road]{road} that [lead_1]{leads} on to a [big_1]{big} [highway]{highway}",
+      "entry": "on-ramp",
+      "id": "on-ramp#on-ramp__1"
+    },
+    {
+      "comment": "if a [car]{car} [pass_1]{passes} you on the [inside_1]{inside}, it [go_1]{goes} between your [car]{car} and the [edge_1]{edge} of the [road]{road} when you are nearer the [middle_1]{middle} of the [road]{road}",
+      "entry": "on the inside",
+      "id": "on-the-inside#on-the-inside__3"
+    },
+    {
+      "comment": "the lane  (=area) of a highway where vehicles can pass other vehicles and travel fastest. The British word is outside lane.",
+      "entry": "passing lane",
+      "id": "passing-lane#passing-lane__1"
+    },
+    {
+      "comment": "the part of a [road]{road} that you [drive_1]{drive} on",
+      "entry": "roadway",
+      "id": "roadway#roadway__1"
+    },
+    {
+      "comment": "a [traffic_1]{traffic} [circle_1]{circle} or [rotary_1]{rotary}",
+      "entry": "roundabout",
+      "id": "roundabout_2#roundabout_2__1"
+    },
+    {
+      "comment": "a [double_1]{double} [curve_1]{curve} in a [road]{road} that [form_1]{forms} a [shape_1]{shape} [similar]{similar} to an \u201cs\u201d",
+      "entry": "S-curve",
+      "id": "s-curve#s-curve__1"
+    },
+    {
+      "comment": "a part of a [road]{road} or [path]{path}",
+      "entry": "section",
+      "id": "section_1#section_1__7"
+    },
+    {
+      "comment": "a [speed_1]{speed} [bump_1]{bump}",
+      "entry": "sleeping policeman",
+      "id": "sleeping-policeman#sleeping-policeman__1"
+    },
+    {
+      "comment": "the part of a [highway]{highway} for [vehicle]{vehicles} that are [moving]{moving} more [slowly]{slowly} than other [vehicle]{vehicles}",
+      "entry": "the slow lane",
+      "id": "the-slow-lane#the-slow-lane__1"
+    },
+    {
+      "comment": "a [steep_1]{steep} [rise_1]{rise} across the [width]{width} of a [road]{road} that [force_1]{forces} [driver]{drivers} to [drive_1]{drive} more [slowly]{slowly}",
+      "entry": "speed bump",
+      "id": "speed-bump#speed-bump__1"
+    },
+    {
+      "comment": "a [place_1]{place} on a [road]{road} where the [police_1]{police} [secretly]{secretly} [measure_1]{measure} how [fast_1]{fast} [people_1]{people} are [driving]{driving}",
+      "entry": "speed trap",
+      "id": "speed-trap#speed-trap__1"
+    },
+    {
+      "comment": "a T-intersection",
+      "entry": "T-junction",
+      "id": "t-junction#t-junction__1"
+    },
+    {
+      "comment": "a [small_1]{small} [building]{building} where [driver]{drivers} [pay_1]{pay} to use a [particular_1]{particular} [bridge_1]{bridge} or [road]{road}",
+      "entry": "tollbooth",
+      "id": "tollbooth#tollbooth__1"
+    },
+    {
+      "comment": "a section of road with a row of tollbooths across it",
+      "entry": "toll plaza",
+      "id": "toll-plaza#toll-plaza__1"
+    },
+    {
+      "comment": "a part of a road in the shape of a circle that other roads join. The British word is roundabout.",
+      "entry": "traffic circle",
+      "id": "traffic-circle#traffic-circle__1"
+    },
+    {
+      "comment": "an [area]{area} with a [restaurant]{restaurant} beside a [major_1]{major} [road]{road} where [truck_1]{truck} [driver]{drivers} can [stop_1]{stop} and have a [meal]{meal}, [buy_1]{buy} [gas_1]{gas}, or have their [vehicle]{vehicle} [repair_1]{repaired}",
+      "entry": "truck stop",
+      "id": "truck-stop#truck-stop__1"
+    },
+    {
+      "comment": "an [underground_1]{underground} [passage]{passage} through which [vehicle]{vehicles} [travel_1]{travel}",
+      "entry": "tunnel",
+      "id": "tunnel_1#tunnel_1__1"
+    },
+    {
+      "comment": "a [place_1]{place} where a [road]{road} [bend_1]{bends} to the [right_1]{right} or [left_1]{left}",
+      "entry": "turn",
+      "id": "turn_2#turn_2__10"
+    },
+    {
+      "comment": "a [wide_1]{wide} [area]{area} in which you can [turn_1]{turn} a [vehicle]{vehicle}",
+      "entry": "turnaround",
+      "id": "turnaround#turnaround__1"
+    },
+    {
+      "comment": "a [place_1]{place} along a [narrow_1]{narrow} [road]{road} where the [road]{road} becomes [wide_1]{wider} so [car]{cars} can [pass_1]{pass} each other",
+      "entry": "turnout",
+      "id": "turnout#turnout__5"
+    },
+    {
+      "comment": "a [turnaround]{turnaround}",
+      "entry": "turnround",
+      "id": "turnround#turnround__1"
+    },
+    {
+      "comment": "a [bend_1]{bend} in a [road]{road} or a [river]{river}",
+      "entry": "twist",
+      "id": "twist_2#twist_2__5"
+    },
+    {
+      "comment": "part of a [road]{road} or [path]{path} that [go_1]{goes} under another [road]{road} or under a [railroad_1]{railroad}",
+      "entry": "underpass",
+      "id": "underpass#underpass__1"
+    },
+    {
+      "comment": "a [place_1]{place} next to an [important]{important} [highway]{highway} where [truck_1]{trucks} must [stop_1]{stop} to be [weigh]{weighed}",
+      "entry": "weigh station",
+      "id": "weigh-station#weigh-station__1"
+    }
+  ],
+  "thesaurus": "Parts of roads and road systems",
+  "type": "Related words"
+}

@@ -1,0 +1,33 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "sloppy [clothes]{clothes} are [loose_1]{loose} and [informal]{informal}",
+      "examples": [
+        "a sloppy [sweatshirt]{sweatshirt}"
+      ],
+      "id": "sloppy__1"
+    },
+    {
+      "def": "done in a very [careless]{careless} way",
+      "examples": [
+        "a sloppy [performance]{performance}"
+      ],
+      "id": "sloppy__3"
+    },
+    {
+      "def": "[express_1]{expressing} [emotion]{emotions} or [romantic_1]{romantic} [feeling_1]{feelings} in a way that seems [silly_1]{silly} or [embarrassing]{embarrassing}",
+      "examples": [
+        "a sloppy [valentine]{Valentine} [card_1]{card}"
+      ],
+      "id": "sloppy__5"
+    },
+    {
+      "def": "sloppy [food]{food} is not thick or [solid_1]{solid} enough",
+      "examples": [],
+      "id": "sloppy__7"
+    }
+  ],
+  "word": "sloppy"
+}

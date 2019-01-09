@@ -1,0 +1,29 @@
+{
+  "part": "phrase",
+  "phrase": "pick out",
+  "senses": [
+    {
+      "def": "to [choose]{choose} one thing or [person]{person} from a [group_1]{group}",
+      "examples": [
+        "Have you [pick_1]{picked} out a [dress_1]{dress} for the [party_1]{party}?"
+      ],
+      "id": "pick-out__1"
+    },
+    {
+      "def": "to [recognize]{recognize} someone or something from a [group_1]{group}",
+      "examples": [
+        "You can [pick_1]{pick} out a [liar]{liar} by the [nervous]{nervous} way they [act_1]{act}."
+      ],
+      "id": "pick-out__3"
+    },
+    {
+      "def": "to see someone or something when they are [difficult]{difficult} to see",
+      "examples": [
+        "The [yellow_1]{yellow} [coat_1]{coat} [make_1]{makes} her [easy_1]{easier} to [pick_1]{pick} out in a [crowd_1]{crowd}.",
+        "A [woman]{woman} in the [crowd_1]{crowd} was [pick_1]{picked} out by a [spotlight_1]{spotlight}.",
+        "the [symbol]{symbol} of a [flame_1]{flame} [pick_1]{picked} out in [yellow_1]{yellow} and red"
+      ],
+      "id": "pick-out__5"
+    }
+  ]
+}

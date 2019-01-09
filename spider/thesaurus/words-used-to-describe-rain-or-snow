@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[snow_1]{snow} or [rain_1]{rain} that [fall_1]{falls} very [fast_1]{fast}",
+      "entry": "driving snow/rain",
+      "id": "driving-snow-rain#driving-snow-rain__1"
+    },
+    {
+      "comment": "[gentle]{gentle} [wind_1]{wind} or [rain_1]{rain} is not [strong]{strong} or [unpleasant]{unpleasant}",
+      "entry": "gentle",
+      "id": "gentle#gentle__12"
+    },
+    {
+      "comment": "if it [rain_1]{rains} in [bucket_1]{buckets}, it [rain_1]{rains} very [hard_1]{hard}",
+      "entry": "in buckets",
+      "id": "in-buckets#in-buckets__1"
+    },
+    {
+      "comment": "when it is [misty]{misty}, a [mass_1]{mass} of [small_1]{small} [drop_1]{drops} of [water_1]{water} is in the [air_1]{air} [close_1]{close} to the [ground_1]{ground}",
+      "entry": "misty",
+      "id": "misty#misty__1"
+    },
+    {
+      "comment": "in a [situation]{situation} in which [snow_1]{snow} [make_1]{makes} [traveling]{traveling} [impossible]{impossible}",
+      "entry": "snowbound",
+      "id": "snowbound#snowbound__1"
+    },
+    {
+      "comment": "[covered_1]{covered} in [snow_1]{snow}",
+      "entry": "snowy",
+      "id": "snowy#snowy__1"
+    },
+    {
+      "comment": "with a [lot_1]{lot} of [snow_1]{snow}",
+      "entry": "snowy",
+      "id": "snowy#snowy__3"
+    },
+    {
+      "comment": "[soft]{soft} [wind_1]{wind}, [rain_1]{rain},etc. is not [strong]{strong} or [unpleasant]{unpleasant}",
+      "entry": "soft",
+      "id": "soft#soft__13"
+    },
+    {
+      "comment": "[torrential]{torrential} [rain_1]{rain} [fall_1]{falls} [fast_1]{fast} in [large_1]{large} [amount_1]{amounts}",
+      "entry": "torrential",
+      "id": "torrential#torrential__1"
+    },
+    {
+      "comment": "[rain_1]{rain}",
+      "entry": "the wet",
+      "id": "wet_1#wet_1__12"
+    }
+  ],
+  "thesaurus": "Words used to describe rain or snow",
+  "type": "Related words"
+}

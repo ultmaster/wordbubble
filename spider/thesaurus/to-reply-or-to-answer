@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [say_1]{say}, [write]{write}, or do something as an [answer_1]{answer}",
+      "entry": "reply",
+      "id": "reply_1#reply_1__1"
+    },
+    {
+      "comment": "to give a [spoken_1]{spoken} [reply_1]{reply} to a [question_1]{question}",
+      "entry": "answer",
+      "id": "answer_1#answer_1__1"
+    },
+    {
+      "comment": "to [reply_1]{reply}, [especially]{especially} in [writing]{writing}",
+      "entry": "respond",
+      "id": "respond#respond__11"
+    },
+    {
+      "comment": "to [reply_1]{reply} [immediately]{immediately} in an [angry]{angry} or [humorous]{humorous} way to something that someone has [said_1]{said}",
+      "entry": "retort",
+      "id": "retort_1#retort_1__1"
+    },
+    {
+      "comment": "to [reply_1]{reply} [quickly]{quickly} to something that has been [said_1]{said}",
+      "entry": "rejoin",
+      "id": "rejoin#rejoin__7"
+    },
+    {
+      "comment": "to [react]{react} or [reply_1]{reply}, [especially]{especially} by [express_1]{expressing} your [opinion]{opinion} in a [strong]{strong} [clear_1]{clear} way",
+      "entry": "come back",
+      "id": "come-back#come-back__12"
+    },
+    {
+      "comment": "to [reply_1]{reply} [rude#rude__11]{rudely} to someone who has more [authority]{authority} than you",
+      "entry": "answer back",
+      "id": "answer-back#answer-back__1"
+    },
+    {
+      "comment": "to [send_1]{send} a [reply_1]{reply} to someone who has [sent]{sent} you a [letter_1]{letter}",
+      "entry": "write back",
+      "id": "write-back#write-back__1"
+    },
+    {
+      "comment": "to [reply_1]{reply} to a [criticism]{criticism} or [statement_1]{statement} that you [disagree]{disagree} with",
+      "entry": "counter",
+      "id": "counter_2#counter_2__1"
+    },
+    {
+      "comment": "to [reply_1]{reply} [quickly]{quickly} and [rude#rude__11]{rudely} to something that someone [say_1]{says}. This [expression]{expression} is [used]{used} [especially]{especially} when [talk_1]{talking} about [children]{children} who are being [rude]{rude} to their [parent]{parents}",
+      "entry": "talk back",
+      "id": "talk-back#talk-back__1"
+    }
+  ],
+  "thesaurus": "To reply or to answer",
+  "type": "Synonyms"
+}

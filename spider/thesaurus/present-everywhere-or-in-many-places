@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} in many [place_1]{places}, or [affecting]{affecting} many [people_1]{people}",
+      "entry": "widespread",
+      "id": "widespread#widespread__1"
+    },
+    {
+      "comment": "[spread_1]{spread} over a [large_1]{large} [area]{area}",
+      "entry": "scattered",
+      "id": "scattered#scattered__1"
+    },
+    {
+      "comment": "[happening_1]{happening}, [existing]{existing}, or [felt_1]{felt} over a [wide_1]{wide} [area]{area} or among a [lot_1]{lot} of [people_1]{people}",
+      "entry": "generalized",
+      "id": "generalized#generalized__7"
+    },
+    {
+      "comment": "in all [part_1]{parts} of a [country]{country}",
+      "entry": "nationwide",
+      "id": "nationwide#nationwide__1"
+    },
+    {
+      "comment": "in all [part_1]{parts} of a [country]{country}",
+      "entry": "countrywide",
+      "id": "countrywide#countrywide__1"
+    },
+    {
+      "comment": "[happening_1]{happening} or [existing]{existing} all over the [world]{world}",
+      "entry": "worldwide",
+      "id": "worldwide#worldwide__1"
+    },
+    {
+      "comment": "[present_1]{present} everywhere",
+      "entry": "ubiquitous",
+      "id": "ubiquitous#ubiquitous__1"
+    },
+    {
+      "comment": "[existing]{existing} over a [large_1]{large} [area]{area} or in many [area]{areas}",
+      "entry": "diffuse",
+      "id": "diffuse_2#diffuse_2__1"
+    },
+    {
+      "comment": "[existing]{existing} in many [different]{different} [place_1]{places} within a very [large_1]{large} [area]{area}",
+      "entry": "far-flung",
+      "id": "far-flung#far-flung__1"
+    },
+    {
+      "comment": "in or to many [different]{different} [place_1]{places}",
+      "entry": "all over the place",
+      "id": "all-over-the-place#all-over-the-place__1"
+    }
+  ],
+  "thesaurus": "Present everywhere or in many places",
+  "type": "Synonyms"
+}

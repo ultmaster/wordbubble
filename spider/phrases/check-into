@@ -1,0 +1,27 @@
+{
+  "part": "phrase",
+  "phrase": "check into",
+  "senses": [
+    {
+      "def": "to [arrive]{arrive} at a [hotel]{hotel} where you have [arrange]{arranged} to [stay_1]{stay} and give your [personal_1]{personal} [detail_1]{details} to the [person]{person} [working]{working} at the [reception]{reception} [desk]{desk}",
+      "examples": [
+        "We [won]{won}\u2019t be [able_1]{able} to [check_1]{check} into the [hotel]{hotel} until 3 o\u2019[clock_1]{clock}."
+      ],
+      "id": "check-into__1"
+    },
+    {
+      "def": "to [try_1]{try} to find out more [information]{information} about a [particular_1]{particular} [subject_1]{subject}",
+      "examples": [
+        "I\u2019ll [check_1]{check} into the [tour_1]{tours} and see how much they [cost_1]{cost}."
+      ],
+      "id": "check-into__3"
+    },
+    {
+      "def": "to use a [smartphone]{smartphone} to show on [social_1]{social} [media]{media} that you have [arrive]{arrived} at a [place_1]{place}",
+      "examples": [
+        "[facebook]{Facebook}\u2019s [telling]{telling} me I\u2019ve [checked]{checked} into a [restaurant]{restaurant} I\u2019ve never [visit_1]{visited} and [want_1]{wants} me to [review_1]{review} it."
+      ],
+      "id": "check-into__5"
+    }
+  ]
+}

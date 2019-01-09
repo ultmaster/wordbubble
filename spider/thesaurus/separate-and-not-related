@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not together, or not [join_1]{joined} to something else",
+      "entry": "separate",
+      "id": "separate_1#separate_1__1"
+    },
+    {
+      "comment": "not [related_1]{related} to each other",
+      "entry": "unconnected",
+      "id": "unconnected#unconnected__1"
+    },
+    {
+      "comment": "not [connected]{connected} to each other",
+      "entry": "unrelated",
+      "id": "unrelated#unrelated__3"
+    },
+    {
+      "comment": "not [connected]{connected} with or [join_1]{joined} to anything else",
+      "entry": "independent",
+      "id": "independent_1#independent_1__16"
+    },
+    {
+      "comment": "not [connected]{connected} to anything else, or not [depend]{depending} on anything else",
+      "entry": "stand-alone",
+      "id": "stand-alone_2#stand-alone_2__1"
+    },
+    {
+      "comment": "[separate_1]{separate}",
+      "entry": "discrete",
+      "id": "discrete#discrete__1"
+    },
+    {
+      "comment": "made up of a [lot_1]{lot} of [separate_1]{separate} [piece_1]{pieces} that are not [connected]{connected}",
+      "entry": "fragmentary",
+      "id": "fragmentary#fragmentary__1"
+    },
+    {
+      "comment": "[used]{used} for [showing]{showing} that you [want_1]{want} to [consider]{consider} something [separate_1#separate_1__13]{separately} from something else",
+      "entry": "as distinct from",
+      "id": "as-distinct-from#as-distinct-from__1"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that someone or something is not [connected]{connected} with or [involved]{involved} in a [particular_1]{particular} [fact]{fact} or [situation]{situation}",
+      "entry": "have nothing to do with someone",
+      "id": "do-with#do-with__5"
+    },
+    {
+      "comment": "if something is [considered]{considered} in [isolation]{isolation}, it is [considered]{considered} [separate_1#separate_1__13]{separately} from other [similar]{similar} [thing]{things}",
+      "entry": "in isolation",
+      "id": "in-isolation#in-isolation__1"
+    }
+  ],
+  "thesaurus": "Separate and not related",
+  "type": "Synonyms"
+}

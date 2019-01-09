@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "verb",
+  "senses": [
+    {
+      "def": "to [make_1]{make} something move or [travel_1]{travel} in a [different]{different} [direction]{direction}",
+      "examples": [
+        "[police_1]{Police} are [trying]{trying} to divert [traffic_1]{traffic} [away_1]{away} from the [trouble_1]{trouble} [spot_1]{spot}."
+      ],
+      "id": "divert__1"
+    },
+    {
+      "def": "to use something for a [purpose]{purpose} that is [different]{different} from its [original_1]{original} or [main_1]{main} [purpose]{purpose}",
+      "examples": [
+        "In an [emergency_1]{emergency}, [worker]{workers} will be [divert]{diverted} from less [urgent]{urgent} [task_1]{tasks} to [help_1]{help} out.",
+        "[teacher]{Teachers} [call_1]{called} on the [government]{government} to divert the [extra_1]{extra} [money]{money} to [school_1]{schools}."
+      ],
+      "id": "divert__3"
+    },
+    {
+      "def": "to do something to take [people_1]{people}\u2019s [attention]{attention} [away_1]{away} from something that you do not [want_1]{want} them to [concentrate_1]{concentrate} on or [notice_1]{notice}",
+      "examples": [
+        "[cooper]{Cooper} [claim_1]{claims} that the [state_1]{state} [used]{used} the [investigation]{investigation} to divert [attention]{attention} from its [financial]{financial} [problem]{problems}."
+      ],
+      "id": "divert__6"
+    }
+  ],
+  "word": "divert"
+}

@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "not often",
+      "entry": "rarely",
+      "id": "rarely#rarely__1"
+    },
+    {
+      "comment": "not very often, or only to a [small_1]{small} [degree]{degree}",
+      "entry": "little",
+      "id": "little_1#little_1__12"
+    },
+    {
+      "comment": "not often",
+      "entry": "seldom",
+      "id": "seldom#seldom__1"
+    },
+    {
+      "comment": "not [happening_1]{happening} very often or not [existing]{existing} in many [place_1]{places}",
+      "entry": "few and far between",
+      "id": "few-and-far-between#few-and-far-between__1"
+    },
+    {
+      "comment": "a few times, but not very often",
+      "entry": "once or twice",
+      "id": "once-or-twice#once-or-twice__1"
+    },
+    {
+      "comment": "very [rarely]{rarely}",
+      "entry": "once in a blue moon",
+      "id": "once-in-a-blue-moon#once-in-a-blue-moon__1"
+    },
+    {
+      "comment": "not [happening_1]{happening} very often",
+      "entry": "rare",
+      "id": "rare#rare__1"
+    },
+    {
+      "comment": "something that [does]{does} not [happen]{happen} often",
+      "entry": "rarity",
+      "id": "rarity#rarity__1"
+    }
+  ],
+  "thesaurus": "Rarely and not often",
+  "type": "Synonyms"
+}

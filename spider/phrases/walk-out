@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "walk out",
+  "senses": [
+    {
+      "def": "to [suddenly]{suddenly} [leave_1]{leave} a [person]{person} who [need_1]{needs} you or a [situation]{situation} that [depend]{depends} on you",
+      "examples": [
+        "Her [husband]{husband} had [walk_1]{walked} out on her a [year]{year} before.",
+        "I was [afraid]{afraid} you\u2019d [walk_1]{walk} out of my [life]{life} again."
+      ],
+      "id": "walk-out__1"
+    },
+    {
+      "def": "to [stop_1]{stop} [working]{working} as a way of [protest_2]{protesting} about something",
+      "examples": [
+        "All of the [worker]{workers} [walk_1]{walked} out on Friday [night_1]{night}."
+      ],
+      "id": "walk-out__4"
+    }
+  ]
+}

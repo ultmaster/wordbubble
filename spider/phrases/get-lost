@@ -1,0 +1,18 @@
+{
+  "part": "phrase",
+  "phrase": "get lost",
+  "senses": [
+    {
+      "def": "[used]{used} for [telling]{telling} someone [rude#rude__11]{rudely} to go [away_1]{away}",
+      "examples": [],
+      "id": "get-lost__1"
+    },
+    {
+      "def": "[used]{used} for [telling]{telling} someone [rude#rude__11]{rudely} that you are [annoyed]{annoyed} by something that they have [just_1]{just} [said_1]{said}",
+      "examples": [
+        "\u201cWhy don\u2019t you [ask_1]{ask} [jimmy_1]{Jimmy} to come too?\u201d \u201cGet [lost_1]{lost}! [look_1]{Look} what [happen]{happened} last time!\u201d"
+      ],
+      "id": "get-lost__2"
+    }
+  ]
+}

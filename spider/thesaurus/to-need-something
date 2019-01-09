@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if you [need_1]{need} something, you must have it because it is [necessary_1]{necessary}",
+      "entry": "need",
+      "id": "need_1#need_1__1"
+    },
+    {
+      "comment": "to [need_1]{need} someone or something",
+      "entry": "require",
+      "id": "require#require__1"
+    },
+    {
+      "comment": "to [clearly]{clearly} [need_1]{need} something a [lot_1]{lot}",
+      "entry": "cry out for",
+      "id": "cry-out-for#cry-out-for__1"
+    },
+    {
+      "comment": "to [need_1]{need} someone or something in [order_1]{order} to [survive]{survive} or be [successful]{successful}",
+      "entry": "depend on",
+      "id": "depend#depend__9"
+    },
+    {
+      "comment": "to [need_1]{need} something in [order_1]{order} to [continue]{continue} [living_1]{living}, [existing]{existing}, or [operate]{operating}",
+      "entry": "rely on",
+      "id": "rely#rely__6"
+    },
+    {
+      "comment": "if a [situation]{situation} or [activity]{activity} [demand_1]{demands} something, that thing is [necessary_1]{necessary}",
+      "entry": "demand",
+      "id": "demand_1#demand_1__12"
+    },
+    {
+      "comment": "to [need_1]{need} something",
+      "entry": "take",
+      "id": "take_1#take_1__29"
+    },
+    {
+      "comment": "to [need_1]{need} something such as your [attention]{attention} or time",
+      "entry": "claim",
+      "id": "claim_1#claim_1__18"
+    },
+    {
+      "comment": "to [need_1]{need} something",
+      "entry": "want",
+      "id": "want_1#want_1__16"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} that you [want_1]{want} or [need_1]{need} something",
+      "entry": "could do with something",
+      "id": "do-with#do-with__1"
+    }
+  ],
+  "thesaurus": "To need something",
+  "type": "Synonyms"
+}

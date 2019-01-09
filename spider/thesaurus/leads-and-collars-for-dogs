@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [chain_1]{chain} around a [dog_1]{dog}\u2019s [neck_1]{neck} that becomes [tight_1]{tighter} as the [dog_1]{dog} [pull_1]{pulls} [away_1]{away}",
+      "entry": "choke chain",
+      "id": "choke-chain#choke-chain__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of thick [cloth]{cloth} that is put on a [dog_1]{dog}\u2019s back to keep it [warm_1]{warm} [outside]{outside} in [winter_1]{winter}",
+      "entry": "coat",
+      "id": "coat_1#coat_1__5"
+    },
+    {
+      "comment": "a thin [piece_1]{piece} of [leather]{leather} or [plastic_1]{plastic} that a [dog_1]{dog} or [cat]{cat} [wear_1]{wears} around its [neck_1]{neck}",
+      "entry": "collar",
+      "id": "collar_1#collar_1__4"
+    },
+    {
+      "comment": "a collar around a dog\u2019s neck that you can fasten to a lead  (=a long piece of rope, leather, etc.)",
+      "entry": "dog collar",
+      "id": "dog-collar#dog-collar__1"
+    },
+    {
+      "comment": "a collar for a pet dog or cat that keeps fleas away",
+      "entry": "flea collar",
+      "id": "flea-collar#flea-collar__1"
+    },
+    {
+      "comment": "a [leash]{leash} for a [dog_1]{dog}",
+      "entry": "lead",
+      "id": "lead_2#lead_2__24"
+    },
+    {
+      "comment": "a long thin [piece_1]{piece} of [material_1]{material} [attached]{attached} to a [dog_1]{dog}\u2019s [collar_1]{collar} so that it can be [controlled_1]{controlled} in a [public_1]{public} [place_1]{place}",
+      "entry": "leash",
+      "id": "leash#leash__1"
+    },
+    {
+      "comment": "something that you put around the [nose_1]{nose} and [mouth_1]{mouth} of a [dog_1]{dog} to [prevent]{prevent} it from [biting]{biting} [people_1]{people}",
+      "entry": "muzzle",
+      "id": "muzzle_1#muzzle_1__2"
+    }
+  ],
+  "thesaurus": "Leads and collars for dogs",
+  "type": "Related words"
+}

@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [drug_1]{drug} or another [substance]{substance} that is [inject]{injected} into your body",
+      "examples": [
+        "He [need_1]{needs} a [daily_1]{daily} injection of [insulin]{insulin}.",
+        "We had to have five [injection]{injections} before the [trip_1]{trip}.",
+        "[did]{Did} the [doctor_1]{doctor} give you a [measles]{measles} injection?",
+        "This [medication]{medication} is [usually]{usually} [administer]{administered} by injection."
+      ],
+      "id": "injection__1"
+    },
+    {
+      "def": "the [addition]{addition} of [money]{money} to a [business]{business}, a [government]{government} [program_1]{program}, or someone\u2019s [bank_1]{bank} [account_1]{account}",
+      "examples": [
+        "The [company]{company} [need_1]{needs} a [huge]{huge} injection of [cash_1]{cash}, and [better_1]{better} [trained]{trained} [staff_1]{staff}.",
+        "the [need_1]{need} for injection of [capital_1]{capital} from the [parent]{parent} [bank_1]{bank}"
+      ],
+      "id": "injection__7"
+    },
+    {
+      "def": "the [process_1]{process} of [force_2]{forcing} a [liquid_1]{liquid} into something by [use_1]{using} [pressure_1]{pressure}",
+      "examples": [],
+      "id": "injection__10"
+    }
+  ],
+  "word": "injection"
+}

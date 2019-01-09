@@ -1,0 +1,30 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "very [severe]{severe} or serious",
+      "examples": [
+        "[news]{News} [report_1]{reports} [portray]{portray} the [situation]{situation} as dire.",
+        "[refugee]{Refugees} are [arrive]{arriving} in dire [need_1]{need} of [food]{food} and [medical_1]{medical} [attention]{attention}.",
+        "The [farming]{farming} [industry]{industry} in this [country]{country} is in [extremely]{extremely} dire [strait]{straits}."
+      ],
+      "id": "dire__1"
+    },
+    {
+      "def": "[saying]{saying} that something very [bad_1]{bad} is [going_1]{going} to [happen]{happen}",
+      "examples": [
+        "The [newspaper]{newspapers} have all [issue_2]{issued} dire [warning]{warnings} about the [consequence]{consequences} of [failure]{failure} for the [government]{government}."
+      ],
+      "id": "dire__5"
+    },
+    {
+      "def": "of a very low [standard_1]{standard}",
+      "examples": [
+        "The [hotel]{hotel} we [stay_1]{stayed} in was dire."
+      ],
+      "id": "dire__7"
+    }
+  ],
+  "word": "dire"
+}

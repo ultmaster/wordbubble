@@ -1,0 +1,26 @@
+{
+  "part": "pronoun",
+  "senses": [
+    {
+      "def": "every [person]{person} in a [group_1]{group}",
+      "examples": [
+        "[happy_1]{Happy} [new]{New} [year]{Year}, everyone!",
+        "Everyone is [thrilled]{thrilled} about Jean\u2019s [baby_1]{baby}.",
+        "James made a [point_1]{point} of [shake_1]{shaking} everyone\u2019s hand.",
+        "Everyone else had [finished]{finished} [eat]{eating}, so I [sat_1]{sat} and had [dinner]{dinner} alone.",
+        "They [invite_1]{invited} everyone but me and Karen."
+      ],
+      "id": "everyone__1"
+    },
+    {
+      "def": "[used]{used} for [talk_1]{talking} about [people_1]{people} in [general_1]{general}",
+      "examples": [
+        "Everyone [need_1]{needs} a [friend_1]{friend}.",
+        "I\u2019m [like_1]{like} everyone else \u2013 I [want_1]{want} to have [fun_1]{fun}.",
+        "Not everyone can [afford]{afford} to take a [big_1]{big} [trip_1]{trip} every [year]{year}."
+      ],
+      "id": "everyone__7"
+    }
+  ],
+  "word": "everyone"
+}

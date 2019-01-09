@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[affecting]{affecting}, [existing]{existing} on, or [used]{used} on a surface",
+      "examples": [
+        "The [boating]{boating} [accident]{accident} [cause_2]{caused} only surface [damage_1]{damage}.",
+        "a rough surface [texture]{texture}",
+        "the surface [temperature]{temperature} of the [lake]{lake}"
+      ],
+      "id": "surface_3__1"
+    },
+    {
+      "def": "a surface [quality_1]{quality} seems to [exist]{exist} in someone or something, but in [fact]{fact} it [hide_1]{hides} [deep_1]{deeper} or more [real_1]{real} [feeling_1]{feelings} or [condition_1]{conditions}",
+      "examples": [
+        "A surface [calm_1]{calm} [settled]{settled} over the [troubled]{troubled} [city]{city}."
+      ],
+      "id": "surface_3__5"
+    },
+    {
+      "def": "[traveling]{traveling} on the surface of [land_1]{land} or [water_1]{water}, rather than through the [air_1]{air}",
+      "examples": [
+        "surface [transportation]{transportation}/[mail_1]{mail}"
+      ],
+      "id": "surface_3__7"
+    }
+  ],
+  "word": "surface"
+}

@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "comment": "the part of a [song]{song} that [does]{does} not [change_1]{change} and is [repeated]{repeated} several times",
+      "entry": "chorus",
+      "id": "chorus_1#chorus_1__1"
+    },
+    {
+      "comment": "the [word_1]{words} of a [song]{song}",
+      "entry": "lyric",
+      "id": "lyric_2#lyric_2__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [lines]{lines} in a [poem]{poem} or a [song]{song} that are [repeated]{repeated} [regularly]{regularly}",
+      "entry": "refrain",
+      "id": "refrain_2#refrain_2__1"
+    },
+    {
+      "comment": "a shout on a rap record that does not form part of the main song, usually saying something good about someone",
+      "entry": "shoutout",
+      "id": "shoutout#shoutout__1"
+    },
+    {
+      "comment": "a [group_1]{group} of [word_1]{words} or [sentence_1]{sentences} that form one [section_1]{section} of a [poem]{poem} or [song]{song}",
+      "entry": "verse",
+      "id": "verse#verse__1"
+    },
+    {
+      "comment": "[used]{used} about the [word_1]{words} of a [song]{song}, rather than the [music]{music}",
+      "entry": "word",
+      "id": "word_1#word_1__20"
+    }
+  ],
+  "thesaurus": "Parts of songs",
+  "type": "Related words"
+}

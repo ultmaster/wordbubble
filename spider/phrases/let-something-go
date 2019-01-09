@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "let something go",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [thinking_1]{thinking} or [feeling_1]{feeling} [angry]{angry} about something that is [upsetting]{upsetting} you",
+      "examples": [
+        "[look_1]{Looking} back on it now, I [think_1]{think} we should [just_1]{just} have [let_1]{let} it go."
+      ],
+      "id": "let-something-go__1"
+    },
+    {
+      "def": "to not [react]{react} to something that someone [say_1]{says}, [especially]{especially} something [annoying]{annoying}",
+      "examples": [
+        "Don\u2019t [let_1]{let} him [upset_1]{upset} you, [just_1]{just} [let_1]{let} it go."
+      ],
+      "id": "let-something-go__3"
+    }
+  ]
+}

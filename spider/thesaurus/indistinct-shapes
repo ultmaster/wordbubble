@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "comment": "a [lump_1]{lump} or amount of a [substance]{substance} that [does]{does} not have a [clear_1]{clear} or [definite]{definite} [shape_1]{shape}",
+      "entry": "mass",
+      "id": "mass_1#mass_1__6"
+    },
+    {
+      "comment": "a [solid_1]{solid} [piece_1]{piece} of something that [does]{does} not have a [regular_1]{regular} [shape_1]{shape}",
+      "entry": "lump",
+      "id": "lump_1#lump_1__1"
+    },
+    {
+      "comment": "a [shape_1]{shape} that is [difficult]{difficult} to see [clearly]{clearly}, for [example]{example} because it is [moving]{moving} very [fast_1]{fast}",
+      "entry": "blur",
+      "id": "blur_2#blur_2__1"
+    },
+    {
+      "comment": "something that seems to have no [definite]{definite} [shape_1]{shape}",
+      "entry": "blob",
+      "id": "blob#blob__4"
+    },
+    {
+      "comment": "something that is wrapped in something soft such as a blanket so that you cannot see its real shape",
+      "entry": "bundle",
+      "id": "bundle_1#bundle_1__8"
+    },
+    {
+      "comment": "a [shape_1]{shape} or [appearance]{appearance} that is not even, [straight_1]{straight}, or [smooth_1]{smooth}",
+      "entry": "irregularity",
+      "id": "irregularity#irregularity__4"
+    },
+    {
+      "comment": "a [complicated]{complicated} detail or [shape_1]{shape}",
+      "entry": "convolution",
+      "id": "convolution#convolution__1"
+    }
+  ],
+  "thesaurus": "Indistinct shapes",
+  "type": "Synonyms"
+}

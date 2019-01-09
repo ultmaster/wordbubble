@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "be quick to do something",
+  "senses": [
+    {
+      "def": "to do something very [quickly]{quickly}",
+      "examples": [
+        "The [student]{students} were [quick_1]{quick} to [learn]{learn} and made [good_1]{good} [progress_1]{progress}."
+      ],
+      "id": "be-quick-to-do-something__1"
+    },
+    {
+      "def": "to [react]{react} [quickly]{quickly} to something someone else has [said_1]{said} or done",
+      "examples": [
+        "Townsend was [quick_1]{quick} to [point_1]{point} out that it has been a [team_1]{team} [effort]{effort}."
+      ],
+      "id": "be-quick-to-do-something__3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "comment": "[flat_1]{flat} [shoe_1]{shoes} have very low [heel_1]{heels} or no [heel_1]{heels}",
+      "entry": "flat",
+      "id": "flat_1#flat_1__24"
+    },
+    {
+      "comment": "[heavy_1]{heavy} [clothes]{clothes}, [shoe_1]{shoes}, or [material_1]{materials} are thick and [strong]{strong}",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__7"
+    },
+    {
+      "comment": "strappy clothes or shoes have several straps",
+      "entry": "strappy",
+      "id": "strappy#strappy__1"
+    }
+  ],
+  "thesaurus": "Words used to describe shoes",
+  "type": "Related words"
+}

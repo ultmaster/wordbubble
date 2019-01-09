@@ -1,0 +1,36 @@
+{
+  "part": "noun",
+  "senses": [
+    {
+      "def": "the part of a [vehicle]{vehicle} that [take_1]{takes} [power_1]{power} from the [engine]{engine} to the [wheel_1]{wheels}",
+      "examples": [
+        "an [automatic_1]{automatic} transmission"
+      ],
+      "id": "transmission__1"
+    },
+    {
+      "def": "the [process_1]{process} of [send_1]{sending} out [electronic]{electronic} [signal_1]{signals} such as [radio_1]{radio} or [television]{television} [signal_1]{signals}, or a [signal_1]{signal} [sent]{sent} out in this way",
+      "examples": [
+        "[new]{New} [telephone_1]{telephone} [lines]{lines} [allow]{allow} [fast_1]{faster} [data]{data} transmission by [fax_1]{fax} or [modem]{modem}."
+      ],
+      "id": "transmission__3"
+    },
+    {
+      "def": "the [process_1]{process} of [send_1]{sending} [power_1]{power} or [energy]{energy} from one [place_1]{place} to another",
+      "examples": [
+        "[electricity]{electricity} transmission [lines]{lines}",
+        "the transmission of [stimulus]{stimuli} from the [brain_1]{brain} to the [pituitary-gland]{pituitary} [gland]{gland}"
+      ],
+      "id": "transmission__6"
+    },
+    {
+      "def": "a [process_1]{process} by which a [disease]{disease} [spread_1]{spreads} from one [person]{person} to another",
+      "examples": [
+        "[doctor_1]{Doctors} are [working]{working} to [prevent]{prevent} the transmission of the [virus]{virus}.",
+        "the [illegal_1]{illegal} transmission of [secret_1]{secret} [government]{government} [information]{information}"
+      ],
+      "id": "transmission__10"
+    }
+  ],
+  "word": "transmission"
+}

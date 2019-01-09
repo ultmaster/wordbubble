@@ -1,0 +1,41 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[separated]{separated} by [period_1]{periods} of time that are not [equal_1]{equal}",
+      "examples": [
+        "irregular [heartbeat]{heartbeats}",
+        "His [breathing]{breathing} had become irregular.",
+        "I [work_1]{work} irregular [hour]{hours}, so it\u2019s [hard_1]{hard} to [make_1]{make} [plan_1]{plans}."
+      ],
+      "id": "irregular_1__1"
+    },
+    {
+      "def": "not even, [smooth_1]{smooth}, or [straight_1]{straight} in [shape_1]{shape} or [appearance]{appearance}",
+      "examples": [
+        "an irregular [surface_1]{surface}",
+        "irregular [patch_1]{patches} of [shade_1]{shade}"
+      ],
+      "id": "irregular_1__6"
+    },
+    {
+      "def": "not [following_1]{following} the [rule_1]{rules}, [law]{laws}, or [usual]{usual} ways of [doing]{doing} [thing]{things}",
+      "examples": [
+        "[highly]{highly} irregular [behavior]{behavior}"
+      ],
+      "id": "irregular_1__9"
+    },
+    {
+      "def": "[constipated]{constipated}  (=unable to pass solid waste from your body regularly)",
+      "examples": [],
+      "id": "irregular_1__12"
+    },
+    {
+      "def": "irregular [soldier_1]{soldiers} are not part of the [official_1]{official} [army]{army} of a [country]{country}",
+      "examples": [],
+      "id": "irregular_1__13"
+    }
+  ],
+  "word": "irregular"
+}

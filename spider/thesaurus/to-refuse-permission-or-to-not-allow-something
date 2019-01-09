@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "to [state_1]{state} that something is not [allow]{allowed}, [accord_2]{according} to a [rule_1]{rule}, [law]{law}, or [custom_1]{custom}",
+      "entry": "forbid",
+      "id": "forbid#forbid__1"
+    },
+    {
+      "comment": "to [say_1]{say} [politely]{politely} that you will not [accept]{accept} something or do something",
+      "entry": "decline",
+      "id": "decline_1#decline_1__5"
+    },
+    {
+      "comment": "to [officially]{officially} [stop_1]{stop} something from being done, [especially]{especially} by [making]{making} it [illegal_1]{illegal}",
+      "entry": "prohibit",
+      "id": "prohibit#prohibit__1"
+    },
+    {
+      "comment": "to [say_1]{say} [officially]{officially} that someone is not [allow]{allowed} to do something",
+      "entry": "ban",
+      "id": "ban_1#ban_1__4"
+    },
+    {
+      "comment": "to [officially]{officially} [say_1]{say} that something must not [happen]{happen}, or that someone must not do something or go somewhere",
+      "entry": "bar",
+      "id": "bar_3#bar_3__1"
+    },
+    {
+      "comment": "to [make_1]{make} a [determined]{determined} [attempt_1]{attempt} to [stop_1]{stop} [people_1]{people} from [doing]{doing} something [bad_1]{bad} or [illegal_1]{illegal}",
+      "entry": "clamp down",
+      "id": "clamp-down#clamp-down__1"
+    },
+    {
+      "comment": "to [definitely]{definitely} not [allow]{allow} or [accept]{accept} something",
+      "entry": "not brook something",
+      "id": "brook_2#brook_2__1"
+    },
+    {
+      "comment": "to not give someone what they [ask_1]{ask} for, or to not [let_1]{let} someone do what they [ask_1]{ask} to do",
+      "entry": "refuse",
+      "id": "refuse_1#refuse_1__9"
+    },
+    {
+      "comment": "to not [allow]{allow} someone to have something",
+      "entry": "deny",
+      "id": "deny#deny__15"
+    },
+    {
+      "comment": "to [say_1]{say} [officially]{officially} that something cannot be [accepted]{accepted} because it is [illegal_1]{illegal} or not [allow]{allowed} by the [rule_1]{rules}",
+      "entry": "disallow",
+      "id": "disallow#disallow__1"
+    },
+    {
+      "comment": "to [refuse_1]{refuse} to [allow]{allow} [people_1]{people} or [group_1]{groups} whose [view_1]{views} are [regard_1]{regarded} as [unacceptable]{unacceptable} to [speak_1]{speak} at a [debate_1]{debate} or [meeting]{meeting}",
+      "entry": "no-platform",
+      "id": "no-platform#no-platform__1"
+    }
+  ],
+  "thesaurus": "To refuse permission, or to not allow something",
+  "type": "Synonyms"
+}

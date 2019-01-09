@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "if a [surface_1]{surface} [reflect]{reflects} something, you can see the [image_1]{image} of that thing on the [surface_1]{surface}",
+      "entry": "reflect",
+      "id": "reflect#reflect__7"
+    },
+    {
+      "comment": "if [light_1]{light} [flood_1]{floods} into a [place_1]{place} or [flood_1]{floods} a [place_1]{place}, the [place_1]{place} becomes [fill_1]{filled} with [bright_1]{bright} [light_1]{light}",
+      "entry": "flood",
+      "id": "flood_1#flood_1__13"
+    },
+    {
+      "comment": "if the [light_1]{light} [fade]{fades}, it [get]{gets} [dark_1]{dark}",
+      "entry": "fade",
+      "id": "fade#fade__1"
+    },
+    {
+      "comment": "if [light_1]{light} or [sound_1]{sound} [filter_1]{filters} into a [place_1]{place}, only a [little_1]{little} of it [enter]{enters} that [place_1]{place}",
+      "entry": "filter",
+      "id": "filter_2#filter_2__3"
+    },
+    {
+      "comment": "if a [light_1]{light} or [image_1]{image} [waver]{wavers}, it is not [steady_1]{steady} and it [shake_1]{shakes} or [change_1]{changes} a [lot_1]{lot}",
+      "entry": "waver",
+      "id": "waver#waver__5"
+    },
+    {
+      "comment": "if [light_1]{light} [bend_1]{bends}, it [change_1]{changes} [direction]{direction}",
+      "entry": "bend",
+      "id": "bend_1#bend_1__15"
+    },
+    {
+      "comment": "if a lens or mirror focuses rays of light, or if they focus, they meet at a particular point",
+      "entry": "focus",
+      "id": "focus_1#focus_1__14"
+    },
+    {
+      "comment": "if [light_1]{light} [catch_1]{catches} something, or if something [catch_1]{catches} the [light_1]{light}, the [light_1]{light} [shine_1]{shines} on it and [make_1]{makes} it [look_1]{look} [bright_1]{bright} and [shiny]{shiny}",
+      "entry": "catch",
+      "id": "catch_1#catch_1__70"
+    },
+    {
+      "comment": "to fill an [area]{area} with [light_1]{light}",
+      "entry": "bathe",
+      "id": "bathe#bathe__7"
+    },
+    {
+      "comment": "if something such as [light_1]{light} [play_1]{plays} somewhere, it [move_1]{moves} [quickly]{quickly} over a [surface_1]{surface}, [appear]{appearing} in [different]{different} [place_1]{places} for a very [short_1]{short} time",
+      "entry": "play",
+      "id": "play_1#play_1__38"
+    }
+  ],
+  "thesaurus": "What light can do",
+  "type": "Synonyms"
+}

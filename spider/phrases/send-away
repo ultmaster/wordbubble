@@ -1,0 +1,13 @@
+{
+  "part": "phrase",
+  "phrase": "send away",
+  "senses": [
+    {
+      "def": "to [order_1]{order} someone to [leave_1]{leave} a [place_1]{place}",
+      "examples": [
+        "His [lawyer]{lawyer} was [sent]{sent} [away_1]{away} by the [security]{security} [guard_1]{guards}."
+      ],
+      "id": "send-away__1"
+    }
+  ]
+}

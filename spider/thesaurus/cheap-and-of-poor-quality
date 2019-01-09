@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "not [expensive]{expensive} and not of [good_1]{good} [quality_1]{quality}",
+      "entry": "cheap",
+      "id": "cheap_1#cheap_1__8"
+    },
+    {
+      "comment": "[inexpensive]{inexpensive} and of [bad_1]{bad} [quality_1]{quality}",
+      "entry": "tawdry",
+      "id": "tawdry#tawdry__3"
+    },
+    {
+      "comment": "[used]{used} about something that [look_1]{looks} [inexpensive]{inexpensive} and of [poor_1]{poor} [quality_1]{quality} or something that [show_1]{shows} [bad_1]{bad} [taste_1]{taste}",
+      "entry": "tacky",
+      "id": "tacky#tacky__1"
+    },
+    {
+      "comment": "[inexpensive]{inexpensive} and [unimportant]{unimportant}",
+      "entry": "nickel-and-dime",
+      "id": "nickel-and-dime_1#nickel-and-dime_1__1"
+    },
+    {
+      "comment": "something that is [trashy]{trashy} is very [badly]{badly} made or of very [bad_1]{bad} [quality_1]{quality}",
+      "entry": "trashy",
+      "id": "trashy#trashy__1"
+    },
+    {
+      "comment": "not [expensive]{expensive} or [valuable]{valuable}",
+      "entry": "cheapjack",
+      "id": "cheapjack#cheapjack__1"
+    },
+    {
+      "comment": "[gimcrack]{gimcrack} [object_1]{objects} [appear]{appear} [attractive]{attractive} and [expensive]{expensive}, but are in [fact]{fact} [badly]{badly} made and of [little_1]{little} [value_1]{value}",
+      "entry": "gimcrack",
+      "id": "gimcrack#gimcrack__1"
+    },
+    {
+      "comment": "[built_1]{built} very [quickly]{quickly} and with as [little_1]{little} [money]{money} as [possible_1]{possible}, and therefore not of [good_1]{good} [quality_1]{quality}",
+      "entry": "jerry-built",
+      "id": "jerry-built#jerry-built__1"
+    },
+    {
+      "comment": "[used]{used} about [thing]{things} that are [inexpensive]{inexpensive} or of low [quality_1]{quality}, or about the [attitude]{attitude} of [people_1]{people} who do not [like_1]{like} to [spend]{spend} [money]{money}",
+      "entry": "bargain basement",
+      "id": "bargain-basement#bargain-basement__2"
+    },
+    {
+      "comment": "[inexpensive]{inexpensive} and of low [quality_1]{quality}",
+      "entry": "downscale",
+      "id": "downscale#downscale__1"
+    }
+  ],
+  "thesaurus": "Cheap and of poor quality",
+  "type": "Synonyms"
+}

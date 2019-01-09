@@ -1,0 +1,136 @@
+{
+  "entries": [
+    {
+      "comment": "with an arch  (=curved shape) at the top",
+      "entry": "arched",
+      "id": "arched#arched__1"
+    },
+    {
+      "comment": "in the [shape_1]{shape} of a [circle_1]{circle}",
+      "entry": "circular",
+      "id": "circular_1#circular_1__1"
+    },
+    {
+      "comment": "in the shape of a cone",
+      "entry": "conical",
+      "id": "conical#conical__1"
+    },
+    {
+      "comment": "in a spiral shape, like a corkscrew",
+      "entry": "corkscrew",
+      "id": "corkscrew_3#corkscrew_3__1"
+    },
+    {
+      "comment": "in the [shape_1]{shape} of an X",
+      "entry": "crosswise",
+      "id": "crosswise#crosswise__2"
+    },
+    {
+      "comment": "shaped like a cross",
+      "entry": "cruciform",
+      "id": "cruciform#cruciform__1"
+    },
+    {
+      "comment": "[shaped_1]{shaped} [like_1]{like} a [cylinder]{cylinder}",
+      "entry": "cylindrical",
+      "id": "cylindrical#cylindrical__1"
+    },
+    {
+      "comment": "[fitted]{fitted} with or [shaped_1]{shaped} [like_1]{like} a [dome]{dome}",
+      "entry": "domed",
+      "id": "domed#domed__1"
+    },
+    {
+      "comment": "shaped like an ellipse",
+      "entry": "elliptical",
+      "id": "elliptical#elliptical__2"
+    },
+    {
+      "comment": "[shaped_1]{shaped} [like_1]{like} a [hook_1]{hook}",
+      "entry": "hooked",
+      "id": "hooked#hooked__3"
+    },
+    {
+      "comment": "[shaped_1]{shaped} [like_1]{like} a [horn_1]{horn}",
+      "entry": "horned",
+      "id": "horned#horned__3"
+    },
+    {
+      "comment": "in the [shape_1]{shape} of an [egg_1]{egg}",
+      "entry": "ovoid",
+      "id": "ovoid#ovoid__1"
+    },
+    {
+      "comment": "[curved]{curved} in [shape_1]{shape} and [small_1]{smaller} at the top",
+      "entry": "pear-shaped",
+      "id": "pear-shaped#pear-shaped__1"
+    },
+    {
+      "comment": "[shaped_1]{shaped} [like_1]{like} a [prism]{prism} or [contain]{containing} a [prism]{prism}",
+      "entry": "prismatic",
+      "id": "prismatic#prismatic__1"
+    },
+    {
+      "comment": "with the [shape_1]{shape} of a [rectangle]{rectangle}",
+      "entry": "rectangular",
+      "id": "rectangular#rectangular__1"
+    },
+    {
+      "comment": "in the [shape_1]{shape} of a [rhomboid_1]{rhomboid}",
+      "entry": "rhomboid",
+      "id": "rhomboid_2#rhomboid_2__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [rhombus]{rhombus}",
+      "entry": "rhomboid",
+      "id": "rhomboid_2#rhomboid_2__2"
+    },
+    {
+      "comment": "in the [shape_1]{shape} of a [semicircle]{semicircle}",
+      "entry": "semicircular",
+      "id": "semicircular#semicircular__1"
+    },
+    {
+      "comment": "in the [shape_1]{shape} of a [semicircle]{semicircle}",
+      "entry": "semicircular",
+      "id": "semicircular#semicircular__2"
+    },
+    {
+      "comment": "with a [particular_1]{particular} [shape_1]{shape}",
+      "entry": "shaped",
+      "id": "shaped_1#shaped_1__1"
+    },
+    {
+      "comment": "[used]{used} with many [noun_1]{nouns} to [make_1]{make} [adjective]{adjectives} [describe]{describing} the [shape_1]{shape} of something",
+      "entry": "-shaped",
+      "id": "shaped_2#shaped_2__1"
+    },
+    {
+      "comment": "round [like_1]{like} a [ball_1]{ball}",
+      "entry": "spherical",
+      "id": "spherical#spherical__1"
+    },
+    {
+      "comment": "in the [shape_1]{shape} of a [square_1]{square}",
+      "entry": "square",
+      "id": "square_2#square_2__1"
+    },
+    {
+      "comment": "[similar]{similar} to a [square_1]{square} in [shape_1]{shape}",
+      "entry": "squarish",
+      "id": "squarish#squarish__1"
+    },
+    {
+      "comment": "[shaped_1]{shaped} [like_1]{like} a [triangle]{triangle}",
+      "entry": "triangular",
+      "id": "triangular#triangular__1"
+    },
+    {
+      "comment": "[shaped_1]{shaped} [like_1]{like} a [tube]{tube}, or made from [tube]{tubes}",
+      "entry": "tubular",
+      "id": "tubular#tubular__1"
+    }
+  ],
+  "thesaurus": "Shaped like a specific object",
+  "type": "Related words"
+}

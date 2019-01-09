@@ -1,0 +1,391 @@
+{
+  "entries": [
+    {
+      "comment": "[alternate_1]{alternating} [current_1]{current}",
+      "entry": "AC",
+      "id": "ac_2#ac_2__1"
+    },
+    {
+      "comment": "an [active]{active} [electrical_1]{electrical} system is [working]{working}",
+      "entry": "active",
+      "id": "active#active__17"
+    },
+    {
+      "comment": "a flow of electric current that keeps changing direction at a very fast rate",
+      "entry": "alternating current",
+      "id": "alternating-current#alternating-current__1"
+    },
+    {
+      "comment": "a [flash_1]{flash} of [light_1]{light} that [happen]{happens} when [electricity]{electricity} [flow_1]{flows} between two [separated]{separated} [point_1]{points}",
+      "entry": "arc",
+      "id": "arc_1#arc_1__5"
+    },
+    {
+      "comment": "if [electricity]{electricity} [arc_1]{arcs}, it [make_1]{makes} a [flash_1]{flash} of [light_1]{light} as it [flow_1]{flows} between two [separate_1]{separate} [point_1]{points}",
+      "entry": "arc",
+      "id": "arc_2#arc_2__2"
+    },
+    {
+      "comment": "a [light_1]{light} that is [produce_1]{produced} when [electricity]{electricity} [flow_1]{flows} between two [separated]{separated} [point_1]{points}",
+      "entry": "arc light",
+      "id": "arc-light#arc-light__1"
+    },
+    {
+      "comment": "a [short_1]{short} [period_1]{period} when the [electricity]{electricity} [supply_1]{supply} to a [building]{building} or [district]{district} is [stop_1]{stopped}, [especially]{especially} at [night_1]{night}",
+      "entry": "blackout",
+      "id": "blackout#blackout__1"
+    },
+    {
+      "comment": "a [temporary]{temporary} [reduction]{reduction} of [electric]{electric} [power_1]{power} in an [area]{area}",
+      "entry": "brownout",
+      "id": "brownout#brownout__1"
+    },
+    {
+      "comment": "the amount or type of electrical force that something has. The protons in an atom have a positive charge, and the electrons have a negative charge.",
+      "entry": "charge",
+      "id": "charge_1#charge_1__17"
+    },
+    {
+      "comment": "to put electricity into a piece of electrical equipment such as a battery",
+      "entry": "charge",
+      "id": "charge_2#charge_2__23"
+    },
+    {
+      "comment": "an electric current that flows from positive to negative",
+      "entry": "conventional current",
+      "id": "conventional-current#conventional-current__1"
+    },
+    {
+      "comment": "a [flow_1]{flow} of [electricity]{electricity}",
+      "entry": "current",
+      "id": "current_2#current_2__6"
+    },
+    {
+      "comment": "[electricity]{electricity} that [flow_1]{flows} from one [place_1]{place} to another",
+      "entry": "current electricity",
+      "id": "current-electricity#current-electricity__1"
+    },
+    {
+      "comment": "direct current: electric current that always flows in the same direction. Electric current that changes direction is called AC or alternating current.",
+      "entry": "DC",
+      "id": "dc#dc__1"
+    },
+    {
+      "comment": "an electric current that flows in one direction only. It is the form in which batteries supply electricity.",
+      "entry": "direct current",
+      "id": "direct-current#direct-current__1"
+    },
+    {
+      "comment": "if something [discharge_1]{discharges} [electricity]{electricity}, or if [electricity]{electricity} is [discharge_1]{discharged}, it [flow_1]{flows} out of that thing",
+      "entry": "discharge",
+      "id": "discharge_1#discharge_1__16"
+    },
+    {
+      "comment": "the [flow_1]{flow} of [electricity]{electricity}, for [example]{example} from a [piece_1]{piece} of [equipment]{equipment} or during a [storm_1]{storm}",
+      "entry": "discharge",
+      "id": "discharge_2#discharge_2__14"
+    },
+    {
+      "comment": "[used]{used} for [carry_1]{carrying} [electricity]{electricity}",
+      "entry": "electric",
+      "id": "electric#electric__4"
+    },
+    {
+      "comment": "[relate]{relating} to [electricity]{electricity}",
+      "entry": "electric",
+      "id": "electric#electric__6"
+    },
+    {
+      "comment": "[relate]{relating} to [electricity]{electricity}",
+      "entry": "electrical",
+      "id": "electrical#electrical__3"
+    },
+    {
+      "comment": "a form of [energy]{energy} that can [produce_1]{produce} [light_1]{light}, [heat_1]{heat}, and [power_1]{power} for [machine_1]{machines}, [computer]{computers}, [television]{televisions}, etc.",
+      "entry": "electricity",
+      "id": "electricity#electricity__1"
+    },
+    {
+      "comment": "the [process_1]{process} of [making]{making} something [work_1]{work} by [electricity]{electricity}, or of [bring]{bringing} a [supply_1]{supply} of [electricity]{electricity} to a [building]{building} or [town]{town}",
+      "entry": "electrification",
+      "id": "electrification#electrification__1"
+    },
+    {
+      "comment": "something that is [electrified]{electrified} has [electricity]{electricity} [passing_1]{passing} through it",
+      "entry": "electrified",
+      "id": "electrified#electrified__1"
+    },
+    {
+      "comment": "to [provide]{provide} something such as a [town]{town} or a [transportation]{transportation} system with a [supply_1]{supply} of [electricity]{electricity}",
+      "entry": "electrify",
+      "id": "electrify#electrify__3"
+    },
+    {
+      "comment": "a powerful magnet that uses an electric current passed in a wire around it to produce its force",
+      "entry": "electromagnet",
+      "id": "electromagnet#electromagnet__1"
+    },
+    {
+      "comment": "relating to the use of an electric current to produce a magnetic field",
+      "entry": "electromagnetic",
+      "id": "electromagnetic#electromagnetic__1"
+    },
+    {
+      "comment": "using electricity and extremely small electrical parts such as microchips and transistors",
+      "entry": "electronic",
+      "id": "electronic#electronic__1"
+    },
+    {
+      "comment": "[involve]{involving} the use of [electronic]{electronic} [equipment]{equipment}, [especially]{especially} [computer]{computers}",
+      "entry": "electronic",
+      "id": "electronic#electronic__4"
+    },
+    {
+      "comment": "by a [piece_1]{piece} of [electronic]{electronic} [equipment]{equipment}, [especially]{especially} a computer",
+      "entry": "electronically",
+      "id": "electronically#electronically__1"
+    },
+    {
+      "comment": "[electronic]{electronic} [equipment]{equipment}, or [equipment]{equipment} with [electronic]{electronic} [part_1]{parts}",
+      "entry": "electronics",
+      "id": "electronics#electronics__4"
+    },
+    {
+      "comment": "a form of [power_1]{power} such as [electricity]{electricity}, [heat_1]{heat}, or [light_1]{light} that is [used]{used} for [making]{making} [thing]{things} [work_1]{work}",
+      "entry": "energy",
+      "id": "energy#energy__7"
+    },
+    {
+      "comment": "a flat battery does not have enough power left in it",
+      "entry": "flat",
+      "id": "flat_1#flat_1__22"
+    },
+    {
+      "comment": "if an [electric]{electric} [current_1]{current} [flow_1]{flows}, it [pass_1]{passes} [continuous#continuous__6]{continuously} through something",
+      "entry": "flow",
+      "id": "flow_2#flow_2__6"
+    },
+    {
+      "comment": "a piece of electrical equipment that is fused contains a fuse",
+      "entry": "fused",
+      "id": "fused#fused__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [wire_1]{wires} that [carry_1]{carries} the [electricity]{electricity} [supply_1]{supply}",
+      "entry": "grid",
+      "id": "grid#grid__6"
+    },
+    {
+      "comment": "[electrical_1]{electrical} [power_1]{power} and [heating]{heating}",
+      "entry": "hydro",
+      "id": "hydro#hydro__1"
+    },
+    {
+      "comment": "[use_1]{using} [water_1]{water} [power_1]{power} to [produce_1]{produce} [electricity]{electricity}",
+      "entry": "hydroelectric",
+      "id": "hydroelectric#hydroelectric__1"
+    },
+    {
+      "comment": "a [measure_1]{measure} of how [difficult]{difficult} it is for [electricity]{electricity} to [flow_1]{flow} through a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment}",
+      "entry": "impedance",
+      "id": "impedance#impedance__1"
+    },
+    {
+      "comment": "an [electrical_1]{electrical} [signal_1]{signal}, for [example]{example} one that is [pass_1]{passed} from a [nerve_1]{nerve} to a [muscle_1]{muscle}",
+      "entry": "impulse",
+      "id": "impulse#impulse__9"
+    },
+    {
+      "comment": "the production of electrical or magnetic forces in an object by other electrical or magnetic forces near it",
+      "entry": "induction",
+      "id": "induction#induction__8"
+    },
+    {
+      "comment": "relating to electrical or magnetic force that is produced by induction",
+      "entry": "inductive",
+      "id": "inductive#inductive__2"
+    },
+    {
+      "comment": "[electrical_1]{electrical} or other [energy]{energy} that is put into a [machine_1]{machine}",
+      "entry": "input",
+      "id": "input_1#input_1__12"
+    },
+    {
+      "comment": "in a system of [connection]{connections} that [allow]{allows} [electricity]{electricity} to [pass_1]{pass} from one part to another in the [correct_1]{correct} [order_1]{order}",
+      "entry": "in series",
+      "id": "in-series#in-series__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [strong]{strong} [increase_1]{increase} in [energy]{energy}",
+      "entry": "jolt",
+      "id": "jolt_2#jolt_2__7"
+    },
+    {
+      "comment": "a [live_1]{live} [wire_1]{wire} or [piece_1]{piece} of [equipment]{equipment} is [connected]{connected} to the [electricity]{electricity} [supply_1]{supply} and has [electricity]{electricity} [going_1]{going} through it",
+      "entry": "live",
+      "id": "live_2#live_2__12"
+    },
+    {
+      "comment": "electrical power produced or used in small quantities, usually close to the place where it is needed so that large power stations are not needed",
+      "entry": "micropower",
+      "id": "micropower#micropower__1"
+    },
+    {
+      "comment": "with the same electrical charge as an electron",
+      "entry": "negative",
+      "id": "negative_1#negative_1__20"
+    },
+    {
+      "comment": "a neutral wire does not have an electrical charge",
+      "entry": "neutral",
+      "id": "neutral_1#neutral_1__13"
+    },
+    {
+      "comment": "[use_1]{using} or [involve]{involving} [electricity]{electricity} that comes from [source_1]{sources} other than the [national_1]{national} or [central]{central} [power_1]{power} [supply_1]{supply}",
+      "entry": "offgrid",
+      "id": "offgrid#offgrid__1"
+    },
+    {
+      "comment": "a [period_1]{period} of time when the [electricity]{electricity} [supply_1]{supply} in a [particular_1]{particular} [place_1]{place} [stop_1]{stops} [working]{working}",
+      "entry": "outage",
+      "id": "outage#outage__1"
+    },
+    {
+      "comment": "the [electricity]{electricity} or [power_1]{power} [produce_1]{produced} by a [piece_1]{piece} of [equipment]{equipment} or an [engine]{engine}",
+      "entry": "output",
+      "id": "output_1#output_1__6"
+    },
+    {
+      "comment": "to put too much power into a battery",
+      "entry": "overcharge",
+      "id": "overcharge#overcharge__3"
+    },
+    {
+      "comment": "relating to the pole of a battery or magnet",
+      "entry": "polar",
+      "id": "polar#polar__6"
+    },
+    {
+      "comment": "the condition of having opposite electrical charges",
+      "entry": "polarity",
+      "id": "polarity#polarity__3"
+    },
+    {
+      "comment": "one of the two ends of a magnet or battery",
+      "entry": "pole",
+      "id": "pole_1#pole_1__6"
+    },
+    {
+      "comment": "with the same electrical charge as a proton",
+      "entry": "positive",
+      "id": "positive_1#positive_1__33"
+    },
+    {
+      "comment": "the [supply_1]{supply} of [electricity]{electricity} to your [home_1]{home}, [office]{office}, [community]{community}, etc.",
+      "entry": "power",
+      "id": "power_1#power_1__30"
+    },
+    {
+      "comment": "a [power_1]{power} [failure]{failure}",
+      "entry": "power cut",
+      "id": "power-cut#power-cut__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which there is no [electricity]{electricity} [supply_1]{supply} for a [period_1]{period} of time",
+      "entry": "power failure",
+      "id": "power-failure#power-failure__1"
+    },
+    {
+      "comment": "a thick [wire_1]{wire} that [carry_1]{carries} [electricity]{electricity} above or below the [ground_1]{ground}",
+      "entry": "power line",
+      "id": "power-line#power-line__1"
+    },
+    {
+      "comment": "one of a [series]{series} of very [tall]{tall} [metal_1]{metal} [structure_1]{structures} [used]{used} for [holding]{holding} the [wire_1]{wires} that [carry_1]{carry} [electric]{electric} [power_1]{power} [high_1]{high} above the [ground_1]{ground}",
+      "entry": "pylon",
+      "id": "pylon#pylon__1"
+    },
+    {
+      "comment": "to put more power into a battery",
+      "entry": "recharge",
+      "id": "recharge#recharge__1"
+    },
+    {
+      "comment": "the [ability_1]{ability} of something to [stop_1]{stop} the [flow_1]{flow} of [electricity]{electricity}",
+      "entry": "resistance",
+      "id": "resistance#resistance__13"
+    },
+    {
+      "comment": "to [replace]{replace} all the [wire_1]{wires} that [carry_1]{carry} [electricity]{electricity} in a [building]{building}, [car]{car}, or [piece_1]{piece} of [equipment]{equipment}",
+      "entry": "rewire",
+      "id": "rewire#rewire__1"
+    },
+    {
+      "comment": "a solid substance such as silicon that allows some electricity to pass through it, used for making electronic equipment such as computers",
+      "entry": "semiconductor",
+      "id": "semiconductor#semiconductor__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [flow_1]{flow} of [electricity]{electricity} that [go_1]{goes} through your body that sometimes [happen]{happens} when you [touch_1]{touch} [certain_1]{certain} [object_1]{objects}",
+      "entry": "shock",
+      "id": "shock_1#shock_1__15"
+    },
+    {
+      "comment": "to give someone an [electric]{electric} [shock_1]{shock}",
+      "entry": "shock",
+      "id": "shock_2#shock_2__4"
+    },
+    {
+      "comment": "a [short_1]{short} [circuit]{circuit}",
+      "entry": "short",
+      "id": "short_3#short_3__2"
+    },
+    {
+      "comment": "to [short-circuit_2]{short-circuit}, or to [make_1]{make} something do this",
+      "entry": "short",
+      "id": "short_4#short_4__1"
+    },
+    {
+      "comment": "a [bad_1]{bad} [connection]{connection} in the [wire_1]{wires} of a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment}, which [prevent]{prevents} the [equipment]{equipment} from [working]{working}",
+      "entry": "short circuit",
+      "id": "short-circuit_1#short-circuit_1__1"
+    },
+    {
+      "comment": "to have a [short_1]{short} [circuit]{circuit}, or to [make_1]{make} a [piece_1]{piece} of [electrical_1]{electrical} [equipment]{equipment} have a [short_1]{short} [circuit]{circuit}",
+      "entry": "short-circuit",
+      "id": "short-circuit_2#short-circuit_2__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [increase_1]{increase} in the amount of [electricity]{electricity} that a system [produce_1]{produces}",
+      "entry": "spike",
+      "id": "spike_1#spike_1__4"
+    },
+    {
+      "comment": "electricity that does not flow in a current but is found in some objects when they rub together and can give an electric shock",
+      "entry": "static electricity",
+      "id": "static-electricity#static-electricity__1"
+    },
+    {
+      "comment": "a [place_1]{place} that [electricity]{electricity} [pass_1]{passes} through on its way from where it is [produce_1]{produced} to where it is [used]{used}",
+      "entry": "substation",
+      "id": "substation#substation__1"
+    },
+    {
+      "comment": "a [sudden_1]{sudden} [increase_1]{increase} in [electrical_1]{electrical} [power_1]{power} that can [damage_1]{damage} [equipment]{equipment} [connected]{connected} to it",
+      "entry": "surge",
+      "id": "surge_2#surge_2__3"
+    },
+    {
+      "comment": "a piece of equipment that gets power from one source and then changes that power so that it can be used by another system",
+      "entry": "transducer",
+      "id": "transducer#transducer__1"
+    },
+    {
+      "comment": "a piece of equipment used for measuring voltage",
+      "entry": "voltmeter",
+      "id": "voltmeter#voltmeter__1"
+    }
+  ],
+  "thesaurus": "Electricity and electrical power",
+  "type": "Related words"
+}

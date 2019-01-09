@@ -1,0 +1,146 @@
+{
+  "entries": [
+    {
+      "comment": "made of [acrylic]{acrylic}",
+      "entry": "acrylic",
+      "id": "acrylic#acrylic__2"
+    },
+    {
+      "comment": "made of [alabaster_1]{alabaster}",
+      "entry": "alabaster",
+      "id": "alabaster_2#alabaster_2__2"
+    },
+    {
+      "comment": "to be made from a [particular_1]{particular} [material_1]{material}",
+      "entry": "be built of something",
+      "id": "be-built-of-something#be-built-of-something__1"
+    },
+    {
+      "comment": "made of [bone_1]{bone}",
+      "entry": "bone",
+      "id": "bone_1#bone_1__7"
+    },
+    {
+      "comment": "made of [cardboard_1]{cardboard}",
+      "entry": "cardboard",
+      "id": "cardboard_2#cardboard_2__3"
+    },
+    {
+      "comment": "made of [concrete_1]{concrete}",
+      "entry": "concrete",
+      "id": "concrete_1#concrete_1__6"
+    },
+    {
+      "comment": "made of [clay]{clay}",
+      "entry": "earthen",
+      "id": "earthen#earthen__1"
+    },
+    {
+      "comment": "made of [dirt]{dirt}",
+      "entry": "earthen",
+      "id": "earthen#earthen__3"
+    },
+    {
+      "comment": "made of [elastic_1]{elastic}",
+      "entry": "elastic",
+      "id": "elastic_2#elastic_2__1"
+    },
+    {
+      "comment": "made of [glass]{glass}",
+      "entry": "glass",
+      "id": "glass#glass__6"
+    },
+    {
+      "comment": "made of [glass]{glass} or [decorate]{decorated} with [glass]{glass}",
+      "entry": "glazed",
+      "id": "glazed#glazed__1"
+    },
+    {
+      "comment": "made of a [hard_1]{hard} [strong]{strong} [substance]{substance} [like_1]{like} [horn_1]{horn}",
+      "entry": "horny",
+      "id": "horny#horny__2"
+    },
+    {
+      "comment": "made of [ice_1]{ice}, or [relate]{relating} to [ice_1]{ice}",
+      "entry": "ice",
+      "id": "ice_1#ice_1__7"
+    },
+    {
+      "comment": "an [object_1]{object} made of [ivory_1]{ivory}",
+      "entry": "ivory",
+      "id": "ivory_1#ivory_1__3"
+    },
+    {
+      "comment": "made of lace, or decorated with lace",
+      "entry": "lacy",
+      "id": "lacy#lacy__1"
+    },
+    {
+      "comment": "made of [marble]{marble}",
+      "entry": "marbled",
+      "id": "marbled#marbled__3"
+    },
+    {
+      "comment": "[look_1]{looking}, [feeling_1]{feeling}, [smell_2]{smelling}, or [tasting]{tasting} [like_1]{like} [oil_1]{oil}",
+      "entry": "oily",
+      "id": "oily#oily__7"
+    },
+    {
+      "comment": "[used]{used} for [saying]{saying} what [kind_1]{kind} of [material_1]{material} was [used]{used} for [making]{making} something",
+      "entry": "out of wood/metal/plastic etc.",
+      "id": "out-of-wood-metal-plastic-etc#out-of-wood-metal-plastic-etc__1"
+    },
+    {
+      "comment": "made of [paper_1]{paper}",
+      "entry": "paper",
+      "id": "paper_2#paper_2__1"
+    },
+    {
+      "comment": "made of [plastic_1]{plastic}",
+      "entry": "plastic",
+      "id": "plastic_2#plastic_2__1"
+    },
+    {
+      "comment": "made of [reed]{reeds}",
+      "entry": "reed",
+      "id": "reed#reed__2"
+    },
+    {
+      "comment": "[similar]{similar} to [rubber]{rubber}",
+      "entry": "rubbery",
+      "id": "rubbery#rubbery__1"
+    },
+    {
+      "comment": "made with thin [flat_1]{flat} [piece_1]{pieces} of [wood]{wood}, [metal_1]{metal}, etc.",
+      "entry": "slatted",
+      "id": "slatted#slatted__1"
+    },
+    {
+      "comment": "made of [stone_1]{stone}",
+      "entry": "stone",
+      "id": "stone_1#stone_1__3"
+    },
+    {
+      "comment": "made of [glass]{glass}, or [similar]{similar} to [glass]{glass} in [appearance]{appearance}",
+      "entry": "vitreous",
+      "id": "vitreous#vitreous__1"
+    },
+    {
+      "comment": "made of [wax_1]{wax}",
+      "entry": "waxen",
+      "id": "waxen#waxen__2"
+    },
+    {
+      "comment": "made of [wood]{wood}",
+      "entry": "wooden",
+      "id": "wooden#wooden__1"
+    },
+    {
+      "comment": "[similar]{similar} to [wood]{wood}",
+      "entry": "woody",
+      "id": "woody#woody__3"
+    }
+  ],
+  "thesaurus": "Made of or similar to a specific substance",
+  "type": "Related words"
+}

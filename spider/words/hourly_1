@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[happening_1]{happening} once every [hour]{hour}",
+      "examples": [
+        "hourly [news]{news} [bulletin]{bulletins}"
+      ],
+      "id": "hourly_1__1"
+    },
+    {
+      "def": "[relate]{relating} to one [hour]{hour} of [work_1]{work}",
+      "examples": [
+        "His hourly [fee]{fee} is $75.",
+        "We [charge_1]{charge} [client]{clients} on an hourly [basis]{basis}."
+      ],
+      "id": "hourly_1__3"
+    }
+  ],
+  "word": "hourly"
+}

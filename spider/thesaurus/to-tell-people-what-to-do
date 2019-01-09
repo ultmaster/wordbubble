@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "to [tell_1]{tell} someone to do something, or to [say_1]{say} that something should be done, in a way that [show_1]{shows} you have [authority]{authority}",
+      "entry": "order",
+      "id": "order_2#order_2__8"
+    },
+    {
+      "comment": "to keep [telling]{telling} someone what to do as if you have [authority]{authority} over them, in a way that [annoy]{annoys} [people_1]{people}",
+      "entry": "order around",
+      "id": "order-around#order-around__1"
+    },
+    {
+      "comment": "to [order_1]{order} or [strongly]{strongly} [advise]{advise} someone to do something",
+      "entry": "tell",
+      "id": "tell#tell__22"
+    },
+    {
+      "comment": "to [officially]{officially} [order_1]{order} someone to do something",
+      "entry": "command",
+      "id": "command_2#command_2__5"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone [exactly]{exactly} what to do and how to [behave]{behave}",
+      "entry": "dictate",
+      "id": "dictate_1#dictate_1__5"
+    },
+    {
+      "comment": "to [tell_1]{tell} someone to do something, [especially]{especially} [officially]{officially} or as their [employer]{employer}",
+      "entry": "instruct",
+      "id": "instruct#instruct__1"
+    },
+    {
+      "comment": "to keep [telling]{telling} other [people_1]{people} what to do",
+      "entry": "boss around",
+      "id": "boss_2#boss_2__2"
+    },
+    {
+      "comment": "to keep [telling]{telling} someone what to do in an [unfair]{unfair} and [unpleasant]{unpleasant} way",
+      "entry": "push around",
+      "id": "push-around#push-around__1"
+    },
+    {
+      "comment": "if a [rule_1]{rule}, [law]{law}, [contract_1]{contract}, etc. [require]{requires} something, you must do that thing",
+      "entry": "require",
+      "id": "require#require__5"
+    },
+    {
+      "comment": "to [order_1]{order} someone to do something",
+      "entry": "tax with",
+      "id": "tax-with#tax-with__2"
+    }
+  ],
+  "thesaurus": "To tell people what to do",
+  "type": "Synonyms"
+}

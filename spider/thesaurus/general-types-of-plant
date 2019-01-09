@@ -1,0 +1,256 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} [plant_1]{plant} that [grow]{grows} on [high_1]{high} [mountain]{mountains}",
+      "entry": "alpine",
+      "id": "alpine_2#alpine_2__1"
+    },
+    {
+      "comment": "a plant that grows, reproduces, and dies in the same year",
+      "entry": "annual",
+      "id": "annual_2#annual_2__2"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [produce_1]{produces} [bean_1]{beans}",
+      "entry": "bean",
+      "id": "bean_1#bean_1__4"
+    },
+    {
+      "comment": "a [plant_1]{plant}, [usually]{usually} with [flower_1]{flowers}, that is put in the [garden_1]{garden} at the [beginning]{beginning} of a [season_1]{season} and [thrown]{thrown} [away_1]{away} at the [end_1]{end}",
+      "entry": "bedding plant",
+      "id": "bedding-plant#bedding-plant__1"
+    },
+    {
+      "comment": "a plant of the genus  (=type) to which cabbage, Brussels sprouts, broccoli, turnip, and mustard belong",
+      "entry": "brassica",
+      "id": "brassica#brassica__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that is [small_1]{smaller} than a [tree]{tree} and has many thin [branch_1]{branches} [growing]{growing} [close_1]{close} together",
+      "entry": "bush",
+      "id": "bush#bush__1"
+    },
+    {
+      "comment": "a plant that grows in deserts and has thick stems and sharp points called spines",
+      "entry": "cactus",
+      "id": "cactus#cactus__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [produce_1]{produces} [grain]{grain}, [used]{used} as [food]{food} for [people_1]{people} and [animal_1]{animals}",
+      "entry": "cereal",
+      "id": "cereal#cereal__3"
+    },
+    {
+      "comment": "a [tall]{tall} [plant_1]{plant} that [grow]{grows} by [attach]{attaching} [itself]{itself} to [wall_1]{walls}, [fence_1]{fences}, etc.",
+      "entry": "climber",
+      "id": "climber#climber__3"
+    },
+    {
+      "comment": "an exact copy of an animal or plant created in a laboratory from the animal\u2019s or plant\u2019s DNA",
+      "entry": "clone",
+      "id": "clone_1#clone_1__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} with long [stem_1]{stems} that [grow]{grow} along the [ground_1]{ground}, around other [plant_1]{plants}, or up [wall_1]{walls}",
+      "entry": "creeper",
+      "id": "creeper#creeper__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} [grown_1]{grown} for [food]{food}, [usually]{usually} on a [farm_1]{farm}",
+      "entry": "crop",
+      "id": "crop_1#crop_1__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that is the [result_1]{result} of [mix_1]{mixing} two [different]{different} [type_1]{types} to [produce_1]{produce} a [new]{new} [genetic]{genetic} [type_1]{type}",
+      "entry": "cross",
+      "id": "cross_2#cross_2__6"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [produce_1]{produces} [seed_1]{seeds} that [develop]{develop} into two [leaves]{leaves}",
+      "entry": "dicotyledon",
+      "id": "dicotyledon#dicotyledon__1"
+    },
+    {
+      "comment": "a type of animal or plant that may soon become extinct  (=disappear from the world)",
+      "entry": "endangered species",
+      "id": "endangered-species#endangered-species__1"
+    },
+    {
+      "comment": "a [tree]{tree} or [plant_1]{plant} that [does]{does} not [lose]{lose} its [leaves]{leaves} in [winter_1]{winter}",
+      "entry": "evergreen",
+      "id": "evergreen_1#evergreen_1__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that is [grown_1]{grown} because its [flower_1]{flowers} are [attractive]{attractive}",
+      "entry": "flower",
+      "id": "flower_1#flower_1__5"
+    },
+    {
+      "comment": "an [animal_1]{animal} or [plant_1]{plant} that [exist]{existed} before an [animal_1]{animal} or [plant_1]{plant} that it is [related_1]{related} to",
+      "entry": "forerunner",
+      "id": "forerunner#forerunner__3"
+    },
+    {
+      "comment": "an [animal_1]{animal} or [plant_1]{plant} that [develop]{develops} [physical_1]{physical} [feature_1]{features} that are not [normal_1]{normal} for its [type_1]{type}",
+      "entry": "freak of nature",
+      "id": "freak-of-nature#freak-of-nature__1"
+    },
+    {
+      "comment": "a type of plant without leaves, flowers, or green color that grows mainly in wet places or on decaying substances. There are many different types of fungi, including mushrooms, mildews, yeasts, and molds.",
+      "entry": "fungus",
+      "id": "fungus#fungus__1"
+    },
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [grass]{grass}",
+      "entry": "grass",
+      "id": "grass#grass__4"
+    },
+    {
+      "comment": "a [plant_1]{plant} [used]{used} for [add_1]{adding} [flavor_1]{flavor} to [food]{food} or as a [medicine]{medicine}",
+      "entry": "herb",
+      "id": "herb#herb__1"
+    },
+    {
+      "comment": "a person, animal, or plant that has both male and female sex organs",
+      "entry": "hermaphrodite",
+      "id": "hermaphrodite#hermaphrodite__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that you [grow]{grow} [inside_1]{inside} your [house_1]{house} in a [container]{container}, [usually]{usually} for [decoration]{decoration}",
+      "entry": "houseplant",
+      "id": "houseplant#houseplant__1"
+    },
+    {
+      "comment": "an [animal_1]{animal} or [plant_1]{plant} that has been [produce_1]{produced} from two [different]{different} [type_1]{types} of [animal_1]{animal} or [plant_1]{plant}",
+      "entry": "hybrid",
+      "id": "hybrid#hybrid__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that has these [seed_1]{seeds}",
+      "entry": "legume",
+      "id": "legume#legume__2"
+    },
+    {
+      "comment": "a very [small_1]{small} [type_1]{type} of [plant_1]{plant} or [animal_1]{animal}",
+      "entry": "miniature",
+      "id": "miniature_2#miniature_2__5"
+    },
+    {
+      "comment": "a [soft]{soft} [green_1]{green} or [brown_1]{brown} [plant_1]{plant} that [grow]{grows} in a [layer_1]{layer} on [wet_1]{wet} [ground_1]{ground}, [rock_1]{rocks}, or [tree]{trees}",
+      "entry": "moss",
+      "id": "moss#moss__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} or [animal_1]{animal} that is [different]{different} from others of its [type_1]{type} as a [result_1]{result} of a [change_1]{change} in its [gene]{genes}",
+      "entry": "mutant",
+      "id": "mutant#mutant__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} or [animal_1]{animal} that [lives]{lives} in or on another [type_1]{type} of [animal_1]{animal} and [feed_1]{feeds} on it",
+      "entry": "parasite",
+      "id": "parasite#parasite__2"
+    },
+    {
+      "comment": "an [animal_1]{animal} or [plant_1]{plant} that [produce_1]{produces} a [new]{new} [animal_1]{animal} or [plant_1]{plant}",
+      "entry": "parent",
+      "id": "parent#parent__3"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [last_2]{lasts} for more than two [growing]{growing} [season_1]{seasons}",
+      "entry": "perennial",
+      "id": "perennial_2#perennial_2__1"
+    },
+    {
+      "comment": "a [living_1]{living} thing that [grow]{grows} in [soil_1]{soil}, has [leaves]{leaves} and [root_1]{roots}, and [need_1]{needs} [water_1]{water} and [light_1]{light} from the [sun_1]{sun} to [live_1]{live}",
+      "entry": "plant",
+      "id": "plant_1#plant_1__1"
+    },
+    {
+      "comment": "an [animal_1]{animal} or [plant_1]{plant} that has [different]{different} [form_1]{forms} at [different]{different} [stage_1]{stages} of its [development]{development}",
+      "entry": "polymorph",
+      "id": "polymorph#polymorph__1"
+    },
+    {
+      "comment": "a [potted]{potted} [plant_1]{plant}",
+      "entry": "pot plant",
+      "id": "pot-plant#pot-plant__2"
+    },
+    {
+      "comment": "a [plant_1]{plant} in a [container]{container}",
+      "entry": "potted plant",
+      "id": "potted-plant#potted-plant__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} or [animal_1]{animal} that has the same [origin]{origins} and [belong]{belongs} to the same [group_1]{group} as another [plant_1]{plant} or [animal_1]{animal}",
+      "entry": "relative",
+      "id": "relative_2#relative_2__3"
+    },
+    {
+      "comment": "a [young_1]{young} [plant_1]{plant} that has [grown_1]{grown} from a [seed_1]{seed}",
+      "entry": "seedling",
+      "id": "seedling#seedling__1"
+    },
+    {
+      "comment": "a [young_1]{young} [plant_1]{plant}, or a part of a [plant_1]{plant} [used]{used} for [produce_1]{producing} [new]{new} [plant_1]{plants}",
+      "entry": "set",
+      "id": "set_2#set_2__30"
+    },
+    {
+      "comment": "a type of moss",
+      "entry": "sphagnum",
+      "id": "sphagnum#sphagnum__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} or [animal_1]{animal} that is [different]{different} in a [noticeable]{noticeable} way from other [plant_1]{plants} or [animal_1]{animals} of the same [type_1]{type}",
+      "entry": "sport",
+      "id": "sport_1#sport_1__18"
+    },
+    {
+      "comment": "a [particular_1]{particular} [type_1]{type} of [animal_1]{animal}, [insect]{insect}, or [plant_1]{plant}",
+      "entry": "strain",
+      "id": "strain_1#strain_1__10"
+    },
+    {
+      "comment": "a [succulent_1]{succulent} [plant_1]{plant}",
+      "entry": "succulent",
+      "id": "succulent_2#succulent_2__1"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [grow]{grows} from the bottom of another [plant_1]{plant}\u2019s stem or [root_1]{roots}",
+      "entry": "sucker",
+      "id": "sucker_1#sucker_1__7"
+    },
+    {
+      "comment": "a very [tall]{tall} [plant_1]{plant} that has [deep_1]{deep} [root_1]{roots}, a thick stem made of [wood]{wood}, and many [branch_1]{branches}",
+      "entry": "tree",
+      "id": "tree#tree__1"
+    },
+    {
+      "comment": "a [type_1]{type} of [plant_1]{plant}",
+      "entry": "variety",
+      "id": "variety#variety__9"
+    },
+    {
+      "comment": "a plant, not an animal or a mineral",
+      "entry": "vegetable",
+      "id": "vegetable#vegetable__8"
+    },
+    {
+      "comment": "any [plant_1]{plant} with a long thin stem that [grow]{grows} along the [ground_1]{ground} or up a [tree]{tree}, [wall_1]{wall}, etc.",
+      "entry": "vine",
+      "id": "vine#vine__4"
+    },
+    {
+      "comment": "a [plant_1]{plant} that [grow]{grows} [easily]{easily} and is [usually]{usually} found in [place_1]{places} where you do not [want_1]{want} it",
+      "entry": "weed",
+      "id": "weed_1#weed_1__1"
+    },
+    {
+      "comment": "a [flower_1]{flower} that [grow]{grows} [normally]{normally} in [field_1]{fields} or in the [countryside]{countryside} without anyone [plant_2]{planting} it",
+      "entry": "wildflower",
+      "id": "wildflower#wildflower__1"
+    }
+  ],
+  "thesaurus": "General types of plant",
+  "type": "Related words"
+}

@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[physical_1]{physical} [damage_1]{damage} done to a [person]{person} or a part of their body",
+      "entry": "injury",
+      "id": "injury#injury__1"
+    },
+    {
+      "comment": "[used]{used} about a part of your body that you do not have [anymore]{anymore} because of an [accident]{accident}, [illness]{illness}, etc.",
+      "entry": "loss",
+      "id": "loss#loss__10"
+    },
+    {
+      "comment": "an injury in which your skin or flesh is damaged, usually seriously. When a wound gets better it heals",
+      "entry": "wound",
+      "id": "wound_1#wound_1__1"
+    },
+    {
+      "comment": "a [break_1]{break} or [crack_1]{crack} in a [bone_1]{bone}",
+      "entry": "fracture",
+      "id": "fracture_1#fracture_1__1"
+    },
+    {
+      "comment": "a [mark_1]{mark} that you get on your body if you are hit or if you [knock_1]{knock} against something",
+      "entry": "bruise",
+      "id": "bruise_2#bruise_2__1"
+    },
+    {
+      "comment": "an area of bruises on your body",
+      "entry": "bruising",
+      "id": "bruising_1#bruising_1__1"
+    },
+    {
+      "comment": "a [slight_1]{slight} [injury]{injury} or [mark_1]{mark} [cause_2]{caused} by [rubbing]{rubbing} against a rough [surface_1]{surface}",
+      "entry": "scrape",
+      "id": "scrape_2#scrape_2__1"
+    },
+    {
+      "comment": "a [head_1]{head} [injury]{injury} that [make_1]{makes} someone [feel_1]{feel} [sick_1]{sick} or become [unconscious_1]{unconscious} for a [short_1]{short} time",
+      "entry": "concussion",
+      "id": "concussion#concussion__1"
+    },
+    {
+      "comment": "[physical_1]{physical} [harm_1]{harm} that someone with [emotional]{emotional} [problem]{problems} [deliberately]{deliberately} [does]{does} to their own body, for [example]{example} by [cutting_1]{cutting} their [skin_1]{skin}",
+      "entry": "self-injury",
+      "id": "self-injury#self-injury__1"
+    },
+    {
+      "comment": "a painful injury that you get when you suddenly stretch or turn a joint too much",
+      "entry": "sprain",
+      "id": "sprain_2#sprain_2__1"
+    }
+  ],
+  "thesaurus": "Injuries and wounds",
+  "type": "Synonyms"
+}

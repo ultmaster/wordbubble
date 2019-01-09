@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "watch out for",
+  "senses": [
+    {
+      "def": "to be [careful]{careful} of something or someone",
+      "examples": [
+        "[watch_1]{Watch} out for [snake_1]{snakes}!",
+        "The [program_1]{program} will [discuss]{discuss} [street_1]{street} [crime_1]{crime} and what you should [watch_1]{watch} out for."
+      ],
+      "id": "watch-out-for__1"
+    },
+    {
+      "def": "to [make_1]{make} [sure_1]{sure} that nothing [bad_1]{bad} [happen]{happens} to someone",
+      "examples": [
+        "[people_1]{People} in my [family_1]{family} have always [watch_1]{watched} out for one another."
+      ],
+      "id": "watch-out-for__6"
+    }
+  ]
+}

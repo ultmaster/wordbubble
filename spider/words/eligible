@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[allow]{allowed} by [rule_1]{rules} or [law]{laws} to do something or to [receive]{receive} something",
+      "examples": [
+        "Fifty-one [percent_1]{percent} of eligible [voter]{voters} [vote_1]{voted} in [favor_1]{favor}.",
+        "If you are eligible for [financial]{financial} [help_1]{help}, we will [tell_1]{tell} you how to [claim_1]{claim}.",
+        "She will be eligible to [compete]{compete} in the next [winter_1]{Winter} [game_1]{Games}."
+      ],
+      "id": "eligible__1"
+    },
+    {
+      "def": "[considered]{considered} to be [suitable]{suitable} as a [marriage]{marriage} [partner_1]{partner} because you are [rich_1]{rich} or [attractive]{attractive}",
+      "examples": [
+        "He is one of the most eligible [bachelor]{bachelors} in Europe [today_1]{today}."
+      ],
+      "id": "eligible__5"
+    }
+  ],
+  "word": "eligible"
+}

@@ -1,0 +1,40 @@
+{
+  "part": "pronoun",
+  "senses": [
+    {
+      "def": "[used]{used} for [ask_1]{asking} which [person]{person} is [involved]{involved} in something, or what someone\u2019s name is",
+      "examples": [
+        "Who [kill_1]{killed} [john]{John} F. Kennedy?",
+        "Who was that [guy]{guy} I [saw_1]{saw} you with last [night_1]{night}?",
+        "Who [did]{did} you [hire_1]{hire} for the [sale]{sales} [position_1]{position}?",
+        "Who [does]{does} this [place_1]{place} [belong]{belong} to?",
+        "Do you [know_1]{know} who\u2019s been [invite_1]{invited} to Claire\u2019s [dinner]{dinner} [party_1]{party}?",
+        "\u201cWho is that?\u201d \u201cIt\u2019s Karen \u2013 don\u2019t you [recognize]{recognize} her?\u201d",
+        "Who else [did]{did} you [tell_1]{tell} the [secret_1]{secret} to?",
+        "They\u2019ve already [offer_1]{offered} the [job_1]{job} to someone, but I don\u2019t [know_1]{know} who.",
+        "[curry_1]{Curry} [refuse_1]{refused} to [say_1]{say} who had [organized]{organized} the [meeting]{meeting}.",
+        "We have to be very [careful]{careful} who we [deal_1]{deal} with.",
+        "Martha [won]{won}\u2019t [say_1]{say} who she [vote_1]{voted} for in the last [election]{election}."
+      ],
+      "id": "who__1"
+    },
+    {
+      "def": "[used]{used} for [add_1]{adding} more [information]{information} about a [person]{person} when it is already [clear_1]{clear} which [person]{person} you are [talk_1]{talking} about",
+      "examples": [
+        "I [recently]{recently} [talk_1]{talked} to Michael [hall]{Hall}, who [teach]{teaches} [music]{music} at the [university]{university}.",
+        "I [want_1]{want} you to [meet_1]{meet} my [friend_1]{friend} Marjorie, who I [think_1]{think} I [mention_1]{mentioned} in my last [letter_1]{letter}."
+      ],
+      "id": "who__14"
+    },
+    {
+      "def": "[used]{used} for [add_1]{adding} [information]{information} that [show_1]{shows} which [person]{person} or [type_1]{type} of [person]{person} you are [talk_1]{talking} about. It is more usual to use \u201cthat\u201d to introduce this type of relative clause",
+      "examples": [
+        "We only [employ_1]{employ} [people_1]{people} who already have computer [skill]{skills}.",
+        "We [got_1]{got} the same [answer_1]{answer} from everyone who we [spoke_1]{spoke} to.",
+        "I [think_1]{think} Bramwell was the one who first [suggest]{suggested} the [idea]{idea}."
+      ],
+      "id": "who__17"
+    }
+  ],
+  "word": "who"
+}

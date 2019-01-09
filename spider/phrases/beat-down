@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "beat down",
+  "senses": [
+    {
+      "def": "to [persuade]{persuade} someone to [sell_1]{sell} you something at a [lower_1]{lower} [price_1]{price} than their first [offer_1]{offer}",
+      "examples": [
+        "The [original_1]{original} [price_1]{price} was $236,000, but we [beat_1]{beat} them down to $210,000."
+      ],
+      "id": "beat-down__1"
+    },
+    {
+      "def": "if the [rain_1]{rain} [beat_1]{beats} down, it [rain_1]{rains} very [hard_1]{hard}",
+      "examples": [],
+      "id": "beat-down__3"
+    },
+    {
+      "def": "if the [sun_1]{sun} [beat_1]{beats} down, it [shine_1]{shines} very [bright_1#bright_1__20]{brightly} [making]{making} the [weather_1]{weather} very [hot]{hot}",
+      "examples": [
+        "I could [feel_1]{feel} the [sun_1]{sun} [beating]{beating} down on my [head_1]{head}."
+      ],
+      "id": "beat-down__4"
+    }
+  ]
+}

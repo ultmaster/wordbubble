@@ -1,0 +1,23 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "a [trip_1]{trip} to a [place_1]{place} to [learn]{learn} about it or to [search_1]{search} for something [valuable]{valuable} such as [oil_1]{oil}",
+      "examples": [
+        "the [future_1]{future} of [space_1]{space} exploration",
+        "[oil_1]{oil}/[gas_1]{gas}/[mineral]{mineral} exploration",
+        "[exploration]{Exploration} of the [solar]{solar} system [began]{began} in the 19th [century]{century}."
+      ],
+      "id": "exploration__1"
+    },
+    {
+      "def": "a [thorough]{thorough} [examination]{examination} or [discussion]{discussion} of a [subject_1]{subject}, [idea]{idea}, etc.",
+      "examples": [
+        "Shakespeare\u2019s exploration of the [theme]{theme} of [friendship]{friendship}"
+      ],
+      "id": "exploration__5"
+    }
+  ],
+  "word": "exploration"
+}

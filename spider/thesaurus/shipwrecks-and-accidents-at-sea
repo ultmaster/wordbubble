@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "comment": "if a [ship_1]{ship} or [boat]{boat} [founder_1]{founders}, it becomes full of [water_1]{water} and [sink_1]{sinks}",
+      "entry": "founder",
+      "id": "founder_2#founder_2__2"
+    },
+    {
+      "comment": "if a [ship_1]{ship} [keel_1]{keels} over, it [fall_1]{falls} [sideways]{sideways}",
+      "entry": "keel over",
+      "id": "keel_2#keel_2__4"
+    },
+    {
+      "comment": "to [bring]{bring} a [ship_1]{ship} that has [sunk]{sunk} back to the [surface_1]{surface} of the [water_1]{water}",
+      "entry": "raise",
+      "id": "raise_1#raise_1__9"
+    },
+    {
+      "comment": "to [save_1]{save} a [ship_1]{ship} or the [thing]{things} that it is [carry_1]{carrying} when it has been [damage_2]{damaged} or [sunk]{sunk}",
+      "entry": "salvage",
+      "id": "salvage_1#salvage_1__3"
+    },
+    {
+      "comment": "to [make_1]{make} a [ship_1]{ship} [sink_1]{sink} by [deliberately]{deliberately} [let_1]{letting} [water_1]{water} in",
+      "entry": "scupper",
+      "id": "scupper#scupper__1"
+    },
+    {
+      "comment": "to [sink_1]{sink} a [ship_1]{ship} [deliberately]{deliberately}, for [example]{example} by [making]{making} [hole_1]{holes} in the bottom",
+      "entry": "scuttle",
+      "id": "scuttle#scuttle__2"
+    },
+    {
+      "comment": "a [ship_1]{ship} that is [destroy]{destroyed} in a [shipwreck]{shipwreck}",
+      "entry": "shipwreck",
+      "id": "shipwreck#shipwreck__2"
+    },
+    {
+      "comment": "someone who is [shipwrecked]{shipwrecked} was [involved]{involved} in a [shipwreck]{shipwreck}",
+      "entry": "shipwrecked",
+      "id": "shipwrecked#shipwrecked__1"
+    },
+    {
+      "comment": "if a [boat]{boat} [sink_1]{sinks} without [trace_1]{trace}, it [sink_1]{sinks} and cannot be found",
+      "entry": "sink without trace",
+      "id": "sink-without-trace#sink-without-trace__3"
+    },
+    {
+      "comment": "if a [ship_1]{ship} or a [boat]{boat} [turn_1]{turns} [turtle]{turtle}, it [turn_1]{turns} over and its bottom part [face_1]{faces} [upward_1]{upward}",
+      "entry": "turn turtle",
+      "id": "turn-turtle#turn-turtle__1"
+    },
+    {
+      "comment": "to [destroy]{destroy} a [ship_1]{ship} so that it [sink_1]{sinks}",
+      "entry": "wreck",
+      "id": "wreck_1#wreck_1__5"
+    },
+    {
+      "comment": "a [ship_1]{ship} that has [sunk]{sunk}",
+      "entry": "wreck",
+      "id": "wreck_2#wreck_2__7"
+    },
+    {
+      "comment": "an [occasion_1]{occasion} on which a [ship_1]{ship} [sink_1]{sinks}",
+      "entry": "wreck",
+      "id": "wreck_2#wreck_2__8"
+    }
+  ],
+  "thesaurus": "Shipwrecks and accidents at sea",
+  "type": "Related words"
+}

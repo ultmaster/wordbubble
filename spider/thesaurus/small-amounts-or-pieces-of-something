@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of something",
+      "entry": "bit",
+      "id": "bit_1#bit_1__2"
+    },
+    {
+      "comment": "a part that has been [cut_1]{cut}, [broken_1]{broken}, or [separated]{separated} from something [large_1]{larger}",
+      "entry": "piece",
+      "id": "piece_1#piece_1__9"
+    },
+    {
+      "comment": "a [small_1]{small} [piece_1]{piece} of a [large_1]{larger} [object_1]{object} that has [broken_1]{broken}, often into a [lot_1]{lot} of [piece_1]{pieces}",
+      "entry": "fragment",
+      "id": "fragment_1#fragment_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount",
+      "entry": "a little",
+      "id": "a-little#a-little__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of something",
+      "entry": "hint",
+      "id": "hint_1#hint_1__7"
+    },
+    {
+      "comment": "a very [small_1]{small} amount of a [substance]{substance}, [especially]{especially} when it is too [small_1]{small} to see [clearly]{clearly} or [measure_1]{measure} [accurately]{accurately}",
+      "entry": "trace",
+      "id": "trace_2#trace_2__5"
+    },
+    {
+      "comment": "an [example]{example} or [small_1]{small} amount of something that [show_1]{shows} you what all of it is [like_1]{like}",
+      "entry": "sample",
+      "id": "sample_1#sample_1__1"
+    },
+    {
+      "comment": "a [small_1]{small} amount of something that is [offer_1]{offered} so that you can [experience_1]{experience} it and [decide]{decide} whether you [like_1]{like} it or not",
+      "entry": "taster",
+      "id": "taster#taster__2"
+    },
+    {
+      "comment": "a [small_1]{small} amount of something",
+      "entry": "a bit",
+      "id": "bit_2#bit_2__10"
+    },
+    {
+      "comment": "a [small_1]{small} part or amount of something",
+      "entry": "fraction",
+      "id": "fraction#fraction__2"
+    }
+  ],
+  "thesaurus": "Small amounts or pieces of something",
+  "type": "Synonyms"
+}

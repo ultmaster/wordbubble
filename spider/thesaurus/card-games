@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "comment": "a card game in which one player tries to win all the cards of the other player. The British word is beggar-my-neighbour.",
+      "entry": "beggar-thy-neighbor",
+      "id": "beggar-thy-neighbor#beggar-thy-neighbor__1"
+    },
+    {
+      "comment": "a card game in which players try to collect cards that add up to no more than 21. Blackjack is usually played for money in casinos.",
+      "entry": "blackjack",
+      "id": "blackjack#blackjack__1"
+    },
+    {
+      "comment": "a [card_1]{card} [game_1]{game}, for four [player]{players} who [make_1]{make} two [team_1]{teams}",
+      "entry": "bridge",
+      "id": "bridge_1#bridge_1__10"
+    },
+    {
+      "comment": "a card game played with two decks of cards",
+      "entry": "canasta",
+      "id": "canasta#canasta__1"
+    },
+    {
+      "comment": "a form of the card game bridge in which the highest bidder can score no more than the number of points that they said they would score at the start of play",
+      "entry": "contract bridge",
+      "id": "contract-bridge#contract-bridge__1"
+    },
+    {
+      "comment": "a card game in which players record the score by putting small pegs in holes in a wooden board",
+      "entry": "cribbage",
+      "id": "cribbage#cribbage__1"
+    },
+    {
+      "comment": "a [card_1]{card} [game_1]{game} for two [people_1]{people} in which [player]{players} [try_1]{try} to [collect_1]{collect} [set_1]{sets} of [card_1]{cards}",
+      "entry": "gin rummy",
+      "id": "gin-rummy#gin-rummy__1"
+    },
+    {
+      "comment": "the [card_1]{card} [game_1]{game} [solitaire]{solitaire}",
+      "entry": "patience",
+      "id": "patience#patience__14"
+    },
+    {
+      "comment": "a [card_1]{card} [game_1]{game} in which [player]{players} [try_1]{try} to [win_1]{win} [money]{money}",
+      "entry": "poker",
+      "id": "poker#poker__1"
+    },
+    {
+      "comment": "the [game_1]{game} of [blackjack]{blackjack}",
+      "entry": "pontoon",
+      "id": "pontoon#pontoon__2"
+    },
+    {
+      "comment": "a [card_1]{card} [game_1]{game} in which each [player]{player} [try_1]{tries} to [collect_1]{collect} three or more [card_1]{cards} in a [series]{series}, or three or more [card_1]{cards} of the same [value_1]{value}",
+      "entry": "rummy",
+      "id": "rummy#rummy__1"
+    },
+    {
+      "comment": "a [simple]{simple} [card_1]{card} [game_1]{game} in which [player]{players} put down [card_1]{cards} in [pile_1]{piles} and [try_1]{try} to be the first to [shout_1]{shout} \u201c[snap_1]{snap}\u201d when there are two [card_1]{cards} that are the same",
+      "entry": "snap",
+      "id": "snap_2#snap_2__3"
+    },
+    {
+      "comment": "a [card_1]{card} [game_1]{game} for one [person]{person}",
+      "entry": "solitaire",
+      "id": "solitaire#solitaire__2"
+    },
+    {
+      "comment": "a [card_1]{card} [game_1]{game} in which a [player]{player} who [lose]{loses} must take off some of their [clothes]{clothes}",
+      "entry": "strip poker",
+      "id": "strip-poker#strip-poker__1"
+    },
+    {
+      "comment": "a type of poker  (=card game)",
+      "entry": "stud",
+      "id": "stud_1#stud_1__12"
+    },
+    {
+      "comment": "a [card_1]{card} [game_1]{game} for two [pair_1]{pairs} of [player]{players}",
+      "entry": "whist",
+      "id": "whist#whist__1"
+    }
+  ],
+  "thesaurus": "Card games",
+  "type": "Related words"
+}

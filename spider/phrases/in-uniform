@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in uniform",
+  "senses": [
+    {
+      "def": "[wearing]{wearing} a [uniform_1]{uniform}",
+      "examples": [
+        "[soldier_1]{soldiers} in [uniform_1]{uniform}"
+      ],
+      "id": "in-uniform__1"
+    },
+    {
+      "def": "[serving]{serving} as a [member]{member} of the [military]{military}",
+      "examples": [
+        "those in [uniform_1]{uniform} who [die_1]{died} in [wartime]{wartime}"
+      ],
+      "id": "in-uniform__3"
+    }
+  ]
+}

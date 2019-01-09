@@ -1,0 +1,21 @@
+{
+  "boundary": true,
+  "part": "noun",
+  "senses": [
+    {
+      "def": "[money]{money} that you [pay_1]{pay} in [order_1]{order} to [send_1]{send} [letter_1]{letters} and [package_1]{packages} through the [mail_1]{mail}",
+      "examples": [
+        "[add_1]{Add} $5 to your [order_1]{order} to [pay_1]{pay} for postage and [handling]{handling}."
+      ],
+      "id": "postage__1"
+    },
+    {
+      "def": "an amount of [stamp_1]{stamps}",
+      "examples": [
+        "Your [box_1]{box} will not be [deliver]{delivered} without the [proper]{proper} postage."
+      ],
+      "id": "postage__3"
+    }
+  ],
+  "word": "postage"
+}

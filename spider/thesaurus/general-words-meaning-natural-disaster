@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "[extreme_1]{extreme} [natural_1]{natural} [force_1]{force}, often [cause_2]{causing} [great_1]{great} [damage_1]{damage}",
+      "entry": "violence",
+      "id": "violence#violence__9"
+    },
+    {
+      "comment": "something very [bad_1]{bad} that [happen]{happens} and [cause_1]{causes} a [lot_1]{lot} of [damage_1]{damage} or [kill_1]{kills} a [lot_1]{lot} of [people_1]{people}",
+      "entry": "disaster",
+      "id": "disaster#disaster__1"
+    },
+    {
+      "comment": "an [event]{event} that [cause_1]{causes} a [lot_1]{lot} of [damage_1]{damage} or [make_1]{makes} a [lot_1]{lot} of [people_1]{people} [suffer]{suffer}",
+      "entry": "catastrophe",
+      "id": "catastrophe#catastrophe__1"
+    },
+    {
+      "comment": "an [event]{event} that [cause_1]{causes} serious [damage_1]{damage}, or [cause_1]{causes} a [lot_1]{lot} of [people_1]{people} to [suffer]{suffer}, for [example]{example} a [flood_1]{flood} or fire",
+      "entry": "calamity",
+      "id": "calamity#calamity__1"
+    },
+    {
+      "comment": "something that happens in nature and causes a lot of damage or kills a lot of people, for example a flood or an earthquake",
+      "entry": "natural disaster",
+      "id": "natural-disaster#natural-disaster__1"
+    },
+    {
+      "comment": "an event such as a flood, lightning, or an earthquake that is produced by natural forces, and that people have no control over",
+      "entry": "act of God",
+      "id": "act-of-god#act-of-god__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which a [government]{government} [take_1]{takes} [action_1]{action} to [deal_1]{deal} with an [event]{event} such as a [flood_1]{flood} or a fire that is [put]{putting} a [lot_1]{lot} of [people_1]{people} in [danger]{danger}",
+      "entry": "state of emergency",
+      "id": "state-of-emergency#state-of-emergency__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which many [people_1]{people} [die_1]{die} and many [thing]{things} are [destroy]{destroyed}",
+      "entry": "apocalypse",
+      "id": "apocalypse#apocalypse__2"
+    },
+    {
+      "comment": "a harmful event caused by the earth, for example an earthquake, a tsunami, or a volcano",
+      "entry": "geohazard",
+      "id": "geohazard#geohazard__1"
+    },
+    {
+      "comment": "a sudden natural event that causes a lot of damage, for example a flood or an earthquake",
+      "entry": "cataclysm",
+      "id": "cataclysm#cataclysm__2"
+    }
+  ],
+  "thesaurus": "General words meaning natural disaster",
+  "type": "Synonyms"
+}

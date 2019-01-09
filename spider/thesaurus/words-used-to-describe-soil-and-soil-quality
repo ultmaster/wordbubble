@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "comment": "made of [earth]{earth} and [sand_1]{sand} [left_1]{left} by [river]{rivers} or [flood_1]{floods}",
+      "entry": "alluvial",
+      "id": "alluvial#alluvial__1"
+    },
+    {
+      "comment": "[boggy]{boggy} [ground_1]{ground} is always very [wet_1]{wet} and [soft]{soft}",
+      "entry": "boggy",
+      "id": "boggy#boggy__1"
+    },
+    {
+      "comment": "containing chalk",
+      "entry": "chalky",
+      "id": "chalky#chalky__1"
+    },
+    {
+      "comment": "containing flint",
+      "entry": "flinty",
+      "id": "flinty#flinty__2"
+    },
+    {
+      "comment": "[hardscrabble]{hardscrabble} [land_1]{land} is very [difficult]{difficult} to [grow]{grow} anything on",
+      "entry": "hardscrabble",
+      "id": "hardscrabble#hardscrabble__1"
+    },
+    {
+      "comment": "ground that is heavy is wet and muddy, so that it is difficult to walk or travel over it",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__72"
+    },
+    {
+      "comment": "[heavy_1]{heavy} [soil_1]{soil} [stick_1]{sticks} together and is [difficult]{difficult} to [dig_1]{dig} into",
+      "entry": "heavy",
+      "id": "heavy_1#heavy_1__73"
+    },
+    {
+      "comment": "[light_1]{light} [soil_1]{soil} is [easy_1]{easy} to [break_1]{break} into [piece_1]{pieces}",
+      "entry": "light",
+      "id": "light_2#light_2__38"
+    },
+    {
+      "comment": "[marshy]{marshy} [land_1]{land} is [soft]{soft} and [wet_1]{wet}",
+      "entry": "marshy",
+      "id": "marshy#marshy__1"
+    },
+    {
+      "comment": "[consist]{consisting} of [peat]{peat}, or [like_1]{like} [peat]{peat}",
+      "entry": "peaty",
+      "id": "peaty#peaty__1"
+    },
+    {
+      "comment": "[contain]{containing} a [lot_1]{lot} of [pebble]{pebbles}",
+      "entry": "pebbly",
+      "id": "pebbly#pebbly__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with [sand_1]{sand}, or [consist]{consisting} mostly of [sand_1]{sand}",
+      "entry": "sandy",
+      "id": "sandy#sandy__1"
+    },
+    {
+      "comment": "[covered_1]{covered} with [stone_1]{stones}, or [contain]{containing} [stone_1]{stones}",
+      "entry": "stony",
+      "id": "stony#stony__1"
+    },
+    {
+      "comment": "[waterlogged]{waterlogged} [ground_1]{ground} is too [wet_1]{wet} to [walk_1]{walk} on or [play_1]{play} [sport_1]{sports} on",
+      "entry": "waterlogged",
+      "id": "waterlogged#waterlogged__1"
+    }
+  ],
+  "thesaurus": "Words used to describe soil and soil quality",
+  "type": "Related words"
+}

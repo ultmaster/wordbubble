@@ -1,0 +1,22 @@
+{
+  "part": "determiner",
+  "senses": [
+    {
+      "def": "[belong]{belonging} or [relate]{relating} to a thing, [idea]{idea}, [place_1]{place}, [animal_1]{animal}, etc. when it has already been [mention_1]{mentioned} or when it is [obvious]{obvious} which one you are [refer]{referring} to",
+      "examples": [
+        "The [chair_1]{chair} [lay_1]{lay} on its side.",
+        "We were [eager]{eager} to see Las Vegas and all its many [attraction]{attractions}.",
+        "The [bull_1]{bull} had a ring through its [nose_1]{nose}."
+      ],
+      "id": "its__1"
+    },
+    {
+      "def": "[belong]{belonging} or [relate]{relating} to a [baby_1]{baby} or very [young_1]{young} [child]{child} when it has been [mention_1]{mentioned} or when it is [obvious]{obvious} which one you are [refer]{referring} to",
+      "examples": [
+        "The [child]{child} was [calling]{calling} for its [mother_1]{mother}."
+      ],
+      "id": "its__5"
+    }
+  ],
+  "word": "its"
+}

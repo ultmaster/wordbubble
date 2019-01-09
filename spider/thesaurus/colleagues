@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "comment": "someone who [work_1]{works} in the same [organization]{organization} or [department]{department} as you",
+      "entry": "colleague",
+      "id": "colleague#colleague__1"
+    },
+    {
+      "comment": "someone or something that has the same [job_1]{job} or [purpose]{purpose} as another [person]{person} or thing, but in a [different]{different} [country]{country}, time, [situation]{situation}, or [organization]{organization}",
+      "entry": "counterpart",
+      "id": "counterpart#counterpart__1"
+    },
+    {
+      "comment": "someone you [work_1]{work} with, [especially]{especially} in [business]{business}",
+      "entry": "associate",
+      "id": "associate_2#associate_2__1"
+    },
+    {
+      "comment": "someone who [work_1]{works} with you, [especially]{especially} someone with a [similar]{similar} [position_1]{position} or [status]{status} in an [organization]{organization}",
+      "entry": "co-worker",
+      "id": "co-worker#co-worker__1"
+    },
+    {
+      "comment": "a [co-worker]{co-worker}",
+      "entry": "workmate",
+      "id": "workmate#workmate__1"
+    },
+    {
+      "comment": "someone who is senior to you in an organization or job. Your immediate superior holds the position directly above yours.",
+      "entry": "superior",
+      "id": "superior_2#superior_2__1"
+    },
+    {
+      "comment": "someone who has less [power_1]{power} or [authority]{authority} than someone else",
+      "entry": "subordinate",
+      "id": "subordinate_2#subordinate_2__1"
+    },
+    {
+      "comment": "someone who has less [responsibility]{responsibility} or [experience_1]{experience} in their [work_1]{work} than another [person]{person}",
+      "entry": "junior",
+      "id": "junior_2#junior_2__3"
+    },
+    {
+      "comment": "someone\u2019s [counterpart]{counterpart} in another [organization]{organization}",
+      "entry": "opposite number",
+      "id": "opposite-number#opposite-number__1"
+    },
+    {
+      "comment": "a [person]{person} or [group_1]{group} that [replace]{replaces} another [person]{person} or [group_1]{group} that is [away_1]{away} from their [job_1]{job} or has [finished]{finished} a [period_1]{period} of [duty]{duty}",
+      "entry": "relief",
+      "id": "relief#relief__13"
+    }
+  ],
+  "thesaurus": "Colleagues",
+  "type": "Synonyms"
+}

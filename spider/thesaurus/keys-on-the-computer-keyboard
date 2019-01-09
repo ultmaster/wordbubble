@@ -1,0 +1,161 @@
+{
+  "entries": [
+    {
+      "comment": "a computer key that you press together with another key so that the other key does something different from what it usually does. You can also refer to this key simply as Alt.",
+      "entry": "Alt key",
+      "id": "alt-key#alt-key__1"
+    },
+    {
+      "comment": "one of four computer keys marked with an up, down, left, or right arrow, used for moving the cursor",
+      "entry": "arrow key",
+      "id": "arrow-key#arrow-key__1"
+    },
+    {
+      "comment": "the [key_1]{key} that you [press_1]{press} on a [keyboard_1]{keyboard} to move one [space_1]{space} [backward_1]{backward} in a [document_1]{document}",
+      "entry": "backspace",
+      "id": "backspace_1#backspace_1__1"
+    },
+    {
+      "comment": "a [key_1]{key} on a computer [keyboard_1]{keyboard} that [make_1]{makes} all the [key_1]{keys} [produce_1]{produce} [capital_1]{capital} [letter_1]{letters}",
+      "entry": "caps lock",
+      "id": "caps-lock#caps-lock__1"
+    },
+    {
+      "comment": "a [complete_1]{complete} [set_1]{set} of [letter_1]{letters}, [number_1]{numbers}, or [symbol]{symbols} that can be [used]{used} by a computer",
+      "entry": "character set",
+      "id": "character-set#character-set__1"
+    },
+    {
+      "comment": "on some [computer]{computers}, a [key_1]{key} that you [press_1]{press} together with another [key_1]{key} to [make_1]{make} the computer do a [particular_1]{particular} thing",
+      "entry": "command key",
+      "id": "command-key#command-key__1"
+    },
+    {
+      "comment": "the [control_1]{control} [key_1]{key} on a computer [keyboard_1]{keyboard}",
+      "entry": "control",
+      "id": "control_1#control_1__31"
+    },
+    {
+      "comment": "a [key_1]{key} on a computer [keyboard_1]{keyboard} that is [used]{used} in [combination]{combination} with other [key_1]{keys} for [doing]{doing} [particular_1]{particular} [operation]{operations}. This [key_1]{key} is [usually]{usually} [marked]{marked} \u201c[ctrl]{Ctrl}.\u201d",
+      "entry": "control key",
+      "id": "control-key#control-key__1"
+    },
+    {
+      "comment": "control: the control key on a computer keyboard",
+      "entry": "ctrl",
+      "id": "ctrl#ctrl__1"
+    },
+    {
+      "comment": "a computer key that removes characters. This key is sometimes simply referred to as del.",
+      "entry": "delete key",
+      "id": "delete-key#delete-key__1"
+    },
+    {
+      "comment": "a [key_1]{key} on a computer [keyboard_1]{keyboard} that [make_1]{makes} the computer [perform]{perform} an [action_1]{action} or [start_1]{start} a [new]{new} [line_1]{line} of [writing]{writing}",
+      "entry": "enter key",
+      "id": "enter-key#enter-key__1"
+    },
+    {
+      "comment": "the escape key on a computer",
+      "entry": "escape",
+      "id": "escape_2#escape_2__11"
+    },
+    {
+      "comment": "a [key_1]{key} on a computer [keyboard_1]{keyboard} that [allow]{allows} someone to [stop_1]{stop} an [action_1]{action}, [leave_1]{leave} a [program_1]{program}, or [return_1]{return} to a [previous_1]{previous} [menu]{menu}. This [key_1]{key} is [usually]{usually} [marked]{marked} \u201cEsc.\u201d",
+      "entry": "escape key",
+      "id": "escape-key#escape-key__1"
+    },
+    {
+      "comment": "a special button on a computer keyboard that is used for a particular operation in a program. The keys near the top of a keyboard marked \u201cF1\u201d to \u201cF12\u201d are function keys.",
+      "entry": "function key",
+      "id": "function-key#function-key__1"
+    },
+    {
+      "comment": "a [key_1]{key} on a computer [keyboard_1]{keyboard} that [provide]{provides} a [short_1]{short} way of [perform]{performing} a [set_1]{set} of [action_1]{actions}",
+      "entry": "hot key",
+      "id": "hot-key#hot-key__1"
+    },
+    {
+      "comment": "one of the [part_1]{parts} that you [press_1]{press} on a [keyboard_1]{keyboard} to [make_1]{make} it [produce_1]{produce} [letter_1]{letters}, [number_1]{numbers}, etc.",
+      "entry": "key",
+      "id": "key_1#key_1__9"
+    },
+    {
+      "comment": "the part at the side of a computer keyboard that has number keys and arrow keys on it",
+      "entry": "keypad",
+      "id": "keypad#keypad__2"
+    },
+    {
+      "comment": "the part of a computer [keyboard_1]{keyboard} to the [right_1]{right} of the [main_1]{main} [key_1]{keys} that has [key_1]{keys} with [number_1]{numbers} on them",
+      "entry": "numeric keypad",
+      "id": "numeric-keypad#numeric-keypad__1"
+    },
+    {
+      "comment": "a computer [key_1]{key} that you [press_1]{press} to [make_1]{make} the [number_1]{number} [key_1]{keys} below it [enter]{enter} [number_1]{numbers} and not be [used]{used} for [moving]{moving} up and down a [document_1]{document}",
+      "entry": "Num Lock",
+      "id": "num-lock#num-lock__1"
+    },
+    {
+      "comment": "the key with the symbol # on a telephone keypad or computer keyboard",
+      "entry": "pound key",
+      "id": "pound-key#pound-key__1"
+    },
+    {
+      "comment": "a [return_1]{return} [key_1]{key}",
+      "entry": "return",
+      "id": "return_2#return_2__24"
+    },
+    {
+      "comment": "a [key_1]{key} on a computer [keyboard_1]{keyboard} that [make_1]{makes} the computer [perform]{perform} an [action_1]{action} or [start_1]{start} a [new]{new} [line_1]{line} of [writing]{writing}",
+      "entry": "return key",
+      "id": "return-key#return-key__1"
+    },
+    {
+      "comment": "a [shift_1]{shift} [key_1]{key} on a computer [keyboard_1]{keyboard}",
+      "entry": "shift",
+      "id": "shift_2#shift_2__9"
+    },
+    {
+      "comment": "the button that you press on a computer keyboard when you want to write a capital letter",
+      "entry": "shift key",
+      "id": "shift-key#shift-key__1"
+    },
+    {
+      "comment": "a computer icon or a combination of keys on the keyboard such as \u201cAlt + C\u201d that helps you do something on the computer more quickly, for example go to a particular program or copy information",
+      "entry": "shortcut",
+      "id": "shortcut#shortcut__5"
+    },
+    {
+      "comment": "the long [narrow_1]{narrow} [bar_1]{bar} at the front of a computer [keyboard_1]{keyboard} that you [press_1]{press} to [make_1]{make} a [space_1]{space} between [word_1]{words} when you are [typing]{typing}",
+      "entry": "space bar",
+      "id": "space-bar#space-bar__1"
+    },
+    {
+      "comment": "the key with the asterisk symbol (*) on a telephone keypad or computer keyboard",
+      "entry": "star key",
+      "id": "star-key#star-key__1"
+    },
+    {
+      "comment": "a button on a computer keyboard or typewriter that you press to move several spaces along the same line",
+      "entry": "tab",
+      "id": "tab_1#tab_1__5"
+    },
+    {
+      "comment": "a [tab_1]{tab} on a computer [keyboard_1]{keyboard}",
+      "entry": "tab key",
+      "id": "tab-key#tab-key__1"
+    },
+    {
+      "comment": "a key or command  (=instruction) on a computer that you use to move from one operation or program to another and back again",
+      "entry": "toggle",
+      "id": "toggle_1#toggle_1__2"
+    },
+    {
+      "comment": "a small flat surface on a laptop computer that you touch with your finger in order to move the cursor on the screen",
+      "entry": "touchpad",
+      "id": "touchpad#touchpad__1"
+    }
+  ],
+  "thesaurus": "Keys on the computer keyboard",
+  "type": "Related words"
+}

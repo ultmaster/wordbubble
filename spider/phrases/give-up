@@ -1,0 +1,39 @@
+{
+  "part": "phrase",
+  "phrase": "give up",
+  "senses": [
+    {
+      "def": "to [stop_1]{stop} [doing]{doing} something that you do [regularly]{regularly}",
+      "examples": [
+        "His [wife]{wife} [finally]{finally} [persuade]{persuaded} him to give up [smoking]{smoking}.",
+        "[give_1]{Giving} up his [job_1]{job} was the last thing we [expected]{expected} him to do.",
+        "It was a [difficult]{difficult} time, but we never [gave]{gave} up [hope_1]{hope}.",
+        "He had [given_1]{given} up the [idea]{idea} of [marriage]{marriage} [altogether_1]{altogether}.",
+        "We\u2019ve [given_1]{given} up [trying]{trying} to [persuade]{persuade} them to [change_1]{change}.",
+        "[decide]{Decide} what you [want_1]{want} and then don\u2019t give up until you\u2019ve [achieve]{achieved} it."
+      ],
+      "id": "give-up__1"
+    },
+    {
+      "def": "to [allow]{allow} someone to have something that was yours",
+      "examples": [
+        "The [new]{new} [arrangement]{arrangement} would mean [give_1]{giving} up some of their [political]{political} [independence]{independence}.",
+        "They [agreed]{agreed} to give [half]{half} their [office]{office} up to the [temporary]{temporary} [staff_1]{staff}.",
+        "[take_1]{Taking} this [course_1]{course} will mean [give_1]{giving} up a [lot_1]{lot} of my [spare_1]{spare} time."
+      ],
+      "id": "give-up__10"
+    },
+    {
+      "def": "if you give yourself up, you [allow]{allow} yourself to be [arrest_1]{arrested} by the [police_1]{police}",
+      "examples": [],
+      "id": "give-up__15"
+    },
+    {
+      "def": "if you give something up as [lost_1]{lost}, you [believe]{believe} that you will not find it and you [stop_1]{stop} [look_1]{looking} for it",
+      "examples": [
+        "The [men]{men} who were still in the [boat]{boat} had [given_1]{given} him up for [dead_1]{dead}."
+      ],
+      "id": "give-up__16"
+    }
+  ]
+}

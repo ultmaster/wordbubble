@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "[large_1]{large}: [used]{used} on [clothes]{clothes} [label_1]{labels} to show that a [piece_1]{piece} of [clothing]{clothing} is [large_1]{large}",
+      "entry": "L",
+      "id": "l_3#l_3__1"
+    },
+    {
+      "comment": "[used]{used} in [clothing]{clothing} [size_1]{sizes}",
+      "entry": "large",
+      "id": "large#large__4"
+    },
+    {
+      "comment": "[medium_1]{medium}: [used]{used} on [clothes]{clothes} [label_1]{labels}",
+      "entry": "M.",
+      "id": "m_5#m_5__5"
+    },
+    {
+      "comment": "something between [small_1]{small} and [large_1]{large} in [size_1]{size}, [especially]{especially} a [piece_1]{piece} of [clothing]{clothing}",
+      "entry": "medium",
+      "id": "medium_2#medium_2__14"
+    },
+    {
+      "comment": "[outsize]{outsize}",
+      "entry": "OS",
+      "id": "os#os__2"
+    },
+    {
+      "comment": "[small_1]{small}: [used]{used} on [clothes]{clothes} [label_1]{labels}",
+      "entry": "S.",
+      "id": "s_3#s_3__2"
+    },
+    {
+      "comment": "a [clothing]{clothing} [size_1]{size} for a [short_1]{short} [person]{person}, or a [piece_1]{piece} of [clothing]{clothing} in this [size_1]{size}",
+      "entry": "short",
+      "id": "short_3#short_3__4"
+    },
+    {
+      "comment": "[extra_1]{extra} [large_1]{large}: [used]{used} on [label_1]{labels} [showing]{showing} [clothes]{clothes} [size_1]{sizes}",
+      "entry": "XL",
+      "id": "xl#xl__1"
+    }
+  ],
+  "thesaurus": "Clothing sizes",
+  "type": "Related words"
+}

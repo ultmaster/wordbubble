@@ -1,0 +1,22 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "an unspent [conviction]{conviction} is still [valid]{valid}",
+      "examples": [
+        "You must give [detail_1]{details} of all unspent [criminal_1]{criminal} [conviction]{convictions}."
+      ],
+      "id": "unspent__1"
+    },
+    {
+      "def": "unspent [money]{money} is still [available]{available} to be [spent_1]{spent}",
+      "examples": [
+        "There is a [large_1]{large} [pot_1]{pot} of [money]{money} [left_1]{left} over from [existing]{existing}, unspent [federal]{federal} [fund_1]{funds}.",
+        "Most of the [money]{money} will be [left_1]{left} unspent."
+      ],
+      "id": "unspent__3"
+    }
+  ],
+  "word": "unspent"
+}

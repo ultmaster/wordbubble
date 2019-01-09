@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "lose it",
+  "senses": [
+    {
+      "def": "to [start_1]{start} [laugh_1]{laughing} or [crying]{crying} and be [unable]{unable} to [stop_1]{stop}",
+      "examples": [],
+      "id": "lose-it__1"
+    },
+    {
+      "def": "to [suddenly]{suddenly} become [unable]{unable} to [behave]{behave} or [think_1]{think} in a [sensible]{sensible} way",
+      "examples": [
+        "I don\u2019t [know_1]{know} what [happen]{happened} to me, I [just_1]{just} [lost_1]{lost} it."
+      ],
+      "id": "lose-it__2"
+    },
+    {
+      "def": "to [suddenly]{suddenly} become very [angry]{angry}",
+      "examples": [
+        "It seems [amazing]{amazing} that in all these [year]{years} in the [public_1]{public} [eye_1]{eye} she has never [publicly]{publicly} [lost_1]{lost} it."
+      ],
+      "id": "lose-it__4"
+    }
+  ]
+}

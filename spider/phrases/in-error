@@ -1,0 +1,20 @@
+{
+  "part": "phrase",
+  "phrase": "in error",
+  "senses": [
+    {
+      "def": "by [mistake_1]{mistake}, not [deliberately]{deliberately}",
+      "examples": [
+        "The computer had been [turn_1]{turned} off in [error]{error}."
+      ],
+      "id": "in-error__1"
+    },
+    {
+      "def": "[wrong_1]{wrong} in what you [say_1]{say} or have [decided]{decided}",
+      "examples": [
+        "He would not [admit]{admit} he had been in [error]{error}."
+      ],
+      "id": "in-error__3"
+    }
+  ]
+}

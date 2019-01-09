@@ -1,0 +1,25 @@
+{
+  "part": "phrase",
+  "phrase": "call back",
+  "senses": [
+    {
+      "def": "to [telephone_1]{telephone} someone again, or to [telephone_1]{telephone} someone who [telephone_2]{telephoned} you [earlier_1]{earlier}",
+      "examples": [
+        "I\u2019ll call you back when I\u2019ve [heard]{heard} something."
+      ],
+      "id": "call-back__1"
+    },
+    {
+      "def": "to [ask_1]{ask} someone who is [trying]{trying} to get a [job_1]{job}, a part in a [play_1]{play}, etc. to [return_1]{return} for another [interview_1]{interview} or [audition_1]{audition}",
+      "examples": [
+        "They\u2019ve [call_1]{called} him back for a [second_1]{second} [interview_1]{interview}."
+      ],
+      "id": "call-back__3"
+    },
+    {
+      "def": "to go and see someone again, [usually]{usually} for a [short_1]{short} time",
+      "examples": [],
+      "id": "call-back__5"
+    }
+  ]
+}

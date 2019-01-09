@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "comment": "a [woman]{woman} who is [admire]{admired} for [doing]{doing} something very [brave_1]{brave} or [good_1]{good}",
+      "entry": "heroine",
+      "id": "heroine#heroine__3"
+    },
+    {
+      "comment": "someone who has done something [brave_1]{brave}, for [example]{example} [saving_1]{saving} a [person]{person}\u2019s [life]{life} or [risk_2]{risking} their own [life]{life}",
+      "entry": "hero",
+      "id": "hero#hero__1"
+    },
+    {
+      "comment": "someone who enjoys having adventures",
+      "entry": "adventurer",
+      "id": "adventurer#adventurer__1"
+    },
+    {
+      "comment": "a [strong]{strong} man who can [deal_1]{deal} with [difficult]{difficult} or [violent]{violent} [situation]{situations}",
+      "entry": "tough guy",
+      "id": "tough-guy#tough-guy__1"
+    },
+    {
+      "comment": "someone who [does]{does} [dangerous]{dangerous} [thing]{things} for [enjoyment]{enjoyment} and [does]{does} not [worry_1]{worry} about the [risk_1]{risk}",
+      "entry": "daredevil",
+      "id": "daredevil#daredevil__1"
+    },
+    {
+      "comment": "someone who is [strong]{strong} and [brave_1]{brave}, as a man is [traditionally]{traditionally} [expected]{expected} to be",
+      "entry": "man",
+      "id": "man_1#man_1__14"
+    },
+    {
+      "comment": "someone who is ready to take [risk_1]{risks} in [order_1]{order} to be more [successful]{successful}",
+      "entry": "gambler",
+      "id": "gambler#gambler__3"
+    },
+    {
+      "comment": "someone who can [deal_1]{deal} with [difficult]{difficult} or [dangerous]{dangerous} [situation]{situations} without being [afraid]{afraid}",
+      "entry": "badass",
+      "id": "badass_1#badass_1__1"
+    },
+    {
+      "comment": "someone who is [powerful]{powerful}, [impressive]{impressive}, or [brave_1]{brave}",
+      "entry": "lion",
+      "id": "lion#lion__3"
+    }
+  ],
+  "thesaurus": "Someone who is brave and willing to take risks",
+  "type": "Synonyms"
+}

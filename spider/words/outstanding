@@ -1,0 +1,29 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[extremely]{extremely} [good_1]{good} or [impressive]{impressive}",
+      "examples": [
+        "a [visit_1]{visit} to an [area]{area} of outstanding [natural_1]{natural} [beauty_1]{beauty}",
+        "an outstanding [example]{example} of Indian art"
+      ],
+      "id": "outstanding__1"
+    },
+    {
+      "def": "a [job_1]{job} or [action_1]{action} that is outstanding has not yet been [completed]{completed} or [dealt]{dealt} with",
+      "examples": [
+        "Some [task_1]{tasks} are still outstanding.",
+        "[talk_1]{Talks} will [resume_1]{resume} next [month]{month} to [discuss]{discuss} the outstanding [issue_1]{issues}."
+      ],
+      "id": "outstanding__4"
+    },
+    {
+      "def": "an amount of [money]{money} that is outstanding has not yet been [paid_1]{paid}",
+      "examples": [
+        "All your outstanding [debt]{debts} must be [settled]{settled} now."
+      ],
+      "id": "outstanding__7"
+    }
+  ],
+  "word": "outstanding"
+}

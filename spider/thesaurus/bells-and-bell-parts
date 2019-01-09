@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "a [metal_1]{metal} [object_1]{object} [shaped_1]{shaped} [like_1]{like} an [upside_1]{upside} down [cup_1]{cup} that [make_1]{makes} a [noise]{noise} when its sides are hit by a [metal_1]{metal} [piece_1]{piece} [inside_1]{inside} it",
+      "entry": "bell",
+      "id": "bell_1#bell_1__1"
+    },
+    {
+      "comment": "a [piece_1]{piece} of [equipment]{equipment} that [make_1]{makes} a [ringing]{ringing} [sound_1]{sound}, [used]{used} for [get]{getting} someone\u2019s [attention]{attention}",
+      "entry": "bell",
+      "id": "bell_1#bell_1__6"
+    },
+    {
+      "comment": "a [rope_1]{rope} that you [pull_1]{pull} to [make_1]{make} a [bell_1]{bell} ring",
+      "entry": "bell pull",
+      "id": "bell-pull#bell-pull__1"
+    },
+    {
+      "comment": "a [set_1]{set} of [bell_1]{bells} that are [rung_1]{rung} together to [make_1]{make} a [pleasant]{pleasant} [sound_1]{sound}",
+      "entry": "chimes",
+      "id": "chime_2#chime_2__2"
+    },
+    {
+      "comment": "the [small_1]{small} [metal_1]{metal} [object_1]{object} [inside_1]{inside} a [bell_1]{bell} that [hit_1]{hits} against the [bell_1]{bell} to [make_1]{make} it ring",
+      "entry": "clapper",
+      "id": "clapper#clapper__1"
+    },
+    {
+      "comment": "a set of bells used in bell-ringing",
+      "entry": "peal",
+      "id": "peal_1#peal_1__3"
+    },
+    {
+      "comment": "an [act_1]{act} of [making]{making} a [bell_1]{bell} [produce_1]{produce} a [sound_1]{sound}",
+      "entry": "ring",
+      "id": "ring_2#ring_2__15"
+    },
+    {
+      "comment": "someone who rings church bells or hand bells",
+      "entry": "ringer",
+      "id": "ringer#ringer__2"
+    }
+  ],
+  "thesaurus": "Bells and bell parts",
+  "type": "Related words"
+}

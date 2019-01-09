@@ -1,0 +1,21 @@
+{
+  "part": "phrase",
+  "phrase": "go without",
+  "senses": [
+    {
+      "def": "to [live_1]{live} without something that you [need_1]{need} or would [like_1]{like} to have",
+      "examples": [
+        "Three [area]{areas} have [gone_1]{gone} without [water_1]{water} for [day]{days}.",
+        "He went without [sleep_1]{sleeping} for two [day]{days}."
+      ],
+      "id": "go-without__1"
+    },
+    {
+      "def": "to [suffer]{suffer} [extreme_1]{extreme} [poverty]{poverty} or [deprivation]{deprivation}",
+      "examples": [
+        "My [family_1]{family} didn\u2019t have a [great_1]{great} [deal_1]{deal} of [money]{money}, but we didn\u2019t go without."
+      ],
+      "id": "go-without__6"
+    }
+  ]
+}

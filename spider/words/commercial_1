@@ -1,0 +1,32 @@
+{
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[relate]{relating} to [business]{business}",
+      "examples": [
+        "a commercial [transaction]{transaction}",
+        "This [land_1]{land} is [zoned]{zoned} for [residential]{residential} or commercial use.",
+        "commercial [whaling]{whaling}",
+        "One of their first commercial [product]{products} was an [electronic]{electronic} [typewriter]{typewriter}."
+      ],
+      "id": "commercial_1__1"
+    },
+    {
+      "def": "[relate]{relating} to [making]{making} a [profit_1]{profit}",
+      "examples": [
+        "The [movie]{movie}\u2019s commercial [success]{success} made her a [star_1]{star}.",
+        "The [decision_1]{decision} was made on a [purely]{purely} commercial [basis]{basis}.",
+        "Their [music]{music} has become so commercial."
+      ],
+      "id": "commercial_1__8"
+    },
+    {
+      "def": "[making]{making} [money]{money} by [broadcast_1#broadcast_1__6]{broadcasting} [advertisement]{advertisements} [instead]{instead} of being [given_1]{given} [money]{money} by the [government]{government}",
+      "examples": [
+        "[unlike_1]{Unlike} commercial [station_1]{stations}, [public_1]{Public} [television]{Television} [get]{gets} most of its [support_1]{support} from [grant_1]{grants} and [donation]{donations}."
+      ],
+      "id": "commercial_1__13"
+    }
+  ],
+  "word": "commercial"
+}

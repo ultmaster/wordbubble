@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} [affected]{affected} by a [particular_1]{particular} [disease]{disease}",
+      "entry": "morbidity",
+      "id": "morbidity#morbidity__1"
+    },
+    {
+      "comment": "the [state_1]{state} of being [dead_1]{dead}",
+      "entry": "death",
+      "id": "death#death__1"
+    },
+    {
+      "comment": "[death]{death}",
+      "entry": "mortality",
+      "id": "mortality#mortality__4"
+    },
+    {
+      "comment": "the [situation]{situation} you are in when a [close_1]{close} [friend_1]{friend} or [family_1]{family} [member]{member} has [just_1]{just} [die_1]{died}",
+      "entry": "bereavement",
+      "id": "bereavement#bereavement__1"
+    },
+    {
+      "comment": "done or [spoken_1]{spoken} [just_1]{just} before [death]{death}",
+      "entry": "dying",
+      "id": "dying_1#dying_1__3"
+    },
+    {
+      "comment": "the [number_1]{number} of [death]{deaths} in a [particular_1]{particular} [area]{area} in one [year]{year}",
+      "entry": "death rate",
+      "id": "death-rate#death-rate__1"
+    },
+    {
+      "comment": "the [number_1]{number} of [people_1]{people} who are [kill_1]{killed} on a [particular_1]{particular} [occasion_1]{occasion}",
+      "entry": "death toll",
+      "id": "death-toll#death-toll__1"
+    },
+    {
+      "comment": "[uncontrolled]{uncontrolled} [shake_1]{shaking} and [twist_1]{twisting} [movement]{movements} of someone who is [dying_1]{dying} in [pain_1]{pain}",
+      "entry": "death throes",
+      "id": "death-throes#death-throes__2"
+    },
+    {
+      "comment": "the [ability_1]{ability} of a [disease]{disease} or [accident]{accident} to [kill_1]{kill} [people_1]{people}",
+      "entry": "fatality",
+      "id": "fatality#fatality__3"
+    },
+    {
+      "comment": "the [death]{death} of a [person]{person}",
+      "entry": "demise",
+      "id": "demise_1#demise_1__3"
+    },
+    {
+      "comment": "a [person]{person's} [death]{death}",
+      "entry": "decease",
+      "id": "decease#decease__1"
+    }
+  ],
+  "thesaurus": "Death and general words relating to death",
+  "type": "Synonyms"
+}

@@ -1,0 +1,39 @@
+{
+  "part": "phrase",
+  "phrase": "shoot up",
+  "senses": [
+    {
+      "def": "to put an [illegal_1]{illegal} [drug_1]{drug} into your body with a [needle_1]{needle}",
+      "examples": [],
+      "id": "shoot-up__1"
+    },
+    {
+      "def": "to [increase_1]{increase} [quickly]{quickly} by a [large_1]{large} amount",
+      "examples": [
+        "[gasoline]{Gasoline} [price_1]{prices} have [shot_1]{shot} up in the last six [month]{months}."
+      ],
+      "id": "shoot-up__2"
+    },
+    {
+      "def": "to [grow]{grow} [tall]{taller} very [quickly]{quickly}",
+      "examples": [
+        "She\u2019s [shot_1]{shot} up since the last time we [saw_1]{saw} her."
+      ],
+      "id": "shoot-up__4"
+    },
+    {
+      "def": "to [damage_1]{damage} or [destroy]{destroy} something by [shooting]{shooting} [bullet]{bullets} into it",
+      "examples": [
+        "They [shot_1]{shot} up his [car]{car} as a [warning]{warning}."
+      ],
+      "id": "shoot-up__6"
+    },
+    {
+      "def": "to [appear]{appear} [suddenly]{suddenly}",
+      "examples": [
+        "There were fast-food [restaurant]{restaurants} [shooting]{shooting} up all over [town]{town}."
+      ],
+      "id": "shoot-up__8"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "entries": [
+    {
+      "comment": "the [sky_1]{sky} above a [particular_1]{particular} [country]{country} that is [considered]{considered} to [belong]{belong} to that [country]{country}",
+      "entry": "airspace",
+      "id": "airspace#airspace__1"
+    },
+    {
+      "comment": "a part of a [city]{city}, [town]{town}, [country]{country}, etc.",
+      "entry": "area",
+      "id": "area#area__5"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} where there is a [particular_1]{particular} [industry]{industry}, [activity]{activity}, etc.",
+      "entry": "belt",
+      "id": "belt_1#belt_1__6"
+    },
+    {
+      "comment": "an [area]{area} where a [particular_1]{particular} [type_1]{type} of [person]{person} [lives]{lives}",
+      "entry": "belt",
+      "id": "belt_1#belt_1__8"
+    },
+    {
+      "comment": "the [area]{area} [close_1]{close} to the [border_1]{border} between two [country]{countries}",
+      "entry": "the borderland",
+      "id": "the-borderland#the-borderland__1"
+    },
+    {
+      "comment": "the [area]{area} where most of a [country]{country}\u2019s [food]{food} is [produce_1]{produced}",
+      "entry": "breadbasket",
+      "id": "breadbasket#breadbasket__2"
+    },
+    {
+      "comment": "[county]{County}",
+      "entry": "Co.",
+      "id": "co_4#co_4__1"
+    },
+    {
+      "comment": "[used]{used} about an [area]{area} of [land_1]{land} that [belong]{belongs} to one [country]{country} but is [surround_1]{surrounded} by another",
+      "entry": "corridor",
+      "id": "corridor#corridor__8"
+    },
+    {
+      "comment": "an [area]{area} that is [known_1]{known} for a [particular_1]{particular} [product]{product}, [activity]{activity}, [person]{person}, etc.",
+      "entry": "country",
+      "id": "country#country__14"
+    },
+    {
+      "comment": "a [region]{region} that has its own [local_1]{local} [government]{government} in some [country]{countries} such as the U.K. and U.S.",
+      "entry": "county",
+      "id": "county#county__1"
+    },
+    {
+      "comment": "[relate]{relating} to a [county]{county} or its [government]{government}",
+      "entry": "county",
+      "id": "county#county__4"
+    },
+    {
+      "comment": "an [area]{area} of a [town]{town} or [country]{country}",
+      "entry": "district",
+      "id": "district#district__1"
+    },
+    {
+      "comment": "one of the [area]{areas} into which a [town]{town} or [country]{country} is [divided]{divided} for [official_1]{official} [purpose]{purposes}",
+      "entry": "district",
+      "id": "district#district__4"
+    },
+    {
+      "comment": "the [southern]{southern} part of a [state_1]{state}",
+      "entry": "downstate",
+      "id": "downstate_2#downstate_2__1"
+    },
+    {
+      "comment": "an area of land belonging to a duke or duchess",
+      "entry": "duchy",
+      "id": "duchy#duchy__1"
+    },
+    {
+      "comment": "the [area]{area} that a [duke_1]{duke} [own_2]{owns} or [rule_1]{rules} over",
+      "entry": "dukedom",
+      "id": "dukedom#dukedom__1"
+    },
+    {
+      "comment": "the part of a [country]{country}, [region]{region}, or [place_1]{place} that is in the east",
+      "entry": "the east",
+      "id": "east_1#east_1__3"
+    },
+    {
+      "comment": "an [area]{area} of a [country]{country} or [city]{city} where a [particular_1]{particular} [group_1]{group} of [people_1]{people} [live_1]{live}",
+      "entry": "enclave",
+      "id": "enclave#enclave__1"
+    },
+    {
+      "comment": "the [outer_1]{outer} [edge_1]{edge} of a [country]{country} or [area]{area} that is the [farthest_1]{farthest} [point_1]{point} where [people_1]{people} have [start_1]{started} to [live_1]{live} and [build_1]{build} [town]{towns}",
+      "entry": "frontier",
+      "id": "frontier#frontier__5"
+    },
+    {
+      "comment": "the way in which [people_1]{people} or [thing]{things} are [arrange]{arranged} in an [area]{area}",
+      "entry": "geography",
+      "id": "geography#geography__6"
+    },
+    {
+      "comment": "the [central]{central} part of a [country]{country}",
+      "entry": "heartland",
+      "id": "heartland#heartland__1"
+    },
+    {
+      "comment": "a part of a [country]{country} where a [particular_1]{particular} [activity]{activity} or [belief]{belief} is [especially]{especially} [common_1]{common}",
+      "entry": "heartland",
+      "id": "heartland#heartland__2"
+    },
+    {
+      "comment": "the [inner_1]{inner} part of a [country]{country} or [region]{region} that is [farthest_1]{farthest} [away_1]{away} from its [border_1]{borders} or [coast_1]{coasts}",
+      "entry": "interior",
+      "id": "interior_1#interior_1__4"
+    },
+    {
+      "comment": "a [country]{country} or [area]{area} [ruled]{ruled} by a [king]{king} or [queen_1]{queen}",
+      "entry": "kingdom",
+      "id": "kingdom#kingdom__1"
+    },
+    {
+      "comment": "a [country]{country}, or a [region]{region}",
+      "entry": "land",
+      "id": "land_1#land_1__14"
+    },
+    {
+      "comment": "a [particular_1]{particular} part of a [town]{town} or [country]{country}",
+      "entry": "neck of the woods",
+      "id": "neck-of-the-woods#neck-of-the-woods__1"
+    },
+    {
+      "comment": "the part of a [country]{country}, [region]{region}, or [place_1]{place} that is in the [north_1]{north}",
+      "entry": "the north",
+      "id": "north_1#north_1__4"
+    },
+    {
+      "comment": "the [difference]{difference} in [attitude]{attitudes} or [situation]{situation} between [people_1]{people} in the [northern]{northern} and [southern]{southern} [part_1]{parts} of a [country]{country}. In the U.S., the [south_1]{south} is [generally]{generally} more [conservative_1]{conservative} than the [north_1]{north}, while in the U.K. the [north_1]{north} is [generally]{generally} [poor_1]{poorer} than the [south_1]{south}.",
+      "entry": "the North-South Divide",
+      "id": "the-north-south-divide#the-north-south-divide__1"
+    },
+    {
+      "comment": "a [region]{region} of a [country]{country} or [district]{district} of a [city]{city}",
+      "entry": "parts",
+      "id": "part_1#part_1__14"
+    },
+    {
+      "comment": "one of the [district]{districts} into which some [country]{countries} are [divided]{divided}",
+      "entry": "prefecture",
+      "id": "prefecture#prefecture__1"
+    },
+    {
+      "comment": "one of many [area]{areas} into which some [country]{countries} are [divided]{divided}",
+      "entry": "province",
+      "id": "province#province__1"
+    },
+    {
+      "comment": "the [part_1]{parts} of a [country]{country} [outside]{outside} the [capital_1]{capital} [city]{city} or the [large_1]{large} [city]{cities}",
+      "entry": "the provinces",
+      "id": "province#province__6"
+    },
+    {
+      "comment": "a [large_1]{large} [area]{area} of [land_1]{land} whose [politics]{politics}, [geography]{geography}, or [culture_1]{culture} is [different]{different} from other [area]{areas}",
+      "entry": "region",
+      "id": "region#region__1"
+    },
+    {
+      "comment": "the part of a [country]{country} that is [warm_1]{warm} and [near_1]{near} the [sea_1]{sea}, [especially]{especially} the [south_1]{South} of France",
+      "entry": "the Riviera",
+      "id": "the-riviera#the-riviera__1"
+    },
+    {
+      "comment": "the part of a [country]{country} or [place_1]{place} that is in this [direction]{direction}",
+      "entry": "the south",
+      "id": "south_1#south_1__4"
+    },
+    {
+      "comment": "a region of a country that has its own government for some matters. A country that is divided into states is called a federal country",
+      "entry": "state",
+      "id": "state_1#state_1__12"
+    },
+    {
+      "comment": "an [area]{area} of [land_1]{land} [controlled_1]{controlled} by a [particular_1]{particular} [country]{country}, [leader]{leader}, or [army]{army}",
+      "entry": "territory",
+      "id": "territory#territory__1"
+    },
+    {
+      "comment": "an area of land that is officially part of a country but does not have the status of a state or province",
+      "entry": "territory",
+      "id": "territory#territory__4"
+    },
+    {
+      "comment": "an [area]{area} of a [town]{town} or [country]{country} that a [person]{person} or [organization]{organization} is [responsible]{responsible} for, [especially]{especially} as part of their [work_1]{work}",
+      "entry": "territory",
+      "id": "territory#territory__9"
+    },
+    {
+      "comment": "a [trust_1]{trust} [territory]{territory}",
+      "entry": "trusteeship",
+      "id": "trusteeship#trusteeship__3"
+    },
+    {
+      "comment": "an [area]{area} that is [govern]{governed} by a [country]{country} or [country]{countries} [chosen_1]{chosen} by the [united]{United} [nation]{Nations}",
+      "entry": "trust territory",
+      "id": "trust-territory#trust-territory__1"
+    },
+    {
+      "comment": "the part of a [country]{country}, [region]{region}, or [place_1]{place} that is in the [west_1]{west}",
+      "entry": "the west",
+      "id": "west_1#west_1__4"
+    }
+  ],
+  "thesaurus": "Areas of countries",
+  "type": "Related words"
+}

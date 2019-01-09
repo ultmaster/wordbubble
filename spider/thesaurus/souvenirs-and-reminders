@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "comment": "something that [help_1]{helps} you to [remember]{remember} something",
+      "entry": "aide-memoire",
+      "id": "aide-memoire#aide-memoire__1"
+    },
+    {
+      "comment": "something that [remind]{reminds} [people_1]{people} of something",
+      "entry": "a monument to something",
+      "id": "a-monument-to-something#a-monument-to-something__1"
+    },
+    {
+      "comment": "a [small_1]{small} [object_1]{object} that you keep in [order_1]{order} to [remind]{remind} you of someone or something",
+      "entry": "keepsake",
+      "id": "keepsake#keepsake__1"
+    },
+    {
+      "comment": "something that you keep to [remind]{remind} you of a [particular_1]{particular} [person]{person}, [place_1]{place}, or [experience_1]{experience}",
+      "entry": "memento",
+      "id": "memento#memento__1"
+    },
+    {
+      "comment": "something that you [write]{write} down to [remind]{remind} you of something",
+      "entry": "note",
+      "id": "note_1#note_1__6"
+    },
+    {
+      "comment": "something that [remind]{reminds} you of something that [happen]{happened} in the [past_1]{past}",
+      "entry": "reminder",
+      "id": "reminder#reminder__1"
+    },
+    {
+      "comment": "something that [remind]{reminds} someone of another [person]{person}, thing, or [period_1]{period} of time",
+      "entry": "shades",
+      "id": "shade_1#shade_1__15"
+    },
+    {
+      "comment": "something that you [buy_1]{buy} on [vacation_1]{vacation} or at a [special_1]{special} [event]{event} to [remind]{remind} you [later_1]{later} of being there",
+      "entry": "souvenir",
+      "id": "souvenir#souvenir__1"
+    }
+  ],
+  "thesaurus": "Souvenirs and reminders",
+  "type": "Related words"
+}

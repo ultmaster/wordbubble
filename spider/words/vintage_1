@@ -1,0 +1,29 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "vintage [wine_1]{wine} is [excellent]{excellent} in [quality_1]{quality} and was made several [year]{years} [ago]{ago}",
+      "examples": [
+        "vintage [champagne]{champagne}"
+      ],
+      "id": "vintage_1__1"
+    },
+    {
+      "def": "a vintage [object_1]{object} or [vehicle]{vehicle} is [old]{old}, but is [kept]{kept} in [good_1]{good} [condition_1]{condition} because it is [interesting]{interesting} or [attractive]{attractive}",
+      "examples": [
+        "vintage [motorcycle]{motorcycles}/[car]{cars}/[fighter]{fighter} [plane_1]{planes}"
+      ],
+      "id": "vintage_1__3"
+    },
+    {
+      "def": "[showing]{showing} the [best_1]{best} or most [typical]{typical} [quality_1]{qualities} of someone",
+      "examples": [
+        "The I Have a Dream speech was vintage Martin Luther King.",
+        "She [turn_1]{turned} in a vintage [display_1]{display} of [tennis]{tennis} to [win_1]{win} the [title]{title}."
+      ],
+      "id": "vintage_1__5"
+    }
+  ],
+  "word": "vintage"
+}

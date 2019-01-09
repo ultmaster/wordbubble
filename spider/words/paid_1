@@ -1,0 +1,32 @@
+{
+  "boundary": true,
+  "part": "adjective",
+  "senses": [
+    {
+      "def": "[receive]{receiving} [pay_1]{pay} for [work_1]{work} that you do",
+      "examples": [
+        "paid [campaign_1]{campaign} [worker]{workers}",
+        "paid [work_1]{work}"
+      ],
+      "id": "paid_1__1"
+    },
+    {
+      "def": "[used]{used} for [describe]{describing} a [period_1]{period} of time when you are [given_1]{given} [pay_1]{pay} by the [place_1]{place} where you [work_1]{work} although you are not at [work_1]{work}",
+      "examples": [
+        "a paid [vacation_1]{vacation}",
+        "paid [sick_1]{sick} [leave_1]{leave}",
+        "[employee]{Employees} were [allow]{allowed} to take paid time off for [volunteer_1]{volunteer} [work_1]{work}."
+      ],
+      "id": "paid_1__5"
+    },
+    {
+      "def": "[earn]{earning} a [particular_1]{particular} amount of [money]{money}",
+      "examples": [
+        "one of the highest-paid [player]{players} in the NFL",
+        "a [poorly]{poorly} paid [clerk_1]{clerk}"
+      ],
+      "id": "paid_1__9"
+    }
+  ],
+  "word": "paid"
+}

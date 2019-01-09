@@ -1,0 +1,28 @@
+{
+  "part": "phrase",
+  "phrase": "bear down",
+  "senses": [
+    {
+      "def": "to [try_1]{try} very [hard_1]{hard}",
+      "examples": [
+        "We [need_1]{need} to [bear_1]{bear} down if we [want_1]{want} to [make_1]{make} this [work_1]{work}."
+      ],
+      "id": "bear-down__1"
+    },
+    {
+      "def": "to move [quickly]{quickly} toward someone in a [determined]{determined} and [threatening]{threatening} way",
+      "examples": [
+        "I could see a [police_1]{police} [car]{car} [bearing]{bearing} down on us."
+      ],
+      "id": "bear-down__3"
+    },
+    {
+      "def": "to [push_1]{push} or [press_1]{press} [downward_1]{downward}",
+      "examples": [
+        "It\u2019s a [natural_1]{natural} [instinct]{instinct} for a [woman]{woman} [give_1]{giving} [birth]{birth} to [bear_1]{bear} down.",
+        "The [structure_1]{structure} is [position_2]{positioned} to [bear_1]{bear} down on its [support_1]{supports}."
+      ],
+      "id": "bear-down__5"
+    }
+  ]
+}

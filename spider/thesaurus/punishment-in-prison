@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "comment": "if a [criminal_1]{criminal} is [given_1]{given} [concurrent]{concurrent} [sentence_1]{sentences}, the [period_1]{period} of time [spent_1]{spent} in [prison]{prison} [correspond]{corresponds} to the [long_1]{longest} of those [sentence_1]{sentences}",
+      "entry": "concurrent sentence",
+      "id": "concurrent-sentence#concurrent-sentence__1"
+    },
+    {
+      "comment": "a [situation]{situation} in which someone is [forced]{forced} to [stay_1]{stay} in a [place_1]{place}, [especially]{especially} a [prison]{prison}, and not [allow]{allowed} to [leave_1]{leave}",
+      "entry": "confinement",
+      "id": "confinement#confinement__1"
+    },
+    {
+      "comment": "if a [criminal_1]{criminal} is [given_1]{given} [consecutive]{consecutive} [sentence_1]{sentences}, the [period_1]{period} of time [spent_1]{spent} in [prison]{prison} [equal_2]{equals} all the [sentence_1]{sentences} [added]{added} together",
+      "entry": "consecutive sentence",
+      "id": "consecutive-sentence#consecutive-sentence__1"
+    },
+    {
+      "comment": "[relate]{relating} to [prison]{prisons} and [prisoner]{prisoners}",
+      "entry": "correctional",
+      "id": "correctional#correctional__1"
+    },
+    {
+      "comment": "the [practice_1]{practice} of [unlawful#unlawful__4]{unlawfully} [moving]{moving} [prisoner]{prisoners} from one [country]{country} to another where [legal]{legal} [protection]{protections} are less [strong]{strong}, often so that they can be [question_2]{questioned} [use_1]{using} [harsh_1]{harsh} [method]{methods} to [make_1]{make} them give [information]{information}",
+      "entry": "extraordinary rendition",
+      "id": "extraordinary-rendition#extraordinary-rendition__1"
+    },
+    {
+      "comment": "very [hard_1]{hard} [physical_1]{physical} [work_1]{work} that some [people_1]{people} have to do when they are in [prison]{prison} as a [punishment]{punishment}",
+      "entry": "hard labor",
+      "id": "hard-labor#hard-labor__1"
+    },
+    {
+      "comment": "the punishment of being put into prison. The punishment of life imprisonment means that someone will be kept in prison for many years, possibly until they die",
+      "entry": "imprisonment",
+      "id": "imprisonment#imprisonment__1"
+    },
+    {
+      "comment": "the [situation]{situation} of being in [prison]{prison}, or of being in a [place_1]{place} or [situation]{situation} that you cannot [escape_1]{escape} from",
+      "entry": "imprisonment",
+      "id": "imprisonment#imprisonment__4"
+    },
+    {
+      "comment": "the [act_1]{act} of [put]{putting} someone in a [prison]{prison} without [officially]{officially} [accusing]{accusing} them of a [crime_1]{crime}, [especially]{especially} when this is done for [political]{political} [reason_1]{reasons}",
+      "entry": "internment",
+      "id": "internment#internment__1"
+    },
+    {
+      "comment": "[life]{life} [imprisonment]{imprisonment}",
+      "entry": "life",
+      "id": "life#life__45"
+    },
+    {
+      "comment": "a [punishment]{punishment} in which someone is [sent]{sent} to [prison]{prison} for the rest of their [life]{life}",
+      "entry": "life imprisonment",
+      "id": "life-imprisonment#life-imprisonment__1"
+    },
+    {
+      "comment": "a [punishment]{punishment} in which someone is [sent]{sent} to [prison]{prison} for the rest of their [life]{life}",
+      "entry": "life sentence",
+      "id": "life-sentence#life-sentence__1"
+    },
+    {
+      "comment": "the [punishment]{punishment} of being [kept]{kept} in [prison]{prison} and [forced]{forced} to do [hard_1]{hard} [labor_1]{labor}",
+      "entry": "penal servitude",
+      "id": "penal-servitude#penal-servitude__1"
+    },
+    {
+      "comment": "the system of [keeping]{keeping} [people_1]{people} in [prison]{prisons} as a [punishment]{punishment}",
+      "entry": "prison",
+      "id": "prison#prison__5"
+    },
+    {
+      "comment": "the [experience_1]{experience} of being in [prison]{prison}",
+      "entry": "prison",
+      "id": "prison#prison__6"
+    },
+    {
+      "comment": "[involve]{involving} [prison]{prison}, or [relate]{relating} to [prison]{prison}",
+      "entry": "prison",
+      "id": "prison#prison__8"
+    },
+    {
+      "comment": "[extraordinary]{extraordinary} [rendition]{rendition}",
+      "entry": "rendition",
+      "id": "rendition#rendition__2"
+    },
+    {
+      "comment": "a [punishment]{punishment} [given_1]{given} by a [judge_1]{judge}, [usually]{usually} [involve]{involving} a [period_1]{period} of time that a [person]{person} must [spend]{spend} in [prison]{prison}",
+      "entry": "sentence",
+      "id": "sentence_1#sentence_1__2"
+    },
+    {
+      "comment": "[solitary_1]{solitary} [confinement]{confinement}",
+      "entry": "solitary",
+      "id": "solitary_2#solitary_2__1"
+    },
+    {
+      "comment": "a [punishment]{punishment} in which a [prisoner]{prisoner} is [kept]{kept} alone, [separate_1]{separate} from other [prisoner]{prisoners}",
+      "entry": "solitary confinement",
+      "id": "solitary-confinement#solitary-confinement__1"
+    },
+    {
+      "comment": "the [minimum_1]{minimum} [term_1]{term} a [convicted]{convicted} [person]{person} must [spend]{spend} in [prison]{prison}",
+      "entry": "tariff",
+      "id": "tariff#tariff__2"
+    },
+    {
+      "comment": "in the [past_1]{past}, the [process_1]{process} of [moving]{moving} a [prisoner]{prisoner} to a [different]{different} [place_1]{place} or [country]{country}, [especially]{especially} as a [punishment]{punishment}",
+      "entry": "transportation",
+      "id": "transportation#transportation__9"
+    }
+  ],
+  "thesaurus": "Punishment in prison",
+  "type": "Related words"
+}
